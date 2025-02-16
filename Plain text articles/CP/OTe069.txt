@@ -1,0 +1,484 @@
+PDF generado por Redalyc a partir de XML-JATS4R
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+Idas y vueltas de una mirada: impresiones 
+del gaucho Martín Fierro en la exhibición de 
+Los treinta y tres de Juan Manuel Blanes
+ARTÍCULO / ARTICLE
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios de Teoría y Crítica Literaria
+Juan Albín *
+* Universidad de Buenos Aires, Argentina.
+Cita sugerida: Albín, J. (2018). Idas y vueltas de una mirada: impresiones del gaucho Martín Fierro en la exhibición 
+de Los treinta y tres de Juan Manuel Blanes. Orbis Tertius, 23 (27), e069. https://doi.org/10.24215/18517811e069
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+1
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+Idas y vueltas de una mirada: impresiones del gaucho Martín Fierro en la exhibición
+de Los treinta y tres de Juan Manuel Blanes
+Juan Albín
+Universidad de Buenos Aires, Argentina
+Resumen:
+En la “Carta que el gaucho Martín Fierro dirige a su amigo D. Juan Manuel Blanes con motivo de su cuadro Los treinta y
+tres” (1878), José Hernández hace volver a Martín Fierro –un año antes de que publique la Vuelta– desde tierra de indios hacia la
+ciudad para ver una exposición de Blanes y comentarla. Esa carta puede leerse como un comentario crítico sobre la obra de Blanes
+y su exposición, en la serie de otros que se publicaron en la prensa porteña; también, como una producción que parte de la obra de
+Blanes pero la desarrolla productivamente, la sitúa en otro contexto –el de la literatura gauchesca– y la interpreta, versionándola.
+Palabras clave: Literatura gauchesca - Pintura histórica  - Transposición  - Ekphrasis  - Crítica artística.
+Abstract:
+In the “Carta que el gaucho Martín Fierro dirige a su amigo D. Juan Manuel Blanes con motivo de su cuadro Los treinta y
+tres” (1878), José Hernández brings back Martín Fierro –a year before his Vuelta is published– from indian land and into the city
+to look at and comment on an exhibition of works by the artist Juan Manuel Blanes. is letter may be interpreted as a critical
+commentary on Blanes’ work, in line with other commentaries published in the city’s press; and also, as a literary production that
+draws from Blanes’ work but at the same time develops it productively, thus placing it in a diﬀerent context –that of gauchesca
+literature– as well as interpreting and creating a new version of it.
+Keywords: Gauchesca literature - Historical Painting  - Transposition  - Ekphrasis  - Artistic Criticism.
+Blanes y Hernández: de la pintura de historia a la poesía gauchesca
+En 1878 Juan Manuel Blanes expone exitosamente su cuadro Juramento de los Treinta y Tres Orientales
+(Figura 1) en Montevideo y habiendo logrado un éxito considerable el mismo año lo trae a Buenos Aires,
+donde se exhibe en el salón de los altos de la casa Fusoni y Maveroﬀ. También en Buenos Aires la obra
+tiene una recepción muy efectiva y elogiosa: a la inauguración asiste el presidente Nicolás Avellaneda y desde
+entonces se suceden un discurso de Luis V. Varela, elogios de Carlos Tejedor y Domingo F. Sarmiento, según
+informa Ribera (1985: 335). Me interesa, en esa serie de repercusiones textuales, una en particular. José
+Hernández escribe entonces un poema titulado “Carta que el gaucho Martín Fierro dirige a su amigo D. Juan
+Manuel Blanes con motivo de su cuadro Los treinta y tres”, 1  texto en que Hernández hace que el gaucho
+Martín Fierro entre a ver la exposición de Blanes y comente el cuadro.
+¿Por qué ese recorte? ¿Por qué Blanes y Hernández? Me interesa pensar y estudiar las relaciones entre
+la palabra y la imagen en el siglo XIX, y para ello Hernández y Blanes se revelan muy productivos. Por un
+lado, Blanes es un artista cuyas exhibiciones –según ha mostrado Laura Malosetti Costa en su estudio sobre
+la recepción de Un episodio de la ﬁebre amarilla (2007: 70)– dan que hablar: la exhibición de sus cuadros
+hace que en la prensa se escriba abundantemente, y se escriba sobre arte (sobre la luz, el claroscuro, el color
+y la composición) en un campo cultural en que ello no es frecuente. Su producción pictórica, entonces,
+provoca textos, escritura, comentarios críticos. Por otro lado, Hernández ha mostrado como escritor un
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+2
+interés particular en la imagen visual, y ello se deja ver en La vuelta de Martín Fierro, cuya edición en 1879
+Hernández acompaña con grabados de Clerice, mostrándose especialmente preocupado por la articulación
+entre palabra e imagen.
+¿Y por qué abordar especíﬁcamente el Juramento de los treinta y tres orientales de Blanes y el texto de
+Hernández que lo comenta? Precisamente, porque me permite plantear el problema de la articulación entre
+imagen y escritura de un modo que no es el más habitual. Si por lo general se ha tendido a pensar que la imagen
+vendría a ilustrar lo que se encontraría previamente en un texto, en cambio a mí me interesa problematizar
+esa concepción un poco esquemática, y para ello pensar los modos complejos en que no solo la literatura
+hizo producir imágenes, sino también los modos en que la pintura hizo producir literatura. En este sentido,
+el Juramento de los treinta y tres produce literatura: hace que Hernández, hacia 1878 (un año antes de que
+publique La vuelta de Martín Fierro), haga volver a Martín Fierro desde Tierra Adentro hacia la ciudad para
+ver un cuadro de Blanes en el salón de la casa Fusoni y Maveroﬀ y comentarlo. Y desde ya es signiﬁcativa la
+forma del texto de Hernández: se trata de 33 sextinas. 2  La obra de Blanes funciona en ese sentido como un
+disparador productivo que decide, desde el inicio, una suerte de matriz formal para el texto.
+Tanto en Montevideo como en Buenos Aires la exhibición del cuadro de Blanes se dio como un espectáculo
+que excedió lo meramente visual. En Montevideo, por ejemplo, la exhibición contó con coronas y ramos de
+ﬂores que se depositaban al pie del cuadro, pastillas aromáticas que se encendían junto a él, poemas que se
+leían oralmente para exaltar la “gloria inmortal” de la escena representada, textos escritos en prosa y en verso
+que se dejaban como mensajes en el salón. 3   La exhibición por tanto no fue únicamente un acontecimiento
+visual, sino que apuntaba a estimular de modo múltiple los sentidos. En Buenos Aires sucedió algo parecido
+con la exhibición del cuadro de Los treinta y tres. Algunos diarios porteños (como La Tribuna y El Nacional)
+anuncian en repetidas ocasiones diversos conciertos musicales en la misma sala en donde se exhibe el cuadro.
+El Nacional, por ejemplo, anuncia el 24 de julio de 1878, en un artículo titulado “Exposición de cuadros”, la
+apertura de la exposición informando que “las bandas de música tocarán el Himno Argentino y Oriental, y se
+leerán varias composiciones literarias”. Nuevamente, entonces: en la exhibición conﬂuyen imágenes, música
+y literatura. 4
+Pero no solo se declaman poemas en el espacio de exhibición del cuadro en Montevideo y en Buenos Aires.
+También esos poemas se publican, en ocasiones, por la prensa. Es el caso del poema que escribe para la ocasión
+Pedro Bernat, poeta español: poema titulado signiﬁcativamente “El cuadro-poema”, publicado en El Siglo de
+Montevideo y recogido luego por La Tribuna de Buenos Aires el 12 de enero de 1878. Texto que juega desde
+su título hasta tal extremo con los cruces entre los códigos de la pintura y la poesía que es difícil saber a qué
+se reﬁere: si al poema o al cuadro, o a ambos. Esos cruces entre códigos diversos también son notorios en el
+poema que José Hernández escribe en la misma ocasión.
+Este poema –propongo– puede leerse como un comentario crítico sobre la obra de Blanes y su exposición,
+en la serie de otros que se publicaron en la prensa porteña; también, como una producción que parte de
+la obra de Blanes, pero la desarrolla productivamente, la sitúa en otros contextos (los de la gauchesca y
+de la propia textualidad de Martín Fierro) y por tanto la interpreta: en ese sentido, la versiona. ¿Cómo la
+completa? ¿Cómo la versiona? Precisamente, al describir e interpretar la imagen traspasándola 5  al código de
+la gauchesca: si el código de la literatura gauchesca consiste de modo sintético en una escritura que se escribe
+como si estuviera hablando un gaucho, lo que hace permanentemente el poema de Hernández con el cuadro
+de Blanes es no solo describir las ﬁguras representadas visualmente sino darles asimismo una voz gaucha. 6
+La proclama de Lavalleja, en el mismo gesto de levantar y mostrar la bandera de los juramentados, se vuelve
+así una proclama gaucha: “‘ande quiera / que ﬂamé se ha de triunfar, / vengo resuelto a peliar / y que me
+siga el que quiera.’” (Hernández 2014: 102). Ekphrasis en su sentido restringido (en tanto género poético
+menor dedicado a la representación y al comentario verbal de obras de arte visuales), esta ekphrasisgauchesca
+recurre a los dos procedimientos básicos del género: describe la obra de arte pero también hace hablar (le
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+3
+da una voz) a ese objeto mudo. 7  Por ello no llama la atención que, en esa dirección, tanto Ricardo Rojas
+como Tulio Halperín Donghi hayan detectado los dos procedimientos básicos del poema: describir las ﬁguras
+(su apariencia externa, sus ropas y sus armas, su pose, su gesto, su expresión), por un lado; interpretar su
+interioridad, dotándolas de una voz, por otro. 8  En efecto, por esos dos procedimientos (pero sobre todo por
+el segundo: el dotar a esas ﬁguras de una voz), el poema versiona el cuadro a la gauchesca.
+El crítico como artista
+“¿Pero es la crítica realmente un arte creativo?”, pregunta Ernest en El crítico como artista (1891) de Oscar
+Wilde. Gilbert responde: “¿Por qué no debería serlo? Ella trabaja con materiales, y les da una forma que es a
+la vez nueva y placentera. ¿Qué más uno puede decir acerca de la poesía?” (Wilde, 1952: 966, la traducción es
+mía). Así, según lo que se plantea en este diálogo de Wilde, la crítica de una obra de arte es o debería ser, ella
+misma, una obra de arte. Eso es lo que me interesa plantear en el análisis del poema de Hernández sobre el
+cuadro de Blanes. El poema podría ser considerado, en primer lugar, como un comentario crítico. ¿Qué es lo
+que capta la atención de nuestro particular crítico? ¿A qué se dirige su mirada y cómo se mueve por el cuadro?
+La exposición: Martín Fierro en el salón
+En principio, Martín Fierro no solo repara en el cuadro, sino en el mismo acontecimiento de su exhibición.
+Hay, en efecto, una serie de estrofas en el poema de Hernández que prestan especial atención a algunos
+aspectos de la exhibición. Así, la tercera y la cuarta estrofa centran su atención en la entrada de Fierro a la
+exposición y, centralmente, en el pago de la entrada:
+Y aunque me llame atrevido
+que á la luna le ladro,
+como ese bicho taladro
+que no puede estarse quieto
+en todas partes me meto
+y me metí á ver su cuadro.
+Por supuesto, los diez pesos
+los largué como el mejor,
+pues no soy regatiador,
+y ya dentré a ver después
+los famosos Treinta y tres,
+¡ah, cuadro que dá calor! (2014: 99-100)
+Dos comentarios sobre estas dos estrofas. En primer lugar, hay que notar el modo en que Fierro narra cómo
+se “mete”a ver el cuadro y percibir su sensación de incomodidad: sensación de estar fuera de lugar, sensación
+del que se ha “atrevido” a entrar en un lugar al que no debe entrar, sensación del que se siente “bicho” fuera
+de lugar. Metido, colado en una exposición. Pero enseguida aclara: “por supuesto, los diez pesos, / los largué
+como el mejor”. Fierro ha pagado y solo entonces entra a ver los famosos Treinta y tres. El énfasis en la entrada
+y su precio hace percibir el aspecto económico de todo espectáculo –incluso los de las bellas artes– y Fierro
+retomará el tema al ﬁnal del poema, cuando ya esté concluyendo: luego de explicar que no va a meter a los
+treinta y tres orientales en su “coplada” para no cansar, conﬁesa lo siguiente: “Yo le saqué los diez pesos /
+al cuadro, tanto mirarlo” (2014: 106). Los diez pesos han valido la pena: no solo de tanto mirar el cuadro
+se ha recuperado el costo de la entrada, sino que la visión del cuadro ha terminado siendo una inversión y
+ha engendrado ganancias: esto es, el mismo poema, la misma “coplada” que estamos leyendo en la carta de
+Fierro. 9
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+4
+La entrada, tanto en su aspecto espacial-cultural como en su carácter económico, no es lo único que llama la
+atención de Fierro en la exposición. En la sexta estrofa se puede leer lo siguiente: “Encima han acomodao / un
+sol que valdrá un tesoro: / Lo habrán puesto, no lo inoro / como en el naipe español; / porque habrán dicho
+esos toros: / ‘a todos alumbra el sol’” (2014: 100). Aunque la estrofa es de difícil interpretación (no termina
+de decidirse si Fierro se reﬁere a la luz –“el sol”– que ilumina artiﬁcialmente el cuadro o a la luz misma que
+el artista le ha dado a su cuadro al representar una escena de amanecer), me inclino por la primera opción (la
+luz artiﬁcial que ilumina el cuadro en la exhibición), porque el poema busca insertarse de ese modo en una
+especial tradición dentro de la literatura gauchesca.
+En efecto, al trabajar estos tópicos (la entrada –económica y espacial– al salón y su iluminación) el poema
+se inserta desde el inicio en una vertiente interna de la gauchesca que se remonta a Bartolomé Hidalgo y
+se consuma en Estanislao del Campo: la de los poemas gauchescos que narraban la visita del gaucho a la
+ciudad y a sus espectáculos. Quizás aquí habría que remontarse no únicamente al     Fausto (1866) de del
+Campo, cuyo subtítulo es Impresiones del gaucho Anastasio el Pollo en la representación de esta ópera, sino más
+especíﬁcamente a ese esbozo previo al Fausto que fue la “Carta de Anastasio el Pollo sobre el Beneﬁcio de la
+Sra. La Grúa” (1857), otra carta gauchesca –como la que Fierro le envía a Blanes– en que se pueden encontrar
+los dos tópicos que Hernández reelabora: la entrada al espacio cultural (que hay que pagar); la iluminación
+artiﬁcial (ante la cual el gaucho queda fascinado, percibiéndola o comparándola con el sol). Otros dos aspectos
+del poema de Hernández lo vinculan con esa vertiente de la gauchesca de la que programática y críticamente
+se había distanciado en la “Carta a Zoilo Miguens” que prologa la Ida. 10  Por un lado, el ilusionismo inicial
+del que parece objeto la mirada de Fierro: en principio se queda “azorao” frente a la “comitiva” representada
+en el cuadro y dice lo siguiente: “La miré de abajo arriba / pero, ¡que el diablo me lleve!, / si parece que se
+mueve / lo mesmo que cosa viva” (2014: 100). Por otro lado, ese ilusionismo lleva a Fierro a identiﬁcarse
+con los personajes representados e incluso al deseo de intervenir en la escena, metiéndose en el cuadro: “Y
+esa gente tan dispuesta / Que su país va a libertar, / no se les puede mirar / sin cobrarles aﬁción… / ¡Hasta
+quisiera el mirón / poderles acompañar!” (2014: 100). Todo ello –proponemos– sitúa esta composición de
+Hernández en una vertiente de la gauchesca cercana a la del Fausto de Estanislao del Campo. 11
+Ludmer (2000) ha propuesto que esa vertiente interna dentro del género gauchesco ha tendido a una
+progresiva modernización, despolitización y autonomización del género. Así, de las ﬁestas cívicas por el 25 de
+Mayo y sus espectáculos (representados en la “Relación que hace el gaucho Ramón Contreras a Jacinto Chano
+de todo lo que vio en las Fiestas Mayas de Buenos Aires, en el año 1822” de Hidalgo) se pasa a la representación
+de la ópera Fausto en el teatro Colón, a partir de la cual se escribe el Fausto de Del Campo: desplazamiento que
+se duplica –de modo metafórico– en el desplazamiento de la crónica civil a la crónica cultural y ﬁnalmente
+teatral (Ludmer 2000: 204-205). Se podría decir entonces que la “Carta…” de Hernández da un paso más en
+esa trayectoria: de la crónica teatral u operística se pasa ahora a una suerte de crítica artística. 12  Y sin embargo
+Hernández le da una nueva vuelta a esta vertiente del género: la obra que el gaucho Martín Fierro contempla
+y comenta representa un acontecimiento central para la historia política del Uruguay y por tanto reinstala lo
+político en el centro del poema de Hernández.
+El cuadro: los treinta y tres por Martín Fierro
+Así, luego de una serie de comentarios sobre algunos aspectos de la exposición (la entrada al salón y su
+iluminación), Fierro realiza también un comentario muy preciso sobre algunas de las ﬁguras representadas en
+el cuadro. Es interesante observar en qué ﬁguras se detiene Fierro y cuáles captan su mirada: graﬁcar y pensar,
+por tanto, las derivas y los desvíos de la mirada de Fierro.
+Francisco de Mendoza, en un texto publicado hacia 1870 y titulado Manual del pintor de historia, texto
+que puede servir para detectar algunas convenciones cristalizadas de este género pictórico, recomendaba
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+5
+colocar a las ﬁguras, los personajes o los héroes principales en el centro del cuadro, para que el espectador
+“sin querer ﬁje en ellos su atención” (Mendoza 1870: 33). 13  Esa recomendación buscaba reglamentar tanto
+la producción como la recepción del cuadro: por medio de una reglamentación de la composición, buscaba
+dirigir la atención del futuro receptor. Pero si bien en un primer momento la mirada de Fierro se va a dirigir
+al centro del cuadro y a su ﬁgura central y privilegiada (la de Lavalleja), en seguida se va a desviar para dirigirse
+a los márgenes del cuadro. Las estrofas octava, novena y décima ponen el foco en el centro del cuadro y en su
+ﬁgura principal, pero lo hacen de un modo particular:
+Para mí más conocida
+es la gente subalterna;
+mas se ve que quien gobierna
+o lleva la direción,
+es un viejo petisón
+que está allí abierto de piernas.
+Tira el sombrero y el poncho,
+y levanta su bandera
+como diciendo: “ande quiera
+que ﬂamé se ha de triunfar,
+vengo resuelto a peliar
+y que me siga el que quiera.”
+Le está saliendo a los ojos
+el fuego que el pecho encierra,
+y señalando a la tierra
+parece que va á decir:
+“Hay que triunfar ó morir,
+muchachos, en esta guerra.” (2014: 100-102)
+Varias observaciones sobre estas estrofas. En primer lugar, la identiﬁcación y el reconocimiento de Fierro,
+como en un espejo, con ciertos personajes: “Para mí más conocida / es la gente subalterna.” Esa palabra,
+“subalterna”, me interesa especialmente, porque allí la mirada de Fierro recupera críticamente algo que podía
+observarse en el cuadro de Blanes. Si la pintura de historia tal como Blanes la practica construye mitos
+fundacionales de la comunidad nacional (ver Peluﬀo Linari 2002) y para ello construye y representa alianzas
+en función de un enemigo común (jefes y soldados, letrados y gauchos, argentinos y orientales, todos unidos
+en función del enemigo común: los portugueses), no deja de hacer visibles de todos modos las diferencias
+articuladas en la alianza. 14  Así, lo que Martín Fierro percibe en el cuadro es subordinación: jefes y subalternos:
+es decir, diferencias, una comunidad dividida. Y se identiﬁca, de entrada, con la “gente subalterna”, al mismo
+tiempo que convierte al héroe idealizado de este mito fundacional –en una línea decididamente cómica y
+picaresca que La vuelta del Martín Fierro va a potenciar– en un “viejo petizón” y “abierto de piernas”. Las
+proporciones de ese cuerpo heroico y su misma pose, que según las recomendaciones del manual de Francisco
+de Mendoza deberían idealizarse en una pintura de historia (1870: 28), son percibidas de modo invertido por
+la mirada de Martín Fierro. Así, su mirada degrada al Lavalleja de Blanes en sus proporciones (lo hace petizo)
+y en su pose (lo ve demasiado abierto de piernas), y así corroe de un modo humorístico la ﬁgura del héroe.
+Si en las primeras estrofas del poema Fierro se ocupa de la ﬁgura central, en seguida desvía su mirada hacia
+los márgenes del cuadro. El movimiento de esta mirada crítica va del centro a los márgenes: de la ﬁgura que
+representa a Lavalleja a aquella ﬁgura que sostiene una “crucesita”, de la ﬁgura central del cuadro a este detalle
+ínﬁmo que llama la atención de Fierro y que sacraliza la escena del juramento patriótico desde el margen.
+15  A continuación Fierro se detiene en el grupo de ﬁguras del que forma parte la ﬁgura de la crucecita (a la
+izquierda del cuadro): en primer lugar, la ﬁgura de un criollo con poncho, bota ﬁna y “garabina”; en segundo
+lugar, una ﬁgura en camiseta, muy arremangada, que parece “soldao”, según la mirada de Fierro, pero se ve que
+en un tiempo pasado fue un “desalmao”. 16  La rima yuxtapone de modo brusco dos elementos que a Fierro
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+6
+le interesan especialmente en estas ﬁguras: ﬁguras que están en los márgenes, las de los meros soldados, pero
+también las de los “soldaos” 17  que en tiempos pasados han sido “desalmaos”: es decir, ﬁguras que si hoy están
+bajo la ley de la comunidad ayer estaban sustraídas a ella.
+Otras dos ﬁguras concretas captan especialmente la atención de Fierro, atraída por la valentía de esos
+cuerpos representados en el cuadro: en primer lugar, la del gaucho arrodillado en el centro, que funciona
+como contrapunto de la ﬁgura erguida de Lavalleja; en segundo lugar, la de un gaucho con el que Fierro se
+identiﬁca ya de modo más pleno: “Pero entre tanto valiente / dende lejos se divisa / el que en mangas de
+camisa / se hace notar el primero. / Un gaucho más verdadero / no he visto ni en los de Urquiza” (2014:
+104). Gaucho verdadero, gaucho valiente, gaucho como los de antes, gaucho como los de Urquiza: gaucho
+con el que Fierro podrá identiﬁcarse plenamente y cuya valentía se acerca a lo temerario: este otro gaucho
+–como el anterior, arrodillado– parece también dispuesto a la pelea e incluso “Muestra ser, por la ﬁgura, /
+sin asco para matar” (2014: 105). La mirada de Fierro se ha ido desplazando de la izquierda a la derecha y
+ahora se posa en la ﬁgura de este gaucho, que ocupa un lugar privilegiado en la economía interna del poema:
+si a Lavalleja le dedicaba tres sextinas, a esta ﬁgura Fierro le dedicará cinco sextinas, describiendo con mucha
+precisión sus prendas gauchas y sus armas: gaucho en mangas de camisa, con espuelas y botas de potro,
+medio escaso el chiripá, manea, dragona, trabuco. La atención exhaustiva que Fierro le dedica a esta ﬁgura
+y a sus prendas parece haber sido proporcional al trabajo que Blanes puso en su construcción: se conservan
+numerosos bocetos en que Blanes trabaja y ensaya una y otra vez sobre la ﬁgura de este gaucho: ese trabajo da
+su resultado y retiene la mirada de Fierro. Si respecto de la anterior ﬁgura –la del gaucho arrodillado– había
+gusto (“no deja de gustarme”, decía Fierro), ahora hay una más plena identiﬁcación: así como Fierro se viste
+con sus mejores prendas gauchas antes de marchar hacia la frontera en El gaucho Martín Fierro, 18  el gaucho
+del cuadro de Blanes tampoco ha descuidado sus prendas para ir a la guerra: “En el amor y en la guerra, / en
+todo habrá sido igual; / tiene en trance tan formal, / el enemigo en contorno; / pero no olvidó el adorno /
+de cola de pavo-rial” (2014: 104).
+Fierro dirigirá su mirada ﬁnalmente a otros dos elementos o detalles del cuadro. Así, la mirada de Fierro
+vuelve a pasar de la derecha a la izquierda del cuadro y se dirige a un detalle ínﬁmo que condensa nuevamente
+su manera de mirar. Mirada impresionista, que se desvía y deriva de un lado al otro, la mirada de Fierro no deja
+de ser crítica: crítica impresionista, podría decirse, así como las impresiones del gaucho Anastasio el Pollo en el
+Fausto de Estanislao del Campo no son impresiones ingenuas sino críticas tanto de la ópera como del espacio
+social en que se representa (Anderson Imbert 1968; Schvartzman 2013). Porque, ¿a qué le presta ﬁnalmente
+su atención Fierro? En primer lugar, la mirada de Fierro se posa en uno de los conjuntos de prendas y armas
+que Blanes representa arrojados en la arena y lo primero que piensa al respecto es signiﬁcativo: “alguno se ha
+hecho avestruz”, es decir, alguno o algunos han desertado. 19   Esa reﬂexión conduce su mirada a otro detalle
+del cuadro: Fierro repara ahora en los que, en efecto, huyen: “A la distancia se llevan / el bote los marineros, /
+los mesmos que los trujeron / se retiran apurados” (2014: 106). Es evidente que Fierro quiere interpretar ese
+detalle en una dirección determinada. Porque esa barca y el gesto de esos “marineros” podrían interpretarse
+tanto en movimiento de retirada como en movimiento de llegada, pero Fierro preﬁere verlos huyendo: es
+decir, desertando. En estas pequeñas opciones interpretativas su mirada se revela como mirada crítica… Y aquí
+Martín Fierro termina haciendo, insospechadamente, a seis años de la publicación de El gaucho Martín Fierro
+y a un año de la publicación de La vuelta de Martín Fierro, una defensa de la leva, es decir, del reclutamiento
+forzado: “Yo los hubiera agarrao, / a los que el bote se llevan; / justo es que a todo se atreva / el hombre que
+hace la guerra; / cuanto pisaron en tierra / debió principiar la leva”. Mirada impresionista, mirada atenta
+a los detalles más mínimos y marginales del cuadro, como el de esas ﬁguras de los que huyen en la barca,
+no deja de ser crítica y señalar algo que se encuentra en la tela de Blanes pero que la recepción (y tal vez la
+compra) oﬁcial del cuadro por el gobierno uruguayo neutralizó o recubrió: el orden compositivo del cuadro
+–el modo en que organiza y ordena los grupos de ﬁguras– no sólo exhibe en términos simbólicos alianzas sino
+también jerarquías. 20  Y aun proclamando “la leva” (palabra por lo demás ausente en el poema de 1872, que
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+7
+opta –para mentar ese mundo político y militar que destruye la vida del gaucho– por un léxico ruralizante),
+eso ve aún Fierro en 1878: jerarquía, subordinación, diferencias. Entre los pretendidamente épicos treinta
+y tres orientales de Blanes Martín Fierro percibe contrastes y distorsiones: jefes y subordinados, desalmados
+devenidos patriotas, desertores.
+Mirada a la vez impresionista y distorsiva en su atención a los detalles marginales, la de Martín Fierro
+en la “Carta…” es parte de una serie más amplia. La literatura gauchesca mostró un particular interés
+por los espectáculos y las imágenes: 21   en esa serie, el hecho artístico siempre fue objeto de una mirada
+corrosiva, atenta tanto a la representación como a su marco. Mirada distorsiva y corrosiva, hemos dicho:
+bufa, ha propuesto Leónidas Lamborghini, que pensó la gauchesca como un arte bufo que permanentemente
+devolvió al sistema y al poder, multiplicadas paródicamente, sus propias distorsiones (Lamborghini: 2003).
+Así, si las publicaciones gauchescas se interesaron muy temprana y sostenidamente por las imágenes para
+ilustrar sus impresos, los textos del género frecuentemente también transpusieron y comentaron crítica y
+corrosivamente imágenes artísticas. En esa particular serie de ekphrasis gauchescas, el poema de Hernández
+señala un momento culminante en lo que toca al interés del género por las imágenes, se inscribe en la serie
+de los poemas gauchescos que narraban el viaje del gaucho a la ciudad y su participación en los espectáculos
+urbanos, y vuelve a plantear de manera compleja –como lo había hecho también, de otros modos, el Fausto–
+las relaciones entre arte, literatura y política.
+Figura 1: Juan Manuel Blanes: Juramento de los Treinta y Tres Orientales (1875-1878)
+Óleo sobre tela. 311 x 564 cm. Museo de Bellas Artes Juan Manuel Blanes, Montevideo, Uruguay.
+Museo de Bellas Artes Juan Manuel Blanes
+BIBLIOGRAFÍA
+Amigo, Roberto (2002). “Región y Nación. Juan Manuel Blanes en la Argentina”, en Juan Manuel Blanes. La Nación
+naciente (1830-1901), Montevideo, Museo Municipal de Bellas Artes Juan Manuel Blanes.
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+8
+Anderson Imbert, Enrique (1968). Análisis de “Fausto”, Buenos Aires, Centro Editor de América Latina.
+Bernat, Pedro A. (1878). “El cuadro-poema”, en La Tribuna, Buenos Aires, 12 de enero.
+Campo, Estanislao del (1989). “Carta de Anastasio el Pollo sobre el Beneﬁcio de la Sra. La Grúa”, en Fausto. Su
+preﬁguración periodística, Ángel J. Battistessa (ed.), Buenos Aires, Academia Argentina de Letras.
+Gamboni, Dario (2007). “La crítica de arte en la encrucijada de las representaciones”, en Gabriela Siracusano (ed.), Las
+tretas de lo visible. Buenos Aires, Centro Argentino de Investigadores de Arte.
+Genette, Gerard (1989). “Transposición”, en Palimpsestos. La literatura en segundo grado, Madrid, Taurus.
+Halperín Donghi, Tulio (1985). “Nacimiento y metamorfosis de Martín Fierro”, en José Hernández y sus mundos,
+Buenos Aires, Editorial Sudamericana.
+Hernández, José (2001). Martín Fierro, Élida Lois y Ángel Núñez (eds.), Madrid, ALLCA XX / Colección Archivos.
+Hernández, José (2014). “Carta que el gaucho Martín Fierro dirige a su amigo D. Juan Manuel Blanes con motivo de
+su cuadro Los treinta y tres”, en Obra periodística. Periodismo Gauchipolítico. La Reforma Pacíﬁca. El Nacional
+Argentino. El Litoral, Segunda edición ampliada, Ángel Núñez (ed.), Buenos Aires, Editorial Docencia.
+Hidalgo, Bartolomé (1940). “Diálogo entre Jacinto Chano, capataz de una estancia en las islas del Tordillo, y el gaucho
+de la Guardia del Monte”, en Eleuterio F. Tiscornia (ed.), Poetas gauchescos. Hidalgo, Ascasubi, Del Campo,
+Buenos Aires, Losada.
+Lamborghini, Leónidas (2003). “El gauchesco como arte bufo”, en Julio Schvartzman (dir. del volumen), La lucha de
+los lenguajes, volumen II de Noé Jitrik (dir. de la obra), Historia crítica de la literatura argentina, Buenos Aires,
+Emecé.
+Ludmer, Joseﬁna (2000). “En el paraíso del inﬁerno. El Fausto argentino. Un pastiche de crítica literaria”, en El género
+gauchesco. Un tratado sobre la patria, Buenos Aires, Libros Perﬁl.
+Malosetti Costa, Laura (2007) “La hora de Blanes”, en Los primeros modernos. Arte y sociedad en Buenos Aires a ﬁnes
+del siglo XIX, Buenos Aires, Fondo de Cultura Económica.
+Mendoza, Francisco de (1870). Manual del pintor de historia, o sea recopilación de las principales reglas, máximas y
+preceptos para los que se dedican a ésta profesión, Madrid, Imprenta de T. Fortanet.
+Mitchell, W. J. T. (1994). “Ekphrasis and the Other”, en Picture eory, Chicago, e University of Chicago Press.
+Peluﬀo Linari, Gabriel (2002). “Los íconos de la nación. El proyecto histórico-museográﬁco de Juan Manuel Blanes”,
+en Juan Manuel Blanes. La Nación naciente (1830-1901), Montevideo, Museo Municipal de Bellas Artes Juan
+Manuel Blanes.
+Peluﬀo Linari, Gabriel (2009). Historia de la Pintura Uruguaya. Tomo I. El imaginario nacional-regional (1830-1930):
+De Blanes a Figari, Montevideo, Ediciones de la Banda Oriental.
+Ribera, Adolfo Luis (1985). “La pintura”, en Historia General del Arte en la Argentina, Tomo III, Buenos Aires,
+Academia Nacional de Bellas Artes.
+Rojas, Ricardo (1937). Otros versos de Martín Fierro. Publicaciones del Instituto de Literatura Argentina, Sección de
+Crítica, Tomo I, N° 10, Buenos Aires, Imprenta de la Universidad.
+Salterain y Herrera, Eduardo de (1950). Blanes. El hombre, su obra y la época, Montevideo, Impresora Uruguaya.
+Schvartzman, Julio (1996). “El gaucho letrado”, en Microcrítica. Lecturas argentinas (cuestiones de detalle), Buenos
+Aires, Biblos.
+Schvartzman, Julio (2013). Letras gauchas, Buenos Aires, Eterna Cadencia.
+Steimberg, Oscar (1993). “Libro y transposición” y “El pasaje a los medios de los géneros populares”, en Semiótica de
+los medios masivos, Buenos Aires, Atuel.
+Wilde, Oscar (1952). “e Critic as Artist”, en The Works of Oscar Wilde, London, Collins.
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+9
+Notas
+1 Trabajo con la edición del poema publicada por Ángel Núñez en José Hernández (2014: 99-106), que incluye asimismo
+la reproducción facsimilar de la hoja suelta del diario La Nación de Montevideo del 20 de agosto de 1878, en la que se
+publica el texto por primera vez. Conservo, asimismo, la ortografía de esa edición. A partir de aquí llamaré “Carta…”
+al texto de Hernández.
+2 No podemos dejar de pasar la oportunidad para indicar un dato curioso, en esta serie numérica: cuando Hernández
+publique La vuelta de Martín Fierro en 1879, entonces el poema tendrá 33 cantos.
+3 Esta reconstrucción de la exhibición concreta del cuadro de Blanes en su propio taller en Montevideo puede leerse
+en la biografía que sobre Blanes escribe Eduardo de Salterain y Herrera, basándose en crónicas de la época sobre sus
+exposiciones. Ver Salterain y Herrera (1950: 165).
+4 ¡Y hasta fragancias! La Tribuna, por ejemplo, en un artículo titulado “La exposición de cuadros”, anuncia el domingo
+28 de julio de 1878 que “los billetes de ingreso a la exposición se venderán envueltos en ramitos de fragante violeta”.
+5 Lo que se encuentra en esa operación, sin dudas, es la práctica de la transposición según la pensó Steimberg (1993). Si
+bien Genette (1989) le daba al concepto un sentido más restringido, Steimberg lo amplió de manera productiva: no se
+trataría solo de la transformación de un texto en otro, sino que permitiría pensar la transformación, reconﬁguración y
+actualización de un objeto artístico en su pasaje a otros medios y a otros lenguajes: de la literatura, entonces, a la pintura,
+la ilustración, la historieta o el cine, o viceversa (Steimberg 1993: 87-88). Los procedimientos de transformación que
+implica toda transposición son numerosos; algunos de los más importantes son la reducción, la inﬂación, el achatamiento
+o la matización. En ese sentido, para Steimberg la ilustración podría pensarse –como cualquier otra transposición de
+un texto– como una lectura del texto, como su actualización y resigniﬁcación, y esta suele recorrer alguno de los dos
+caminos que son también habituales en la crítica: en primer lugar, la transposición puede conﬁrmar ciertos estereotipos
+de lectura, cierta lectura sedimentada, reproducida y naturalizada de la época, atenta sobre todo al tema o al asunto,
+los núcleos centrales del relato y el desenlace; en segundo lugar, puede desplegar sentidos que estaban ocultos en las
+lecturas sociales del texto transpuesto, atenta ahora a los niveles diferenciados y complejos del texto, no solo temáticos
+sino también retóricos (Steimberg 1993: 90-91).
+6 Julio Schvartzman, en “El gaucho letrado” (1996), sintetiza el artefacto y la fórmula del género gauchesco en “la frase
+con la que hacia 1870 Lucio V. Mansilla, que a veces hacía gauchesca en prosa, presenta la historia del paisano Miguelito,
+en Una excursión a los indios ranqueles: ‘Hablaré como él habló’”. Esa fórmula casi perfecta del género que se encuentra
+como una gema en Mansilla debería ser reformulada –para Schvartzman– del siguiente modo: escribiré como él habló.
+Schvartzman ha retomado recientemente esas hipótesis sobre las relaciones entre la escritura de Mansilla y el género
+gauchesco en Letras gauchas (2013).
+7 Para la noción de ekphrasis ver Mitchell (1994).
+8 Rojas, en el prólogo con que acompaña la publicación del poema que hizo en 1937, propone que en su edición “no se
+reproduce el cuadro de Blanes como simple ornato del folleto, sino como necesario complemento del poema, por ser
+éste una animada descripción de las ﬁguras de aquel, a la vez que una interpretación de las mismas.” y que “su descripción
+desentraña el espíritu del grupo heroico y hace hablar a cada personaje, completando así la obra del pintor con la del
+poeta” (1937: 340 y 342, las cursivas son mías). Halperín Donghi, asimismo, en la breve reﬂexión que dedica a este
+poema en José Hernández y sus mundos, ha reparado en ese doble procedimiento del texto: “el núcleo de esta composición
+relativamente extensa (33 sextinas) lo constituye una sucesión de concisos retratos físicos de la gente ‘subalterna’ incluida
+en el lienzo y una reconstrucción de su personalidad a partir de los rasgos de aquéllos” (1985: 301, las cursivas son mías).
+9 El verso “¡ah cuadro que da calor” merece un comentario aparte. Resuena, por detrás, algún verso de Bartolomé Hidalgo
+y tal vez de algún otro gauchesco: “Ah! Pingo, que da calor!”, se lee en el cuarto verso de uno de los diálogos de
+Hidalgo, el “Diálogo entre Jacinto Chano, capataz de una estancia en las islas del Tordillo, y el gaucho de la Guardia
+del Monte” (Hidalgo, 1940). Pero en Hernández la admiración del gaucho por el caballo o pingo se ha transformado en
+admiración y calor por un cuadro, una pintura: ¡arte!
+10 Recordemos los términos en que, en dos oportunidades al menos, Hernández se distanciaba de esa tradición de
+representación y construcción de la voz y la ﬁgura del gaucho: “Quizás la empresa habría sido para mí más fácil y de
+mejor éxito, si sólo me hubiera propuesto hacer reír a costa de su ignorancia, como se halla autorizado por el uso, en
+este género de composiciones”; “Por lo demás, espero, mi amigo, que Ud. lo juzgará con benignidad, siquiera sea porque
+Martín Fierro no va de la ciudad a referir a sus compañeros lo que ha visto y admirado en un 25 de Mayo u otra función
+semejante, referencias algunas de las cuales, como el Fausto y varias otras, son de mucho mérito ciertamente, sino que
+cuenta sus trabajos, sus desgracias, los azares de su vida de gaucho, y Ud. no desconoce que el asunto es más difícil de lo
+que muchos se imaginarán” (Hernández, 2001: 5-6).
+11 Tal vez no sea vano explicitar de nuevo que el poema de Hernández parece relacionarse más estrechamente con la “Carta
+de Anastasio el Pollo sobre el Beneﬁcio de la Sra. La Grúa”, donde el gaucho Anastasio parece ser víctima del ilusionismo
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+10
+de la representación y no parece ser consciente de ella, y no tanto –en este aspecto– con el Fausto, donde el gaucho se
+muestra, en su relato de lo visto en la ópera, no sólo muy consciente de los artiﬁcios del teatro, señalando todo el tiempo
+cuándo se levanta y cuándo se baja el telón, sino también como un sujeto que puede separarse de la representación y de
+la ceremonia teatral para mostrarse incluso irónico respecto de ella.
+12 Hay que señalar, de todos modos, que durante el siglo XIX la crítica de arte tiene una incipiente y relativa autonomía
+y que su práctica es por lo general realizada por los mismos escritores que se dedican a la crítica operística, teatral y/o
+literaria y también a otros géneros usuales en la prensa del siglo XIX. El género discursivo de la crítica artística por otro
+lado no se termina de perﬁlar en el siglo XIX y aún incluye un conjunto muy heterogéneo de tipos, formas y expresiones
+textuales. Dario Gamboni ha mostrado cómo esa autonomía relativa se va consolidando recién hacia ﬁnes del siglo XIX,
+en Europa: si durante buena parte del siglo la crítica de arte se ejerce en un vaivén entre tres polos diferenciados pero
+porosos (el polo “literario”, el polo “cientíﬁco” y el polo “periodístico”), sobre todo en las últimas décadas del siglo –y
+debido tanto a la expansión creciente de la prensa como a la modernización del campo artístico, a sus nuevos mecanismos
+de difusión y consagración de las obras, en relación ya estrecha con el mercado– “la crítica de arte experimentó un
+proceso de profesionalización en el que el polo periodístico cobró preponderancia, el cientíﬁco se especializó en ‘historia
+del arte’, ocupándose, en principio, del arte del pasado, y el literario fue marginado como ‘pura literatura’” (Gamboni
+2007: 200). En el Río de la Plata, en la década de 1870, en un contexto en que la autonomía del campo artístico no es
+sino muy incipiente y aun más lo es su relación con el mercado, es muy esperable entonces que la crítica artística siga
+compartiendo ciertos procedimientos con la crítica teatral y la crítica literaria (más usuales en la prensa de la época) y
+tienda a no reparar aún, ante todo, en cualidades plásticas. Aún más, digamos, el “polo literario” en términos de Gamboni,
+y cierto impresionismo como base para los juicios, parecen atravesar la mayoría de las formas de la crítica en ese momento
+concreto de nuestra historia. Todo ello nos permite pensar el poema de Hernández como una forma particular de la
+crítica artística tal como se realiza en nuestro siglo XIX. Y, a la vez, en el sentido de El crítico como artista de Oscar Wilde,
+como una forma en la que se propone que la crítica de una obra de arte puede ser, ella misma, una obra de arte.
+13 Si bien las “reglas, máximas y preceptos” que se cristalizan en el manual de Francisco de Mendoza (1870) nos sirven para
+pensar algunas cuestiones en torno al cuadro de Blanes y su recepción por Martín Fierro, la problemática especíﬁca del
+género de pintura de historia en el caso de Blanes debe estudiarse ante todo en función de su formación en la academia
+de Ciseri en Florencia: Ciseri, en efecto, se ha especializado en la pintura histórica y Blanes se forma en esa escuela. Aun
+así, el manual de Francisco de Mendoza es productivo para pensar en términos de los modos de ver que signan la época
+y caracterizan las prácticas tanto del pintor como del poeta, así como de los espectadores de la pintura y de los lectores
+del poema.
+14 Guerra, alianza, enemigos, aliados son precisamente –para Joseﬁna Ludmer– algunas de las palabras claves del género
+gauchesco; pero son también términos que sirven para pensar el modo en que Blanes concibe la pintura de historia.
+Así, si bien los géneros son muy diferentes, implican códigos diversos y ocupan lugares diferentes en el sistema literario
+y artístico del siglo XIX, se espejan y se proyectan de todos modos uno en el otro, encontrando una serie común de
+problemas.
+15 “Y animando aquella gente / que a lidiar se precipita / mientras se mueve y agita / oyendolo hablar al viejo, / hay uno
+que dende lejos / le muestra una crucesita” (2014: 102).
+16 “El otro de camiseta, / ya deja ver que es soldao; / está muy arremangao / como hombre resuelto á todo, / se le conoce
+en el modo / que ha sido algún desalmao” (2014: 102).
+17 “Soldaos” para Fierro quizá no implica un genérico que agrupe a todas las ﬁguras, sino que designa precisamente a los
+subordinados: es decir, aquellos que no son ni comandantes, ni mayores, ni tenientes, ni sargentos, ni cabos: soldados,
+es decir, la escala más baja en la jerarquía militar
+18 Así, en la Ida se lee lo siguiente: “Yo llevé un moro de número / sobresaliente el matucho! / Con él gané en Ayacucho /
+más plata que agua bendita- / Siempre el gaucho necesita / Un pingo pa ﬁarle un pucho. // Y cargué sin dar más gueltas /
+con las prendas que tenía, / jergas, ponchos, cuanto había / en casa, tuito lo alcé- / A mi china la dejé / medio desnuda
+ese día. // No me faltaba una guasca, / esa ocasión eché el resto; / bozal, maniador, cabresto, / lazo, bolas y manea… / ¡El
+que hoy tan pobre me vea / tal vez no crea todo esto!!” (Hernández 2001: 116-117).
+19 “La garabina y el sable / que están tirados allí, / pensé yo al verlos así: / o alguno se ha hecho avestruz / o son de aquel
+de la cruz, / que los ha dejao allí.”
+20 Si para Francisco de Mendoza (1870) el ordenamiento de los grupos de ﬁguras es clave a la hora de la composición, habría
+que señalar que ese ordenamiento no es nada azaroso en el cuadro de Blanes. Así, basándonos en los cargos militares que
+según Ricardo Rojas (1937) tendrían los diversos personajes representados (de los que circulan listas de nombres con
+variaciones), el ordenamiento de los grupos se muestra como un ordenamiento fuertemente jerárquico: en el centro los
+jefes; al margen, fundamentalmente, los soldados. La mirada de Fierro va, en ese sentido, del centro a los márgenes: del
+jefe a la gente subalterna. De las nueve o diez ﬁguras a las que Martín Fierro presta atención, solo dos no serían meros
+soldados.
+Orbis Tertius, vol. XXIII, nº 27, e069, junio 2018. ISSN 1851-7811
+11
+21 Ello podría verse en una serie que va desde la “Relación que hace el gaucho Ramón Contreras a Jacinto Chano de todo lo
+que vio en las Fiestas Mayas de Buenos Aires, en el año 1822” de Bartolomé Hidalgo al Fausto de Estanislao del Campo;
+también desde el periódico Aniceto el Gallo, en cuyo nº 3 Ascasubi discute en lengua gauchesca la interpretación de las
+ﬁguras alegóricas representadas en las estampas que adornaron la pirámide de Mayo durante las ﬁestas mayas de 1853, a
+la “Carta…” que Hernández publica en 1878 comentando el cuadro de Blanes o al “Cantalicio Quirós y Miterio Castro
+en un baile del Club Uruguay” (1883) de Lussich, en que un gaucho le narra al otro su visión particular de un concierto
+musical y un baile de la alta sociedad en el Club Uruguay de Montevideo.

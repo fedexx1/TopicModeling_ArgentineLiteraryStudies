@@ -1,0 +1,424 @@
+PDF generado a partir de XML-JATS4R
+Orbis Tertius
+ISSN: 1851-7811
+publicaciones@fahce.unlp.edu.ar
+Universidad Nacional de La Plata
+Argentina
+“¿Qué decir de los dolores de
+entonces, veinte años después?":
+la correspondencia de Dominguito
+en la Guerra del Paraguay leída por
+Sarmiento en Vida de Dominguito
+Segade, Lara
+“¿Qué decir de los dolores de entonces, veinte años después?": la correspondencia de Dominguito en la
+Guerra del Paraguay leída por Sarmiento en Vida de Dominguito
+Orbis Tertius, vol. 25, núm. 31, 2020
+Universidad Nacional de La Plata, Argentina
+DOI: https://doi.org/10.24215/18517811e145
+Atribución no comercial compartir igual (CC BY-NC-SA) 4.0
+Orbis Tertius, 2020, 25(31), Junio-Noviembre, ISSN: 1851-7811
+PDF generado a partir de XML-JATS4R
+Artículos
+“¿Qué decir de los dolores de entonces, veinte años después?": la correspondencia
+de Dominguito en la Guerra del Paraguay leída por Sarmiento en Vida de
+Dominguito
+“What to Say about the Pains Felt en, Twenty Years Later?": Dominguito’s Correspondence in the Paraguay War
+Read by Sarmiento in Vida de Dominguito
+Lara Segade
+Universidad de Buenos Aires, Argentina
+larasegade@gmail.com
+DOI: https://doi.org/10.24215/18517811e145
+Recepción: 31 Julio 2019
+Aprobación: 13 Abril 2020
+Recepción: 31 Julio 2019
+Aprobación: 13 Abril 2020
+Resumen:
+En Vida de Dominguito (1886), Domingo Faustino Sarmiento cuenta la biografía de su hijo adoptivo, Domingo Fidel Sarmiento,
+muerto veinte años antes en la Guerra del Paraguay. Con el objeto de reconstruir la vida y la muerte del joven, recurre a las voces
+de quienes lo conocieron así como a algunos textos escritos por el propio Dominguito. El resultado es una suerte de collage en el
+que las distintas versiones por momentos se contradicen. En este trabajo me propongo partir de allí para reﬂexionar en torno a
+las contradicciones que entraña la misma conﬁguración de una ﬁgura heroica, es decir, la construcción de un relato de aquellos
+que dan su vida por la patria.
+Palabras clave: Guerra del Paraguay, Domingo Sarmiento, Dominguito Sarmiento, Héroe, Víctima.
+Abstract:
+In Vida de Dominguito (1886), Domingo Faustino Sarmiento narrates a biography of his adopted son, Domingo Fidel Sarmiento,
+who had died twenty years earlier in the Paraguay War. In order to reconstruct the young man’s life and death, he resorts to the
+voices of those who knew him as well as to some texts written by Dominguito himself. e result is a kind of collage in which
+the diﬀerent versions at times contradict each other. In this paper, I propose that starting point to reﬂect on the contradictions
+involved in a heroic ﬁgure’s conﬁguration: that is, constructing a story of those who give their lives for the country.
+Keywords: Paraguay War, Domingo Sarmiento, Dominguito Sarmiento, Hero, Victim.
+En 1886 Sarmiento se decide, por ﬁn, a escribir Vida de Dominguito, un proyecto que venía concibiendo desde
+hacía veinte años, desde el momento mismo en que se enteró de la muerte, en la batalla de Curupaytí, de su
+hijo adoptivo Domingo Fidel Sarmiento.1 Según cuenta en la Introducción, existían ya algunos apuntes, pero
+no estaban en orden. Es por eso que unos meses antes no pudo suministrar la información que le pidieron de
+La ilustración argentina,2 con el objeto de incorporarla a la galería de guerreros de la campaña del Paraguay
+que se iría publicando a lo largo del año, vigésimo aniversario de una de las derrotas más dramáticas para la
+alianza conformada por Brasil, Argentina y Uruguay contra Paraguay.3
+Sin embargo, aunque Sarmiento no llega a poner en orden ni a completar sus papeles para la publicación
+de La Ilustración Argentina, de algún modo, Vida de Dominguito es resultado de esa publicación. No tanto
+del texto, "una brevísima aunque encomiástica y verídica noticia", según el propio Sarmiento, como de la
+imagen que lo acompaña, "un retrato sacado de una fotografía poco parecida del capitán Domingo Fidel
+Sarmiento" (1886, p. 1). Como señala Nicolás Suárez en su detallado análisis de la cuestión de las imágenes
+asociadas a Vida de Dominguito, se trata de una expresión ambigua, que puede remitir tanto a la falta de
+Lara Segade. “¿Qué decir de los dolores de entonces, veinte años después?": la correspondencia de ...
+PDF generado a partir de XML-JATS4R
+belleza como de ﬁdelidad respecto del original. Sarmiento, dice Suárez, escribe esta biografía "para reparar
+esta doble falta" (2016, p. 13).
+La fotografía en la que se basa el retrato publicado data de 1863, aunque según colige Suárez, es probable
+que su autor, Victor Tison, no haya tenido acceso directo a esa fotografía, sino a otro retrato, una litografía
+que Henri Meyer realizó en 1866 para el obituario de Dominguito publicado en Correo del Domingo poco
+después de su muerte, basándose él sí en la fotografía del 63.
+La fotografía original, entonces, fue tomada en 1863, cuando Sarmiento vio por última vez a Dominguito,
+que en aquel momento tenía diecisiete años. Su primera copia, a manos de Meyer, fue realizada en 1866,
+año de la muerte de Dominguito, de veintiuno, en el marco de un obituario. La segunda copia, la de Tison,
+incluida en la galería de héroes, data de 1886 y se basa en las dos anteriores, sobre las que opera una serie
+de modiﬁcaciones que son las que llevan a Sarmiento a encarar, veinte años después, la tarea de escribir la
+Vida de Dominguito. Queda claro, pues, desde un principio, que Sarmiento se propone construir una imagen
+de su hijo que sea más parecida al original pero también mejor parecida, es decir, mejor, y corregir, así, los
+sucesivos desvíos que se fueron produciendo de una imagen a otra: los sucesivos alejamientos de la imagen que
+Sarmiento recuerda. Se propone, en otras palabras, conectar, a través de la escritura, aquello que recuerda con
+lo que quiere que sea recordado. En efecto, perpetuar la memoria de su hijo es uno de los objetivos declarados
+de Sarmiento –conservar "para otras generaciones el nombre del capitán Domingo Fidel Sarmiento" (1886,
+p. 6)– y, para lograrlo, nada mejor que la escritura, puesto que, como dice, "el deleznable papiro dura más
+que el duro bronce" (1886, p. 6).
+Los capítulos dedicados a la infancia y la adolescencia son para Sarmiento fáciles de escribir, en tanto los
+episodios que allí se narran constituyen recuerdos propios. Como ha señalado, entre otros, Nicolás Rosa
+(2004), la biografía de Dominguito es al mismo tiempo una autobiografía de Sarmiento. Sin embargo, lo que
+pasó a partir de 1863 y, en especial, a partir de 1865, que es aquello por lo que, según se espera, Dominguito
+será recordado, Sarmiento no puede recordarlo, porque no estuvo ahí. Es en ese punto que la biografía se
+despega de la autobiografía y Sarmiento debe recurrir a las palabras de los otros para llenar las páginas en
+blanco. En primer lugar, a las del propio Dominguito que, con una carta fechada el 28 de junio de 1865 da
+comienzo a una fecunda correspondencia con su madre, a la que se suman una serie de crónicas que envió a
+diversos periódicos, a veces en forma anónima o con seudónimo.
+De todos estos textos se vale Sarmiento, citando textualmente fragmentos algunas veces bastante extensos,
+para intentar dar cuenta de ese período más bien breve (poco más de un año) pero fundamental, en el que su
+hijo marchó a la guerra y murió como soldado, ese período en el que adquirió un rostro para él desconocido
+o, por lo menos, difícil de reconocer.
+En la Introducción, Sarmiento cita las palabras que pronunció Santiago Estrada frente a los restos de
+Dominguito, recién trasladados a Buenos Aires: "Su dramática existencia no consta sino de un acto, porque
+no ha habido intermedio entre el niño y el hombre, entre su aurora y su crepúsculo" (1886, p. 1). La frase, que
+desde luego hace alusión a la brevedad de una vida para cuya representación alcanzaría apenas un acto –idea
+que sin embargo el propio libro de Sarmiento parece refutar en su acumulación de páginas–, tiene además,
+prospectivamente, una reminiscencia borgeana: la vida de Dominguito consta de un solo acto, de "un solo
+momento", ese "en que el hombre sabe para siempre quién es".4
+Ese solo momento, ese único acto en que se cifra un destino, es para Dominguito la guerra, y, más
+especíﬁcamente, la muerte en la guerra, lo cual representa un problema para Sarmiento, que no conoce ese
+rostro ni esa cifra, y que no alcanza a imaginárselos siquiera:
+Con los años aquella movible ﬁsonomía del púber de diez y siete años debió tomar los lineamientos del hombre adulto, hasta
+el retrato del Capitán con su pelo cortado a la mal content, pero la imagen grabada en la memoria paterna era suave, la del
+tierno, la del alegre niño apenas adolescente que vió en San Juan; y cada vez que el dolor quería presentarle la imagen del
+Capitán muerto en el campo de batalla, acaso mal o intempestivamente asistido por el escaso cuerpo médico, presentábasele
+Orbis Tertius, 2020, 25(31), Junio-Noviembre, ISSN: 1851-7811
+PDF generado a partir de XML-JATS4R
+la cara sonriente del festivo galán, echando hacia atrás por un movimiento de brioso corcel la espesa melena de cabellos que
+con el agacharse a fuerza de reir quería venírsele sobre los ojos (Sarmiento, 1886, p. 58).
+Es en ese momento, ante esa imagen, que Sarmiento se plantea la pregunta que da título a este trabajo:
+"¿Qué decir de los dolores de entonces veinte años después?". ¿Qué decir de esos dolores que se empeñan en
+presentarle, una y otra vez, la siniestra imagen del soldado muerto con el rostro del chico sonriente? Podría
+pensarse que justamente todo el decir –no solo propio– de este libro constituye un intento por remedar esa
+imagen impuesta por el dolor, por corregirla, y conocer el verdadero rostro que su hijo adquirió como soldado
+y, sobre todo, como soldado caído en combate. Sarmiento no desconoce, sin embargo, la posibilidad de que
+ese rostro le genere rechazo; que, enmarcado en ese pelo cortado "a la mal content" que vino a reemplazar la
+espesa melena de cabellos, le resulte "poco parecido".
+Así que Sarmiento se lanza a la reconstrucción de la vida y la muerte de Dominguito, en búsqueda de algo
+digno de ser recordado, pero sabiendo que las posibilidades están abiertas. Es por eso que, aunque por un lado
+es innegable la presencia también en este texto de esa voluntad de control que llevó a Sylvia Molloy (2012) a
+llamar a Sarmiento control eak y a María Moreno (2011) a hablar de un padre omnipotente que espera que
+nada escape a su dirección, también hay algo, que el propio Sarmiento habilita, que debilita ese control: me
+reﬁero a las voces de otros que, desde el comienzo, conﬂuyen en el texto con la voz de Sarmiento. Ya en la
+Introducción, tras la explicación de las razones que lo llevaron a escribir, Sarmiento incorpora algunas de las
+leyendas inscriptas en las coronas fúnebres enviadas a su hijo por Nicolás Avellaneda, Héctor Varela, Santiago
+Estrada, entre otros. Casi todos aluden a la brevedad de la vida de Dominguito, es decir, a su juventud.
+Siguen los capítulos en los que el propio Sarmiento da cuenta de la infancia y primera juventud de un
+Dominguito caracterizado como niño tan precoz en su aprendizaje como lo será en su partida, pero también
+como un chico travieso, desobediente –y algo de esta desobediencia aparecerá asimismo en la muerte, como
+veremos–. En el Capítulo VI Sarmiento hace su voz a un lado y deja nuevamente la palabra a Santiago Estrada
+para que narre la vida universitaria de su amigo Dominguito. Sin embargo, Estrada no demorará en desviarse
+del pedido para adentrarse en lo que él mismo había llamado "el crepúsculo" que, en ese "único acto" que
+constituye y deﬁne la vida de Dominguito, coincide con la aurora. Y es que, en efecto, según cuenta Estrada no
+hay separación entre el Dominguito estudiante y el soldado. Durante la campaña, siguió comunicándose con
+sus amigos y profesores. Escribió además cartas en las que puede seguirse una crónica y una crítica de la guerra.
+Pero sobre todo, en cuanto descubrió que la campaña no sería ni fácil ni rápida como había creído, lo que
+hizo fue dedicarse a estudiar el arte de la guerra, para lo cual solicitó que le enviaran materiales. La sustitución
+del hombre de letras por el soldado se opera en forma imperceptible. Dice Estrada: "El sentimiento del deber
+había entibiado al poeta, como poco después mató al hombre. Ni el amor, ni las súplicas de una madre, que
+parecía adivinar su ﬁn, le detuvieron en el camino del sacriﬁcio" (Sarmiento, 1886, p. 47). Llega así Estrada
+al punto central: el de la muerte de Dominguito, que deﬁnirá en términos de "deber" y "sacriﬁcio", es decir,
+como una muerte por la patria que es también una muerte heroica. Un poco más adelante dará una versión
+sobre la escena de la muerte que es la misma que propondrá Sarmiento y que contribuye a conﬁgurar esta
+imagen de Dominguito: "Hirióle un soldado anónimo en el punto en que penetró a Aquiles la ﬂecha de Paris,
+y murió desangrado como el héroe griego" (Sarmiento, 1886, p. 47). La heroicidad, en el texto de Estrada, es
+compacta: hay, en Dominguito, voluntad de sacriﬁcio por la patria, un sentido del deber que está por encima
+de todo y que es lo que primero lo aleja del joven estudiante que era y luego lo lleva hacia su ﬁn. La forma de ese
+ﬁn de algún modo conﬁrma el camino que condujo a él. Se trata del destino heroico de Dominguito, porque
+como dice Alejandra Laera (2008), el verdadero héroe, más que el que pierde la vida, es el que la ofrenda.
+En el capítulo siguiente, titulado "El capitán", retoma la palabra Sarmiento, y lo hace diciendo: "Con solo
+darle este título ya empiezan a ﬂotar en el aire crespones sombríos" (1886, p. 48). Estrada introdujo la cuestión
+central: la de la muerte. Pero para llegar a eso, Sarmiento necesita saber primero cómo fue que Dominguito
+se hizo soldado, cuáles fueron sus razones. Cita entonces al propio Dominguito, quien le dijera a Nicolás
+Avellaneda:
+Lara Segade. “¿Qué decir de los dolores de entonces, veinte años después?": la correspondencia de ...
+PDF generado a partir de XML-JATS4R
+Mi suerte está echada. Me ha educado mi padre con su ejemplo y sus lecciones para la vida pública. No tengo una carrera,
+pero para ser hombre de Estado en nuestro país, es preciso haber manejado la espada; y yo soy nervioso, como Enrique II, y
+necesito endurecerme frente al enemigo (Sarmiento, 1886, p. 50).
+"¿Qué oponer a esas razones?", se pregunta Sarmiento. Sin embargo, parte de esas razones serán rebatidas
+en lo que sigue, con nuevas anécdotas de infancia que vienen a demostrar que ya de chico Dominguito había
+conseguido vencer los nervios y "endurecerse". "No era cierto, pues, que hubiera necesidad de foguearse para
+evitar crispaciones de los nervios" (1886, p. 51). Distinto es el caso de la primera razón esgrimida: su padre lo
+educó para ser un hombre de Estado. Para complacerlo, para seguir el camino que él le marcó, debe foguearse
+en las armas. Esta razón Sarmiento no solo no la rebate sino que la comprende en todas sus implicancias:
+"Dios me lo perdone, si hay que pedir perdón de que el hijo muera en un campo de batalla, pro patria pues
+yo lo vine dirigiendo hacia su temprano ﬁn" (1886, p. 49). En la misma línea, dirá más adelante: "no he de
+abstenerme de decir que yo lo empujaba por ese camino que conduce a la gloria, por sobre la muerte que
+detiene a los demás! No pudo dar el salto por ser demasiado joven, y cayó... simple mortal como los demás,
+aunque era de la piedra en que se tallan los héroes" (1886, p. 59).
+El hecho de que Dominguito se haya anotado como voluntario para ir a pelear por la patria, dispuesto a
+sacriﬁcarse por ella y el hecho, sobre todo, de que ese sacriﬁcio ﬁnalmente haya tenido lugar, del modo en
+que tuvo lugar –la herida en el tendón que lleva precisamente el nombre de Aquiles– contribuyen a hacer
+de Dominguito un héroe, destino en el que a Sarmiento le cabe, con lo bueno y con lo malo, parte de la
+responsabilidad.5
+Sin embargo, Sarmiento también deja entrever que, en todo caso, él no fue el único que empujó al chico por
+el riesgoso camino de la gloria, al citar la famosa proclama de Mitre: "en un día en los cuarteles, en quince en la
+Asunción, en tres meses de regreso a sus hogares". Proclama calculada, dice Sarmiento, "para mover heroismos
+juveniles" (1886, p. 50), muy en especial el de Dominguito, de quien Mitre era amigo y tutor y que resultó
+así "el primero de los enrolados" (1886, p. 50). Como apunta Martín Kohan (2014), una de las improntas
+de la Guerra del Paraguay, desde la perspectiva de los aliados, es la del exceso de conﬁanza. La declaración
+de Mitre citada por Sarmiento señala, para él, esa demasiada fe que se hará carne también en Dominguito,
+el primer enrolado. No a otra cosa se reﬁere Santiago Estrada cuando relata que Dominguito tuvo que pedir
+tratados en los que estudiar el arte de la guerra al descubrir que la campaña no sería tan rápida ni tan fácil
+como había creído –razón por la cual, "no se preocupó al partir sino de llevar un par de guantes blancos para
+las entradas triunfales a las ciudades develadas" (Sarmiento, 1886, p. 47). Pero también es posible leer tal
+disposición optimista en las propias cartas que Dominguito envía a su madre. Desde el comienzo, responde
+a la aprensión de ella con palabras que describen una situación no solo de calma sino incluso de bienestar, de
+alegría. Dice estar más gordo, curándose gracias al clima de una dolencia en el labio, de buen humor. Envía
+siempre cariños para los conocidos y, con cierta picardía galante, para algunas conocidas. Al mismo tiempo,
+pide. Pide todas las cosas que no llevó y necesita y que constituyen el primer indicio de un posible abuso
+de conﬁanza: ropa, dinero, una vaina para la espada, tinta, un retrato, yerba, bizcochos, pasta de almendras,
+dulce de leche en tarritos.
+El optimismo perdura casi hasta el ﬁnal aunque su contenido varía. En las primeras cartas, Dominguito
+cuenta cómo es la vida de campamento que está haciendo en Ayuí, en Concordia: una vida plácida, al aire
+libre, saludable –"vivir salvajemente", dirá en la carta del 31 de julio de 1864. Dice a la madre que no hay
+nada que temer. El combate está todavía tan lejos que resulta inconcebible: Dominguito confía en que no
+llegará a producirse. Con el paso del tiempo y el comienzo de la marcha (es decir, con el acercamiento a la
+línea enemiga), Dominguito comienza a ﬁgurarse el combate y a desearlo, lamentándose de que el momento
+en que el ejército ﬁnalmente se bata parezca alejarse día a día. El peor enemigo, todavía, sigue siendo el clima:
+el calor excesivo, las tormentas. "La cosa es larga, pero no peligrosa", dice en la carta del 26 de octubre de 1865.
+La conﬁanza, transmitida por Mitre, en una victoria rápida, ya no puede sostenerse, pero ha mutado en una
+conﬁanza en que se trata de una guerra sin peligro. Ya en febrero de 1866, y también más adelante, comienzan
+Orbis Tertius, 2020, 25(31), Junio-Noviembre, ISSN: 1851-7811
+PDF generado a partir de XML-JATS4R
+a mencionarse los riesgos posibles y el exceso de conﬁanza con que se los quiere conjurar comienza a parecer
+más una impostura que una convicción: "y si fuera desgraciado, lo que por supuesto es imposible" (Sarmiento,
+1975, p. 87); "Tu hijo, que indudablemente te dará nietos" (Sarmiento, 1975, p. 91)­. Aparecen también
+en esas cartas las primeras alusiones a la "buena estrella", que se multiplicarán a partir de mayo de ese año,
+ya en territorio enemigo y tras participar en un primer combate: "No abrigues temores sobre mi suerte, en
+cualquier combate en que pueda encontrarme. Se salvarán de las balas los que tengan buena estrella, y tengan
+fe en ella. Juzga seriamente, y verás que no puede haberse nacido con otra mejor que la mía, y fe, la tengo
+ciega" (Sarmiento, 1975, p. 87).
+La fe se va convirtiendo en una suerte de amuleto protector, que Dominguito vuelve a esgrimir frente a la
+madre cuando le anuncia que se planea un asalto a Curupaytí y que su batallón será el primero en escalar la
+trinchera. "Tenemos buena estrella. Suerte" (Sarmiento, 1975, p. 103), dice. Y unos renglones más adelante:
+"tengo la convicción de que hemos de pasar muy buenos días juntos, y nos hemos de reír de todas estas
+miserias de la vida" (p. 103). Esa es la anteúltima carta. En la última, fechada el 21 de septiembre de 1866,
+dice: "Querida vieja: la guerra es un juego de azar, puede la fortuna sonreír o abandonar al que se expone al
+plomo enemigo" (Sarmiento, 1975, p. 103). En la víspera de la batalla en la que perderá la vida, la conﬁanza
+parece abandonar a Dominguito, que ya había empezado a hacerse eco de los temores de la madre –"No tengas
+locos temores, que me asustan sobremanera" (p. 102), le había pedido en la carta anterior–. Pero entonces
+encontrará otra vía para ofrecer a su madre algo de consuelo: "Morir por su patria, es dar a nuestro nombre
+un brillo que nada borrará, y nunca jamás fue más digna la mujer, que cuando con estoica resignación envía
+a las batallas al hijo de sus entrañas" (p. 104). Enseguida termina la carta, un poco asustado de sus propias
+palabras, que repentinamente le parecen "letras póstumas". Aquí, la conﬁanza en la buena estrella deja lugar
+a la conﬁanza en el sentido de una muerte que tal vez se produzca –o tal vez no: es una cuestión, más que de
+estrellas, de azar–. Si se produce, esa muerte, que habrá sido buscada, tendrá un sentido heroico. En la misma
+línea, en la carta anterior, Dominguito dedica un párrafo a su vocación de ser soldado, que se sostiene aun
+cuando sabe que la muerte es uno de sus destinos posibles, probables incluso. Dice: "Si no fuera por lo que tu
+sufres, y por mi profesión, y por mi camino, yo sería soldado, pero soldado por el combate; por la emoción,
+por la muerte que desﬁla. ¡Es una gran sensación!" (p. 103). Palabras extrañas, en la pluma –o el lápiz– de
+quien ya es soldado pero todavía no ha combatido casi, aunque está en las puertas del gran combate. Lo que
+parece estar diciendo es que aﬁrma su decisión: y no porque se haya alistado creyendo que no habría guerra,
+o que esta sería breve y sencilla, sino justamente porque creía que habría guerra, y deseaba pelearla.
+En cualquier caso, sobre el ﬁnal de su correspondencia, Dominguito también diseña para sí un perﬁl
+heroico, que coincide con el que busca construir Sarmiento con su biografía. Y así como Sarmiento declara
+que su objetivo al escribir es prolongar la memoria heroica de su hijo, Dominguito termina la última carta
+a su madre con una aﬁrmación que parece más bien un pedido –y que cerraría así la larga lista de pedidos
+que jalonan la correspondencia–: "Las madres argentinas transmitirán a las generaciones, el legado de la
+abnegación y el sacriﬁcio" (Sarmiento, 1975, p. 104). Pero mientras que Sarmiento divide entre él mismo
+y Mitre la responsabilidad de haber "empujado" al chico hacia la muerte, Dominguito asume su propia
+responsabilidad en el trazado de su destino, al presentarse como un hombre que quiere ir a la guerra.
+Al día siguiente, Dominguito agregará dos líneas a la carta: "Son las 10. Las balas de grueso calibre estallan
+sobre el batallón. ¡Salud mi madre!" (p. 104) Allí se detiene. Si bien todas las correspondencias o los diarios
+escritos en tiempos de guerra se detienen indefectiblemente en el momento de la muerte, no siempre la
+coincidencia entre el ﬁn de la escritura y la muerte es tan exacta, lo que hace más evidente la necesidad de
+convocar a otros para reconstruir la escena faltante.6 Como resultado, Vida de Dominguito es lo que Nicolás
+Rosa llamó un "texto de textos": una suerte de collage del que forman parte "cartas, relatos, retrato, recuerdos
+personales, 'escenas', 'episodios', textos de diversos autores" (2004, p. 114).7
+Entre estos, se destaca el de Lucio V. Mansilla, Comandante del batallón de Dominguito, que es además
+el único que, como corresponsal y bajo el seudónimo de Falstaﬀ, reﬁrió su muerte: "Las carpas de Rosetti,
+Lara Segade. “¿Qué decir de los dolores de entonces, veinte años después?": la correspondencia de ...
+PDF generado a partir de XML-JATS4R
+Charlone, Fraga, Dias, Sarmiento, Cádiz, Salvadores, Nicolorich, Paz, Iparaguirre, Darragueira, Vega y tantos
+otros, se hallaban desiertas, pues allí donde existía la alegría, solo vemos vagar las sombras de aquellos
+compañeros queridos, que nos dejaron para siempre" (Sarmiento, 1886, p. 52). Ante la página en blanco de
+la muerte de su hijo, Sarmiento convoca entonces a Mansilla, con una carta que también se incluye en Vida
+de Dominguito:
+Mi estimado general:
+Con motivo de haberse publicado el retrato de Dominguito, empecé una sucinta biografía suya que ya va abultada y que
+con el amor de padre del héroe y del libro, hallo bastante buena.
+El último capítulo es la parte militar y militante, y me encuentro a oscuras, habiendo estado tan distantes [sic] del teatro
+de los sucesos. Acudo, por lo tanto, al Comandante del batallón de que era Capitán, y a cuya vista murió... (1886, p. 52).
+Le ofrece, a continuación, la opción de responder con una carta o con un capítulo. La misma opción,
+podemos suponer, le había ofrecido a Estrada. Pero Mansilla, a diferencia de aquel, no optará por el capítulo
+sino por la carta, puesto que, como enseguida dice: "El capítulo tendría para mí un inconveniente. Faltaría a
+una regla de conducta que me he impuesto: no ocuparme de guerras y batallas, que llamaremos argentinas,
+mientras vivan los que las ganaron, o perdieron" (1886, pp. 52-53). Un Mansilla usualmente tan expansivo
+en sus narraciones, tan digresivo incluso, que aquí, sin embargo, se pliega al "ascetismo" verbal que María
+Moreno detecta en los partes de Dominguito.8 Sobre el ﬁnal de la carta, de hecho, hace referencia a Juan
+Patiño, compañero de armas de Dominguito, cuya vida dice que contará algún día, lo cual efectivamente
+hará poco después, en la causerie que lleva su nombre. Allí, como también en las otras causeries sobre la
+Guerra del Paraguay, escritas todas pocos años después de este intercambio, Mansilla parece olvidado de
+su regla de conducta, puesto que reﬁere allí la guerra y sus batallas. Pero Mansilla ofrece además una razón
+suplementaria para su elección –que es una elección doble, la de la carta y la del laconismo–: la carta, dice, le
+permite ser conciso. Y agrega enseguida: "Las biografías de los grandes hombres no necesitan ser largas para
+que destaque su ﬁgura en la historia" (1886, p. 53). Respuesta directa y evidentemente irónica a las palabras
+con que Sarmiento realiza su pedido –una contribución para una biografía tan abultada como buena, para
+un libro tan hijo como el héroe que lo protagoniza–, las palabras de Mansilla vienen a sumarse al brevísimo
+párrafo en que reﬁere la muerte de Dominguito, para echar por tierra, al mismo tiempo, las bondades del
+libro y la condición heroica del hijo.9 Dice Mansilla: "Vd. no sabe quizás que Dominguito murió herido en
+el pecho, lejos, muy lejos ya de aquellas terribles trincheras de Curupaití, lo que quiere decir, que ni aun en
+retirada dejaba de tener para él, –poesía e imán el peligro" (1886, p. 53).
+Mansilla, reconocido por el propio Sarmiento como testigo presencial de la muerte de su hijo –aquel "a
+cuya vista murió"–, viene a dar una versión de la muerte de Dominguito muy diferente a la que Sarmiento
+tenía hasta entonces y daba por cierta. Si el desangrarse por una herida en el talón creaba para Dominguito un
+posible relato heroico, al ligar su muerte con la de Aquiles, la versión de Mansilla debilita esa construcción.
+En primer lugar, porque aleja a Dominguito del campo de batalla ("lejos, muy lejos", enfatiza Mansilla). En
+segundo lugar, porque la muerte se produce en retirada, instancia bélica más afín al lamento que a la épica.10
+Por último, porque la herida en el pecho da cuenta de que, en retirada, Dominguito sigue de frente al enemigo.
+Esto, que Mansilla lee como una vocación irrefrenable de batirse, puede leerse tambiéncomo desobediencia.11
+En tanto la desobediencia es uno de los rasgos que Sarmiento pondera en el pequeño Dominguito –
+rasgo, por otra parte, heredado–, la digitación del padre puede leerse en ambas variantes de la muerte de
+Dominguito,12 aunque en la de Estrada despunta también el hombre que va voluntariamente hacia su destino
+heroico, el mismo que escribe a su madre que quiere ser soldado "por el combate". Esto es, no ya como
+preparación para convertirse en hombre público –destino ﬁjado por el padre–, no como preludio, sino como
+algo de valor propio, como instancia misma en la que se cifra un destino autogestionado. En la versión de
+Mansilla, en cambio, lo que se dibuja es el perﬁl de un antihéroe en el que se puede adivinar, aún, al adolescente
+travieso, candoroso, porﬁado incluso, que no sabe muy bien a qué se enfrenta.
+Orbis Tertius, 2020, 25(31), Junio-Noviembre, ISSN: 1851-7811
+PDF generado a partir de XML-JATS4R
+Ambas escenas –así como las imágenes que convocan– se yuxtaponen en Vida de Dominguito, sin que
+su autor proclame la validez de una en desmedro de la otra. De hecho, ni siquiera menciona el conﬂicto,
+tal como señala Nicolás Suárez, para quien la carta de Mansilla "es tan escandalosa que su contenido no
+puede ser debatido por Sarmiento que sin embargo tiene la lucidez de incluirlo en su obra" (2016, p. 20).
+En la misma línea puede pensarse la aﬁrmación de María Moreno (2011) de que en Vida de Dominguito
+"Sarmiento escribe los datos que engrandecen al mismo tiempo que relativizan o ponen en duda los hechos".
+Para Patricio Fontana (2012), si Sarmiento incluye otras voces en sus últimas biografías, entre las que se
+cuenta la de Dominguito, lo hace porque busca conjurar el temor de dotar al objeto de estudio de una
+heroicidad excesiva.13
+Una vez más, "la cara sonriente del festivo galán", la "movible ﬁsonomía del púber de diez y siete años" se
+superponen con "el retrato del Capitán con su pelo cortado a la mal content", "el Capitán muerto en el campo
+de batalla". La superposición sigue teniendo el mismo efecto siniestro puesto que las imágenes no coinciden,
+no logran ser conectadas ni sintetizadas por la escritura.
+Si en Vida de Dominguito la imagen que prevalece es aquella en la que, movido por el dolor, el rostro del
+niño se proyecta sobre el del héroe, es posible convocar otra imagen de Dominguito que de alguna manera
+funciona como su reverso. Se trata del retrato de Dominguito que pinta Procesa, la hermana de Sarmiento,
+en 1850. Allí, el pequeño, de cinco años de edad, aparece vestido de tamboril. El soldado y su muerte heroica
+se proyectan sobre el niño como una predestinación. Pero también hay otra imagen, muy difundida de la
+Guerra del Paraguay que es la de los niños paraguayos enviados al frente con bigotes y barbas pintados con
+carbón. En especial, se recuerda la participación de niños en los últimos combates, cuando ya casi no quedaba
+en Paraguay población masculina en edad de pelear. No se trata ya de dos tiempos que la imagen permite
+conjugar sino de un solo tiempo, el de la guerra, que lo ocupa todo.14
+En ese sentido, hay una pregunta que subyace a Vida de Dominguito y que el texto deja sin respuesta: ¿cómo
+incluir en la galería de héroes a los hijos, a los más jóvenes, a los que fueron enviados al frente, tal vez, sin la
+preparación adecuada, sin la madurez suﬁciente, a aquellos que fueron sacriﬁcados demasiado pronto en aras
+de la patria? O en otras palabras, ¿cómo conjugar las víctimas con los héroes? La pregunta excede con mucho
+la dimensión personal e incluso la coyuntura histórica especíﬁca. Más bien, pareciera que se trata de una
+pregunta que la guerra plantea a las naciones que participan de ella, en forma más o menos acuciante según
+el caso; una pregunta, incluso, que apunta a la naturaleza misma de la guerra moderna. En efecto, volverá a
+plantearse en Argentina, con toda su crudeza, tras la guerra de Malvinas. Y nadie sabrá tampoco qué decir
+entonces, más de cien años después, de esos dolores.
+Referencias
+Anderson Imbert, E. (1975). Génesis del primer Dominguito. Nueva Revista de Filología Hispánica, 24(2), 504-509.
+Capdevila, L. (2010). Una guerra total: Paraguay, 1864-1870. Asunción: Sb.
+De Marco, M. Á. (Ed.) (2003). Corresponsales en acción. Crónicas de la Guerra del Paraguay "La Tribuna", 1865-1866.
+Buenos Aires: Librería Histórica.
+Fontana, P. (2012). El libro más original: Sarmiento lector y autor de biografías. En A. Amante (Dir.). Sarmiento.
+Buenos Aires: Emecé.
+Garmendia, J. I. (1889). La cartera de un soldado. Buenos Aires: Peuser.
+Iglesia, C. (2002). ‘Mejor se duerme en la Pampa’. Deseo y naturaleza en Una excursión a los indios ranqueles de Lucio
+V. Mansilla. En La violencia del azar. Buenos Aires: Fondo de Cultura Económica.
+Kohan, M. (2014). El país de la guerra. Buenos Aires: Eterna Cadencia.
+Laera, A. (2008). Sobre la guerra en el Paraguay (relatos nacionales en las fronteras). En G. Batticuore et al. (comps).
+Fronteras escritas. Rosario: Beatriz Viterbo.
+Lara Segade. “¿Qué decir de los dolores de entonces, veinte años después?": la correspondencia de ...
+PDF generado a partir de XML-JATS4R
+Molloy, S. (2012). Los objetos de Sarmiento. En A. Amante (Dir.), Sarmiento. Buenos Aires: Emecé.
+Moreno, M. (2011). Vida de Dominguito, el texto ﬁlicida de Domingo Faustino Sarmiento. El intransigente.
+Recuperado de https://www.elintransigente.com/cultura/2011/9/9/dominguito-texto-filicida-domingo-faust
+ino-sarmiento-101550.html
+Piglia, R. (2015). Tres propuestas para el próximo milenio (y cinco diﬁcultades). La Biblioteca, 15, 170-189.
+Rosa, N. (2004). El arte del olvido. Rosario: Beatriz Viterbo.
+Sarmiento, D. F. (1886). La vida de Dominguito. Buenos Aires: Sociedad Tipográﬁca "El censor" (edición facsimilar).
+Sarmiento, D. F. (1975). Correspondencia de Dominguito en la Guerra de Paraguay. Buenos Aires: Lorraine.
+Suárez, N. (2016). Imágenes de Dominguito: los retratos de Domingo Fidel Sarmiento por Victor Tison y Rodolfo
+Soucup. Caiana. Revista de Historia del Arte y Cultura Visual del Centro Argentino de Investigadores de Arte
+(CAIA), 9, 12-24.
+Taunay D'Escragnolle, A. (1980). A Retirada da Laguna. San Pablo: Ediouro.
+Notas
+1 Sobre las peripecias de esta escritura, véase "Génesis del primer Dominguito", de Enrique Anderson Imbert. En relación
+a las versiones que aﬁrman que Dominguito en realidad era hijo natural de Sarmiento –situación que, tras la viudez de
+Benita y la formalización de la pareja de amantes, la adopción habría venido a encubrir– Anderson Imbert las da por
+ciertas.
+2 La Ilustración Argentina, cuyo primer número data del 10 de junio de 1881, era una publicación que aparecía cada diez
+días y que se caracterizaba por otorgar "una preponderancia fundamental al aspecto visual en general y, en particular a
+la construcción de un imaginario nacional" (Suárez, 2016, p. 12).
+3 La batalla de Curupaytí, producida el 22 de septiembre de 1866 en las cercanías de Humaitá, constituyó la mayor derrota
+aliada de la guerra. Como resultado de la exitosa estrategia paraguaya de construir una enorme trinchera todo a lo largo
+de la línea de combate, los batallones aliados que participaron del asalto sufrieron importantísimas pérdidas, hecho del
+que da cuenta la mayor parte de los relatos e imágenes de la guerra. Años después José Ignacio Garmendia dirá: "jamás
+en nuestras guerras hubo nada parecido a Curupaytí" (1889, p. 183)
+4 La frase pertenece al cuento "Biografía de Tadeo Isidoro Cruz", de Jorge Luis Borges, incluido en El Aleph (1949).
+5 Véase el trabajo en el que, a partir de estas frases de Sarmiento, María Moreno (2011) considera Vida de Dominguito
+un texto ﬁlicida.
+6 En el mismo sentido, Sarmiento hace referencia a un cuaderno, enviado a por su madre a Dominguito, quien solo alcanza
+a escribir unas pocas líneas el 21 de septiembre a la mañana. En ellas, aﬁrma la intención de hacer allí unos apuntes
+personales, incluida "la hora en que ponga el pie sobre la trinchera que mi batallón tendrá la gloria de tomar primero", y
+de "dejar correr a esta cartera su suerte, en el bolsillo izquierdo de mi blusa" (p. 57). Allí será encontrado el cuadernito,
+para ser restituido a la madre tiempo después. Ella, a su vez, lo remitirá a Sarmiento –de quien está separada desde antes
+de que comience la Guerra de Paraguay–, a pedido de él, con el objeto de ayudarlo a llenar "un vacío en la apreciación
+y el carácter y vida íntima del hijo que perdió, por cuanto separado de su padre, al salir de la adolescencia, nada puede
+decir con utilidad, de las cualidades y carácter del hombre adulto, que no resulte de los testimonios indirectos" (p. 60).
+7 Sobre este punto, para Patricio Fontana, tanto en la biografía de Dominguito como en la de Francisco J. Muñiz, "más
+que de escritura, habría que hablar de una labor de montaje del texto biográﬁco" (2012, p. 447).
+8 Según María Moreno (2011), en los partes enviados a los periódicos desde el frente, casi siempre ﬁrmados con
+seudónimos detrás de los cuales no se lo reconocía –gesto en el que la autora lee uno de los intentos de "escapar" del
+control paterno por parte de Dominguito– Dominguito "se diferenciará de la chorrera retórica de Sarmiento utilizando
+el ascetismo lampiño -él que se quería poeta- del militar que se limita a narrar la acción".
+9 Valga recordar el enfrentamiento que protagonizaron Sarmiento y Mansilla tras la Guerra del Paraguay, uno de cuyos
+corolarios es Una excursión a los indios ranqueles. Otro podría quizás ser este episodio, ocurrido sin embargo mucho
+tiempo después. Sobre este tema, véase "Mejor se duerme en la Pampa.Deseo y naturaleza en Una excursión a los indios
+ranqueles de Lucio V. Mansilla", de Cristina Iglesia. En efecto, en la crónica publicada en La Tribuna el 2 de octubre de
+1866 dice Mansilla -bajo el seudónimo de Falstaﬀ-: "Sarmiento, esa bella esperanza de la juventud argentina, recibió un
+balazo en el tendón de Aquiles" (De Marco, 2003, p. 315).
+10 En el relato que el brasileño Alfredo D'Escragnolle Taunay hace de la larga retirada que protagonizó, también durante
+la Guerra de Paraguay, se dice sobre los soldados en retirada que carecen ya de entusiasmo y esperanzas, que suelen estar
+Orbis Tertius, 2020, 25(31), Junio-Noviembre, ISSN: 1851-7811
+PDF generado a partir de XML-JATS4R
+"entregados al desánimo, al arrepentimiento por los errores o las consecuencias de los errores" (Taunay, 1980, p. 4, la
+traducción es mía).
+11 Hay, con todo, un elemento común a ambas escenas de muerte. Tanto el hecho de ser herido en la única pequeña parte
+del cuerpo no protegida –tal es el caso de Aquiles– como el de ser herido ya lejos del campo de batalla suponen una cuota
+de mala suerte, mala suerte que viene a desdecir, a último momento, la buena estrella de la que Dominguito se jacta en
+sus cartas y en la cual deposita sus esperanzas.
+12 Hay, también, otro elemento común a ambas escenas de muerte. Tanto el hecho de ser herido en la única pequeña parte
+del cuerpo no protegida –tal es el caso de Aquiles– como el de ser herido ya lejos del campo de batalla suponen una cuota
+de mala suerte, mala suerte que viene a desdecir, a último momento, la buena estrella de la que Dominguito se jacta en
+sus cartas y en la cual deposita sus esperanzas.
+13 En este caso, puede pensarse también que la voz del otro, que se incluye aun cuando resulte disruptiva, puede ser necesaria
+para decir algo sobre la muerte de un hijo, un dolor que corre el riesgo de volverse inenarrable. Años después, en la
+conferencia "Tres propuestas para el próximo milenio (y cinco diﬁcultades)", Ricardo Piglia (2015) interpretará en parte
+en esta línea la inclusión de la voz de un soldado que habla en el tren en el relato que hace Rodolfo Walsh del momento
+en que recibió la noticia de la muerte de su hija Vicki. En el relato de esta muerte por parte del padre, intervienen también
+elementos épicos entremezclados y en tensión con elementos afectivos, dolorosos.
+14 Es en relación con esto que algunos historiadores consideraron que, en el caso de Paraguay, esta guerra constituyó una
+guerra "total" (Capdevila, 2010).
+CC BY-NC-SA

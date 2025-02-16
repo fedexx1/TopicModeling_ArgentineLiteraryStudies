@@ -1,0 +1,604 @@
+43
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+DOSSIER
+Viú Adagio, Julieta. “Ecos de las novelas de artista en Black out de María Moreno”. 
+Anclajes, vol. XXV, n.° 1, enero-abril 2021, pp. 43-56. 
+https://doi.org/10.19137/anclajes-2021-2514
+Ecos de las novelas de 
+artista en Black out de 
+María Moreno 
+Julieta 
+Viú Adagio
+Instituto de Estudios Críticos en Humanidades, IECH
+Universidad Nacional de Rosario
+Consejo Nacional de Investigaciones Científicas y Técnicas, CONICET
+Argentina
+julietaviu@gmail.com
+ORCID: 0000-0003-4172-5828
+Fecha de recepción: 02/07/2020 | Fecha de aceptación: 29/09/2020
+Resumen: En este trabajo, nos proponemos ir más allá de la lectura autobiográfica con 
+que Black out (2016) de María Moreno ha sido considerada por la crítica literaria para 
+analizar intertextualidades con las novelas modernistas de fines del siglo XIX. En efecto, 
+es posible registrar en dicha obra, ambientada a fines del siglo XX, resonancias temáticas 
+y formales de aquella narrativa que hizo del artista y su época el objeto novelable. La 
+postulación de Black out como novela de artista se funda en las relaciones con el archivo 
+modernista (similitudes constantes y también importantes diferencias) que en este artí-
+culo mostramos en algunos tópicos como la forma del diario, la defensa de determinada 
+estética y las posiciones y definiciones sobre el quehacer literario. 
+Palabras clave: novela de artista; Black out; María Moreno; José Asunción Silva 
+Echoes of the artist novels in Black out by María Moreno
+Abstract: Going beyond an autobiographical reading of María Moreno’s Black out 
+(2016), this article analyzes its intertextualities with late 19th century modernist novels. 
+Moreno’s novel, set in the late 20th century, reveals thematic and formal resonances with 
+narratives that novelized the life and times of the artist. This reading of Black out as an 
+artist novel is based on the relationship it establishes with the modernist archive (con-
+stant similarities and also important differences), such as the newspaper form, the de-
+fense of a particular aesthetics, and the definitions and positions toward literary labor.
+Keywords: artist novel; Black out; María Moreno; José Asunción Silva
+Ecos dos romances de artistas em Black out de María Moreno
+Resumo: Neste trabalho, propomos ir além da leitura autobiográfica com a qual Black 
+out (2016) de María Moreno tem sido considerada pelos críticos literários para analisar 
+intertextualidades com romances modernistas do fim do século XIX. De fato, é possível 
+44
+Julieta Viú Adagio | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+registrar na referida obra, ambientada no fim do século XX, ressonâncias temáticas e 
+formais dessa narrativa que fez do artista e de seu tempo um assunto do romance. A 
+postulação de Black out como um romance de artista é baseada nas relações com o 
+arquivo modernista (semelhanças constantes e também diferenças importantes) que 
+neste artigo mostramos através de alguns tópicos, como a forma do diário, a defesa de 
+certas estéticas e as posições e definições sobre obra literária.
+Palavras-chave: romance de artista; Black out; María Moreno; José Asunción Silva
+Introducción
+¿Qué hacíamos en esos años? Escribir pero no publicar, no poder 
+escribir, escribir por rutina y paga, vivir como si se escribiera. 
+María Moreno, Black out.
+E
+n Black out, María Moreno (Buenos Aires, 1947) narra, a través 
+de escenas saturadas de alcohol, su ingreso a la bohemia porteña 
+de los años setenta del siglo XX remontándose a sus primeros 
+trabajos como cronista en revistas de circulación masiva y, en especial, a partir 
+del ir y venir de la redacción al bar y del bar a la redacción. Historias y anécdotas 
+personales representativas de aquella época en la que, como señala Alan Pauls, 
+la perspicacia psi, la pasión de la sospecha y la voluntad crítica copaban una calle –la 
+calle Corrientes– y florecían en sus bares, el Ramos, La Paz, La Giralda, templos de 
+trasnoche donde se impugnaba la cómoda interioridad del hogar burgués y la botella 
+de Bols o las medidas en serie de Criadores eran condiciones de producción tan sine 
+qua non como la Lettera 22, los sueldos pagados por Jacobo Timmerman en Primera 
+Plana o la fe en la autorreferencialidad del lenguaje. (s/p)
+María Moreno cuenta (usamos el término como sinónimo de invención an-
+tes que como registro verídico) las noches de rondas, los whiskys y las lecturas 
+compartidas con sus amigos periodistas entre los que destaca a Norberto Soares, 
+Charlie Feiling, Claudio Uriarte y Miguel Briante. Es en parte por ello que el 
+libro ha sido leído por la crítica literaria como perteneciente a las llamadas “es-
+crituras del yo”, con acierto, ya que se trata de un texto de cuño autobiográfico. 
+Algunos reseñistas lo han definido, coincidiendo con la clasificación propuesta 
+por la autora, como un libro de memorias (Fornaro 2016; Gigena 2016, Pardo 
+2017); mientras que otros, señalando la dificultad de encasillar el libro en un 
+género específico, sugieren que es al mismo tiempo crónica, ensayo, diario, bio-
+grafía y autobiografía (Quintana 2017; Crespi 2017). Sin desconocer esta parti-
+45
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ecos de las novelas de artista en Black out de María Moreno: 43-56
+cularidad, pretendemos ir más allá de dicha lectura para iluminar que en Black 
+out se encuentran temáticas y formas discursivas características de las narrativas 
+de fines del siglo XIX que hicieron del artista y su época el objeto novelable.
+En el marco del proceso de autonomización de los campos disciplinares a 
+fines del siglo XIX como consecuencia, entre otras cuestiones, del proceso de 
+modernización social, económico y cultural, la incorporación al régimen capi-
+talista mundial y la instauración del sistema de valores burgueses, se produjo 
+en América Latina la emergencia de una forma discursiva nueva de raigambre 
+europea: las novelas de artista (Gutiérrez Girardot Modernismo)1. Estas narrativas 
+que tuvieron al arte y al artista en el centro de su interés se particularizaron por 
+anteponer los sentimientos de los protagonistas a las circunstancias exteriores 
+para, de alguna manera, denunciar el descrédito que sufrían y debían afrontar 
+dentro del mundo del arte2. En especial, De sobremesa de José Asunción Silva, 
+–como advirtió Aníbal González (1987)– representa los orígenes del intelectual 
+moderno en Hispanoamérica porque registra la búsqueda angustiosa del artista 
+por definir su posición y su papel en una sociedad nueva3. 
+Black out relata los inicios de la escritora María Moreno en un crearse a sí mis-
+ma en la exploración de sus inclinaciones alcohólicas, genéricas, corporales, sexua-
+les, literarias, estéticas, artísticas, psicológicas y culturales. En especial, el relato 
+minucioso de las dolencias y enfermedades, el enfrentamiento al discurso médico, 
+el papel decisivo de la sexualidad y la oposición a valores burgueses constituyen 
+escenas fundamentales que interpretamos como ecos de las novelas modernistas. 
+Black out se concentra en un momento particular de la vida de la protagonista y 
+focaliza el relato en torno a dos intereses: ir a beber al bar con sus amigos al termi-
+nar la jornada laboral y disfrutar de encuentros amorosos siempre que la endome-
+1	
+Klaus Meyer-Minnemann, pionero en el estudio de dicho objeto, considera que “las novelas 
+hispanoamericanas del fin de siècle se enmarcan en el lapso entre 1895 y la primera mitad de los 
+años veinte; si se consideran también los precursores, cubren el período entre 1885 y aproxima-
+damente 1925” (2). Entre las más representativas, se encuentran Amistad funesta (1885) de José 
+Martí, De sobremesa (publicada en 1925; escrita entre 1887-1896) de José Asunción Silva, Del 
+amor, del dolor y del vicio (1898) de Enrique Gómez Carrillo e Ídolos rotos (1901) de Manuel 
+Díaz Rodríguez.
+2	
+Retomamos la lectura de Meyer-Minnemann sobre la discrepancia de las novelas de artista (llama-
+das por él “novela hispanoamericana del fin de siècle”) con el Naturalismo en buena medida por el 
+primado de la experiencia íntima sobre el argumento exterior. Al analizar De sobremesa, señala que 
+“ninguna circunstancia externa, a la que el lector estuviera invitado a solazarse en medio de estas 
+vicisitudes, se halla en el nudo de la trama, centrada más bien en las emociones de José Fernández, 
+para las que el mundo exterior sólo sirve de punto de partida. No el ir y venir de sucesos sino el 
+torrente de ideas y sensaciones del protagonista quieren aprehender al lector” (48).
+3	
+Aníbal González señala que la novela modernista es aquella que, a diferencia del naturalismo 
+que subordina la literatura a modelos científicos, se constituye en el registro “de una búsqueda 
+honda y sostenida de definición, de fundamentación, no sólo en el plano estético o cultural, sino 
+también en el plano político. Para ser más explícitos: la novela modernista explora y atestigua, 
+con mayor claridad incluso que la crónica, el proceso de conversión por el que atravesaron los 
+literatos hispanoamericanos de fines del siglo XIX y principios del siglo XX, que habría de 
+transformarlos en intelectuales, en el sentido moderno del término” (28). 
+46
+Julieta Viú Adagio | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+triosis (enfermedad que provoca el crecimiento anormal de tejidos por fuera del 
+útero manifiesta a través de sangrados abundantes) se lo permita. En este sentido, 
+el personaje se opone al modelo de homo economicus con su lógica mercantil así 
+como también a la moral católica a través de escenas que sugieren una sexualidad 
+disidente. Hasta ahí, temas y perspectivas que permiten leer Black out a la luz de la 
+novela de artista referida. Además no debe olvidarse la heterogeneidad formal que 
+Rafael Gutiérrez Girardot ha señalado como una de las marcas distintivas de dicha 
+narrativa; y sin lugar a dudas, la decisión de narrar su adicción a la bebida a través 
+de la forma del diario. Con el objetivo de analizar estos aspectos que asociamos a 
+una sensibilidad propia del fin de siglo (la “sensibilidad amenazada” dirá Graciela 
+Montaldo4), nos permitimos entrar y salir con libertad de estas novelas en un paseo 
+de salto intermitente entre finales del siglo XIX y finales del XX.
+Bajo la forma del diario
+Black out no está escrito enteramente en forma de diario como De sobremesa 
+de José Asunción Silva; sin embargo, avanzada la historia, aparece el diario de la 
+protagonista en el que registra su batalla contra la adicción al alcohol5. El personaje 
+se embarca en dicha tarea, quizá por sugerencia de su psicólogo o de Alcohólicos 
+Anónimos (poco importa) y, al asumir la forma del diario, el registro subjetivo se 
+torna protagónico desplazando a un segundo plano las anécdotas ahí contadas. 
+Basta citar la reflexión final del diario para ejemplificar la situación: “El alcohol es 
+una patria. Por eso no se la pierde. Sólo se puede estar exiliado de ella” (Moreno 
+Black out 258), expresa la protagonista después de períodos de abstinencia y re-
+caída. Esta escritura fechada que busca dar cuenta del paso del tiempo paradójica-
+mente no hace más que representar la circularidad en la que se encuentra atrapada. 
+Ahora bien, si el diario focaliza un aspecto que el relato ya venía sugiriendo a través 
+de la identificación del personaje con su padre alcohólico ¿qué propósito tendría 
+4	
+En La sensibilidad amenazada. Fin de siglo y Modernismo, Graciela Montaldo advirtió sobre 
+la emergencia de una nueva sensibilidad producto del sentimiento de pérdida e inseguridad que 
+los artistas modernistas experimentaron ante el proceso de modernización. Esa percepción que 
+construyen los escritores a fines del siglo XIX, manifiesta en una nueva sintaxis y en un uso 
+particular de la lengua, se corresponde con un contexto de inestabilidad e incertidumbre propio 
+de la cultura latinoamericana finisecular. 
+5	
+Black out surgió producto de la reescritura de la crónica “Yo, el alcohol y la vida. Memorias de 
+años teñidos por la bebida”, un encargo periodístico de Daniel Ulanovsky Sack, quien le había 
+solicitado a la escritora un relato confesional con amarillismo íntimo (aclara María Moreno) 
+para publicar en la sección “La pasarela del alcohol” de la revista porteña Latido. Una revista 
+para sentir. Y pensar. Se trató de una publicación cultural de edición mensual que contó con 
+33 números publicados y renombrados colaboradores como Daniel Molina, Marcelo Birmajer, 
+Luis Gruss y María Moreno. Fue un proyecto innovador en su propuesta periodística ya que, 
+desentendido del valor de la información, propuso escribir desde las emociones: “No vamos a 
+publicar, por ejemplo, noticias sobre las instituciones religiosas pero sí trataremos de saber qué 
+siente el creyente y qué el ateo, qué seguridades y qué dudas lo acompañan, cómo llegaron a su 
+actual certeza, cómo viven su convicción en el mundo cotidiano” (Ulanovsky Sack 1).
+47
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ecos de las novelas de artista en Black out de María Moreno: 43-56
+la aparición de dicho registro? Además de confirmar la dependencia de la bebida, 
+vehiculiza una crítica social ya que la protagonista se autorretrata en el diario como 
+borracha diferenciándose de la imagen de alcohólica, es decir, una persona enferma 
+que debe ser curada6. Ese aspecto se manifiesta en el texto cuando entrecomilla 
+expresiones como “si me curo” o “estar en recuperación” generando una sensación 
+de ajenidad hacia lo que implican dichos términos médicos. 
+También José Fernández en De sobremesa registra en el diario ansiedades, an-
+gustias y dolencias físicas, un apetito sexual insaciable, orgías y el consumo de opio 
+entre otros paraísos artificiales. Allí, se pone de manifiesto un cuestionamiento a la 
+mirada médica. Recordemos cuando el personaje asiste a una consulta con el Dr. 
+Sir John Rivington, quien le indica que regularice su vida para curarse:
+No soy práctico. Rivington me lo ha dicho con tono despreciativo y yo que lo sé 
+mejor que él me sonrío al pensar en el desprecio que revelaba su voz al decírmelo. 
+[…] los hombres prácticos me inspiran la extraña impresión de miedo que produce 
+lo ininteligible. Percibir bien la realidad y obrar en consonancia es ser práctico. Para 
+mí lo que se llama percibir la realidad quiere decir no percibir toda la realidad, ver 
+apenas una parte de ella. (Silva 296, las cursivas son del original) 
+Varios aspectos interesan de la cita: la diferencia radical en el modo de ver 
+la realidad entre el médico y el artista que visibiliza una tensión típica del fin de 
+siglo entre la razón y la pasión; también la incomprensión que siente Fernández 
+como artista. Pero más que considerar el tema de reflexión, apuntamos a analizar 
+el sentido del diario en términos más generales. De las lecturas críticas que han 
+llamado la atención sobre el valor del diario íntimo en la novela (Picón Garfield, 
+González, Gutiérrez Girardot, Sancholuz), recuperamos el planteo de Rafael 
+Gutiérrez Girardot quien ha señalado que el diario le sirvió al escritor modernis-
+ta para “refutar artísticamente –no científicamente– las tesis vulgares y peque-
+ñoburguesas de Max Nordau y [...] justificar la plena libertad del artista; plena 
+porque su pretensión es la de llegar a la esquiva verdad de la realidad a través de 
+la experiencia total y absoluta de la vida” (“JFA” 630). Desde el campo del arte 
+entonces José Asunción Silva discutió con Max Nordau, quien había aplicado 
+la clasificación criminológica positivista de Cesar Lombroso a los artistas deca-
+dentes, esto es, se permitió disentir con el discurso científico-médico dominante 
+a fines del siglo XIX7. En tal sentido, De sobremesa realiza dos operaciones: la 
+6	
+La autofiguración como borracha permite establecer filiaciones literarias con personajes míticos 
+de la bohemia porteña de principios del siglo XX como Charles de Soussens, el poeta suizo-
+argentino que ingresó a la historia de la literatura a partir de una “mitología hecha de brindis, 
+discursos, anécdotas” (Rivera 105). Para un desarrollo de dicho vínculo, véase Viú Adagio, “Es-
+cenas de una vida bohemia”.
+7	
+Max Nordau interpretó el arte europeo de fines del siglo XIX a partir de los principios desarro-
+llados por la sociología criminológica italiana con el objetivo de advertir que ciertas búsquedas 
+estéticas constituían signos de estados patológicos. Uno de sus fundamentos consistió en soste-
+ner que los degenerados no eran solo criminales o locos sino también escritores y artistas. 
+48
+Julieta Viú Adagio | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+relativización de la idea de que el genio solo puede ser tal si goza de buena salud 
+y la postulación del vínculo entre el genio y la diferencia que algunos podrían 
+llamar anormalidad.
+El diario en Black out remite a aquel célebre diario de la tradición latinoa-
+mericana, en principio, porque en él se explicita el posicionamiento del per-
+sonaje sobre su adicción concentrando las críticas al discurso médico en tanto 
+biopolítica que se ejerce sobre los cuerpos. La protagonista se reconoce –como 
+advertimos antes– como borracha, no como alcohólica y, por ello, hacia el final 
+del libro declara: “no estoy dispuesta a aceptar ser un caso clínico y hasta estoy 
+a favor de exigir el agregado de una A en la serie LGTTBI si no tuviera el te-
+mor a una expulsión más dolorosa que la del Estado Sobrio por recibirla de los 
+que supongo mis compañeros” (Moreno Black out 353). Moreno establece una 
+distancia con el discurso médico no sólo cuando explicita no estar dispuesta a 
+ser un caso clínico sino también al entrecomillar las expresiones médicas. De 
+manera similar a De sobremesa, el diario de esta cronista también constituye 
+una postulación estética de la disidencia sociocultural. En consonancia con esta 
+lectura, debemos interpretar el subtítulo elegido para la crónica que constituye 
+el antecedente del libro (“memorias de años teñidos por la bebida”) que evita la 
+nominación clasificatoria y estigmatizante que podría haber implicado titularlo 
+memorias de una adicta o una alcohólica. Es en efecto la escritora María Moreno 
+quien prefiere la polisemia del término black out con la intención de referir, en 
+términos personales, a sus noches de ronda, sus años de formación y su historia 
+familiar y, en términos colectivos, a las borracheras de la tradición literaria, al 
+periodismo bohemio de los setenta y la socialización en los bares, entre otras. 
+Estética de la decadencia / estética de la suciedad
+El diario en Black out se encuentra antecedido por una breve reflexión sobre 
+el exceso como valor literario, aspecto que permite iluminar reminiscencias del 
+Modernismo y, en especial, del tipo de artista que representa José Fernández. 
+Antes de decidirse a escribir para atravesar su “recuperación”, María Moreno se-
+ñala: “los escritores que amaba –Néstor Perlongher, Copi, Osvaldo Lamborghi-
+ni, Manuel Puig– habían muerto, y todos eran excesivos en algún sentido” (Mo-
+reno Black out 245). Con esta apreciación, la escritora sugiere nuevos sentidos 
+del exceso asociado hasta ese momento al consumo desmedido de alcohol. El 
+exceso empieza a remitir también a la retórica de la proliferación (el horror vacui) 
+de la estética barroca a la que la prosa de Moreno adscribe. La declaración de 
+preferencias literarias marcadas por la contaminación y el desborde, por el juego 
+constante con los límites instituidos, refuerza cierta idea del exceso que el lector 
+encuentra en la novela en relación con la imagen de escritora. 
+Black out presenta una innumerable cantidad de situaciones narradas en de-
+talle que evidencian un regodeo en la mugre: “Mi cuerpo olía mal. A trapo 
+macerado en alcohol, a sudor seco, quiero imaginar que no a sexo ni a queso 
+49
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ecos de las novelas de artista en Black out de María Moreno: 43-56
+–me lavaba por partes en una palangana colocada junto a mi cama para eludir 
+la distancia friolenta del cuarto de baño, ubicado del otro lado del patio” (Mo-
+reno Black out 165) y, más adelante, agrega: “ese llegar de madrugada a la cama 
+vacía, al frasco de somníferos y al vaso de gaseosa que apaga el ardor de una boca 
+que la mañana traducirá en aliento fétido y espeso” (166). El desaliño corporal 
+del personaje expresado a través del exceso de referencias desagradables cifra el 
+enfrentamiento y cierta provocación a los valores burgueses así como un posicio-
+namiento estético cargado de desobediencia ante las normas del decoro, el recato 
+y las popularmente llamadas “buenas costumbres”. Este rasgo también aparece 
+en la imagen de artista de José Fernández, quien concibe su vida como una obra 
+de arte, es decir, presenta una “existencia estética” (un hombre sin profesión 
+burguesa aunque con cierta riqueza para disponer del ocio que le permita ser 
+un artista). Fernández es una construcción arquetípica del “artista absoluto en la 
+sociedad ambiguamente tradicional-burguesa hispanoamericana” (Gutiérrez Gi-
+rardot “JFA” 626). Entre las características más sobresalientes compartidas por el 
+protagonista de De sobremesa y la de Black out, señalamos las conquistas eróticas 
+relatadas a partir de numerosos encuentros sexuales y las actitudes y acciones con 
+las que se oponen a principios morales y económicos8. Ambas representaciones 
+actúan y simbolizan una crítica a los valores burgueses que, en el caso de Silva, 
+José Fernández evidencia al bregar por la aristocracia del arte; y en Black out, 
+María Moreno lo hace con la identificación de la protagonista a las clases popu-
+lares donde la suciedad constituiría una marca del trabajo. 
+Las escenas en las que la protagonista enfatiza el descuido corporal y la falta 
+de higiene recuperan el imaginario decadente de fines del siglo XIX y su predi-
+lección por lo prohibido en tanto reto a las convenciones sociales y morales tan 
+presentes en De sobremesa9. Una cuestión importante para mostrar esas remi-
+niscencias de la narrativa de María Moreno con el Decadentismo es que aquel 
+fue, como señala Sylvia Molloy (2012), ante todo una cuestión de pose en la 
+que la exageración constituyó su principal estrategia de visibilización. Moreno 
+construyó a través del autorretrato de la protagonista lo que denominamos una 
+8	
+Rafael Gutiérrez Girardot subraya de la construcción de José Fernández que “por su carácter 
+absoluto, se ha librado de las normas y las convenciones sociales: José Fernández Andrade se ve 
+arrastrado en dos ocasiones por fuerzas incontrolables que lo llevan al borde del asesinato. […] 
+el intento de matarlas se bastaba a sí mismo, es decir, el artista quería matar no solamente para 
+desconocer las normas sino también para acumular la experiencia del delito. José Fernández se 
+entrega también a las embriagueces de las drogas, canta la homosexualidad, gasta su dinero sin 
+consideración, es decir, contraviene principios morales y económicos de la sociedad burguesa, 
+pero ninguna de estas convenciones, ni siquiera los intentos de asesinatos, le ocasiona castigo” 
+(“JFA” 626).
+9	
+Jorge Olivares señala que la literatura decadente emerge “a consecuencia de una profunda crisis 
+espiritual, política y social, una sensibilidad que aporta a la literatura nuevas preocupaciones, 
+como el culto de lo artificial y la proliferación de emociones raras y refinadas. Esto acontece no 
+sólo con miras a violentar la mentalidad burguesa, sino principalmente como una alternativa a las 
+vicisitudes de la vida contemporánea. El culto de lo artificial es un escape y a la vez es un reto a 
+las normas establecidas...” (76).
+50
+Julieta Viú Adagio | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+estética de la suciedad que, a nivel del lenguaje, supone el uso de una adjetiva-
+ción que apunta a lo grosero y se regodea en lo desagradable. Representaciones 
+temáticas y estrategias discursivas que entroncan con aquel proyecto que rei-
+vindicó la indagación estética de la descomposición, la alteración y la agonía10. 
+Maximiliano Crespi ha subrayado con acierto que la crítica de Black out se 
+materializa en “la pasión por lo rancio, la pasión por lo descompuesto, la pasión 
+por lo miserable. Una política de la grela que se expone como tal por referencia 
+implícita al higienismo normalizador” (97). La afirmación de la suciedad como 
+mecanismo para desautorizar el cuidado del cuerpo, símbolo de una educación 
+burguesa (según la protagonista) que ella dice no haber recibido, puede ser 
+pensado como un guiño al lector por las referencias al discurso del Higienismo 
+de fines del siglo XIX que consideraba a la enfermedad como un fenómeno 
+social que abarcaba los distintos aspectos de la vida. A través de la protagonista 
+entonces, Moreno se enfrenta a dos discursividades que organizan los cuer-
+pos en las sociedades contemporáneas como son la retórica publicitaria, que 
+promociona sujetos limpios, alegres y bellos, y el discurso médico que, como 
+planteamos anteriormente, clasifica a los sujetos a partir de la rígida antinomia 
+salud/enfermedad. 
+La protagonista realiza un alegato de la mugre al asumir con orgullo la cons-
+trucción del abandono: “Reconozco en mi mugre dos vertientes, la de pertenen-
+cia de origen y la política. Mi novela familiar, ya lo he dicho, era higienista, no 
+higiénica” (Moreno Black out 167), “mi mugre se cultivaba sobre hules lustrosos, 
+sábanas cambiadas con frecuencia y ropa lavada y planchada con cuidado” (169). 
+Puesta en escena en la que el adjetivo posesivo adquiere un valor fundamental. 
+Mi mugre, insistirá poco después, “tenía una vertiente política. Mi cabellera lar-
+ga indica aún ecos de la conspiración selvática de Sierra Maestra” (170). Además, 
+aclara: “porque no éramos burgueses, nuestras costumbres no eran ceremonias 
+de limpieza sino purga de bacterias: alcohol en los cabellos, manos y rodillas” 
+(168). El valor dado en este autorretrato a la artificialidad evidencia un vínculo 
+con el Modernismo y en la exaltación de lo miserable marca su diferencia. Esto 
+último obliga a recordar que los escritores, a fines del siglo XIX, concibieron el 
+campo literario en oposición a las lógicas de la utilidad y el provecho caracterís-
+ticos de la economía capitalista postulando la búsqueda de la belleza como ideal 
+artístico. El antagonismo que el arte sostuvo con el campo económico conllevó 
+el desarrollo de lo que se ha denominado el arte por el arte, una tradición estética 
+de origen francés que los escritores modernistas alimentaron oponiéndose a la 
+idea de supeditar el arte a algún fin externo. Umberto Eco sintetiza el proceso de 
+consolidación de una religión estética: 
+10	 Claudio Iglesias advierte que el programa histórico de la literatura decadente pasó por “operar 
+sobre la lengua y descomponerla provocando la aparición de colores nuevos y múltiples” (14). Y 
+continúa: “lo orgánico se corrompe y aparece lo singular; los géneros se corrompen y dejan paso 
+al poema en prosa, anónimo y contagioso. Vocación de desorden, alteración y agonía confluyen 
+en este style de décadence” (15).
+51
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ecos de las novelas de artista en Black out de María Moreno: 43-56
+mientras el arte se separa de la moral y de las exigencias prácticas, se desarrolla el 
+impulso, presente ya en el Romanticismo, de conquistar para el mundo del arte los 
+aspectos más inquietantes de la vida: la enfermedad, la transgresión, la muerte, lo 
+tenebroso, lo demoníaco, lo horrendo. Pero ahora el arte ya no pretende representar 
+para documentar y juzgar, sino que al representar busca redimir con la luz de la be-
+lleza todos estos aspectos. (330) 
+Las novelas de artista tuvieron en común el hecho de que en la respuesta al 
+para qué del arte, que se encuentra en la base de estas narrativas, se advierte el 
+rechazo del mundo materialista en el que estaban inmersos. Rechazo que se 
+materializó –esto interesa destacar– en gran medida en la construcción estética 
+de la belleza. En Ídolos rotos (1901), de Manuel Díaz Rodríguez hay una esce-
+na ilustrativa de este fenómeno cuando Emazábel y Alberto Soria sueñan con 
+construir un ghetto artístico ya que la palabra artística sería el único medio para 
+superar la “podredumbre que [...] infesta la atmósfera y nos la hace irrespirable” 
+(Díaz Rodríguez 229)11. Referimos a que la belleza se constituyó en el territorio 
+estético de los escritores modernistas ya que supuso el “ámbito por antonomasia 
+de la resistencia del artista en un intento por sobrevivir al tiempo presente perci-
+bido como una crisis histórica radical, preñada de angustia y de un sentimiento 
+amargo ante la existencia. La belleza repudia la moral filisteísta del capitalismo y 
+contrapone la moral sublime del arte” (Foffani 15). Bregar por este ideal artísti-
+co a nivel semántico y formal posibilitó la construcción de un espacio capaz de 
+oponerse en términos simbólicos a los valores dominantes de aquel fin de siglo 
+que se tornaba cada vez más utilitario, mercantil y pragmático. 
+Sobre el quehacer literario
+A partir de las últimas décadas del siglo XIX, empezó a cobrar notable pre-
+sencia la inscripción de la figura de la lectora y el lector en las novelas, fenómeno 
+que se corresponde con la constitución de un público lector propiamente lati-
+noamericano (Zanetti 2010). De sobremesa resulta un relato paradigmático para 
+advertir el valor otorgado a dicha práctica en las sociedades modernas. Basta 
+ejemplificar con la célebre escena que funciona de marco a la novela en la que se 
+muestra a José Fernández leyendo el diario a sus amigos. La representación del 
+acto de leer en una novela protagonizada por escritores e intelectuales simboliza 
+la cofradía artística, “escena fundacional de la camaradería masculina en la litera-
+tura latinoamericana”, subraya Sylvia Molloy (191). El ritual de lectura entre un 
+selecto grupo de entendidos evidencia el sentido rector que el objeto libro poseía 
+en aquella época. Resulta interesante destacar que, al modo de cajas chinas, José 
+11	 Referimos a la siguiente reflexión: “nosotros conocemos las armas de los adversarios y sabemos 
+prever sus golpes, porque no es difícil preverlos, en tanto que es de toda imposibilidad prever los 
+alcances de nuestros medios de lucha. Una palabra bella y luminosa de ciencia o arte, pronun-
+ciada en ocasión propicia, tiene un alcance incalculable aún para quien la pronuncia y la siembra 
+como simiente de oro” (Díaz Rodríguez 228).
+52
+Julieta Viú Adagio | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+Fernández lee el diario de viaje que, a su vez, comienza con otras dos lecturas: la 
+de Degeneración de Max Nordau y del diario de la artista rusa María Bashkirtseff. 
+En este sentido, las escenas de lecturas demuestran que el Modernismo estable-
+ció a la obra publicada como parámetro legitimador del escritor. “El poeta, mo-
+derno o modernista, se debe por entero a la letra, al mundo escrito y sobrescrito, 
+esto es, a la ciudad de la lectura” (Ortega 5). La subjetividad artística finisecular 
+se sustentó, legitimó y posicionó desde el lugar del sujeto lector.
+El libro en tanto elemento rector del campo cultural aparece desplazado en 
+Black out, donde María Moreno plasma una visión singular de los escritores y el 
+trabajo literario a través de los retratos de Norberto Soares, Charlie Feiling, Clau-
+dio Uriarte y Miguel Briante, que aparecen de manera intercalada en el relato, y, 
+por supuesto, de su propio autorretrato. Allí, rescata una tradición de escritores 
+sin obras publicadas. Algunos de ellos solamente contaban con un libro editado, 
+otros tenían solo borradores y la mayoría, una escritura dispersa en publicaciones 
+periódicas. Ejemplificamos con el retrato de Norberto Soares, quien, al decir de 
+la narradora, tenía una obra en cuadernos Gloria, notas que les iba leyendo por 
+teléfono (que se publicaron recién en los años noventa). Cuadernos, borradores, 
+anotaciones que además, como se cuenta ahí, fueron escritas en el bar:
+Empezó a parar en un bar llamado El Senado. Llegaba a eso de las siete. Se pedía un 
+JB, intercambiaba unas palabras con el mozo, se diría que para hacerse ver. Antes de 
+comenzar a escribir, anotaba la fecha, la hora y el lugar, a veces el estado anímico. 
+Luego venía el párrafo. No sé si se daba cuenta de que era siempre breve y autónomo, 
+que ya en su apertura y remate existía un obstáculo para su continuidad, un llamado 
+a que el próximo fuera borrón y cuenta nueva, si había próximo. Poco a poco el tiem-
+po de los preparativos crecía hasta que no quedaba casi nada para la escritura salvo 
+esos párrafos muy condensados, la mayoría de comienzos, llamativos y con gancho. 
+(Moreno Black out 135-136)
+El retrato de Norberto Soares recupera cierto imaginario bohemio al mostrar 
+a un escritor que es antes la promesa de una obra futura que la materialización de 
+esta; sin sugerir por ello que no sea un escritor sino, al contrario, una alabanza (a 
+modo de orgullo) del escritor sin obra realizado justamente por María Moreno 
+que ha hecho de la imposibilidad de terminar los libros una marca de autora 
+(basta recordar el autorretrato que hace de sí misma en Teoría de la noche12). El 
+código compartido por la protagonista y sus amigos pasaba por no exigir nunca 
+“el producto” (Moreno Black out 137), dice la protagonista en un juego intere-
+12	 En “Preliminares” a Teoría de la noche, leemos: “Los editores saben que suelo prometer libros 
+que luego no termino. No comprenden que, así como la literatura no es el reflejo de la vida, un 
+índice no es la promesa de un libro, sino un género en sí mismo. Puede afirmarse que no he 
+escrito los siguientes libros: “Simpatía por el diablo” (novela beat); “Cuerpo extraño” (novela 
+iniciática); “Las amalias” tomo I, II Y III (novela política); “Marie Langer” (psicoanálisis de 
+vida); […]. En realidad, no es verdad que no los he escrito, sino que voy lento. Soy una solitaria 
+practicante de la medida gremial trabajo a tristeza” (9-10, las cursivas son del original).
+53
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ecos de las novelas de artista en Black out de María Moreno: 43-56
+sante en el que cambia la palabra obra por una que remarca la ausencia de valor 
+artístico. De ese modo, se sugiere que la materialización final, la obra, para ellos 
+no era más que un producto. El interés estaba en la escritura sea esta fragmen-
+taria o inconclusa. La protagonista aclara que Soares les trasmitió “una ética del 
+escritor cuyo proyecto abjuraba del centro y de las seducciones del mercado” 
+(Moreno Black out 138). 
+Los retratos de escritores en Black out presentan un guiño al Decadentismo en 
+parte por la intertextualidad que puede establecerse con el momento en que Flo-
+ressas Des Esseintes, el protagonista de À rebours de Joris-Karl Huysmans (novela 
+considerada la “biblia decadente”) ordena su biblioteca a partir de una tradición 
+de autores desconsiderados hasta ese momento13. Como los autores rescatados 
+por María Moreno tampoco forman parte del canon literario, podemos conside-
+rar un gesto similar de legitimación literaria. Pero no continuamos el análisis por 
+allí para no apartarnos del corrimiento de la práctica de lectura como instancia 
+legitimadora de la ciudadanía artística que en Black out se advierte también en la 
+ausencia de las clásicas escenas de lectura referidas. Si bien María Moreno rescata 
+una gran cantidad de obras y autores (Lucio V. Mansilla, Fray Mocho, Alfonsina 
+Storni, Rodolfo Walsh, Fernando Noy, Osvaldo Lamborghini, Walter Benjamin 
+y David Viñas, por nombrar escritores de distintas épocas y campos del saber), 
+esta lectora voraz no se autoriza a partir de esa práctica intelectual que, probable-
+mente para alguien autodidacta como ella, resultase demasiado académica. En 
+consonancia con este aspecto, Black out recrea como instancia de formación la 
+circulación de saberes heterogéneos que tuvo lugar en “la universidad bohemia 
+de los bares” (Moreno Oración 143) como la ha denominado la escritora con 
+el fin de enfatizar más que la lectura la escucha. En Oración, el libro posterior 
+a Black out, se visualiza de manera clara esa autorrepresentación: “Aquí y allá, 
+yo escuchaba las oratorias incendiarias y la escolástica combativa que se llevaban 
+con el cuello Mao o la guayabera de bordado industrial. Me intimidaban, pero 
+había algo en ese ‘nosotros’ que me tentaba sin decidirme” (Moreno Oración 
+145, las cursivas son nuestras). La reivindicación de la circulación oral del saber 
+desacraliza el objeto libro como garante de la cultura, al tiempo que escenifica 
+la multiplicación de las expresiones y sus medios de difusión. En definitiva, las 
+instancias referidas (la tradición de escritores periodistas, la ausencia de escenas 
+de lectura y la priorización de la escucha) evidencian un cambio respecto del 
+paradigma moderno, letrado y culto que rigió el campo artístico desde fines del 
+siglo XIX hasta avanzado el siglo XX ya que muestran a la escritora familiari-
+zada con nuevas formas de autofiguración y legitimación. En Black out, María 
+13	 “Huysmans trabaja allí sobre las diferentes formas en que su desilusionado personaje va rodean-
+do su vida de artificios: la decoración de su casa, los viajes imaginarios, sus enfermedades. La 
+novela es la fundación del conjunto de los tópicos decadentes en donde se pasa revista […] a las 
+diferentes formas artísticas: la literatura, los perfumes (se lee su historia como si fuese la historia 
+de los estilos en la literatura francesa), la pintura, las flores, la música, las piedras preciosas, etc” 
+(Montaldo 51). 
+54
+Julieta Viú Adagio | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+Moreno reivindica el oficio periodístico y la idea de autora forjada en torno a 
+una escritura dispersa en medios masivos sin necesidad de la legitimación que 
+otorgan las editoriales14.
+A modo de conclusión 
+Black out manifiesta ecos del archivo modernista a través de un juego de 
+intertextualidades estéticas con resonancias a nivel semántico, formal y autofi-
+gural. Hemos abordados tres aspectos que permitieron inscribir el libro de María 
+Moreno en la tradición de las novelas de artista. Una primera cuestión fue la 
+aparición del diario de la protagonista que puso de manifiesto su identificación 
+con la figura del borracho y el consecuente enfrentamiento al discurso sanitario. 
+Si hubo un diario de artista en dicha tradición que funcionó como postulación 
+estética de la disidencia sociocultural, ese fue el de José Fernández; por ello, la 
+intertextualidad dada por asumir dicha forma discursiva sirvió para insistir en 
+la legitimación del abordaje artístico de la enfermedad y reforzar la crítica a la 
+mirada médica. El segundo punto analizado fue la defensa de la estética de la su-
+ciedad con las reminiscencias del Decadentismo finisecular por la recuperación 
+de cierto universo simbólico asociado a lo prohibido como también la reivindi-
+cación de una poética novedosa y disruptiva. La representación de la mugre de la 
+protagonista interpretada como alegato de una sensibilidad artística transgresora 
+cifra la resistencia de la cronista a las denominadas “buenas costumbres”. El 
+tercer aspecto relativo a la tematización del quehacer literario como un tópico 
+de dichas narrativas iluminó la valorización del oficio periodístico, la escritura 
+dispersa en diarios y revistas y la relativización de la legitimación que otorga 
+contar con una obra publicada. 
+Referencias bibliográficas
+Crespi, Maximiliano. “Black out. Reseña”. Chuy. Revista de estudios literarios lati-
+noamericanos, n.º 4, 2017, pp. 93-106.
+Díaz Rodríguez, Manuel. Ídolos rotos. Caracas, Monte Ávila, 1981.
+Eco, Umberto. “La religión estética”. Historia de la belleza. Barcelona, Debolsi-
+llo, 2010, pp. 329-332.
+Foffani, Enrique. “Introducción. La protesta de los cisnes”. En E. Foffani 
+(Comp.) La protesta de los cisnes: Coloquio sobre Cantos de vida y esperanza de 
+Rubén Darío 1905-2005. Buenos Aires, Katatay, 2007, pp. 13-43.
+14	 Para un abordaje en profundidad de la resistencia de María Moreno a la categoría de obra litera-
+ria, véase Sabo “‘Porque no habrá obra’. El archivo en la escritura de María Moreno”.
+55
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ecos de las novelas de artista en Black out de María Moreno: 43-56
+Fornaro, Ana. “Los mareados”. Página/12, 30/10/2016. https://www.pagina12.
+com.ar/diario/suplementos/radar/9-11886-2016-10-30.html
+Gigena, Daniel. “María Moreno: ‘La escritura plebeya, la mía, es la que se escri-
+be en contaminación’”. La Nación, 24/11/2016. https://www.lanacion.com.
+ar/cultura/maria-moreno-la-escritura-plebeya-la-mia-es-la-que-se-escribe-
+en-contaminacion-nid1958947/
+González, Aníbal. La novela modernista hispanoamericana. Madrid, Gredos, 
+1987.
+Gutiérrez Girardot, Rafael. Modernismo. México, Fondo de Cultura Económica, 
+2004.
+_____. “José Fernández Andrade: un artista colombiano finisecular frente a la 
+sociedad burguesa”. Obra completa, José Asunción Silva. Madrid, Consejo 
+Superior de Investigaciones Científicas (Colección Archivos), 1990, pp. 623- 
+635.
+Iglesias, Claudio. “Prólogo”. Antología del decadentismo: perversión, neurastenia y 
+anarquía en Francia: 1880-1900. Auguste Villiers de L’Isle-Adam et.al. Cui-
+dad Autónoma de Buenos Aires, Caja Negra, 2014. pp. 9-20.
+Meyer-Minnemann, Klaus. La novela hispanoamericana de fin de siglo. México, 
+Fondo de Cultura Económica, 1991. 
+Molloy, Sylvia. Poses de fin de siglo. Desbordes del género en la modernidad. Buenos 
+Aires, Eterna Cadencia, 2012. 
+Montaldo, Graciela. La sensibilidad amenazada. Fin de siglo y Modernismo. Ro-
+sario, Beatriz Viterbo, 1994.
+Moreno, María. Oración. Carta a Vicki y otras elegías políticas. Buenos Aires, 
+Random House, 2018.
+_____. Black out. Buenos Aires, Random House, 2016.
+_____. Teoría de la noche. Santiago, Ediciones Universidad Diego Portales, 
+2011.
+_____. “Yo, el alcohol y la vida. Memorias de años teñidos por la bebida”. Lati-
+do. Una revista para sentir. Y pensar, año 1, n.° 11, 2000, pp. 6-21.
+Olivares, Jorge. “La recepción del decadentismo en Hispanoamérica”. Historia y 
+crítica de la literatura hispanoamericana II: Del romanticismo al modernismo, 
+coordinado por Cedomil Goic. Barcelona, Crítica, 1991. 
+Ortega, Julio. “Vuelta a Rubén Darío”. Revista de la Universidad de México, n.º 50, 
+2008, pp. 5-10. https://www.revistadelauniversidad.mx/articles/5dac0e06-
+05fb-4179-b5e4-b22e1bf1f460/vuelta-a-ruben-dario
+Pardo, Carlos. “El alcohol es una patria”. El país, 11/12/2017. https://elpais.
+com/cultura/2017/12/04/babelia/1512384125_567523.html
+56
+Julieta Viú Adagio | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+Pauls, Alan. “El libro de la semana por Alan Pauls. Black out de María More-
+no”, Telam, 23/12/2016. https://www.telam.com.ar/notas/201612/174472-
+libros-novedad.html
+Picón Garfield, Evelyb. “De sobremesa: José Asunción Silva. El diario íntimo y la 
+mujer prerrafaelita”. Nuevos asedios al Modernismo, editado por Iván Schul-
+man. Madrid, Taurus, 1987 pp. 262-281.
+Quintana, Ramiro. “Black out de María Moreno”. La Nación, 8/01/2017. 
+https://www.lanacion.com.ar/opinion/cronica-sobre-los-dias-de-bohemiare-
+senas-nid1973312/
+Rivera, Jorge. “Charles de Soussens”. Textos y protagonistas de la bohemia porteña. 
+Monteavaro, Becher y Soussens. Buenos Aires, Centro Editor de América 
+Latina, 1980. p. 105.
+Sabo, María José. “‘Porque no habrá obra’. El archivo en la escritura de María 
+Moreno”. Orbis Tertius, vol. XX, n.° 22, diciembre 2015, pp. 68-79. https://
+www.orbistertius.unlp.edu.ar/article/view/OTv20n22a07
+Sancholuz, Carolina. “Lecturas del Decadentismo en De sobremesa de José Asun-
+ción Silva”. Alicante, Biblioteca Virtual Miguel de Cervantes, 2011.
+Silva, José Asunción. De sobremesa. Obra completa. Madrid, Consejo Superior de 
+Investigaciones Científicas (Colección Archivos), 1990.
+Ulanovsky Sack, Daniel.: “Mirada humana”. Latido. Una revista para sentir. Y 
+pensar, año 1, n.º 1, 1999, p. 1.
+Viú Adagio, Julieta. “Escenas de una vida bohemia en la noche setentista: me-
+morias de María Moreno”. Saga. Revista de Letras, n.º 11, 2019. pp. 252-
+283. http://sagarevistadeletras.com.ar/numero/numero-11/
+Zanetti, Susana. La dorada garra de la lectura. Lectoras y lectores de novela en Amé-
+rica Latina. Rosario, Beatriz Viterbo, 2010. 

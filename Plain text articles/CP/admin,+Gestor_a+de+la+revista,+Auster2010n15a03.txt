@@ -1,0 +1,436 @@
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+PETRONII CURIOSA FELICITAS: LA FUNCIÓN DE LAS CITAS EN 
+EL DISCURSO DE EUMOLPO (SAT. 118) 
+Marcos Carmignani 
+Universidad Nacional de Córdoba-Conicet 
+marcoscarmignani@gmail.com 
+ 
+Este trabajo se propone analizar el fenómeno intertextual de la “cita” en el cap. 
+118 del Satyricon de Petronio, en el que el poeta de la obra, Eumolpo, expone su 
+particular “ars poetica”. En este discurso, Eumolpo cita los nombres de Homero, 
+Virgilio y Horacio, al tiempo que cita el primer verso de la Oda 3.1 del Venusino, lo que 
+evidencia que el poetastro tiene muy en cuenta la figura horaciana. Esto cobra mayor 
+sentido si recordamos que el capítulo funciona como un manifiesto programático antes 
+del recitado del Bellum civile (Sat. 119-124). El hecho de analizar las citas en este 
+pasaje tiene que ver con un dato no menor: Petronio es un autor que alude 
+constantemente, pero que cita muy rara vez, por lo que, cuando lo hace, se debe 
+prestar mucha atención. Pero antes de examinar la función que cumplen dichas citas 
+en el entramado del discurso eumolpiano, será necesario definir qué se entiende por 
+“cita” en el campo de la intertextualidad. Para ello, retomaremos sólo algunas nociones 
+que 
+consideramos 
+fundamentales, 
+ya 
+que 
+la 
+bibliografía 
+al 
+respecto 
+es 
+abundantísima1. 
+En su ya clásica obra sobre la teoría y práctica de la intertextualidad, 
+Palimpsestos, Genette indica que el objeto de la poética es la transtextualidad o 
+trascendencia textual del texto, es decir, “todo lo que pone al texto en relación, 
+manifiesta o secreta, con otros textos”. Define cinco tipos de relaciones transtextuales, 
+pero el libro básicamente se ocupa de la cuarta, la hipertextualidad. Sin embargo, es 
+interesante para nuestro trabajo retomar el primer tipo de “transtextualidad”: la 
+“intertextualidad”. Genette la define de manera restrictiva como la presencia efectiva 
+de un texto en otro, que puede presentarse bajo tres formas:  
+                                                 
+1 Algunos títulos que analizan el problema en el campo de los estudios clásicos son: G. B. Conte, The 
+Rhetoric of Imitation. Genre and Poetic Memory in Virgil and Other Latin Poets, Ithaca and London, 
+1986; G. B. Conte, A. Barchiesi, “Imitazione e arte allusiva: modi e funzioni dell’allusività”, en G. 
+Cavallo, P. Fedeli, A. Giardina (edd.), Lo spazio letterario di Roma antica, 1989, vol. I, pp. 81-114; G. 
+B. Conte, G. Most, “Imitatio”, en S. Hornblower, A. Spawforth (edd.), The Oxford Classical Dictionary, 
+Oxford, 1996, s.v.; L. Edmunds, Intertextuality and the Reading of Roman Poetry, Baltimore, 2001; E. 
+Finkelpearl, Metamorphosis of Language in Apuleius: A Study of Allusion in the Novel, Ann Arbor, 1998; 
+S. Hinds, Allusion and Intertext: Dynamics of Appropriation in Roman Poetry, Cambridge, 1998; G. 
+Pasquali, “Arte allusiva” en G. Pasquali, Stravaganze quarte e supreme, Venezia, 1951, pp. 11-20; D. 
+Russell, “De imitatione”, en D. West, T. Woodman (edd.), Creative Imitation and Latin Literature, 
+Oxford, 1979, pp. 1-16, M. Silk, “Plagiarism”, en S. Hornblower, A. Spawforth (edd.), The Oxford 
+Classical Dictionary, Oxford, 1996, s.v. 
+Petonii Curiosa Felicitas : La funci´
+on de las citas en el discurso de Eumolpo (Sat. 118)
+CARMIGNANI Andr´
+es
+Auster, 2010 (15). ISSN 1514-0121.
+http://www.auster.fahce.unlp.edu.ar
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on.
+Centro de Estudios Latinos
+Esta obra est´
+a bajo licencia Creative Commons Atribuci´
+on-NoComercial-SinDerivadas 2.5 Argentina
+1
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+4. cita: la intención también sirve para distinguir entre cita y parodia. La distancia 
+crítica que define a la parodia no está necesariamente implícita en la noción de cita8. 
+Como cree Jenny, la parodia tiene una determinación bitextual mucho más intensa que 
+la cita: forma parte tanto del código del texto parodiado como del código paródico en 
+general9. Sin embargo, a pesar de que ambas son tan diferentes, están lo 
+suficientemente cerca (estructural y pragmáticamente) como para que la cita sea a 
+veces una forma de la parodia. 
+En definitiva, según lo visto, la cita es la presencia más explicita y literal de un 
+texto en otro; se diferencia de la alusión y la parodia porque la distancia crítica no está 
+necesariamente implícita en su concepto. Además, en la cita no hay ninguna tensión 
+posible entre ambos textos; la cita es la inserción estática de otro texto en el propio, no 
+hay interpenetración posible entre los dos textos. Sin embargo, esta última perspectiva 
+de Conte, lógica desde un punto de vista teórico, no guarda absoluta relación con la 
+realidad del manifiesto de Eumolpo: como veremos, esto demuestra que en el 
+Satyricon no hay intertextualidad “inocente”, es decir, que no involucre un elemento de 
+tensión en el texto.  
+Como ya se dijo, Petronio es un autor que alude constantemente, pero que cita 
+muy rara vez. En las secciones conservadas del Satyricon, encontramos las siguientes 
+citas: 
+1. Sat. 3.2. nam nisi dixerint quae adulescentuli probent, ut ait Cicero, “soli in scholis 
+relinquentur”10 cita levemente modificada de Pro Caelio 41, donde Cicerón afirma su 
+perplejidad ante el rigor ético de los estoicos. La frase ciceroniana es illud unum 
+derectum iter ad laudem cum labore qui probaverunt, prope soli iam in scholis sunt 
+relicti11. 
+ 2. Sat. 39.3 “sic notus Ulixes?”12, frase de Trimalción en una de sus intervenciones 
+demostrativas de sus conocimientos literarios, que, como se sabe, no siempre son 
+muy precisos. La cita corresponde a Laocoonte en la Eneida (2.44), que advierte a los 
+troyanos del peligro que trae el caballo. 
+                                                 
+8 L. Hutcheon, A Theory of Parody. The Teachings of Twentieth-Century Art Forms, New York, 1985, p. 
+35 y ss. 
+9 L. Jenny, “La stratégie de la forme”, Poétique 27 (1976) 260. 
+10 El texto del Satyricon corresponde a K. Müller, Petronius Satyricon Reliquiae, Stuttgart, 1995. “En 
+efecto, si no dijeran lo que les gusta a los jóvenes, como dice Cicerón, ‘se quedarían solos en las 
+escuelas’”. 
+11 “Los que aprobaron que el único camino directo a la gloria (es) con esfuerzo, ahora quedaron casi solos 
+en las escuelas”. 
+12 “Así (de poco) conocéis a Ulises”. 
+Auster, 2010 (15). ISSN 1514-0121.
+2
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+3.  Sat. 68.4 “interea medium Aeneas iam classe tenebat”13. Un esclavo de Habinas 
+recita canora voce este primer verso del libro 5 de la Eneida, que hace que Encolpio 
+diga ut tunc primum me etiam Vergilius offenderit14. 
+4. Sat. 111.12 id cinerem aut manes credis sentire sepultos?15 cita el verso 4.34 de la 
+Eneida, cuando Ana intenta convencer a Dido, que todavía lamenta a su marido 
+difunto Siqueo, de que se abandone al amor que siente por Eneas. En el Satyricon, la 
+frase es puesta en boca de la sirvienta de la matrona de Éfeso, que también trata de 
+persuadir a su ama de que coma lo que le trajo el soldado.  
+5. Sat. 112.2 “placitone etiam pugnabis amori? /  [nec venit in mentem, quorum 
+consederis arvis?]”16 nuevamente corresponde al cuento milesio narrado por Eumolpo 
+de la Matrona de Éfeso. En este caso la sirvienta trata de convencer a la señora de 
+que deje de lado la abstinencia sexual y se acueste con el soldado. Se citan los versos 
+4.38-39 de la Eneida, mismos pasaje y situación de la cita anterior.   
+6. Sat. 132.11 illa solo fixos oculos aversa tenebat, / nec magis incepto vultum 
+sermone movetur / quam lentae salices lassove papavera collo17 es un ejemplo 
+magistral del talento petroniano. Se trata de un centón virgiliano: los dos primeros 
+versos corresponden a Eneida 6.469-470, donde Dido muestra su indiferencia ante las 
+palabras de Eneas en el mundo de ultratumba, mientras que el tercero combina 
+libremente dos hemistiquios, el primero de Bucólica 5.16 y el segundo de Eneida 
+9.436, cuando se describe con un símil la muerte de Euríalo. Estos versos centonarios, 
+en el Satyricon, cobran un carácter altamente obsceno, ya que se refieren al miembro 
+impotente de Encolpio-Polieno.   
+7. Citas de autoridades: en varios pasajes del Satyricon se citan algunos autores que 
+son tomados como modelos por los diferentes personajes. Por ejemplo, en el cap. 2, 
+Encolpio dice:  
+ 
+nondum iuvenes declamationibus continebantur, cum Sophocles aut 
+Euripides invenerunt verba quibus deberent loqui. nondum umbraticus 
+doctor ingenia deleverat, cum Pindarus novemque lyrici Homericis versibus 
+canere timuerunt. et ne poetas [quidem] ad testimonium citem, certe neque 
+                                                 
+13 “Mientras tanto, Eneas, con su flota, ya navegaba mar adentro”. 
+14 “que, entonces, por primera vez incluso Virgilio me resultó desagradable”. 
+15 “¿Piensas que las cenizas y los manes sepultados tienen en cuenta esto?”. 
+16 “¿Te opondrás incluso a un amor que te agrada? / ¿no te viene a la mente en qué tierras te has 
+establecido?”. 
+17 “Ella, dada vuelta, tenía los ojos fijos en el suelo, / y su rostro no se conmueve más con el discurso 
+iniciado que los dóciles sauces o las amapolas de cuello cansado”). 
+Auster, 2010 (15). ISSN 1514-0121.
+3
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+Platona neque Demosthenen ad hoc genus exercitationis accessisse 
+video18.  
+  
+En el discurso de Eumolpo hay dos tipos de cita: la primera no es una cita de un 
+texto literario sino de los nombres de los máximos exponentes literarios (cita de 
+autoridades, cf. punto 7 supra), pero es importante, en este contexto de ars poetica, la 
+particular relevancia que da a la figura de Horacio, a quien describe de una manera 
+genial; la segunda es una cita stricto sensu, también de Horacio, que tiene un peso 
+importante en el manifiesto del poetastro.  
+ 
+1. Homerus testis et lyrici Romanusque Vergilius et Horatii curiosa felicitas19 (Sat. 
+118.5) 
+En los versos 46-48 del Ars Poetica, Horacio dice: 
+ 
+in verbis etiam tenuis cautusque serendis  
+dixeris egregie, notum si callida verbum  
+reddiderit iunctura novum20.  
+ 
+Ya Collignon citaba este pasaje como referencia de Homerus testis et lyrici 
+Romanusque Vergilius et Horatii curiosa felicitas, dando a entender que Horatii curiosa 
+felicitas alude a la callida iunctura21. Efectivamente, la notable expresión petroniana22 
+                                                 
+18 “Los jóvenes todavía no eran confundidos por las declamaciones cuando Sófocles o Eurípides 
+encontraron las palabras con las que se debe hablar. Todavía ningún maestro de las sombras había 
+destruido los talentos, cuando Píndaro y los nueve líricos dudaron cantar en versos homéricos. Y para no 
+citar testimonios sólo de poetas, ciertamente no veo que ni Platón ni Demóstenes se hayan acercado a este 
+tipo de ejercicios”. 
+19 “Son testigos Homero y los líricos y también el romano Virgilio y la feliz y meticulosa búsqueda de 
+Horacio”. El sustantivo felicitas hace referencia al acierto en la dicción poética (cf. OLD, s.v. felicitas 4) 
+que se logra gracias a un esfuerzo, a una búsqueda escrupulosa, definida por Horacio en su frase labor 
+limae; por lo tanto, con la traducción de curiosa felicitas como “feliz y meticulosa búsqueda”, se intenta 
+interpretar la frase petroniana que da cuenta tanto del procedimiento poético realizado por Horacio como 
+de su resultado. Para la relación entre la iunctura petroniana y la poética de Horacio, cf. n. 22. 
+20 “En el arreglo de las palabras hay que tener incluso un estilo sin adornos y prudente; dirías 
+admirablemente bien si una unión ingeniosa e inusitada hiciera nueva una palabra conocida”. 
+21 Cf. A. Collignon, Étude sur Pétrone. La critique littéraire, l’imitation et la parodie dans le Satyricon, 
+Paris, 1892. Sostiene que “l’idée première de ce jugement sur Horace est dans ces vers d’Horace lui-
+même” (pp. 102-103). 
+22 Merecidamente, la frase ha provocado la admiración de los críticos. Así, entre otros, E. Paratore, Il 
+Satyricon di Petronio. Parte prima: Introduzione. Parte seconda: Commento, Firenze, 1933, cree que 
+Horatii curiosa felicitas es “forse la miglior definizione dell’arte oraziana” (II, p. 382); W. Arrowsmith, 
+The Satyricon of Petronius, Ann Arbor, 1962, p. 208, reconoce la dificultad de traducir tan maravillosa 
+expresión (“no phrase could better describe that quality of practiced effortlessness and formal perfection 
+so characteristic of the best of Horace”); P. Soverini, “Il problema delle teorie retoriche e poetiche di 
+Petronio”, ANRW II.32.3 (1985), 1749, finalmente, concuerda en que es una “espressione giustamente 
+famosa”. 
+Auster, 2010 (15). ISSN 1514-0121.
+4
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+cumple una doble función: es un maravilloso ejemplo de callida iunctura al tiempo que, 
+mediante ella, describe el arte del Venusino. Horacio enfatiza la excelencia en el uso 
+de las palabras con el término egregie: no recomienda términos inusuales, sino un uso 
+especial de las palabras familiares; de esta manera, un notum verbum se puede 
+convertir en novum. Incluso el uso de novus y notus es especial: el orden de las 
+palabras en Horacio es ABABA (notum-callida-verbum-iunctura-novum), dando 
+preponderancia a lo que quizá sea una callida iunctura: la expresión notum... novum. 
+Asimismo, callidus significa tanto “astuto” como “hábil”, pero en este caso la palabra se 
+refiere tanto a la habilidad en sí como a su producto23. Además, la duda que existe 
+acerca del origen del sustantivo iunctura potencia la hipótesis de que, si no es una 
+invención horaciana, seguramente el poeta le dio un nuevo valor al término. Es decir, 
+al acuñar la fórmula, pone en práctica exactamente lo que pide: frescura en la 
+expresión. La exquisitez estilística de Horacio repercute en el Satyricon: Eumolpo, a 
+pesar de que luego en el Bellum civile no cumple con esta premisa horaciana, concibe 
+su magistral frase teniendo en mente el precepto del poeta, o mejor, en este caso es el 
+propio Petronio quien se muestra a través del poetastro: “Horatii curiosa felicitas is a 
+brilliant thing to say of Horace, ergo it is Petronius speaking through the mouth of 
+Eumolpus”24.  
+Por otra parte, no habría que descartar que la frase petroniana pueda haberse 
+inspirado además en Ep. 2.1.166. En esta epístola dirigida a Augusto, que podemos 
+considerar como una suerte de “prólogo” del Ars Poetica, ya que el poeta habla acerca 
+de la poesía y el teatro, Horacio se refiere a la relación entre Grecia y Roma con sus 
+famosos versos (156-157) Graecia capta ferum victorem cepit et artis / intulit agresti 
+Latio25 y añade que, a pesar de su rusticidad, Roma spirat tragicum satis et feliciter 
+audet26 (v. 166). El contexto del verso está íntimamente relacionado con la crítica 
+augustea: sed turpem putat inscite metuitque lituram27 (v. 167), alude a Ars 285-294 
+                                                 
+23 Cf. C. Brink, Horace on Poetry. Vol. 2: The Ars Poetica, Cambridge, 1971, p.138. Para P. Fedeli, Q. 
+Orazio Flacco. Le epistole. L’arte poetica, Roma, 1997, p. 1481, callida iunctura es “un’accorta 
+associazione di parole”, con lo que se opone a interpretaciones como la de A. Rostagni, Arte poetica di 
+Orazio, Torino, 1930, que, al no considerar el significado del término en el verso 242 (tantum series 
+iuncturaque pollet, “tanta importancia tienen la disposición y la unión de los hechos”), cree que se trata 
+de la metáfora.  
+24 R. Beck, “The Satyricon, Satire, Narrator and Antecedents”, MH 39 (1982) 207. Soverini, op. cit., p. 
+1749, retoma esta idea cuando señala que, junto con las expresiones claramente preceptivas del cap. 118, 
+parecen advertirse ciertas huellas del autor, sobre todo, con expresiones como Romanus Vergilius y 
+Horatii curiosa felicitas. Según Soverini, “sarà dunque anche da considerarsi ‘petroniano’ quanto si 
+configura a tutti i livelli – non solo contenutistico ma anche espressivo – come riflesso di buon senso, 
+finezza di spirito e genuino buon gusto, mentre risulterà connotazione propria e caratterizzante del 
+personaggio ogni visuale troppo rigida e schematica”. 
+25 “La Grecia conquistada conquistó a su bárbaro vencedor / e introdujo las artes en el agreste Lacio”. 
+26 “tiene suficiente inspiración para la tragedia y se atreve feliz y apropiadamente”. 
+27 “pero, torpemente, la considera indigna y teme la corrección”. 
+Auster, 2010 (15). ISSN 1514-0121.
+5
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+(cf. limae labor y litura). En Horatii curiosa felicitas el adjetivo curiosa envía a cura, y 
+por lo tanto al labor limae; el sustantivo parece definir la felicitas del ingenio creador, 
+una felicitas particular, hecha de cura, es decir, de un ingenium particular, hecho de 
+ars: en el oxímoron el arte de Horacio encuentra la expresión lingüística perfecta (tal 
+como ocurre con las formas concordia discors, en Ep. 1.12.19, o aurea mediocritas, en 
+Carm. 2.10.5). Petronio, tomando como portavoz en este pasaje puntual a Eumolpo, 
+hace lo mismo: une dos extremos para aludir a Horacio, con el estilo del oxímoron del 
+Venusino. La poética horaciana había presagiado una fusión perfecta de ingenium y 
+ars; los términos petronianos felicitas y curiosa conducen respectivamente a uno y 
+otra28.  
+ 
+2. ut fiat “odi profanum vulgus et arceo”29 (Sat. 118.4) 
+La cita del primer verso del primer poema del libro 3 de las Odas viene a 
+sustentar la frase de Eumolpo refugiendum est ab omni verborum, ut ita dicam, vilitate 
+et sumendae voces a plebe semotae30 (118.4), es decir, el manifiesto desprecio por el 
+carácter popular de la lengua de la plebe. Sin embargo, vale la pena recordar la 
+primera estrofa de la oda para comprender que Eumolpo omite el sentido del poema: 
+ 
+                                                 
+28 Parece que en tiempos neronianos estos versos de Horacio llamaron la atención de otro gran autor, lo 
+que demuestra hasta qué grado la intertextualidad en esta época era una práctica asidua por parte de los 
+escritores. Persio desplegó en sus sátiras un conocimiento acabado de la obra de Horacio, tal como lo 
+demuestra N. Rudd, Lines of Enquiry: Studies in Latin Poetry, Cambridge, 1976. En su Sátira 5 (14-16), 
+Persio pone en boca de Cornutus, su tutor estoico, una descripción de su propio estilo y método satíricos: 
+ 
+verba togae sequeris iunctura callidus acri, 
+ore teres modico, pallentis radere mores 
+doctus et ingenuo culpam defigere ludo 
+(Pers. 5.14-16) 
+ 
+“sigues las palabras de la toga, ingenioso en la combinación de lo agudo, pulido con expresión moderada, 
+hábil en tachar las costumbres espectrales y en fijar la culpa con un libre juego”.   
+Persio rejuvenece viejos clichés literarios y lugares comunes, especialmente iunctura callidus acri, frase 
+con la que muestra su método. Persio retoma el mismo tópico (la elección de la dicción) y dos palabras 
+(iunctura y callidus) para producir algo sorprendentemente original, la idea de acri. Este pasaje 
+ejemplifica esta idea con la frase, extraña, verba togae, que no quiere decir otra cosa que discurso común, 
+y la rara combinación de ideas físicas y éticas en pallentis radere mores / doctus et ingenuo culpam 
+defigere ludo. Está claro que Persio está aludiendo a Horacio (tal como Petronio), y para ello ambos 
+escritores neronianos combinan la imitación con originales variantes que convierten el material horaciano 
+en propio, es decir, la clásica combinación de imitatio y aemulatio. Lo que debería quedar claro es que 
+Persio, como Petronio, conocía íntimamente la producción horaciana y que pretendía que sus lectores 
+reconocieran sus alusiones a Horacio y disfrutaran de su reelaboración. Este proceso, altamente 
+intelectual, es fundamental para apreciar y comprender la dimensión metaliteraria de la literatura latina. 
+29 “para que se cumpla la expresión: ‘Odio al vulgo no iniciado y lo mantengo apartado’”. 
+30 “Hay que huir, por así decirlo, de toda bajeza de las palabras y tomar términos alejados de la plebe”. 
+Auster, 2010 (15). ISSN 1514-0121.
+6
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+Odi profanum31 volgus et arceo.  
+favete linguis: carmina non prius  
+audita Musarum sacerdos  
+virginibus puerisque canto.32  
+(Hor. Carm. 3.1.1-4) 
+ 
+El poeta, como sacerdote de las Musas, habla sólo a los iniciados, tal como ocurría en 
+los misterios órficos, en los que el sacerdote pedía a los no iniciados (profani, aquellos 
+que estaban fuera del templo)33 que se marcharan. Horacio cantará carmina, término 
+que significa en este contexto no sólo “poemas”, “versos líricos” sino también 
+“profecías” e “himnos religiosos”, una muestra de que el resurgimiento de la religión 
+está en completa armonía con la política augustea. Horacio se presenta como 
+sacerdote que canta a los jóvenes porque, además de ser los más abiertos a recibir un 
+discurso nuevo, la nueva poesía, y los encargados de cumplir con la renovación moral, 
+son adecuados en un contexto cultual. Porfirión decía “profanos allegoricos indoctos 
+dicit. ceterum profani proprie dicuntur sacris non initiati. ergo quasi Musarum profanos 
+dicit”34, por lo que se podría pensar en la influencia de los manifiestos poéticos 
+calimaqueos: el “Prólogo” de las Aitia, el cierre del Himno a Apolo (vv. 105-113) y el 
+Epigrama 28 (Pf.). En este último puede verse el desprecio por todo lo popular y 
+trillado, en especial por el poema kukliko¿n35; mientras que en el prólogo de las Aitia 
+(1.25-28) Apolo le aconseja al poeta recorrer senderos no pisados por otros. Sin 
+embargo, habría que descartar en Horacio la alusión a Calímaco en este contexto, ya 
+que la metáfora religiosa se refiere principalmente al contenido más que al estilo 
+literario36, un contenido que exhorta a los jóvenes a no dejarse llevar por el afán de 
+                                                 
+31 El sentido de profanum en este contexto es de “not initiated in some rite” (cf. OLD, s.v. 2). El DRAE da 
+como acepción de “profano” (s.v. 3) “que carece de conocimientos y autoridad en una materia”, que se 
+acerca al sentido de profanum en la Oda, pero carece de la idea de iniciación. 
+32 “Odio al vulgo no iniciado y lo mantengo apartado. Guarden silencio: versos antes no oídos, como 
+sacerdote de las Musas, canto a las doncellas y a los muchachos”. 
+33 Y no “en frente del templo”, cf. R. Nisbet, N. Rudd, A Commentary on Horace: Odes Book III, Oxford, 
+2004, p. 6.  
+34 En F. Hauthal (ed.), Acronis et Porphyrionis Commentarii in Q. Horatium Flaccum, Vol. 2, 
+Amsterdam, 1966. 
+35 to\ poi¯ hma to\ kukliko¿n (v. 1) quiere decir “poema convencional, trillado” (cf. LSJ, s.v. II).  
+36 C. Connors, Petronius the Poet, Cambridge, 1998, p. 143, cree que “just as his poetic road imagery 
+rejects the Callimachean aesthetic of the untouched path, Eumolpus’ metaphor of the big river rejects 
+Callimachean programmatic imagery in which bad poetry is compared to a big river while good poetry is 
+compared to the drops of fine spray gathered by bees at a pure fountain (Call. Hymn. 2.105-12)”. Sostiene 
+que la crítica del cap. 118 no está dirigida a Lucano sino a otros poetas relacionados con la estética 
+calimaquea en la época neroniana. Relaciona, además, pate¯ ousin de Calímaco (Aet. 1, fr. 1.22-28) con 
+calcare de Eumolpo: “thus while the tener ambitus verborum which characterizes the bad poets’ works 
+refers in the first instance to the ‘delicate arrangement of words,’ perhaps it also can evoke the delicacy 
+and freshness of the paths neo-Callimacheans could lay claim to” (p. 133). Finalmente, frente a la relación 
+entre Hor. Carm. 3.1.1 y Call. Epigr. 28.4 (Pf.), Connors aclara que Petronio puede no haberla 
+Auster, 2010 (15). ISSN 1514-0121.
+7
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+riqueza y poder. En la oda, el poeta es un sacerdos, palabra que se usa para enfatizar 
+el carácter arcano de su arte; en este sentido, el término no está lejos de vates, pero, a 
+diferencia del uso a veces irónico de esta palabra, sacerdos en este caso subraya la 
+autoridad y dignidad de la declaración poética37.  
+Petronio juega con su personaje mediante la ironía: Eumolpo cita el verso 
+horaciano para expresar su desprecio por la lengua popular de la plebe, pero en 
+realidad el contexto del poema nos traslada hacia un ámbito diferente: el religioso. Así 
+como la memoria literaria de Encolpio (Sat. 81.1-2) recuerda a la perfección la pelea 
+entre Agamenón y Aquiles en el libro 1 de la Ilíada, hecho que indica su uso en las 
+escuelas38, podría pensarse que el propio Eumolpo tiene en mente en este pasaje de 
+su “arte poética” sólo el comienzo del poema horaciano, soslayando de esta manera el 
+marco sacro-mistérico de la oda: la cita sólo vale en su sentido literario de 
+manifestación estilística. De esta manera, la estrategia narrativa petroniana se hace 
+patente una vez más, evidenciando que Eumolpus poeta, desde este punto de vista, 
+no dista demasiado de Encolpio, víctima permanente de la cruel ironía del autor.   
+Dentro del complejo y variado entramado alusivo petroniano, la inclusión de las 
+citas tiene dos funciones:  
+1. Petronio, al poner la maravillosa frase Horatii curiosa felicitas en boca de Eumolpo, 
+introduce en el manifiesto del viejo poeta un elemento significativo generador de 
+ambigüedad: lleva a pensar que es imposible que una frase tan perfecta haya sido 
+pronunciada por un “loco furioso” como Eumolpo; por lo tanto, la expresión es 
+claramente un indicio de la presencia del autor, lo que ha llevado, equivocadamente, a 
+la consideración del manifiesto como evidencia y expresión de la propia poética 
+petroniana;  
+                                                                                                                                               
+considerado, o quizá “he’s implying a contrast between Horace’s superior adaptation of Callimachenism 
+and the inferior neo-Callimacheanism who are Eumolpus’ initial target” (p. 134). Por otra parte, en cuanto 
+a la relación entre Calímaco y el furor, A. La Penna, “Estasi dionisiaca e poetica callimachea”, en A. La 
+Penna, Saggi e studi su Orazio, Firenze, 1993, cree que si bien se puede subrayar el origen religioso de 
+ciertos motivos de la poética calimaquea, no hay que deformar la interpretación de su poesía: “egli resta, 
+come ben videro gli antichi, il poeta dell’ars sottile, dell’eleganza e della grazia, non dell’‘entusiasmo’: 
+con l’ardore religioso egli si limita a civettare” (pp. 332-333). En cuanto a Horacio, La Penna sostiene 
+que enfrenta el ars paciente contra el ingenium improvisador y no guía su vida según impulsos místicos: 
+“è per lo più riconosciuto che quasi mai egli riesce felice quando tenta il sublime: egli lavora meglio 
+all’insegna dell’apis Matina che quando è pericolosamente tentato da Bacco” (p. 333).  
+37 vates era un término arcaico que originalmente describía a los adivinos que revelaban sus profecías en 
+verso; luego pasó por un período de desprestigio hasta llegar a la época augustea, cuando solía usarse 
+para definir al poeta inspirado. Véase el uso irónico del término en Horacio, Ars 24-25: maxima pars 
+vatum, pater et iuvenes patre digni,/ decipimur specie recti, “La mayor parte de los poetas, padre, y 
+ustedes, sus dignos hijos, somos engañados por la apariencia de la perfección”.   
+38 Cf. G. B. Conte, L’autore nascosto. Un’interpretazione del Satyricon, Pisa, 2007, pp. 52 y ss. 
+Auster, 2010 (15). ISSN 1514-0121.
+8
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+2. la cita de la Oda implica, nuevamente, el juego del autor con su personaje, a quien 
+hace víctima de su propia ignorancia por citar un verso sin conocer su contexto de 
+significación.  
+En definitiva, el uso del recurso intertextual de la cita en este capítulo 118 del 
+Satyricon dista bastante de ser una inserción estática de otro texto en el propio, donde 
+no hay interpenetración posible entre ambos. Por el contrario, la tensión en el texto es 
+evidente a partir de que la cita sirve tanto para dejar expuesto el frágil conocimiento 
+literario de Eumolpo (característica que comparte con Encolpio y que tiene su climax 
+en Trimalción), como para que el propio Petronio se esconda detrás de su personaje, 
+al acuñar una frase memorable acerca de Horacio. Las citas al poeta Venusino 
+funcionan, además, como una suerte de clave interpretativa: Petronio parece decirnos 
+que no se puede hablar de “ars poetica” sin tener en cuenta a Horacio. 
+ 
+Resumen: 
+ 
+Este trabajo analiza el fenómeno intertextual de la “cita” en Petronio, Sat. 118, 
+donde el poeta de la obra, Eumolpo, expone su particular “ars poetica”. En este 
+discurso, Eumolpo cita los nombres de Homero, Virgilio y Horacio, al tiempo que cita el 
+primer verso de la Oda 3.1 del Venusino, lo que evidencia que el poetastro tiene muy 
+en cuenta la figura horaciana. El análisis de las citas en este pasaje se relaciona con 
+que Petronio es un autor que alude constantemente, pero que cita muy rara vez, por lo 
+que, cuando lo hace, se debe prestar mucha atención.  
+ 
+Palabras clave: Petronio – Satyricon – Eumolpo – Horacio – cita  
+ 
+Abstract: 
+ 
+This paper surveys the intertextual phenomenon of “quotation” in Petronius, Sat. 
+118, where the poet, Eumolpus, sets out his particular “ars poetica”. In this speech, 
+Eumolpus quotes the names of Homer, Virgil and Horace, along with Horace’s Carm. 
+3.1.1, which demonstrates that the poetaster bears in mind the Venusian author. The 
+survey of the quotations in this passage is related to the fact that Petronius is an author 
+who constantly alludes but rarely quotes, so that when he does it, the reader should 
+pay close attention. 
+ 
+Keywords: Petronius – Satyricon – Eumolpus – Horace – quotation  
+ 
+Auster, 2010 (15). ISSN 1514-0121.
+9
+Auster –  Nro 15, p. 37-46.  Año 2010.  ISSN 1514-0121 
+Versión preprint 
+RECIBIDO: 1-11-2010 – ACEPTADO: 2-12-2010 
+ 
+Auster, 2010 (15). ISSN 1514-0121.
+10

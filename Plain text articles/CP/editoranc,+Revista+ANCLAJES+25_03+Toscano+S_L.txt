@@ -1,0 +1,863 @@
+117
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+T
+oscano y García, Guillermo. “Ondas que llevan idioma nacional. Las Lecciones de 
+Florencio Garrigós en la Escuela del Aire”. Anclajes, vol. XXV, n.° 3, septiembre-
+diciembre 2021, pp. 117-135.
+https://doi.org/10.19137/anclajes-2021-25314
+Ondas que llevan idioma 
+nacional. Las Lecciones 
+de Florencio Garrigós 
+en la Escuela del Aire
+Guillermo T
+oscano y García
+Instituto de Lingüística
+Universidad de Buenos Aires
+Argentina
+gtoscano@filo.uba.ar
+ORCID: 0000-0001-6437-2768
+Fecha de recepción: 15/06/2021 | Fecha de aceptación: 29/07/2021.
+Resumen: En 1940, el periodista, gramático y docente argentino Florencio Garrigós 
+publica sus Lecciones de idioma nacional. El presente trabajo tiene el objetivo de analizar, 
+desde la perspectiva de la historiografía lingüística, los rasgos específicos que esta obra 
+presenta en la historia de la gramática escolar argentina. Para ello, reconstruye en pri-
+mer lugar la trayectoria profesional de su autor; luego, presenta en sus rasgos generales 
+la Escuela del Aire, primera experiencia de educación a distancia que utilizó el formato 
+radiofónico en la Argentina. Finalmente, analiza las Lecciones, y demuestra que se trata de 
+un texto innovador en al menos dos sentidos: por la innovación didáctica que propone 
+y por la definida perspectiva que adopta frente a los fenómenos de variación lingüística 
+propios de la Argentina, que valora positivamente.
+Palabras clave: Florencio Garrigós; Escuela del Aire; gramática escolar argentina; siglo 
+XX; historiografía lingüística.
+Waves that carry national language. 
+The Lecciones of Florencio Garrigós at the Escuela del Aire
+Abstract: In 1940, the Argentine journalist, grammarian and teacher Florencio Garrigós 
+published his Lecciones de idioma nacional. Within the framework of linguistic historiog-
+raphy, we aim to analyze the specific features that this work presents in the history of 
+Argentine school grammar. T
+o do this, we first reconstruct the professional career of its 
+author; then, we present the Escuela del Aire, the first distance education experience 
+that used the radio in Argentina. Finally, we analyze the text of the Lecciones, and argue 
+that it is an innovative work in at least two senses: because of the didactic innovation 
+that it proposes and because of the defined perspective it adopts regarding the Argen-
+tinian linguistic variation phenomena, which it values ​
+positively.
+Keywords: Florencio Garrigós; Escuela del Aire; Argentinian school grammar; twentieth 
+century; linguistic historiography.
+118
+Guillermo T
+oscano y García | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+L
+as Lecciones de idioma nacional, de Florencio Garrigós (circa 
+1880-1956), ocupan un lugar singular en la historia de la en-
+señanza gramatical escolar en la Argentina. Publicadas en 1940, 
+consisten en la versión escrita de una experiencia novedosa: el curso que Garri-
+gós, en el marco de la Escuela del Aire, había ofrecido a comienzos de ese mismo 
+año en la Radio del Estado. Pero la singularidad de las Lecciones no radica úni-
+camente en el formato que adoptan para dar respuesta a las exigencias impuestas 
+por esas nuevas tecnologías de la palabra; se debe también al criterio radical que 
+establecen para valorar los rasgos propios de la lengua hablada en el país. Así, 
+frente a una tradición escolar que a menudo había buscado ignorarlas o corregir-
+las, el texto de Garrigós constituye una reivindicación de las características que, 
+como el voseo, el seseo o el yeísmo, informaban el habla de los argentinos.
+En lo que sigue, reconstruimos algunas de las coordenadas más destacadas 
+de la trayectoria educativa y periodística de Garrigós; presentamos luego el pro-
+yecto de la Escuela del Aire, la primera experiencia de educación a distancia 
+que utilizaba el formato radiofónico; y, finalmente, analizamos los aspectos más 
+relevantes de las Lecciones. 
+Florencio Garrigós
+En la sesión que la Academia Argentina de Letras realiza el 25 de abril de 
+1957, el académico Ricardo Sánz-Hayes se propone destinar “unas palabras en 
+homenaje a dos escritores recientemente fallecidos: los doctores Ángel Acuña 
+y Florencio Garrigós” (171). Como se apresura a recordar, ninguno de ellos 
+había formado parte de la Academia, pese a lo cual, entiende, es justo honrar 
+su trayectoria. Así, luego de repasar los méritos literarios, históricos, filosóficos 
+y pedagógicos de Acuña, se afana en declarar la diferente estirpe de Garrigós: 
+“Abogado y periodista, el rudo, silencioso y pertinaz oficio cotidiano […] le hizo 
+Ondas que transmitem a língua nacional. 
+As Lecciones de Florencio Garrigós na Escuela del Aire
+Resumo: Em 1940, o jornalista, gramático e professor argentino Florencio Garrigós 
+publicou suas Lecciones de Lengua Nacional. No marco da historiografia linguística, nos 
+propomos a analisar as particularidades que este trabalho apresenta na história da gra-
+mática escolar argentina. Visando tal objetivo, primeiro reconstruímos a carreira profis-
+sional do autor; a seguir, apresentamos as principais características da Escuela del Aire, a 
+primeira experiência de educação a distância que utilizou o formato de rádio na Argen-
+tina. Por fim, analisamos as Lecciones e mostramos que se trata de um texto inovador em 
+dois sentidos: pela inovação didática que propõe e pela perspectiva que adota sobre os 
+fenômenos de variação linguística típicos da Argentina, que ele valora positivamente.
+Palavras chave: Florencio Garrigós; Escuela del Aire; gramática escolar argentina; Sécu-
+lo XX; historiografia da lingüística.
+119
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Ondas que llevan idioma nacional. Las Lecciones de Florencio...: 117-135
+actuar, no diré en una zona de sombra, pero sí poco propicia para difundir pres-
+tigio cuando el hábito del anónimo se convierte en segunda naturaleza” (171). 
+La observación de Sáenz-Hayes traza de este modo una aparente contradicción 
+entre firma y prestigio, por un lado, como rasgos que distinguirían a la élite le-
+trada; y el carácter despersonalizado y poco lucido que distinguiría a la escritura 
+en el periódico.
+Al esbozar una biografía, Sáenz-Hayes confirma esa presentación inicial. 
+Dueño, dice, de una vocación “acendrada y recóndita” por la gramática y la 
+filología, Garrigós se incorpora a la redacción de La Prensa “con una veintena de 
+años” para suceder “la memoria y erudición de un señor chapeado a la antigua 
+que imponía con su prestancia tanto como con su predicamento”, “el doctor 
+Matías Calandrelli” (172). Este había tenido a su cargo la sección “Informacio-
+nes gramaticales y filológicas” y había publicado, en 1917 y 1919, dos volúme-
+nes que compilaban gran parte de esas columnas; en 1944, casi tres décadas más 
+tarde, Garrigós, que se había hecho cargo de la sección bajo el nuevo nombre 
+de “Gramaticales y filológicas”, continuará esa tradición y presentará una reco-
+pilación de sus artículos en un volumen, Gramaticales y filológicas de ‘La Prensa’. 
+Los libros de Calandrelli y Garrigós evidencian la aspiración a una forma de 
+trascendencia propia del libro impreso; pero, a la vez, buscan asociar la firma del 
+autor a un cierto tipo de circulación del saber, que si no es el de la Academia y 
+tampoco el de un ya consolidado campo científico, parece sin embargo reclamar 
+para sí un cierto tipo de autoridad.
+La actividad periodística de Garrigós se extiende por varias décadas y a través 
+de diferentes medios: durante el veinte, escribe frecuentemente sobre cuestiones 
+lingüísticas en El Hogar, y es responsable de la sección “El idioma castellano en la 
+Argentina” que se publica en Caras y Caretas. En esas columnas, y en la tradición 
+de Calandrelli, Garrigós destina breves textos a dar cuenta del correcto sentido 
+o uso de una expresión. 
+Pero su campo de intervención no se limita a la prensa, sino que se extiende 
+a la educación, y es también por su labor en este ámbito que obtiene reconoci-
+miento. Así, por ejemplo, lo presenta el diario Crítica, cuando lo invita a respon-
+der una encuesta, que publica durante junio de 1927, sobre la posible existencia 
+de un “idioma propio” de los argentinos: “Florencio Garrigós (hijo) es profesor 
+de castellano en la Biblioteca del Consejo Nacional de Mujeres y del Colegio 
+Nacional Juan Martín de Pueyrredón, autor de varios trabajos lingüísticos y de 
+‘El idioma castellano en la Argentina’, que viene publicando la revista Caras y 
+Caretas” (Garrigós Encuesta 12). 
+Un texto sin firma publicado también en El Hogar poco más tarde, en 1928, 
+permite reconstruir parcialmente la actividad de Garrigós en uno de los espacios 
+en los que se desempeña como docente, la Biblioteca del Consejo Nacional de 
+Mujeres, y al mismo tiempo sus ideas acerca de la enseñanza de la gramática. 
+El artículo comienza recogiendo un tópico del discurso gramatical del período, 
+que denuncia el envejecimiento de los métodos utilizados para la enseñanza de 
+120
+Guillermo T
+oscano y García | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+la gramática y proclama la necesidad de su renovación. A continuación, el tex-
+to observa que la reforma necesaria, que no ha ocurrido todavía en el sistema 
+educativo argentino, encuentra ejemplo y provecho en las clases dictadas por 
+Garrigós en la Biblioteca del Consejo:
+No se ha dado todavía, para la enseñanza de la gramática, con los sistemas prácticos, 
+sintéticos, preconizados por la pedagogía moderna. Por eso nos es grato […] refe-
+rirnos al sistema adoptado para el caso, en la clase de Gramática que funciona en el 
+curso de estudios de la Biblioteca del Consejo Nacional de Mujeres, bajo la dirección 
+del profesor señor Florencio Garrigós (hijo). (Escollos 21)
+Según se indica, en 1927 la Biblioteca había dispuesto crear un “curso espe-
+cial de redacción y ortografía como complemento del de dactilografía” que allí 
+se venía ofreciendo, y había confiado su dictado a Garrigós, de quien el artículo 
+destaca la capacidad de innovación pedagógica. Ese método de enseñanza busca 
+conducir la atención de las alumnas no hacia un saber teórico sino hacia uno 
+práctico, específicamente hacia el uso escrito de la lengua, con el propósito de 
+deducir a partir de él los principios de la gramática:
+De acuerdo con la opinión de aquellos autorizados pedagogos que sostienen que el 
+conocimiento debe ser producto espontáneo de la actividad del educando y adqui-
+rirse por propia experiencia, el señor Garrigós, en su método de enseñanza, resolvió 
+prescindir en absoluto de las definiciones y de la exposición teórica de las intrincadas 
+reglas cuyas excepciones son, a veces, tantas, que hacen pesado su aprendizaje, y es-
+tableció, en consecuencia, que sus alumnas estudiaran los hechos gramaticales, prác-
+ticamente, en la realidad de la vida, en la lectura de diarios y revistas, deduciendo, 
+de la observación constante y metódica de los mismos, los principios ortográficos y 
+sintácticos. (Escollos 21)
+De acuerdo con su propuesta, la formación lingüística de las alumnas debía 
+proceder de la exposición reiterada a los estímulos lingüísticos ofrecidos por la 
+prensa periódica: cada una debía formar “una carpeta de recortes” que coleccio-
+nara “gran copia de ejemplos ortográficos, de concordancia, etc., mediante lo cual 
+llega a familiarizarse pronto con las reglas que rigen la construcción de las cláusu-
+las en lo escrito”; un método que el autor anónimo se propone ilustrar mediante 
+la presentación del trabajo realizado por “una de las alumnas más aventajadas de 
+dicha clase” (incluyendo una fotografía de su cuaderno), básicamente ejercicios 
+gramaticales realizados a partir de “ejemplos tomados de las páginas de la revista 
+El Hogar” (21). El artículo concluye pronunciándose abiertamente a favor de la 
+renovación pedagógica propuesta por Garrigós, un rasgo que impacta en su parti-
+cipación, una década después, en el proyecto estatal de la Escuela del Aire. 
+Con excepción de los trabajos que, durante las décadas siguientes, publica en 
+diarios y revistas, registramos otro material destinado a la enseñanza gramatical, 
+particularmente de la ortografía: el Encuadernador ortográfico que publica posi-
+121
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Ondas que llevan idioma nacional. Las Lecciones de Florencio...: 117-135
+blemente en 1930 junto con Francisco Camón Gálvez1. En este texto, se propo-
+ne nuevamente una perspectiva renovadora que se manifiesta contra la tradición 
+memorística y a favor de un saber práctico: “No se insista en el enunciado de la 
+regla ortográfica, sino después que multitud de ejemplos hayan demostrado su 
+conveniencia de manera inconcusa. Más que la exposición teórica, de dudoso 
+resultado, la ortografía exige, imperiosamente, una práctica constante e ininte-
+rrumpida (Garrigós y Camón Gálvez: s/p). 
+El Encuadernador parece obtener una recepción favorable en el ámbito edu-
+cativo, a juzgar por la reseña que le dedica El Monitor de la Educación Común, 
+que, tras declarar que “la enseñanza de la gramática en los colegios naciona-
+les, sigue siendo, para muchos profesores, un problema sin solución racional” 
+recomienda abiertamente su uso: “El método que Garrigós y Camón Gálvez 
+preconizan –y que es justo y necesario recomendar a profesores y alumnos– se 
+basa […] en la doble acción que obliga a investigar a estos y ayuda a resolver a 
+aquellos” (295).
+De este modo, cuando, casi una década más tarde, Garrigós sea designado 
+para dictar las lecciones de idioma nacional en el marco de la Escuela del Aire, 
+lo hará ya investido de un prestigio que proviene no solamente de su extensa tra-
+yectoria como docente y en la prensa periódica, sino de un rasgo que señalada-
+mente se le atribuye desde distintos ámbitos públicos, incluyendo los del Estado: 
+su capacidad de innovar en materia de enseñanza de la lengua.
+La Escuela del Aire
+La Escuela del Aire se crea por un decreto presidencial publicado en el Bole-
+tín oficial el 31 de agosto de 1939, durante la presidencia de Roberto M. Ortiz y 
+la gestión de Jorge Eduardo Coll como Ministro de Justicia e Instrucción Públi-
+ca. Se trata, como ha sido ya observado por Nieto y de Majo, de una iniciativa 
+pionera en la Argentina en el campo de la educación a distancia mediante el uso 
+de la radiofonía. La disposición presidencial establecía la creación de una “comi-
+sión” que tendría a su cargo la preparación de un plan de funcionamiento para 
+una futura “Escuela del Aire”; entre sus considerandos, señala que el uso de las 
+transmisiones radiofónicas podría “constituir un medio eficaz de desarrollo cul-
+tural y un complemento de la función docente del maestro y profesor”. Según la 
+misma disposición, la comisión sería tripartita (el Director General de Correos 
+y Telégrafos, doctor Adrián C. Escobar, repartición de la que dependía la red 
+radiotelefónica nacional; el Vocal del Consejo Nacional de Educación, profesor 
+Próspero G. Alemandri; y el Inspector de Enseñanza Secundaria, dependiente 
+del Ministerio de Justicia e Instrucción Pública, Ángel J. B. Rivera) y tendría a 
+1	
+El libro no indica fecha de edición. Nuestro ejemplar posee una dedicatoria autógrafa de Ga-
+rrigós con fecha 26 de agosto de 1930. De ese mismo año son las reseñas bibliográficas que se 
+publican en El Monitor de la Educación Común y La literatura argentina.
+122
+Guillermo T
+oscano y García | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+su cargo “la preparación de un plan destinado a implantar progresivamente la 
+‘Escuela del Aire’, en la enseñanza primaria, secundaria, normal y especial”. 
+Algunos meses después, en noviembre de 1939, El Monitor de la Educación 
+Común se hace eco de la noticia y presenta en extenso las características de la 
+Escuela: indica que la comisión ha cumplido la misión encomendada y ha pre-
+sentado el plan que se resume a continuación. Según se advierte, este ha sido ya 
+ensayado satisfactoriamente, y la Escuela comenzará a funcionar el 10 de enero 
+de 1940. La publicación (Escuela 31-32) recuerda en primer lugar los objetivos 
+de la flamante Escuela:
+Completar y perfeccionar la obra de la escuela, vinculando al alumno con 
+1.-	
+el medio social en que vive.
+Orientar la cultura popular en todas sus manifestaciones acentuando el 
+2.-	
+fondo moral y afianzando el sentimiento nacional y patriótico.
+Contribuir a la unidad de la enseñanza difundiendo las nociones básicas 
+3.-	
+de todos los conocimientos.
+Para alcanzar esos objetivos, continúa, el Plan contempla transmisiones des-
+tinadas a cinco grupos diferenciados: niños de primaria, estudiantes de enseñan-
+za secundaria, adultos, maestros y padres. Para cada uno, propone una selección 
+de los contenidos: mientras que las dirigidas a los estudiantes de primaria y 
+secundaria “se referirán con preferencia a los asuntos y temas de los programas 
+oficiales”, las de adultos “comprenderán temas destinados a completar su forma-
+ción cultural y su educación cívica y social”. Por su parte, aquellas dirigidas a los 
+maestros “tenderán a perfeccionar los métodos y procedimientos de enseñanza, 
+a informarles de las novedades en el orden científico y educacional, a dictarles 
+instrucciones para el mejor cumplimiento y desarrollo de los programas oficia-
+les” (32).
+El Monitor expone también las características que, de acuerdo con la Comi-
+sión, debían presentar las transmisiones radiales. Destaca, en primer lugar, la exi-
+gencia de que sean “breves, variadas y amenas. Debe procurarse originalidad en 
+la forma de presentar los asuntos” (33); un requerimiento que, como veremos, 
+resulta determinante en la propuesta de Garrigós. En cuanto a los programas, se 
+indica que todas las materias pueden ser motivo de transmisión, pero que “ha 
+de darse especial preferencia a la Moral, el Lenguaje, la Historia, la Geografía, 
+la Naturaleza y la Música” (33). Significativamente, indican también los recur-
+sos didácticos que deben utilizarse: “Lectura, Recitado, Declamación, Diálogo, 
+Dramatización, Biografía, Conferencia, Reportaje y entrevista, Música, Canto” 
+(33). El Monitor reproduce asimismo los programas correspondientes a los dife-
+rentes destinatarios: 18 temas para primaria, 22 para adultos, 12 para maestros 
+y 14 para padres. En lo que respecta a los estudiantes secundarios, a quienes es-
+taban originalmente destinadas las Lecciones de Garrigós, la Comisión no ofrece 
+una lista de temas: señala en cambio que estas trasmisiones se realizarán dentro 
+123
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Ondas que llevan idioma nacional. Las Lecciones de Florencio...: 117-135
+y fuera del aula, como “cursos complementarios a los establecidos en los progra-
+mas oficiales” y “cursos de repaso” respectivamente (34).
+Las Lecciones de idioma nacional (1940)
+En 1940, apenas transcurridos unos meses de las primeras transmisiones de 
+la Escuela, se publican las Lecciones de idioma nacional, de Florencio Garrigós. La 
+“Introducción” del volumen está a cargo del Inspector Ángel J. B. Rivera, quien 
+fuera parte de la Comisión a cargo de la Escuela. El texto que se presenta, recuer-
+da Rivera, comprende las lecciones con que “fueron inauguradas el verano últi-
+mo las transmisiones experimentales de la Escuela del Aire, que continúan rea-
+lizándose por la Radio del Estado” (5). Su publicación es consecuencia del éxito 
+obtenido por Garrigós, quien habría conseguido un público significativamente 
+más amplio que el previsto. Así, observa Rivera que las lecciones sobrepasaron 
+con creces su inicial cometido pedagógico, y no solo consiguieron satisfacer las 
+exigencias pedagógicas de la Comisión, también “las necesidades del público, no 
+escaso, que se preocupa por mejorar el idioma” (6). Esa ampliación, para Rivera, 
+es evidencia de la potencia expansiva de la radio y confirmación del proyecto 
+de la Escuela: “Por eso, ¡generoso destino de la Escuela del Aire!, estas lecciones 
+no se han limitado a servir a la inteligencia de los estudiantes secundarios, sino, 
+también, a la de todas las personas cultas, muchos profesores de la materia entre 
+ellas, que pueden sintonizar la onda del Estado, desgraciadamente de muy corto 
+alcance aún” (6).
+Rivera señala que las lecciones de idioma nacional buscaban estimular “el 
+repaso de los conocimientos adquiridos en el primer año del estudio de nuestro 
+idioma”, y servir de introducción al estudio del segundo (6). Y subraya que la 
+Comisión había asignado el curso a Florencio Garrigós debido a “su reconocida 
+autoridad en la materia y su ya larga e intensa experiencia periodística y docente” 
+(5). Así, al desplegar un discurso gramatical específico, a la vez escolar y radial, 
+Garrigós debió contemplar los requisitos impuestos por la Comisión: “Tales re-
+quisitos no son otros que los indispensables para que la radiotelefonía cumpla su 
+objetivo pedagógico, que consiste en auxiliar al profesor, dentro y fuera del aula” 
+(5). Entre estos requisitos, destaca el uso del diálogo como recurso didáctico 
+propio del formato radiofónico:
+El diálogo, que se usa como medio de expresión exclusivo, es otra de las exigencias de 
+la pedagogía radiotelefónica. […] El profesor Garrigós interpretó magníficamente este 
+propósito, con lo que logró que sus clases de Idioma Nacional fueran una sucesión de 
+charlas amenísimas, en las que el oyente aprendía mucho casi sin esfuerzo. (6-7)
+La cita testimonia la doble centralidad que para las autoridades educativas 
+tenía la tarea encomendada a Garrigós. Por un lado, sus lecciones inauguran las 
+transmisiones de la Escuela del Aire, evidencia del lugar eminente asignado a la 
+124
+Guillermo T
+oscano y García | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+cuestión del idioma. Por otro lado, la validación de unos recursos didácticos que 
+permiten una modalidad de enseñanza ajustada a los consumos culturales de sus 
+destinatarios, y por lo tanto un aprendizaje entretenido y “casi sin esfuerzo”.
+Este formato, que podemos llamar diálogo gramatical, no era completamente 
+novedoso en la tradición gramatical escolar argentina. Lo novedoso radica aquí en 
+el uso de la radiofonía, que imprime a esos diálogos el soporte de la lengua oral. 
+Para dar vida a estos diálogos, las Lecciones se organizan como “una reunión de 
+personas cultas”, representadas en el texto impreso por las letras P
+., H., S., D. y C.2. 
+En cada reunión, estos personajes se dedicaban a “discutir sobre distintos aspectos 
+del lenguaje, en forma muy adecuada para atraer la atención del estudiante y del 
+público en general”, es decir, de forma “rápida, vivaz, sin ningún parlamento largo 
+ni aburrido”. Las intervenciones solo se interrumpían “para dar lugar a alguna lec-
+tura en prosa o en verso, así como a la interpretación de algún fragmento teatral, 
+con los que se ilustraron los conceptos emitidos en el diálogo” (7). 
+Gramática radiofónica: temas y procedimientos para un formato
+El libro se organiza en trece lecciones; cada una comprende entre tres y seis 
+temas, que sin embargo solo se identifican en el índice y en el “Sumario” que 
+antecede a cada lección. Cada una de estas se presenta como una conversación 
+ininterrumpida entre los cinco personajes, que abordan los distintos contenidos 
+sin que medie una presentación explícita; normalmente encontramos solo una 
+referencia debida a uno de los interlocutores (frecuentemente P
+., el personaje a 
+cargo de Garrigós), y el cambio de tema dentro de la misma lección se produce 
+sin solución de continuidad. El ordenamiento de los contenidos de enseñanza 
+obedece a un criterio aparentemente caótico: el listado completo se ofrece a con-
+tinuación (Garrigós Lecciones 13):
+Lección primera
+Manejo del Diccionario. Voces anticuadas. Expresiones del arrabal. 
+a)	
+Sustantivo. Aumentativos, diminutivos y despectivos.
+b)	
+El verbo. Uso de “haber” en sentido impersonal.
+c)	
+El adverbio en grado superlativo.
+d)	
+Vicios de pronunciación: supresión de las eses finales.
+e)	
+El acento en el verso.
+f)	
+Lección segunda
+La prosa de Cervantes. Lectura y comentario de un trozo del Quijote.
+a)	
+Arcaísmos y abuso del gerundio.
+b)	
+Recitación de “Letanía de nuestro señor Don Quijote”, de Rubén Darío
+c)	
+2	
+Que en la versión radiofónica correspondían a los personajes interpretados por Florencio Garri-
+gós (P), Zulema Howard (H), José Sanllorenti (S), Nora de Madrid (D) y Tulio Campos (C).
+125
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Ondas que llevan idioma nacional. Las Lecciones de Florencio...: 117-135
+Lección tercera
+Valor del pretérito indefinido y del pretérito perfecto de indicativo. Uso 
+a)	
+del futuro de subjuntivo.
+La noticia y el comentario
+b)	
+Recitación de “Al pasar”, de Guido y Spano
+c)	
+Lección cuarta
+Aspecto ético del lenguaje.
+a)	
+Voces eruditas y técnicas, regionales y familiares.
+b)	
+Correspondencia de los tiempos verbales en la oración compuesta.
+c)	
+La conjunción.
+d)	
+Práctica sobre la puntuación.
+e)	
+Lección quinta
+Clasificación gramatical de las voces en el Diccionario.
+a)	
+Voces de acentuación dudosa.
+b)	
+La pronunciación esmerada y la pronunciación descuidada.
+c)	
+Práctica sobre la puntuación.
+d)	
+Lección sexta
+Las distintas acepciones que registran las voces en el Diccionario.
+a)	
+El acento en las palabras compuestas.
+b)	
+Galicismos útiles y galicismos innecesarios.
+c)	
+Verbos transitivos que pueden emplearse como intransitivos.
+d)	
+Práctica sobre el acento.
+e)	
+Lección séptima
+La lectura artística.
+a)	
+Casos especiales de concordancia del verbo con el sujeto.
+b)	
+Vicios que se cometen en la conjugación de algunos verbos de irregula-
+c)	
+ridad común.
+Italianismos naturalizados en nuestra lengua.
+d)	
+Práctica sobre el acento.
+e)	
+Lección octava
+La pronunciación culta argentina.
+a)	
+Confusión de vocablos parecidos.
+b)	
+El tono del lenguaje según el asunto.
+c)	
+Empleo abusivo del participio pasivo regular.
+d)	
+Lección novena
+El loísmo y el laísmo en América.
+a)	
+La prosodia y el género a través del Diccionario de la Academia.
+b)	
+126
+Guillermo T
+oscano y García | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+Uso incorrecto de “cuyo”.
+c)	
+Verbos que solo admiten complemento directo de cosa.
+d)	
+Práctica sobre el acento.
+e)	
+Lección décima
+El soneto.
+a)	
+Nombres de oficios, empleos y profesiones con terminación propia para 
+b)	
+denotar el género femenino.
+Malos usos en la formación de algunos plurales.
+c)	
+Prosodia de los verbos terminados en “iar” y en “cuar”.
+d)	
+Expresiones cuyos elementos se escriben juntos o separados, según el 
+e)	
+sentido que se les dé.
+Lección décimoprimera
+La descripción de personas, lugares y cosas.
+a)	
+Terminación genérica de los participios activos usados como nombres o 
+b)	
+adjetivos.
+Vulgarismos producidos por síncopa, prótesis, epéntesis, aféresis, apóco-
+c)	
+pe y metátesis.
+La interrogación y la admiración. 
+d)	
+Lección décimosegunda
+El lenguaje gauchesco. Lectura y comentario de un fragmento de 
+a)	
+Mar-
+tín Fierro. 
+El yeísmo.
+b)	
+El voseo practicado por la gente culta. 
+c)	
+Lección décimotercera
+La narración.
+a)	
+La recitación del verso y la declamación.
+b)	
+Mal empleo del gerundio.
+c)	
+Defectos de pronunciación: falsos diptongos.
+d)	
+El paréntesis y las comillas.
+e)	
+El texto impreso parece replicar el guion radiofónico3; no obstante, algunas 
+marcas, como las notas al pie que amplían los conceptos tratados o indican una 
+fuente bibliográfica, remiten exclusivamente al universo del texto escrito. Como 
+adelantamos, cada lección se presenta como un diálogo ininterrumpido entre 
+3	
+No nos ha sido posible hallar una grabación de las emisiones radiales. En la página web de 
+Radio Nacional (https://www.radionacional.com.ar/audios) se conserva un fragmento de la pri-
+mera lección; allí es posible verificar que el texto impreso sigue en líneas generales la emisión 
+radiofónica, con mínimas modificaciones (“del arrabal” en el texto impreso; “arrabaleras” en la 
+versión radiofónica). 
+127
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Ondas que llevan idioma nacional. Las Lecciones de Florencio...: 117-135
+los distintos personajes: así, la ilación de los temas resulta de la propia dinámica 
+de la conversación. Como se evidencia en el temario, la organización del dis-
+curso gramatical no sigue un orden como el tradicionalmente consagrado por 
+las instituciones reguladoras (por ejemplo, por niveles gramaticales: ortografía, 
+analogía, sintaxis) sino uno casi libre, que por una parte excede los contenidos 
+estrictamente gramaticales; y, por otro, se desplaza creativamente entre los temas 
+de cada lección.
+Además de la modalidad del diálogo, otros procedimientos aparecen de for-
+ma recurrente. Así, y en continuidad con una tradición también ya largamente 
+asentada en el texto gramatical escolar, en cada transmisión se leen o recitan 
+textos literarios de diversos géneros. El texto es pródigo en la mención y ejem-
+plificación de autores españoles, latinoamericanos y argentinos; lo distintivo no 
+es tanto el canon que se construye, que se corresponde en lo esencial con el ha-
+bitual para la época (Bombini 2004), sino el tipo de aproximación a esos textos, 
+vinculado a las condiciones específicas del formato radiofónico. 
+Así, en las lecciones radiofónicas lo que se ofrece no es una experiencia de 
+lectura sino de escucha. En esta línea, destacan los contenidos asociados direc-
+tamente con la oralidad, con la recitación y la lectura en voz alta: “La lectura 
+artística” o “El tono del lenguaje según el asunto”. Las lecciones llevan a cabo 
+toda una puesta en escena de la palabra hablada, cuya función a menudo es no 
+solo demostrar un tipo de lectura en voz alta que se califica de adecuada sino 
+distintas variedades de lengua, que son ejemplificadas por las intervenciones de 
+los actores. Así, por ejemplo, se ofrece una lectura del Martín Fierro, señalan-
+do de forma explícita que es la que corresponde al género gauchesco: “Tulio 
+Campos interpretará uno de los cantos del Martín Fierro, dándole adecuada 
+inflexión gauchesca. De intento hemos elegido un pasaje aun no vulgarizado 
+por los recitadores de oficio, cuya interpretación, en general, peca por lo inco-
+rrecta y exagerada” (182). A continuación, el mismo actor realiza una segunda 
+interpretación, de otro texto literario, que se ofrece como ejemplo de una lectura 
+correcta en la medida en que el actor consigue ofrecer una “inflexión” lingüística 
+a la vez característica y diferenciada de la lengua gauchesca (187): “Tulio Cam-
+pos interpretará una composición de José R. Luna, titulada ¿Qué más se puede 
+pedir?, humilde y pintoresca. Noten, en el recitado, cuán distinta es la inflexión 
+norteña de la gauchesca”.
+Por otro lado, hay frecuentes referencias a otros géneros menos recurridos por 
+la tradición escolar, como el teatro argentino: un fragmento de Pa mujer, la de mi 
+tierra, de Ernesto Marsili, permite testimoniar el habla rioplatense (124); se obser-
+va también un novedoso trabajo sobre los géneros discursivos propios de los me-
+dios de comunicación y de la prensa gráfica, como la noticia y el comentario, que 
+formaban parte de la práctica docente de Garrigós desde hacía ya una década.
+Finalmente: a pesar de su carácter de educación a distancia, las Lecciones soli-
+citan a sus oyentes frecuentes ejercitaciones. Normalmente, hacia el final de una 
+lección se propone un ejercicio, cuya corrección se ofrece al comenzar la siguiente. 
+128
+Guillermo T
+oscano y García | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+Los ejercicios se vinculan mayoritariamente con la ortografía, y consisten en un 
+dictado (70): “P) Por hoy terminamos. En la próxima lección, los oyentes que lo 
+desearen podrán hacer un ejercicio sobre puntuación. Esperamos que nos escu-
+chen provistos de papel y pluma”4. Las ejercitaciones permiten registrar también 
+una cierta forma de interacción entre los responsables de las lecciones y sus oyen-
+tes; así, al comenzar la sexta se dice que muchos dictados han sido “devueltos por 
+correo a sus autores” con su respectiva corrección (85). Todavía más, una lección 
+retoma y responde una consulta de un oyente (al que, significativamente, se alude 
+como “alumno”), referida en este caso a las reglas de acentuación gráfica (160).
+Corrección, norma y variedad o la audacia de las Lecciones
+El recorrido gramatical propuesto por las Lecciones incluye algunos temas 
+que habitualmente formaban parte del curso de analogía; por ejemplo, las clases 
+de palabras. El abordaje, sin embargo, no es exhaustivo: por una parte, no se in-
+cluyen algunas de las habituales, como el pronombre o la preposición; por otro, 
+el tratamiento de las que se incluyen resulta al menos heterodoxo: respecto del 
+verbo, por ejemplo, no se presenta el paradigma completo, y en cambio aparecen 
+como temas el uso de “haber” impersonal, la distinción entre pretérito indefini-
+do y pretérito perfecto o el uso del futuro de subjuntivo. Lo mismo ocurre con 
+los demás niveles, la prosodia y la ortografía y la sintaxis. 
+En este sentido, las Lecciones no parecen obedecer a la voluntad de con-
+seguir una explicación comprensiva. Antes bien, los contenidos privilegiados 
+responden a una preocupación que se relaciona con el buen uso de la lengua, 
+con la corrección lingüística. Ya desde su enunciación, los temas se ordenan en 
+relación con un eje valorativo: “abuso del gerundio”, “vicios que se cometen en 
+la conjugación de algunos verbos de irregularidad común” o “empleo abusivo del 
+participio pasivo regular”.
+Garrigós destina gran parte de las Lecciones a caracterizar con claridad el tipo 
+de enseñanza de la norma lingüística al que aspira. En primer lugar, se trata de 
+rechazar un tipo de policía lingüística que en las Lecciones Garrigós encarna en 
+la figura de “Sábelotodo”, pero que parece remitir también a otras relativamente 
+contemporáneas como las de Ricardo Monner Sans o Juan B. Selva. La enseñan-
+za de la lengua, para Garrigós, no tiene que ver con la tarea que llevan a cabo esos 
+“celosos guardadores del idioma”, cuya “manía persecutoria” rechaza de modo 
+verdaderamente enfático (54-55):
+H) ¿Han leído ustedes la severa crítica del que firma con el seudónimo de Sábelotodo?
+S) No deja títere con cabeza.
+H) Hablar del hablar de los demás, en un afán alocado de señalar defectos, me ha 
+parecido tarea, si algo entretenida, de escaso provecho.
+4	
+En las Lecciones, a diferencia evidentemente de la versión radiofónica, el texto de la ejercitación 
+aparece ya resuelto.
+129
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Ondas que llevan idioma nacional. Las Lecciones de Florencio...: 117-135
+S) Sobre todo cuando adquiere los caracteres de manía persecutoria.
+P) Generalmente arguye en quien la practica espíritu de intolerancia.
+H) O soberbia. […]
+H) Nada ni nadie detiene a los censores del habla, tan pagados están de la función 
+de policía que realizan.
+P) Por millares podríamos contar las trasgresiones reales o imaginarias que fueron 
+puestas en la picota, como engendros y adefesios del idioma…
+H) Y que la Academia de la Lengua muy cuerdamente terminó por legitimar. 
+El fragmento permite ver algunas otras premisas: interesa destacar aquí ese se-
+ñalamiento de que ciertos usos lingüísticos, inicialmente considerados “engendros 
+y adefesios del idioma”, fueron luego legitimados por las instituciones reguladoras, 
+en particular por las Academias. No obstante, para Garrigós ese reconocimiento 
+es siempre tardío, en el sentido de que los instrumentos lingüísticos como la gra-
+mática y el diccionario recogen necesariamente a posteriori aquello que antes había 
+aparecido en el uso. Por esa razón, reivindica también (aunque indirectamente) la 
+preparación de otro tipo de herramientas de consulta lingüística, que sirvan para 
+“dilucidar cuantas dudas asaltan al que habla o al que escribe”, una referencia obvia 
+a su propia producción desde la década del veinte (55):
+P) Muchas veces la represión [lingüística] no tiene más fundamento que el Diccio-
+nario y la gramática.
+S) Muy útiles como normas de orientación.
+P) Pero pobres de noticias para dilucidar cuantas dudas asaltan al que habla o al que 
+escribe.
+H) Además, no todas las voces y giros están registrados en aquellos libros.
+P) Porque la Academia espera que el uso, el mejor uso los consagre como buenos 
+para darles el pase.  
+La crítica de los instrumentos lingüísticos preparados por las academias, sin 
+embargo, no solo funciona negativamente como reivindicación de esos géneros 
+menores como los de las columnas lingüísticas en la prensa periódica; en el otro 
+extremo, permite el ingreso al discurso gramatical escolar de las ideas introdu-
+cidas en el ámbito nacional por los especialistas españoles a cargo del Instituto 
+de Filología de la Universidad de Buenos Aires, cuyas publicaciones (de Tomás 
+Navarro Tomás a Ramón Menéndez Pidal) se citan en varias ocasiones como 
+fuente de autoridad.
+En relación con la cuestión del correcto uso, las Lecciones establecen explí-
+citamente el criterio de que la norma lingüística es la lengua culta, en especial 
+aquella que se manifiesta en el uso de los mejores escritores (56): “P) En rigor, la 
+corrección del lenguaje solo puede alcanzarse…H) Leyendo los buenos autores. 
+P) Sí, con la observación atenta de los buenos autores”. El grado de corrección de 
+un hablante se mide, entonces, por su grado de proximidad con la variedad uti-
+lizada por esos escritores, que definirían lo que el texto denomina lenguaje culto. 
+130
+Guillermo T
+oscano y García | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+Notablemente, Garrigós cuestiona ya no a aquellos cuyo uso de la norma culta 
+es deficiente sino a aquellos que, pudiendo usarla, deciden no hacerlo y optan en 
+cambio por formas vulgares, “arrabaleras”. La cuestión del uso así se resitúa: es 
+ahora un problema que remite a la ética del lenguaje. O de los hablantes, como 
+se argumenta en el siguiente diálogo (62-63):
+P) Porque hay normas que ninguno tiene derecho a quebrantar.
+H) Normas de buena educación.
+P) Y las quebrantan quienes dicen o escriben despropósitos.
+S) O emplean voces arrabaleras.
+P) Hay ciertas palabras y giros confinados al habla de la gente baja, cuyo empleo no 
+se concibe en la esfera de la gente culta.
+S) En el lenguaje se refleja la buena o mala educación de las personas.
+P) Por eso calificamos el lenguaje de nuestros interlocutores de culto o inculto, de 
+urbano o incivil, según la manera como se expresan.
+H) El lenguaje tiene, pues, un fundamento ético.
+S) Es decir, moral.
+P) Muchas veces por una razón ética preferimos unas formas de lenguaje a otras; así 
+haya a haiga; esté a estea.
+H) Aprieta a apreta y enredo a enriedo.
+S) Haya, esté, aprieta, enredo.
+H) Son urbanas.
+S) Las segundas: haiga, estea, apreta, enriedo.
+H) Inciviles o bajas.
+S) Rufino Cuervo dice con sobrada razón que el bien hablar es una de las más claras 
+señales de la gente culta y bien nacida. 
+[En este y otros casos las negritas pertenecen al original]
+En el fragmento anterior, los ejemplos de incorrección remiten todos al ele-
+mento verbal. Reiteradamente el texto, siguiendo como dijimos una tradición 
+bien establecida desde el siglo XIX y antes en la gramática escolar hispánica 
+(García Folgado 2013) se detiene en el señalamiento de esta clase de incorrec-
+ciones, frecuentemente denominadas “vicios” si remiten a la pronunciación y 
+“vulgarismos” a la morfología verbal: “P) Trompezar y emprestar son feos vul-
+garismos” (15); “S) Cantastes, salistes, fuistes, hicistes. P) Es un feo vulgarismo. 
+Lo difunden los mismos que no pronuncian las eses finales cuando deben ha-
+cerlo” (30). En varias ocasiones Garrigós acude a la germanía para caracterizar la 
+variedad lingüística que en más alto grado encarna la incorrección lingüística, la 
+falta de ética en el lenguaje: el arrabalero (16):
+S) Aquí en vez de germanía decimos voces del arrabal o voces lunfardas.
+P) Que no deben confundirse con otras de carácter familiar o festivo.
+H) Así, por ejemplo, macaneo, cachada.
+P) No son recomendables, pero no son del arrabal.
+H) En cambio…
+131
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Ondas que llevan idioma nacional. Las Lecciones de Florencio...: 117-135
+S) Menega, estrilo, araca, esgunfiar, morfe, vento, rogasi...
+P) Vienen del suburbio o lindan con él.
+Llamativamente, las Lecciones, que se muestran deudoras de una tradición 
+que encuentra en el arrabalero (eventualmente: en el lunfardo) su objeto de 
+impugnación, a la vez tiene un criterio moderno en el reconocimiento de que 
+existen otras variedades lingüísticas que exceden la distinción lenguaje culto/
+lenguaje inculto. Así, en el fragmento se distingue entre formas propias de la 
+variedad familiar (“macaneo”, “cachada”), no recomendables pero tampoco in-
+correctas, y aquellas que, por venir del suburbio, deben ser evitadas. 
+Sin embargo, el aporte más significativo que las Lecciones hacen al trata-
+miento de la variación lingüística se relaciona con el establecimiento, contraste 
+y legitimación de una variedad dialectal, esto es, la lengua (las lenguas, como 
+veremos) hablada en la Argentina. Así, contra una tradición escolar que, como 
+ha demostrado López García, buscaba frecuentemente negar o corregir los rasgos 
+específicos de las variedades argentinas del español, el texto de Garrigós busca 
+establecer un criterio de naturaleza opuesta.
+Una y otra vez, las Lecciones se detienen en el registro de formas propias del 
+español de la Argentina, que contrastan con las usadas en España: “P) Aquí 
+decimos viejita y viejito, en general sin significación diminutiva. En España, 
+los diminutivos de viejo y vieja son viejecito y viejecita, pero no viejito ni 
+viejita” (18). El modelo de corrección, que como hemos visto Garrigós basa, 
+por un lado, en un criterio relativamente tradicional (la lengua culta tal como 
+se manifiesta en la literatura), se combina con un criterio geográfico (moderna-
+mente: dialectal) y de allí se sostiene que son correctos aquellos hechos de habla 
+que pertenecen a la lengua culta hablada en el país. El criterio, como veremos, 
+se aplica (novedosamente, para la tradición gramatical escolar argentina) a todos 
+los niveles lingüísticos; en primer lugar, a la pronunciación (81-82): 
+P) Un porteño culto no dirá jamás, a no ser afectadamente: ierba mate, maio, raio, cuio.
+H) Porque el yeismo porteño es un matiz de la pronunciación culta argentina.
+P) Que puede convivir con la pronunciación castellana de la y griega o ye.
+S) Practicada también por muchos de nuestros compatriotas. 
+El texto es explícito y hasta enfático en este punto: la norma lingüística no se 
+encuentra en la pronunciación castellana, sino en la practicada por los hablantes 
+cultos del país; todavía más, el intento de simular esa pronunciación es caracte-
+rizado como “afectado” y “falso”, es decir, como violaciones a la ética del uso del 
+lenguaje. Si en el ejemplo anterior el fenómeno que se legitimaba era el yeísmo, 
+en el siguiente lo es el seseo (104):
+S) ¿Debemos articular a la manera de los castellanos?
+P) ¡Qué esperanza! En materia de pronunciación da la norma la gente culta argen-
+tina.
+132
+Guillermo T
+oscano y García | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+S) ¿Por qué razón?
+P) Por muchas. La principal consiste en que nuestro modo de hablar se diferencia del 
+castellano; de ahí que el intento de darle un aire semejante suena siempre a afectación 
+y falsedad. 
+H) Como remedo, resulta insoportable.
+P) Hay otras razones, además. Algunas consonantes no se pronuncian aquí como en 
+España.
+H) Nosotros no articulamos la z.
+P) Ni siquiera la s castellana, pues la emitimos con sonido distinto.
+S) En conclusión, ¿cómo debemos articular?
+P) Bien, es decir, sin suprimir letras y sin articularlas extrañamente, ni con esfuerzo.
+Y todavía más, el texto reconoce diferencias dialectales dentro de la lengua 
+hablada en el país, dialectos en los que incluso se prefieren formas más próximas 
+a las de la pronunciación castellana (113):
+S) Los porteños decimos “yerro”.
+P) Pronunciamos la y griega como la j francesa.
+S) En cambio los castellano y muchos argentinos de tierra adentro:
+H) Ierro, ierras, ierra, erramos, erráis, ierran.
+La cuestión se desarrolla en la octava lección: de hecho, constituye uno de sus 
+temas, “La pronunciación culta argentina”. Para Garrigós, esta pronunciación 
+(y aquí se distancia de Menéndez Pidal, cuya interpretación cita) no es la caste-
+llana ni la andaluza culta: “P) El acento, el timbre y las inflexiones de voz nos 
+distinguen de uno y otro y hasta presentan formas variadas en nuestro mismo 
+territorio” (119)5. La observación da paso a una intervención que reivindica la 
+variación dialectal pero proclama a la vez la unidad lingüística y rechaza la posi-
+bilidad de un “idioma argentino” (120):
+H) No faltan quienes piensan que las variantes entre el habla culta española y la 
+nuestra conspiran contra la unidad de la lengua.
+P) Es un error. Por sobre esas variantes, existe la unidad lingüística, mantenida por la 
+acción cultural y literaria de españoles y americanos, y hasta la identidad de acento, 
+perceptible cuando este se contrapone al acento francés, al inglés, al alemán o a otro 
+de extraño timbre.
+H) Señalar una tonalidad distinta en la pronunciación y aun en la literatura de un 
+pueblo, no significa proclamar una escisión.
+S) Ni creer por ello que se esté gestando un idioma nuevo…
+5	
+Para Garrigós, el origen de las particularidades del habla rioplatense está en la pronunciación del 
+gaucho: “S) De manera que los gauchos no pronunciaban la elle. P) La asimilaban a la y griega, 
+y pronunciaban esta a la manera de los porteños, como j francesa. C) Práctica que hoy la siguen 
+más de cuatro millones de argentinos. S) Yegase, mayor, ayuda, yora, hayaron, yevaba. P) 
+En lugar de H) Llegase, maior, aiuda, llora, hallaron, llevaba” (188). Las negritas pertenecen al 
+original.
+133
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Ondas que llevan idioma nacional. Las Lecciones de Florencio...: 117-135
+P) … sino sencillamente considerar el castellano como un instrumento apto para ser-
+vir las necesidades de todos los pueblos que lo hablan, sin establecer entre ellos otras 
+preeminencias o jerarquías que las que pueden derivarse de una mayor cultura.
+El reconocimiento de los fenómenos de variación, como señalamos, com-
+prende también una serie de fenómenos léxicos y, en especial, morfosintácticos6. 
+En esta línea, finalmente, la intervención más novedosa y arriesgada la consti-
+tuye la afirmación de que el voseo es propio de la lengua culta y por lo tanto 
+correcto (189):
+P) Como todos los argentinos coetáneos y actuales, [los gauchos] usaban el vos en 
+lugar del tú.
+C) ¿Conciben Uds. que un criollo auténtico, así sea el presidente de la República, 
+trate de tú a sus allegados?
+P) La gente culta argentina, cuando habla sin afectación, usa como tratamiento ordi-
+nario el vos, porque el tú le suena a españolismo.
+A modo de cierre
+Como hemos sugerido, las Lecciones de Garrigós ocupan un lugar singular 
+en la tradición argentina. Ello se debe, por una parte, a lo original del formato 
+que les da su carácter: concebidas para ser escuchadas a distancia, constituyen 
+una novedosa experiencia de enseñanza gramatical escolar. Por otro lado, hemos 
+destacado también el modo en que despliegan una reflexión sobre la lengua que 
+apunta a señalar que una serie de usos dialectales que para la tradición normativa 
+eran sancionados como incorrectos, en la medida en que resultaban propios de la 
+lengua culta del país, debían ser tenidos por correctos. En 1940, no se trataba de 
+un posicionamiento sencillo: un año antes, el español Amado Alonso, director 
+del Instituto de Filología de la Universidad de Buenos Aires desde 1927, res-
+pondía, en nombre de la Facultad de Filosofía y Letras, a una consulta realizada 
+por la Comisión de Estudio y Reorganización de los Servicios de Radiodifusión. 
+En un breve texto, Alonso contestaba a las cuatro preguntas formuladas por el 
+organismo público (¿deben aceptarse en las transmisiones radiales las formas 
+corrientes de pronunciación, como el yeísmo, o debe intentar restituirse la for-
+ma peninsular?, ¿conviene difundir comedias dialogadas en lenguaje familiar?, 
+¿conviene difundir teatro rural con lenguaje vernáculo?, ¿conviene difundir can-
+ciones escritas en la “jeringoza del arrabal”?); las respuestas de Alonso destacaban 
+el carácter espiritualmente superior de la lengua general (esto es: la norma culta 
+peninsular) y sugerían, por ejemplo, eliminar el yeísmo (8). Unos meses más 
+tarde, las ondas radiofónicas acercaban a un amplio público una perspectiva 
+6	
+Como indicamos, no se conservan registros de las emisiones radiales, salvo un único fragmento. 
+Allí se observa, sin embargo, que la pronunciación de los actores recurre al menos a dos fenóme-
+nos habituales del español rioplatense: el yeísmo y el seseo.
+134
+Guillermo T
+oscano y García | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+opuesta, que además, y aquí también radica la novedad de las Lecciones, ponía en 
+escena el espectáculo del propio uso que se buscaba legitimar.
+Representante de la gramática escolar, Garrigós no se desentiende de su mi-
+sión de fomentar la corrección. Y, sin embargo, de manera declarada a la vez que 
+puesta en práctica, en las Lecciones reivindica las formas de la norma culta local 
+como patrón de referencia para el habla sobre la que busca intervenir. Más aún, 
+su mirada respetuosa de las variedades locales (cuyo prestigio se afirma) disipa 
+toda crispación respecto de la amenaza de la lengua común. Así, su posición 
+sobre la variación dialectal, que en virtud de su lugar de enunciación expresa un 
+proyecto de Estado, se sitúa en este contraste a la vanguardia del discurso con-
+temporáneo del campo científico, encarnado en la figura de Alonso, 
+En este sentido, las Lecciones son al mismo tiempo una muestra de innova-
+ción pedagógica y una señal de que el discurso gramatical escolar puede ser un 
+vector de modernización en el saber disciplinar. Las ondas de la Escuela del Aire, 
+así, llevan el discurso sobre el idioma nacional más lejos que lo que el campo 
+científico habría de poder llevarlo por algunas décadas. 
+Referencias bibliográficas
+Alonso, Amado. “El problema del idioma en la radiodifusión”. Informe presen-
+tado por la Comisión de Estudio y Reorganización de los Servicios de Radiodifu-
+sión, con las opiniones recogidas en la encuesta realizada al efecto, Buenos Aires, 
+Dirección General de Correos y Telégrafos, Talleres Gráficos de Correos y 
+Telégrafos, 1939, pp. 8-9.
+Bombini, Gustavo.  Los arrabales de la literatura. La historia de la enseñanza 
+literaria en la escuela secundaria argentina (1860-1960). Buenos Aires, Miño 
+y Dávila, 2004.
+“La escuela del aire”. El monitor de la educación común, vol. LIX, n.° 803, nov. 
+1939, pp. 31-37.
+García Folgado, María José. Los inicios de la gramática escolar en España (1768-
+1813). Una aproximación historiográfica. Munich, Peniope, 2013.
+Garrigós, Florencio. “Encuesta de Crítica. ¿Llegaremos a tener un idioma pro-
+pio? Habla el señor Florencio Garrigós (hijo)”. Crítica, 27 de junio de 1927, 
+p. 12.
+Garrigós, Florencio. Lecciones de idioma nacional. Buenos Aires, Editor Mario 
+Tato, 1940.
+Garrigós, Florencio. Gramaticales y filológicas de “La Prensa”. Buenos Aires, Edi-
+tor Mario Tato, 1944.
+Garrigós, Florencio (h) y Francisco Camón Gálvez. Encuadernador ortográfico. 
+Buenos Aires, Estrada, 1930.
+135
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Ondas que llevan idioma nacional. Las Lecciones de Florencio...: 117-135
+“Los escollos de la gramática”. El Hogar, n.° 954, pp. 21 y 59.
+López García, María. Nosotros, vosotros, ellos. Representaciones de la variedad rio-
+platense en los manuales escolares. Buenos Aires, Miño y Dávila, 2015.
+Nieto, Haydée y Oscar de Majo. “La educación a distancia en Argentina”. Signos 
+Universitarios, vol. 30, n.° 46, 2011, pp. 85-108.
+Rivera, Ángel. “Introducción”. Lecciones de idioma nacional, Buenos Aires, Edi-
+tor Mario Tato, 1940, pp. 5-8.
+Reseña de El encuadernador ortográfico, de Florencio Garrigós (h) y Francisco 
+Gamón Gálvez. El Monitor de la Educación Común, vol. 49, n.° 668, 1930, 
+pp. 294-295.
+Sáenz-Hayes, Ricardo. “Palabras de homenaje a los doctores Ángel Acuña y Flo-
+rencio Garrigós”. Boletín de la Academia Argentina de Letras, vol. XXII, n.° 
+84, abr.-jun. 1957, pp. 169-174.

@@ -1,0 +1,556 @@
+Materialidad del texto, textualidad del libro 
+ 
+por Roger Chartier 
+(École des Hautes Études en Sciences Sociales) 
+ 
+ 
+RESUMEN 
+Este texto quisiera mostrar, a partir del caso del Quijote, que no se pueden separar el estudio de las condiciones 
+de publicación de los textos y la interpretación de su sentido. El entrecruzamiento entre la historia del libro (y la 
+imprenta) y la sociología de los textos tal como la definió D. F. McKenzie, procura la posibilidad de superar la 
+división duradera y mutiladora entre hermenéutica y bibliografía. 
+ 
+Palabras clave: sociología de los textos – cultura escrita – libro – imprenta – Don Quijote 
+ 
+This text wishes to show, through the case of Quixote, that the study of the conditions around text publishing and 
+its sense understanding cannot be separated. The intercrossing between the history of the book (and printing) 
+and the sociology of texts as defined by D. F. McKenzie, seeks the possibility of overcoming the long-lasting and 
+mutilating division between hermeneutics and bibliography. 
+ 
+Keywords: sociology of texts – written culture – book – press – Don Quixote 
+ 
+ 
+En esta conferencia quisiera entrecruzar dos perspectivas metodológicas que me parecen 
+esenciales para profundizar nuestra comprensión de los textos: la historia de la cultura escrita y la 
+sociología de los textos. Definida por D. F. McKenzie como “la disciplina que estudia los textos como 
+formas registradas, así como los procesos de su transmisión, incluyendo su producción y su 
+recepción”1, la sociología de los textos apunta a comprender cómo las sociedades humanas 
+construyeron y transmitieron las significaciones que dieron a los seres y las cosas. Puesto que no 
+disocia el análisis de las significaciones simbólicas del de las formas materiales que las transmiten, un 
+abordaje semejante cuestiona en profundidad la división duradera que separó las ciencias de la 
+interpretación y las de la descripción, la hermenéutica y la morfología. 
+Lo mismo ocurre con la noción de “cultura gráfica”, tal como la propuso Armando Petrucci. 
+Al designar para cada sociedad el conjunto de los objetos escritos y las prácticas que los producen o 
+los manipulan, esta categoría invita a comprender las diferencias que existen entre diversas formas del 
+escrito, contemporáneas unas de otras, y a inventariar la pluralidad de los usos de que está investida la 
+escritura.2 
+Para desplazar la frontera tradicionalmente trazada tanto por la crítica literaria como la historia 
+cultural entre, por un lado, las producciones y las prácticas más ordinarias de la cultura escrita y, por 
+otro lado, la literatura, considerada un campo particular de creaciones y experiencias estéticas, es 
+necesario acercar lo que la tradición occidental alejó en forma duradera: por un lado, la interpretación 
+y el comentario de las obras; por otro lado, el análisis de las condiciones técnicas o sociales de su 
+publicación, circulación y apropiación. Existen varias razones para esta disociación: la permanencia de 
+la oposición entre la pureza ideal de la idea y su inevitable corrupción por la materia3, la definición del 
+copyright, que establece la propiedad del autor sobre un texto considerado siempre idéntico a sí 
+                                                 
+1 D. F. McKenzie, Bibliography and the sociology of texts, Londres, The British Library, 1986, p. 4: “The 
+discipline that studies texts as recorded forms and the processes of their transmission, including their production 
+and reception”. [Trad. esp.: Bibliografía y sociología de los textos, Madrid, Akal, 2005, p. 30]. 
+2 Armando Petrucci, La scrittura. Ideologia e rappresentazione, Turín, Einaudi, 1986, pp. XVIII-XXV. 
+3 B. W. Ife, Reading and fiction in Golden-Age Spain. A platonist critique and some picaresque replies, 
+Cambridge, Cambridge University Press, 1985. [Trad. esp.: Lectura y ficción en el Siglo de Oro, Barcelona, 
+Crítica, 1992]. 
+CHARTIER Roger: Materialidad del texto, textualidad del libro
+Orbis Tertius, 2006 11(12). ISSN 1851-7811.
+http://www.orbistertius.unlp.edu.ar/
+Esta obra est´
+a bajo licencia Creative Commons Atribuci´
+on-NoComercial-SinDerivadas 2.5 Argentina
+1
+mismo, sea cual fuere la forma de su publicación4, o incluso, el triunfo de una estética que juzga las 
+obras independientemente de la materialidad de su soporte.5 
+Paradójicamente, las dos perspectivas críticas que prestaron más atención a las modalidades 
+materiales de inscripción de los discursos reforzaron, y no contrariaron, ese proceso de abstracción 
+textual. La bibliografía analítica movilizó el estudio riguroso de los diferentes estados de una misma 
+obra (ediciones, emisiones, ejemplares) con el designio de recuperar un texto ideal, purificado de las 
+alteraciones infligidas por el proceso de publicación y de acuerdo con el texto tal y como fue escrito, 
+dictado o soñado por su autor.6 De ahí provienen, en una disciplina consagrada casi exclusivamente a 
+la comparación de objetos impresos, la obsesión por los manuscritos perdidos y la radical distinción 
+entre la obra en su esencia y los accidentes que la deformaron o la corrompieron. 
+El abordaje deconstruccionista insistió fuertemente en la materialidad de la escritura y en las 
+diferentes formas de inscripción del lenguaje. Pero en su esfuerzo por abolir o desplazar las 
+oposiciones más inmediatamente evidentes (entre oralidad y escritura, entre la singularidad de los 
+actos de lenguaje y la reproductibilidad del escrito), construyó categorías conceptuales (“archi-
+escritura”, “iterabilidad”) que pueden alejar de la percepción de los efectos producidos por las 
+diferencias empíricas que caracterizan las diversas modalidades de la inscripción de los textos.7 
+Contra semejante abstracción de los discursos, es conveniente recordar que la producción, no 
+sólo de los libros, sino de los propios textos, es un proceso que, más allá del gesto de la escritura, 
+implica diferentes momentos, diferentes técnicas, diferentes intervenciones: las de los copistas, los 
+libreros editores, los maestros impresores, los cajistas (o componedores en la lengua del Siglo de Oro), 
+los correctores. Las transacciones entre las obras y el mundo social no consisten únicamente en la 
+apropiación estética y simbólica de objetos comunes, lenguajes y prácticas rituales o cotidianas, como 
+lo sugiere el “New Historicism”.8 Conciernen más fundamentalmente a las relaciones múltiples, 
+móviles, inestables, anudadas entre el texto y sus materialidades, entre la obra y sus inscripciones. El 
+proceso de publicación, cualquiera que sea su modalidad, siempre es un proceso colectivo, que implica 
+a numerosos actores y que no separa la materialidad del texto de la textualidad del libro. Por lo tanto, 
+es vano querer distinguir la sustancia esencial de la obra, considerada para siempre semejante a sí 
+misma, y las variaciones accidentales del texto, consideradas sin importancia para su significación. Sin 
+embargo, las múltiples variaciones que impusieron a los textos las preferencias, los hábitos o los 
+errores de quienes los copiaron, compusieron o corrigieron no destruyen la idea de que una obra 
+conserva una identidad perpetuada, inmediatamente reconocible por sus lectores u oyentes. 
+Hace poco, David Kastan calificó de “platónica” esa perspectiva según la cual una obra 
+trasciende todas sus posibles encarnaciones materiales, y de “pragmática” la que afirma que ningún 
+texto existe fuera de las formas materiales que lo dan a leer u oír.9 Esta percepción contradictoria de 
+los textos divide tanto a la crítica literaria como a la práctica editorial, y opone a aquellos para quienes 
+es necesario recuperar el texto tal y como su autor lo redactó, imaginó, deseó, reparando las heridas 
+que le infligieron la transmisión manuscrita o la composición tipográfica, con aquellos para quienes 
+                                                 
+4 Mark Rose, Authors and owners. The invention of copyright, Cambridge (Mass.) / Londres, Harvard University 
+Press, 1993, y Joseph Loewenstein, The author’s due. Printing and the prehistory of copyright, Chicago, 
+Chicago University Press, 2002. 
+5 Martha Woodmansee, The author, art, and the market. Rereading the history of aesthetics, Nueva York, 
+Columbia University Press, 1994. 
+6 Walter Greg, Collected papers, ed. por J. C. Maxwell, Oxford, Clarendon Press, 1966; R. B. McKerrow, An 
+introduction to bibliography for literary students, Oxford, Clarendon Press, 1927; Fredson Bowers, Principles of 
+bibliographical description, Princeton, Princeton University Press, 1949; Bibliography and textual criticism, 
+Oxford, Clarendon Press, 1964, y Essays in bibliography, text, and editing, Charlottesville, University Press of 
+Virginia, 1975. 
+7 Jacques Derrida, De la Grammatologie, París, Éditions de Minuit, 1967, en particular pp. 75-95 para el 
+concepto de archi-escritura, y Limited Inc., París, Galilée, 1990, en particular pp. 17-51 para la noción de 
+iterabilidad. [Trad. esp.: De la gramatología, Buenos Aires, Siglo XXI, 1971]. 
+8 Stephen Greenblatt, Shakespearean negotiations. The circulation of social energy in Renaissance England, 
+Berkeley / Los Ángeles, University of California Press, 1988, pp. 1-20. 
+9 David Scott Kastan, Shakespeare and the book, Cambridge, Cambridge University Press, 2001, pp. 117-118. 
+Orbis Tertius, 2006 11(12). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+2
+las múltiples formas textuales en las que fue publicada una obra constituyen sus diferentes estados 
+históricos que deben ser respetados, editados y comprendidos en su irreductible diversidad.10 
+Una misma tensión entre la inmaterialidad de las obras y la materialidad de los textos 
+caracteriza las relaciones de los lectores con los libros de que se apropian, aunque no sean ni críticos 
+ni editores. En una conferencia pronunciada en 1978, “El libro”, Borges declara: 
+ 
+Yo he pensado, alguna vez, escribir una historia del libro. 
+ 
+Pero, de inmediato, diferencia radicalmente su proyecto de todo interés por las formas materiales de 
+los objetos escritos: 
+ 
+No me interesan los libros físicamente (sobre todo los libros de los bibliófilos, que suelen ser 
+desmesurados), sino las diversas valoraciones que el libro ha recibido.11 
+ 
+Para él, los libros son objetos sin interés cuyas particularidades no importan mucho. Lo que cuenta es 
+la manera en que el libro, universalmente identificado con la forma escrita de las obras, sea cual fuere 
+su modalidad específica, fue considerado –y a menudo desconsiderado respecto de la palabra “alada y 
+sagrada”–. Un Borges “platónico”, en suma. 
+Pero cuando en el fragmento de la autobiografía que dictó a Norman Thomas di Giovanni, el 
+mismo Borges evoca su encuentro con uno de los libros de su vida, Don Quijote, lo que acude a su 
+memoria es ante todo el objeto: 
+ 
+Todavía recuerdo aquellos volúmenes rojos con letras estampadas en oro de la edición 
+Garnier. En algún momento la biblioteca de mi padre se fragmentó, y cuando leí El Quijote en 
+otra edición tuve la sensación de que no era el verdadero. Más tarde hice que un amigo me 
+consiguiera la edición de Garnier, con los mismos grabados en acero, las mismas notas a pie 
+de página y también las mismas erratas. Para mí todas esas cosas forman parte del libro; 
+considero que ése es el verdadero Quijote.12 
+ 
+Para siempre, la historia escrita por Cervantes será para Borges ese ejemplar de una de las ediciones 
+que los Garnier exportaban al mundo de lengua española y que fue la lectura de un lector todavía niño. 
+El principio platónico no es de mucho peso ante el retorno pragmático del recuerdo. 
+La contradicción de Borges sugiere que el enfrentamiento entre “platonismo” y 
+“pragmatismo” depende sin duda de una falsa disputa o de una cuestión mal planteada. En efecto, una 
+obra siempre se da para leer o para oír en uno de sus estados particulares. Según los tiempos y los 
+géneros, sus variaciones son más o menos importantes y pueden concernir, de manera separada o 
+simultánea, a la materialidad del objeto, a la ortografía y la puntuación, o a los propios enunciados.13 
+Pero siempre, también, son múltiples los dispositivos (filosóficos, estéticos, jurídicos) que se esfuerzan 
+por reducir dicha diversidad, cuando postulan la existencia de una obra idéntica a sí misma, 
+independientemente de su forma. En Occidente, el neoplatonismo, la estética kantiana y la definición 
+de la propiedad literaria contribuyeron a construir ese texto ideal que los lectores reconocen sin falta 
+en cada uno de sus estados. Más que intentar, de una u otra manera, desprenderse de esa tensión 
+irreductible, o resolverla, lo que importa es identificar la manera en que es construida en cada 
+momento histórico. 
+                                                 
+10 A propósito de los dos Rey Lear de 1608 y 1623, véanse Gary Taylor y Michael Warren (eds.), The division of 
+the Kingdoms. Shakespeare’s two versions of “King Lear”, Oxford, Oxford University Press, 1983, y a 
+propósito de los tres Hamlet de 1603, 1604 y 1623, Leah Marcus, “Bad taste and bad Hamlet”, en Leah Marcus, 
+Unediting the Renaissance. Shakespeare, Marlowe, Milton, Londres / Nueva York, Routledge, 1996, pp. 132-
+176. 
+11 Jorge Luis Borges, “El libro”, en Borges oral, Madrid, Alianza Editorial, 1998, pp. 9-23 (cita en p. 10).  
+12 Jorge Luis Borges con Norman Thomas di Giovanni, Autobiografía 1899-1970, Buenos Aires, El Ateneo, 
+1999, p. 26. 
+13 Margreta de Grazia y Peter Stallybrass, “The Materiality of the Shakespearean Text”, Shakespeare Quarterly, 
+vol. 44, n° 3, 1993, pp. 255-283. 
+Orbis Tertius, 2006 11(12). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+3
+Quisiera mostrarlo volviendo otra vez al libro de los libros: Don Quijote. En 1615, el taller 
+madrileño de Juan de la Cuesta imprime para el librero Francisco de Robles la segunda parte del 
+Ingenioso Cavallero Don Quixote de la Mancha. Diez años después de sus primeras hazañas, don 
+Quijote vuelve a partir sobre los caminos de España. En los capítulos LXI a LXV, Sancho y su amo se 
+encuentran en Barcelona, adonde don Quijote decidió dirigirse, y no a Zaragoza para “sacar a la plaza 
+del mundo” la mentira de la continuación apócrifa publicada en 1614. En Barcelona, para evitar 
+convertirse en el hazmerreír de los niños que siguen su cortejo ridículo, don Quijote decide ir a pie y 
+sin gran escolta: 
+ 
+Y, así, él y Sancho, con otros dos criados que don Antonio le dio, salieron a pasearse.14 
+ 
+Sucedió, pues, que yendo por una calle alzó los ojos don Quijote y vio escrito sobre una 
+puerta, con letras muy grandes: “Aquí se imprimen libros”, de lo que se contentó mucho, 
+porque hasta entonces no había visto emprenta alguna y deseaba saber cómo fuese.15 
+ 
+No es la primera vez que un relato de ficción está situado en un taller tipográfico; prueba de ello son 
+las historias narradas alrededor del hogar de una imprenta en Beware the Cat de William Baldwin en 
+1570.16 Pero en Cervantes, la presencia del taller tipográfico es más que un simple decorado: introduce 
+en el mismo libro el lugar y las operaciones que posibilitan su publicación. Si el trabajo efectuado en 
+los talleres es lo que da existencia a la ficción, en el capítulo LXII de la segunda parte de Don Quijote 
+los términos se ven invertidos porque el mundo prosaico de la imprenta se convierte en uno de los 
+sitios gracias a los cuales, como lo escribe Borges, 
+ 
+Cervantes se complace en confundir lo objetivo y lo subjetivo, el mundo del lector y el mundo 
+del libro.17 
+ 
+Al entrar en la imprenta, don Quijote 
+ 
+vio tirar en una parte, corregir en otra, componer en esta, enmendar en aquella, y, finalmente, 
+toda aquella máquina que en las emprentas grandes se muestra.18 
+ 
+Cervantes introduce inmediatamente a su lector en la división y en la multiplicidad de las tareas 
+necesarias para que un texto se convierta en libro: la composición de las páginas por los cajistas 
+(componer), la corrección de las primeras hojas impresas como pruebas (corregir), la rectificación por 
+parte de los cajistas de los errores descubiertos en las páginas corregidas (enmendar) y, finalmente, la 
+impresión de las formas, o sea, del conjunto de las páginas destinadas a ser impresas del mismo lado 
+de una hoja de imprenta, por los obreros a cargo de la prensa (tirar). 
+La agudeza de esta descripción del trabajo en el taller es confirmada por el primer manual del 
+arte de imprimir jamás compuesto en lengua vulgar (si se hace a un lado la traducción alemana, 
+publicada en 1634, del libro de Jérôme Hornschuch, Orthotypographia, aparecido en Leipzig en 
+1608).19 Este tratado en castellano, directamente compuesto con los caracteres móviles, sin manuscrito 
+previo, fue impreso en una muy pequeña cantidad de ejemplares (se conocen sólo dos) alrededor de 
+                                                 
+14 Miguel de Cervantes, Don Quijote de la Mancha, edición del Instituto Cervantes, dirigida por Francisco Rico, 
+Barcelona, Instituto Cervantes/Crítica, 1998, p. 1142. 
+15 Ibid. 
+16 William Baldwin, A Marvelous Hystory intituled Beware the Cat, Londres, 1570. Para una edición moderna, 
+Beware the Cat: the first English novel, by William Baldwin, introducción y texto por William A. Ringler y 
+Michael Flachmann, San Marino (Calif.), Huntington Library, 1988. 
+17 Jorge Luis Borges, “Magias parciales del Quijote”, en Jorge Luis Borges, Otras inquisiciones [1952], Madrid, 
+Alianza, Biblioteca Borges, 1997, pp. 74-79 (cita en p. 76). 
+18 Miguel de Cervantes, Don Quijote de la Mancha, op. cit., pp. 1142-1143. 
+19 Jérôme Hornschuch, Orthotypographia; Instruction utile et nécessaire pour ceux qui vont corriger des livres 
+imprimés et conseils à ceux qui vont les publier (Orthotypographia, Hoc est Instructio operas typographicas 
+correcturis, et Admonitio scripta sua in lucem edituris utilis et necessaria) [1608], trad. del latín por Susan 
+Baddeley, con introducción y notas de Jean-François Gilmont, París, Éditions des Cendres, 1967. 
+Orbis Tertius, 2006 11(12). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+4
+1680 por un obrero cajista que fue impresor en Madrid y en Sevilla, Alonso Víctor de Paredes.20 En el 
+décimo capítulo del libro, titulado “De la Corrección”, todos los correctores, cualesquiera sean, tienen 
+las mismas tareas. Ante todo, el corrector debe localizar los errores de los cajistas siguiendo sobre las 
+pruebas impresas el texto de la copia original leída en voz alta (escuchar por el original). Luego, hace 
+las veces de censor y tiene la obligación de rechazar la impresión de todo libro en el que descubre 
+“algo prohibido por el Santo Tribunal, ò que sea, ò parezca mal sonãte contra la Fè, contra nuestro 
+Rey, ò contra la Republica”, y esto aunque la obra haya sido aprobada y autorizada. Por último, el 
+corrector es aquel que da su forma final al texto añadiéndole la puntuación necesaria (“la apuntuacion 
+legitima”) y reparando los “descuidos” del autor o los “yerros” de los componedores. Tal 
+responsabilidad exige que el corrector, sea quien fuere, pueda “entender el concepto del Autor” de 
+manera de transmitirlo adecuadamente al lector.21 
+Todas las decisiones tomadas por el cajista, sin embargo, son sometidas a las intervenciones 
+del corrector, quien está implicado de manera decisiva en el proceso de publicación del texto. Es lo 
+que subraya el letrado ante el Consejo del Rey, Melchor de Cabrera Núñez de Guzmán en la memoria 
+que publica en 1675 para defender las exenciones e inmunidades fiscales de los impresores, 
+sosteniendo que el arte de la imprenta es un arte liberal y no mecánico, “porque es en ella [la imprenta] 
+muy superior la parte intelectual, y especulativa, a la operación manual”.22 Para él, “el componedor 
+percibe el concepto, y discurso”. Debe ser experto en lengua castellana y “contar bien cualquiera 
+original, porque los libros no se componen consecutivo sino alternando el original”. Debe ser capaz de 
+puntuar correctamente el texto para que sea claramente inteligible, de distinguir las frases, de poner 
+allí donde faltan los acentos, “hazer interrogación, admiración y paréntesis”,  
+ 
+porque muchas vezes la mente de los Escritores se confunde, por falta de estos requisitos, 
+necessarios, è importantes para el entendimiento, y comprehension de lo que se escrive, ò 
+imprime; porque qualquiera que falte, muda, truëca, y varia el sentido.23 
+ 
+Sin embargo, el corrector puede juzgar acerca de las decisiones del cajista, porque es más sabio que él: 
+ 
+El Corrector ha de saber, por lo menos Gramatica (ay, y ha avido graduados en diversas 
+Ciencias) Ortografia, Etimologia, Puntuacion, colocacion de acentos; Ha de tener noticia de 
+las Ciencias, y buenas letras, de los caracteros Griëgos, y Hebreos; de reglas de Musica, para 
+sus Libros; Ha de ser dotado de locucion, Arte, y elegancia para conocer, y enmendar 
+barbarismos, solecismos, y los demàs defectos que se hallan en el Latin, Romance, y otras 
+Lenguas.24 
+ 
+Para Paredes y Cabrera, para Cervantes antes que ellos, la producción textual supone diferentes etapas, 
+diferentes técnicas, diferentes intervenciones. Entre el genio del autor y la capacidad del lector, la 
+                                                 
+20 Alonso Víctor de Paredes, Institución y Origen del Arte de la Imprenta y Reglas generales para los 
+componedores, ed. y prólogo de Jaime Moll, Madrid, El Crotalón, 1984 (reed. Madrid, Calambur, Biblioteca 
+Litterae, 2002, con una “Nueva noticia editorial” de Víctor Infantes). 
+21 Ibid., fol. 42 recto-45 recto. 
+22 Melchor de Cabrera Núñez de Guzmán, Discurso legal, histórico y político en prueba del origen, progressos, 
+utilidad, nobleza y excelencias del Arte de la Imprenta; y de que se le deben (y a sus Artifices) todas las Honras, 
+Exempciones, Inmunidades, Franquezas y Privilegios de Arte Liberal, por ser, como es, Arte de las Artes, 
+Madrid, 1675, fol. 17, verso. Agradezco a Fernando Bouza por haberme indicado y comunicado este texto, del 
+que existe una edición facsimilar publicada por Amalia Sarría Rueda, Madrid, Singular, 1993. Sobre las 
+memorias redactadas a partir de 1636 por Melchor de Cabrera para la defensa de las exenciones fiscales de los 
+impresores, véase Miguel María Rodríguez San Vincente, “Argumentos histórico-jurídicos para la defensa de la 
+inmunidad fiscal del libro español en el siglo XVII”, en Cuadernos Bibliográficos, 44, 1982, pp. 5-31. 
+23 Ibid., fol. 15, recto y verso. 
+24 Ibid., fol. 15, verso. Una definición semejante de las tareas y las competencias se encuentra en 1619 en una 
+memoria presentada por el corrector de imprenta Gonzalo de Ayala y por el abogado Juan de Valdes, que funda 
+la diferencia entre impresores y libreros en la pertenencia de la imprenta, y no de la librería, a las artes liberales; 
+véase Víctor Infantes, “La apología de la imprenta de Gonzalo de Ayala: un texto desconocido en un pleito de 
+impresores del Siglo de Oro”, en Cuadernos Bibliográficos, 44, 1982, pp. 33-47. 
+Orbis Tertius, 2006 11(12). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+5
+operación de publicación no separa la materialidad del texto y la textualidad del libro.25 Paredes 
+expresa esa doble naturaleza del libro, como objeto y como discurso, invirtiendo una metáfora clásica. 
+Mientras que son numerosos los textos que describen los cuerpos y los rostros como libros26, él, por su 
+parte, considera el libro como un ser humano porque, como el hombre, tiene un cuerpo y un alma: 
+ 
+Assimilo yo un libro à la fabrica de un hombre, el qual consta de anima racional, con que la 
+criò Nuestro Señor con tantas excelencias como su Divina Magestad quiso darle; y con la 
+misma omnipotencia formò al cuerpo galan, hermoso, y apacible.27 
+ 
+Cabrera da una forma más elaborada a la comparación considerando al hombre como el único 
+libro impreso entre los seis que escribió Dios. Los otros cinco son el Cielo estrellado, comparado con 
+un inmenso pergamino cuyo alfabeto son los astros; el Mundo, que es la suma y el mapa de la 
+Creación en su totalidad; la Vida, identificada con un registro que contiene los nombres de todos los 
+elegidos; el propio Cristo, que es a la vez “exemplum” y “exemplar”, un ejemplo propuesto a todos los 
+hombres y el ejemplar que debe ser reproducido; por último, la Virgen, el primero de todos los libros, 
+cuya creación en la “Mente Divina”, preexistió a la del Mundo, los siglos y la tierra. Entre esos libros 
+de Dios, todos mencionados por las Escrituras o los Padres de la Iglesia, y todos referidos por Cabrera 
+a uno u otro de los objetos de la cultura escrita de su tiempo, el hombre es una excepción porque 
+resulta del trabajo de la imprenta: 
+ 
+Puso Dios en la prensa su Imagen, y Sello, para que la copia saliesse cõforme à la que avia de 
+tomar […] y quiso juntamente alegrarse con tantas, y tan varias copias de su mysterioso 
+Original.28 
+ 
+Paredes retoma la imagen. Sin embargo, para él, el alma del libro no es sólo el texto tal y como fue 
+compuesto, dictado, imaginado por su creador. Dicho texto, dado en una disposición adecuada, es: 
+ 
+Un libro perfectamente acabado, el cual constando de buena doctrina, y acertada disposicion 
+del Impresor, y Corrector, que equiparo al alma del libro; y impresso bien en la prensa, con 
+limpieza, y asseo, le puedo comparar al cuerpo airoso y galan.29 
+ 
+Si el cuerpo del libro es el resultado del trabajo de los prensistas, su alma no está moldeada solamente 
+por el autor, sino que recibe su forma de todos aquellos –maestro impresor, cajistas y correctores– que 
+tienen el cuidado de la puntuación, la ortografía y la compaginación. De este modo, Paredes impugna 
+de antemano toda separación entre la sustancia esencial de la obra, considerada para siempre idéntica a 
+sí misma cualquiera que sea su forma, y las variaciones accidentales del texto, que resultan del trabajo 
+en el taller.30 
+Un episodio de la historia editorial de Don Quijote, impreso a fines de 1604 en el taller de 
+Juan de la Cuesta y aparecido con la fecha de 1605, ilustra la realidad, y también los riesgos de la 
+                                                 
+25 Véase Jeffrey Masten, “Pressing Subjects or, the Secret Lives of Shakespeare’s Compositors”, en Jeffrey 
+Masten, Peter Stallybrass y Nancy Vickers (eds.), Language machines: technologies of literary and cultural 
+production, Nueva York / Londres, Routledge, 1997, pp. 75-107. 
+26 Véase Ernst Robert Curtius, La Littérature européenne et le Moyen Âge latin [1947], trad. del alemán por Jean 
+Bréjoux, París, Presses Universitaires de France, 1957, pp. 522-526. [Trad. esp. : Literatura europea y Edad 
+Media látina, México, Fondo de Cultura Económica, 1955]. 
+27 Alonso Víctor de Paredes, Institución y Origen del Arte de la Imprenta..., op. cit., fol. 44 verso. 
+28 Melchor de Cabrera Núñez de Guzmán, Discurso legal, histórico y político..., op. cit., fol. 3 verso-6 recto, cita 
+fol. 4 verso. 
+29 Alonso Víctor de Paredes, Institución y Origen del Arte de la Imprenta..., op. cit., fol. 44 verso. 
+30 Para la impugnación de la oposición entre “substantive essence” y “accidentals”, y un ejemplo del efecto de 
+las formas tipográficas (formato, compaginación, puntuación) sobre el sentido, véase el estudio pionero de D. F. 
+McKenzie, “Typography and meaning. The case of William Congreve”, en Giles Barber y Bernhard Fabian 
+(eds.), Buch und Buchhandel in Europa im achtzehnten Jahrhundert, Hamburgo, Hauswedell, 1981, pp. 81-125, 
+retomado en D. F. McKenzie, Making meaning. “Printers of the Mind” and other essays, ed. por Peter 
+McDonald y Michael F. Suarez, S.J., Amherst/Boston, University of Massachusetts Press, 2002, pp. 198-236. 
+Orbis Tertius, 2006 11(12). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+6
+colaboración propia de todo proceso de publicación. En el capítulo XXV de la historia, en la primera 
+edición del libro, Sancho menciona, de pasada, el robo de su burro: 
+ 
+Bien haya quien nos quitó ahora del trabajo de desenalbardar al rucio. 
+ 
+Y, de hecho, cuatro capítulos más lejos, Sancho sigue a pie a su amo, montado sobre su caballo: 
+ 
+Luego subió don Quijote sobre Rocinante, y el barbero se acomodó en su cabalgadura, 
+quedándose Sancho a pie, donde de nuevo se le renovó la pérdida del rucio, con la falta que 
+entonces le hacía. 
+ 
+Pero, sin explicación ninguna, el asno reaparece en el capítulo XLII: 
+ 
+Sólo Sancho Panza se desesperaba con la tardanza del recogimiento, y sólo él se acomodó 
+mejor que todos, echándose sobre los aparejos de su jumento.31 
+ 
+Al tomar conciencia de esta anomalía, inmediatamente observada por sus críticos, Cervantes redactó 
+dos breves relatos para la segunda edición de Don Quijote, también publicada en 1605 (señal del éxito 
+de la obra). El primero narra el robo del burro por Ginés de Pasamonte, el presidiario 
+desgraciadamente liberado por don Quijote; el segundo describe la recuperación de su montura por 
+Sancho, que reconoce a su ladrón bajo la ropa de un gitano, lo pone en fuga y recobra su querido 
+rucio.32 En la segunda edición, el relato del hurto fue insertado en el capítulo XXIII, poco después de la 
+entrada de los dos héroes en la Sierra Morena, el segundo en el capítulo XXX, cuando dejan la montaña 
+en compañía de Cardenio, Dorotea, el barbero y el cura, que vinieron a arrancar a don Quijote de su 
+locura silvestre. Por lo tanto, todo parecía en orden, pero, por desdicha, la primera frase del capítulo 
+XXV no se corrigió y decía: 
+ 
+Despidióse del cabrero don Quijote y, subiendo otra vez sobre Rocinante, mandó a Sancho que 
+le siguiese, el cual lo hizo, con su jumento, de muy mala gana.33 
+ 
+Así, Sancho seguía encaramado en el asno que, sin embargo, le había sido robado. En la edición de 
+Roger Velpius publicada en Bruselas en 1607, un corrector más atento hizo desaparecer la 
+incoherencia, mientras que se encuentra intacta en la tercera edición madrileña, salida de las prensas 
+del taller de Juan de la Cuesta en 1608. 
+Las tribulaciones del burro desaparecido, pero sin embargo todavía presente, recuerdan, ante 
+todo, que lejos de estar fijados en una forma que les estaría dada de una vez por todas, los textos son 
+móviles e inestables. Sus variantes resultan de una pluralidad de decisiones, o de errores, distribuidos a 
+todo lo largo del proceso de su publicación. Como lo muestra Don Quijote, el descuido del autor, las 
+equivocaciones de los cajistas, la falta de atención de los correctores son otros tantos elementos que 
+contribuyen a los estados sucesivos de una misma obra. ¿Cómo deben considerar tales incoherencias y 
+anomalías la edición de los textos o la crítica literaria? Para Francisco Rico, es necesario recuperar el 
+texto que Cervantes compuso, imaginó, deseó, y que el trabajo en el taller tipográfico necesariamente 
+hubo de deformar34; como consecuencia, según el ejemplo de los filólogos clásicos, que atraviesan 
+toda la tradición manuscrita de una obra para establecer el texto más probable,35 confrontar los 
+diferentes estados impresos para recuperar lo que el autor escribió, o quiso escribir, y que, en 
+ocasiones, resulta traicionado por todas las ediciones. 
+                                                 
+31 Miguel de Cervantes, Don Quijote de la Mancha, op. cit., caps. XXV, p. 280, XXIX, p. 339, y XLII, p. 499. 
+32 Ibid., pp. 1233-1235. 
+33 Ibid., p. 270 (cursivas nuestras). 
+34 Francisco Rico, “Historia del texto” y “La presente edición”, en Miguel de Cervantes, Don Quijote de la 
+Mancha, op. cit., pp. CXCII-CCXLII y CCLXXIII-CCLXXXVI. 
+35 A título de ejemplo magistral, véase Jean Bollack, “L’Œdipe roi” de Sophocle. Le texte et ses interprétations, 
+Lille, Presses Universitaires de Lille, 1990, t. I: Introduction. Texte. Traduction, pp. XI-XXI y 1-178. 
+Orbis Tertius, 2006 11(12). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+7
+En otra perspectiva –por ejemplo, la de la crítica shakespeariana–, las formas, incluso 
+extrañas, en las cuales una obra fue publicada deben ser consideradas como sus diferentes 
+encarnaciones históricas.36 Todos los estados del texto, hasta los más inconsistentes y extraños, deben 
+ser entendidos y, eventualmente, editados, porque, al ser el resultado tanto de los gestos de la escritura 
+como de las prácticas del taller, constituyen la obra tal y como fue transmitida a sus lectores. Ésta sólo 
+existe en las formas materiales, simultáneas o sucesivas, que le dan existencia. La búsqueda de un 
+texto puro, que existiría más acá o más allá de sus múltiples materialidades, pues, es vana. Editar una 
+obra no es recuperar un “ideal copy text”, sino explicitar la preferencia otorgada a uno u otro de tales 
+estados, así como las elecciones hechas en cuanto a su presentación: divisiones, puntuación, grafía, 
+ortografía. 
+La decisión no siempre es sencilla. Pongamos un ejemplo shakespeariano, el de Trabajos de 
+amor perdidos. En 1598, en la primera edición de la comedia, publicada en el formato in-quarto, las 
+parejas de enamorados se hacen y deshacen entre el inicio de la pieza y su desenlace. Los primeros 
+intercambios galantes relacionan a Biron y Catherine (y no Rosaline), y a Dumaine y Rosaline (y no 
+Catherine). Sólo en el tercer acto, según las divisiones de la pieza que introdujeron los editores del 
+siglo XVIII, cada uno de los jóvenes señores de Navarra se enamora de la que será la dama de sus 
+pensamientos hasta el fin de la comedia. En 1623, la reedición de la pieza en el Folio que reúne por 
+primera vez las “Comedies, Histories & Tragedies” de Shakespeare, “Published according to the True 
+Originall Copies” según la portada, propone otra situación: Biron y Rosaline, al igual que Dumaine y 
+Catherine, son atraídos uno hacia la otra desde su primer encuentro. 
+¿Cómo interpretar esta diferencia? ¿Reparación de un descuido de Shakespeare, que habría 
+invertido los nombres originalmente dados a los personajes? ¿Corrección de un error cometido por uno 
+de los cajistas del in-quarto? ¿O hay que sostener la versión de la primera edición como más fiel a una 
+intención dramática del autor, puesto que un abrupto desplazamiento de la pasión amorosa es un 
+motivo presente en otras obras (comenzando por los amores de Romeo) y que la inconsistencia de los 
+jóvenes “lords” de Navarra explicaría la dureza que les testimonian las jóvenes damas de Francia en el 
+último acto de la comedia? La tensión entre la preferencia estética y la tradición textual, tal como la 
+enuncia Stephen Greenblatt, da fe de la dificultad de la elección: 
+ 
+Aunque la versión aquí publicada [en el Norton Shakespeare y, previamente, en la edición de 
+Oxford] esté fundada en el consenso casi general que existe entre los especialistas [o sea, el 
+texto del Folio], es muy posible que el texto del in-quarto suministre la expresión más 
+adecuada de las relaciones amorosas en Love’s Labour’s Lost.37 
+ 
+Como consecuencia, por un lado, el respeto editorial por el texto más coherente tal como fue aceptado 
+por la tradición comenzada en 1623, pero, por el otro, la atracción y la nostalgia por una versión 
+mucho más excitante… 
+El episodio del asno de Sancho propone otra lección. Las incoherencias textuales encontradas 
+en Don Quijote, de las que no es más que un ejemplo, subrayan los parentescos que mantiene la 
+escritura de Cervantes con las prácticas de la oralidad. Como lo subraya Francisco Rico, 
+ 
+Cervantes revoluciona la ficción, concibiéndola no en el estilo artificial de la literatura, sino en 
+la prosa doméstica de la vida. 
+ 
+En este sentido, 
+ 
+                                                 
+36 Véanse, como muestra, Magreta de Grazia y Peter Stallybrass, “The Materiality of the Shakespearean Text”, 
+art. cit.; Leah S. Marcus, Unediting the Renaissance. Shakespeare, Marlowe, Milton, op. cit.; Stephen Orgel, 
+“What Is a Text”, en David Scott Kastan y Peter Stallybrass (eds.), Staging the Renaissance. Reinterpretations of 
+Elizabethan and Jacobean drama, Nueva York / Londres, Routledge, 1991, pp. 83-87. 
+37 Stephen Greenblatt, “Textual note”, en Stephen Greenblatt (ed. gral),The Norton Shakespeare based on the 
+Oxford edition, Nueva York / Londres, W. W. Norton & Company, 1997, pp. 738-740: “Although the version 
+printed here is based on the near consensus among recent textual scholars, Q may provide the most accurate 
+rendition available of the romantic relations in Love’s Labour’s Lost”. 
+Orbis Tertius, 2006 11(12). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+8
+El Quijote no está tanto escrito como dicho, redactado sin someterse a las constricciones de la 
+escritura: ni las de entonces, con las mañas barrocas requeridas por los estilos en boga, ni, 
+naturalmente, las nuestras.38 
+ 
+Por primera vez, una novela es escrita según el ritmo y la sintaxis de la lengua hablada, contra las 
+reglas de la gramática y las convenciones estéticas. Más aun, la narración, que multiplica las 
+digresiones, los paréntesis, las asociaciones libres de palabras, de temas, de ideas, está compuesta no 
+según los principios de la retórica letrada, sino según los códigos que rigen la palabra viva de la 
+conversación. Las omisiones, las confusiones, los descuidos importan poco para tal manera de escribir, 
+que construye el relato como si fuera una manera de decir.39 
+En los tiempos del Quijote, el taller de imprenta se convirtió en el lugar esencial donde los 
+textos en busca de lectores se transforman en libros. La técnica tiene sus detractores, que denuncian 
+sus peligros o su inutilidad y que permanecen fieles a la copia manuscrita.40 A diferencia del impreso, 
+el manuscrito garantiza a los autores un mayor control sobre la circulación de sus obras y mantiene a 
+los lectores ignorantes a distancia de los textos que no pueden comprender. Pero el juicio no es 
+unánime, y hasta los reyes honran con sus visitas a los obreros tipógrafos; por lo menos es lo que 
+sostiene Melchor de Cabrera en su memoria destinada a probar la honorabilidad de este “arte de las 
+artes” que es la imprenta. Tras haber recordado que Luis XIII, que poseía una imprenta en el Louvre, 
+había tenido la reputación de ser un excelente cajista, describe la visita de Felipe III y de su hija, la 
+infanta doña Ana, a la imprenta que poseía el duque de Lerma, su “válido”. La joven infanta, delante 
+de una caja tipográfica 
+ 
+gustô que la escriviessen su nombre en la palma de la mano; y sacaba las letras de los 
+caxonzillos, donde la dezían estaban, y las ponía en el componedor.41 
+ 
+Luego, 
+ 
+Su Magestad entrò en la Oficina, mandô à los Artifices, no se mudassen de sus puestos, y 
+asientos, sino que continûassen su exercicio en la forma que se hallaban; y quando llegaba à 
+las Caxas, el rato que se detenia en ver componer, descansaba la mano en el ombro izquierdo 
+del Componedor.42 
+ 
+Mediante ese gesto protector y familiar, el rey manifiesta, mejor que todos los escritos, la utilidad y la 
+nobleza del arte de imprimir. 
+Al igual que su soberano, don Quijote quiso visitar una imprenta. Como él, mostró respeto y 
+estima por el trabajo de aquellos gracias a los cuales las hazañas de un gran príncipe o las divertidas 
+aventuras de un pobre caballero andante podían ser anunciados al mundo: 
+ 
+Llegábasa don Quijote a un cajón y preguntaba qué era aquello que allí se hacía; dábanle 
+cuenta los oficiales; admirábase y pasaba adelante.43 
+                                                 
+38 Francisco Rico, “Prólogo”, en Miguel de Cervantes Saavedra, Don Quijote de la Mancha, nueva edición, al 
+cuidado de Silvia Iriso y Gonzalo Pontón, Barcelona, Galaxia Gutenberg / Círculo de Lectores, 1998, pp. 22 y 
+20. 
+39 Para otros ejemplos de este tratamiento del escrito, en particular en Milton, véase D. F. McKenzie, “Speech-
+Manuscript-Print”, en D. Oliphant y R. Bradford (eds.), New directions in textual studies, Austin, Harry Ransom 
+Humanities Research Center, 1990, pp. 86-109, retomados en D. F. McKenzie, Making meaning..., op. cit., pp. 
+237-258. 
+40 Esto ocurre con las novelas de caballería en la segunda mitad del siglo XVI, cuando las copias manuscritas 
+garantizan la circulación de obras nuevas en un género en adelante abandonado por las prensas; véase José 
+Manuel Lucía Megías, De los libros de caballerías manuscritos al Quijote, Madrid, SIAL Ediciones, col. 
+Trivium, 2004. 
+41 Melchor de Cabrera Núñez de Guzmán, Discurso legal, histórico y político..., op. cit., fol. 23 recto. 
+42 Ibid., fol. 23 recto. 
+43 Miguel de Cervantes, Don Quijote de la Mancha, op. cit., p. 1143. 
+Orbis Tertius, 2006 11(12). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+9

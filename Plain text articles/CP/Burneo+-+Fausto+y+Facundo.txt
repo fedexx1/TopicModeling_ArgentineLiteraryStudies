@@ -1,0 +1,977 @@
+Título
+Fausto y Facundo, tragedia e identidad
+Title
+Faust and Facundo, tragedy and identity
+Raúl Antonio Burneo Barreto
+raul.burneo@uarm.pe
+Universidad Antonio Ruiz de Montoya, Lima, Perú
+Resumen
+A lo largo del artículo se muestra cómo algunos alcances teóricos que esgrime Marshall
+Berman, en su libro Todo lo sólido se desvanece en el aire (2011), para analizar el Fausto
+(1808 y 1832) de Johann Wolfgang von Goethe enriquecen la lectura del Facundo (1845)
+de Domingo Faustino Sarmiento. Sobre todo, porque permiten profundizar y expandir
+interpretaciones ya divulgadas sobre este último libro por diversos autores como Roberto
+González Echevarría, Noé Jitrik, Silvia Molloy y otros. Estos alcances teóricos hacen
+referencia al carácter dialéctico de la modernidad y, por ende, al alto precio en el que se
+debe incurrir por alcanzarla; de ahí que Berman hable de la tragedia de la modernidad;
+asimismo, aluden a los rasgos que conforman la identidad del héroe de la época moderna;
+y, finalmente, muestran cómo encarna en este héroe un proyecto descomunal de
+desarrollo que se lleva a cabo desde un centro de poder y que se sustenta en la industria,
+el comercio, la tecnología, la inversión financiera y la transformación legal y política. En
+ese sentido, el artículo también acude, como herramienta interpretativa del Facundo, a la
+noción de self-fashioning acuñada por Stephen Greenblatt.
+Palabras clave: Sarmiento, Goethe, Facundo, Fausto, Berman, modernidad, tragedia,
+identidad, desarrollo
+Abstract
+Throughout the article, it is shown how some of the theoretical approaches that Marshall
+Berman wields in his book All that is Solid Melts into Air (1982), to analyze Faust (1808
+and 1832), by Johann Wolfgang von Goethe, enrich the reading of Facundo (1845), by
+Domingo Faustino Sarmiento. Above all, because these approaches allow deepening and
+expanding interpretations already disclosed about this last book by various authors such
+as Roberto Gonzalez Echevarria, Noe Jitrik, Silvia Molloy and others. These theoretical
+scopes refer to the dialectical character of modernity and, therefore, to the high price that
+must be paid to achieve it; hence Berman speaks of the tragedy of modernity; likewise,
+they allude to the traits that make up the identity of the hero of modern times, and, finally,
+they show how this hero embodies a colossal development project that is carried out from
+a center of power and is sustained by industry, commerce, technology, financial
+investment, and legal and political transformation. In this sense, the article also uses, as
+an interpretative tool for analyzing Facundo, the notion of self-fashioning coined by
+Stephen Greenblatt.
+1
+Keywords: Sarmiento, Goethe, Facundo, Faust, Berman, modernity, tragedy, identity,
+development
+Fausto y Facundo, tragedia e identidad
+Sarmiento is to Latin American literature what Walt Whitman is to American literature:
+a voice that in singing about itself sings America’s song.
+Roberto González Echevarría
+Aunque no fueron contemporáneos (entre el nacimiento de uno y otro median
+sesenta y dos años) y procedieron de regiones muy disímiles y muy apartadas una de la
+otra (uno era de origen germano y el otro de origen argentino), Johann Wolfgang von
+Goethe (1749-1832) y Domingo Faustino Sarmiento (1811-1888) compartieron la lectura,
+el estudio y una cierta predilección por algunos autores y obras1; es decir, en algunos de
+sus textos, en particular, el Fausto I2 (1808) y II3 (1832), compuestos por el erudito
+germano, y en Facundo o Civilización y Barbarie (1845)4, escrito por el polígrafo
+argentino, se puede rastrear un fondo común de ideas que desempeñan un papel
+importante en la urdimbre de cada uno de estos libros. Las semejanzas, sin embargo, no
+se agotan en esta confluencia de ideas, sino que van más allá; hay un aire trágico familiar
+que penetra hasta los huesos y conmueve en el Fausto y, en cambio, sopla con relativa
+sutileza en el Facundo5; lo que este aire rezuma es lo que Berman denominó la tragedia
+de la modernidad.
+Dada la magnitud de las coincidencias que vinculan a estas obras, voy a mostrar
+en las páginas que siguen cómo algunos alcances teóricos que esgrime Marshall Berman
+5 En su introducción a Facundo: Civilization and Barbarism, primera traducción del texto completo del
+Facundo de Sarmiento al inglés, Roberto González Echavarría señala con acierto: “La barbarie tiene la
+grandeza de la tragedia, compartiendo su inevitabilidad, lo que anticipa el programa de Sarmiento de
+erradicarla con la ayuda de la civilización. Si, como él afirma, hay un gaucho escondido debajo de la levita
+de todo argentino, ¿dónde deja eso al propio Sarmiento, si no del lado de lo trágico?” (13) (traducción
+propia). Y poco después explica en qué consiste ese carácter de lo trágico que él advierte en el Facundo:
+“Si bien Sarmiento no vio la “infancia” argentina de una manera tan esperanzadora, fue él quien articuló
+con más fuerza y permanencia la metáfora de la historia como vida. En Facundo la vida es trágica, como la
+de su protagonista, un patrón profundamente incrustado en la estructura biológica misma de la raza
+humana” (14) (traducción propia). Así, la tragedia en el Facundo, desde la perspectiva de González
+Echevarría, procede de que la obra ha sido moldeada a partir de una paradigma proveniente de la biología
+que estructura la vida como una sucesión de etapas que van desde el nacimiento, el crecimiento, la
+reproducción hasta la muerte. Un derrotero en el cual Sarmiento enfatiza el desenlace fatal de toda vida.
+Nosotros más bien hablaremos en este trabajo de una tragedia articulada sobre la base de ideas que avizoran
+la historia de una manera determinista y sobre los planteamientos de Marshall Berman.
+4 Sarmiento, Domingo Faustino. Civilización i barbarie. Vida de Juan Facundo Quiroga i aspecto físico,
+costumbres y ábitos de la República Arjentina. Santiago: Imprenta del Progreso, 1845.
+3 von Goethe, Johann Wolfgang. Faust. Der Tragödie zweiter Teil. Stuttgart: Cotta, 1832.
+2 von Goethe, Johann Wolfgang. Faust. Eine Tragödie. Tübingen: Cotta, 1808.
+1 Entre estas lecturas comunes se cuentan libros de Adam Smith (1723-1790), de Jeremy Bentham
+(1748-1832), de Henry de Saint Simon (1760-1825), de Jean Charles Léonard de Sismondi (1773-1842), de
+Alexander von Humboldt (1769-1859) y de Pierre Guizot (1787-1874). Una rica veta para establecer las
+lecturas que frecuentaba Goethe es el libro Conversaciones con Goethe, de Johann Peter Eckermann.
+2
+(1940-2013)6 para analizar el Fausto de Goethe enriquecen la lectura del Facundo7, sobre
+todo porque permiten profundizar en interpretaciones ya divulgadas sobre este texto por
+diversos autores8, e incluso son provechosos para comprender algunos aspectos del
+gobierno (1868-1874) de Domingo Faustino Sarmiento en el que ejerció el cargo de
+presidente de la nación argentina. Los alcances teóricos a los que me refiero son los
+siguientes: el carácter dialéctico de la modernidad y, por ende, el alto precio en el que se
+debe incurrir por alcanzarla; los rasgos propios del héroe de la modernidad: su
+consciencia desgarrada (el necesario sacrificio del pasado), la construcción de sí mismo
+que conlleva la expansión de la personalidad y de la sensibilidad, y la liberación de todos
+los contenidos psíquicos del yo; la encarnación en el héroe moderno de un descomunal
+proyecto de desarrollo que se lleva a cabo desde un centro de poder y que se sustenta en
+la industria, el comercio, la tecnología, la inversión financiera y la transformación legal y
+política.
+Sin embargo, debo señalar que no me limitaré, en este análisis del Facundo, a los
+alcances teóricos referidos a propósito de la obra de Goethe, sino que trataré de establecer
+un cierto diálogo entre estos hallazgos y algunas ideas vertidas por diversos críticos tanto
+sobre la obra de Sarmiento como sobre otros tópicos. Asimismo, como he indicado, en lo
+que concierne al Fausto, me remitiré, en particular, a algunos aspectos vinculados con la
+visión de la modernidad que deja entrever en sus páginas.
+La tragedia de la modernidad
+8 Por ejemplo, la lectura sobre la otredad que desarrolla Roberto González Echevarría con respecto al
+Facundo en Mito y archivo; o la agudeza con la que Julio Ramos analiza los discursos que convergen en el
+Facundo en “Saber del otro: escritura y oralidad en el Facundo de Domingo Faustino Sarmiento” (2009); o
+trabajos que han investigado la influencia del pensamiento utópico en la obra sarmientina como el artículo
+de Celia Guevara “La utopía sarmientina” o la tesis doctoral de Rogelio Meglioli “El pensamiento
+filosófico de Domingo Faustino Sarmiento”.
+7 Esta relación entre el Facundo y el Fausto vista a través del prisma del capítulo “El Fausto de Goethe: La
+tragedia del desarrollo” del libro Todo lo sólido se desvanece en el aire ya ha sido advertida y comentada,
+aunque de manera sucinta, con anterioridad. Véase el siguiente trabajo: Rebeca Errázuriz Cruz. “El viaje
+latinoamericano y el deseo de modernidad: Una lectura de los Viajes de Domingo Faustino Sarmiento
+(1845-1847)”. Tesis de maestría U. de Chile, 2009. Repositorio académico de la Universidad de Chile.
+Web. 15 mar. 2021. Transcribo lo que se señala al respecto en el mencionado trabajo:
+La modernidad, en este sentido, no es más que un desiderátum y el sanjuanino se asemeja bastante a la
+figura del Fausto de Goethe, tal como la describiera Marshall Berman (2004). Sarmiento es un letrado que
+vive simultáneamente en dos mundos: aquel de la barbarie sudamericana, que es la realidad que le pesa
+tanto como el pasado colonial del cual intensa (sic) desprenderse a toda costa; y aquel de la modernidad,
+que es el futuro imaginado, el camino a seguir de la modernización, que si bien no es más que deseo, ocupa
+su mente, su imaginación y sus energías de manera constante, al punto de adquirir a veces la consistencia
+de un factum, pues se apoya en la secreta fuerza de la ley del progreso. Sarmiento sufre, como ese Fausto
+desarrollista, aquella escisión interior entre su pensamiento, que siempre está dando un salto hacia el futuro,
+y la realidad, que aparece siempre bajo la forma de una sociedad estancada, enquistada en tradiciones
+coloniales y medievales (Berman, 2006: 34). Sarmiento sabe que quiere crear en Sudamérica un nuevo
+mundo, que aún no posee siquiera bases y cuya fundación requiere necesariamente la destrucción de la
+realidad tal como la conoce. (9-10)
+Hay que notar que también se halla en la página 24 de este mismo trabajo otra alusión menos extensa sobre
+esta relación entre la obra de Sarmiento y la figura del Fausto de Goethe a través de las ideas de Marshall
+Berman.
+6 Berman, Marshall. Todo lo sólido se desvanece en el aire: la experiencia de la modernidad. México, D.F.:
+Siglo XXI, 2011.
+3
+Al repasar la páginas que Todo lo sólido se desvanece en el aire consagra al
+Fausto de Goethe, no se puede dejar de evocar a cada momento la figura de Domingo
+Faustino Sarmiento y su libro más conocido y leído: Facundo o Civilización y Barbarie9.
+En principio, este aire de familia entre el Facundo y el Fausto se debe a que
+ambos textos responden, aunque de modo distinto, a parecidas interrogantes: ¿Qué es ser
+moderno? ¿Cómo serlo? ¿Cuál es el precio de alcanzar la modernidad?
+En relación con estas preguntas, Berman nos recuerda, en la lúcida introducción a
+su libro, que la visión de la modernidad que compartieron muchos intelectuales europeos
+y
+norteamericanos
+decimonónicos
+―Marx,
+Nietzsche,
+Baudelaire,
+Kierkegaard,
+Whitman, Melville, Ibsen, el propio Goethe, etc.― se distingue por su carácter
+eminentemente dialéctico (10). En los libros de estos autores, se describe la sensibilidad
+moderna como un insaciable deseo de crecimiento, de expansión, de movimiento en
+todos los órdenes contrapuesto a una simultánea búsqueda de estabilidad, de raíces.
+Precisamente, esa contradicción es la que dota de un signo trágico al Fausto y al
+Facundo: la constitución del sujeto moderno y, por ende, de la sociedad moderna
+conlleva la inevitable destrucción del mundo tradicional.
+Para comprender con cabalidad la comparación que hemos propuesto entre el
+Fausto y el Facundo, vamos a exponer, seguidamente, una reseña de ambos textos.
+En la obra de teatro de Goethe, el doctor Fausto ―usualmente, representado como
+un hombre cargado de años―, completamente desilusionado de su vida dedicada al
+estudio y al conocimiento, sella una apuesta con el diablo cuyo nombre es Mefistófeles.
+Este lo proveerá de todo tipo de experiencias. A cambio, si una de ellas alcanza a
+embelesar a Fausto de tal forma que desee ardientemente que el deleite sea eterno,
+entonces, tendrá que entregarle su alma al diablo. Efectivamente, Mefistófeles provee a
+Fausto de una profusa gama de experiencias de muy diversa índole a través de las cuales
+este se sacia pletóricamente de belleza, de poesía, de elementos de la naturaleza, de deseo
+carnal, de amor, de lo sobrenatural, de lo infernal, del poder de la magia, de lo cósmico,
+de la embriaguez del desarrollo en el corazón del hombre moderno. Tales experiencias
+transcurren en entornos dispares: una pequeña villa en la campiña alemana, parajes
+idílicos, castillos medievales, montañas embrujadas, la corte del emperador, las
+profundidades del mar, una extensa propiedad costera transformada en un centro de
+industria, comercio y producción. Asimismo, las experiencias ocurren en tiempos tan
+9 Todas las referencias en este trabajo al Facundo provienen de la siguiente edición: Domingo Faustino
+Sarmiento. Facundo o Civilización y Barbarie. Barcelona: Fundación Biblioteca Ayacucho, 1985. Hay que
+notar que Sarmiento fue un escritor prolífico y polifacético, pues abarcó en sus textos un sinnúmero de
+temas como puede advertirse en sus obras completas. Hasta la fecha se han publicado tres ediciones que
+reúnen todas sus obras: Obras de Domingo Faustino Sarmiento. 52 vols. Eds. Augusto Belín Sarmiento y
+Luis Montt. Buenos Aires: Imprenta y Litografía Mariano Moreno, 1884-1903; Obras completas. 53 vols.
+Buenos Aires: Editorial Luz del Día, 1948-1956; y Obras completas de Domingo Faustino Sarmiento. 54
+vols. Buenos Aires: Universidad Nacional de la Matanza, 2001. Todos los volúmenes de la primera edición
+de las obras completas de Sarmiento se encuentran disponibles en formato digital en la siguiente dirección
+web: https://casanatalsarmiento.cultura.gob.ar/biblioteca-digital/obras-sarmiento/obras-completas/
+Por su parte, Goethe también fue un escritor fecundo y un polígrafo. La edición más reciente de sus obras
+completas en la Editorial Deustcher Klassiker abarca 40 volúmenes: Sämtliche Werke. Briefe, Tagebücher
+und Gespräche. 40 Bänden. Frankfurt am Main: Deutscher Klassiker Verlag, 1985 ff. [Obras completas.
+Cartas, diarios y conversaciones. 40 vols. Fráncfort del Meno: Editorial Deutscher Klassiker, 1985 y ss.].
+Esta es la edición más actual y más completa que reúne todas las obras de Goethe, pues incluye los escritos
+oficiales y los dibujos, con comentarios y registros.
+4
+disímiles como la Grecia Clásica, la Edad Media nórdica y la Edad Moderna. Una de las
+experiencias centrales y más conmovedoras de la obra, la cual funciona como eje
+argumental de la primera parte, es la que ha sido llamada “la tragedia de Margarita”. Ella
+es una hermosa adolescente que vive en un campestre pueblo alemán fervientemente
+cristiano y, por ende, inmerso en la atmósfera de una moral rigorista, quien es seducida,
+gracias a las artes de Mefistófeles, por un rejuvenecido Fausto, quien la desea con ardor;
+lo que lleva a la inocente muchacha a ser condenada por su sociedad ―la que en la obra
+se denomina como “pequeño mundo”, es decir, el mundo tradicional de las pequeñas
+villas alemanas desperdigadas en las zonas rurales― a una muerte inmisericorde; aunque
+post mortem su alma es salvada por la misericordia divina. Es al final de este recorrido
+que va enhebrando una experiencia tras otra, ya en las postrimerías de la segunda parte de
+la obra, que Mefistófeles triunfa en la apuesta, pues Fausto, convertido en un
+desarrollista, alcanza la cúspide de su experiencia cuando aquilata lo que ha conseguido
+―aun cuando uno de los costos para obtener el éxito haya sido el asesinato, a manos de
+Mefistófeles, de los ancianos Filemón y Baucis―: empleando el trabajo de miles de
+hombres, la técnica y la industria, ha sido el vencedor de los elementos de la naturaleza,
+pues ha ganado ingentes tierras al mar para construir un puerto abierto al comercio y ha
+extendido los campos de cultivo con el objetivo de elevar la producción agrícola, lo que
+ha puesto a miles de hombres en la senda del progreso, de la propiedad y la riqueza. En
+ese momento, cuando Fausto, quien acaba de quedarse ciego, hace esta comprobación,
+desea en su corazón fervientemente que su deleite por la obra realizada sea eterno y, por
+consiguiente, pierde la apuesta.
+Por su parte, el Facundo, en síntesis, es la explicación e interpretación de
+Sarmiento de la realidad de la novel República Argentina de la época. En un principio, el
+Facundo fue concebido como una serie de artículos que se publicaron por entregas en el
+diario El Progreso de Santiago de Chile ―los cuales más tarde fueron reunidos en un
+volumen unitario―. En el primer capítulo del libro, Sarmiento describe la geografía, el
+relieve topográfico, con alusiones a la flora y fauna características, de las diversas
+regiones que componen a la Argentina. Asimismo, arguye que esta geografía es la causa
+principal de las costumbres y hábitos peculiares de los habitantes de esas regiones.
+Precisamente, en este punto, Sarmiento alude a la dicotomía sobre la que volverá una y
+otra vez, abundando en el desarrollo de los conceptos y en ilustrativos ejemplos de ambos
+términos, a lo largo de todo el libro: civilización y barbarie. Sobre esta dicotomía
+descansará su interpretación de la historia y de la realidad de la Argentina de la época. El
+segundo capítulo describe lo que Sarmiento identifica como los caracteres distintivos de
+la nación argentina, los cuales provienen del mundo bárbaro de la pampa: el rastreador, el
+baqueano, el gaucho malo y el cantor. El tercer capítulo gira en torno a la pulpería, lugar
+donde, de acuerdo con Sarmiento, se advierte la organización social del mundo de la
+pampa, región cuyo relieve, considera el escritor, resume el carácter nacional argentino.
+Seguidamente, Sarmiento traza la historia de la joven República Argentina desde la
+Revolución de Mayo que estalló en 1810, la cual se considera el inicio de la gesta
+independentista contra el poder colonial de la metrópoli española. De ahí en adelante,
+Sarmiento narrará la historia de la Argentina a través de la biografía de uno de sus actores
+más destacados, Juan Facundo Quiroga (1788-1835), gaucho malo, epítome de la
+barbarie, como lo describe el libro, nacido en la región de La Rioja, quien como caudillo
+militar de provincia jugó un rol predominante en las luchas intestinas de la Argentina.
+5
+Esta guerra social, según Sarmiento, congregó a tres bandos en disputa: la facción
+unitaria, pro europea, cosmopolita, liberal, de claro signo modernizador y que reunía la
+mayor parte de sus adeptos en la ciudad de Buenos Aires; la facción federal, pro
+americanista, provinciana, conservadora, de clara actitud estacionaria y antimodernista, y
+que sumaba la mayor parte de sus parciales entre la población de las ciudades del interior
+y entre los estancieros de provincia; y el lado de la barbarie10, esto es, desde la
+perspectiva sarmientina, el bando del salvajismo, del mundo premoderno, de una
+sociedad sin ley ni orden, regida por la fuerza, el valor, la brutalidad y la intrepidez, que
+contaba entre sus filas a la mayoría de los gauchos, quienes vivían en un entorno rural.
+Estas luchas desembocan en la instauración y consolidación de la prolongada dictadura
+(1835-1852) de Juan Manuel de Rosas (1793-1877), poderoso estanciero de la provincia
+de Buenos Aires y quien, según Sarmiento, es la encarnación última, más perfecta y
+nefasta de la barbarie.
+Después de trazar las principales líneas argumentales de ambos libros, retornemos
+a nuestra argumentación. A partir de lo expuesto hasta aquí, podemos sostener que no es
+Facundo Quiroga ni Juan Manuel de Rosas, ni siquiera la recreación de Argentina o de
+Europa, el protagonista del Facundo. Es la tragedia de la modernidad que se enuncia,
+aunque sin confesarlo explícitamente, a través de quien es ―al igual que Fausto― un
+héroe moderno: Domingo Faustino Sarmiento. Claro está que no hablamos solamente del
+hombre de carne y hueso, del exiliado argentino que en tierra chilena escribe
+apasionadamente contra la dictadura de Rosas, y que en los años venideros cumplirá un
+rol determinante en la política argentina y en la modernización de su país, sino también
+de la construcción verbal que se articula en el texto y que al mismo tiempo se constituye
+en la instancia narrativa a través de la cual el texto es creado.
+Sarmiento fue consciente de lo que implicaba el camino de la modernidad para su
+país, advirtió las contradicciones que entrañaba esta nueva fundación. No resulta extraño,
+pues, si lo consideramos bajo esta óptica, la paradójica repulsión/atracción11 que, en el
+Facundo, la voz narrativa muestra hacia los objetos de su narración, específicamente, los
+que engrosan el lado de la barbarie: el gaucho, Facundo Quiroga, la etapa colonial de la
+historia argentina, la campaña, Juan Manuel de Rosas, el americanismo12, etc. Incluso, en
+12 Susana Villavicencio, tras estudiar la obra de Sarmiento, en particular el Facundo, concluye que el
+americanismo, en la concepción del pensador argentino, es lo opuesto al estandarte del republicanismo que
+él enarbolada, es decir, es lo que se opone a la instalación en la Argentina y en Hispanoamérica de un
+régimen político, social y cultural de origen europeo fundamentado en la razón, las ideas concurrentes de
+11 Sobre esta ambivalencia de la mirada hacia el otro en el Facundo, González Echevarría ha apuntado:
+No cabe duda de que los científicos proyectan sobre su objeto de estudio una visión tan cargada de valores
+y deseo como la de la literatura misma. La mirada europea es una, ya sea científica o artística; su objeto es
+un Otro creado a partir de su anhelo del origen y la organicidad en sí, un Otro que representa, clasifica y
+describe conforme crea un discurso de poder basado en la adecuación del discurso científico y el objeto que
+ha elaborado para éste. (Mito y archivo 165)
+10 En el Facundo, Sarmiento hace un claro distingo entre los miembros del partido federal de la ciudad de
+Buenos Aires, entre ellos Manuel Dorrego (1787-1828), quien alcanzó a ser presidente de la Provincia de
+Buenos Aires tras la caída del gobierno nacional unitario, y los caudillos militares provincianos y los
+gauchos que, por circunstancias históricas, se aliaron con este partido; estos últimos son los que engrosan el
+lado de la barbarie. Así, Sarmiento señala:
+(…) en una palabra, pugnaba por producirse aquel elemento que no era, porque no podía serlo, federal en el
+sentido estricto de la palabra; aquello que se estaba removiendo y agitando desde Artigas hasta Facundo,
+tercer elemento social, lleno de vigor y de fuerza, impaciente por manifestarse en toda su desnudez, por
+medirse con las ciudades y la civilización europea. (Facundo 138-139)
+6
+varios pasajes, la voz narrativa parece adoptar el punto de vista de estas entidades. La
+contradicción inherente de la sensibilidad moderna explica la actitud ambivalente de la
+voz narrativa hacia las diversas manifestaciones de la barbarie. Perder un mundo
+encasillado en el pasado es el trágico precio por construir una sociedad moderna.
+Precisamente, ese es el precio que debe pagar Fausto por su conversión en un
+sujeto moderno a manos de Mefistófeles. Este último encarna una figura múltiple: es el
+demonio, pero también la acción, el enriquecimiento de las experiencias, el cambio y
+movilidad constantes, la pujante producción, los réditos financieros. Fausto se percata de
+que hay un costo muy alto por transformarse en un sujeto moderno ―tal como era el
+anhelo que siempre cobijó Sarmiento: democracia, división de poderes, producción,
+industria, sexualidad menos constreñida, progreso, educación, conocimiento, experiencia,
+libertad de expresión―: “Claramente no hay espacio para el diálogo entre un hombre
+abierto y un mundo cerrado” (Berman 49). Así, Fausto puede amar a Margarita, quien
+encarna los valores más puros del mundo premoderno, pero, finalmente, no puede
+quedarse con ella (y, es más, ella debe ser sacrificada), pues él ha elegido el camino del
+desarrollo, del crecimiento; por consiguiente, todo lo que lo retraiga hacia atrás, hacia
+convenciones sociales y modos de vida feudales es una rémora y un obstáculo para su
+destino. Análogamente, el gaucho, la campaña, el pasado colonial, Juan Manuel de Rosas
+y su política económica y social, la enloquecida trayectoria de Facundo Quiroga se
+yerguen como obstáculos, etapas que necesariamente deben ser superadas para alcanzar
+el desarrollo, la modernidad. Ese es el origen del terror que Sarmiento narrador exuda en
+muchas páginas de Facundo, es el miedo y la ansiedad del hombre moderno, de quien ha
+asumido la tragedia del desarrollo como única vía posible y legítima para la humanidad13.
+De este modo, todo lo que se oponga al desarrollo debe perecer. Ciertamente, la
+inmensidad de este acto de destrucción que resultará en la creación de una nueva
+Argentina trastorna la voz del narrador, que advierte el destino fatídico que van a sufrir
+los objetos de su narración. Es por ello que Sarmiento narrador hace una evocación, en
+ciertos momentos admirativa, a la manera de una elegía, de lo que sabe que va a
+desaparecer irremediablemente.
+Empero, este orden de cosas no tiene por qué ser definitivo. Sarmiento confía que
+el gaucho sobreviva a condición de que deje de serlo y se adapte a la modernidad. Esa
+confianza obedece a que la barbarie muestra algunos aspectos positivos de cara al
+proyecto de modernización. Los hombres del campo pueden contribuir con sus enormes
+13 Meglioli inscribe y explica este terror en el ámbito de lo estético:
+Sarmiento recurre al concepto de lo sublime como atributo estético de la barbarie, tan presente en su obra
+insignia: Facundo. La barbarie estremece desde que el terror es una de sus manifestaciones más elocuentes,
+pero, a la vez, y por eso mismo, no deja de fascinar. La barbarie es desmesura, monstruosidad, exageración.
+La civilización, en cambio, es orden, proporción; pertenece al ámbito de lo previsible. En este sentido
+podría decirse que para Sarmiento, en términos estéticos, si la barbarie es sublime, la civilización solo
+puede alcanzar el estatuto de lo bello. Por eso, en cuanto a su eficacia literaria, lo bárbaro le lleva una
+ventaja a la civilización. Puede decirse que no hay literatura sarmientina sin una considerable dosis de
+barbarie, y sublime es la categoría que mejor define la estética de la barbarie. (315)
+ciudadanía y civilidad, y en una ley común. En la concepción de Sarmiento, el americanismo es el atraso, el
+lastre, pues, por un lado, se aferra a la herencia colonial hispánica, esto es, a un mundo cerrado en sí
+mismo, refractario al extranjero, ceñido a sus tradiciones y sus instituciones religiosas; y, por otro lado, se
+sostiene en la sociedad rural argentina, en sus habitantes, los gauchos, quienes mantienen costumbres,
+hábitos, modos de vida, una indumentaria no solo distintos, sino completamente opuestos al hombre
+civilizado e industrioso de Europa (183-185).
+7
+reservas de energía a la nueva sociedad (es más, la voz del narrador celebra en cierto
+sentido la sangrienta dictadura de Rosas, ya que esta ha prestado, involuntariamente, un
+servicio a la modernización acabando con el caudillismo y cohesionando la sociedad). Si
+se rechaza una forma de vida que se considera carente de sistema, de leyes, de
+organización, de objetivos precisos, se rescata y admira en Facundo, en Rosas, en los
+gauchos su enorme energía animal que es necesario domeñar y emplear en la
+construcción de un sistema liberal de producción. En otros términos, las fuerzas
+materiales al servicio de un proyecto gigantesco de desarrollo.
+Quisiera explayarme un poco más en las últimas ideas expuestas. Sabemos que la
+voz del narrador va construyendo la figura del gaucho; a lo largo de este proceso, se
+elogian algunos de los rasgos distintivos de este personaje: su energía, su destreza y
+fuerza física en constante pugna y victoria sobre la naturaleza. Sin embargo, esta
+admiración no es incondicional. Sarmiento se cuida de señalar que todas estas virtudes
+pertenecen a pueblos aún atados al pasado o modelados por un entorno geográfico hostil
+y salvaje: los árabes, los pioneros norteamericanos que se enfrentan a los pueblos
+indígenas. Para los efectos de lo que tratamos de poner en evidencia aquí, habría que
+notar que lo que se encarece alrededor de la figura del gaucho es básicamente todo lo que
+expresa dinamismo, energía, movimiento14, pues ello converge con el impulso fáustico
+pletórico de angustia y anhelo: actuar, crear, no detenerse jamás. No obstante, Sarmiento
+lamenta que el movimiento en las pampas cuando se produce no esté bien encauzado,
+pues el nomadismo salvaje a través del cual se expresa lleva indefectiblemente al
+estancamiento social, a la desarticulación, a la anulación de toda movilidad. Asimismo,
+Sarmiento narrador se empeña en mostrar el lado reprobable de las efusiones de energía
+del gaucho, ya que estas en buena parte no son nada más que un despilfarro y no
+conllevan
+a
+ningún
+desarrollo
+material
+ni
+moral;
+del
+mismo
+modo,
+enjuicia
+desfavorablemente que el dinamismo de los gauchos se resuelva en crimen y violencia,
+ambos improductivos y perniciosos.
+En el Facundo, encontramos múltiples ejemplos de estas efusiones tildadas de
+improductivas. Basten dos alusiones:
+La riña, pues, se traba por brillar, por la gloria del vencimiento, por amor a la
+reputación. Ancho círculo se forma en torno de los combatientes, y los ojos siguen con
+pasión y avidez el centelleo de los puñales, que no cesan de agitarse un momento.
+Cuando la sangre corre a torrentes, los espectadores se creen obligados, en conciencia, a
+separarlos. Si sucede alguna desgracia, las simpatías están por el que se desgració: el
+mejor caballo le sirve para salvarse a parajes lejanos, y allí lo acoge el respeto o la
+compasión. Si la justicia le da alcance, no es raro que haga frente, y si corre a la partida,
+adquiere un renombre, desde entonces, que se dilata sobre una ancha circunferencia.
+Transcurre el tiempo, el juez ha sido mudado, y ya puede presentarse de nuevo en su
+pago, sin que se proceda a ulteriores persecuciones; está absuelto (59).
+En cuanto a los juegos de equitación, bastaría indicar uno de los muchos en que se
+ejercitan, para juzgar del arrojo que para entregarse a ellos se requiere. Un gaucho pasa a
+14 No es mi intención soslayar con esta afirmación que Sarmiento también encomia y muestra viva
+admiración por el saber tradicional de los gauchos, por sus conocimientos; esto se hace evidente en sus
+descripciones del rastreador, del baqueano y cuando escribe sobre el rústico lirismo del cantor. Sin
+embargo, este saber parece condenado al olvido en la mentalidad de Sarmiento, quien comprende que la
+modernización debe dejar atrás el mundo tradicional.
+8
+todo escape por enfrente de sus compañeros. Uno le arroja un tiro de bolas, que en medio
+de la carrera, maniata el caballo. Del torbellino de polvo que levanta este al caer, vese
+salir al jinete corriendo, seguido del caballo, a quien el impulso de la carrera interrumpida
+hace avanzar, obedeciendo a las leyes de la física. En este pasatiempo se juega la vida, y a
+veces se pierde (59).
+Frente a este panorama, la modernidad se presenta como una entidad ordenadora
+―el Estado, la propiedad, la producción, los derechos, la justicia, etc. ― que insuflará de
+legítimo sentido a estos rasgos, positivos en su raíz, pero mal encaminados.
+Hay una necesidad para el hombre de desenvolver sus fuerzas, su capacidad y su
+ambición, que, cuando faltan los medios legítimos, él se forja un mundo con su moral y
+sus leyes aparte, y en él se complace en mostrar que había nacido Napoleón o César.
+(Sarmiento 59-60).
+Un libro visionario
+El Facundo provocó enconadas críticas a poco de haber sido publicado. Juan Bautista
+Alberdi (1810-1884), el más importante contendor ideológico y político de Domingo
+Faustino Sarmiento, se expresó de manera desaprobatoria del libro. Se opuso a la tesis
+básica que consideró un dualismo exagerado y sin correspondencia con la realidad15. Para
+ilustrarlo, extractemos un breve pasaje de la “Carta Tercera”:
+La localizacion (sic) de la civilización en las ciudades y la barbarie en las campañas, es
+un error de historia y de observación, y manantial de anarquía y de antipatías artificiales
+entre localidades que se necesitan y completan mutuamente. ¿En qué país del mundo no
+es la campaña mas (sic) inculta que las ciudades?
+El catecismo de esa falsa doctrina es el Facundo. (Alberdi 69)
+Alberdi estimaba que la lírica demonización del campo y sus habitantes y la
+idealización de las ciudades eran producto de la fantasía de su compatriota; él, por el
+contrario, de acuerdo con la historia, señalaba que la agricultura en el campo había sido
+desde la colonia una de las fuentes de civilización en el territorio argentino. Ciertamente,
+explicaba que una de las bases que soportó la gesta de la independencia argentina la
+compusieron los propietarios rurales, quienes se opusieron al monopolio del comercio
+español en Buenos Aires. A pesar de la veracidad y la corrección de sus argumentos, en
+15 Me permito aquí transcribir in extenso el fragmento de la “Carta Tercera” de Juan Bautista Alberdi de
+donde he extraído la cita (en la transcripción he respetado la ortografía del original):
+¿Dominar el desierto sin el hombre del desierto, es cosa que tenga sentido común? Siempre que veáis en
+Sud-América otra cosa que un mundo despoblado, incurriréis en error.
+No achaquéis á los campos la anarquía. Ella ha sido hija de la revolución, que ha dividido campos y
+ciudades.
+La localizacion de la civilización en las ciudades y la barbarie en las campañas, es un error de historia y de
+observación, y manantial de anarquía y de antipatías artificiales entre localidades que se necesitan y
+completan mutuamente. ¿En qué país del mundo no es la campaña mas inculta que las ciudades?
+El catecismo de esa falsa doctrina es el Facundo.
+Si fuese preciso localizar el espíritu nuevo y el espíritu viejo en Sud-América, la simple observación nos
+haría ver que la Europa del siglo XIX, atraída por la navegación, el comercio y la emigración, está en las
+Provincias del litoral, y el pasado mas particularmente en las ciudades mediterráneas. Esto se comprende,
+porque se ve, toca y palpa. (69)
+9
+la época en que escribió su refutación, Alberdi no podía percibir un mérito indiscutible en
+la obra de Sarmiento: en ella aparecía palmariamente la tragedia de la modernización, los
+efectos devastadores que podía tener (y tuvo) para la sociedad de su tiempo.
+El terror al subdesarrollo16
+Hay una palpable ansiedad en muchos pasajes del Facundo en lo que concierne al
+desarrollo material y espiritual. Es sintomático que Francia e Inglaterra no solo sean
+modelos a imitar, sino la fuente de la mayor de las ansiedades del libro, porque estos
+países han alcanzado un estadio que Argentina por múltiples razones se ve impedida a
+emular. Esta ansiedad por el subdesarrollo, por la postración social, económica y política,
+es el caldo de cultivo para el racialismo17, para la minusvaloración del gaucho, del
+hombre del campo en general, de quien vive en ciudades de orden colonial, del indígena
+y del negro.
+El Facundo condena a la desaparición a los gauchos, a los indios por su supuesta
+ineptitud de amoldarse a la sociedad moderna. Dicha ineptitud encuentra su explicación
+en varios determinismos pseudocientíficos, que constituían el discurso hegemónico en
+esos días en Europa.
+Alrededor de esta última idea, a riesgo de apartarme un poco del tema que vengo
+tratando, quisiera desarrollar algunos planteamientos. Se puede decir que en el Viejo
+Continente diversas teorías pertenecientes a las más variadas ciencias se articulaban para
+conformar el discurso colonialista. En este contexto, hay que entender que la alternativa
+de desarrollo que propone Sarmiento es un neocolonialismo o, en todo caso, un
+re-colonialismo a través de la inmigración de multitudes provenientes del norte de
+Europa18. Nuestro periodista y político argentino, al término del régimen colonial, como
+muchos otros intelectuales latinoamericanos provenientes de la elite criolla o como en su
+18 Esta idea de fomentar la llegada de inmigrantes del norte de Europa para modernizar a la Argentina se
+encuentra en varios artículos y libros de Sarmiento. Es una idea reiterativa. No solo en la obra de
+Sarmiento, sino también aparece en la obra de Juan Bautista Alberdi, quien concebía, de modo análogo a su
+coterráneo, como fundamental la inmigración europea para lograr la modernización de Argentina. Así lo
+ilustra su uso de la frase “gobernar es poblar”. Asimismo, durante el gobierno de Sarmiento, uno de los ejes
+de su administración fue impulsar la inmigración europea.
+17 Racialismo o racismo científico. Este término se explicará en los párrafos siguientes.
+16 Se estima que el primer registro del término subdesarrollo en alusión a países o regiones se hizo en el
+idioma inglés (underdevelopment), cuando fue empleado por el presidente de los Estados Unidos Harry
+Truman (1884-1972) en su discurso de investidura el 20 de enero de 1949. En referencia a la obra de
+Sarmiento, entonces, su utilización parecería un anacronismo. Sin embargo, la noción de país
+subdesarrollado ya se dibujaba en las mentes de numerosos europeos desde más de un siglo antes. Así,
+Berman señala lo siguiente:
+La escisión que he descrito en el Fausto de Goethe está muy extendida en la sociedad europea y será una de
+las fuentes primarias del romanticismo internacional. Pero su resonancia es más significativa en los países
+social, política y económicamente “subdesarrollados”. Los intelectuales alemanes contemporáneos de
+Goethe fueron los primeros en ver su sociedad de esta manera, al compararla con Inglaterra, con Francia,
+con la América en expansión. Esta identidad “subdesarrollada” fue unas veces fuente de vergüenza, otras
+(como en el conservadurismo romántico alemán) fuente de orgullo y, la mayoría de las veces, una voluble
+mezcla de ambas. Esta mezcla se dará a continuación en la Rusia del siglo XIX, que examinaremos en
+detalle más adelante. En el siglo XX, los intelectuales del Tercer Mundo, portadores de unas culturas de
+vanguardia en unas sociedades atrasadas, han experimentado la escisión fáustica con especial intensidad.
+(34-35)
+En la segunda edición (1988) de la obra original en inglés de Berman, All That Is Solid Melts Into Air, se
+advierte que en este párrafo él emplea, en dos oportunidades, la voz inglesa underdeveloped (43).
+10
+caso particular proveniente de una familia criolla de origen provinciano venida a menos,
+tomó conciencia con espanto de que su país era un territorio marcado por la diferencia:
+frente a la élite de blancos criollos (y de inmigrantes europeos) establecidos en las
+ciudades más importantes, la mayor parte de ellos, eminentemente europeizados, se
+desplegaba un desconcertante abanico de diversidad racial y cultural que provocaba
+visibles ansiedades. Para ilustrar este punto común a varios países latinoamericanos, voy
+a referirme a un ejemplo extraído de la historia del Perú. Allí, tras la guerra de
+independencia, la mayoritaria población indígena y mestiza se cernía como una maldición
+sobre la clase dominante; es lo que José Guillermo Nugent ha llamado “la tragedia
+criolla”. Tragedia porque, dentro de esta perspectiva, el Perú nunca podría convertirse en
+una sociedad moderna debido al lastre que suponían indios y mestizos, razas o mixtura de
+razas incapaces de sumarse al proyecto modernizador con éxito. Un razonamiento de esta
+índole está íntimamente relacionado con el tema del determinismo.
+Uno de los determinismos que impregna con intensidad las páginas del Facundo
+es el de orden biológico. Cada raza tiene características esenciales que determinan el
+comportamiento de las personas que pertenecen a ella. En este planteamiento19 hay claros
+visos de pernicie: la teoría es manifiestamente eurocéntrica, pues el europeo, en particular
+el alemán, el francés y el anglosajón, representa la cúspide de la jerarquía racial gracias a
+sus virtudes esenciales que lo han llevado a construir una sociedad moderna. A este
+primer determinismo se suma el determinismo geográfico: la peculiar geografía de una
+zona influye profundamente en la forma de ser de sus habitantes20. Tal como lo construyó
+Sarmiento, el gaucho de raza española y a veces mestizo de blanco e indio o mestizo de
+blanco y africano adolecía de múltiples limitaciones consubstanciales a su carácter:
+vedado para la navegación, presto a la violencia, ocioso, falto de iniciativa, inclinado a
+avenirse al despotismo y al caudillaje. “El hijo de los aventureros españoles que
+colonizaron el país, detesta la navegación y se considera como aprisionado en los
+20 Ninguna de las ideas básicas que subyacen a estos determinismos tiene un origen moderno, en realidad,
+se remontan a épocas tan antiguas como la Grecia Clásica, en la que encontramos los escritos de Tucídides
+(c. 460 - c. 400 AEC), de Hipócrates (c. 460 - c. 370 AEC), de Jenofonte (c. 430 - 355/354 AEC) y de
+Aristóteles (384-322 AEC) que hablan abiertamente de cómo el entorno geográfico de una zona determina
+el carácter de sus habitantes. En los textos de Hipócrates, por dar un ejemplo, las diferencias entre el
+carácter de griegos y persas, causadas por un diferente entorno geográfico, develan la superioridad de los
+primeros frente a los segundos. En ese sentido hay una imbricación de los dos determinismos mencionados.
+Un exponente moderno del determinismo geográfico fue Montesquieu (1689-1755), historiador y filósofo
+político francés, cuya obra fue una de las lecturas de cabecera de Sarmiento en la época en que escribió el
+Facundo. Lo que aportó la modernidad a estos determinismos fue una supuesta explicación científica que
+justificaba las desigualdades y la consideración de que la superioridad de los europeos estribaba en un
+mayor desarrollo de la ciencia y la industria.
+19 Uno de los inspiradores de este planteamiento lo fue sin duda Théodore Simon Jouffroy (1796-1842),
+filósofo francés. Durante el año 1844, Sarmiento tradujo amplios extractos de varios artículos de Jouffroy,
+los cuales salieron publicados en diversas ediciones del diario El progreso de Santiago de Chile. Especial
+atención merece el extenso artículo “De l’état actuel de l’humanitê” [El estado actual de la humanidad],
+cuyos largos extractos, traducidos por Sarmiento, fueron publicados bajo el título “Sección literaria. Del
+estado actual de la humidad (sic). Por Théodore Jouffroy”, en el diario El Progreso del 16 de septiembre de
+1844, n.º 574. En este artículo, Jouffroy señala la superioridad de la civilización europea cristiana, en
+particular, los pueblos alemán, francés e inglés, con respecto a otros pueblos del mundo debido a su
+desarrollo de las ciencias, lo cual les ha otorgado un mayor poderío. Toda esta información figura en
+Rogelio Meglioli. “El pensamiento filosófico de Domingo Faustino Sarmiento”. Tesis de doctorado U.
+Complutense de Madrid, 2019. Repositorio Institucional de la UCM. Web. 23 abr. 2021.
+11
+estrechos límites del bote o la lancha” (Sarmiento Facundo 24). Asimismo, tras varias
+generaciones de haber habitado en las pampas, el abandono, la incuria, la vastedad, el
+silencio, el salvajismo de su entorno se habían trasplantado a su ser. En las llanuras
+argentinas “la necesidad de manifestarse con dignidad que se siente en las ciudades, no se
+hace sentir allí en el aislamiento y la soledad. Las privaciones indispensables justifican la
+pereza natural y la frugalidad en los goces trae en seguida todas las exterioridades de la
+barbarie” (Sarmiento Facundo 30-31).
+Sin embargo, Sarmiento, como ya hemos señalado, no lo excluye del todo a
+condición de que deje de ser lo que es y se adapte. De este modo, manifiesta su esperanza
+de que se convierta en un sujeto moderno, aunque subordinado a los soñados inmigrantes
+europeos, quienes encarnaban plenamente la modernidad y, por ende, eran superiores.
+Así, Sarmiento escribe:
+El hombre de la ciudad viste el traje europeo, vive de la vida civilizada, tal como la
+conocemos en todas partes: allí están las leyes, las ideas de progreso, los medios de
+instrucción, alguna organización municipal, el gobierno regular, etc. Saliendo del
+recinto de la ciudad, todo cambia de aspecto: el hombre de campo lleva otro traje, que
+llamaré americano, por ser común a todos los pueblos; sus hábitos de vida son diversos;
+sus necesidades, peculiares y limitadas; parecen dos sociedades distintas, dos pueblos
+extraños uno de otro. Aún hay más: el hombre de la campaña, lejos de aspirar a
+semejarse al de la ciudad, rechaza con desdén, su lujo y sus modales corteses, y el
+vestido del ciudadano, el frac, la capa, la silla, ningún signo europeo puede presentarse
+impunemente en la campaña. Todo lo que hay de civilizado en la ciudad, está bloqueado
+allí, proscripto afuera, y el que osara mostrarse con levita, por ejemplo, y montado en
+silla inglesa, atraería sobre sí las burlas y las agresiones brutales de los campesinos.
+(Facundo 29-30)
+Las escasas menciones a los indios en el Facundo nos dan una idea del grado de
+exclusión que ocupaban dentro de la visión de nuestro escritor y periodista. Para él, ellos
+encarnan el salvajismo en su más insoportable extremo. La República Argentina “Al Sur
+y al Norte acéchanla los salvajes [los indios], que aguardan las noches de luna para caer,
+cual enjambres de hienas, sobre los ganados que pacen en los campos y sobre indefensas
+poblaciones” (Facundo 23).
+La condición de los indígenas es irremediable. Están fuera de los límites del
+discurso de la modernidad y, de hecho, no pueden ser asimilados por ella21. En otras
+palabras, deben desaparecer. Esa desaparición ya está prefigurada en el Facundo, las
+contadas menciones bordean el silencio. Son seres fantasmales que habitan las fronteras
+territoriales y discursivas.
+Al adoptar este desembozado determinismo biológico y geográfico, Sarmiento no
+tuvo más remedio que concluir que la Argentina estaba condenada al atraso. Tal
+conclusión resultaba pavorosa para él. De este modo, nuestro escritor justificó su profecía
+y anhelo de que desapareciera su mundo premoderno, aunque, como hemos visto, fue
+21 Durante su mandato como presidente de la Argentina (1868-1874), Sarmiento no tuvo una política
+explícitamente antiindia, sino que más bien pretendió asimilar a los diversos pueblos indígenas a lo que el
+consideraba la civilización. Sin embargo, algunos de sus escritos manifiestan una abierta hostilidad y
+desprecio hacia los indios. A ello se suma, la influencia que su prédica de civilización contra barbarie tuvo
+sobre la élite civil y militar de su país, que facilitó la catalogación de indio como sinónimo de salvaje.
+12
+consciente del alto costo que ello implicaba. Como Fausto, al precipitar a Margarita y a
+los ancianos Filemón y Baucis en la muerte, el estadista argentino decidió pagar el precio,
+de este modo ya podía ser, sin remordimiento alguno, un hombre moderno. En este
+sentido, el Facundo describe el nacimiento de una conciencia moderna en Latinoamérica.
+La construcción de sí mismo
+González Echevarría (Mito y archivo) sostiene que la preeminencia del discurso
+legal, en particular, de la retórica notarial, en los tres primeros siglos de dominación
+española de las colonias hispanoamericanas, se advierte no solamente en los profusos
+documentos legales producidos por un estado burocrático, sino también en los textos
+históricos y literarios, como crónicas y novelas, de la misma época. Asimismo, señala
+que este discurso legal fue, paulatinamente, reemplazado, en cuanto a su predominio, a
+fines del siglo XVIII, por el discurso científico propio de la Ilustración, es decir, el
+naturalismo; entre cuyos más connotados representantes se encontraban los científicos
+Charles Marie de la Condamine (1701-1774) y Alexander von Humboldt (1769-1859),
+quienes organizaron y participaron en expediciones científicas a diversas regiones de la
+América española, y, sobre todo, quienes publicaron una serie de textos acerca de estas
+expediciones, los cuales tuvieron un impacto considerable en la intelectualidad
+hispanoamericana (González Echevarría Mito y archivo). El mismo crítico ha puesto de
+relieve cómo la retórica, por un lado, narrativo-literaria y, por otro lado, científica de
+algunos de los textos publicados por estos expedicionarios europeos, en particular,
+Humboldt, es una de las principales influencias en cuanto a las estrategias narrativas y la
+perspectiva científica que se advierten en el Facundo (González Echevarría Mito y
+archivo).
+Si consideramos lo que afirma Silvia Molloy acerca del carácter (auto)biográfico
+de Facundo o Civilización y Barbarie y de otro volumen escrito por Domingo Faustino
+Sarmiento durante los años de su segundo exilio en Chile (1841-1855) acerca de su
+infancia y juventud en la provincia de San Juan, Recuerdos de provincia (1850),
+podríamos decir que el discurso legal no solo sobrevive en el Facundo, sino que
+desempeña un papel central. Molloy advierte que el Facundo revela sus fuentes:
+documentos, multitud de informantes y la memoria colectiva. En ese sentido, el texto
+producido es también un documento que se apoya y legitima en documentos precedentes.
+Uno de los objetivos primordiales de este documento es conformarse como un alegato en
+favor de Sarmiento frente a sus contemporáneos. Ya no se trata de justificar, recurriendo a
+un discurso legal, como acontece con las crónicas de Indias, la empresa del
+descubrimiento, conquista y colonización de España de los territorios americanos o, en
+casos particulares, de solicitar las prerrogativas que, según sus argumentos, merecían
+recibir quienes llevaron a cabo esta empresa, como ocurre con los escritos de Hernán
+Cortés22 y Bernal Díaz del Castillo23. Ahora el objetivo es, más bien, probar la pertinencia
+y el valor de una empresa futura: la modernidad como sendero irrenunciable para la
+Argentina y la figura de Sarmiento como la más indicada para llevarla por este camino.
+23 Me refiero a su crónica Historia verdadera de la conquista de la Nueva España (manuscrito de 1568).
+22 Me refiero a las Cartas de relación (1519-1526) dirigidas al emperador Carlos V.
+13
+La construcción que elabora Sarmiento de sí mismo en el Facundo y en
+Recuerdos de provincia es lo que podríamos llamar self-fashioning (Greenblatt)24. En ese
+sentido, self-fashioning alude a la interacción entre el sí mismo y “un conjunto de
+mecanismos de control ―planes, recetas, reglas, instrucciones― que dan forma a la
+conducta de un individuo” perteneciente a un determinado ámbito social dentro de una
+sociedad (Geertz, 1973, citado en Greenblatt 3). Según el crítico norteamericano, este
+“sistema cultural de significados” conforma a un individuo en tanto moldea su identidad
+y su persona pública dentro de un entorno social e histórico (Greenblatt 3). Hay que
+advertir que la dimensión que adquiere este proceso de self-fashioning en Facundo es de
+una envergadura colosal, gigantesca, ya que el personaje del autor, Sarmiento, tal como
+se desprende de las páginas del libro, asume la estatura del “grande hombre”25. No hay
+que olvidar que, de acuerdo con lo que propone en Mi defensa (1843), en Facundo y en
+Recuerdos de provincia, será él quien llevará a cabo la descomunal empresa de
+transformar a la Argentina en una nación moderna. En esta idea del “grande hombre”,
+entre otras influencias, se advierte la huella del Romanticismo y, en particular, del modelo
+fáustico (Berman). Expansión de la personalidad y de la sensibilidad, liberación de todos
+los contenidos psíquicos del yo y el tránsito por “el camino hacia el autodesarrollo” son
+componentes del Romanticismo que impregnan la modernidad (Berman 20). Como el
+Fausto de Goethe, el Sarmiento textual, personaje de sí mismo, se presenta en el
+Facundo, en primera instancia, abocado al estudio, a desentrañar la verdad en los libros
+―los que son producidos dentro del discurso de la verdad imperante en la Europa
+moderna― para volcarla en escritura26. Esta labor escritural, sin embargo, no se agota en
+el papel; así como Fausto, en la tragedia de Goethe, trata de encontrar una nueva fórmula
+para traducir la primera línea del Evangelio de San Juan y acierta con la expresión: “En
+el principio era la acción”, la cual establece el nuevo curso que tomará su vida; de manera
+análoga, Sarmiento tiene muy en claro que su escritura es sobre todo acción y está
+orientada a la acción27: “Escribir por escribir es la profesión de los vanidosos y de los
+indiferentes sin principios y sin verdadero patriotismo”28 (citado en Dalfré).
+28 Esta cita proviene de un artículo periodístico, titulado “Diálogo entre el editor y el redactor”, escrito por
+Sarmiento. El texto apareció en el periódico chileno El Mercurio el 27 de julio de 1842.
+27 Sobre la relación entre el intelectual y la acción en la obra de Sarmiento, Noé Jitrik (1985) ha señalado:
+En cuanto al segundo aspecto, no me cabe duda de que la literatura deviene claramente coadyuvante de la
+“acción” y tiene que servir a un determinado contenido que puede haber sido para Sarmiento la
+construcción de otra sociedad, aunque para algunos de sus lectores sea sólo la consolidación de una clase;
+en todo caso, el intelectual tiene, entre ambos aspectos, una vía de realización como tal, lo cual, al
+conferirle poder, lo confiere en general, inviste a la figura y la convierte en modelo (…). (XXIX)
+26 “Desde Chile, nosotros nada podemos dar a los que perseveran en la lucha bajo todos los rigores de las
+privaciones, y con la cuchilla exterminadora que, como la espada de Damocles, pende a todas horas sobre
+sus cabezas. ¡Nada!, excepto ideas, excepto consuelos, excepto estímulos; arma ninguna no es dado llevar a
+los combatientes, si no es la que la prensa libre de Chile suministra a todos los hombres libres” (Sarmiento
+Facundo 14).
+25 “(…) en cuanto al “grande hombre” y su papel en la historia, la idea procede de Hegel (Enciclopedia
+―1817―, Filosofía del Derecho ―1821― y Lecciones sobre la filosofía de la historia universal
+―1837―) a través de la tesis de Victor Cousin sobre la ‘génesis y función social del hombre representativo
+o el grande hombre’ (1828) que integra su Introducción a la filosofía de la historia (…)” (Jitrik, XXXIX).
+24 Greenblatt, Stephen. Renaissance self-fashioning. From More to Shakespeare. Chicago: The University
+of Chicago Press, 1980. Se trata de un estudio sobre la identidad y la persona pública de varios literatos
+durante la época del Renacimiento inglés.
+14
+El modelo de desarrollo a gran escala
+Una impronta que se advierte diáfanamente en el Facundo y en el Fausto II ―y
+que alimenta la idea de predestinación para llevar a cabo una empresa colosal― es el
+sueño desarrollista que cimenta las teorías del socialista utópico Henri de Saint-Simon
+(1760-1825)29. En ambas obras se articula el sueño sansimoniano de un proyecto
+descomunal de desarrollo que comprometa a cientos de miles de hombres bajo la guía de
+un poder central. En la obra de teatro de Goethe, tal propósito se plasma de manera
+consciente y directa: Fausto, al mando de un ejército de obreros, emprende una lucha
+titánica contra los elementos de la naturaleza, el mar y la tierra, con el propósito de
+expandir las fronteras de la agricultura y de crear zonas urbanas adecuadas para vivir30.
+Asimismo, lo impele el designio de forjar hombres libres gracias al fruto de su trabajo y
+peculio. Por su lado, en el Facundo, este proyecto desarrollista de carácter descomunal
+encarna en la edificación de un país moderno. Se ha señalado que Sarmiento es un liberal,
+pero su liberalismo está teñido de utopismo socialista; no se trata simplemente de forjar
+una economía libre, moderna y productiva, sino que en resguardo de ella debe haber un
+poder central unificador y civilizador que brinde coherencia y sentido al proyecto. Si bien
+menudean en el texto del escritor argentino las alusiones laudatorias a la iniciativa
+privada y a fructíferas o prometedoras empresas locales, todo ello se ve circunscrito a un
+designio más amplio y arduo: convertir a Argentina en un país moderno y rico, lo que trae
+consigo la conversión de sus pobladores en seres modernos, quienes propugnen y
+disfruten de los beneficios del progreso: la riqueza económica y la educación.
+(…) ¿hemos de abandonar un suelo de los más privilegiados de la América, a las
+devastaciones de la barbarie, mantener cien ríos navegables abandonados a las aves
+acuáticas, que están en quieta posesión de surcarlos ellas sola desde ab initio? ¿Hemos
+de cerrar voluntariamente la puerta a la inmigración europea, que llama con golpes
+repetidos para poblar nuestros desiertos, y hacernos, a la sombra de nuestro pabellón,
+pueblo innumerable como las arenas del mar? ¿Hemos de dejar ilusorios y vanos los
+sueños de desenvolvimiento, de poder y de gloria, con que nos han mecido desde la
+infancia los pronósticos, que, con envidia, nos dirigen los que en Europa estudian las
+necesidades de la humanidad? […] ¿No queréis, en fin, que vayamos a invocar la
+ciencia y la industria en nuestro auxilio, a llamarlas con todas nuestras fuerzas, para que
+vengan a sentarse en medio de nosotros, libre la una de toda traba puesta al
+pensamiento, segura la otra de toda violencia y de toda coacción? ¡Oh! ¡Este porvenir
+no se renuncia así nomás! (Sarmiento Facundo 12-13)
+La cita anterior tiene una marcada tonalidad utópica. Asimismo, en sus líneas,
+podemos advertir varios tópicos del proyecto de desarrollo a gran escala que propendía
+Sarmiento.
+Uno de ellos, al cual ya hemos hecho mención, es el movimiento. Notemos en la
+cita precedente que cuando habla de los ríos opone, implícitamente, la quieta posesión de
+las aves acuáticas a la aventura de la modernización, en este caso particular, a la
+explotación de los medios de transporte fluviales. El movimiento es acción, evidencia de
+30 En lo que concierne al impacto del pensamiento saintsimoniano en el Fausto, me sustento en lo que
+plantea Berman en Todo lo sólido se desvanece en el aire (65-66).
+29 Ya en un artículo publicado en 1915, José Ingenieros había advertido la influencia de Saint Simon en la
+obra temprana de Sarmiento. Aquí la referencia: José Ingenieros. “Influencias saint simonianas en la
+juventud de Sarmiento”. Revista de Filosofía T. II (1915): 275-315.
+15
+desarrollo, transformación. Incluso si salimos de los límites textuales del Facundo, si
+escudriñamos los hechos de la vida de nuestro escritor, notaremos un elemento en común:
+el
+movimiento,
+viajes
+tanto
+acaecidos
+como
+inventados.
+Sarmiento
+viaja
+para
+desarrollarse al igual que Fausto, ambos abandonan “su pequeño mundo” para convertirse
+en hombres modernos. Adquirir nuevas ideas, expandir sus experiencias, su sexualidad,
+compulsar sus deseos son necesidades imperiosas para el intelectual argentino que recorre
+Europa, los Estados Unidos y Brasil, los principales centros de poder; pero su filiación
+por el viaje, por la transformación es, en realidad, mucho más compleja y decisiva; el
+autor de Recuerdos de provincia quiere trasplantar el Viejo Continente, provocar el viaje
+neocolonizador de sujetos modernos hacia las ciudades y las pampas argentinas. Aquí
+percibimos con claridad cómo Sarmiento se erige en lo que Berman denomina la última
+metamorfosis de Fausto: el desarrollista (developer), la persona que encabeza el
+movimiento modernizador y lo orienta hacia el beneficio común de la sociedad que tiene
+a su cargo. Es innegable la concentración de poder en favor de la unidad que propone este
+modelo, pero los límites de este poder caen bajo el designio del bien común y de la
+justicia y preceptos morales amparados por el Estado.
+Los otros en el Facundo: la imposible coherencia
+Pese al carácter racialista de su contenido, a que toma decididamente el partido de
+la exclusión o al menos de la asimilación enajenadora a favor de un único designio: la
+modernidad, el Facundo es sobre todo un diálogo entrecortado, áspero con los otros31.
+Pero cada uno de estos otros es construido al interior de la conciencia desgarrada del
+sujeto moderno que se articula con todas sus contradicciones en el texto: en suma se trata
+de un diálogo imposible, en el que los otros siempre terminan siendo el mismo
+Sarmiento, sus máscaras internas, ecos de sí mismo.
+La primera imagen de la otredad encarna en la infancia de Sarmiento, a la que
+apenas alude en el Facundo, pero sobre la cual leemos largamente en Recuerdos de
+provincia. A través de su infancia se filtra el mundo tradicional de su pequeña ciudad de
+31 Según Ramos, Sarmiento era plenamente consciente de que este diálogo era ineludible, porque, según
+entendía el escritor y político argentino, era la única manera de superar el entrampamiento que impedía
+llevar a cabo la modernización de la Argentina. Ramos apunta que este diálogo se produce en el Facundo
+en un plano discursivo. Se busca representar al otro, es decir, a los gauchos; trasplantar sus voces al texto
+para escucharlas pese a su rusticidad; en otras palabras, intermediar entre el mundo de la civilización y el
+de la barbarie (Ramos). Esto lo logra el Facundo, en palabras de Ramos, acudiendo al discurso literario,
+porque el discurso científico europeo más bien había probado su ineficacia en representar a un objeto tan
+elusivo como lo es el otro cultural, en este caso, los gauchos y los habitantes de las pequeñas ciudades de
+provincia sumergidas todavía en una atmósfera colonial. Sin embargo, apunta Ramos, esta representación
+que se cimenta, principalmente, en incluir relatos de tradición oral provenientes de la campaña argentina,
+no es neutral. Las voces del otro son representadas bajo el formato del cuadro vivo o tableau vivant, una
+forma elegida ex profeso por Sarmiento, que aparece enmarcada en un comentario que alude al saber
+científico europeo; así un relato oral que se caracteriza por nutrirse de lo particular es subordinado a un
+comentario que apela a un saber racional, que se caracteriza por su generalidad, lo que termina por
+establecer una jerarquía de discursos (Ramos). Así, la escritura misma en el Facundo tiene una finalidad
+ordenadora, de jerarquización, pues sirve para establecer la hegemonía de un discurso sobre el otro.
+Análogamente, el rol de la escritura como fuente de un poder ordenador, unificador y que dota de un
+carácter uniforme a un territorio bajo la administración de un Estado fue reconocido por varios intelectuales
+hispanoamericanos decimonónicos, como Andrés Bello (1781-1865), quien reclamaba la necesidad de una
+ley escrita común para todo un país que dejara de lado las leyes consuetudinarias de carácter oral que
+coexistían en diversas regiones de un mismo territorio (Ramos).
+16
+origen: San Juan. Ella simboliza la cara opuesta de la modernidad: la búsqueda de
+estabilidad frente al perenne movimiento, al constante trueque de sensibilidades.
+La infancia, como también le acontece a Fausto, liga a Sarmiento a lo que Berman
+llama los pequeños mundos, cerrados, limitados en su saber y en su forma de vida,
+pequeños pueblos con una moral, con unos medios y modos de vida tradicionales, es
+decir, premodernos, casi estáticos.
+Es dable agregar aquí que el encuentro entre el pequeño y el gran mundo se puede
+entender como un diálogo al interior de la obra de Sarmiento. La consabida dualidad de
+provincialismo y cosmopolitismo, con todo lo discutible que tiene, se advierte
+nítidamente representada en textos como Recuerdos de provincia y Facundo, los cuales
+se complementan entre sí, pues son la evidencia de que Sarmiento es a la vez cosmopolita
+y provinciano.
+No obstante, la voz del narrador en el Facundo, como hemos visto, elige separarse
+y romper con ese mundo otro que fue el de su infancia y abrazar la promesa de un futuro
+moderno y dinámico. Entre el paraíso del pasado y el paraíso moderno, nuestro escritor
+elige el segundo.
+Al tocar el tema de los determinismos, mencionamos a pie de página que tenían
+antecedentes tan antiguos como los libros de Hipócrates que se remontan a la época de la
+Grecia Clásica. Hipócrates sentenciaba que los orientales (los persas) eran proclives a la
+sensualidad, afeminados, cuyas voluntades débiles se condecían con los gobiernos
+despóticos que permitían regir sobre ellos. El otro siempre ha encarnado los temores o
+formas de comportamiento que se juzgan inaceptables en una cultura, en otras palabras,
+el otro se construye en nuestro interior, de ahí que revele y condense los miedos, las
+aprensiones, que bordee o exceda los límites de lo permisible en nuestra cultura. Sin
+embargo, en la época moderna, a diferencia de épocas históricas previas, la construcción
+de sí mismo que obra el sujeto moderno, aunque determinada y delineada dentro del
+discurso hegemónico, le otorga a la construcción del otro características particulares que
+no poseía antes. “La construcción de sí mismo [self-fashioning] se logra en relación con
+algo percibido como ajeno, extraño u hostil. Este Otro amenazador ―hereje, salvaje,
+brujo, adúltero, traidor, Anticristo― debe ser descubierto o inventado para ser atacado y
+destruido” (Greenblatt 9) (traducción propia). Y la siguiente cita, proveniente de la
+misma fuente, es aún más reveladora en lo que concierne al Facundo.
+Lo extraño es percibido por la autoridad como algo informe o caótico (la ausencia de
+orden) o como algo falso o negativo (la parodia demoníaca del orden). Dado que lo que
+explica al primero de ellos tiende inevitablemente a organizarlo y tematizarlo, lo caótico
+se desliza constantemente hacia lo demoníaco y, en consecuencia, lo extraño siempre se
+construye como una imagen distorsionada de la autoridad. (Greenblatt 9) (Traducción
+propia)
+En el Facundo, la voz narrativa se muestra refractaria al otro para afirmarse a sí
+misma, margina y repele todo lo que considera inaceptable dentro de sí y con esta materia
+psicológica construye su otredad; es un proceso de proyección de sus propios temores,
+angustias y deseos reprimidos: ese es el origen del salvaje, encarnación del desorden, el
+reverso de la autoridad, pero al mismo tiempo atrayente. Sin embargo, en ciertas
+ocasiones, Sarmiento narrador aplica el adjetivo de salvajes a los otros por razones
+meramente prácticas, es decir, impelido por intereses políticos. Como podemos advertir,
+17
+no hay una sola razón, sino que se ponen en juego varias de ellas en la construcción del
+otro. Cuando los descendientes mestizos de africanos actúan a favor de lo que en el texto
+se delinea como la civilización, nuestro escritor encarece su papel. En efecto, al hablar de
+las ciudades los descendientes mestizos de africanos son descritos como aliados de la
+causa civilizadora. “La raza negra, casi extinta ya ―excepto en Buenos Aires― ha
+dejado sus zambos y mulatos, habitantes de las ciudades, eslabón que liga al hombre
+civilizado con el palurdo; raza inclinada a la civilización, dotada de talento y de los más
+bellos instintos de progreso” (Sarmiento Facundo 28).
+Páginas más adelante, cuando se habla de que los negros o, más precisamente, las
+negras que se han plegado a la dictadura de Juan Manuel de Rosas, estas son
+consideradas de inmediato salvajes por naturaleza, por raza. Con el gaucho, el proceso es
+más complejo. La voz narrativa se siente atraída hacia él, no puede reprimir del todo su
+fascinación hacia lo que supuestamente debería rechazar de plano, porque se ponen en
+evidencia rasgos que van a contracorriente de la civilización tal como la concebía
+Sarmiento. Ante la libertad sin regulaciones aparentes, las efusiones de violencia
+irracional, las hazañas en contra de la autoridad hay una actitud ambigua, sospechosa. Por
+momentos, en nombre del ideal de la modernidad, estas actitudes son condenadas y
+calificadas como un lastre, pero mientras son narrados hechos en que se ponen de
+manifiesto, no se puede dejar de advertir el hechizo, la admiración, la atracción que
+ejercen sobre la voz del narrador. Hay un anhelo de emulación, aunque imposible, pues la
+tesis del Facundo ―aunque muchas veces contradicha― es que solo lo que pueda
+adaptarse a la modernidad tiene futuro. De este modo, son bienvenidos la energía
+indesmayable, el don de mando y el halo de poder que les permite reunir gente tras de sí a
+caudillos como Facundo Quiroga, Juan Manuel de Rosas, etc.; porque la construcción de
+sí mismo que hace Sarmiento a lo largo del texto concuerda con estos rasgos: él también
+es un héroe, aunque de la modernidad, de la civilización. No en vano el estadista
+argentino definió la confrontación entre él y el dictador Rosas como una lucha de titanes.
+Hemos hablado de los gauchos que tienen cierto poder y agencia, pero cuando se
+trata del débil, del que socialmente no tiene prestigio, la línea demarcatoria que traza el
+texto es más clara: los pobres del campo o la ciudad siempre son salvajes o semisalvajes
+o esconden la tendencia al salvajismo, las mujeres apenas aparecen. En referencia a esto
+último, Silvia Molloy muestra cómo Sarmiento en sus escritos (auto)biográficos como en
+Recuerdos de provincia, a excepción de su madre y un par de hermanas, apenas hace
+mención de otras mujeres. Sus amantes no son aludidas en ningún momento. Ese es otro
+rasgo de la dialéctica entre la construcción de sí mismo y la del otro que lleva a cabo
+Sarmiento. Cuando no conviene a sus intereses, a la afirmación de su propia
+construcción, el texto silencia la presencia del otro. La voz narrativa podía permitirse la
+representación lírica del gaucho, al fin y al cabo la ruptura con el pasado garantizaba que
+los preceptos morales se habían preservado finalmente. Exponer la otredad de sus
+amantes ponía en entredicho la construcción que Sarmiento estaba empeñado en articular,
+la transgresión moral socavaba el proyecto de un sujeto como encarnación de la
+coherencia de los valores de la modernidad.
+Conclusión
+18
+A primera vista, entre el Fausto y el Facundo, se advierten algunas coincidencias
+producidas por el hecho de que ambas obras, además de haber sido publicadas en fechas
+relativamente cercanas, responden a periodos de crisis de sus respectivas sociedades
+provocados por los procesos de modernización. Sin embargo, el parentesco entre estas
+dos obras, como hemos argumentado a lo largo de las páginas precedentes, es mucho más
+profundo. No solo se trata de que tanto Domingo Faustino Sarmiento como su obra estén
+insuflados por el espíritu fáustico, lo cual es esperable en un autor que encarna el anhelo
+de modernidad y la puesta en marcha de un proyecto cuyo objetivo es modernizar a su
+país, sino que la manera en que esto se manifiesta tanto en la obra de Goethe como en la
+de Sarmiento revela notables semejanzas: la tragedia de la modernidad, un pensamiento
+liberal teñido de utopismo socialista que nutre un proyecto descomunal de desarrollo, y
+una conciencia desgarrada por la pérdida de raíces y la ebriedad del vuelo, aunque dentro
+del horizonte de la modernidad. A todo ello se añade la construcción del sujeto moderno,
+en el que es axial la expansión de todas las potencias psíquicas del yo, pero dentro del
+marco de la modernidad misma, es decir, del tipo de orden que esta preconiza, lo que trae
+consigo que se expulse de la propia identidad lo que se concibe como ajeno, extraño u
+opuesto a este orden.
+En la determinación de quienes encarnan lo opuesto a la anhelada identidad, cumple
+un rol central la divergencia entre mentalidades, lo cual se advierte entre sujetos
+provenientes de tiempos históricos distintos. Es el caso de Fausto y Margarita, a la cual
+aquel abandona, ya que ella vive y muere a la usanza de su entorno premoderno; o es lo
+que ocurre entre Fausto y los ancianos Filemón y Baucis, quienes encarnan las virtudes
+de la Antigüedad grecolatina; ambos son asesinados por Mefistófeles después de que
+Fausto le pidiera al demonio que los convenza de una u otra forma de que le vendan su
+propiedad. En Sarmiento, fruto de sus condiciones históricas, geografía y raza también
+desempeñan un papel fundamental en la determinación de quienes encarnan lo opuesto a
+la propia identidad. En suma, el grado de extrañeza u hostilidad ―y también esporádica
+atracción― que adquieren a los ojos de Sarmiento estos sujetos opuestos a sí mismo,
+como el gaucho, no solo es atribuible a las diferencias históricas, raciales y geográficas,
+sino a la necesidad que, como sujeto moderno, tenía de definirse de acuerdo con ciertos
+parámetros, lo cual hizo ineludible adjudicarle a quienes encarnaban la otredad lo que
+debía dejar fuera de sí mismo.
+Por
+último,
+compulsar
+ambas
+obras
+ha
+permitido
+articular
+varias
+de
+las
+interpretaciones canónicas sobre el Facundo y también sopesarlas, pues, bajo la luz del
+Fausto, de la reflexión que este libro desentraña sobre la modernidad, se han propuesto
+explicaciones alternativas o complementarias a las ya conocidas.
+Bibliografía
+Alberdi, Juan Bautista. “Carta Tercera”. Obras completas de J. B. Alberdi. Tomo IV.
+Buenos Aires: La Tribuna Nacional, 1886. 50-74.
+Berman, Marshall. Todo lo sólido se desvanece en el aire. La experiencia de la
+modernidad. México, D.F.: Siglo XXI, 2011.
+Cortés Conde, Roberto. “Sarmiento and Economic Progress: From Facundo to the
+Presidency”. Sarmiento. Author of a Nation. Eds. Tulio Halperín Donghi, Iván Jaksic,
+19
+Gwen Kirkpatrick, Francine Masiello. Berkeley and Los Angeles: University of
+California Press, 1994. 114-123.
+Dalfré, Liz Andréa. “Diagnóstico de Domingo Faustino Sarmiento sobre o Império
+Brasileiro em 1842”. Oficina do Historiador 7/1 (2014): 177-194. Web. 20 de ago. de
+2021.
+Eckermann, Johann Peter. Conversaciones con Goethe. Barcelona: Iberia, 1982.
+Errázuriz Cruz, Rebeca. “El viaje latinoamericano y el deseo de modernidad: Una lectura
+de los Viajes de Domingo Faustino Sarmiento (1845-1847)”. Tesis de maestría U de
+Chile, 2009. Repositorio académico de la Universidad de Chile. Web. 15 de mar. de
+2021.
+González Echevarría, Roberto. (2003). Facundo: An Introduction. Facundo: Civilization
+and Barbarism. Translated from the Spanish by Kathleen Ross. Berkeley, Los
+Angeles, London: University of California Press, 2003. 1-15.
+---. Mito y archivo. Una teoría de la narrativa latinoamericana. México, D.F.: Fondo de
+Cultura Económica, 2000.
+Greenblatt, Stephen. Renaissance self-fashioning. From More to Shakespeare. Chicago:
+The University of Chicago Press, 1980.
+Guevara, Celia. “La utopía sarmientina”. VI Jornadas de Sociología. Buenos Aires:
+Universidad de Buenos Aires, 2004. Web. 5 de ago. de 2021.
+Halperín Donghi, Tulio. Proyecto y construcción de una nación. Caracas: Fundación
+Biblioteca de Ayacucho. 1980.
+Jitrik, Noé. “El Facundo: La gran riqueza de la pobreza”. Facundo o Civilización y
+barbarie. Barcelona: Fundación Biblioteca de Ayacucho, 1985, IX-LII.
+Meglioli, Rogelio. “El pensamiento filosófico de Domingo Faustino Sarmiento”. Tesis de
+doctorado U. Complutense de Madrid, 2019. Repositorio de la UCM. Web. 23 de abr.
+de 2021.
+Molloy,
+Silvia.
+“The
+Unquiet
+Self:
+Mnemonic
+Strategies
+in
+Sarmiento’s
+Autobiographies”. Sarmiento. Author of a Nation. Eds. Tulio Halperín Donghi, Iván
+Jaksic, Gwen Kirkpatrick, Francine Masiello. Berkeley and Los Angeles: University
+of California Press, 1994. 193-212.
+Nugent, Guillermo. El laberinto de la choledad. Lima: Fundación Friedrich Ebert, 1992.
+Ramos, Julio. “Saber del otro: escritura y oralidad en el Facundo de Domingo Faustino
+Sarmiento”. Desencuentros de la modernidad en América Latina. Literatura y política
+en el siglo XIX. Caracas: Fundación Editorial El perro y la rana, 2009. 65-89.
+Sarmiento, Domingo Faustino. Recuerdos de provincia. Caracas: Fundación Biblioteca
+Ayacucho, 1991.
+---. Facundo o Civilización y Barbarie. Barcelona: Fundación Biblioteca Ayacucho,
+1985.
+Villavicencio, Susana. “Republicanismo y americanismo: Sarmiento y la nación cívica”.
+Anales 7-8 (2004-2005): 171-190. Web. 20 de jun. de 2021.
+von Goethe, Johann Wolfgang. Fausto. Madrid: Ediciones Cátedra, 2009.
+Recibido: 21/03/2022
+Aceptado: 12/09/2022
+20

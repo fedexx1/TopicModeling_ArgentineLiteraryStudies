@@ -1,0 +1,813 @@
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+118 
+CUADERNOS de literatura
+Revista de Estudios Lingüísticos y Literarios
+Cómo citar: Sánchez López,  J. F. (2020). Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, 
+nochecita) del español actual. Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios, 15, 118-136. Resistencia, 
+Argentina, UNNE. ISSN 2684-0499.  DOI: http://dx.doi.org/10.30972/clt.0154710
+ESTUDIO DEL INTERFIJO -C-, -EC- EN LAS FORMACIONES 
+DIMINUTIVAS (CAMIONCITO, CAFECITO, NOCHECITA) DEL ESPAÑOL 
+ACTUAL
+Study of the interfix -c-, -ec- in the diminutive formations (camioncito, cafecito, 
+nochecita) of current spanish
+Juan Francisco Sánchez López*
+Universidad Nacional de Educación a Distancia
+jf.schez.lopez@gmail.com
+Resumen
+El estudio de los interfijos, en general, y más particularmente, de los que entran 
+en la formación de los apreciativos, sitúa al investigador ante uno de los asuntos 
+más complejos y controvertidos de la morfología léxica de nuestro idioma. El 
+objetivo del artículo que ahora presentamos es realizar un análisis en detalle del 
+interfijo -c-, -ec- que aparece en numerosos diminutivos del español, con el fin 
+de determinar sus características morfológicas, así como las reglas o principios 
+que rigen su inserción y combinatoria. Para ello, hemos tomado como material 
+de estudio las formaciones diminutivas interfijadas que se incluyen en el Corpus 
+de Referencia del Español Actual (CREA), si bien, debido al elevado número de 
+estas, hemos decidido limitar el análisis a las comprendidas entre los años 1984 y 
+2004. A lo largo de este análisis se contrastan los resultados que ofrecen los datos 
+empíricos del corpus con los planteamientos teóricos de los especialistas, con el fin 
+de examinar su validez y proponer, en su caso, soluciones alternativas.
+Abstract
+The study of the interfixes, in general, and more particularly, of those that enter 
+into the formation of appreciatives, places the researcher before one of the most 
+complex and controversial issues of the lexical morphology of Spanish language. 
+The objective of the article that we now present is to carry out a detailed analysis 
+of the interfix -c-, -ec- that appears in numerous Spanish diminutives, in order to 
+determine its morphological characteristics, as well as the rules or principles that 
+govern its insertion and combinatorial. For this, we have taken as study material 
+the interfixed diminutive formations that are included in the Corpus of Reference 
+of Current Spanish (CREA), although, due to the high number of these, we have 
+decided to limit the analysis to those between 1984 and 2004. Throughout this 
+analysis, the results offered by the empirical data of the corpus are contrasted with 
+the theoretical approaches of the researchers, in order to examine their validity and 
+propose, where appropriate, alternative solutions.
+Palabras clave
+interfijos;  
+diminutivos; 
+español actual 
+(1984-2004); 
+datos del CREA
+Keywords
+interfixes; 
+diminutives; 
+current spanish 
+(1984-2004); 
+CREA data
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154710
+Juan Francisco Sánchez López
+ 119 
+1. Introducción
+Dentro del ámbito de la morfología léxica del español quizá uno de los asuntos que ha originado 
+mayor controversia entre los investigadores es el referente a los interfijos. Esto es así, en primer lugar, 
+porque ni siquiera hay un acuerdo general entre los especialistas sobre la existencia misma de esta 
+categoría lingüística; y en segundo término, porque se da, entre quienes la reconocen, una enorme 
+disparidad de opiniones (no pocas veces, contrapuestas) acerca de su naturaleza, su función y su 
+significado.
+El trabajo que ahora presentamos pretende contribuir al conocimiento de esta clase de formantes 
+mediante un análisis detallado del interfijo -c-, -ec- que aparece en numerosos diminutivos del español, 
+con el fin de determinar sus características morfológicas, así como las reglas o principios que rigen 
+su inserción y combinatoria. Para ello, hemos tomado como material de estudio las formaciones 
+diminutivas interfijadas que se incluyen en el Corpus de Referencia del Español Actual (CREA), si bien, 
+debido al elevado número de estas, hemos decidido limitar el análisis a las comprendidas en el último 
+período temporal abarcado por dicho banco de datos, esto es, a las documentadas entre los años 1984 
+y 2004.
+El cuerpo del trabajo se estructura en dos partes claramente diferenciadas. En la primera de 
+ellas se abordan cuestiones de tipo teórico relacionadas con la situación del interfijo como categoría 
+morfológica en nuestra lengua, tanto desde un punto de vista general como en lo referente a los 
+diminutivos en particular. Es aquí donde se exponen y examinan las aportaciones de los principales 
+investigadores, y también donde fijamos nuestra posición al respecto.
+En la segunda parte se lleva a cabo un análisis pormenorizado del interfijo -c-, -ec- que 
+aparece en las formaciones diminutivas del CREA, centrando la atención en aspectos tales como 
+su productividad, bases léxicas con las que se combina, reglas de inserción formal, y, por último, su 
+significado y función. A lo largo de este análisis se contrastan los resultados que ofrecen los datos 
+empíricos del corpus con los planteamientos teóricos de los especialistas, con el fin de examinar su 
+validez y proponer, en su caso, soluciones alternativas.
+2. Marco teórico
+2.1.	El estatuto lingüístico de los interfijos en español
+En un artículo publicado en 1958, precursor de la materia que nos ocupa, el gran hispanista 
+norteamericano Y. Malkiel designó al interfijo como “una categoría morfológica particularmente mal 
+definida y peor estudiada” (p. 107). Transcurridos ya más de sesenta años de aquella tajante afirmación, 
+el problema lingüístico de los interfijos en nuestro idioma sigue plenamente vigente; pero no puede 
+decirse que el tratamiento de este formante se halle tan ayuno de atención como lo estaba a mediados 
+del siglo XX. Desde entonces hasta la actualidad han ido apareciendo toda una serie de trabajos que, 
+desde distintos ángulos, han tratado de ahondar en esta cuestión, una de las más debatidas, como antes 
+señalábamos, en los estudios sobre la morfología léxica del español. 
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+120 
+El citado artículo de 1958 de Malkiel fue decisivo, en lo que a España se refiere, para establecer 
+las premisas teóricas fundamentales sobre las que iba a girar la discusión sobre estos formantes en las 
+décadas posteriores.1 Cuatro son, a nuestro juicio, las principales aportaciones de este trabajo:
+- En el aspecto de la nomenclatura, el haber contribuido de manera decisiva a la difusión del 
+término interfijo, denominación que Malkiel considera preferible a otras varias usadas con anterioridad 
+(“sufijo secundario”, “eslabón”, “elemento de enlace”, etc.) y que distingue claramente del infijo (“injerto 
+en un cuerpo léxico estrechamente unido”),2 así como de las llamadas cadenas sufijales. 
+- Más relevante incluso que lo anterior es el hecho de que, por vez primera, se delimite con 
+precisión la naturaleza de este elemento lingüístico, señalando que se trata de un “segmento, siempre 
+átono y falto de significado, situado entre el radical y el sufijo de ciertos derivados, p. ej., el elemento -ar- 
+en hum-ar-eda o polv-ar-eda”3 (Malkiel, 1958, p. 107). Superando el concepto tradicional de morfema 
+(“signo mínimo”), propio del estructuralismo, Malkiel caracteriza a los interfijos como morfemas 
+derivativos –dado que intervienen en la formación de nuevos vocablos– carentes de valor semántico 
+o gramatical autónomo, que aparecen en la sincronía a consecuencia del vaciamiento significativo de 
+antiguos sufijos o bien en virtud de falsas asociaciones que los hablantes establecen entre las palabras. 
+- Corresponde también a este autor el haber precisado con nitidez el conjunto de funciones 
+que, según él, pueden desempeñar los interfijos en la lengua, a saber: servir de consonante antihiática 
+(cursi-l-ería), evitar homonimias (carn-ero/carn-ic-ero), conservar la estructura fónica y prosódica del 
+radical (por ejemplo, de /tiénda/ > /tiènd-ec-ílla/ y no /*tend-ílla/) y eliminar los obstáculos fónicos que 
+pueden presentarse al unirse un sufijo con una determinada raíz (así, lengu-ar-udo, y no *lengu-udo).
+- Finalmente, frente a las explicaciones tradicionales sobre la cuestión, que propugnaban 
+considerar sufijos distintos formas como -arada/-ada, -areda/-eda , -aracho/-acho, etc., Malkiel defiende 
+la existencia de los interfijos basándose en el principio de la economía descriptiva, según el cual suprimir 
+este tipo de formantes sería muy poco práctico desde el punto de vista gramatical, ya que obligaría 
+a aumentar enormemente el número de sufijos (por ejemplo, eliminar un solo interfijo como -ar- 
+supondría tener que aceptar hasta veintiocho sufijos distintos).
+En la estela de Malkiel, es decir, defendiendo la existencia del interfijo como categoría 
+morfológica en nuestra lengua, si bien con desarrollos y matizaciones propios, se han situado 
+posteriormente diversos especialistas entre los que cabe citar a Rebollo Torío (1984), que puso de 
+relieve ciertos rasgos definitorios de estos formantes, como su peculiar comportamiento posicional (no 
+pueden abrir ni cerrar palabra) o sus concomitancias con los apreciativos (son incapaces de cambiar la 
+clase gramatical de la base), y a Dressler (1986a), cuya aportación más novedosa al tema consiste en la 
+distinción entre dos clases de interfijos: antesufijales (hum-ar-eda) e interradicales (pel-i-negro).
+1. Con anterioridad a esta fecha, Malkiel había publicado ya otros dos artículos en los que abordaba parcialmente el estudio 
+del interfijo (Malkiel, 1949 y 1956).
+2. Pese a esta distinción, son bastantes los autores que aún siguen utilizando el término infijo como sinónimo de interfijo. 
+Sobre esta cuestión terminológica, véase RAE (2009, p. 26).
+3. Admite, además, la presencia testimonial en español de algunos interfijos postprefijales (en-s-anch-ar).
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154710
+Juan Francisco Sánchez López
+ 121 
+Mención especial merece, dentro de este grupo, Portolés, que primero en un artículo de 19884 
+y, con posterioridad, en el capítulo dedicado a la interfijación de la Gramática descriptiva de la lengua 
+española (1999, párr. 77) ha desarrollado la que actualmente puede considerarse la teoría más elaborada 
+y sistemática sobre este tema en nuestra lengua. Partiendo de los planteamientos de la gramática 
+generativa acerca del concepto de morfema (“unidad mínima del análisis gramatical”),5 Portolés define 
+la interfijación del modo siguiente:
+un proceso de la morfología derivativa por el que se añade una unidad morfológica (…) entre la 
+base y un sufijo derivativo, o entre la base y la flexión verbal (…) de tal modo que si se suprimiera 
+el sufijo derivativo o la flexión verbal, el resultado de la combinación de la base y el interfijo sería 
+una formación inexistente en español (…) por ejemplo, pic-aj-oso, donde el interfijo -aj- se sitúa 
+entre la base pic- y el sufijo derivativo -oso sin existir la forma *picaj(o). (Portolés, 1999, p. 5043)
+A la hora de caracterizar al interfijo como categoría morfológica, este estudioso asume gran 
+parte de las tesis de Malkiel: se trata de un morfema derivativo o afijo, generalmente átono, bien 
+diferenciado de los sufijos o de elementos pertenecientes a cadenas sufijales, que se une a bases 
+sustantivas, adjetivas y verbales y tiene como funciones principales facilitar la unión de un sufijo a una 
+base léxica, conservar de forma secundaria el acento de la base (contribuyendo así a la identificación 
+de esta) y evitar homonimias. Coincide también con el hispanista norteamericano en defender la 
+existencia del interfijo como morfema –frente a otras teorías alternativas– basándose en el principio 
+de la economía descriptiva.
+No obstante, se aleja de este y otros estudiosos en algunos aspectos. Así, rechaza la posibilidad 
+de considerar interfijos los segmentos fónicos postprefijales (en-s-anchar), los interradicales (boqu-i-
+tuerto), los que se hallan en las palabras formadas por estereotipia (rousseau-n-iano) y los que formando 
+parte de voces foráneas (la -t- de ferretero, por ejemplo) no hayan sido productivos en nuestra lengua. 
+Pero la principal discrepancia con Malkiel se refiere al contenido de estos morfemas. Para Portolés 
+buena parte de los interfijos poseen un “cierto significado”, si bien se ve obligado a reconocer, a renglón 
+seguido, que en la mayor parte de los casos este no es más que “un impreciso sema que se confunde 
+con el que aporta el sufijo” (1999, p. 5058). 
+En fechas más recientes las teorías de Malkiel, Portolés y otros partidarios de considerar los 
+interfijos como morfemas derivativos han sido retomadas, aduciendo nuevos planteamientos, por R. 
+Almela (2015, párr. 5).
+ Pese a su amplia aceptación, las teorías de Malkiel han sido discutidas también por bastantes 
+lingüistas. La primera réplica a sus planteamientos apareció en un artículo publicado por Lázaro 
+Carreter (1972) en el que su autor venía a negar dos de los postulados básicos establecidos por el 
+lingüista norteamericano: el carácter de morfema desprovisto de significado del interfijo y la existencia 
+en español de elementos lingüísticos empleados con función antihiática. 
+4. Vid. referencia en el apartado de bibliografía.
+5. Según Stehlík (2013, p. 157), en esta concepción amplia del morfema de Portolés se refleja la influencia del generativista 
+canadiense M. Aronoff.
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+122 
+Para Lázaro Carreter el concepto de morfo vacío asignado al interfijo es un contrasentido, 
+ya que no se pueden agrupar, dentro de una misma categoría (la de morfema), tanto los segmentos 
+fónicos significativos como los no significativos. Por ello, considera que no pueden ser designados 
+como tales, como pretende Malkiel, todos aquellos elementos intermedios entre el radical y el sufijo 
+carentes de significado. Malkiel había justificado la existencia de los interfijos aduciendo, entre otras 
+razones, su función antihiática (cafe-l-ito, Jose-l-ito). En su lugar, Lázaro Carreter propone una 
+explicación alternativa que denomina estereotipia. Se trata de un tipo especial de analogía en virtud 
+de la cual determinadas palabras se forman, no añadiendo un morfema derivativo aislado, sino un 
+“bloque unitario” en el que junto al sufijo propiamente dicho va unido algún segmento de la raíz. Así, 
+un término como Joselito se habría formado, según este especialista, por estereotipia (bloque -lito) 
+a partir de voces como Manolito, Rafaelito, Miguelito, etc. En otros casos, puede suceder que la voz 
+supuestamente interfijada sea simplemente un préstamo (por ejemplo, cafetera, del francés cafetière). 
+Todo lo anterior no supone que Lázaro Carreter rechace de plano la existencia de la categoría 
+de interfijo, sino que más bien la restringe a un reducido número de elementos. En su opinión, los 
+auténticos interfijos son segmentos como -er- de got-er-ón o cas-er-ón, etc., verdaderos formantes con 
+una función y un contenido semántico preciso, ya que permiten distinguir palabras como got-ón o cas-ón 
+que, de no existir el interfijo, serían homónimas de las anteriores.
+Más alejados aún de los planteamientos de Malkiel se encuentran autores como Alarcos 
+(1983), Martínez Celdrán (1978) y Rainer (1993). Todos ellos niegan a los interfijos la condición 
+de morfemas. Martínez Celdrán justifica esta negativa señalando que el interfijo es una mera unidad 
+fonológica, carente de las propiedades específicas de los sufijos (contenido semántico, posibilidad de 
+conmutación, etc.). Propone, por ello, desligar estas unidades del plano morfológico de la lengua y 
+situarlas en el terreno de la morfofonología, dado que su única función es facilitar el ensamblaje de 
+los elementos que forman determinadas palabras. Rainer, por su parte, ve en los interfijos simples 
+entidades fonológicas que intervienen en la constitución de los sufijos.
+Finalmente, hay estudiosos, como José Joaquín Montes Giraldo (1985) y José Carlos Martín 
+Camacho (2002), que niegan la existencia de los interfijos como elementos lingüísticos. Para Montes 
+Giraldo el concepto de interfijo puede admitirse como instrumento auxiliar en los análisis de tipo 
+diacrónico, pero no desde la perspectiva sincrónica, ya que no es “una categoría manejada por el 
+hablante en el uso efectivo de la lengua” (1985, p. 186). Como alternativa a los interfijos propone la 
+presencia de sufijos polimórficos, formados por la unión de dos o más sufijos simples, que se unirían 
+al radical para formar nuevas palabras sin necesidad de formas intermedias. Así, atolladero se podría 
+descomponer como [atoll-[[ad] [ero]]], esto es, partiendo de una base léxica atoll-ʻatascarʼ se habría 
+formado una palabra nueva mediante el sufijo polimorfo -adero, resultante a su vez de la combinación 
+de los sufijos simples -ad- (formador de participios) + -ero (lugar donde se realiza la acción). 
+La posición de Martín Camacho es aún más radical. Considera que el concepto de interfijo, en 
+cuanto unidad lingüística, constituye una entelequia. En su opinión, los segmentos incluidos en dicha 
+denominación pertenecen a realidades muy dispares: cadenas sufijales, formaciones por estereotipia, 
+préstamos, etc., imposibles de agrupar en una misma categoría morfológica. No cabe hablar pues de 
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154710
+Juan Francisco Sánchez López
+ 123 
+interfijos, sino de palabras que presentan una estructura “anómala” de la que conviene dar cuenta, 
+combinando los datos del análisis descriptivo con las informaciones que proporciona el estudio 
+diacrónico.
+Así pues, nos encontramos con que el concepto de interfijo ha sido definido a lo largo de los 
+últimos cincuenta años de formas diversas: morfema sin significado (Malkiel, Dressler), morfema 
+con valor semántico (Lázaro Carreter, Portolés) y entidad fonológica o morfofonológica (Alarcos, 
+Martínez Celdrán y Rainer); a todo lo cual habría que sumar la postura de quienes, simplemente, 
+niegan su existencia (Montes Giraldo y Martín Camacho). Es evidente, además, que las razones 
+para considerar morfema o no al interfijo, así como las clases de segmentos que, en su caso, deberían 
+considerarse como tales, varían mucho de un especialista a otro.
+Llegados a este punto, conviene que fijemos nuestra postura sobre la cuestión. No ignoramos las 
+dificultades e insuficiencias que todavía subsisten a la hora de caracterizar al interfijo como categoría 
+morfológica. Pese a ello, creemos que, partiendo de un concepto amplio de morfema (“unidad 
+gramatical mínima”; Pena, 1999, p. 4318-4320), mantener la existencia de dicha categoría en los 
+términos propuestos en su día por Malkiel facilita, frente a otras alternativas, el análisis formal de 
+muchas palabras y permite reducir el inventario de unidades morfológicas de la lengua (principio de 
+economía descriptiva). Para nosotros, pues, los segmentos -c-, -ec- que aparecen en muchas formaciones 
+diminutivas no son sino dos variantes o alomorfos de un mismo interfijo en el que, además de las 
+características generales atribuidas por Malkiel a esta clase de morfemas, se presenta también la de la 
+recurrencia, como demuestra su capacidad para asociarse a los sufijos superlativos y despectivos (joven-
+c-ísimo, cancion-z-ucha, tiend-ez-ucha). 
+2.2.	La interfijación en los diminutivos
+Señala Lázaro Mora (1999, p. 4647) que entre los diversos procedimientos de que se sirve 
+la lengua para expresar la afectividad (en un sentido positivo o negativo) destacan los morfológicos, 
+representados, principalmente, por los denominados apreciativos. Son estos, según se indica en la 
+Nueva Gramática de la Real Academia Española (2009, p. 627):
+sufijos que se añaden a numerosos sustantivos, adjetivos, y ocasionalmente también a otras clases 
+de palabras para expresar tamaño, atenuación, encarecimiento, cercanía, ponderación, cortesía, 
+ironía, menosprecio, y otras acciones (…) que caracterizan la valoración afectiva que se hace de 
+las personas, los animales o las cosas.
+Dentro de los apreciativos, destacan por su amplia extensión y productividad los sufijos 
+diminutivos. El inventario de estos morfemas, de acuerdo con lo establecido también por la Nueva 
+Gramática académica (2009, p. 630-631), comprende un formante de uso general en el mundo 
+hispánico: -ito, -ita; otro de gran tradición en el idioma, pero actualmente menos productivo: -illo, 
+-illa; y, finalmente, un grupo integrado por variantes de uso geolectal o diafásico restringidos: -ico -ica, 
+-in -ina, -ete -eta, -ejo -eja, -uelo -uela, -uco -uca.
+Los diminutivos pertenecen al ámbito de la morfología derivativa. La información que 
+contienen es de tipo léxico, no gramatical, por lo que ocasionalmente pueden dar lugar a significados 
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+124 
+especiales de la base a través del proceso de la lexicalización. No obstante, como los apreciativos en 
+general, poseen dos propiedades gramaticales que los aproximan a los morfemas flexivos: a) mantienen 
+la clase gramatical de la palabra base, y b) cuando hay concurrencia de sufijos en la palabra, van 
+siempre en último lugar, seguidos solo por las desinencias. En lo que respecta a su valor semántico, 
+siguen siendo fundamentales las aportaciones de A. Alonso (1954). Alonso puso de manifiesto el 
+carácter eminentemente afectivo de los diminutivos, ya que en su referencia a los objetos lo prioritario, 
+a su modo de ver, no es la alusión a la extensión o al tamaño de estos, sino a su representación “afectivo 
+imaginativa”. A pesar de ciertas objeciones (Pottier, 1953 y 1964), las teorías de Alonso han sido 
+corroboradas por otros lingüistas, como Félix Monge (1965 y 1988), y gozan hoy de la aceptación 
+general.
+Pero lo que nos interesa en el presente trabajo es examinar el proceso de creación de las 
+formaciones diminutivas. El asunto fundamental en este caso es, sin duda, dilucidar en qué casos y 
+por qué razones unas veces los formantes -ito -ita, -illo -illa, etc. se unen al radical de la misma forma 
+que cualquier otro sufijo (perro ˃ perr-ito, perr-uno) y en otras ocasiones precisan de un incremento 
+-c- o -ec- (camión ˃ camion-c-ito, frente a camion-ero), que algunos especialistas consideran inseparable 
+de los sufijos habituales (y ven en -cito, -cecito simples alomorfos) y otros –con los que coincidimos– 
+analizan como dos variantes de un morfema medial o interfijo.
+Esta cuestión ha originado una importante controversia entre los estudiosos de la que ha dado 
+cumplida relación Lázaro Mora (1999, p. 4662-4672). En general, existe un elevado grado de consenso 
+en lo que se refiere a la descripción de los casos en que se produce la inserción de este interfijo, 
+parcialmente delimitados ya por la gramática tradicional (Alemany y Bolufer, 1920; RAE, 1931). Así, 
+se señala que en lo que atañe a los sufijos, la selección de -c-, -ec- es sistemática en los formantes -ito, 
+-illo, -ico, y más esporádica en -ete (camioncete), -in (pueblecín), -ejo (ladroncejo) y -uelo (bribonzuelo). En 
+cuanto a su asociación a las bases léxicas, el empleo de cada uno de estos formantes se regula, en lo que 
+se refiere al español peninsular, de la siguiente forma (Martín Camacho, 2002, p. 207):
+1. Los monosílabos insertan, en general, -ec (solecito, mesecito).
+2. Seleccionan también -ec los bisílabos acabados en -e átona (hombrecito) y, con menos 
+regularidad, formas diptongadas (ie, ue, ei) en su primera sílaba (huequecito, hierbecita) o en su sílaba 
+final (-ia,- io), como barriecito, geniecito, rabiecilla.
+3. Asimismo, insertan -c- las palabras bisílabas terminadas en vocal tónica (sofacito, vermucito) 
+o en las consonantes /n/ o /r/ (bastoncito, motorcito).
+4. Las palabras polisílabas seleccionan -c- de forma habitual cuando terminan en -n o -r 
+(chaquetoncito, destornilladorcito), y -ec- en casos esporádicos (retoquecito).
+Mucho más complicado, y por ello sujeto a múltiples teorías y discusiones, es delimitar si 
+existe en nuestra lengua alguna clase de reglas, principios o factores que expliquen por qué se produce 
+la inserción de las dos variantes de este interfijo en los casos arriba mencionados. Sin pretender ser 
+exhaustivos, expondremos a continuación las principales formulaciones al respecto.
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154710
+Juan Francisco Sánchez López
+ 125 
+- Un primer intento de explicación, sugerido ya por A. Alonso y retomado más tarde por 
+González Ollé (1962), sostiene que la presencia de este interfijo en los diminutivos se debe a leyes 
+rítmicas. Según estos autores, gracias a este formante la vocal originariamente tónica de la base 
+conserva, al unirse al sufijo diminutivo, un acento secundario. Esto explicaría, por ejemplo, la inserción 
+de -ec- en las formas bisílabas diptongadas (tierrecita, labiecito) y en los monosílabos.
+- En cambio, para Lázaro Mora (1999, p. 4665-4666), la causa de esta presencia del interfijo 
+obedecería a razones prosódicas, concretamente al control de las dimensiones silábicas de los derivados 
+diminutivos. Según este autor, -c- y -ec son variantes alomórficas de un interfijo diminutivo que se 
+seleccionarían de acuerdo con lo que denomina “ley de las cuatro sílabas”, según la cual, excepto en el 
+caso de los derivados de bases bisílabas acabadas en vocal átona (gatito), las formaciones diminutivas 
+tienden a tener cuatro sílabas. La selección de -ec- se produciría, pues, en los casos en que se necesitara 
+una sílaba para alcanzar este número (mes-ec-ito, chequ-ec-ito) y la de -c- cuando no fuera preciso añadirla 
+(camion-c-ito, licor-c-ito). Todo este proceso contribuiría, según él, a lo que denomina “recuperación no 
+ambigua de la base”.
+- Algunos intentos de explicar este fenómeno proceden del marco teórico de la gramática 
+generativa (vid. Lázaro Mora, 1999, p. 4666-4671). Crowhurts (1992), Prieto (1992) y Harris (1994), 
+por ejemplo, han tratado de establecer unas reglas de inserción de estos interfijos basándose en los 
+conceptos de ‘marca de palabra’6 y ‘clase de palabra’. Según estos autores –muy especialmente los dos 
+últimos– la selección (o ausencia) de estos formantes dependería del segmento final de las palabras base, 
+del hecho de que posean o no una marca (generalmente -o/a, -os/-as)7 que las identifique como tales. 
+Si tienen marca final, seleccionan -ito/a (casa, casita; paraguas, paragüitas); si no la poseen, seleccionan 
+un interfijo (pan, panecito; hombre, hombrecito).
+- Partiendo del concepto de “morfología natural” enunciado por Dressler (1985, 1986b y 2005), 
+el lingüista mexicano R. Zacarías (2006) ha planteado un elaborado modelo explicativo de la inserción 
+del interfijo -c-, -ec- en formaciones diminutivas con -ito/a en el que operan uno o varios de los 
+siguientes parámetros: la indexicalidad (la proximidad del sufijo diminutivo a la raíz), la transparencia 
+morfosemántica (el significado global del derivado diminutivo como suma de la significación de sus 
+partes constitutivas), la transparencia morfotáctica (la posibilidad de recuperar la base o término 
+primitivo) y la forma óptima de las unidades (la adecuada extensión silábica del derivado).
+- Comentaremos, por último, la postura de Martín Camacho (2002, p. 208-211 y 2010). Este 
+investigador rechaza todos los planteamientos anteriores y ofrece, en su lugar, lo que denomina una 
+explicación “histórico-causal”. Según su teoría, los incrementos -c-, -ec- de los diminutivos españoles 
+son resultado de la herencia del latín vulgar, en el que el sufijo diminutivo -ŬLUS solía anteponer 
+una -C- a los nombres de la tercera, cuarta y quinta declinaciones. Dado que el latín vulgar tendía 
+6. Se entiende por marca de palabra la terminación característica de ciertas bases que, sin aportar información genérica, 
+capacita a estas para determinados procesos morfológicos (RAE, 2009, p. 90).
+7.  La terminaciones -os, -as son marcas de palabra únicamente en los denominados pluralia tantum (natillas, nupcias, gafas, 
+bártulos, celos) y los compuestos del tipo abrelatas, cortaplumas, etc. Obviamente, en los casos restantes -s es morfema de 
+número. 
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+126 
+a sustituir -ŬLUS por -ĚLLUS, también este sufijo tomó dicho incremento -C- (-CĚLLUS/A), 
+y así, por ejemplo, en lugar de NAVĬCŬLA se dijo NAVĬCĚLLA. La variante -CĚLLUS/A dio 
+-ciello/a en castellano medieval en los diminutivos de los nombres descendientes de las mencionadas 
+declinaciones (arbolçiello, mugerçiella, valleciello) y posteriormente -cillo/a.8 Más tarde, a través de la 
+estereotipia, este incremento -c- se extendió, según él, a los demás sufijos diminutivos (-cito/a, -cico/a, 
+-zuelo/a, etc.). 
+Dejando a un lado esta última explicación, estrictamente diacrónica, creemos que todas las 
+teorías anteriormente expuestas vienen a coincidir, en mayor o menor medida, en la importancia que 
+reviste, para la aparición del interfijo -c-, -ec-, el mantenimiento de la estructura fónica y prosódica 
+de la base. Ahí reside, a nuestro juicio, el principio fundamental que explica la presencia de estos 
+formantes, ya que la preservación de la forma de la palabra primitiva resulta esencial para evitar la 
+ambigüedad o el oscurecimiento semánticos del diminutivo.
+3. Análisis del interfijo -c-, -ec- en las formaciones diminutivas del CREA (1984-
+2004)
+En los dos apartados precedentes hemos dejado constancia del “estado de la cuestión” en torno 
+a los interfijos en español, centrando especialmente la atención en los que intervienen en la formación 
+de los diminutivos. Se trata ahora de exponer los datos obtenidos del Corpus de Referencia del Español 
+Actual (CREA) acerca de estas formaciones diminutivas interfijadas y cotejarlos con el conjunto de 
+propuestas teóricas anteriores, a fin de determinar su validez y de proponer, en su caso, otras soluciones 
+alternativas.
+3.1.	Productividad y vitalidad del formante
+El análisis del CREA nos proporciona para el período 1984-2004 un total de 943 formaciones 
+diminutivas únicas construidas con el interfijo -c-, -ec-. En general, puede afirmarse que, a excepción 
+de los formantes -uco,-uca, este interfijo se combina con todos los sufijos que integran el inventario de 
+los diminutivos, si bien en proporción numérica muy desigual, tal como muestran los datos reflejados 
+en la siguiente tabla:
+COMBINACIONES
+FORMACIONES LÉX.
+%
+-(e)c-ito/a
+603
+63,9
+-(e)c-illo/a
+258
+27,3
+ -(e)z-uelo/a
+ 25
+ 2,6
+-(e)c-ico/a 
+ 23
+ 2,4
+-(e)c-ete/a
+ 23
+ 2,4
+-(e)c-in/a 
+ 9
+ 0,9
+-(e)c-ejo/a 
+ 2 
+0,2
+8. El origen latino de este interfijo y su posterior incorporación al español fue ya claramente explicado por Menéndez Pidal 
+(1977, p. 229).
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154710
+Juan Francisco Sánchez López
+ 127 
+La productividad del interfijo, como puede observarse, está directamente ligada a la del sufijo 
+con el que se asocia. Así, siendo -ito/a el diminutivo más extendido en nuestra lengua, es lógico que la 
+forma -(e)c-ito/a domine de forma ampliamente mayoritaria, seguida a gran distancia, aunque en una 
+posición destacada, por -(e)c-illo/a. El resto de las formas interfijadas resulta, en comparación con las 
+anteriores, residual. Sorprende, en cierta medida, la ínfima representación de -(e)c-ico/a, sufijo de gran 
+tradición en español, si bien reducido a un ámbito regional en nuestros días.
+Más difícil resulta conocer con precisión la vitalidad de este interfijo, es decir, su capacidad para 
+dar lugar a nuevas creaciones léxicas en la lengua actual. Un índice bastante aproximado de ello es la 
+frecuencia con que se asocia a bases léxicas procedentes de préstamos. También en este caso, la forma 
+-(e)c-ito es la que muestra, con diferencia, mayor disposición para unirse a tales términos: kindercito 
+(‘jardín de infancia’), wiskicito, pitchercito, cibercita (‘internauta femenina’), computadorcita, chancecito 
+(‘oportunidad’), lonchecito (‘tentempié’), rolincito (‘jugada de béisbol’), Jonathancito, Yasmincita, etc. La 
+forma -(e)c-illo, en cambio, manifiesta una aptitud creadora mucho más escasa, casi siempre ligada a 
+voces de uso coloquial: catrincillo (‘elegante’), cutrecillo (‘cochambroso’), empolloncilla (‘muy estudiosa’).
+3.2.	Características de las bases léxicas a las que se une
+Dejando a un lado los aspectos prosódicos (a los que aludiremos en el próximo apartado), 
+dedicaremos el presente epígrafe a analizar las características gramaticales de las bases léxicas a las 
+que suele asociarse el interfijo -c-, -ec- para constituir diminutivos. Adelantemos que, en conjunto, 
+los resultados obtenidos en este ámbito a partir del análisis CREA confirman el estrecho paralelismo 
+entre dichas formaciones interfijadas y las diminutivas en general. Al igual que los sufijos -ito/a, -illo/a, 
+-ico/ica, etc., el interfijo -c-, -ec- se asocia, fundamentalmente, a dos clases de palabras: sustantivos y 
+adjetivos. Solo de forma esporádica se une a adverbios o a otras clases de palabras (cf. RAE, 2009, p. 
+627). 
+Merece la pena profundizar en el análisis de cada una de estas tres clases de palabras interfijadas 
+y comentar sus particularidades:
+a) Sustantivos: Dominan de una forma abrumadora (810 formaciones, el 86% del total). La 
+inmensa mayoría de ellos pertenece a la clase de los concretos, comunes y contables, y sirven, en tales 
+casos, para designar personas (capitancito, chofercito, escritorcito, papacito, mujercita, lidercillo, noviecilla, 
+ladronzuelo, pastorcico.), miembros corporales (piernecillas, cuellecito, piececitos), animales y plantas 
+(caimancito, gavilancito, halconcito, mejilloncito, avecilla,, huronzuelo, meloncillo, arrayancito), y cosas 
+(avioncito, cañoncito, collarcito, restaurancito, sobrecito, torrecilla, serrezuelas, jamoncete).
+A pesar de la resistencia que, según Lázaro Mora (1976 y 1999, p. 4652-4653), presentan los 
+nombres abstractos a comparecer como diminutivos, se documentan en el corpus formas interfijadas 
+como honorcito, temorcito, terrorcito, divisioncita, generacioncita, irritacioncita, mocioncita, excepcioncilla, 
+etc. No obstante, conviene precisar que en su mayor parte aparecen usados como concretos, por lo que 
+no es extraño que tiendan a tomar la marca de plural: preocupacioncillas, vejacioncillas 
+Son relativamente abundantes los nombres propios, en especial los antropónimos (nombres 
+de pila, apodos y patronímicos): Adancito, Alancito, Fermincito, Juancito, Omarcito, Pelecito, Menemcito, 
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+128 
+Lopecito, Leonorcita, Belencita, Ramoncita, Estercita, Dolorcitas. Algunos de ellos, correspondientes a 
+marcas comerciales o personajes famosos, pasan a utilizarse como comunes a través del proceso de 
+la metonimia: dogdecito, opelcito, forcito, hitlercito napoleoncito, tarzancito. Contradiciendo también lo 
+expuesto por Lázaro Mora (1999, p. 4652), adquieren el diminutivo algunos nombres de países, como 
+Chilecito o Ecuadorcito.
+Son muy escasos los sustantivos incontables (hierbecita, salecita), salvo los susceptibles de ser 
+utilizados como unidades discretas (cafecito, güisquecito, licorcillo, jaboncillo, hierrecito).
+Señalemos, por último, la presencia esporádica de formas insólitas como cafecita y virgencito 
+(empleados como adjetivos en México y Argentina), o pececita (‘computadora’), acrónimo formado a 
+partir de las siglas P.C., documentado en España.
+b) Adjetivos: Tienen una presencia mucho menor (127 formaciones, el 13,4% del total). 
+Prácticamente, todos ellos pertenecen a la clase de los calificativos y sirven para indicar cualidades 
+físicas (cieguecito, fuertecito, grandecito, nuevecito, limpiecito, tiesecito, verdecito, suavecito, culoncillo, 
+triponcete, nalgoncita, rubiecita, bigotoncita), rasgos de carácter (buenecito, seriecito, traidorcito, tristecita, 
+lloroncita, coquetoncita, ramploncillo, ruincillo, cabroncete, habladorcico, triconcín), estados o circunstancias 
+personales (mayorcito, viejecito, jovencito, muertecito, pobrecita) y, en alguna ocasión, origen geográfico 
+(alemancita). No existen, propiamente hablando, casos de adjetivos relacionantes, dado que la forma 
+polarcita ʻbotellín de una clase de cervezaʼ, usada en Venezuela, no se deriva directamente del adjetivo 
+polar ʻrelativo a los polosʼ, sino del nombre Polar, denominación de la marca comercial de dicho 
+producto.
+Desde el punto de vista sintáctico, se comportan, hasta donde hemos podido comprobar, como 
+formas adjetivas restrictivas o especificativas, ya que, dentro del sintagma nominal, van pospuestos y 
+delimitan la extensión significativa de sus respectivos núcleos: niño buenecito, anciano cieguecito, puré 
+dulcecito, montaña… verdecita, viejo medio mariconcete, etc.
+c) Adverbios: Solo hemos hallado cuatro formaciones diminutivas con el intefijo -c-, -ec- 
+pertenecientes a esta clase de palabras (0,4% del total): allacito, reciencito, tardecito y lejecito. Como 
+puede apreciarse, se trata de adverbios de tiempo y de lugar.
+Fuera de los tres grupos anteriores quedan algunas formaciones inusitadas, como bendecita 
+(‘bendita’) o perdonacito (‘exención de un pago’), originadas, probablemente, a partir de los verbos 
+bendecir y perdonar.
+3.3.	Reglas de inserción formal
+No puede establecerse, a nuestro modo de ver, una sola regla general de tipo prosódico o 
+morfofonólogico que explique en qué casos se debe insertar el interfijo -c-, -ec- para constituir 
+formaciones diminutivas. El único principio explicativo que puede abarcar fenómenos tan diversos, 
+como veremos más adelante, es de tipo funcional.
+Por esta razón, creemos que lo más pertinente en este caso es proponer una explicación 
+multicausal fundada en los siguientes criterios:
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154710
+Juan Francisco Sánchez López
+ 129 
+1. La longitud silábica de la base
+Es esta una regla que afecta de manera general a los monosílabos. La casi totalidad de aquellos que 
+admiten la asociación con diminutivos inserta la variante -ec- entre la base y el sufijo correspondiente: 
+juececito, mesecito, panecito, reyecito, trenecito, florecita, solecito, leyecita, tosecita, vocecita, pececillo, redecilla, 
+reyezuelo, etc.9 Esto, en el español estándar, ya que en algunas zonas de Hispanoamérica, como el área 
+rioplatense, son habituales formaciones de este tipo con -c-: solcito, barcito, flancito, pancito, plancito, 
+florcita, roncito, trencito, etc.10
+Es interesante señalar que en el caso de los monosílabos no suelen darse restricciones de tipo 
+fonológico para la aparición de este interfijo, dado que la regla de la longitud de la base prevalece sobre 
+cualquier otra circunstancia. Así, se recogen en el corpus formas cuya base léxica acaba en /l/ (bolcito), 
+/s/ (diosecillo), /ks/ (fluxecito), /θ/ (vocecilla) y /d/ (redecilla). Son casos especiales de piececito y piececillo, 
+cuyo doble interfijo (-c-ec-) se explica como consecuencia de la asimilación consonántica (d…c > c…c) 
+de los antiguos piedecito y piedecillo (vid. estas voces en el CORDE).11
+2. La estructura fonológica y prosódica de la base
+Las palabras oxítonas12 bisílabas y polisílabas terminadas en las consonantes /n/ y /r/ seleccionan 
+con regularidad la variante -c-: corazoncito, cordoncito, destornilladorcito rumorcito, grabadorcita, 
+mechoncito, computadorcitas, colaboracioncita, cajoncillo, embarcacioncilla, pendoncete, etc. En algunas zonas 
+hispanohablantes (en Argentina y Uruguay, principalmente) esta selección se extiende a las bases 
+terminadas en /l/ (localcito, canalcito, delantalcito, editorialcito). Observando los ejemplos anteriores, 
+puede deducirse que lo determinante a la hora de insertar el interfijo es la consonante final de la 
+palabra, con independencia de la mayor o menor longitud silábica de la base.
+Llama la atención que no se introduzca este interfijo en palabras bisílabas y polisílabas acabadas 
+en otras consonantes habituales al final de palabra en español, como /s/, /θ/ y /d/ (francesita, naricilla, 
+sedita). Razones de tipo morfofonológico, en las que no podemos profundizar ahora, podrían explicar 
+este distinto comportamiento (cf. RAE, 2009, p. 651).
+3. Criterio mixto: longitud de la base + estructura fonológica y prosódica del radical
+Existe un numeroso grupo de formaciones diminutivas en las que la inserción del interfijo -c-, 
+-ec- depende tanto de la longitud de la base –se trata de palabras generalmente bisílabas– como de 
+diversos factores prosódicos o fonológicos. Cabe establecer, a tenor de ello, la siguiente casuística:
+9. Algunas excepciones a esta regla de los monosílabos como Juanito, chalito (de chal) o golito presentan interfijo en algunas 
+áreas hispanoamericanas (Juancito, chalcito, golcito en Argentina y Uruguay; vid. nota 9). Otra excepción es diosito, habitual 
+en Hispanoamérica (México, Colombia, Argentina, etc.) e inusual en España, donde se prefieren diosecito y diosecillo.
+10. En estas zonas dialectales la formación del diminutivo en los monosílabos parece haber seguido el modelo de las 
+palabras oxítonas (vid. regla número 2), de ahí el empleo de la variante -c-.
+11. Piedecillo procede del latín vulgar *PEDICĚLLU > *pedeciello > pedecillo > piedecillo (por influencia de pie). Vid. 
+Menéndez Pidal (1977, p. 229-230). Las formas terminadas en -cito (pedecito y piedecito) se originaron por analogía con las 
+anteriores. Hay ejemplos, en singular o plural, de todas estas variantes en el CORDE.
+12. Se documentan esporádicamente en el CREA formas interfijadas procedentes de bases paroxítonas como biquincito, 
+virgencita, hitlercito o lidercillo.
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+130 
+a) Insertan de forma general la variante -ec- los vocablos terminados en -e átona: botecito, 
+cablecito, chequecito, golpecito, hombrecito, montecito, parquecito, vallecito, lechecita, nubecita, jefecillo, 
+frasecilla, pobrecico, torrezuelas, suavecín.
+b) Seleccionan también de forma general la variante -c- los terminados en vocal tónica: allacito, 
+bebecito, cafecito, chalecito, sofacito, Renecito, cuplecillo, etc. 
+c) Las bases que presentan un diptongo en la sílaba acentuada inicial (hierro, nuevo, suave), 
+o en la átona final (barrio, seria) tienen un comportamiento vacilante con respecto a la inserción del 
+interfijo, debido muchas veces a factores diatópicos. Así, formas interfijadas con -ec-, habituales en 
+España, como cuentecito, cuellecito, hierrecito, pueblecito, puestecito o tiempecito tienen su correlato sin 
+interfijo en diversos Hispanoamérica (cuentito, cuellito, hierrito, pueblito, puestito y tiempito). No faltan, 
+sin embargo, casos inversos (limpito, rubita en España; limpiecito en México y Venezuela y rubiecita en 
+Argentina).
+También recoge el corpus ejemplos aislados con este interfijo que no se ajustan a ninguno 
+de los criterios anteriores; por ejemplo, voces cuya base acaba en las vocales -a, -o átonas (fresquecito, 
+hechecito, llenecito, gestecillo, gordezuelo).13
+Acabaremos este apartado señalando que ciertas palabras de origen foráneo y algunas 
+patrimoniales han precisado ajustar la terminación de su base (mediante la pérdida de la consonante 
+final) para poder unirse a la combinación de interfijo + sufijo diminutivo: Hebercito (de Herbert), 
+packarcito (Packard), forcito (Ford), Davicito (David); en biquincito (de biquini), en cambio, se pierde la 
+vocal final. Con respecto a panquecito (de panqueque) y perencejo (de perengano) la reducción silábica del 
+primitivo puede deberse al intento de evitar la cacofonía.
+En cambio, en brindecito, crisecita o Dolorcitas la supresión de los segmentos -is/-es de la base 
+(brindis, crisis, Dolores) tal vez se explique porque se han interpretado como ‘marcas de palabra’.14
+3.4.	Significación
+Las formaciones diminutivas en las que interviene el interfijo -c-, -ec- expresan, junto al 
+significado de la base, toda la gama de valores afectivos y de aminoración semántica que proporcionan 
+los sufijos -ito/a, -illo/a, -ico/a, etc.: cariño (amorcito), ironía (juerguecita), compasión (cieguecito), 
+condescendencia (lidercillo, reyezuelo), pequeñez (jardincín), etc.
+Ahora bien ¿qué contenido adicional aporta, pues, dicho interfijo desde el punto de semántico 
+a tales palabras? A nuestro modo de ver, ninguno. Es esta también la opinión de la gran mayoría de los 
+13. No obstante, la consulta del CREA permite constatar la coexistencia de formas sin interfijo con estas mismas bases 
+léxicas, como fresquito, llenito o gestito.
+14. Acerca de este concepto, vid. nota 5. Cabe señalar que en el español rioplatense son habituales las variantes brindicito 
+y crisicita, no documentadas en el CREA, en las que no se suprime el segmento de “marca de palabra” -is, sino únicamente 
+la consonante final -s.
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154710
+Juan Francisco Sánchez López
+ 131 
+estudiosos, incluyendo los que atribuyen significado a interfijos de otro tipo. Solo Lázaro Mora (1977, 
+p. 125) ha señalado que los formantes -c-, -ec- podrían tener un significado, pero no de tipo semántico, 
+sino gramatical: proporcionar al lexema una corrección aminoradora, preparándolo para recibir el 
+sufijo diminutivo, teoría harto discutible, ya que no está claro si los interfijos se unen primero a las 
+bases léxicas o más bien a los correspondientes sufijos, tal como sostiene Portolés (1988, p. 158-160).
+Este carácter de morfema sin significado o morfo vacío se pone en evidencia al comparar 
+diminutivos con y sin interfijo constituidos sobre la misma base léxica. En alternancias del tipo 
+alfilercito/alfilerito, huesecito/huesito, fueguecito/fueguito, sueñecito /sueñito, cuerdecita/cuerdita, lengüecita/
+lengüita, alambrecito/alambrito, bebecito/bebito, lechecita /lechita, etc. no se aprecia diferencia significativa 
+alguna. Lo que suele distinguir a estas voces, en última instancia, no es su contenido semántico, sino 
+su distribución geográfica. 
+Dentro del ámbito peninsular, podría verse una excepción a lo que acabamos de decir en 
+alternancias como Crucita / crucecita, Lucita / lucecita, Florita / florecita, en las que el interfijo serviría, 
+hipotéticamente, para diferenciar entre un nombre propio y otro común. No obstante, conviene indicar 
+que en tales nombres propios se ha producido un cambio semántico de la base, por lo que, en realidad 
+estamos ante posibles casos de distinción homonímica, como los que se verán en el apartado siguiente.
+3.5.	Funciones
+Desde nuestro punto de vista, la función principal del interfijo en los diminutivos es poner de 
+relieve la base léxica a la que se asocian. Como señala Portolés (2009, p. 5057), los interfijos “favorecen el 
+reconocimiento de la base, esto es, la fácil identificación por parte del hablante de la palabra primitiva”.15 
+De esta función general se derivan otras particulares, en parte ya señaladas por Malkiel (1958), y 
+matizadas, más tarde, por otros estudiosos:
+1. Contribuir a conservar el acento de la base léxica como secundario y colaborar de este modo 
+a la identificación de esta. Se da, sobre todo, en formaciones cuyo primitivo lleva diptongo en la sílaba 
+tónica: viejecito (frente a vejestorio), hierrecito (frente a herrero) cuerpecito (frente a corpachón), huertecito 
+(frente a hortelano).
+2. Ampliar o delimitar la frontera silábica entre la base y el sufijo diminutivo, y facilitar así 
+el reconocimiento del término primitivo. Sucede de esta forma en el caso de los monosílabos, de las 
+bases léxicas terminadas en -e átona, y de las acabadas en -n y -r: pan-ec-illo, muebl- ec-ito, balón-c-ito, 
+calor-c-ito.
+15. Esta necesidad de facilitar el reconocimiento de la base se justifica, a nuestro juicio, por las especiales características 
+de la derivación homogénea, propia de los apreciativos. Dado que el sufijo diminutivo no cambia la categoría gramatical 
+de la base ni reorienta su significado (un montecito sigue siendo un tipo de monte, pero no así un montañero), parece lógico 
+que aparezcan en la lengua mecanismos que identifiquen nítidamente la palabra primitiva y eviten, de esta forma, el 
+oscurecimiento semántico que pudiera producirse como resultado de la adición de un morfema derivativo. No está claro 
+cuál era el papel del incremento -C- en el sufijo diminutivo -ĚLLUS /A (vid. supra § 1.2.) del latín vulgar, pero no cabe 
+duda de que el interfijo -c-, -ec- ha sido habilitado en español para desempeñar tal función.
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+132 
+3. Servir de elemento antihiático entre una base léxica acabada en vocal tónica y el sufijo 
+diminutivo: allacito, cafecito, chalecito, tecito, vermucito, Pelecito, Maracanacito, santafecina. Que este tipo 
+de formaciones se hayan podido formar por estereotipia, como sostiene Lázaro Carreter (1972), no es 
+óbice para que el segmento interfijado cumpla dicha función en la sincronía. Es más, a nuestro modo 
+de ver, es muy posible que en tales casos la propensión a evitar el hiato esté detrás de este recurso a la 
+estereotipia. 
+La presencia del interfijo contribuye así a evitar el oscurecimiento semántico de la base que 
+podría producirse en el caso de eliminación del hiato, bien por diptongación, bien por la eliminación 
+de la vocal átona (cf. tiíto˃tito).
+4. Evitar las homonimias que se producirían en caso de confluir fónicamente, por la pérdida de 
+la vocal final, diminutivos de bases léxicas distintas (hombr(e)/hombr(o)), o como consecuencia de la 
+igualdad de significantes entre ciertos diminutivos y otros vocablos de la lengua. Aunque el contexto 
+suele resolver la ambigüedad significativa provocada por la homonimia, la presencia o ausencia de un 
+interfijo sirve para marcar claramente, en el plano del léxico, la distinción significativa de parejas de 
+palabras como las que siguen: barriecito (de barrio) / barrito (de barro), botecillo (de bote) / botillo (ʻclase 
+de embutidoʼ), chalecito (de chalé) / chalito (de chal), colecita (de col) / colita (de cola), cortecito (de corte 
+ʻacción de cortarʼ) / cortito (de corto), favorcito (de favor) / favorito (ʻpreferidoʼ), hombrecito (de hombre) 
+/ hombrito (de hombro), pasecito (de pase ʻacción pasar la pelotaʼ) / pasito (ʻpaso cortoʼ), planecito (de 
+plan) / planito (de plano ʻmapaʼ o ʻllanoʼ), patiecito (de patio) / patito (de pato), pisecito (de pis) / pisito 
+(de piso ʻdepartamentoʼ), salecita (de sal) / salita (de sala) solecito (de sol) / solito (de solo), tintecillo (de 
+tinte) / tintillo (de tinto ʻclase de vinoʼ), botecito (de de bote / votito (de voto), etc.16 
+4. Conclusiones
+Esta breve incursión en el estudio de las formaciones diminutivas españolas construidas con 
+-c-, -ec- nos ha conducido a una serie de consideraciones finales que exponemos a continuación:
+1. Pese a las objeciones que algunos especialistas han planteado sobre el particular, estimamos 
+que ambos segmentos fónicos constituyen dos variantes o alomorfos de un mismo morfema medial 
+o interfijo. Consideramos preferible esta opción a postular toda una vasta serie de alomorfos sufijales 
+(-ito, -cito, -ecito, -illo, -cillo, -ecillo, -ico. -cico, -ecico, etc.) que complicaría extraordinariamente la 
+descripción morfológica de las formaciones diminutivas.
+2. Del análisis de los datos obtenidos a través del CREA (1984-2004), se pueden formular las 
+siguientes deducciones:
+16. En singular o plural, casi todos los vocablos citados aparecen en el CREA. Son excepciones chalito (documentado en el 
+CORDE) y pisecito (registrado en The Writer´s Reference Guide to Spanish, de D. William Foster et alii, University of Texas, 
+2001, p. 47).
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154710
+Juan Francisco Sánchez López
+ 133 
+2.1. El interfijo- -c-, -ec- se asocia a todos los sufijos que integran el inventario de los 
+diminutivos (-ito/a, -illo/a, -ico/a, -uelo/a, -ete/a, -in/a -ejo/a), excepto a -uco/a, si bien con un grado de 
+productividad y vitalidad muy distinto en cada caso. Así, frente al predominio numérico y la pujanza 
+de las formaciones interfijadas con -ito/a y, en mucha menor medida, con -illo/a, las constituidas con 
+los restantes sufijos constituyen un grupo muy reducido, a veces meramente residual.
+2.2. En lo que atañe a las bases léxicas, dicho interfijo se une, principalmente, a sustantivos de 
+diversas clases, y en un grado mucho más reducido, a adjetivos calificativos. Solo de manera excepcional 
+se asocia con adverbios u otras clases de palabras.
+2.3. Las reglas formales que determinan su inserción entre el lexema y el sufijo diminutivo se 
+basan en dos criterios fundamentales relacionados con la base: su extensión y su estructura fonológica 
+y prosódica. El primero de ellos determina la inserción general de -ec- en los monosílabos; el segundo, 
+la de la variante -c- detrás de las palabras, generalmente oxítonas, acabadas en /n/ y /r/. En los restantes 
+casos prevalece una regla mixta que tiene en cuenta tanto la extensión del radical (vocablos bisílabos, 
+en general), como ciertos rasgos prosódicos y fonológicos (las palabras acabadas en -e átona y las que 
+presentan un diptongo seleccionan -ec-; las acabadas en vocal tónica, -c-). 
+La descripción precedente, característica del español estándar, se ve alterada en diversas zonas 
+hispanoamericanas por lo que Zacarías (2006, p. 94) ha denominado “preferencias en conflicto”. Así, 
+la ausencia del interfijo -ec- en las formas pueblito, tiempito, bebito etc., expresa la preferencia por la 
+indexicalidad (la mayor proximidad del sufijo a la raíz) frente a la posibilidad de reconocimiento de 
+la base; en cambio, en el español rioplatense la inserción de -c-, en lugar de -ec-, en solcito, pancito, 
+flancito (o en lugar de ᴓ en Juancito, localcito, etc.) hace prevalecer los factores prosódicos y fonológicos 
+(monosílabos o palabras agudas terminadas en /n/, /r/ o /l/).17
+2.4. El interfijo -c-, -ec- no aporta información semántica complementaria de la que por sí 
+mismas proporcionan las bases léxicas o los sufijos diminutivos con los que se combinan. El contraste 
+entre formas diminutivas con interfijo y sin él, constituidas a partir de la misma base (viejecito/viejito), 
+no manifiesta diferencias de contenido semántico; el rasgo diferenciador fundamental entre ambas 
+clases de formaciones es, a nuestro juicio, su distinta distribución geográfica.18 Esta carencia de 
+significado convierte dicho interfijo en un morfo vacío.
+2.5. En nuestra opinión, la función principal del interfijo -c-, -ec- en las formaciones diminutivas 
+es facilitar el reconocimiento de la base. Dentro de esta función general pueden englobarse otras 
+17. Discrepamos en este caso de la opinión del investigador mexicano, que atribuye también algunas de estas formas 
+diminutivas rioplatenses al predominio de la indexicalidad (Zacarías, 2006, p. 96).
+18. Algunos autores, como Fábregas (2017), se inclinan por incluir los interfijos, al menos los que aparecen en las formas 
+verbales, dentro de la clase de los apreciativos. Nos parece bastante dudoso que este valor afectivo aparezca, asimismo, 
+en los que se combinan con los diminutivos. Una forma interfijada como viejecito puede resultar para un rioplatense 
+más afectuosa que viejito; pero para un hablante español (como el autor del presente artículo), que usa habitualmente 
+viejecito, la variante hispanoamericana viejito puede sonarle más cariñosa. En este caso no es, pues, la presencia o ausencia 
+de interfijo lo que puede crear esa sensación de mayor afectividad, sino tal vez lo corriente o inusitado del término en el 
+respectivo medio sociocultural.
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+134 
+particulares, como el mantenimiento secundario del acento del primitivo, la ampliación o delimitación 
+de la frontera silábica entre la base y el sufijo diminutivo, la función antihiática en los derivados cuya 
+base acaba en vocal tónica y, finalmente, la evitación de la homonimia.
+Como puede observarse, nuestro trabajo no aporta grandes novedades al conocimiento de este 
+interfijo. Matiza o corrobora, en todo caso, apoyándose en los datos de un corpus amplio y representativo 
+como el CREA, lo expuesto con anterioridad por otros investigadores, en especial por Malkiel, cuyas 
+tesis, a pesar del tiempo transcurrido desde que fueron formuladas, siguen siendo válidas, a nuestro 
+juicio, en lo fundamental. 
+	
+Referencias bibliográficas
+Alarcos Llorach, E. (1983). Consideraciones sobre la formación léxica. En Alarcos, E. et alii (eds.), 
+Serta Philologica F. Lázaro Carreter I (pp. 11-15). Madrid, Gredos.
+Alemany y Bolufer, J. (1920). Tratado de la formación de palabras en la lengua castellana. Madrid, Librería 
+de Victoriano Suárez.
+Almela, R. (2015). Morfología léxica del español. Murcia, Diego Marín.
+Alonso, A. (1954). Noción, emoción, acción y fantasía en los diminutivos. En Estudios lingüísticos. 
+Temas españoles (pp. 195-229). Madrid, Gredos.
+Crowhurts, M. J. (1992). Diminutives and Augmentatives in Mexican Spanish: a Prosodic Analysis. 
+Phonology, 9, 221-253.
+Dressler, W. (1985). Introducción a la morfología natural. Núcleo, 2, 2-18. 
+Dressler, W. (1986a). Forma y función de los interfijos. REL, 16, 381-395.
+Dressler, W. (1986b). Explanations in Natural Morphology. Linguistics, 24, 519-549.
+Dressler, W. (2005). Word-Formation in Natural Morphology. En Stekauer, P. y Lieber, R. (eds.), 
+Handbook of Word-Formation (pp. 267-284). Dordrecht, Springer.
+Fábregas, A. (2017). ¿Son algunos interfijos morfemas apreciativos? ELUA, 31, 135-150. https://bit.
+ly/2PGwUcr.
+González Ollé, F. (1962). Los sufijos diminutivos en castellano medieval. Madrid, CSIC.
+Harris, J. W. (1994). The OCP Prosodic Phonology and Sonoran Spanish Diminutives: A Reply to 
+Crowhurst. Phonology, 11, 179-190.
+Lázaro Carreter, F. (1972). Sobre el problema de los interfijos, ¿consonantes antihiáticas en español? 
+En Estudios de lingüística (pp. 11-26). Barcelona, Crítica.
+Lázaro Mora, F. A (1976). Compatibilidad entre lexemas nominales y sufijos diminutivos. En Varela 
+Ortega, S. (ed.) (1993), La formación de palabras (pp. 305-315). Madrid, Taurus.
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154710
+Juan Francisco Sánchez López
+ 135 
+Lázaro Mora, F. A (1977). Morfología de los sufijos diminutivos ito(a), ico(a), illo(a). Verba, 4, 115- 
+125.
+Lázaro Mora, F. A (1999). La derivación apreciativa. En Bosque, I. y Demonte, V. (eds.), Gramática 
+descriptiva de la lengua española (vol. 3, § 71.1-8). Madrid, Espasa Calpe.
+Malkiel, Y. (1949). Studies in the Hispanic Infix -eg. Language, 26, 139-181.
+Malkiel, Y. (1956). Español ‘negrestino’ y ‘blanquecino’. Quaderni Iberoamericani, 3-18, 88-92.
+Malkiel, Y. (1958). Los interfijos hispánicos. Problema de lingüística histórica y estructural. En Catalán, 
+D. (ed.), Miscelánea-Homenaje a André Martinet (vol. 2, pp. 107-199). La Laguna, Universidad de 
+La Laguna. 
+Martín Camacho, J. C. (2002). El problema lingüístico de los interfijos españoles. Cáceres, Universidad de 
+Extremadura.
+Martín Camacho, J. C. (2010). Nuevos apuntes y reflexiones sobre los supuestos interfijos en español. En 
+Cano, P. et alii. (eds.),  Actas del XXXIX Simposio Internacional de la Sociedad Española de Lingüística 
+(pp. 1-23), Santiago de Compostela, Universidad de Santiago.
+Martínez Celdrán. E. (1978). En torno a los conceptos de interfijo e infijo en español. REL, 8, 447-
+460.
+Menéndez Pidal, R. (1977). Manual de gramática histórica española. Madrid, Espasa Calpe.
+Monge, F. (1965). Los diminutivos en español. Actes du X Congrès International de Linguistique et 
+Philologie Romanes (vol. I, 137-147). Paris, Klinsieck.
+Monge, F. (1988). Diminutivos: cuantificación, subjetividad, especialización. En Lüdtke, J. (ed.), 
+Energia und Ergon. Studia in honorem E. Coseriu (t. III, pp. 129-140). Tubinga, Verlag. 
+Montes Giraldo, J. J. (1985). Los interfijos hispánicos: reexamen con base en los datos del ALEC. 
+Anuario de Filología Hispánica, 1, 181-189.
+Pena, J. (1999). Partes de la morfología. Las unidades del análisis morfológico. En Bosque, I. y Demonte, 
+V. (eds.), Gramática descriptiva de la lengua española (pp. 4307-4366). Madrid, Espasa Calpe.
+Portolés, J. (1988). Sobre los interfijos en español. LEA 10, 154-169.
+Portolés, J. (1999). La interfijación. En Bosque, I. y Demonte, V. (eds.), Gramática descriptiva de la 
+lengua española 3 (pp. 5041-5073). Madrid, Espasa Calpe. 
+Pottier, B. (1953). Los infijos modificadores en portugués. Notas de morfología general. Lingüística 
+moderna y filología hispánica (pp. 161-185). Madrid, Gredos.
+Pottier, B. (1964).  Introduction à l´étude de la morphosyntaxe espagnole.   Paris, Ediciones Hispanoamericanas.
+Prieto, P. (1992). Morphophonology of the Spanish Diminutive Formation. A case for Prosodic 
+Sensitivity. Hispanic Linguistics, 5 (1-2), 169-205.
+Juan Francisco Sánchez López
+Estudio del interfijo -c-, -ec- en las formaciones diminutivas (camioncito, cafecito, nochecita) del español actual
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI:  http://dx.doi.org/10.30972/clt.0154710
+136 
+Rainer, F. (1993). Spanische Wortbildungslehre. Tübingen, Niemeyer.
+Real Academia Española (1931). Gramática de la lengua española. Madrid, Espasa Calpe.
+Real Academia Española (2009). Nueva gramática de la lengua española, I. Madrid, Espasa Libros
+Real Academia Española (2010). Nueva gramática de la lengua española. Manual. Madrid, Espasa 
+Libros.
+Real Academia Española: Banco de datos (CREA) [en línea]. Corpus del español contemporáneo. http://
+bit.ly/3rCrNbg [2020-10-10].
+Real Academia Española: Banco de datos (CORDE) [en línea]. Corpus diacrónico del español. http://
+bit.ly/3l3qvUo [2021-28-01].
+Real Academia Española. Diccionario de la lengua española (24ª. edic.) [en línea]. http://bit.ly/3rCrNbg 
+[2020-10-10].
+Rebollo Torio, M. Á. (1984). En torno a los infijos. Anuario de Estudios Filológicos, VII, 311-318.
+Stehlík, P. (2013). Algunos problemas del análisis de formaciones interfijadas y parasintéticas en 
+español. Romanica Olomucensia, 25 (2), 151-159.
+Zacarías, R. (2006). Formación de diminutivos con el sufijo /-ít-/. Una propuesta desde la morfología 
+natural. Anuario de Letras, XLIV, 77-103.
+*Juan Francisco Sánchez López (Teruel, España, 1959) es doctor en Lingüística Hispánica por la 
+Universidad de Zaragoza. Ha sido profesor de Lengua Española de la Universidad Nacional a Distancia 
+(UNED). Es autor de diecisiete publicaciones entre las se destaca la edición de textos del siglo XV: La 
+Ética de Catón (2009), El Catón en latín y en romance (2015) y Procesos inquisitoriales zaragozanos del siglo 
+XV (2019). 
+Recibido: 10/11/2020
+Aceptado: 10/12/2020

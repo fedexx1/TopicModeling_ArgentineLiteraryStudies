@@ -1,0 +1,1738 @@
+La (des )agentivación
+en el lenguaje científico
+y en el de divulgación
+Nora Isabel Muñoz
+Universidad Nacional de la Patagonia Austral, Santa Cruz.
+Resumen:
+El propósito
+de este trabajo
+consiste
+en examinar
+uno de los fe-
+nómenos
+gramaticales
+que
+intervienen
+en
+el proceso
+de
+reformulación
+de textos
+científicos
+en textos
+de divulgación:
+la
+(des)agentivación,
+y su relación con la inteligibilidad
+del conte-
+nido informativo.
+A partir
+de un concepto
+de Agente
+más am-
+plio que el tradicional
+-que
+incluye
+no solo el humano
+sino el
+animado
+e inanimado
+en general-
+elaboramos
+un Índice
+para
+medir
+el grado
+de (des)agentivación
+y lo aplicamos
+a un corpus
+de textos de medicina.
+Dicho Índice depende
+de tres variables:
+el
+tipo de Proceso predominante
+(Halliday,
+1985), el fenómeno
+de
+la Nominalización,
+y la elisión explícita
+del Agente,
+allí donde
+las otras variables
+lo hubieran
+permitido.
+Comprobamos
+un pro-
+gresivo "borrado"
+de Agentes
+a medida
+que el texto "sube" en la
+escala desde el registro
+de la divulgación
+hacia el científico,
+que
+se verifica
+en proporciones
+variables
+según
+afecte
+la función
+"inrerpersonal"
+("despersonalización
+del mensaje"
+señalada
+por
+Ciapuscio,
+1992) o la función
+"ideacional"
+(Halliday,
+1985).
+1. Introducción
+Por definición
+los artículos
+de divulgación
+científica
+son más
+accesibles
+a la comprensión
+del gran público
+que los textos
+cientí-
+ficos originales,
+y es una obviedad
+señalarlo.
+Lo que no resulta
+tan obvio
+es discernir
+con rigor
+las estrategias
+lingüísticas
+que
+intervienen
+en este proceso
+de reformulación
+textual
+y que están
+condicionadas
+por la necesidad
+de la
+"apertura"
+a la compren-
+ANCLAJES. Revista de/Instituto
+de Análisis Semiótico de/ DisCIIYSO
+1Il. 3 (999):95-105.
+95
+Nora Isabel Muñoz
+sión. Los artículos
+de Ciapuscio
+0989,
+1992,
+1993,
+1996) repre-
+sentan
+la principal
+contribución
+a este
+tema,
+en estudios
+sobre
+textos
+en lengua
+española.
+Este trabajo
+pretende
+ser un aporte
+al
+mismo
+en la medida
+en que,
+desde
+el modelo
+de la lingüística
+sistémico-funcional,
+permite
+profundizar
+y ampliar
+el alcance
+de
+algunas
+de las afirmaciones
+formuladas
+por esta autora.
+Creemos,
+con Halliday
+(993),
+que la "oscuridad"
+del lengua-
+je científico
+no sólo debe ser atribuida
+a un aumento
+en la densi-
+dad léxica, es decir, a un fenómeno
+de vocabulario,
+sino al manejo
+de ciertos
+recursos
+gramaticales,
+de ciertos
+patrones
+de escritura,
+que dificultan
+el proceso
+de comprensión
+por
+parte
+del lector.
+Ocurre
+que la ciencia
+no solo posee
+una terminología
+"experta"
+sino una gramática "experta",
+que excluye
+al lego,
+al no iniciado.
+¿Qué modificaciones
+se introducen,
+entonces,
+en dicha gramática
+para que el lenguaje
+de la divulgación
+pueda
+sortear
+esas dificul-
+tades?
+¿De qué manera
+el lenguaje
+de divulgación
+científica
+pue-
+de producir
+textos
+"eficientes",
+es decir que"
+requieran
+el menor
+grado
+de esfuerzo
+posible
+en su uso" (Ciapuscio,
+1989:23)
+sin re-
+nunciar a ser "efectivos" en su interés por vehiculizar
+conocimiento?
+2. Corpus
+A la búsqueda
+de respuestas
+para estas preguntas,
+hemos
+ini-
+ciado una investigación!
+centrándonos
+en el análisis de tales fenó-
+menos
+gramaticales
+en textos
+científicos
+y de divulgación.
+Pre-
+sentamos
+un avance sobre los resultados,
+aún provisorios,
+obteni-
+dos a partir
+de la confrontación
+de seis textos
+de Medicina":
+dos
+reseñas
+de diccionarios
+científicos
+(C 1, C2), dos artículos
+de in-
+vestigación
+(B 1, B2) Y dos artículos
+de divulgación
+(A 1, A2), con
+un tema
+en común:
+la arerosclerosis,
+su descripción
+y origen.
+En
+total
+suman
+400 ocurrencias
+de distintos
+procesos
+(verbales
+y no
+verbales).
+3. Objetivos
+Nuestros
+objetivos
+fundamentales
+son:
+1) constatar
+si las ca-
+racterísticas
+que HaJliday
+señala como típicas de la gramática
+"ex-
+perta"
+del lenguaje
+cienrífico
+se modifican
+o no, en textos
+de di-
+vulgación;
+2) elaborar
+un procedimiento
+que nos permita
+cuanti-
+ficar el alcance
+de esas modificaciones;
+3) examinar
+la relación
+de
+96
+LA
+(DES)AGENTlVACIÓN
+EN EL LENGUAJE
+CIENTÍFICO
+tales modificaciones
+con la inteligibilidad
+de la información
+trans-
+mitida.
+4. Fundamentos
+teóricos
+Focalizamos
+nuestro
+estudio
+en el análisis
+del
+sistema
+de
+rransitividad
+y su relación con las metáforas
+gramaticales
+(Halliday,
+1985,1993)
+porque
+son los que atañen
+al tratamiento
+gramatical
+de la representación
+de la experiencia,
+e influyen
+directamente
+en
+el proceso
+de su aprehensión
+intelectual.
+Para cada configuración
+semántica
+de la realidad
+hay una rea-
+lización
+congruente,
+entiéndase
+"literal",
+en la léxicogramática
+(Halliday,
+1985);
+cuando
+se sustituye
+esa realización
+congruente
+por otra que no lo es, nos encontramos
+frente
+a lo que se ha deno-
+minado
+una"
+metáfora
+gramatical",
+donde
+lo lexical
+no
+es
+involucrado.
+Un tipo de metáfora
+gramatical
+es la nominalización,
+por la cual una cláusula
+de acción
+es reemplazada
+por un grupo
+nominal.
+Este recurso
+de la nominalización
+es utilizado
+muy fre-
+cuentemente
+en el discurso
+científico
+y así lo afirman
+diferentes
+autores
+en estudios
+realizados
+sobre el alemán
+(Polenz,
+1981,
+ci-
+tado
+por
+Ciapuscio,
+1992)
+y el inglés
+(Gross,
+1996;
+Halliday,
+1993).
+El mismo ha sido calificado
+por Halliday
+como un recurso
+esencial
+en la construcción
+del discurso
+científico,
+porque
+permite
+lograr
+dos efectos discursivos
+importantes:
+condensar
+un fenóme-
+no complejo
+en una
+entidad
+semiótica
+individual
+y destacar
+su
+función
+textual
+en el desarrollo
+de la argumentación.
+Pero al mis-
+mo tiempo,
+resulta
+una de las mayores fuentes
+de dificultades
+para
+la inteligibilidad
+del mensaje,
+porque
+atenta
+contra
+la explicitud
+(Ciapuscio,
+1992:184).
+Veamos por qué: en la transformación
+de
+la cláusula
+de acción en grupo
+nominal,
+el Agente
+de la construc-
+ción verbal
+original
+desaparece
+o pasa a formar
+parte
+del comple-
+mento
+preposicional
+del nombre,
+y pierde
+así su carácter
+de Parti-
+cipante
+directo en el proceso.
+Además,
+esta acción así nominalizada
+suele ser conectada
+a otra del mismo
+tipo por medio de un Proce-
+so Relacional
+(cuyos
+roles
+participantes
+no son Agentes,
+sino
+Identificadores
+o Portadores
+de atributos).
+Todo esto va diseñan-
+do una representación
+de la experiencia
+donde
+los Procesos
+dejan
+de ser verbos
+y sus Participantes
+dejan de ser Agentes,
+enmasca-
+rándose
+detrás
+(o dentro)
+de construcciones
+preposicionales.
+En
+97
+Nora Isabel Muñoz
+un ejemplo extraído
+de uno de los artículos
+examinados
+se visualiza
+esta situación:
+... la proliferación
+de células
+en la íntima
+arterial
+pue-
+de vincularse
+a la respuesta
+de las células
+musculares
+lisas a la insulina. ("Síndrome
+metabólico
+e hipertensión")
+Este es un modo de representar
+la experiencia
+sin Agentes,
+sin
+Participantes
+activos,
+y responde,
+según
+Halliday,
+al modo
+"si-
+nóptico"
+propio
+del discurso
+de la ciencia.
+Requiere
+un esfuerzo
+de decodificación
+mayor,
+porque
+en él la gramática
+se ha "des-
+prendido
+de la información
+experiencial"
+(Halliday,
+1989: 159) para
+concentrarse
+en la "información
+textual".
+5. El Índice de agentivación:
+método
+Esta presencia
+O ausencia
+predominante
+de los Agentes
+o Par-
+ticipantes
+activos
+en el discurso
+nos ha parecido,
+entonces,
+que
+podría
+funcionar
+como
+un índice
+demostrativo
+del nivel de ade-
+cuación
+de los textos
+a ese modo
+"sinóptico"
+-de la ciencia,
+reve-
+lando con nitidez
+las diferencias
+de "gramáticas"
+entre
+el lenguaje
+científico
+y el de divulgación.
+Dispuestos
+a descubrir
+un procedimiento
+para
+su identifica-
+ción y cuantificación,
+comenzamos
+por clasificar
+los tipos de pro-
+cesos presentes
+en el corpus:'. En segundo
+lugar contabilizamos
+la
+cantidad
+de nominalizaciones
+(cláusulas
+de acción
+transformadas
+en grupos
+nominales).
+A continuación
+rastreamos
+la presencia
+de
+los Agentes.
+Aquí debemos
+detenernos
+para subrayar
+que hemos
+trabajado
+con un concepto
+más amplio
+que el de Ciapuscio,
+en
+cuyos trabajos
+se restringe
+casi exclusivamente
+al agente
+humano
+(identificado
+con la figura
+del enunciador
+del texto:
+el periodista,
+O del actor del suceso:
+el científico).
+Nosotros
+incluimos,
+además,
+los portadores
+del rasgo 'inanimado'
+(equivalentes
+al caso Instru-
+mental,
+de Kovacci,
+1994:45).
+Asimismo,
+desde el punto
+de vista
+estructural,
+consideramos
+como tales los complementos
+de cons-
+trucciones
+pasivas
+y los surgidos
+en construcciones
+verboidales,
+que no son tomados
+en cuenta
+por Ciapuscio.
+Esto nos permitió
+ampliar
+el espectro
+de los fenómenos
+estudiados.
+De la combinación
+de estas variables
+pudimos
+extraer
+un por-
+centaje
+de "agenrivación",
+aplicando
+el siguiente
+procedimiento:
+98
+LA
+(DES)AGENTIVACJÓN
+EN EL LENGUAJE
+CIENTÍFICO
+al considerar
+que,
+desde
+un
+punto
+de vista
+semántico,
+las
+nominalizaciones
+son acciones
+encubiertas,
+sumamos
+éstas
+a los
+procesos
+verbales
+y extrajimos
+el porcentaje
+de Agentes
+en rela-
+ción a ese total
+de acciones
+(verbales
+y no verbales).
+6. Resultados
+obtenidos
+En el siguiente
+cuadro
+mostramos
+los tipos
+de procesos
+y las
+nominalizaciones,
+en números
+absolutos
+y porcentuales
+respecto
+del total,
+para cada texto:
+PROCESOS
+MATERIALES
+RELACIONALES
+MENTALES
+EXISTENCIALES
+NOMINALIZACIONES
+TOTAL
+TEXTOS
+Lo malo ...
+Al
+32 (50%)
+21(33%)
+3 (5%)
+2 (3%)
+6 (9%)
+64 (100%)
+Una heren
+A2
+34(51%)
+21(31%)
+4 (6%)
+4 (6%)
+4 (6%)
+67 (100%)
+Colesrerol
+Bl
+17 (21%)
+33 (41%)
+-
+4 (5%)
+27 (33%)
+81 (100%)
+Síndrome
+B2
+9 (15%)
+19 (32%)
+2 (3%)
+1 (2%)
+29 (48%)
+60 (100%)
+Diccionar
+Cl
+8 (15%)
+16 (31%)
+1 (2%)
+1 (2%)
+26 (50%)
+52 (100%)
+Manual
+C2
+903%)
+24 (31 %)
+-
+800%)
+35 (46%)
+76(100%)
+Esto nos permitió
+tener
+un primer
+panorama
+que nos muestra
+una significativa
+correlación
+entre:
+Procesos
+Materiales/lenguaje
+de divulgación
+(textos
+Al y A2) Y Procesos
+Relacionales/lenguaje
+científico
+(textos
+Bl,
+B2, Cl , C2). En efecto,
+los Materiales
+casi
+duplican
+a los Relacionales
+en el lenguaje
+de divulgación
+y los
+Relacionales
+duplican
+a los Materiales
+en el científico.
+Respecto
+a la presencia
+de nominalizaciones
+registramos
+una
+incidencia
+significativamente
+mayor en el lenguaje
+científico
+(una
+media
+de 45%)
+respecto
+al de la divulgación
+(8%),
+lo que corro-
+bora lo afirmado
+por los autores
+citados.
+Aplicando
+el procedimiento
+que mencionamos
+anteriormente
+extrajimos
+el índice de "agenrivación"
+correspondiente
+a cada texto,
+lo que nos permitió
+comprobar
+que, en efecto,
+aparece
+una inci-
+dencia creciente
+de Agentes
+en el lenguaje
+de divulgación
+res-
+99
+Nora Isabel Muñoz
+pecco del científico,
+tal como lo muestra
+el siguiente
+cuadro:
+TEXTOS
+TOTAL de
+AGENTIVACIÓN
+ACCIONES
+Lo malo ..
+Al
+64
+29 (45%)
+Una herencia ...
+A2
+67
+20 (30%)
+Colesterol
+B1
+81
+17 (21 %)
+Síndrome ...
+B2
+60
+9 (15%)
+Diccionarios
+C1
+52
+7 (13%)
+Manual
+C2
+76
+8 (10%)
+Resulta
+de interés
+observar
+la correlación
+positiva
+que se esta-
+blece
+entre
+los Procesos
+Materiales
+y Mentales
+y el índice
+de
+agentivación:
+este nunca
+supera
+a aquellos,
+lo que se desprende
+naturalmente
+de nuestra
+concepción
+del Agente
+(que excluye
+los
+sujetos gramaticales
+de los Procesos
+Relacionales
+y Existenciales).
+Sin embargo,
+esta correlación
+no siempre
+es directamente
+propor-
+cional:
+en A2 es menos
+que proporcional,
+mostrando
+una brecha
+notable
+entre
+los Procesos
+Materiales
+y Mentales
+(57%)
+y la
+agentivación
+(30%).
+Analizando
+el texto con detalle
+descubrimos
+que esto ocurre porque
+la desagentivación
+humana
+(típica
+del len-
+guaje científico,
+efr. Ciapuscio)
+es aún alta en A2, lo que no suce-
+de en Al.
+Este último
+es un texto periodístico
+que reformula
+otra
+reformulacién anterior: un libro de difusión
+dirigido
+a todo público.
+Por eso se puede
+clasificar
+dentro
+de un grado
+más alejado
+del
+lenguaje
+científico
+que A2. Podría
+pensarse,
+entonces,
+que
+esta
+diferencia
+de grados
+de cercanía
+al registro
+de la ciencia
+podría
+explicar
+el mantenimiento
+del alto índice de desagentivación
+hu-
+mana
+en A2. Este es sólo un estudio
+de casos, sin valor estadísti-
+co, pero nos abre una posibilidad
+de enriquecer
+nuestra
+hipótesis
+inicial y postular
+grados
+intermedios en la escala de registros,
+que
+se caracterizarían
+por el mantenimiento
+de la desagentivación
+hu-
+100
+LA
+(OES)AGENTlVACIÓN
+EN EL LENGUAJE
+CIENTÍFICO
+mana
+(no así el de la no humana),
+en contraste
+con el nivel de
+divulgación
+más "popularizado",
+donde
+la desagentivación
+es casi
+nula,
+aun la humana.
+Sólo una ampliación
+considerable
+del cor-
+pus podrá
+verificar
+esta nueva posibilidad.
+Constatamos
+asimismo
+una
+correlación
+inversa
+entre
+las
+nominalizaciones
+y la agentivación,
+pero aquí tampoco
+se cumple
+la proporcionalidad
+total,
+ya que el texto C2, que ostenta
+el menor
+índice de agentivación,
+no es el que presenta
+mayor porcentaje de
+nominalizaciones.
+Lo que ocurre
+en este caso es que pesan
+otras
+variables,
+como la de los tipos de procesos,
+por lo cual el Proceso
+Existencial
+aparece
+muy aumentado
+en relación
+a los otros e incli-
+na la balanza
+hacia la desagentivación.
+La amplitud
+del concepto
+de Agente
+que proponemos
+recorta
+un objeto
+de estudio
+mayor
+que el tenido
+en cuenta
+en otros tra-
+bajos, por lo que nuestros
+resultados,
+creemos,
+adquieren
+más fuer-
+za explicativa
+que
+las afirmaciones
+de Ciapuscio
+respecto
+a la
+desagentivación
+(1992: 185). Los resultados
+obtenidos
+confirman
+la tendencia
+señalada
+por esta autora,
+pero van más lejos y pro-
+fundizan
+su hipótesis.
+Nuestro
+análisis no se limita
+sólo al compo-
+nente
+"inrerpersonal",
+es decir, a la instanciación
+del hablante
+en
+el discurso
+(voz del científico
+o del periodista),
+cuyo borrado
+se
+debería
+a "un deseo de objetividad"
+(Ciapuscio,
+1992: 184), sino
+que indaga
+sobre
+el componente
+"ideacional",
+la representación
+. de la experiencia,
+cuyo borrado
+de agentes
+produce
+no ya un efec-
+to de "objetividad"
+sino de "objerificación",
+según
+el neologismo
+que emplea
+Halliday.
+La combinación
+de ambos efectos en distin-
+tas proporciones
+podría
+dar cuenta
+de una tipología
+de registros
+desde
+el más
+"objetificado"
+(+desagentivación
+humana,
++desagentivación
+no
+humana);
+menos
+"objetificado"
+(+desagentivación
+humana,
+-desagentivación
+no humana);
+no
+"objerificado"
+(-desagentivación
+humana,
+-desagentivación
+no
+humana).
+7. El problema
+de la inteligibilidad
+Según Halliday,
+el niño aprende
+primero
+a hablar
+en cláusulas
+y después
+a reemplazarlas
+por grupos
+nominales.
+Es por eso que,
+cuanto
+menos metáforas
+gramaticales
+sean empleadas,
+más directo
+será el camino de acceso a la comprensión
+de la información,
+por
+101
+Nora Isabel Muñoz
+que se acerca a las estructuras
+mentales
+más simples de la infancia.
+Más allá de los interrogantes
+que pueden
+dejar abiertos
+estas
+hipótesis
+de Halliday,
+creemos
+que resultan
+operativas
+en la expli-
+cación de gran parte
+de las dificultades
+de comprensión
+que gene-
+ra la lectura
+de un texto
+científico.
+El lenguaje
+de divulgación
+debe
+moverse
+en un grado
+inter-
+medio entre el modo "sinóptico"
+y el "dinámico"
+de representar
+el
+mundo,
+en un difícil equilibrio
+entre
+la necesidad
+de vehiculizar
+estructuras
+conceptuales
+novedosas,
+lo que exige recursos
+de cla-
+sificación,
+definiciones
+y categorizaciones
+que "desagentivan"
+la
+realidad,
+y el imperativo
+de ser inteligible
+al público
+lego.
+Por
+otra
+parte,
+el científico
+en
+algunas
+ocasiones
+abusa
+de
+la
+desagentivación
+y de las nominalizaciones,
+que no aparecen
+justi-
+ficadas ni como condensaciones
+semióticas
+ni como índices de fun-
+ciones textuales
+claras.
+Esto es lo que el divulgador
+de la ciencia
+debe evitar.
+Damos
+a continuación
+tres ejemplos
+extraídos
+de nuestro
+cor-
+pus que,
+además
+de mostrar
+el tipo
+de análisis
+que llevamos
+a
+cabo, pueden
+servir
+de ilustración
+de Jo que venimos
+afirmando
+respecto
+del abuso de nominalizaciones.
+Los ejemplos
+están agru-
+pados
+por
+un tema
+común,
+en orden
+decreciente
+desde
+los del
+lenguaje
+más típico de la ciencia
+a los del lenguaje
+más típico
+de
+la divulgación:
+l. En este primer
+ejemplo,
+"se considera"
+y "se debe" son ver-
+bos presentados
+en forma
+impersonal,
+y las nominalizaciones
+son
+tres: "relación",
+"acción"
+y "transporte".
+Procesos Mentales:
+1, Procesos
+Relacionales:
+1, Agentivación:
+0%
+Se considera
+que la relación
+inversa entre la presencia
+de aterosclerosis
+y el nivel de las HDL
+se debe a la ac-
+ción
+de estas
+últimas
+en el transporte
+inverso
+de
+colesterol. C'Colesterol y lipoproreínas")
+Es evidente
+aquí
+que
+la información
+experiencial
+se ve
+obscurecida
+por la textual,
+con el interés
+de destacar
+las relaciones
+que se establecen
+entre los fenómenos,
+lo que exige un esfuerzo
+de
+decodificación
+suplementario
+que no siempre
+será exitoso.
+2. Un contenido
+informativo
+aproximadamente
+semejante
+al
+anterior
+se despliega
+en forma
+más explícita
+en el siguiente
+ejem-
+102
+LA
+(DES)AGENTIVACIÓN
+EN El LENGUAJE
+CIENTÍFICO
+plo , donde
+aparecen:
+Procesos
+Materiales:
+5; Relacionales:
+1;
+Existenciales:
+1; Nominalizaciones:
+1; Agentes:
+5; Agentivación:
+63 %
+La LDL ... es la encargada
+de llevar
+la mayor
+cantidad
+de
+colesterol
+hacia
+las células
+... a través
+de la sangre.
+Pero
+en el camino
+puede
+ocurrir
+que algo de colesterol
+se de-
+posite
+peligrosamente
+en los tejidos ... La HDL,
+en cam-
+bio, realiza
+el camino
+inverso:
+toma
+el peligroso
+colesterol
+de los tejidos
+y lo lleva
+al hígado
+para su posterior
+elimi-
+nación.
+("U na herencia
+problemática")
+3. En este ejemplo
+final contabilizamos:
+Procesos
+Materiales:
+5; Relacionales:
+2;
+Agentes:
+5; Agentivación:
+71 %
+... el colesterol
+'malo'
+es una
+auténtica
+bolsa
+de basura,
+porque
+ensucia
+las arterias
+formando
+placas areromarosas
+hasta
+ocluirlas.
+El colesterol
+'bueno',
+en cambio,
+funcio-
+na como un camión
+recolector
+de esos residuos,
+porque
+se
+encarga
+de retirarlos
+de la circulación
+y de las paredes
+arteriales
+para llevarlos
+al hígado.
+("Lo malo de la abun-
+dancia ... ")
+Aquí las personificaciones
+(colesterol
+"bueno"
+y "malo") no solo
+actúan
+como
+imágenes
+que
+acercan
+el mensaje
+al lector
+a nivel
+lexical (cf. el uso de lenguaje
+no literal
+y metafórico
+en Ciapuscio,
+1992:
+187),
+sino
+que
+a
+nivel
+gramatical
+actúan
+como
+"agentivadores"
+del discurso.
+8. Conclusiones
+La "(desjagentivación"
+estudiada
+desde
+la nueva
+perspectiva
+que proponemos
+adquiere
+una dimensión
+más abarcadora,
+por-
+que afecta el núcleo
+de la gramática
+"experta"
+característica
+de la
+ciencia, como una manera
+de representar
+la realidad
+diferente
+a la
+gramática
+de la divulgación,
+que se acerca más a la del lenguaje
+cotidiano,
+oral, de la visión "dinámica"
+de la realidad.
+En la medida en que el redactor
+del lenguaje
+científico
+sea cons-
+ciente del manejo
+de este recurso
+y de su incidencia
+negativa
+en la
+inteligibilidad
+del mensaje,
+podrá
+evitar su abuso en aquellas
+oca-
+siones en que no sea estrictamente
+necesario.
+Estudios
+a mayor escala nos permitirán
+sacar conclusiones
+más
+definitivas
+respecto
+a una posible
+tipificación
+de los discursos
+de
+103
+Nora Isabel Muñoz
+la ciencia
+y de la divulgación
+científica,
+que nos podrá
+orientar,
+entre
+otras
+cosas,
+hacia
+la aplicación
+de estrategias
+lingüísticas
+exitosas
+para la pedagogía
+de la ciencia.
+Notas
+1 Este trabajo
+forma
+parte
+de un proyecto
+de investigación
+dirigido
+por
+la Dra.
+Patricia
+Vallejos,
+Universidad
+Nacional
+del Sur, bajo el tÍtu-
+lo "Prácticas
+discursivas
+para la construcción
+del conocimiento
+cien-
+tífico" .
+2 Los rextos
+de nuestro
+corpus
+son los siguientes:
+(Al)
+ARTÍCULODE DIVULGACIÓN"Lo malo
+de la abundancia",
+por
+Gabriela
+Navarra,
+en el Suplemento
+Salud del diario
+"La Nación"
+del
+18/06/97.
+(A2)
+ARTícULO DE DIVULGACIÓN
+"Una
+herencia
+problemática",
+por
+Mabel
+Viaggi,
+en el
+Suplemento
+Salud
+del diario
+"La Nación"
+del
+03/09/97.
+(B 1) ARTícULODEINVESTIGACIÓN
+"Colesterol
+y lipoproteínas.
+Concep-
+tos básicos
+y aterogénesis",
+por los Dres. J. Carlos
+Groppa
+y Miriam
+N. Marina,
+en revista
+Comabue Médico, Vol. XXVII,
+N° 150,1997.
+(B2)
+ARTÍCULO DE INVESTIGACIÓN
+"Síndrome
+metabólico
+de
+riesgo
+vascular
+e hipertensión
+arterial",
+por
+los
+Dres.
+Alfredo
+O.
+Wassermann
+y Cristina
+P. Grosso,
+en revista
+Medicina
+(Buenos
+Ai-
+res), Vol. 56, N° 2, 1996.
+(Cl ) RESEÑAdel "Diccionario
+de Medicina",
+OCEANO-MOSBY,
+au-
+rores varios,
+1996,
+pp. 452-53.
+(C2) RESEÑAde "El Manual
+Merck",
+MOSBY/DOYMA
+Libros,
+auto-
+res varios,
+1994,
+pp.
+112
+Y 127.
+3 Para
+Halliday
+(985)
+la cláusula
+es el lugar
+donde
+los fenómenos
+del
+mundo
+real son presentados
+como estructuras
+lingüísticas
+tripartitas:
+Participantes,
+Procesos
+y (eventualmente)
+Circunstancias.
+Los Proce-
+sos se clasifican
+en un grupo
+principal:
+Materiales
+(del Hacer),
+Men-
+tales
+(del Sentir)
+y Relacionales
+(del Ser),
+y Otro derivado:
+de Con-
+ducta,
+Verbales
+y Existenciales.
+Nosotros
+consideramos
+pertinente,
+de acuerdo
+al tipo
+de discurso
+estudiado,
+tener
+en cuenta
+el grupo
+principal
+y agregar
+el Proceso
+Existencial,
+subsidiario
+del Relacional,
+por la frecuencia
+de su aparición.
+En este marco,
+consideramos
+Agentes
+los sujetos
+gramaticales
+y lógicos
+(complementos
+en voz pasiva,
+por
+ejemplo)
+de los Procesos
+Materiales
+y Mentales,
+y no a los de los
+procesos
+Relacionales
+(que no "hacen"
+ni "sienten",
+sino "son" o "por-
+tan arributos")
+ni a los de los procesos
+Existenciales
+(que son imper-
+sonales
+y, por lo tanto,
+no presentan
+sujetos
+gramaticales
+ni agentes
+posibles).
+104
+LA (OES)AGENTlVACIÓN
+EN EL LENGUAJE
+CIENTíFICO
+Bibliografía
+Ciapuscio,
+Guiomar
+(1989)
+"El texto de divulgación
+científica:
+un
+análisis
+semántico",
+RLA
+(Chile),
+27; 23-36.
+--
+(1992)
+"Impersonalidad
+y desagentivación
+en la divulga-
+ción científica", Lingüística Española Actual, XIV-2; 183-205.
+(1993)
+"Reformulación
+textual:
+el caso de las noticias
+de
+ciencia",
+Revista Argentina
+de Lingüística,
+9; 69-116.
+(1996)
+"El subtipo
+textual
+'conclusiones'
+en revistas
+de lin-
+güística
+hispánica:
+una perspectiva
+lingüístico-textual
+conrrasriva",
+Filología,
+29.
+Gross,
+Alan
+G. (1996)
+The Rbetoric o/ Science, London:
+Harvard
+U niversiry
+Press.
+Halliday,
+M.A.K.
+(1989)
+"La lengua
+y el orden
+natural"
+en Fabb,
+N. (comp.)
+La lingüística de la escritura. Madrid:
+Visor.
+--
+(990)
+[1985]
+An Introduction
+to Functionnal
+Grammar.
+London:
+Edward
+Amold.
+--
+and ].R. Martín (1993)
+Writing science; Literacy and Discourse
+Power. London:
+The Falmer
+Press.
+105

@@ -1,0 +1,595 @@
+69
+Esta obra está bajo una Licencia Creative Commons Atribución - No Comercial -
+Sin Obra Derivada 4.0 Internacional. http://creativecommons.org/licenses/by-nc-nd/4.0/
+Percia, Violeta. “Stéphane Mallarmé: experiencia pura y poesía”. Anclajes, vol. XXII, 
+n° 2, mayo-agosto 2018, pp. 69-82
+DOI: 10.19137/anclajes-2018-2225
+ 
+Stéphane Mallarmé: 
+experiencia pura y 
+poesía1
+Stéphane Mallarmé: pure experience and poetry
+Violeta Percia
+Instituto de Filología y Literaturas Hispánicas “Dr. Amado Alonso”
+Universidad de Buenos Aires
+Argentina 
+violeta.percia@gmail.com
+Resumen: La concepción de una poesía pura adquiere un lugar fundamental en el dis-
+curso de los poetas franceses hacia finales del siglo XIX, como expresión de un retorno 
+rousseauniano al lenguaje en el marco de una tensión entre utilidad y abstracción propia 
+de la modernidad. Este estudio se centra en la posición de Stéphane Mallarmé como 
+pieza clave de estas discusiones que se hallan en el centro de la teoría moderna de la 
+poesía y esclarecen algunas de las querellas de las vanguardias del siglo XX. Para ello, en 
+el contexto del Simbolismo y el Wagnerismo francés, se analiza el concepto mallarmea-
+no de “noción pura” a la luz de la búsqueda de una autenticidad del lenguaje capaz de 
+recobrar una experiencia desnuda, vinculando su tentativa no ya al idealismo, sino a una 
+experiencia como la que reclamarán, casi en la misma época, las filosofías vitalistas.
+Palabras clave: Stéphane Mallarmé; Henri Bergson; poesía francesa; siglo XIX; Sim-
+bolismo 
+Abstract: The conception of pure poetry acquires a fundamental role in the discourse 
+of French poets towards the end of the 19th century, as an expression of the Rousseauian 
+return to language within the framework of a tension between utility and abstraction 
+characteristic of modernity. This study focuses on the position of Stéphane Mallarmé as 
+a key piece of these discussions that are the center of the modern theory of poetry 
+and clarify some of the disputes of the avant-garde of the 20th century. For this, in the 
+context of French Symbolism and Wagnerism, the Mallarmean concept of “pure notion” 
+is analyzed in the light of the search for an authenticity of language able to recover a 
+naked experience, linking its attempt not only to idealism, but to an experience like the 
+one that will claim the vitalist philosophies almost at the same time.
+Keywords: Stéphane Mallarmé; Henri Bergson; French Poetry; 19th Century; Symbolism
+1	
+Este artículo contiene la reformulación de algunos de los desarrollos presentes en el capítulo 1 de la 
+Segunda Parte de mi tesis doctoral, La poesía como interregno en Stéphane Mallarmé. Figuras para 
+una teoría del lenguaje, defendida en la Universidad de Buenos Aires en 2016, inédita hasta la fecha.
+70
+Violeta Percia | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+La tradición de la poesía pura
+L
+a expresión “poesía pura” hace entrada en el idioma crítico de los 
+poetas al final de las “Notes nouvelles sur Edgar Poe” (1857) de 
+Charles Baudelaire. Designaba allí “la definición moderna de la 
+poesía como palabra emancipada de toda función práctica” (Bertrand y Durand 
+25)2 y, con ello, proclamaba la profesionalización del escritor y los criterios que 
+lo legitimaban como tal. De esa manera, si las nociones de literatura o poesía 
+pura ya se habían anunciado en los años 1830, el choque que se produce con 
+el fracaso de la Revolución francesa de 1848 es fundamental para que de una 
+opción posible resultase una doctrina dominante. En efecto, Baudelaire retoma 
+en aquel ensayo sobre Poe la premisa del arte por el arte divulgada por Théophile 
+Gautier y bajo el nombre de “arte puro” o “poesía pura” reclama un arte liberado 
+de la moral, la política y la religión3.
+Sin embargo, es en el último tercio del siglo cuando lo puramente poético 
+cobra relevancia en el lenguaje de los poetas, evocando en algunos casos aspira-
+ciones notoriamente divergentes4. De modo que, como muestra el académico 
+Jean-Pierre Bobillot, el sintagma en cuestión constata, por un lado, la concepción 
+de la poesía en sí, como objeto estético y a la vez teórico; y por otro, la idea de una 
+promesa otorgada a un movimiento vinculado con ella (“Recomposition(s)” 35). 
+En ese marco, se renueva un interés múltiple en torno al verso que abarca desde 
+postulaciones idealistas hasta la búsqueda de una autenticidad lingüística situada 
+próxima al vagido o balbuceo de una lengua original o primitiva. Así, en el movi-
+miento heterogéneo de las poéticas del siglo XIX, la proclama de una poesía pura 
+define, ante todo, la intención común de un restablecimiento de la plenitud y la 
+vitalidad del lenguaje5.
+2	
+En adelante para toda la bibliografía que citamos en francés presentamos traducciones propias.
+3	
+En sus dos textos programáticos, The Philosophy of composition (1846) y The Poetic Principle 
+(1948-1950), Poe había definido el proceso consciente de la escritura excluyendo de él todo lo 
+que no fuera verdadera sustancia de la poesía, esto es: la pasión, la moralidad y la verdad. La 
+influencia de Poe es determinante en la poesía francesa de la última mitad del siglo XIX. Fue 
+Charles Baudelaire, su primer traductor al francés, quien se encargó de divulgar sus ideas sobre 
+literatura. En ese ensayo que oficiaba de prólogo a las Nouvelles histoires extraordinaires de Poe, 
+Baudelaire declara que “la poesía no tiene otro fin que ella misma” (308), eximiéndola de toda 
+utilidad, destruyendo en ella toda clase de valor de uso y dotándola de un valor intangible.
+4	
+Jean-Pierre Bobillot da algunos ejemplos del amplio abanico de poetas que retoman la proclama 
+de una poesía pura: Jules Laforgue habla “de la vraie poésie”; Paul Verlaine en “De la musique” 
+hace del concepto una entidad definida y establecida; Alfred de Vigny refiere a “la Poésie pure”; 
+Mallarmé a “l’œuvre pure” o “la notion pure”; René Ghil aboga por la “reintegración del valor 
+fonético de la lengua”, en cierto modo también una poesía pura que se resume en su tesis de que: 
+“si el poeta piensa palabra, pensará en adelante por palabras temidas por su sentido original y 
+total, por las palabras-música de una lengua música” (“Recomposition(s)” 39-40. El subrayado 
+es del original).
+5	
+Bajo la noción de “poesía pura”, Bobillot reconoce una misión común concedida a la poesía corre-
+lativa con un retorno rousseauniano del lenguaje: “Es evidente, sin embargo, más allá de las diver-
+71
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Stéphane Mallarmé: experiencia pura y poesía: 69-82
+Ahora bien, el concepto de lo puro pone en escena un conflicto que es común 
+para la filosofía y la poesía. De ahí que gran parte de la crítica haya considerado 
+esta noción en el marco del idealismo, vinculándola con el Absoluto del primer 
+romanticismo de Jena y el idealismo alemán (Avaraki). En esa línea, Theodor 
+Adorno objeta las ideas de Paul Valéry tildando de “reaccionaria” su voluntad de 
+encontrar una palabra emparentada con el pathos de una poesía pura, mediante 
+la que pretendía elevar el arte “por encima de la realidad empírica, la sociedad, 
+a lo absoluto” (156). En el contexto del estructuralismo, Gérard Genette, por 
+su parte, vincula aquella aspiración con la noción pos-romántica de una espe-
+cificidad para cada arte, de una “esencia” a la cual se tiende sin cesar (25-26). 
+Pero esta polémica, que puede rastrearse en muchas otras posiciones críticas, 
+se remonta al siglo XIX mismo. René Ghil –contemporáneo de Mallarmé y 
+asistente a los martes literarios en su casa de la calle Roma– había cuestionado 
+las tentativas de una tradición idealista que se resumía para él en el Simbolismo, 
+al que oponía su concepción de una “Poésie-scientifique” (83-89). En los años 
+1883-1893, se evidenciaba entonces un enfrentamiento entre el vector ideal (o 
+angélico) propulsado por una poesía pura o espiritual, y el espacio material del 
+vocalismo impuro y carnal, tensión que esclarece la posición de las vanguardias y 
+querellas de los años 1919-1922. Retomando esta polémica, Jean-Pierre Bobillot 
+ofrece actualmente una estructuración del campo poético francés en función de 
+lo que llama una tradición pos-romántico-idealista (que va, en su perspectiva, 
+de Stéphane Mallarmé y Paul Valéry hasta André Breton y Yves Bonnefoy) a la 
+que contrapone una posición inventiva materialista que encuentra su iniciador 
+precisamente en Ghil, Guillaume Apollinaire y Francis Ponge, para desembocar 
+en nuevos géneros experimentales (como la poesía sonora, visual, digital, video 
+poesía, etc.) (Bobillot “POésie & MEdium”).
+Ahora bien, el vector común de todos estos enfoques de análisis hace emerger 
+un conflicto entre utilidad y abstracción que pone en juego la existencia de una 
+tensión irresuelta entre tecnicidad y religión primero; y, luego, entre tecnicidad 
+y filosofía. La confrontación de esos dos órdenes de pensamiento conlleva una 
+escisión en la época moderna entre una dimensión puramente interior del hom-
+bre, que garantiza lo Otro como afán de dominación, y el mundo exterior de las 
+organizaciones estructurales, dividido a su vez en el mundo de las significaciones 
+expresado por la cultura y el mundo sin estructura de lo que no posee significa-
+ción –pero al que se le asigna un uso, una función útil– en el que se inscriben la 
+técnica y la ciencia (Simondon 32).
+Nuestra intención en estas páginas es circunscribir el campo de la expresión 
+de una poesía pura a la tentativa de Stéphane Mallarmé (1842-1898) en el con-
+gencias de perspectivas y apreciaciones, que Rimbaud, Laforgue, y después de ellos Apollinaire, 
+los Futuristas, Hugo Ball y los Dadaístas, todos ellos, a instancia de Ghil o Mallarmé, atribuyeron 
+la misión a la poesía de restituir al lenguaje alguna cosa de su autenticidad, de su plenitud, de su 
+vitalidad (según parece) perdidas, compartiendo una visión globalmente rousseauniana tanto del 
+lenguaje como de la poesía” (“Recomposition(s)”39. El subrayado es del original).
+72
+Violeta Percia | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+texto de lo que significó el Simbolismo y el Wagnerismo francés, para pensar 
+allí las huellas de una iniciativa que no se reduce a la disputa entre idealismo y 
+materialismo. Para ello, se analiza el modo en que dicha expresión se enlaza con 
+una experiencia mística, a la luz de una noción de misterio que abre una visión 
+de lo viviente en tanto potencia indómita, indefinida, capaz de confrontar al su-
+jeto hablante con al ser mismo del lenguaje y con su poder de figuración. De ahí, 
+se indica la proximidad de esa búsqueda de una autenticidad del lenguaje con 
+respecto, no ya a una filosofía idealista, sino a una experiencia pura tal como la 
+que reclamarán, casi en la misma época, el pragmatismo y las llamadas filosofías 
+vitalistas.
+La poesía como experiencia mística
+Las efervescentes y prolíficas declaraciones de poetas y críticos decimonóni-
+cos sobre los destinos del verso, en las cuales no faltaron enfrentamientos, evi-
+dencian el interés manifiesto de la poesía moderna por alcanzar una conciencia 
+de sí y su voluntad de darse un método, con el fin de superar la herida de una 
+palabra poética escindida de su capacidad de devenir, a la vez, palabra pensante 
+(es decir, conocimiento). Hacia finales del siglo XIX, el movimiento literario que 
+tiene lugar en Francia es extremadamente rico, de manera que su fecundidad no 
+puede ahogarse bajo el rótulo de una escuela o programa. En ese contexto, si 
+bien la obra de Mallarmé comparte ciertos rasgos que son comunes a la corriente 
+que se llamó Simbolismo, su tentativa no se reduce a ellos. Del mismo modo, la 
+búsqueda de una poesía en estado puro no sólo excede el marco de una escuela, 
+sino que además su sentido no es homogéneo a una imagen del pensamiento 
+como la construida por las filosofías idealistas. Su rasgo distintivo puede hallarse, 
+en cambio, en la evolución no lineal de una multiplicidad de perspectivas que 
+confluyen en dos condiciones comunes: por un lado, una fe depositada en el 
+lenguaje; y por otro, la proclama de una experiencia mística que no aspiraba a 
+negar la vida sino a contactarse con todo aquello que excedía los límites de la 
+ciencia moderna, en especial de la “razón instrumental” y los nuevos conflictos 
+morales generados por la técnica.
+Se suele posicionar a Mallarmé, junto a Poe y Baudelaire, como uno de los 
+teóricos de esa poesía pura, continuada en los años 1920 por Valéry y Bremond. 
+Este último, en su libro La poésie pure. Éclaircissements (1926), postula la aproxi-
+mación “necesaria” de la experiencia poética y la experiencia mística, observando 
+una desproporción entre la precisión intelectual de los conceptos y la realidad 
+misteriosa, indefinible, que el lenguaje humano reduce, deforma o limita, pero 
+que la “inspiración” es capaz de “entreabrir, sentir, casi tocar” (68).
+En consonancia, en 1936 a propósito de la celebración del cincuenta ani-
+versario del Simbolismo, Paul Valéry declara que si es posible hablar de varios 
+simbolismos es porque su unidad “no reside en una concordancia estética: el 
+Simbolismo no es una Escuela” (Existence du symbolisme 687). Aquello que se re-
+73
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Stéphane Mallarmé: experiencia pura y poesía: 69-82
+úne bajo esa denominación pasa por una potencia otorgada a “la belleza” (687), 
+a “la fuerza de la forma” (687) y a “la virtud de la poesía” (687), orientadas a 
+dar sustancia a una vida interior que se basta a sí misma y se define como una 
+experiencia “mística” (687). De ahí que la motivación artística que vinculaba a 
+gran parte de los poetas que sentían esta inclinación se originaba en “la sensación 
+de que una manera de religión hubiera podido nacer” (688)6.
+Años antes, en 1920, Valéry había hecho algunas precisiones sobre el Simbo-
+lismo definiéndolo como una corriente inspirada en Edgar A. Poe que perseguía 
+la voluntad de aislar a la poesía de toda otra esencia que no fuera ella misma, 
+buscando reencontrar, precisamente, “la poesía en estado puro” (“Avant-Propos” 
+10). Para ello, los poetas se habían propuesto un análisis de todos los elementos 
+del lenguaje, pero por sobre todo adoptaban la intención común, según la céle-
+bre expresión de Valéry reformulada a instancias de Mallarmé, de “recuperar de 
+la Música su propio bien” (10).
+La expectativa espiritual y la pasión inexplicable que despertaba el verso te-
+nían su origen en la intención de producir un efecto, o de llevar la expresión a un 
+“estado excepcional al punto de un goce perfecto” (18). No obstante, ese proyec-
+to halla su límite en el desdoblamiento entre pensamiento abstracto y emociones 
+o sensaciones, que plasma la tensión de fondo entre el idealismo y el materialis-
+mo. Así pues, Valéry observa que la necesidad de provocar emociones inmediatas 
+se hizo imposible de combinar con la abstracción conceptual, exiliada de una 
+poesía reducida a la intención fundamental de alimentarse de la música, es decir: 
+“obtener del lenguaje casi los mismos efectos que las causas puramente sonoras 
+producen sobre nuestros nervios” (13). Esta encrucijada provenía de una doble 
+exigencia que interpelaba a la obra poética: de un lado, los efectos múltiples de 
+sorpresa demandados por el gusto moderno; del otro, la música misma que se 
+adecuaba mejor a ellos.
+En efecto, al verse opacados por las energías y los recursos de la orquesta, los 
+poetas se volcaron hacia una fase de preparación y de elucubraciones múltiples 
+sobre el poema: búsquedas teóricas y estéticas consagradas al problema de la “be-
+lleza pura”. Dadas las características propias de un objeto como la lengua, esas 
+experimentaciones permitieron diferentes aproximaciones, incluso la filología, la 
+fonética y las ciencias del lenguaje se sumaron al debate sobre la poesía. No obs-
+tante, Valéry recalca que si bien se creyó encontrar en el conjunto de las artes una 
+disciplina y quizá “una verdad, sin equívoco” (25), la palabra poética descubre su 
+propio límite cuando sufre la reducción a una “inteligencia puramente técnica” 
+(27). La importancia excesiva otorgada a los procedimientos no hizo más que 
+llevar a un arte antiguo una energía de “invenciones ingenuas” (27).
+Con el Simbolismo se cristaliza así una confrontación de la poesía con la 
+música y con la filosofía que existía ya como problema desde la antigüedad clási-
+ca, pero que vuelve a actualizar un no-lugar para este género literario que ahora 
+6	
+Para un estudio del Simbolismo véanse Marchal (45-47) y el extenso trabajo de Illouz.
+74
+Violeta Percia | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+se ve forzado a responder ante el problema de la técnica (y en última instancia, 
+de la utilidad y del valor). Desde la perspectiva de una “poesía pura”, los poetas 
+que marcan la diferencia son para Valéry aquellos que saben imaginar “la per-
+fectibilidad del lenguaje en un grado de conocimiento y conciencia” (26). En 
+otros términos, las indagaciones o innovaciones tanto formales (técnicas) como 
+estéticas no son significativas por sí mismas ni tienen un valor en sí; más aún, no 
+representan un interés real por fuera de ese grado de conocimiento y concien-
+cia que se espera o exige de la obra. De esa manera, el autor de “El cementerio 
+marino” da testimonio del modo en que la poesía es, hacia fines del siglo XIX, 
+un espacio de disputa entre dos posicionamientos enfrentados: por una parte, el 
+de la búsqueda de innovación técnica ante todo, que termina neutralizando la 
+poesía o reduciéndola al problema de la forma (significante, fonética, musical); 
+por otra, el de una potenciación del decir, impulsando el pensamiento poético 
+como un bien extemporal que insiste más acá de las formas.
+Otra circunstancia relevante para la tradición de la poesía pura es la versión 
+francesa del Wagnerismo que se agrupa en torno a la Revue wagnérienne, fundada 
+por Édouard Dujardin y Houston Stewart Chamberlain, cuyo primer número 
+sale el 8 de febrero de 1885 con el propósito de divulgar escritos teóricos sobre 
+las relaciones entre música y poesía. Desde allí se impulsa el ideal realizado de 
+un “arte total”, o de síntesis, que trascendiera las distinciones tradicionales de los 
+géneros, y se difunde la figura del Wagner pensador más que el músico, a quien 
+se reverencia como paradigma del arte espiritual y simbolista. Mallarmé es con-
+vocado por la revista para escribir un texto que llamará “Richard Wagner, rêverie 
+d’un poète français” (publicado el 8 de agosto de 1885 y posteriormente incluido 
+por él en sus Divagations)7. En 1886 salen en la revista, firmados por Teodor de 
+Wyzewa, tres artículos sobre “L’Art wagnérien” –dedicados respectivamente al es-
+tudio del desarrollo de la pintura, la literatura y la música– donde se asignaba al 
+arte una función “metafísica”; o, en otras palabras: el compromiso de recrear con 
+una plena conciencia y por medio de signos “la vida total del Universo” (14) o 
+del Alma, “donde se juega el drama variado que nosotros llamamos el Universo” 
+(14). Las apreciaciones teóricas de Wyzewa no sólo son relevantes para compren-
+der la obra de Mallarmé sino que lo catapultan a la cima del arte wagneriano 
+en la literatura, considerándolo el único exponente de lo que va a detallarse en 
+los términos de una “poesía pura”, definida como una música verbal o potencia 
+rítmica que hace tanto posible como legítima la armonía de palabras y nociones. 
+Además, Wyzewa precisa que ésta no está sujeta a las convenciones del verso y 
+de la retórica, a la vez que no es tampoco indiferente al aspecto nocional de las 
+obras –por eso, se trata de una poesía capaz de reunir filosofía y música, razón y 
+emoción, enlazando los pensamientos con la música de las palabras y las sílabas. 
+En ese marco, el teórico del wagnerismo se refiere a otro concepto fundamental 
+7	
+Para una consideración de la posición de Mallarmé frente a Wagner remitimos a Lacoue-Labar-
+the (91-160); Marchal (45-47) y Percia.
+75
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Stéphane Mallarmé: experiencia pura y poesía: 69-82
+para la escritura mallarmeana que es la noción de misterio: la motivación que 
+liga sonidos y sentidos a la emoción, dice Wyzewa, no es ni absolutamente arbi-
+traria (o convencional) ni natural (originaria o esencial) sino misteriosa. El mis-
+terio ocupa ese lugar indecidible entre convención y naturaleza, entre necesidad 
+y azar, entre materia e idea, que ya estaba presente como problema en el Crátilo 
+de Platón. Lo que liga la música verbal a los motivos o propósitos de las palabras 
+es del orden del “misterio de un necesario lazo” (Wyzewa 48). Mallarmé es el 
+primero en intentar esta poesía en miras “a la emoción total” (47), encarnando 
+una renovación de la “música verbal” (48) comparable a la del drama wagneria-
+no, capaz de alcanzar “estados supremos y raros del espíritu” (48). Más aún, la 
+“poesía pura” busca, por la vía de la música, sacar a las nociones de su régimen 
+significante o de su forma habitual para crear, mediante ese mixto de pensamien-
+tos poéticos y música verbal, la realidad. Más allá del idealismo al que Wyzewa 
+suscribe promoviendo una realidad trascendente y subjetiva, de emociones y no-
+ciones, sus escritos insisten en la importancia de ir más allá de las convenciones 
+del verso, situando en un lugar primordial la noción de misterio.
+En este contexto, tomando una posición original con respecto a lo que fue 
+el gran proyecto de síntesis wagneriano, Mallarmé desarrolla un pensamiento 
+sobre la lengua de la poesía que tiene lugar en el encuentro con otras artes, pero 
+no como negación de una forma en otra, superadora o superior. En sus prosas 
+de circunstancia o poemas críticos existe un marcado interés en pensar la crisis 
+del verso a partir de las ideas de la pintura, la danza, la música, el teatro o el arte 
+del mimo, que el autor de “Un Coup de Dés” indaga y reformula en función de 
+actualizar una reflexión teórica sobre el discurso poético y la propia práctica8. 
+Esas ideas se hallan en especial relación con la noción de una poesía pura, que 
+no define lo original por lo que carece de contagios o mixturas sino por lo que, 
+consagrándose radicalmente a la aparición de lo otro de la poesía, hace surgir su 
+carácter específico del fondo de una anterioridad que se encuentra en su génesis 
+y que, como observó Michel Foucault a propósito de Mallarmé, tiene que ver 
+“con la experiencia desnuda del lenguaje, la relación del sujeto hablante con el 
+ser mismo del lenguaje” (1004)9.
+De modo que el retorno a una poesía en estado puro se relaciona con una 
+experiencia primordial o desnuda. Esta remite a lo que Giorgio Agamben llamó 
+la infancia del lenguaje para referirse a una dimensión histórico-trascendental 
+que se sitúa “en el ‘hiato’ entre lo semiótico y lo semántico, entre la pura lengua 
+y el discurso” (Infancia e historia 79). Esa infancia religa el lenguaje con su pre-
+8	
+Mallarmé volcó esas consideraciones en diversas prosas de circunstancia que aparecían periódi-
+camente en revistas de actualidad y de literatura, la mayoría de las cuales fueron reunidas por él 
+en las Divagations (2: 110-337).
+9	
+La expresión de Foucault se sitúa en el marco de la influencia que ejercieron Bataille y Blanchot 
+en su pensamiento de una “experiencia del Afuera”. Es Georges Bataille quien utiliza primero la 
+fórmula “experiencia pura” o “experiencia desnuda” para referirse a aquello que llamó “expe-
+riencia interior” (67).
+76
+Violeta Percia | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+historia; o también: con una potencia pre-conceptual, a-subjetiva, e incluso pre-
+lingüística, que es siempre contemporánea a todas las historias –es lo que insiste 
+entre-tiempos, en el tiempo del devenir que es el vector de lo intempestivo10. Al 
+trabajar con esta zona intensiva del lenguaje, la poesía se compromete con una 
+experiencia anterior a toda conceptualización, que la enfrenta no ya a la relación 
+que va de un concepto a su objeto, sino a su propia potencia de figuración.
+El sentido virtual de las palabras
+En la conocida encuesta de Jules Huret “Sobre la Evolución Literaria” publi-
+cada por L’Écho de Paris el 14 de marzo de 1891, Mallarmé definía el verso libre 
+como una “suerte de interregno” (Mallarmé 2: 698) para el fatigado verso oficial, 
+que se había encorsetado en el alejandrino. En aquella definición que podía pasar 
+desapercibida, se expresaba sin embargo la invención mallarmeana de una poesía 
+comprendida como un interregno para el lenguaje y para el pensamiento. El poe-
+ma, concebido como una especial disposición de las palabras (una tensión de los 
+sentidos de la lengua), hace emerger la diferencia entre lo que Mallarmé llama 
+“la significación corriente” (2: 474) y aquello que concibe en los términos de un 
+“sentido virtual” (2: 474)11. Tal distinción motiva una conciencia y un método de 
+lo poético ligados a esta capacidad de crear un oído en la imagen y un ver en la 
+sonoridad. En efecto, la inserción de ese sentido virtual que le interesa a Mallarmé, 
+su gramaticalización, expone también la diferencia entre aquello que él mismo 
+distingue como medio verbal y como medio escritural. De ahí que su escritura 
+se preocupe expresamente por las pruebas del eco plausible, la música mental, el 
+placer del ojo, y todo aquello que “afecta nuestro sentido sutil” (2: 474) y desem-
+boca en un “signo puro general que debe marcar el verso” (2: 475). Por lo tanto, 
+la función poética se explica a partir de este modo de existencia de la lengua y del 
+pensamiento vinculado con el sentido sutil que invierte los pasajes entre el ojo y el 
+oído, entre la respiración y el latido, entre la representación y la experiencia.
+Más aún, la noción de interregno religa la naturaleza misma de la poesía a una 
+capacidad de mediación con relación al lenguaje, en pos de una cualidad para 
+moverse entre o ser puente de distintas realidades. En particular, se trata de la 
+posibilidad de desplazarse entre lo real y la representación; e incluso de abrir la 
+palabra, según una expresión de Maurice Blanchot, a “la imposibilidad de pen-
+sar qué es el pensamiento” (53). En ese interregno de la lengua o del discurso, la 
+10	 Tomamos la definición de Nietzsche de un tiempo intempestivo como un actuar “contra el tiem-
+po, y por tanto, sobre el tiempo y, yo así lo espero, en favor de un tiempo venidero” (34).
+11	 En ese texto de 1895 que citamos, titulado “Sur le vers”, Mallarmé retoma en otros términos 
+aquella distinción entre una “palabra bruta” (2: 212) y otra “esencial” (2: 212) sobre la que in-
+sistía en “Crise de vers”. Dominique Combe ha situado allí el nacimiento de una historia de los 
+géneros que pone en entredicho el relato y la narración como lo otro de la poesía, excluyéndolos 
+de ella. A esta tradición que resigna el relato en nombre de un “lenguaje esencial” pertenecerían 
+Mallarmé, Rimbaud, Valéry, Breton y, en nuestros días, Yves Bonnefoy (Combre).
+77
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Stéphane Mallarmé: experiencia pura y poesía: 69-82
+poesía traza vectores siempre originales entre la voz y la letra, el sentido y la sono-
+ridad, el significante y el significado, la emoción y las nociones, el concepto y su 
+objeto; y lo hace interpelando la significación corriente: sin operar una dialéctica 
+sobre los distintos dominios del sentido; advirtiendo, por el contrario, una zona 
+intensiva que tiene lugar como despliegue de la diferencia entre el sonido y la 
+voz, allí donde insiste lo que no tiene nombre.
+Partiendo de la posibilidad de moverse a través de otras artes, pero sin negar 
+la escritura, Mallarmé considera el verso como un “decir” (2: 213) que quiere 
+reencontrar “su virtualidad” (2: 213) y, con ello, su máximo de potencia12. Del 
+contacto con otros lenguajes y otras técnicas resulta –voluntaria o involunta-
+riamente– la expansión de los sentidos de la poesía hacia un espacio háptico de 
+la palabra, para el cual la visión ya no pasa sólo por el órgano de la vista, ni la 
+percepción auditiva se reduce al sonido referencial. Más precisamente, se trata 
+de una palabra que se toca como un cuerpo con el sentido, y encarna, se siente 
+o reside en otra piel. De manera que en la poesía se pone en juego una sonora 
+profundidad de la escritura que se escucha, como el espesor del pensamiento, en 
+otro “oído” que tiene lugar en el ojo y el corazón; a la vez, entre el pasado y el 
+futuro, entre el silencio de lo que no habla y la recurrencia de lo que ya habló. 
+De ahí que el material con el que trabaja esta escritura no es tanto aquello que 
+existe sino que insiste.
+De ese modo, en el marco de las meditaciones y experimentaciones en torno 
+a la tradición que venimos describiendo, los ensayos mallarmeanos evidencian 
+que el discurso poético se compromete con aquello que en el lenguaje es también 
+un problema de perceptiva. La lengua de la poesía abre de manera singular la 
+estructura del mundo. Advierte una forma de conocimiento que no pasa por la 
+inteligencia como único modo de pensamiento, sino que proviene de un con-
+tacto con el mundo. Se trata de una coincidencia y hasta de una fusión que pone 
+en escena el compromiso de las formaciones culturales con la vida perceptiva, 
+en tanto la cultura, el lenguaje y la historia no rompen el lazo con la percepción 
+sino que, como observó Merleau-Ponty, “la continúan, la conservan y la trans-
+forman” (405).
+Ahora bien, la expresión “poesía pura” no aparece en el vocabulario teórico 
+de Mallarmé, pero sí las concepciones de “noción pura” (2: 213), “obra pura” (2: 
+211), “visión pura” (2: 37), “signo puro” (2: 475), o “medio, puro, de ficción” 
+(2: 179), poniendo en juego, evidentemente, el problema de la percepción y el 
+de la representación de la experiencia.
+Mallarmé amplía los límites de “la Poesía– única fuente” (1: 392), y considera 
+no sólo que ésta no debe sacrificar el pensamiento abstracto sino que es posible 
+combinarlo con las emociones o la sensación inmediata. Ese contacto va a estar ga-
+rantizado por lo que llama “imaginación pura” (1: 392), que define la operación de 
+12	 En “Crise de vers”, Mallarmé escribe: “El decir, ante todo sueño y canto, reencuentra en el Poeta, 
+por necesidad constitutiva de un arte consagrado a las ficciones, su virtualidad” (2: 213).
+78
+Violeta Percia | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+“Un Coup de Dés”13. Este concepto de imaginación creadora está ligado al símbolo, 
+tal como lo comprende en la encuesta de Jules Huret antes mencionada:
+Consistiendo la poesía en crear, es necesario tomar en el alma humana estados, 
+fulgores de una pureza tan absoluta que, bien cantados y bien puestos en evi-
+dencia, aquello constituya en efecto las joyas del hombre: allí donde hay símbo-
+lo, hay creación, y la palabra poesía tiene ahí su sentido: se trata, en suma, de la 
+única creación posible (Mallarmé 2: 701. El subrayado es del original).
+El símbolo es aquí un sincretismo entre cuerpos y estados de cosas que per-
+mite crear en el poema, con una pureza absoluta, estados que no tienen nombre 
+ni lugar. Se aspira a aquello que, en el ámbito tanto de la sensación como de la 
+imaginación, encuentra en el decir poético su virtualidad. De ahí que Mallarmé 
+vincule el interregno de la poesía con la noción de misterio en los términos de un 
+“sentido virtual” que busca actualizarse en el verso mediante el “signo puro” o el 
+símbolo. El símbolo supone el misterio; el misterio es la razón del símbolo14.
+De la “noción pura” a la “experiencia pura”
+Ahora bien, ese misterio al que se enlaza la experiencia mística busca evitar 
+la fractura de fondo filosófica entre un plano físico concerniente a la materia y 
+un plano espiritual o referente al alma, que supone creer en la unión “materia-
+extensión” del cartesianismo15. Mallarmé soslaya explícitamente esa encrucijada; 
+quiere poner fin a tal dicotomía convocando, como exclama Igitur, a “recono-
+cerse por el inmemorial gesto vacante con el que se invita, para terminar el 
+antagonismo de ese sueño polar, a rendirse, con la claridad quimérica y el texto 
+cerrado” (1: 484). En este sentido, la “noción pura” mallarmeana no se identifica 
+con una filosofía idealista instalada en el viejo pensamiento metafísico de una 
+dualidad de mundos, sino que debe situarse en ese “inmemorial gesto vacante”–
+que se abre ante una nada de la que parte un pensamiento mundo como tirada 
+de dados16. De ese modo, Mallarmé reemplaza la expresión de una poesía pura 
+13	 En la “Observation relative au poème Un Coup de Dés”, Mallarmé define ese poema como: “el 
+caso de tratar, con preferencia (así como sigue) temas de imaginación pura y compleja o intelec-
+to: que no hay ninguna razón de excluir de la Poesía – única fuente” (1: 392).
+14	 “Nombrar un objeto es suprimir las tres cuartas partes del gozo del poema que existe en hacer 
+adivinar poco a poco: sugerirlo, he ahí el sueño. Es el perfecto uso de ese misterio el que consti-
+tuye el símbolo” (2: 700. El subrayado es de Mallarmé).
+15	 Filósofos como Leibniz, Bergson, Tarde, o en el siglo XX Deleuze, Simondon, Serres han cues-
+tionado que la materia se defina por la extensión, considerando que tomada en su flujo no se 
+distingue de un “espíritu”.
+16	 Gilles Deleuze ha incluido a Mallarmé junto a Nietzsche como exponentes de un “Pensamiento-
+mundo, que emite una tirada de dados” (90), esto es: un pensamiento que se abre al azar, a lo 
+aleatorio, a lo des-centrado, en un mundo que ha perdido todos los principios y que asiste al 
+derrumbe de la Razón humana.
+79
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Stéphane Mallarmé: experiencia pura y poesía: 69-82
+por esta “noción pura” (es decir, original), creada gracias a la imaginación del 
+verso, que da sentido a aquella conocida fórmula mallarmeana donde se reclama 
+una “obra pura que implica la desaparición elocutoria del poeta quien cede la 
+iniciativa a las palabras, por el golpe de su desigualdad movilizada” (2: 211). 
+Portando la marca del oxímoron, el verso hace su entrada en la noche solar del 
+grillo –en el canto único del grillo en el que la tierra ya no está escindida entre 
+espíritu y materia, ni el hombre dividido entre la tierra y el cielo17.
+Este deseo de acabar con el antagonismo suscita la adscripción a una poesía 
+que ya no trabaja de un lado o del otro (exaltando lo inteligible y despreciando 
+la vida, o acallando el misterio), sino que se comprende como interregno de 
+aquella continuidad de la que surge, entre el hombre y la naturaleza, arrastrando 
+la heterogeneidad de lo que la determina y la conforma, haciendo emerger, de 
+los fondos de esa desigualdad movilizada, el contacto entre palabra pensante y 
+palabra poética. De esa manera, se gana una imagen poética que no actúa como 
+metáfora o como fantasma sino que responde a un modo de existencia del pen-
+samiento (en el contacto del lenguaje con la voz y con su afasia).
+En este sentido, la restitución al lenguaje de una plenitud original, que se 
+da como misión la poesía pura, se conecta directamente con una experiencia 
+desnuda comprendida en el sentido de una captación anterior al lenguaje, más 
+inmediata u original, que compromete un tipo de conocimiento que no pasa 
+únicamente por la lógica o la razón, sino que se relaciona directamente con la 
+realidad a través del misterio, de lo indómito, o de lo que desborda toda con-
+ceptualización.
+En el marco de un clima antiintelectualista que inaugura la filosofía del siglo 
+XX, William James forja el concepto de una “experiencia pura” para referir a 
+una experiencia pre-conceptual y no-subjetiva, que define de manera negativa 
+en el sentido de un “eso” (that) que no es todavía un “qué” (what) (James 46). 
+Henri Bergson –cuya relación con James es bien conocida– se interesa por esa 
+definición desde el punto de vista de una realidad que no aparece “como finita ni 
+como infinita, sino simplemente como indefinida” (241)18. Se trata para Bergson 
+de invertir la manera habitual –analítica– de conceptualizar y organizar nuestra 
+experiencia para recobrar, como mostró Madelrieux, “la intuición de la duración 
+pura de suerte de poder vivir y pensar la realidad en ella misma en términos de 
+duración y no ya de espacio” (118).
+En el seno de las llamadas filosofías vitalistas, como respuesta al enfrenta-
+miento entre idealismo y materialismo, tanto la duración pura de Bergson como 
+el Erlebnis de Dilthey corresponden a la aspiración de captar la experiencia no en 
+17	 Nos referimos aquí a ese grillo que Mallarmé definía en su correspondencia como una “voz 
+sagrada de la tierra ingenua, menos descompuesta que la del pájaro […]. Toda la felicidad que 
+tiene la tierra por no estar descompuesta en materia y en espíritu estaba en ese sonido único del 
+grillo!” (1: 721. El subrayado es de Mallarmé).
+18	 Para una aproximación a estos programas filosóficos véase Madelrieux (Bergson et James, cents 
+ans après).
+80
+Violeta Percia | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+su carácter sustancial sino puramente cualitativo de la conciencia tal como se re-
+vela a la experiencia inmediata19. En un sentido general, pragmatismo y bergso-
+nismo buscaban dar respuestas al alto grado de normativización de la experiencia 
+que la psicofisiología decimonónica había operado, dividiéndola y regulándola; 
+al escindirla en un proceso fisiológico y un hecho de conciencia (imposible de 
+captar y trascendente a las fuerzas en juego), la ciencia moderna radicalizaba la 
+fractura entre mundo interior y mundo exterior. Vinculada a la caracterización 
+jamesiana de la experiencia pura, en Francia se inicia una tradición que busca 
+mostrar una clase de experiencia emancipada de las categorías kantianas. De ese 
+modo, los rasgos de una experiencia pura por oposición a los de una captación 
+ordinaria, se delimitan con relación a nuevas categorías como creatividad, nove-
+dad, cambio, multiplicidad, duración, acontecimiento (Madelrieux 117).
+Existe un saber en el corazón mismo de la forma poética –de su lengua y de 
+su pensamiento– que es vinculante con esa experiencia pura que definen Berg-
+son y James. Las reflexiones de Mallarmé, como muchas de las aspiraciones de 
+la poesía moderna, dejan ver esta proximidad. En resumen, la experiencia como 
+conciencia inmediata se avecina al pensamiento poético (con sus silencios, sus 
+espaciamientos, ausencias, gestos vacantes, opacidad o iluminación) en tanto 
+se trata de un tipo de expresión que se compromete con una percepción pu-
+ramente cualitativa, pre-lingüística y a-subjetiva, ligada a esa intuición mística 
+y extática que reclamaban los poetas franceses hacia finales del siglo XIX, para 
+recuperar allí la potencia de figuración del lenguaje, la potencia de la poesía en 
+el contacto con el mundo y su capacidad de tender otros puentes entre utilidad 
+y abstracción.
+Referencias bibliográficas
+Adorno, Theodor. Notas sobre literatura. Obra Completa, volumen 11, editado 
+por R. Tiedemann, traducido por A. Brotons Muñoz. Madrid, Akal, 2003.
+Agamben, Giorgio. Estancias. La palabra y el fantasma en la cultura occidental, 
+traducido por T. Segovia. Valencia, Pre-Textos, 1995.
+___. Infancia e historia, traducido por Silvio Mattoni. Buenos Aires, Adriana 
+Hidalgo, 2004.
+Avaraki, Anna. “Le sens esthétique de la pureté dans la poésie moderne et son 
+rapport avec les arts. Esquisse d’une méthodologie comparatiste”. CIELAM 
+3, 2012. Edición en línea. 8 de febrero de 2017.
+19	 Giorgio Agamben ha observado que “Toda la ‘filosofía de la vida’, así como gran parte de la 
+cultura en las postrimerías del siglo, incluida la poesía, aspiran a capturar esa experiencia vivida 
+tal cual se le revela a la introspección en su inmediatez preconceptual” (Infancia e historia 45).
+81
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Stéphane Mallarmé: experiencia pura y poesía: 69-82
+Bataille, Georges. L’expérience intérieure. París, Gallimard, 1978.
+Baudelaire, Charles. Écrits sur la littérature. París, Livre de Poche, 2005.
+Bergson, Henri. “Sur le pragmatisme de William James”. La pensée et le mouve-
+ment. París, Presses Universitaires de France, 1938, pp. 239-251.
+Bertrand, Jean-Pierre y Pascal Durand. Les poètes de la modernité. De Baudelaire 
+à Apollinaire. París, Seuil, 2006.
+Blanchot, Maurice, Le Livre à venir. Gallimard, París, 1959.
+Bobillot, Jean-Pierre. “Recomposition(s) du champs poètique à la fin du XIXe 
+siècle”. Les Dates et les Œuvres. Symbolisme et poèsie scientifique, editado por 
+René Ghil. Grenoble, Ellug, 2014, pp. 379-395.
+Combe, Dominique. Poésie et récit, une rhétorique des genres. París, Corti, 1989.
+Deleuze, Gilles. El pliegue. Leibniz y el Barroco, traducido por J. Vázquez. Bue-
+nos Aires, Paidós, 2005.
+Foucault, Michel. “Le Mallarmé de J.P
+. Richard”. Annales (Économies, Sociétés, 
+Civilisations), núm. 5, 1964, pp. 996-1004.
+Genette, Gérard. Codicille. París, Éditions du Seuil, 2009. 
+Ghil, René. Les Dates et les Œuvres. Symbolisme et poèsie scientifique, editado por 
+J-P
+. Bobillot. Grenoble, Ellug, 2014.
+Illouz, Jean-Nicolas. Le Symbolisme. París, Livre de poche, 2014.
+James, Williams. Essays in Radical Empiricism. Londres, Harvard University 
+Press, 1976.
+Lacoue-Labarthe, Philippe. Musica ficta (Figures de Wagner). París, Cristian 
+Bourgois, 1991.
+Madelrieux, Stéphane. “À quoi bon l’expérience pure?”. Philosophical Enquiries: 
+revue des philosophies anglophones, núm. 6, 2016. Edición en línea. 26 de 
+enero de 2017.
+___. Bergson et James, cents ans après. París, Presses Universitaires de France, 
+2011.
+Mallarmé, Stéphane. Œuvres Complètes. Bibliothèque de la Pléiade, tomo 1 y 2, 
+editados por B. Marchal. Paris, Gallimard, 1998 y 2005.
+Marchal, Bertrand. Lire le Symbolisme. París, Dunod, 1993.
+Merleau-Ponty, Maurice. Titres et travaux - Projet d’enseignement. París, Centre 
+de Documentation Universitaire, 1951.
+Nietzsche, Friedrich. Sobre la utilidad y otros prejuicios de la historia para la vida, 
+traducido por S. Gervós. Madrid, Trotta, 2002.
+Percia, Violeta. “La crítica de Mallarmé al proyecto wagneriano. Dos tentativas 
+de una ‘religión del arte’”. Revolución y literatura del siglo XIX: teatralidad, 
+82
+Violeta Percia | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+secularización, lenguaje nuevo, editado por Cristófalo y Díaz Bernini. Buenos 
+Aires, Editorial de la Facultad de Filosofía y Letras de la Universidad de Bue-
+nos Aires [en prensa].
+Simondon, Gilbert. El modo de existencia de los objetos técnicos, traducido por F. 
+Costa. Buenos Aires, Cactus, 2007.
+Valéry, Paul. “Avant-Propos”.Connaissance de la Déesse, Lucien Fabre. París, So-
+ciété de Littéraire de France, 1920, pp. vii-xxx.
+___. Existence du symbolisme. Œuvres, Bibliothèque de la Pléiade, tomo 1, edita-
+do por J. Hytier. París, Gallimard, 1957.
+Wyzewa, Teodore. “L’Art Wagnérien. Ébauche d’une esthétique idéaliste”. Nos 
+maîtres. Études et portraits littéraires. París, Perrin et C., Libraires-éditeurs, 
+1895, pp. 1-87.
+Fecha de recepción: 04/03/2017 / Fecha de aceptación: 20/02/2018

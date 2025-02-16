@@ -1,0 +1,818 @@
+DOSSIER
+   187
+CILHA - a. 8 n. 9 - 2007 - Mendoza (Argentina) ISSN 1515-6125
+El ensayo político anarquista en Argentina.
+Historia, política y literatura en Los nuevos
+caminos de Alberto Ghiraldo
+Marcos Olalla
+Universidad Nacional de Cuyo
+marcosolalla@hotmail.com
+Argentina
+Resumen: Nos proponemos indagar en este artículo la concepción de lo político en la
+obra Los nuevos caminos (1904) del escritor anarquista argentino Alberto Ghiraldo.
+Analizamos en ella las consecuencias teóricas de la valoración anarquista de lo político
+como encubrimiento simbólico de de las relaciones materiales de dominio.
+Palabras claves: Ghiraldo, literatura anarquista, ensayo, política, violencia.
+Title and subtitle: The anarchist political essay in Argentina. History, politics and
+literature in Los nuevos caminos by Alberto Ghiraldo.
+Abstract:  We have tried in this paper to search in to the political conception in Los
+nuevos caminos (1904) by the Argentine anarchist writer Alberto Ghiraldo. We analize
+in it the theoretical consequences of the anarchist insight in which the political practice
+appears as a symbolic concealment of domination in material relationships.
+Key words: Ghiraldo, anarchist literature, essay, politics, violence.
+Recibido: 11-XII-2006     Aceptado: 6-III-2007      Cuadernos del CILHA - a. 8 n. 9 - 2007 (187-203)
+La estabilidad que, en el ámbito de la gobernabilidad, Argentina adquirió a partir de 1880,
+se obtuvo, luego de años de guerras civiles y desorden administrativo, a fuerza del despliegue
+eficaz, por parte de sus elites políticas, de un proyecto de modernización económico e
+institucional de matriz liberal. La solidez de este programa, que pudo plasmar algunas de las
+tendencias ya configuradas en los años previos se construyó, no obstante, sobre el fondo
+de la consolidación de la expansión económica y la conquista definitiva del dominio territorial
+del país. La disposición de la tierra no era exclusivamente una rehabilitación de la soberanía
+estatal, sino una verdadera ampliación de los recursos de la clase dominante. No extraña
+pues la proveniencia de los gobernantes y políticos de la Argentina en dicho período de
+esta elite social tradicional. El carácter restrictivo del origen social de la clase política fortaleció
+un tipo de vinculo “clientelar” entre las clases populares y sus gobernantes, sostenido
+regularmente por el fraude electoral y la violencia, fenómenos asumidos como inescindibles
+del proceso constitucional. En tal contexto se comprendía el escepticismo de los grupos
+subalternos respecto de las prácticas electorales. “A estos sectores (…) les quedaba la
+posibilidad de actuar como grupos de presión, principalmente en los terrenos políticos y
+gremiales, articulando intereses sectoriales e incorporándolos a la sociedad” (Oved, 1981:
+25). Las organizaciones obreras que se desarrollaron sobre este fondo constituyeron la vía
+de manifestación de las demandas de tales grupos, en virtud de lo cual adquirieron una
+significativa visibilidad a fines del siglo XIX y principios del XX.
+DOSSIER
+188
+Marcos Olalla.  El ensayo político anarquista...
+La consolidación del crecimiento económico, sostenido sobre la base de la expansión agrícola
+que este régimen político oligárquico desarrolló, impulsó también al sector industrial. Este
+desarrollo profundizó la tendencia a la concentración de la población en la zona del litoral y
+con ello consumó una creciente urbanización. Estos cambios en el campo de las actividades
+económicas modificaron la estructura ocupacional de la Argentina en dirección de un
+aumento de la gravitación de los ocupados en los sectores secundario y terciario de la
+producción, fenómeno que contribuyó a ampliar la base de los estratos medios y a profundizar
+la complejidad de la vida económica argentina por la incorporación de nuevos actores en el
+campo económico (Cortés Conde y Gallo, 1968: 82-83). Por su parte la masiva inmigración
+que recibió la Argentina entre 1870 y 1914 amplificó el fenómeno de la concentración en
+los centros urbanos y confluyó con los factores antedichos en la configuración de la llamada
+“cuestión social” (Suriano, 2000b: 3). El arribo de los inmigrantes provocó modificaciones
+en la estructura social y demográfica argentina en virtud de la capacidad que demostraron
+éstos para adaptarse a la movilidad social inherente a esta etapa del proceso de
+modernización. Aunque de origen campesino, en su mayoría, se incorporaron al ámbito de
+las actividades industriales y las artes manuales. En tal sentido el papel de la inmigración fue
+decisivo en la formación de la clase obrera argentina1. El anarquismo constituyó una de las
+corrientes ideológicas del período que expresó de modo más eficaz las demandas de los
+sectores obreros2.
+El discurso anarquista argentino de fines del siglo XIX y principios del XX articuló los tres
+frentes desde los cuales la estructura institucional de matriz liberal resultó impugnada, a
+juicio de E. Zimmermann (1995: 13). En efecto, a la crítica idealista de las vinculaciones
+entre liberalismo y positivismo, como a la recusación del sistema político por parte de los
+sectores excluidos de las prácticas electorales y a la demanda de soluciones institucionales
+de la “cuestión social” —fenómeno al que la praxis anarquista resultaba adscripta—3, el
+anarquismo sintetizó con distintos grados de explicitación.
+1 “En este contexto se desenvuelve la condición obrera. Hasta 1886 puede afirmarse que los salarios
+aumentan incesantemente. Pero a partir de esa fecha, luego de la llegada de una enorme masa de
+inmigrantes, el aumento de la oferta de mano de obra favorece la situación de los patrones, que
+pueden imponer salarios y condiciones de trabajos más desfavorables, con una jornada de trabajo que
+oscila en las diez horas diarias. El descanso dominical sólo rige en la Capital Federal. En consecuencia,
+la conformación de la clase obrera, junto a la ruptura de las expectativas de progreso económico en la
+masa migratoria constituyen las premisas objetivas para el surgimiento del movimiento obrero” (Godio,
+2000: 71).
+2 Iaacov Oved ha analizado de modo muy exhaustivo la interrelación entre la conformación de la clase
+obrera argentina y el surgimiento de las organizaciones anarquistas en su excelente estudio El anarquismo
+y el movimiento obrero en la Argentina (1981).
+3 “La alta concentración urbana promovió una serie de problemas comunes a las grandes ciudades del
+mundo occidental: por una parte, la urgencia en solucionar las necesidades básicas de los inmigrantes
+en materia de vivienda y salud; por otra, los aumentos registrados en las estadísticas oficiales en áreas
+de ‘alta sensibilidad’ como la criminalidad, la prostitución, la mendicidad y el alcoholismo, agregaron una
+dimensión moral al debate sobre la cuestión social. Por último, el surgimiento de las primeras
+organizaciones obreras y sus campañas reivindicativas, y las amenazas del terrorismo anarquista
+introdujeron un fuerte contenido político-ideológico que se sumaba a los reclamos por una transformación
+DOSSIER
+   189
+CILHA - a. 8 n. 9 - 2007 - Mendoza (Argentina) ISSN 1515-6125
+En principio debemos reconocer que el mapa ideológico en el que se halla la producción
+anarquista argentina y latinoamericana se configuró al interior de los límites fijados por las
+contradicciones inherentes al desarrollo del proceso de modernización. Si la belle epoque
+de 1900 revelaba un rostro culturalmente fascinante en función de la aceleración del ritmo
+de creación y apropiación de estéticas diversas (Rama, 1985: 35), también escondía una
+fachada sombría representada por “los de abajo”, cuyas demandas comenzaban a ser
+captadas por los anarquistas. Este escenario de una dramática tensión entre la oligarquía,
+que ya vislumbraba sus límites pero aún administraba los resortes institucionales del país y
+su efectivo repliegue, previsiblemente, promovieron la conformación de un estado que, al
+reafirmar su herencia positivista, se constituyó como un “Estado darwinista” (Viñas, 2004:
+16-17). El fundamento darwinista del estado da cuenta del avance de los grupos sociales
+subalternos tanto como de su carácter de amenaza política e inquietud sanitaria (Capelletti,
+1990: XXV; Terán, 1986: 23). “Portan con ellos no sólo la revolución, sino también la
+enfermedad” (Viñas, 2004: 20). La representación de este modo configurada por las élites
+explica la intensidad de la represión sufrida por los militantes y organizaciones anarquistas,
+así como también el registro en el que se inscribió su reacción, deudora de una concepción
+retórica que atribuía una significatividad política definitiva a la enunciación en clave
+maximalista4. Pero la polarización no se registraba exclusivamente en torno de los ámbitos
+de emisión de los discursos, sino en términos de la heterogeneidad de los auditorios,
+comprendida como efecto de la creciente complejización de la estructura social operada
+por la modernización de fines del siglo XIX y principios del XX. En cada caso la dualidad se
+hallaba construida sobre el mismo eje, es decir, el conflicto tal y cómo se configuraba en el
+espacio capitalista.
+Entre los campos en los que se desarrolló dicho conflicto se encontraba el de la opinión
+pública. Para esta época la conciencia de la relevancia que poseía la intervención política en
+el ámbito de la formación de la esfera pública era objeto de un consenso unánime de parte
+de las diversas fuerzas políticas. La ampliación de la esfera pública operada por factores
+ajenos a la circulación sin más de las ideas en la escena de la polis estableció definitivamente
+un estatus político fundamental a la prensa5. La literatura anarquista poseía este sesgo
+del sistema político argentino que habían cobrado fuerza desde la Revolución del Noventa y el surgimiento
+de una oposición articulada en la Unión Cívica Radical y otras fuerzas desgajadas del oficialismo”
+(Zimmermann, 1995: 12-13).
+4 “Desde la perspectiva libertaria (…) la réplica a las denuncias provenientes de los bulevares a lo
+Haussman y a su ferocidad represiva, organiza un estilo que si requiere de la resonancia de la calle o de
+los teatros populares y la altura de la mesa de un sindicato o de un banco de plaza, al mismo tiempo
+solicita ‘el vozarrón’ de un tribuno y la serie de sus efectos oratorios. Estrategias que van desde las
+exhortaciones a las profecías y las ‘blasfemias iracundas’ a través de imperativos, interjecciones,
+superlativos y la gama más exasperada que apunta a producir finales acumulativos: condenas, desquites,
+cierrez de inmediatez ejecutiva, indignación o, eventualmente, llanto” (Viñas, 2004: 19).
+5 “Un mecanismo ampliamente utilizado para generar una opinión pública favorable, ya desde décadas
+anteriores, fue la prensa. Los notables habían hecho de la prensa una forma de intervención pública
+privilegiada y sus diarios dependían del partido o de la facción que lo sostenía (…) El diario les permitía
+unificar opiniones y construir imágenes homogéneas sobre la sociedad, los hombres y la política, definir
+amigos y enemigos, intercambiar ideas, ejercitarse en el oficio de escribir (…) Pero los diarios, que eran
+una herramienta del gobierno, tenían que luchar con otros periódicos políticos y con las empresas
+DOSSIER
+190
+Marcos Olalla.  El ensayo político anarquista...
+propagador de ideas que la ligaba fuertemente a la producción de textos destinados a ser
+publicados en alguno de los periódicos, semanarios, revistas mensuales o folletos que en
+gran cantidad hizo circular esta corriente ideológica y que, por lo mismo, tendía a expresarse
+bajo la forma de ensayos de interpretación de la realidad social, económica, política y
+cultural de su tiempo.
+El lenguaje anarquista
+La percepción de una relación entendida como isomórfica entre lenguaje y realidad, así
+como de la representación especular por parte del lenguaje literario respecto de las ideas
+que expresan un orden de cosas fenoménico (Zabala, 1995: 413) indujo a los anarquistas
+a otorgarle al discurso literario el carácter de “espejo de la sociedad”. La enunciación en
+este registro discursivo de una interpretación des-alienada de la realidad funcionaba como
+una manifestación de la negatividad que permitía deconstruir la trama valorativa del discurso
+dominante, de sus imágenes y de su “falsa unidad”. Como bien ha señalado la crítica
+puertorriqueña la pretensión de aquella concepción del lenguaje en la literatura anarquista,
+que en cierta medida anticipaba la discusión acerca del estatuto emancipatorio del realismo
+o la vanguardia, poseía una manifestación eminentemente pragmática. Es decir, sin haber
+reconocido todavía el carácter que el lenguaje tiene como mediación en lo real, se le
+percibía como un modo de praxis, en este caso, como un modo de inversión axiológica del
+discurso dominante con evidente sentido performativo6. S. Salaün, apoyándose en las
+categorías de análisis de P. Bourdieu sobre la “economía de los intercambios lingüísticos”
+(1985), llega a una conclusión cercana a la de Zavala aunque originada en un punto de
+partida diverso. Para Salaün lo relevante en la concepción del “signo” de los anarquistas era
+la motivación. De modo que lo natural no era la relación entre el sistema del lenguaje y la
+realidad, sino entre el “acto de lenguaje y el mundo de las cosas” (1995: 331). El criterio
+de verdad le venía dado al enunciado desde una fuente extralingüística como la finalidad
+ético-política de su uso. Con ello la deconstrucción de la transparencia del significado se
+diluía en otra forma de transparencia: la de la relación entre praxis y discurso fundada en la
+postulación de un orden ético político de validez universal en cuyo caso el potencial
+periodísticas que ya buscaban alejarse de los grupos facciosos para entrar en el negocio de las noticias
+y formar, al mismo tiempo, una opinión pública que imaginaban independiente. De manera paralela a la
+constitución de una prensa oficial se crearon otros órganos de opinión por parte de sociedades mutuales
+y obreras, por nuevas fuerzas políticas y asociaciones étnico-nacionales, así como por empresas que
+descubrían las posibilidades asociadas a la información. Si el diarismo de la élite fue clave para incidir en
+la opinión pública sana diseminando una idea de nación, de autoridad, de gobierno y de acción política,
+hacia el fin del siglo las competencias prácticas y discursivas se ampliaron hasta incorporar contrapúblicos
+cuestionadores del orden que se pretendía mantener” (Lobato, 2000: 204-205).
+6 “Un arte especular que librase al público y al lector del miedo, del rigor de la tradición asfixiante,
+invitando a sus receptores a imaginarse solidarios con los valores invertidos (…) Todo ello logrado a
+través del uso constructivo, choques, y destrucciones entre actos performativos y actos constativos,
+en la dimensión pragmática del discurso. Un arte, en definitiva, que operase como una especie de
+acelerador histórico, y que representase la lucha de clases. Un arte ‘bello y armónico’, invitación a salir
+de la impotencia, y a estremecerse en un choque creador y subvertir el poder y el orden y desafiar las
+jerarquías. En definitiva: fecundar el discurso de los engañados y liberar los nuevos pactos. Un arte que
+reterritorialice los discursos de las minorías y sus proyectos colectivos” (Zabala, 1995: 420).
+DOSSIER
+   191
+CILHA - a. 8 n. 9 - 2007 - Mendoza (Argentina) ISSN 1515-6125
+revolucionario de la concepción anarquista del significado tendía a licuarse7. Aunque sin
+disminuir la simpatía que sienten por la literatura anarquista J. Andreu, M. Fraysse y E.
+Golluscio de Montoya señalaban como una de las contradicciones más significativas de la
+literatura de esta corriente ideológica la coexistencia de una concepción revolucionaria del
+mundo y una evidente incapacidad para la innovación formal, es decir, el “defasaje
+impresionante entre el contenido radicalmente subversivo de los textos y la forma
+convencional que les es dada y que adhiere, en sus grandes líneas, a la retórica tradicional
+del arte burgués contemporáneo” (1990: 13).
+Evidentemente el registro en el que operaba la enunciación anarquista no poseía una
+referencia estética, sino ideológica (Litvak, 1988: 76-77). Esta misma impronta que liga la
+producción literaria anarquista de fines del siglo XIX y principios del XX a toda una generación
+de escritores que reivindicaba a la “Idea” como objeto estético, pero también político
+(Moretic, 1986), al mismo tiempo, la distingue de ella en términos de cierta reducción
+programática de lo literario en lo político. En tal sentido nos proponemos indagar aquí el
+significado de lo político en la obra ensayística del escritor anarquista argentino Alberto
+Ghiraldo.
+El significado de lo político
+Aunque es un tópico recurrente en la caracterización de la literatura anarquista es necesario
+señalar la dificultad que entraña la distinción de los géneros en los cuales se inscribe la
+promoción literaria de las ideas anarquistas8. Con todo, en función del componente
+doctrinario que expresa y del registro en el que lo hace, —es decir, como discusión acerca
+de las más significativas ideas fuerza de esta corriente ideológica en términos de una
+coherencia que se juega al interior del propio discurso y no en la narración de hechos—,
+consideramos a la obra Los nuevos caminos (1904) como la más significativa producción
+ensayística de Ghiraldo, aun cuando este registro está presente en sus crónicas, su poesía
+y obra dramática como un recurso inescindible de su continua referencia teórica9. Aquella
+7 Lo que en principio asoma como una “intuición revolucionaria” se convierte en una concepción
+mistificadora del lenguaje. “De ahí la afición de los anarquistas a un lenguaje preformativo (que hace lo
+que dice, por ejemplo con los imperativos), es decir
+, físico y activo; de ahí también la afición a un
+lenguaje ético sobrecargado, sobresignificado (el énfasis y la gesticulación ya mencionados). Unas
+palabras como Razón, Justicia, Verdad, Ideal (…), que cimentan su doctrina, cobran su aureola porque
+son precisamente ‘descriptivas y prescriptivas’ en un mismo momento. Complementariamente, los
+anarquistas creen en los absolutos, en los universales (morales —el Bien y el Mal— sensibles y lingüísticos:
+sus proyectos de lenguas universales pertenecen al mismo sistema utópico fundado —pero no lo ven—
+en la tradición religiosa y burguesa más rancia)” (Salaün, 1995: 331-332).
+8 “Resulta casi imposible delimitar con exactitud los géneros a que pertenece tal o cual obra, así como
+hacer una delimitación del contenido; es decir, dónde termina la obra ideológica y empieza la narración
+o el lirismo, dónde acaba la propaganda y comienza la obra de arte. Las fronteras se pierden al plantear
+estos temas, ya que los anarquistas formularon sus obras y sus teorías estéticas como instrumentos de
+la revolución social” (Litvak, 1981: XV).
+9 En la definición misma del concepto “literatura anarquista” se halla el componente retórico del discurso
+literario anarquista. “En líneas generales podríamos definirla [a la literatura anarquista] como aquella
+literatura que toma como base argumental algunos elementos que constituyen el fundamento teórico
+DOSSIER
+192
+Marcos Olalla.  El ensayo político anarquista...
+obra reúne discursos, conferencias y publicaciones aparecidas en la prensa, la mayoría de
+las cuales poseen el carácter de ensayos. Constituye, como lo afirma el más importante de
+sus biógrafos, uno de sus libros más difundidos (Cordero, 1962: 163). Es probable que la
+radicalidad de su pensamiento y su sentido programático hayan contribuido al desarrollo de
+una reflexión escamoteada no pocas veces por la “urgencia revolucionaria” anarquista
+(Suriano, 2001: 81-82). Y es que si el sentido de la urgencia era explícitamente asumido
+cuando se tematizaba el estatuto estético de la literatura anarquista en cuyo caso la
+urgencia caracterizaba no tanto a la militancia, sino a la poética (Andreu, Fraysse y  Golluscio
+de Montoya, 1990: 10-13), en la práctica alcanzaba a la reflexión política misma de cuya
+poética era objeto.
+Es significativa la operación sobre la que se halla montada la incorporación de lo político al
+discurso libertario. Si Ghiraldo en uno de sus ensayos más celebrados de esta obra reclamaba
+“el arte por la idea” (Ghiraldo, 1904: 143) lo hacía para reivindicar una forma de
+performatividad que deliberadamente rehuía la caracterización de política para determinar
+un orden de cosas anterior al sistema de las relaciones de dominación. Aun cuando la
+acción política era promovida por el anarquismo, el sentido genérico de lo político poseía un
+carácter negativo. La postulación de un fundamento extrapolítico para su propia praxis
+configuraba una concepción ambigua del poder, al que deseaba conquistar pero sólo para
+subordinar el orden de las relaciones humanas al despliegue efectivo del principio de igualdad,
+patrimonio de la naturaleza y de sus eventuales formas de cognición científica. La tensión,
+establecida entre el carácter natural del orden que el anarquismo reivindicaba y el histórico
+de su representación, daba lugar a una crítica de lo vigente que tenía como punto de
+partida un “sentimiento instintivo de rebelión” (10). La posibilidad de una militancia que se
+afirmaba como un modo de la rebeldía se sustentaba pues en la identidad postulada entre
+un fundamento natural, —que explicaba aquel sentimiento— y su reflejo ideológico, en
+cuyo espacio el escritor introducía el significado de la acción política como una manifestación
+histórica de un orden que habría de imponerse, aunque no exclusivamente con el concurso
+de su racionalidad.
+¿Qué pensarán de nosotros, digo, de ellos —descarguemos nuestra responsabilidad los
+rebeldes—, al saber que por proclamar una grande idea, la más grande que haya abrigado la
+mente humana en todas las épocas de la historia, los hombres eran arrojados de los talleres por
+los patronos, encarcelados por los policías, ametrallados por los ejércitos y ahorcados por los
+jueces? (…) ¡Y estos héroes, estos mártires, estos sacrificados, son los que salvan el honor
+humano! ¡Germinal! Sí, son los violentos, los arrojados, los que se sublevan, los que se yerguen,
+quienes empujan a las ideas, quienes despiertan a los esclavos, quienes luchan por la redención
+que un día a través de tanta sombra brillará en el mundo (13).
+Lo que había comenzado como un sentimiento se expresaba ahora como promoción de
+una idea, hecho posible por la identidad entre ambos órdenes, uno de los cuales, el de las
+representaciones, necesitaba consumarse en el terreno azaroso de la historia por fuerza
+de la acción concreta de aquellos sujetos que comparten “el espíritu de la rebelión”. Este
+del anarquismo: rechazo de la autoridad y de toda opresión de un individuo o grupo de individuos sobre
+otros, lo cual implica rechazo del Estado y de sus instituciones fundamentadas en la jerarquía (ejército,
+salariado, etc.)” (Madrid, 2004: 2).
+DOSSIER
+   193
+CILHA - a. 8 n. 9 - 2007 - Mendoza (Argentina) ISSN 1515-6125
+esquema tripartito formado por los componentes natural, simbólico e histórico no se resolvía
+siempre de modo coherente, sino en términos estrictamente coyunturales. Esto mismo
+otorgaba al discurso anarquista una elasticidad teórica que permitía articular diversidad de
+demandas y modos de enunciación de las mismas. “Idea” era, sin más necesidad de
+argumentación, un atributo de la historicidad que inexorablemente mostraba, aun en las
+“sombras”, el curso progresista de su desarrollo. Si Ghiraldo juzgaba innecesario avanzar en
+precisiones en torno de dicho concepto es porque se hacía cargo de un consenso
+generacional cuyo objeto era una autoimagen que se definía por su referencia a aquella
+historicidad, como un modo auténtico de expresar lo que en el presente latía como futuro,
+la modernidad, el modernismo. La genealogía de rebeldes que el escritor trazó —que va de
+Krishna y Confucio, pasando por Jesús, a los reformadores Hus, Lutero y Calvino, de Sócrates
+a Galileo, de Cervantes a Zola y de Kant a Kropotkine—, ponía de manifiesto su interés de
+dotar al registro histórico de su esquema teórico de una memoria capaz de identificar los
+espacios de ruptura del orden vigente e incorporar tales espacios a un desarrollo que
+presumía coherente en función de un itinerario histórico cuya finalidad era la fusión de
+historia y naturaleza. Son “ideas en marcha hacia la vida” (19). La racionalidad atribuida a tal
+trayectoria no era, sin embargo, una forma de la inevitabilidad puesto que las relaciones de
+dominio constituían un modo de alienación de la igualdad natural. La ausencia de
+reconocimiento de este principio era, por tanto, un obstáculo que debía dirimirse en la
+arena de la acción política aunque la tendencia ghiraldiana y del anarquismo argentino
+fuese considerar lo político en términos de gobernabilidad, tanto como para que su significado
+se intuyese como definitivamente negativo10. La historicidad de la ruptura diluía ciertamente
+el cariz escatológico que la relación entre la “idea” y su efectiva concreción parecían asumir.
+Ghiraldo no quería convertir a la historia de la humanidad en historia de la salvación, sino
+conferir a la praxis política anarquista de un programa que hiciera pie en una concepción de
+la historia que presentase a la instancia revolucionaria como una modalidad de la recuperación
+de la relación entre el hombre y la naturaleza, como “descanso”11, en un gesto que, en
+este sentido, anticipaba la figura de W. Benjamin de las revoluciones obreras como freno al
+desarrollo instrumentalizante de la modernidad (1989).
+La comedia política
+Lo político es en este contexto el escenario de una comedia que revelaba el carácter
+alienado de las relaciones humanas en virtud de la existencia de relaciones de dominio. El
+componente simbólico del esquema teórico ghiraldiano funcionaba como un modo de
+fundamentación de un discurso que  pretendía desligar a su enunciación de aquel universo
+de relaciones. La mistificación del discurso científico constituía un índice de este esfuerzo
+10 “El anarquismo era fundamentalmente antipolítico y antilegalitario, pero sus prácticas eran en esencia
+políticas en tanto estaban dirigidas a conquistar el poder. Un poder que era anhelado no para ejercerlo
+en el sentido moderno del término sino para destruir al que lo controlaba, esto es, el Estado, e imponer
+un orden diferente” (Suriano, 2001: 272).
+11 “Son los sumisos, los obedientes, los serviles, todos los pobres de espíritu, los que constituyen el
+principal obstáculo que se ha opuesto siempre al avance de la idea. Pero, ¡qué importa! Las minorías
+han sido siempre también las genitoras de todas las revoluciones. Por ellas tiene la humanidad algún
+descanso” (Ghiraldo, 1904: 19).
+DOSSIER
+194
+Marcos Olalla.  El ensayo político anarquista...
+por dotar de límites precisos dicho locus12, y servía de fundamento para la destrucción de
+lo prejuicios que imponía la tradición, uno de los cuales era la existencia de la “patria”. Para
+Ghiraldo, “ha llegado (…) el momento de examinar a la luz de la verdad y de la ciencia esa
+entidad indefinida y nebulosa (…) llamada patria” (Ghiraldo, 1904: 22). La fetichización de
+un criterio de universalidad inherente al concepto de patria disputaba el estatuto universalista
+del discurso científico aunque este registro de la crítica permanecía en cierta medida implícito.
+La superficie de la argumentación ghiraldiana se enfocaba no en aquello que la patria
+homogeneizaba, sino en el costo de la distinción sobre el fondo del cual la homogeneidad
+era postulada, poniendo de este modo en cuestión el concepto de humanidad. Afirmaba
+Ghiraldo:
+Para mí esas líneas imaginarias con que han sido divididos los pueblos no existen. Sólo moralmente
+podría fraccionarse la humanidad y para ello habría que colocar a un lado los seres sanos y en
+el otro lado a los enfermos. Lo demás es, y ha sido, cuestión de política, de fuerza, de
+imposición, de conquista, de diplomacia, de astucia o de hipocresía (24).
+En este párrafo concurrían varios de los tópicos de la concepción ghiraldiana de lo político.
+Así, la diferenciación de planos entre la enunciación propia y la del discurso referido se
+llevaba a cabo a partir de la atribución de un sentido imaginario para la noción de patria,
+mientras que la referencia a la validez de su crítica se jugaba al nivel del discurso científico.
+Lo significativo, no obstante, no se hallaba en este trillado recurso discursivo, sino en la
+articulación que propugnaba entre dos registros del propio discurso. Si, por un lado, la
+crítica del objeto imaginario era posible por el desarrollo del componente racional del lenguaje
+científico que rápidamente ponía en juego categorías vinculadas al paradigma dominante
+de la época como “salud-enfermedad”; por otro, la apelación a tales categorías las hacía al
+introducir otro orden de universalidad, ya no epistémica, sino moral. De este modo restituía
+en su discurso un fundamento práctico que poseía la transparencia de un espacio
+incontaminado por la política. El sesgo normalizador asociado a esta concepción de la
+ciencia con la que los propios anarquistas serían examinados (Ciafardo y Espesi, 1992; Geli,
+1992 y Zimmermann, 1995), ponía de manifiesto ciertas tensiones entre la militancia libertaria
+y la estructura categorial de los discursos que la fundamentaban. Era sintomática, en tal
+sentido, la focalización que el escritor ácrata hacía de la relación entre el pensamiento y la
+acción, la identidad de cuyos términos resultaba nuevamente asegurada por la certeza
+empíricamente obtenida del conocimiento.
+Pero ¡no haya miedo! que la falange de los sin-patria aumenta incesantemente gracias a
+que no han sido hechas las mordazas para los que con Guyau afirmamos que quien no obra
+12 En este aspecto la evaluación del rol de la ciencia en su concepción de lo político resulta tan vital como
+a la mayoría de los anarquistas argentinos. “La visión libertaria de la política no puede ser desligada del
+componente racional: para ellos la fe en la ciencia y la razón reemplazaba la fe revelada y metafísica de
+la religión, proporcionando el basamento adecuado para las transformaciones sociales que llevaría a la
+humanidad a organizarse científicamente, eliminando la autoridad en el plano político. La organización
+de la sociedad sobre bases científicas, al hallarse subordinada a la razón, debía alcanzar también la
+armonía y la justicia imperantes en la naturaleza. En estas  circunstancias la explotación del hombre por
+el hombre dejaría lugar a la administración científica de las cosas y la liberación del individuo” (Suriano,
+2001: 272).
+DOSSIER
+   195
+CILHA - a. 8 n. 9 - 2007 - Mendoza (Argentina) ISSN 1515-6125
+como piensa no piensa completamente. Así pensamos, así obramos los que tenemos el
+coraje de nuestras convicciones, fruto exclusivo del estudio y la experiencia (Ghiraldo,
+1904: 26-27).
+La identidad de acción y pensamiento, fundada en el “estudio y la experiencia”, garantizaba
+la pervivencia del aporte revolucionario de los anarquistas puesto que este ofrecía el espacio
+propicio para la condensación de aquellos registros en los que giraba la argumentación de
+Ghiraldo. La historicidad de la rebelión, la verdad científica y la adecuación de tiempo y
+espacio a un orden que la naturaleza ha fijado para la vida concurrían en la necesidad de
+poner en cuestión “todas las esclavitudes políticas y sociales”13.
+La autoridad emanada del Estado constituía una violación de la naturaleza de la sociedad
+(Suriano, 2001: 272). Ghiraldo lo describía como “el engranaje de farsas y mentiras”
+construido para administrar eficazmente la explotación “de las minorías armadas y parásitas
+sobre las multitudes productoras” (Ghiraldo, 1904: 46). Además de la existencia del gobierno
+como un dato de definitiva cuestionabilidad lo significativo es la recuperación del tópico del
+parasitismo en el que se inscribía el análisis de la explotación como un fenómeno moral. No
+extraña, por tanto, la persistencia de la tensión configurada por una cierta dualidad discursiva.
+Así, en la caracterización del gobierno estatal en términos de un conjunto de “farsas y
+mentiras”, y en el apelativo de esta organización como “estúpidamente egoísta” se revelaba
+la coexistencia de los registros moral y cognitivo.
+El Estado era, para Ghiraldo, la instancia que fetichizaba a nivel de los símbolos la universalidad,
+privada por las relaciones de autoridad en el dominio de lo real. En el contexto de estas
+últimas la referencia a la unidad de los diversos agentes del proceso de producción era una
+forma de vaciar de sentido la impronta disidente de la praxis obrera. Esta posición que
+cuestionaba la incorporación de la simbólica de la lucha obrera como el festejo del 1 de
+mayo al ámbito de la institucionalidad estatal, tanto como los intentos de desarrollar una
+legislación del trabajo, así como las estrategias parlamentaristas de otras corrientes ligadas
+a las demandas obreras como el socialismo, reclamaba la recuperación de la “acción directa”
+como una forma de práctica social transparente, independiente de intereses políticos
+concebidos como estrategias de dominio. Señalaba Ghiraldo en alusión a los festejos del
+día del trabajador:
+Hay que decirlo a gritos: se está desnaturalizando el verdadero significado de esta fecha; y hay
+que repetirlo, sin fatigarse, porque es necesario deshacer entre nosotros, y antes de que tome
+cuerpo, la superchería propalada (…) por los eternos Rabagass del politiquerismo, aliados a
+sueldo del capital, acerca de un acontecimiento que en los fastos sociales representa la
+continuación del drama eterno, en que intervienen, como personajes principales, los Sócrates,
+los Cristos y los Galileos, que en todas las épocas, para esperanza nuestra y gloria de sus
+generaciones, han hecho flamear victoriosa en medio del sacrificio la enseña roja de la rebelión
+(Ghiraldo, 1904: 101).
+13 “Y como la rebelión es la luz; y como la luz es la verdad; y como la verdad es la vida; y como la vida no
+puede expandirse en un ambiente donde primen la paciencia, la resignación, la sumisión, he aquí por
+qué es necesario proclamar alto, muy alto, que mientras existan opresores y oprimidos no habrá sino
+una cosa verdaderamente noble en el mundo: luchar por la destrucción de todas las esclavitudes
+políticas y sociales; pero sin disciplinar a nadie, sin formar ejércitos distribuyendo grados y jerarquías,
+que eso es echar bases, preparar elementos para tiranías futuras” (30).
+DOSSIER
+196
+Marcos Olalla.  El ensayo político anarquista...
+Si en efecto la conmemoración de un hecho que se inscribe en el orden del martirio tendía
+a perder la intensidad de su dramatismo, la generosidad de su sacrificio, se comprendía,
+para el escritor libertario, la relevancia de la impostura. Aunque no era necesaria la explicitación
+pues la continuidad de esta forma de invectiva lo tornaba algo redundante, es un hecho el
+que Ghiraldo se hallaba compelido a la recuperación del índice dramático, puesto en crisis
+por el orden de lo político, haciendo confluir como sustrato no ideológico de su discurso a
+las diversas fuentes del saber: filosófico, religioso y científico, representadas por las figuras
+de Sócrates, Cristo y Galileo. La validez de la denuncia de las diferentes formas de la
+alienación política se concebía asegurando un fondo epistémico lo suficientemente ampliado
+como para obtener la benevolencia de un público que revelaba la creciente complejidad
+de la estructura social, al mismo tiempo que por la inscripción de ese saber en el orden de
+la historia en el que la praxis de aquellos a quienes refiere se había dejado orientar por un
+cierto compromiso moral con la verdad mediante el sacrificio, instituyendo así una tradición
+en la que la acción, lejos de definirse en términos meramente estratégicos y por lo mismo
+políticos, recuperaba su sentido ahora fundado en los órdenes del saber, la moralidad y la
+memoria.
+Se trataba entonces de refundar lo político en sentido no instrumental, es decir, desde un
+lugar que, al menos en su origen, no se hallaba atravesado de conflictos. Esta construcción
+conceptual requería del reconocimiento de una instancia universal de validación de la práctica
+política en lo que constituía un desarrollo que, en este aspecto, adoptaba la forma de
+mucho de lo producido en materia de filosofía política contemporánea. Es evidente, sin
+embargo, que la posición de Ghiraldo se hallaba incapacitada para plantear la cuestión del
+fundamento de lo político en clave procedimental, puesto que para el anarquismo el ejercicio
+legítimo del poder tenía una función estrictamente destructiva.
+Este mismo registro universalista que impregnaba una concepción idealista de lo político,
+en la medida en que postulaba una instancia en la que deliberadamente se podía renunciar
+a él, suponía una comprensión de la conflictividad algo diluida en su concepción de lo
+político. Por lo mismo, ponía de manifiesto una relativa identificación con el marco categorial
+con el que el modernismo concibió la sociedad de su tiempo, aunque este último hizo uso
+de aquellas categorías en función de la construcción de una estética. En efecto, ambas
+concepciones tienen como centro la crítica de los modos en los que se desplegaba la
+racionalidad estratégica moderna, representada en la figura del filisteísmo burgués y
+organizada discursivamente, en el caso de Ghiraldo, en torno de la oposición entre una
+“intelectualidad financiera” y las “convicciones científicas”. Para Ghiraldo la “idea” era pues
+el objeto de aquellas convicciones. Pero ella no revelaba sólo una impronta descriptiva
+puesto que su función simbólica era nombrar la disminución de la distancia entre el orden
+de la naturaleza y el orden de la historia. Tales ideas son, en efecto, “modernas”, en virtud
+de lo cual se reconocía el contenido emancipatorio de la modernidad. Con ello Ghiraldo se
+instalaba en la encrucijada modernista, por la que la modernidad aparece traicionada por la
+modernización capitalista. La tematización de esta contradicción en el escritor ácrata no
+fue desarrollada empero en clave espiritualista, al modo de la corriente estética dominante
+en el modernismo hispanoamericano (Terán, 2000: 347), sino como una instancia que
+debía ser mediada por la praxis libertaria.
+DOSSIER
+   197
+CILHA - a. 8 n. 9 - 2007 - Mendoza (Argentina) ISSN 1515-6125
+¿Pensar alto, formarse un criterio propio respecto de cualquier asunto o problema social
+contemporáneo; lanzarse en las corrientes de las ideas modernas haciendo a un lado cálculos
+utilitarios, egoísmos y mezquindades; tener el valor moral de defender estas ideas, en la
+seguridad absoluta de que al no traicionar la conciencia de una sociedad de mercachifles, sólo
+es dable alcanzar el desdén o la burla de los hombres honrados que la forman; ir sin miedos y sin
+vacilaciones a afrontar una lucha formidable en pro de convicciones científicas; en un medio
+ambiente en que sólo hay aplauso para el éxito personal y pecuniario? ¡Locura! Eso sólo puede
+tener cabida en cerebros minados por la acción degenerativa de enfermedades atávicas que
+obran en el organismo a manera de olas devastadoras en las rocas de las playas (…) (Ghiraldo,
+1904: 53-54) (las cursivas son del original).
+El cuestionamiento de la criminalización biologista de los anarquistas, aunque parecía dirigida
+a la reconstrucción en clave irónica de cualquier forma de atavismo, no modificaba la lógica
+del discurso que denuncia14. Por el contrario se mantenía en ella aunque invertía el signo
+axiológico de su utilización en el discurso político dominante. En tal sentido, Ghiraldo
+identificaba el curso emancipatorio de la historia —no exclusivamente como una necesidad
+racional, sino también como una forma de efectivo desarrollo— con la evolución individual15.
+La radicalidad de esta restricción de las fuentes de validez de la práctica política a la escena
+del individuo y de sus convicciones morales, sostenida en clave universalista gracias al
+concurso de la impronta igualitarista de la naturaleza, ponía de manifiesto la razón por la
+que la estrategia reformista de los grupos políticos ligados a sectores subalternos era
+impugnada por Ghiraldo en virtud de la atribución del carácter de “farsa republicana”. La
+delegación política era rechazada por el anarquismo y Ghiraldo no constiuía la excepción,
+por cuanto el representante adquiere una autoridad conferida por la pérdida de libertad
+política del representado (Suriano, 2001: 273).
+La legitimidad pretendida por el orden político burgués se asentaba sobre certezas
+infundadas, es decir, sobre la “tradición”. Esta última ligaba a los hombres al pasado y los
+convertía en sujetos incapaces para reconocer la orientación de las ideas modernas. El
+14 D. Armus ha caracterizado el impacto cultural que tuvo el discurso higienista en la Argentina de fines
+del siglo XIX y principios del XX señalando su arraigo en las corrientes ideológicas más contestarias. “Más
+intrigante es reconstruir la recepción y la absorción de ese discurso y esa normatividad. El mundo
+urbano del novecientos estaba saturado, especialmente en las ciudades-puertos del litoral
+agroexportador, de un cosmopolitismo y una diversidad de niveles de alfabetismo que debe invitar a la
+cautela a cualquier esfuerzo por explorar los avatares, contestaciones y matices que marcaron a la
+circulación de la cultura de la higiene (…) [E]l tremendo impacto de la cultura de la higiene en la sociedad
+puede dimensionarse en el lugar que logró hacerse entre ciertos anarquistas, sin dudas los más críticos
+al estado de cosas imperantes en la Argentina…Dos ejemplos son, en ese sentido, elocuentes. En 1901
+La protesta Humana se refería a las ‘reglas de higiene y modos de prevenir enfermedades’ en el marco
+de su apoyo a las campañas de educación destinadas a evitar el contagio. Y veinte años más tarde, en
+1921, el periódico anarco-sindicalista El Obrero en Dulce invitaba a poner en práctica ‘los modos
+higiénicos, racionales y delicados’ como ‘un medio para conseguir la emancipación, puesto que sin
+higiene no puede haber progreso ni salud’” (2000: 549-550).
+15 “Creo, como el que más, en el mejoramiento humano, en la purificación de la raza, en la regeneración
+social y en las horas santas de la fraternidad verdadera, —no en la farsa republicana— porque creo en
+mi regeneración, porque creo en mi mejoramiento, porque creo en la fraternidad que siento vibrar en
+mi corazón hacia vosotros” (Ghiraldo, 1904: 56-57)
+.
+DOSSIER
+198
+Marcos Olalla.  El ensayo político anarquista...
+modo de vinculación de las elites políticas con el presente era el “utilitarismo”, mientras que
+respecto del futuro su respuesta era la “ignorancia” (Ghiraldo, 1904: 59). Para el escritor la
+universalidad postulada por el sistema republicano no reparaba en contradicciones que
+preceden a la representación política entre las que destaca la existencia del capital16.
+Violencia política y literatura
+Esta contradicción condicionaba el universo de lo político al constituir una mediación ineludible
+para la práctica política. La orientación libertaria de la praxis adquiría indefectiblemente el
+carácter de una lucha material, en el horizonte de la cual el progreso resultaba identificado
+con la revolución. En este orden de cosas la concepción anarquista de lo político se hallaba
+impelida a tematizar la cuestión de la violencia. Ella desempeñaba un rol histórico en el
+despliegue de un determinado proceso revolucionario. Aunque reconociendo el carácter
+irracional del terror suscitado por el régimen de Robespierre, Ghiraldo afirmaba:
+Y como el árbol de la libertad, desgraciadamente, nunca ha dado frutos sino cuando ha sido
+regado con sangre, para que la cosecha fuera abundante y espléndida, necesario se hizo no
+economizar el riego ¡Y éste cayó, fecundante y generoso, en cantidad tal como para haber
+salvado el porvenir!
+¡Y pensar que la gran revolución sólo constituye un detalle, un salto brusco, si queréis, dentro
+de la lenta pero efectiva evolución humana! (109).
+Para el escritor argentino la violencia es la instancia en la que se desarmaba la fetichización
+de lo político como negociación de intereses vinculados a la posesión del capital. “La lucha,
+hasta hoy, no ha podido eludirse, porque eternamente los que han poseído han resistido”
+(111). Lo significativo de esta caracterización es que, en el contexto de una concepción
+ciertamente ambigua de la violencia del anarquismo argentino —aunque la tendencia es a
+justificarla— (Suriano, 2001: 280-281; Bayer, 2006), Ghiraldo hacía un esfuerzo por asignarle
+un lugar preciso en su interpretación del desarrollo histórico. Para el argentino la historia
+procedía del modo en que lo hizo en la Revolución Francesa. La secuencia poseía un primer
+paso en el que se promocionaban las ideas, en este caso la de los enciclopedistas, luego la
+reacción que surgía de la incorporación de éstas en el imaginario de los oprimidos, y
+finalmente, configurada la contradicción, se desataba la revolución. La articulación entre el
+segundo y el tercer momento era posible por la manifestación física de la contradicción
+suscitada. No extraña entonces que las ideas hayan “reclamado mártires” (Ghiraldo, 1904:
+111). En la escena de lo político la existencia de relaciones de dominio tornaba inevitable
+el despliegue de la violencia. El carácter político de esta última es aquello que vehiculizaba
+la violencia como un modo de resolución del conflicto entre el progreso concebido en
+clave libertaria y la tradición. La correspondencia atribuida a la violencia respecto de la
+lógica instrumental de las relaciones sociales y la posibilidad de su destrucción permitía
+visualizar, por contraste, un modo de acción no estratégica, orientada, ya no por intereses
+16 “Pero ¿cómo esperar de los hombres de la burguesía como diputados, lo que no se puede esperar de
+ellos como patronos, lo que rehúsan, individualmente, cuando sus obreros solicitan un ligero aumento
+de salario o una rebaja del tiempo de trabajo? Las frases más retumbantes sobre el derecho y la justicia
+no arrancarán ni una piedra de la fortaleza capitalista” (64).
+DOSSIER
+   199
+CILHA - a. 8 n. 9 - 2007 - Mendoza (Argentina) ISSN 1515-6125
+sectoriales, sino, sin más, por “la idea”. Al par de promover una concepción que mistifica la
+intelección de la orientación histórica y con ello favorecer la percepción del discurso científico
+como lenguaje neutral en sentido axiológico, este modo de comprensión de lo político se
+instalaba en un registro escatológico al interior del cual se asume la pertinencia de una
+evaluación de los grados de realización histórica de la idea en el presente del escritor:
+Aquí una pregunta: ¿estamos por ventura cerca del período de luz en que la idea reine soberana
+como única fuerza, como único poder? Ningún espíritu, que aspire a no ser tachado de miope,
+ha de negar que estamos cerca de un día nuevo de esplendente aurora. La época actual es de
+transición. De ninguna manera el sistema republicano puede quedar como definitivo, y los
+ideales nuevos se dibujan, con lineamientos brillantes, en el cielo del porvenir. Ahora bien, la
+idea nueva, la redentora, a pesar de la historia ¿llegará a triunfar sin la violencia? He aquí el
+tremendo problema actual, en que la humanidad se halla empeñada (Ghiraldo, 1904: 111-112).
+A juzgar por el rol histórico que Ghiraldo asignaba a la violencia la pregunta tenía un sentido
+eminentemente retórico. La respuesta era claramente negativa. La aparente apertura de
+la interrogación da cuenta de la ambivalencia con la que el anarquismo argentino tendió a
+alejarse de los actos concretos de violencia caracterizados con el concepto de “propaganda
+por el hecho” como una herramienta sistemática de construcción política, mientras que,
+aun cuando no tuvieran un contenido programático, los episodios de violencia individual
+eran justificados con un argumento caro a gran parte de la izquierda argentina posterior, es
+decir, como una legítima forma de reacción a la injusticia social caracterizada como “violencia
+desde arriba”17.
+Para el escritor era inevitable la mediación de la violencia en el curso de la historia. Su
+fundamento, no obstante, era la realización de “ese instante de paz a que aspiramos”
+(115). De modo que la primera afirmación no invalidaría el sesgo evolucionista de su
+interpretación. La evolución constituía, en efecto, el escenario de la conflictividad delineada
+en términos de una caracterización más precisa de los agentes de la historia. Aquí Ghiraldo
+se distanciaba del esquema teórico clasista para advertir que el conflicto se configura en
+torno de las instituciones como agentes conservadores y los individuos como agentes
+revolucionarios (116).
+Por otra parte, el carácter transicional asignado por el escritor a su presente, da cuenta de
+la condición proto-revolucinaria de éste. Esta percepción estaba destinada a la determinación
+de un estatuto político para un proceso histórico en el que se daban las condiciones
+objetivas para la aceleración del ritmo de la evolución de la humanidad. La evaluación de
+tales condiciones se jugaba a un nivel ideológico. Se trataba de reconocer el advenimiento
+de un momento de concreción de ideas evolutivamente incorporadas a la historia en
+17 Así justifica Ghiraldo el asesinato del presidente estadounidense William Mckinley por el joven anarquista
+Leon Czolgosz el 6 de setiembre de 1901: “El acto violento llevado a cabo por un representante de éste
+(el pueblo) contra el presidente en cuestión, no es pues sino un resultado, una consecuencia (la
+violencia de abajo, sin organización, repeliendo a la violencia organizada de arriba), y como tal debemos
+mirarlo todos los que analizamos los hechos, con un criterio emancipado de prejuicios y cálculos personales”
+(127).
+DOSSIER
+200
+Marcos Olalla.  El ensayo político anarquista...
+función de su creciente universalidad. Así, la Revolución Francesa constituía una manifestación
+todavía incompleta de la idea de “solidaridad” (118). La naturaleza de esta determinación
+era eminentemente conceptual y permitía delinear una función política para quienes poseen
+las capacidades intelectuales para comprender la orientación del curso histórico. Así, cerrando
+su referencia a la interpretación del componente revolucionario en el avance de la civilización
+europea de Kropotkine, Ghiraldo construía este extraño razonamiento: “Esto dice
+Kropotkine; y Kropotkine, hombre de ciencia, cree en la evolución, siendo uno de los más
+formidables revolucionarios modernos. Kropotkine sabe lo que quiere decir evolución.
+Kropotkine conoce la historia. Por eso Kropotkine es revolucionario” (124) (las cursivas son
+del original).
+La duplicación del nombre del teórico anarquista ruso asignaba al discurso una forma de
+predicación coloquializante en la que el ritmo de lo afirmado poseía una creciente
+vertiginosidad, delineando en la figura del objeto predicado algo del orden de lo consagrado.
+Este registro resultaba entonces desplazado al espacio de la inferencia y del modo en que
+en ella actuaban los diversos niveles que estructuran la realidad. Es evidente que la forma
+silogística del argumento asumía como premisa la existencia de dichos niveles: “hombre de
+ciencia”, “cree en la evolución” y “siendo uno de los más formidables revolucionarios”.
+Como previamente señalábamos naturaleza e historia (horizonte en el que se juega lo
+político) constituían dos órdenes que tendían a identificarse en virtud de un tipo de acción
+no estratégica sólo garantizada por el reconocimiento científico de las posibilidades de
+aquella correspondencia. El componente epistémico funcionaba entonces como una
+mediación de la praxis que hallaba sentido a fuerza de “saber qué quiere decir evolución” y
+de “conocer la historia”. Esto, que convertía en revolucionario a Kropotkine y con ello
+cerraba la inferencia, constituía un modo definitivo de interpelación. Conocida la orientación
+de la historia ya no había vuelta atrás. El retroceso era un atributo de la defensa de cierto
+privilegios, de la ignorancia, o, atentos al alcance universal de este desarrollo que involucraba
+la propia capacidad para instalar una demanda social legítima, una inmoralidad.
+Para aquellos cuyas tendencias se encaminan hacia semejante tarea estas palabras de Nietzsche,
+escritas para decirlas al oído de los conservadores: Hay todavía partidos que sueñan con hacer
+andar las cosas reculando, como andan los cangrejos; pero lo que no se supo antes, lo que se
+sabe hoy, lo que se podrá saber, es que una formación hacia atrás, una regresión en cualquier
+sentido, de cualquier grado que sea, es completamente imposible (130) (las cursivas son del
+original).
+El desarrollo de los acontecimientos, en la medida en que daban cuenta de la orientación
+libertaria de la historia, constituía un límite de naturaleza racional para un eventual retroceso.
+La recurrente focalización ghiraldiana en la función política del conocimiento expresaba, al
+tiempo que un reposicionamiento del discurso letrado en el marco del proceso de
+autonomización del campo literario a fines del siglo XIX y principios del XX (Rama, 1985;
+Ramos, 1989), un desplazamiento del objeto de análisis que iba de la crítica de la economía
+capitalista a la tematización de la desigualdad originada por otras formas del capital, entre
+los que destaca el capital cultural. La brecha cultural se produce pues como una desigual
+DOSSIER
+   201
+CILHA - a. 8 n. 9 - 2007 - Mendoza (Argentina) ISSN 1515-6125
+apropiación del saber, hecho que excede el origen clasista de la contradicción18. La
+incorporación de este elemento de la consideración ghiraldiana acusaba la influencia del
+pensamiento de Kropotkine (Suriano, 2001: 79) y conducía a una caracterización de la
+función práctica de la literatura en la que la correspondencia entre violencia y acción
+política seguía siendo el eje.
+En cuanto a la forma de exteriorizar la violencia y en lo que se refiere a su eficacia, nosotros
+formularemos nuestro pensamiento diciendo que escribir Germinal, por ejemplo, vale tanto
+como matar a un rey. La violencia de Zola ha podido lanzarse a las calles envuelta en las páginas
+fulgurantes de sus libros. A no haber encontrado este cauce, ¿quién se atrevería a afirmar que
+ella no se hubiera cruzado, sangrienta, en la vida triunfal de algún tirano? (Ghiraldo, 1904:
+124).
+La valoración que Ghiraldo hacía de la obra del escritor francés constituía un índice de la
+condición política de lo literario como un modo privilegiado de representación de la tensión
+entre la orientación histórica y las formas del sistema vigente. La violencia era percibida
+como una modalidad de ruptura cultural y moral que incidía directamente sobre el campo
+de las relaciones de dominio cualquiera fuese su naturaleza. Operaba en esta consideración
+el supuesto de que las expresiones episódicas e individuales de violencia constituían un
+expediente impreciso de la injusticia que debía ser intuida con claridad en términos de una
+verdadera síntesis histórica, a cuyo concurso acudía el discurso literario. La obra de esta
+literatura, que era capaz de alejarse de los artificios formales, del bizantinismo y la promoción
+de la decadencia, no consistía en despertar un atributo sin más fijado a la conciencia de los
+sujetos sociales subalternos, sino en ofrecer la interpretación válida del proceso histórico.
+Al alejarse de las determinaciones estrictamente económicas y deslizarse hacia un locus
+cuya prioridad era básicamente epistémica, Ghiraldo arrastraba a la literatura al escenario
+de las definiciones ideológicas. En dicho escenario, la literatura libertaria poseía como atributo
+una referencia a la condición transitoria del presente, a partir del cual la historicidad se
+definía por su apelación al futuro.
+[P]odrán las inválidas multitudes seguir arrastrándose detrás de los expositores de cultos de
+patrias nefastas, devoradoras de hombres, y de sectas, más criminales aun, torturadoras de
+conciencias; podrán todos los inconscientes del mundo rechazar, al mismo tiempo, o mirar con
+indiferencia la fecunda obra social de los sembradores de ideas, los bravos paladines de verdad
+en marcha, los progresivos luchadores, misioneros del futuro que, conociendo la verdadera
+causa de la situación desesperante en que se encuentra la mayoría de la humanidad, saben
+despreciar el aplauso momentáneo para descubrir con mano sincera el telón que oculta las
+heridas que es necesario curar (…) Llegará pronto el tiempo en que la luz sea hecha. Y entonces
+de todo el fárrago de inepcias (…) con que hoy se refocila una casta, el pueblo, el verdadero
+pueblo en actual gestación, el pueblo sabio y poeta de mañana, hará una nueva pira de
+incendio (145).
+18 “Al introducirse el elemento ético-cultural entre los factores de opresión o desposesión se añaden,
+como mínimo, dos variantes respecto del enfoque socialista clásico: por un lado se amplía el grupo de
+desposeídos (…) por otro lado no se considera que la situación se caracterice por la progresiva polarización
+de las clases, sino por la creciente posibilidad de la superación de la tensión gracias a la inevitable
+ilustración de los oprimidos” (Álvarez Junco, 1972: 182-183).
+DOSSIER
+202
+Marcos Olalla.  El ensayo político anarquista...
+Bibliografía
+Álvarez Junco, José. La ideología política del
+anarquismo español (1861-1910). Madrid:
+Siglo XXI, 1976.
+Andreu, Jean; Fraysse, Maurice y Golluscio
+de Montoya, Eva. Anarkos. Literaturas
+libertarias de América del Sur (1900). Buenos
+Aires: Corregidor, 1990.
+Armus, Diego. “El descubrimiento de la
+enfermedad como problema social”. En: Mirta
+Zaida Lobato (comp.). Nueva historia
+argentina. El progreso, la modernización y
+sus límites (1880-1916). Buenos Aires:
+Sudamericana, 2000.
+Bayer, Osvaldo. Severino Di Giovanni. El
+idealista de la violencia. Buenos Aires:
+Planeta, 2006.
+Benjamin, Walter. Discursos interrumpidos 1.
+Buenos Aires: Taurus, 1989.
+Bourdieu, Pierre. ¿Qué significa hablar?
+Economía de los intercambios lingüísticos.
+Madrid: Akal, 1985.
+Capelletti, Ángel. Anarquismo latinoameri-
+cano. Caracas: Ayacucho, 1990.
+Ciafardo, Eduardo y Espesi, Daniel. “Patología
+de la acción política anarquista. Criminólogos,
+psiquiatras y conflicto social en la Argentina,
+1890-1910”. Siglo XX. Revista de Historia,
+segunda época, n. 12, México, 1992.
+Cordero, Héctor. Alberto Ghiraldo. Precursor
+de nuevos tiempos. Buenos Aires: Claridad,
+1962.
+Cortés Conde, Roberto y Gallo, Ezequiel. La
+formación de la Argentina moderna. Buenos
+Aires: Paidós, 1968.
+Geli, Patricio. “Los anarquistas en el gabinete
+antropométrico. Anarquismo y criminología
+en la sociedad argentina del 900”.
+Entrepasados, a. II, n. 2, 1992.
+Godio, Julio. Historia del movimiento obrero
+argentino. Tomo I. Buenos Aires: Corregidor,
+2000.
+Litvak, Lily. Musa libertaria. Barcelona: Antoni
+Bosch, 1981.
+Litvak, Lily. La mirada roja: estética y arte
+del anarquismo español (1880-1913).
+Barcelona: Ediciones del Serbal, 1988.
+La inminencia del futuro predicado no ofrecía la posibilidad de contrastación positiva de
+aquel indigno final augurado por el escritor para la literatura no comprometida
+ideológicamente. Por vía de la selección académica de un canon o de las consagraciones
+del mercado en la industria cultural no se obtuvo el reconocimiento de un valor que
+Ghiraldo creía ganado en términos cognitivos y políticos. Es probablemente el precio que
+pagaría una literatura que si bien es capaz de reconocer las condiciones socio-históricas en
+las que se produce, tendía a desplazarse de ese lugar posponiendo las definiciones del
+presente hacia un futuro en el que el pueblo hablaría por sí mismo.
+La tensión introducida por una imagen tan fuerte del porvenir, pensada sobre el fondo de
+una interpretación libertaria de la historia, al tiempo que constituía un modo fructífero de
+promoción de las prácticas políticas, tendía a eternizar su provisionalidad, en el marco de un
+proceso que, a fuerza de incorporar nuevas variables ligadas a novedosas coyunturas, iba
+mudando de estrategias de militancia. Había, ciertamente, una contradicción entre una
+concepción que asumía la dialecticidad de la historia mientras acentuaba la disolución de
+ese mismo carácter en la propia práctica política.
+DOSSIER
+   203
+CILHA - a. 8 n. 9 - 2007 - Mendoza (Argentina) ISSN 1515-6125
+Lobato, Mirta Zaida. “Estado, gobierno y
+política en el régimen conservador”. En: Mirta
+Zaida Lobato (comp.). Nueva historia
+argentina. El progreso, la modernización y
+sus límites (1880-1916). Buenos Aires:
+Sudamericana, 2000.
+Madrid, Francisco. “Literatura anarquista”. En:
+Alzina (coord.) La Rosa Il-lustrada. Alicante:
+Associació Cultural Alzina, 2004. En línea.
+http://www.ua.es/cgt/ rosa/ponen/ litanar.
+pdf. Consultado el 21 de noviembre de 2006.
+Moretic, Yerko. “Acerca de las raíces
+ideológicas 
+del 
+modernismo
+hispanoamericano”. En Litvak, Lily. El
+modernismo. Madrid: Taurus, 1986.
+Oved, Iaacov. El anarquismo y el movimiento
+obrero en Argentina. México: Siglo XXI,
+1981.
+Rama, Ángel. Rubén Darío y el modernismo.
+Caracas: Alfadil, 1985.
+Rama, Ángel. “La democratización
+enmascaradora del tiempo modernista”. En:
+Ángel Rama. La crítica de la cultura en
+América Latina. Caracas: Biblioteca
+Ayacucho, 1995.
+Ramos, Julio. Desencuentros de la
+modernidad en América Latina. Literatura y
+política en el siglo XIX. México: Fondo de
+Cultura Económica, 1989.
+Salaün, Serge. “Teoría y práctica del lenguaje
+anarquista”. En: Bert Hofmann, Pere Joan i
+Tous y Manfred Tietz (eds.). El anarquismo
+español. Sus tradiciones culturales. Madrid:
+Iberoamericana, 1995.
+Suriano, Juan. “Una aproximación a la
+definición de la cuestión social en Argentina”.
+En: Suriano, Juan (comp.). La cuestión social
+en Argentina 1870-1943. Buenos Aires: La
+Colmena, 2000.
+Suriano, Juan. Anarquistas. Política y cultura
+libertaria en Buenos Aires (1890-1910).
+Buenos Aires: Manantial, 2001.
+Terán, Oscar. En busca de la ideología
+argentina. Buenos Aires: Catálogos, 1986.
+Terán, Oscar. “El pensamiento finisecular
+(1880-1916)”. En: Mirta Zaida Lobato, Nueva
+historia argentina. El progreso, la
+modernización y sus límites (1880-1916).
+Buenos Aires: Sudamericana, 2000.
+Viñas, David. Anarquistas en América Latina.
+Buenos Aires: Paradiso, 2004.
+Zabala, Iris M. “Espejos, reflejos: Anarquismo
+y literatura”. En Bert Hofmann, Pere Joan i
+Tous y Manfred Tietz (eds.). El anarquismo
+español. Sus tradiciones culturales. Madrid:
+Iberoamericana, 1995.
+Zimmermann, Eduardo. Los liberales
+reformistas. Buenos Aires: Sudamericana,
+1995.

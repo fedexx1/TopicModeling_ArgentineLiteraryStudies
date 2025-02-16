@@ -1,0 +1,1014 @@
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+Universidad Nacional de La Plata. 
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios Latinos
+Vínculos intertextuales entre los personajes de Pompeyo en Farsalia y de
+Héctor en Ilíada: macroestructuras textuales y configuración de los
+perfiles heroicos
+Introducción
+El argumento de Farsalia aborda la segunda Guerra Civil durante el siglo I a.C., en
+la que se enfrentaron Pompeyo, liderando las tropas del senado, y César, conduciendo
+tropas propias, por el control unipersonal del Estado. La temática histórica se reelabora de
+manera  tal  que  queda  estrechamente  ligada  a  los  avatares  políticos  del  contexto  de
+redacción, i.e. el gobierno de Nerón: mientras los tres primeros libros parecen simpatizar
+con el emperador, especialmente si se considera la dedicatoria a éste en I, 33-661, los siete
+siguientes,  al  parecer,  se  vuelcan  ideológicamente  a  un  fervoroso  republicanismo  y
+esgrimen duras críticas contra el régimen imperial2. 
+Si bien el presente trabajo no busca indagar las mutaciones ideológicas de Lucano
+en el proceso de redacción, mencionamos la existencia del problema en tanto nuestra
+propuesta  de  lectura  trabaja  sobre  el  supuesto  de  que  el  conjunto  de  la  obra  está
+1 Es posible una lectura del elogio en clave irónica. En este sentido, vid. Ahl, F., Lucan: an introduction, 
+Ithaca, Cornell University Press, 1976, 25-61.   
+2 Sobre el problema de la ideología en Lucano, es indispensable la consulta de Masters, J. Poetry and Civil
+War in Lucan’s Bellum Civile, Cambridge, Cambridge University Press, 1992; Boissier, G., L’opposition sous
+les Césars, Paris, Hachette, 1875; ver especialmente Brisset, J., Les idées politiques de Lucain, París, Les
+Belles Lettres, 1964.
+Al mismo tiempo, destacamos la idea de reelaboración de la materia histórica: nuestro trabajo 
+concierne a la economía del relato en la medida en que la narración de Farsalia presenta una cadena de 
+hechos organizados en secuencias; en ningún caso juzgaremos la naturaleza de las acciones de los personajes 
+implicados en los acontecimientos históricos en tanto hechos del mundo fáctico de experiencia.
+Cita sugerida: Trejo, M. (2017). Vínculos intertextuales entre los personajes de Pompeyo en Farsalia y de Héctor en 
+Ilíada: macroestructuras textuales y configuración de los perfiles heroicos. Auster, (22), e038. Recuperado de: 
+http://doi.org/10.24215/23468890e38
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+“ideologizado”. Si bien aceptamos, en consonancia con la tradición crítica marxista, que
+ningún texto está despojado de ideología3, destacamos que algunos son más explícitos que
+otros en este punto;  Farsalia es un ejemplo, motivo por el cual ha sido leída como
+propaganda4. Esta propuesta se apoya en las libertades con las que Lucano elabora ciertos
+sucesos  históricos5 y  especialmente  en  los  dos  pasajes  donde  más  evidente  es  esta
+elaboración: la narración de la batalla de Farsalia en el libro VII y la visita de César a Troya
+luego de triunfar sobre Pompeyo en el libro IX. Estas libertades tendrían por fin desarrollar
+el discurso antiimperialista y hacer explícito el fin “proselitista” de la redacción6. 
+Al mismo tiempo, la crítica ha detectado en la obra numerosos paralelismos con la
+épica homérica, en especial con la  Ilíada7. En esta línea de trabajo, ha recibido especial
+” Por “ideologizado” entendemos la relación intertextual del texto con otros textos explícitamente 
+pertenecientes al campo del poder: las producciones historiográficas sobre la Guerra Civil y la doxa 
+contemporánea a la redacción, es decir, aquellos discursos respecto de la administración del poder que 
+hubieran circulado bajo el imperio de Nerón, en especial si tenemos en cuenta que Lucano perteneció al 
+círculo íntimo del emperador y que fue obligado a suicidarse mientras redactaba la obra. Para la discusión 
+sobre este problema, ver Johnson, W. R., Momentary Monsters: Lucan and his Heroes, Ithaca, Cornell 
+University Press, 1987, y Bartsch, S., Ideology in Cold Blood: a Reading of Lucan’s Civil War, London, 
+Harvard University Press, 1997. Cf. Masters, Poetry and Civil War, 153-157 para un estado de la cuestión. 
+3 La propuesta teórica de Raymond Williams resulta ineludible a la hora de considerar esta clase de lecturas, 
+especialmente desde la síntesis de la propuesta representada en Marxism and Literature, Oxford University 
+Press, 1977.
+4 vid. Masters, J., “Deceiving the reader: the political mission of Lucan’s Bellum Civile 7”, en Reflections of 
+Nero: culture, history, & representation, Chapell Hill, The University of North Carolina Press, 1994, 151-177 
+como sinopsis del tema y proyecciones. 
+5 Graves, R. (ed.), Lucan Pharsalia. Dramatic Episodes of the Civil Wars, West Drayton, Penguin Books, 
+1956; Syndikus, H.P., Lucans Gedicht vom Bürgerkrieg. Untersuchungen zur epischen Technik zu der 
+Grundlagen des Werkes, (Diss.) Munich, 1958; Lintott, A. W., “Lucan and the History of the Civil War”, CQ 
+21, 2, 1971, 488-505; Johnson, Momentary Monsters; Masters, “Deceiving the reader” refuta estas lecturas y 
+propone en cambio leer la explicitud del discurso politizado como una estrategia paródica. 
+6 Por “proselitista” entendemos un texto con una función pragmática explícita, a saber, el convencimiento 
+respecto de ciertos ideales representados en la narración. Para profundizar la discusión, cfr. nota 2. Ver 
+especialmente Masters, Poetry and Civil War, 153-157 para una sumaria revisión y confrontación de las 
+principales lecturas politizadas de la obra, las cuales habilitarían el uso de cierto vocabulario específico, como
+"imperialismo" y "antiimperialismo" entre otros.
+7 Respecto de los paralelismos entre Ilíada y Farsalia, ver especialmente Von Albrecht, M., “Der Dichter 
+Lucan und die epische Tradition”, FH 15, 1970, 267-308; Green, C. M. C., “Stimulos Dedit Aemula Virtus: 
+Lucan and Homer Reconsidered”, Phoenix 45, 1991, 234-249 (especialmente 232); Lausberg, M., “Lucan und
+Homer”, ANRW 32.3., 1985, 1565-1622 Lebek, W. D., Lucans Pharsalia: Dichtungsstruktur und Zeitbezug, 
+Hypomnemata  44,  Göttingen, 1976; Pichon, R., Les Sources de Lucain, Paris, 1912 como detractor de esta 
+lectura. 
+2
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+atención el estudio comparado de los personajes de César y de Aquiles8. La equiparación ha
+sido ampliamente aceptada como válida, especialmente por su notoriedad9. 
+El personaje de Pompeyo, por otra parte, ha recibido un interés menor en el estudio
+de  los  paralelismos  entre  los  dos  poemas10.  Von Albrecht  y  Lausberg11 comparan  el
+personaje de Pompeyo con el Agamenón de  Ilíada, y a pesar de que los argumentos
+esgrimidos no logran ser convincentes12, el paralelo fue aceptado y no vuelto a revisar.
+Estos argumentos pueden sintetizarse en dos macro-argumentos. Por un lado, la obvia
+existencia de un contexto bélico de gran magnitud focalizado en un escenario puntual:
+Troya en el primer caso; Farsalia, como metonimia de las Guerras Civiles, en el segundo.
+Por otro lado, el enfrentamiento de dos líderes  pertenecientes a una misma facción:
+Pompeyo y César eran romanos, así como Aquiles y Agamenón, aqueos13.
+Nuestro trabajo se inserta en el marco de esta discusión. La literatura crítica ha dejado
+señalado un nicho respecto del lugar de Pompeyo en la lectura comparatista de Farsalia,
+pero la forma en que se construye su personaje no ha sido indagada con la misma
+profundidad con la que se han examinado otras áreas de la obra. Por este motivo, revisamos
+sumariamente la comparación de Pompeyo con Agamenón y proponemos una lectura
+alternativa trazando un paralelo entre Pompeyo y Héctor.
+8 Johnson, Momentary Monsters y Ahl, Lucan dedican sendos capítulos exclusivamente al análisis del 
+personaje de César. Su equiparación con Aquiles es trabajada fundamentalmente en von Albrecht, “Der 
+Dichter” 269-308. Se revisa el problema en Green, “Stimulos Dedit”
+9 Por citar un ejemplo, Ahl, Lucan, 155 sostiene que César se construye narrativamente como “a man 
+confident in his strength, more sure of his purpose than Achilles himself, invincible in warfare, a man who 
+will bring about a major change in Roman history”.
+10 De los trabajos que se han concentrado en Pompeyo y su dinámica con los “héroes” que disputan con él el 
+protagonismo de la obra, destacamos a Ahl, Lucan  que analiza a Pompeyo como antihéroe comparándolo con
+la épica post-homérica. De cualquier manera, afirma al respecto: “The Pharsalia, then, does not have a single,
+unifying hero as do the surviving epics that precede it. Rather, it has three paradigms of heroism, of which the
+most complex and least understood is Pompey” (156); según Johnson, Momentary Monsters, 85, “if the 
+Pharsalia was to have had or could had a hero, that hero, that unreal, useless, unthinkable hero, would have to
+have been Pompey” (85). 
+1112 Von Albrecht, “Der Dichter”, 267-308; Lausberg, M., “Lucan und Homer”, ANRW 32.3. 1985, 1565-
+1622. 
+12 Cf. Green, C. M. C., “Stimulos Dedit Aemula Virtus: Lucan and Homer Reconsidered”, Phoenix 45, 1991, 
+234-249 (especialmente 232).
+13 El resumen de la argumentación completa puede recuperarse de Green, “Stimulos Dedit”.
+3
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+La comparación entre los personajes de Pompeyo en Farsalia y Agamenón en Iliada
+Desde  nuestra  lectura,  la  equiparación  entre  Pompeyo  y  Agamenón  no  es
+consistente en tanto Aquiles y Agamenón se convierten en adversarios perteneciendo ambos
+a una misma facción. Sin embargo, no eran ellos dos los únicos generales en el ejército
+aqueo. Obligados a combatir en Troya por el juramento hecho como condición para que
+Helena fuera desposada, se encontraban luchando idénticos en jerarquía Diomedes, Áyax,
+Teucro y Odiseo, por citar algunos de los capitanes que habían intentado en el pasado
+desposar a Helena. El hecho de que Ilíada narre la cólera de Aquiles contra Agamenón no
+implica una reducción de la cantidad de personajes involucrados en el conflicto.
+La oposición entre los personajes de Pompeyo y César en Farsalia se genera por
+motivos muy distintos de los operantes en  Ilíada,  razón por el cual la búsqueda de
+antagonismos como calcos desvirtúa en última instancia la evidencia misma14. En Ilíada,
+los dos generales se enemistan  mientras se desarrolla la guerra. Es decir, la guerra de
+grandes dimensiones es el fondo de la figura, el enfrentamiento de los dos generales. En
+Farsalia, en cambio, la guerra se coloca  entre los antagonistas, como tema, y como
+consecuencia de la enemistad. La pertenencia de los personajes a una misma patria deja de
+ser una variable sobre la que construir un paralelo, puesto que el antagonismo se define a
+partir de ser causa del conflicto armado. E igualmente, la enemistad entre Aquiles y
+Agamenón no es el eje del relato ni el que mueve en última instancia el argumento15. Es
+simplemente el punto de partida de la cólera, pues a partir del canto VI, quien domina el
+escenario como antagonista de Aquiles es Héctor, el mejor de los troyanos, así como
+14 Es la búsqueda de calcos lo que tiende a disuadir la realización de una lectura comparada: “Si, après avoir 
+étudié les faits et les idées que renferme la Pharsale, on en examine la forme littéraire, et qu’on recherche 
+quelles influences elle a subié, on s’aperçoit d’abord que, du côté de la Grèce, ces influences sont nulles ou à 
+peu près. Je ne crois pas qu’on puisse citer un seul verse que Lucain ait directement emprunté à un poète 
+hellénique, sans que ce vers ait déjà passé par les mains d’un auteur latin” (Pichon, 1912: 217).
+15 Es necesario diferenciar el tema del poema, la ira sobrehumana de Aquiles presentada en el primer verso 
+del poema como μῆνις, de los conflictos atravesados por la ira. Agamenón representa el disparador de la ira 
+porque es la causa (en términos semánticos) de la ausencia de τιμή en la esfera de Aquiles. En consonancia 
+con Nagy (1997 [1980]), el gran problema de Ilíada es quién es el mejor de los aqueos, en tanto quién 
+conservará κλέος cuando el νόστος se encuentra clausurado. Si es éste entonces el problema, la pérdida de 
+τιμή es causa necesaria y suficiente para que la μῆνις crezca en Aquiles. 
+4
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+Aquiles es el mejor de los Aqueos. Luego de la muerte de Patroclo, la rivalidad entre
+Aquiles y Agamenón se diluye y ya no vuelve a movilizar ningún conjunto de secuencias. 
+El paralelo entre el personaje de Pompeyo en Farsalia y el de Héctor en Ilíada
+La macroestructura básica de  Ilíada  y de  Farsalia es la enemistad de dos generales
+entre los cuales media un conflicto bélico. Por ese motivo, a la hora de buscar un paralelo
+entre  Ilíada y  Farsalia en  la  construcción  del  personaje  de  Pompeyo,  nos  parece
+indispensable determinar qué entendemos por personaje en términos estructurales. En
+sentido amplio, por “personaje” se entiende toda entidad humana o humanizada introducida
+en una obra de ficción narrativa; en sentido estricto, el término queda restringido a los
+participantes del dominio narrado, del mundo narrativo, lo cual excluye la figura del
+narrador16. El estructuralismo afirma que la fuente principal de nuestra comprensión del
+personaje de ficción debe ser encontrada en elementos que son específicos del texto17. En
+otras palabras, se afirma que el personaje es una construcción textual, la acumulación de un
+conjunto de rasgos discretos bajo una etiqueta identificatoria o nombre propio18. 
+Recuperando este modo de concebir la categoría de "personaje", en tanto constructo textual,
+nos proponemos organizar alrededor de cada uno de los dos personajes implicados en
+16 Margolin, U., “The what, the when and the how of being a character in Literary Narrative”, Style 24, No.3,
+1990, 453-68, esp. 53; “Character”, en Herman, D. & M. Jahn, M. Ryan (Ed), Routledge Encyclopedia of
+Narrative Theory. Routledge, 2005, 53-7, esp. 66. 
+El personaje debe ser entendido ante todo como "a theory-dependent conceptual construct or 
+theoretical object, of which several alternative versions exist in contemporary poetics. [...] Literary character 
+suggest an individual made up from words, textually identified by referring expressions, invented by an 
+author for some purpose, such as creating certain effects or conveying some message." 453.
+17 Cf. Mead, G., “The representation of the fictional character”, Style 24, 3, 1990, 440-452.
+18 “Cuando semas idénticos atraviesan repetidamente el mismo Nombre propio y parecen adherirse a él, nace
+un personaje. Por lo tanto, el personaje es un producto combinatorio: la combinación es relativamente estable
+(está marcada por el retorno de los semas) y más o menos compleja (comporta rasgos más o menos
+congruentes, más o menos contradictorios); esta complejidad determina la “personalidad” del personaje, tan
+combinatoria como el sabor de una comida o el aroma de un vino. El nombre propio funciona como el campo
+de imantación de los semas; al remitir virtualmente a un cuerpo, arrastra la configuración sémica a un tiempo
+evolutivo (biográfico).” Barthes, R., S/Z, Buenos Aires, Siglo XXI Editores, 2004 (1970), 55.
+La formalización de la categoría “personaje” a partir de la centralización de sus rasgos en torno al
+nombre propio puede ser representada en la siguiente fórmula:
+Personaje (nombre propio) = P(x)
+P(x) = {e, f, g,…n}
+5
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+nuestro análisis, Pompeyo y Héctor, un conjunto de cinco rasgos que los definen como
+sendos conjuntos análogos: 
+1- Estricta moral
+2- Ausencia de una causa justa
+3- Hombre amante
+4- Error trágico
+5- Circunstancias de la muerte
+1- Portador de una estricta moral
+Ambos personajes se definen por ser portadores de una estricta moral por oposición a
+sus antagonistas, que son definidos como personajes egocéntricos e irrefrenables en el
+cumplimiento de sus metas individuales: así como Aquiles solicita a su madre Tetis en I,
+407-412 que los demás aqueos sean destruidos hasta que reparen sus ofensas, César se
+presenta en I, 146-147 como un individuo caracterizado por ser movimiento continuo, “as a
+process in nature”19. 
+acer et indomitus, quo spes quoque ira uocasset,
+ferre manum et numquam temerando parcere ferro (I, 146-147)20
+Impetuoso e indomable, a donde lo hubieran llamado la esperanza y la ira, llevaba su mano
+y nunca se abstenía de manchar el hierro.
+Poco más adelante, Héctor vacila en la batalla y a diferencia de Aquiles es invadido
+por el miedo. En V, 470 los troyanos se han replegado y ceden el frente de batalla.
+Sarpedón entonces amonesta a Héctor: 
+Ἕκτορ πῇ δή τοι μένος οἴχεται ὃ πρὶν ἔχεσκες;
+φῆς που ἄτερ λαῶν πόλιν ἑξέμεν ἠδ᾽ ἐπικούρων
+οἶος σὺν γαμβροῖσι κασιγνήτοισί τε σοῖσι.
+τῶν νῦν οὔ τιν᾽ ἐγὼ ἰδέειν δύναμ᾽ οὐδὲ νοῆσαι,
+19 Johnson, “Momentary Monsters”, 74.
+20 Citamos el texto latino a partir de Duff, J. D., Lucan: the Civil War, Loeb Classical Library, Cambridge, 
+Mass. and London, Cambridge University Press, 1928. Las traducciones castellanas nos pertenecen.
+6
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+ἀλλὰ καταπτώσσουσι κύνες ὣς ἀμφὶ λέοντα:
+ἡμεῖς δὲ μαχόμεσθ᾽ οἵ πέρ τ᾽ ἐπίκουροι ἔνειμεν. (V, 472-477)21
+¿Héctor, a dónde se te ha ido la furia y el ánimo que antes tenías? Aseguras que conservarás
+la ciudad sin huestes y sin aliados, tú solo, con tus cuñados y con tus hermanos. Pero de
+ésos no soy capaz ahora de ver ni notar a ninguno, pues se amedrentan como perros en
+torno de un león, y los que luchamos somos los que estamos aquí como aliados (…).22
+ Héctor se siente afectado por la amonestación y vuelve a la batalla con renovada furia: 
+(…) δάκε δὲ φρένας Ἕκτορι μῦθος:
+αὐτίκα δ᾽ ἐξ ὀχέων σὺν τεύχεσιν ἆλτο χαμᾶζε,
+πάλλων δ᾽ ὀξέα δοῦρα κατὰ στρατὸν ᾤχετο πάντῃ
+ὀτρύνων μαχέσασθαι, ἔγειρε δὲ φύλοπιν αἰνήν.
+(…) la reprimenda mordió a Héctor las mientes. Al punto saltó del carro a tierra con las
+armas y blandiendo agudas lanzas recorrió el ejército por doquier, instándolos a luchar, y
+despertó una atroz contienda. (V, 493-496).
+Cuando en el canto sexto Agamenón y Néstor estimulan la furia de los guerreros
+para obligar a Héctor y sus fuerzas a replegarse mientras éstos se encuentran en retirada
+atemorizados, Héleno los disuade de regresar a la ciudad. Se dirige especialmente a Héctor
+y a Eneas, a quienes llama “los mejores para toda empresa, bien para luchar, bien para
+decidir” (6.78-9). Envía a Héctor a la ciudad para encargar a Hécuba la realización de
+ciertos sacrificios (6.86-101). 
+(…) Ἕκτωρ δ᾽ οὔ τι κασιγνήτῳ ἀπίθησεν.
+αὐτίκα δ᾽ ἐξ ὀχέων σὺν τεύχεσιν ἆλτο χαμᾶζε,
+πάλλων δ᾽ ὀξέα δοῦρα κατὰ στρατὸν ᾤχετο πάντῃ
+ὀτρύνων μαχέσασθαι, ἔγειρε δὲ φύλοπιν αἰνήν. (VI, 102-105)
+(…) Héctor no desobedeció a su hermano. Al punto del carro saltó a tierra con las armas
+blandiendo  las agudas lanzas, recorrió el ejército por  doquier instándolos  a luchar  y
+despertó una atroz contienda. 
+21 Citamos el texto en griego de Iliada a partir de Monro, D. & T. Allen (ed.), Homer. Homeri Opera in five 
+volumes, Oxford, Oxford University Press, 1920.
+22 Citamos la traducción de Ilíada desde la edición de Crespo Güemes, E. (ed.), Homero, Ilíada, Madrid, 
+Gredos, 1996.
+7
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+Cuando regresa a la ciudad y se encuentra con Hécuba, rechaza la posibilidad de
+descansar:
+μή μοι οἶνον ἄειρε μελίφρονα πότνια μῆτερ,
+μή μ᾽ ἀπογυιώσῃς μένεος, ἀλκῆς τε λάθωμαι (…) (VI, 264-5)
+ No me ofrezcas vino, dulce para las mientes, augusta madre, no sea que me relajes la furia
+y me olvide del coraje.
+Así se mantiene fiel a sus obligaciones como guerrero. Agrega: 
+χερσὶ δ᾽ ἀνίπτοισιν Διὶ λείβειν αἴθοπα οἶνον
+ἅζομαι (…) (VI, 266-267)
+Hacer libaciones de rutilante vino para Zeus con manos sin lavar me causa escrúpulos (…).
+En suma, Héctor se presenta como  εὐσεβής, pius, y se muestra coherente con la
+sanción dirigida a su hermano en III, 50. Su εὐσέβεια se construye sobre el respeto a los
+dioses y a los maiora, lo cual se traduce en que su función social sea la protección de la
+ciudad. Por ese motivo, el nombre de su hijo es Σκαμάνδριος, llamado así en honor del río
+que corre junto a la ciudad, y el apodo que los ciudadanos le han dado es Ἀστυάναξ, el
+“protector  de  la  ciudad23”  haciendo  alusión  a  la  principal  función  de  Héctor  en  la
+comunidad: 
+τόν ῥ᾽ Ἕκτωρ καλέεσκε Σκαμάνδριον, αὐτὰρ οἱ ἄλλοι
+Ἀστυάνακτ᾽: οἶος γὰρ ἐρύετο Ἴλιον Ἕκτωρ. (VI, 402-403)
+Héctor solía llamarlo Escamandrio, pero los demás Astianacte; pues Héctor era el único que
+protegía Ilio. 
+23 Recordamos que el nombre propio es parlante, es decir, la lexicalización de una descripción definida, de la
+que forma parte en este caso el sustantivo τό ἄστυ, “ciudad”. Al mismo tiempo, como señala Nagy, G. The 
+Best of Achaeans, The Johns Hopkins University Press, 1999 (1979), 218, el nombre de Héctor también es 
+parlante, en tanto es resultado de la gramaticalización del verbo ἔχω, que en una de sus acepciones significa 
+“proteger”. 
+8
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+Sin embargo, la estricta moral no libera al personaje de la ambigüedad ética que lo
+caracteriza como humano24. Tanto Aquiles como César son presentados como personajes
+que, ya por su naturaleza híbrida, en el caso de Aquiles, ya por su ambición sobrenatural en
+el caso de César25, se colocan en un plano por encima de lo humano. Esta fortaleza
+desmesurada motivará que tanto César como Aquiles  sean personajes  monolíticos  en
+contraste con sus antagonistas26. Es esta humanidad la que convierte a Héctor y a Pompeyo
+en personajes trágicos, representación de individuos que han puesto su vida al servicio de
+su comunidad y aceptan sobre ellos las enormes expectativas de aquellos por los que van a
+24 La cambiante representación del personaje de Pompeyo se atribuye a su humanidad: la posibilidad de (en 
+términos de Redfield, J., Naturaleza y Cultura en la Ilíada: La Tragedia de Héctor, Barcelona, Destino, 1992 
+[1975]) errar en la toma de decisiones y provocar la precipitación de la tragedia por ello: “Pompey is simply a
+human, with his own strengths and weaknesses” (Bartsch, “Ideology”, 76) “His heavily rhetorical claims of 
+moral superiority have already been undermined by his characterization in the text” (77). Acerca del problema
+de la incoherente representación del personaje, ver Green, C. M. C., “The Necessary Murder: Myth, Ritual, 
+and Civil War in Lucan, Book 3”, CA 13, 1994, 203-233.
+25 La sobrenaturalidad del personaje de César se consolida en la travesía que realiza hacia el Epiro en medio
+de una tempestad, anunciada con múltiples y terribles signos a los cuales subestima. Si alguna divinidad
+existiera en Farsalia, es sometida por el poder de César: 
+mihi funere nullo/ est opus, o superi: lacerum retinete cadauer/ fluctibus in mediis, desint
+mihi busta rogusque,/ dum metuar semper terraque expecter ab omni.'/ haec fatum decimus, dictu
+mirabile, fluctus/ inualida cum puppe leuat, nec rursus ab alto/ aggere deiecit pelagi sed pertulit
+unda/ scruposisque angusta uacant ubi litora saxis/ inposuit terrae. pariter tot regna, tot urbes/
+fortunamque suam tacta tellure recepit. (V, 668-677)
+“(…) No tengo funeral alguno, o dioses: retengan mi cadáver mutilado en el medio de las
+olas, que me falten las piras funerarias y el sepulcro, mientras siempre sea temido y sea esperado por
+toda la tierra.” Habiendo dicho estas cosas, maravilloso de decir, una ola lo levanta con su frágil
+popa, y no lo arrojó de nuevo desde lo alto contra la muralla del mar, sino que lo llevó la ola y lo
+depositó en la tierra, en donde las angostas costas se ven libres de afiladas rocas. Habiendo sido
+tocada la tierra, recuperó al mismo tiempo tantos reinos, tantas ciudades y su suerte.
+26 Tanto César como Aquiles presentan también rasgos humanos: Aquiles, el αἰδώς que comienza a quebrar 
+su postura en la embajada apaciguadora durante el canto IX y el dolor ante la muerte de Patroclo; César, el 
+pavor que lo invade cuando llega a Egipto en X.  Sin embargo, estos rasgos no los ponen en conflicto con sus 
+propias misiones. César es presentado en el libro I sed non in Caesare tantum/ nomen erat nec fama ducis, 
+sed nescia virtus/ stare loco, solusque pudor non vincere bello (I, 143-145), “Pero en César no existía tanto el 
+nombre y la fama de general, sino una virtus ignorante de reposar en un mismo lugar, y su único pudor era no 
+vencer en la batalla”.
+9
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+morir27. Es esta humanidad la que motiva lo que ha sido leído como “ambigüedad ética”28,
+que incluso es tematizada en Farsalia en el discurso de Catón (IX, 190-206)
+'ciuis obit' inquit 'multum maioribus inpar                  
+nosse modum iuris, sed in hoc tamen utilis aeuo,
+cui non ulla fuit iusti reuerentia; salua
+libertate potens, et solus plebe parata
+priuatus seruire sibi, rectorque senatus,
+sed regnantis, erat. nil belli iure poposcit,                   
+quaeque dari uoluit uoluit sibi posse negari.
+inmodicas possedit opes, sed plura retentis
+intulit. inuasit ferrum, sed ponere norat.
+praetulit arma togae, sed pacem armatus amauit.
+iuuit sumpta ducem, iuuit dimissa potestas.                   
+casta domus luxuque carens corruptaque numquam
+fortuna domini. clarum et uenerabile nomen
+gentibus et multum nostrae quod proderat urbi. 
+olim uera fides Sulla Marioque receptis
+libertatis obit: Pompeio rebus adempto                  
+nunc et ficta perit (…)” 
+Ha muerto un ciudadano- dijo [Catón]- muy distinto a los mayores en conocer los límites de
+lo legal, pero sin embargo útil en nuestra era, que no ha tenido ningún respeto por la
+justicia; poderoso conservando la libertad, y él solo [se mantuvo como] particular mientras
+la gente estaba dispuesta a servirle; era el jefe del senado, pero [de un senado] soberano.
+Nada reclamó por ley de la guerra, todo lo que quiso que se le diera, quiso que se le pudiera
+negar. Poseyó riquezas desmedidas, pero ingresó más de las que retuvo. Blandió el hierro,
+pero había sabido deponerlo. Prefirió las armas a la toga, pero, armado, amó la paz. El
+27 Respecto de Pompeyo, “He was, for the most part against his will, the magnet toward which the fantasies
+of his contemporaries (…) felt themselves irresistibly drawn” (Johnson, “Momentary Monsters”, 85). Si bien
+Catón afirma que nec, si fortuna fauebit,/ hunc quoque totius sibi ius promittere mundi/ non bene conpertum
+est (II, 320-322), “Y se evidencia que, si la fortuna lo favorece, él también se promete el control del mundo
+entero”, debe tenerse en cuenta que existe una evolución de los personajes a lo largo de la obra, en sus propios
+rasgos y, en el caso de la relación entre Catón y Pompeyo, a nuestro entender, respecto del juicio de uno sobre
+otro. Por este motivo, proponemos leer dialógicamente II, 320-322 y IX, 190-206, citado a continuación del
+segmento del que se desprende esta nota. Al mismo tiempo, recordamos que cuando en el libro 1 se presenta
+el conflicto y a los personajes, el narrador sienta como bases del conflicto los particulares intereses de las
+partes implicadas y también, en la misma medida, la predisposición de la sociedad entera a entrar en un
+conflicto de estas características:  Hae ducibus causae; suberant sed publica belli/ semina, quae populos
+Semper mersere potentis (I, 158-159), “Éstas eran las causas de los generales; pero subyacían semillas de
+guerra en la sociedad”. 
+Por otro lado, en relación con Héctor: “El papel social de Héctor exige de él más que sumisión, exige
+que tenga iniciativa, que mande y que decida. Decidir entraña la posibilidad de equivocarse, y puesto que el 
+hombre es mortal, sus errores son irremediables. No obstante, sin libertad y por lo tanto sin la posibilidad de 
+error, no hay heroísmo.” (Redfield, Naturaleza y Cultura, 99)
+28 Ahl, Lucan,153 toma la ambigüedad ética del personaje como rasgo esencial de su condición de antihéroe.
+“He is neither good nor evil; nor is he strong or invincible. But he has his own curious kind of greatness.” 
+Johnson, Momentary Monsters, XI propone pensar los héroes de Farsalia como caricaturas de héroes. 
+10
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+poder le fue útil como general, asumido y abandonado. Casto fue su hogar, carente de lujo y
+nunca corrompido por la suerte de su señor. Famoso y venerable fue su nombre entre las
+gentes y mucho fue lo que ayudó a nuestra ciudad. Tiempo atrás, al ser admitidos Silla y
+Mario, murió la verdadera fe en la libertad: desaparecido Pompeyo, ahora perece también la
+ficción hecha de estas cosas. 
+2- Ausencia de una causa justa
+Las empresas que ambos defienden no son objetivamente justas y ambos personajes
+son conscientes de ello. Por una parte, Héctor no olvida las causas primeras del conflicto.
+Cuando en III, 38-57 ve a Paris retrocediendo ante el avance de Menelao, lo amonesta
+haciendo referencia a la conducta que de él se espera; al mismo tiempo, explicita la
+inmoralidad de las causas del conflicto:
+Δύσπαρι εἶδος ἄριστε γυναιμανὲς ἠπεροπευτὰ
+αἴθ᾽ ὄφελες ἄγονός τ᾽ ἔμεναι ἄγαμός τ᾽ ἀπολέσθαι:
+καί κε τὸ βουλοίμην, καί κεν πολὺ κέρδιον ἦεν
+ἢ οὕτω λώβην τ᾽ ἔμεναι καὶ ὑπόψιον ἄλλων.
+ἦ που καγχαλόωσι κάρη κομόωντες Ἀχαιοὶ
+φάντες ἀριστῆα πρόμον ἔμμεναι, οὕνεκα καλὸν
+εἶδος ἔπ᾽, ἀλλ᾽ οὐκ ἔστι βίη φρεσὶν οὐδέ τις ἀλκή.
+ἦ τοιόσδε ἐὼν ἐν ποντοπόροισι νέεσσι
+πόντον ἐπιπλώσας, ἑτάρους ἐρίηρας ἀγείρας,
+μιχθεὶς ἀλλοδαποῖσι γυναῖκ᾽ εὐειδέ᾽ ἀνῆγες
+ἐξ ἀπίης γαίης νυὸν ἀνδρῶν αἰχμητάων
+πατρί τε σῷ μέγα πῆμα πόληΐ τε παντί τε δήμῳ,
+δυσμενέσιν μὲν χάρμα, κατηφείην δὲ σοὶ αὐτῷ; (…) (III, 39-51)
+¡Calamidad de Paris, presumido, mujeriego y mirón! ¡Ojalá no hubieras llegado a nacer o
+hubieses muerto célibe! ¡Incluso eso habría preferido –y mucho más habría valido-, antes
+que volverte así afrenta y oprobio de los demás! A carcajadas seguro que ríen los aqueos, de
+melenuda cabeza, que creían que eras paladín y campeón, porque es bella tu apariencia;
+pero en tus mientes no hay ni fuerza ni coraje. ¿Siendo de esa calaña, en las naves,
+surcadoras  del  ponto,  navegaste  sobre  el  mar  tras  reunir  muy  fieles  compañeros,  te
+mezclaste con extranjeros y con la hermosa mujer zarpaste desde remota tierra, con la nuera
+de belicosos lanceros, enorme calamidad  para tu padre, tu ciudad y todo tu pueblo,
+irrisión para los enemigos y escarnio para ti mismo? (el destacado es nuestro)
+11
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+Se entiende que su participación en la batalla tiene menos que ver con su propio
+deseo de adquirir κλέος  que con su compromiso con la ciudad29, que está motivado por un
+intenso αἰδώς30. 
+En este punto ambos personajes se oponen de manera complementaria; en otras
+palabras, si bien se conducen de maneras opuestas, en esa oposición revelan sus puntos de
+contacto. Mientras Héctor se desarrolla como un guerrero ejemplar que incluso se presenta
+como superior a Aquiles31, Pompeyo progresivamente se repliega sobre sí y llega a las
+vísperas de la batalla de Farsalia sumido en la inacción. Sus tropas, representadas en VII
+por Cicerón, lo empujan al combate tematizando el  αἰδώς para intentar convertirlo en
+νέμεσις.
+quo tibi feruor abit aut quo fiducia fati?                   
+de superis, ingrate, times causamque senatus
+credere dis dubitas? ipsae tua signa reuellent
+prosilientque acies: pudeat uicisse coactum. (VII, 75-78)
+¿A dónde se te ha ido el fervor o a dónde tu confianza en el destino? ¿Temes acaso, ingrato,
+a los dioses y dudas confiar a los dioses la causa del senado? Tus tropas por ellas mismas
+arrancarán tus estandartes y se lanzarán hacia adelante: deberías avergonzarte de vencer
+forzado a hacerlo.
+Si leemos a Pompeyo como un héroe post-homérico, portador de rasgos anti-
+heroicos y propios de un personaje trágico32, su inacción es consecuencia de la tensión ética
+ “Κλέος , “fama”, “gloria”, un término importante dentro del mudo heroico tal y corno se representa en la  
+épica; la κλέος  es algo que los hombres aprecian y por lo que se esfuerzan (…) Un hombre tiene una κλέος  
+que es su “reputación”, bien sea en general  o bien sea por una cualidad particular.” (Redfield, Naturaleza y 
+Cultura, 32).
+29 Recordamos en este punto lo desarrollado en el apartado precedente sobre el nombre de su hijo, 
+Astianacte.
+30 Si bien Héctor en presentado en los cantos 1 y 2, éste es el primer momento en el poema en el que Héctor
+habla. El contenido de su intervención resulta clave para entender al personaje, pues en él vehicula los semas
+que lo definirán como personaje, relacionados con la ética y la moral ciudadanas más que con el mundo de los
+guerreros.
+Por otro lado, el concepto de αἰδώς se entiende como el temor al juicio de los demás, en ocasiones 
+puede ser paralizante si se convierte en miedo o, como sucede en Héctor, se convierte en el sentimiento 
+movilizador de acciones, νέμεσις (Redfield, Naturaleza y Cultura, 91).
+31 Esta superioridad de Héctor será explicada en el apartado 5. Circunstancias de la muerte.
+32 Ahl, Lucan, 153, “The post-homeric hero is heavily colored by his tragic dimension (…) He becomes 
+something of an anti-hero” a partir de Lawall, G., “Jason as anti-hero”, YCIS 19, 1966, 119-169, el antihéroe 
+se piensa en términos opuestos al modelo odiseico. El antihéroe es ἀμήχανος.
+12
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+que lo invade. Pompeyo es consciente de la criminalidad de la causa por la que lucha y de
+estar obligado por  αἰδώς a conducir las tropas del senado. Sabe que sea cual fuere el
+resultado, éste será infame.
+omne malum uicti, quod sors feret ultima rerum,
+omne nefas uictoris erit. (VII, 122-123)
+Que  todo  mal  que  la  postrera  suerte  de  las  cosas  depare  sea  para  el  vencido;  toda
+abominación, para el vencedor.
+Por esto, Pompeyo representa un puente entre los personajes de César y Catón, los
+otros  dos  héroes  de  Farsalia33.  Mientras  éstos  son  pura  acción  y  sólo  conciben  el
+compromiso total con sus fines34, Pompeyo se define por ser lo opuesto: es el líder de la
+causa  republicana  no  motu  proprio sino porque fue elegido a causa de sus  pasados
+triunfos35. Cicerón le reprocha en Farsalia su falta de convicción como líder36: 
+(…) scire senatus auet, miles te, Magne, sequatur
+an comes. (VII, 83-5)
+(…) el senado ansía saber, Magno, si te seguirá como soldado o como acompañante
+33 Cf. Ahl, Lucan.
+34 “For they are viewed in terms of an ideal: the quest for personal power, the struggle for virtue” (Ahl, 
+Lucan, 160)
+35 Cf. n. 13, Johnson, Momentary Monsters, 85. Al mismo tiempo, la presentación de Pompeyo en I, 121-122
+destaca sus éxitos como un rasgo relevante en la construcción del personaje: tu, nova ne veteres obscurent 
+acta triumphos/ et victis cedat piratica laurea Gallis, Magni, times; “Tú, Magno, temes que los nuevos 
+acontecimientos oscurezcan tus antiguos triunfos y que el laurel pirático ceda ante los vencidos galos”,  si 
+bien el tópico sustenta en este punto la imagen de un Pompeyo soberbio (I, 123-124), te iam series ususque 
+laborum/ erigit inpatiensque loci fortuna secundi, “a ti te enorgullece la serie y la costumbre de tus proezas, y 
+la fortuna que no soporta el segundo lugar”.
+36 Nuevamente, un pasaje en el que Lucano se aleja de la fidelidad a los hechos en pos de la construcción de 
+una secuencia elocuente en sí misma. Cicerón no estuvo presente en la batalla de Farsalia, pero su presencia 
+en este escenario funciona performativamente, a la manera de una metonimia por el senado. Todo el pasaje 
+resulta sumamente económico en su construcción desde el momento en que soluciona en la dimensión 
+espacial –casi una puesta en escena- un problema del plano de lo conceptual: las presiones que llevan al 
+personaje a precipitar los acontecimientos. En otras palabras, se realiza en el plano de lo visible, que es lo que 
+puede ser narrado en el contexto de la épica, el fuero interno del personaje. Si es válido el anacronismo, 
+estamos frente a una estrategia narrativa propia de los movimientos de vanguardia del siglo XX. 
+13
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+A lo que Pompeyo responde aceptando sus obligaciones y tematizando la tensión
+que lo paraliza en el conocimiento de la ausencia de nobleza en los eventos venideros:
+testor, Roma, tamen Magnum quo cuncta perirent
+accepisse diem (VII, 91-92)
+Testifico sin embargo ante ti, Roma, que [Pompeyo] Magno aceptó como imposición el día 
+en que todo pereció 
+3- Hombre amante
+Héctor se diferencia de los demás héroes de Ilíada en que se comporta en relación
+con su esposa, Andrómaca, como un amante esposo. En este aspecto se distancia incluso de
+Aquiles: a pesar de que su ira se despierta cuando Agamenón toma a Briseida para sí, la
+relación  que  guarda  con  ella  es  diametralmente  distinta  a  la  que  Héctor  posee  con
+Andrómaca. Mientras en la esfera de Aquiles Briseida es un trofeo de guerra, un elemento
+contextual dispuesto para tematizar su τιμή37, Andrómaca representa en la esfera de Héctor
+su compromiso con la ciudad, en tanto su compromiso familiar funciona como metonimia.
+El espacio dedicado en la narración a la descripción del último encuentro que mantienen los
+esposos tiene por fin al mismo tiempo la construcción de la “etopeya” de Héctor, es decir
+una secuencia rica en patetismo cuya función narrativa es mostrar el ethos del personaje
+desde su performance en una situación concreta. Si se enfrenta a un personaje monolítico
+que participa más de la ética de los dioses que de los hombres, por contraste Héctor se
+define por ser hombre, y es su humanidad, como se afirmó antes, la que lo configura como
+héroe trágico. 
+Pompeyo por su parte también es presentado como un amante esposo. En las
+vísperas de Farsalia, Cornelia despierta en la noche y encuentra a Pompeyo llorando. Él
+entonces comparte con ella sus miedos y se muestra en toda su fragilidad, extraña en un
+personaje épico.
+37 Honor del héroe pensado relacionalmente con la comunidad de guerreros en la que se inserta. Se 
+representa simbólicamente en objetos o conductas de los demás hacia el héroe representando la valoración 
+que de éste tiene su comunidad.
+14
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+nocte sub extrema pulso torpore quietis
+dum fouet amplexu grauidum Cornelia curis                  
+pectus et auersi petit oscula grata mariti,
+umentis mirata genas percussaque caeco
+uolnere non audet flentem deprendere Magnum. (V, 734-738)
+Cornelia, al final de la noche, expulsada la pesadez del sueño, mientras con su abrazo da
+calor al pecho cargado de preocupaciones y reclama los dulces besos de su marido que le da
+la  espalda,  habiendo  admirado  sus  humedecidas  mejillas  y  sacudida  por  un  dolor
+indescriptible, no osa sorprender a Magno mientras llora.
+La escena, tal como sostiene Ahl38 es uno de los raros momentos de acercamiento y
+calidez humanos en toda la épica latina, y desde nuestra lectura, el sentido de la secuencia
+es análogo a la despedida de Héctor y Andrómaca en tanto su función narrativa es construir
+la etopeya de Pompeyo. Ésta se realiza por contraste con la etopeya de César, también
+desarrollada en el canto V. Se narra cómo a lo largo de trescientos veinte versos César
+desafía a la tempestad para volver al Epiro. La secuencia, sin embargo, a pesar de su
+extensión, no tiene incidencia en el desarrollo del argumento en tanto no es condición
+previa para la sucesión causal de secuencias posteriores. Por este motivo, todo el conjunto
+en la economía de la narración se inserta como catálisis39. La función de ambas escenas, no
+casualmente integradas en un mismo canto, es contraponer a los personajes desde su
+humanidad40. 
+38 Ahl, Lucan,107. 
+39 Según Barthes (1966) estas secuencias o conjunto de secuencias son unidades descriptivas con 
+funcionalidad parásita a los núcleos, unidades de acción consecutivas y consecuentes. Su funcionalidad sin 
+embargo es clave para la comprensión de los núcleos en tanto, en términos “relevantistas” (Wilson & Sperber,
+"Sobre la definición de relevancia", en: Valdez Villanueva, L. (ed.), La búsqueda del significado, Madrid, 
+Tecnos, 583-98)  construye contextos sobre los cuales procesar los núcleos.
+40 La imagen que queda de César luego de la tempestad es la del impío que quizás a causa de su impiedad
+doblega a la naturaleza. 
+fisus cuncta sibi cessura pericula Caesar/ 'sperne minas' inquit 'pelagi uentoque furenti/ trade
+sinum. Italiam si caelo auctore recusas/ me pete (V, 577-580)
+César, confiado en que todos los peligros habían de cesar ante él, afirma “Ignora las
+amenazas y despliega las velas al furioso viento del mar. Si rehúsas dirigirte a Italia siendo el cielo la
+causa, búscame a mí. 
+El episodio actualiza la impiedad de César en III, 399-452. Cuando ordena derribar el bosque
+sagrado y ninguno de sus hombres se atreve a hacerlo, él mismo toma un hacha y tala la primera encima,
+luego de lo cual dice:  iam nequis vestrum dubitet subvertere silvam/ credite me fecisse nefas, “Que ya
+15
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+Al mismo tiempo, el diseño del personaje desde su condición de marido amante se
+refuerza por la descripción de sus respectivas esposas y por la manera en que ellas viven el
+dolor y la muerte de estos. Cornelia y Andrómaca lloran y se lamentan incluso cuando nada
+parece asegurar la muerte inminente de sus esposos. Héctor busca a Andrómaca en su casa
+y no la encuentra porque ésa se había dirigido hacia las murallas, donde lloraba por él (VI,
+373). Mientras Andrómoca es presentada como “intachable esposa” (374), Cornelia es por
+su parte fida comes Magni, “fiel compañera del Magno” (V, 804), y cuando éste le dice que
+ha llegado la hora de separarse y que ella debe partir por su propia seguridad a Mitilene, el
+narrador describe una Cornelia que se derrumba: 
+(…) uix tantum infirma dolorem
+cepit, et attonito cesserunt pectore sensus. (V, 759-760)
+Apenas pudo, debilitada, dar cabida a un dolor tan grande, y los sentidos huyeron de su
+pecho estupefacto. 
+En este sentido se interpreta la exclamación del narrador cuando se dispone a narrar
+la última noche de Pompeyo junto a Cornelia41:
+heu, quantum mentes dominatur in aequas
+iusta Venus! (V, 727-728)
+cuán grande poder tiene Venus sobre los corazones justos!
+4- Error trágico
+En la economía narrativa de Ilíada, Héctor es funcional a Aquiles, cuya μῆνις lo
+lleva a retirarse del combate para ejercer presión sobre Agamenón. Los avances de Héctor,
+ninguno de vosotros dude en derribar el bosque, sepan que yo he cometido el sacrilegio.” 
+Es necesario aclarar que, si bien el bosque en cuestión es un bosque galo y que, en consecuencia, los 
+dioses que allí residen no forman parte del panteón romano, la economía del texto presenta la secuencia de 
+manera tal que hace inferir si no una crítica al menos un distanciamiento (aún mayor) del narrador respecto de
+las acciones de los personajes en lo que al cumplimento de los mores respecta. 
+41 Si bien vuelven a encontrarse cuando Pompeyo va a buscarla a Lesbos, el Pompeyo que allí aparece ha 
+cambiado luego de Farsalia: ha muerto el héroe y queda un fugitivo que no tardará en morir. Por ese motivo, 
+la escena previa a Farsalia debe, a nuestro juicio, ser leída como la despedida simbólica de los esposos. 
+16
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+avalados por los dioses42, obligan a los aqueos a replegarse y obligan a Agamenón a
+suplicar  a  Aquiles  que  regrese  al  combate,  situación  desesperada  que  se  representa
+performativamente con la embajada de Odiseo, Áyax y Fénix ante Aquiles en el canto 9.
+Pero Héctor excede los límites: luego de incendiar las naves y de matar a Patroclo, lo
+despoja de la armadura, perteneciente a Aquiles, y se viste con ella43, gesto que en la
+economía de la narración opera como “error trágico”.
+τὸν δ᾽ ὡς οὖν ἀπάνευθεν ἴδεν νεφεληγερέτα Ζεὺς
+τεύχεσι Πηλεΐδαο κορυσσόμενον θείοιο,
+κινήσας ῥα κάρη προτὶ ὃν μυθήσατο θυμόν:
+ἆ δείλ᾽ οὐδέ τί τοι θάνατος καταθύμιός ἐστιν
+ὃς δή τοι σχεδὸν εἶσι: σὺ δ᾽ ἄμβροτα τεύχεα δύνεις
+ἀνδρὸς ἀριστῆος, τόν τε τρομέουσι καὶ ἄλλοι:
+τοῦ δὴ ἑταῖρον ἔπεφνες ἐνηέα τε κρατερόν τε,
+τεύχεα δ᾽ οὐ κατὰ κόσμον ἀπὸ κρατός τε καὶ ὤμων
+εἵλευ: ἀτάρ τοι νῦν γε μέγα κράτος ἐγγυαλίξω,
+τῶν ποινὴν ὅ τοι οὔ τι μάχης ἐκνοστήσαντι
+δέξεται Ἀνδρομάχη κλυτὰ τεύχεα Πηλεΐωνος. (XVII, 198-208)
+Cuando Zeus, que las nubes acumula, lo vio de lejos vistiéndose con las armas del divino
+Pelida, comenzó a menear la cabeza y dijo así a su propio animo: “¡Desdichado! La muerte
+está bien ausente de tu ánimo, mas ya se aproxima a ti. Te vistes con las inmortales armas
+del más bravo guerrero, de quien también los demás tiemblan, has matado a su amable y
+esforzado compañero, y las armas de la cabeza y de los hombros vilmente le has quitado.
+Mas ahora te otorgaré una gran victoria como compensación de que de regreso de la lucha
+Andrómaca ya no recibirá de ti la ilustre armadura del Pelida.” 
+La conducta de Héctor con las armas de Patroclo puede ser considerada “error
+trágico” si entendemos por éste “la clase de acción destructiva que puede cometer un
+hombre bueno”44. Desde el momento en que el héroe se define en relación con las
+42 Aquiles, encolerizado porque Agamenón le ha quitado a Briseida, le ruega a Zeus a través de Tetis que 
+permita a los troyanos acorralar a los aqueos en sus naves junto al mar hasta que reconozcan quién es el mejor
+entre ellos (I, 407-412). Zeus, entonces, diseña un plan para honrar a Aquiles (II, 3-4). 
+43 Estamos de acuerdo con Basset, S. E. “Hector’s Fault in Honor”, TAPhA 54, 1923, 1, 117-127, para quien 
+el gesto y las palabras de Zeus parecen indicar que Héctor ha violado algún tipo de norma que no se explicita. 
+“Hector's fault in honor depends little upon the part which Apollo plays in the death of Patroclus and on his 
+own reputation for courage. It consists in the undue appropriation of glory. There is too much of personal 
+pride in his exultation over Patroclus (…) and too much of personal interest in the pursuit of the immortal 
+steeds. Hector at first sends the armor of Patroclus to the city 'for a glory unto himself,' and finally dons this 
+armor in violation of a fundamental principle of chivalry.” (126).
+44 Redfield, Naturaleza y Cultura, 121.
+17
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+aspiraciones que los demás tienen sobre él45, el error es resultado de conducirse más allá de
+los propios límites en el afán de ajustarse a esas mismas aspiraciones. 
+De la misma manera, la destrucción de Pompeyo, anticipada en el episodio de Ericto
+(VI, 802-807)46, se precipita a causa de un conjunto de decisiones que pueden ser nucleadas
+en la secuencia del error trágico47. Así como Héctor comienza a luchar con ferocidad luego
+de  las  sanciones  de  Sarpedón  (V,  472-92),  Pompeyo  decide  combatir  en  Farsalia48
+presionado por los suyos. Éste será su primer error: la primera de las decisiones que tome
+movido por αἰδώς y que va a conducirlo a su destrucción. 
+dira subit rabies: sua quisque ac publica fata
+praecipitare cupit; segnis pauidusque uocatur
+ac nimium patiens soceri Pompeius, et orbis
+45 Remitimos a la discusión sobre κλέος, αἰδώς y νέμεσις en el apartado anterior.
+46 Citamos el episodio:
+[...] Refer haec solacia tecum, 
+o iuuenis, placido manes patremque domumque
+expectare sinu regnique in parte serena
+Pompeis seruare locum. nec gloria paruae
+sollicitet uitae: ueniet quae misceat omnis
+hora duces.
+Llévate contigo, oh joven, este consuelo: los manes esperan a tu padre y a su casa en un
+apacible cobijo, y reservan en la parte serena de su reino un lugar para los Pompeyos. Y que no te
+perturbe la gloria de una vida breve: ya se aproxima la hora en la que se mezclen todos los generales.
+47 Aristóteles (Poet. IV, 1448 b34- 1449 a2) afirma que Homero en la Ilíada y la Odisea esboza los 
+principios de la trama trágica. La literatura crítica en esta vía de análisis ha sido en consecuencia abundante. 
+Destacamos además de Redfield, Naturaleza y Cultura, a Rinon, Y., “A tragic pattern in the Iliad”, HSCPh 
+104, 2008, 45-91 para un estado de la cuestión. Como resumen del problema, citamos:“The Iliad represents 
+man's conflict in life with immanent death. In so far as the idea of conflict is basic to the main theme of the 
+poem the scope of the Iliad is tragic rather than epic, and the two figures in whom the elements of conflict are 
+made most explicit, Achilles and Hector, are tragic rather than epic heroes.” (Tait, M., “The Tragic Philosophy
+of the Iliad”, TAPhA 74, 1943, 49-59, p.49). 
+48 La lectura de la batalla de Farsalia como un  error trágico por parte de Pompeyo es reforzada por el
+narrador: 
+hoc placet, o superi, cum uobis uertere cuncta/ propositum, nostris erroribus addere crimen?/
+cladibus inruimus nocituraque poscimus arma;/ in Pompeianis uotum est Pharsalia castris. (VII, 58-
+61)
+¿Esto les place, oh dioses, cuando tienen el propósito de invertir todas las cosas, añadir el
+crimen a nuestros errores?  Corremos a nuestras destrucciones y pedimos armas que nos destruirán;
+en el campamento pompeyano, el voto es Farsalia.
+18
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+indulgens regno, qui tot simul undique gentis
+iuris habere sui uellet pacemque timeret. (VII, 51-55)
+Una siniestra rabia los invade: cada uno desea precipitar su propio hado y el de la patria;
+Pompeyo es llamado lento y temeroso, y que le permite demasiado a su suegro, y que se
+entrega al gobierno del orbe, ya que desea tener bajo su dominio a tantos pueblos de todas
+partes al mismo tiempo y teme la paz.
+Pompeyo entiende que se enfrenta al error en tanto precipita una destrucción que
+sería evitable si en ese momento depusiera las armas, y decide combatir dejando en claro
+que lo hace contra su voluntad.
+'si placet hoc' inquit 'cunctis, si milite Magno,
+non duce tempus eget, nil ultra fata morabor:
+inuoluat populos una fortuna ruina
+sitque hominum magnae lux ista nouissima parti. (VII, 87-90)
+“Si esto les place a todos,” dijo “si el tiempo necesita de un Magno que sea soldado y no
+general, no demoraré por más tiempo en nada los destinos: que la fortuna envuelva a los
+pueblos en una misma ruina y que este mismo día sea el último para una gran parte de los
+hombres.”
+Sin embargo, la actitud de uno y otro personaje al momento de enfrentar el error es
+radicalmente opuesta. Mientras Héctor se precipita decidido en el error en un gesto de pura
+acción pero sumido en la ceguera, Pompeyo sabe que se enfrenta a su error trágico, y se
+precipita en él con la resignación del que sabe que el error es inevitable. 
+(…) Sic fatur et arma
+permittit populis frenosque furentibus ira
+laxat et ut uictus uiolento nauita Coro                  
+dat regimen uentis ignauumque arte relicta
+puppis onus trahitur. (VII, 123-127)
+Así habla, y permite a los pueblos tomar las armas y suelta los frenos a los enfurecidos a
+causa de la ira y, como el marino vencido por el violento Coro, entrega el mando a los
+vientos y, abandonando su destreza, es arrastrado como una carga inerte de la nave.
+El segundo error trágico de Pompeyo será aceptar el consejo de Léntulo en Faselis y
+dirigirse a Egipto.
+19
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+(…) non plura locutus
+inpulit huc animos. quantum, spes ultima rerum,
+libertatis habes! uicta est sententia Magni. (VII, 453-455)
+Sin decir nada más, empujó sus ánimos en esta dirección. ¡Cuánta libertad tienes, esperanza
+última de las cosas! Fue vencido el parecer del Magno. 
+Pompeyo pierde nuevamente una batalla. Vencido en Farsalia, se enfrenta en el
+campo de lo discursivo contra la retórica de Léntulo, superior a la propia. Así como se
+entregó pasivamente al combate, cede también en sus ideas y se entrega pasivamente a su
+destrucción, siguiendo un curso de acción que no comparte.
+5- Circunstancias de la muerte
+Las secuencias con las que se narran las respectivas muertes de los personajes
+pueden sintetizarse en el siguiente esquema, abstrayéndolas a principios narrativos.  
+-
+Huida de la víctima (personaje que pierde un combate)
+-
+Interrupción de la huida por la traición de un tercer participante
+-
+Muerte de la víctima
+-
+Deshonra de su cadáver 
+Pompeyo huye de Farsalia y se dirige en primer lugar a Lesbos para reencontrarse
+con Cornelia. Luego del episodio en Faselis, se dirige a Egipto, donde el gobierno de
+Ptolomeo XIII debía serle favorable. Cuando arriba a las costas de Egipto, emisarios de
+Ptolomeo, encabezados por Aquilas, el jefe del ejército, lo invitan a descender de su barco y
+a llegar a la costa en una nave de menor envergadura. Pompeyo, que entiende qué se
+esconde detrás del proceder de Ptolomeo, desciende sabiendo que está siendo traicionado.
+ 
+non ulli comitum sceleris praesagia derant:
+quippe, fides si pura foret, si regia Magno
+sceptrorum auctori uera pietate pateret,
+uenturum tota Pharium cum classe tyrannum.  
+20
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+sed cedit fatis classemque relinquere iussus                   
+obsequitur, letumque iuuat praeferre timori. (VII, 571-576)
+A  ninguno de sus compañeros les faltaban presagios del crimen: en efecto, si hubiera
+existido una lealtad pura, si el palacio se abriera con sincera piedad al Magno, responsable
+de los cetros, habría estado pronto a venir el tirano de Faros con toda la flota. Pero cede a su
+destino y accede a abandonar su flota cuando se le ordena hacerlo, le agrada preferir la
+muerte al temor. 
+Si bien Cornelia le suplica que no descienda y que emprendan nuevamente la huida,
+Pompeyo le responde apelando al honor que aún le queda:
+remane, temeraria coniunx,
+et tu, nate, precor, longeque a litore casus
+expectate meos et in hac ceruice tyranni
+explorate fidem' dixit. (VII, 579-582)
+Quédate, dijo, temeraria esposa, y tú, hijo, les ruego, y lejos de la costa observen mi caída, y
+en este cuello tengan una prueba de la lealtad del tirano.
+En Ilíada, Héctor queda solo frente a las puertas de la ciudad y espera a Aquiles
+que, invadido de una furia aniquiladora, ha obligado a los troyanos a replegarse y a volver a
+la ciudad. Mientras lo espera, el terror lo invade y finalmente no puede evitar huir.
+Emprende una carrera alrededor de la ciudad en la que Aquiles no logra alcanzarlo. A causa
+de esto, Atenea se presenta ante Héctor con el aspecto de Déifobo y lo detiene en su carrera
+(XX, 226). Puede afirmarse entonces que Héctor es alcanzado por Aquiles sólo porque es a
+traición obligado a detenerse. Al igual que Pompeyo, Héctor –demasiado tarde- entiende
+que ha sido traicionado y que está a punto de morir:
+Δηΐφοβον δ᾽ ἐκάλει λευκάσπιδα μακρὸν ἀΰσας:
+ᾔτεέ μιν δόρυ μακρόν: ὃ δ᾽ οὔ τί οἱ ἐγγύθεν ἦεν.
+Ἕκτωρ δ᾽ ἔγνω ᾗσιν ἐνὶ φρεσὶ φώνησέν τε:
+“ὢ πόποι ἦ μάλα δή με θεοὶ θάνατον δὲ κάλεσσαν:
+Δηΐφοβον γὰρ ἔγωγ᾽ ἐφάμην ἥρωα παρεῖναι:
+ἀλλ᾽ ὃ μὲν ἐν τείχει, ἐμὲ δ᾽ ἐξαπάτησεν Ἀθήνη.
+νῦν δὲ δὴ ἐγγύθι μοι θάνατος κακός, οὐδ᾽ ἔτ᾽ ἄνευθεν,
+οὐδ᾽ ἀλέη: […]” (XXII, 294-301)
+Llamó a Déifobo, el de blanco broquel, con recia voz y le pidió una larga lanza: pero ya no
+estaba cerca. Héctor comprendió en su corazón y exclamó:
+21
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+“¡Ay! Sin duda los dioses ya me llaman a la muerte. Estaba seguro de que el héroe Déifobo
+se hallaba a mi lado; pero él está en la muralla y Atenea me ha engañado. Ahora sí que
+tengo próxima la muerte cruel; ni ya está lejos ni es ineludible” 
+Decide entonces morir de un modo honorable: en el marco de la sociedad de los
+guerreros, el héroe se consagra como tal ejercitando su ἀρετή, su excelencia, para que pase
+lo que pase en el combate gane para sí y para su comunidad κλέος : gloria imperecedera49. 
+(…) μὴ μὰν ἀσπουδί γε καὶ ἀκλειῶς ἀπολοίμην,
+ἀλλὰ μέγα ῥέξας τι καὶ ἐσσομένοισι πυθέσθαι. (XXII, 304-5)
+¡Que al menos no perezca sin esfuerzo y sin gloria, sino tras una proeza cuya fama
+llegue a los hombres futuros! 
+Héctor enfrenta entonces a Aquiles en combate singular. A pesar de que éste es
+ayudado por los dioses, Héctor anticipa el golpe y esquiva la lanza que Aquiles le ha
+arrojado (XXII, 274-276). Luego, cuando Héctor arroja su lanza, acierta su golpe (XXII,
+289-292) que sin embargo no logra dañar a Aquiles, porque sus armas han sido fabricadas
+por los dioses. Esta desigualdad entre los dos personajes al momento del combate permite
+deducir que Héctor iguala o incluso supera a Aquiles en el combate (Héctor sí logra acertar
+su tiro), realizándose así en su ἀρετή antes de morir. 
+Es esta la actitud ante la muerte que adoptará también Pompeyo cuando desciende
+de su embarcación en las costas de Pharos. En el momento de su muerte se realiza en su
+virtus50, representada en el sentido amplio de fortaleza física y valentía por un lado y de
+supremacía ética, muy próxima a la apathia estoica51, por el otro.
+(…) ut uidit comminus ensis,
+inuoluit uoltus atque, indignatus apertum
+fortunae praebere, caput; tum lumina pressit                  
+continuitque animam, nequas effundere uoces
+uellet et aeternam fletu corrumpere famam.
+49 Para profundizar el problema Redfield, Naturaleza y Cultura, 33 ss.
+50 Para estudiar en detalle el problema de la virtus y su correlación con la ἀρετή, Cf. McDonnell, M., 
+“Roman men and greek Virtus”, en Rosen, M. & I. Sluiter, Andreia: studies in manliness and courage in 
+classical antiquity, Boston, Brill, 2003.
+51 Sobre estoicismo en Farsalia, consultar especialmente Sklenář, R., The Taste for Nothingness: a Study of 
+Virtus and Related Themes in Lucan’s Bellum Civile. Michigan, The University of Michigan Press, 2003.
+22
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+sed, postquam mucrone latus funestus Achillas
+perfodit, nullo gemitu consensit ad ictum
+respexitque nefas, seruatque inmobile corpus,                   
+seque probat moriens (…) (Luc. VIII, 613-621)
+Cuando vio las espadas encima de él, envolvió su rostro y su cabeza, no juzgando digno
+presentarla descubierta ante la fortuna; entonces apretó sus ojos y contuvo el aliento, no
+quisiera dejar escapar ningún gemido y así corromper con el llanto su eterna fama. Pero
+luego de que el funesto Aquilas perforara el costado con la punta de la espada, no le
+correspondió con ningún gemido y no miró la impiedad acometida, y mantiene el cuerpo
+inmóvil y se prueba a sí mismo muriendo (…)
+ 
+Es necesario destacar que si bien no es César quien mata a Pompeyo empuñando él
+sus propias armas, Pompeyo muere creyendo que César ha ordenado su asesinato y que se
+le ha adelantado en la huida, llegando antes que él a Egipto:
+“(…) quacumque feriris,
+crede manum soceri (…)” (VIII, 628-629)
+Cualquiera sea la mano con la que seas herido, cree que es la de tu suegro.
+Con similares palabras, Cornelia expresa la misma idea:
+o coniunx, ego te scelerata peremi:
+letiferae tibi causa morae fuit auia Lesbos,                   
+et prior in Nili peruenit litora Caesar (…). (VIII, 639-641)
+Oh esposo, yo, criminal, te he aniquilado: la perdida Lesbos fue para ti la causa de la fatal
+demora, y César llegó primero a las orillas del Nilo.
+Una vez que el héroe muere, su antagonista deshonra su cadáver imponiéndole toda
+clase de vejaciones y, fundamentalmente, negándole su sepultura.
+Aquiles  mata  a  Héctor  y  deshonra  su  cadáver  (XXII,  373-374;  395-398),
+arrastrándolo ante las murallas de Troya antes de llevárselo a su campamento para allí
+continuar agrediéndolo (463-465).
+23
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+ἀλλ᾽ ὅ γ᾽ ἐπεὶ ζεύξειεν ὑφ᾽ ἅρμασιν ὠκέας ἵππους,
+Ἕκτορα δ᾽ ἕλκεσθαι δησάσκετο δίφρου ὄπισθεν,
+τρὶς δ᾽ ἐρύσας περὶ σῆμα Μενοιτιάδαο θανόντος
+αὖτις ἐνὶ κλισίῃ παυέσκετο, τὸν δέ τ᾽ ἔασκεν
+ἐν κόνι ἐκτανύσας προπρηνέα (…) (XXIV, 14-18)
+Entonces, después de uncir bajo el carro los ligeros caballos, ataba el cuerpo de Héctor tras
+la caja para arrastrarlo, le daba tres vueltas alrededor del túmulo del Mecíada muerto y se
+volvía de nuevo a la tienda a descansar, dejando a aquél extendido de bruces en el polvo
+(…) 
+En Farsalia, el asesinato de Pompeyo se realiza con especial crueldad: mientras aún
+agoniza, Aquilas  le corta brutalmente la cabeza, cometiendo la impiedad de dejar al
+descubierto su rostro, gesto que guarda una especial significación en la construcción de la
+heroicidad del personaje.
+nam saeuus in ipso
+Septimius sceleris maius scelus inuenit actu,
+ac retegit sacros scisso uelamine uoltus
+semianimis Magni spirantiaque occupat ora                  
+collaque in obliquo ponit languentia transtro. (VIII, 667-671)
+Pues  el  cruel  Septimio  en  el  mismo  acto  del  crimen  halla  un  crimen  mayor,  pues
+desgarrando el velo, descubre los sagrados rasgos de Magno moribundo y se apodera de su
+boca que aún respiraba, y coloca el desfallecido cuello sobre el oblicuo banco.
+A continuación arroja su cuerpo por la borda y lleva la cabeza hasta Ptolomeo, quien
+la hará embalsamar para conservarla como trofeo. Queda su cuerpo varado en la costa, a
+merced de las olas (698-699), hasta que Cordo improvisa funerales y una sepultura en la
+costa (VIII, 712-793). Mientras tanto, la corrupción afecta sus restos. 
+pulsatur harenis,
+carpitur in scopulis hausto per uolnera fluctu,
+ludibrium pelagi, nullaque manente figura                  
+una nota est Magno capitis iactura reuolsi. (VIII, 708-711)
+Es empujado en las arenas, desgarrado en las rocas mientras el agua es absorbida a través de
+sus heridas, como un juguete del mar, no quedando nada reconocible, el Magno tiene por 
+única señal la pérdida de su cabeza cortada. 
+24
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+ Esta conducta para con el cuerpo del enemigo derrotado atraviesa toda Ilíada como
+amenaza, como el límite último del horror de la guerra que sin embargo nunca llega a
+cumplirse: los dos cadáveres puestos en juego en el argumento, el de Patroclo y el de
+Héctor, son finalmente devueltos y reciben, aunque tarde, sus funerales. Si bien el examen
+de las consecuencias de la profanación de los cadáveres excede los límites de este trabajo,
+es necesario destacar que la negación de los funerales y el maltrato del cuerpo representan
+tanto en la comunidad de guerreros griega como en la Roma de la República y del Imperio
+una doble afrenta. En primer lugar, al muerto: el cuidado de su cuerpo y la realización de
+sus funerales conllevan la dignificación del individuo en tanto se construye una memoria de
+él destinada a durar. Al mismo tiempo, el tratamiento del cuerpo, sea cual fuere el método
+funerario empleado, arrebata al individuo de la naturaleza que en forma de corrosión lo
+aparta de la cultura. Sepultar a un muerto es una manera simbólica de conservarlo en los
+límites de la comunidad52, e incluso, si se contemplan las creencias sobre la imposibilidad
+de descanso ulterior para el muerto no sepultado, realizar sus funerales es el gesto final de
+la comunidad en su beneficio. En palabras de Ericto, 
+a miser, extremum cui mortis munus inique
+eripitur, non posse mori (VI, 724-725)
+Oh desgraciado, aquel a quien se le arrebata el último don de la muerte injustamente: no 
+poder morir. 
+En  segundo  lugar,  realizar  el  correspondiente  funeral  a  los  muertos  es  también  la
+posibilidad de que la comunidad sane la herida que deja la súbita desaparición de uno de
+sus miembros. Es esta necesidad la que hace que Príamo se dirija hasta el campamento
+aqueo para pedir la devolución del cadáver de Héctor (XXIV, 486-506), por el cual paga
+una importante recompensa (XXIV, 228-237).
+Si hasta el momento detectamos simetrías estructurales en la constitución de los
+personajes, el trazado de este paralelo podría reforzase en la lectura de  IX, 950-999, donde
+52 Cf. Bendlin, A., “Purity and Pollution”, en Ogden, D. (ed), A Companion to Greek Religion, Malden- 
+Oxford, Blackwell Publishing Ltd., 2007; De Coulanges, F., La Ciudad Antigua, México DF, Porrúa Ed., 1996
+(1864), 5-15; Redfield, Naturaleza y Cultura, 127-143.
+25
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+se narra cómo César visita las ruinas de Troya en su camino hacia Egipto. Entre los pasajes
+en los que Lucano elabora la materia histórica con mayor libertad, éste es quizás el más
+evidente desde el momento en que ninguna otra fuente o narración contemporánea registra
+el paso de César por Troya53. La presencia del episodio en el conjunto es en consecuencia
+relevante54, es decir, la secuencia de César paseando por las ruinas de Troya está allí por
+algún motivo, parafraseando en estos términos a Sperber & Wilson (1986). En consonancia
+con nuestra lectura, su función sería explicitar la conexión entre la narración de la guerra
+civil y la guerra de Troya tal como es narrada en Ilíada. A su vez, una secuencia en concreto
+dentro del episodio respaldaría nuestra lectura: mientras César camina entre los restos de
+Troya, distraídamente se detiene sobre los restos del sepulcro de Héctor. 
+(…) securus in alto                  
+gramine ponebat gressus: Phryx incola manes
+Hectoreos calcare uetat. (IX, 975-977)
+Despreocupado, caminaba por la alta hierba: el habitante frigio le prohíbe pisar los manes 
+de Héctor. 
+El pasaje tendría por fin volver explícitas las conexiones macroestructurales entre ambos
+textos y especialmente la conexión entre los personajes de Héctor y Pompeyo. El gesto de
+César triunfador pisando los manes de Héctor, derrotado en Troya, obliga a pensar en
+Pompeyo, derrotado en Farsalia y asesinado en Egipto. La conexión incluso se consolidaría
+si se tiene en cuenta que en VI, 350 se explica el origen de la tierra de Farsalia y se la
+presenta como la tierra de Aquiles, aequorei regnum Pharsalos Achillis. La identificación
+de César con Aquiles y de Pompeyo con Héctor se consolidaría en consecuencia en este
+episodio en el que el escenario, las ruinas de Toya, se presenta como marco de integración
+que funde en un mismo relato dos relatos, dos conflictos, dos textos y dos planos de
+realidad: el mito55 y la historia. 
+53 Cf. Zwierlein, O., “Lucan’s Caesar at Troy”, en: Tesoriero, C. (ed.), Oxford Readings in Classical Studies:
+Lucan, Oxford, Oxford University Press, 2010, 411-432. 
+54 Utilizamos el término relevancia en sentido puramente técnico. Siguiendo a Willson & Sperber, “Sobre la 
+definición de relevancia”, es relevante un estímulo que mediante la activación de ciertos contextos en el 
+receptor permite la construcción de explicaturas. 
+55 Tomamos “mito” en términos de García Gual, según el cual “mito” es un relato tradicional que refiere la 
+actuación memorable y ejemplar de unos personajes extraordinarios en un tiempo prestigioso y lejano (García
+26
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+Consecuencias y conclusiones
+El  análisis  macroestructural56 presentado  en  este  trabajo  permite  en  principio
+formalizar la conexión entre ambos textos, la cual en una lectura superficial se hace
+evidente a partir del reconocimiento de escenas o de rasgos que resultan familiares a un
+lector competente en los contextos que la literatura de este período supone57. Un estudio de
+esta naturaleza permite en primer lugar superar la búsqueda de calcos lingüísticos como
+única forma  de vinculación  de textos.  Los  cruces  estructurales  entre relatos, que no
+aparecerán  quizás  realizados  en  la  selección  léxica,  permite  que  el  receptor  realice
+conexiones entre el texto que está siendo procesado y otros que forman parte de su acervo
+cultural, su contexto, y desde esa conexión producir nuevos significados. En otras palabras,
+las conexiones intertextuales operan a nivel léxico y a nivel macroestructural y habilitan la
+construcción de sentido de una manera dinámica en tanto exigen la participación del
+receptor en la construcción, en última instancia, del texto58.
+La descomposición de los personajes de Pompeyo y de Héctor en sendos haces de
+rasgos intensionales59 permitió explicitar los fundamentos de lo que intuitivamente se
+percibe como un simple parecido. En otras palabras, el análisis realizado pondría en relieve
+los estímulos ostensivos que permiten la construcción de una “explicatura”60, en este caso
+difusa, que se manifiesta como una “cita cultura”61.
+Gual, C., Introducción a la mitología griega, Alianza Editorial, Madrid, 2006, 22).
+56 Seguimos a Van Dijk (Text and Context. Explorations in the semantics and Pragmatics of Discourse, 
+Longman Linguistic Library 21, London, 1977; id. Macroestructures. An Interdisciplinary Study of Global 
+Structures in Discourse. Cognitions and Interaction, Hillsdale, Lawrence Erlbaum, 1980) en tanto las 
+categorías de macroestructura (contenido semántico global que representa el sentido del texto) y 
+superestructura (esquema básico que organiza la información contenida en un texto y que lo clasifica por eso 
+dentro de un tipo) nos resultan productivas para el análisis de las inferencias derivadas del análisis estructural.
+57 El destinatario ideal prefigurado por Farsalia conoce la historia y la literatura contemporánea al momento
+de producción y de los siglos precedentes en tanto forman parte de su acervo cultural. 
+58 Nuestro análisis parafrasea la teoría de la relevancia, la cual puede recuperarse de Willson & Sperber, 
+“Sobre la definición de relevancia”.
+59 Característica que aporta a la descripción de un referente seleccionando propiedades que definen la 
+intersección entre los conjuntos definidos por cada rasgo. 
+60 Wilson & Sperber, “Sobre la definición de relevancia”.
+61 Maingueneau, D., Initiation aux méthodes de l'analyse de discours. Problèmes et perspectives, Paris, 
+Hachette, 1976, 22-23.
+27
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+Para finalizar, queremos destacar dos consecuencias interpretativas de una lectura
+comparativa como la desarrollada en este trabajo. La primera inferencia que se extrae del
+paralelo es la idea de repetición. Dos guerras, dos enfrentamientos de dos individuos que se
+miden en su grandeza (el aspecto positivo o negativo o relativo de la misma queda fuera del
+análisis porque implica la participación de un alto grado de subjetividad). La segunda
+inferencia, la identidad. Así como existe una analogía entre los personajes y sus conflictos,
+existe  una  analogía  a  nivel  superestructural:  los  relatos  de  Ilíada y  Farsalia se
+corresponden en que ambas son narraciones (identidad superestructural) y que ambas
+relatan  un  conflicto  análogo  (identidad  macroestructural)  que  termina  finalmente  por
+provocar una identidad de mayor trascendencia que es la de mito e historia. 
+La lectura propuesta en el presente trabajo puede insertarse en la línea de las
+lecturas decadentistas en Farsalia62. Por un lado, si la historia se repite, si Roma es una
+nueva Troya y como ella está condenada a la ruina, nada impide que en un futuro un nuevo
+estado poderoso se convierta en las ruinas de otro que lo recuerde en su literatura63. De esta
+manera, lo que se construye en Farsalia es una cosmología, una visión del mundo y de sus
+acontecimientos. Si esto es así, las lecturas acotadas al compromiso (o descompromiso)
+político de la obra quedan, justamente, acotadas64. Sin salir de los límites de Farsalia, por
+otro lado, la idea de la repetición del conflicto vacía políticamente la lectura en tanto se
+deduce que lo que queda de un conflicto (de estas características al menos) son los
+caracteres de sus  participantes. Cuando a la narración histórica se la despoja de los
+contextos que la vuelven significativa a nivel explícito en términos ideológicos, sólo queda
+su superestructura y esqueletos de rasgos, personajes, luchando entre ellos. Se puede
+imaginar un Lucano seducido por los rasgos de los protagonistas de la historia reciente a los
+que convierte en personajes. La fascinación por lo horroroso65 consiste en la estetización de
+lo cotidiano, en la conversión de la historia en literatura. En ese sentido, entonces, estaría
+hablando el narrador de Farsalia, Lucano mismo:
+62 Cf. Sklenář, The Taste.
+63 Ahl, Lucan, 217.
+64 En este sentido, nuestra propuesta suma a la lectura de Johnson, Momentary Monsters, para quien 
+Farsalia no es una obra proselitista, y que suponerlo recorta las posibilidades interpretativas. 
+65 Johnson, Momentary Monsters.
+28
+Auster, nº 22, e038, 2017. ISSN 2346-8890
+o sacer et magnus uatum labor! omnia fato                  
+eripis et populis donas mortalibus aeuum. (IX, 980-981)
+¡Oh, sagrada y grande es la labor de los poetas! Arrebatas todo al destino y das a las gentes 
+mortales la eternidad.
+Malena Trejo
+IdIHCS (CONICET/ UNLP)
+malena.trejo.mt@gmail.com
+Resumen:
+El  tratamiento  de  los  personajes  de  César  y  de  Pompeyo  en  Farsalia presenta  fisuras  o
+inconsistencias que la literatura crítica ha intentado salvar mediante diversas construcciones de sentido. Entre
+estas diversas vías interpretativas destacan las que realizan lecturas intertextuales entre  Farsalia e  Ilíada,
+especialmente en relación al modo según el cual en una y otra obra opera el código heroico (Anderson, 1957;
+Hardie, 1993; Green, 1991).
+Es clásica en esta materia la propuesta de Von Albrecht (1970) centrada en la identificación de César
+con Aquiles y de Pompeyo con Agamenón. Nuestro trabajo retoma la comparación de César con Aquiles, pero
+refuta la existente entre Pompeyo y Agamenón, presentando para eso un paralelo con Héctor. Nuestra
+hipótesis permitiría arrojar nueva luz sobre la lectura global que Lucano realiza sobre las guerras civiles. 
+Palabras clave: Lucano- Ilíada- Intertextualidad- héroe- memoria
+Abstract:
+The characters of Caesar and Pompey in Pharsalia show certain inconsistencies that critical literature
+has attempted to explain by means of different strategies for building of meaning. A distinctive one among
+these is the intertextual reading between  Pharsalia and  The Iliad, concerning mainly the heroic code
+(Anderson, 1957; Hardie, 1993; Green, 1991).
+This reading stems from von Albrecht (1970), who stablishes a parallelism between Caesar and
+Achilles, and between Pompey and Agamemnon. Our paper departs from von Albrecht as far as the second
+one is concerned, in order to set a new comparison between Pompey’s fictional representation and Hector’s
+character. Our objective is to rethink the intertextual reading of Pharsalia, and thereby shed light on Lucan’s
+interpretation of the Civil Wars.  
+Keywords: Lucan- Iliad- intertextuality- hero- memory
+RECIBIDO: 23-6-2017 – ACEPTADO: 15-10-2017
+29

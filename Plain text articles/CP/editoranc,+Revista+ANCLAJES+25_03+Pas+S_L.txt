@@ -1,0 +1,486 @@
+85
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+DOSSIER
+Pas, Hernán. “De la ciudad letrada a las voces impresas. Un recorrido conjetural”. 
+Anclajes, vol. XXV, n.° 3, septiembre-diciembre 2021, pp. 85-95.
+https://doi.org/10.19137/anclajes-2021-25311
+De la ciudad letrada a 
+las voces impresas. Un 
+recorrido conjetural
+Hernán Pas
+Instituto de Humanidades y Ciencias Sociales, IdHICS
+Universidad Nacional de La Plata
+Consejo Nacional de Investigaciones Científicas y Técnicas, CONICET
+Argentina
+hpas@fahce.unlp.edu.ar | hernan_pas@yahoo.com
+ORCID: 0000-0003-4365-7662
+Fecha de recepción: 28/06/2021 | Fecha de aceptación: 08/07/2021
+Resumen: Se despliega un panorama de los avances sobre el siglo XIX producidos en la 
+crítica de las últimas décadas desde la impronta inicial del legado de Ángel Rama hasta el 
+llamado giro material. Se describe la relevancia que adquirieron las investigaciones sobre 
+el formato periódico en los estudios sobre la producción, circulación y recepción lite-
+raria en ese siglo y se reseñan las contribuciones publicadas en la revista Anclajes como 
+correlato de perspectivas más amplias sobre la edición, la literatura, la lectura.  
+Palabras clave: siglo XIX; periódico; historia de la edición; literatura latinoamericana; 
+crítica literaria.
+From the letterate city to the printed voices. A conjectural tour
+Abstract: A panorama of the advances on the 19th century produced in the criticism 
+of the last decades is displayed from the initial imprint of Ángel Rama’s legacy to the 
+so-called material turn. 
+The relevance that research on the periodical format acquired in 
+studies on literary production, circulation and reception in that century is described and 
+the contributions published in Anclajes are reviewed as a correlate of broader perspec-
+tives on publishing, literature, and reading.
+Keywords: XIX century; Newspaper; publishing history; Latin American literature; liter-
+ary criticism.
+Da cidade letrada às vozes impressas. Um tour conjectural
+Resumo: Da impressão inicial do legado de Ángel Rama à chamada virada material, 
+desdobra-se um panorama dos avanços do século XIX produzidos na crítica das últimas 
+décadas. Descreve-se a relevância que a pesquisa sobre o formato do periódico adquiriu 
+nos estudos sobre produção, circulação e recepção literária naquele século e as contri-
+86
+Hernán Pas | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+buições publicadas na revista Anclajes são revisadas como um correlato de perspectivas 
+mais amplas sobre publicação, literatura e literatura.
+Palavras chave: século XIX; Jornal; história da publicação; Literatura latino-americana; 
+Crítica literária.
+L
+a aparición del primer número de Anclajes (1997) coincidió, 
+casualmente, con la publicación del volumen que el Instituto 
+Internacional de Literatura Iberoamericana de la Universidad de 
+Pittsburgh dedicó a una figura por demás señera de la crítica latinoamericana. 
+En efecto, ese mismo año conocimos el compendio Ángel Rama y los estudios 
+latinoamericanos, el cual, integrando la serie Críticas del IILI (edición a cargo de 
+Mabel Moraña), se proponía como un balance, una especie de summa crítica del 
+legado ramiano, a partir de la revisión y discusión de su producción ensayística e 
+intelectual, en particular del impacto que produjo la lenta y póstuma recepción 
+de La ciudad letrada1. 
+Si bien este no es lugar para describir dicho balance, pueden resumirse, grosso 
+modo, dos de las principales líneas –no siempre antagónicas– de su legado como 
+punto de partida para una reflexión sobre los cambios producidos en los estudios 
+del siglo XIX durante los años de existencia de la revista: por un lado, el diseño 
+de variables transcontinentales como herramienta de análisis para pensar los pro-
+cesos de producción, circulación y recepción literaria, evitando los tradicionales 
+enfoques nacionalistas de la crítica (y en particular, de la crítica dedicada a la 
+formación del campo o del canon); por otro lado, concomitantemente, la figura-
+ción del sujeto letrado como detentador y reproductor del poder –una figuración 
+históricamente casi imperturbable– que colocaba a la escritura (y a la literatura) 
+en el lugar de la culpa, el control y el disciplinamiento, al mismo tiempo que de-
+jaba fuera otras expresiones (letradas e iletradas) exógenas al canon –la escritura 
+era vector y metáfora, al mismo tiempo, de la “ciudad amurallada”–.
+El libro de Rama respondía a aquellas lecturas genealógicas (la presencia de 
+Foucault, aunque evidente, no resulta demasiado operativa en relación con este 
+aspecto) y totalizadoras, que postulaban una narrativa historiográfica desagrega-
+da de las historias nacionales. Como Orientalism (1978), de Edward Said, con 
+el que tiene más de un punto en común, o como Imagined Communities (1983), 
+del historiador anglo-irlandés Benedict Anderson, La ciudad letrada también 
+1	
+La totalidad de los dieciséis trabajos que integran el volumen sobrevuelan La ciudad letrada y 
+cinco de ellos lo tienen como objeto central de sus argumentos. Casi una década después –señal 
+de su permanencia estimulante– la revista de historia intelectual Prismas, bajo el título “La ciu-
+dad letrada: hacia una historia de las élites intelectuales en América Latina”, dedicó un dossier a 
+revisar y discutir ese libro fundamental (Prismas, Año 10, N° 10, 2006, pp. 157-212).
+87
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | De la ciudad letrada a las voces impresas. Un recorrido conjetural: 85-95
+era un modo de leer procesos técnicos y simbólicos de largo alcance, comunes y 
+transnacionales2. 
+Esa misma pretensión, como dijimos, repercutía en la construcción de cate-
+gorías transhistóricas y/o monolíticas (sujeto letrado / cultura letrada / ciudad 
+escrituraria), refractarias a matices o inflexiones sociológicas, culturales, o eco-
+nómicas. En una de las tempranas lecturas de La ciudad letrada, la crítica colo-
+nial Rolena Adorno, si bien reconocía el potencial de su conjetura simbólica (la 
+escritura como fundadora de un orden) no dejaba de observar sin embargo que 
+durante la colonia existieron “voces que vivían fuera de la ciudad amurallada” (5) 
+y que debían, y podían, por tanto, ser registradas.  
+Julio Ramos, por su parte, en una revisión fundamental de los procesos de 
+modernización literaria en América Latina sobre la que más adelante volvere-
+mos, señaló asimismo el carácter ahistórico del sujeto letrado ramiano, el cual no 
+registraba los cambios ocurridos, sobre todo hacia el final de la centuria, en el 
+régimen discursivo legitimador del escritor moderno. 
+En términos generales, en el ensayo de Rama el legado colonial se leía en-
+tonces como una constante, capaz de atravesar géneros y épocas. Una lectura así 
+se convertía, inevitablemente, en una crítica ideológica, necesariamente desmi-
+tificadora, como la que venían proponiendo las agendas de los Cultural Studies. 
+Había una delgada línea, sin embargo, entre la desmitificación y la condena. 
+María Teresa Gramuglio, en un debate publicado en Punto de vista en el que 
+no se hablaba necesariamente del siglo XIX, resumía la situación de este modo: 
+“uno de los cambios más polémicos que han ocurrido en el campo de la crítica 
+literaria contemporánea es el que va de una concepción de la literatura como 
+práctica potencialmente crítica y liberadora, a una crítica de la literatura como 
+institución de control.” (4).
+Aun a riesgo del reduccionismo alertado por Gramuglio, el acotado auge 
+de los Estudios Culturales, las teorías coloniales o los diferentes subalternismos 
+produjeron una apertura textual en el campo de los estudios decimonónicos, 
+posibilitando la emergencia de interrelaciones disciplinares y nuevo objetos de 
+estudio como la moda, los estudios de género, las sociabilidades, la glotopolíti-
+ca, la cultura visual (el nuevo comparatismo, que merecería un capítulo aparte, 
+también produjo cambios sustanciales en los modos de revisar las tradicionales 
+relaciones entre centro (core)/periferia, copia/modelo; valga solamente citar aquí 
+como ejemplo la imposición de los atlas, los sistemas, las redes, los mapas)3. 
+La mirada facetada se impuso a la mirada totalizadora. Pero la fragmentación 
+no olvidó, sino que fortaleció la mirada ramiana transfronteriza. Las historias 
+2	
+Su antecedente más elocuente en el campo historiográfico, La ciudad y las ideas, de José Luis 
+Romero, también ensayaba una interpretación desafiante de los límites nacionales. 
+3	
+Para una aproximación al problema del nuevo comparatismo y la literatura latinoamericana, 
+ver: Sánchez Prado, Ignacio M. (ed.). América Latina en la “literatura mundial”, Pittsburgh, 
+Instituto Internacional de Literatura Iberoamericana, Universidad de Pittsburgh, Biblioteca de 
+América, 2006.
+88
+Hernán Pas | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+nacionales de la literatura comenzaron a volverse críticas de sus propios presu-
+puestos historiográficos, y a tender puentes o iluminar espacios compartidos, o 
+a pensarse en términos contingentes, singulares, heteróclitos4.
+A poco de andar, Anclajes se mostró como una revista receptiva de esos cam-
+bios, y promovió, tanto en su sección de reseñas como en su cuerpo central de 
+artículos, el debate y la circulación de los nuevos enfoques. Algunos trabajos, 
+por ejemplo, como el de María Pía Bruno sobre la Cuba de Domingo del Monte 
+(2009, vol. 13, núm. 13), el de Hebe Beatriz Molina sobre las poco visitadas 
+escritoras argentinas Margarita Rufina Ochagavía y M. Sasor (2011, vol. 15, 
+núm. 2), o el de Virginia Forace sobre las Memorias curiosas de Juan Manuel 
+Beruti (2015, vol. 19, núm. 1), muestran una inclinación por indagar en los 
+bordes del canon.
+A partir del intercambio epistolar entre el joven poeta José Jacinto Milanés y 
+Domingo del Monte, Bruno logra auscultar el debate de un programa literario 
+cubano en ciernes, en el cual se vislumbran las características propedéuticas de 
+una literatura para el pueblo, pero también la subjetividad del hombre de letras, 
+en este caso un poeta, como preludios lejanos de una (¿futura?) autofiguración 
+literaria. 
+La apuesta de Virginia Forace es leer las Memorias curiosas de Juan Manuel 
+Beruti evitando su craso sentido documental. Las llamadas Memorias, cuya cró-
+nica se extiende entre 1717 y 1855, fueron iniciadas al parecer anónimamente, 
+y Beruti habría decidido, siendo joven, continuarlas. Si de por sí la confección 
+de ese testimonio resulta novelesca, Forace agudiza el aparato crítico (de Paul 
+Ricoeur a Philippe Lejeune, pasando por José Luis Romero y Adolfo Prieto) para 
+extraer de él no sólo la crónica de los hechos (cuyo estilo virará definitivamente 
+con las invasiones inglesas) sino también, más relevante, el modo en que esa 
+experiencia es convertida, finalmente, en relato. 
+La recuperación de dos escritoras argentinas “olvidadas”, Margarita Rufina 
+Ochagavía y Mercedes Rosas de Rivera, es decir la inspección de los márge-
+nes del canon, le permite a Molina profundizar el debate (abierto por Graciela 
+Batticuore a nivel local) respecto de las mediaciones por las cuales las mujeres 
+pudieron o no dedicarse a la escritura en tanto que novelistas. 
+Esta mínima reseña procura exponer, sucintamente, no una tendencia ni una 
+metodología sino un aspecto ostensible en algunos enfoques de los últimos años: 
+la antaño omnipresente política cede –sin desaparecer del todo, desde ya– ante 
+las persuasiones del detalle. El corrimiento de la política para que en su lugar 
+4	
+Como sabemos, con el pasaje al nuevo milenio se llevó a cabo en la Argentina la empresa edito-
+rial más importante de los últimos tiempos: entre 1999 y 2018 se publicaron los 12 volúmenes 
+de la Historia crítica de la literatura argentina (Buenos Aires, Emecé), dirigida por Noé Jitrik. 
+Por su parte, bajo la coordinación general de Grínor Rojo y Carol Arcos, en 2017 comenzó a 
+publicarse en Chile una (también) Historia crítica de la literatura chilena (Santiago, LOM), 
+proyectada en 5 volúmenes (de los cuales hasta ahora han aparecido 2: el volumen I, La era co-
+lonial, coordinado por Stefanie Massmann, y el volumen II, La era republicana. Independencia 
+y formación del Estado nacional, a cargo de Bernardo Subercaseaux). 
+89
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | De la ciudad letrada a las voces impresas. Un recorrido conjetural: 85-95
+aparezca lo otro, la literatura5. Eso, por un lado. Porque, por el otro, no sería di-
+fícil hallar un continente común, no explícitamente asumido, que recorre todos 
+los trabajos: las producciones novelescas de M. Sasor y M. R. Ochagavía, como 
+ha demostrado Molina también en trabajos previos, dialogan con las novelitas, 
+crónicas y folletines que se publican en la prensa; las Memorias de Beruti lindan 
+por momentos (o compiten) con los documentos oficiales de la Gaceta y mien-
+tras que, por un lado, la carta de J. J. Milanés narra la anécdota de dos escrituras 
+enfrentadas (la del poeta, la del impresor-editor), el tono sencillo, breve y hasta 
+costumbrista que imagina para la literatura cubana se asemeja, por el otro, a la 
+“amena literatura” que ofrecían los periódicos de la época.  
+A pesar de sus divergencias, pues, hay un fondo común en estas lecturas. La 
+presencia del formato periódico se deja leer incluso por su negatividad. Y es que, 
+simultáneamente a aquella apertura textual de los años 1990, un desplazamiento 
+mayor se estaba produciendo. Como ocurre con la taxonomía descriptiva de 
+la lengua, que capta sus modificaciones una vez que estas cristalizan entre los 
+hablantes, así suele ocurrir también con los cambios de paradigmas críticos. Y 
+sería recién durante la primera década del nuevo milenio que el paradigma de la 
+historia del libro e historia de la lectura se impondría definitivamente en el cam-
+po de los estudios decimonónicos. La imagen es la del movimiento tectónico, 
+con ese grado de suculencia e irreversibilidad, al mismo tiempo que de efecto de 
+larga duración. 
+En su recordada participación en la American Antiquarian Society –que pau-
+taría el tránsito metodológico de la historia del libro a la de la lectura–, Roger 
+Chartier, siguiendo las advertencias de Donald F. McKenzie, había postulado 
+la necesidad de atender a las “huellas” dejadas por los textos (las formas de lo 
+impreso), los dispositivos tipográficos y las variables del soporte textual a fin de 
+volver menos abstracto el fenómeno de la lectura y, por ende, la propia historia 
+del libro (obstinadamente cuantitativa). 
+Al mismo tiempo, y en parte como corolario de sus postulados McKen-
+zianos, Chartier llamó la atención sobre un fenómeno que ya había sido exa-
+minado en varias zonas de su monumental Histoire de l’Edition Française: la 
+hegemonía en el siglo XIX del periódico en la economía editorial. Luego de 
+1830, observaba Chartier, la edición “plagia del periódico la fórmula del li-
+bro publicado en fascículos y las entregas ampliamente ilustradas, vendidas a 
+poco precio y lanzadas con gran despliegue de publicidad” (32)6. La Histoire de 
+5	
+En un tan riguroso como virulento repaso de la obra de David Viñas (precisamente en el primer 
+volumen publicado por la Historia crítica, dirigida por Noé Jitrik, La irrupción de la crítica), 
+Julio Schvartzman apuntaba sobre su modelo: “La vocación de totalidad se resume en la palabra 
+política, que queda, en aquel título fundante [Literatura argentina y realidad política], adosada 
+a la realidad, frente a lo otro: la literatura” (148).
+6	
+La conferencia dictada por Chartier y titulada “Frenchness in the History of the Book: from the 
+History of Publishing to the History of Reading”, fue recogida luego como primer capítulo de 
+Libros, lecturas y lectores en la Edad Moderna (Madrid, Alianza Editorial, 1993), de donde 
+extraigo la cita.
+90
+Hernán Pas | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+l’Edition Française venía a refrendar lo que todas las historias de la prensa ha-
+bían destacado: el siglo XIX es el siglo del periódico. De modo que a las razones 
+materialistas de la lectura se sumaba, para el campo específico de los estudios 
+decimonónicos, una constatación que la propia historia de la edición (francesa) 
+venía a confirmar: el predominio del formato periódico en el comercio letrado 
+a lo largo del siglo. La edición, la literatura, la lectura cobrarían mayor relieve, 
+contornos más precisos, incorporando ese presupuesto a los métodos del aná-
+lisis crítico. 
+Ahora bien, en la tradición de las críticas literarias latinoamericana y argenti-
+na hubo dos trabajos que, a su modo, sentaron las bases de lo que serían, varios 
+lustros después, las principales inflexiones de aquella lenta, aunque perentoria, 
+incorporación. Me refiero a El discurso criollista en la formación de la Argentina 
+moderna (1988), de Adolfo Prieto y a Desencuentros de la modernidad en América 
+Latina (1989), de Julio Ramos. 
+Ambos libros proveyeron una serie de reflexiones rigurosas que, todavía hoy, 
+ejercen un influjo potente. Adolfo Prieto, preocupado por los alcances del sur-
+gimiento de un nuevo tipo de lector popular, que había hallado en la prensa “la 
+nivelación de los códigos expresivos con que concurrían los distintos segmentos 
+de la articulación social” (14), conjetura allí acerca de las funciones que cum-
+plieron los impresos periódicos en esa cadena de diversificación lectora y analiza, 
+minuciosamente, las fricciones, préstamos y cruces que se produjeron entre la 
+cultura letrada tradicional y la expansión de la cultura popular. En la lectura 
+de Prieto la presencia de folletos, periódicos, folletines, cancioneros y ediciones 
+populares contrarresta las tradicionales visiones historiográficas que colocan al 
+libro, como soporte privilegiado, en el centro. 
+Por su parte, Julio Ramos, siguiendo la escritura cronística de José Martí, 
+entre otros modernistas, revisa con inteligencia el mito de la autonomización, 
+señalando, como vimos, las limitaciones del sujeto letrado ramiano. La omni-
+presente figura del letrado, justificable en determinados niveles, impedía ver el 
+rol dinamizador que, en Latinoamérica, producto del desfase institucional e in-
+dustrial, tuvo como complemento el impreso periódico. La “fragmentación de la 
+República de las letras” –tal el título de uno de los capítulos fundamentales del 
+libro– se produce a partir de la proliferación de la prensa periódica finisecular, 
+con la paradoja de que fue esa misma fragmentación la que otorgó un nuevo 
+estatus al escritor. Es decir, el proceso es captado en términos ambivalentes, para-
+dojales. De ahí el acierto de la fórmula de Ramos: “en, y contra, el periódico”. En 
+el prosaico espacio de las páginas periódicas, los escritores hallarían sin embargo 
+los intersticios para enunciar su especificidad literaria.
+La historia del libro, al igual que la historia de la prensa y de la imprenta, ha 
+tenido desde luego su expresión local. En Argentina, por ejemplo, para hablar de 
+un caso conocido, los legendarios trabajos de Rafael Alberto Arrieta (La ciudad 
+y los libros, 1955) y Domingo Buonocore (Libreros, editores e impresores de Bue-
+nos Aires, 1974) fueron rigurosamente actualizados por Alejandro Parada, cuyos 
+91
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | De la ciudad letrada a las voces impresas. Un recorrido conjetural: 85-95
+trabajos de investigación sobre libros, lecturas y bibliotecas en el temprano siglo 
+XIX resultan hoy fundamentales7. 
+Pero el énfasis de los últimos años en la materialidad textual y en el universo 
+de la lectura supuso, para el caso específico del siglo XIX, la reposición del impre-
+so periódico –y sus aledaños: almanaques, folletos, hojas sueltas, álbumes– como 
+elemento central del análisis crítico. No ya como “fuente” o apoyo empírico de 
+las investigaciones, según apuntaba Carlos Ossandón (1998), sino como objeto 
+con su propio espesor tipográfico y discursivo, que entabla relaciones con otros 
+campos y discursos de la vida social. En este sentido, el viraje metodológico ha 
+resultado estimulante8. En los últimos años, desde un paradigma multidiscipli-
+nar, la nueva escuela francesa de estudios sobre la prensa, cuyos resultados pue-
+den consultarse en el monumental La civilisation du journal (2011), ha insistido 
+aun en la necesidad de un abordaje cultural del objeto, al considerar al periódico 
+la primera manifestación moderna de la cultura mediática9. 
+Una serie de trabajos importantes, sin olvidar las lecciones de Ramos y Prie-
+to, acompañaron esa constatación. La dorada garra de la lectura, de Susana Za-
+netti, fue tal vez una de las primeras aproximaciones globales al tema de los 
+lectores y de la lectura en América Latina; el libro de Juan Poblete, Literatura 
+chilena del siglo XIX: entre públicos lectores y figuras autoriales, aparecido un año 
+después, resultó clave no solo para la historiografía tradicional chilena sino para 
+pensar problemas comunes de las literaturas del período; El tiempo vacío de la 
+ficción, de Alejandra Laera, demostró los alcances críticos alrededor de la mate-
+rialidad de los impresos al leer la producción de Eduardo Gutiérrez y de Eugenio 
+Cambaceres en estrecha correlación con la prensa; la maravillosa mirada atenta a 
+los problemas de edición, redacción, lectura y autoría que realizó Paulette Silva 
+Beauregard en Las tramas de los lectores. Estrategias de la modernización cultural 
+en Venezuela, o los detallados trabajos de Claudia Roman sobre prensa satírica 
+ilustrada en el Río de la Plata, y de Sandra Szir sobre cultura de la imagen, las 
+indagaciones de Eduardo Romano y de Geraldine Rogers sobre popularización 
+de la lectura alrededor del magazine Caras y Caretas, y el más reciente Cuando lo 
+nuevo conquistó América. Prensa, moda y literatura en el sigo XIX, de Víctor Gold-
+gel, son ejemplos destacados de la atención que suscita el formato periódico en 
+los estudios culturales y literarios decimonónicos.
+7	
+Cabe citar algunos títulos: El mundo del libro y de la lectura en la época de Rivadavia (1998), 
+De la biblioteca particular a la biblioteca pública: libros, lectores y pensamiento bibliotecario 
+en los orígenes de la Biblioteca Pública de Buenos Aires (2002), El orden y la memoria en la 
+Librería Duportail Hermanos: un catálogo porteño de 1829 (2005), Los libros en la época del 
+Salón Literario (2008).
+8	
+La Revista Iberoamericana publicó en 2006 un número monográfico dedicado al Cambio cultu-
+ral y lectura de periódicos en el siglo XIX en América Latina en el que se subrayan algunas de 
+los significados de ese viraje; https://doi.org/10.5195/reviberoamer.2006.55.
+9	
+Según esta mirada, la prensa operó una trasmutación capital, capaz de modificar incluso la idea 
+misma de literatura (Dominique Kalifa, Alain Vaillant, “Pour une histoire culturelle et littéraire 
+de la presse française au XIXème. siècle”, Le Temps des médias, n.° 2, 2004, pp. 197-214.
+92
+Hernán Pas | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+El periódico permite, además, recuperar una de las líneas más productivas del 
+legado ramiano, aquella que entreteje, a partir de un objeto común, una mirada 
+transfronteriza –e, incluso, internacional– del desarrollo cultural latinoameri-
+cano. Pues, como constató Sarmiento cuando escribía en la prensa de Chile, el 
+periódico cruza fronteras, desdibuja los límites geográficos y permite una aproxi-
+mación empírica a la idea de una República mundial de las letras. 
+En la literatura argentina, el giro materialista ha fundamentado los ejercicios 
+de revisión. La cristalizada cultura letrada de la década de 1880, que David Viñas 
+y Noé Jitrik (sin olvidar a Ricardo Rojas) contribuyeron a definir como la de los 
+gentlemen escritores, por ejemplo, ha merecido nuevas y renovadas indagaciones. 
+Algunos de esos enfoques, siguiendo los surcos abiertos por Prieto y Laera, 
+aunque con diferentes tempos y perspectivas, también se dieron a conocer en las 
+páginas de Anclajes. Las reflexiones de Sandra Contreras sobre Mansilla, escritor 
+–para retomar una fórmula que, con una insistencia llamativa, la crítica ha utiliza-
+do con Sarmiento–, y las hipótesis que guían su lectura –Mansilla es un escritor-
+periodista-literato, o, mejor dicho: un literato devenido escritor por concurso de 
+su práctica periodística, no reconocido por la seriedad letrada de los críticos del 
+80– incitan a leer en los márgenes del capital simbólico de los gentlemen letrados 
+del 80 la modernidad literaria y, con ella, los caminos de una profesionalización 
+que, como en el caso de Mansilla, se asume deliberadamente sobre sus críticos10.
+El criollismo rioplatense del 80 también se enlaza con una forma de lo po-
+pular, los cancioneros nacionales y regionales, cuyas compilaciones y ediciones 
+crecen desde entonces hasta avanzado el siglo XX y en los que Andrea Bocco, 
+cuya colaboración en la revista es un ejemplo de la concisión panorámica, logra 
+captar la ambivalencia de sus alcances nacionalistas (desde Linch hasta Viggiano, 
+pasando obviamente por Carrizo): construyen una tradición que mira hacia el 
+pasado (ideal) y en la que, sin preverlo ni quererlo, se hacen presentes las masas 
+populares del yrigoyenismo y del peronismo11.
+También la prensa –y sus secciones, en este caso el folletín– se vuelve objeto 
+central en otros dos trabajos tempranos publicados en Anclajes. El de Fabio Es-
+pósito, dedicado a Sud-América, el diario de Carlos Pellegrini, donde se publican 
+varias novelas nacionales, analiza los modos en que el discurso político permea y 
+se apoya en otras secciones del periódico, menos previsibles, particularmente en 
+su folletín, donde las novelas –Espósito se centra aquí en Fruto vedado, de Paul 
+Groussac– vienen a narrar “literariamente” lo que el editorial político sostiene 
+de manera explícita12. 
+10	 “Lucio V. Mansilla, ¿literato?”. Anclajes, vol. XXIII, n.° 1, enero-abril 2019, pp. 1-17, https://
+doi.org/10.19137/anclajes-2019-2311. 
+11	 “Tensiones entre proyectos intelectuales, políticas estatales y emergencia de las masas en los 
+cancioneros populares”. Anclajes, vol. XIII, n.° 13, diciembre 2009, pp. 27-40. 
+12	 “Los folletines del diario Sud-América. Las novelas de los patricios en la prensa política de 
+1880”. Anclajes, vol. IX, n.° 9, diciembre de 2005, pp. 39-51.
+93
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | De la ciudad letrada a las voces impresas. Un recorrido conjetural: 85-95
+El trabajo de Carlos Hernán Sosa, por su parte, también se centra en el 
+folletín y en la prensa, en este caso en La Prensa Argentina, de los hermanos 
+Gutiérrez. Sosa se enfoca en el Juan Moreira de Eduardo Gutiérrez para ver, a 
+partir de un cotejo con los archivos judiciales, los modos de adecuación folle-
+tinesca que le sirvieron al escritor para buscar mayor impacto entre sus lectores 
+(particularmente notable son, como sabemos, los cambios que Gutiérrez ejerce 
+sobre figuras históricas laterales como, por ejemplo, el Juez de Paz Manuel Ma-
+rañón, sobre los que el texto de Sosa se detiene especialmente a partir de las fojas 
+judiciales)13.  
+En ambos casos, además, se trató de adelantos de investigaciones de tesis por 
+entonces en curso, integrados luego al acervo bibliográfico sobre los escritores (y 
+lectores) del ochenta en sendos libros: el de Espósito, bajo el título La emergencia 
+de la novela en Argentina. La prensa, los lectores y la ciudad (1880-1890), publi-
+cado en 2009 por Ediciones Al Margen; el de Sosa, recientemente aparecido, 
+con el título La novela gauchesca de Eduardo Gutiérrez. Prensa, discurso judicial y 
+folletín en la génesis de una literatura popular, publicado en 2020 por Ediciones 
+Katatay.
+Resulta oportuno concluir este recorrido contrastando estos trabajos con 
+uno de los últimos aportes sobre impresos y lectura en el siglo XIX chileno. 
+Como ocurría en la década de 1880 en Argentina –en particular, por el tráfico 
+promovido por el telégrafo–, la agitación social del crimen se hacía noticia es-
+candalosa también en Chile. El cruel asesinato de Sara Bell producido en 1896 
+por uno de los vencedores de la llamada revolución de 1891, Luis Matta Pérez, 
+perteneciente a la élite política y judicial chilena, es la excusa de la que se apro-
+vecha el historiador chileno Tomás Cornejo para adentrarse en el mundo de la 
+representación (la evocación a Chartier aquí no es vana) de la sociedad santiagui-
+na finisecular: periódicos, libros, folletos, hojas sueltas, poemas populares (Lira 
+popular), óperas y novelas, literatura dramática y “de actualidad” confluyeron 
+alrededor del fatídico suceso. Estamos evidentemente ante un fenómeno, el de 
+los “crímenes célebres”, formateado popularmente a través de la prensa. No obs-
+tante, lo más destacado en este caso, según muestra Cornejo, es el modo en que 
+voces “ilegítimas” emergen para hacer oír sus cosmovisiones alternas, agentes de 
+una pugna por el espacio público que trasciende el hecho policial. Dicho de otro 
+modo: el episodio, como una especie de vórtice temático de la cultura impresa, 
+permite auscultar los usos que los diferentes públicos lectores –en particular, los 
+públicos plebeyos– hicieron de la noticia. 
+La investigación de Cornejo se conoció hace poco, en un libro editado entre 
+El Colegio de México y El Centro de Investigaciones Diego Barros Arana de 
+la Biblioteca Nacional chilena, con el título Ciudad de voces impresas. Por la 
+metodología empleada –se trata de un enfoque multidisciplinar, que parte de 
+13	 “Las bondades de un buen ‘justo’: el enmascaramiento oportuno del folletín. Sobre procesos 
+judiciales y ficciones populares en la Argentina de fines del siglo XIX”. Anclajes, vol. IX, n.° 9, 
+diciembre 2005, pp. 141-156.
+94
+Hernán Pas | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+la historia cultural–, el libro puede considerarse una muestra elocuente de la 
+correspondencia predominante en los últimos lustros entre materialidad y lectu-
+ra, entre historia y literatura. (Y, también, un ejemplo de la transformación del 
+legado ramiano). Correspondencia de la que fueron dando cuenta, como vimos, 
+la mayoría de los trabajos publicados en Anclajes, cuyo equipo editorial, en tér-
+minos generales, mantuvo siempre una mirada atenta y rigurosa ante los avances 
+de la crítica y, en particular, de la crítica dedicada al siglo XIX. 
+Referencias bibliográficas
+Adorno, Rolena. “La ciudad letrada y los discursos coloniales”. Hispamérica vol. 
+XVI, n.° 48, 1987, pp. 3-24.
+Batticuore, Graciela. La mujer romántica. Lectoras, autoras y escritores en la Argen-
+tina: 1830-1870. Buenos Aires, Edhasa, 2005.
+Cornejo C., Tomás. Ciudad de voces impresas. Historia cultural de Santiago de 
+Chile, 1880-1910. Santiago, El Colegio de México, Centro de Estudios His-
+tóricos; Biblioteca Nacional de Chile, Centro de Investigaciones Diego Ba-
+rros Arana, 2019.
+Del Águila, Alicia. Los velos y las pieles. Cuerpo, género y reordenamiento social en el 
+Perú republicano (Lima, 1822-1872), Lima, Instituto de Estudios Peruanos, 
+2003.
+Goldgel, Víctor. Cuando lo nuevo conquistó América. Prensa, moda y literatura en 
+el siglo XIX, Buenos Aires, Siglo XXI, 2013.
+Gramuglio, María Teresa. “La crítica de la literatura. Un desplazamiento”. Punto 
+de vista, n.° 60, XXI, 1998, pp. 3-12.
+Kalifa, Dominique, Philippe Régnier, Marie-Ève Therenty et Alain Vaillant. La 
+civilisation du journal. Histoire culturelle et littéraire de la presse française au 
+XIXe siècle. Paris, Nouveau Monde éditions, 2011.
+Laera, Alejandra. El tiempo vacío de la ficción. Las novelas argentinas de Eduardo 
+Gutiérrez y Eugenio Cambaceres. Buenos Aires, Fondo de Cultura Económi-
+ca, 2004.
+Masiello, Francine (comp.). La mujer y el espacio público. El periodismo femenino 
+en la Argentina del siglo XIX. Buenos Aires, Feminaria, 1994.
+Moraña, Mabel (ed.). Ángel Rama y los estudios latinoamericanos. Pittsburgh, 
+Universidad de Pittsburgh, Serie Críticas, 1997.
+Ossandón, Carlos. El crepúsculo de los sabios y la irrupción de los publicistas. San-
+tiago, LOM Ediciones, 1998.
+95
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | De la ciudad letrada a las voces impresas. Un recorrido conjetural: 85-95
+Poblete, Juan. Dossier “Cambio cultural y lectura de periódicos en el siglo XIX 
+en América Latina”. Revista Iberoamericana, vol. LXXII, núm. 214, 2006, 
+https://doi.org/10.5195/reviberoamer.2006.55
+Poblete, Juan. Literatura chilena del siglo XIX: entre públicos lectores y figuras auto-
+riales. Santiago, Editorial Cuarto Propio, 2003.
+Prieto, Adolfo. El discurso criollista en la formación de la argentina moderna, 1988. 
+Buenos Aires, Siglo XXI, 2006.
+Ramos, Julio. Desencuentros de la modernidad en América Latina. Literatura y 
+política en el siglo XIX. México, Fondo de Cultura Económica, 1989.
+Rogers, Geraldine. Caras y Caretas: cultura, política y espectáculo en los inicios del 
+siglo XX argentino. La Plata, Editorial de la Universidad de La Plata (Edulp), 
+2008.
+Roman, Claudia. La prensa satírica argentina del siglo XIX: palabras e imágenes. 
+Tesis doctoral, Universidad de Buenos Aires, 2011 (mimeo). http://reposito-
+rio.filo.uba.ar/handle/filodigital/1613
+Roman, Claudia. Prensa, política y cultura visual. El Mosquito (Buenos Aires, 
+1863-1893). Buenos Aires, Ampersand, 2017. 
+Romano, Eduardo. Revolución en la lectura. El discurso periodístico de las primeras 
+revistas ilustradas rioplatenses. Buenos Aires, Catálogos, 2007.
+Root, Regina. The Latin American Fashion Reader. Oxford, Berg, 2005.
+Schvartzman, Julio. “David Viñas: la crítica como epopeya”, La irrupción de 
+la crítica, volumen dirigido por Susana Cella, en Historia crítica de la lite-
+ratura argentina, dirigida por Noé Jitrik. Buenos Aires, Emecé, 1999, pp. 
+147-180.
+Silva Beauregard, Paulette. Las tramas de los lectores. Estrategias de la moderni-
+zación cultural en Venezuela (siglo XIX). Caracas, Fundación para la Cultura 
+Urbana, 2007.
+Szir, Sandra. “Romanticismo y cultura de la imagen en los primeros periódicos 
+ilustrados en Buenos Aires. El Museo Americano, 1835-1836”. Estudios vol. 
+18, n.° 36, julio-diciembre, 2010, pp. 296-322.
+Szir, Sandra (coord.). Ilustrar e imprimir. Una historia de la cultura gráfica en 
+Buenos Aires, 1830-1930. Buenos Aires, Ampersand, 2017.
+Zanetti, Susana. La dorada garra de la lectura. Lectoras y lectores de novela en Amé-
+rica Latina. Rosario, Beatriz Viterbo, 2002.

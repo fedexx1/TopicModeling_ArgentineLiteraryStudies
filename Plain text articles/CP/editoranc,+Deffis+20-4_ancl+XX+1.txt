@@ -1,0 +1,826 @@
+1
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+Deffis, Emilia. “Desafíos de la memoria: Una misma noche de Leopoldo Brizuela 
+y Purgatorio de Tomás Eloy Martínez”. Anclajes XX. 1 (enero-abril 2016): 1-19. 
+DOI: http://dx.doi.org/10.19137/anclajes-2016-2011 
+DESAFÍOS DE LA MEMORIA: 
+UNA MISMA NOCHE DE 
+LEOPOLDO BRIZUELA Y 
+PURGATORIO DE TOMÁS 
+ELOY MARTÍNEZ
+Challenges of Memory: On a Similar Night by Leopoldo Bri­
+zuela and Purgatory, by Tomas Eloy Martínez
+Emilia Deffis
+Université Laval
+Canadá
+Emilia.deffis@lit.ulaval.ca
+RESUMEN: Este trabajo analiza dos novelas pertenecientes al nutrido corpus que ela­
+bora el trauma producido por la última dictadura militar en la Argentina. La de Leopoldo 
+Brizuela, Una misma noche (2012), presenta un conflicto de filiación y culpa, y la de T
+omás 
+Eloy Martínez, Purgatorio (2008), narra los esfuerzos de una exiliada por buscar a su 
+esposo secuestrado treinta años antes. La problemática de los desaparecidos y el duelo 
+inacabado que estos representan son puestos en evidencia en los textos elegidos. El 
+objetivo del análisis es considerar las estrategias empleadas por los dos autores ante la 
+situación de narrar la historia cuando se ha sido protagonista indirecto o bien involun­
+tario de los hechos narrados. Sobre esta base procuro analizar el funcionamiento de 
+algunos elementos (el poder evocativo del lenguaje, el sueño como elemento represen­
+tativo y la fantasía restituidora de lo que no está) para reflexionar sobre los alcances de 
+la escritura a la hora de contar el horror, como parte del deber colectivo y personal de 
+la memoria histórica.
+PALABRAS CLAVE: literatura argentina; memoria histórica; dictadura; Leopoldo 
+Brizuela; Tomás Eloy Martínez
+ABSTRACT: This document analyzes two historical novels belonging to the con­
+siderable corpus born out of the trauma of the last military dictatorship in Argentina. 
+In On a Similar Night (2012), Leopoldo Brizuela presents a conflict between filial love 
+and guilt while Tomas Eloy Martínez’s Purgatory (2011) recounts the story of an exiled 
+woman’s efforts to locate her husband who was kidnapped 30 years earlier. The issues 
+of missing loved ones (desaparecidos, in Spanish) and the unfinished mourning they 
+represent are brought to the forefront in these works. The objective of this analysis is 
+to study the narrative strategies employed by both authors faced with the task of nar­
+rating a history in which they are indirect or inadvertent protagonists. This is the basis 
+from which I will examine how certain elements (the evocative power of language, 
+2
+Emilia Deffis | 
+  XX.1 (enero-abril 2016) ISSN 1851-4669
+dreams as a representational device, and fantasy as a means to bring back the missing) 
+were used to reflect upon the power of writing when recording trauma as part of a 
+personal and collective duty toward historical memory.
+KEYWORDS: Argentine Literature; historic memory; dictatorship; Leopoldo Brizuela; 
+T
+omas Eloy Martínez
+No obstante, una duda me asalta sobre la posibilidad de contar. No porque 
+la experiencia vivida sea indecible. Ha sido invivible, algo del todo diferente, 
+como se comprende sin dificultad. Algo que no atañe a la forma de un relato 
+posible, sino a su sustancia. No a su articulación, sino a su densidad. Sólo 
+alcanzarán esta sustancia, esta densidad transparente, aquellos que sepan 
+convertir su testimonio en un objeto artístico, en un espacio de creación. O 
+de recreación. Únicamente el artificio de un relato dominado conseguirá 
+transmitir parcialmente la verdad del testimonio.
+Jorge Semprún, La escritura o la vida 25.
+L
+a elaboración del trauma producido por una dictadura supone, entre 
+otras cosas, la verbalización de la memoria, el relato de lo vivido. 
+En este sentido, la experiencia literaria de Jorge Semprún resulta 
+emblemática del proceso de recuperación de y por la palabra. Las novelas argen­
+tinas consideradas aquí también nos enfrentan a esta cuestión. Purgatorio (2008) 
+de Tomás Eloy Martínez narra los esfuerzos de una exiliada por recuperar, treinta 
+años después, a su esposo desaparecido, y Una misma noche (2012), de Leopoldo 
+Brizuela (2012), presenta un conflicto de filiación y culpabilidad. En ambos casos 
+se subraya la problemática de los desaparecidos y el duelo inacabado que estos 
+representan. Más allá de los artificios narrativos que ambos autores utilizan para 
+construir sus relatos, me interesa reflexionar sobre los alcances de la escritura, en 
+términos de sustancia y densidad a la hora de contar el horror –tal como quería 
+Semprún−, como parte del deber colectivo y personal de la memoria histórica. 
+Sustancia y densidad, que defino como aquellos recursos narrativos que 
+subrayan la intensidad de lo vivido, servirán para designar la eficacia expresiva 
+del lenguaje utilizado por estos novelistas para verbalizar sus experiencias memo­
+rísticas en procura de una mejor comprensión de los hechos traumáticos. Con 
+otras palabras, pero en el mismo sentido, Elsa Drucaroff apunta: 
+En la NNA (Nueva Narrativa Argentina) se lee hasta qué punto aquella 
+historia de espanto y muerte [antes y después del 24 de marzo de 1976], 
+tan lejos en la experiencia vital de sus autores, está sin embargo viva, y cómo 
+opera. No se trata necesariamente de alusiones referenciales o temáticas sino 
+de su presencia sutil y connotada en una superficie significante, de la misma 
+textualidad que sueña de muchos modos el pasado traumático y se ofrece 
+a la lectura y la interpretación, como un inconsciente abierto, o que habla de 
+un presente derrotado y sin raíces, un desierto sin historia (27; el énfasis no 
+está en el original)1. 
+1	 Es necesario aclarar que Elsa Drucaroff considera un corpus en el que se incluye a Leopoldo Bri­
+zuela, pero no a Tomás Eloy Martínez, ya que los dos autores pertenecen a generaciones distintas 
+3
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+En las dos novelas se persigue la reconstrucción de los hechos a partir de restos 
+dispersos en la memoria. Su análisis permitirá comprender mejor cómo se puede 
+contar la historia cuando se ha sido protagonista indirecto o bien involuntario 
+de los sucesos narrados. En una reflexión más amplia sobre la problemática de 
+la memoria histórica, este estudio puede contribuir a abrir nuevas líneas de 
+comprensión acerca de la transmisión generacional del trauma social producido 
+en la Argentina por la violencia dictatorial2.
+¿Una misma búsqueda?: Purgatorio de T
+omás E. Martínez
+Publicada en 2008, la última novela de Martínez (Tucumán, 1934 - Buenos 
+Aires, 2010) da cuenta de la persistencia del recuerdo cuando los rituales del duelo 
+son imposibles3. El epígrafe general es un fragmento de un verso de Quevedo: 
+“lo fugitivo permanece y dura”, del soneto A Roma sepultada en sus ruinas. Esta 
+cita señala el eje estético de sentido de toda la novela, que instaura la paradójica 
+persistencia del desaparecido en la vida de sus seres queridos. 
+Las cinco partes que estructuran el relato llevan como títulos otras tantas 
+citas del Purgatorio, de la Divina Comedia de Dante Alighieri4. Se trata de la 
+historia de Emilia Dupuy, quien perdió a su marido en 1976 en un confuso 
+operativo militar al sur de la provincia de Tucumán, y que pasará el resto de su 
+vida esperándolo y buscándolo. Simón Cardoso fue detenido mientras realizaba 
+tareas de relevamiento cartográfico para el Automóvil Club Argentino junto a 
+su esposa. Ella, a pesar de los numerosos testimonios que le aseguran su asesi­
+nato, niega su muerte, lo espera y lo busca siguiendo pistas falsas por diferentes 
+países durante treinta años. La protagonista conocerá al narrador, quien como 
+ella se ha exiliado y vive en los Estados Unidos, y se entablará entre ambos un 
+y sería confuso pensar a los dos dentro de esa categoría.
+2	 La bibliografía sobre literatura y trauma es extremadamente abundante y excede los límites de 
+este trabajo. Cito solamente algunos de los principales estudios, ver Nicolas Abraham y Maria 
+Torok, Idelver Avelar, Daniel Balderston, Maurice Blanchot, Gordon Turnbull, Maurice Hal­
+bwachs, Joshua Hirsch, Dominick LaCapra, Fernando Reati, Beatriz Sarlo, Tzvetan Todorov, 
+Hugo Vezzetti. Ver también Deffis, donde se estudia un corpus de narradores de la primera gene­
+ración que sufrió en carne propia la represión militarizada de la última dictadura (1976-1983).
+3	 Importa consignar que, en 2009, pocos meses antes de su muerte, T. E. Martínez dejó sin publi­
+car su novela El Olimpo, cuyos manuscritos y documentos se guardan en la Fundación que lleva 
+su nombre. En ella el autor relaciona a los dioses del Olimpo con los torturadores nazis y los 
+represores militares argentinos que obraron en el campo de concentración Garage Olimpo, en 
+cuya puerta, según testimonio de un sobreviviente entrevistado por el autor, figuraba la siguiente 
+frase: “Bienvenido al Olimpo de los Dioses. Firmado: Los Centuriones”. Ver http://elpais.com/
+diario/2006/01/01/eps/1136100410_850215.html.
+4	 “Viendo la sombra como un objeto sólido” (Purgatorio, XXI, 36); “Dama solitaria que iba can­
+tando” ((P, XXVII, 40); “Vi espíritus andando entre las llamas” (P, XXV, 124); “Crees y no 
+crees, y lo que es no es” (P, VII, 12) y “Este rumor del mundo es sólo un soplo” (P, XI, 100). E. 
+Kristal analiza la utilización de las citas de Dante, su resignificación y la intertextualidad de la 
+novela con otros textos rioplatenses.
+4
+Emilia Deffis | 
+  XX.1 (enero-abril 2016) ISSN 1851-4669
+diálogo entrecortado que recompondrá los hechos que han llevado a Emilia a 
+creer firmemente que por fin ha encontrado a su marido, tal y como era a los 
+33 años5. Como afirma Villoro: “Al fracasar en su búsqueda territorial, Emilia 
+traza un resistente mapa del deseo” (s.n.).
+El reencuentro de Emilia y Simón queda teñido por la duda acerca de la 
+realidad misma del hecho y el narrador intenta comprender lo que pasa en el 
+presente mediante el repaso de la vida pasada de Emilia, en la que se destaca su 
+relación con un padre violento y castrador. Ella ha quedado atrapada en esta 
+idea: “la verdadera identidad de las personas son los recuerdos” (Purgatorio 
+17) y, dada la frágil entidad de la memoria de la protagonista y la ambigüedad 
+controlada por el narrador, el lector deduce que todo es producto de su mente.
+El Dr. Orestes Dupuy pertenece a la élite cercana al poder militar y opera 
+como verdadero ideólogo de la dictadura. Él es el responsable presumible, aun­
+que no declarado, tanto de la muerte de Simón como de todas las desgracias de 
+Emilia6. Y a través de él desfilan los principales hechos de la época: las desapa­
+riciones y ejecuciones sumarias, el Mundial de Fútbol de 1978, el período de 
+corrupción financiera de la “plata dulce”, la Guerra de Malvinas y la posterior 
+decadencia del poder militar7. Ferviente católico, no duda en engañar a su hija 
+para alejarla del país bajo pretexto de que encontrará vivo a su marido en otra 
+parte. Él es el autor de buena parte de los discursos de la Junta Militar, de los 
+eslóganes publicitarios y de las campañas mediáticas de la dictadura, y se reciclará 
+como demócrata cuando sea necesario. Este padre tan destructor se encuentra 
+en el centro mismo de la culpa de Emilia, quien siente que “[e]l menor destello 
+de duda la habría destruido, porque, si el marido estaba muerto, el padre era 
+culpable, la madre su cómplice y ella la hija de un par de asesinos” (Purgatorio 
+196; el énfasis no está en el original). Esta idea siniestra, tan fuerte como el 
+amor que Emilia quiere recuperar, es el motor de una búsqueda incansable que 
+terminará en el delirio.
+5	 Valverde analiza la construcción del retrato de Simón y su sentido en la novela: “Ainsi, l’absence 
+d’identité aussi anthropologique qu’historique de Simon défie les codes établis, et oblige le lecteur 
+à remettre en question sa façon de construire le personnage” (300). El narrador lo presenta con 
+rasgos ligeramente distintos al Simón que recuerda Emilia y, curiosamente, refiere que cuando se 
+conocieron él le habló de su primer amor, otra chica llamada Emilia a la que nunca volvió a ver.
+6	 “Las organizaciones de derechos humanos que investigaron la historia estaban seguras de que 
+la mano de Dupuy había guiado el crimen pero no tenían documentos que lo probaran” (196). 
+Esta situación familiar es congruente con la observación formulada por Jelin acerca de su mani­
+pulación ideológica por parte del poder imperante: “Los militares que tomaron el poder en la 
+Argentina en 1976 usaron (y abusaron) de la referencia a la familia. La familia como ‘célula 
+básica’ de la sociedad y la Nación, entendida como ‘gran familia’, formó parte de una imagen 
+que fue leída de maneras diferentes e incluso contradictorias. Los militares fueron mucho más 
+allá que la apelación a la metáfora y el discurso; intervinieron violentamente en la privacidad y 
+en la intimidad de la vida familiar argentina” (228).
+7	 Del Cueto y Luzzi trazan un cuadro socioeconómico de las consecuencias de la dictadura en la 
+sociedad argentina.
+5
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+Hay en esta novela rasgos de lo que se ha dado en llamar autoficción, es decir la 
+identificación del narrador protagonista con el autor8. El primero, (que es escritor 
+y al que resulta fácil asociar con el segundo por las referencias biográficas que 
+él mismo suministra en el relato), encontrará en la historia de Emilia las claves 
+de comprensión de su propio exilio y un medio de revisión histórica que traza 
+un cuadro de situación de la dictadura y, en especial, del control de la opinión 
+pública con la que esta ocultaba sus crímenes9. 
+La crítica ha observado que Martínez, gravemente enfermo mientras escribía 
+la novela, tiene clara conciencia del final de su vida y encara el tema de la muerte 
+y de la desaparición no solo desde lo personal (de su personaje y de sí mismo) 
+sino también desde lo social. Dado que los desaparecidos siguen siendo una 
+deuda pendiente de la sociedad argentina, esta novela apunta a los efectos de su 
+ausencia en los sobrevivientes, en los seres queridos de las personas eliminadas 
+que quedaron sujetos a la espera interminable (esa lacra elaborada artísticamente 
+por la obra de Antonio Di Benedetto): “El purgatorio es una espera de la que 
+no se conoce el fin”, afirma Emilia (97)10.
+Al comienzo de este trabajo me referí a la densidad y sustancia del lenguaje. 
+Sin ánimo de exhaustividad, me detendré ahora en algunos recursos expresivos 
+puestos al servicio de esos rasgos en Purgatorio.
+El recurso a las citas literarias, muy abundantes y diversas, ya ha sido anotado. 
+En algunos casos, su resignificación adquiere un sentido funcional, entendiendo 
+por esto que el texto citado permite comprender un mecanismo psicológico de 
+la protagonista, e incluso del narrador, no siempre expresable por medio de un 
+discurso racional. Esto es lo que ocurre con el poema de Idea Vilariño, transcrito 
+8	 El concepto de autoficción ha sido profusamente estudiado. Considero en mi trabajo una defini­
+ción dada por Régine Robin: «Escritura trabajo de duelo, a la vez de deconstrucción de la ilusión 
+biográfica y de reconstrucción, elaboración de un lugar distinto no aleatorio, lugar de verdad. 
+Esta sería la tarea imposible de este objeto inasible que es la autoficción. Ni autobiografía, 
+ni biotexto, ni museo portátil, ni heteronimia radical, sino elaboración de una huella que se 
+transformó en palabra de verdad» (57). Puesto que la búsqueda de la verdad es, sin duda, un pro­
+pósito implícito de la novela de Martínez, anoto también el sentido apuntado por Leonor Arfuch: 
+«en esos atisbos biográficos que pueblan toda clase de discursos, de los más canónicos a los 
+más innovadores –de la autobiografía clásica a la autoficción, del diario íntimo a los escarceos 
+del blog– una proliferación de voces que pugnan por hacerse oír, disputando espacios éticos, 
+estéticos y políticos, subvirtiendo los límites, nunca precisos, entre público y privado y tornando 
+también indecidible la distinción entre el centro y el margen» (19).
+9	 Citas que revelan la autobiografía del narrador-autor son: “Ambos habíamos peleado contra la 
+muerte a nuestra manera y no aceptábamos que nos venciera. Para mí, la mejor manera de salir 
+adelante fue seguir viviendo como si la muerte nunca fuera a suceder, abrazado a la felicidad de 
+cada nueva mañana” (196); “Cuando toco el papel casi no lo siento, tengo la sensación de que 
+el papel es aire, ya sé que los sentidos se me están yendo, sé que veo menos y que oigo sólo lo 
+que quiero: Kiri te Kanawa en la Misa en Do Menor de Mozart, las voces de Gabriela y de mis 
+hijos, el piano de Keith Jarrett, el rumor de la nieve cuando cae” (249; lo destacado no está en 
+el original). Tomas Eloy Martínez se casó tres veces y tuvo siete hijos. Su última esposa fue la 
+periodista Gabriela Esquivada. Ver King.
+10	 Antonio Di Benedetto trató el tema de la espera en su novela Zama, publicada en 1956. Ver 
+Deffis 2010, capítulo 1.
+6
+Emilia Deffis | 
+  XX.1 (enero-abril 2016) ISSN 1851-4669
+para ilustrar el enajenamiento de Emilia, quien no ha visto morir a su esposo y 
+busca la respuesta a la siguiente pregunta: 
+¿Cómo  perder lo que todavía no se ha encontrado? ... Ya no soy más que yo/ 
+para siempre y tú/ ya no serás para mí/ más que tú. Ya no estás/ en un día futuro/ 
+no sabré donde vives/ con quién/ ni si te acuerdas. / No me abrazarás nunca/ 
+como esa noche/ nunca. / No volveré a tocarte. / No te veré morir” (28; en itálica 
+en el original)11. 
+En muchas oportunidades, además, las citas se constituyen en soportes estruc­
+turales de la novela. Es el caso de las de la Divina Comedia, sin ir más lejos. Cabe 
+aclarar que Emilia es un personaje de gran refinamiento intelectual, rasgo que le 
+permite al lector suponer en ella una sensibilidad particular y una rica cultura. 
+Dante Alighieri, como principal referente temático, aparece citado más de una 
+vez y en relación con otros escritores: “Emilia me interrumpió recitando largos 
+fragmentos del Infierno y el Purgatorio que entretejía de modo imperceptible 
+con versos de El otro, el mismo y Elogio de la sombra, dos colecciones que Borges 
+publicó poco antes de cumplir setenta años” (91). Poco después, Emilia dirá 
+sobre sí misma: “Quizás he muerto ya, … y lo que estoy viendo es mi infierno 
+o mi purgatorio” (132). El narrador comparte el imaginario dantesco cuando 
+se refiere a su propio exilio y al retorno imposible:
+Podrías decir que en ese momento entraste en el purgatorio si lo de antes 
+hubiera sido el infierno (y no lo fue, para mí al menos no lo fue) y si des­
+pués estuviera el paraíso, que nunca llega. Y cuando la migración termina, 
+cuando volvés al hogar del que te fuiste, pensás que cerraste el círculo, pero 
+al ver el museo [Museo judío de Berlín] te das cuenta de que tu viaje fue de 
+ida, solo de ida. Del exilio nadie regresa (Martínez Purgatorio 236).
+En el contexto de un encuentro del tipo que ocurre entre Emilia y Simón, 
+en el que el narrador instala la ambigüedad con respecto a la realidad, resulta 
+esperable encontrar el recurso a un lenguaje impreciso y, por momentos, este­
+reotipado, como en las frases que repite Simón: “Ni un solo día he dejado de 
+quererte” (Purgatorio 75, 77). Al enfrentarlo por primera vez, él actúa con una 
+naturalidad sospechosa: “Luego encaró a Emilia como si la hubiera visto el día 
+anterior. … No le dio una sola explicación, no le preguntó cómo estaba, qué le 
+había pasado en todos esos años. Nada que ver con el Simón cortés y atento con 
+el que había vivido” (18), apunta el narrador. Más tarde, se deja ver la posibilidad 
+de que Emilia esté hablando sola en el taxi, creyendo que Simón está con ella12. 
+Ella misma formula la pregunta que se hace el lector: “¿Sos vos, Simón? ¿Sos 
+vos, realmente?” (77).
+11	 Cita de Poemas de amor 1957.
+12	 “Cada tanto el taxista se volvía hacia ella y le preguntaba: ¿Todo está bien, señora? ¿Me dijo algo? 
+No, todo estaba bien” (73).
+7
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+En la tercera parte de la novela el narrador dice que Simón ha cambiado “en 
+detalles muy sutiles”, aunque “Emilia ama por igual al de antes y al de ahora…
+Pero la inquieta que el de antes haya tenido que replegarse dentro del ser de este 
+otro al que no termina de conocer” (139). El lector sabe ya que Emilia ha sido 
+desde siempre ingenua y crédula (y sobre todo, sumisa ante su padre violento), 
+de manera que resulta plausible que tome como real algo que está imaginando. 
+Domina en el relato la ambigüedad entre la realidad y el deseo, colocando a esta 
+historia en los márgenes de lo verosímil. Los personajes se “desdibujan” ante 
+una experiencia cuyo vacío de sentido sitúa la búsqueda del otro perdido en el 
+plano de lo inalcanzable. El desaparecido es una ausencia sin remedio, que el 
+sobreviviente no logrará superar. Así, durante un paseo, Simón se queda mirando 
+el río, “el sol, al iluminarlo de lleno, lo desdibuja. Pasa sobre su cuerpo como 
+una gran goma de borrar” (142), y Emilia se pierde también en su mente ante el 
+mismo río en el que culminará la acción: “Ella también contempla la corriente 
+que se mueve sin apuro hacia el mismo espacio ciego que la espera delante, plegán­
+dose en algo que no sabe si es luz u oscuridad, yéndose a la orilla donde suceden las 
+historias” (142; el énfasis no está en el original).
+Frente a este lenguaje de sutilezas y escamoteos expresivos que gira alrededor 
+de Emilia, el narrador contrasta el lenguaje del Dr. Orestes Dupuy, quien hace 
+un uso perverso de la lengua para ocultar la realidad y manipular la opinión 
+pública, y en la esfera de la intimidad familiar expresa su maldad13. Los ejemplos 
+son muy numerosos, como cuando Dupuy, en el momento en que su yerno, 
+Marcelo Echarri, le confiesa su bancarrota financiera a pesar de los créditos 
+fáciles y el dólar barato impuesto por los militares en el poder, dice:
+Vigilá de cerca los papeles. Yo voy a mandar camiones oficiales a que los 
+recojan y los dejen en el vestíbulo de tu banco. Que nada se mueva de lugar, 
+ni los muebles ni los cuadros. Cuando cierren las puertas, va a estallar un 
+incendio inolvidable. … Va a ser un acto de sabotaje. Contra vos, contra mí, 
+contra los comandantes. Otra hazaña de los subversivos. No va a quedar ni 
+una brasa en los escombros (Purgatorio 183).
+Otro recurso de la densidad narrativa es el doble lenguaje, una de las princi­
+pales armas de Dupuy. A él se le atribuye un eslogan usado antes del Mundial de 
+Fútbol para contrarrestar la pretendida campaña internacional de desprestigio 
+ante la Comisión de Derechos Humanos de la OEA: “¿‘Derechos y humanos’? 
+Un modelo de inteligencia, doc, como todo lo suyo, dijo el marino [el almirante 
+Emilio Massera]” (201). Durante su entrevista con Orson Welles para proponerle 
+un video publicitario del régimen, Dupuy leerá un texto de su autoría en el que 
+priman las mentiras: “Compartamos la emoción de este país derecho y humano, 
+una de cuyas mayores hazañas ha sido organizar el Campeonato Mundial de 
+1978 dando una respuesta a los escépticos… Aquí se ama la vida y se vive en 
+13	 Durante el episodio del robo de la capa de la reina española, el padre castiga a Emilia encerrán­
+dola en el vestidor de la madre y le dice: “Para mí estás muerta. Olvidate de tu madre” (282).
+8
+Emilia Deffis | 
+  XX.1 (enero-abril 2016) ISSN 1851-4669
+paz” (212). Las falsas explicaciones también se le atribuyen en lo referido a los 
+desaparecidos. Así, la Anguila (apodo del Gral. Videla) declara ante los perio­
+distas extranjeros: “Un desaparecido es una incógnita, no tiene entidad, no está 
+ni vivo ni muerto, no está. Es un desaparecido” (71). 
+A la vuelta de los años, Emilia retrata a su padre como lo que era, un cómplice 
+de los dictadores, al tiempo que pone en evidencia la responsabilidad criminal 
+de la Junta Militar: “Los militares dejaban tras sí miles de muertos, campos 
+de concentración, tumbas anónimas que empezaban a descubrirse, y mi padre 
+había aplaudido cada uno de esos crímenes. Es más, no le parecía que fueran 
+crímenes” (100). 
+El narrador da cuenta también del uso de la doble negación en la prensa de 
+entonces, censurada por Dupuy, y de su supervivencia en el lenguaje periodístico 
+posdictatorial: 
+Donde no se ve nada no hubo nadie, explicaban los voceros del gobierno. Las 
+dobles negaciones, que desde entonces son tan comunes en el habla cotidiana, 
+se apoderaron también del lenguaje periodístico. Acá no queda nada, no hay 
+ninguno eran expresiones que se repetían en las radios y en los programas de 
+televisión. Todavía se oyen y se leen (122).
+El lenguaje del padre resulta un elemento sumamente importante en la novela, 
+ya que opera la exposición de las verdades escamoteadas y las falsas explicaciones 
+que él suministraba al régimen, y permanecieron cristalizadas en la conciencia 
+de una parte de la sociedad argentina. El narrador inscribe, de esta manera, 
+tanto los discursos políticos vigentes durante la dictadura, como aquellos que 
+se les opusieron, en busca de la justicia, desde las organizaciones de Derechos 
+Humanos y otras asociaciones civiles a partir de 1983.
+El hecho de que los personajes principales, Emilia y Simón, sean cartógrafos, 
+subraya la importancia de los mapas como documentos pasibles de confeccio­
+narse con la imaginación o, dicho en otras palabras, que pueden representar 
+lo que no está. El narrador apunta: “Y no solo desaparecía gente: ríos, lagos, 
+estaciones de tren, ciudades a medio hacer se desvanecían en el aire como si 
+jamás hubieran existido. Era infinito el saqueo de lo que ya no estaba y de lo 
+que podría haber sido” (70). El mapa resulta ser el elemento representativo de 
+la pérdida, pero también de la restitución de lo deseado. En este sentido, lo 
+concibo como un recurso que aporta verosimilitud −en el sentido bajtiniano de 
+las coordenadas espacio-temporales− a la sustancia de lo narrado. Y esto ocurre, 
+no en la dimensión espacial, sino en la temporal. De esta manera, para Emilia 
+los mapas se transforman en cartografía histórica, ya que el tiempo de la espera 
+altera todos los parámetros espaciales de su vida, así como durante la dictadura 
+los relevamientos del terreno eran invadidos por la crueldad y la violencia. En 
+este sentido, la historia de Mary Ellis, la amante abandonada que recupera a 
+su hombre en una navegación sin fin, actúa en el desenlace como elemento 
+restaurador del trauma de Emilia: “Siempre me han gustado los finales felices” 
+(291). La novela termina cuando ella anuncia que Simón la espera en un barco 
+9
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+que navegará por el río Raritán, el mismo que el narrador describe como “un 
+río estrecho, un río de nada”, pero que Emilia defiende: “No importa, dice. Se 
+va a volver ancho para nosotros” (291)14.
+Al final de la novela los mapas habrán adquirido definitivamente el estatuto 
+de creaciones interiores que revelan verdades profundas y se desagregan en su 
+materialidad referencial, deformándose por obra de la emoción y proyectando 
+lo imposible sobre lo real:
+Lo sé cuando veo un mapa entre los papeles que ha dejado: el mapa de una 
+ciudad que se extiende sobre el tiempo, no sobre el espacio, y tal vez por eso 
+una ciudad imposible. Hay franjas transparentes con fechas, debajo de las 
+cuales la ciudad es siempre otra. En el centro se alza un gran palacio junto a 
+un lago o un estanque. Sobre el palacio [Emilia] ha escrito la palabra cifra de 
+su vida, Simón, con letras mayúsculas. El mapa está desgarrado, mojado de 
+babas y lágrimas. Le faltan franjas, pedazos, brújulas, escalas, y no creo que 
+sea necesario preguntar dónde están (Purgatorio 264).
+Purgatorio gana en profundidad al situarse como una reflexión sobre el 
+tiempo, el espacio, la memoria y la escritura. Y lo hace desde una estética en la 
+que lo marginal, lo soñado, lo deseado con desesperación, moldea las reglas del 
+relato para transformarlo en el recuento de la búsqueda incansable de quienes, 
+alienados en tiempo y espacio, se aferran a la restitución del otro irremedia­
+blemente perdido. El alcance político de esa misma búsqueda corresponde 
+al imperativo ético de saber y entender para ejercer la justicia. En todos estos 
+sentidos, esta novela materializa una de las principales líneas artísticas de la 
+obra de Tomás Eloy Martínez: la armonización de la historia y la ficción en un 
+relato coherente que ilumine las zonas más oscuras de las versiones oficiales. Tal 
+como dice Nancy, la amiga de Emilia: “Lo que no se dice pero se adivina entre 
+los pliegues de lo que se dice” (26). Esta es, precisamente, la aguda observación 
+de Carlos Fuentes (2009) en su comentario: 
+Y es que en la novela, como en el cine, se pueden crear todas las realidades, 
+imaginar lo que aún no existe y detener el tiempo. Busquemos entonces, en 
+la novela, la realidad de lo que la historia olvidó. Y porque la historia ha sido 
+lo que es, la literatura nos ofrece lo que la historia no siempre ha sido. (s.n.)
+Finalmente, el purgatorio de Emilia Dupuy es, al mismo tiempo, una 
+reflexión sobre la muerte a partir de lo que está todavía vivo; vivo, pero suspendido 
+en la existencia por obra de la violencia y la mentira. Esta representación puede 
+referirse también a la sociedad argentina, prisionera todavía hoy de los discur­
+sos reivindicadores de la dictadura y a las falsas explicaciones que promueven 
+el olvido (Lvovich y Bisquert). Pero también se relaciona estrechamente con la 
+experiencia de exilio del narrador: “Esos treinta años de separación −pensé− 
+14	 El Río de la Plata fue, en los hechos, el destino final de miles de desaparecidos, arrojados a sus 
+aguas todavía vivos, y cuyos cuerpos nunca fueron recuperados. Cf. Verbitsky.
+10
+Emilia Deffis | 
+  XX.1 (enero-abril 2016) ISSN 1851-4669
+repiten de algún modo el vacío de los treinta años que pasé fuera de mi país 
+y al que esperé encontrar, cuando volviera, tal como lo había dejado” (240)15.
+Víctima de la memoria: Una misma noche 
+de Leopoldo Brizuela
+La novela Una misma noche de Leopoldo Brizuela (La Plata, 1963) ganó el 
+premio Alfaguara en 2012 y materializa con maestría el sentimiento de culpa 
+expresado por el epígrafe de Fernando Pessoa que la encabeza16. 
+El narrador dice: “Si me hubieran llamado a declarar, pienso. Pero eso es 
+imposible. Quizá, por eso, escribo” (13). Esta idea es recurrente y subraya una 
+vez más el poder reparador del arte: “Quizá solo la literatura podría perdonar. 
+La literatura, ese lector futuro” (38). En este sentido, Elizabeth Jelin señala que, 
+a pesar de que el testimonio judicial implica el triunfo del Estado de derecho, 
+“[a]l mismo tiempo, sin embargo, el sufrimiento y la necesidad de saldar cuentas 
+no se abolían en ese acto, y la especificidad del nivel personal y familiar irían a 
+resurgir de varias maneras más adelante, incluso quizá de forma más potente” 
+(235). La novela de Brizuela muestra este volver de la memoria traumática en 
+el ánimo del protagonista que exige ser escrita a partir de una imaginaria y 
+deseada declaración judicial.
+Así pues, tras la hipótesis improbable de tener que declarar ante un juez, el 
+recuerdo obsesivo de un padre violento y cómplice de la represión atormenta al 
+protagonista de esta historia, que padece desde su infancia la mala conciencia 
+de quien no hizo nada para evitar la catástrofe. El título refiere a dos instancias 
+históricas, al mismo tiempo, diferentes y semejantes, aunadas en el recuerdo 
+del que se siente culpable, ocurridas una durante una noche en 1977 y otra en 
+201017. Cabe destacar que la cronología es una constante en esta novela, dado 
+que la reconstrucción de los hechos a partir de su semejanza a través del tiempo 
+necesita de la precisión temporal, tanto en el pasado como en el presente. Tal 
+como lo expresa el narrador: “Pero para contar la historia, me dije, es preciso 
+ser víctima. Del presente. O de su memoria” (87). Ser víctima de la memoria 
+equivale a vivir en conflicto con las decisiones pasadas y su impacto en el 
+15	 El narrador ha mostrado antes el efecto de autorreferencia: “Mientras escribo esta página, leo 
+que ha desaparecido un lago patagónico de la noche a la mañana” (122). Desaparición y exilio 
+se identifican. La escritura de la novela se autorrefiere, entonces, de manera coherente: “A ella 
+[Emilia] la resucitó la esperanza de volver a ver a Simón, a mí me ha resucitado este libro” (241; 
+el énfasis no está en el original).
+16	 Sólo yo fui vil… literalmente vil / vil en el sentido mezquino e infame de la vileza. Poema en línea 
+recta, Odas, 1946. En otro orden, y ante la escasa presencia de estudios sobre el texto, anoto 
+la inexplicable acumulación de errores argumentales en una reseña publicada en España poco 
+tiempo después de aparecida la novela (Ramos).
+17	 La palabra noche carga también un evidente significado metafórico, en alusión a los tiempos del 
+terror. La oscuridad de la noche se materializa, además, en el último capítulo de la novela, que 
+se presenta como una página en negro.
+11
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+presente. Dicho conflicto será representado bajo las imágenes recurrentes que 
+persiguen al protagonista. Cuando se narren, esas imágenes deberán aparecer 
+en un orden establecido. De esta forma, la novela pone de relieve un ordena­
+miento estructural preciso ya que, además de la alternancia de circunstancias 
+históricas, los capítulos siguen un orden alfabético que se organiza, al mismo 
+tiempo, en cuatro partes: Novela (letras de la A a la H), Memoria (de la I a la 
+Ň), Historia (de la O a la U) y Sueño (de la V a la Z). Estos cuatro términos 
+son indispensables para entender la actividad memorística de un novelista que 
+intenta escribir sobre los traumas provocados por su historia personal usando 
+como clave comprensiva un sueño. Dicha actividad adquiere la forma de un 
+archivo, que se muestra como un catálogo temático y alfabético de los datos 
+dispersos, tanto en el pasado como en el presente, por obra y gracia del miedo: 
+del miedo y de la culpa. 
+No conforme con esta manera de ordenar el relato, el narrador incluye un 
+mapa de La Plata donde se ubican las siete casas, de la calle 532 entre 17 y 18, 
+implicadas en la acción: “La ciudad es cuadrada. … Quien la sobrevolara −un 
+helicóptero de la policía, un guerrillero que ha conseguido escapar y vuela al 
+exilio−, creería descubrir la verdadera función de esa cuadrícula: una jaula, un 
+plano de operaciones” (27, 28). Resulta significativo observar que la imagen 
+plantea la doble visión, la de la policía y la del guerrillero.  La proximidad entre 
+vecinos y sus conflictos de adhesión y delación resultan, así también, visibles para 
+el lector. Esto se intensifica con referencias históricas precisas que refuerzan el 
+clima de terror reinante en la sociedad, como por ejemplo las declaraciones del 
+general Américo Saint-Jean, gobernador de la provincia de Buenos Aires, quien 
+en 1976 declaró: “Primero los subversivos, después sus cómplices y por último 
+los indiferentes. Todos serán eliminados” (27)18. La novela consigue de esta 
+manera recrear, salvando sus distancias, el ambiente opresivo y amenazante de 
+los años de la represión, y el de la inseguridad pública del periodo democrático.
+Un elemento muy significativo es que, tal como sucedía en la de Martínez, 
+en esta novela también adquiere protagonismo el personaje omnipotente y 
+destructivo del padre. El narrador utiliza la primera persona del singular y su 
+nombre, Leonardo Bazán, transluce ante el lector una evidencia de la enunciación 
+autobiográfica del autor, Leopoldo Brizuela. De modo que su punto de vista lo 
+dominará todo, aunque no de manera racional, ya que, como se ha apuntado 
+antes, sus fantasías y sueños le darán al lector los elementos que permiten al 
+narrador recordar y comprender19. Esos elementos aparecen subrayados tipo­
+gráficamente en el texto mediante el uso de la cursiva,  procedimiento que le 
+permite al narrador superponer al hilo de la narración toda clase de reflexiones, 
+18	 Ver: http://www.pagina12.com.ar/diario/contratapa/13-120007-2009-02-15.html.
+19	 De esta manera se pregunta: “¿Y por qué me niego a pensar, yo también, claramente en el fenó­
+meno del terrorismo? ¿Por qué entre mis recuerdos encuentro solamente lo que sufrieron las 
+víctimas?” (136; cursiva en el original).
+12
+Emilia Deffis | 
+  XX.1 (enero-abril 2016) ISSN 1851-4669
+interrogaciones e informaciones que crean, al mismo tiempo, una densidad 
+semántica mayor20.
+La acción se puede resumir en pocas líneas. Una noche de 1976 un ‘grupo 
+de tareas’ −eufemismo por banda de policías y militares, asaltantes y secuestra­
+dores− llega a la casa de las vecinas, la Sra. Felisa Kuperman y sus hijas, Diana 
+y Ruth. Los hombres entran por el jardín vecino, perteneciente a la Familia 
+Bazán, formada por el padre, Antonio, la madre, Ventura, y un hijo de doce 
+años, Leonardo21. El padre, marino retirado, ayudará a los asaltantes tirando 
+abajo a patadas una puerta de la casa vecina, ante la mirada aterrorizada de su 
+hijo. Más de treinta años más tarde, en 2010, el mismo Leonardo será testigo de 
+la llegada de un coche de asaltantes, protegidos por la policía científica, quienes 
+entran a la misma casa, ahora habitada por otros vecinos. El protagonista revive, 
+de esta forma, el terror de la dictadura en los tiempos de la inseguridad durante 
+un gobierno democrático, el de Cristina Fernández de Kirchner. 
+Entre otros temas de la novela, el de la filiación ocupa un lugar destacado, ya 
+que el hijo deberá reconciliarse con la figura de un padre autoritario y violento a 
+partir de recuerdos de alto contenido perturbador. Esta reconciliación implica que 
+el hijo debe no solamente recuperar el amor a su padre, sino también establecer 
+las fronteras entre su propia cobardía (siendo niño en 1976, y adulto en 2010) y 
+su capacidad de exorcizar el miedo tocando el piano o mediante la escritura de 
+una novela. Leonardo visita el predio de la ESMA, y este gesto desencadenará 
+en él toda una serie de imágenes que lo conducirán a la escritura de un relato 
+capaz de explicar buena parte de sus conflictos con el pasado violento. Resulta 
+evidente, de esta forma, la autorreferencialidad de la novela, que bien puede con­
+siderarse como el resultado concreto de la que se anuncia al final de la historia22. 
+20	 Esto sucede en los capítulos CH, E, G-1976; I-2010; J-1976; K-2010; L-1976; M-2010; N-1976; 
+Ň, O-2010; P, R-1977; S-2010; T-1977 y U-2010. Los capítulos W-1977 y Y-1974 están íntegra­
+mente en cursiva, el primero corresponde a un sueño y el segundo a un recuerdo muy anterior a 
+los hechos principales de la novela.
+21	 El punto de vista del niño es presentado también en otras novelas recientes, como en La casa de 
+los conejos (2007) de Laura Alcoba −traducida al castellano por Leopoldo Brizuela en 2010−, 
+y Un comunista en calzoncillos (2013) de Claudia Piñeiro. Resulta interesante anotar que, en 
+ambos casos, la culpa afecta de un modo completamente distinto a sus narradores, más cons­
+cientes de su diferencia ante su entorno social que de su supuesta responsabilidad en los hechos 
+vividos.
+22	 Cabe señalar que el tema de los espacios y monumentos de la memoria ligados a la dictadura 
+cobra una renovada vigencia en los momentos en que escribo este trabajo. En este sentido, la 
+novela expone uno de los espacios de controversia social frente a la memoria del pasado y sus 
+formas monumentales y museísticas. Ver Persino. M. Brodsky reflexiona en un artículo perio­
+dístico sobre la utilización de los espacios de memoria en la ciudad de Buenos Aires y el Río de 
+la Plata, al tiempo que se plantea los interrogantes que están en la base de este estudio: “¿Qué 
+pasó en nuestro país? ¿Cómo fue que se asesinaron miles de argentinos desde el Estado hace tan 
+poco tiempo? ¿Qué cambió desde entonces? ¿Podemos restañar las heridas producidas en nues­
+tra sociedad? ¿Qué papel puede jugar el arte en este proceso? ¿Cómo le contamos lo que pasó a 
+las nuevas generaciones? ¿Cómo se transmiten el conocimiento y la experiencia, la emoción, el 
+miedo, la memoria de lo que no se ha vivido?” (s.n.).
+13
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+En este contexto, su homosexualidad resulta un elemento identitario que lo 
+aleja todavía más de la figura paterna, modelada según los principios machistas 
+de la Escuela de Mecánica de la Armada, epicentro de la represión dictatorial. 
+Por eso, la más aterradora evocación del padre está en el sueño, donde aparece 
+como protagonista de una iniciación sangrienta: ha asesinado a su propia madre 
+para ser admitido en la ESMA:
+Es mi padre.
+Y me acerco a mirarlo. Trae a su lado una camilla, como quien trae una 
+ofrenda. Azucenas para la virgen en el mes de María. … Es su tributo. ¡El 
+precio que ha pagado! ¡El que le valdrá por fin su iniciación, su nombre! Y 
+estoy por apartarme para dejarle paso cuando de pronto mi padre vuelve su 
+rostro hacia mí y le descubro dos ojos rojos, locos, una mirada atroz que no 
+ve y sin embargo vislumbra en mí algo que yo no nombro, que no entiendo, 
+que me aterra entender.
+… Como bandada de buitres los marinos se acercan a gustar el espectáculo 
+imprevisto que el otro les ofrece. Y parecen tan ansiosos que hacen caer sin 
+querer la sábana ensangrentada:
+Es mi abuela.
+La madre de mi padre. Muerta (260). 
+La presencia de la madre de Leonardo es otro componente importante, ya que 
+ella es también testigo de lo ocurrido. Claro que lo es de una manera ambigua, 
+por un lado se opone al padre en su manera de ver las cosas (es solidaria con las 
+vecinas y se compadece de ellas), y al mismo tiempo parece colaborar con el jefe 
+del grupo de tareas al responder a su interrogatorio. Su deterioro mental y físico 
+al final de la novela, (está sorda y muestra signos de senilidad), no hace sino 
+aumentar la complejidad de su estatuto como personaje. Pienso que este posee 
+el alcance simbólico de la madre, no solo desde el referente de las Madres de la 
+Plaza de Mayo, sino también como imagen de la sociedad argentina contempo­
+ránea, marcada por la dictadura y luchando entre la memoria y el olvido (Jelin).
+La declaración bajo tortura o ante un juzgado democrático es un eje estructu­
+rador de todo el relato. Leonardo revisa sus recuerdos ante su posible declaración 
+ante un juez y, como parte de sus mecanismos de evocación, rememora las decla­
+raciones de Diana Kuperman ante el General Camps durante su secuestro y años 
+más tarde ante un juez en un Juicio por la Verdad. Esta manera de narrar implica 
+una revisión a fondo del grado de proximidad con la verdad en un caso clave del 
+periodo dictatorial, el conocido como el “Caso Graiver” o “Caso Papel Prensa”, 
+que volvió a la actualidad política del país en 201023. Este hecho histórico será 
+el telón de fondo que explica la desaparición de Diana Kuperman y, por ende, 
+la participación del padre de Leonardo en el operativo destinado a secuestrarla.
+Como en Purgatorio, en Una misma noche es muy significativa la red de 
+referencias literarias que aparecen a lo largo del relato, reforzando la capacidad 
+23	 Ver http://www.juangasparini.com/libros/graiver-el-banquero-de-los-montoneros.php.
+14
+Emilia Deffis | 
+  XX.1 (enero-abril 2016) ISSN 1851-4669
+evocadora de lo dicho y la evidente presencia de la literatura en la vida de un 
+protagonista escritor. No se trata de un procedimiento del orden puramente 
+intelectual, sino más bien una manera de subrayar los conflictos éticos del 
+narrador, torturado interiormente por la pregunta: “¿Era igualmente culpable, 
+y merecía igual castigo, el que mató y torturó que el que simplemente no se 
+atrevió a enfrentar el horror?” (251). Tal es lo que ocurre con las referencias a la 
+novela de Marcela Solá, El silencio de Kind (1999), al cuento de Cynthia Ozick, 
+Levitación (1988), a la novela El último encuentro de Sandor Marai (1999), al 
+poema de Borges, “La moneda de Hierro” (1976), y al cuento de Adolfo Bioy 
+Casares “Otra esperanza” (1999)24. Esta última cita, así como las otras mencio­
+nadas, guarda una relación muy estrecha con las reflexiones del protagonista 
+sobre la capacidad de la imaginación para entender la violencia y el terror. Sirva 
+de ejemplo lo siguiente:
+Y está ese otro cuento de Bioy, “Otra esperanza” −dijo Lila, pensativa−. En 
+el que los inventores de una clínica siniestra explotan la energía del dolor de 
+sus pacientes… y para ello, por supuesto, lo provocan. Debe ser del ’76, ’77, 
+ese cuento. Tenés razón: quizá no haya verdad que la imaginación no intuya… 
+(249; el énfasis no está en el original).
+La novela de Brizuela presenta a un narrador que deriva entre las trampas 
+de la memoria, la confusión provocada por la culpa y las angustias de la mala 
+conciencia de las que busca liberarse por medio de la escritura. La estructura­
+ción externa del relato, bajo su aparente racionalidad, no hace más que poner 
+en evidencia lo anterior. Es decir que, ante la pulsión del recuerdo traumático 
+y su efecto desorganizador del relato, la estrategia narrativa del ordenamiento 
+cronológico y alfabético parece ser la salida hacia una verbalización eficaz del 
+conflicto. Hago esta observación convencida de que, desde una escala indivi­
+dual, este fenómeno puede relacionarse con un comportamiento colectivo de la 
+sociedad argentina. El consenso social dicta que hay cosas del pasado de las que 
+es mejor no hablar, y si se hace, deben adquirir la apariencia de lo ordenado y 
+controlable25. Ante la violencia, el texto literario no solo asume la tarea de exponer 
+el malestar de la conciencia en su arbitraria naturaleza, dejándose ganar por un 
+24	 En la novela de Solá, el personaje “da un concierto de piano ante un jerarca de la dictadura para 
+poder acercársele después y preguntarle por su hermana desaparecida.” (38) En la novela de 
+Marai, dos amigos se reencuentran cuarenta años después y se enfrentan ante el recuerdo de una 
+misma mujer. (81) El cuento de Ozick es evocado en el contexto del antisemitismo de los milita­
+res, tras la frase ‘los judíos están en las nubes’ (81) En cuanto al libro de Borges, La moneda de 
+hierro, aparece en el recuerdo de Leonardo, en 1977: “El libro que comienza: ‘Qué no daría yo 
+por la memoria…’ […] el libro que reflexiona, largamente, sobre el mundo del sueño” (187). Es 
+un recuerdo conflictivo ligado al problema central de la filiación, tal como aparece páginas des­
+pués, en que se recuerda la visita de Borges al Gral. Videla, elogiando a Pinochet y, sin embargo: 
+“Y a la vez es el único que me abre la posibilidad de un destino, que no sea ser padre, ni médico 
+de policía, ni policía, ni muerto” (209).
+25	 En este sentido, el uso de frases hechas en el lenguaje coloquial resulta particularmente signifi­
+cativo.
+15
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+orden externo y un lenguaje aproximativo y fuertemente connotado, sino que 
+además detecta la existencia −en la lengua de hoy− de los rastros identificables 
+del aparato represivo y de los mecanismos sociales que lo toleraron.
+El hecho de que el narrador de Una misma noche busque al mismo tiempo 
+reconciliarse con el recuerdo de su padre violento, con la decadente vejez de su 
+madre y con su propia sensibilidad ‘anómala’ de homosexual muestra de qué 
+manera el dinamismo de la memoria invade su presente. Recordar el pasado y 
+entenderlo cambia, necesariamente, su vida actual. De esta forma, la novela de 
+Brizuela expone contenidos éticos y políticos, al tiempo que ingresa en la categoría 
+de género memorístico con diagrama familiar, tal como lo define Josefina Ludmer: 
+Va al horror del pasado de la fundación, y retorna al presente para cumplir 
+con el mandato de escritura y transmisión (60).
+El tiempo se repite y se duplica en la memoria: dos yoes, dos presentes, 
+dos generaciones y dos personajes centrales que pueden ser uno solo. … El 
+tiempo de la memoria se repite, se duplica, se mide entre padres e hijos y es 
+el tiempo familiar de una generación (62).
+[La familia] sirve para narrar: las generaciones son un modo de contar en 
+encadenamiento y en continuidad histórica con el pasado y el futuro. Por eso 
+la familia es uno de los mecanismos de transición de dictadura a democracia26.
+Esta trama familiar ha sido considerada también desde la perspectiva del 
+filicidio, que permite explicar las circunstancias en las que una sociedad sacrifica 
+a sus generaciones más jóvenes. Al respecto Elsa Drucaroff afirma: 
+La mancha temática del filicidio aparece en el ámbito privado como deseo 
+o actitud filicida de los padres, pero también como pulsión político-social 
+destructiva sobre la juventud. Si se ponen en serie las situaciones y connota­
+ciones filicidas en los imaginarios narrativos de la postdictadura, queda claro 
+que ambos sentidos están inextricablemente entremezclados (331)27.
+En este contexto preciso, escribir resulta ser la culminación de la búsqueda 
+de significado a través del tiempo. Creo que es en este sentido que el pretexto 
+de la declaración jurídica, constantemente evocado por Leonardo en la novela 
+como motor del recuerdo, deriva en creación artística y realiza una elaboración 
+satisfactoria del trauma. La página final en negro (y no en blanco, tradicio­
+nalmente atribuible al vacío de la escritura) materializa, al mismo tiempo, la 
+oscuridad de la memoria y la claridad de la escritura. No en vano le corresponde 
+la última letra del alfabeto, punto de llegada y de salida. Ante ella se puede, por 
+fin, nombrar lo abominable.
+26	 Ludmer agrega que: “Las políticas de la memoria son políticas de la justicia, de la identidad y la 
+filiación, y políticas de los afectos” (68).
+27	 Ver especialmente el capítulo 9, “Hijos y padres: el imaginario filicida de la pos dictadura”.
+16
+Emilia Deffis | 
+  XX.1 (enero-abril 2016) ISSN 1851-4669
+Conclusiones: ¿Quiénes construirán el relato?
+La coincidencia más evidente entre estas dos novelas es el hecho de que 
+ambas tratan el tema de los desaparecidos apelando al lenguaje de los sueños 
+y el delirio28. El desaparecido genera un trauma sin solución, ya que resulta 
+imposible realizar los rituales funerarios que permiten elaborar el duelo. Esta 
+es una realidad tanto individual como colectiva que el discurso ficcional toma a 
+su cargo para otorgarle la materialidad de las palabras. Es dable pensar entonces 
+que nombrar al desaparecido viene a darle un cuerpo que es posible honrar e 
+inhumar. Giorgio Agamben anotó a propósito de la eliminación de los cuerpos 
+durante la Shoa: 
+La privation de sépulture (à l’origine  du conflit tragique entre Antigone et Créon) 
+était aussi une forme de vengeance magique contre le corps du mort, condamné 
+ainsi à demeurer une larva, à ne jamais trouver la paix. C’est pourquoi, dans 
+le droit archaïque grec et romain, l’obligation des funérailles était si stricte qu’en 
+l’absence d’un cadavre on exigeait l’inhumation d’un substitut, le colosse, double 
+rituel du défunt (en général, une effigie de bois ou de cire) (102). 
+Esta cita me lleva a afirmar que, mutatis mutandis, la ‘aparición’ de cada 
+nuevo hijo de desaparecido, tarea incansable de las Abuelas de la Plaza de Mayo, 
+certifica paradójicamente la muerte de sus padres, y se constituye en prueba irre­
+futable del crimen cometido contra quienes estuvieron y existieron (recordando la 
+frase del Gral. Videla quien pretendía que los desaparecidos no eran ni estaban).
+Al comenzar me fijé como primer objetivo el estudio de los alcances de la 
+escritura a la hora de contar el horror. En los ejemplos que acabo de comentar, 
+la acción se centra en personajes que, aunque fueron afectados por los hechos 
+violentos, no fueron sus víctimas mortales. En el contexto argentino actual en 
+el que, para los que no vivieron la última dictadura militar el pasado violento se 
+hace tabú, resulta necesario tomar conciencia de quiénes construyen los relatos 
+y de cómo lo hacen. Porque en esa misma medida se podrá evaluar mejor los 
+aportes que las novelas estudiadas hacen al conjunto del trabajo colectivo de 
+memoria histórica. Como se ha visto, quienes construyen los relatos son, por un 
+lado, un novelista exiliado quien recupera la voz de la esposa de un desaparecido, 
+que es al mismo tiempo la hija de un ideólogo de la represión. Por el otro lado, 
+el narrador es un escritor, hijo de un suboficial de la Marina; un padre colabo­
+rador con las fuerzas represivas que lo aterroriza, dejándolo sujeto a la culpa, 
+de la que busca redimirse para poder liberarse y ser él mismo. Una vez más, la 
+culpa constituye una problemática perceptible tanto en lo individual como en 
+lo social que permanece como un conflicto sin solución, y la novela verbaliza 
+28	 En las dos novelas analizadas la acción se centra en personajes femeninos: Emilia y Diana 
+Kuperman, y se autorrefieren en la actividad de sus narradores-escritores. La temática del hijo-
+testigo de las atrocidades cometidas por un padre violento aúna también a las novelas de Martí­
+nez y Brizuela. Entre las diferencias más significativas figura la posición asumida por los narra­
+dores, uno en el exilio, el otro dentro del país, pero bajo la amenaza constante de la violencia.
+17
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+sus alcances. Ambos se constituyen en voces marginales que buscan resolver el 
+duelo ante la muerte en vida. Y lo hacen trazando una cartografía del deseo, el 
+dolor y la culpa que subraya la invasión del tiempo histórico en el espacio (sea 
+este el del exilio o el de la búsqueda). 
+Más allá del evidente enfrentamiento a la autoridad transformada en autori­
+tarismo, el imaginario familiar subraya no solamente la necesidad de resolver el 
+duelo sino también la afirmación de otras versiones de la historia que, desde la 
+densa sustancia de lo personal e íntimo, se proyectan sobre lo social y público. 
+Dicho en otras palabras, diferenciarse del padre violento es la única forma de 
+afirmar la propia existencia, como contraofensiva frente al mandato de no ser, 
+no hablar, no recordar (e incluso, no olvidar). En la medida en que Leonardo 
+se deshaga de la culpa de ser el hijo de un marino cómplice de la dictadura, y 
+Emilia reconozca que su padre ordenó la desaparición y muerte de su esposo, 
+ambas novelas representan un comportamiento social necesario: identificar a los 
+victimarios que todavía se pretende ocultar, y enterrar a los muertos cuyos cuerpos 
+desaparecieron. En este sentido los dos textos se afirman como instrumentos de 
+una rememoración simbólica más rica y constructiva, la fuerza del lenguaje (que 
+nombra las cosas con palabras devaluadas pero eficaces), el sueño (que representa 
+lo innombrable), y la fantasía reparadora (que sustituye lo muerto por lo vivo). 
+En mi lectura de ambas novelas, creo haber repasado algunos elementos 
+que responden a la definición de la textualidad como un inconsciente abierto, 
+de la cita inicial de Drucaroff, y que están presentes en la noción de “densidad 
+transparente” a la que se refiere el epígrafe de Semprún. Estos son algunos de 
+los desafíos de la memoria materializados en los textos de Martínez y Brizuela 
+que acabo de interpretar, inscritos en el movimiento incesante del pasado, que 
+siempre regresa y exige –como afirma Jelin− “un compromiso cívico… que sea 
+más democrático más inclusivo” (249). O, como subrayó Carlos Fuentes (2009) 
+acerca de Purgatorio, pero que considero aplicable también a la obra de otros 
+escritores: “Quizá Tomás Eloy Martínez nos advierta, desde su vida, desde su 
+muerte, que cuando al cabo entendemos nuestra miseria, podemos entender sus 
+abismos y sus cumbres y, a partir de ello, conocer la verdad” (s.n.). 
+Referencias bibliográficas
+Agamben, Giorgio. Ce qui reste d’Auschwitz. París: Payot, 1999.
+Alcoba, Laura. La casa de los conejos. Buenos Aires: Edhasa, 2010.
+Aletta de Sylvas, Graciela. “La ficción: espacio simbólico de la ausencia en la 
+novela argentina contemporánea”. Amerika 2 (2010). En línea. Consultado 
+27 de noviembre de 2013. DOI : 10.4000/amerika.1177.
+Alighieri, Dante. La divina Comedia. Madrid: Austral, 2010.
+18
+Emilia Deffis | 
+  XX.1 (enero-abril 2016) ISSN 1851-4669
+Arfuch, Leonor. Memoria y autobiografía. Exploraciones en los límites. Buenos 
+Aires: Fondo de Cultura Económica, 2013.
+Bioy Casares, Adolfo. El héroe de las mujeres [“Otra esperanza”]. Buenos Aires: 
+Emecé, 1999. 
+Borges, Jorge Luis. Elogio de la sombra. 1969. Obras completas. Buenos Aires: 
+Emecé, 1974.
+___. La moneda de Hierro. Buenos Aires: Emecé, 1976. 
+___. El otro, el mismo. 1964. Obras completas. Buenos Aires: Emecé, 1974.
+Brizuela, Leopoldo. Una misma noche. Doral: Alfaguara, 2012.
+Brodsky, Marcelo. “Lugares donde poder reflexionar sobre el pasado”. Ň, revista 
+de cultura. Suplemento de Clarín 3 de octubre de 2013. Consultado 22 de 
+noviembre de 2013.
+Deffis, Emilia. Figuraciones de lo ominoso: memoria histórica y novela posdictatorial. 
+Buenos Aires: Biblos, 2010.
+Del Cueto, Carla y Mariana Luzzi. Rompecabezas. Transformaciones en la estruc­
+tura social argentina (1983-2008). Buenos Aires: Biblioteca Nacional, 2008.
+Drucaroff, Elsa. Los prisioneros de la torre. Política, relatos y jóvenes en la postdic­
+tadura. Buenos Aires: Emecé, 2011.
+Fuentes, Carlos. “Los desaparecidos de Tomás Eloy”. El País 21 de marzo de 
+2009. Consultado 12 de noviembre de 2013.
+___.“Tomás Eloy fue el escritor que nos acercó a la verdad”. La Nación 2 de 
+febrero de 2010. Consultado el 21 de noviembre de 2013.
+Gasparini, Juan. Graiver, el banquero de los montoneros. Buenos Aires: Norma, 
+2010. 
+Jelin, Elizabeth. “¿Víctimas, familiares o ciudadanos/as? Las luchas por la legitimi­
+dad de la palabra”. Los desaparecidos en la Argentina. Memorias, representaciones 
+e ideas (1983-2008), E. Crenzel, coord. Buenos Aires: Biblos, 2010. 227-249.
+Kristal, Efraín. “What is, is not: Dante in Tomás Eloy Martínez’s Purgatorio.” 
+Bulletin of Latin American Research 31. 4 (October 2012): 473-84. DOI: 
+10.1111/j.1470-9856.2012.00740.x
+Ludmer, Josefina. Aquí América Latina. Una especulación. Buenos Aires: Eterna 
+Cadencia, 2010.
+Lvovich, Daniel y Bisquert, J. La cambiante memoria de la dictadura. Discursos 
+públicos, movimientos sociales y legitimidad democrática. Buenos Aires: Bib­
+lioteca Nacional, 2008. 
+Marai, Sandor. El último encuentro. Barcelona: Salamandra, 1999.
+Martínez, Tomas Eloy. Purgatorio. Buenos Aires: Alfaguara, 2008.
+19
+  XX.1 (enero-abril 2016) ISSN 1851-4669 | Desafíos de la memoria…: 1-19
+___. “El Olimpo del horror”. El País 1 de enero de 2006. Consultado el 11 de 
+noviembre de 2013.
+Ozick, Cynthia. Levitación. Barcelona: Montesinos, 1988.
+Persino, María Silvina. “Memoriales, museos, monumentos: la articulación de 
+una memoria pública en la Argentina posdictatorial”. Revista Iberoamericana 
+LXXIV. 222 (2008):1-16. En línea. Consultado el 27 de noviembre de 2013.
+Piñeiro, Claudia. Un comunista en calzoncillos. Madrid: Santillana, 2013.
+Ramos, Arturo. “Conciencia de culpa”. Cuadernos hispanoamericanos 745-746 
+(2012): 189-194.
+Robin, Régine. « La autoficción. El sujeto siempre en falta ». Identidades, sujetos 
+y subjetividades. Leonor Arfuch comp. Buenos Aires: Prometeo, 2005. 45-58.
+Solá, Marcela. El silencio de Kind. Buenos Aires: Planeta, 1999.
+Valverde, Lucie. «Entre fiction et réalité: un portrait de l’Absent dans Purgatorio 
+de Tomás Eloy Martínez». Le portrait: champ d’expérimentation. Fernando 
+Copello y Aurora Delgado Richet, dirs. Rennes: Presses Universitaires de 
+Rennes, 2013. 297-306.
+Verbitsky, Horacio. El vuelo. Buenos Aires: Sudamericana, 2004.
+Vilariño, Idea. Poemas de amor. 1957. Barcelona: Lumen, 1984.
+Villoro, Juan. “Una cartografía conjetural”. ADN Cultura. Suplemento de La 
+Nación 10 de enero de 2009. En línea. Consultado 27 de noviembre de 2013.
+Fecha de recepción: 17/02/2016 / Fecha de aceptación: 28/03/2016

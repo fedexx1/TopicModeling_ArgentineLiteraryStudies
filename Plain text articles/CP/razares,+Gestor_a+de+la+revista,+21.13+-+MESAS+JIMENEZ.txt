@@ -1,0 +1,561 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS LIBRES
+APRENDIZAJE INCLUSIVO E INTEGRADO DE
+CONTENIDOS Y LENGUAS EXTRANJERAS A TRAVÉS
+DEL DRAMA
+Integrated and Inclusive Content Learning and Foreign
+Languages through Drama
+Mesas Jiménez, Rebeca
+ Rebeca Mesas Jiménez *
+rebeca.mesas@urjc.es
+Universidad Rey Juan Carlos, España
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 21, e2113, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 20/06/23
+Aprobación: 17/08/23
+URL: http://portal.amelica.org/ameli/journal/785/7854257010/
+DOI: https://doi.org/10.30972/clt.0216906
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: El propósito de este documento es responder a la
+necesidad educativa de lograr una enseñanza bilingüe inclusiva
+partiendo de los principios del enfoque AICLE (Aprendizaje
+Integrado de Contenidos y Lenguas Extranjeras) y proponiendo
+los usos del Drama pedagógico dentro del marco del Diseño
+Universal para el Aprendizaje (DUA) en la etapa de Educación
+Primaria. La inclusión educativa ha supuesto un reto desde
+la implantación de la enseñanza bilingüe. Para enseñar y
+aprender contenidos curriculares a través de lenguas extranjeras
+es fundamental disponer de métodos y recursos que contribuyan
+a un aprendizaje signiﬁcativo sin perder de vista la atención a la
+diversidad.
+Palabras clave: enseñanza bilingüe, enfoque AICLE, Drama,
+educación inclusiva, DUA.
+Abstract: e main purpose of this article is to give a response to
+the educational need of reaching an inclusive bilingual education
+based on the CLIL approach (content and language integrated
+learning) by proposing the use of pedagogic Drama within the
+Universal Design for Learning framework in the context of
+Primary Education. Inclusive education has been a challenge
+since the establishment of bilingual teaching. Teaching and
+learning content through foreign languages implies the use of
+methods and resources that contribute to a meaningful learning.
+Keywords: bilingual education, CLIL approach, Drama,
+inclusive education, UDL.
+Notas de autor
+*
+Rebeca Mesas Jiménez es profesora de didáctica del inglés como lengua extranjera de la Universidad Rey Juan Carlos de Madrid. Licenciada en
+Traducción e Interpretación por la Universidad Pontiﬁcia Comillas y en Magisterio por el Centro Universitario de Educación. Cuenta con un
+Máster Universitario en Enseñanza del Español como Lengua Extranjera por la Universidad Complutense y otro Máster en las tecnologías de la
+información y la comunicación en la enseñanza y el tratamiento de las lenguas por la UNED. Actualmente, entre sus líneas de investigación se
+encuentran el enfoque AICLE, el uso de metodologías activas, la implantación del Diseño Universal para el Aprendizaje y la inclusión educativa en
+el marco de la enseñanza bilingüe.
+Cuadernos de Literatura, 2023, núm. 21, e2113, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+1. Diversidad y Bilingüismo: estado de la cuestión
+Este artículo surge a raíz de la importancia otorgada a la educación inclusiva en la reciente reforma educativa
+en España. Asimismo, el cuarto objetivo de desarrollo sostenible según la Agenda 2030 de Naciones Unidas
+apunta a garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje
+permanente para todos (Naciones Unidas, 2018, p.6). De este modo, surge la necesidad de rediseñar la
+actividad docente y enfocarla hacia una educación basada en la diversidad que es un rasgo inherente al ser
+humano que nos hace únicos con nuestras diferencias individuales. En este sentido, Moliner Miravet et al.
+(2018) aﬁrman que:
+La sociedad en que vivimos es progresivamente más plural, la educación no puede desarrollarse al margen de las condiciones
+de su contexto sociocultural y debe fomentar las actitudes de respeto mutuo (…) Es importante comenzar a prestar atención
+desde lo educativo si queremos realmente incluir toda la diversidad y la complejidad humana. (p. 94)
+La educación inclusiva constituye uno de los ideales de los sistemas educativos en el mundo (Amor et al.,
+2021); se basa en el respeto a las diferencias individuales: diversidad de ideas, experiencias, conocimientos
+previos y actitudes; diferentes estilos de aprendizaje e inteligencias múltiples (Gardner, 1993); diversos
+métodos de enseñanza; variedad en los niveles de logro, ritmos de aprendizaje y capacidad intelectual;
+divergencias en los intereses, motivaciones y expectativas; y diferentes situaciones socioeconómicas y
+culturales que afectan la vida de los estudiantes (Arnaiz Sánchez, 2009; Julius y Madrid, 2017). En un
+sentido amplio, atender a la diversidad encierra toda actividad que responda a las necesidades educativas
+del alumnado, sobre todo aquellas que necesitan una respuesta a causa de desventajas socioculturales,
+restricciones médicas, altas capacidades intelectuales, diﬁcultades del lenguaje, discapacidades o problemas
+serios de personalidad (León Guerrero et al., 2016; Monclús y Saban, 2012). Según Leiva Olivencia y Alcalá
+del Olmo Fernández (2021):
+La atención a la diversidad se ha convertido en una política en la que las instituciones educativas muestran lo que se debería
+aplicar con la ﬁnalidad de que los y las estudiantes satisfagan gran parte de sus necesidades educativas y cognitivas a través del
+direccionamiento de los y las docentes, por ello, el Diseño Universal para el Aprendizaje y Co-enseñanza no pretende entregar
+fórmulas ni modelos, sino más bien ofrecer una estrategia, que no únicamente se centran en sus experiencias formativas
+en el aula, sino que van más allá, que permitan generar una formación integral en los y las estudiantes con habilidades y
+competencias. (p. 7-8)
+Así, concluimos que es en el centro educativo donde se debe priorizar la diversidad del aula a la hora
+de diseñar materiales curriculares y adoptar estrategias metodológicas que conduzcan a un aprendizaje
+signiﬁcativo para todos los estudiantes.
+Del mismo modo, las instituciones educativas actuales se caracterizan por la importancia que le dan al
+aprendizaje de una segunda lengua para promover la comunicación y la interculturalidad en un mundo cada
+vez más globalizado. Por eso, los gobiernos de todo el mundo han creado planes de enseñanza para promover
+el bilingüismo. En el caso de España, se instauraron los primeros programas de enseñanza bilingüe en la etapa
+de educación Primaria en el año 2004 y han ido creciendo progresivamente hasta implantarse en las etapas
+de educación Secundaria y Bachillerato en 2010. Recientemente, en el curso 2019/20 se ha establecido la
+enseñanza bilingüe en la etapa de infantil. En la actualidad, un millón y medio de alumnos van a un colegio
+bilingüe en España; el 96% en inglés.
+La enseñanza bilingüe se sitúa dentro del marco de inclusión educativa, entendiendo por educación
+inclusiva un entorno pedagógico donde se tienen en cuenta las diferencias individuales del alumnado
+inherentes a la diversidad de cada ser humano y se atienden como oportunidades para enriquecer y
+culturalizar el proceso de enseñanza aprendizaje. Marsh (2002, p. 10) aﬁrmó que la igualdad ha sido un
+factor de éxito porque este tipo de enseñanza da acceso al aprendizaje de una lengua extranjera a un rango
+Rebeca Mesas Jiménez. APRENDIZAJE INCLUSIVO E INTEGRADO DE CONTENIDOS Y LENGUAS
+EXTRANJERAS A TRAV...
+PDF generado a partir de XML-JATS4R
+de estudiantes mucho más amplio. Coyle et al. (2010, p. 2) también enfatizaron que la enseñanza bilingüe es
+apropiada para un amplio abanico de estudiantes y no solo para aquellos de origen privilegiado o elitista.
+Sin embargo, la implantación de este tipo de enseñanza en escuelas de toda Europa muestra una realidad
+muy diferente. Tal como señalan Durán-Martínez y Beltrán-Llavador (2016, p. 88) los docentes se enfrentan
+ahora, por un lado, a la diﬁcultad de atender a la diversidad de su aula buscando alternativas inclusivas
+para aquellos estudiantes con diﬁcultades y por otro, a la necesidad de ser competentes y seguros de sí
+mismos en el uso del inglés. Según un estudio europeo realizado a 706 profesionales de la educación y
+coordinadores de programas bilingües, se determinó que entre las principales necesidades del profesorado se
+encontraba la formación en diseño de materiales curriculares adecuados y en metodologías para atender a la
+diversidad (Pérez Cañado, 2016). Algunas medidas podrían ser dividir al conjunto de estudiantes en grupos
+más pequeños y ﬂexibles para evitar la segregación y la discriminación de los más vulnerables, de modo que se
+alcance el mayor nivel de colaboración entre los estudiantes (Muntaner, 2014). Otras propuestas (Ainscow,
+2001; Arnaiz Sánchez, 2009) implican ofrecer un currículo inclusivo que rompa las barreras y que faciliten
+el acceso de todos los estudiantes a todas las materias, con una metodología ﬂexible que incluya la autonomía
+y el apoyo humano que los estudiantes necesitan para alcanzar sus objetivos.
+En suma, para alcanzar una enseñanza bilingüe inclusiva, una de las medidas fundamentales consiste en
+utilizar métodos ﬂexibles y activos que impulsen la autonomía y la motivación intrínseca de los estudiantes.
+De ahí, que para responder a la necesidad educativa de crear estrategias metodológicas que prioricen la
+atención a la diversidad en contextos bilingües, se propongan los usos del Drama como herramientas de
+aprendizaje de contenidos y lenguas extranjeras, es decir, el enfoque AICLE en combinación con la utilización
+del Drama pedagógico.
+2. Principios y ventajas del enfoque AICLE
+Según Graddol, el enfoque AICLE, o lo que es lo mismo, el Aprendizaje Integrado de Contenidos y Lenguas
+Extranjeras es “una tendencia curricular signiﬁcativa en Europa” (2006, p. 8) que admite que enfoques
+similares se están utilizando en muchos países con nombres diferentes. Lo interesante es unir todos estos
+enfoques y descubrir qué funciona mejor según las experiencias en diferentes entornos de aprendizaje. Hay
+tantas deﬁniciones del enfoque AICLE como profesores y contextos, pero el término quedó acuñado por
+David Marsh de la Universidad de Jyväskylä en Finlandia en 1994 y desde entonces ha tomado una nueva
+dimensión. Ya en 1975, e Bullock Report. A language for life estableció la conexión entre contenido y lengua.
+Lo que decía el informe era esencialmente que todos los docentes de contenido tenían que ser docentes de
+lengua y como resultado, todos los docentes de lengua tenían que serlo de contenido. Las recomendaciones
+más relevantes aﬁrmaban: “Each school should have an organised policy for language across the curriculum,
+establishing every teacher's involvement in language and reading development throughout the years of
+schooling.” (1975, p. 514). El informe no se refería al aprendizaje de una lengua extranjera, sino a aumentar
+el nivel lingüístico en el hablante de inglés como lengua materna.
+Sin embargo, podemos adoptar esa idea al contexto AICLE, ya que el docente tiene por un lado que
+ser especialista en la materia que enseña y por otro, ser comunicativamente competente en una lengua
+extranjera. Por tanto, deﬁniremos el enfoque AICLE como un método en el que se aprenden contenidos
+curriculares a través de una lengua extranjera y en el que ambos, contenido y lengua, asumen un papel igual de
+importante. Se trabajan las mismas cinco destrezas que al aprender una lengua: escuchar, hablar, leer, escribir
+y pensar; ahora bien, el alumno aprende “haciendo” en lugar de “escuchando” y se prioriza el desarrollo de las
+habilidades de pensamiento de orden superior según la taxonomía de Bloom (1956): analizar, evaluar y crear;
+y tras una experiencia de aprendizaje se adquiere una nueva destreza, un nuevo conocimiento y una actitud.
+El enfoque AICLE, además, se centra en el desarrollo de habilidades de pensamiento interconectadas entre
+Cuadernos de Literatura, 2023, núm. 21, e2113, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+sí, tales como habilidades creativas, lógicas, de razonamiento, cuantitativas y cualitativas a través de técnicas
+y actividades que los alumnos y alumnas realizan de manera individual o grupal.
+Otra premisa del enfoque AICLE es el andamiaje: “para que el alumnado pueda construir nuevo
+conocimiento se facilitará que pueda apoyarse en aquello que ya conoce” (Faya Cerqueiro et al., 2020).
+Consiste en construir conocimiento de materia y lengua sobre lo que el alumnado ya sabe, siendo
+fundamental la activación del conocimiento previo y sobre eso, construir el aprendizaje a modo de andamio.
+Entre las técnicas de andamiaje podríamos situar los usos del Drama para contextualizar el contenido
+curricular, favorecer la participación del sujeto que aprende y beneﬁciarnos del lenguaje corporal.
+Por último, reﬁriéndonos a la adquisición de la lengua extranjera en el enfoque AICLE, es importante
+distinguir entre los que Cummins (1979) denominó BICS (Basic Interpersonal Communicative Skills),
+o lo que es lo mismo, destrezas comunicativas interpersonales, y CALP (Cognitive Academic Language
+Proﬁciency), reﬁriéndose al dominio cognitivo del lenguaje académico. Por lo tanto, los docentes en
+contextos AICLE tienen que diseñar tareas donde los estudiantes desarrollen sus habilidades comunicativas
+interpersonales junto al lenguaje académico que sea objeto de aprendizaje del contenido curricular.
+Este enfoque basado en un marco de 4C (Contenido, Comunicación, Cognición, y Cultura) propuesto
+por Coyle en 1999 se centra en el desarrollo de cuatro pilares básicos que podemos relacionar con lo
+mencionado hasta ahora. Los contenidos curriculares los marca la normativa que establece la ordenación
+y las enseñanzas mínimas de la Educación Primaria. Asimismo, para el desarrollo de los contenidos de
+comunicación o lengua extranjeras, podemos referirnos a la misma normativa y establecer en cada unidad
+didáctica el lenguaje interpersonal y el lenguaje académico que nuestros estudiantes van a aprender a través
+de ese contenido curricular. En cuanto a la cognición, nos referimos al desarrollo de las habilidades de
+pensamiento superior y, en lo que respecta a cultura, al desarrollo de valores, de tolerancia, de empatía y de
+respeto por la diversidad cultural.
+Desde su implantación, el enfoque AICLE ha dado lugar a numerosos estudios y estos han demostrado que
+los alumnos y alumnas inmersos en este tipo de enseñanza desarrollan una conciencia metalingüística que les
+ayuda a comparar lenguas con más facilidad, deducir el signiﬁcado de las palabras dentro de un contexto y
+mejorar las destrezas productivas del lenguaje. En términos generales, demuestran mayor ﬂuidez que aquellos
+en cursos de idiomas tradicionales (Marsh, 2002). Asimismo, se ha constatado que “el aprendizaje integrado
+de contenidos y lenguas extranjeras mejora la capacidad de aprender y estudiar; promueve la autonomía y la
+responsabilidad del alumnado, refuerza la motivación y facilita una “experiencia holística educativa” (Coyle
+et al., 2010, p. 1). Así estaríamos contribuyendo a una experiencia donde por un lado las emociones, por
+otro la información y por último los métodos y estrategias de aprendizaje se combinarían dando lugar a un
+aprendizaje global, inclusivo e integral.
+En suma, el enfoque AICLE ha transformado la escena educativa y ha traído consigo una revolución
+de métodos de enseñanza. Podemos concluir que el enfoque AICLE ha supuesto un cambio en la forma
+de aprender una lengua extranjera y ha conducido a modiﬁcaciones clave en la planiﬁcación de la práctica
+docente donde los estudiantes tienen que ser aprendientes activos, involucrarse en su proceso de aprendizaje,
+desarrollar distintos tipos de lenguaje, activar sus conocimientos previos y aplicar los contenidos nuevos para
+resolver situaciones en contextos de la vida real, dando lugar así a un aprendizaje competencial de contenidos
+curriculares y lenguas extranjeras. Sin duda, todo un reto.
+2.1. Problemas detectados
+Según Wolﬀ, los docentes a menudo utilizan métodos tradicionales de aprendizaje y argumentan que para
+aprender el contenido de ciertas materias es necesario adquirir una terminología que no se aprende más
+que creando listas de palabras (Wolﬀ, 2011). Sawyer aﬁrma que una de las destrezas más difíciles para los
+docentes del futuro es aprender cómo pasar de rutinas estructuradas a la improvisación controlada donde
+Rebeca Mesas Jiménez. APRENDIZAJE INCLUSIVO E INTEGRADO DE CONTENIDOS Y LENGUAS
+EXTRANJERAS A TRAV...
+PDF generado a partir de XML-JATS4R
+el alumnado guíe, en parte, la dirección de la clase (Sawyer, 2004). Cuando se trata de enseñar de manera
+integrada contenidos curriculares y lenguas extranjeras tal como establece la enseñanza bilingüe a través del
+enfoque AICLE, los docentes deberían recurrir a métodos que sitúan al alumnado y su autonomía en el
+centro del proceso de enseñanza aprendizaje, alejándose de los métodos tradicionales, con el ﬁn de atender
+a las habilidades individuales y propias de cada uno, fomentar el aprendizaje signiﬁcativo, la creatividad y
+aumentar la motivación en el aula. Crespí y García (2021) incorporan además la formación integral que se
+acerque a la realidad laboral actual, mediante el desarrollo de competencias genéricas y técnicas, mientras que
+Posso et al. (2020) consideran que debe ser a través de diferentes metodologías activas y en correspondencia
+con las necesidades de aprendizaje centradas en el estudiante. De hecho, una de las premisas del enfoque
+AICLE es el aprendizaje centrado en el alumnado. A este cambio metodológico, tenemos que añadirle el
+propósito de este documento: alcanzar una enseñanza bilingüe inclusiva. Si bien hemos aﬁrmado que los
+programas de enseñanza bilingüe favorecen la inclusión al facilitar a todos por igual el acceso al aprendizaje
+de una lengua extranjera, no deja de suponer otra diﬁcultad añadida para los docentes en contextos bilingües
+el hecho de atender la diversidad del aula respondiendo a las necesidades individuales de los estudiantes.
+Según un estudio reciente (2020), los docentes inmersos en dichos contextos coinciden en que les lleva
+más tiempo planiﬁcar una lección AICLE, se sienten sobrepasados y necesitan más recursos y materiales.
+Al mismo tiempo, sienten que sería necesaria más formación docente y, con respecto a la atención a la
+diversidad, serían necesarios más apoyos y adaptaciones para que la enseñanza bilingüe sea accesible para
+todos. Los docentes se muestran preocupados porque algunos estudiantes puedan ser excluidos de este tipo
+de enseñanza o les cause un déﬁcit en el aprendizaje (Lorenzo y Granados, 2020). En esta misma línea,
+Madrid y Pérez-Cañado (2018) han puesto de maniﬁesto la necesidad de llevar a cabo estudios acerca de las
+prácticas inclusivas en los programas de enseñanza bilingüe, una vez que estos se han extendido en las etapas
+de enseñanza obligatoria tanto en España como en Europa.
+Es por esto por lo que los docentes inmersos en este tipo de enseñanza tienen que poner el foco en la
+incorporación de metodologías activas en los procesos de enseñanza aprendizaje de contenidos a través de
+lenguas extranjeras y el Drama puede ofrecernos un recurso valioso desde el punto de vista inclusivo.
+2.2. La conexión entre el Drama pedagógico y el enfoque AICLE como respuesta
+educativa para favorecer la inclusión en el aula bilingüe en la etapa de Educación Primaria.
+Partiendo del marco conceptual del Diseño Universal para el Aprendizaje (DUA), haremos referencia a uno
+de los principios que nos sirve para justiﬁcar los usos del Drama pedagógico como respuesta a la necesidad
+educativa de una enseñanza bilingüe inclusiva. Por DUA entendemos “un marco para guiar el diseño de
+entornos de aprendizaje que sean accesibles y desaﬁantes para todo el mundo” (Meyer et al., 2014). De
+acuerdo con este marco de mente, cerebro y educación, uno de sus principios se basa en la variabilidad
+del cerebro humano, ya que cada cerebro tiene una predisposición diferente ante el aprendizaje y son
+los contextos de aprendizaje, las experiencias de aprendizaje previas, la elección personal, la biología y la
+composición genética, así como los eventos pre y perinatales y las exposiciones ambientales los que forman
+las experiencias de aprendizaje (Tokuhama-Espinosa et al., 2020). Partir de la variabilidad humana frente a
+la idea de atención a la diversidad, implica hablar de neurociencia, de modo que, las experiencias vitales y los
+aprendizajes en sí mismos condicionan cómo funcionarán los genes que van a contribuir a la manera en la que
+seguirá aprendiendo ese cerebro (Bueno i Torrens, 2019). De ahí que los docentes tengamos que dirigirnos
+hacia la personalización del aprendizaje y al uso de estrategias de instrucción diferenciadas que contribuyan
+al diseño de situaciones de aprendizaje, métodos, materiales y contextos ﬂexibles donde se den oportunidades
+de aprendizaje para todos.
+Cuadernos de Literatura, 2023, núm. 21, e2113, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Una de esas situaciones podría generarse a través de los usos del Drama desde donde se trabajan, entre
+otras cosas, las emociones. Una de las redes neuronales vinculadas al aprendizaje según el DUA es la red
+afectiva: el porqué del aprendizaje, donde se incluyen la motivación, la atención y el interés. La motivación del
+alumnado se ve aumentada con la técnica del Drama, ya que convierte al aprendiz en protagonista y al docente
+en facilitador de situaciones de aprendizaje en lugar de mero trasmisor de información. De acuerdo con Ames
+(1992) el hecho de planiﬁcar las tareas de manera multidimensional favorece por un lado el crecimiento
+autónomo y por otro la motivación y el interés hacia esa actividad. La propuesta de diferentes tareas con un
+mismo objetivo, frente a la propuesta de una única tarea facilita la motivación por el aprendizaje de un modo
+más eﬁcaz y nos permite atender a las necesidades individuales del aula. Los usos del Drama pedagógico nos
+ofrecen un amplio abanico de tareas multidimensionales que aumentarán la motivación de los estudiantes
+ante el aprendizaje.
+De igual modo, Ames muestra que las tareas de diﬁcultad intermedia son las que más motivan al aprendiz,
+y esto podemos conectarlo, dentro de una visión sociohistórica, con el concepto vigotskiano de la zona de
+desarrollo próximo, otra de las bases fundamentales del enfoque AICLE y del DUA. Si el docente es capaz
+de trabajar esa zona, desde lo que el alumno y alumna es capaz de hacer por sí solo hasta lo que es capaz
+de hacer con ayuda, le estaremos proponiendo tareas asequibles y su implicación en el aprendizaje se verá
+incrementada. Una de las visiones del marco DUA está asociada, de hecho, con la psicología cognitiva y
+los enfoques del procesamiento de la información y construcción del aprendizaje como el andamiaje, la
+colaboración entre iguales y los factores socioemocionales, tres factores presentes en el Drama pedagógico.
+It is deeply rooted in concepts such as the Zone of Proximal Development, scaﬀolding, mentors, and modelling, as well
+as the foundational works of Piaget; Vygotsky; Bruner, Ross, and Wood; and Bloom, who espoused similar principles for
+understanding individual diﬀerences and the pedagogies required for addressing them. (CAST, 2018, p. 2)
+En su conjunto el uso del Drama permite esa manera multidimensional que hemos mencionado
+anteriormente de resolver tareas de diferentes maneras con el mismo objetivo, nivelar la diﬁcultad ante la
+diversidad del aula y la producción de la lengua de manera signiﬁcativa. Además, entre otras ventajas podemos
+destacar lo que Trozzo (2017) llama “principios liminares” inherentes al Drama en educación, tales como:
+creatividad frente a obediencia e interpretación frente a copia; diferencia, diversidad y tolerancia frente a
+estereotipos; trabajo por medio de la interacción, de la escucha; aprovechamiento de los conﬂictos como
+motores de aprendizaje; prioridad del cuerpo frente a la palabra como vehículo de expresión; autoaprendizaje
+y autorregulación y Drama como juego.
+En resumen, la introducción de distintos usos del Drama en el aula bilingüe podría contribuir al diseño
+de situaciones de aprendizaje donde se aprendan contenidos de manera signiﬁcativa, se practique la lengua
+extranjera en contextos reales y se atiendan a los tres ámbitos del aprendizaje según el DUA: la transformación
+de la información en conocimiento utilizable, la regulación de las emociones como la motivación, el interés
+y la atención y el uso de estrategias para aprender a aprender tales como la planiﬁcación, la organización y
+la expresión.
+Podemos establecer así una conexión entre el enfoque AICLE, el DUA y los usos del Drama en el aula
+bilingüe.
+Rebeca Mesas Jiménez. APRENDIZAJE INCLUSIVO E INTEGRADO DE CONTENIDOS Y LENGUAS
+EXTRANJERAS A TRAV...
+PDF generado a partir de XML-JATS4R
+Figura 1. Conexión AICLE, DUA y DRAMA. Elaboración propia.
+3. El Drama: los usos del Drama pedagógico en contextos AICLE
+En lo referente a la deﬁnición de Drama, desde un punto de vista pedagógico, según el informe DICE,
+podríamos deﬁnirlo como:
+ere is also a deeper concern and a wider potential in educational theatre and drama: to use dramatic art to connect thought
+and feeling so that young people can explore and reﬂect subject matter, test, and try out new ideas, acquire new knowledge,
+create new values, and build self-eﬃcacy and self-esteem. (…) e term derives from the Greek word Dran – to do. Drama is
+something of signiﬁcance that is ‘done’ or enacted. In our work it is action explored in time and space in a ﬁctional context.
+(DICE, 2010, p. 15-17)
+Es importante resaltar que Drama no es teatro. Aunque están íntimamente relacionados, no son lo mismo.
+“Teatro es una forma artística centrada en la actuación. Drama está más enfocado a un viaje personal en un
+contexto dado” (Mehisto et al., 2008, p. 219). En el teatro, la memorización de palabras creadas por otros es
+diferente al Drama, que consiste en encontrar de manera espontánea las palabras para comunicar una idea
+importante en un momento dado. Los alumnos comparten su trabajo con otros, por lo tanto, el foco se pone
+en el mensaje más que en la forma. Además, el Drama no discrimina, es para todos. El trabajo de Dorothy
+Heathcote (1978) con alumnado con discapacidad es legendario entre aquellos que tuvieron la oportunidad
+de observarlo. Esta autora parte de la base del derecho que tienen las personas con discapacidad, el derecho de
+posicionarse como personas con un poder activo e interpretativo: “el poder de ﬁngir una situación y responder
+a esa situación con una gran complejidad de formas” (p. 153). En suma, todos los niños, incluidos los más
+demandantes, “no quieren menos trabajo o trabajo más fácil sino trabajo signiﬁcativo” (p. 30). Si trasladamos
+esas ideas a la sociedad actual, no dista tanto de la realidad y el reto en las escuelas de hoy en día. El trabajo
+de Heathcote se puede aplicar al uso de metodologías activas en el aula para lograr esa inclusión educativa
+que nos hemos marcado como objetivo. El Drama conecta con este tipo de trabajo ya que los estudiantes
+adquieren conocimientos, experiencias y actitudes que favorecen el aprendizaje y los docentes crean contextos
+concretos de enseñanza. Ya en 1984, Heathcote (1984) reﬂejó cómo el Drama se conecta con el trabajo del
+docente en el aula:
+Cuadernos de Literatura, 2023, núm. 21, e2113, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Figura 2. Conexión Drama y su aplicación pedagógica. Adaptado de Heathcote (1984).
+Ante lo expuesto, a continuación, vamos a proponer algunos usos del Drama en el aula bilingüe con la
+intención de facilitar la enseñanza de contenidos curriculares a través de una lengua extranjera, contribuir a
+un mejor desarrollo de la competencia comunicativa y ofrecer a docentes la planiﬁcación de tareas basadas en
+técnicas de Drama, donde se trabaje la autonomía del alumno, las destrezas de pensamiento de orden superior,
+el pensamiento crítico y la motivación ante la experiencia de aprendizaje de contenidos y lengua con el ﬁn de
+lograr una enseñanza bilingüe inclusiva. El enfoque AICLE se emplea para enseñar contenidos curriculares
+que a veces son demasiado áridos y técnicos incluso con un profesional especializado. Según lo propuesto por
+Hillyard, el Drama puede contribuir a transformar ese contenido desarrollándolo en un entorno afectivo y
+con respuestas físicas, lo que daría lugar a un aprendizaje signiﬁcativo (Hillyard, 2010, p. 6). Propone una
+serie de usos del Drama que se describen a continuación:
+1.
+Improvisación: uso espontáneo del Drama, en parejas o en grupos, que se puede llevar a cabo
+simultáneamente para representar cualquier contenido curricular.
+2.
+Docente en acción: el docente interpreta un papel y entra en escena. Lo bueno es que así el docente
+puede reconducir el diálogo y guiar al alumnado hacia su objetivo.
+3.
+El cuadro: en pequeños grupos, el alumnado representa un cuadro expresando la esencia de
+determinado contenido curricular. Puede cobrar vida, y en un momento dado el docente dice
+“estatua”. Una variante de esta forma de Drama podría ser que cuando el docente además da un
+toquecito en el hombro del actor o la actriz que elija para que diga en alto algo relacionado con
+su papel.
+4.
+Narración: consiste en que mientras el docente va leyendo una historia o un fragmento de un texto,
+el alumnado escucha con los ojos cerrados y va visualizando o hace mímica de las acciones que oye.
+Esta técnica es muy efectiva para la iniciación del Drama si creamos el ambiente, facilitamos de
+antemano la información necesaria, nos focalizamos en aquellos/as que se distraen con facilidad,
+invitamos a la reﬂexión y mantenemos un buen comportamiento.
+5.
+El mapa: consiste en crear un mapa entre todos que represente un lugar relacionado con el
+contenido curricular que estemos trabajando.
+6.
+Escritura en acción: metidos en su papel, escriben de manera reﬂexiva acerca de un tema
+relacionado con el contenido curricular elegido. Pueden escribir entradas de revistas, poemas,
+cartas o mensajes a otros personajes de la dramatización. Esta herramienta es excelente para
+Rebeca Mesas Jiménez. APRENDIZAJE INCLUSIVO E INTEGRADO DE CONTENIDOS Y LENGUAS
+EXTRANJERAS A TRAV...
+PDF generado a partir de XML-JATS4R
+estimular la reﬂexión del aprendiz, practicar la escritura en lengua extranjera y ayudar al docente
+en la evaluación de la expresión escrita.
+7.
+Reuniones: puede ser de todo el grupo clase o en pequeños grupos. En gran grupo, el docente
+interpreta un papel y lanza preguntas para obtener información de los personajes o en pequeño
+grupo se pueden debatir puntos de vista para llegar a un acuerdo, por ejemplo, grupos políticos
+tomando una decisión sobre un tema concreto.
+8.
+Juicios o el asiento caliente: una o más personas son interrogadas; en caso del asiento caliente, un/a
+alumno/a actúa respondiendo a las preguntas que le hacen sobre sí mismo el resto de los personajes.
+9.
+Entrevistas: un grupo de estudiantes actúa como periodistas de un periódico o revista y tienen que
+recopilar información sobre una escena.
+10.
+Ritual o ceremonia: se representan hechos conmemorativos, eventos que hayan marcado la
+historia o se celebra algún hecho cultural o históricamente signiﬁcativo.
+Estas estrategias pedagógicas basadas en los usos del Drama pueden contribuir al aprendizaje de contenidos
+en lenguas extranjeras de un modo más profundo y signiﬁcativo, promoviendo un ambiente afectivo y de
+conﬁanza y facilitando la comunicación y la expresión lingüística.
+3.1. Secuencia de aprendizaje llevada a cabo en el aula, así como un análisis de los
+resultados, que muestra la conveniencia de los usos del Drama aplicados a la enseñanza.
+- Contexto: la secuencia didáctica que se expone en este apartado se ha llevado a cabo con alumnos/as de
+4º curso de Grado en Educación Primaria de la Universidad Rey Juan Carlos en Madrid durante el curso
+2022/2023. El objetivo principal es formarlos en metodologías alejadas de los métodos tradicionales que
+puedan aplicar en su futura carrera como maestros de lengua extranjera en la etapa de Educación Primaria.
+Para diseñar esta secuencia se partió del marco DUA, ya que cualquier método puede ser susceptible desde
+su marco, “respetando las diferentes potencialidades y capacidades de todos los miembros que participan en
+el hecho educativo” (Sousa, 2016).
+- Secuencia didáctica:
+•
+Planiﬁcación: objetivos, criterios de evaluación y competencias. Es clave presentarle a los estudiantes
+las metas claras y qué y cómo se les va a evaluar, así como el desarrollo de las competencias que van
+a adquirir a través del trabajo.
+•
+Diseño de la tarea contextualizada en la realidad de los estudiantes y que plantee un reto alcanzable
+desde distintos niveles de adquisición. En este caso concreto, la meta del docente se basó en generar
+aprendizaje social, ayuda mutua y respuesta grupal generándose apoyos para que todo el alumnado
+tenga la oportunidad de participar en la resolución de la tarea.
+•
+DUA: el docente tomó como referencia el punto de veriﬁcación 8.2 del DUA, que nos proporciona
+opciones que promueven la colaboración y la comunicación entre los estudiantes y guía al docente
+a implementar una metodología en concreto que ayude a la construcción del aprendizaje con
+persistencia y esfuerzo (CAST, 2018). Este punto responde al porqué del aprendizaje. “Las pautas
+y los puntos de veriﬁcación son un conjunto de estrategias que ayudan al diseño universal de
+situaciones de aprendizaje, métodos, materiales y entornos ﬂexibles, maximizando las oportunidades
+de aprendizaje para todo el alumnado” (Elizondo, 2022).
+•
+Elección docente: incorporación de técnicas cooperativas para la resolución de la tarea para
+conseguir la meta y generar situaciones de aprendizaje basadas en la interacción, la comunicación, la
+interdependencia positiva y el respeto. De este modo respondemos al cómo del aprendizaje.
+Cuadernos de Literatura, 2023, núm. 21, e2113, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+•
+Procedimiento: tras exponer claramente las metas de aprendizaje, los grupos de estudiantes
+seleccionaron el contenido curricular y lo aprendieron a través de múltiples formas de representación,
+focalizándose en el qué del aprendizaje. Videos, textos, imágenes, organizadores gráﬁcos, accediendo
+a la información de manera visual y auditiva. A continuación, diseñaron su dramatización eligiendo
+uno de los usos del Drama y por último lo presentaron ante sus compañeros. Las presentaciones orales
+fueron un éxito, los estudiantes lograron interiorizar los contenidos a través de la creatividad y la
+colaboración y se trabajó el marco AICLE desde sus cuatro Cs: contenidos, comunicación, cognición
+y cultura. Algunos de los trabajos realizados fueron “El baile de las moléculas” para explicar los
+cambios de estado; “Nos convertimos en órganos” para aprender el funcionamiento de los distintos
+aparatos o “Somos los huesos”; fragmentos de historia, tales como “el descubrimiento de América”;
+funcionamiento de la Tierra, “cómo se mueve la tierra”, “somos el sistema solar” o “El ciclo del agua
+se pone en marcha”. Se entrevistaron a personajes históricos tales como la Isabel I reina de Castilla a
+su llegada al trono en 1468. Incorporaron música con instrumentos como la guitarra o el ukelele y se
+vistieron de acuerdo con su rol dentro de la dramatización.
+Figura 3. Secuencia de aprendizaje. Elaboración propia.
+•
+Evaluación: con respecto a la evaluación, los estudiantes tuvieron a su disposición una rúbrica de
+evaluación desde el comienzo del trabajo. Es fundamental que antes de realizar una actividad, los
+alumnos y alumnas dispongan de la rúbrica para saber qué se va a evaluar de sus trabajos de modo
+que puedan enfocarse en una meta común. Entre las etapas de preparación de la tarea hubo también
+oportunidades de feedback  lo que les permitió pasar de una etapa a otra con seguridad y conﬁanza.
+Se incluyó la evaluación entre iguales durante las presentaciones orales. Los grupos se evaluaron
+entre sí completando una rúbrica que le entregaron al docente al ﬁnalizar la presentación. En suma,
+podemos concluir aﬁrmando que la experiencia de aprendizaje fue muy positiva. Se trabajó de manera
+cooperativa, los alumnos y alumnas se involucraron en su trabajo, lo prepararon con motivación,
+ilusión y creatividad, participaron todos y todas respetando sus diferencias individuales y adoptando
+el rol que más les identiﬁcaba y practicaron las destrezas orales de la lengua extranjera en todas las
+fases del trabajo, mejorando así su competencia comunicativa y expresión oral. Todos aprendimos de
+la experiencia, tanto yo, como docente, como los estudiantes, que además valoraron en gran medida
+disponer de un recurso más para aplicar en su futura carrera como maestros de Educación Primaria.
+Rebeca Mesas Jiménez. APRENDIZAJE INCLUSIVO E INTEGRADO DE CONTENIDOS Y LENGUAS
+EXTRANJERAS A TRAV...
+PDF generado a partir de XML-JATS4R
+Figura 4. Rúbrica de evaluación de los usos del Drama. Elaboración propia.
+4. Conclusiones
+Este documento pretende hacer una doble sugerencia a los docentes inmersos en contextos AICLE. Por
+un lado, les sugiere explorar nuevas metodologías activas que tomen como punto de partida la atención a
+la diversidad del aula, que aumenten la conﬁanza y la motivación de los alumnos y alumnas facilitándoles
+la comunicación en la sociedad globalizada. Y, por otro, sugiere experimentar la combinación del enfoque
+AICLE, el DUA y los usos del Drama pedagógico como un punto de encuentro para desarrollar las destrezas
+comunicativas, activar procesos de cognición, promover la adquisición de contenidos y posibilitar una
+educación bilingüe inclusiva. Del mismo modo, el diseño de propuestas colaborativas como el Drama ofrece
+experiencias signiﬁcativas y enriquecedoras que propician la atención a la diversidad, despertando actitudes
+empáticas y solidarias, de aceptación y respeto hacia cada uno de los compañeros y compañeras de clase.
+El enfoque AICLE abre un amplio abanico de opciones con la implantación del Drama en sus múltiples
+versiones y la versatilidad de la enseñanza bilingüe invita a adoptar métodos inclusivos y holísticos en la
+práctica docente.
+A lo largo de este documento, hemos querido aunar los conceptos de enseñanza bilingüe, inclusión
+educativa y usos del Drama en el aula con el propósito de dar una respuesta educativa a una educación
+inclusiva y de calidad, uno de los retos de la enseñanza bilingüe en la actualidad. Las diferencias individuales,
+las diﬁcultades de aprendizaje, la variedad de contextos socio económicos y culturales y las actitudes ante
+el aprendizaje de una lengua extranjera suponen muchas veces una traba para lograr nuestro propósito.
+El enfoque AICLE ofrece al docente herramientas para diseñar un entorno lleno de oportunidades y
+experiencias de aprendizaje innovadoras y motivantes; facilita el acceso a una lengua extranjera para
+todos; promueve técnicas y estrategias de andamiaje en el aula; se centra en el desarrollo de las cuatros
+Cs (comunicación, contenido, cognición y cultura), del pensamiento crítico y de la autonomía de los
+estudiantes; contribuye a la expansión de las destrezas de pensamiento de orden superior dando paso a
+la creatividad e incorpora la adquisición de destrezas comunicativas y académicas del lenguaje; crea un
+contexto de aprendizaje basado en la resolución de problemas y en situaciones de la vida real e invita al
+trabajo colaborativo, que, entre otros muchos beneﬁcios, incluye el principio de inclusión. Por su parte, el
+marco DUA proporciona currículos y entornos ﬂexibles donde se eliminan las barreras para el aprendizaje,
+basándonos en el por qué, qué y cómo del aprendizaje. El Drama complementa estos dos marcos con
+Cuadernos de Literatura, 2023, núm. 21, e2113, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+espacios imaginarios donde todos los estudiantes tienen acceso igualitario a herramientas de comunicación
+favoreciendo la inclusión ya que todos y todas son valorados como participantes en un escenario donde las
+fortalezas de cada uno, más que cualquier diferencia, entran en acción.
+El primer paso para la inclusión educativa es que los docentes creamos en cada uno de nuestros alumnos
+y alumnas y adoptemos medidas partiendo de la diversidad de nuestra aula, para superar así uno de los retos
+que nos presenta la sociedad actual: el logro de una educación bilingüe inclusiva.
+Referencias bibliográficas
+Ainscow, Mel. (2001). Desarrollo de escuelas inclusivas. Ideas, propuestas y experiencias para mejorar las instituciones
+escolares . Madrid, Narcea.
+Ames, Carole. (1992). Classrooms: Goals, structures, and student motivation. Journal of Educational Psychology, 84(3),
+261–271. https://doi.org/10.1037/0022-0663.84.3.261
+Amor, Antonio Manuel; Fernández, María; Verdugo, Miguel Ángel; Aza, Alba y Calvo, María Isabel. (2021). Towards
+the fulﬁllment of the right to inclusive education for students with intellectual and developmental disabilities.
+Framework for action. Education Sciences & Society, 12(1), 95-113. https://doi.org/10.3280/ess1-2021oa11471
+Arnaiz Sánchez, Pilar. (2009). Análisis de las medidas de atención a la diversidad en Educación Secundaria Obligatoria.
+Revista de educación, 349, 203-223. http://bitly.ws/SNDa
+Bloom, Benjamin (ed.). (1956). Taxonomy of Educational Objectives. e Classiﬁcation of Educational Goals.
+(Handbook I: Cognitive Domain). New York, David McKay Company Inc.
+Bueno i Torrens, David. (2019). Neurociencia aplicada a la educación. Madrid, Síntesis.
+Bullock, Allan. (1975). e Bullock Report. A language for life. Londres, e Stationery Oﬃce. Education UK.http:/
+/bitly.ws/SNUt
+CAST. (2018). Universal Design for Learning Guidelines version 2.2. UDL Guidelines.https://bitly.ws/T8Wk
+Coyle, Do. (1999). Supporting students in content and language integrated learning contexts: planning for eﬀective
+classrooms. En J. Masih (ed.), Learning through a foreign language: models, methods and outcomes (pp. 46-62).
+Centre for Information on Language Teaching and Research. https://bitly.ws/TGVb
+Coyle, Do; Hood, Philip y Marsh, David. (2010). CLIL: Content and Language Integrated Learning. Cambridge,
+Cambridge University Press.
+Crespí, Paula y García Ramos, José Manuel. (2021). Competencias genéricas en la universidad: evaluación de un
+programa formativo. Educación XX1: revista de la Facultad de Educación, 24(1), 297-327. https://bitly.ws/T8Qj
+Cummins, Jim. (1979). Cognitive/Academic Language Proﬁciency, Linguistic Interdependence, the Optimum Age
+Question and Some Other Matters. Working Papers on Bilingualism, 19, 197-205 http://bitly.ws/SNYQ
+DICE. (2010). e DICE has been cast. A DICE resource research ﬁndings and recommendations on educational theatre
+and drama. https://bitly.ws/T9dI
+Durán Martínez, Ramiro y Beltrán Llavador, Fernando. (2016). A regional assessment of bilingual programmes in
+primary and secondary school. e teachers' views. Porta Linguarum, 25, 79-92. http://bitly.ws/SNMX
+Elizondo, Coral. (2022). Diseño universal para el aprendizaje y neuroeducación: una perspectiva desde la ciencia de la
+mente, cerebro y educación. Joned: Journal of Neuroeducation, 3(1), 99-108. https://bitly.ws/T9cW
+Faya Cerqueiro, Fátima; Alcaraz Mármol, Gema y Guadamillas Gómez, María Victoria. (2020). Orientaciones teóricas
+y prácticas para el aula bilingüe en Educación Primaria. España, Octaedro.
+Gardner, Howard. (1993). Multiple intelligences: e theory in practice . New York, Basic Book.
+Graddol, David. (2006). English Next. Reino Unido, British Council. http://bitly.ws/SNRa
+Heathcote, Dorothy. (1984). Collected Writings on Education and Drama. Johnson, Liz y O'Neill, Cecily (eds.).
+Illinois, Northwestern University Press.
+Heathcote, Dorothy. (1978). Educational Drama for Today’s Schools. Metuchen, e Scarecrow Press, Inc.
+Rebeca Mesas Jiménez. APRENDIZAJE INCLUSIVO E INTEGRADO DE CONTENIDOS Y LENGUAS
+EXTRANJERAS A TRAV...
+PDF generado a partir de XML-JATS4R
+Hillyard, Susan. (2010). Drama and CLIL: the power of connection. Humanising Language Teaching.https://bitly.
+ws/T9bY
+Julius, Steven y Madrid, Daniel. (2017). Diversity of Students in Bilingual University Programs: A Case Study. e
+International Journal of Diversity in Education, 17(2), 17-28. http://doi.org/10.18848/2327-0020/CGP/v17i
+02/17-28
+Leiva Olivencia, Juan José y Alcalá del Olmo Fernández, María José. (2021). Educación inclusiva y atención a la
+diversidad. Barcelona, Editorial Octaedro S.L.
+León Guerrero, María José; Crisol Moya, Emilio y Estévez Estévez, Beatriz. (2016). Atención a la diversidad en
+educación primaria. Granada, Editorial Técnica Avicam.
+Lorenzo, Francisco y Granados, Adrián. (2020). Una generación de enseñanza bilingüe: resultados de un estudio a gran
+escala de profesores AICLE. ELIA: Estudios de Lingüística Inglesa Aplicada, 20, 77-11. https://bitly.ws/T8RR
+Madrid, Daniel y Pérez Cañado, María Luisa. (2018). Innovations and challenges in attending to diversity through
+CLIL. eory Into Practice, 57, 241-249. https://bitly.ws/T8Sx
+Marsh, David. (2002). CLIL/EMILE. e european dimension. Actions, Trends and Foresight Potential. Finlandia,
+University of Jyväskylä.
+Mehisto, Peeter; Marsh, David y Frigols, María Jesús. (2008). Uncovering CLIL. London, Macmillan.
+Meyer, Anne; Rose, David y Gordon, David. (2014) . Universal Design for learning: theory and practice. Wakeﬁeld,
+Cast Professional publishing.
+Moliner Miravet, Lidón; Amat, Andrea Francisco y Aguirre García-Carpintero, Arecia. (2018). Teenage attitudes
+towards sexual diversity in Spain. Sex Education, 18(6), 689-704. https://doi.org/10.1080/14681811.2018.14
+63213
+Monclús, Antonio y Saban, Carmen (coords.). (2012). Atención a la diversidad y educación del futuro. Granada, Grupo
+Editorial Universitario.
+Muntaner, Joan Jordi. (2014). Prácticas inclusivas en el aula ordinaria. Revista nacional e internacional de educación
+inclusiva, 7(1), 63-79. http://bitly.ws/I3XK
+Naciones Unidas. (2018). Informe de los Objetivos de Desarrollo Sostenible. Nueva York, p. 6.
+Pérez Cañado, María Luisa. (2016). Teacher training needs for bilingual education: in-service teacher perceptions.
+International Journal of Bilingual Education and Bilingualism, 19, 266-295. https://doi.org/10.1080/1367005
+0.2014.980778
+Posso-Pacheco, Richard; Barba-Miranda, Laura; Rodríguez-Torres, Angel; Núñez-Sotomayor, Luis; Ávila-Quinga,
+Carlos y Rendón-Morales, Pablo. (2020). An Active Microcurricular Learning Model: A Guide to Classroom
+Planning for Physical Education. Revista Electrónica Educare, 24(3), 294-311. https://dx.doi.org/10.15359/re
+e.24-3.14
+Sawyer, Keith. (2004). Creative Teaching: Collaborative Discussions Disciplined Improvisation. Educational
+Researcher, 33(2), 12-20. https://doi.org/10.3102/0013189X033002012
+Sousa, David. (2016). Neurociencia educativa: mente, cerebro y educación. Madrid, Narcea.
+Tokuhama-Espinosa, Tracey; Nouri, Ali y Daniel, David. (2020). Evaluating what Mind, Brain, and Education has
+taught us about teaching and learning: 2020 International Survey. https://bitly.ws/T8Ug
+Trozzo, Ester. (2017). La vida en juego. Miradas acerca del teatro como aprendizaje escolar. Buenos Aires, Nueva Mirada.
+Wolﬀ, Dieter. (2011). CLIL and learner autonomy: relating two educational concepts. Education et sociétés
+plurilingues, 30, 69-80. http://bitly.ws/SP3N

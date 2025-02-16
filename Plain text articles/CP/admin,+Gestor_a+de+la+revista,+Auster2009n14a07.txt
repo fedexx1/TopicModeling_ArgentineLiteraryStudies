@@ -1,0 +1,944 @@
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+EL RECURSO DE LA PARADOJA EN LA FARSALIA DE LUCANO. 
+María Luisa La Fico Guzzo 
+Universidad Nacional del Sur. Bahía Blanca 
+mllafico@criba.edu.ar 
+ 
+1. Introducción. 
+ 
+El concepto de paradoja (para – doxon, ‘contrario a la opinión’) proviene de la 
+filosofía clásica. Zenón de Elea expuso sus paradojas o aporías para apoyar la doctrina 
+de Parménides acerca de que las sensaciones que obtenemos del mundo son ilusorias1. 
+La retórica clásica introduce en el ámbito forense el tratamiento de estas causas 
+‘admirables’ y ‘opuestas al sentido común’2. Posteriormente la paradoja queda 
+incorporada a la retórica como una figura de dicción  y de pensamiento que consiste en  
+afirmar dos estados de cosas contradictorios para provocar así una sorpresa o escándalo 
+y poder pasar a una nueva fase del discurso3.  
+La paradoja se ha desarrollado como una forma de captar la realidad que ha sido 
+intensamente utilizada en literatura y en arte. Permite vincular significados contrarios en 
+                                                 
+ Este trabajo se enmarca dentro de la investigación subsidiada por la Agencia Nacional de Ciencia y 
+Tecnología Nº 320/08, y por la Secretaría de Ciencia y Tecnología de la Universidad Nacional del Sur, PGI 
+24/I136. 
+1 “Les premiers paradoxes connus en Occident datent du Vº siècle avant Jésus-Christ et sont relatés dans la 
+Physique (livre VI) d’Aristote. Ces paradoxes (Achille et la tortue, la flèche qui vole...) proposés par Zénon 
+d’Elée, considéré par Aristote comme étant le père de la dialectique, avaient pour but (afin de défendre la 
+thèse de Parménide) de détruire des conceptions physiques (celles d´Héraclite d’Ephèse et de Pythagore) en 
+mettant en évidence leurs contradictions ou leurs désaccords avec les ‘faits les plus évidents’. Cette fonction 
+liée aux paradoxes permet de montrer qu’ils entretenaient à cette époque un lien étroit avec la dialectique qui 
+se définissait comme une méthode d’argumentation contradictoire tant du point de vue des règles de la 
+logique que de la confrontation avec le réel. [...] Le champ d’application de la notion de paradoxe a 
+maintenant dépassé le domaine des mathématiques, de la physique et de la logique, pour prendre une place 
+non négligeable au sein des autres sciences telles que la psychologie, l’économie, les sciences politiques, la 
+philosophie, les arts ...” Les Notions Philosophiques. Dictionnaire, Paris, 1990, p. 1848. 
+2 CICERON (Paradoxa Stoicorum, 3-4): ego tibi illa ipsa quae uix in gymnasiis et in otio Stoici probant ludens 
+conieci in communes locos. Quae quia sunt admirabilia contraque opinionem omnium (ab ipsis etiam 
+ appellantur), tentare uolui possentne proferri in lucem, id est in forum, et ita dici ut probarentur, 
+an alia quaedam esset erudita alia popularis oratio: eoque scripsi libentius quod mihi ista  quae 
+appellant  maxime uidentur esse Socratica longeque uerissima. QUINTILIANO (De Inst. Orat., IV, 1, 40-41), 
+al enumerar las clases de litigios o causas judiciales, incluye la causa ‘admirable’, que los griegos llaman 
+‘paradoxon’, y la define con estas palabras: admirabile autem uocant, quod est praeter opinionem hominum 
+constitutum. 
+3 Ch. PERELMAN y L. OLBRECHTS – TYTECA, Tratado de la Argumentación. La Nueva Retórica, Madrid, 
+1989, p. 673-675, afirman: “Las expresiones paradójicas siempre invitan a un esfuerzo de disociación. Cada 
+vez que se una a un sustantivo un adjetivo, o un verbo, que parezca incompatible con él (‘docta ignorancia’, 
+‘mal bienaventurado’, ‘alegría amarga’, ‘pensar lo impensable’, ‘expresar lo inexpresable’, ‘las condiciones 
+de capitulación incondicional’) sólo una disociación hará posible su comprensión. [...]... se ha llamado 
+El recurso de la paradoja en la Farsalia de Lucano
+LA FICO GUZZO Mar´
+ıa Luisa
+Auster, 2009 (14). ISSN 1514-0121.
+http://www.auster.fahce.unlp.edu.ar
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on.
+Centro de Estudios Latinos
+Esta obra est´
+a bajo licencia Creative Commons Atribuci´
+on-NoComercial-SinDerivadas 2.5 Argentina
+1
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+ 
+ 
+ 
+siue parens rerum, cum primum informia regna 
+ 
+ 
+ 
+materiamque rudem flamma cedente recepit, 
+ 
+ 
+ 
+fixit in aeternum causas, qua cuncta coercet 
+ 
+ 
+ 
+se quoque lege tenens, et saecula iussa ferentem 
+ 
+ 
+ 
+fatorum immoto diuisit limite mundum, 
+ 
+ 
+ 
+siue nihil positum est, sed fors incerta uagatur 
+ 
+ 
+ 
+fertque refertque uices et habet mortalia casus, … 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. II, 7-13)  
+ 
+ 
+ 
+quaerite, quos agitat mundi labor; at mihi semper 
+ 
+ 
+ 
+tu, quaecumque moues tam crebros causa meatus, 
+ 
+ 
+ 
+ut superi uoluere, late. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. I, 417-419) 
+ 
+Esta incapacidad de comprensión básica provoca actitudes y posiciones 
+encontradas en  el mismo narrador y en la interpretación de los hechos que relata. La 
+paradoja es el recurso literario que mejor refleja esta  situación intelectual del poeta6: 
+observación de una contradicción que deja en un estado de perplejidad, comprobación de 
+la propia ignorancia e incomprensión de la realidad que lo rodea, inutilidad de los 
+parámetros hasta entonces conocidos para interpretar el mundo, incapacidad para 
+reconocer la existencia de un supuesto orden o causalidad en el universo7. Y 
+simultáneamente refleja una particular situación emocional: desprotección frente a una 
+realidad 
+imprevisible 
+e 
+incomprensible, 
+desesperación, 
+impotencia, 
+orfandad, 
+                                                                                                                                                    
+poema di Lucano è spesso difficile distinguere tra fatum e fortuna [...]. Altre volte, come in Phars. VII 445 
+sgg. o in Phars. I 1 sgg., anche l’idea della malevolenza divina sembra dissolversi di fronte alla prospettiva 
+che il mondo sia governato da una casualità cieca. Non mi sentirei però di condividere la tesi di Feeney 1991, 
+280 sgg., secondo il quale queste indecisioni terminologiche e concettuali, piuttosto che rispecchiare 
+contraddizioni irrisolte nella concezione di Lucano, sarebbero parte di una strategia intesa a destituire di 
+autorevolezza la voce stessa del poeta: secondo questa interpretazione, avendo scelto come propria materia 
+un orrore (nefas) inspiegabile e inconoscibile, Lucano rinuncerebbe a costruire la voce di un narratore 
+‘omnisciente’; la persona del narratore sarebbe invece caratterizzata dalla imposibilità di penetrare la 
+dimensione soprannaturale degli avvenimenti, e dunque di comprendere se la rovina di Roma sia dovuta al 
+volere divino o a una insensata casualità.”   
+6 S. BARTSCH, Ideology in cold blood, A reading of Lucan’s Civil War, Cambridge, 1997, p. 53, sostiene: 
+“All these paradoxes, of course, work as a suitable vehicle for the representation of a world turned upside 
+down, for the enactment of ‘a rupture of logical order’ (G. MORETTI, “Formularità e tecniche del paradossale 
+in Lucano”, Maia 36, 1984, p. 49), and for the narrative of a war that screams out its nature as ‘a perversion 
+of civilized values’ (CH. MARTINDALE, “Paradox, Hyperbole, and Literary Novelty in Lucan’s De Bello 
+Civili”, BICS 23, 1976, p. 51).” 
+7 A. PERUTELLI,  La poesia epica latina. Dalle origini all’età dei Flavi, Roma, 2000, p. 148, afirma: “Il 
+paradosso, che in origine è uno dei tanti espedienti della retorica, viene assunto a principio costitutivo di un 
+mondo in cui il male va di pari passo con l’irrazionalità. Tanto è il sovvertimento del mondo, che solo il 
+paradosso può descriverlo e giustificarlo.” 
+Auster, 2009 (14). ISSN 1514-0121.
+2
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+vulnerabilidad del ser humano ante la posible no existencia de un orden moral y divino 
+que fundamente y regule la realidad: 
+ 
+ 
+ 
+…quis enim laesos impune putaret 
+ 
+ 
+ 
+esse deos? Seruat multos fortuna nocentes 
+ 
+ 
+ 
+et tantum miseris irasci numina possunt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. III, 447-449) 
+ 
+3. La paradoja en el ámbito genérico. 
+ 
+F. Ahl afirma que la Farsalia se propone representar un mundo desmembrado y 
+para ello debe provocar un desmembramiento del canon tradicional del género épico8. La 
+ausencia del ‘aparato divino’, es decir, de personajes – dioses que intervengan 
+directamente y manejen la trama de la acción, la disgregación de la figura unitaria del 
+héroe protagonista en varios personajes poseedores de complejas personalidades, que 
+se disputan esa función, la ‘contaminación’ del estilo narrativo propio de la epopeya con 
+el género discursivo de la retórica, con la historia y con las explicaciones de tipo 
+científicas, constituyen rasgos significativos que manifiestan la actitud revolucionaria de 
+Lucano en relación con la tradición genérica9. 
+ 
+Lucano reconstruye, recrea el género épico y, para ello parte de la desarticulación 
+de las normas establecidas por la tradición, para luego reorganizarlas en un nuevo orden 
+poseedor de su impronta personal10. Las transgresiones al canon están destinadas a 
+provocar fuertes conmociones en el lector, a tal punto que se llega a negar la condición 
+                                                 
+8 F. AHL, “Form empowered: Lucan’s Pharsalia”, en A. J. Boyle (ed.), Roman Epic,  London and New York, 
+1993, p. 125-126, sostiene: “The Pharsalia describes a world dismembered, as do the Iliad, the Odyssey, and 
+the Aeneid. What is new is Lucan’s overt disapproval of the dismemberment of his world, his invective 
+against those he feels responsible for it, his hope that his readers will not simply acquiesce. His aim is to 
+provoke, not just to report, action. As a result he radically reshapes, some would say dismembers, the epic 
+genre.” Por su parte S. BARTSCH, “Lucan”, en J. M. Foley (ed.), A Companion to Ancient Epic, Oxford, 2005, 
+p. 495-496, llega más lejos y reconoce en estas transgresiones al canon genérico tradicional un esfuerzo por 
+desmantelar las estructuras de inteligibilidad y generar una multiplicidad de modelos de lectura: “...part of the 
+poem’s message, part of its effort to rip apart the structures of intelligibility on which it was expected to 
+stand. [...] ...this author’s essential sympathy with the non-unitary model of reading...”  
+9 W. R. JOHNSON, o.c. (n. 4), p. 1-2, afirma: “The Pharsalia has no hero, or too many. Its narrative is obscure, 
+irritating, botched. It flouts epic conventions, or ignores them, or bungles them. Its central themes are 
+scrambled by radical ambivalence of thought and feeling, into what often seems not distant from gibberish. 
+[...] ...students of the Pharsalia began learning not to apply conventional, classical criteria to this violently 
+counterclassical poem; began to try to search out the criteria that Lucan himself, working with what his times 
+gave him, shaped for the poem he wanted and needed to write.” 
+10 E. NARDUCCI, “Rhetoric and Epic: Vergil’s Aeneid and Lucan’s Bellum Civile”, en W. Dominik – J. Hall 
+(eds.), A companion to Roman Rhetoric, Oxford,  2007, p. 387-388, señala en Lucano “the need to open up 
+new paths after the so-called classical perfection of Augustan poetry [...] it is largely the need for ‘novelty’ 
+that leads writers to exploit the rhetorical possibilities of ingenious conceits, paradox, and the ironic imitation 
+(or overturning) of earlier ‘models’.” 
+Auster, 2009 (14). ISSN 1514-0121.
+3
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+de obra épica a la Farsalia. Incluso algunos críticos y poetas de la Antigüedad 
+consideraron a Lucano como un historiador o un orador más que como un poeta (Ej.: 
+SERV. Aen. I, 382: Lucanus ideo in numero poetarum esse non meruit, quia uidetur 
+historiam composuisse, non poema; QUINT. Inst. X,1, 90: Lucanus ardens et concitatus et 
+sententiis clarissimus et, ut dicam quod sentio, magis oratoribus quam poetis imitandus. 
+Cfr. también PETR. Satyr. CXVIII, 6 y MART. 14, 194). 
+ 
+La violación de las normas genéricas tradicionales provoca paradojas: ¿es la 
+Farsalia una epopeya si posee estas características tan particulares? ¿Puede haber una 
+epopeya sin personajes divinos, sin héroe protagonista? ¿Puede pertenecer al género 
+épico una obra con una intervención tan intensa del narrador, con una presencia tan 
+marcada del estilo retórico, histórico y científico?  A partir de una desarticulación de las 
+definiciones preestablecidas en lo que respecta al canon genérico se producen 
+contradicciones polémicas, es decir, paradojas, que conducen a un replanteo y a una 
+redefinición de la épica11.  
+ 
+4. La paradoja en el ámbito lingüístico. 
+En la Farsalia se observa una constante necesidad de redefinición de los 
+conceptos culturales básicos. Para ello se cuestiona el significado de términos 
+fundamentales que hasta el momento conformaban los cimientos del mundo romano. El 
+principal recurso para provocar este cuestionamiento es el empleo de la paradoja: la 
+fusión de significados opuestos, la disolución de los límites que delinean claramente el 
+territorio y el alcance de cada vocablo provocan asombro, incomodidad, incertidumbre en 
+su utilización12.  
+Las palabras que hasta el momento cumplían la función de 
+‘organizar el mundo’, que constituían verdaderos pilares de la cosmovisión romana 
+tradicional en todos sus ámbitos, son vaciadas abruptamente de sentido, son delatadas 
+                                                 
+11 J. MASTERS, Poetry and Civil War in Lucan’s Bellum Ciuile, Cambridge, 1992, p. 214-215, señala en la 
+Farsalia la lucha interna entre tradición e innovación genérica y establece un paralelismo con la lucha 
+política entre cesarianismo y pompeyanismo en Lucano: “In the contrast between archaic inertia and 
+restlessly innovative efficacy, we cannot but see the shadow of the Pompeian oak, the violence of Caesarian 
+lightning. We should view these as different forces at work in the poem. [...] ...Lucan’s violence, his 
+perversity, his savage manipulation of the epic genre marks him clearly as a ‘Caesarian’ type of poet,... [...] 
+...Lucan is at war with himself, torn between a tradition his pietas demands that he respect, and the 
+requirement of innovation, whose price is the nefas of parricide, of destroying what gave him birth.” 
+12 Acerca del colapso de los ‘límites’ en el sistema léxico y semántico de la Pharsalia como reflejo del 
+colapso de la república y sus valores, S. BARTSCH, o.c. (n. 6), p. 53, afirma: “What I would like to emphasize 
+here is the force of equation as the operation that destroys the old linguistic and semantic world of the 
+Republic as it produces the paradoxes that try to accommodate these changes. Lucan so often relies on this 
+operation because his epic tries to drive home to us that this kind of collapse of all differences and boundaries 
+is one of the causes (and, paradoxically, effects) of the collapse of the Republic.” 
+Auster, 2009 (14). ISSN 1514-0121.
+4
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+en su ambigüedad y contradicción interna13. Esta violenta ruptura del universo lingüístico 
+canónico intenta provocar inestabilidad y mostrar la necesidad de un replanteo lingüístico 
+y, por ende, cultural, la necesidad de iniciar un camino de búsqueda que logre un ajuste, 
+una reconstrucción, una renovación de una cosmovisión, cuyas grietas se experimentan 
+dolorosamente.  
+Existen pares de vocablos, que  tradicionalmente designaban ámbitos claramente 
+diferenciados, cuya oposición y límites son ahora abiertamente cuestionados por Lucano, 
+por ejemplo: pietas / nefas; ius / scelus; uictoria / clades; libertas / tyrannis; ciuis / hospes; 
+Romanus / barbarus; imperium / regnum. Abarcan los diversos ámbitos de la cultura 
+romana. En el fondo se platea el conflicto res – species, realidad y apariencia, mediante 
+la observación de  una inadecuación en el uso y la aplicación de determinadas palabras. 
+Analizaremos a manera de ejemplo algunas de estas principales paradojas lingüísticas 
+que se plantean en el texto. 
+ 
+La dupla ius –scelus se ubica en el ámbito jurídico y político. Lucano experimenta 
+con indignación la inestabilidad de las normas legales, que constituían tradicionalmente el 
+fundamento del estado romano. La dilución de los límites entre estos dos términos 
+léxicos, la confusión de sus significados constituye, según el poeta, uno de los motivos 
+básicos del inicio del derrumbe de la estabilidad de su patria: ya no se distingue con 
+claridad la diferencia entre un hecho ajustado a la legalidad y un delito: iusque datum 
+sceleri (Phars. I, 2). César penetra por la fuerza en Roma, desobedeciendo las leyes 
+emanadas del Senado, y allí es nombrado cónsul, constituyéndose en representante 
+máximo del orden político romano, mientras el Senado huye a tierras extranjeras.  
+En la base de esta alteración jurídica se encuentra una trasgresión de tipo 
+religiosa: el cruce del Rubicón por parte de César, hecho que Roma  bajo la apariencia de 
+la diosa Cibeles intenta impedir, es presentado por Lucano como la transposición inicial 
+de límites sagrados, que desencadenará la futura debacle de su patria (Phars. I, 183-
+227). Pero la violación de las normas religiosas y jurídicas por parte de César es seguida 
+por su posterior logro del triunfo, y esta situación provoca en Lucano una duda acerca de 
+la existencia, de la estabilidad y de la justicia de las leyes divinas: se plantea la paradoja 
+pietas – nefas. La contradicción  llega al extremo cuando la estricta observación de la 
+pietas por parte de Pompeyo, llega a favorecer el avance y el triunfo de César: 
+ 
+ 
+ 
+ 
+dolet, heu, semperque dolebit 
+                                                 
+13 Estas palabras de G. B. CONTE, Virgilio. Il genere e i suoi confini, Milano, 1984, p. 96, referidas a la 
+Eneida son aplicables, incluso con mayor énfasis, a la Farsalia: "...l'epos si arricchisce di registri 
+contraddittori quando la ragione è divisa, e con essa il linguagio; quando un'epoca è scissa."  
+Auster, 2009 (14). ISSN 1514-0121.
+5
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+ 
+ 
+ 
+quod scelerum, Caesar, prodest tibi summa tuorum, 
+ 
+ 
+ 
+cum genero pugnasse pio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. VI, 303-305) 
+En la cosmovisión canónica plasmada artísticamente en la Eneida de Virgilio los 
+dioses acompañan y favorecen el triunfo de Roma, destinada a regir en paz a los pueblos 
+del mundo, comunicándoles sus leyes y su civilización (Aen. VI, 851-853). Para el 
+expansionista y triunfante pueblo romano la victoria era una manifestación del apoyo 
+divino. Pero en la Farsalia Lucano observa con estupor que los dioses y la Fortuna 
+favorecen evidentemente a César, representante, según el poeta, de la tiranía. Entonces, 
+¿quién está del lado correcto? ¿El que gana o el que pierde? La cosmovisión militarista y 
+triunfalista de Roma experimenta una asombrosa inversión. La paradoja uictoria – clades 
+se manifiesta en toda su plenitud cuando Pompeyo le aconseja a su esposa Cornelia 
+‘amar su derrota’: 
+ 
+ 
+ 
+ 
+ 
+ 
+erige mentem, 
+ 
+ 
+ 
+et tua cum fatis pietas decertet, et ipsum 
+ 
+ 
+ 
+quod sum uictus ama. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. VIII, 76-79) 
+ 
+Tradicionalmente la identidad política de Roma se delineaba claramente y 
+otorgaba unidad y fortaleza al pueblo que avanzaba militar, política y culturalmente 
+extendiendo sus fronteras y su dominio sobre otros pueblos. Por el contrario Lucano 
+observa con dolor el desarrollo de un proceso de crisis de identidad, de contradicción y  
+confrontación interna, cuyos gérmenes, ubicados en los inicios legendarios del pueblo (el 
+fratricidio de Rómulo), se han ido desarrollando, han provocado las guerras civiles y han 
+conducido a su patria hasta el imperio, sistema político que la ha acercado 
+peligrosamente a la idiosincrasia de sus tradicionales enemigos: los ‘tiránicos reinos 
+extranjeros’. Los términos res publica, libertas, ciues, Romanus, de pronto se confunden 
+caóticamente con otros términos que canónicamente se le oponían con claridad: regnum, 
+tyrannis, hospes, barbarus. 
+ 
+La paradoja se muestra en toda su crudeza cuando Lucano, al relatar la batalla de 
+Farsalia, describe a los romanos sumidos en una autodestructiva guerra civil, y alejados 
+de aquellos valores que, según él, constituían la esencia de su identidad, entonces, 
+desea como último recurso que sean los ‘pueblos bárbaros’ los que ejerzan en el futuro la 
+función de ‘pueblo romano’, a condición de que esa esencia de la ‘romanidad’, 
+fundamento de su cosmovisión, no desaparezca: 
+ 
+ 
+ 
+                        …; vivant Galataeque Syrique, 
+Auster, 2009 (14). ISSN 1514-0121.
+6
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+ 
+ 
+ 
+Cappadoces Gallique extremique orbis Hiberi, 
+ 
+ 
+ 
+Armenii, Cilices; nam post civilia bella 
+ 
+ 
+ 
+hic populus Romanus erit. 
+ (Phars. VII, 535-543). 
+ 
+5. La paradoja en el ámbito político. 
+ 
+En el inicio de la epopeya (Phars. I, 1-8) el tema principal es expuesto mediante 
+una serie de imágenes que manifiestan mediante el recurso de la paráfrasis un mismo 
+concepto: la oposición dentro de la unidad. Las guerras civiles provocan un 
+resquebrajamiento de la unidad política y el consecuente surgimiento de conflictos y 
+contradicciones internas: Bella…plus quam ciuilia; iusque datum sceleri; populum … in 
+sua uictrici conuersum uiscera dextra; cognatasque acies; in commune nefas; infestisque 
+obuia signis signa; pares aquilas, et pila minantia pilis. Es notorio que la paradoja se 
+ubica en el núcleo temático de la Farsalia.   
+Estos conflictos que caracterizan la cosmovisón lucánea se ponen de manifiesto 
+en el controvertido elogio a Nerón (Phars. I, 33-66): la aparente comprensión de la trama 
+del destino que el poeta manifiesta y la atribución del carácter divino al emperador, están 
+impregnadas de un innegable tinte paródico y amargamente sarcástico, especialmente 
+evidente si se analiza el episodio en su relación con el resto de la epopeya14. El narrador 
+emplea la ironía cuando en apariencia justifica el impiadoso camino de las guerras civiles 
+si el destino final es un reino perdurable (Phars. I, 33-38). El sentido subyacente es la 
+indignación de Lucano frente a una paradoja inadmisible: ¿pueden realmente medios 
+impíos llegar a un fin deseable? Esta posición se asemeja significativamente a la queja 
+que Virgilio le dirige al mismo Júpiter cuestionando la presencia de la violencia en la 
+empresa fundadora de Eneas:  
+ 
+ 
+ 
+...tanton placuit concurrere motu, 
+ 
+ 
+ 
+Iuppiter, aeterna gentis in pace futuras? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Aen. XII, 503-504) 
+                                                 
+14 F. AHL, Lucan. An introduction, Ithaca and London, 1976, p. 48-49, sostiene: “Were the Pharsalia a 
+conventional epic with conventional gods we might pause before dismissing the possibility that Lucan is 
+sincere in his praise of Nero. But it is not. How then, did Lucan expect this satire to escape Nero’s eyes, or 
+did he expect it to? At the opening of the epic, the work’s final nature is not manifest; the reader does not yet 
+know that this is to be an epic without gods, in defiance of tradition. Thus only the more playful aspects of 
+the satire would be noticeable: the double entendre about divine as opposed to human weight – a touch of the 
+amusingly grotesque. Only as the epic continues do the really savage elements involved in the dedication to 
+Nero become apparent.” 
+ 
+Auster, 2009 (14). ISSN 1514-0121.
+7
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+Al referirse a la situación política de Roma, Lucano expone las causas de las  
+guerras civiles. Considera que el disenso interno es inevitable cuando en un gobierno 
+tiránico (regnum) el poder es compartido por varias personas (Phars. I, 84-86). Afirma 
+que esta estructura colectiva (dos cónsules o un triunvirato) es un acuerdo que lleva en 
+su interior la discordia, debido a que las ambiciones desmedidas de poder no admiten ser 
+compartidas: o male concordes nimiaque cupidine caeci, … (Phars. I, 87). Sostiene que 
+este suceso responde a una ley necesaria que rige todo el universo natural (Phars. I, 89-
+93), y, que en el ámbito del mundo romano tiene sus  raíces en los orígenes de la 
+leyenda, específicamente, en el fratricidio de Rómulo (Phars. I, 93-97). 
+Para describir la situación política de Roma Lucano se vale de estas palabras: 
+concordia discors. Es pertinente observar que esta designación refleja la estructura 
+básica de la paradoja: la tensa unión o convivencia de dos conceptos contradictorios. En 
+el núcleo semántico de la Farsalia se ubica la imagen de un orden, que posee en su 
+interior fuerzas opuestas que pugnan entre sí, contradicciones internas que provocan su 
+resquebrajamiento y su derrumbe. El poeta se erige como la voz que denuncia, que pone 
+al descubierto estas incoherencias del orden establecido. Intenta hacer tomar conciencia 
+de la situación, repudiar el sometimiento a un orden ficticio, incongruente y decadente, 
+provocar un rechazo e instar a una reacción en busca de nuevos senderos ante una 
+situación insostenible: Temporis angusti mansit concordia discors …(Phars. I, 98). 
+ 
+Al relatar el triunfante avance de César sobre Roma, en donde sería nombrado 
+cónsul, Lucano atribuye al general y a sus tropas romanas la crueldad característica de 
+los bárbaros: barbaricas saeui discurrere Caesaris alas;... (Phars. 
+I, 
+476); 
+ 
+...maiorque ferusque /  
+mentibus occurrit uictoque immanior hoste. (Phars. I, 
+479-480). Los términos barbarus - saeuus - ferus - hostis se han transferido 
+paradójicamente al general romano triunfante y a sus tropas. César manifiesta ante sus 
+soldados ser el encargado de una misión liberadora de Roma: detrahimus dominos urbi 
+seruire paratae. (Phars. I, 351), pero el narrador pretende desenmascararlo 
+identificándolo con el polo opuesto a la libertad: ...par quod semper habemus, / Libertas et 
+Caesar,... (Phars. VII, 695-696). La imagen que el general quiere mostrar de sí mismo se 
+contrapone diametralmente con la que el poeta percibe y desea denunciar: en una 
+realidad trastornada un tirano se presenta públicamente como un defensor de la libertad. 
+ 
+Debido al avance de César, Pompeyo huye de Roma y el Senado, institución 
+emblemática de la legalidad romana, se reúne en una sede extranjera. El grupo humano 
+que representa, según Lucano, la parte más valiosa de la identidad política romana se 
+encuentra, paradójicamente, sesionando en una tierra ajena y extranjera (Phars. V, 9-11). 
+Auster, 2009 (14). ISSN 1514-0121.
+8
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+Conviven términos que designan conceptos opuestos para la cosmovisión canónica 
+romana: Romanos proceres / peregrina sedes;  curia / hospes,  externis tectis. El 
+conflicto de la identidad política y cultural de Roma también se expresa en el momento en 
+que Pompeyo, el representante, según Lucano, de la causa justa de la república, debe 
+recurrir al apoyo de fuerzas militares extranjeras. En estas palabras que el Magno dirige a 
+los partos la paradójica situación llega al extremo: Pompeio uincite, Parthi,/  
+uinci 
+Roma uolet. (Phars. VIII, 237-238). El general romano desea vencer a Roma con tropas 
+extranjeras, hecho que sería un verdadero crimen político. Pero él considera que de este 
+modo salva a la verdadera Roma, que se encuentra oprimida por el poder de César, y 
+desea ser liberada. 
+ 
+Según Lucano el triunfo de César, logrado por medio de la fuerza militar, ha 
+impuesto en la sociedad romana una violenta represión y una pérdida de la libertad. Esta 
+coerción política provoca situaciones paradójicas en las que se funden realidades y 
+apariencias contrapuestas. La ‘máscara  exterior’ oculta los verdaderos sentimientos y la 
+realidad subyacente. Frente a la cabeza de Pompeyo, César, que en su interior está 
+contento, pronuncia un engañoso discurso en el que finge dolor y llora. Y de manera 
+inversa la multitud de soldados, que lamentan en su interior la muerte del Magno, fingen 
+alegría por miedo a la cólera de César (Phars. IX, 1104-1108). 
+ 
+Para intensificar aun más la contraposición entre lo externo y lo interno, entre lo 
+denotativo y lo connotativo, Lucano expresa sus sentimientos valiéndose del recurso de 
+la ironía, o más bien, del amargo sarcasmo, que subraya la paradójica diferencia entre lo 
+que se dice en el plano superficial de la frase y lo que en realidad se quiere comunicar 
+desde un plano más profundo de sentido: o bona libertas (Phars. IX, 1108) 15. 
+  
+El conflicto interior del poeta es el que genera el sentido paradójico de la epopeya.  
+Aquella a la que consideraba la causa justa para Roma no encuentra un espacio de 
+realización en su época.  Pompeyo huye, debe aliarse con extranjeros y es derrotado. 
+Catón se exilia y también se dirige a tierra bárbara. Por el contrario César, encarnación 
+de la tiranía en el imaginario de Lucano, recibe el apoyo de los dioses, de la Fortuna y de 
+la mayoría del pueblo romano. En una cultura tradicionalmente militar como la romana, en 
+                                                 
+15 A. GOWING, Empire and Memory. The representation of the Roman Republic in Imperial Culture, 
+Cambridge, 2005, p. 82, señala la reescritura de la historia de Roma que propone Lucano: “The Pharsalia or 
+De bello ciuili completely rewrites the history of this war, promoting a very different memory from that 
+transmitted by Caesar himself or by any subsequent historian. [...] Lucan has no doubt that Caesar’s victory 
+marked the death of the Republic and the demise of libertas…” Cfr. También F. AHL, o c. (n.14), p. 55. 
+Auster, 2009 (14). ISSN 1514-0121.
+9
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+la que uictoria y uirtus están tan íntimamente relacionadas, es comprensible que esta 
+situación provoque conmoción y crisis en el poeta16.  
+  
+6. La paradoja en el ámbito mítico - religioso. 
+En lo que respecta al ámbito mítico - religioso la Farsalia manifiesta una actitud 
+básicamente paradójica que ha desconcertado con frecuencia a la crítica. La llamativa 
+eliminación del tradicionalmente épico ‘aparato divino’, es decir, la  ausencia de 
+personajes – dioses que dirijan la trama de los acontecimientos17, junto con la 
+observación de explicaciones de tipo científico para fenómenos de variada naturaleza, y, 
+simultáneamente, la presencia de fragmentos, en los que el poeta pone en duda o niega 
+la existencia de los dioses,  ha llevado a algunos estudiosos ha afirmar que Lucano 
+posee una perspectiva racionalista y antropocéntrica de la realidad18.  
+Pero, sin embargo, para asombro y desconcierto del lector, aquello que parece 
+negarse en un momento vuelve a aparecer subrepticiamente cuando menos se lo 
+espera19. La constante referencia a los dioses y a los múltiples intentos humanos por 
+dilucidar sus designios constituye un hilo conductor que recorre toda la trama de la 
+epopeya. Incluso la ausencia del ‘aparato divino’ tiene su explicación dentro del propio 
+ámbito mítico. Lucano, emergente de una época de desilusión y desesperanza (s. I d. C.), 
+considera ‘su mundo’ ubicado en la última etapa del ciclo cósmico: el fin de la Edad de 
+                                                 
+16 J. MASTERS, o.c. (n. 11), p. 10, afirma: “The poem is a civil war. Lucan is Caesarian in his ambition, but 
+Pompeian in his remorse; the Pompeian in him condemns Caesar, but the Caesarian in him condemns – kills 
+– Pompey. This Paradox, this internal discord which aligns the poet with each party and with both 
+simultaneously and with neither, is one of the fundamental premises of the poem’s violent logic...” 
+17 Acerca de la omisión del ‘aparato divino’ en Lucano como una proyección extrema de la incomprensión de 
+la voluntad de los dioses sugerida sutilmente por Virgilio, J. NEWMAN,  The Classical Epic Tradition, 
+Wisconsin, 1986, p. 218, sostiene: “The omission of the conventional apparatus is not anti-Virgilian. Virgil 
+had had his reservations about man’s capacity to grasp the workings of the divine, so often, to human eyes, 
+heartless and capricious. Lucan simply takes these reservations further.” 
+18 La supresión del ‘aparato divino’ llevó a críticos y poetas de la Antigüedad a considerar a Lucano como un 
+historiador o un orador más que como un poeta (Ej.: SERV. Aen. I, 382; QUINT. Inst. X, 1, 90 ; PETR. Satyr. 
+CXVIII, 6 y MART. 14. 194). Estudiosos de nuestro siglo incorporan a Lucano en la categoría de poeta épico, 
+pero observan que su nueva épica se despoja del sentido mitológico y asume un carácter notablemente 
+racionalista (J. BAYET, Literatura latina, Barcelona, 1983 [1ª ed. 1966], p. 331 y 334; A. HOLGADO 
+REDONDO, “Introducción”, en Lucano, Farsalia, Madrid, 1984, p. 44-47; M. VON ALBRECHT, Roman Epic. 
+An interpretative introduction, Leiden, 1999, p. 247-250). 
+19 F. AHL, o.c. (n. 14), p. 72 describe el desconcierto que provoca en el lector la compleja posición de Lucano 
+en relación con el mito y con los dioses: “The reader of the Pharsalia is so taken aback by Lucan’s rejection 
+of the mythic and divine that he can easily fail to perceive that what the poet has ostentatiously thrown out 
+the front door is often surreptitiously reintroduced through the back.” Acerca del tema cfr. también H. LE 
+BONNIEC, “Lucain et la religion”, en M. DURRY (ed.), Lucain. “Entretiens Hardt” 15, Vandoeuvres-Genève, 
+1970, p. 161-195. 
+p. 161-195.  
+Auster, 2009 (14). ISSN 1514-0121.
+10
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+Hierro (Phars. I, 72-80) 20. En esta etapa mítica los dioses se ausentan de la tierra y el ser 
+humano queda huérfano en medio de un mundo corrupto y decadente (…quando pietas 
+fidesque / destituunt moresque malos sperare relictum est,… Phars. V, 297-298). Debido 
+a esta brecha existente entre lo divino y lo humano (…muto Parnasos hiato / conticuit 
+pressitque deum,… Phars. V, 131-132), el poeta es incapaz de ubicarse desde la 
+perspectiva de los dioses y modelarlos como personajes, ya que no comprende su 
+accionar, sus voluntades son inescrutables (Phars. V, 198-208). Por estas razones otra 
+parte de la crítica considera que la Farsalia refleja una cosmovisión en la que el mito 
+ocupa una posición central y privilegiada21. 
+ 
+El poeta considera apropiada y elige para representar artísticamente su situación 
+personal y la de ‘su mundo’ la imagen de una de las etapas claves del ciclo mítico: el fin 
+de la edad de hierro (Phars. I, 72-80). Esta imagen de la disolución universal le permite 
+plasmar el estado de caos y de confusión en el que se siente sumido22. El derrumbe del 
+ensamblaje del universo, la discordancia de sus mecanismos, la descomposición de sus 
+leyes de funcionamiento, la inversión del orden conocido y de las funciones de cada ser 
+(por ejemplo, la luna y el sol, Phars. I, 77-79) constituyen el escenario mítico adecuado 
+para que Lucano represente su dolorosa experiencia personal del derrumbe de su 
+cosmovisión y de su canónica cultura romana23.  
+                                                 
+20 Acerca de la Farsalia como la epopeya que plasma artísticamente el mito de la muerte de Roma M. VON 
+ALBRECHT, o.c. (n. 18), p. 248-249, afirma “Lucan deliberately created his epic of Rome’s agony as a 
+pendant to Virgil’s myth of Rome’s origin ... As the Aeneid embodies the mystery of Rome’s birth, Lucan’s 
+Pharsalia unfolds the mystery of her death.” y  E. NARDUCCI, La provvidenza crudele. Lucano e la 
+distruzione dei miti augustei, Pisa, 1979, p. 40, sostiene “Argomento del nuovo poema sarà la fine di Roma, 
+il modo in cui essa si è autodistrutta puntando contro le sue viscere armi che (purtroppo) non conoscono 
+sconfitta (I, 1 ss.)”. 
+21 E. NARDUCCI, o.c. (n. 20), p. 37, sostiene: “... sarà lui il cantore del “mito” di Roma, non di quello della sua 
+ascesa, ma di quello del suo tragico declino. Prendendo posizione contro il mito virgiliano, Lucano si trova in 
+pratica costretto a crearne uno opposto: il mito di un fato perversamente ostile a Roma e geloso della sua 
+grandezza. Ecco allora la Pharsalia come anti-Eneide, il capovolgimento del mito, che resta anch’esso un 
+mito e non si trasforma (né il poema epico poteva esser la sede adatta per una tale trasformazione) in un serio 
+tentativo di spiegazione storica.”   
+22  W. R. JOHNSON, o.c. (n. 4), p. 134 afirma: “Lucan’s in se magna ruunt, though it is utterly true and 
+superbly stated, is too much a part of the myth that he fought unsuccessfully to understand and to discredit.” 
+23 E. NARDUCCI, “Lo sfondo cosmico della Pharsalia”, en P. ESPOSITO – E. ARIEMMA (eds.), Lucano e la 
+tradizione dell’epica latina, Nápoles, 2004, p. 8, analiza esta imagen lucánea de la decadencia de Roma: “Ma 
+un altro è l’aspetto davvero centrale di questa visione lucanea della ‘decadenza’. Una volta già Cicerone 
+aveva potuto raffrontare il disfacimento della civitas alla rovina dell’universo (rep. III 34): “Per parangonare 
+le cose piccole alle grandi, quando uno stato va incontro alla distruzione e all’estinzione, ciò è un po’ come 
+se tutto questo mondo crollasse e sprofondasse”. Prendendo estremamente sul serio una metafora del genere, 
+Lucano imprime una particolare torsione all’idea, diffusa nello stoicismo imperiale, di una stretta 
+rispondenza ‘speculare’ tra l’ordine sociale e quello del cosmo. La futura dissoluzione dell’universo e il suo 
+inesorabile ripiombare nel caos primigenio rappresentano l’analogia più appropiata per gli sconvolgimenti 
+politici che costituiranno la materia del poema (Phars. I 67 ss.)”. 
+Auster, 2009 (14). ISSN 1514-0121.
+11
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+ 
+En el ámbito religioso la desarticulación de las normas propias de su 
+funcionamiento es tal, que la jerarquía y el poder de los dioses celestiales y de los dioses 
+infernales parece ser vulnerada. La maga Ericto con sus hechizos no sólo trastorna las 
+leyes de la naturaleza, sino también doblega las voluntades de las divinidades del cielo y 
+amenaza a los poderes infernales haciendo referencia a una extraña y oscura divinidad 
+tan poderosa que ni siquiera está ligada, como el resto de los dioses, a los juramentos de 
+la laguna Estigia24 (Phars. VI, 492-494 ; VI 744-749). El narrador, al relatar los poderosos 
+conjuros de la maga Ericto, observa lleno de estupor la aparente desarticulación de las 
+normas de funcionamiento universal, que hasta el momento él había considerado 
+inviolables 
+(Phars. VI, 496-499). 
+ 
+7. La paradoja en el ámbito moral. 
+ 
+El intento permanente y siempre fallido de los seres humanos por conocer y 
+descifrar la posible trama oculta de los acontecimientos, la existencia o no de un orden 
+moral avalado por los dioses, son temas centrales en la epopeya de Lucano. 
+  
+El poeta observa con estupor la inestabilidad de las normas morales tradicionales 
+y la aparente indiferencia de los dioses ante el triunfo de la injusticia: 
+ 
+ 
+ 
+hoc placet, o superi, cum uobis vertere cuncta 
+ 
+ 
+ 
+propositum, nostris erroribus addere crimen? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. VII, 58-59) 
+ 
+Este trastorno del orden moral provoca continuamente situaciones paradójicas. 
+Los perfiles de los principales protagonistas de la epopeya manifiestan conflictos internos 
+y contradicciones.  
+ 
+César es considerado injusto y criminal, pero se destaca su grandeza heroica, su 
+clementia y el apoyo incondicional de los dioses que, a pesar de los augurios adversos, le 
+otorgan el triunfo (Phars. IV, 121-123; IV, 254-259; II, 512-515; V, 690-699). Es el único 
+personaje que experimenta una sensación de grandeza y dominio casi divinos (Phars. V, 
+577-583), pero el  narrador poeta se encarga de anunciar en varias ocasiones el abrupto 
+                                                 
+24E. NARDUCCI, o.c. (n. 5), p. 83-84, sostiene: “...l’assenza delle familiari divinità antropomorfiche  fa 
+apparire ancora più inquietante e sinistro l’incombere, su personaggi ed eventi del poema, di una potenza 
+divina ferocemente irata e implacabile. In essa si annulla, per così dire, la distinzione – che ancora aveva un 
+certo rilievo nell’Eneide – tra fato provvidenziale e numi capricciosi. ‘Dèi’, ‘fortuna’, ‘fato’ sono i diversi 
+termini ai quali Lucano ricorre (con diverse sfumature di significato) per dare un nome a questa presenza 
+oscura e minacciosa.”  
+Auster, 2009 (14). ISSN 1514-0121.
+12
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+final punitivo a manos de Bruto que la Fortuna y los dioses le tienen reservado, 
+configurando de esa manera una situación de ‘ironía trágica’ (Phars. VI, 799-802). 
+ 
+Pompeyo representa la causa del senado, según el poeta la causa justa (Phars. 
+VII, 349), pero los dioses no lo favorecen y se señala la posibilidad de que si lograra el 
+triunfo se convertiría en un tirano como César (Phars. IX, 190-204; IX, 253-283).  
+ 
+Catón, modelo de la virtud estoica y de la lucha por la república, el personaje que 
+es considerado como un dios por el mismo narrador (Phars. IX, 601-604)25, debe 
+emprender un camino de derrota, exilio y muerte, y, a pesar de la excelencia de su 
+condición moral, el poeta sugiere con sutileza algunas posibles transgresiones propias de 
+su condición humana (Phars.  IX, 554-557; II, 323-325).  
+Los destinos aparentemente exitosos ocultan la muerte y el castigo divino, los 
+destinos aparentemente frustrados ocultan una grandeza moral, avalada por un orden 
+divino sobre el que nunca se alcanza una certeza explícita. Trampas o engaños de los 
+dioses (deorum … dolos, Phars. VII, 85-86), fracasos que ocultan verdaderos triunfos y 
+éxitos que esconden futuros castigos: el ser humano se mueve a tientas en un laberinto 
+en el que las duplas apariencia - realidad, ser - parecer, diversifican continuamente los 
+posibles senderos. En este mundo trastornado en el que la virtud no tiene recompensa, 
+quizás la derrota sea un favor de los dioses: 
+ 
+ 
+ 
+quidquid in ignotis solus regionibus exul, 
+ 
+ 
+quidquid sub Phario positus patiere tirano, 
+ 
+ 
+crede deis, longo fatorum crede fauori, 
+ 
+ 
+uincere peius erat. 
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. VII, 703-706) 
+El dilema moral de Catón, paradigma del hombre justo en la Farsalia, frente a las 
+guerras civiles se manifiesta en su encuentro con Bruto. La posición epicúrea expuesta 
+por su yerno, que lo insta a no participar para no perder la paz y el equilibrio, no puede 
+ser aceptada por un estoico comprometido, que no es indiferente ante los problemas de 
+su patria26. Pero Catón sabe que su intervención en el conflicto civil lo manchará de la 
+corrupción implícita en un enfrentamiento entre conciudadanos. Por eso culpa a los 
+dioses de colocarlo en medio de un conflicto irresoluble, trágico: 
+ 
+ 
+ 
+‘summum, Brute, nefas ciuilia bella fatemur, 
+ 
+ 
+ 
+sed quo fata trahunt uirtus secura sequetur. 
+                                                 
+25 Cf. E. BERTI, “Aspetti del moralismo nell’epica di Lucano”, en Lucano e la tradizione dell’epica latina, en 
+P. Esposito - E. Ariemma (eds.), Nápoles, 2004, p. 109-133. 
+26 Cf. W. JOHNSON, o.c. (n. 4), p. 133. 
+Auster, 2009 (14). ISSN 1514-0121.
+13
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+ 
+ 
+ 
+crimen erit superis et me fecisse nocentem… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. II, 286-288)  
+Incluso el hombre más justo no puede eludir una situación confusa en la que se 
+diluyen los límites entre nefas y uirtus. Los dioses y el destino son los responsables de 
+colocar al ser humano en un contexto moral  paradójico. 
+En el discurso de Catón a sus soldados antes de emprender el camino hacia el 
+desierto de Libia se expone una doctrina de vida revolucionaria en la que se invierten 
+parámetros de conducta que hasta el momento eran incuestionables (Phars. IX, 379-
+406). Por ello aparecen numerosas paradojas, en las que se unen los opuestos: ‘felicidad 
+- dolor’, ‘triunfo - derrota’, ‘vida - muerte’, ‘caminar sin llegar’. Catón propone recorrer un 
+camino nuevo, sin senderos demarcados,  que nadie antes  ha recorrido (inuia, 386). Esta 
+construcción de un nuevo modo de vida es mucho más dificultosa (durum iter, 385) de lo 
+que sería andar por caminos conocidos y aceptados por todos. Este desafío puede 
+requerir el sacrificio de muchas comodidades, de la aceptación social e incluso de la vida 
+misma. Por eso el único beneficio que Catón promete a los que lo sigan es la seguridad 
+de haber elegido el camino correcto, sin importar el lugar hacia donde ese camino los 
+lleve (ire sat est, 388). En una cultura imperial, en la que la importancia de la victoria en la 
+batalla se traslada a todos los aspectos de la vida, la propuesta de Catón es 
+indudablemente transgresora. 
+ 
+El nuevo camino propuesto por Catón es, en esencia, paradójico, pues, al invertir 
+las normas de comportamiento tradicionales, une y relaciona conceptos que para el 
+sentido común (doxa) son contradictorios. La nueva uirtus propuesta requiere un 
+enfrentamiento con los cánones de comportamiento aceptados socialmente, y esto 
+conlleva exclusión y sufrimiento extremos. La búsqueda de la máxima virtud y de la 
+libertad exige esfuerzos de tal magnitud que puede llegar al sacrificio de la vida misma. 
+De este modo se vinculan de una manera diferente los términos ‘vida’ y ‘muerte’, ‘libertad’ 
+y ‘esclavitud’: se debe buscar la libertad aunque ello signifique la muerte (Phars. IX, 379-
+381; IX, 390-394). Los peores sufrimientos se transforman en goces si están al servicio 
+de la búsqueda de la virtud (dulcia …duris, 403). La situación más indecorosa para una 
+cultura guerrera, la huída (fugisse, 406), se convierte en una situación digna de hombres 
+valerosos (deceat … uiros, 406) si se realiza con esta noble finalidad. 
+Auster, 2009 (14). ISSN 1514-0121.
+14
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+Catón se constituye en el modelo paradigmático de este camino llevándolo a sus 
+últimas consecuencias27: no sólo acepta su posible muerte,  sino que expresa su deseo 
+de ofrecerse a los dioses como víctima expiatoria para redimir a Roma de la corrupción 
+de sus costumbres (Phars. II, 312-313). De este modo Lucano lo delinea como un nuevo 
+y revolucionario tipo de héroe, que surge con ímpetu en el siglo I d. C: el mártir. La 
+descripción que Lucano realiza del  lugar geográfico en el que Catón y los suyos ingresan 
+al iniciar su camino sin retorno es un claro reflejo de la revolucionaria inversión que 
+supone el periplo del héroe: pérdida de los parámetros conocidos, trasgresión de límites y 
+viaje al ‘otro lado del mundo’ donde todo es completamente diferente (Phars. IX, 382-384; 
+IX, 493; IX, 429-430; IX, 846-847):  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+exiguane uia legem conuertimus anni? 
+ 
+ 
+ 
+imus in aduersos axes, euoluimur orbe, 
+ 
+ 
+ 
+terga damus ferienda Noto; nunc forsitan ipsa est 
+ 
+ 
+ 
+sub pedibus iam Roma meis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. IX, 875-878) 
+ 
+ 
+Conclusión 
+ 
+Si el tema central de la Farsalia es la guerra civil de Roma, es decir, la escisión 
+interna, que la acompaña desde sus orígenes legendarios (fratricidio de Rómulo) como 
+un doloroso estigma y que la precipita inevitablemente hacia un destino de 
+autodestrucción, entonces es comprensible que la paradoja, imagen de la contradicción 
+interna, de la dualidad dentro de la unidad, haya sido el recurso retórico elegido por 
+Lucano para articular la estructura semántica y formal de su epopeya: Latium sic scindere 
+corpus / dis placitum.(Phars. X, 416-417). Para el poeta el quiebre de la coherencia 
+interna de su patria en el ámbito político provoca una desarticulación de los cánones 
+culturales, un derrumbe de la cosmovisión romana. La constatación de este desequilibrio 
+le hace sospechar una inestabilidad equivalente en el ámbito divino, en las leyes que, 
+según sus creencias, lo gobernaban. Esto lo lleva a experimentar una situación de 
+extrema orfandad y desprotección. Como defensa ante tanto dolor Lucano utiliza como 
+escudo en esta  cita el recurso del sarcasmo, que, al establecer un contraste entre el 
+nivel superficial y el nivel profundo de sentido en la unidad de una frase, no es, en 
+                                                 
+27 Cfr. F. AHL, o. c. (n. 8), p. 125-126. 
+Auster, 2009 (14). ISSN 1514-0121.
+15
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+definitiva, otra cosa que una paradoja dolorosa:  pro fas! Ubi non ciuilia bella / inuenit 
+imperii fatum miserabile nostri? (Phars. X, 410-411). 
+ 
+Frente a la inestabilidad de esta situación se yergue como propuesta la rebeldía 
+de Catón, un personaje que propone un camino nuevo invirtiendo paradójicamente los 
+cánones que hasta ahora fundamentaban la cultura triunfalista y militarista de Roma. 
+Lucano delinea los contornos de un nuevo tipo de héroe transgresor que emerge en el 
+siglo I d. C.: el héroe mártir. 
+ 
+ 
+o utinam caelique deis Erebique liceret 
+ 
+ 
+hoc caput in cunctas damnatum exponere poenas! 
+ 
+ 
+ 
+ 
+ 
+ 
+(Phars. II, 306-307) 
+  
+En el mismo siglo el surgimiento revolucionario de la figura de Jesús de Nazaret, 
+sus primitivos seguidores sacrificados en los circos de Nerón, y los mártires judíos, que 
+se suicidan colectivamente en la fortaleza de Massada (70 d. C.) antes de aceptar la 
+esclavitud frente a los romanos, constituyen otras manifestaciones de esta búsqueda 
+transgresora de nuevos senderos y de nuevos modelos, que caracteriza a esta  época 
+convulsionada, cuyas innovaciones se proyectan ampliamente  hacia las siguientes 
+etapas histórico – culturales.    
+ 
+Resumen 
+En el presente trabajo analizaremos algunas paradojas de la Farsalia, que 
+ejemplifican la presencia de esta figura en una amplia diversidad de ámbitos (genérico, 
+lingüístico, político, mítico – religioso y moral) y asimismo muestran su posición nuclear 
+en el funcionamiento de la  estructura semántica y formal de la epopeya. Los trabajos de 
+F. AHL (1976), W. JOHNSON (1987), A. PERUTELLI (2000), E. NARDUCCI (2002) y S. 
+BARTSCH (1997; 2005) constituyen los principales referentes bibliográficos en su 
+consideración de la importancia del empleo de la paradoja en la  Farsalia. 
+Palabras claves: paradoja- Farsalia- Lucano- épica latina.  
+ 
+Abstract 
+ 
+In this paper we analyze some paradoxes of LUCAN’S Pharsalia to exemplify the 
+presence of this figure in various fields (generic, linguistic, politic, mythic, religious and 
+moral), and to show its nuclear position in the semantic and formal structure of this epic. 
+The studies of  F. AHL (1976), W. JOHNSON (1987), A. PERUTELLI (2000), E. 
+NARDUCCI (2002) y S. BARTSCH (1997; 2005) are the principal bibliographic referents.  
+ 
+Auster, 2009 (14). ISSN 1514-0121.
+16
+ 
+Auster –  Nro 14, p. 101-116.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+Keywords: paradox- Pharsalia- Lucan- Latin epic.  
+RECIBIDO: 08-04-2009 – ACEPTADO: 11-05-2009 
+Auster, 2009 (14). ISSN 1514-0121.
+17

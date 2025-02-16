@@ -1,0 +1,637 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+NEOLOGISMOS EN LENGUA QOM: UNA
+APROXIMACIÓN A SUS ASPECTOS FORMALES Y
+SEMÁNTICOS
+Neologisms in the Qom Language: an Approach to Semantic
+and Formal Aspects
+Blanco Pena, Ana
+ Ana Blanco Pena *
+a.blanco96@hotmail.com
+Universidad de Buenos Aires, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 21, e2106, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 30/06/23
+Aprobación: 04/08/23
+URL: http://portal.amelica.org/ameli/journal/785/7854257011/
+DOI: https://doi.org/10.30972/clt.0216891
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: El presente trabajo explora las distintas estrategias
+para la creación de neologismos en lengua qom. A partir
+de un corpus recolectado de fuentes secundarias (páginas
+web, diccionarios, manuales) y mediante la elicitación con un
+hablante nativo, se analizaron los aspectos morfosintácticos y
+semánticos para la formación de nuevas palabras desde una
+perspectiva tipológica (Díaz Hormigo, 2020; Haspelmath y
+Tadmor, 2009), teniendo en cuenta algunos aportes de la
+lingüística cognitiva (Fernández Jaén, 2014; Romero Gualda,
+2008); con foco en la metáfora y la metonimia como mecanismos
+para la neología. Se tuvieron en cuenta como antecedentes
+los estudios sobre formación de palabras en la lengua qom
+(Messineo, 2003; Censabella, 2005; Cúneo, 2013). Este artículo
+constituye un aporte a los estudios sobre la neología a partir de la
+descripción de datos de una lengua indígena.
+Palabras clave: lengua qom, neologismos, tipología lingüística,
+formación de palabras.
+Abstract: e paper explores the diﬀerent strategies for the
+creation of neologism in the Qom language. Based on corpus
+collected from secondary sources (web pages, dictionaries,
+manuals) and elicitation with a native speaker, the diﬀerent
+morphosyntactic and semantic aspects involved in the creation
+of new words were analyzed from a typological perspective (Díaz
+Hormigo, 2020; Haspelmath y Tadmor, 2009), taking into
+account some contributions of cognitive linguistics (Fernández
+Jaen, 2014; Romero Gualda, 2008) and focusing on the
+metaphor and metonymy as mechanisms to form neologisms.
+Previous studies about word formation in Qom were considered
+(Messineo, 2003; Censabella, 2005; Cúneo, 2013). is article
+is a contribution from the description of an indigenous language
+to the studies about neology.
+Keywords: Qom language, neologisms, linguistics typology,
+word formation.
+Cuadernos de Literatura, 2023, núm. 21, e2106, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Na dalaxaic na’aqtacpi nahua qom la’aqtaqa. Qanmit da naigui (título en qom)
+Anahil toj nech’ahies toj ihi Qom: khatut’aylo anahil toj kalelhjen wet tojlejlho tojtsu (título en wichí)
+Ana dalaxaic na>qaatqa quena qom: ona nqonehua anamaq no>ueenataxac formales chaqai semánticos (título en
+moqoit)
+1. Introducción
+La lengua qom (qom l’aqtaqa) pertenece a la familia guaycurú junto al caduveo, el moqoit y el pilagá. Los
+grupos qom incluyen cerca de 127000 personas (INDEC, 2010), que habitan en la región Gran Chaco, así
+como zonas próximas a grandes ciudades (Resistencia, Pte. R. Sáenz Peña, Rosario, Santa Fe, Buenos Aires y
+La Plata). La situación de la lengua en los contextos urbanos es comprometida: si bien se continúa su uso en
+situaciones intracomunitarias e intramatrimoniales, las segundas y terceras generaciones no suelen utilizar la
+lengua, aunque comprenden cuando los mayores la usan (Hecht, 2010) e incluso recrean algunos usos con
+ﬁnes estéticos e identitarios (Beiras del Carril y Cúneo, 2019).1 El desplazamiento de la lengua a favor del
+español se debe a múltiples factores, tales como la educación formal monolingüe, el contacto más estrecho
+con la lengua hegemónica y la preferencia por la misma (Hecht, 2010).
+Sin embargo, en los últimos años la lengua qom ha comenzado a ganar uso en nuevos espacios formales
+(jurídico, virtual, educativo). Estos nuevos usos favorecen la creación de neologismos, es decir, palabras
+resultantes de la formación de nuevas unidades léxicas.
+El presente artículo se propone describir los aspectos morfosintácticos (aﬁjación, alternancia de género
+gramatical) y semánticos (extensión metafórica, metonimia) involucrados en la creación de neologismos en
+toba, a partir de datos obtenidos mediante elicitación con un hablante nativo y en fuentes secundarias que
+fueron elaboradas mayormente en colaboración con hablantes indígenas. El objetivo del presente artículo es
+explorar los diferentes recursos (morfosintácticos y semánticos) utilizados para la creación neologística en
+lengua qom. La investigación en neologismos nos permite indagar tendencias en la productividad de nuevas
+palabras, la vitalidad, la resistencia ante el desplazamiento lingüístico (en caso de lenguas minorizadas); y
+la creatividad lingüística en nuevos contextos de uso. Este trabajo forma parte del proyecto de beca EVC-
+CIN,2 centrado en el análisis de préstamos y neologismos en esta lengua indígena, con el ﬁn de identiﬁcar
+sus características tipológicas.
+2. Neologismos
+La neología reﬁere al proceso creativo de formación de nuevas unidades léxicas, las cuales se pueden ser
+denominadas neologismos (Díaz Hormigo, 2020, p. 77). Según la autora –retomando a Dubois– “(…) un
+neologismo es una palabra de creación reciente o recientemente tomada de otra lengua, o bien una acepción
+reciente de una palabra ya antigua” (Díaz Hormigo, 2020, p. 76). Para la creación de nuevo léxico, se
+Notas de autor
+*
+Ana Blanco Pena es Profesora en Enseñanza Media y Superior en Letras, graduada de la Universidad de Buenos Aires (UBA). Participa en el proyecto
+UBACyT “Lenguas indígenas del Gran Chaco: Estudios descriptivos, tipológico-comparativos y sociolingüísticos” (dirigido por la Dra. Cristina
+Messineo), en calidad de estudiante. Es doctoranda en Lingüística en el proyecto “Estructura de la información en Lenguas Indígenas del Chaco.
+Avances en el estudio del discurso desde una perspectiva etnográﬁca” (dirigido por las Dras. Paola Cúneo y Cristina Messineo). Investigó la situación
+de contacto entre la lengua qom y el español, con énfasis en préstamos y neologismos, en el marco de una beca de Estímulo a las Vocaciones Cientíﬁcas
+del Consejo Interuniversitario Nacional (EVC-CIN).
+Ana Blanco Pena. NEOLOGISMOS EN LENGUA QOM: UNA APROXIMACIÓN A SUS ASPECTOS FORMALES Y
+SEMÁNTICOS
+PDF generado a partir de XML-JATS4R
+utilizan recursos morfosintácticos propios de la lengua. Por ejemplo, en qom, nashiidaGat ‘ventilador’ (lit.:
+‘su instrumento que sopla’) (Buckwalter y Buckwalter, 2013, p. 117) es una creación neologística que utiliza
+una base verbal (-ashiid-‘soplar’) así como suﬁjos y preﬁjos propios de la lengua (el preﬁjo n- indica poseedor
+de 3ª persona mientras que el suﬁjo -aGat codiﬁca el instrumento).
+Según Díaz Hormigo (2020), la creación neologística involucra mecanismos formales disponibles en
+cada lengua, como la derivación, la composición o el cambio de categoría gramatical. Así también, los
+procesos semánticos como la metáfora, la metonimia y la sinécdoque pueden formar parte de la creación de
+neologismos.
+Una estrategia frecuente en la neología es la transferencia semántica. Se trata de un procedimiento que “(…)
+implica que un signiﬁcante preexistente en la lengua expresa un nuevo signiﬁcado, una nueva acepción o un
+nuevo sentido” (Díaz Hormigo, 2020, p. 90); por ejemplo, en maká -lo ‘semilla’ adopta también el signiﬁcado
+de ‘bala de revólver’ (Tacconi y Abrach, 2014). Según Díaz Hormingo (2020), el cambio semántico “(…)
+importa un signiﬁcado distinto, reﬂeja una nueva y distinta concepción, alteración o modiﬁcación respecto
+a qué se aprehende del mundo extralingüístico” (p. 90).3
+Para el presente trabajo, se tomaron también las propuestas de Fernández Jaén (2014) y Romero Gualda
+(2008) quienes deﬁnen la metáfora y la metonimia desde una perspectiva lingüístico-cognitiva. Las metáforas
+y las metonimias involucradas en los procesos de creación léxica implican cambios en la acepción de un
+lexema. Dichas estrategias “(…) son los mecanismos por medio de los cuales transformamos la experiencia
+en información vital”; ya que el pensamiento abstracto y las ideas que dan lugar a la creación de metáforas
+y que conﬁguran nuestro lenguaje “(…) proceden de la experiencia cotidiana, ya sea una experiencia física o
+una vivencia cultural o antropológica (…)” (Fernández Jaén, 2014, p. 53).
+En este marco, la metáfora constituye un mecanismo de aprehensión para transformar la experiencia vital
+en información. El mismo parte de la semejanza (que puede ser parcial) entre los dominios (de origen y
+de meta), y su proceso se lleva a cabo mediante una serie de correspondencias ontológicas y epistémicas.
+Fernández Jaen (2014) sostiene que “(…) lo que hace la cognición es comparar el concepto que se desea
+verbalizar con otro mucho más simple para establecer un patrón regular de interpretación semántica” (p. 53).
+Por otro lado, la metonimia implica que la referencia nuclear del lexema es desplazada, aunque existe
+entre dominios una relación real para que se produzca el desplazamiento (Romero Gualda, 2008). Tanto la
+metáfora como la metonimia constituyen mecanismos que aprehenden la realidad desde categorías culturales,
+por lo que es necesario poseer conocimientos sobre las prácticas y representaciones sociales para comprender
+la relación entre desplazamiento y semejanza que se establece.4
+Por último, una estrategia que involucra la importación de patrones o signiﬁcados extranjeros con la
+retención de las formas de la lengua nativa (Bullock y Toribio, 2009) es el caso de los calcos. Estos últimos
+son una forma compleja, creada desde la estructura y constituyentes de una lengua extranjera o donante (por
+ejemplo, en español rascacielos a partir del patrón de la forma inglesa skyscraper). Por lo tanto, es una forma
+léxica que involucra una adaptación, y al mismo tiempo, una inﬂuencia de otra lengua. Si bien Haspelmath
+y Tadmor (2009) consideran que los calcos constituyen un tipo de préstamo (debido a la inﬂuencia de otra
+lengua en la estructura), son sin duda relevantes para la creación de unidades léxicas nuevas (neología).
+En las lenguas indígenas del Gran Chaco, los procesos de formación neológica fueron estudiados en
+maká (Tacconi y Abrach, 2014), en guaraní (Morando, 2021) y en wichí (Vidal y Nercesian, 2009), entre
+otros trabajos que los tratan de manera indirecta.5 Las investigaciones identiﬁcaron distintos recursos
+morfosintácticos y semánticos en la formación de neologismos, que se tuvieron en cuenta para el análisis en
+qom.
+En aquellas lenguas que atraviesan un proceso de retracción lingüística (como el caso del qom, cf. Hecht,
+2010, entre otros), la utilización de neologismos es considerada como una estrategia de resistencia (Hamel,
+1995) ya que implica la apropiación de un concepto extraño desde la propia lengua. También es vista como
+un signo de vitalidad (Adelstein, 2017) porque implica la utilización en nuevos espacios. En el caso del qom,
+Cuadernos de Literatura, 2023, núm. 21, e2106, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+durante los últimos años la lengua vernácula ha comenzado a apropiarse de aquellos espacios de los cuales
+históricamente ha sido excluida. Entre estos se encuentran los ámbitos educativo, el jurídico6 y el sanitario,
+así como los contextos de circulación digital (Internet). Desde esta perspectiva, el estudio de neologismos
+permite evaluar la creatividad lingüística en nuevas esferas, mediante recursos morfosintácticos y semánticos
+utilizados para denominar objetos y/o conceptos novedosos; así como también evaluar la vitalidad de una
+lengua y su relación con las lenguas dominantes.
+3. Metodología y origen de los datos
+Los neologismos fueron recopilados de cuatro fuentes principales; estas incluyen: la consulta del diccionario
+de Buckwalter y Buckwalter (2013), ampliamente aceptado entre los grupos qom; el Manual para la
+promoción de la salud entre los tobas (qom) del Chaco Central (Martínez, 2013), elaborado en formato
+bilingüe, en colaboración con hablantes nativos; la indagación en medios digitales que circulan en la lengua;
+y el trabajo junto a un colaborador qom hablante nativo. Posteriormente, el material relevado fue analizado
+desde una perspectiva tipológico-funcional (Haspelmath y Tadmor, 2009), tomando en consideración los
+aportes de Fernández Jaén (2014) y Romero Gualda (2008). Para la selección de neologismos se consideraron
+los criterios propuestos por Díaz Hormigo (2020).
+En primer lugar, se relevó el Vocabulario Toba desarrollado por los misioneros menonitas Albert y Lois
+Litwiller Buckwalter en colaboración con hablantes nativos. En segundo lugar, se recopilaron neologismos
+de dos fuentes digitales, Chaco Indígena (chacoindígena.net) y Testigos de Jehová (jw.org). La primera se
+dedica a la difusión de la cultura indígena, con énfasis particular en la reivindicación histórica e identitaria.
+Allí se encuentra material escrito religioso y de difusión cultural en lenguas indígenas, así como audiovisual.
+Esta página es bilingüe, con predominancia del español. Por su parte, la página JW.ORG –desarrollada por
+los testigos de Jehová y con una interfaz íntegramente en qom– se dedica a la difusión religiosa con material
+escrito y audiovisual en lengua toba. También se documentaron neologismos incluidos en una campaña
+gráﬁca para la prevención del COVID-19 difundida a través de medios digitales. Esta placa informativa
+fue realizada por el Instituto Nacional de Asuntos Indígenas (INAI, 2020) y el Centro Universitario de
+Idiomas (CUI) con el ﬁn de educar sobre la propagación y prevención del contagio de dicha enfermedad.
+Por último, se consultó terminología propia del campo de la medicina en el Manual para la promoción de la
+salud (Martínez, 2013). En el caso de estas fuentes, las traducciones literales corresponden a la autora y las
+traducciones al español provienen de la fuente.
+Además, se realizó una serie de entrevistas y elicitaciones con Ramón Yuriga (R.Y.), un hablante adulto
+originario de Pampa del Indio que vive en el barrio urbano de Derqui, Provincia de Buenos Aires. La
+elicitación consistió en una lista de palabras candidatas a ser neologismos, agrupadas en los siguientes campos
+semánticos: salud, educación, religión, tecnología/trabajo, vivienda. La misma se realizó comenzando por
+aquellos campos considerados más antiguos (vivienda, religión, educación) para ﬁnalizar con aquellos más
+recientes (tecnología, salud). La separación por campos semánticos se basó en la propuesta de Vidal y
+Nercesian (2009) para su trabajo sobre préstamos en wichí. Dicha división surge de la necesidad de establecer
+aquellos campos donde hay mayor permeabilidad a incorporar préstamos (legislación, mundo moderno) de
+los que poseen menor permeabilidad (cognición, mundo físico, etcétera). Siguiendo este criterio, la elicitación
+inicia con aquellos campos que pueden poseer mayor permeabilidad y/o una incorporación más antigua
+de conceptos novedosos. La elicitación se llevó a cabo en el Barrio Toba Daviaxaiqui, ubicado en Derqui
+(localidad de Pilar, Provincia de Buenos Aires), durante los meses marzo de 2022 y febrero de 2023. Las
+respuestas fueron registradas en audio y por escrito, así como también las reﬂexiones metalingüísticas del
+consultante. Todos los datos recolectados fueron transcriptos siguiendo una escritura fonológica (véase nota
+8). Las traducciones literales transcriptas en el artículo son del consultante. Las traducciones al español
+corresponden a la autora.
+Ana Blanco Pena. NEOLOGISMOS EN LENGUA QOM: UNA APROXIMACIÓN A SUS ASPECTOS FORMALES Y
+SEMÁNTICOS
+PDF generado a partir de XML-JATS4R
+Si bien no sería posible separar dicotómicamente la morfosintaxis de la semántica ya que el signiﬁcado está
+(también) contenido en la morfología, la sintaxis y sus usos, el presente trabajo aborda separadamente los
+procesos de formación neologística relativos a la semántica y a la morfosintaxis, a ﬁn de poder hacer foco en
+los aspectos involucrados en cada nivel. No se abordará en profundidad el uso neologístico de los suﬁjos a un
+nivel semántico (es decir, los nuevos signiﬁcados que estos puedan adoptar).
+En total, recopilaron 132 formas neologísticas (palabras) a partir de las fuentes mencionadas. De este
+conjunto, una amplia mayoría constituyen extensiones semánticas (sin modiﬁcación morfológica) y formas
+creadas por derivación deverbal. En menor medida, se encontraron neologismos formados por composición
+y derivación a partir de bases nominales. Los casos menos frecuentes fueron aquellos donde el cambio de
+género implica un cambio en el signiﬁcado. La mayoría de las palabras recopiladas son nominales; sólo se
+encontraron dos neologismos que son verbos. A continuación, se describirán los aspectos morfosintácticos
+(4.1) y semánticos (4.2 y 4.3) involucrados en la creación neologística en qom a partir de las fuentes
+documentadas.
+4. Neologismos en qom
+4.1. Aspectos morfosintácticos
+De acuerdo a las descripciones disponibles (Messineo, 2003; Censabella, 2005), la lengua qom muestra una
+tendencia a la aglutinación y la polisíntesis; por lo tanto, se caracteriza por su complejidad morfológica,
+tanto en el nombre como en el verbo. Como es característico de las lenguas sintéticas, el qom presenta
+una rica morfología derivacional. Una estrategia recurrente para la formación de palabras en qom es la
+derivación nominal deverbativa mediante suﬁjación (Censabela, 2005). Entre los suﬁjos involucrados en la
+nominalización deverbal se encuentran -ki (locativo), -ai/-ayk (atributivo, m/f),-aGat/-aqte (instrumental,
+m/f) y -ek (resultativo), entre otros. Las bases verbales son nominalizadas mediante el morfema -aGa. El
+suﬁjo -ki deriva nombres que designan espacios delimitados y cerrados. En ocasiones objetos delimitados,
+pequeños, alargados y en vertical, o cerrados. Este suﬁjo no recibe marca de género en la base. El suﬁjo -ay(k)
+se utiliza para nombres que designan una actividad frecuente que realiza un agente (+humano) y que es una
+característica suya. Por esta razón, suele utilizarse para nombrar profesiones u ocupaciones. El suﬁjo -aGat/-
+aqte indica instrumento. Puede formar derivados de raíces léxicas simples o bases detransitivizadas mediante
+el suﬁjo -aGan. El suﬁjo -ek hace referencia al objeto resultado de la acción del verbo. Messineo (2003)
+llama a estos suﬁjos “marcadores de clase” porque son formas opcionales y permiten agrupar los nombres en
+categorías marcadas lingüísticamente. Estas categorías se basan en rasgos semánticos prototípicos que dan
+cuenta de características del referente (forma, dimensión, postura, etcétera). Los suﬁjos mencionados fueron
+documentados en la formación de neologismos, como se presenta a continuación.
+4.1.1. Nominalización locativa: Suﬁjo -ki
+Un conjunto amplio de neologismos se forma mediante el uso del suﬁjo locativo -ki. Como se mencionó
+previamente (cf. Censabella, 2005), este suﬁjo se utiliza para derivar bases que reﬁeren a espacios delimitados
+o cerrados, objetos pequeños, alargados o en posición vertical. Según Messineo (2003, p. 105) este suﬁjo sirve
+para indicar la idea de ‘recipiente’ o ‘lugar cerrado’. La autora cita a Klein, quien documenta este suﬁjo con
+el sentido de forma plana y a Vidal, para el pilagá, con el de ‘objeto manufacturado por el hombre’.
+En los ejemplos (1) a (5), se observa el lexema compuesto por una base verbal a la que se adjuntan suﬁjos que
+permiten reducir la valencia (mediante el morfema antipasivo -aGan) y nominalizar la base verbal (mediante
+el nominalizador deverbal -aGa). A la base nominalizada se adjunta el suﬁjo locativo -ki.
+Cuadernos de Literatura, 2023, núm. 21, e2106, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+En (1) el uso del morfema -ki indica un objeto cerrado y delimitado (un horno de barro). En (3) y (5)
+también se trata de un objeto cerrado, pero cuya idea es más cercana a la de ‘contenedor’. A su vez, el caso
+de (2) se trata también de un recipiente pequeño y delimitado. En (4) se puede observar que el objeto al
+que reﬁere no es pequeño, sino alargado (máquina de coser). Otra característica de las máquinas de coser
+es que solían llevar una ‘tapa’ (generalmente de madera) por lo que también se trataría de un lugar cerrado.
+Si bien se encontraron casos de neologismos que utilizan el suﬁjo -aGat (instrumental) para denominar
+‘aparatos’ (véase Censabella, 2005), en este caso el nombre se forma por medio de un suﬁjo que reﬁere a la
+forma del objeto (cerrado y alargado) por sobre la función (ser una máquina).
+(1)7
+l-qatel-aGan-aGa-ki
+POS3-hornear-DTR-NMZ-LOC
+‘su horno (de barro)’ (lit.: ‘lugar/recipiente para hornear’)
+(R.Y., 84)8
+(2)
+l-ki’-aGa-ki
+POS3-comer-NMZ-LOC
+‘su plato’ (lit.: ‘su lugar para comer’)
+(R.Y., 84)
+(3)
+l-ach-oGon-aGa-ki
+POS3-cargar-DTR-NMZ-LOC
+‘su valija’ (lit.: ‘su lugar para cargar’
+(Buckwalter y Buckwalter, 2013, p. 312)
+(4)
+l-et-aGan-aGa-ki
+POS3-coser-DTR-NMZ-LOC
+‘máquina de coser’ (lit.: ‘su lugar donde cose’)
+(Buckwalter y Buckwalter, 2013, p. 272)
+(5)
+na-paGayaGat-aGa-ki
+POS3-calentar-NMZ-LOC
+‘su pava’ (lit.: ‘lugar para calentar’)
+(R.Y., 84)
+Este apartado muestra como el miso suﬁjo (-ki) es utilizado para denominar objetos, denotando algún
+aspecto físico suyo.
+4.1.2. Nominalización atributiva: Suﬁjo atributivo -ay(k)
+Según las descripciones previas (Messineo, 2003; Censabella, 2005; Cúneo, 2013), el suﬁjo -ay(k)
+permite derivar nominales atributivos a partir de bases verbales nominalizadas para expresar cualidades
+o características de los referentes. Dicho suﬁjo se utiliza para un conjunto de nominales que reﬁeren a
+actividades frecuentes u oﬁcios. Semánticamente, permite formar nombres que seleccionan un rasgo del
+comportamiento de la entidad a la que reﬁere.
+Entre los neologismos documentados, el ejemplo (6) indica un oﬁcio (cirujano). Este está conformado
+por la base verbal pitaGan, a la cual se adjunta el nominalizador -aGa y el atributivo -ayk. Dicha base verbal
+es traducida en Buckwalter y Buckwalter (2013) como ‘cortar, destripar, operar’. Esta última acepción,
+perteneciente al campo de la medicina, indicaría un desplazamiento de la referencia desde los signiﬁcados más
+Ana Blanco Pena. NEOLOGISMOS EN LENGUA QOM: UNA APROXIMACIÓN A SUS ASPECTOS FORMALES Y
+SEMÁNTICOS
+PDF generado a partir de XML-JATS4R
+conocidos y prototípicos (‘cortar’, ‘destripar’) a uno más reciente y menos prototípico (‘operar’), mediante
+una relación de semejanza parcial. En este caso se podría hablar de un neologismo formado mediante
+mecanismos morfológicos (suﬁjos) y semánticos (extensión metafórica del signiﬁcado).
+(6)
+pitaGan-aG-ay-k
+cortar-NMZ-ATR-MASC
+‘cirujano’ (lit.: ‘el que corta/destripa/opera’)
+(Buckwalter y Buckwalter, 2013, p. 188)
+En los casos de (7) y (8) la formación de neologismos opera de manera similar. En ambos ejemplos
+se trata de una base verbal a la que se adjunta los suﬁjos -at (causativo), -aGan (detransitivizador), -aGa
+(nominalizador) e -ik (atributivo).
+Tanto en (7) como (8) hay bases verbales que hacen referencia a un rasgo del referente o a un
+‘comportamiento’ (‘le despierta’ y ‘extingue’; respectivamente).
+(7)
+qetoGon-at-aGan-aG-ay-k
+despierta-CAUS-DTR-NMZ-ATR-MASC
+‘despertador’(lit.: ‘el que despierta/hace despertar’)
+(Buckwalter y Buckwalter, 2013, p. 173)
+(8)
+lam-at-aGan-aG-ay-k
+extinguir-CAUS-DTR-NMZ-ATR-MASC
+‘extintor’ (lit.: ‘el que extingue’)
+(Buckwalter y Buckwalter, 2013, p. 65)
+4.1.3. Nominalización instrumental: Suﬁjo -aGat
+Según Censabella (2005) la utilización del suﬁjo -aGat indica instrumentalidad e implica un aumento en el
+grado de transitividad de la base verbal. De esta forma, en (11) se puede observar como su adjunción resulta
+en una creación neologística para denominar una herramienta.
+Por otro lado, el morfema -aGan “se utiliza cuando la acción es realizada de manera consciente, voluntaria
+y controlada por el agente (…) de allí su selección para estos neologismos” (Censabella, 2005, p. 197).
+En el par (9) y (10) se puede observar la exploración de este recurso morfológico.
+(9)
+l-vin-aGat
+POS3-girar-INST.M
+‘cerrojo’ (lit.: ‘su instrumento para girar’)
+(Buckwalter y Buckwalter, 2013, p. 226)
+(10)
+l-vin-aGan-aGat
+POS3-girar-CAU-INST
+‘taladro’ (lit.: ‘su instrumento para hacer girar’)
+(Buckwalter y Buckwalter, 2013, p. 93)
+(11)
+n-apilot-aGat
+POS3-lavar.la.cara-INST
+‘su toalla’ (lit.: ‘su instrumento para lavar la cara’)
+(Buckwalter y Buckwalter, 2013, p. 114)
+Cuadernos de Literatura, 2023, núm. 21, e2106, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+(12)
+na-shiid-aGat
+POS3-soplar-INST.M
+‘ventilador eléctrico’
+(lit.: ‘su instrumento para soplar’)
+(Buckwalter y Buckwalter, 2013, p. 117)
+Todas estas estrategias, permiten la formación de sustantivos a partir de bases verbales. En este caso, lo que
+se privilegió a la hora de formar el neologismo es la función del objeto (ser un instrumento) en lugar de la
+forma (como se vió en apartados anteriores).
+El uso del suﬁjo instrumental -aGat en (10) y (12), mostraría una nueva acepción en el signiﬁcado del
+morfema (‘instrumento’ > ‘instrumento eléctrico’). Sin embargo, en el caso de (4) letaGanaGaki (‘máquina
+de coser’) la utilización el suﬁjo -ki para denominar una herramienta, en lugar de un suﬁjo instrumental,
+indicaría una predilección por la forma (alargada) en lugar de la función. Por lo tanto, puede aﬁrmarse que
+la preferencia de determinadas formas morfológicas posee también una motivación semántica.
+4.2. Aspectos semánticos
+4.2.1. Metáfora
+Como se mencionó previamente, la extensión semántica es una estrategia de creación de neologismos que
+radica en el cambio en el contenido semántico de un término preexistente.
+El uso de metáforas en la extensión semántica permite que los signiﬁcados más nucleares (prototípicos)
+adopten nuevas capas de signiﬁcado. Como se observa en (13), (14) y (15) el dominio del que se parte (origen)
+está más asociado al conocimiento cultural compartido. Por su parte, el dominio de meta está asociado a las
+innovaciones tecnológicas y médicas.
+En los ejemplos (13), (14) y (15) hay un dominio de origen más conocido y cercano a la cultura y un
+dominio de meta más nuevo y/o desconocido. La relación ontológica establecida puede representarse en
+términos de “X (meta) es como Y (origen)” –“el fósforo es como el fuego” (13); “los archivos son como los
+libros” (14) y “la curación es como un tratamiento” (15)–. Así también se establecen relaciones epistémicas
+para encontrar el correlato en el dominio meta: “el fuego calienta, da luz, enciende (como un fósforo)” (13);
+“los libros tienen información y se leen (como los archivos)” (14); “la curación alivia los síntomas y te
+cura (como el tratamiento)” (15). Las motivaciones para la creación de esta relación entre el dominio de
+origen y el dominio de destino se apoyan en la semejanza, que puede ser real y objetiva (un fósforo tiene
+las mismas funciones que el fuego) o percibido (los archivos tienen información como los libros, pero no
+necesariamente es escrita; no tienen hojas de papel, ni el mismo formato). En este último caso, esta percepción
+está determinada por modelos culturales que establecen la semejanza (cf. Soriano, 2012).
+(13)
+l-l’e
+POS3-fuego
+‘fósforo’ (lit.: ‘su fuego’)
+(Buckwalter y Buckwalter, 2013, p. 82)
+(14)
+nerec-pi
+libro-PL
+‘archivos (virtuales)’ (lit.: ‘libros’)
+(chacoindigena.net)
+(15)
+Ana Blanco Pena. NEOLOGISMOS EN LENGUA QOM: UNA APROXIMACIÓN A SUS ASPECTOS FORMALES Y
+SEMÁNTICOS
+PDF generado a partir de XML-JATS4R
+n-atann-aG-ek
+POS3-curar-CAUS-NMZ
+‘tratamiento’
+(lit.: ‘su curación’)
+(Martínez, 2013, p. 40)
+En el ejemplo (15), están involucrados mecanismos de nominalización deverbal. El morfema causativo (-
+aG) y el suﬁjo nominalizador que indica ‘resultado de una acción’ (-ek) se adjuntan a la base verbal (-atann
+‘curar’). Se encontró esta entrada también en Buckwalter y Buckwalter (2013, p. 235) con el signiﬁcado de
+‘curación’. En este caso, el análisis se enfoca en la nueva acepción (‘tratamiento’) que el término adopta en el
+Manual para la promoción de la salud (2013). Así, este ejemplo muestra también que la creación neologística
+a partir de la extensión de la designación no se limita únicamente a palabras que no hayan sido derivadas.
+4.2.2. Metonimia
+En el caso de la metonimia la relación entre dos términos se da por la conexión de uno con el otro.
+Según Romero Gualda (2008), en la metonimia, “no se cambia el contenido de la voz sino que se desplaza
+la referencia” (p. 196). Esto implica que el término se sustituye por otro con el que se observa una
+relación (semántica) real, necesaria para que se produzca el desplazamiento. Existen diferentes relaciones
+de desplazamiento en la metonimia. En este trabajo se considerarán la relación efecto por causa y todo por
+la parte. Por ejemplo, entre ‘se lo esconde hacia abajo’ y ‘descargar (un archivo de una página web)’ (17),
+la relación no se apoya en la similitud como en la metáfora, sino en nombrar el efecto (que se esconde
+hacia abajo) por la causa (que se descarga). “El efecto por causa” es la conexión entre ambas palabras.
+Para comprender este desplazamiento, es necesario tener algún conocimiento extralingüístico –como se
+especiﬁcará en (18)–.
+Los ejemplos (16) y (17) provienen de la página web JW.ORG. Se encuentran junto a los íconos que
+representan una impresora y una nube con una ﬂecha que apunta hacia abajo, respectivamente.
+(16)
+qa-l-apaGa-ñi
+IMP-3-aplanar-LOC:abajo
+‘imprimir’ (lit.: ‘lo aplana hacia abajo’)
+(JW.ORG)
+(17)
+qa-n-yoGoo-ñi
+IMP-3-esconder-LOC:abajo
+‘descargar’ (lit.: ‘se lo esconde’)
+descargar’ (lit.: ‘se lo esconde’) (JW.ORG)
+En ambos ejemplos, que fueron tomados de la misma fuente, se observa la misma estructura: una base
+verbal con el preﬁjo impersonal -qa y un suﬁjo locativo -ñi (hacia abajo). En (16) el ‘efecto’ es que la hoja pasa
+por la impresora y ‘se aplana’. En (17) el efecto es que el archivo al descargarse ‘se esconde’ (no es visible a
+primera vista) y va ‘hacia abajo’. Por lo tanto, la elección de este suﬁjo puede responder a la manera en la que
+estas acciones son conceptualizadas culturalmente.
+Otro caso de desplazamiento metonímico se observa en el término l’ochaGaki (18), que se elicitó en primer
+lugar como equivalente qom para “dormitorio”. El mismo deriva de la base verbal do’oche ‘él duerme’, a la
+cual se añaden los suﬁjos -aGa (nominalizador) y -ki (locativo), junto con el preﬁjo que codiﬁca al poseedor.
+Como se presentó en 4.1.1, se trata de un neologismo creado mediante una nominalización locativa. Esta
+expresión se usa también para denominar, metonímicamente, al mosquitero.
+Cuadernos de Literatura, 2023, núm. 21, e2106, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+(18)
+l-’och-aGa-ki
+POS3-dormir-NMZ-LOC
+‘dormitorio’ > ’mosquitero’
+(R.Y., 84)
+Como se observa, la relación semántica que se establece es del todo por la parte: el nombre del objeto reﬁere
+al lugar donde se utiliza (el dormitorio, el todo) para denominar la parte (el mosquitero).
+Durante la elicitación el consultante señaló que el mosquitero que se utiliza en la ventana recibe el nombre
+del préstamo (mosquitero), en cambio en el caso del objeto que se coloca sobre la cama, este se nombra como en
+(18). Tanto ‘mosquitero’ como ‘dormitorio’ reﬁeren a espacios que están bien delimitados,9 lo cual explicaría
+la preferencia por este suﬁjo -ki en lugar de otro.10
+El ejemplo (19) representa otro neologismo formado a partir de una relación metoníminca efecto por
+causa, donde se denomina el elemento a partir del efecto que produce; en este caso “tapar”:
+(19)
+l-apo-Gon-at
+POS3-tapar-DTR-INST?
+‘cortina’ (lit.: ‘su cosa para tapar’)
+(R.Y, 84)
+La base en el ejemplo (19) es el verbo yapogi (‘lo tapa’). Dicha base se ha encontrado en Buckwalter (2013)
+para distintos términos, entre ellos lapoGonaGat (‘lo que él usa para tapar algo, su cobertura’) y lapoGot (‘su
+tapa, su protector, su cortina’). En línea con estas expresiones, en una campaña gráﬁca para la prevención del
+COVID-19 realizada por el INAI y el CUI, se utiliza un calco del español conformado por la base lapoGot:
+(20)
+na-m l-apoGot na-m ’ap
+DD-FOCPOS3-protector DD-FOC POS2.boca
+‘tu tapaboca /el tapaboca’ (lit.: ‘su protector tu boca’)
+La expresión qom para ‘tapaboca’ en (20) constituye una forma nominal compleja que ‘copia’ la estructura
+del español pero utiliza las formas de la lengua indígena. Se presenta este ejemplo a ﬁn de mostrar la
+explotación semántica del mismo término para denominar dos objetos que en español reciben nombres
+diferentes. Como se puede ver en (19) y (20) la misma base ha adquirido con el paso del tiempo distintas
+capas de signiﬁcado. Durante la elicitación con el consultante, él aclaró que lapoGot es la acción de tapar y
+utilizó para ejempliﬁcar la acción una tela que cubría un objeto en la mesa, lo que puede explicar la utilización
+de esta base en términos que reﬁeren a ‘tapabocas’ y ‘cortina’.
+4.3. La alternancia del género gramatical
+Se encontraron casos en los cuales la alternancia de género en los mismos lexemas permite diferenciar
+el referente, dando lugar a nuevos signiﬁcados. En qom, el sistema de género se organiza en los valores
+femenino y masculino, y puede manifestarse morfológicamente en el nombre mediante el suﬁjo -k (Messineo,
+2003). En (21b), la marca de género masculino se adjunta al nominalizador -shi, que indica ‘lugar de
+procedencia’ (Messineo, 2003, p. 113).
+(21a)
+l-waGa-shi
+POS3-mano-NMZ
+‘su reloj pulsera’
+(Buckwalter y Buckwalter 2013, p. 80)
+Ana Blanco Pena. NEOLOGISMOS EN LENGUA QOM: UNA APROXIMACIÓN A SUS ASPECTOS FORMALES Y
+SEMÁNTICOS
+PDF generado a partir de XML-JATS4R
+(21b)
+l-waGa-shi-k
+POS3-mano-NMZ-M
+‘su brazalete’
+(Buckwalter y Buckwalter, 2013, p. 80)
+(22a)
+l-qola-k
+POS3-colgante-M
+‘Santo’ (lit.: ‘su estatua/ imagen religiosa’)
+(Buckwalter y Buckwalter, 2013, p. 87)
+(22b)
+l-qola
+POS3-colgante
+‘Santa’ (lit.: ‘su fetiche, su medalla de la virgen, su santa, su collar’)
+(Buckwalter y Buckwalter, 2013, p. 87)
+La diferencia de género entre (21a) y (21b) puede tener una motivación semántica. La asociación del
+género con los parámetros de forma y tamaño en la lengua qom fue señalada en descripciones previas (cf.
+Buckwalter y Buckwalter, 2013; Messineo, 2003; Censabella, 2005; Cúneo, 2009). Así, el género femenino
+se asigna a nombres cuyos referentes presentan una forma redonda y pequeña, mientras el género masculino
+ocurre en nombres que designan objetos alargados y de mayor tamaño. Por lo tanto, la motivación por el
+cambio de género en los ejemplos precedentes podría estar inﬂuenciada por la forma y el tamaño del referente.
+La preferencia por el género femenino podría estar asociada al tamaño pequeño y a la forma redonda (una
+medalla, un reloj).
+Con respecto a los ejemplos en (22), la marca de género -k se adjunta directamente a la base. En Buckwalter
+y Buckwalter (2013), la entrada del diccionario para lqola hace referencia a nqolaaña cuyo signiﬁcado es “lo
+lleva en cabestrillo que cruza el pecho, se lo pone de collar, lo lleva tendido del hombro opuesto” (p. 146).
+5. Reflexiones finales
+La creación neologística es un proceso complejo, atravesado por muchos factores (cognitivos, sociales,
+gramaticales). Este trabajo constituye una primera aproximación a dicho fenómeno desde un marco
+lingüístico tipológico y lingüístico cognitivo. En particular, se describieron los aspectos morfosintácticos y
+semánticos involucrados en la creación de neologismos en la lengua qom, a partir de datos obtenidos mediante
+elicitación con un hablante nativo y de fuentes secundarias. Se encontró la derivación por medio de los suﬁjos
+locativo (-ki), atributivo (-ayk/-ai), instrumental (-aGat/-aqte), y resultativo (-ek), que se adjuntan a una base
+verbal y derivan sustantivos, es una formación frecuente. Entre los aspectos semánticos, se describieron la
+metáfora y la metonimia como recursos utilizados para la creación neologística.
+Los neologismos permiten ver la creatividad lingüística para denominar nuevos conceptos que ingresan a
+la lengua con la intervención por parte de los hablantes. La preferencia por determinado tipo de suﬁjos para
+denominar objetos a partir de su forma (como es el caso de -ki o del género gramatical) o la utilización de un
+término polisémico como lapoGot en el caso de lapoGonat (‘cortina’) y nam lapoGot nam ’ap (‘tu tapabocas’)
+representan estrategias que se apoyan en la riqueza semántica y morfosintáctica.
+Los recursos morfosintácticos y semánticos propios de cada lengua para la neología no son separables
+entre sí. En el ejemplo pitaGanaGayk (‘cirujano’), el signiﬁcado de la base verbal pitaGan (‘cortar, destripar,
+operar’) adquiere una nueva acepción por medio de la relación metafórica entre ‘cortar/destripar’ y ‘operar’.
+A la vez que requiere un suﬁjo atributivo que denota ‘una acción que hace repetidamente’ (una profesión).
+Sin embargo, se requiere más investigación en este campo para poder explorar el fenómeno de la extensión
+semántica a nivel morfosintáctico en el uso de aﬁjos.
+Cuadernos de Literatura, 2023, núm. 21, e2106, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Finalmente, el estudio sobre neologismos puede aportar a futuras investigaciones enfocadas en el contacto
+lingüístico información sobre la vitalidad y resistencia de las lenguas minorizadas (como es el caso del qom),
+así como la identiﬁcación de patrones comunes y tendencias de uso que puedan dar cuenta de cambios
+lingüísticos sincrónicos y/o cambios culturales.
+Referencias bibliográficas
+Adelstein, Alicia. (06 de diciembre de 2017). Nuevas palabras para nuevas realidades. Página 12.https://bit.ly/47X
+1mTp
+Avellana, Alicia. (2012). El español en contacto con la lengua toba (qom): fenómenos de transferencia y adquisición
+de segundas lenguas. Forma y Función, 25(1). https://bit.ly/3qXPobA
+Avellana, Alicia y Dante, Patricia. (2013). Algunas observaciones sobre el contacto lingüístico entre el toba (qom)
+y el español en una comunidad del Gran Buenos Aires. En Fernández Garay, Ana; Censabella, Marisa y
+Mavestitti, Marisa (eds.), Lenguas amerindias: contribuciones y perspectivas (pp. 153-162). Buenos Aires, Instituto
+de Lingüística.
+Beiras del Carril, Victoria y Cúneo, Paola. (2019). En qom te lo conté. El cambio de código como índice social en el
+rap qom/toba. Lengua y Migración, (11), 51-72. https://bit.ly/3LaEBl0
+Blanco, Ana. (2021). Préstamos y neologismos: una aproximación tipológica en el contexto del contacto qom-español.
+Anáfora, 2(4), 22-41. https://bit.ly/44GWwqq
+Buckwalter, Alberto y Buckwalter, Louis. (2013 [1980]). Vocabulario Toba. Elkhart, Mennonite Board of Missions.
+Bullock, Bárbara y Toribio, Almeida Jacquelin (eds.). (2009). Cambridge handbooks in linguistics. e Cambridge
+handbook of linguistic code-switching. Cambridge University Press. https://doi.org/10.1017/CBO9780511576
+331
+Censabella, Marisa. (2005). Nominalización derivativa en toba. Anclajes, 9(9), 189-211. https://bit.ly/3sKhs2p
+Coseriu, Eugenio. (1995). El hombre y su lenguaje. Estudios de teoría y metodología lingüística. Madrid, Gredos.
+Cúneo, Paola. (2009). El sistema de género en toba con especial referencia al léxico etnozoológico y etnobotánico.
+Revista Estudios en Ciencias Humanas, 1-17. https://bit.ly/3Z9ybZq
+Cúneo, Paola. (2013). Formación de palabras y clasiﬁcación nominal en el léxico etnobiológico en toba (guaycurú).
+Munich, LINCOM Europa.
+Díaz Hormigo, María Tadea. (2020). Precisiones para una caracterización lingüística de la neología semántica. ELUA,
+(34), 73-94. https://doi.org/10.14198/ELUA2020.34.3
+Fernández Jaén, Jorge. (2014). Principios fundamentales de semántica histórica. Madrid, Arcos Libros
+Hamel, Rainer. (1995). Conﬂictos entre lenguas y derechos lingüísticos: perspectivas de análisis sociolingüístico.
+Alteridades, 5(10), 79-88. https://bit.ly/45YY6Fp
+Haspelmath, Martin y Tadmor, Uri (eds.). (2009). Loanwords in the world’s languages: A comparative handbook. De
+Gruyter Mouton. https://doi.org/10.1515/9783110218442
+Hecht, Ana Carolina. (2010). “Todavía no se hallaron hablar en idioma”. Procesos de socialización lingüística de los niños
+en el barrio toba de Derqui, Argentina. Múnich, Lincom Europa Academic Publications.
+Instituto Nacional de Asuntos Indígenas (INAI). (28 de agosto de 2020). Medidas de prevención en el marco de la
+pandemia del Covid-19. Argentina.gob.ar.https://bit.ly/3sJGPRY
+Instituto Nacional de Estadísticas y Censos (INDEC). Censo 2010. INDEC. https://bit.ly/47ZIoLS
+Lakoﬀ, George. (1987). Cognitive models and prototype theory. En Neisser, Ulric (ed.), Concepts and conceptual
+development: Ecological and intellectual factors in categorization (pp. 63-100). Cambridge, Cambridge University
+Press.
+Martínez, Gustavo. (2013). Educación sanitaria intercultural: Manual de promoción de la salud entre los tobas (qom)
+del Chaco Central. Córdoba, Editorial Universidad Nacional de Córdoba.
+Ana Blanco Pena. NEOLOGISMOS EN LENGUA QOM: UNA APROXIMACIÓN A SUS ASPECTOS FORMALES Y
+SEMÁNTICOS
+PDF generado a partir de XML-JATS4R
+Messineo, Cristina. (2003). Lengua toba (guaycurú). Aspectos gramaticales y discursivos. Munich, Lincom Europa
+Ministerio de Justicia y Derechos Humanos y Secretaría de Derechos Humanos. (2022). Sentencia Napalpí.
+Argentina.gob.ar. https://bitly.ws/TS6v
+Morando, María Agustina. (2021). Los nombres de la máquina: semántica de lo mecánico en el guaraní chaqueño. En
+Córdoba, Lorena; Richard, Nicolas y Franceschi, Zelda (eds.), La misión de la máquina: técnica, extractivismo
+y conversión en las tierras bajas sudamericanas (pp. 185-198) Bononia, Bononia University Press. https://bitly.
+ws/TS7F
+Ojea, Gladys; Cúneo, Paola y Audisio, Cynthia. (16 al 18 de agosto de 2018). ¿Están grabando para qai#otca libro?
+Input bilingüe en poblaciones qom (Chaco, Argentina) [Ponencia]. Encuentro sobre Lenguaje, Cognición e
+Interacción social en la primera infancia. Buenos Aires, Centro Interdisciplinario de Investigaciones en Psicología
+Matemática y Experimental.
+Romero Gualda, María Victoria. (2008). Léxico del español como segunda lengua. Aprendizaje y enseñanza. Madrid,
+Arco.
+Soriano, Cristina. (2012). La metáfora conceptual. En Ibarretxe Antuñano, Iraide y Valenzuela Manzanares, Javier
+(coords.), Lingüística Cognitiva (pp. 87-109) Barcelona, Anthropos.
+Tacconi, Temis y Abrach, Luisina. (2014). Resistencia étnica y creatividad lingüística entre los maká. En Messineo,
+Cristina y Hecht, Carolina (comps.), Lenguas indígenas y lenguas minorizadas. Estudios sobre la diversidad
+(socio)lingüística de la Argentina y países limítrofes (pp. 185-201). Buenos Aires, EUDEBA.
+Vidal, Alejandra y Nercesian, Verónica. (2009). Estudio del léxico wichí (mataco-mataguaya): Aportes al conocimiento
+de algunas situaciones de contacto y desplazamiento lingüístico en el Chaco argentino. Cuadernos Interculturales,
+7(12), 141-158. https://bitly.ws/TS9Y
+Watch Tower Bible and Tract Society of Pennsylvania. (Enero de 1997). ¿Négue#t ra L#onataxanaxac ñi Dios?.
+Testigopi de Jehová. https://www.jw.org/tob/ [JW.ORG]
+Notas
+1 Según las autoras, que recuperan datos de la Encuesta Complementaria de Pueblos Indígenas realizada por el INDEC
+(2004-2005), en la región chaqueña el 78% de las personas que se autorreconoce como qom, habla o entiende la lengua.
+En Buenos Aires, esta cifra desciende al 12%.
+2 Beca Estímulo a las Vocaciones Cientíﬁcas para estudiantes de grado, otorgada por el Consejo Interuniversitario
+Nacional (EVC-CIN). Tema de beca: Préstamos y neologismos en situaciones de contacto lingüístico qom-español:
+estrategias para la denominación de nuevos conceptos. Directora: P. Cúneo (2021-2022).
+3 La autora considera que la novedad en el signiﬁcado en las estrategias neologísticas que implican transferencia semántica
+está relacionada con la designación (extralingüística) del término (Coseriu, 1995). Para su análisis retoma la distinción
+entre designación, signiﬁcado y sentido de Coseriu (1995) quien deﬁne la designación como “(…) la referencia a lo
+extralingüístico como tal, ya se trate de un ‘estado de cosas’ real o de un contenido de pensamiento (…)” (Coseriu, 1995,
+p. 247)
+4 Las deﬁniciones de los autores citados parten de la propuesta de Lakoﬀ (1987) del modelo cognitivo idealizado. En este
+marco, todas las categorías cognitivas poseen “modelos” prototípicos (más concretos, más frecuentes) que conforman
+el concepto más “nuclear”. La propuesta permite reformular la noción de polisemia, ya que para el autor todas las
+palabras poseen una estructura radial donde hay un núcleo (el prototipo) y otros signiﬁcados menos nucleares que
+lo co-orbitan. Por lo tanto, el desplazamiento del signiﬁcado nuclear a uno menos prototípico (más abstracto, menos
+frecuente) permite al individuo aprehender un concepto complejo y abstracto a través de una referencia más nuclear.
+5 Con respecto al qom, se han realizado estudios sobre el contacto con el español (Avellana, 2012; Avellana y Dante, 2013;
+Beiras del Carril y Cúneo, 2019; Blanco, 2021; Ojea, Cúneo y Audisio, 2018). No obstante, estos trabajos no se centran
+en particular en el análisis de neologismos.
+6 Para el uso de la lengua qom en el ámbito jurídico, véase la sentencia del juicio de por la masacre de Napalpí (Ministerio
+de Justicia y Derechos Humanos y Secretaría de Derechos Humanos, 2022).
+7 Abreviaturas: ATR (atributivo); CAU (causativo); DD (determinante demostrativo); DTR (detransitivizador); F
+(femenino); FOC (focalizador); imp (impersonal); INST (instrumental); LOC (locativo); MASC (género masculino);
+NMZ (nominalizador); PL (plural); POS (marcador de poseedor); 2 (segunda persona); 3 (tercera persona).
+Cuadernos de Literatura, 2023, núm. 21, e2106, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+8 El inventario fonológico de la lengua (basado en Messineo 2003, p. 36) y las correspondencias ortográﬁcas que utilizo en
+este trabajo [entre corchetes] se detallan a continuación. Consonantes oclusivas: p, t, t# [ch], k, g, q, G, # [’]; fricativas:
+s, # [sh], # [z]; nasales: m, n, # [ñ]; vibrante simple: # [r/d]; laterales: l, # [ll] (palatal); semiconsonantes: w, y. Vocales:
+i, e, a, o.
+9 Según lo informado por el consultante Ramón Yuriga, en el Chaco es habitual que en la cama se utilice un mosquitero
+que la recubre a ﬁn de evitar la picadura de insectos. A este tipo de mosquitero es al que se lo llama l’ochoaGaki. Según
+nuestro consultante, se llama l’ochaGaki al mosquitero que se utiliza para recubrir el espacio de la cama (el espacio de
+dormir), a ﬁn de evitar la picadura de insectos.
+10 Censabella (2005) señala que existen tres suﬁjos en qom para indicar espacios donde se realizan actividades: -qa , cuando
+al lugar no se le hacen referencias físicas; -la  se usa para objetos chatos, lugares abiertos y sin demarcar y el ya mencionado
+-ki, que reﬁere a espacios delimitados, objetos pequeños, alargados o en vertical.

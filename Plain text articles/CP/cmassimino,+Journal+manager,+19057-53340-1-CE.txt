@@ -1,0 +1,468 @@
+Las obras dentro de las novelas: un híbrido metaficcional 
+Carlos Enrique Serrano
+RESUMEN
+Este artículo resume los puntos más importantes de un análisis comparativo en el cual se interpretan los
+elementos teatrales en dos novelas, Steppenwolf (1927) de Hermann Hesse y The Magus (1965) de
+John Fowles. Desde un marco teórico conformado por conceptos como el metateatro (Abel, 1960), la
+metaficción (Waugh, 1984), el metadrama (Hornby, 1986) y la escritura postmoderna (MacHale, 1987)
+se explora la presencia y las funciones del teatro como  leitmotiv en ambas obras. En particular, se
+definen los puntos de contacto respecto a la forma y función del dramaturgo, del guion, del género
+teatral, de los personajes y los roles, y de las escenas representadas en cada uno de los teatros, con el
+fin de entender las motivaciones, mecanismos, recursos y efectos que genera una obra dentro de una
+novela. Las similitudes dan cuenta de una estructura innovadora que se vale de la autorreferencialidad,
+la intertextualidad y el juego de mundos dentro de mundos para simular la manera cómo los sujetos
+contemporáneos percibimos nuestra propia realidad. 
+ Palabras clave: metateatro, metaficción, postmodernismo, postguerra. 
+ABSTRACT
+This article summarizes the most important points of a comparative analysis that seeks to interpret the
+theatrical elements in two novels, Steppenwolf (1927) by Hermann Hesse and The Magus (1965) by
+John Fowles. Within a theoretical framework that includes concepts such as metatheatre (Abel, 1960),
+metafiction (Waugh, 1984), metadrama (Hornby, 1986) and postmodern writing (McHale, 1987) this
+study explores the presence and functions of theatre as a leitmotiv in both works. Particularly, it defines
+the contact points in terms of the shape and function of the playwright, the script, the genre, the
+characters and roles, and the scenes represented in each of the inserted plays in order to understand the
+motivations, mechanisms, figures of speech and effects that a play within a novel can generate. The
+similarities account for an innovative structure that includes self-reference, intertextuality, and the trick
+of worlds within worlds to simulate the way contemporary subjects perceive their own reality. 
+Keywords: metatheatre, metafiction, postmodernism, postwar 
+Esta obra está bajo una Licencia Creative Commons Atribución – No Comercial – Sin Obra Derivada 4.0 Internacional.
+Dossier- Revista de Culturas y Literaturas Comparadas- Volumen 7, año 2017
+El mundo es un escenario,
+y todos los hombres y mujeres son meros actores,
+tienen sus salidas y sus entradas;
+y un hombre puede representar muchos papeles.
+Como gustéis, William Shakespeare
+La idea de metateatro no es reciente, aunque, en general, es poco conocida. Se puede rastrear lo
+que sería el inicio de lo metateatral en el período barroco, cuya producción dramática se caracterizó por
+la autorreferencialidad y la deconstrucción de los elementos teatrales en la puesta en escena. Obras
+como Hamlet y La vida es sueño son evidencia de ello; los personajes constantemente representan y
+hacen referencia a la condición ficcional del teatro del cual hacen parte, bien sea poniendo sobre el
+escenario sus realidades dramáticas, como ocurre con Hamlet, o a través de la autorreflexión de esa
+condición de irrealidad de la existencia. El efecto del metateatro, aquí, es casi inmediato, pues, al poner
+al descubierto las estructuras subyacentes del teatro, el dramaturgo y los actores enfrentan e interpelan
+a la audiencia, la cual es forzada a pensarse desde sus propias estructuras y dudas existenciales.
+Lionel Abel (1963) es quien primero acota el concepto de metateatro y, justamente, toma como
+ejemplo a Hamlet para caracterizar su definición. Reconoce que el teatro dentro del teatro es el recurso
+metateatral por excelencia, ya que al crear una obra dentro de una obra (como sucede en Hamlet con
+los bufones que representan el asesinato de su padre a manos de Claudio) los personajes pueden
+participar de su propia teatralización y la de sus coprotagonistas, a la vez que son conscientes de la
+condición ficcional que los define. Esto les permite transgredir la ilusión dramática de lo representado y
+romper la cuarta pared, como la llamó Denis Diderot (1758), con el fin de que la audiencia participe de
+la obra teatral y así logre develar los roles, máscaras y posturas que asumimos en la cotidianidad.
+Richard Hornby (1986) propone una clasificación de recursos metadramáticos que se dividen en 5
+tipos: la obra dentro de la obra, la ceremonia dentro de la obra, el rol dentro del rol, la referencia dentro
+del rol y la autorreferencialidad. Para el autor, con estos recursos se busca ironizar a la sociedad, pues
+se pone al descubierto el profundo cinismo detrás de las estructuras, roles y discursos que asumimos a
+conveniencia en nuestra interacción social. Su definición de la función de la obra dentro de la obra
+resume el efecto que esta causa en la audiencia:
+Cuando la visión predominante es que el mundo es de alguna forma ilusorio o falso, entonces la obra
+dentro de la obra se vuelve una metáfora de la vida misma. El hecho de que la obra interna es una ilusión
+obvia (ya que vemos otros personajes viéndola) nos recuerda que la obra que estamos viendo es también
+una ilusión, a pesar de su intensidad y emoción; por extensión, el mundo en el que vivimos, que también
+parece vívido, es al final una farsa1 (Hornby, 45).   
+Esta taxonomía de las diferentes formas y funciones del metateatro responde a la creciente y ya
+arraigada tendencia, iniciada en los cuarenta entre dramaturgos y compañías de teatro, de representar
+obras que rompieran con los esquemas tradicionales del teatro, que superaran la frontera del espacio
+teatral, transgredieran la comprensión del público y cuestionaran la identidad de los personajes y la
+audiencia a través de la autorreferencialidad, como es el caso del Teatro del Absurdo, el Teatro de la
+Crueldad y, en general, el teatro postmoderno que recurre a estos elementos para confrontar al público
+consigo mismo. 
+En la narrativa ocurre algo muy similar con el concepto de metaficción. Patricia Waugh (1984) observa
+cómo esa mayor autoconsciencia del lenguaje, tan característica del pensamiento postmoderno, devela
+el modo como construimos la realidad y, en esa medida, los escritores sacan provecho del argumento
+para jugar con la relación entre ficción y realidad, apelar al lector directamente y romper con la ilusión
+1 Traducción propia del inglés. Del mismo modo, para todas las citas directas en este artículo.
+Dossier- Revista de Culturas y Literaturas Comparadas- Volumen 7, año 2017
+de la historia narrada y, por consiguiente, de la vida misma. Por supuesto, no se trata de una
+coincidencia; la condición postmoderna sedujo a novelistas, dramaturgos y otros artistas con la idea de
+un diálogo y construcción de una obra ante los ojos del lector o audiencia. Los mundos dentro de
+mundos, las obras dentro de obras, los roles dentro de roles, la “encarnación” del escritor o dramaturgo
+al descubierto y así sucesivamente, son una secuencia interminable de espejos enfrentados que se
+proyectan hasta el infinito y representan acertadamente la crisis y condición del sujeto contemporáneo.
+Brian McHale habla del  mise-en-abyme  (14), tomando el concepto del escritor André Breton, para
+explicar la transgresión o superación de los niveles ontológicos dentro de la obra por parte de
+personajes de identidades transmundanas (35) que pueden superar las fronteras textuales y moverse
+entre las capas del mundo dramático o narrativo que los contiene. Este recurso hace de la literatura y el
+teatro una experiencia muy dinámica para el lector o audiencia, quienes se ven desplazados entre las
+“realidades” de las que también participan y se identifican en la angustia y ansiedad producida por la
+incertidumbre y confusión de nuestros tiempos.  
+Como podría esperarse, en esa intensa búsqueda de cómo contar historias dentro de historias es
+posible hallar obras que fusionan el mundo narrativo y dramático para proponer “una obra dentro de
+una novela”.  Steppenwolf de Hermann Hesse y  The Magus de John Fowles son dos novelas de
+postguerra que guardan un parecido, en tanto contienen niveles dramáticos dentro de su estructura
+ontológica  narrativa  y,  además,  nos  presentan  un  par  de  protagonistas  que  desconocen  el
+funcionamiento de tales mundos y son invitados a participar de él. Así, este trabajo explora la manera
+cómo el teatro insertado en una novela logra abrir otras posibilidades narrativas que jueguen con
+diferentes representaciones del ser humano, más allá de los límites que enmarcan un personaje o un rol.
+Se presentan en este artículo las ideas más relevantes provenientes de un estudio comparativo2 cuyo
+marco considera la teoría metateatral y metaficcional (Abel, 1960; Waugh, 1984; Hornby, 1986;
+MacHale, 1987) para reconocer los elementos y niveles teatrales de ambas novelas. El análisis de las
+coincidencias entre las dos obras se centra en los aspectos principales del arte dramático: el dramaturgo
+y director, el género, el guion, los personajes y sus roles, las escenas y sus escenarios, entre otros. 
+Al concebir la idea de un teatro dentro de una novela en el marco de la literatura metaficcional es
+inevitable preguntarse cómo funciona ese doble autor; esa relación entre el novelista y el dramaturgo e
+incluso el narrador. A menudo los escritores postmodernos se muestran directamente al lector, logrando
+un estatus autorreferencial y transgresor que les permite poner al descubierto el proceso mismo de la
+escritura. Fowles, por ejemplo, en el capítulo 13 de su novela La Mujer del Capitán Francés (1969),
+rompe con la ilusión de la historia de Charles y Sarah, para mostrarse a sí mismo e incluso comentar de
+manera crítica su propia obra. Este autor, por lo contrario, decide no ponerse en evidencia en  The
+Magus,  pero sí lo hace Maurice Conchis, el dramaturgo en el interior de su novela. Como bien lo
+describe el protagonista Nicholas Urfe, el comportamiento de Maurice Conchis simula bien el de un
+dramaturgo, pues afirma: “detrás de todo lo que hacía comencé a detectar una clase de dirección teatral,
+de lo planeado y lo ensayado. No me contaba sobre su llegada a Bourani como un hombre cuenta algo
+que por casualidad le sucedió, sino como un dramaturgo cuenta una anécdota cuando la obra lo
+requiere” (Fowles, 111). Las referencias a la función de Maurice Conchis como dramaturgo son
+recurrentes y se hacen explícitas en la forma en la que él controla la acción dramática a lo largo de la
+narración y en su intención de manejar los hilos de la vida de Nicholas Urfe. 
+De la misma forma ocurre en  Steppenwolf, en la que Pablo asume el rol de dramaturgo en
+diferentes escenas de su Teatro Mágico con el único fin de enseñarle a Harry Haller que él mismo
+puede ser el dramaturgo y director de su propia vida. La escena del ajedrez demuestra, con claridad, el
+modo mediante el cual el rol de dramaturgo no es estático o exclusivo de un solo personaje dentro del
+metateatro: “Así como el dramaturgo forma un drama de un puñado de personajes, nosotros lo hacemos
+2 La tesis de maestría escrita por el autor,  intitulada: “Metateatro: formas y funciones en Steppenwolf  y The Magus” 
+(2015)
+Carlos E. Serrano- “Las obras dentro de las novelas: un híbrido metaficcional”
+con las partes desintegradas del yo para formar nuevos grupos, con nuevas interacciones y suspenso y
+nuevas situaciones que son eternamente inagotables” (Hesse 219), sino que es más bien dinámico, ya
+que todos los personajes pueden asumir el rol de director de la obra de sus vidas y la de sus
+coprotagonistas. Esto se corresponde bien con las ideas de Abel sobre la necesidad inherente de los
+personajes en el interior de un metadrama de dramatizar; pero, también, de ser dramatizados por los
+otros (60) y esto no es muy diferente de nuestra necesidad egocentrista de controlar a todos quienes nos
+rodean. Al dotar a los personajes con la facultad de ser los dramaturgos de su propia existencia, se
+alude a la posibilidad que, como seres humanos, tenemos de tomar las riendas de nuestras vidas, por
+fuera de las limitaciones que aparentemente parecen controlarlas, como la religión, la ideología, la ley,
+la doctrina, las convenciones sociales, entre otros. Esto, a su vez, permite que tanto Harry Haller como
+Nicholas Urfe dejen de jugar el papel de mártires de un destino inevitable para que puedan superar la
+teatralización trágica y victimización que se han autoimpuesto y comiencen a explorar otros roles entre
+las  infinitas dimensiones  de su condición -ficcional- de ser humano. Así pues, la superación y
+comprensión  de  lo  que  el  metateatro  propone  en  ambas  novelas  solo  es  posible  cuando  los
+protagonistas entienden que sus vidas son tan ficcionales como sus roles dentro de los teatros de
+Conchis y Pablo, y que depende de ellos empoderarse del guion de su existencia. La transferencia de
+este rol de dios/dramaturgo es la invitación que nos hacen Hesse y Fowles para sobreponernos a la
+desilusión, ansiedad, soledad y ausencia, tan características del sujeto de postguerra.  
+Es  así  como  los  dramaturgos  recurren  a  diferentes  géneros  teatrales  para  confrontar  las
+dimensiones más íntimas de sus protagonistas y desestabilizar su noción de realidad; su propósito es
+exponer a Haller y Urfe a las múltiples y desconocidas posibilidades de su humanidad en todo tipo de
+escenas. Un pacto inicial previo a su participación en los metateatros tiñe a los personajes de un tono
+existencialista y melodramático que introduce una tragedia y que se refleja, por ejemplo, en su
+intención sublime de suicidarse o en su inconformismo e inadaptación frente a la sociedad en la que
+viven para luego verse involucrados en escenas que revisten las características de la comedia, la farsa,
+la sátira, el  burlesque y, en general, de aquellos géneros que se valen de la parodia, la ironía y la
+ridiculización, y en la que ellos se verán representados. Por un lado, el Teatro Mágico de Pablo es,
+predominantemente, un circo gótico, erótico y grotesco que, al mejor estilo del Teatro del Absurdo,
+busca aludir a lo más oculto de Haller, a través de metáforas distorsionadas que le ayuden a deconstruir
+esa noción que tiene de sí mismo. De una manera comparable, el Teatro Psicológico de Conchis se vale
+de imágenes cargadas de subjetividad, de ceremonias sectarias y de reproducciones históricas llenas de
+autorreferencialidad, tan características del teatro de Beckett, Ionesco o Genet y, en general, de lo
+metateatral, cuyo objetivo no es más que el parodiar y confundir a su protagonista. Bien lo explica
+Martin Esslin en su libro The Theatre of the Absurd (1969), cuando sostiene que el Teatro del Absurdo
+es “El esfuerzo del hombre moderno por hacer frente al mundo en el que vive. Este [estilo] busca
+hacerle enfrentar la condición humana tal y como es y liberarlo de las ilusiones que están destinadas a
+causarle la inadaptación y la desilusión” (377). Sin embargo, es importante resaltar el hecho de que las
+escenas  (que  se  explicarán  más  adelante)  de  Steppenwolf y  The  Magus, al  considerarse  como
+explícitamente enmarcadas en lo teatral, no se limitan al extrañamiento del Teatro del Absurdo, sino
+que  además  ofrecen  una  gran  variedad  de  géneros  que,  como  en  un  vaudeville, pasan  de  las
+extravagancias al romance y de la tragedia a lo ritual. 
+Una vez comprendido el funcionamiento transferible del rol de dramaturgo en ambos teatros
+dentro de las novelas y su multiplicidad de géneros, resulta interesante indagar sobre las formas en las
+que se construye el guión dramático o el argumento en Steppenwolf y The Magus. Tanto Hesse como
+Fowles establecen una aparente relación intertextual con  El Tractac del Lobo Estepario, y  Tres
+Corazones, respectivamente. El primero es una vertiginosa y detallada descripción de Harry Haller a
+modo de comentario crítico desde afuera del personaje, quien es deconstruido casi al detalle: 
+Dossier- Revista de Culturas y Literaturas Comparadas- Volumen 7, año 2017
+Ahora, yendo al grano, el Lobo Estepario es una ficción. Cuando Harry siente que él es un hombre lobo,
+y elige constituirse de dos seres hostiles y opuestos, él mismo está haciendo uso de una simplificación
+mitológica. Él no es un hombre lobo en absoluto y si aceptamos sin escrutinio esta mentira que él ha
+inventado para sí mismo, y en la que cree, y tratamos de considerarlo literalmente como un ser de dos
+lados y como Lobo Estepario, por así nombrarlo, es sencillamente con la esperanza de hacerse entender
+de manera más sencilla a través de un engaño, el cual debemos develar como en realidad es (Hesse 65). 
+La lectura del Tractac establece la ruptura y el inicio de Haller como protagonista del Teatro
+Mágico de Pablo, pues genera la duda que le posibilita pensarse por fuera de su rol convencional de
+Lobo Estepario a través de la parodia y ridiculización de sí mismo que, finalmente, logrará convencerlo
+de que en realidad “el hombre es una cebolla hecha de cientos de capas” (Hesse 69). El personaje lee
+una y otra vez el Tractac como si estuviese bajo el influjo de un mago (81), de la misma forma que lo
+haría un actor que se prepara para la escena y acepta el rol que le da un “otro” dramaturgo, aunque no
+esté del todo de acuerdo con el nuevo guion. Pero el argumento, también, se anticipa y construye
+durante las conversaciones que sostienen otros personajes con Haller, como en el caso de Hermine,
+cuando ella le presenta el final trágico del Teatro Mágico: “No lo encontrarás sencillo, pero lo harás.
+Tienes que seguir mi orden y matarme. No te pido más” (126). Aunque, sobre todo, el guion se elabora
+desde la improvisación de los protagonistas que se ven involucrados en diferentes escenas y forzados a
+asumir los roles que les ordene el director. 
+Tres  Corazones  en  The Magus, por su parte, es una supuesta historia griega escrita por
+Theodoritis y narrada por Maurice Conchis a Urfe, en la que el dramaturgo le anticipa parte del
+supuesto guion: “Es sobre dos chicas inglesas, hijas del embajador británico en Atenas, aunque no son
+gemelas en el original, quienes van de vacaciones a una isla griega durante la Primera Guerra Mundial.
+Ellas conocen a un escritor griego –un poeta; él tiene tuberculosis, agonizante... se enamora de cada
+una de ellas y ellas, a su vez, se enamoran de él, y todos quedan destrozados y todo termina, podrás
+imaginártelo” (Fowles 339). 
+ Está muy lejos de ser el verdadero argumento de su teatro. El papel victoriano que asumen Lily
+y Rose, tras el que se ocultan las gemelas coprotagonistas Julie y June, esconde todavía dos roles más
+que transgreden la ficción y llevan al lector y al personaje a otro nivel ontológico, un guion nuevo en el
+que ambos son abandonados. Así, el argumento se va desplazando hacia el interior de los mundos
+dramáticos del Teatro Psicológico para tocar las fronteras del guion narrativo propio de la novela de
+Fowles, al punto que su influencia alcanza el mundo “real” del protagonista, la diégesis principal, por
+fuera del teatro de Conchis. Esto se puede ver, por ejemplo, en el hecho de que el dramaturgo decide
+poner en escena a Alison, la amante de Urfe en Oxford, después de convencerla de fingir un suicidio
+para él, pues, en palabras del dramaturgo: “No hay límites para el metateatro” (Fowles 413). La
+realidad  y la  ficción  se trastocan  y cruzan  constantemente,  sin  que  Urfe,  como  narrador-actor-
+espectador, o incluso el mismo lector, logren ubicarse entre los mundos dentro de mundos de la novela.
+No obstante, así como sucede en Steppenwolf, el guion en The Magus se construye, también, desde las
+voces de sus protagonistas, quienes tienen la libertad de improvisar dentro de los límites que la acción
+dramática impone:
+[Nicholas]: ¿El libreto?
+[Julie]: El libreto es un chiste. Apenas nos dice cuando aparecer y desaparecer, en términos de entradas y
+salidas. El tipo de atmósfera que crea. Algunas veces, líneas.
+[Nicholas]: ¿Así que entonces improvisan?
+[Julie]: Todo el tiempo nos dice que si las cosas no salen como está planeado, no importa; siempre que
+nos mantengamos dentro del desarrollo principal. También implica juego de roles; de qué forma la gente
+se comporta en situaciones que no entiende. (345)
+Carlos E. Serrano- “Las obras dentro de las novelas: un híbrido metaficcional”
+ Nicholas Urfe, al igual que Harry Haller, es el único que desconoce el rumbo que la obra va a
+tomar y se ve obligado a reaccionar ante las inesperadas escenas de la obra de su vida, y por ello
+aparece como el mayor improvisador. En este juego por anticiparse al guion teatral de Conchis,
+Nicholas Urfe busca, entre sus referencias, algún otro guion que pueda semejarse al desarrollo del
+drama en el que se encuentra, por lo que crea una relación intertextual con La Tempestad, en la que
+Conchis es Próspero, Julie es Miranda y Urfe es Ferdinand y Calibán, al mismo tiempo. Esta relación
+se refuerza en las conversaciones  entre los personajes que aluden constantemente a la obra de
+Shakespeare, con lo que se incluyen, también, sus lineamientos al guion metateatral. De esta manera,
+los guiones dramáticos en ambas novelas establecen relaciones hacia adentro y afuera de sus fronteras
+textuales. Es de resaltar el hecho de que, tanto el Tractac del Lobo Estepario como Tres Corazones, no
+existen por fuera de cada una de estas novelas y, por lo tanto, lo que aparenta ser intertextualidad
+resulta, en realidad, una relación metatextual en la que se hacen referencias constantes al guion, su
+construcción  y su carácter ficcional.  Por último,  se puede decir que tanto Hesse como Fowles
+estructuran sus novelas a la manera de un macroguion que les posibilita crear puentes ontológicos entre
+la diégesis principal y las hipodiégesis dramáticas, y cuyo propósito es que los personajes puedan
+transitar de un mundo a otro sin que las novelas pierdan su coherencia textual. 
+Como se ha puesto en evidencia en el análisis hasta aquí realizado, los puntos de contacto entre
+las dos novelas comprenden la transferibilidad y función del rol de dramaturgo; la multiplicidad de
+géneros teatrales que cada una de ellas incluye, en especial aquellos recursos característicos del Teatro
+del Absurdo y, por último, la autorreferencialidad e intertextualidad de su guion. Pero las relaciones
+entre Steppenwolf y The Magus van más allá. Las similitudes, también, se pueden rastrear en la manera
+en que los personajes están delineados y en los roles que ellos deben asumir dentro de cada metateatro.
+Los pares Haller/Urfe, Hermine/Vanessa, y Pablo/Conchis comparten varias características que pueden
+conformar tres tipos de personajes denominados en este trabajo como “el antihéroe existencial”, “la
+diva intelectual” y “el dramaturgo musical”, respectivamente. 
+Haller y Urfe, el primero de estos tipos de personaje, se parecen en su autopercepción trágica,
+en su visión romántica y poética sobre la existencia, en su desprecio por la sociedad en la que viven y
+en su enajenación y negación de la realidad, que se manifiesta en esa supuesta bipartición de la que
+afirman sufrir y que no es más que el conflicto irreconciliable entre lo que creen ser y lo que
+verdaderamente son. Es a través de los metateatros que ambos personajes tienen la posibilidad de
+observarse a sí mismos y hacerse conscientes de la ficción que ellos han hecho de sus propias vidas,
+que no difiere mucho de la ilusión teatral en la que participan. Los personajes, como se ha sugerido, no
+son estáticos, sino que se transforman ante los ojos del lector/audiencia a medida que van mudando de
+rol. Son precisamente los papeles que estos antihéroes intelectuales deben representar el motor de un
+cambio que deconstruye y reconstruye su identidad, entre los que se pueden mencionar algunos como
+el soldado, el poeta, el sapiosexual y el presunto criminal; roles mediante los cuales los dramaturgos
+invitan a los protagonistas a explorarse a sí mismos en la puesta en escena. Sin embargo, este profundo
+involucramiento del antihéroe intelectual solo se hace posible a través de la vulnerabilización y
+sensibilización  de  sus  dos  personalidades  por causa del  amor  romántico  encarnado en “la diva
+intelectual”. 
+La diva intelectual es, posiblemente uno de los personajes más complejos en cada uno de los
+metateatros y está representada por Hermine en Steppenwolf y Vanessa Maxwell en The Magus. La
+función de ellas es crucial en la consecución de los objetivos: deben enamorar a los antihéroes
+existenciales para poder conocer lo más íntimo de su personalidad. Ellas emprenden, como corresponde
+según cada guion, una relación romántica que les facilita conocer a profundidad a sus antagonistas en
+medio de un pacto que se hace explícitamente ficcional, pues ambas se presentan como actrices
+experimentadas que van a desempeñar diferentes papeles en un escenario compartido, muchos de los
+cuales funcionan como espejos en los que el antihéroe se verá representado. Hermine, por ejemplo, es
+el equivalente a Haller en una mujer como él mismo lo reconoce: “Me di cuenta de que era la
+Dossier- Revista de Culturas y Literaturas Comparadas- Volumen 7, año 2017
+insoportable tensión entre la incapacidad de vivir y la incapacidad de morir lo que hacía a la chica
+desconocida, la bella bailarina del Águila Negra, tan importante para mí” (Hesse 120). Más adelante,
+Hermine va a travestirse en Herman, amigo de infancia del antihéroe, con quien Haller, también, se
+siente identificado: “¿Es que acaso tu conocimiento no te revela que la razón por la que te agrado y
+significo tanto para ti es porque soy como una clase de espejo, porque hay algo en mí que te responde y
+te entiende?” (123). Un rol más, la Pierrete negra, funciona como otro espejo, solo que en este caso, a
+través de la apariencia melancólica y nostálgica del mimo, Haller es espectador, partícipe y tema
+central de una parodia que pone sobre el escenario y se burla de su condición trágica de antihéroe
+intelectual. 
+Todavía más interesante es lo que sucede con Vanessa Maxwell en The Magus: sus tres cambios
+de  rol,  Lily-Julie-Vanessa,  marcan  las  vueltas  de  tuerca  más  transgresoras  de  la  estructura  del
+metateatro de Conchis que es, a su vez, la novela de Fowles. Cada una de las máscaras que esta diva se
+quita implica un nuevo desengaño, una autoconsciencia de lo ficcional de su realidad y, por esto, un
+desplazamiento ontológico que transporta al personaje y al lector a un nuevo argumento metaficcional.
+No bastándole a Fowles con esto, hacia el final de la novela, el personaje queda abandonado en un
+mundo extraño y en completo desconocimiento de quién puede en realidad ser la antagonista que le
+rompió el corazón y lo mantuvo engañado durante toda la actuación. Lily, su primer rol, es un truco
+dramático que instaura el pacto inicial mediante el cual la diva va a convencer a Urfe de ya haber
+develado el misterio detrás del Teatro Psicológico de Conchis:
+[Nicholas] “Dime tu nombre”
+[Lily] “¿No te gusta Lily?”
+[Nicholas] “Espléndido, para una mesera victoriana.”
+[Lily] “No es que mi nombre me guste mucho.” (...) “Fui bautizada Julia, pero he sido Julie desde
+entonces.”
+[Nicholas] “¿Julie qué?”
+[Lily] “Holmes” (Fowles, 216)
+Esto le permitirá a la diva mantener en secreto su tercer rol o capa tras la supuesta Julie Holmes,
+quien dice ser una actriz contratada por Conchis para participar de un experimento psicológico teatral.
+El efecto de extrañamiento que genera el descubrimiento del rol detrás de Julie, la doctora Vanessa
+Maxwell, desestabiliza todas las diégesis dramáticas y narrativas que se han construido a lo largo de la
+novela, haciendo que el protagonista y el lector se hagan conscientes de la naturaleza ficcional de lo
+representado en cada ruptura de lo que consideraban la realidad. La diva intelectual funciona entonces
+como mise-en-abyme que, a manera de matrioshka, pone al descubierto un nuevo personaje que oculta
+otro más. Además, este personaje interpreta otros roles en las escenas propuestas por Conchis en las
+que predomina lo autorreferencial, lo onírico, lo fantasioso, lo simbólico y lo ritual. Es por esto que
+Hermine y Vanessa Maxwell son fundamentales en los metateatros de estas dos novelas, pues son las
+encargadas de sacudir las estructuras más profundas de cada uno de los antihéroes intelectuales a través
+de una desilusión amorosa, que simula el desencanto y desesperanza de la irrealidad de sus vidas y que,
+finalmente, cumple el efecto terapéutico del metateatro: una mayor autoconsciencia de la existencia y
+la libertad.
+Del último tipo de personaje, el dramaturgo musical, se ha mencionado su función como
+creador y dueño del metateatro, su estatus autorreferencial como director en cada una de las novelas y
+su objetivo terapéutico para los protagonistas Haller y Urfe. No obstante, se pueden mencionar otros
+puntos de contacto entre Pablo y Conchis, que cumplen funciones importantes en la construcción de los
+mundos  dramáticos  representados  en  cada  obra.  El  rol  predominante  de  estos  dramaturgos  es,
+precisamente, el músico. En Steppenwolf y The Magus, ambos personajes poseen grandes habilidades
+musicales y un cultivado intelecto: cualidades que tanto Haller como Urfe, en su condición de
+Carlos E. Serrano- “Las obras dentro de las novelas: un híbrido metaficcional”
+pequeños burgueses, consideran indispensables para establecer interacción social; mientras Pablo es un
+instrumentista y saxofonista de  jazz, Maurice Conchis hace gala de su virtuosismo en el clavecín
+durante algunas de las escenas de su teatro experimental. El rol de músico también se evidencia en la
+personificación  de  Mozart  que  Pablo  decide  representar  ante  Haller  con  el  fin  de  satirizar  los
+constructos  más  arraigados  de  su  pensamiento.  La  música,  en  ambas  novelas,  tiene  un  efecto
+hipnotizador que atrae el interés de los antihéroes y los hace caer bajo el influjo de estos titiriteros. A su
+vez, este rol se relaciona con otro más que Pablo y Conchis comparten: el mago, mediante el cual los
+antihéroes intelectuales permiten abrirse las puertas de su inconsciente, de lo místico, de la fantasía, de
+lo subjetivo y lo surreal a través del uso de drogas, bebidas, sesiones hipnóticas, carnavales, máscaras y
+ceremonias cargadas de significación y autorreferencialidad, muy similares a las escenas del Teatro del
+Absurdo o el Teatro de la Crueldad. No es fortuito pues que el Teatro Mágico de Pablo tenga tantos
+elementos de lo circense y que Fowles, por ejemplo, establezca una relación intertextual en diferentes
+niveles con el Próspero de Shakespeare, para así dotar de habilidades mágicas a su dramaturgo musical.
+Sin embargo, el punto de comparación más particular que se puede establecer entre las dos
+novelas son las escenas. Aunque podrían esperarse semejanzas en cuanto a las generalidades teatrales
+de  estas  obras  dentro  de  novelas,  considerando,  por  ejemplo,  su  contexto  histórico,  los  estilos
+dramáticos predominantes de la época de producción o sus limitaciones, las coincidencias entre algunas
+de ellas sorprenden en la precisión y similitud de sus detalles y funciones. Un conjunto de escenas que
+tienen gran relevancia en ambas novelas son aquellas que aluden a lo circense; a través de la fantasía
+propia del circo, Pablo y Conchis se dan licencia para representar de manera cómica a sus protagonistas
+y  contrarrestar  su  naturaleza  trágica.  Los  bailes  de  máscaras,  los  disfraces  extravagantes,  las
+ceremonias y obras parodiadas son apenas algunos de los ejemplos mediante los cuales se carnavaliza
+(Bajtín 1979) la vida de los protagonistas. En Steppenwolf, esta condición se ve bien representada en la
+escena “La Domadura del Lobo”, que pone sobre el escenario a un lobo y su domador para ridiculizar
+el conflicto y tensión existente entre las dos partes que conforman a Haller: “Y ahora el lobo mandaba
+y el hombre obedecía. A la voz de mando, el hombre se arrodillaba, sacaba su lengua y rasgaba sus
+ropas con sus afilados dientes. Iba en dos pies o en cuatro, como el lobo se lo ordenara, se hacía el
+humano, se hacía el muerto, se dejaba montar del lobo con el látigo tras de sí” (Hesse 223). En esa
+representación grotesca y exagerada de su bipartición, Haller se hace consciente de lo ridícula que
+resulta esa imagen que tiene de sí mismo vista desde afuera, aunque su participación en la escena no se
+limita al rol de espectador, ya que, a través de lo representado, él se hace también parte de la acción
+dramática. The Magus, por su parte, recurre a la mitología griega y egipcia para satirizar a su personaje
+desde  la  intertextualidad,  con  elementos  circenses  que  tocan  los  estratos  más  sórdidos  de  su
+personalidad y funcionan como invitación a participar de lo representado: 
+Ese falo, la desnudez, la chica desnuda... sabía que tarde o temprano me iban a pedir que también
+participara, sabía que esto era como una iniciación a una aventura mucho más oscura de lo que yo estaba
+preparado a hacer, una sociedad, un culto. No sabía de qué se trataba; donde Miranda no era nada y
+Calibán reinaba. (...) Podría tratar de conformarme con ser espectador, permitir que estos incidentes
+extraños pasaran frente a mí como cuando uno se sienta en un cine y deja que la película fluya. Pero
+incluso al pensar aquello, sabía que era una mala analogía. La gente no construye cines para un solo
+espectador, al menos que tengan la intención de usarlo con un propósito especial (Fowles 188).    
+En esta escena en la que participan Apolo, una ninfa, un sátiro y Artemis, Conchis busca
+representar tanto a los protagonistas de su Teatro Psicológico como a las situaciones que están a punto
+de enfrentar. Más allá de lo explícitamente sexual de la escena, la dicotomía apolíneo/dionisiaco que
+caracteriza a la personalidad de Urfe se encarna en Apolo y el sátiro a la vez, en donde la ninfa es la
+diva intelectual y Artemis, como protectora de la virginidad, está representada en Conchis. La relación
+trasciende aún más por la forma como esta reproducción mitológica alude, también, a los personajes en
+Dossier- Revista de Culturas y Literaturas Comparadas- Volumen 7, año 2017
+La Tempestad, con lo que se consigue, en última instancia, una parodia de la parodia de la parodia de
+Urfe. El efecto es similar a lo que ocurre con Haller, solo que a un nivel más inconsciente. 
+Otro conjunto de escenas en Steppenwolf y The Magus representa el mundo onírico para develar
+las capas más profundas de las psiquis de ambos protagonistas. De la misma forma que el Teatro del
+Absurdo se vale de imágenes abstractas y simbólicas para trastornar el entendimiento de la audiencia,
+los dramaturgos musicales recurren a los sueños y su significación para poner sobre el escenario
+representaciones de las dimensiones más privadas y ocultas de estos antihéroes. Es así como en la
+novela de Hesse, por ejemplo, Hermine induce una hipnosis en Haller, quien sueña ser un reportero
+encargado de entrevistar a su muy admirado Goethe. El distanciamiento producido por este nuevo rol
+hace posible que Haller no se involucre de manera íntima con el escritor, permitiéndole asumir una
+posición objetiva frente a él. Sin embargo, las críticas hacia esta versión cómica de Goethe no son más
+que autorreproches que instauran la necesidad de un cambio en el protagonista. El sueño es inducido,
+también, en  The Magus, mediante una sesión hipnótica dirigida por Conchis y cuyo propósito es
+conectar a Urfe con lo más esencial de su existencia, por fuera de los discursos sociales que sesgan su
+autopercepción: “Comencé a percibir una sensación de progreso, que me estaba transformando, como
+una fuente cambia su rumbo a causa del viento; un remolino en el agua. El viento y la luz comenzaron
+a ser secundarias, caminos al estado presente, este estado sin dimensiones o sensaciones; consciencia
+pura de ser. O quizá esto sea un solipsismo; simplemente pura consciencia (Fowles 243). Una vez más,
+a través de la ficción implícita del mundo de los sueños, tanto Hermine como Conchis buscan dotar a
+los protagonistas con un sentido nuevo de la realidad que les haga más conscientes de su verdadera
+existencia. 
+Además de lo circense y onírico, estas dos novelas también incluyen la historia dentro de sus
+guiones metateatrales. El contexto histórico es fundamental para entender el marco que caracteriza la
+crisis, la ansiedad y la incertidumbre de los personajes. Entre las referencias históricas que se incluyen,
+las de mayor relevancia reproducen escenas de la Primera y Segunda Guerra Mundial, en las que, como
+se ha dicho antes, tanto Haller como Urfe asumen el rol de soldados en medio del conflicto. Si bien la
+alusión a la Primera Guerra Mundial en Steppenwolf no es directa, parte de sus elementos; pero, sobre
+todo, la manera como esta determina al sujeto contemporáneo se hacen evidentes: los efectos de una
+guerra deshumanizante que fractura el sentido de la vida y exalta los valores individuales: 
+Había una guerra, una guerra violenta, genuina y favorable, en la cual no había preocupación alguna por
+el Kaiser o por la república, por fronteras, banderas y colores o cualquier otra cuestión igualmente
+decorativa y teatral, un completo sinsentido en el fondo; sino una guerra en la que aquel a quien le
+faltaba el aire para respirar y ya no consideraba la vida muy agradable, manifestaba abiertamente su
+descontento y se esforzaba por preparar los modos para la destrucción total de esta civilización nuestra,
+hecha de hierro fundido (Hesse 207).  
+En cuanto a la novela de Fowles, la reproducción de escenas de la Segunda Guerra Mundial se
+hace explícita y fiel a los hechos históricos. La puesta en escena, al estilo del realismo épico de Brecht,
+reconstruye la violencia y humillación de la que son objeto tanto víctimas como victimarios durante la
+guerra, además de que proporciona un revisionismo histórico que le da voz a lo subalterno. Las escenas
+de guerra generan un fuerte extrañamiento en el personaje, quien es transportado a un nuevo guión y ve
+cómo la realidad y la ficción se confunden y trastocan constantemente: “Otro cuerpo, no militar,
+apareció a la vista (...) Mientras se acercaba a mí vi y tuve una fuerte sensación de que la mascarada se
+estaba saliendo de control, que él estaba descalzo. Su trastabillar, su caminar cuidadoso era real, no
+actuado” (384). Con lo cual, Conchis da una lección más a Urfe sobre los alcances y límites de su
+libertad. Así, ambas novelas permiten al lector comprender el modo en que los efectos de la guerra
+determinan los constructos sociales que sus protagonistas encarnan a través de los roles y reacciones
+que cada uno de ellos asume en estas escenas. 
+Carlos E. Serrano- “Las obras dentro de las novelas: un híbrido metaficcional”
+Por último, pero no por eso menos importante, el juicio-ceremonia resulta la comparación más
+relevante en cuanto a las escenas dramáticas insertadas en las dos novelas. Con ellas se marca la
+expulsión de Haller y Urfe de los teatros en los que actuaron y se establece el desenlace en ambas
+historias. Cada una de ellas adopta un carácter ceremonial mediante el cual se ritualiza la transición de
+los  antihéroes  en  ese  antes  y  después  de  su  experiencia  metateatral.  La  atmósfera  es
+predominantemente mortuoria, pues en ellas se incluyen suicidios, féretros, elementos litúrgicos y
+sectarios, entre otros, que aluden directa e indirectamente a la muerte simbólica del protagonista. Al
+mismo  tiempo,  estas  escenas  funcionan  como  juicios  durante  los  cuales  los  antihéroes  son
+deconstruidos ante un tribunal y se les sentencia sin consideración alguna:
+Caballeros, frente a ustedes está Harry Haller, acusado y encontrado culpable de malversación deliberada
+de nuestro Teatro Mágico. Haller no solo ha insultado su majestad el arte al confundir nuestra hermosa
+galería de imágenes con la denominada realidad y apuñalar hasta la muerte el reflejo de una chica con el
+reflejo de un cuchillo; además, él ha manifestado la intención de usar nuestro teatro como mecanismo de
+suicidio y mostrarse desprovisto de humor (Hesse 245). 
+De una manera similar va a ser acusado Nicholas Urfe, solo que por cargos diferentes. La
+sentencia presentada en esta escena es el producto de un minucioso análisis psicológico llevado a cabo
+por los miembros de la sociedad de doctores bajo el mando de Conchis, que resultan ser los mismos
+actores de su teatro. Allí se encuentra culpable a Urfe de pertenecer a una sociedad tecnoburguesa sin
+fundamentos  que justifiquen su existencia. De él  también se dice que es  un introvertido  semi-
+intelectual, autoerótico y con un complejo de Edipo no resuelto, definiciones que representan bien el
+devenir del protagonista a lo largo de la obra. Estas escenas en ambas novelas están llenas de
+autorreferencialidad en el hecho de que le hablan al personaje sobre sí mismo, se ponen al descubierto
+los personajes escondidos tras los roles y se desenmascaran los propósitos últimos de cada metateatro.  
+A manera de resumen, este artículo ha presentado una interpretación general de Steppenwolf y
+The Magus desde una visión metateatral. Hay, todavía, más hallazgos que se pueden consultar en el
+trabajo que motivó esta comparación y que profundizan en la presencia de lo dramático como leitmotiv
+en estas dos novelas. En primer lugar, es importante mencionar que el insertar una obra dentro de una
+novela le da la posibilidad a Hesse y Fowles de construir un doble discurso que manifiesta la dimensión
+más psicológica de los protagonistas en la narrativa; pero que, al mismo tiempo, deconstruye ese
+discurso en lo teatral. Esto, a su vez, desplaza al lector entre dos géneros que ofrecen diferentes
+dimensiones  de  los  personajes  y  trastornan  la  dinámica  entre  los  roles  de
+lector/espectador/narrador/actor. Este doble discurso es necesario para dotar de significado una puesta
+en escena que, por su metateatralidad, alude solamente al protagonista principal. Sin una novela que
+enmarque la obra de teatro, sería imposible, para el lector, dilucidar los significados representados en
+cada una de las escenas. Además, la polifonía y los procesos de construcción identitaria en el interior de
+las novelas resultan posibles en la inclusión de roles que los personajes deben representar y que
+sugieren esa proyección de múltiples identidades que conforman la condición humana. Posiblemente,
+sea esta la mayor lección que ambos metateatros quieren enseñar: el hombre se autoimpone las
+fronteras de su personalidad en vez de desplegar su identidad ilimitadamente. Para finalizar, estas dos
+novelas se caracterizan por la recurrencia de elementos propios de la metaficción y el metateatro, como
+lo son la autorreferencialidad y la intertextualidad, para poner al descubierto los mecanismos detrás de
+la escritura y resaltar su carácter ficcional, que a la vez funciona como una invitación a reflexionar
+sobre las tensiones entre la ficción y la realidad del sujeto postmoderno.  
+Bibliografía
+Abel, Lionel. Tragedy and Metatheatre: Essays on Dramatic Form. New York: Hill and Wang, 1963
+Dossier- Revista de Culturas y Literaturas Comparadas- Volumen 7, año 2017
+Esslin, Martin. The Theatre of the Absurd. New York. Anchor Books Doubleday & Company; Inc.,
+1969
+Fowles, John. The Magus. New York: Laurel Book, 1965
+Hesse, Hermann. Steppenwolf. New York: Bantam Book, 1929
+Hornby, Richard. Drama, Metadrama and Perception. Lewisburg: Bucknell University Press, 1986
+McHale, Brian. Postmodernist Fiction. London: Routledge, 1987
+Waugh, Patricia. Metafiction. London: Routledge, 1984
+Fecha de recepción: 15/09/2017 
+Fecha de aceptación: 21/11/2017 

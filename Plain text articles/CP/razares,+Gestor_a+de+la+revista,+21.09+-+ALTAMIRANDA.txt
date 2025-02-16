@@ -1,0 +1,512 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN LENGUAS DE LA FAMILIA
+MATAGUAYA
+Analysis of Morphological Causative Constructions in
+Languages of the Mataguayan Family
+Altamiranda López, Camila del Huerto; Leiva, María Belén
+ Camila del Huerto Altamiranda López *
+c15@live.com.ar
+Universidad Nacional del Nordeste, Argentina
+ María Belén Leiva **
+beleiva_96@hotmail.com
+Universidad Nacional del Nordeste, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 21, e2109, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 30/06/23
+Aprobación: 26/07/23
+URL: http://portal.amelica.org/ameli/journal/785/7854257006/
+DOI: https://doi.org/10.30972/clt.0216895
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: Este trabajo se propone analizar las construcciones
+causativas en lenguas de la familia mataguaya: chorote, wichí,
+maká y nivaclé, desde una perspectiva tipológico funcional.
+El objetivo del análisis es comparar los distintos mecanismos
+morfológicos de causativización de estas lenguas y establecer
+las regularidades que presentan. Las construcciones causativas
+morfológicas en la familia mataguaya se realizan a partir de
+suﬁjos, los cuales, desde un punto de vista semántico, se dividen
+en dos grupos: las formas en -t y las formas en -n. Algunos autores
+vinculan a las primeras con la noción de causación directa, y
+a las segundas con la de causación indirecta. Por otro lado,
+en las lenguas mataguayas la dirección de la derivación en el
+proceso de causativización morfológica parece tender a formarse
+del intransitivo al causativo, siendo la contraparte causativa la
+que posee mayor material morfológico.
+Palabras clave: causativización 
+morfológica, 
+derivación
+causativa, causación directa, causación indirecta, familia
+mataguaya.
+Abstract: is paper analyzes the causative constructions in
+languages of the Mataguayan family: Chorote, Wichí, Maka and
+Nivaclé, from a functional typological perspective. e main
+goal is to compare the diﬀerent morphological mechanisms of
+causativization of these languages and to establish the regularities
+that they present. e morphological causative constructions
+in the Mataguayan family are made from suﬃxes, which, from
+a semantic point of view, are divided into two groups: forms
+in -t and forms in -n. Some authors link the former with
+the notion of direct causation, and the latter with that of
+indirect causation. In Mataguayan languages, the direction of
+derivation in the process of morphological causativization seems
+to tend to be formed from the intransitive to the causative,
+with the causative counterpart being the one with the largest
+morphological material.
+Keywords: morphological causativization, causative derivation,
+direct causation, indirect causation, mataguayan family.
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Qanmit da lataxac nahua na’aqtaqa chegaqaiguilo añi namo mataguayo (título en qom)
+Titetsan mak toj tolhejlho Morfología (yome lhakhey wet mak iñhoj) ihi anahil Mataguaya (título en wichí)
+Na>paguinaxac quena no>ueenatec morfológicas quena>ma na’qaatqaipi quena> ni>ic mataguaya (título en moqoit)
+1. Introducción
+El presente trabajo busca comparar los mecanismos morfológicos de causativización en lenguas de la
+familia mataguaya (maká, nivaclé, chorote y wichí). De este modo describimos las similitudes y diferencias
+entre las mismas. El análisis se realizará desde la perspectiva tipológico funcional, la cual, de acuerdo
+con Comrie (1989) y Givón (2001), considera que los recursos formales que utiliza una lengua para
+codiﬁcar determinadas nociones, no pueden ser analizados independientemente de los factores semánticos,
+pragmáticos y discursivos que motivan su estructura.
+El corpus analizado está compuesto por las gramáticas del maká realizadas por Gerzenstein (1994) y
+Tacconi (2015), y por los artículos que reﬁeren a las construcciones causativas (Gerzenstein, 2001; Tacconi,
+2016); la gramática del chorote (Carol, 2011) más un artículo especíﬁco sobre causativos (Carol, 2009); las
+gramáticas del nivaclé (Stell, 1987; Fabre, 2016), y del wichí (Terraza, 2009; Nercesian, 2011), como así
+también el artículo especíﬁco de las construcciones causativas (Vidal y Nercesian, 2005).
+1.1. Marco teorico-metodológico
+De acuerdo con Comrie (1989, p. 86), el término valencia se corresponde con el número y clase de
+argumentos que puede tomar un verbo. La valencia de un verbo puede ser descrita en términos de: roles
+semánticos, roles pragmáticos y relaciones gramaticales. En cuanto a las relaciones gramaticales (o sintácticas),
+desde esta perspectiva, se considera que no se relacionan necesariamente con los roles prototípicos de agente
+y paciente, sino que pueden ser concebidas más bien como haces de rasgos semánticos. Así, los argumentos
+nucleares se deﬁnen como S, argumento único de una cláusula intransitiva, A, argumento más parecido al
+agente de una cláusula transitiva, y P, argumento más parecido al paciente de una cláusula transitiva. Comrie
+(1989, p. 162) sostiene que la ventaja de recurrir a las denominaciones A y P, en lugar de los términos agente
+y paciente, es que se puede continuar utilizándolos incluso cuando se traspasan las situaciones transitivas
+prototípicas.
+Notas de autor
+*
+Camila del Huerto Altamiranda es estudiante avanzada del Profesorado y la Licenciatura en Letras de la Universidad Nacional del Nordeste
+(UNNE). Durante el año 2019 realizó una pasantía en la materia Lenguas indígenas y de inmigración habladas en el NEA de la carrera Licenciatura
+en Gestión y Desarrollo Cultural en la Facultad de Artes, Diseño y Ciencias de la Cultura (FADyCC - UNNE) la cual tenía como tema el análisis
+comparativo de construcciones causativas morfológicas en dos lenguas de la familia mataguaya: maká y chorote. Durante el 2020 desarrolló una beca
+de investigación otorgada por el Consejo Interuniversitario Nacional (CIN) cuyo tema era el análisis comparativo de los suﬁjos aplicativos locativos
+y direccionales en lenguas de la familia Guaycurú.
+**
+María Belén Leiva es estudiante avanzada del Profesorado y la Licenciatura en Letras de la Universidad Nacional del Nordeste (UNNE). Durante su
+formación en la investigación se enfocó en el análisis de lenguas de las familias mataguaya y guaycurú, particularmente en las construcciones causativas
+y mecanismos morfológicos de degradación del agente. Realizó dos pasantías en la asignatura Lenguas indígenas y de inmigración habladas en el NEA
+de la carrera Licenciatura en Gestión y Desarrollo Cultural de la Facultad de Artes, Diseño y Ciencias de la Cultura (FADyCC - UNNE). La primera
+se llevó a cabo en el 2019 con el tema: “Causativos morfológicos en nivaclé (mataguaya)”. La segunda, en 2020, sobre: “Causativos morfológicos en
+wichí”. Ese mismo año también desarrolló una beca de pregrado cuyo tema era “Análisis comparativo de los mecanismos morfológicos de degradación
+del agente en mocoví y variedades de toba (ﬂia. guaycurú)”.
+Camila del Huerto Altamiranda López, et al. ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN ...
+PDF generado a partir de XML-JATS4R
+De acuerdo con Song (2013, p. 1), las construcciones causativas son expresiones lingüísticas que denotan
+una situación compleja compuesta por dos eventos. El primero, donde un causante hace o inicia algo, y el
+segundo, donde un causado realiza una acción o sufre un cambio de estado fruto de la acción del causante.
+Los verbos causativos derivados morfológicamente pueden formarse bien sea sobre verbos intransitivos o
+sobre verbos transitivos. La incorporación de un causativo mediante aﬁjación en una cláusula intransitiva,
+donde solo se encuentra la función S, provoca la aparición de un argumento en función A (causante) y el
+argumento en función S pasa a ser P (causado). Por otro lado, en las cláusulas transitivas los aﬁjos causativos
+dan lugar a la reasignación de las funciones de A y P. De esta manera se puede ver que las construcciones
+causativas alteran la estructura argumental del verbo original de la cláusula, al incorporar un nuevo argumento
+con función A.
+De acuerdo con Comrie (1989, p. 244), las construcciones causativas se clasiﬁcan en léxicas, morfológicas y
+sintácticas (o analíticas). A su vez, otro parámetro formal que resulta pertinente al momento de comparar las
+construcciones causativas, tiene que ver con el grado de cercanía entre la causa (bien sea una persona, una cosa
+o una fuerza) y el efecto (la situación resultante). Desde esta perspectiva se considera que a mayor cercanía
+entre la causa y el efecto, una lengua utilizará una forma más sintética (morfológica) que indica una causación
+directa, y a menor cercanía, una forma más analítica que implique una causación indirecta.
+En este sentido, Shibatani y Pardeshi (2002) consideran la causación directa como aquella que involucra un
+causante agente y un causado paciente que comparten las mismas coordenadas espacio-temporales, es decir,
+la causa y el efecto ocurren en el mismo espacio y tiempo. La causación indirecta, en cambio, implica dos
+participantes agentes: el causante y el causado, que pueden no compartir tales coordenadas. Por otra parte,
+los mismos autores proponen que más que dos tipos de causación (directa e indirecta) existe un continuo
+entre los dos extremos. Esta perspectiva permite explicar los casos intermedios. Así, en un extremo se sitúa la
+causación directa donde el causante actúa directamente sobre el causado; en el otro, la causación indirecta,
+donde existe una diferencia espacio-temporal entre la causa y el evento causado; y en el centro de la escala se
+encuentra lo que Shibatani y Pardeshi (2002, p. 96) denominan “causación asociativa”, en la que el causante
+ayuda a llevar a cabo el evento, bien sea asistiendo al causado o realizando la acción de manera conjunta.
+Por otro lado, se pretende abordar la relación asimétrica entre formas básicas y formas derivadas. En este
+sentido seguimos lo planteado por Haspelmath (1993) en lo que respecta a la dirección de la derivación
+y como esto deﬁne las diversas formas de expresar la oposición semántica incoativa y la causativa. En este
+sentido, existen tres tipos formales de alternancias incoativa/causativa: la alternancia causativa, en donde
+el verbo incoativo es básico y el verbo causativo es el derivado; la alternancia anticausativa donde el verbo
+causativo es básico y el verbo incoativo es derivado; y las alternancias u oposiciones no dirigidas en donde ni
+el incoativo ni el causativo derivan uno de otro.
+En lo que respecta a la metodología de trabajo utilizada para este análisis, se realizó una lectura y ﬁchaje
+de las gramáticas de cada una de las lenguas, como así también de los artículos referidos al tema en especíﬁco.
+El proceso de sistematización de los datos consistió en tomar todos los morfemas causativos registrados por
+los autores como así también los ejemplos que brindan de cada uno de ellos. De esta manera, por cada uno
+de los suﬁjos que componen el paradigma de causativos en cada lengua, se seleccionó un ejemplo o dos que
+muestren el accionar del causativo. Por ello se incluye, además del verbo causativizado, su contraparte no
+causativa para poder evidenciar el cambio en la valencia del verbo y el impacto en la estructura argumental de
+la cláusula. Esto requirió realizar una búsqueda exhaustiva en las gramáticas de las contrapartes intransitivas
+de las construcciones causativizadas, como así también de los verbos en su forma básica para dar cuenta del
+proceso derivacional.
+Por otro lado, dado que las gramáticas fueron realizadas no solo por distintos autores sino también a partir
+de enfoques divergentes, la forma de glosar los morfemas y el metalenguaje varía considerablemente. Por ello,
+a los ﬁnes de conservar un metalenguaje común a todas las lenguas, a lo largo del presente artículo se tomaron
+una serie de decisiones para facilitar la comparación translingüística. Las mismas consistieron en modiﬁcar,
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+en ciertos casos, la forma de glosar los términos en los ejemplos, para lograr establecer puntos de comparación
+sólidos y que a su vez el análisis comparativo que aquí se propone resulte más claro.
+1.2. Causativos morfológicos en la familia mataguaya
+En las cuatro lenguas de la familia mataguaya, los causativos morfológicos son suﬁjos a los que los autores
+consultados agrupan en dos clases: las formas en -t y las formas en -n. A su vez algunos de ellos (Tacconi, 2015;
+Fabre, 2016; Carol, 2011) consideran que las primeras indican causación directa y las segundas causación
+indirecta. De acuerdo con Tacconi (2015), en maká las formas en -t seleccionan verbos y lexemas atributivos
+que indican estado y que, por lo tanto, tienen sujeto paciente. Estas formas indican causación directa, en la
+que el causante agente es el instigador o provocador de un estado sobre el causado paciente. Así, en el ejemplo
+(1) el suﬁjo causativo -het[1](alomorfo del suﬁjo -t) permite incorporar un causante directo, lo cual se observa
+en el cambio del índice pronominal donde el preﬁjo de primera persona S (1a) cambia en (1b) por el preﬁjo
+tsi- el cual codiﬁca la tercera persona en función de A y la primera persona en función de P.1
+La causación indirecta en maká se expresa mediante las formas en -n, las cuales, de acuerdo con Tacconi
+(2015) se suﬁjan a verbos que semánticamente expresan acciones que requieren un agente. En este sentido
+demandan dos participantes agentes: el causante que instiga la acción y el causado que la realiza. El ejemplo
+(2b) muestra al suﬁjo causativo -hinen junto al verbo iii ‘trenzar’; este permite la incorporación del causante
+a la cláusula, el cual también es codiﬁcado en el verbo mediante el preﬁjo ts- ‘Él/ella me’.
+Según plantea Fabre (2016, p. 306), en nivaclé la causación directa se corresponde con los suﬁjos causativos
+-xat y -nat y sus respectivos alomorfos. Así en (3a) el verbo etse ‘estar borracho/ emborracharse’ es intransitivo.
+Posee dos marcas, una es el preﬁjo y- , el cual codiﬁca la tercera persona S, y la otra es un suﬁjo ligado
+al aplicativo instrumental -sh. En (3b) se muestra la contraparte causativizada mediante el suﬁjo -t, el
+cual habilita la incorporación del causante codiﬁcado por el preﬁjo qu’-. Este preﬁjo pertenece a la quinta
+conjugación e indica la primera persona singular A y la tercera persona singular P.
+Camila del Huerto Altamiranda López, et al. ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN ...
+PDF generado a partir de XML-JATS4R
+El suﬁjo causativo t- señala causación directa, dado que el instigador-agente qu’- ‘yo’ presenta mayor
+coacción sobre la tercera persona, ya que este último (el causado) no eligió emborracharse sino que lo
+experimentó de manera pasiva.
+Por otro lado, Fabre (2016, p. 306) propone que el uso del causativo -xan tiende a indicar causación
+indirecta. De esta manera en (4a) el verbo asinô-i ‘hablar/conversar’ es el núcleo de una cláusula intransitiva,
+mientras que el preﬁjo t- indica tercera persona singular S. En (4b) se muestra el mismo verbo pero
+causativizado mediante el suﬁjo -xan el cual incorpora un agente externo a la cláusula. Así la nueva oración
+es transitiva; posee dos argumentos A y P codiﬁcados ambos mediante el preﬁjo ts- (perteneciente a la quinta
+conjugación) el cual indica la tercera persona singular A y la primera persona singular P. El suﬁjo -xan en
+(4b) incorpora un causante indirecto, en tanto que la tercera persona (el causante) instiga la acción pero es
+la primera persona quien la realiza efectivamente. Así, tsasinôyan ‘él me hace hablar’, es una acción que la
+primera persona singular efectúa deliberadamente, es decir, tiene un alto grado de control sobre su propia
+voluntad de hablar o no.
+Carol (2009) plantea que en chorote las contrapartes no causativas de los causativos directos son
+típicamente estados y logros que denotan movimiento dirigido. En el ejemplo (5b) se observa la
+incorporación del suﬁjo causativo -jyet (alomorfo del suﬁjo -jat) el cual introduce un causante directo a la
+cláusula.
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Respecto al cambio en el índice pronominal Carol (2011) explica que los verbos intransitivos internamente
+causados (aquellos en los que su único participante nuclear S es el iniciador o responsable de que la
+eventualidad ocurra) presentan regularmente marcas idénticas a las que reﬁeren al argumento A de un verbo
+transitivo. A esta clase de verbos la denomina SA , mientras que a los verbos intransitivos que reciben marcas
+idénticas a las que reﬁeren al argumento P de un verbo transitivo, los denomina SO. En este sentido los
+causativos directos se construyen generalmente sobre bases pertenecientes a la clase SO, aunque existen
+algunas excepciones. Los suﬁjos causativos indirectos en chorote también añaden un argumento externo a
+una base intransitiva, solo que el nuevo participante no es la causa inmediata de la eventualidad. En el ejemplo
+(6b) el suﬁjo causativo -jyen (alomorfo de -jan) permite la incorporación del causante (Pedro); sin embargo,
+este no es quien realiza la acción efectivamente, si no el causado (Juan). Carol (2011) plantea que el causativo
+indirecto se forma a partir de bases instransitivas pertenecientes a la clase SA, aunque también se documenta
+esporádicamente sobre bases SO.
+Para el wichí las autoras Terraza (2009) y Nercesian (2011) hacen las siguientes consideraciones
+semánticas respecto a los suﬁjos causativos. Terraza trabaja con la variedad de wichí en Rivadavia, Salta;
+de acuerdo con ella, los causativos morfológicos en wichí son dos: hat- y yen-. El causativo -hat es menos
+productivo, se caracteriza porque los causados resultantes de su adición presentan cambios de estado y mayor
+grado de afectación, y por lo tanto menos control y volición. En (7a) el verbo intransitivo toy ‘desaparecer’
+presenta el preﬁjo ta- que codiﬁca al argumento en función de S. En (7b) la cláusula se causativiza mediante
+el suﬁjo -hat, lo cual provoca el cambio en la marca de persona por el preﬁjo i- que codiﬁca a la tercera persona
+A, mientras que la-tes codiﬁca a P.
+Camila del Huerto Altamiranda López, et al. ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN ...
+PDF generado a partir de XML-JATS4R
+El causativo -yen de acuerdo con lo que propone Terraza (2009, p. 209) es el suﬁjo más productivo. En
+las construcciones que toman el suﬁjo -yen, generalmente el causado actúa (trabaja, bebe, escucha) como
+resultado del evento provocado por el causante. En (8a) se presenta una cláusula intransitiva con el verbo
+kyem ‘trabajar’. En (8b) se incorpora el suﬁjo causativo -yen, y la marca de persona cambia por el preﬁjo  i-
+que codiﬁca la tercera persona singular A, mientras que atsinha ‘mujer’ es el argumento en función de P.
+A partir de la aparición del suﬁjo causativo -yen, la cláusula se transitiviza, y permite la incorporación del
+agente-causante-externo codiﬁcado mediante i-. La construcción es causativa porque el agente (externo) ‘él/
+ella’ es el causante del evento, es el que hace trabajar a las mujeres, y a la vez se entiende que ‘ellas’ son las que
+efectúan la acción. Esto es que aunque el otro las incite a trabajar, ellas tienen la decisión y cuentan con su
+propia voluntad de hacerlo o no.
+Por otro lado, Nercesian (2011) analiza la variedad de wichí en Chaco y Formosa y propone que el
+causativo -hat se combina con verbos no-agentivos que expresan estados y cambios de estado no-causativos,
+es decir que los sujetos pacientes no tienen control, ni agencia. Pocos son los verbos que derivan causativos
+mediante este suﬁjo. En (9) vemos una cláusula que se transitivizó mediante el suﬁjo causativo -hat unido al
+verbo nek ‘levantarse’. El causativo habilita la incorporación de la primera persona (A) la cual lleva a cabo la
+acción que expresa el verbo, mientras que -‘am codiﬁca P, el argumento afectado por la misma .
+De acuerdo con Nercesian (2011), el causativo -yen es altamente productivo y se puede combinar
+con diferentes clases de verbos. Este suﬁjo, por un lado, selecciona verbos inherentemente agentivos que
+se caracterizan por ser verbos de actividad (es decir, aquellos que son actantes, instigadores, volitivos y
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+controladores) y por otro lado, los verbos no agentivos, es decir, los verbos de estados (con sujetos pacientes,
+no instigadores y sin control). El ejemplo (10) es una construcción causativa dado que al verbo ischeh se
+le suﬁja el causativo -yen volviendo transitiva la cláusula. A su vez, el preﬁjo la- (segunda persona singular)
+codiﬁca el argumento en función de A e introduce a la cláusula un causante que, aunque posee control, el
+causado aún tiene una mayor agencia y puede elegir de manera voluntaria su accionar.
+Por último, resulta interesante considerar que las lenguas maká y nivaclé presentan la posibilidad de
+codiﬁcar tanto A como P en un mismo morfema pormanteau. En este sentido, la mayoría de los ejemplos que
+incluimos en nivaclé presentan preﬁjos de este tipo, debido a que en esta lengua los causativos se forman con
+mayor frecuencia a partir de la cuarta y quinta conjugación. Esta última es de alineamiento jerárquico inverso,
+y los preﬁjos personales que le corresponden codiﬁcan tanto A como P. La codiﬁcación de los argumentos
+de esta manera responde a la jerarquía de persona: 1/ 1INCL >2 <3. Preﬁjos de este tipo se observan en (3b)
+donde aparece el preﬁjo qu’-, o en el ejemplo (4b) donde ocurre el preﬁjo ts-. El maká presenta también un
+conjunto de preﬁjos denominados “birreferenciales” por Tacconi (2016, p. 97), los cuales codiﬁcan también
+ambos argumentos. Uno de estos preﬁjos (tsi-) se observa en el ejemplo (1b). Sin embargo el wichí y el
+chorote no parecen presentar esta posibilidad, ya que en ambas lenguas A y P se codiﬁcan mediante morfemas
+diferentes. En el siguiente apartado se presentarán ejemplos de los suﬁjos causativos en cada lengua junto a
+una breve descripción de los mismos.
+1.3. Suﬁjos causativos en maká
+Segun plantea Gerzenstein (2001) en maká los suﬁjos causativos pueden incorporarse tanto a nombres, como
+a verbos transitivos e intransitivos. En la siguiente tabla se muestran los suﬁjos causativos registrados en esta
+lengua.
+Tabla 1. Suﬁjos causativos en maká (mataguaya)
+En el ejemplo (11b) aparece el suﬁjo causativo -it junto al verbo intransitivo iwef ‘estar cansado’, mientras
+que en (12) se observa un causativo derivado de un nombre o lexema atributivo (como lo denomina Tacconi,
+2015) donde el suﬁjo -t causativiza a elemei ‘ser suave’. Nótese que la incorporación de este suﬁjo provoca
+la caída de /y/ ﬁnal.
+Camila del Huerto Altamiranda López, et al. ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN ...
+PDF generado a partir de XML-JATS4R
+El ejemplo (13b) presenta el suﬁjo -ket (muy poco documentado de acuerdo con Gerzenstein, 1994, y
+Tacconi, 2015) junto al verbo i in ‘estar satisfecho’.
+En el ejemplo (14) aparece el suﬁjo causativo -nhet, el cual se incorpora a bases verbales que terminan en
+vocal, tal como ocurre en (14b) donde causativiza al verbo opo’ ‘estar lleno’.
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+En maká las formas en -n pueden suﬁjarse tanto a verbos transitivos como intransitivos que
+semánticamente expresan acciones que requieren un agente. En el ejemplo (15b) se observa la presencia del
+suﬁjo causativo -inen junto al verbo lijtsii ‘cantar’. En (16b) el suﬁjo -in causativiza al verbo a# ‘calentar’.
+A su vez, ocurre un cambio en el índice pronominal del verbo al incorporarse el causativo. Los preﬁjos que
+codiﬁcan al participante S de la cláusula intransitiva cambian al suﬁjarse un causativo por preﬁjos personales
+que codiﬁcan a A en las cláusulas transitivas. Así, por ejemplo en (11a) el preﬁjo ts- que codiﬁca a la primera
+persona S cambia en (11b) por el preﬁjo h- el cual codiﬁca a la primera persona A. Lo mismo ocurre en el
+ejemplo (15) donde el preﬁjo te- (tercera persona S) cambia en (15b) por el preﬁjo yi- (tercera persona A).
+En el ejemplo (17b) el suﬁjo -hinen permite la incorporación de un causante indirecto a la cláusula, lo cual
+impacta en el índice pronominal del verbo provocando que el preﬁjo de tercera persona S i- (17a) cambie en
+(17b) por el preﬁjo de tercera persona A ya-.
+Por último, en el ejemplo (18b) aparece el suﬁjo causativo -tshen, el cual Gerzenstein (1994) agrupa dentro
+de las formas en -n. con la consideración de que este indica que el causante interviene en la acción ayudando
+al causado a realizarla. Tacconi (2015), siguiendo lo planteado por Shibatani y Pardeshi (2002), considera
+a este suﬁjo dentro de lo que los mencionados autores denominan causativo asociativo, donde el causante
+Camila del Huerto Altamiranda López, et al. ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN ...
+PDF generado a partir de XML-JATS4R
+provoca la acción pero también asiste o participa en ella. Así, en el ejemplo (18b), el causante (junu ‘sol’) y
+el causado (najkak ‘árbol’) tienen parte en el evento.
+1.4. Suﬁjos causativos en nivaclé
+De acuerdo a lo que plantea Stell (1987, p. 304), la derivación verbal en nivaclé puede suceder por dos
+procesos: la aﬁjación y la reduplicación. Las bases nominales, verbales y adverbiales pueden entrar en
+construcción con otros morfemas de derivación, preﬁjos y suﬁjos, para constituir nuevas bases verbales. Las
+construcciones causativas en nivaclé son de tipo morfológico; consisten en derivar bases verbales o nominales
+a través de la suﬁjación. En la siguiente tabla se consignan los suﬁjos causativos registrados en esta lengua.
+Tabla 2. Suﬁjos causativos en nivaclé (mataguaya)
+En (19) se puede apreciar una derivación causativa a partir de una base intransitiva. Es decir, (19a) se
+parte de una base intransitiva del verbo cum ‘trabajar’ en el que la marca de persona S es codiﬁcada por
+el preﬁjo de primera persona singular jai- pertenece a la segunda conjugación de verbos, esto es, posee
+alineamiento nominativo-acusativo (S=A). Por otro lado, en la parte transitiva-causativa (19b), se encuentra
+el mismo verbo cum que pertenece a la quinta conjugación (alineamiento inverso/jerárquico) e implica dos
+argumentos yi-: tercera persona singular A y tercera persona singular P.3 En la oración se encuentran otros
+suﬁjos que ocurren después del causativo -jat; -lha es un marcador plural de tercera persona que conﬁgura
+la oración en plural. El suﬁjo -t es un reﬂexivo-recíproco que da el signiﬁcado de ‘para sí mismos’; mientras
+que el suﬁjo aplicativo benefactivo es -m, (que después de un reﬂexivo recíproco se usa el alomorfo -am);
+su uso principal radica para provecho o despecho. El suﬁjo -#in es un intensivo, se lo puede utilizar con
+el valor aspectual durativo, habitual, o iterativo; aquí posee la acepción de habitual. Es una construcción
+causativa dado que el agente (ellos) es el causante de que esas personas trabajen para sí mismas. Se puede
+apreciar que al causativizarse la oración el suﬁjo causativo se encuentra inmediatamente contiguo al verbo,
+logrando un vínculo fuerte. El suﬁjo causativo -jat presenta alomorfos como -chat, -yit, -ichat, -chit debido
+a cambios morfofonológicos. Estos suﬁjos pueden ocurrir juntos a verbos de la segunda, tercera, cuarta o
+quinta conjugación. La elección de alomorfos con inicial palatal o velar no resulta muy clara. Las formas con
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+alomorfos velar son más frecuentes. Las formas con palatal aparecen detrás de una nasal o de la aproximante
+dentoalveolar. Los alomorfos con velar son también posibles.
+En (20a) vemos una construcción intransitiva que cambia a transitiva en (20b) mediante la incorporación
+del suﬁjo causativo -nata la base verbal acloj. Da cuenta de esto el cambio en los preﬁjos que indican primera
+persona: en (20a) la primera persona S es no marcada (pertenece a la primera conjugación nominativa
+acusativa), mientras que en (20b) el preﬁjo yi- codiﬁca tanto a A como a P: tercera persona agente implicada
+con tercera paciente, pertenece a la quinta conjugación alineamiento jerárquico/inverso, el verbo en esta parte
+transitiva sufre ciertos cambios. Por un lado, en (20b) la incorporación del preﬁjo yi- +un verbo cuya raíz
+inicia con a, hace que se elimine la a de la base verbal, mientras que la j ﬁnal de la misma base verbal al aparecer
+el causativo -nat se elide. La construcción causativa (20b) alude al signiﬁcado literal ‘hacer que sean muchos’.
+El suﬁjo causativo -nat en (20b) es el que transitiviza la cláusula y requiere de un preﬁjo personal de quinta
+conjugación. Entonces el causativo introduce un agente causante yi- ‘él/ella’ del evento ‘hace ser muchos’. Al
+lado del causativo se encuentra el suﬁjo de plural de tercera persona -sha’ne. El suﬁjo causativo -nat presenta
+alomorfos como -inat, -nit, -it, -t debido a cambios morfofonológicos. De la misma manera que el ejemplo
+anterior el suﬁjo causativo se encuentra inmediatamente contiguo al verbo. Por otro lado, el uso de este tipo
+de causativo es más frecuente con los verbos de la primera conjugación.
+En (21a) el verbo ip ‘llorar’ es intransitivo. Hay una marca de persona, el preﬁjo y- se reﬁere a un sujeto
+de tercera persona que codiﬁca S y otra suﬁjada denominada intensivo - in que da un sentido al verbo ip
+‘llorar’ vinculado con lo durativo, habitual o iterativo (aspecto que le da el intensivo). Sin embargo, vemos
+una en (21a) una construcción intransitiva que cambia a transitiva en (21b) dado que se muestra el mismo
+verbo, pero en su contraparte causativizada por la aparición del suﬁjo -jan y la incorporación de y-. Este
+derivado pertenece a la quinta conjugación (alineamiento jerárquico/inverso); el preﬁjo personal implica dos
+argumentos, A y P. El preﬁjo y- codiﬁca tercera persona agente implicada con tercera persona paciente. La
+Camila del Huerto Altamiranda López, et al. ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN ...
+PDF generado a partir de XML-JATS4R
+cláusula es causativa dado que contiene el suﬁjo causativo -jan que indica causación indirecta. A su vez, se
+introduce el agente externo ‘él/ella’ que es el causante del evento de hacer la acción de ap ‘llorar’ a un tercero/
+a unos terceros. Este suﬁjo causativo -jan posee alomorfos como -jayan, -jayin, -yan, -iyan, -xiyan, etc. Llama
+la atención que también se ha encontrado en la gramática ejemplos similares a (21b) pero suﬁjado a la misma
+base verbal ap el alomorfo de causativo, -jayan (y-ap-jayan).
+1.5. Suﬁjos causativos en chorote
+En chorote (variedad iyojwa’(a)ja’), Carol (2011) presenta un conjunto de suﬁjos causativos que pueden
+incorporarse sólo a verbos intransitivos. A su vez divide este grupo en formas en -t las cuales generalmente
+ocurren con bases verbales pertenecientes a la clase SO, y formas en -n que se incorporan típicamente a bases
+verbales pertenecientes a la clase SA. En la tabla 3 se presentan los suﬁjos causativos registrados en esta lengua.
+Tabla 3. Suﬁjos causativos en chorote (mataguaya)
+Los suﬁjos -it (22b), -t (23b), -kit (27b), -janit (25b) y -ot (29b), son los menos frecuentes, siendo (22b) el
+único ejemplo de este último suﬁjo que Carol (2011) encontró en los datos de su trabajo de campo.
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+El suﬁjo -nit que aparece junto al verbo po ‘llenar’ en (24b) es más frecuente, el mismo ocurre con
+bases terminadas en vocal o /h/ (dado el último caso /h/ cae). El suﬁjo -junit que se presenta en (25b)
+causativizando al verbo pọ’(ọ) ‘existir’ es también uno de los más frecuentes. Nótese que en chorote las bases
+verbales sufren cambios morfonológicos al incorporarse el causativo. Así ocurre en el ejemplo (25) donde el
+verbo pọ’(ọ) resulta en ipyujunit. Esto sucede debido a que la incorporación del causativo impacta en el índice
+pronominal del verbo y la marca de persona cambia en (25b) por el preﬁjo de tercera persona A i-. Carol
+(2011, p. 75) plantea que para evitar el hiato la semivocal /y/ ocurre entre vocales. A su vez, el suﬁjo -j(V)nit
+provoca que pọ’(ọ) resulte en ipyujunit por asimilación vocálica (Carol, 2011, p. 61).
+En el ejemplo (26b) aparece el suﬁjo causativo -janit junto al verbo wakal ‘estar listo’, sin embargo Carol
+(2011, p. 55) plantea que /j/ tras obstruyente se elide, por ello resulta el alomorfo -anit.
+Camila del Huerto Altamiranda López, et al. ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN ...
+PDF generado a partir de XML-JATS4R
+Por otro lado el suﬁjo -jat es el más frecuente de todas las formas en -t. El mismo posee alomorfos (por
+ejemplo -jyet, -jwat) pero éstos cambian de acuerdo a las bases verbales sobre las que se forme el causativo. En
+este sentido Carol (2011) plantea que los alomorfos de los suﬁjos correspondientes a las formas en -t son poco
+predecibles. En (28b) se observa la incorporación del suﬁjo -jat al verbo nityan ‘perderse’ pero este resulta en
+inityajnat debido a que, según explica Carol (2009, p. 76) si una laríngea sigue a una sonante ocurre metátesis.
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+El suﬁjo -jan ocurre típicamente con bases pertenecientes a la clase SA, la cual se corresponde con los
+verbos semánticamente agentivos. En (30b) este suﬁjo aparece junto al verbo nyu’ ‘pasar’, sin embargo, en
+este ejemplo ocurre el alomorfo -jwan debido a que, de acuerdo con Carol (2011), una consonante laríngea
+(j/# ) labializa (jw/ #) detrás de vocal labial (o/u).
+1.6. Suﬁjos causativos en wichí
+Terraza (2009, p. 107) plantea que en wichí la derivación verbal sucede por suﬁjación. La derivación
+morfológica se aplica tanto a verbos transitivos como intransitivos. Los causativos en wichí se caracterizan por
+ubicarse inmediatamente a la derecha de la raíz y crear un concepto nuevo. Este es uno de los mecanismos que
+provoca alteraciones en la valencia del verbo en wichí; genera el aumento de la valencia, a través de morfemas
+causativos: los argumentos nucleares presentes en las cláusulas monovalentes, y de estas a bivalentes cuando se
+transitiviza. Por lo general en cuanto a la transitividad, en wichí existen dos tipos principales de transitividad:
+las cláusulas intransitivas con un argumento nuclear presentan a S, mientras que en las cláusulas transitivas
+cuenta con los argumentos A y P.
+En (32) se puede apreciar una derivación causativa a partir de una base intransitiva. Es decir, (32a) se parte
+de una base intransitiva del verbo hway ‘salvar’ en el que la marca de persona S atsinha ‘mujer’ es codiﬁcada
+por el preﬁjo de tercera persona singular ta-. Por otro lado, en la parte transitiva-causativa (32b), se encuentra
+el mismo verbo hway con la inserción del agente hinu ‘hombre’ tercera persona singular, codiﬁcada por el
+preﬁjo i- que indica que la cláusula se transitivizó. Es una construcción causativa dado que el agente (hombre)
+es el causante de ‘salvar’ (hacer salvar) al causante, la mujer. El suﬁjo -hat indica un cambio de estado. La
+variedad de wichí de Rivadavia se caracteriza por ser una lengua tripartita, A y S son preﬁjos y presentan
+formas distintas y se distinguen de P que es codiﬁcado a través de suﬁjos.
+En (33a) el verbo kyahlly ‘escuchar’ es intransitivo. Hay una marca de persona, el preﬁjo lata- se reﬁere a
+un sujeto de segunda persona singular que codiﬁca S y aparece suﬁjado un aplicativo. Sin embargo vemos en
+Camila del Huerto Altamiranda López, et al. ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN ...
+PDF generado a partir de XML-JATS4R
+(33a) una construcción intransitiva que cambia a transitiva en (33b) dado que se muestra el mismo verbo,
+pero en su contraparte causativizada por la aparición del suﬁjo -yen y la incorporación del agente n- primera
+persona singular ‘yo’. La cláusula es causativa dado que contiene el suﬁjo causativo -yen que indica causación
+indirecta. A su vez, se introduce el agente externo ‘yo’ que es el causante del evento de hacer la acción de
+‘escuchar’, ‘te hago escuchar la música a vos’. Este suﬁjo causativo no posee alomorfos. Se ve el aumento de
+la transitividad a través del cambio de la marca de persona.
+Por otro lado, la variedad de wichí en Chaco y Formosa diﬁere de la variedad anterior. En (34a) el verbo y’el
+‘estar cansado’ es el núcleo de una oración intransitiva, es tercera persona cero o no marcada. A esta oración
+se la podría causativizar como en (34b) donde aparece el suﬁjo causativo -hat, que a su vez incorpora al agente
+externo n’- ‘yo’ causante/instigador de la acción codiﬁcado como A, mientras que el causado han’ofwai ‘niño’
+de manera pasiva realiza la acción, esto es que actúa de manera paciente, sin control.
+En (35a) se puede ver una oración intransitiva a partir del verbo katin ‘saltar’. Este se encuentra preﬁjado
+por el sujeto n’- ‘yo’ que codiﬁca S. El preﬁjo t o ta- es una clase verbal de monovalentes. En la causativización
+(35b), los verbos monovalentes agentivos cambian el preﬁjo ta- por el de clase bivalente, (y)i- cuando es
+causativizado y provoca un cambio de clase verbal por la derivación. Hay un aumento de la transitividad dado
+que pasa de un argumento (35a) a una cláusula de dos argumentos participantes. El suﬁjo -yen es un causativo
+altamente productivo, la tercera persona que codiﬁca A es no marcada y el suﬁjo -n’u codiﬁca P es la primera
+persona singular.
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+2. Conclusiones
+Finalmente se puede concluir que en las cuatro lenguas de la familia mataguaya, los causativos morfológicos
+son suﬁjos que se incorporan generalmente a bases intransitivas y provocan un aumento en la transitividad
+del verbo. Se observa también que estos suﬁjos tienden a ubicarse inmediatamente contiguos a la base verbal
+y constituyen así una construcción morfológica muy sólida quedando el causativo unido a la base sin que
+pueda introducirse entre ésta y aquel ningún otro morfema que interrumpa la secuencia.
+Las construcciones causativas morfológicas en la familia mataguaya se realizan a partir de distintos suﬁjos,
+los cuales se dividen en dos grupos: las formas en -t y las formas en -n. Algunos autores vinculan a las primeras
+con la noción de causación directa y a las segundas con la noción de causación indirecta.
+También se observa que, generalmente, los verbos que expresan estados seleccionan suﬁjos causativos
+correspondientes a las formas en -t, mientras que los verbos que expresan acciones/actividades seleccionan
+suﬁjos correspondientes a las formas en -n, siendo estas últimas, al parecer, las más productivas en las lenguas
+de la familia mataguaya. En el siguiente cuadro se sintetiza esta información y se muestra el paradigma de
+suﬁjos causativos en las cuatro lenguas.
+Tabla 4. Suﬁjos causativos en lenguas de la familia mataguaya.
+En cuanto a la dirección de la derivación, los causativos morfológicos de la familia mataguaya parecen
+tender a formarse del intransitivo al causativo, siendo la contraparte causativa la que posee mayor material
+morfológico; sin embargo, consideramos profundizar más respecto de esto a futuro.
+Camila del Huerto Altamiranda López, et al. ANÁLISIS DE CONSTRUCCIONES CAUSATIVAS
+MORFOLÓGICAS EN ...
+PDF generado a partir de XML-JATS4R
+A su vez, nos gustaría continuar profundizando en torno a los condicionamientos semánticos en la
+selección de los suﬁjos causativos, como así también en la naturaleza semántica de las bases verbales con las
+que éstos se combinan.
+Referencias bibliográficas
+Carol, Javier. (2009). Causación en chorote (mataguayo). Amerindia, 33-34, 73-108. http://bitly.ws/RkNh
+Carol, Javier. (2011). Lengua chorote (mataguayo). Estudio descriptivo [Tesis de doctorado]. Universidad de Buenos
+Aires.
+Comrie, Bernard. (1989). Universales de lenguaje y tipología lingüística: sintaxis y morfología (Vol. 365). Madrid,
+Gredos.
+Fabre, Alan. (2016). Gramática de la lengua nivacle. Munich, LINCOM.
+Gerzenstein, Ana. (1994). Lengua maká. Estudio descriptivo. Buenos Aires, Facultad de Filosofía y Letras, Universidad
+de Buenos Aires.
+Gerzenstein, Ana. (2001). La construcción causativa en la lengua maká. En Arnoux, Elvira y Di Tullio, Angela (eds.),
+Homenaje a Ofelia Kovacci (pp. 233-252). Buenos Aires, EUDEBA.
+Givón, Talmy. (2001). Syntax: A Functional Typological Introduction. Amsterdam, Benjamins.
+Haspelmath, Martin. (1993). More on the typology of inchoative/causative verb alternations. Causatives and
+transitivity, 23, 87-121. https://bitly.ws/TAeR
+Nercesian, Verónica. (2011). Gramática del wichí, una lengua chaqueña: Interacción fonología-morfología-sintaxis en el
+léxico. Vol. 2. [Tesis de doctorado]. Universidad de Buenos Aires. http://bitly.ws/RkSi
+Shibatani, Masayoshi y Pardeshi, Prashant. (2002). e causative continuum. En Shibatani, Masayoshi (ed.), e
+grammar of causation and interpersonal manipulation (pp. 85-126). Amsterdam/Filadelﬁa, John Benjamins.
+Song, Jae Jung. (2013). Nonperiphrastic causative constructions. En Dryer, Matthew y Haspelmath, Martin (eds.),
+e World Atlas of Language Structures Online. http://bitly.ws/RkXN
+Stell, Nélida. (1987). Gramática descriptiva de la lengua Niwakle (Chulupi). Vol. 1 y 2 [Tesis de doctorado].
+Universidad de Buenos Aires. http://bitly.ws/RkVA
+Tacconi, Temis. (2015). Formación de palabras en maká (mataguayo) [Tesis de doctorado]. Universidad de Buenos
+Aires. http://bitly.ws/RkT2
+Tacconi, Temis. (2016). Construcciones causativas y desiderativas en maká (mataguayo). LIAMES: Línguas Indígenas
+Americanas, 16(1), 95-117. http://bitly.ws/RkTL
+Terraza, Jimena. (2009). Gramática del wichí: fonología y morfosintaxis. Montreal, Universidad de Quebec.
+Vidal, Alejandra y Nercesian, Verónica. (2005). Causativos en wichí (mataco-mataguaya) [Ponencia]. II Congreso de
+Idiomas Indígenas de Latinoamérica (CILLA). Austin, University of Texas.
+Notas
+1 Abreviaturas: 1/2/3: 1ª/2ª/3ª persona; 4: primera persona plural inclusiva; A: agente de un verbo transitivo; ADV:
+adverbio; AL: marcador de posesión alienable; APL: aplicativo; ASP: aspecto; ATR: atributivo; BEN: benefactivo
+(malefactivo); CAU: causativo; CL: clasiﬁcador; CLIT: clítico; DEM: demostrativo; DES: desiderativo; DIR: direccional;
+DUR: durativo; F: femenino; FAC: modo factual; FUT: futuro; IMP: imperativo; IMPER: imperfectivo; INST:
+instrumento; IRR: irrealis; LOC: locativo; M: masculino; N: nombre; NEG: negación; NMZ: nominalizador; NX: nexo;
+OBJ/O: objeto; P: paciente; PAS: pasado; PAT: caso pacientivo; PERF: aspecto perfectivo; PL: plural; POS1/2/3/4: marca
+de poseedor de 1/2/3/4; POSI: posición; POSIDF: poseedor indeﬁnido; PRIV: privativo; PRON: pronombre personal;
+PRSP: prospectivo; PUNCT: aspecto puntual; R: recipiente; REFL: reﬂexivo; S: sujeto intransitivo; SA: sujeto agente; SP:
+sujeto paciente
+2 Gerzenstein (1994) glosa este suﬁjo como posposición, sin embargo para este trabajo lo glosamos como aplicativo, tal
+como lo considera Tacconi (2015, p. 122).
+Cuadernos de Literatura, 2023, núm. 21, e2109, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+3 Respecto a la quinta conjugación, el preﬁjo de persona implica siempre dos participantes, esto es, el agente y el
+paciente o el receptor. El sistema que presenta la quinta conjugación es muy particular, dado que combina dos tipos
+de alineamientos, el inverso y el alineamiento escindido indirectivo/secundativo. Característica que se suma a esta
+conjugación es que, la codiﬁcación de los argumentos A y P responde a la jerarquía de persona: 1/ 1INCL >2 >3.
+4 Carol (2011) glosa los aplicativos/adposiciones como P. En este trabajo cambiamos la glosa por APL para evitar
+confusiones con lo que glosamos como P (argumento más parecido al paciente de una cláusula transitiva).

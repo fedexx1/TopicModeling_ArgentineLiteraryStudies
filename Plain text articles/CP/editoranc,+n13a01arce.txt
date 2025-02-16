@@ -1,0 +1,664 @@
+9
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Un realismo de lo irreal…: 9-25
+Un realismo de lo irreal: 
+la imaginación material
+en la obra de Juan José Saer
+Rafael Arce
+Universidad Nacional del Litoral - CONICET
+[ rafael.arce@gmail.com ]
+Resumen: Este trabajo propone una lectura de la narrativa de Juan José 
+Saer desde la fenomenología de Gaston Bachelard. El análisis recae sobre 
+tres novelas que se consideran representativas del autor argentino y con-
+siste en una indagación de lo que Bachelard, en sus análisis poéticos, llama 
+imaginación material. Tal noción permite reinscribir la interrogación sobre 
+el realismo saeriano, pensado en general por la crítica en términos de repre-
+sentación y relacionado con un problema tópico de esta narrativa como es el 
+de la percepción. La lectura no postula una simple traslación metodológica, 
+sino que encuentra su potencial en el problema que implica el abordaje de 
+una narración postulada como realista desde la fenomenología microscópica 
+bachelardiana, elaborada para la poesía o para narraciones fantásticas. No 
+se trata de un problema metodológico, sino interno a la narrativa saeriana: 
+es la tensión entre la liberación de la imaginación material en una narración 
+regulada por una imaginación formal que es la de la estructura novelística y 
+las prerrogativas del verosímil realista.
+Palabras clave: literatura argentina - realismo - novela.
+I. La imaginación según Bachelard (introducción)
+A
+unque anunciar que se va a emprender un camino 
+inexplorado no es garantía de su viabilidad, resulta por 
+lo menos ventajoso para justificar un cierto horizonte 
+de lectura. Las obras exploradas con abundancia (para 
+este caso, la de Juan José Saer) proporcionan la ventaja del recorrido crítico, que 
+traza las principales líneas de lectura. Este trazo crítico es a menudo profundo: 
+o bien intimida al crítico hasta el silencio (como podría pasarle, hoy, a alguien 
+que quisiera escribir sobre Borges o sobre Homero), o bien lo decide a detenerse 
+en las lagunas, en los puntos ciegos, en las zonas de ilegibilidad (para servirme 
+de una imagen derridiana). En el caso de Saer, se pueden apreciar varias líneas 
+10
+Rafael Arce | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+de lectura muy marcadas en la crítica, tan marcadas que, para hacer emerger 
+alguno de esos puntos de ilegibilidad, uno no tiene más que detenerse en una 
+de ellas y pensar lo que, en esa traza, se escamotea. 
+Una de esas trazas es (será mi punto de partida) el tema de la percepción, 
+vinculada siempre a una problemática de la experiencia, de la representación y, 
+por lo tanto, a una cierta interrogación del realismo literario1. Pero nadie, que yo 
+sepa, ha querido pensar, por el contrario, en la cuestión de la imaginación. 
+Para Gaston Bachelard, hay una oposición radical, una antítesis, entre 
+percepción e imaginación: 
+Queremos siempre que la imaginación sea la facultad de formar imágenes. 
+Y es más bien la facultad de deformar las imágenes suministradas por la 
+percepción y, sobre todo, la facultad de librarnos de las imágenes primeras, 
+de cambiar las imágenes (Bachelard 1943: 9).
+Y más adelante: 
+Percibir e imaginar son tan antitéticos como presencia y ausencia. Imagi-
+nar es ausentarse, es lanzarse hacia una vida nueva (Bachelard 1943: 12).
+La abundancia de referencias a la cuestión perceptiva en la obra saeriana ha 
+determinado, quizás, esta predominancia en la crítica, pero el problema de la 
+imaginación, si bien resulta menos abundante, merece también ser interrogado, 
+ya que se trata de una cuestión igualmente presente en la obra.
+La interrogación de esta imaginación (un tipo de imaginación particular 
+que definiré junto con Bachelard) ayuda también a pensar de otro modo el 
+problema del realismo en Saer. La percepción se relaciona de forma estrecha 
+con el problema de la representación de la realidad. Por el contrario, la imagina-
+ción tiene que ver más con su configuración: diría Bachelard (y quizás también 
+Blanchot, aunque con un sentido ligeramente diferente) que la imaginación 
+tiene que ver menos con el problema de la realidad que con el de la irrealidad. 
+Pero esta irrealidad no es otra realidad, ni la imaginación es tampoco una 
+huida de la percepción: la imaginación trabaja, en forma deformante, con lo 
+que la percepción le proporciona; la irrealidad, por tanto, emerge a partir de 
+la realidad misma: 
+1	 Remito a los que considero los más importantes: Sarlo (1980) “Narrar la percepción”; Gramu-
+glio (1986) “El lugar de Saer”; Monteleone (1993) “Eclipse del sentido: de Nadie nada nunca a 
+El entenado de Juan José Saer”; Dalmaroni y Merbilháa (2000) “‘Un azar convertido en don’. 
+Juan José Saer y el relato de la percepción”; Quintana (2001) Figuras de la experiencia en el fin 
+de siglo. Cristina Peri Rosi, Ricardo Piglia, Juan José Saer y Silviano, Santiago; Fabry (2002) 
+“Ritualización y epifanía en Nadie nada nunca” y Scavino (2002) “El lugar perfecto para hacer 
+ondular deseo y alucinación”.
+11
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Un realismo de lo irreal…: 9-25
+…lo que queremos examinar en esta obra es en verdad la inmanencia de 
+lo imaginario a lo real, es el trayecto continuo de lo real a lo imaginario… 
+Entonces se impone el realismo de la irrealidad (Bachelard 1943: 13-14).
+Ahora bien, si la imaginación puede interrogarse en relación con el pro-
+blema del realismo, es porque se trata de una imaginación particular, la que 
+Bachelard llama imaginación material: la ensoñación (la ensoñación poética, 
+que es nuestro interés) que trabaja con la materia, con lo material. La feno-
+menología microscópica bachelardiana propone un análisis de la imaginación 
+poética basada en los cuatro elementos fundamentales, aquellos distinguidos 
+por la física clásica: agua, tierra, fuego, aire. A lo largo de varios de sus libros, 
+Bachelard ha demostrado la predominancia de la imaginación material de uno 
+o dos de estos elementos en algunas obras de grandes autores y ha hecho jugar 
+esta predominancia como una clave indispensable para la interpretación de 
+ciertos aspectos de esas obras. 
+Lo que propondré en este trabajo es un esbozo de análisis de la imagina-
+ción material en la obra de Saer y de su sentido en relación con su programa 
+narrativo.
+En relación con esto, resulta también de interés el hecho de que Bachelard 
+oponga la imagen a la metáfora: la lectura que la crítica hace de ciertos textos de 
+Saer a menudo sortea el problema del realismo valiéndose de una hermenéutica 
+de supuestas metáforas. Representación o metáfora serán igualmente apartadas 
+de mi horizonte de lectura. Para Bachelard (1957), la metáfora es de orden 
+más bien intelectual, poco móvil: mientras la imagen libera la imaginación, la 
+metáfora es tan sólo un hallazgo de la imaginación pensante, ordenada. Las 
+imágenes saerianas, materiales, soñadoras, aunque ordenadas por la forma de 
+la narración, es decir, por una imaginación formal que es narrativa, serán leídas 
+aquí de manera literal.
+Por último, el carácter preliminar de este estudio me obliga a ser escueto 
+en la introducción teórica. Quedará por discutir la legitimidad de la utiliza-
+ción de la teoría de Bachelard para leer a Saer. La objeción más evidente se 
+desprende de los análisis mismos del filósofo: sus estudios son, casi de modo 
+exclusivo, sobre imágenes de la poesía. Cuando analiza textos en prosa, son 
+casos de narraciones de ensoñaciones profundas, desbordantes, fantásticas 
+(Poe, Rilke, Bosco). Todo parece indicar que la fenomenología de la imagen 
+poética de Bachelard encuentra sobre todo un tipo de obra a la que este análisis 
+resulta antipático: la narración realista. La ensoñación poética encuentra en 
+este tipo de narración un tope, un límite: su vuelo es de corto alcance, casi no 
+despega. De ahí el desprecio de Bachelard, no tanto por el realismo literario, 
+como por las lecturas realistas (o positivistas, como el filósofo las denomina a 
+12
+Rafael Arce | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+menudo) de ciertos críticos literarios. Podría alegar, a favor de mi análisis, que 
+el alcance de la imaginación material saeriana, regulada por su imaginación 
+formal (por su estructura narrativa y su sistema de verosímil realista), ha de 
+ser puesto a prueba. De lo que se trata, justamente, es de la tensión, en Saer, 
+entre realismo e irrealismo, sin caer nunca en ese torniquete conformista que 
+es realismo mágico. Cuando el narrador de El entenado nos dice que viajó en 
+brazos de dos indios durante un día entero, en el cual estos indios, al trote, no 
+pararon nunca a descansar, ¿por qué no se daña el verosímil genérico?; ¿por 
+qué le creemos? Uno podría decir que, en esa escena, el realismo está llevado a 
+su extremo último, rozando la irrealidad: es puesto a prueba, tensado, hasta 
+el extremo de lo inverosímil (el extremo saeriano). La imaginación material 
+saeriana daría cuenta, entonces, de esta tensión, oponiéndose a su antítesis 
+natural: la percepción material. La pregunta sería entonces: ¿qué tanto puede 
+soñar la imaginación material de un narrador realista? 
+II. La zona formal, el paisaje material
+La crítica ya se ha encargado de cartografiar, aunque más no sea a nivel de 
+una geografía imaginaria, el mapa saeriano, mejor conocido como “la Zona”2. 
+Respecto de esta Zona, las exégesis han sido en general de tipo autorreferencial: 
+la Zona como espacio de escritura, como portadora de “unidad de lugar” y 
+marco intertextual (la unidad zonal en la tradición novelesca: Balzac, Proust, 
+Faulkner, Pavese, Musil). Como corresponde a estas líneas de lectura, importa 
+poco el carácter material de esta Zona. Pero si indagamos un poco en él, 
+veremos que su paisaje retoma los imaginarios de la pampa argentina, de la 
+isla litoraleña, de la ciudad americana. Hay dos paisajes básicos en la Zona: la 
+ciudad y los alrededores rurales, en torno al río y las islas3. Ahora bien, podemos 
+seguir a Bachelard en su procedimiento de reducción fenomenológica y buscar 
+el sintagma que, de algún modo, sintetice la zona saeriana en una sola imagen. 
+La crítica ha leído En la zona, la primera obra de Saer, pensando este doble 
+espacio, el salvaje y el urbano, a partir de una especie de límite que emerge en 
+esas primeras narraciones para desaparecer por el resto de la saga: la “zona del 
+2	 Me refiero a un accionar que se da generalmente en la crítica, una suerte de cartografía ima-
+ginaria necesaria para ciertos análisis debido al importante papel que desempeña lo espacial 
+en la obra saeriana. Es vano, por lo tanto, citar ejemplos, ya que son innumerables.
+3	 Joaquín Manzi (1995) hipotetiza una oposición entre estos dos espacios. No suscribo en este 
+trabajo tal idea, pero en el contexto de su lectura resulta interesante. La crítica se ha ocupado poco 
+de este motivo. Sin embargo, en cierta clave de lectura la oposición es sostenible, pensable. ¿Por 
+qué, por ejemplo, las novelas más “experimentales” de Saer transcurren en la zona de las islas? 
+¿Es sólo una casualidad? Preguntas como ésta pueden pensarse a partir de la oposición descrita.
+13
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Un realismo de lo irreal…: 9-25
+puerto” (Arce 2008)4. El puerto, comienzo de la obra, origen perdido, une estos 
+dos espacios, los une tanto como los separa. La ciudad saeriana es propiamente 
+una ciudad fluvial, una ciudad hija del río. El río es común a ambos espacios: 
+los surca igualmente, los une y los separa, como el puerto. Por lo tanto, uno 
+puede decir que la costa es el lugar privilegiado de la Zona. La costa, por lo 
+demás, recoge el imaginario de la pampa: inmensidad del horizonte y, detrás 
+de la superficie lisa de las aguas, la llanura. Como corolario de la planicie 
+agua-tierra, río-llanura, se percibe una ampliación del cielo. El comienzo de 
+El entenado, mito de origen, por otra parte, de la Zona saeriana, me daría la 
+proposición, la captación fenomenológica que estoy buscando: 
+De esas costas vacías me quedó sobre todo la abundancia de cielo (Saer 
+1983: 11).
+Inmensidad del río (sin orillas) y de la pampa, acreditados ambos por la 
+presencia de la costa, dan al paisaje saeriano sus dos materias privilegiadas: 
+el agua y la tierra. Por lo demás, la abundancia de cielo, la dilatación de las 
+materias que llegan hasta el horizonte, otorgan al mundo saeriano su carácter 
+curvo, redondo5: 
+En el Río de la Plata, esa familiaridad desaparece, y tendemos a repre-
+sentárnoslo sin forma precisa, propendiendo vagamente a lo circular. Esa 
+impresión viene de la experiencia directa, cuando estamos contemplán-
+dolo, porque sus límites se confunden con la línea circular del horizonte, 
+en tanto que en los ríos normales el horizonte cae detrás de la orilla opuesta 
+(Saer 1991: 29).
+Esta dualidad del paisaje es palpable a simple vista: omnipresencia del río 
+en El limonero real, Nadie nada nunca, El entenado, El río sin orillas, La pes-
+quisa, La grande y de la tierra, tanto en su forma pampeana como isleña, en El 
+limonero real, Nadie nada nunca, La ocasión, Las nubes, El río sin orillas. Más 
+adelante se verá cómo la ciudad, paisaje predominante de las narraciones no 
+nombradas, depende, materialmente, de estos dos elementos. 
+En los análisis de Bachelard son importantes dos requisitos metodológi-
+cos en la indagación de la imaginación material de una determinada obra. 
+En primer lugar, cierta unidad de imaginación, lo que confiere a la obra una 
+4	 El trabajo sitúa el origen de la Zona en el primer espacio de la ficción saeriana, el puerto, el 
+arrabal saeriano (que, a su vez, tiene ecos del arrabal borgiano). La lectura juega con la idea 
+de arrabal como límite y como paso: fundación de la Zona como paso del arrabal borgiano al 
+saeriano y el arrabal saeriano como paso entre sus dos Zonas. El carácter de origen perdido, 
+de condición de posibilidad de la Zona, queda demostrado, en parte, por su total desaparición 
+posterior en la saga.
+5	 Para una fenomenología de lo redondo ver Bachelard (1957).
+14
+Rafael Arce | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+homogeneidad imaginante, una monotonía material necesariamente significa-
+tiva. En segundo lugar, el principio por el cual siempre hay un elemento que 
+predomina en la imaginación poética o, a lo sumo, dos, combinados en uno 
+solo. A primera vista, entonces, el elemento predominante en la imaginación 
+material saeriana es el agua; trataré de demostrarlo en el análisis, pero baste 
+por ahora el señalamiento de que el río siempre está, de algún modo, en todos 
+los paisajes: las novelas urbanas (Responso, La vuelta completa, Cicatrices, Glosa, 
+Lo imborrable, La grande) tienen sus momentos de río y las novelas en donde 
+predomina la isla o la pampa también los tienen. Por otra parte, la superioridad 
+del agua está dada por ciertos elementos compuestos que, teniendo este núcleo 
+común, emergen como la sustancia secundaria en la formación del universo 
+saeriano: la pasta, mezcla de agua y de tierra, y el agua negra, agua llena de 
+oscuridad, especie de excrescencia de la pasta. 
+Si bien habrá referencias a otras narraciones, el análisis propiamente dicho 
+recaerá sobre tres novelas: El limonero real (1974), El entenado (1983) y Lo 
+imborrable (1993).
+III. El origen acuático
+“No hay, al principio, nada” afirma el comienzo de Nadie nada nunca, 
+estribillo predominante de la novela. No es difícil ver un gesto paródico res-
+pecto del comienzo del Génesis. Sin embargo, no hay en esta novela ninguna 
+narración del comienzo. Esa nada da paso enseguida a la materia fundamental 
+del universo saeriano: 
+No hay, al principio, nada. Nada. El río liso, dorado, sin una sola arruga, 
+y detrás, baja, polvorienta, en pleno sol, su barranca cayendo suave, medio 
+comida por el agua, la isla (Saer 1980: 11).
+Nada, río, isla: nada, agua, tierra. Esta imagen triple será el comienzo 
+narrativo de la cosmogonía del universo saeriano en la mitad de la historia de 
+El limonero real. Y cuando digo imagen refiriéndome a la nada no creo estar 
+cometiendo un error. Retomo brevemente la anécdota de la novela: Wenceslao, 
+el protagonista de la historia, sacrifica el cordero para la cena de fin de año y 
+después se da un chapuzón en el río. La oscuridad lo lleva a un ensueño, a una 
+fantasmagoría de imágenes cuya procedencia el lector conoce o adivina porque 
+tiene que ver con la primera mitad de la novela. La última imagen es la de las 
+mariposas nocturnas revoloteando en el farol de su rancho. Aparecen en las 
+oraciones algunas onomatopeyas que dan cuenta del zumbar de las mariposas, 
+zumbido que se mezcla con el del agua del río. Estas onomatopeyas se estiran, 
+se dilatan, hasta que el sonido del lenguaje se vuelve mero ruido, zumbido sin 
+15
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Un realismo de lo irreal…: 9-25
+significación (la últimas letras son zetas), arribando al silencio, a la nada: seis 
+renglones pintados enteramente de negro son la imagen de este silencio, de 
+esta nada de lenguaje, que coincide con la nada de la visión nocturna del fondo 
+negro del río. Después de esa nada, otra vez sonidos ininteligibles (varias letras 
+a), hasta que recomienza la narración: 
+Era vea un solo ver agua. Agua y después más nada. Más nada. Aparece en 
+eso una islita (Saer 1974: 149).
+A partir de esta frase, se desarrolla la cosmogonía del universo saeriano en 
+el que se mezclan referencias a la mitología griega, a Hesíodo y a Homero. 
+La crítica ha leído ya los mitos de origen de la obra de Saer (Gramuglio 
+1986; Montaldo 1986; Premat 2002). Lo que me interesa señalar aquí es que, 
+para las dos novelas, y parodiando a mi vez al Génesis, en el comienzo era el 
+agua. Y, después, la tierra. La isla es precisamente eso: un fragmento de tierra 
+en medio de la inmensidad del agua. En la cosmogonía saeriana, los continentes 
+se forman por acumulación de pequeñas islas. Estos islotes que surgen de la 
+nada son al principio de materia compuesta, ya que emergen como barro, lo 
+que indicaría su procedencia acuosa: la tierra es, originalmente, húmeda. El 
+sol seca la superficie de las islas y entonces surge la tierra lisa: la tierra nace del 
+agua. Pero, como es lógico, al estar en el agua, la tierra queda siempre barrosa 
+en su fondo, en su revés: volveré sobre este revés y sobre este fondo, respecti-
+vamente, en El entenado y en Lo imborrable. 
+Es interesante también que, para la cosmogonía saeriana, el comienzo es el 
+agua dulce y no la salada. Bachelard (1942) ha demostrado, o intentado demos-
+trar por lo menos, la superioridad del agua dulce, su anterioridad mitológica 
+respecto de la del mar. El agua dulce es agua con limo, agua fértil, agua que 
+produce, que es capaz de dar vida. Precisamente, las islas, de secas y polvo-
+rientas, se vuelven después, en la narración cosmogónica, verdes, exuberantes: 
+secadas al sol, áridas, reciben las primeras lluvias del universo y entonces la 
+vida vegetal comienza en ellas. Del mismo modo, adhiriendo a un darwinismo 
+más o menos vago, la vida animal también surge del agua, con pequeños seres 
+que se arrastran, barrosos, desde el río hasta la costa, y de los que provienen 
+los primeros animales de la isla. 
+Una lectura intertextual de esta cosmogonía nos revelaría la adaptación 
+saeriana de los mitos de origen de la tradición griega, pero lo que he puesto 
+en evidencia aquí es precisamente el carácter único del mito saeriano, ya que 
+en la tradición griega, como en tantas otras, la Tierra, Gea, es origen y es ella 
+la que, por sí sola, engendra al Cielo, Urano. La cosmogonía saeriana ubica al 
+agua, al río, como comienzo, y es este río, cuya referencia es el Paraná (y Saer 
+se encarga de enfatizarlo en El entenado y en otros lugares: en lengua vernácula, 
+16
+Rafael Arce | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+su nombre significa “Padre de Ríos”), el que, como Gea, por partenogénesis, 
+engendra de sí mismo la isla, la tierra. Después, el fragmento de tierra reseca 
+recibe el agua y surge a su vez la vida vegetal, y del barro, del lecho del río, de 
+la mezcla de los dos elementos, surgirá la vida animal6. 
+Bachelard afirma que cuando dos elementos se juntan para formar uno solo, 
+se trata de un casamiento y que, si ambos elementos son del mismo género, 
+uno asume el género contrario. Al referirse a las aguas compuestas, aclara que 
+en el caso del agua y de la tierra se trata de dos elementos femeninos y que uno 
+debe masculinizarse ligeramente para dominar en la unión (1942: 142). En la 
+cosmogonía saeriana, está claro que es el agua, sujeto de partenogénesis, quien 
+asume esta masculinización, pues es capaz de engendrar por sí sola a la tierra 
+y, posteriormente, penetrarla a través de la lluvia y del barro, haciéndola parir 
+la vida vegetal y animal. Como mera imagen, el río es vagamente fálico y la 
+isla es redonda, curva. Paraná no significa Madre, sino Padre. 
+Se puede encontrar otra versión, abreviada, de este mito de origen, donde 
+queda bien claro, al nivel fenomenológico mínimo en el que le gusta trabajar 
+a Bachelard, la masculinización del agua, en esa obra singular que es El río sin 
+orillas. En su introducción, Saer mezcla la autobiografía y la imaginación, y 
+después de describirnos el Río de la Plata a nivel perceptivo, todavía necesita 
+imaginar primero su mapa y, después, sobre ese mapa, imaginar un mito de 
+origen: menos limitado, aquí, por las convenciones del género novelístico y las 
+prerrogativas del verosímil realista, Saer puede imaginar sobre imaginaciones, 
+soñar un mapa y soñar, sobre ese mapa, una imagen poética: 
+Pero podemos invertir el dibujo, interpretándolo esta vez en el sentido 
+sureste-noroeste, y entonces aparece con claridad la silueta de un pene, con 
+las dos bahías serviciales ya mencionadas figurando sin error posible los 
+testículos, penetrando hacia el interior de la tierra, de la que la provincia de 
+Entre Ríos contendría el útero, el vértice del delta el clítoris, y sus islas y la 
+costa uruguaya respectivamente los labios grande y pequeño, en tanto que 
+los ríos, riachos y arroyos, que se entrelazan al infinito en las inmediaciones 
+6	 Julio Premat (2002: 330-332) llama a esta cosmogonía, siguiendo a Gramuglio, “Génesis criollo” 
+y, al igual que Joaquín Manzi (1995: 199-204), afirma la filiación de este mito con el hipotexto 
+bíblico. Mi lectura es diferente. A mi juicio, resulta claro que el Génesis está detrás del comienzo 
+de Nadie nada nunca, donde la palabra “principio” enfatiza ese gesto paródico al afirmar que, 
+en vez del Verbo, no había nada. En El limonero, en cambio, el comienzo de la cosmogonía a 
+partir de la acción de los elementos recuerda más bien a Hesíodo: esto estaría en cierto modo 
+corroborado por la continuidad de la referencia griega a través de las alusiones a La Odisea y a la 
+historia de Edipo, que tanto Premat como Manzi mencionan. Es más: Premat afirma que lo que 
+viene después de la supuesta reescritura del comienzo del Génesis tiene que ver con la división 
+del trabajo y las diferencias sociales, lo que también podría pensarse como continuidad de la 
+referencia a Hesíodo, en el paso de la Teogonía a Los trabajos y los días.
+17
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Un realismo de lo irreal…: 9-25
+y las líneas rojas de las redes viales y ferroviarias, las venas y las arterias que 
+irrigan, viniendo del corazón y de los pulmones exhaustos de América del 
+Sur –el Mato Grosso–, todo el sistema (Saer 1991: 30).
+El agua es entonces la materia elemental del universo saeriano, la base 
+de su arquitectura, su sustancia primigenia. Agua dulce, agua de río, que se 
+masculiniza, penetra la tierra, engendra la vida. 
+IV. La tribu pastosa
+El entenado resulta ser también otro mito de origen, pero no del universo, 
+sino de la Zona propiamente dicha y del hombre saeriano. Podemos retener 
+fenomenológicamente la imagen que acabamos de dejar: ese penetrar del Río 
+en la Tierra es el mismo movimiento del navío en donde viaja el grumete, que 
+se interna, durante el descubrimiento del Nuevo Mundo, en un río caudaloso 
+para arribar al centro de la tierra-pampa, el Lugar, la Zona. 
+Julio Premat ha realizado una lectura aguda de este mito de nacimiento 
+(2002: 186-202). No es mi intención repetir aquí su análisis. Sólo quiero señalar 
+que El entenado, de algún modo, en su historia, que transcurre a comienzos 
+del siglo XVI, retoma la cosmogonía de El limonero real, porque el narrador 
+de la novela arriba a un lugar que parece virgen, recién hecho. Las imágenes 
+del río, de las islas y de las costas pertenecen a la imaginación del agua fértil, 
+creadora, dadora de vida, sustancia elemental: 
+El olor de esos ríos es sin par sobre esta tierra. Es un olor a origen, a for-
+mación húmeda y trabajosa, a crecimiento… Casi nos parecía ver la vida 
+rehaciéndose del musgo en putrefacción, el barro vegetal acunar millones 
+de criaturas sin forma, minúsculas y ciegas (Saer 1983: 26-27).
+Musgo, barro, humedad: pasta, sustancia compuesta. El paisaje de las islas 
+muestra la vida material en estado bruto y original, recién nacido. No se puede 
+hablar de continuidad narrativa entre una novela y la otra, pero, más allá de 
+la obvia unidad de lugar señalada ya por la crítica, se puede remarcar esta 
+continuidad imaginante. Al narrador le parece ver, lo cual es decir que imagina, 
+de la misma manera que huele el origen. 
+Todo este imaginario retomado, reincidente en las narraciones saerianas, 
+tiene que ver solamente aquí con el comienzo de la novela, con el arribo de 
+la nave al Mar Dulce y su internación en el Padre de los Ríos. Pronto, los 
+compañeros del narrador serán muertos y comidos por los indios, mientras él 
+permanecerá diez años viviendo con ellos. El narrador vuelve a nacer, nace a 
+un mundo nuevo, en la lectura de Premat. Accederá, paulatinamente, a medida 
+18
+Rafael Arce | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+que aprenda su lengua, a la visión del universo de los indios. Esta visión, esta 
+Weltanschauung, estará hecha de imágenes que extraerán su materia, también, 
+de elementos básicos. 
+El primer día del narrador con los indios, luego del arribo nocturno y del 
+sueño reparador, es una mañana límpida de verano. El recién llegado ve a los 
+indios andar por esa playa virgen y la imagen que de ellos tiene es la de lo 
+nítido y definitivo, pero en el mismo párrafo en que su imaginación sueña ya 
+se anuncia que esa imagen resultará errónea: 
+Parecían nítidos, compactos, férreos en la mañana luminosa, como si el 
+mundo hubiera sido para ellos el lugar adecuado, un espacio hecho a su 
+medida, el punto para una cita en el que la finitud es modesta y ha acep-
+tado, a cambio de un goce elemental, sus propios límites. No tardaría en 
+darme cuenta del tamaño de mi error, de la negrura sin fondo que oculta-
+ban esos cuerpos que, por su consistencia y su color, parecían estar hechos 
+de arcilla y de fuego (Saer 1983: 48).
+Recordemos que la isla de la cosmogonía, retazo barroso, surge finalmente 
+de la acción del fuego, del sol, que la seca, la deja lisa y polvorienta, para que 
+después la lluvia le otorgue vida. Los indios, en la imagen del narrador, se 
+muestran como esa isla: de arcilla, como quien dice de tierra (los indios tienen 
+el color de la tierra que los cobija), trabajados por el fuego, endurecidos y com-
+pactos por acción de la luz solar. Pero, del mismo modo que la isla, que en su 
+revés oculta el barro primigenio, el fondo de negrura, aquí también los indios 
+ocultan su blanda materia, el ser lábil y pastoso del que proceden. El error que 
+el grumete anuncia no es un error realista, no tiene que ver con que, después, 
+vaya a darse cuenta de que su imagen no corresponde a la realidad: el error 
+sobrevendrá de la no coincidencia de su imaginación con la de los indios, que 
+mostrará el verdadero ser no sólo de ellos mismos, sino del universo entero. 
+¿Cuáles son las imágenes que pueblan el mundo de los indios colastinés? 
+He aquí algunas de ellas: “No había más que el presente pastoso…” (104); “o 
+si los indios, sin que yo lo supiese, me habían hecho solidario de su esencia 
+pastosa…” (116); “…y que lo que se encontraba fuera de su horizonte, es decir 
+las otras tribus, era un magma indiferenciado y viscoso…” (142); “Para ellos, 
+descansar era como ir perdiendo terreno para cedérselo a la viscosidad que los 
+hostigaba” (150); “Era, también, o sobre todo, mejor, porque pasar a ser objeto 
+de experiencia era arrumbarse por completo en lo exterior, igualarse, perdiendo 
+realidad, con lo inerte y con lo indistinto, empastarse en el amasijo blando de 
+las cosas aparentes” (156); “…y de volverse, ante sus propios ojos, un poco más 
+nítidos, más enteros, y sentirse menos enredados en la improbabilidad chirle 
+de las cosas” (157); “…aun cuando los pies chapalearan todavía en el barro 
+19
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Un realismo de lo irreal…: 9-25
+original…” (157). Lo viscoso, lo chirle, el barro, el amasijo, lo indistinto, el 
+magma: imágenes que, con pequeñas variaciones, remiten todas a la pasta, a la 
+combinación elemental de agua y de tierra. Esta tribu, que podemos denominar 
+melancólica siguiendo a Premat, pero también existencialista, vive con el presen-
+timiento de la condición frágil, endeble, de su universo. Para los colastinés, el 
+universo es esencialmente pasta, es decir, sustancia blanduzca, maleable pero 
+huidiza, compacta pero lábil. El hombre, la vida animal y vegetal, provienen de 
+ahí, todo tiene el mismo origen. Cuando el grumete regrese a Europa, su visión 
+de un continente fantasmal, irreal, con sus hombres ignorantes y superfluos, 
+le vendrá de la certidumbre de que el mundo entero, la cima de la civilización 
+incluida, que es Europa, tiene, en su fondo, la consistencia lábil de la pasta y, 
+más abajo, el agua negra, la muerte, la nada. 
+En la novela, estas imágenes muestran igualmente la particularidad de la 
+lengua colastiné, una lengua antifilosófica donde no existe el verbo “ser” y donde 
+para designar las cosas se usa el “parecer”, es decir, una inflexión que aloja, 
+a un tiempo, la semejanza y la duda7. Las cosas parecen porque, en su fondo, 
+no son, no llegan a ser: el verbo parecer indica lo endeble tanto de la esencia 
+como de la existencia. La lengua colastiné es de la misma materia que la de las 
+cosas: una pasta moldeable pero pegajosa, donde la forma no encuentra nunca 
+el ser definitivo, estable: 
+Me fue necesario ir desempastando, durante años, esa lengua en sí cena-
+gosa (Saer 1983: 161).
+Podríamos decir, jugando al aristotelismo, que, para los indios, el universo 
+es pura causa material y que es la carencia de causa formal lo que amenaza todo 
+el tiempo con la catástrofe, con la reducción del mundo entero a su primitiva 
+pasta. 
+Me resulta imposible demostrar aquí que este carácter viscoso del universo 
+saeriano emergió en mi lectura no sólo de El entenado, sino de la saga completa, 
+aunque encuentre en esta novela su figuración más clara. Cuando Elisa, en 
+Nadie nada nunca, en medio de la ciudad calcinada por el verano, hunde su 
+zapato en la brea caliente del asfalto y tropieza, mi impresión lectora, la primera 
+impresión que tuve de la escena, no tuvo que ver en modo alguno con el registro 
+realista o, más llanamente, referencial, con la idea perfectamente familiar para 
+mí, por vivir en Santa Fe, de que es posible, e incluso probable, que el caminante 
+hunda en verano su zapato en el asfalto brumoso. Por el contrario, mi dato, si 
+7	 Resulta interesante que, para Paul Ricoeur (1975), el ser como o parecer defina lo que él llama 
+la ontología de la ficción. El lenguaje de los colastinés coincidiría muy precisamente con el 
+pensamiento que la neohermenéutica francesa tiene de la ficción en relación con una supuesta 
+ontología.
+20
+Rafael Arce | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+se quiere, fenomenológico, fue la imagen de que el mundo se hundía bajo los 
+pies de Elisa. Por supuesto, ese dato se desprende, entre otras cosas, del clima 
+opresivo y vago de la novela, pero me pregunto por qué, siguiendo a Bachelard, 
+la imagen del mundo hundiéndose es, aquí, más poderosa que la percepción 
+realista de la brea ardiente. La imaginación no contradice la percepción, pero 
+la lleva al límite, la saca de sí misma, impone una irrealidad que termina siendo 
+más verosímil que una supuesta realidad. 
+En cuanto al carácter pastoso de la lengua colastiné, es quizás la imagen 
+que el narrador saeriano tiene de toda lengua. Para Felipillo, el narrador de 
+“El intérprete”, la lengua de los conquistadores, la lengua carnicera como él la 
+llama, tiene la misma consistencia pastosa. Esta imagen tampoco es una metáfora: 
+es quizás la idea de que en el fondo de toda lengua, abstracta y lógica, hay un 
+residuo puramente material, ese comienzo donde las palabras, concretas, se 
+desprenden directamente de las cosas, separándose, con esfuerzo, del amasijo 
+de lo indistinto. Un nietzscheanismo de la lengua, presente igualmente en los 
+colastinés y en Bachelard8.
+V. Las aguas negras
+Lo imborrable narra la salida de Tomatis de un largo período depresivo, tras 
+la agonía y muerte de su madre. Son los años duros de la dictadura argentina, es 
+invierno y la mayor parte de la historia transcurre de noche. Estas coordenadas le 
+dan, desde el comienzo, a esta novela, un paisaje más bien oscuro, lúgubre. 
+La imagen que me interesa es recurrente en la novela y tiñe, con sus reso-
+nancias, el paisaje que le sirve de escenario: 
+Todo eso sería cómico… si no tuviese la certeza de que el hundimiento 
+en plena existencia, la caída escaleras abajo, el agua negra y helada empa-
+pándome las botamangas del pantalón, empezó el mismo día de mi naci-
+miento… (Saer 1993: 60-61).
+La depresión de Tomatis se ilustra a través de la imagen de la caída por las 
+escaleras hasta el último escalón de la existencia, borde contra el que viene 
+a chocar un agua negra, chirle y helada. Esta agua es como un residuo de la 
+pasta colastiné: en el revés de la isla, corroyendo, lenta, el barro del universo, el 
+agua es negra y helada por falta de fuego, por inexistencia del sol. La negrura 
+8	 Afirmación presuntuosa y arriesgada, que quedará por demostrar (en otro trabajo, quizás). Me 
+refiero, por supuesto, a la idea del lenguaje de Nietzsche en Sobre verdad y mentira en sentido 
+extramoral. La diatriba bachelardiana contra la metáfora parece presuponer esta filosofía del 
+lenguaje nietzscheana.
+21
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Un realismo de lo irreal…: 9-25
+es resultado de las sombras que se le mezclan y la frialdad impide la vida, el 
+secado, el trabajo de la pasta. 
+Ahora bien, la novela, narrada en primera persona, nos revela, en una 
+exposición sarcástica y amarga, la filosofía tomatiana: el casualismo. La certeza 
+acerca del carácter accidental del universo, su devenir permanente, su azar, 
+componen esta filosofía, donde toda necesidad está ausente. Nuevamente, 
+como en la filosofía colastiné, la causa formal parece no existir y sólo impera 
+la causa material. Esta visión del mundo se expresa también en una imagen 
+recurrente: 
+…no hay otra cosa que el flujo a la vez continuo y discontinuo, neutro y 
+arcaico, cuajando de tanto en tanto en formas tercamente repetitivas que, 
+a causa de su absurda obcecación por durar se exponen, aguijoneándolo 
+incluso a veces, en conflicto con la pretensión de su propio deseo, contra-
+dictorias, al tormento (Saer 1993: 244).
+La existencia es un flujo, un devenir: se mezclan, con vaguedad, un cierto 
+heraclitismo y la teoría del Big-Bang9. Esto del heraclitismo no es un dato 
+menor, toda vez que el río es imagen de la existencia precisamente por su devenir 
+constante y cambiante: el río heracliteano encuentra su figuración más acabada 
+en Nadie nada nunca y uno de sus epígrafes enfatiza la filiación. 
+No es muy distinto de lo que piensan los colastinés: el mundo, magma en 
+movimiento, pasta, flujo, cuaja a veces en formas caprichosas, que se cuecen 
+y solidifican al sol, que se vuelven vida vegetal, animal, humana. Pero son 
+endebles, frágiles y pasajeras: brillan un instante en la inmensidad y después 
+desaparecen. 
+La ciudad por donde deambula Tomatis, oscura, opresiva, húmeda (a 
+menudo llueve en la historia), parece estar al borde del cataclismo. La imagen 
+de las escaleras que descienden hasta el agua negra, imagen con resonancias 
+dantescas, muestra cómo la solidez de las ciudades, de la civilización humana, 
+descansa en un fondo negro y pegajoso, por lo que todo el tiempo amenaza la 
+destrucción (como lo presentían los colastinés y como el grumete lo presiente 
+en Europa). Las imágenes de los reptiles que se arrastran, en el comienzo de 
+la novela pero reiterada después, muestran la cercanía de la raza humana de 
+su origen fangoso, chirle, vegetal. Uno muy bien puede interpretar esto como 
+una metáfora, que da de inmediato acceso a la lectura en clave política y los 
+9	 En una pequeña reseña sobre La ocasión, Alan Pauls (1988) afirma que en Saer no hay tanto 
+ideas filosóficas como visiones de la ciencia moderna. No sé si estoy de acuerdo con subesti-
+mar lo filosófico, pero es evidente que en este tema del Big-Bang (como en el ya mencionado 
+darwinismo) emerge cierta imaginación científica. Esta imagen del origen del universo por el 
+Big-Bang reaparece en el segundo capítulo de La grande.
+22
+Rafael Arce | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+reptiles son los militares sanguinarios y los ciudadanos cómplices. Pero también 
+se puede leer de forma metonímica y pensar que la imagen revela meramente 
+el carácter reptil de la especie humana. 
+La existencia es, para el hombre saeriano, un esfuerzo desmedido, algo 
+propiamente antinatural, un exceso que consigue el desprendimiento de la 
+diferencia, gracias quizás a un lenguaje no menos pantanoso que también se va 
+como desempastando, del mismo modo que la lengua carnicera se va volviendo, 
+para Felipillo, una filigrana, trazos, formas.
+El paisaje de la ciudad no es, por lo tanto, menos brumoso: lo apreciamos 
+en el deambular casi sonámbulo del juez López Garay en Cicatrices o en el 
+descenso desde la belleza nítida y luminosa hasta la realidad fría y lodosa que 
+protagoniza Alfredo Barrios en Responso. La ciudad, ese damero amontonado 
+a la orilla del río, es una construcción endeble sobre un pantano, imagen, por 
+otra parte, de todo el universo saeriano10.
+En el análisis que Bachelard hace del agua negra de Poe, su significación 
+inmediata es la muerte. En la Weltanschauung tomatiana, es más que muerte: 
+es aniquilación, disgregación, nada. El agua negra es el resto, el detritus, que 
+la cosmogonía saeriana, narrada en El limonero real, necesariamente hubo de 
+dejar para hacerse posible. 
+VI. El cuarto elemento (conclusiones)
+El análisis, de carácter preliminar, ha puesto de manifiesto una unidad 
+de imaginación respecto de la materia en la obra de Saer o, por lo menos, en 
+las narraciones trabajadas. Esta imaginación material da las coordenadas, las 
+características, del universo saeriano. Es una Weltanschauung. Sería difícilmente 
+demostrable aquí cómo esta Weltanschauung material se apodera, cuando el 
+lector recorre una y otra vez la saga completa, de todos los paisajes de la narra-
+ción, desde la ciudad hasta el río. 
+He tenido presente a lo largo de mi pequeño estudio la lectura de Julio 
+Premat, la cual se ocupa de los tópicos de Nacimiento y de Muerte del uni-
+verso saeriano o, en su versión cósmica, de Cosmogonía y de Escatología. La 
+conexión se establece por sí sola, toda vez que la fenomenología bachelardiana 
+es, entre otras cosas, el resultado de un esfuerzo por liberarse de la hermenéu-
+tica psicoanalítica. Por este motivo, emergen también las diferencias. Lo que 
+aquí llamé lectura literal tiene que ver precisamente con pensar no en términos 
+simbólicos, sino imaginarios. Pero imaginario significa aquí, más o menos: en 
+10	 Premat (2002) ha hecho una lectura de esta escatología cuya causa es igualmente acuática 
+en una narración no mencionada aquí, “A medio borrar”, de La mayor.
+23
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Un realismo de lo irreal…: 9-25
+términos de una irrealidad real. En palabras de Bachelard: imaginaria es la 
+imagen que, percibida, no se mantiene intacta sino que es deformada.
+El universo es para el hombre saeriano una sustancia frágil que todavía 
+tiene trazas de su nacimiento (cosmogonía) y que está todo el tiempo amena-
+zada con la aniquilación (escatología). Es como si la materia del mundo fuera 
+a la vez recién nacida y casi muerta, un momento de brillo entre dos nadas, 
+el instante bachelardiano (Bachelard 1932). Hay un cierto existencialismo en 
+esta Weltanschauung, una nada como fundamento de la existencia (Heidegger), 
+pero también una viscosidad de las cosas, de los objetos (Sartre). El mundo es 
+pastoso y esto significa que nunca es de manera definitiva y que nunca dejará de 
+no ser, puesto que la pasta, arrojada al azar del devenir, toma formas, matices, 
+se estructura, pero en definitiva sin ninguna causa formal que la fije, que le 
+otorgue unidad, Ser. 
+Queda por profundizar el lugar del lenguaje y de la escritura en esta concep-
+ción del universo. Traté de mostrar que el lenguaje es alcanzado también por 
+la pasta y que el esfuerzo de la lengua abstracta es propiamente sobrehumano, 
+antinatural. La escritura recuperaría, en la concepción del grumete, el trazo 
+original en donde el hombre se arranca de lo informe e indistinto. La escritura 
+sería esa diferencia primera, el trazo anterior al lenguaje, lenguaje entendido 
+como el orden del discurso, la Ley del Padre (Premat). 
+Para terminar, quiero señalar una ausencia bastante luminosa. He podido 
+incluir en el análisis tres de los cuatro elementos, porque el fuego, a partir del 
+sol sobre todo, pero también como elemento de un herrero cósmico que forja 
+los cuerpos de los colastinés, ha jugado igualmente su papel. El aire ha estado 
+ausente y esta falta no es del todo cierta, aunque resulta igualmente significativa. 
+No tiene nada que ver con la imaginación material saeriana el elemento aéreo, 
+su presencia estaría reñida con este universo viscoso: no tendría ningún lugar, 
+más que como esperanza. Sin embargo, el ensueño de vuelo aparece nada más 
+y nada menos que en el comienzo de Lo imborrable: 
+Pocos, muy pocos, aspiran a pájaro –aquí o allá, entre lo que repta, babea, 
+acecha, envenena, en algún rincón oscuro, y a veces sin haberlo deseado, 
+por alguna causa ignorada por él mismo, alguno empieza a transformarse, 
+a ver, con extrañeza, que le crecen plumas, un pico, alas, que ruidos no 
+totalmente odiosos salen de su garganta y que puede, si quiere, dejar atrás 
+todo eso, echarse a volar. Desde el aire, si mira hacia abajo, puede ver de 
+qué condición temible proviene cuando percibe lo que a ras del suelo, 
+como él mismo hasta hace poco, corrompe, pica, viborea (Saer 1993: 9).
+Este ensueño de vuelo es quizás la esperanza del hombre saeriano. O quizás 
+no: solitario, único, ese ser que muta a pájaro es tal vez el testigo de la vida 
+24
+Rafael Arce | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+reptil, su def-ghi. Como los colastinés, ese pájaro se ha arrancado, no de lo 
+indistinto, sino de lo que todavía permanece a un paso de lo elemental: la vida 
+reptil. Ese ensueño de vuelo es el imposible saeriano, hombre precisamente 
+por sobrehumano, por superhombre, aquel que alcanza la humanidad en el 
+instante en que afirma su imposibilidad. 
+Referencias bibliográficas
+Arce, Rafael. “Saer cuentista, Borges novelista”. Variaciones Borges 26 (2008): 
+199-222.
+Bachelard, Gaston. La intuición del instante. Buenos Aires: Ediciones Siglo 
+Veinte, 1932.
+—— El agua y los sueños. México: Fondo de Cultura Económica, 1942.
+—— El aire y los sueños. México: Fondo de Cultura Económica, 1943.
+—— La poética del espacio. México: Fondo de Cultura Económica, 1957.
+Dalmaroni, Miguel y Margarita Merbilháa. “‘Un azar convertido en don’. Juan 
+José Saer y el relato de la percepción”. La narración gana la partida. Histo-
+ria crítica de la literatura argentina, Tomo 11 (dir. Elsa Drucaroff). Buenos 
+Aires: Emecé, 2000. 321-343.
+Fabry, Geneviève. “Ritualización y epifanía en Nadie nada nunca”. AAVV. El 
+lugar de Juan José Saer. Actes 10 (ed. Milagros Ezquerro). Montpellier: 
+Éditions du C.E.R.S, 2002. 141-157.
+Gramuglio, María Teresa. “El lugar de Saer”. Juan José Saer por Juan José Saer. 
+Buenos Aires: Celtia, 1986. 261-299. 
+Manzi, Joaquín. Vers une poétique du reél. L’oeuvre de Juan José Saer. Thèse 
+pour le doctorat. Université de Poitiers, 1995. (mimeo).
+Montaldo, Graciela. Juan José Saer - El limonero real. Buenos Aires: Hachette, 
+1986. 
+Monteleone, Jorge. “Eclipse del sentido: de Nadie nada nunca a El entenado 
+de Juan José Saer”. R. Sipller (ed.). La novela argentina en los años 80. 
+Frankfurt: Vervuet, 1993. 42-43.
+Pauls, Alan. “La primera novela realista sobre el azar”. Babel (septiembre de 
+1988): 4-5.
+Premat, Julio. La dicha de Saturno. Escritura y melancolía en la obra de Juan 
+José Saer. Rosario: Beatriz Viterbo Editora, 2002.
+Quintana, Isabel Alicia. Figuras de la experiencia en el fin de siglo. Cristina Peri 
+Rosi, Ricardo Piglia, Juan José Saer y Silviano Santiago. Rosario: Beatriz 
+Viterbo Editora, 2001.
+Ricoeur, Paul. La metáfora viva. Estudios VII y VIII. Buenos Aires: Megápolis, 
+1975.
+25
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Un realismo de lo irreal…: 9-25
+Saer, Juan José. Responso. Buenos Aires: Seix Barral, 1964.
+—— Cicatrices. Buenos Aires: Seix Barral, 1969.
+—— El limonero real. Buenos Aires: Seix Barral, 1974.
+—— “El intérprete”. 1976. Cuentos completos. Buenos Aires: Seix Barral, 
+2001.
+—— Nadie nada nunca. Buenos Aires: Seix Barral, 1980.
+—— El entenado. Buenos Aires: Seix Barral, 1983.
+—— Lo imborrable. Buenos Aires: Seix Barral, 1993.
+Sarlo, Beatriz. “Narrar la percepción”. Punto de vista 10 (noviembre 1980): 
+34-37.
+Scavino, Dardo. “El lugar perfecto para hacer ondular deseo y alucinación”. 
+AAVV. El lugar de Juan José Saer. Actes 10 (ed. Milagros Ezquerro). Mon-
+tpellier: Éditions du C.E.R.S, 2002. 263-281.
+Fecha de recepción: 27-03-09 / Fecha de aprobación: 22-04-09

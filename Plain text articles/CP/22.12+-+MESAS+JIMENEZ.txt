@@ -1,0 +1,692 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS LIBRES
+AICLE: METODOLOGÍAS ACTIVAS PARA EL ÉXITO
+DE LA INCLUSIÓN EDUCATIVA
+CLIL: Active methodologies for the success of inclusive
+education
+Mesas Jiménez, Rebeca
+ Rebeca Mesas Jiménez *
+rebeca.mesas@urjc.es
+Universidad Rey Juan Carlos, España
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 22, e2212, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 06/11/23
+Aprobación: 22/12/23
+URL: http://portal.amelica.org/ameli/journal/785/7854634016/
+DOI: https://doi.org/10.30972/clt.227308
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: Ante la rápida expansión del enfoque AICLE en toda
+Europa y el desarrollo de políticas educativas que promueven el
+plurilingüismo y la educación inclusiva y de calidad, los docentes
+nos encontramos con la necesidad de afrontar los retos que nos
+plantea la enseñanza bilingüe. El enfoque AICLE ha demostrado
+tener muchos beneﬁcios, pero a su vez plantea desafíos que nos
+invitan a reﬂexionar acerca de nuestras prácticas docentes. Según
+estudios recientes, una de las mayores diﬁcultades es diseñar
+entornos de aprendizaje donde contenidos y lengua extranjera se
+adquieran atendiendo a la diversidad del aula. Para hacer frente
+a esta realidad, se proponen la implementación de metodologías
+activas junto al uso de estrategias de andamiaje que contribuyan
+a la construcción de conocimiento de contenido y lengua como
+medidas de inclusión educativa.
+Palabras 
+clave: 
+enseñanza 
+bilingüe, 
+enfoque 
+AICLE,
+metodologías activas, estrategias de andamiaje, planiﬁcación.
+Abstract: With the rapid expansion of the CLIL approach
+across Europe and the development of educational policies
+that promote plurilingualism and inclusive, quality education,
+teachers are faced with the need to address the challenges of
+bilingual teaching. e CLIL approach has proven to have many
+beneﬁts, but at the same time, it involves challenges that invite us
+to reﬂect on our teaching practices. According to recent studies,
+one of the greatest diﬃculties is to design learning environments
+where content and the foreign language are learned while
+considering the diversity of the classroom. To deal with this
+reality, the implementation of active methodologies and the use
+of scaﬀolding strategies that contribute to the construction of
+content and language knowledge are proposed as measures of
+educational inclusion.
+Keywords: bilingual education, CLIL approach, active
+methodologies, scaﬀolding strategies, planiﬁcation.
+Notas de autor
+*
+Rebeca Mesas Jiménez es Licenciada en Traducción e Interpretación por la Universidad Pontiﬁcia Comillas y en Magisterio por el Centro
+Universitario de Educación. Cuenta con un Máster Universitario en Enseñanza del Español como Lengua Extranjera por la Universidad
+Complutense de Madrid (UCM) y otro Máster en las tecnologías de la información y la comunicación en la enseñanza y el tratamiento de las lenguas
+por la Universidad Nacional de Educación a Distancia (UNED). Enseña didáctica del inglés como lengua extranjera en la Universidad Rey Juan
+Cuadernos de Literatura, 2023, núm. 22, e2212, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+1. Programas AICLE para el aprendizaje de lenguas en Europa
+La adquisición de la lengua inglesa en programas de enseñanza bilingüe viene siendo tema de estudio en
+sistemas educativos de todo el mundo. Algunas administraciones educativas han implementado programas
+en los que se imparten algunas asignaturas en una lengua extranjera, convirtiendo esa segunda lengua en la
+vehicular del aprendizaje. El objetivo es que los alumnos no sólo aprendan una segunda lengua, sino que
+también adquieran un dominio cercano al de su lengua materna a través del aprendizaje de contenidos
+curriculares. Estos programas se inician en la etapa de educación infantil y su desarrollo debe ser progresivo
+para alcanzar los objetivos adecuados. Asimismo, desde la Unión Europea se promueven programas que se
+centran en la comunicación y la movilidad de estudiantes, lo que implica que todos los participantes sean
+capaces de utilizar diferentes idiomas. Un reciente informe llevado a cabo por la Agencia Ejecutiva Europea de
+Educación y Cultura (EACEA, 2023) se ha centrado en mostrar las principales políticas educativas aplicadas
+a la enseñanza y el aprendizaje de lenguas en 39 sistemas educativos europeos. Según este estudio, “AICLE
+1 se
+reﬁere a la educación bilingüe o de inmersión, donde algunas asignaturas, como las matemáticas, la geografía y
+las ciencias naturales, se imparten en una lengua diferente de la de escolarización” (2023, p. 66). El propósito
+de estos programas de enseñanza bilingüe es mejorar la competencia lingüística de los estudiantes en una
+lengua extranjera.
+Los programas AICLE existen prácticamente en todos los países europeos. Solo Grecia, Bosnia y
+Herzegovina, Islandia y Turquía no ofrecen programas AICLE. Actualmente en Europa, se distinguen
+principalmente tres tipos de estos programas de enseñanza bilingüe: el más utilizado, que se implementa en
+29 de los 35 países que tienen programas AICLE, implica la enseñanza de algunas asignaturas en la lengua
+de escolarización y el resto en un idioma extranjero. La mayoría consisten en la combinación de tres lenguas
+diferentes (español-inglés, español-francés, español-alemán) como es el caso de España. En otros países como
+Alemania o Francia el número de combinaciones lingüísticas supera las 10, siendo las lenguas más utilizadas el
+inglés, el francés y el alemán, y en menor medida el español y el italiano. El segundo tipo más adoptado, en 18
+sistemas educativos, implica la enseñanza de algunas materias en la lengua estatal y otras en la lengua regional
+o minoritaria, por ejemplo, en el caso de República Checa la lengua estatal y el polaco. Un tercer enfoque de
+programas AICLE se encuentra en países con múltiples lenguas estatales, donde se implementan materias que
+se imparten en las dos lenguas estatales, tales como Bélgica, Irlanda, Luxemburgo, Malta, Finlandia y Suiza.
+Como se puede observar, el enfoque AICLE se ha extendido por la mayoría de los países europeos a causa
+de la promoción de las políticas lingüísticas europeas con la intención de promover el plurilingüismo
+2 a través
+de la enseñanza de contenidos curriculares en una lengua extranjera y crear ciudadanos capaces de afrontar los
+retos del siglo XXI. Desde su implantación se han llevado a cabo numerosos estudios que pretenden analizar
+los resultados de este tipo de enseñanza desde distintos ángulos. De hecho, España es el país con el mayor
+número de publicaciones, seguido por otros países europeos (Hidalgo y Ortega-Sánchez, 2023).
+1.1. Beneﬁcios del enfoque AICLE
+Si nos centramos en aspectos positivos del enfoque, podemos destacar los estudios realizados por Hüttner,
+Dalton-Puﬀer y Smit (2013), Hüttner y Smit (2018) o Döring (2020) donde todos los profesores se muestran
+motivados con la educación bilingüe y aﬁrman que sus clases AICLE son más relajadas, colaborativas y
+empáticas debido a explicaciones más extensas a un ritmo más lento con respecto a las lecciones tradicionales.
+Otra de las ventajas, tal como aﬁrma Sukardi et al. (2021), es que este enfoque favorece el aprendizaje
+Carlos (URJC). Ha sido maestra de Primaria y ahora docente en Educación superior. Actualmente, entre sus líneas de investigación se encuentran
+la aplicación del enfoque AICLE, el uso de metodologías activas, la implantación del Diseño Universal para el Aprendizaje con el ﬁn de promover
+la inclusión educativa en el marco de la enseñanza bilingüe.
+Rebeca Mesas Jiménez. AICLE: METODOLOGÍAS ACTIVAS PARA EL ÉXITO DE LA INCLUSIÓN EDUCATIVA
+PDF generado a partir de XML-JATS4R
+tanto de una lengua extranjera como de contenidos curriculares enseñados a través de dicha lengua.
+También contribuye al desarrollo de competencias sociales y habilidades de pensamiento crítico y creativo
+para la resolución de problemas sociales contemporáneos (Ortega-Sánchez, 2022). Podemos atribuir estos
+beneﬁcios a que dos de los rasgos característicos de este enfoque son el trabajo colaborativo, lo que permite
+crear un ambiente distendido dando lugar a un aprendizaje más profundo de los contenidos, y el desarrollo
+del pensamiento crítico, centrándose en cómo los estudiantes ponen en funcionamiento los procesos de
+cognición. Así, bien aplicado en el aula, es un enfoque integrador que permite atender la diversidad de
+personalidades y estilos de aprendizaje a través de la implementación de metodologías activas, que se alejan
+de los métodos tradicionales.
+En lo referente a una revisión sistemática llevada a cabo recientemente sobre AICLE como enfoque
+metodológico, Ruiz Hidalgo y Ortega-Sánchez (2023) destacaron más beneﬁcios del enfoque. En dicha
+investigación se llegan a las conclusiones de que existen numerosos estudios que indican un aumento de la
+motivación en estudiantes que reciben este tipo de enseñanza, detectando así no sólo docentes sino también
+estudiantes más motivados. Esta motivación no sólo era mayor en las áreas de ciencias sino también en música
+y educación física, donde el interés se incrementaba sobre todo con el uso de metodologías activas tales como
+la gamiﬁcación o la competencia digital. Coinciden con estudios anteriores en que el enfoque contribuye al
+desarrollo de las habilidades cognitivas y aumenta la creatividad y la capacidad para resolver problemas en
+áreas como matemáticas o ciencias. Esa es precisamente una de las ﬁnalidades principales de este enfoque: el
+desarrollo de habilidades de pensamiento desde el aprendizaje integrado de contenidos y lengua extranjera.
+Algunos estudios han reﬂejado la pérdida de contenidos curriculares en la enseñanza bilingüe por el hecho
+de aprenderlos en una lengua distinta a la materna. Pavón et al. (2014) demostraron que las consecuencias de
+introducir una L2 en el aula se traducían en una pérdida de contenido. Por su parte, Carrasco (2019) nombró
+como principales amenazas de la enseñanza bilingüe la pérdida de contenidos, de información, de tiempo y
+de comunicación. Sin embargo, podemos aﬁrmar que no siempre ocurre así. Ruiz Hidalgo y Ortega-Sánchez
+(2023) reﬂejaron en su investigación que dos de los estudios analizados apuntaban que no sólo no se veía
+afectado el aprendizaje de los contenidos cuando se aprenden en una lengua distinta a la materna, sino que
+además se mejoraban las destrezas lingüísticas. En suma, entre los aspectos positivos del enfoque AICLE este
+estudio señaló un aumento de la autonomía y la conﬁanza, reducción de la ansiedad a la hora de aprender
+una lengua extranjera, una mayor participación en la clase y la promoción de la igualdad de oportunidades e
+igualdad de género. En este sentido, en un estudio llevado a cabo por Nieto y Hill (2019), se concluyó que
+la enseñanza bilingüe podía tener un impacto positivo en los resultados en ciencias por parte del alumnado
+de género femenino. Esto se debe a que, al aprender ciencias en inglés, las alumnas pueden utilizar sus
+habilidades lingüísticas como elemento de motivación al tener mayor interés y habilidad con las lenguas que
+los alumnos. En su investigación, Mahan (2020) se reﬁrió a que tanto los efectos positivos en la motivación
+de los estudiantes como el éxito del aprendizaje del contenido curricular están directamente relacionados con
+el buen diseño de materiales y actividades y la correcta aplicación de metodologías y estrategias de aprendizaje
+tales como el andamiaje. Esta aﬁrmación nos invita a reﬂexionar sobre los cambios metodológicos contenidos
+en la enseñanza bilingüe para evitar pérdida de conceptos, de vocabulario, de ﬂuidez en la comunicación
+y, en deﬁnitiva, para lograr una enseñanza inclusiva y de calidad. Así pues, el aprendizaje cooperativo y las
+metodologías activas podrían facilitar la comunicación y el uso de la lengua extranjera entre pares. Ruiz
+Hidalgo y Ortega-Sánchez (2023) llegan a la conclusión de que este tipo de enfoque conlleva el impulso de
+crear oportunidades para el desarrollo de las habilidades de pensamiento y el pensamiento creativo de los
+estudiantes.
+Por consiguiente, podemos inferir que entre las ﬁnalidades metodológicas del enfoque AICLE se
+encuentran el uso de estrategias de andamiaje que nos permitan desarrollar habilidades de pensamiento,
+la construcción de conocimiento de contenido y lengua, la puesta en práctica del pensamiento crítico y el
+aumento de la motivación y la participación de los estudiantes. Y, para aplicarlo con éxito en el aula, sería
+Cuadernos de Literatura, 2023, núm. 22, e2212, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+conveniente incorporar cambios metodológicos que se ajusten al enfoque y que generen actitudes de empatía
+y contemplen la inclusión educativa. El uso de metodologías activas podría, por sus semejanzas con el enfoque,
+convertirse en un elemento clave del diseño curricular para cumplir con sus objetivos.
+A modo de cierre de este apartado, los beneﬁcios del enfoque AICLE según la mayoría de los estudios
+podemos sintetizarlos en:
+•
+La creación de un entorno de aprendizaje más relajado y propicio para el aprendizaje de una segunda
+lengua.
+•
+El desarrollo de la competencia social y del pensamiento crítico de los estudiantes.
+•
+El aumento de la capacidad para la resolución de problemas de la vida real.
+•
+El incremento de la motivación, la conﬁanza y la participación.
+•
+La oportunidad para promover oportunidades de igualdad e inclusión en el aula.
+1.2. Retos del enfoque AICLE
+En efecto, son numerosas las ventajas que presenta la adopción del enfoque AICLE, sin embargo, en la
+actualidad aún quedan retos por cumplir. A menudo los docentes subrayan la diﬁcultad de abordar el lenguaje
+académico, la falta de tiempo para diseñar materiales que atiendan a la diversidad de su aula, la ausencia
+de recursos personales que apoyen a los estudiantes con diﬁcultades para el aprendizaje y la escasez de
+formación docente en la aplicación del AICLE. Asimismo, aunque el enfoque AICLE mejora la motivación
+del alumnado en el aprendizaje de contenido (García Fernández et al., 2017), supone un reto que esa
+motivación se maniﬁeste con respecto al aprendizaje de la lengua.
+Las escasas habilidades pedagógicas de los docentes en entornos bilingües, la falta de docentes cualiﬁcados
+tanto en lengua como en contenido en contextos AICLE, la ausencia de materiales apropiados, el
+desequilibrio entre competencia lingüística y adquisición de contenidos por parte de los estudiantes, las
+características distintivas de cada área y la diﬁcultad de identiﬁcar la zona de desarrollo próximo real de
+los estudiantes hacen la enseñanza bilingüe más problemática (Awan y Sipra, 2018; Stoller y Fitzsimmons-
+Doolan, 2017). En un estudio realizado por Bauer-Marschallinger (2019, 2020) los estudiantes manifestaban
+necesitar un enfoque más centrado en la construcción de la lengua que les ayudase a navegar por el input
+más desaﬁante y expresar sus ideas. Es decir, echaban en falta técnicas de andamiaje por parte de los docentes
+que les permitieran expresarse con mayor ﬂuidez. Sin embargo, sus profesores aﬁrmaban que parafraseaban y
+traducían fragmentos, desentrañando el contenido más denso y el vocabulario especíﬁco para asegurarse de
+la comprensión de los estudiantes incluso sin ser conscientes de ello.
+Ante lo expuesto, de todos los desafíos que se han enumerado, nos centraremos en este apartado en la
+necesidad de incorporar técnicas de andamiaje que contribuyan a la construcción de contenido y lengua. De
+acuerdo con Mahan (2020) los docentes no pueden ser explícitos en su andamiaje si no lo hacen de manera
+consciente. Es decir, con frecuencia los docentes incluyen estrategias de andamiaje en su práctica docente
+sin saberlo, lo que impide poner de maniﬁesto la organización de estas estrategias en torno a las actividades
+propuestas. En deﬁnitiva, el uso consciente de estrategias de andamiaje podría ser una de las claves para ayudar
+a los estudiantes a construir por sí mismos su propio aprendizaje de contenido y lengua, ajustándose a sus
+necesidades y estilos de aprendizaje. El docente, por su parte, estaría atendiendo así la diversidad del aula.
+En esta misma línea, en otro estudio llevado a cabo en Noruega por Mahan, Brevik y Ødegaard (2021)
+también se destacó la relevancia de incorporar estrategias de andamiaje en entornos de enseñanza bilingüe.
+Los docentes encuestados manifestaron que utilizaban estrategias de andamiaje para facilitar la comprensión,
+tales como el apoyo visual, el lenguaje corporal, creando así oportunidades para la negociación de signiﬁcado,
+la aclaración de terminología y la activación del conocimiento previo. Sin embargo, Mahan (2022) observó
+poco andamiaje metacognitivo en la resolución de tareas.
+Rebeca Mesas Jiménez. AICLE: METODOLOGÍAS ACTIVAS PARA EL ÉXITO DE LA INCLUSIÓN EDUCATIVA
+PDF generado a partir de XML-JATS4R
+Nos encontramos así ante la necesidad de implementar experiencias de aprendizaje que establezcan qué
+objetivos tiene una tarea y cómo se va a resolver; experiencias que incluyan estrategias de andamiaje no sólo
+para la construcción del conocimiento sino también de la L2 y doten a los estudiantes de herramientas de
+metacognición para aprender a aprender. Estas estrategias resultarían beneﬁciosas sobre todo para aquellos
+estudiantes a los que aprender contenidos a través de lenguas extranjeras les suponga un reto lingüístico.
+Algunos estudios señalaban que un bajo nivel lingüístico inﬂuía negativamente en el éxito del enfoque (Kahn-
+Horwitz, 2020). Esto era menos frecuente cuando todos los estudiantes comprendían la L2. Por lo tanto, es
+necesario profundizar en este aspecto dada la probada viabilidad de la implementación del enfoque AICLE
+en educación y reﬂexionar acerca del uso de estrategias de andamiaje para la construcción de la lengua. El
+diseño de materiales que contribuyan a la adquisición de la competencia lingüística contribuirá a un mayor
+éxito del enfoque.
+Para lograr la adquisición de la lengua extranjera, Buckingham (2018) destaca que los auxiliares de
+conversación son otro de los recursos más valiosos y motivadores que los estudiantes tienen en entornos
+AICLE. En este punto, podemos pensar en el auxiliar como un recurso personal de andamiaje. Estos auxiliares
+de conversación ofrecen un modelo real de la lengua, su propia cultura y permiten una atención inmediata
+y personalizada a las necesidades comunicativas que surgen en el aula, tanto para los docentes como para
+los aprendientes. Arellano et al. (2020) señalaban que cuando se involucran hablantes nativos de la lengua
+estudiada los resultados son altamente aprobados por lingüistas expertos quienes ven estas estrategias como
+una de las más eﬁcaces a la hora de aprender una lengua extranjera. Es decisivo el papel de los auxiliares
+de conversación que acompañan a los docentes y del mismo modo es primordial el papel del docente que
+tiene que sacar el máximo provecho a este recurso para el desarrollo de la competencia comunicativa de sus
+estudiantes.
+Por último, ante el reto de promover actitudes positivas y un aumento de la motivación ante el aprendizaje
+de la L2 a través de contenidos curriculares, Reilly y Sanchez-Rosas (2021) subrayaron que el uso de las
+funciones ejecutivas o estrategias de aprendizaje de nivel superior inﬂuyen en las emociones como mediadoras
+para la motivación. En deﬁnitiva, se pone de maniﬁesto la importancia de la motivación y las emociones ante
+el aprendizaje de una lengua extranjera, así como la urgencia de incorporar de estrategias de andamiaje que
+fomenten las habilidades de pensamiento superior y las habilidades funcionales que ayudan a fortalecer los
+aprendizajes y a adquirir destrezas y habilidades que les serán útiles durante sus diversas etapas escolares.
+El desarrollo de estas habilidades se fomenta a través de estrategias de andamiaje en el marco AICLE
+y además es básica esta idea para el éxito del aprendizaje. Según Urraca (2023), desarrollarlas es aún más
+necesario en un entorno AICLE donde el vehículo para llevar a cabo los procesos cognitivos es la lengua
+extranjera. Urraca propone una progresión utilizando verbos que vayan desde las habilidades de orden
+inferior a las de orden superior, por ejemplo, desde “observa” o “clasiﬁca” a “juzga” o “transforma”. Para ello,
+los docentes podríamos nivelar las actividades de acuerdo a las necesidades cognitivas de nuestro alumnado,
+atendiendo así a su diversidad y contribuyendo a mantener una motivación positiva.
+Así pues, los docentes podríamos contribuir a la mejora de los resultados de aprendizaje en el aula bilingüe
+incluyendo en nuestras prácticas educativas estrategias de andamiaje de forma consciente y explícita. El diseño
+de materiales que se ajuste a las necesidades de los estudiantes, que tenga en cuenta el auxiliar de conversación
+como recurso para el andamiaje y que desarrollen las habilidades de pensamiento de nuestros estudiantes es
+fundamental para afrontar los retos de este tipo de enseñanza.
+En conclusión, tal como aﬁrmaban Bauer-Marschallinger et al. (2021) a pesar de que el enfoque AICLE se
+ha abordado a partir de su deﬁnición y sus estrategias metodológicas, se echa en falta un análisis sistemático
+centrado en la aplicación de sus prácticas pedagógicas. Analizar cómo se aplica el enfoque AICLE en las aulas
+es una de las necesidades educativas actuales para poder mejorar su ejecución, sus resultados de aprendizaje
+y la inclusión educativa.
+Cuadernos de Literatura, 2023, núm. 22, e2212, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+2. Metodologías activas
+La enseñanza tradicional se ha ido dejando en favor de métodos más activos, como el aprendizaje cooperativo
+y colaborativo, el aula invertida, la gamiﬁcación o el aprendizaje basado en proyectos que posibilitan la
+participación de nuestros estudiantes. Estas metodologías promueven la colaboración y la integración de
+proyectos interdisciplinares de diferentes áreas del currículo con el propósito de fomentar un aprendizaje
+signiﬁcativo y competencial desde una perspectiva inclusiva y holística. Asimismo, permiten que las áreas se
+entrelacen y el aprendizaje se integre en un proyecto con un objetivo común y un producto ﬁnal simultáneo.
+Torres Carceller (2019) evidenció que estas metodologías consisten en que el docente proporcione pautas
+a los estudiantes para que por sí mismos vayan construyendo su conocimiento. Esta deﬁnición puede ser
+el punto de partida para la programación de lecciones AICLE basadas en metodologías activas: cómo los
+estudiantes van a construir su aprendizaje a través del uso de estrategias de andamiaje, que no sólo contribuyan
+a construir contenido sino también la competencia lingüística. En ese sentido, desde el Marco Común Europeo
+de Referencia para las lenguas (Consejo de Europa, 2021) también se impulsa un aprendizaje que sitúe a
+los estudiantes en situaciones de la vida real, determinado por la acción. Este enfoque se centra en tareas
+colaborativas y signiﬁcativas en el aula, donde la intención principal no es la lengua en sí misma, sino un
+producto adicional, tal como la planiﬁcación de un viaje o la creación de un podcast. Así pues, anima a
+fomentar el discurso para construir conocimiento, lo que implica proporcionar a los estudiantes el andamiaje
+que les permita construir por sí mismos un nuevo concepto. Y añade: “En una época como la nuestra, de
+sociedades cada vez más diversas, la construcción de conocimiento puede producirse entre varias lenguas y
+apelar a los repertorios plurilingües y pluriculturales de los usuarios o aprendientes” (2021, p. 38).
+Según estas premisas, al implementar metodologías activas en el enfoque AICLE, los docentes buscaríamos
+mejorar nuestras prácticas educativas observando cómo aprender mejor nuestros estudiantes. Para ello,
+necesitamos conocer de la manera más exhaustiva posible el perﬁl de los estudiantes que conforman el aula y
+las características de esa aula como contexto de aprendizaje. Existen distintos estilos de aprendizaje, de ahí la
+diversidad del aula, no todos aprendemos igual, procesamos la información del mismo modo ni percibimos
+el mundo que nos rodea de la misma manera. Tampoco tenemos las mismas experiencias de vida ni el mismo
+bagaje cultural. Es por esto por lo que los docentes tenemos la obligación de contextualizar el proceso de
+enseñanza dentro de nuestra propia aula dando prioridad al descubrimiento de las personalidades y los
+procesos cognitivos que ayudan mejor a nuestros estudiantes para poder así ofrecer una enseñanza inclusiva en
+contextos de enseñanza bilingüe. Nos referimos a enseñanza inclusiva como aquella que identiﬁca y elimina
+todas las barreras que impiden el acceso a la educación (UNESCO, 2023).
+De acuerdo con el marco legal actual que regula el currículo de la etapa de Educación Primaria en España
+(Real decreto 157/22, Ministerio de Educación y Formación Profesional, 2022), las metodologías activas son
+apropiadas para que emerja el aprendizaje competencial ya que posibilitan la construcción del conocimiento
+y estimulan la actividad en el aula a través del intercambio de ideas. La creación de experiencias o situaciones
+de aprendizaje promueven la integración de diferentes estilos de aprendizaje y fomentan la reﬂexión y el
+desarrollo del pensamiento crítico y la investigación. Los estudiantes se convierten en protagonistas activos
+de su propio aprendizaje. Estas experiencias de aprendizaje junto con los principios del Diseño Universal
+para el Aprendizaje nos permitirán plantear una enseñanza bilingüe ﬂexible y accesible a todos los estudiantes
+independientemente de sus diferencias individuales.
+En este punto, podríamos referirnos a la metodología aprender haciendo o learning by doing como
+otra de las metodologías activas que consiste en involucrar activamente a los estudiantes en experiencias
+prácticas y reales donde aplican contenidos y experimentan las consecuencias de sus acciones. El alumnado
+adquiere el papel de actor principal en su proceso de aprendizaje, implicándose en proyectos, simulaciones
+y experimentos que le permiten explorar, descubrir, resolver problemas y reﬂexionar acerca de sus propias
+experiencias (González-Sanmartín y Yanacallo-Pilco, 2020). Este método pone el énfasis en la participación,
+Rebeca Mesas Jiménez. AICLE: METODOLOGÍAS ACTIVAS PARA EL ÉXITO DE LA INCLUSIÓN EDUCATIVA
+PDF generado a partir de XML-JATS4R
+la experimentación y el descubrimiento como motores del aprendizaje signiﬁcativo (Barrera Medina y
+Ramírez Villalpando, 2022). En contraposición a las clases magistrales pasivas, donde el estudiantado es un
+mero receptor de información, esta metodología promueve un enfoque más dinámico y participativo (Azanza
+et al., 2022).
+Entendiendo por metodologías activas una concepción metodológica en la que se plantea qué
+competencias debe desarrollar la escuela para satisfacer las necesidades de formación integral de todo el
+alumnado (Muntaner Guasp et al., 2020), podemos aﬁrmar que al implantarlas en el enfoque AICLE,
+estaríamos contribuyendo a mejorar la enseñanza bilingüe convirtiéndola en un entorno inclusivo para el
+aprendizaje de contenidos y lengua extranjera. Según Durán-Martínez y Beltrán-Llavador (2020) en un
+estudio realizado a profesores inmersos en este tipo de enseñanza, la mayoría mostraron preocupación por
+la falta de atención a la diversidad en los programas de enseñanza bilingüe, argumentando que si ésta no
+se aborda de manera adecuada podría conducir a desigualdades entre los estudiantes. Por otro lado, en una
+investigación reciente se concluye que entre los docentes AICLE hay un descontento extendido con respecto
+a la atención a la diversidad dentro del programa. Los hallazgos muestran que una estrategia podría ser
+desdoblar grandes grupos en grupos más reducidos ya que serviría a los docentes a atender no sólo a los
+alumnos con necesidades sino también a aquellos de altas capacidades, pudiendo sacar de ambos su máximo
+potencial (SzczeSniak y Muñoz Luna, 2022). Hasta que sea posible tomar estas medidas en las aulas, podemos
+encontrar en el uso de distintos métodos pedagógicos una posible estrategia para abordar la diversidad en el
+aula bilingüe.
+Figura 1. Estrategia metodológica para una enseñanza bilingüe inclusiva. Elaboración propia.
+3. Analogía entre el enfoque AICLE y el uso de metodologías activas
+Según Gómez Plasencia (2020) hasta ahora no existe una metodología infalible para adquirir una segunda
+lengua, ya que la competencia se puede alcanzar a través de varios métodos y estrategias. La clave para el
+éxito radica en que los estudiantes descubran las técnicas más efectivas para su aprendizaje. Del mismo modo
+Arellano, Reinao, Marianjel y Curaqueo (2020) aseguraron que algunos de los factores que contribuyen,
+en parte, al éxito en el proceso de aprendizaje de un segundo idioma incluyen la motivación, la habilidad
+Cuadernos de Literatura, 2023, núm. 22, e2212, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+y la personalidad. Ignatova, Kalyuga y Sweller (2023) aﬁrmaron que la carga cognitiva producto de la
+imaginación junto con la utilización de recursos visuales y espaciales mejoran el aprendizaje de una segunda
+lengua. A este respecto metodológico, Jabbarova (2020) señaló que, a pesar de la actual popularidad del
+uso de metodologías eclécticas debido a la diversidad que caracterizan las aulas contemporáneas, algunos
+docentes preﬁeren utilizar un único método, lo que reﬂeja su comodidad y sensibilidad hacia esta visión
+más tradicional. Por eso, el profesor es un factor imprescindible en la selección de la metodología en la
+enseñanza de una lengua extranjera (Arellano et al., 2020). De este modo, podemos aﬁrmar que el enfoque
+AICLE cumple con las pautas de las metodologías activas siendo un contexto ideal para su implementación,
+creándose así una simbiosis entre ambos: Enfoque y métodos activos de enseñanza. “En esencia, AICLE puede
+considerarse un enfoque poderoso dado que, bien llevado a la práctica, el aprendizaje de los contenidos no
+sufre y la adquisición de una lengua extranjera en contextos signiﬁcativos se logra con éxito” (Avilés Cerviño,
+2020, p. 11).
+Ante lo expuesto, según Álvarez-Coﬁño Martínez (2019) un factor fundamental en el proceso de
+adquisición de una lengua es la oportunidad de que el aprendizaje ocurra en un contexto real, capaz de ofrecer
+situaciones espontáneas en la que se desarrolle el proceso de enseñanza aprendizaje. Resulta primordial
+entonces que los docentes creen contextos o experiencias de aprendizaje donde los estudiantes puedan aplicar
+sus conocimientos a situaciones de la vida real, originando así un aprendizaje más profundo y signiﬁcativo.
+Asimismo, cabe mencionar aquellos estudios que desde este enfoque han integrado metodologías activas y el
+uso de la competencia digital (Ruiz Hidalgo y Ortega-Sánchez, 2023) y sus buenos resultados de aprendizaje.
+En el siguiente cuadro, se puede comprobar la analogía entre el enfoque AICLE y la implementación de
+metodologías activas que hemos mencionado: “El enfoque AICLE es a las metodologías activas lo que el
+aprendizaje signiﬁcativo es a la creación de contextos de aprendizaje”.
+Figura 2. “El enfoque AICLE es a las metodologías activas lo que el aprendizaje
+signiﬁcativo es a la creación de contextos de aprendizaje”. Cuadro de elaboración propia.
+Como vemos las semejanzas entre el enfoque AICLE y el uso de las metodologías activas invita a una
+combinación perfecta para lograr los objetivos de aprendizaje de un modo signiﬁcativo. Entre esas similitudes
+podemos destacar el papel de los estudiantes como centro y protagonistas de su propio aprendizaje, siendo
+partícipes y atendiendo así los docentes a sus necesidades e intereses; La contextualización de los contenidos
+conduce a que la implicación y la motivación de los estudiantes aumente al relacionar los contenidos con
+sus propias experiencias; El trabajo colaborativo, un rasgo inherente tanto al enfoque AICLE como a las
+metodologías activas, fomenta el desarrollo de habilidades sociales y la atención a la diversidad; Y la aplicación
+del conocimiento en la resolución de problemas del mundo real promueve el desarrollo de las habilidades de
+pensamiento superior y del pensamiento crítico dando lugar a un aprendizaje signiﬁcativo y profundo que
+Rebeca Mesas Jiménez. AICLE: METODOLOGÍAS ACTIVAS PARA EL ÉXITO DE LA INCLUSIÓN EDUCATIVA
+PDF generado a partir de XML-JATS4R
+convertirá a nuestros estudiantes en ciudadanos activos en su vida futura. De este modo, los docentes dejan
+de ser transmisores de información para convertirse en moderadores del aprendizaje.
+4. Propuesta pedagógica: medidas para una enseñanza bilingüe inclusiva
+Ante la necesidad de responder a algunos de los retos actuales de la enseñanza bilingüe que se presentan en este
+documento tras la revisión de numerosos estudios, se presentan tres estrategias pedagógicas que enmarcadas
+en el uso de metodologías activas podrían contribuir a lograr un proceso de enseñanza aprendizaje más
+inclusivo y competencial.
+A) Estrategias de andamiaje de contenido y lengua: construcción del conocimiento
+Con el objetivo de mejorar el proceso de aprendizaje y, así, obtener mejores resultados y rendimiento
+académico en el enfoque AICLE, algunos trabajos apuntan a la necesidad de aplicar diferentes estrategias
+metacognitivas. De hecho, uno de los retos a los que se enfrentan docentes de todo el mundo a la hora
+de aplicar el enfoque AICLE en el aula es incorporar el uso de estrategias de andamiaje de contenido y de
+lengua en su práctica docente que fomenten la inclusión educativa. El desarrollo de la metacognición se
+ha investigado en contextos AICLE y los resultados de estudios indican que el desarrollo de estrategias de
+metacognición es una herramienta crucial para los estudiantes. Sin embargo, cuando se analizó el uso de
+estas estrategias en las clases de ciencias sociales y geografía impartidas en lengua extranjera, se observó que
+la mayoría de los docentes en las áreas de ciencias se centraban en la interacción y la comunicación de los
+estudiantes, pero apenas se facilitaban estrategias. La reﬂexión en la selección e incorporación consciente de
+estrategias de andamiaje adecuadas al contexto de aprendizaje en la práctica docente y la autonomía sobre
+cómo aprender a aprender por parte de cada estudiante ayudarían a erradicar las desigualdades en el aula
+bilingüe.
+A continuación, se presentan dos tablas con estrategias de andamiaje. Los docentes seleccionarían de
+manera consciente aquellas que van a incluir en la programación de su lección AICLE en el momento de su
+planiﬁcación.
+Cuadernos de Literatura, 2023, núm. 22, e2212, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Figura 3. Estrategias de andamiaje de contenido. Elaboración propia.
+Los objetivos que nos permiten alcanzar estas estrategias de andamiaje son: (1) Motivar al estudiante
+durante el desarrollo de una actividad de aprendizaje; (2) Adaptar la tarea de acuerdo con las necesidades
+del aprendiz; (3) Mantener el interés del aprendiz en la tarea; (4) Establecer el avance de la actividad para
+proponer acciones consecuentes; (5) Manejar la frustración y el fracaso y; (6) Disminuir el apoyo a través del
+tiempo (Villalonga-Gómez et al., 2023).
+En este proceso, el rol del docente es imprescindible, acompaña al aprendiz en su proceso de
+autorregulación, le guía y apoya en todo momento y ofrece la retroalimentación necesaria (Hernández Rivero
+et al., 2021, p. 221).
+Rebeca Mesas Jiménez. AICLE: METODOLOGÍAS ACTIVAS PARA EL ÉXITO DE LA INCLUSIÓN EDUCATIVA
+PDF generado a partir de XML-JATS4R
+Figura 4. Estrategias de andamiaje de la lengua. Elaboración propia.
+A continuación, el cuadro nos permite obtener un modelo visual de cómo se llevarían a la práctica estas
+estrategias junto con las 4Cs del enfoque AICLE en el diseño de materiales para el aprendizaje de contenido
+y lengua extranjera desde el aprendizaje basado en proyectos.
+Cuadernos de Literatura, 2023, núm. 22, e2212, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Figura 5. Desarrollo de una secuencia para el diseño de materiales AICLE. Elaboración propia.
+En conclusión, implementar estrategias de andamiaje, basadas en una dimensión multisensorial para el
+aprendizaje de contenidos y lengua extranjera en un aula con diversidad de capacidades resultaría beneﬁcioso
+para contribuir a la construcción del conocimiento. El desarrollo de la metacognición se considera una
+herramienta poderosa para crear estudiantes autónomos e independientes en el proceso de aprendizaje en
+entornos AICLE (Li y Zhang, 2020).
+B) Modelo de los cinco grandes
+Otro de los retos que nos plantea este tipo de programas es, como docentes, crear un ambiente ﬂexible y de
+conﬁanza que despierte emociones positivas y aumente la motivación en nuestros estudiantes. La motivación
+es un factor clave que aumenta en estudiantes que aprenden contenidos a través de una lengua extranjera
+siempre que el enfoque es bien llevado a la práctica. En este sentido, Arellano, Reinao, Marianjel y Curaqueo
+(2020) aseguraron que factores a los que se debió, de forma parcial, el éxito del proceso de aprendizaje de una
+segunda lengua fueron la motivación, la aptitud y la personalidad. A este respecto, según un estudio reciente
+podemos aﬁrmar que existe una relación entre los cinco grandes rasgos de la personalidad y el aprendizaje de
+una lengua extranjera (Chen et al., 2022). La investigación concluye con que cuatro de los cinco rasgos están
+relacionados positivamente con la adquisición de la L2 (apertura, conciencia, extraversión y amabilidad),
+mientras que el neuroticismo tendría una relación negativa con el aprendizaje de una segunda lengua. Es
+precisamente el neuroticismo lo que hace referencia a la conﬁanza, a sentirse cómodo con uno mismo, a
+la estabilidad emocional y al temperamento. Otro estudio anterior (Zhang et al., 2019) apuntó que, según
+una amplia muestra de estudiantes chinos en la etapa de enseñanza secundaria, la apertura está relacionada
+con el interés de los estudiantes en aprender inglés. Apertura se reﬁere a la disposición de las personas a
+probar cosas nuevas, a ser creativos, a disfrutar del aprendizaje de cosas nuevas; son estudiantes curiosos y
+disfrutan la variedad y la novedad lo que se traduce en resultados de aprendizaje positivos. Con respecto a
+la consciencia, Cao y Meng (2020) en su investigación encontraron que este rasgo era el mejor para tener
+éxito en el aprendizaje del inglés. La consciencia va asociada a personas responsables, bien organizadas y
+disciplinadas. En tercer lugar, la extraversión reﬂeja personas sociables, conversadoras a las que les encanta
+participar activamente en actividades sociales e interpersonales. La investigación sugiere que este rasgo podría
+ser beneﬁcioso para el aprendizaje de una lengua extranjera, sobre todo en comunicación oral (Cao y Meng,
+2020). Sobre el cuarto rasgo, la amabilidad, a pesar de que en numerosos estudios se ha relacionado con
+una alta motivación ante el aprendizaje de una lengua extranjera, un estudio reciente ha revelado que la
+Rebeca Mesas Jiménez. AICLE: METODOLOGÍAS ACTIVAS PARA EL ÉXITO DE LA INCLUSIÓN EDUCATIVA
+PDF generado a partir de XML-JATS4R
+motivación ante el aprendizaje del inglés como segunda lengua tenía un efecto positivo con respecto al
+rendimiento académico sólo en estudiantes con bajos niveles de amabilidad (Zhang y Wang, 2023). El hecho
+de que se relacionara directamente amabilidad y motivación podría deberse a que el aprendizaje de una
+lengua extranjera suele concebirse como un proceso que conlleva cooperación y comunicación con otros
+y por eso las cualidades de amabilidad y cooperación que poseen estos estudiantes podrían beneﬁciar su
+proceso de aprendizaje. Sin embargo, se ha observado que en estudiantes con bajos niveles de amabilidad
+aumenta la motivación ante el aprendizaje del inglés y sin embargo en estudiantes con altos niveles el rasgo
+no afecta a la motivación. Los altos niveles de amabilidad abarcan altruismo, simpatía, modestia, generosidad
+y cooperación, por tanto, cuando los niveles son altos se trata de estudiantes poco competitivos, poco
+ambiciosos y que se comprometen con sus compañeros en el proceso de aprendizaje, de ahí que no inﬂuyan
+sus altos niveles de amabilidad en factores como la motivación y del rendimiento académico.
+Como se puede observar, los rasgos de la personalidad tienen efectos diferentes en los resultados de
+aprendizaje de los estudiantes. Por ejemplo, ahora que sabemos que bajos niveles de amabilidad aumentan
+los efectos positivos en la motivación por el aprendizaje de una lengua extranjera, podríamos a este tipo de
+estudiantes dejarles espacio para que desarrollen su aprendizaje de manera autónoma en lugar de forzarlos
+a trabajar en equipo. Los estudiantes con altos niveles de apertura deberían verse expuestos a estrategias de
+enseñanza que impliquen exposiciones de interés cultural que apoyen sus rasgos (Cao y Meng, 2020).
+En suma, la personalidad no se puede cambiar, pero se puede desarrollar. Es decir, si somos empáticos
+no podemos dejar de serlo, pero estratégicamente podemos decidir ser más lógicos que emocionales en
+un contexto concreto. En esta línea, como docentes deberíamos esforzarnos en aumentar la motivación
+de nuestros estudiantes para que obtengan los mejores resultados implementando enfoques metodológicos
+apropiados e innovadores dentro del enfoque AICLE. Además, debemos ser conscientes del efecto que
+tienen ciertos rasgos de la personalidad en el proceso de aprendizaje y aprovecharlo para fomentar la
+inclusión educativa, incorporando estrategias de aprendizaje que se ajusten a las diferentes personalidades
+de nuestros estudiantes. Esto es integrando metodologías y estrategias de aprendizaje variadas en nuestra
+práctica docente. Conocer los rasgos de personalidad de nuestros estudiantes nos ayudaría a mejorar la
+atención a la diversidad en el aula y afrontar así uno de los mayores retos actuales de la enseñanza bilingüe.
+En particular, el “Big Five Personality Test” podría ser una de las actividades que nos ayudaría a conocer esos
+rasgos de nuestro alumnado (PQ, 2023).
+C) Planiﬁcación de una lección AICLE
+Para implementar metodologías activas y experiencias de aprendizaje donde los estudiantes apliquen y
+construyan sus conocimientos en contextos de la vida real, dando lugar así a metodologías inclusivas y
+entornos de aprendizaje colaborativos, es fundamental una buena planiﬁcación y disponer de herramientas
+que le faciliten al docente el diseño de sus lecciones. En el caso de España, las políticas educativas no
+distinguen entre aprendizaje de contenidos en lengua materna o en una lengua extranjera. Por lo tanto, es
+responsabilidad de los docentes inmersos en este tipo de enseñanza adaptar las directrices oﬁciales sobre
+diseño curricular a su práctica docente. Para ello, se ha diseñado una herramienta que podría resultar útil en
+la planiﬁcación de lecciones AICLE.
+Cuadernos de Literatura, 2023, núm. 22, e2212, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Figura 6. Unidad de programación AICLE. Elaboración propia.
+La unidad incluye elementos curriculares que no incorporaríamos a un contexto no AICLE tales como
+las 4Cs (contenido, comunicación, cognición y cultura) así como estrategias de andamiaje que favorezcan la
+inclusión educativa. Una buena planiﬁcación inﬂuye positivamente en el aprendizaje de los alumnos. “Educar
+sin planiﬁcar, es como construir una casa sin plano o escribir una novela sin borrador. El arte de educar
+requiere esfuerzo, análisis racional, pensamiento crítico y creatividad. La planiﬁcación en la Educación es una
+clave para asegurar el éxito” (Carriazo et al., 2020, p. 88).
+5. Conclusiones
+A lo largo de este documento se ha puesto el foco en analizar algunos de los desafíos que plantea la enseñanza
+bilingüe a docentes de todo el mundo. Entre ellos, se ha destacado como uno de los principales retos el
+hecho de que los estudiantes sean capaces de construir al mismo tiempo conocimiento y lengua extranjera
+de manera equilibrada. Otro de los inconvenientes de este tipo de programas es la atención a la diversidad,
+ya que aprender contenidos a través de una lengua extranjera puede resultar aún más complicado a aquellos
+estudiantes con un bajo nivel lingüístico. Asimismo, se ha analizado cómo las emociones intervienen en la
+motivación ante el aprendizaje, por lo que resulta fundamental que los docentes incorporen estrategias que
+generen actitudes positivas entre sus estudiantes.
+Como respuesta a estas tareas complejas, se proponen una serie de adaptaciones pedagógicas que ayuden a
+mejorar el proceso de aprendizaje para abordar con éxito la enseñanza bilingüe. Por un lado, se han analizado
+las estrategias de andamiaje como elemento inclusivo, ya que nos permiten partir de lo que el alumnado
+ya conoce e ir construyendo de manera personalizada el conocimiento de contenido y lengua extranjera,
+desarrollando habilidades de pensamiento inferior y superior y atendiendo a sus procesos cognitivos. Por
+otro lado, se ha considerado el enfoque AICLE un entorno ideal para la implementación de metodologías
+activas por las similitudes que se han podido establecer entre ellos, tales como la creación de contextos reales
+para el aprendizaje, el trabajo cooperativo, la construcción del conocimiento sobre lo que el alumnado ya
+conoce y la vinculación del aprendizaje con problemáticas del mundo real. Del mismo modo, se ha propuesto
+como medida de enseñanza bilingüe inclusiva, un acercamiento más profundo a las personalidades de nuestro
+alumnado a través del modelo de los cinco grandes. Conocer sus aptitudes puede ayudarnos a implementar
+métodos y diseñar entornos de aprendizaje que favorezcan su motivación.
+Uno de los propósitos del enfoque AICLE es crear entornos de aprendizaje signiﬁcativos y mejorar la
+competencia lingüística a través del aprendizaje contextualizado de la lengua extranjera. Sin embargo, esto
+va a surgir en mayor o menor medida dependiendo de cómo los docentes lo lleven a su práctica educativa.
+Rebeca Mesas Jiménez. AICLE: METODOLOGÍAS ACTIVAS PARA EL ÉXITO DE LA INCLUSIÓN EDUCATIVA
+PDF generado a partir de XML-JATS4R
+Resulta evidente que su combinación con metodologías adecuadas conduciría a un buen funcionamiento
+en contextos cambiantes. El análisis en un primer momento de nuestro contexto educativo nos ayudará a
+crear entornos de aprendizaje que fomenten la diversidad y la inclusión educativa. Según hemos examinado,
+podemos considerar el factor metodológico como uno de los elementos clave para mejorar la aplicación
+práctica del enfoque en las aulas. Esta propuesta metodológica estaría compuesta por el uso de estrategias de
+andamiaje para la construcción del conocimiento tanto conceptual como lingüístico; la implementación de
+metodologías activas que creen contextos de la vida real donde nuestros estudiantes aprendan a aplicar los
+contenidos y su pensamiento crítico en la resolución de problemas; el análisis de nuestro contexto educativo,
+que nos permita atender las necesidades y los intereses de nuestros estudiantes, teniendo en cuenta sus rasgos
+de personalidad y su diversidad y por último, el diseño de herramientas de planiﬁcación donde se contemplen
+todos los elementos del currículum y se adapten de manera apropiada al marco AICLE. De este modo,
+estaríamos colaborando para lograr una mejora de los resultados de aprendizaje, un aumento de la motivación
+y, en deﬁnitiva, una educación bilingüe más inclusiva.
+Como necesidades educativas y propuestas de investigaciones futuras se puede detectar en primer lugar
+la necesidad de probar enfoques metodológicos activos en diferentes contextos de enseñanza bilingüe y su
+impacto en las aulas desde un punto de vista inclusivo. Dada la naturaleza cambiante de la diversidad en
+las aulas actuales es relevante que esa riqueza cultural y social sea considerada un recurso por los docentes.
+Además, es prioritario que el enfoque AICLE garantice resultados y experiencias de aprendizaje positivos
+para la mayoría de los estudiantes y para lograrlo, la ﬁgura del docente es esencial ya que sin su formación y
+colaboración en analizar distintos métodos que se adapten a la diversidad de las aulas, la enseñanza bilingüe
+no tendría lugar.
+Referencias bibliográficas
+Agencia Ejecutiva Europea de Educación y Cultura. (2023). Cias clave de la enseñanza de lenguas en los centros escolares
+de Europa: Edición 2023 - Informe Eurydice. Luxemburgo, Oﬁcina de Publicaciones de la Unión Europea. http
+s://data.europa.eu/doi/10.2797/543862
+Álvarez-Coﬁño Martínez, Ángela. (2019). El Enfoque metodológico CLIL (Content and Language Integrated
+Learning) en la Enseñanza Primaria: Estudio Comparativo de su Implementación en un Centro Bilingüe y en un
+Centro con Sección Bilingüe. Revista Nebrija de Lingüística Aplicada a la Enseñanza de Lenguas, 13(27), 32-54.
+https://doi.org/10.26378/rnlael1327335
+Arellano, Rodrigo; Reinao, Patricia; Marianjel, Angélica y Curaqueo, Gloria. (2020). Un estudio comparativo entre las
+metodologías usadas en la enseñanza del mapudungun como segunda lengua y el inglés como lengua extranjera.
+Forma y Función, 33(1), 87-114. https://bitly.ws/37fgf
+Avilés Cerviño, Eva. (2020). Aprendizaje integrado de contenidos y lenguas extranjeras. MAD.RID. Revista de
+Innovación Didáctica de Madrid, 65, 9-20. https://bitly.ws/37pmQ
+Awan, Muhammad Afzal y Sipra, Muhammad Aslam. (2018). CLIL: Content-based instructional approach to second
+language pedagogy. Arab World English Journal, 9(1) 121-133. https://dx.doi.org/10.24093/awej/vol9no1.9
+Azanza, Garazi; Fernández-Villarán, Asunción y Goytia, Ana. (2022). Enhancing Learning in Tourism Education by
+Combining Learning by Doing and Team Coaching. Education Sciences, 12, 548, 1-16. https://bitly.ws/37fhh
+Barrera Medina, Mónica y Ramírez Villalpando, Rocío. (2022). Aprender haciendo. La realización de proyectos
+gráﬁcos a través del conocimiento tácito. ZincoGrafía, 6 (12), 135-155. https://doi.org/10.32870/zcr.v6i12.145
+Bauer-Marschallinger, Silvia. (2019). With United Forces: How Design- Based Research Can Link eory and
+Practice in the Transdisciplinary Sphere of CLIL. CLIL Journal of Innovation and Research in Plurilingual and
+Pluricultural Education, 2(2), 7-23. https://bitly.ws/37pnN
+Cuadernos de Literatura, 2023, núm. 22, e2212, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Bauer-Marschallinger, Silvia. (2020). Involving students in Educational Design: How Student Voices Contribute
+to Shaping Transdisciplinary CLIL History Materials. Journal for the Psychology of Language Learning, 2(2),
+107-117. https://bitly.ws/37por
+Bauer-Marschallinger, Silvia; Dalton-Puﬀer, Christiane; Heaney, Helen; Katzinger, Lena y Smit, Ute. (2021). CLIL
+for all? An exploratory study of reported pedagogical practices in Austrian secondary schools. International
+Journal of Bilingual Education and Bilingualism, 26(9), 1050-1065. https://doi.org/10.1080/13670050.2021.
+1996533
+Buckingham, Lyndsay Renee. (2018). Deﬁning the role of language assistants in the bilingual classroom. Revista
+Tecnología, Ciencia y Educación, 9, 38-49. https://doi.org/10.51302/tce.2018.173
+Cao, Chun y Meng, Quian. (2020). Exploring personality traits as predictors of English achievement and global
+competence among Chinese university students: English learning motivation as the moderator. Learning and
+Individual Diﬀerences, 77. https://doi.org/10.1016/j.lindif.2019.101814
+Carrasco, Eduardo Javier. (2019). Percepción de los futuros docentes sobre la utilización del inglés como lengua
+vehicular en Educación Física en educación secundaria: un análisis DAFO. En Martínez Agudo, Juan de
+Dios; Maya Retamar, María Guadalupe y González, Rafael Alejo (eds.), Bilingual education under debate.
+Practice, research and teacher education. (pp. 207-219). España, Servicio de Publicaciones de la Universidad de
+Extremadura.
+Carriazo, Cindy; Pérez Reyes, Maura y Gaviria, Kathelyn. (2020). Planiﬁcación educativa como herramienta
+fundamental para una educación con calidad. Utopía y praxis latinoamericana. revista internacional de ﬁlosofía
+iberoamericana y teoría social, 3, 87-95. https://bitly.ws/37fk7
+Chen, Xinjie; He, Jinbo; Swanson, Elizabeth; Cai, Zhihui y Fan, Xitao. (2022). Big Five Personality Traits and Second
+Language Learning: A Meta-analysis of 40 Years’ Research. Educational Psychology Review, 34, 851-887. https
+://bitly.ws/37fm7
+Consejo de Europa. (2021). Marco común europeo de referencia para las lenguas: aprendizaje, enseñanza, evaluación.
+Volumen complementario. Estrasburgo, Servicio de publicaciones del Consejo de Europa. https://bitly.ws/37fre
+Coyle, Do; Hood, Phillip y Marsh, David. (2010). CLIL. Content and Language Integrated Learning. Cambridge,
+Cambridge University Press.
+Döring, Vanessa. (2020). Student voices on CLIL. Suggestions for improving compulsory CLIL education in Austrian
+technical colleges (HTL). CELT Matters, 4, 1-11. https://bitly.ws/37foZ
+Durán-Martínez, Ramiro y Beltrán-Llavador, Fernando. (2020). Key issues in teachers’ assessment of primary
+education bilingual programs in Spain. International Journal of Bilingual Education and Bilingualism, 23(2),
+170-183. https://doi.org/10.1080/13670050.2017.1345851
+García Fernández, Beatriz; Nieto Moreno de Diezmas, Esther y Reyes Ruiz-Gallardo, José. (2017). Mejorar la
+motivación en ciencias con enseñanza CLIL. Un estudio de caso. Enseñanza de las ciencias: revista de investigación
+y experiencias didácticas, nº. Extra, 2625-2630. https://bitly.ws/37frB
+Gómez Plasencia, Mercedes. (2020). Uso de la robótica en la etapa de Educación Infantil. Revista de Educación,
+Innovación y Formación, 3, 142-155. https://bitly.ws/37pKL
+González-Sanmartín, Vilma Azucena y Yanacallo-Pilco, Wendy Valeria. (2020). Aprender haciendo: Aplicación de la
+metodología por ambientes de aprendizaje. Polo del Conocimiento: Revista cientíﬁco - profesional, 5(7), 188-208.
+https://bitly.ws/37ftp
+Hernández Rivero, Victor Manuel; Santana Bonilla, Pablo Joel y Sosa Alonso, Juan José. (2021). Feedback y
+autorregulación del aprendizaje en educación superior. Revista de Investigación Educativa, 39(1), 227-248. htt
+ps://doi.org/10.6018/rie.423341
+Hüttner, Julia, Dalton-Puﬀer, Christiane y Smit, Ute. (2013). e power of beliefs: Lay theories and their inﬂuence
+on the implementation of CLIL programmes. International Journal of Bilingual Education and Bilingualism,
+16(3), 267-284. https://doi.org/10.1080/13670050.2013.777385
+Rebeca Mesas Jiménez. AICLE: METODOLOGÍAS ACTIVAS PARA EL ÉXITO DE LA INCLUSIÓN EDUCATIVA
+PDF generado a partir de XML-JATS4R
+Hüttner, Julia y Smit, Ute. (2018). Negotiating political positions: subject-speciﬁc oral language use in CLIL
+classrooms. International Journal of Bilingual Education and Bilingualism, 21(3), 287-302. https://doi.org/10
+.1080/13670050.2017.1386616
+Ignatova, Olga y Kalyuga, Slava y Sweller, John. (2023). e imagination eﬀect when using textual or diagrammatic
+material to learn a second language. Language Teaching Research, 27(4), 995-1015. https://doi.org/10.1177/1
+362168820971785
+Jabbarova, Anora. (2020). Eﬀective 21st century English language teaching styles. Архив Научных Публикаций JSPI,
+1-4.
+Kahn-Horwitz, Janina. (2020). ‘I didn’t even know one of the conventions before’: Explicit EFL spelling instruction
+and individual diﬀerences. Cognitive Development, 55, 1-11. https://doi.org/10.1016/j.cogdev.2020.100880
+Li, Dongying y Zhang, Lian. (2020). Exploring teacher scaﬀolding in a CLIL- framed EFL intensive reading class: A
+classroom discourse analysis approach. Language Teaching Research, 26(3), 333-360. https://doi.org/10.1177/
+1362168820903340
+Mahan, Karina Rose. (2020). e Comprehending Teacher: Scaﬀolding in Content and Language Integrated
+Learning (CLIL). e Language Learning Journal, 18(4), 1-15. https://doi.org/10.1080/09571736.2019.170
+5879
+Mahan, Karina Rose. (2022). e comprehending teacher: scaﬀolding in content and language integrated learning
+(CLIL). e Language Learning Journal, 50(1), 74-88. https://doi.org/10.1080/09571736.2019.1705879
+Mahan, Karina Rose; Brevik, Lisbeth y Ødegaard, Marianne. (2021). Characterizing CLIL Teaching: New Insights
+from a Lower Secondary Classroom. International Journal of Bilingual Education and Bilingualism, 24 (3),
+401-418. https://doi.org/10.1080/13670050.2018.1472206
+Ministerio de Educación y Formación Profesional. (2 de marzo de 2022). Real Decreto 157/2022, de 1 de marzo, por
+el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria. Agencia Estatal Boletín
+Oﬁcial del Estado. España. https://bitly.ws/v725
+Muntaner Guasp, Joan Jordi, Pinya Medina, Carme y Mut Amengual, Bartomeu. (2020). El impacto de las
+metodologías activas en los resultados académicos. Profesorado, Revista de currículum y formación del profesorado,
+24(1), 96-114. https://doi.org/10.30827/profesorado.v24i1.8846
+Nieto Moreno de Diezmas, Esther y Hill, omas. (2019). Social science learning and gender-based diﬀerences in clil.
+A preliminary study. Elia: Estudios de Lingüística Inglesa Aplicada, 19, 177-203. https://bitly.ws/37fyA
+Ortega-Sánchez, Delfín. (2022). Controversial Issues and Social Problems for an Integrated Disciplinary Teaching.
+Switzerland, Springer. http://dx.doi.org/10.1007/978-3-031-08697-7
+Pavón, Victor; Ávila, Javier; Gallego Segador, Arturo y Espejo, Roberto. (2014). Strategic and organizational
+considerations in planning content and language integrated learning: A study on the coordination between
+content and language teachers. International Journal of Bilingual Education and Bilingualism, 18(4), 1-17. htt
+p://dx.doi.org/10.1080/13670050.2014.909774
+PQ. (2023). Big Five Personality Test. Personality-Quizzes.com.https://bitly.ws/37pKI
+Reilly, Peter y Sanchez-Rosas, Javier. (2021). Achievement Emotions and Gender Diﬀerences Associated with Second
+Language Testing. International Journal of Instruction, 14(4), 825-840. https://bitly.ws/37pKF
+Ruiz Hidalgo, David y Ortega-Sánchez, Delfín. (2023). CLIL (Content and Language Integrated Learning)
+Methodological Approach in the Bilingual Classroom: A Systematic Review. International Journal of Instruction,
+16(3), 915-934. http://dx.doi.org/10.29333/iji.2023.16349a
+Stoller, Fredricka y Fitzsimmons-Doolan, Shannon. (2017). Content-Based Instruction. En Van Deusen-Scholl,
+Nelleke y May, Stephen (eds.), Second and Foreign Language Education (pp. 71-84). Springer International,
+Springer Cham.
+Sukardi, Rendi Restiana; Sopandi, Wahyu y Riandi. (2021). Can Pupils Retell Concepts in English? An Analysis of
+How to Use EMI in Science Class. International Journal of Instruction, 14(4), 659-678. https://eric.ed.gov/?i
+d=EJ1319304
+Cuadernos de Literatura, 2023, núm. 22, e2212, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Szczesniak, Anna y Muñoz Luna, Rosa. (2022). Percepciones de los profesores sobre el Aprendizaje Integrado de
+Contenidos y Lenguas en los centros de primaria de Andalucía. Porta Linguarum. Revista Interuniversitaria De
+Didáctica De Las Lenguas Extranjeras, 37, 237-257. https://doi.org/10.30827/portalin.vi37.18414
+Torres Carceller, Andrés. (2019). Innovación o moda: las pedagogías activas en el actual modelo educativo. Una
+reﬂexión sobre las metodologías emergidas. Voces de la educación, 4(8), 3-16. https://bitly.ws/BGud
+UNESCO. (22 de diciembre de 2023). La inclusión en la educación. Que nadie quede rezagado. UNESCO.org. htt
+ps://bitly.ws/37fDN
+Urraca, Ana Sofía. (2023). Assessment in CLIL contexts. En Gierlinger, Erwin Maria; Döll, Marion y Keplinger,
+Gudrun (eds.), TALK in multilingual classrooms. Teachers’ awareness of language knowledge in secondary
+education (pp. 133-170). Germany, Waxmann.
+Villalonga-Gómez, Cristina; Mora-Cantallops, Marçal y Delgado-Reverón, Lorena. (2023). Aplicación de andamiajes
+metacognitivos basados en diarios de aprendizaje en enseñanzas virtuales. RIED-Revista Iberoamericana De
+Educación a Distancia, 26(2), 219-236. https://doi.org/10.5944/ried.26.2.36252
+Zhang, Jie y Wang, Qiuying. (2023). Reading and writing diﬃculties in bilingual learners. Annals of dyslexia, 73, 1-5.
+https://doi.org/10.1007/s11881-023-00282-8
+Zhang, Jing, Dong, Zehua y Yang, Xiangdong. (2019). e predictors of academic interest: ﬂuid intelligence, openness,
+and their interaction. Educational Psychology, 39(2), 271-289. https://doi.org/10.1080/01443410.2018.1514
+103
+Notas
+1 AICLE, en inglés CLIL (Content and Language Integrated Learning), es un término acuñado por David Marsh en
+1994, que se reﬁere al aprendizaje integrado de contenidos y lenguas extranjeras. Es un enfoque dual en el que se utiliza
+una lengua adicional para la enseñanza de contenido y lengua extranjera. En el proceso de enseñanza aprendizaje ambos
+se entrelazan, poniendo el foco no en uno ni en otro sino en ambos (Coyle, Hood y Marsh, 2010).
+2 El Marco Común Europeo de Referencia para las lenguas (2020) deﬁne plurilingüismo como “el repertorio lingüístico
+dinámico y en evolución de un/a usuario/a y/o aprendiente” (Consejo de Europa, 2021, p. 39).

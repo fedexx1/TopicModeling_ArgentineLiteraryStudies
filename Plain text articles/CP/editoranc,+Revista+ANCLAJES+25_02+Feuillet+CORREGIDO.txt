@@ -1,0 +1,654 @@
+181
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+Feuillet, Lucía. “Interpretaciones del complot en Los muros azules de Juan Carlos 
+Martelli”. Anclajes, vol. XXV, n.° 2, mayo-agosto 2021, pp. 181-195.
+https://doi.org/10.19137/anclajes-2021-25212
+Interpretaciones del 
+complot en Los muros 
+azules de Juan Carlos 
+Martelli
+Lucía Feuillet
+Centro de Investigaciones y Estudios sobre Cultura y Sociedad, CIECS
+Universidad Nacional de Córdoba, UNC 
+Consejo Nacional de Investigaciones Científicas y Técnicas, CONICET 
+Argentina
+feuilletlucia@gmail.com
+ORCID: 0000-0001-7210-9513
+Fecha de recepción: 19/02/2020 | Fecha de aceptación: 10/09/2020
+Resumen: Los muros azules (1986), novela del escritor argentino Juan Carlos Martelli, 
+juega entre los límites del fantasy y el espionaje para modular el relato de una revolu-
+ción anticolonialista y anticapitalista en las Antillas. Nuestra lectura retoma la propuesta 
+teórica de Fredric Jameson, quien articula un método interpretativo a partir de la rees-
+critura del modo de producción social como código maestro desplegado en los textos. 
+De esta manera, en el presente análisis abordamos el ideologema del complot, herra-
+mienta mediadora que opera en el terreno de los antagonismos sociales a través de la 
+configuración de múltiples identidades enunciativas y el quiebre de las racionalidades 
+dominantes. La superposición de matrices discursivas en la ficción martelliana orienta 
+una reflexión, sistematizada aquí en torno al complot y al dispositivo provisto por la 
+hermenéutica jamesoniana, que vuelve una y otra vez sobre la escritura y los modos de 
+producción en conflicto.
+Palabras clave: Juan Carlos Martelli; Fredric Jameson; hermenéutica; espionaje; fantasy.
+Renderings of conspiracy in Los muros azules, 
+by Juan Carlos Martelli 
+Abstract: Juan Carlos Martelli’s novel Los muros azules (1986) plays between the limits 
+of fantasy and espionage to modulate the story of an anti-colonial and anti-capitalist 
+revolution in the Antilles. Our interpretation takes up the theoretical proposal of Fre-
+dric Jameson, who articulates a method based on the rewriting of the social production 
+mode as the master code present in the texts. In this article, we address the ideolo-
+geme of the conspiracy, a mediating tool that operates in the field of social antago-
+nisms through the configuration of multiple enunciative identities and the breakdown 
+of dominant rationalities. The superposition of discursive matrices in Martellian fiction 
+guides a reflection, systematized around the conspiracy and the device provided by the 
+182
+Lucía Feuillet | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+J
+uan Carlos Martelli fue un prolífico escritor, periodista y psicoa-
+nalista argentino con una participación central en los ámbitos del 
+arte y la cultura nacional y latinoamericana1. Gran parte de su na-
+rrativa está atravesada por la configuración del delito desde los espacios de la 
+producción social2. Sus novelas presentan antagonismos entre corporaciones de-
+lictivas que funcionan de manera subrepticia y sostienen economías regionales, 
+nacionales e internacionales. En este caso, abordaremos el complot como código 
+1	
+Su producción literaria incluye una docena de novelas (algunas reeditadas), un compendio de 
+poesía editado póstumamente y libros sobre temáticas tan diversas como el psicoanálisis y co-
+cina. Martelli dirigió una Antología de poesía nueva en la República Argentina (1961) y varias 
+revistas –entre las cuales destacamos Adán, Cuadernos de Mr. Crusoe y La revista de los jue-
+ves, del diario “Clarín”–, además, fue redactor de Caretas en Perú. En 1973 obtuvo el premio 
+“Sudamericana-La Opinión” con su novela Los tigres de la memoria, que representa una red de 
+conexiones entre la policía, las fuerzas armadas y el narcotráfico.
+2	
+En nuestro libro Interpretaciones del delito. Para una hermenéutica materialista de la narrativa 
+policial de Juan Carlos Martelli (2020) hemos abordado la configuración del delito en la narra-
+tiva policial de Martelli –tomando como antecedente a Josefina Ludmer (El cuerpo del delito)– 
+para conceptualizarlo como una herramienta mediadora entre los textos y sus sentidos sociales. 
+La fuente de nuestra lectura es el texto donde Karl Marx define la actividad delictiva como 
+rama de la producción social (Teorías sobre la plusvalía 360) –aunque también Hans Magnus 
+Enzensberger señala la dependencia entre delito y política como base del poder moderno (Po-
+lítica y delito)–. No obstante, no nos centraremos aquí en el abordaje del género policial cuyos 
+usos y transgresiones en la literatura argentina, y específicamente en la obra de Martelli, hemos 
+trabajado en otras publicaciones.
+Jamesonian hermeneutics, which returns time and again to the writing activity and the 
+conflict within modes of production.
+Keywords: Juan Carlos Martelli; Fredric Jameson; hermeneutics; espionaje; fantasy.
+Interpretações da conspiração em Los muros azules 
+de Juan Carlos Martelli 
+Resumo: Los muros azules (1986), romance do escritor argentino Juan Carlos Martelli, 
+joga entre os limites do fantasy e da espionagem para modular o relato de uma revolu-
+ção anticolonial e anticapitalista nas Antilhas. Nossa leitura retoma a proposta teórica 
+de Fredric Jameson, que articula um método interpretativo a partir da reescrita do 
+modo de produção social como o código mestre exposto nos textos. Desse modo, 
+na presente análise abordamos o ideologema da conspiração, instrumento mediador 
+que atua no campo dos antagonismos sociais por meio da configuração de múltiplas 
+identidades enunciativas e da quebra de racionalidades dominantes. A superposição de 
+matrizes discursivas na ficção martelliana orienta uma reflexão, aqui sistematizada, em 
+torno da conspiração e do dispositivo fornecido pela hermenêutica jamesoniana, que 
+volta sempre à escrita e aos modos de produção em conflito.
+Palavras-chave: Juan Carlos Martelli; Fredric Jameson; hermenêutica; espionagem; fan-
+tástico.
+183
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Interpretaciones del complot en Los muros azules de Juan Carlos Martelli: 181-195
+de lectura que pone en juego el estatuto secreto de estas asociaciones clandes-
+tinas, para propiciar el develamiento de los vínculos que cifran la dominación. 
+En particular, la publicación de una novela como Los muros azules –en la que 
+una revolución socialista impugna las complicidades que fundan los Estados 
+burgueses– en la Argentina en 1986, momento de reafirmación del discurso 
+democrático, es un signo de la potencialidad anticipatoria y transgresora de la 
+ficción de este autor. 
+La subversión de las pautas del lenguaje y de la racionalidad dominante en 
+Los muros azules convoca la figura del lector como descifrador de los sentidos y 
+tensiona el despliegue conspirativo (en la forma y el contenido de la novela) con 
+la reescritura del espionaje y el fantasy. El complot impulsa la trama temática y 
+narrativa de la novela, exhibe las contradicciones sociales aguijoneadas por la 
+simbiosis entre el Estado colonial, los poderosos magos locales y las asociaciones 
+internacionales y desnuda los mecanismos de poder ocultos tras el modo de pro-
+ducción capitalista a nivel global. Para abordar este aspecto, trabajaremos con las 
+premisas de la hermenéutica materialista jamesoniana que nos permiten ligar la 
+interpretación del texto individual a las estructuras de sentido colectivas, a partir 
+de la mediación del complot.  
+Las dimensiones de la hermenéutica materialista 
+En Documentos de cultura documentos de barbarie, Fredric Jameson inaugura 
+la exposición de su método interpretativo con la consigna “¡Historicemos siem-
+pre!”, que adquiere un sentido teórico-metodológico3. La idea que subyace a esta 
+premisa es de corte marxista e implica que abordar lo histórico significa descu-
+brir las cambiantes “leyes” que movilizan el desarrollo social. La interpretación 
+se configura entonces, en este horizonte, como reescritura de un texto literario 
+en términos de un código maestro que es, en última instancia, una conceptua-
+lización articuladora de varios niveles, complejidades y temporalidades en el/los 
+modo/s de producción (Documentos 11). 
+La noción de modo de producción, postulada por Jameson como código 
+interpretativo, se transforma en una amplia categoría que puede concretarse 
+en el análisis sincrónico de cada objeto cultural, sin dejar de hacer referencia 
+a las transiciones. Esto teniendo en cuenta que cada formación social implica 
+3	
+El libro de Jameson aparece en los ´80 como “síntoma de una disputa por la legitimidad de los 
+usos de Marx en la escena teórica de los estudios culturales y literarios de fines de la década de 
+1970 (Bracamonte 62). Eduardo Grüner lee allí una polémica con las lecturas postestructurales 
+de Marx encabezadas por Raymond Williams y Stuart Hall, entre otros –como Michel Foucault, 
+Jaques Derrida– (21). Los desarrollos de estos teóricos posmarxistas, sostiene Grüner, señalarían 
+más el comienzo de las “teorías del fin” como correlato de la caída de los “socialismos reales” 
+que el agotamiento o la clausura del marxismo. Esto porque el materialismo histórico aún no 
+ha llegado a profundizar en un análisis de los socialismos –más allá de los adelantos de León 
+Trotsky y otros líderes de la oposición a Iósif Stalin– ya que su horizonte es el de la teoría crítica 
+del vigente “capitalismo real”.
+184
+Lucía Feuillet | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+relaciones diferenciales con otros modos de producción considerados en la 
+secuencia diacrónica, dado que un determinado estadio histórico contiene 
+en sí mismo (a la manera de supervivencias localizadas) a los períodos ante-
+riores, y proyecta una serie de posibilidades futuras. Un conjunto de tensio-
+nes y contradicciones surge permanentemente en el nivel de las coexistencias 
+estructurales así definidas, por ello la lectura del texto individual tiene su 
+correlato en una confrontación colectiva “cada acto de lectura, cada práctica 
+interpretativa local es entendida como vehículo privilegiado por medio del 
+cual dos modos de producción distintos se enfrentan e interrogan” (Marxismo 
+e historicismo 572).
+José Manuel Romero denomina “hermenéutica dialéctica” a este tipo de aná-
+lisis de las manifestaciones artísticas y culturales que apunta a discernir la media-
+ción entre lo particular y lo universal, entre la teoría y la práctica. La interpreta-
+ción no se preguntaría en este caso por las intenciones del autor ni por los “velos 
+ideológicos” ocultos; se concentraría en el desciframiento, a partir de un objeto 
+cultural concreto, de los significados ligados a la historia y lo social4 (14).
+A su vez, Jameson propone una operación interpretativa estructurada en base 
+a mediaciones que conectan los distintos planos de la vida social y que orientan 
+el pasaje de lo psicológico a lo social, de lo social a lo económico, de lo ideológi-
+co a la realidad histórica de las clases en conflicto (Marxismo y forma 8). De esta 
+forma, el concepto de mediación se transforma en un “dispositivo del analista” 
+que hace posible adaptar hallazgos de un nivel a otro (del modo de producción), 
+romper la compartimentalización de las disciplinas y vincular el análisis formal 
+del arte con su dimensión social (Documentos 33). En este sentido, integramos la 
+categoría mediadora del ideologema, unidad mínima del discurso que se mani-
+fiesta en forma de “pseudoidea”, un sistema conceptual o de creencias que abarca 
+lo axiológico o “protonarración”, que implica una fantasía de resolución de los 
+antagonismos de clase (71). El complot, como ideologema, permite exponer en 
+nuestro análisis de Los muros azules los antagonismos sociales en conexión con 
+sus resoluciones imaginarias.
+Desde la sociología, Luc Boltanski5 analiza la evolución del policial y el 
+espionaje precisando la representación del complot que rige lo social en tor-
+no a una trama de intereses que debe ocultarse para sostener la dominación. 
+Asimismo, en la novela que abordamos, esta categoría combina aspectos del 
+4	
+Según Paul Ricoeur, la hermenéutica se vincula inmediatamente con el marco construido por una 
+tradición comunitaria, o por las corrientes de pensamiento “vivas” que circulan en la producción 
+de la materia significante (9).
+5	
+En Enigmas y complots, el sociólogo destaca los orígenes del espionaje en el periodo de entre-
+guerras, asociado a la “posibilidad de describir la realidad entera como un vasto complot” (191). 
+Las principales conjuras adquieren la forma de los antagonismos políticos vigentes en la época: 
+los complots comunistas para derrocar Estados y los democráticos-capitalistas (en los que la 
+conspiración se entiende como una asociación entre las elites dominantes y el Estado capitalista), 
+es decir, revolución y contra-revolución están en el centro del conflicto en el espionaje, al igual 
+que en Los muros azules. 
+185
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Interpretaciones del complot en Los muros azules de Juan Carlos Martelli: 181-195
+espionaje con el fantasy6, ya que los conspiradores pueden ser humanos o so-
+brenaturales (brujos, revolucionarios y muertos-vivos) y conjurar las fuerzas 
+de lo oculto y lo inexplicable. Es decir, para el análisis de Los muros azules se 
+hace necesario tomar el complot como instrumento heterogéneo y múltiple, 
+que se define por la planificación secreta de acciones realizadas por entidades 
+humanas (Knight 15-23, Boltanski 242-246) o sobrenaturales –pero también 
+incluye sucesos espontáneos como el levantamiento del pueblo de Carbet–, 
+y que funciona como código alegórico para examinar la dialéctica entre in-
+teligibilidad y desconocimiento. En este sentido, el complot opera como red 
+invisible e infinita que vincula específicamente lo colectivo y lo epistemológico 
+(Jameson, La estética geopolítica 39), sin dejar de lado la dimensión paranoica 
+de la amenaza. 
+Desde el campo de la crítica literaria argentina, retomamos la definición de 
+Ricardo Piglia: “El complot sería entonces un punto de articulación entre las 
+prácticas de construcción de realidad alternativas y una manera de descifrar cier-
+to funcionamiento de la política” (Teoría del complot 100). En este sentido, la 
+construcción de la ficción en Los muros azules se trama en torno al complot, 
+ideologema que ensambla, además, núcleos semánticos presentes en el fantasy y 
+el espionaje, y pone en juego las transformaciones de los modos de producción 
+en conflicto, concentrando los sentidos de la rebelión. 
+Los muros azules y el complot
+Los muros azules presenta un narrador itinerante, en algunos momentos no 
+focalizado, pero en mayor medida partícipe de la conciencia de Martin Legros-
+Meyer-D’Abadie, la tríada de identidades que designa al personaje principal. 
+Las dos primeras designaciones inscriben su trayectoria como espía, mientras la 
+última da cuenta de su recorrido como heredero de terratenientes locales, revo-
+lucionario y luego Presidente Perpetuo. Desde allí, la novela opera en dos niveles 
+de sentido simultáneos y superpuestos, el de la narración de los conflictos y ava-
+tares de D’Abadie-Legros-Meyer y la historia social y política que va por detrás; 
+ambos incluyen toda una serie de complots y contracomplots que estructuran 
+los procedimientos enunciativos y temáticos de la ficción. 
+El complot privado de D’Abadie con distintos personajes, para asesinar a los 
+usurpadores del poder en Las Antillas, se proyecta a un nivel colectivo, porque 
+los cabecillas franco-antillanos están secretamente involucrados en una intriga 
+que tiene como resultado la desaparición de la mujer de Meyer durante la última 
+dictadura argentina. De esta manera, la venganza individual se amplía a la escala 
+6	
+Tomamos este término de los trabajos de Rosemary Jackson, donde se define el fantasy como un 
+“modo” que combina distintos géneros para potenciar un efecto de subversión de la racionalidad 
+dominante (11-12). Pampa Arán también desarrolla el modo en que el fantástico contemporáneo 
+impone como premisa la contaminación, la fragmentación y la mezcla, transformándose en un 
+hipergénero (“Lo unido y lo enhebrado” 21). 
+186
+Lucía Feuillet | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+de una revolución social que barre no solo con los jefes del crimen organizado 
+sino también con la organización social antillana en su conjunto. 
+La trayectoria descifradora de D’Abadie revela las dimensiones secretas de una 
+disputa entre dos asociaciones internacionales: El Club inglés para el que traba-
+ja como espía y la Organización local –heredera del colonialismo francés– que 
+maneja la isla. En esta contienda se ponen en juego también los intereses de Es-
+tados Unidos, que litiga el poder económico global. El panorama del capitalismo 
+mundial adquiere, de este modo, la apariencia de un conjunto de complots, con-
+tracomplots y complots dentro de complots, mientras la estructura de la novela 
+replica este sistema de asociaciones secretas. El reclutador de espías Alcock describe 
+así la situación económica internacional antes de la intervención de D’Abadie: 
+Los primos (yanquis) gastaron exactamente dos millones y medio de dólares en Bar-
+bados. Subsidiaron a la Mobil Oil para que cateara petróleo en el mar. Geológica-
+mente, un disparate. Pero el gobierno de Barbados quería dos millones al contado 
+por la concesión. Y la concesión permitió movilizar un equipo de doscientos traba-
+jadores, expertos, técnicos: un departamento entero de la CIA. La oportunidad para 
+infiltrarse: la Ocasión. Fracasaron. Supieron desde el principio quiénes eran y a qué 
+iban. Ya estaba allí Gaspire. Y Gaspard en Martinique. Y Pedro de Alcántara en todas 
+partes. (Martelli 123)
+Satánicamente opuestos y sospechosamente similares a la trinidad cristiana, 
+Pierre Gaspire, Pierre Gaspard y Pedro de Alcántara forman las tres caras de la 
+moneda opresiva y perversa que rige lo isleño. La tríada de poder se apoya en 
+la magia como técnica de dominación (sus integrantes tienen una apariencia 
+vampiresca, dominan la hechicería y dirigen un ejército de muertos-vivos) y 
+conjuga esclavitud con tráfico ilegal de armas, piedras preciosas y drogas. Así, 
+esta oligarquía adquiere una forma mixta que combina el poder colonial –“usa 
+como emblema la flor de lis verde: es Francia y es sus verdes islas” (Martelli 32)– 
+con un autoritarismo mágico y una fuerza mafiosa-gansteril. Además, conspira 
+con la Organización internacional en la que participa D’Abadie como espía para 
+extender la dominación mundial del liberalismo cambiario; así lo afirma el dis-
+curso de Gaspire: 
+Un honesto intercambio internacional de polvos de ilusión, muerte, piedras pre-
+ciosas. El hombre es libre de comprar o de vender. Ese liberalismo es la base de 
+la civilización. Queremos usar ese comercio; usar generales paraguayos, bolivianos, 
+argentinos; usar presidentes centroamericanos, usar movimientos de liberación y 
+hacendados medievales. No queremos cambiar la Historia porque para nosotros la 
+Historia es un medio, no un fin. (Martelli 110)
+En el lado opuesto a esta trinidad se ubica el contracomplot subversivo de los 
+Groupes de Libération Armé (GLA), que se autodefinen “marxistas-leninistas”. La 
+rebelión local liderada por el traidor D’Abadie en Carbet se desenvuelve en el 
+187
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Interpretaciones del complot en Los muros azules de Juan Carlos Martelli: 181-195
+marco de una conjura más amplia que incluye a los GLA y a los quimboiseurs, la 
+elite de magos que se vale de la religión ancestral para desenvolver una política 
+alejada del racionalismo positivista. Estos imprimen a la rebelión una perspectiva 
+nacionalista, aliada a ciertos grupos de poder locales: “Los quimboiseurs ocupan 
+un lugar preponderante. Ricos y considerados, dictan la ley y no hay obstáculo capaz 
+de entorpecer su acción. Pueden manejar las piezas del tablero político antillano, que 
+por otro lado ya no es tan simple” [Cursiva del texto original] (Martelli 139). En 
+cambio, para los GLA, la rebelión nacional es solo una “coyuntura” aprovechable 
+para la revolución socialista de carácter internacional. Entretanto, el Presidente 
+Perpetuo propone “equilibrar” la perspectiva localista de los magos y la extrema 
+racionalidad histórica de los GLA. 
+Es decir, el panorama político-social en Antillas se presenta a la manera de 
+una formación social que combina vestigios de estructuras políticas locales feu-
+dales y sociedades marcadamente aristocráticas con contracomplots revolucio-
+narios. En este caso, la complicidad que señalaba Aimé Césaire de los europeos 
+con los feudalistas nativos –para hacer más eficaces los modos de explotación y 
+prolongar la dominación (21-22)– adquiere aquí la forma de una intriga que 
+lleva hasta las últimas consecuencias los antagonismos de clase. En este cuadro, 
+Martin D’Abadie lidera una red de complots –falsos pactos con el poder, aso-
+ciaciones efímeras con líderes revolucionarios para conseguir armas y dinero, 
+etc.– que destruye a los tres jefes del contrabando zonal. Devenido en héroe 
+que recupera su pasado de propietario local y espía, el protagonista encarna pro-
+cesos sobrenaturales y racionales (el tránsito por la muerte, la resurrección y la 
+reapropiación de la memoria perdida en laboratorios conductuales) hasta asumir 
+la conspiración con grupos revolucionarios locales y personificar la figura del 
+Estado como equilibrio imposible entre tendencias opuestas. 
+D’Abadie representa, desde un comienzo, los antagonismos existentes en la 
+sociedad isleña: por un lado, es quimboiseur, conoce los secretos de la religión 
+local (la magia), y por otro, es heredero de poderosos terratenientes. 
+Yo aceptaba la velada esclavitud de mi hacienda […] Negaba que estuviera mal lo que 
+yo mismo aprobaba: trabajar en la zafra quince horas. Vivir de vales. Ejercitar la ma-
+gia para encubrir la explotación. Eso era correcto. No era correcto –estaba mal, pero 
+era parte de la herencia de mi padre– cargar armas y esmeraldas, drogas y mujeres. 
+Distribuirlas. Usar a la gente para eso. Y es casi lo mismo. (Martelli 108)
+Por eso, al encabezar la rebelión, D’Abadie debe presentarse a sí mismo como 
+traidor a su clase y conspirar con la franja popular del enfrentamiento social, a 
+la que ofrece su herencia. En este marco, advierte al pueblo rebelde de Carbet 
+–en una referencia no declarada a Vladimir I. Lenin (196)– que no solo deben 
+abolir al Estado sino aprender a dirigirlo ellos mismos: “Tal vez prefiráis que os 
+impongan el orden en vez de imponerlo, de acuerdo a las más simples reglas de 
+vuestro trabajo cotidiano” (Martelli 172). 
+188
+Lucía Feuillet | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+Desde un profundo sentido marxista, más adelante D’Abadie tendrá que 
+reclamar al paternalista jefe de los magos, Petrus, un último complot con los 
+GLA para atacar a la Organización y extender la rebelión; este reclamo emula 
+otra premisa leninista: “El Estado es la clase” (Martelli 241). Más adelante, para 
+sostener esta conspiración que toma forma de revolución permanente, afirma: 
+“Prefiero a Trotski y no a Lenin. La teoría sin acción no es ética” (Martelli 242). 
+Es decir, incluso cuando la rebelión instaura su función de Presidente Perpetuo, 
+D’Abadie expresa permanentemente la tensión de esta figura con su objetivo de 
+la destrucción del Estado y complota contra sí mismo llevando al extremo esta 
+dialéctica entre poder y rebelión: “He tratado de destruir cada día el Estado que 
+construyo para permitir a mis gentes la libertad de respetarse a sí mismos para 
+respetar a los demás” (Martelli 260). 
+Hacia el final, la narración transparenta una problematización de los espa-
+cios de dominación mediante un monólogo interior que desmiente documen-
+tos, proclamas, mapas y declaraciones ficcionalizadas en la propia novela. Así se 
+contrapone permanentemente la concentración del poder a la expansión de la 
+revolución, y D’Abadie expone otras dimensiones del complot: “Creo que soy el 
+resultado de una larga y astuta conspiración. ¿No era el heredero más rico de la 
+isla? Insisto: cualquiera podía ser El Esperado […] Hace casi cincuenta años que 
+estoy esclavizado a los rebeldes” (Martelli 262). De este modo, la articulación 
+con elementos del espionaje y el fantasy se despliega en torno a una dinámica 
+de procedimientos narrativos que superponen identidades múltiples, trampas o 
+maquinaciones, involucran saberes alternativos a la racionalidad hegemónica y 
+ponen en juego el complot como eje estructural de la ficción, del poder y de la 
+rebelión (el contrapoder). 
+Brujos y marxistas
+La enunciación se obtura en más de un sentido sobre la ambigüedad vaci-
+latoria  (Todorov 54) que ostenta la perspectiva narrativa. Este efecto se apoya 
+en el tránsito por los complots y contracomplots que despliega la narración y 
+en los procedimientos de transgresión de racionalidades hegemónicas (Barrene-
+chea 393). Lo oculto, lo ominoso y lo inexplicable se encuentran asociados así 
+a ciertos efectos del fantasy que tienden a subvertir el discurso positivista (Jack-
+son 11-12; Alazraki 276), en el sentido de problematización de lo establecido y 
+naturalizado. De allí que “lo fantástico sea una puesta en cuestión de un orden 
+viejo que debe cambiar urgentemente” (Barrenechea 403); este orden incluye los 
+modos de producción vigentes en la novela, apoyados en complots internacio-
+nales y dominaciones siniestras.
+El fundamento del fantasy en la novela de Martelli está planteado en torno 
+a la superposición de hechicería y conspiración. El quiebre más notorio con 
+las lógicas hegemónicas es el episodio del envenenamiento de Legros-D’Abadie 
+en la “Primera Parte” y su resurrección en el capítulo siguiente. Este suceso se 
+189
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Interpretaciones del complot en Los muros azules de Juan Carlos Martelli: 181-195
+configura como antecedente de la recuperación de la memoria narrada en la 
+“Tercera Parte”, cuando D’Abadie rearticula su pasado de espía y heredero. Ante 
+la ausencia de Legros, un narrador omnipresente anuncia el complot de estos 
+dirigentes revolucionarios: “Allí, Margaret y Gregory habían visto y sufrido mu-
+chas cosas en sus vidas, juraron, sin embargo, fidelidad y venganza al cadáver 
+amado” (Martelli 91).  
+Es central señalar el modo en que opera en dicho episodio el personaje de 
+Pierre Gaspard como representante del poder, así caracterizado: “poderoso y obs-
+ceno señor, mago, raptor y asesino” (Martelli 90). A pesar de su vínculo con la 
+magia y la hechicería, Gaspard intenta, en este episodio, oponer racionalismo a 
+la perplejidad. Por eso, “Ante el mutismo de la ley y la religión” (Martelli 90) 
+–el cura y el alcalde–, el mago presenta documentos que implican la garantía de 
+civilidad e institucionalidad (partidas de bautismo) y que explican la causa de 
+muerte (el infarto). Pero el cadáver desaparece y la paradoja que emerge en todos 
+los planos de sentido revela alegóricamente los modos en que se organiza la vida 
+de esta comunidad: “Existe un esqueleto legal al que le falta un cuerpo” (Marte-
+lli 94). Allí hace pie la ostentación de los complots rebeldes para subvertir una 
+racionalidad obsoleta en una comunidad donde el misterio es costumbre. 
+El texto Ce soir, le diable viendra te prendre. La sorcellerie des Antilles represen-
+ta un testimonio del modo en que la racionalidad del Estado burgués se muestra 
+impotente ante los hechos inexplicables que dominan las experiencias locales y 
+reafirma los diálogos entre verdad y ficción tras la historia de Los muros azules. 
+Sus autores se incluyen como personajes –son amigos de la hermana antropóloga 
+de Margaret– y el texto se cita y se menciona una y otra vez en la narración (Mar-
+telli 64, 139, 181). Allí se describe el perfil ominoso del mago/quimboiseur local, 
+inspirado en las religiones o creencias ancestrales, poderoso y sanador, aunque a 
+la vez peligroso y frecuentemente cómplice del poder. 
+Los quimboiseurs conocen los secretos de las hierbas medicinales, pero no 
+son simples herboristas, manejan también saberes sobre las fuerzas ocultas de lo 
+natural (Gayot y Mességué 10). Estos magos alivian o curan las patologías de la 
+población que los admira –aunque también les teme– y condensan los misterios 
+ligados a espíritus o figuras religiosas ancestrales. Pueden incluso encarnar la 
+figuración del mal, porque trabajan con elementos de “proveniencia macabra”: 
+“Le quimboiseur fait du quimbois, c’est-à-dire des sortilèges, des maléfices” (Ga-
+yot y Mességué 21). Curiosamente, Ce soir, le diable viendra te prendre comienza 
+con la resurrección de un quimboiseur e incluye el testimonio de un azorado 
+policía local que certifica haber visto el cuerpo sin vida del resucitado. 
+En la novela, la circunstancia inexplicable de la resurrección de D’Abadie 
+como quimboiseur es lo que configura la madeja central del complot, porque 
+abre paso a la futura rebelión, la conspiración para desbaratar el “ministerio del 
+miedo” de Gaspire-Gaspard y la ineficaz “legalidad” de la dominación coloniza-
+dora. Estos elementos del fantasy contribuyen a evidenciar, al decir de Barrene-
+chea, la obsolescencia de un orden social que debe transformarse. 
+190
+Lucía Feuillet | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+La tríada de contrabandistas coloniales Gaspire, Gaspard y De Alcántara 
+también opera de modo secreto y ominoso, sirviéndose de la magia y la religión 
+locales. Sus descripciones evidencian algunas otras dimensiones de la domina-
+ción social que quisiéramos señalar. La imagen de Gaspire se distingue como una 
+presencia etérea, una “aparición” (Martelli 59) que rompe con el realismo de su 
+función económica y se exhibe en un clima litúrgico y violento, rodeado de un 
+ejército de muertos-vivos. Esta figura transparenta, además, cierta referenciali-
+dad vampiresca: “Gaspire tiene muy pálida la piel verde. Un vegetal canceroso, 
+privado de oxígeno” (Martelli 61) que alude a un modo específico de ejercer la 
+dominación. Es decir, entre lo gansteril y lo ominoso, el perfil de Gaspire propo-
+ne una alegoría con los modos de la esclavitud que propicia el orden social, a la 
+vez que devela las más brutales dimensiones de sentido tras la explotación: “los 
+movimientos mecánicos de los gigantes fofos, los ojos casi sin pupilas, la baba 
+que les resbala por la comisura de los labios: están drogados, parecen zombis” 
+(Martelli 59)7. Esta alegoría aparece ya en El capital: “El capital es trabajo muer-
+to, que solo se reanima, a la manera de un vampiro, al chupar trabajo vivo, y que 
+vive tanto más cuanto más trabajo vivo chupa” (Marx 280)8. 
+Así se devela el misterio del funcionamiento del modo de producción en las 
+Antillas, en este armado de complots y contracomplots entre piratas, demonios, 
+vampiros y muertos-vivos, entre la flor de lis verde que representa la dominación 
+aristocrática y la compra-venta librecambista de armas, drogas y mujeres. Toda esa 
+herencia que combina esclavitud y capitalismo con potencias mágicas y conspira-
+ciones delictivas es la que rechaza D’Abadie cuando se transforma en espía: 
+Es muy difícil saber por qué los espías se hacen espías. Muchos, porque administran 
+esa forma retorcida del poder que es la información; muchos, por dinero; muchos, 
+porque el mundo es cada vez menos una aventura. Yo –algunos otros que conocí– 
+para ser otros; para abandonar con el nombre todo tipo de herencias y obligaciones. 
+(Martelli 109)
+7	
+Figuras tradicionales del terror y el fantasy, como el vampiro y el zombi, se esbozan en estas 
+descripciones de los complots sobrenaturales. Seguramente desde La isla mágica. Un viaje al co-
+razón del vudú (1929) de William Seabrook, podrían rastrearse los vínculos entre la figura del 
+muerto-vivo y el cuerpo servil de la esclavitud –aunque la figura del zombi aparece ya en el relato 
+de Lovecraft Herbert West Reanimador (1921) y queda sugerida en Frankenstein (1818) de Mary 
+Shelley, más vinculada con la tradición del gótico–. De la misma manera podría rastrearse la figura 
+del vampiro, desde El vampiro (1819) de John Polidori hasta “Una visita infernal” de Juana Ma-
+nuela Gorriti (1884) y Drácula (1897), de Bram Stocker. Este recorrido excede las intenciones del 
+presente artículo, en el cual nos limitamos a señalar estos antecedentes que presentan las figuras del 
+zombi y el vampiro como alegorías de las siniestras formas de dominación social. 
+8	
+Más adelante, Marx explica que el trabajador se vende al capitalista en calidad de obrero libre, 
+aunque “el obrero no es ‘ningún agente libre’, y que el tiempo que disponía libremente para 
+vender su fuerza de trabajo es el tiempo por el cual está obligado a venderla; que en realidad su 
+vampiro no se desprende de él ‘mientras quede por explotar un músculo, un tendón, una gota de 
+sangre’” (El capital 364) [cursiva del texto original]. En todo caso, durante todo el análisis de El 
+capital, nunca se pierde de vista que el plusvalor es el resultado de una fuerza de trabajo medida 
+en tiempo, pero también una fuerza vital consumida por el capitalista.
+191
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Interpretaciones del complot en Los muros azules de Juan Carlos Martelli: 181-195
+El espionaje como forma del olvido impone la narración-testamento de la 
+“Tercera Parte”, una reconstrucción memorial que superpone saberes misteriosos 
+con la planificación conspirativa de la venganza y la rebelión. Escondido en una 
+casa secreta desde donde vigila el tráfico ilegal de la isla, D’Abadie-quimboiseur 
+relata su pasado y proyecta el complot que determina la rebelión. 
+Laberintos de memoria
+En Los muros azules, la dinámica del espionaje está definida por una estructura 
+de constante superposición de complots, cruces informativos y secretos ramifica-
+dos. En este contexto, la introducción del efecto paranoico bordea lo irracional 
+en la historia. Para Boltanski, el espionaje pone en tensión la representación del 
+Estado y las fuerzas ocultas que lo amenazan, porque conjuga las problemáticas 
+atinentes al territorio nacional con los flujos que lo atraviesan –ya sea agentes 
+políticos subversivos, agitadores o espías– y la circulación de trabajadores, mercan-
+cías y dinero que reenvían al funcionamiento del capitalismo internacional (46). 
+También Ernest Mandel destaca que el espionaje y el thriller político aparecen en 
+el período entreguerras como un modo de poner en foco los crímenes producidos 
+por agentes de unos Estados contra otros (133)9. En este contexto:
+Los super héroes deben alcanzar un más alto nivel con el desarrollo general de la 
+sociedad burguesa: la creciente mecanización, la optimización de la tecnología y las 
+fuerzas productivas, una más amplia diversificación de bienes de consumo, el naci-
+miento de la sociedad de consumo, la galopante enajenación del individuo y las nue-
+vas e imprevistas dimensiones de dicha enajenación. Claramente, un super espía no 
+puede prevalecer armado exclusivamente con un supercerebro analítico y, a lo largo 
+de la tercera revolución tecnológica, tampoco se espera que lo haga. (Mandel 133)
+La construcción fracturada de la conciencia narrativa de Legros permite re-
+conocer la conflictividad de estos recorridos: cirugías estéticas y laboratorios de 
+conductas, maestros que enseñan marxismo y padres de la magia (Petrus), así 
+como múltiples recorridos geográficos en huida signan este quiebre identitario. 
+El primer encuentro con Alcock ya revela el antagonismo que se proyecta desde 
+la perspectiva de enunciación a la totalidad de la trama: 
+Usted es más idealista que yo. Tiene difíciles obligaciones consigno mismo. Yo siem-
+pre sabré a qué atenerme: es fácil saber hasta qué punto se traiciona a un país por 
+9	
+Martelli reconoce la influencia de El Ministerio del Miedo, de Graham Greene, en el Prólogo de 
+Los muros azules (12). La novela de Martelli se apoya en un clima de complots internacionales 
+y ambigüedades identitarias, sobre este fondo temático se destaca la herencia borgeana de “El 
+jardín de los senderos que se bifurcan” e incluso Plan de evasión (1945), de Bioy Casares. Asi-
+mismo, podemos trazar una relación con la novela de Osvaldo Soriano A sus plantas rendido un 
+león, publicada el mismo año. La presencia de discursos delirantes y la ilusión de una rebelión 
+internacional narrada durante el viaje en tren por la selva africana configuran el tono paródico de 
+esta novela, un tono ausente en Los muros azules.
+192
+Lucía Feuillet | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+causas personales. Usted vivirá preguntándose cuándo se está traicionando a sí mis-
+mo por causas personales. (Martelli 118)
+En la “Tercera Parte. La memoria del cristiano errante”, Legros construye 
+el mapa laberíntico del recuerdo de su trayectoria de espía; esta recuperación es 
+estratégica porque estructura los motivos del complot. Las cronologías se sub-
+vierten para dar cuenta de dos momentos centrales: el asesinato de Marianne 
+(pareja de Meyer) y el final de su trayectoria profesional. El juego de encuentros 
+y desencuentros es enigmático y ocurre siempre en movimiento, entre micrófo-
+nos, escapes y despistes que configuran las formas discursivas, porque los modos 
+del lenguaje son engañosos y siempre implican subterfugios, secretos y rodeos. 
+En la “Cuarta Parte. El muro azul” se narra la sustracción de la mujer como 
+testimonio de la criminalidad genocida del Estado argentino: “Simplemente, 
+como tantos otros, como treinta mil otros, desapareció” (142). Sin embargo, 
+esto exhibe el complot de los Estados capitalistas con organizaciones clandes-
+tinas internacionales porque D’Abadie descubre una conjura secreta entre los 
+torturadores argentinos –que vienen de El Salvador y habían sido “adiestrados” 
+como espías en Barbados– y la Organización de Gaspire. De esta forma, el se-
+cuestro ilegal se explica, en el marco temático que provee el complot, como un 
+crimen a la vez nacional e internacional. La impunidad de quienes lo perpetran 
+en Argentina queda garantizada por los alcances de la conspiración criminal 
+interestatal y los intereses económicos mundiales. 
+De modo que lo que se revela en el uso martelliano del espionaje es la di-
+mensión oculta y perversa de los complots que rigen el capitalismo internacio-
+nal, signada por Estados pirata-coloniales que convocan lo sobrenatural para 
+ostentar su poder. En este punto, vale citar a Boltanski nuevamente: “En cuanto 
+al dinero líquido, cuya transmutación en moneda nacional por la magia de una 
+operación de cambio, disimula la proveniencia extranjera y pasa de mano en 
+mano sin dejar ninguna huella, es a la vez el instrumento y el símbolo mismo de 
+la corrupción” (47). Así como el dinero es símbolo de lo que su origen esconde 
+(las relaciones sociales)10, el complot es el instrumento que permite descifrar las 
+tramas ocultas de lo social en la novela y construir operaciones antagónicas a 
+este, por medio de la escritura. 
+Literatura, magia y complot, un cierre posible
+En medio del desfasaje de modos de producción que combinan formas so-
+ciales colonialistas con rasgos del capitalismo avanzado, entre la persistencia de 
+10	 Ya en Trabajo asalariado y capital (1849) se define el dinero como una relación social, luego El 
+capital –Tomo I– (1863) trabaja en profundidad esta noción al develar el origen del antagonismo 
+de clases tal como se presenta en el capitalismo de su época y el fetichismo de la mercancía (87). 
+En relación con la ficción, en los Manuscritos económicos y filosóficos (1932) se menciona el 
+poder demiúrgico del dinero. 
+193
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Interpretaciones del complot en Los muros azules de Juan Carlos Martelli: 181-195
+los brujos como testimonio de lo inexplicable en la rebelión y la descomposi-
+ción del socialismo personalista, D’Abadie observa, codifica, escribe y relata. La 
+recuperación de la memoria post-resurrección acomete al exespía en un refugio 
+lejano a la civilización, una casa en el bosque donde el Zarathustra isleño conecta 
+la investigación sobre el comercio clandestino en la zona con la conspiración 
+revolucionaria. De modo que no es su participación en los conocimientos má-
+gicos ni su trayectoria de espionaje lo que moviliza a D’Abadie a participar de la 
+insurrección, sino el impulso hacia el complot, marcado por el desciframiento 
+y la escritura. 
+Mientras recupera su memoria, el exespía descubre la trama secreta del com-
+plot que sostiene el modo de producción local; barcos silenciosos que esconden 
+bultos en el agua, camiones que descargan mercadería y pescadores que colabo-
+ran en el reparto configuran la red clandestina del negocio ilegal. Un conjunto 
+de cuadernos con un sistema de anotaciones cifradas aporta los datos que ha 
+consignado el heredero devenido en conspirador-inventor, ya que también usa 
+estas anotaciones para diseñar la estrategia revolucionaria, cruzando complot 
+con escritura y resignificación del propio pasado: “Hasta tal punto que le permi-
+te inventar su propia trama” (Martelli 103). 
+Una operación hermenéutica indica el inicio de la etapa detectivesca y orien-
+ta la praxis hacia la emancipación; D’Abadie comprende que el pueblo descansa 
+en el olvido igual que él, por eso será necesario recuperar su memoria social más 
+profunda mediante la insurrección. Por tanto, la escritura es la forma de orga-
+nización que encuentra una conciencia ultrajada y fragmentada y representa, al 
+interior de la historia, una sociedad igualmente maltratada y atravesada por una 
+conspiración que combina elementos ocultos (cuyo sentido hay que desentra-
+ñar) con otros que permanecen en el ámbito de lo inexplicable.
+El complot es el eje de la hermenéutica dialéctica que aquí esbozamos, en 
+tanto ideologema que reescribe las contradicciones sociales y sus modos de reso-
+lución imaginarios, atraviesa los cruces de espionaje y fantasy y combina la trans-
+gresión de las racionalidades hegemónicas con el descubrimiento de los mecanis-
+mos ocultos tras la dominación. Estos planos discursivos se superponen para dar 
+lugar a la conspiración y lo demiúrgico, ambas actividades resultan tan cercanas 
+a la revolución como a la literatura. De esto se deriva una metarreflexión sobre la 
+producción de la ficción como movimiento que gira en torno al poder de la in-
+vención y que, al igual que el dinero, interviene en lo real de modo demiúrgico, a 
+la manera de un operador de ilusiones, ya que la literatura transforma en verdad 
+–en el gesto escritural y en la praxis– la emancipación anunciada (Piglia Crítica y 
+ficción 28). Además, el complot funciona como código ficcional: “podemos ver 
+el complot como una ficción potencial, una intriga que se trama y circula y cuya 
+realidad está siempre en duda” (Piglia Teoría del complot 99). 
+Los muros azules es, entonces, una “ficción del complot”, porque evidencia 
+las representaciones ilusorias que disimulan una verdad oculta tras el Estado 
+(Boltanski 64), en un tejido histórico incierto en el que cualquier revelación de 
+194
+Lucía Feuillet | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+los intereses que sostienen el orden económico-social se vuelve sospechoso. El 
+complot es la clave de lectura que –a partir de la reescritura del espionaje y el 
+fantasy– da cuenta de la convivencia conflictiva de identidades, herencias mági-
+cas y racionales en el nivel individual, a la vez que proyecta, en el nivel colectivo, 
+el desciframiento de las redes de conspiraciones ocultas y dominaciones inex-
+plicables. Simultáneamente, se vuelve una herramienta que permite interpretar 
+la trama de la transformación histórica, la subversión del modo de producción 
+dominante y la anticipación de nuevas intrigas que desmontan los juegos del 
+poder. 
+Referencias bibliográficas
+Alazraki, Jaime. “¿Qué es lo neofantástico?”. Teorías de lo fantástico, editado por 
+David Roas, Madrid, Arco Libros, 2001, pp. 265-282.
+Arán, Pampa. El fantástico literario. Córdoba, Narvaja Editor, 1999.
+_____. “Lo unido y lo enhebrado. Para una teoría del fantástico literario con-
+temporáneo”. Fantasmas, sueños y utopías en la literatura, cine y artes plásticas, 
+editado por Cristina Elgue-Martini y Luigi Volta, Córdoba, Ediciones del 
+Copista, 2009, pp. 15-30.
+Barrenechea, Ana María. “Ensayo de una tipología de la Literatura Fantásti-
+ca (A propósito de la literatura hispanoamericana)”. Revista Iberoame-
+ricana, vol. 38, n.° 80, 1972, pp. 391-403. https://doi.org/10.5195/
+reviberoamer.1972.2727
+Boltanski, Luc. Enigmas y complots. Una investigación sobre las investigaciones. 
+Buenos Aires, Fondo de Cultura Económica, 2016.
+Bracamonte, Jorge. “Los usos de Marx en Jameson, en diálogo con Althusser 
+y Balibar”. Marx ensayos plurales, editado por Francisco Delich, Córdoba, 
+Comunicarte, 2012, pp. 51-68. 
+Césaire, Aimé. Discurso sobre el colonialismo. Madrid, Akal, 2006.
+Enzensberger, Hans Magnus. Política y delito. Barcelona, Seix Barral, 1968. 
+Gayot, André y Maurice Mességué. Ce soir, le diable viendra te prendre, la sorce-
+llerie aux Antilles. París, Robert Laffont, 1968.
+Grüner, Eduardo. “El retorno de la teoría crítica de la cultura: una introducción 
+alegórica a Jameson y Žižek”. Estudios Culturales. Reflexiones sobre el multi-
+culturalismo, Fredric Jameson y Slavoj Žižek, Buenos Aires, Paidós, 2003, 
+pp.11-64.
+Jackson, Rosemary. Fantasy: literatura y subversión. Buenos Aires, Catálogos, 
+1986.
+195
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Interpretaciones del complot en Los muros azules de Juan Carlos Martelli: 181-195
+Jameson, Fredric. Documentos de cultura, documentos de barbarie. La narrativa 
+como acto socialmente simbólico. Madrid, Visor, 1989.
+_____. “Marxismo e historicismo.” Las ideologías de la teoría, Buenos Aires, 
+Eterna Cadencia, 2014, pp. 538-574.
+_____. Marxismo y forma. Madrid, Akal, 2016.
+_____. La estética geopolítica. Buenos Aires, El cuenco de plata, 2018.
+Knight, Peter. “Making sense of conspiracy theories”. Conspiracy Theories in Ame-
+rican History. An enciclopedia, California, ABC CLIO, 2003, pp. 15-23.
+Lenin, Vladimir Ilich. “El Estado y la revolución. La teoría marxista del Estado 
+y las tareas del proletariado en la revolución”. Obras selectas. Lenin (1917-
+1923), Vol. 2, Tomo II, Buenos Aires, Ediciones IPS, 2013, pp. 123-210.
+Ludmer, Josefina. El cuerpo del delito. Un manual. Buenos Aires, Eterna Caden-
+cia, 2011.
+Mandel, Ernest. Crimen delicioso. Historia social del relato policíaco. Buenos Ai-
+res, Ediciones RyR, 2011.
+Martelli, Juan Carlos. Los muros azules. Buenos Aires, Emecé, 1986.
+Marx, Karl. El capital. Crítica de la economía política. Traducido por Pedro Sca-
+ron. Vol. I. Tomo II, México, D. F., Siglo XXI Editores, 2013.
+_____. Teorías sobre la plusvalía. Vol. 1, México D. F., Fondo de Cultura Eco-
+nómica, 1980. 
+Piglia, Ricado. Crítica y ficción. Buenos Aires, Anagrama, 2001.
+_____. “Teoría del complot”. Antología personal, México, Fondo de Cultura 
+Económica, 2014, pp. 99-118.
+Ricoeur, Paul. El conflicto de las interpretaciones. Buenos Aires, Fondo de Cultura 
+Económica, 2015.
+Romero, José Manuel. “La hermenéutica del posmodernismo de F. Jameson”. 
+Hacia una herméutica dialéctica, Madrid, Síntesis, 2012, pp. 219-296.
+Todorov, Tzvetan. “Definición de lo fantástico”. Teorías de lo fantástico, editado 
+por David Roas, Madrid, Arco, 2001, pp. 47-64.

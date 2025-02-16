@@ -1,0 +1,560 @@
+Auster, nº 19, e013, 2014. ISSN 2346-8890
+Universidad Nacional de La Plata. 
+Facultad de Humanidades y Ciencias de la Educación.
+Centro de Estudios Latinos
+ RASGOS DIDÁCTICOS E IDENTIDAD ROMANA EN LOS 
+COMMENTARII IN SOMNIUM SCIPIONIS DE MACROBIO
+…bene et sapienter Tullianus hic Scipio 
+circa institutionem nepotis ordinem recte docentis implevit.1
+Macrobio, Comm. in Somn. Sc. II. 12. 2
+Introducción
+La Antigüedad Tardía ha sido definida como un período de particular conflicto
+en relación con la identidad cultural, a causa de las transformaciones sociopolíticas
+operadas entre los siglos III y VIII d. C.2 En este marco, la dinámica entre los géneros
+literarios ofrece una ocasión privilegiada para estudiar las transformaciones operadas,
+considerando que de manera recíproca los géneros acusan los cambios culturales pero al
+mismo tiempo configuran, en su discurso, la noción de identidad. Si bien la literatura
+romana había tenido siempre como preocupación central la educación de sus lectores a
+través del  exemplum, en la Antigüedad Tardía la literatura “secundaria”—como los
+comentarios— cobra particular fuerza a causa de su poder para reescribir el pasado y
+recrearlo al mismo tiempo como un modelo válido de representación en el presente.
+En este contexto, el presente trabajo estudia la presencia de los rasgos de
+didactismo en los Commentarii in Somnium Scipionis de Macrobio escritos en el siglo V
+d. C. y de carácter “narrativo- filosófico”.3 A través del análisis de estas características
+se espera alcanzar al menos dos objetivos: por un lado, caracterizar la forma en que 
+1“Con sensatez y sabiduría el Escipión de Cicerón, para instruir a su nieto, ejecutó un plan digno de un 
+excelente maestro.” La edición de Macrobio utilizada es la de Willis, I. (1970) Willis, I. Ambrosii 
+Theodosii Macrobii Saturnalia apparatu critico instruxit, In Somnium Scipionis comentarios selecta 
+varietate lectiois ornavit, I. Willis, vol. 2 Ambrosii Theodosii Macrobii Commentarii in Somnium 
+Scipionis, edidit Iacobus Willis, accedunt quatuor tabulae, Leipzig, Teubner, 1970 (reimpr. 1994). , y las 
+traducciones son propias.
+2 Al respecto vid. Brown, P. The world of Late Antiquity: from Marcus Aurelius to Muhammad (A. D. 
+150- 750), London, Thames and Hudson, 1971 ; Cameron, A. El mundo mediterráneo en la Antigüedad 
+Tardía, (395- 600), Barcelona, Crítica (Grijalbo Mondadori), 1998 (1ª edición London, Routledge, 1993), 
+entre otros. 
+Cita sugerida: Cardigni, J. (2014). Rasgos didácticos e identidad romana en los Commentarii in Somnium Scipionis 
+de Macrobio. Auster, (19), e013. Recuperado de:  http://www.auster.fahce.unlp.edu.ar/article /view/Aus013
+  Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Auster, nº 19, e013, 2014. ISSN 2346-889
+Macrobio construye su propia autoridad como comentarista; por otro, especificar los
+contenidos de la enseñanza macrobiana, que a simple vista parece ser la doctrina
+neoplatónica, pero que en una visión más profunda implica muchos otros elementos
+culturales estrechamente relacionados con la construcción de una romanitas posible en
+tiempos de crisis cultural. 
+La literatura didáctica en la Antigüedad Tardía
+Lo didáctico como fenómeno se define como una actividad interpersonal de
+enseñanza- aprendizaje que se actualiza en una situación sociohistórica determinada
+fuera o dentro de las instituciones destinadas a tal fin, y que circunscribimos para
+nuestro análisis como un acontecimiento discursivo.4 Dentro de este panorama, y en el
+contexto  de  la  Roma  tardoantigua,  hay  géneros  y  textos  que  se  inscriben
+específicamente en esta trama, como el comentario, y otros en los cuales los rasgos
+didácticos se hallan incluidos en otros tipos de discurso, como es el caso de la épica; es
+decir que “lo didáctico” como categoría es un conjunto de rasgos reconocibles y
+sistematizables, que funciona de manera transversal, y se activa gradualmente en la
+lectura. Por otro lado, está claro que desde Homero toda la literatura “enseña algo”, por
+lo cual esta intencionalidad no es suficiente como criterio de clasificación: aquí es
+donde cobra relevancia la presencia de determinados recursos y estrategias discursivas
+conscientes que autor y lector reconocen. Por medio de ellos los textos didácticos
+actualizan, además de contenidos lingüísticos o filosóficos, valores y representaciones
+hegemónicas que conforman el imaginario cultural de una sociedad en determinado
+momento y para determinado grupo, proyectando una noción ideal de identidad.5 
+La obra de Macrobio —toda ella, no únicamente los  Commentarii— tiene un
+claro objetivo didáctico, abarcando casi de manera complementaria la lengua en el
+3 Vid. Cardigni, J. El comentario como género tardoantiguo : Commentarii in Somnium Scipionis de 
+Macrobio, Buenos Aires, Oficina de Publicaciones de la Facultad de Filosofía y Letras, 2013.
+4 Cf. del Sastre, E.- Schniebs, A. (comps.) Enseñar y dominar. Las estrategias preceptivas en Roma, 
+Buenos Aires, Oficina de Publicaciones de la Facultad de Filosofía y Letras, 2007, p. 10.
+5 Sobre las nociones de género y en particular de género didáctico vid. Volk, The Poetics of Latin 
+Didactic: Lucretius, Vergil, Ovid, Manilius, Oxford, Oxford University Press, 2002; Dalzell A. The 
+Criticism of Didactic Poetry: Essays on Lucretius, Virgil and Ovid, Toronto- Buffalo- London, University 
+of Toronto Press, (1996), Deppew, M.- Obbink, D. (eds.) Matrices of genre. Authors, Canon and Society, 
+London, Cambridge University Press, 2002.
+2
+Auster, nº 19, e013, 2014. ISSN 2346-889
+Tractatus, la filosofía en los Commentarii, la poesía en Saturnalia. Al respecto resulta
+operativa la distinción propuesta por Gibson (1997: 68), quien señala la existencia de
+tres tipos diferentes de textos didácticos: las obras que introducen al lector a un conjunto
+de conocimientos; las obras que instruyen al lector sobre la práctica de una determinada
+arte; y las obras que instruyen al lector acerca de un conjunto de proposiciones, e
+intentan persuadirlo para que actúe o piense de determinada manera sobre la base de
+estas proposiciones. En esta última categoría se cuentan la obra de Lucrecio, De officiis
+de Cicerón y—agregamos— los Commentarii de Macrobio. Es decir que no se trata de
+una obra normativa llena de prescripciones y mandatos, como podría ser en el caso de
+los comentarios escolares —como ejemplo tenemos la paradigmática obra de Servio—
+sino de una búsqueda diferente en la que la inducción y el proceso filosófico de
+aprendizaje juegan un papel esencial, ya que este aprendizaje se realiza por medio de la
+práctica de la filosofía, y por ello consiste no tanto en una transmisión como en una
+construcción del saber.
+Por otro lado, y dando cuenta de la asimetría necesaria para que se produzca una
+situación de enseñanza- aprendizaje, el espacio de la obra didáctica está habitado por
+cuatro personae que pueden adquirir diferentes modos: el maestro/ poeta; la autoridad
+que respalda al maestro; el enunciatario individualizado, es decir, el receptor específico
+e inmediato de la instrucción; y una audiencia más amplia que lee “por encima del
+hombro” del destinatario particular.6 Macrobio no era un maestro de escuela ni de
+filosofía, pero su estatus de padre lo habilita para inculcar y transmitir conocimiento,
+sobre todo porque el destinatario es su hijo. A su vez, este es el marco de la trama
+narrativa  comentada,  en  que  también  se  presenta  una  situación  de  enseñanza-
+aprendizaje  entre  Escipión  abuelo  y  su  nieto.  Por  otro  lado,  existe  también  un
+destinatario extratextual: el lector común que podía acceder a los Commentarii y a sus
+enseñanzas, es decir, los contemporáneos de Macrobio y su posteridad. Por último
+nosotros constituimos parte de su audiencia, en tanto leemos los  Commentarii como
+intrusos de otra época y otra cultura. 
+Analizaremos así los rasgos de didactismo en su conformación discursiva, para
+determinar de qué manera los Commentarii in Somnium Scipionis proyectan su doctrina
+y sus valores culturales como guía en la construcción identitaria tardoantigua. 
+6 Vid. Konstan, D. “Foreword: to the Reader”, Méga Népios, 1993: 11- 22, en A. Schiesaro, P. Mitsis and 
+J. Strauss Clay (edd.), Mega nepios. Il destinatario nell'epos didascalico. The Addressee in Didactic 
+Epic. Pisa: Giardini, 1994. Materiali e discussioni per l'analisi dei testi classici 31, p. 12. 
+3
+Auster, nº 19, e013, 2014. ISSN 2346-889
+Marcas de didactismo en los Commentarii de Macrobio
+Para llevar a cabo su tarea didáctica el comentarista necesita un motivo, y es allí
+donde se encuentra con la tensión que se produce entre la autoridad del texto comentado
+y la necesidad de la explicación que legitima su tarea,7 y es en la búsqueda de este
+equilibrio que el comentarista construye su autoridad y garantiza la eficacia de su obra.
+En este punto, todos los escritores de comentarios se concentran en la obscuritas del
+texto  fuente,8 debida  a  la  brevitas,  que  si  bien  puede  poner  en  problemas  la
+comprensión, no deja de ser una virtud retórica.9 De hecho Macrobio además de
+señalarla en Cicerón (“et quia Tullio mos est profundam rerum scientiam sub brevitate
+tegere verborum”),10 también se la atribuye a sí mismo, como en I. 6. 21: “de secunda
+septenarii  numeri  coniunctione  dicta  haec  pro  affectatae  brevitatis  necessitate
+sufficiunt”.11 De esta forma Macrobio intenta trazar, además, una analogía retórica entre
+su discurso y el de Cicerón, como se ve también en el siguiente pasaje:
+nec enim quia fecit in hoc loco Cicero musicae mentionem, occasione hac eundum est
+per universos tractatus qui possunt esse de musica, quos quantum mea fert opinio
+terminum habere non aestimo, sed illa sunt persequenda quibus verba quae explananda
+receperis possint liquere quia in re naturaliter obscura qui in exponendo plura quam
+necesse est superfundit addit tenebras, non adimit densitatem.12
+7 Vid. Sluiter, I., “Commentaries and the didactic tradition”, Glenn W. Most (ed.), Commentaries – 
+Kommentare (Aporemata Bd 4), Göttingen, 1999: 173-205.
+8 Más allá del uso técnico que el término adquiere en los comentaristas tardoantiguos, la obscuritas es 
+protagonista de reflexiones similares a lo largo de toda la historia de la literatura latina. 
+9 Sobre la brevitas vid. (Hor., Sat. I. 10. 9- 15; Ars P. 333- 336; Ars P. 25- 26; Cicerón Inv. Rhet.I. 32. 
+10 Macrob. In Somn. Sc. II. 12. 7: “Y Cicerón, dado que acostumbra a disimular su profundo 
+conocimiento del tema bajo la concisión de su estilo.”
+11 Macrob. In Somn. Sc. I. 6. 21: “Sobre la segunda combinación que suma el número siete, dada la 
+necesidad y el deseo de brevedad, basten estas observaciones.” También en 1. 10. 8: “et quia totum 
+tractatum, quem veterum sapientia de investigatione huius quaestionis agitavit, in hac latentem verborum
+paucitate repperies, ex omnibus aliqua, quibus nos de rei quam quaerimus absolutione sufficiet admoneri
+amore brevitatis excerpsimus.”: “Y dado que encontrarás, disimulado entre estas pocas palabras, todo el 
+debate que la sabiduría de los antiguos suscitó en torno a la investigación de esta cuestión, nosotros, dada 
+nuestra inclinación por la brevedad, hemos extractado de la masa de material algunos puntos que nos 
+bastarán para tratar acerca de la explicación del asunto que investigamos.”
+12 Macrob. In Somn. Sc. II. 4. 12: “El hecho de que Cicerón haga mención de la música en este pasaje, 
+no es pretexto para revisar todos los tratados que pueden existir acerca de la música, los cuales creo que 
+son incontables, sino que debemos exponer las cosas que puedan clarificar las palabras que creemos que 
+necesitan explicación, pues en una materia naturalmente oscura quien en su explicación se extiende más 
+4
+Auster, nº 19, e013, 2014. ISSN 2346-889
+La tarea didáctica del comentarista se ve así reforzada y se legitima casi como
+indispensable. Al mismo tiempo, esta necesidad y la solidez del comentarista para
+solucionar el problema lo elevan al rango de auctor y permiten el desarrollo del texto. 
+Los  procedimientos  discursivos  para  llevar  adelante  el  comentario  son
+esencialmente de dos tipos: por un lado, hay una serie de operaciones (ampliación,
+interpretación, alusiones intertextuales) que completan y clarifican el sentido esquivo o
+confuso del texto comentado. En segundo lugar, hay marcas enunciativas que recorren
+todo el texto (enunciados programáticos, deónticos y epistémicos)13 y que delinean las
+posiciones  de  auctor y  lector como  magister y  discipulus.  Por  medio  de  ambas
+operaciones se construye una noción ideal de cultura y de identidad, que es justamente
+la que se espera proyectar hacia fuera del texto. 
+Lo cierto es que el texto de Cicerón es, como todos los textos comentados, por
+un lado valioso, por otro lado inaccesible, ya sea por su brevitas o por su obscuritas.
+Para solucionar la primera, a menudo Macrobio recurre a elaboraciones sobre el texto
+fuente, es decir, amplía su contenido porque considera que es exiguo o insuficiente. Así
+en el libro segundo, cuando Cicerón se refiere a la música de las esferas, Macrobio hace
+una extensa y técnica digresión sobre las proporciones aritméticas que rigen la armonía
+musical, para concluir diciendo: 
+cuius sensus si huic operi fuerit adpositus, plurimum nos ad verborum Ciceronis, quae
+circa  disciplinam  musicae  videntur  obscura,  intellectum  iuvabit.  sed  ne  quod  in
+patrocinium alterius expositionis adhibetur ipsum per se difficile credatur, pauca nobis
+praemittenda sunt quae simul utriusque intellegentiam faciant lucidiorem.14
+Otra categoría de comentarios la constituyen aquellos de carácter interpretativo,
+en los que Macrobio explica lo que Cicerón ‘quiso decir’, o ‘quiso que los lectores
+entendieran’, intentando suplir en este caso la obscuritas ciceroniana. En todos los casos
+allá de lo que es necesario, añade densidad a las tinieblas en vez de quitársela.”
+13 Gibson, R. en “Didactic poetry as ‘popular’ form: a study on imperatival expressions in Latin didactic 
+verse and prose”, en Atherton C. (ed.) Form and Content in Didactic Poetry, Bari, Levante Editori, 1997: 
+67- 115, pp. 70 y ss., provee un panorama de en qué consisten estas marcas.
+14 Macrob. In Somn. Sc. II. 2. 2: “Si aplicáramos su explicación a nuestra obra [se refiere en este caso a 
+las relaciones numéricas que Platón explica en Timeo] sería de gran ayuda para entender las palabras de 
+Cicerón, que acerca de la disciplina musical parecen oscuras.  Pero para que la explicación que se ofrece 
+como ayuda de esta otra explicación no sea considerada ella misma difícil, debemos hacer unas pocas 
+consideraciones previas que harán más transparente la comprensión de una y otra explicación.” 
+5
+Auster, nº 19, e013, 2014. ISSN 2346-889
+se expresa la modalidad deóntica, y su función final es reducir a una posibilidad la
+interpretación de las palabras de Cicerón. Se caracterizan por ser frases yusivas en modo
+subjuntivo o imperativo, como: “sonum vero tono minorem veteres quidem semitonium
+vocitare voluerunt. sed non ita accipiendum est ut dimidius tonus putetur”,15 y más
+adelante:
+unde Tullius hoc intellegi volens non dixit omnis terra parva quaedam est insula sed
+omnis terra quae colitur a vobis parva quaedam est insula quia et singulae de quattuor
+habitationibus  parvae  quaedam  efficiuntur  insulae  Oceano  bis  eas  ut  diximus
+ambiente.16 
+Los enunciados interrogativos —directos e indirectos— también forman parte de
+este grupo, dado que simulan un diálogo por medio del cual avanza el discurso, y guían
+la interpretación; son también más numerosos en el segundo libro de los Commentarii:
+“num dicendum est deum mandasse mendacium? non ita est”;17 “hoc quem ad modum
+accipiendum sit instruemus.”,18 “quis est igitur dicit aliquis aut unde intellegitur animae
+motus, si horum nullus est? sciet hoc quisquis nosse desiderat vel Platone dicente vel
+Tullio quin etiam ceteris quae monentur hic fons hoc principium est movendi.”.19 
+A su vez, estas frases de reformulación e interpretación funcionan muy bien a
+manera de cierre de secciones breves, ya que parafrasean y clausuran el sentido del
+pasaje comentado. Así ocurre cuando Macrobio explica la profecía que el Africano
+pronuncia para su nieto, y luego de realizar una muy extensa disertación sobre la
+perfección de los números, retoma a Cicerón y reformula la predicción en términos, a su
+15 Macrob. In Somn. Sc. II. 1. 21: “Los antiguos quisieron llamar ‘semitono’ al intervalo menor que el 
+tono, pero esto no hay que interpretarlo como que se está pensando en medio tono…”. 
+16 Macrob. In Somn. Sc. II. 9. 4: “Por esta razón, Cicerón, puesto que quería que esto se entendiera así, 
+no dijo ‘Toda la tierra es una pequeña isla’ sino ‘Toda la tierra que habitan… es una pequeña isla’, ya que 
+las cuatro partes habitadas se convirtieron, cada una, en pequeñas islas que el Océano baña con sus dos 
+brazos, como hemos explicado.”
+17 Macrob. In Somn. Sc. I. 7. 5: “¿Debemos afirmar que la divinidad le envió un oráculo falso? No es 
+así.”
+18 Macrob. In Somn. Sc. II. 15. 6: “¿Cómo hay que interpretar sus palabras? Lo vamos a explicar a 
+continuación.”
+19 Macrob. In .Somn. Sc. II. 16. 22: “Alguien preguntará: ‘¿cómo es el movimiento del alma y de dónde 
+se supone que procede, si no es uno de estos?’ Lo sabrá quienquiera que tenga deseos de aprender, pues lo
+explican Platón o Cicerón: ‘Más aún, es fuente y el principio del movimiento para las demás cosas que se 
+mueven.’ ” La cita de Cicerón es del Somnium 8. 3: hic fons, hoc principium est movendi, que traduce a 
+Platón, Phaedr. 245c. 
+6
+Auster, nº 19, e013, 2014. ISSN 2346-889
+juicio, más comprensibles, a partir de la frase “sensus autem hic est” (I. 6. 83). De la
+misma forma, luego de exponer el ascenso del alma desde el ámbito terrestre hasta las
+sedes celestiales, camino que recorren las almas de aquellos que han amado a la patria y
+han  contribuido  a  protegerla  y  engrandecerla,  Macrobio  vuelve  a  las  palabras
+ciceronianas: “Quod vero ait harum rectores et servatores hinc profecti huc revertuntur,
+hoc  modo  accipiendum  est.”20 Y más  claramente,  cuando  el  comentarista  intenta
+despejar confusiones terminológicas con respecto a los vocablos que se utilizan para
+referirse a los planetas (orbis, circus), refiere:
+sed hic horum nihil neque circi neque orbis nomine voluit intellegi sed est orbis in hoc
+loco stellae una integra et peracta conversio id est ab eodem loco post emensum
+sphaerae per quam movetur ambitum in eundem locum regressus, circus est autem hic
+linea ambiens sphaeram ac veluti semitam faciens per quam lumen utrumque discurrit et
+intra quam vagantium stellarum error legitimus coercetur.21
+Esta  aparición  frecuente  de  enunciados  que  guían  explícitamente  la
+interpretación en el libro segundo parece indicar la idea de que el  Comentario va
+especificándose como tal a medida que avanza, prescribiendo con mayor intensidad
+hacia el final. Esto va en consonancia con la idea de que se trata de un comentario de
+carácter persuasivo, de acuerdo con la categorización de Gibson que hemos ya referido,
+en el cual se muestra el camino a seguir al lector sin ser demasiado explícito en cuanto a
+la doctrina que se transmite, que sí se va especificando a medida que el comentario se
+desarrolla. Al mismo tiempo, el número reducido de este tipo de enunciados en la obra
+en general —si los comparamos con la presencia de otros recursos discursivos— hace
+pensar en que se trata de una prescripción menos explícita que la de un texto escolar, y
+de carácter más ejemplar.
+También hay en el  Comentario frecuentes alusiones intertextuales a las que
+recurre Macrobio, dado que la  intertextualidad es, sin duda, el recurso forjador de
+20 Macrob. In Somn. Sc. I. 9. 1: “En cuanto a la expresión ‘sus gobernantes y protectores salen de aquí y 
+hacia aquí regresan’ debe ser interpretada de la siguiente manera.”
+21 Macrob. In Somn. Sc. I. 14. 25: “Pero aquí no quiso que se entendiera ninguno de estos significados 
+con los vocablos circus y orbis, sino que en este pasaje, orbis es la revolución completa y entera de una 
+estrella (…) y circus es la línea que circunda la esfera y constituye una especie de camino (…).” Por otra 
+parte, al referirse a lo que Cicerón denomina el sol “supremo”, Macrobio aclara: “quod autem hunc istum 
+extimum globum, qui ita voluitur, summum deum vocavit, non ita accipiendum est, ut ipse prima causa et 
+deus ille omnipotentissimus aestimetur:”: In Somn. Sc. I. 17. 12: “A esta esfera, la más alejada, Cicerón la
+llamó ‘dios supremo’; pero esto no hay que interpretarlo como que es la causa primera ni la divinidad 
+todopoderosa”. 
+7
+Auster, nº 19, e013, 2014. ISSN 2346-889
+auctoritas más prolífico del género comentario, comenzando por el propio hecho de
+adjuntar su obra al nombre de un gran auctor de la tradición. Se trata de un recurso
+complementario que sirve tanto para la ampliación como para la interpretación, y que
+apunta en particular a la construcción del sentido doctrinal al nivel referencial del
+discurso. Así el comentario se halla cruzado constantemente por la remisión a las
+palabras de otros grandes autores del pasado literario, científico y filosófico, lo cual
+permite un despliegue de erudición y legitima directamente las opiniones macrobianas
+de manera indiscutible, ya que ¿quién podría contradecir a Homero o a Virgilio, a Platón
+o al propio Cicerón? Pero también las alusiones intertextuales ayudan a establecer la
+koiné cultural que el texto aspira a transmitir y a proyectar sobre su lector. Así, para
+reforzar su explicación, Macrobio recurre a menudo a Platón: “quod erit manifestius si
+in medio posuerimus ipsam continentiam sensus de Timaeo Platonis excerptam.”22
+También  más  adelante,  cuando  debe  defenderse  de  las  objeciones  de  Aristóteles,
+Macrobio confiesa cómo realizará esta defensa, que supone una composición global a
+partir de las citas de los autores de la tradición platónica, indicando que el sustrato
+filosófico para comprender el texto es fundamentalmente el del (neo)platonismo:
+neque vero tam inmemor mei aut ita male animatus sum ut ex ingenio meo vel Aristoteli
+resistam vel adsim Platoni, sed ut quisque magnorum virorum qui se Platonicos dici
+gloriabantur aut singula aut bina defensa ad ostentationem suorum operum reliquerunt,
+collecta haec in unum continuae defensionis corpus coaceruavi, adiecto siquid post illos
+aut sentire fas erat aut audere in intellectum licebat.23
+Más  allá  de estos  procedimientos,  hay también,  a nivel  de  las  marcas  de
+enunciación, recursos que apuntan a la construcción de la relación entre auctor y lector
+o magister y discipulus, proyectándose al nivel impresivo del discurso y delimitando las
+jerarquías necesarias para que se produzca el fenómeno de “lo didáctico”. Encontramos
+así, por ejemplo, enunciados de carácter deóntico que, por medio de fórmulas yusivas,
+buscan incorporar al interlocutor al discurso y hacerlo parte del proceso. En general
+22 Macrob. In Somn. Sc. I. 6. 28: “Todo esto quedará más claro si citamos un pasaje sobre el mismo tema
+extraído del Timeo de Platón.”
+23 Macrob. In Somn. Sc. II. 15. 1: “Pero no soy tan inconciente ni tan temerario como para hacer frente a 
+Aristóteles sólo con mi talento, o ayudar a Platón, sino que, como cada uno de los grandes hombres que 
+se enorgullecían de llamarse platónicos han dejado uno o dos argumentos defensivos para hacer 
+ostentación de sus propias obras, yo los he recopilado y agrupado aquí en un único cuerpo de defensa 
+continua, agregando alguna opinión o interpretación osada  posterior a ellos que no es ni sacrílega ni 
+ilícita.”
+8
+Auster, nº 19, e013, 2014. ISSN 2346-889
+Macrobio no recurre al imperativo directo sino a otro tipo de giros, que manifiestan una
+guía menos coercitiva: esta estrategia manifiesta el carácter más reflexivo y menos
+‘instructivo’ del texto macrobiano. Como contraparte, lo que incitará a la acción a
+Eustacio —y a todos los lectores— no es el carácter imperativo del texto sino su
+carácter argumentativo, y sobre esta base la mejor argumentación, por su invisibilidad,
+será la propuesta de un exemplum a seguir. 
+Así, dice nuestro autor:  “si vero non unius partis sed totius velis corporis
+superficiem cogitare,” (I. 5. 10);24 “quod animadvertis si super unum quadratum quale
+prius diximus alterum tale altius impositum mente conspicuas” (I. 5. 10);25 “de quinque
+autem cingulis ne quaeso aestimes duorum Romanae facundiae parentum Maronis et
+Tullii dissentire doctrinam” (II. 5. 7);26 “Quod quale sit ex ipsis verbis Ciceronis quae
+secuntur invenies” (II. 13.1);27 “nec te confundat quod moveri passivum verbum est” (II.
+15. 13);28 “nec putes quod idem moveat idemque moveatur” (II. 15. 21);29 “quanta sit
+autem vocabuli huius expressio, quo anima fons motus vocatur, facile repperies, si rei
+invisibilis motum sine auctore atque ideo sine initio ac sine fine prodeuntem et cetera
+moventem mente concipias,” (II. 16. 23);30 “si vero ipsius mundanae animae motus
+requires, caelestem uolubilitatem et sphaerarum subiacentium rapidos impetus intuere”
+(II.  16.  26).31 Todos  estos  giros  en  segunda  persona  implican  procesos  verbales
+24 Macrobio, Comm. in Somn. Sc. I. 5. 10: “Pero si quisieras considerar no la superficie de una sola cara 
+sino de un cuerpo todo entero…”.
+25 Macrob. In Somn. Sc. I. 5. 10: “Comprendes esto bien si imaginas que encima de un cuadrado como el
+que arriba hemos descrito has colocado otro semejante.”
+26 Macrob. In Somn. Sc. II. 5. 7: “En cuanto a los cinco cinturones, te ruego que no pienses que la 
+doctrina de los dos padres de la elocuencia romana, Virgilio y Cicerón…”. 
+27 Macrob. In Somn. Sc. II. 13. 1: “En qué consiste dicho argumento, lo averiguarás a partir de las 
+propias palabras de Cicerón.”
+28 Macrob. In Somn. Sc. II. 15. 13: “Que no te confunda el hecho de que moveri es un verbo pasivo”. 
+29 Macrob. In Somn. Sc. I. 15. 21: “y no vayas a pensar que lo que mueve y lo que es movido es la 
+misma cosa”. 
+30 Macrob. In Somn. Sc. II. 16. 23: “Comprenderás fácilmente el alcance de la expresión fuente de 
+movimiento, aplicada al alma, si te imaginas el movimiento de una cosa visible, que se manifiesta sin 
+autor y por lo tanto sin principio de fin, y que mueve otras cosas; de entre las cosas visibles lo más 
+parecido que podrías encontrar es una fuente.” 
+31 Macrob. In Somn. Sc. II. 16. 26: “Pero si te preguntas por los movimientos del alma misma del 
+mundo, observa la rotación del cielo y el curso rápido de las esferas inferiores.”
+9
+Auster, nº 19, e013, 2014. ISSN 2346-889
+pertenecientes al campo semántico de los sentidos y del entendimiento, no de la acción,
+por lo cual podemos pensar que la exhortación de Macrobio a sus lectores se centra más
+en el hecho de percibir y comprender la realidad descripta y el mensaje más que en una
+acción concreta. También debemos incluir en este grupo las invocaciones que abren
+cada libro: “Eustathi fili, uitae mihi dulcedo pariter et gloria”32 y “Eustathi luce mihi
+dilectior fili”.33 A través de ellas se define claramente el destinatario pero también en
+qué relación se encuentran los dos agentes del proceso didáctico: no sólo son magister y
+discipulus, sino que también son padre e hijo, fundiendo en una construcción dos de las
+representaciones típicas del imaginario didáctico. 
+Asimismo encontramos también indicadores de modalidad epistémica, como
+conectores, adverbios y sintagmas adverbiales o giros, a través de los cuales Macrobio
+expresa su valoración moral acerca de los contenidos que comenta, y establece su lugar
+de  guía  cultural.  En principio  estas  expresiones  tienen  como  función  aprobar  las
+palabras de Platón o de otros pensadores de la tradición platónica, incluyendo a Cicerón:
+“in hoc tamen vel maxime operis similitudinem servavit imitatio”;34 “per illam demum
+fabulam – sic enim  quidam vocant—”,35 en este caso utilizando el “quidam” para
+referirse de manera despectiva a los epicúreos a quienes pasará a refutar: el uso de la
+parentética parece ubicarlos en segundo plano en cuanto a su propio discurso, y de
+hecho Macrobio propondrá otra denominación para este tipo de ficción “narratio
+fabulosa” (I. 2. 8). En “quibus, quod factu facile est enervatis”,36 Macrobio se refiere a
+que la refutación de los epicúreos no requerirá de demasiado esfuerzo; con “Apuleium
+non  numquam  lusisse  miramur”,37 Macrobio  manifiesta  su  asombro  y  cierta
+desaprobación por el hecho de que Apuleyo, considerado filósofo platónico, haya
+32 Macrob.  In Somn. Sc. II. 1. 1: “Eustacio, hijo mío, dulzura y orgullo de mi vida”. 
+33 Macrob. In Somn. Sc. II. 1. 1: “Eustacio, hijo mío, más querido para mí que mi propia vida.” Nótense 
+las reminiscencias virgilianas a partir de Eneida 4. 31: “o luce magis dilecta sorori”. 
+34 Macrob. In Somn. Sc. I. 1. 2: “He aquí, no obstante, algo en lo que, sin duda, la imitación ha respetado
+al máximo la semejanza con el modelo.”
+35 Macrob. In Somn. Sc. I. 1. 7: “Finalmente través de la fábula—pues así la llaman algunos—.”
+36 Macrob. In Somn. Sc. I. 2. 2: “Una vez debilitados estos [los argumentos de los epicúreos] lo cual es 
+fácil de hacer”. 
+37 Macrob. In Somn. Sc. I. 2. 8: “Nos sorprendemos a menudo de que Apuleyo haya practicado [la 
+escritura de ficciones].”
+10
+Auster, nº 19, e013, 2014. ISSN 2346-889
+escrito  fabulae;  “somnium  proprie vocatur  quod…”,38 dice  para  manifestar  su
+conformidad con esta denominación. Estas y otras fórmulas similares son frecuentes en
+los pasajes en que nuestro autor realiza clasificaciones, reforzando así el nivel de verdad
+de su propuesta, por ejemplo: “et paulo post apertius dicit”,39 para reafirmar la verdad
+de las palabras de Escipión; “plenitudinem hic non frustra numeris adsignat”,40 para
+referirse a lo acertado de Cicerón al hablar de la perfección de los números; “neque
+enim corpus  proprie plenum dixeris (…) non tamen plena illa sed vasta dicenda
+sunt.”;41 “ex  quattuor  igitur  elementis  et  tribus  eorum  interstitiis  absolutionem
+corporum constare manifestum est.”,42 una fórmula muy habitual para culminar el
+desarrollo de una argumentación, tal como “iure plenus et habetur et dicitur.”43 un poco
+más adelante; “bene et oportune, postquam de morte praedixit, (…) subiecit:”,44 donde
+bene et oportune funcionan como adjuntos modales que transmiten una valoración por
+parte del comentarista, que en este caso aprueba por un lado el sentido de oportunidad
+del abuelo y al mismo tiempo la habilidad literaria de Cicerón; “plene ut arbitror de vita
+et morte animae definitio liquet”45 donde ‘plene’ es una valoración hacia el propio
+discurso  macrobiano,  que  ha  despejado  de  oscuridades  las  palabras  ciceronianas,
+reforzado además por la parentética; “non ab re est ut haec de anima disputatio in fine
+sententias  omnium  qui  de  anima  videntur  pronuntiasse  contineat.”,46 como  una
+anticipación y justificación de su propio discurso.
+38 Macrob. In Somn. Sc. I.3.10: “Se llama adecuadamente ‘sueño’…”. 
+39 Macrob. In Somn. Sc. I.4.5: “Y poco después dice más claramente…”. 
+40 Macrob. In Somn. Sc. I. 5. 3: “Con razón [Cicerón] atribuye aquí la plenitud a los números.”
+41 Macrob. In Somn. Sc. I. 5. 3: “Pues sería incorrecto decir que un cuerpo es pleno (…) no por ello hay 
+que decir que son plenos, sino vastos.” 
+42 Macrob. In Somn. Sc. I. 6. 40: “Es evidente, pues, que la perfección de los cuerpos resulta de cuatro 
+elementos y sus tres intersticios.”
+43 Macrob. In Somn. Sc. I. 6. 82: “Con derecho es considerado y llamado ‘pleno’ ”. 
+44 Macrob. In Somn. Sc. I. 8. 2: “Correcta y oportunamente [el abuelo] luego de revelarle su muerte, 
+expuso…”. 
+45 Macrob. In Somn. Sc.I. 12. 18: “Queda totalmente clara, en mi opinión, la explicación acerca de la 
+vida y la muerte del alma”. 
+46 Macrob. In Somn. Sc.I. 14. 19: “No está fuera de lugar que esta disertación acerca del alma 
+comprenda, como colofón, las opiniones de todos aquellos que, al parecer, se pronunciaron acerca del 
+alma.”
+11
+Auster, nº 19, e013, 2014. ISSN 2346-889
+En el libro segundo hay escasos ejemplos de estos recursos, excepto en la
+sección más “personal” que consiste en el ataque a la falsa lectura aristotélica de Platón
+sobre el tema de la inmortalidad y el movimiento del alma. Así, encontramos: “sed nec
+de ipsis potest esse dubitatio”47 para resumir la información acerca de un subtema que
+da por supuesto y que, por lo tanto, considera secundario; “His quoque ut arbitror non
+otiosa inspectione tractatis nunc de Oceano quod promisimus adstruamus,”48 para
+valorar en este caso su propio discurso; “bene et sapienter Tullianus hic Scipio circa
+institutionem  nepotis  ordinem  recte  docentis  implevit.”,49 para  calificar  el  plan  de
+Escipión, lo cual resulta particularmente interesante puesto que a pesar de que se trata
+de una valoración sobre la obra ciceroniana, la analogía entre Escipión y su nieto como
+magister y discipulus y el propio Macrobio con respecto a Eustacio no puede dejar de
+notarse,  y  así  el  enunciado  se  vuelve  una  calificación  del  propio  Comentario
+macrobiano.
+El último enunciado epistémico lo hallamos casi en el cierre del comentario, a
+propósito de la tarea de Escipión como maestro de su nieto: “et facile nunc atque
+oportune virtutes suadet postquam quanta et quam divina praemia virtutibus debeantur
+edixit.”50 Esta  afirmación,  que en  principio  se  refiere  al  texto  de  Cicerón,  puede
+aplicarse a la obra del propio Macrobio; también él como maestro ha completado un
+plan inteligente para instruir a Eustacio, y ahora que él conoce todo lo relativo al camino
+del alma después de la muerte, es mucho más fácil que comprenda por qué debe
+practicar las virtudes. En este sentido, queda clara la función del  Comentario como
+ejercicio espiritual luego de cuya lectura el alma y la mente del lector llegan a un lugar
+diferente, más sabio y más virtuoso, y también la idea de que el Comentario no tiene
+tanto un interés filosófico como el objetivo de instituir un modelo de  romanitas que
+pueda ser seguido por el lector. 
+47 Macrob. In Somn. Sc. II. 5. 36: “pero acerca de estos no puede haber duda de que…”. 
+48 Macrob. In Somn. Sc. II. 9.1: “Una vez tratados estos asuntos con un examen, en mi opinión, 
+productivo, es hora de que probemos, como prometimos, nuestra afirmación acerca del Océano.”
+49 Macrob. In Somn. Sc. II.  12. 2: “Con sensatez y sabiduría el Escipión de Cicerón, para instruir a su 
+nieto, ejecutó un plan digno de un excelente maestro.”
+50 Macrob. In Somn. Sc. II. 17. 13: “Ahora es fácil y oportuno para el abuelo aconsejarle al nieto las 
+virtudes, una vez que ha proclamado cuán grandes y divinas son las recompensas destinadas a tales 
+virtudes.”
+12
+Auster, nº 19, e013, 2014. ISSN 2346-889
+El texto se construye también sobre enunciados de tipo “programático”, en
+modalidad yusiva (subjuntivo y gerundivo) que al mismo tiempo que incitan a la acción
+al lector y lo incorporan al recorrido discursivo, funcionan como ordenadores del
+discurso didáctico. Sin duda son estos los que más se presentan en los Commentarii,
+razón por la cual consignaremos solo los más relevantes. En función de su objetivo
+didáctico,  Macrobio  busca  construir  un  discurso  ordenado  y  es  por  eso  que
+constantemente  utiliza  frases  de  tipo  exhortativas  para  anunciar  lo  que  tratará,
+generalmente en primera persona del plural, de modo de incluir al interlocutor en las
+acciones. Así, para discutir con los epicúreos Macrobio propone: “resistamus urgenti et
+frustra arguens refellatur”;51 para ordenar su exposición y en general al inicio de los
+parágrafos temáticos, Macrobio usa enunciados como los que siguen: “Ac priusquam
+somnii verba consulamus, enodandum nobis est a quo genere hominum Tullius memoret
+vel  irrisam  Platonis  fabulam”,52 “His  praelibatis  antequam  ipsa  somnii  verba
+tractemus, prius quot somniandi modos observatio (…) edisseramus ut cui eorum
+generi somnium quo de agimus adplicandum sit innotescat.”,53 “nunc iam discutienda
+nobis sunt ipsius somnii verba, non omnia sed ut quaeque videbuntur digna quaesitu.”54 
+También hallamos enunciados programáticos en el libro segundo: “nunc iam de
+musica earum modulatione disputetur.”,55 “nunc interim de his quas nominavimus
+disseramus.”,56 “nunc  ad  ipsa  Platonis  verba  veniamus.”,57 “Sed  iam  tractatum
+adsequentia  conferamus”,58 “Contra  has  tam  subtiles  et  argutas  et  veri  similes
+51 Macrob. In Somn. Sc.I. 2. 4: “Resistamos la presión del adversario y refutemos estas cosas vanas 
+argumentando.”
+52 Macrob. In Somn. Sc. I.2.1: “Pero antes de que examinemos las palabras del sueño, debemos aclarar 
+cuál es la categoría de hombres que, según refiere Cicerón, se ríe de la ficción de Platón.”
+53 Macrob. In Somn. Sc. I.3.1: “Tras estos preliminares, y ante de comentar el texto mismo del Sueño, 
+expongamos primero cuántas clases de sueños han sido descubiertos por la observación, para saber a qué 
+género debemos agregar el sueño acerca del cual venimos hablando (…).”
+54 Macrob. In Somn. Sc. I. 5. 1: “Ahora debemos discutir las palabras del Sueño de Escipión, no todas 
+ellas sino aquellas que parezcan dignas de investigación.” 
+55 Macrob. In Somn. Sc. II. 1. 1: “Ahora se debe discutir acerca de la armonía musical.”
+56 Macrob. In Somn. Sc. II. 1. 25: “Entretanto, disertemos acerca de estos que hemos mencionado [los 
+intervalos musicales].”
+57 Macrob. In Somn. Sc. II. 2. 15: “Ahora vayamos a las propias palabras de Platón.”
+58 Macrob. In Somn. Sc. II. 5. 1: “Pero ya dirijamos nuestro estudio hacia las cosas siguientes.”
+13
+Auster, nº 19, e013, 2014. ISSN 2346-889
+argumentationes accingendum est secundum sectatores Platonis”,59 y como cierre de la
+obra:  “Sed  iam  finem  somnio  cohibita  disputatione  faciamus  hoc  adiecto  quod
+conclusionem decebit”.60 
+Finalmente, Macrobio también hace uso de una gran cantidad de conectores o
+partículas  interactivas61 (enim,  195  ocurrencias; ergo, 130  ocurrencias; vero,  161
+ocurrencias) frente a una cantidad menor de conectores de tipo ordenadores que no
+involucran a la audiencia o al enunciador (nam, 130 ocurrencias; igitur, 81 ocurrencias).
+Esto es esperable en un texto didáctico, que sólo funciona si el destinatario está
+involucrado  en  el  discurso  y  forma  parte  del  proceso;  a  su  vez  estas  partículas
+interactivas  son más  frecuentes  en el  primer  libro  que  en  el  segundo (enim 113
+ocurrencias en el primer libro, 82 en el segundo; ergo 74 en el primer libro, 56 en el
+segundo;  vero 103 en el primer libro y 58 en el segundo). Esto nos lleva a dos
+conclusiones parciales: por un lado, la guía interpretativa no está ausente en el libro
+segundo, pero sí es menos sutil, y en cambio encontramos enunciados de carácter
+deóntico más explícitos. No obstante, estos últimos son poco frecuentes —como ya
+hemos relevado— lo cual nos lleva al segundo punto: probablemente se asume que ha
+habido algún tipo de aprendizaje a medida que el texto ha ido avanzando, así, la voz del
+autor se hace más presente y sólida por medio de enunciados epistémicos, mientras que,
+en comparación con el primer libro, la guía didáctica —explicitada en los enunciados de
+carácter deóntico— es menos explícita.  
+Conclusiones 
+Tal como hemos visto, los Commentarii funcionan como un mecanismo textual
+de  construcción  y  proyección  ideal  de  la  identidad  cultural.  Las  operaciones  de
+elaboración, reelaboración, interpretación y alusión intertextual tienen como objetivo
+general restablecer los valores referenciales de la doctrina que el Comentario intenta
+recuperar a través del texto ciceroniano. De acuerdo con Macrobio, la doctrina del texto
+ciceroniano necesita de las palabras de la tradición para ser comprendido, y también de
+59 Macrob. In Somn. Sc. II. 15. 1: “Frente a estos argumentos tan sutiles, ingeniosos y verosímiles, 
+debemos empuñar las armas en la senda de los discípulos de Platón.”
+60 Macrob. In Somn. Sc. II. 17. 15: “Pero pongamos ya fin al sueño cerrando nuestro Comentario con 
+una observación adicional que procurará una conclusión adecuada.”
+61 Vid. la clasificación de Baños Baños, J. M. (coord.) Sintaxis del Latín clásico, Madrid, Liceus, 2009.
+14
+Auster, nº 19, e013, 2014. ISSN 2346-889
+reelaboraciones  e  interpretaciones  más  contemporáneas  que  clarifiquen  su  sentido
+referencial. Los recursos puestos en juego por Macrobio tienen, entonces, el objetivo de
+acercar y hacer accesible el texto al lector. 
+ 
+En segundo lugar, las marcas discursivas que hemos analizado a nivel de la
+microestructura nos muestran de qué manera se produce esta apropiación del sentido
+referencial. El lector debe construirse como tal comprendiendo y reflexionando sobre
+las doctrinas a las que es expuesto, integrándose en el proceso de aprendizaje e imitando
+a partir de los exempla propuestos. Debe leer el texto de Cicerón y encontrar en él un
+reflejo  de  su  presente,  identificarse  con  Escipión  y  realizar  los  mismos  procesos
+intelectuales que él al escuchar las enseñanzas de su abuelo, a pesar de las diferencias
+temporales y culturales que los separan. En función de este objetivo, muchas de las
+marcas discursivas están destinadas a la configuración de la asimetría entre magister y
+discipulus que, como señalamos, se produce en al menos tres niveles: Escipión abuelo-
+Escipión nieto/ Macrobio- Eustatio/ Comentario- lector. 
+Finalmente, el Comentario macrobiano se propone como un texto didáctico en,
+al menos, un doble aspecto. Por un lado busca actualizar los contenidos filosóficos
+presentes en Cicerón y de difícil acceso para el público contemporáneo. Pero por otro,
+busca también transmitir las herramientas y recursos para que los nuevos lectores
+construyan su identidad romana en una época en que la propia romanitas se encontraba
+en crisis.  El proceso es perceptible en el propio desarrollo del texto, que guía al lector
+para que vaya operando en su formación, y vaya así incorporando no solo contenido
+doctrinal sino también valores y herramientas culturales sobre cómo leer el pasado y
+actualizarlo en el presente. El resultado será la trascendencia del propio ser romano y la
+creación  de  nuevas  identidades  que  proyectarán  a  los  hombres  más  allá  de  la
+Antigüedad clásica.  
+Julieta Cardigni
+Universidad de Buenos Aires
+jcardigni@yahoo.es
+Resumen:
+El presente trabajo estudia la presencia de rasgos didácticos en los Commentarii in Somnium
+Scipionis de Macrobio, escritos en el siglo V d. C. A través del análisis de estos elementos se espera
+alcanzar un doble objetivo: por un lado, caracterizar de qué manera Macrobio construye su autoridad
+como magister. Por otro, buscamos especificar los contenidos de la enseñanza macrobiana, que a simple
+15
+Auster, nº 19, e013, 2014. ISSN 2346-889
+vista parece ser la doctrina neoplatónica, pero que en una lectura más profunda implica la construcción y
+transmisión de elementos culturales relacionados con la identidad romana en una época de crisis. 
+Palabras clave: antigüedad tardía- género comentario- didactismo- identidad- Macrobio
+Abstract:
+The present  paper aims to study the presence of didactic features in the  Commentarii in
+Somnium Scipionis, written by Macrobius in the fifth century A. D. Through the survey and analysis of
+these features we expect to achieve a double aim: on one hand, the characterization of the way Macrobius
+builds his own authority as a magister; on the other hand, the specification of the contents in Macrobius’
+teaching, which at first sight seems to be the Neoplatonic doctrine, but in a deeper view implies many
+other cultural elements straightly related to the construction of Roman identity. 
+Keywords: Late Antiquity- commentary- didactism- identity- Macrobius
+RECIBIDO: 1-5-2014 – ACEPTADO: 26-5-2015
+16

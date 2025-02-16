@@ -1,0 +1,446 @@
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+La disputa del Nuevo Mundo en la prensa 
+periódica porteña hacia fines del Virreinato
+ARTÍCULO / ARTICLE
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios de Teoría y Crítica Literaria
+Pablo Martínez Gramuglia*
+* Universidad de Buenos Aires, Argentina.
+Cita sugerida: Martínez Gramuglia, P. (2018). La disputa del Nuevo Mundo en la prensa periódica porteña 
+hacia fines del Virreinato. Orbis Tertius, 23(28), e087. https://doi.org/10.24215/18517811e087 
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+1
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811
+La disputa del Nuevo Mundo en la prensa periódica porteña hacia 
+ﬁnes del Virreinato
+por Pablo Martínez Gramuglia 
+(Universidad de Buenos Aires)
+Resumen:
+A partir de la ya famosa investigación de Antonello Gerbi sobre la “disputa” acerca de la naturaleza de América, exploro los 
+discursos a favor y en contra de la idea de una naturaleza corrupta en la temprana prensa periódica porteña. Quiero proponer que la 
+problematización del tópico en dos publicaciones periódicas entre 1801 y 1807, presentadas como intervenciones en una polémica en 
+verdad imposible, permitió a los letrados que en ella intervenían deﬁnir su actividad en la prensa periódica. 
+Palabras clave:  historia de la prensa argentina - literatura colonial argentina .
+Abstract:
+Building on Antonello Gerbi’s now famous conceptualization of a ‘dispute’ on the nature of America, I explore the presence of both anti-
+and pro-American discourses in Buenos Aires’s early periodical press. I propose that the problematization of the topic in two periodical
+publications between 1801 and 1807, portrayed as interventions in a dispute that was actually impossible, provided the opportunity
+for lettered men to deﬁne themselves and their activities in the new medium.
+Keywords:  history of Argentine Press -  colonial Argentine literatura .
+     En su monumental ensayo La disputa del Nuevo Mundo, Antonello Gerbi ha seguido el derrotero de una 
+idea particular sobre el continente americano combinando un estilo ameno y una erudición implacable 
+(Gerbi 1982). 1  Se trata de la tesis de que la naturaleza de América es “inferior”, en distintos sentidos, a la 
+del Viejo Mundo (es decir, el espacio conocido en las vísperas de la llegada de Colón: Europa, el norte 
+africano y el Cercano y Medio Oriente). Si bien esta idea ya estaba presente en algunos de los primeros 
+observadores europeos (a quienes Gerbi dedica un estudio posterior), 2  habría sido el conde Jorge Luis de 
+Buﬀon el iniciador de una versión “cientíﬁca” de ella. Lo que Buﬀon y sus seguidores agregan a la visión ya 
+existente en la segunda mitad del siglo XVIII es en realidad la concepción de la nueva historia natural, que 
+supone una naturaleza sumergida en la historia en cambio constante, en “evolución” (sin la connotación 
+que el término adquiere después de la teoría de Carlos Darwin). No se trata solo de una inferioridad, 
+entonces, sino más bien de una “inmadurez” de la naturaleza americana, puesto que en el Nuevo Mundo 
+plantas y animales sufren la detención de su desarrollo o incluso su degeneración. Guillermo Federico Hegel 
+es el exponente más famoso de este discurso, que tuvo a Buﬀon y al abate Cornelio de Pauw entre sus más 
+exitosos difusores. 3  De plantear la inmadurez y degeneración de animales y plantas a encontrar los mismos 
+problemas entre los seres humanos que habitaban el continente (inmadurez entre los nativos, degeneración 
+entre estos y también entre los descendientes de europeos) no había más que un paso, frecuente a ﬁnes del 
+siglo XVIII y con éxito constante durante el XIX.
+Entendida así, a su vez, la tesis buﬀoniano-hegeliana tiene una larga existencia, contaminada o no con
+la “leyenda negra” de la conquista, y se cruza con justiﬁcaciones más o menos amables de la dominación
+colonial y los vínculos neocoloniales, con racismos y xenofobias varios, y hasta con las teorías del desarrollo,
+que también suponen una América detenida o retrasada en el tiempo, “fuera de la historia”. Asimismo, desde
+su más temprana formulación, la tesis tuvo también sus detractores, tanto entre sabios europeos que no
+aceptaban las ideas de sus colegas como entre letrados americanos, que a su escepticismo epistémico sumaban
+un orgullo local herido.
+La América ha aparecido siempre sin poder físico ni psíquico alguno, y 
+todavía lo hace.
+Guillermo Federico Hegel, Filosofía de la historia, 1832.
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811
+2
+En este trabajo, en el marco de una investigación más extensa sobre las primeras publicaciones periódicas de
+Buenos Aires entre 1801 y 1810, queremos dar cuenta de algunos ecos de esa disputa en estas publicaciones.
+Entre las numerosas “defensas” de la naturaleza y los hombres americanos, me intereso por estas no tanto
+para agregar un capítulo más a la larga disputa (tarea en cierta medida estéril una vez ﬁjados sus ejes centrales,
+aunque sólo “en cierta medida”, pues de los matices y variaciones también puede llegarse a conclusiones
+de interés, ya respecto de la disputa, ya de otras cuestiones de la historia intelectual), 4  sino para utilizarla
+como una entrada más en el corpus de las publicaciones periódicas en el período tardocolonial porteño. Esta
+“entrada” me parece enriquecedora por, al menos, dos motivos. En primer lugar, por los escasos trabajos
+sobre estas fuentes que abordan la especiﬁcidad del medio (impreso periódico) y su lugar en una historia
+intelectual; 5  en segundo lugar, porque este se halla marcado por la vocación polémica de sus autores en el
+período seleccionado.
+Quiero explorar esta temática en el Telégrafo Mercantil, Rural, Político, Económico e Historiógrafo del Río de
+la Plata (1801-1802) y en el Semanario de Agricultura, Industria y Comercio (1802-1807), dos publicaciones
+que, pese a compartir aspectos materiales e ideológicos, tuvieron proyectos editoriales divergentes y muy
+diversa fortuna, tanto entre sus contemporáneos como en la historia posterior. Debido a la brevedad de este
+trabajo, daré algunos ejemplos de intervenciones en esta “disputa”, de modo tal de dar cuenta no sólo de la
+recepción de debates ocurridos en otros espacios, sino también de ciertas estrategias en la construcción de
+una determinada ﬁgura de autor, ligadas a un orgullo local.
+Ecos de la disputa del Nuevo Mundo en el Telégrafo Mercantil, Rural, Político,
+Económico e Historiógrafo del Río de la Plata
+    El Telégrafo…, publicado por Francisco Antonio Cabello y Mesa entre abril de 1801 y octubre de 1802, 
+toma para sí la difícil tarea de crear un pblico para un medio que, pese a la llegada esporádica de periódicos 
+europeos y americanos a Buenos Aires, no deja de ser novedoso, en tanto es una producción local (en su
+mayor parte) y tiene una circulación regular. 6  En ese sentido, la primera aparición polémica del tema de la
+inferioridad americana apunta a exhibir el valor del Telégrafo… como proveedor de argumentos para refutarla.
+En el número 10, aparece un artículo con la ﬁrma de Patricio Colón, quien a su vez dice citar a Diego Solanze
+(los dos probablemente no existen y esconden la pluma del propio editor); en él, después de aﬁrmar que el
+Telégrafo… se trata de un periódico “capaz de medirse con los mejores de las erguidas Cortes de Europa” y
+de describir sus ideas “tan vastas como nuestras Pampas y tan caudalosas como nuestros Rios”, le indica al
+editor un curso determinado para su empresa:
+si se atiene el Editor solo á Noticias Americanas, como ha ofrecido, sera su Papel buscado por todos los Europeos Sabios
+y por todos los Americanos curiosos […] ¿Quanto mas os deberia la Europa ¡Ho Americanos! si en el 2° termino de este
+Papel fuerais manifestando los Misterios del Nuevo Mundo […]; si os rierais de quanto han dicho los Filosofos sobre el color
+humano […] y si les hicierais conocer su Mundo a las gentes de instrucción […] Finalmente, para terminarse dicho papel con
+amenidad y satisfaccion […] podría llenarse el hueco con rasgos de literatura y de gusto, ya pitando un Volcan de los Andes,
+ya un Celage de la Mar del S. ya el salto del Rio Niagara, ya un viage ácia Quito. ¿No se mira ya elogiado por los buenos
+Américanos el que inserte un parrafo asegurando ser los Indios antropofagos generalmente; las petriﬁcaciones voluntarias
+de la costa de Campeche; la enfermadad del pasmo y de los 7 dias; la verdura eterna de estos Campos, el cordonazo de S.
+Francisco, y otras mil cosas que los Filósofos niegan como exageraciones de Viageros? (Telégrafo… I, 10, 76-79) 7
+El intento de direccionar el contenido futuro del Telégrafo… se orienta entonces a ilustrar de igual modo
+a americanos y europeos, pero parte de la necesidad de contradecir ideas que ya circulan y se han instalado
+entre unos y otros. Al mismo tiempo, sin refutar explícitamente la inferioridad de la naturaleza americana,
+por un lado ironiza sobre las conclusiones de los “Filósofos” europeos (que llegan al punto de ser risibles) y,
+por el otro, propone como tema la exuberante naturaleza del Nuevo Mundo, a la que también toma como
+término de la comparación (las Pampas vastas y los ríos caudalosos). El planteo, que no hace explícita la
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811
+3
+oposición, deja claro que si la opinión sobre la inferioridad de la naturaleza americana era conocida por los
+lectores imaginados del Telégrafo…, también lo eran los contraargumentos usuales. 8  Si el proyecto europeo de
+sistematización de la naturaleza llevado adelante durante el siglo XVIII (el perfeccionamiento de la historia
+natural) creó una “conciencia planetaria eurocentrada” (Pratt, 1997: 76), la estrategia sugerida por Cabello
+y Mesa apunta a desbancar la naturaleza europea concebida como norma global: aquello que es común en
+América es visto como exageración de viajeros en Europa, lo cual delata simultáneamente la ignorancia de
+sus “ﬁlósofos” y la inferioridad de su naturaleza. 9
+Una actitud similar es la asumida por el asiduo colaborador Tadeo Haenke al describir la naturaleza de
+diferentes partes del Virreinato: si bien no hay una discusión explícita de los argumentos de Buﬀon, de Pauw
+y sus seguidores, sí hay una exhibición de la naturaleza exuberante, fecunda y útil para el ser humano. 10
+Ejemplo de esto último son las exhortaciones al Estado para fomentar determinadas producciones vegetales,
+animales o minerales. 11  Aun otros colaboradores, como Juan de Puebla, en su artículo “Quadrupedos”,
+sin mencionar aquellos argumentos explícitamente, abrevan de ellos sin refutarlos por completo, pero sin
+tampoco aceptarlos (   Telégrafo III, 9, 133-135). 12
+Cuando ya se consideran las aristas humanas de la disputa, como ha observado Matías Maggio Ramírez,
+los textos insertos en el Telégrafo…, como los de otros periódicos porteños de ﬁnes de la colonia, imaginan
+una civilización que en verdad es escasa a las orillas del Río de la Plata, retratando la ciudad como centro de
+cultura y reﬁnamiento. 13  La representación de la prensa periódica como el medio ilustrado por excelencia y
+de la ciudad como espacio civilizado está presente en el Telégrafo… a lo largo de su corta vida. Aparecen, por
+ejemplo, al postular el propio periódico como escenario de polémicas en las que sujetos racionales dirimen a
+través del discurso las diferencias de opiniones. Pero también en la representación de la mujer americana, y
+más en particular porteña, como superior a las europeas en reﬁnamiento, educación y belleza. 14
+Ecos de la disputa en el Semanario de Agricultura, Industria y Comercio
+    El Semanario…, publicado por Juan Hipólito Vieytes entre 1802 y 1807 (con una interrupción de dos 
+meses en agosto y septiembre de 186, debida a la invasión inglesa) tenía, al igual que el Telégrafo…, un 
+proyecto editorial que se basaba en lograr la mayor difusión posible, pero, a diferencia de aquél, centraba 
+su temática de manera casi exclusiva en la economía, como indica su título. Si bien este proyecto fue 
+variando con el correr del tiempo para albergar cuestiones más variadas, también fue mantenido en términos 
+generales como eje del periódico, que aporta conocimientos de orden teórico de la economía política (que 
+empieza a deﬁnirse como ciencia en esos años) 
+y conocimientos prácticos, de tipo técnico, sobre cómo 
+mejorar la producción agropecuaria y manufacturera de la campaa portea, a cuyos habitantes toma como
+destinatarios privilegiados. 15
+En relación con ello, la descripción de la naturaleza americana que aparece en el Semanario… es aun más
+positiva que la del Telégrafo… En tanto uno de los objetivos es fomentar la explotación agrícola, el tópico de
+la fertilidad inmensa de las pampas aparece repetido varias veces, haciendo énfasis también en su utilidad:
+Situados en el centro de una zona templada, circundado de caudalosos Rios navegables en centenares de leguas, dueños
+absolutos de unas tierras que semejantes al mar forman un orizonte continuado en su extension; poseedores de unos montes
+asombrosos en los que se encuentra la madera mejor del universo: inundados de ganados, y de frutos preciosisimos, y
+colocados por último en el centro del mundo comerciante; qué nos falta para ﬁxar de una vez el término de la mayor felicidad
+sino recordar de la soporacion y el sueño á que nos tiene reducidos la abundancia? ( Semanario… I, 4, 25-26)
+Asimismo, la refutación de las críticas europeas del “carácter” americano es explícita y parece apoyarse en
+valores compartidos con el lector (o que se suponen compartidos), al punto tal que Vieytes se permite ironizar
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811
+4
+sobre ellos. Luego de instar a sus lectores a no tolerar “que se nos den los despreciables epitectos de perezosos
+e indolentes”, explica en nota al pie:
+Mr. William Guthrie en su Geografía universal segunda edicion del año de 1800 […] honra á los Americanos con las
+expresiones siguientes: Los Criollos tienen todas las malas qualidades de los Españoles de quienes son descendientes, sin este
+valor, esta ﬁrmeza, y esta paciencia que forman el buen lado del carácter Español; naturalmente afeminados; ellos pasan la
+mayor parte de su vida en la ociosidad y los placeres. Fastuosos sin gusto, y sin elegancia, pródigos por ostentacion mucho
+mas que por regocijo: el amor y la intriga hacen toda su ocupacion::: Pasma á la verdad que en el siglo de la ilustracion, y
+de la ﬁlosoﬁa aun se encuentren partidarios de nuestro acérrimo depresor el Sr. Paw. ¡Quando enmudecerá la maledicencia!
+(Semanario… I, 4, 26, subrayado en el original) 16
+Otro colaborador, Manuel José de Lavardén, escondido detrás del anagrama Fray Juan Anselmo Velarde,
+redacta unas “cartas” que son una elocuente de defensa del alto grado de desarrollo alcanzado por la colonia
+sudamericana. Lavardén escribe contra un artículo incluido en el Telégrafo… —según algunos, motivo de
+cierre del periódico—, 17  en el que hombres y mujeres de Buenos Aires son tratados respectivamente como
+delincuentes y prostitutas. En su carta, el “fraile” insiste en desprestigiar al autor anónimo de “Politica” 18  a
+partir de ciertas incoherencias en su argumento (por ejemplo, en el hecho de que, según los datos aportados,
+habría en Buenos Aires doscientas mil mujeres o solteronas o prostitutas, una vez que se realizan los cálculos
+pertinentes), pero también contraponiendo hechos y datos concretos que solo le son permitidos exponer
+a Lavardén a partir de su “estar ahí”, de su experiencia personal en la vida diaria porteña. Y aun recurre al
+orgullo local (y podría suponerse que a la complicidad o simpatía del lector) para indirectamente elogiar su
+propia escritura con la humillitas correspondiente:
+Para pocas plumas es hacer el elogio de los Señores Vecinos de Buenos-Ayres. Esta empresa es superior á mis fuerzas; pero
+no hago falta, pues quando todas las lenguas enmudeciesen alzarian el grito los muros de tantos Templos, Conventos,
+Hospitales, erigidos, dotados, sostenidos por los Españoles Europeos, en la mayor parte. (Semanario… I, 6, 48)
+Es la realidad porteña, más que su pluma (que de todos modos está haciendo aquello de lo que se considera
+indigna), la que viene a refutar el artículo del Telégrafo… y, en general de toda crítica al Nuevo Mundo.
+Por otro lado, en la misma carta está contenida la que será la respuesta general de los artículos del
+Semanario… al problema del conocimiento “importado”: si su autor cita a Condillac, Horacio, Virgilio,
+Molière (confundiéndolo con German François Poullain de Saint Foix) y a Concolorcorvo, de modo tal
+que da cuenta de su propia preparación y lectura de los “sabios” europeos, propone que hay un saber
+especíﬁcamente americano, que lo hace distinto del Viejo Mundo y que con las categorías de éste no puede
+evaluarse la realidad porteña. Al proponerse hablar sobre la agricultura en las campañas de Buenos Aires,
+escribe:
+Si los Arabes no hubieran quemado la Biblioteca de Ptolomeo, alli pudieramos hallar algo adaptable á nuestra situacion,
+del tiempo de los Reyes Pastores, si alguna vez los hubo. Los pueblos barbaros no escriben, y Paris, y Londres tienen mucha
+gente, y poco terreno para que sus especulaciones puedan convenir á los que tenemos mucho terreno, y poca gente. No es mi
+ánimo hacer un tratado universal de Economia, solo pienso tocar los puntos en que nos distinguimos del resto del mundo
+culturo. (Semanario… I, 7, 49-50)
+Denunciando la inadecuación de las teorías foráneas, Lavardén no sólo impugna las teorías sobre la
+inferioridad y la degeneración americanas, sino que también da a entender que los únicos en condiciones de
+poder analizar y entender la realidad americana son los propios americanos. Su siguiente carta es elocuente
+desde su título: “Carta 2. De Fr. Juan Anselmo de Velarde, sobre las erradas prevenciones de los Extrangeros
+en órden á nuestra situacion económica” (  Semanario… I, 11, 81-88 y I, 12, 89-91). En ella discute con el
+Abate Raynal, el barón de Montesquieu, William Guthrie y con el autor de un libro referido como “Ciencia
+del Comercio”, llamado Serra, de origen italiano, a quien se le otorga el título de “monseñor”. 19  A las ideas de
+Lavardén, Vietyes agrega una nota al pie citando un comentario inexacto de Buﬀon sobre la cría de vicuñas,
+que ridiculiza.
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811
+5
+Sin embargo, en el Semanario… el discurso denigratorio no sólo es impugnado abierta y explícitamente
+(al punto de concebirse como una tarea patriótica, como un enfrentamiento entre dos bandos), 20  sino que
+también se cuela a veces en las opiniones de los autores criollos, actuando como una base compartida (y
+aceptada) de conocimientos. Así como en el periódico son frecuentes las descripciones de ciudades, caminos
+y otras obras que funcionan como muestra del progreso y de tierras generosas y feraces, utilísimas, son
+constantes las reconvenciones a los habitantes de estas, quienes son representados más de una vez como
+marcados por la ociosidad, la desidia y los vicios. Por ejemplo, al describir Santiago del Estero, Gabriel
+Antonio Hevia y Pando, un colaborador frecuente, escribe:
+La Ciudad de Santiago del Estero fué fundada el año de 1562, pequeña poblacion entonces, pero en el dia menor; ¿Cómo
+incrementara un vecindario en donde el dueño de una casa que la ve reducida à escombros tiene por mejor pasar el resto de
+sus dias en una choza y en el campo que reediﬁcarla para dexar siquiera a su posteridad y convecinos un monumento de su
+laboriosa existencia? […] ¿habrá oidos tan duros á quienes no lastime oir que estas tristes victimas de la indolencia acerrimos
+sequazes de la destestable conducta de sus progenitores vivan como Faunos en la selva enemistados con el trato social […]?
+(Semanario…, III, 124) 21
+El propio Vieytes, aquel que refutaba explícitamente a De Paw y otros “depresores”, escribe que “Llena
+está nuestra Capital, aun mas que las dilatadisimas campañas que nos cercan, de jovenes sin preocupacion y
+sin destino que […] pasan sus preciosos dias en la mas lamentable ociosidad” (  Semanario… III, 118, 126),
+para dar sólo uno de los posibles ejemplos.
+Pero no se trata de una contradicción en el discurso, sino en todo caso de diferentes mensajes para
+diferentes interlocutores: cuando se responde a los sabios europeos, se deﬁende la naturaleza y la civilización
+americana; cuando se habla a los habitantes de la campaña porteña, se los exhorta a dejar de lado sus
+características negativas que serían consideradas signos de la degeneración o la inferioridad del hombre
+americano por alguno de los sabios europeos. En ambos casos, sin embargo, se legitima el saber en la propia
+experiencia del autor, contrapuesto al de los europeos, de quienes se supone que no han tenido contacto
+directo con la realidad de la que hablan. Al decir de Vieytes,
+Y digan lo que quisieren tantos Autores que juzgan nuestras operaciones agronomicas sin salir de su gabinete, y que creen
+todas las rutinas defectuosas, y poco fundadas, he visto en casi todas partes que los usos locales se fundaban en una larga
+experiencia. (Semanario… I, 25,190)
+Se da forma así a una ﬁgura particular, la del letrado americano que funda su conocimiento (y en
+consecuencia su condición de letrado) en su experiencia de la realidad que lo rodea y en lo saberes importados
+de Europa.
+Americanos en la disputa
+   En ese sentido, la prensa periódica de la primera década del siglo XIX porteño funcionó como el escenario 
+en el que los “letrados patriotas”, como los ha llamado Jorge Myers, pudieron constituir, al menos 
+parcialmente, su ﬁgura pública. Según Myers, la característica central de este nuevo tipo de letrado, al que 
+ubica entre 1780 y 1820, es que gozó de una autonomía mayor que su contraparte colonial, a la vez que 
+tuvo un poder mayor que su sucesor del período independiente. “Vocero” de su patria natal, su escritura 
+está marcada estrictamente por los intereses locales; atento a los intereses locales, en tanto que letrado no 
+deja de estar al servicio de la elite social (Myers, 2008). Y, podría agregarse, a la inversa, “vocero” de una 
+civilización pensada como universal, apostrofa a sus compatriotas y reclama a los extranjeros su pertenencia 
+y la de todos los americanos a la civilización.
+Si Cabello y Mesa y Haenke (asturiano y bohemio, respectivamente, pero que asumen plenamente su
+carácter de letrados americanos), Vieytes (porteño, de San Antonio de Areco) y Lavardén (porteño), para
+tomar como ejemplo a los autores que hemos citado aquí, empiezan a expresar esos intereses locales y también
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811
+6
+un orgullo regional a la hora de exhibir el grado de civilización alcanzado por la colonia porteña y de desarrollo
+de la naturaleza americana, la prensa periódica, que permite y, en el caso porteño, se propone una mayor
+circulación de la información, es el medio en el cual se entabla una polémica cuyo interlocutor no está en
+condiciones de responder. Es decir, ni Buﬀon ni los otros pensadores europeos que habían catalogado a
+América como “inmadura” o “degenerada” escriben en el Telégrafo… o en el Semanario… ni, con casi total
+certeza, leen esos periódicos; la “disputa”, en el caso rioplatense, resulta entonces una “polémica de un solo
+lado”. Los letrados patriotas delimitan dos destinatarios para su discurso: el destinatario polémico, los sabios
+europeos, y el destinatario real, los lectores americanos a los que se busca ilustrar, a veces citando las ideas de
+aquellos que en otras ocasiones se discuten (la holgazanería del hombre americano, por ejemplo). 22
+Así, los autores aquí trabajados asumen para sí el lugar de defensores de América (su naturaleza y su
+humanidad) como estrategia de autoposicionamiento: desde un decir polémico, se ubican a sí mismos como
+letrados patriotas que pueden expresar la opinión de su lugar de origen. A la vez, la prensa periódica aparece
+como un escenario imprescindible para ese tipo de posicionamiento, apelando a un lector de textos breves
+pero a la vez incluidos en ese macrotexto que es cada uno de los números y el periódico en sí mismo.
+Periódicos
+Telégrafo Mercantil, Rural, Politico-Economico e Historiografo del Rio de la Plata, 1801-1802.
+Semanario de Agricultura, Industria y Comercio, 1802-1807.
+Fuentes secundarias
+Fernández Bravo, Álvaro (2004). “Catálogo, colección y colonialismo interno: Una lectura de la Descripción de la
+Patagonia de omas Falkner (1774)”, en Revista de Crítica Literaria Latinoamericana 60, pp. 229-249.
+Calvo, Nancy y Rodolfo Pastore (2005). “De viajeros y periodismo ilustrado: Aportes del naturalista Tadeo Haenke
+en el Telégrafo Mercantil del Río de la Plata (1801-1802)”, en Dieciocho, vol. 28, n° 2, pp. 23-46
+Correa Luna, Carlos, Augusto S. Mallié y Rómulo Zabala (1928). “Advertencia”, en Semanario de Agricultura,
+Industria y Comercio, Buenos Aires, Junta de Historia y Numismática Americana, tomo I, pp. 17-27.
+Díaz, César Luis (1997). “Los albores del periodismo rioplatense”, Congreso Nacional de Historia Argentina bajo la
+advocación de los 150 años de la batalla de la Vuelta de Obligado. Buenos Aires, vol. 1, pp. 59-71.
+Galván Moreno, Celestino (1944). El periodismo argentino. Amplia y documentada historia desde sus orígenes hasta el
+presente, Buenos Aires, Claridad.
+Gerbi, Antonello (1982) La disputa del Nuevo Mundo. Historia de una polémica. 1750-1900, México, Fondo de
+Cultura Económica.
+Gerbi, Antonello (1978). La naturaleza de las Indias Nuevas. De Cristóbal Colón a Gonzalo Fernández de Oviedo,
+México, Fondo de Cultura Económica.
+Hegel, Georg Wilhelm Friedrich (2011). “Geographical Basis of History”, Philosophy of History. Disponible en
+www.marxists.org, consultado el 26/4/2011, traducción propia.
+Maggio Ramírez, Matías (2008). “Un puro vegetar”. En: Paulina Brunetti, Matías Maggio Ramírez y María del Carmen
+Grillo, Ensayos sobre la prensa, Buenos Aires, Biblioteca Nacional.
+Maggio Ramírez, Matías (2009). “Civilización imaginada. Lecturas sobre civilidad e identidad en la Buenos Aires
+colonial en su prensa periódica”, en La Biblioteca 8, pp. 262-284.
+Martínez Gramuglia, Pablo (2009). “El pensamiento agrario ilustrado en el Río de la Plata: un estudio del Semanario
+de Agricultura, Industria y Comercio (1802-1807)”, en Mundo Agrario 18. Disponible en http://www.mundoa
+grario.unlp.edu.ar/.
+Martínez Gramuglia, Pablo (2010). “A la búsqueda de lectores: El Telégrafo mercantil”, en Question 27. Disponible
+en http://perio.unlp.edu.ar/ojs/index.php/question/index.
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811
+7
+Martínez Gramuglia, Pablo (2013). “Nuevos textos, nuevos (y viejos) lectores: la representación del público en los
+periódicos de 1801 a 1810”, Batticuore, Graciela y Gayol, Sandra (eds.). Lecturas de la cultura argentina, 1810
+– 1910 – 2010. Buenos Aires, Prometeo.
+Martini, Mónica (1998). Francisco Cabello y Mesa. Un publicista ilustrado de dos mundos, Buenos Aires, Dunken-
+Instituto de Investigaciones sobre la Identidad Cultural (Universidad del Salvador).
+Myers, Jorge (2008). “El letrado patriota: los hombres de letras hispanoamericanos en la encrucijada del colapso del
+imperio español en América”, en Jorge Myers (ed.), La ciudad letrada de la conquista al modernismo, Buenos
+Aires, Katz, vol. I de Carlos Altamirano (dir.), Historia de los intelectuales en América Latina, pp. 121-144.
+Navallo, Tatiana (2010). “Ideas ilustradas en el Río de la Plata: de los manuscritos al ‘Proiecto Geográﬁco’ del Telégrafo
+Mercantil (1801-1802)”, en Tinkuy 14, pp. 159-197.
+Pratt, Mary Louise (1997). Ojos imperiales. Literatura de viajes y transculturación, Bernal, Universidad Nacional de
+Quilmes.
+Puiggrós, Rodolfo (1960). “Gerbi, Antonello, La disputa del Nuevo Mundo, México, Fondo de Cultura Económica,
+1960, 682 pp”, en Revista de Historia de América 52, pp. 613-616.
+Sánchez Zinny, Fernando (2008). El periodismo en el Virreinato del Río de la Plata, Buenos Aires, Academia Nacional
+de Periodismo.
+Torre Revello, José (1956). “La biblioteca de Hipólito Vieytes”, en Historia, vol. 2, n° 6, pp. 72-89.
+Verón, Eliseo (1987). “La palabra adversativa. Observaciones sobre la enunciación política”, en Eliseo Verón y otros,
+El discurso político. Lenguajes y acontecimientos, Buenos Aires, Hachette, pp. 11-26.
+Weinberg, Félix (1956). “Juan Hipólito Vieytes, precursor y prócer de Mayo”, estudio preliminar de Juan Hipólito
+Vieytes, Antecedentes económicos de la Revolución de Mayo, Buenos Aires, Raigal, 1956, pp. 7-133.
+Notas
+1 La edición original es de 1955 y el trabajo de Gerbi ha recibido innumerables críticas, algunas de las cuales fueron tenidas
+en cuenta por su autor al producir su segunda edición en 1976; todavía hoy sigue dando lugar a “disputas sobre la
+disputa”, en parte seguramente por la perspectiva humanista y ensayística que adopta. Sin embargo, sigue valiendo el
+duro y acertado juicio de Rodolfo Puiggrós, apenas un año después de publicada la traducción de la primera edición:
+“de ahora en adelante La disputa del Nuevo Mundo será imprescindible obra de consulta […] no obstante imponerle su
+vocación literaria al brillo formal el sacriﬁcio del análisis que hubiéramos deseado más profundo y acertado, y colocarlo,
+en puntos fundamentales, en corrientes de pensamiento ya superadas por la historia” (1960: 613).
+2 Ver Gerbi 1978.
+3 Escribe Hegel en 1831-2, un par de décadas después del período que nos ocupa: “[En América del Norte] Los aborígenes
+han adoptado, por cierto, algunas artes y costumbres de los europeos, entre ellas la de beber licores, que ha tenido un
+efecto mortífero. En el Sur los nativos fueron tratados con una violencia aun mayor y empleados en trabajos exigentes,
+para los cuales su fuerza no era en absoluto la adecuada. Una actitud liviana y desapasionada, la falta de espíritu y la total
+sumisión frente al criollo, y más aun frente al europeo, son las características principales de los indígenas americanos […].
+La inferioridad de estos individuos en todos los aspectos, incluso en su tamaño, es palmaria; sólo en las razas más alejadas
+de la Patagonia hay algunas naturalezas más vigorosas, pero todavía permanecen en su condición natural de rudeza y
+barbarismo. […] Cuando los jesuitas y los curas católicos intentaron habituar a los indios a la cultura y las costumbres
+europeas […] les prescribieron las obligaciones de cada día, que, pese a su tendencia a la haraganería, cumplieron bajo
+la autoridad de los frailes. Estas obligaciones (a la medianoche una campana debía recordarles el cumplimiento de sus
+obligaciones maritales) fueron al comienzo, y muy astutamente, dirigidas a la generación de deseos […]. La debilidad de
+la psique americana fue la primera razón para llevar negros a América […], [un viajero inglés] conoció un solo un nativo
+cuyo intelecto fuera lo suﬁciente desarrollado para estudiar, pero murió poco después, por exceso de bebida” (2011: s/
+p, traducción propia).
+4 Signiﬁcativamente, Gerbi dedica unos pocos párrafos a letrados del área rioplatense: menciona a algunos jesuitas
+expulsos, la decisión de Mariano Moreno de reimprimir la defensa de los americanos elaborada por omas Jeﬀerson
+(que Gerbi analiza in extenso) y el modo en que las composiciones de La lira argentina contraponen un Mundo Nuevo
+que es el hogar de la esperanza y uno Viejo donde vive la opresión. Ver Gerbi 1982: 399. Más recientemente, Álvaro
+Fernández Bravo (2004) ha analizado bajo la luz de la disputa los escritos del jesuita Tomás Falkner. Una aproximación
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811
+8
+interesante al problema en la prensa periódica puede hallarse en Maggio Ramírez 2009. También toca el tema, aunque
+no es el centro de su estudio, Navallo 2010.
+5 Para visiones de conjunto del periodismo tardocolonial, se pueden consultar Galván Moreno 1944, Díaz 1997; y Sánchez
+Zinny 2008.
+6 Para una caracterización general, completa y actualizada del Telégrafo…, ver Martini 1998. En relación con la
+problemática de sus lectores, ver Martínez Gramuglia 2010 y 2013.
+7 Para citar los periódicos indico tomo en números romanos, número en arábigos y números de página. Estos responden
+a la organización en tomo, no a cada número.
+8 Escribe Matías Maggio Ramírez: “las referencias a Guthrie, Buﬀon, de Pauw en el corpus colonial sirven para pensar
+la circulación de aquéllos [sus libros] entre los lectores de la élite porteña. Las menciones en los periódicos evitaban
+presentaciones de los eruditos europeos, se los trataba como si fueran un viejo conocido, al marcar así que operan como
+un marco de referencia compartida ante el cual se reacciona” (2009: 279).
+9 El discutido estudio de Mary Pratt argumenta en un sentido similar en el capítulo 8, “La reinvención de América /
+La reinvención de Europa: la autoformación criolla” (1997: 301-342). Allí, partiendo cronológicamente de la década
+de 1820, con la publicación de “La agricultura en la zona tórrida” de Andrés Bello, “Mi delirio en el Chimborazo” de
+Simón Bolívar y “En el teocalli de Cholula” de José María Heredia, la autora canadiense liga el “estilo forzadamente
+americanista” (p. 304) con la construcción de una literatura cívica que reaﬁrma las identidades nacionales en formación,
+dando lugar a “representaciones criollas como una transculturación de materiales europeos, que eran seleccionados y
+desplegados en forma que no reproducía simplemente las visiones hegemónicas de Europa…” (pp. 325-326). Los textos
+aquí analizados están lejos de plantear una identidad nacional o continental en términos políticos, como ocurriría
+después de las revoluciones de independencia, pero sí exhiben lo que hemos denominado un “orgullo local”, a partir
+tanto de la exuberancia natural como del grado de progreso humano.
+10 Son varios los artículos enviados por Haenke al Telégrafo… Ver Telégrafo… I, 22, 172-174; I, 23, 177-178; I, 27, 209-213;
+I, 28, 217-220; I, 29, 225-228.; I, 30, 233-235; I, 32, 252-254; I, 34, 264; II, 18, 126-128; II, 19, 144-148; II, 29, 209-211;
+II, 36, 289-295; III, 7, 103; III, 10, 137-144; III, 11, 153-155; V, 1, 1-3. Para un análisis completo de la obra de Haenke
+en el Telégrafo…, ver Calvo y Pastore 2005, y también Navallo 2010.
+11 Por ejemplo, “Me he propuestao de exponer en esta obrita, con el posible orden método, las mas interesantes de ellas [las
+producciones] como parte de los frutos de mis dilatados y penosos viages, dignas en toda consideracion de la atencion
+del Estado, quien de su fomento y proteccion, con el tiempo, podrá sacar las mayores ventajas, como de unas substancias
+que son las primas materias, los Elementos, y la Base fundamental de todas las obras industriables manufacturas y Artes”.
+Telégrafo… I, 23, 178.
+12 El artículo es parte de una serie que describe la naturaleza de la campaña porteña, comparándola con España y el resto
+de América, en algunos aspectos de manera favorable y en otros no. La redacción de este en particular deja ver que se
+apoya en las ideas (si no necesariamente en los textos) de Buﬀon: “Las especies de Quadrupedos que hay en el districto
+de este Gobierno desemejantes á las que vemos en el antiguo emisferio, son muy pocas y lo mismo sucede con las demas
+clases, aun que degeneradas” (p. 133, subrayados nuestros).
+13 La hipótesis central de Maggio Ramírez es que la difusión del discurso civilizatorio en Buenos Aires a través de la prensa
+periódica fue simultánea a la consolidación de una identidad local (enfrentada en un comienzo a las potencias europeas
+“no amistosas” —Francia, Inglaterra— y, a partir de 1806, gradualmente también a la metrópoli española) en los mismos
+textos.
+14 Por ejemplo, Narciso Fellovio Canton (seudónimo de Cabello y Mesa) publicó su “Elogio a las porteñas”. Se lee allí que
+las porteñas “uniendo las prendas del espiritu á las del corazon, la facilidad de aprehender con la aplicación á instruirse
+cada dia mas por medio de una educacion sabia, hacen a la verdad progresos tan rapidos que no solo poseen, por sus
+principios, el nativo idioma, sino que se produ[c]en, leen, y escriben con admirable propiedad, exactitud y coreccion […].
+En efecto, ¿qué cosa habrá mas digna de nuestras alabanzas, que el uso de las bellas prendas del espiritu, hermanadas con
+los sentimientos mas nobles de la virtud, y la aplicación en una alma verdaderamente elvada? ¿Y privaremos á la Nacion
+de noticias tan agradables, é interesantes? ¿Reservaremos solo á la posteridad la gloria de escribir tan raras perfecciones?
+No, publíquelas el Telégrafo. Aberguencense las damas Inglesas, de quien un Folleto de su Corte, intitulado: Carta á
+una Casada, se explica asi: es estraño que en Inglaterra, aun entre las Señoras de condicion, apenas se halla una entre mil
+que sepa leer correctamente, y que entienda bien su lengua” (Telégrafo… II, 20, 163-164, subrayados en el original). Estas
+opiniones, con todo, contrastan con otras que censuran fuertemente la moral de las porteñas, como la conocida “Satirilla
+festiva” en Telégrafo… III, 3, 39-40.
+15 Para una caracterización del Semanario…, ver Weinberg, 1956: 7-133, Maggio Ramírez, 2008 y Martínez Gramuglia,
+2009.
+16 El autor con quien discute, William Guthrie, había publicado una monumental geografía de doce tomos. La primera
+edición en castellano, titulada Geografía universal, descriptiva, histórica, industrial y comercial de las cuatro partes del
+mundo, es de 1806 (Madrid, Imprenta de Villapando) y la edición original (A New Geographical, Historical, and
+Orbis Tertius, vol. XXIII, nº 28, e087, diciembre 2018. ISSN 1851-7811
+9
+Commercial Grammar: and Present State of Several Kingdoms in the World) es de 1770; en 1801 se publica la décimo
+octava edición en inglés, por lo que muy probablemente Vieytes haya leído una especie de resumen francés, Abrégé de la
+géographie de Guthrie, fait sur la second edition anglaise (París, Hyacinthe Langlois) publicada en 1800 y referida como
+“segunda edición” (primera traducción). En la lista de los libros que fueron incautados a Vieytes en 1815 no ﬁgura
+ninguna de estas ediciones; sí ﬁgura una “Historia natural de Boufon en castellano” y la “Historia de la Tierra y de la
+Naturaleza animada”, de Oliver Goldsmith, texto publicado en 1774 que sigue de cerca las ideas de Buﬀon. Ver Torre
+Revello, 1956.
+17 Ver Correa Luna et al., 1928.
+18 El título completo del artículo era “Politica. Circunstancias en que se halla la Provincia de Buenos-Ayres, é Islas Malbinas,
+y modo de repararse”, Telégrafo…, V, 2, 21-27.
+19 No he podido ubicar esta obra, podría tratarse de Jacques Dupuy de la Serra, Trattato delle Lettere di Cambio secundo
+l’uso delle più celebri Piazze d’Europa (Venecia, 1772). Es una traducción del francés y en la portada se alude a su autor
+como “monsieur”, tal vez de allí el “monseñor” que usa Lavardén.
+20 En uno de sus artículos, Vieytes escribe: “¿Qué dirán los partidarios de Paw, de Guthrie y de todos aquellos que tienen
+interez en deprimirnos…” (Semanario…, I, 37, 191)
+21 El artículo se continúa otro cuyo título es “Causas del atraso de las cinco Ciudades de la carrera de Buenos Ayres al Perú,
+y de los medios que se podian poner en uso para su adelantamiento”.
+22 Esta “multidestinación” tiene cierta semejanza a la establecida por Eliseo Verón para el discurso político (ver Verón
+1987). En tanto el discurso político plantea siempre un adversario, se trata de una enunciación polémica que crea tres
+destinatarios: 1) un contradestinatario, el enemigo con quien la relación es de “inversión de la creencia”: lo que es verdad
+para el enunciador es falso para el contradestinatario y a la inversa; 2) un prodestinatario, con quien se comparten las
+creencias y que pertenece a un mismo “colectivo de identiﬁcación”, con quien el enunciador forma un nosotros; 3) por
+último, hay un paradestinatario, que es esencial en el juego político democrático, pues se trata del receptor de todo intento
+de persuasión. Si el primero se deﬁne por la inversión de la creencia y el segundo por su presuposición (el enunciador de un
+discurso político sabe o presupone lo que piensan sus partidarios), el paradestinatario está marcada por una “suspensión
+de la creencia” (Verón, 1987: 16-17).
+Estos conceptos de Verón, quien parte de intuiciones sugeridas por la observación del discurso político antes que de un
+marco teórico general, pueden parecer extemporáneos para leer un discurso entre ensayístico y periodístico a comienzos
+del siglo XIX americano. Sin embargo, los referimos aquí pues la relación con la polémica de un solo lado sobre la
+naturaleza y la civilización americana es mucho más cercana que “cierta semejanza”. En primer lugar, siguiendo la idea
+de Verón de que la multidestinación deﬁne el discurso político de modo exclusivo y excluyente (“Podemos decir que
+el imaginario político supone no menos de dos destinatarios: un destinatario positivo y un destinatario negativo. El
+discurso político se dirige a los dos al mismo tiempo. Conviene subrayar que esta hipótesis no tiene mayor interés salvo que
+se insista en su pretensión de especiﬁcidad. Esta pretensión implica que la hipótesis sólo se aplica al discurso político”;
+16), su presencia nos estaría dando cuenta de, al menos, un contenido político —ya que no un discurso especíﬁcamente
+político— en la textualidad del Telégrafo… y del Semanario… Y, en segundo lugar y tal vez de modo más signiﬁcativo,
+la presencia en esa textualidad de un contradestinatario y un paradestinatario y la ausencia de un prodestinatario
+indican una apelación al tribunal de la opinión pública cuya imagen pivotea entre un imaginario de Antiguo Régimen
+y uno especíﬁcamente moderno. Sin caer en el error de considerar el discurso polémico o el discurso suasorio como
+exclusivamente “moderno”, en esa apelación a una opinión pública podemos ver hasta qué punto la prensa periódica de
+comienzos del XIX se separa de una concepción del mundo tradicional. Algo de eso sugiere también la ligazón esencial
+que Verón supone entre la presencia de un paradestinatario en los discursos políticos y las democracias parlamentarias
+occidentales.

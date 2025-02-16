@@ -1,0 +1,952 @@
+73
+Esta obra está bajo una Licencia Creative Commons Atribución - No Comercial -
+Sin Obra Derivada 4.0 Internacional. http://creativecommons.org/licenses/by-nc-nd/4.0/
+Suárez, Nicolás. “La pampa en movimiento: figuraciones del paisaje del Martín Fierro 
+de José Hernández al filme Nobleza gaucha”. Anclajes, vol. XXII, n° 1, enero-abril 
+2018, pp. 73-94.
+DOI: 10.19137/anclajes-2018-2215
+La pampa en movimiento: 
+figuraciones del paisaje 
+del Martín Fierro de 
+José Hernández al filme 
+Nobleza gaucha
+The Pampas in motion: figurations of the landscape from José 
+Hernández’s Martín Fierro to the film Nobleza gaucha
+Nicolás Suárez
+Universidad de Buenos Aires 
+Consejo Nacional de Investigaciones Científicas y Técnicas, CONICET
+nicola_suarez@yahoo.com.ar
+Resumen: Estrenada en 1915, Nobleza gaucha constituye el primer gran éxito de la 
+historia del cine argentino. Según cierto consenso crítico, buena parte de este suceso 
+se debió al hábil modo en que la película transpone parcialmente un conjunto de textos 
+de la literatura argentina del siglo XIX, entre los que se destaca el Martín Fierro (1872 
+y 1879) de José Hernández. A partir de una lectura comparativa del poema y el filme, 
+este trabajo se propone indagar las formas en que la pampa es abordada en la película 
+como paisaje y, a la vez, escenario de una historia nacional. Para ello, se prestará especial 
+atención a dos tipos de imágenes de la llanura. Por un lado, como imágenes sublimes, 
+las figuraciones de la pampa en el filme se inscriben en una tradición rioplatense más 
+arraigada en la literatura que en las artes visuales. Por otro, como imágenes-movimiento, 
+producen una inflexión estética que se articula con la novedad del cine y con los cam-
+bios culturales, sociales y políticos que atravesaba la Argentina en las primeras décadas 
+del siglo XX.
+Palabras clave: José Hernández; literatura argentina; cine argentino; análisis compa-
+rativo
+Abstract: Released in 1915, Nobleza gaucha is the first blockbuster in Argentine film 
+history. Per critical consensus, this success is largely due to the skilful way in which the 
+movie partially adapts a set of texts from 19th century Argentine literature, among which 
+stands out José Hernández’s Martín Fierro (1872 and 1879). Based on a comparative 
+reading of the poem and the film, this article aims to investigate the ways in which the 
+74
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+D
+esde las crónicas de los viajeros ingleses, pasando por el ro-
+manticismo rioplatense, hasta las múltiples configuraciones 
+de la gauchesca, la literatura argentina del siglo XIX con fre-
+cuencia ha constituido el espacio geográfico de la pampa en un paisaje ficcional 
+mítico, generador de variadas escrituras y reescrituras. Hacia el cambio de siglo, 
+estas miradas se cruzan con la literatura criollista, un discurso que, articulado en-
+tre el pasado rural y la modernización, construye un sentimiento de pertenencia 
+común para grupos variados (Prieto). Los hipotextos fundamentales que lo ali-
+mentan y se reconfiguran a través de sucesivas relecturas son Martín Fierro (1872 
+y 1879) de José Hernández, Juan Moreira (1879) de Eduardo Gutiérrez y Santos 
+Vega, en las versiones de Gutiérrez (1880-1881) y Rafael Obligado (1885). Los 
+modos de aproximación al espacio pampeano que pueden rastrearse en la litera-
+tura criollista son, sin embargo, mayormente deudores de la mirada que funda 
+Juan Moreira. El deambular de Moreira por un entorno semiurbano funciona 
+como condición de posibilidad para trazar una distancia admirativa entre los 
+signos de un ruralismo primitivo y un urbanismo moderno (Prieto 91-92). Por 
+su parte, la tradición de la gauchesca encuentra para la misma época nuevos 
+modos de acercarse a la pampa, ya sea a través de la mirada nostálgica que funda 
+el Santos Vega (1872) de Hilario Ascasubi o del distanciamiento irónico de El 
+Fausto criollo (1866) de Estanislao del Campo.
+En este panorama, Martín Fierro ostenta una posición singular: si bien puede 
+adscribirse tanto al corpus del criollismo como al de la gauchesca, no nos orienta 
+respecto de cómo mirar la pampa. Las implicancias de esta observación fueron 
+examinadas en la obra de dos autores que, en la extensa lista de comentadores 
+del poema, se destacan porque a mediados del siglo XX cuestionaron la canoni-
+zación épica del texto que Leopoldo Lugones había llevado adelante en torno al 
+Centenario. Me refiero a las lecturas planteadas, con escasos años de diferencia, 
+por Ezequiel Martínez Estrada y Jorge Luis Borges. Liliana Weinberg de Magis 
+compara ambas lecturas y, de las varias conclusiones que extrae, me interesa 
+“el descubrimiento de que es paradójicamente lo no dicho en el poema lo que 
+constituye su grandeza […] (tal, por ejemplo, la falta de descripciones profusas 
+Pampas are addressed in the movie as both a landscape and a setting for national history. 
+T
+o that end, two kinds of images of the plains will be considered. On one hand, the figu-
+rations of the Pampas in the film, regarded as sublime images, are etched in a tradition 
+from Río de la Plata culture that is more rooted in literature than in the visual arts. On 
+the other hand, regarded as images-movement, these figurations produce an aesthetic 
+inflection linked to the novelty of cinema and to the cultural, social and political changes 
+Argentina faced in the first decades of the 20th century.
+Keywords: José Hernández; Argentine literature; Argentine cinema; comparative 
+analysis
+75
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+de la pampa o referencias anecdóticas y de moralina a la vida del gaucho)” (608). 
+Tanto para Borges como para Martínez Estrada, pues, en el Martín Fierro no 
+hay paisaje, debido a que Hernández “presupone deliberadamente la pampa y 
+los hábitos diarios de la pampa, sin detallarlos nunca –omisión verosímil en un 
+gaucho, que habla para otros gauchos” (Borges, Obras completas 194).
+Esta perspectiva puede alinearse con algunos planteos críticos que en los 
+últimos años han renovado las formas de pensar las relaciones entre los espacios 
+geográficos y los procesos de identificación nacional en América Latina. Pienso 
+en la categoría de imaginación territorial –mediante la cual Graciela Montaldo 
+alude a la apropiación con la letra de un territorio en disputa (Ficciones culturales 
+16)– o en la caracterización que propone Jens Andermann (Mapas de poder) del 
+espacio nacional como representante topográfico y representación tropográfica. 
+Estas categorías permiten abordar un conjunto variado de escritores de los siglos 
+XIX y XX. Pero, en el caso de Borges y Martínez Estrada, creo que además de 
+una imaginación territorial compartida sería útil considerar otra modalidad ima-
+ginativa que se vincula con sus apreciaciones acerca del paisaje en Martín Fierro. 
+Se trata de una cierta imaginación cinematográfica que se puede rastrear en sus 
+obras. Sobre las relaciones entre cine y gauchesca en la obra de Borges, el propio 
+Andermann apunta:
+Así como la gauchesca primitiva y las primeras milongas son, para Borges, 
+[…] un pretexto para construir una literatura sobre lo inexorablemente ar-
+tificial e hipotético de la autenticidad pasada, así también el primer cine 
+de Chaplin y Von Sternberg lo fascina por la autosuficiencia de su realismo 
+fantástico y el carácter épico de sus narraciones, además de proporcionarle un 
+artificio estructural de importancia fundamental para toda su obra narrativa: 
+el montaje. Quizás no sería mucho más descabellada que otras una lectura de 
+Borges que partiese de ahí, postulando que el tratamiento borgeano de sus 
+materiales surge de un cruce entre gauchesca y cine. La cantidad de referencias 
+a la poesía gauchesca en las notas sobre cine sería un primer dato para sos-
+tener semejante hipótesis (“La vuelta de Martín Fierro” 30; subrayado en el 
+original).
+Inversamente, habría que pensar en la cantidad de referencias al cine en los 
+textos de Borges sobre la literatura gauchesca y el criollismo. Un ejemplo es su 
+recuerdo de uno de los enfrentamientos de Moreira: “¿No es memorable esa 
+invención de una pelea caminada y callada? ¿No parece imaginada para el cine-
+matógrafo?” (“Eduardo Gutiérrez” xi). Asimismo, son habituales en Borges las 
+comparaciones entre el gaucho y el cowboy, “su remoto hermano del Far West” 
+(“El gaucho” 86), que proviene de una tradición –menos literaria que cinemato-
+gráfica– en la que abundan las vistas panorámicas del paisaje.
+Lejos de la fascinación borgeana, la desconfianza de Martínez Estrada res-
+pecto del cine lo lleva a ubicar el nuevo medio del lado de la falsa conciencia. 
+Así, compara la experiencia de contemplar las vidrieras de la calle Florida con la 
+76
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+de ir al cine (Radiografía de la pampa 159) o sostiene que hay “taxímetros ver-
+daderamente cinematográficos, por la rapidez con que cambian las cifras en la 
+pantallita donde se proyecta el paisaje y el argumento” (La cabeza de Goliat 46). 
+Esta articulación entre cine y paisaje pronto encontraría una formulación más 
+acabada en Muerte y transfiguración de Martín Fierro:
+Como en las descripciones y en el paisaje se distinguen diversos planos de 
+proximidades y lejanías, en el Poema los planos están sugeridos por el hecho, 
+sin otra indicación de qué los circunda. […] Nunca hay nada ni nadie a lo 
+lejos, ni a los lados ni a la espalda del actor. Toda escena está enfocada de 
+frente […]. Las repetidas veces que Martín Fierro dice que se quedó quieto, 
+aguardando, sentimos que la imagen móvil es perturbada, tal como ocurriría 
+si una película se detuviera dos segundos en un fotograma (143).
+Palabras como “planos”, “actor”, “escena”, “enfocada”, “imagen móvil”, “pe-
+lícula” y “fotograma” evidencian que, para dar cuenta del predominio de la na-
+rración sobre la descripción del espacio, la imaginación de Martínez Estrada 
+opera en el campo semántico de lo cinematográfico. Pero menos que un cambio 
+respecto de la valoración negativa del cine en sus libros anteriores, esto supone 
+su profundización:
+Ninguno de los novelistas y cuentistas que se inspiran en el folklore sobrepasa 
+el umbral de lo pintoresco […]. Lo mismo ocurre con nuestra cinemato-
+grafía. Pero si eso es lo que nuestros autores ven y lo que nuestros lectores y 
+espectadores gustan, entonces es que no se trata de un vicio “superficial” […], 
+sino de una modalidad del alma nacional (547).
+Para Martínez Estrada, la ausencia de descripciones del paisaje en Martín 
+Fierro se recorta contra el color local de la literatura folklórica y el cine. En 
+términos de Prieto, se trataría de la tradición del criollismo, que emerge en la 
+literatura para luego desplazarse al teatro y de allí –siguiendo la lectura de Eli-
+na Tranchini– al cine. Ya en 1938 Martínez Estrada había escrito: “El gaucho 
+aderezado en su vestimenta, su psique y su lenguaje halló refugio, arrancado a 
+la realidad, en el circo y en el teatro” (“Prólogo” xiv). De aquel prólogo al libro 
+publicado diez años después –durante la edad dorada del cine criollista– Mar-
+tínez Estrada desplaza el epítome de lo pintoresco del teatro al cine. Contra esa 
+falsificación cinematográfica, creo, puede leerse su afirmación de la importancia 
+de la elisión del paisaje en Martín Fierro.
+Planteados los lineamientos de la imaginación territorial y cinematográfica 
+compartida por Borges y Martínez Estrada, sería preciso hacer una aclaración. Se 
+trata de una observación que Noé Jitrik realiza a la boutade borgeana de que el 
+paisaje en el poema no aparece porque está supuesto, pero que podría extenderse 
+también a Martínez Estrada. Jitrik distingue las caracterizaciones del paisaje en 
+las dos partes del poema y restringe a la Ida el carácter presupuesto de la pampa: 
+77
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+“Sin duda Borges se refiere a la Ida porque en La vuelta las demoras descripti-
+vas, casi a lo Ascasubi, son impresionantes” (976). Todo lo que en la Ida había 
+permanecido como situación no terminada de elaborar, para Jitrik, cede paso en 
+la Vuelta a las descripciones minuciosas de un ambiente que antes se daba por 
+conocido. Este planteo es lógico si seguimos la lectura de Borges, porque en La 
+vuelta hay un narrador que cada vez ocupa más espacio y para el que, a diferencia 
+de lo que ocurre con los personajes, el paisaje no tiene por qué ser un supuesto.
+A partir de este señalamiento y entendiendo el Martín Fierro como un clásico 
+con sus múltiples versiones, es posible diferenciar las reescrituras literarias y las 
+cinematográficas del poema: si en las primeras predominó la mirada borgeana 
+que reivindica el espíritu rebelde de la Ida,1 en las segundas, en cambio, preva-
+lece el espíritu explicativo de la Vuelta, razón por la cual la noción de paisaje 
+sigue siendo necesaria para abordarlas. Un estudio comparativo del poema de 
+Hernández y sus diversas transposiciones fílmicas permitiría explorar los modos 
+en que, en diferentes momentos de la historia argentina, el espacio geográfico de 
+la pampa se articula en estos filmes con diversas imágenes sobre lo nacional. El 
+presente trabajo viene a ser la primera parte de este proyecto. Aquí me concentro 
+en Nobleza gaucha (Humberto Cairo, Ernesto Gunche y Eduardo Martínez de 
+la Pera, 1915), que si bien transpone apenas algunos pasajes del Martín Fierro, 
+tiene –además de sus propios méritos históricos y formales– el valor inaugural de 
+ser la primera de esta larga serie de relecturas cinematográficas.2
+El concepto de paisaje se aborda en estas páginas desde una perspectiva teórica 
+que, atenta al giro espacial de las humanidades en los últimos treinta años, reúne 
+aportes tanto de la geografía cultural como de diversas disciplinas. El trabajo de 
+Denis Cosgrove resulta especialmente útil, dado que historiza la noción de pai-
+saje como una forma de controlar el mundo que atravesó cambios significativos 
+en el siglo XIX (es decir, contemporáneamente al poema de Hernández), cuando 
+la visión del paisaje basada en la perspectiva renacentista fue desafiada en las artes 
+y elevada al estatus de objeto de investigación por la geografía (38). Esta historia 
+del paisaje como narrativa de la reificación de la naturaleza en la modernidad 
+da pie en la obra de Martin Lefebvre –que relee a Cosgrove– a una distinción 
+entre representaciones del espacio cinematográfico que se corresponden con dos 
+modalidades de la mirada: el escenario, en tanto espacio donde ocurre la acción 
+1 
+Algunos ejemplos son: “El fin” (1944) y “Biografía de Tadeo Isidoro Cruz” (1949) de Borges, 
+El solicitante descolocado (1971) de Leónidas Lamborghini, El gaucho insufrible (2003) de Ro-
+berto Bolaño o, más recientemente, El Martín Fierro ordenado alfabéticamente (2007) de Pablo 
+Katchadjian y El guacho Martín Fierro (2011) de Oscar Farina.
+2 
+Este corpus comprende más de una decena de filmes distribuidos a lo largo de un siglo: Martín 
+Fierro (Alfredo Quesada, 1923), Way of a Gaucho (Jacques Tourneur, 1952), Al Martín Fierro 
+(Luis Weskler, 1962), Martín Fierro (Leopoldo Torre Nilsson, 1968), La vuelta de Martín Fie-
+rro (Enrique Dawi, 1974), Los hijos de Fierro (Fernando Solanas, 1975-1984), Martín Fierro 
+(Fernando Laverde, 1989), Con el alma (Gerardo Vallejo, 1995), Martín Fierro, el ave solitaria 
+(Gerardo Vallejo, 2006), Martín Fierro: la película (Liliana Romero y Norman Ruiz, 2007) e 
+Inventarios argentinos I: Glosario de la pampa (Martín Liut, 2011).
+78
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+(modo narrativo); y el paisaje, espacio autónomo liberado de acontecimientos y 
+demandas representativas (modo espectatorial) (20-23).
+Andermann retoma este planteo y añade que, cuando el paisaje ingresa al 
+cine, ya está investido de un repertorio de significados culturales (Nuevo cine 
+argentino 114). Para el caso de la pampa en el cine, habría que considerar una 
+tradición previa según la cual las llanuras configuran un paisaje peculiar, no 
+acomodable a los cánones de la pintura: “Quien va a los campos del sur y a la 
+pampa –afirma Martínez Estrada– no ve nada. […] Las llanuras no configuran 
+un paisaje convenido” (Muerte y transfiguración 405). En estas palabras parece 
+resonar el eco de aquellas otras de Sarmiento: “¿Qué impresiones ha de dejar 
+en el habitante de la República Argentina, el simple acto de clavar los ojos en 
+el horizonte, y ver.., no ver nada […]?” (49). La pregunta que inquieta al autor 
+del Facundo es qué hacer con ese territorio, cuya potencialidad estética parecía 
+vislumbrar ya en 1845. En tales condiciones, la alternativa que se le presenta 
+al cineasta bien podría traducirse como una reelaboración de la famosa fórmu-
+la lukácsiana despojada de su carga valorativa: ¿narrar o describir? Para decirlo 
+con Lefebvre, ¿la pampa como escenario o como paisaje? A partir del caso em-
+blemático de Nobleza gaucha, este trabajo explora algunas inflexiones estéticas, 
+políticas e históricas en una de las primeras tentativas de respuesta a esa pregunta 
+que ha dado el cine argentino. Se trata, en suma, de indagar los modos en que la 
+pampa es abordada en el filme para constituirla en paisaje nacional y/o escenario 
+de una historia nacional.
+Agradables y olvidados panoramas
+Nobleza gaucha fue escrita y producida por Humberto Cairo, quien además 
+la dirigió en colaboración con los fotógrafos Eduardo Martínez de la Pera y Er-
+nesto Gunche. La historia de la relación del Martín Fierro con esta película, que 
+pasaría a la historia como el primer blockbuster del cine argentino, es conocida, 
+pero no carece de algunos pormenores que vale la pena revisar:
+Exhibido en una primera función privada […], el film fue acogido fríamente. 
+Faltaba algo. Intervino entonces [José] González Castillo, que tenía un crite-
+rio formado en la conducción del film, por ser él quien veía, traducía y adap-
+taba las leyendas de todas las películas que importaba Max Glücksmann.
+González Castillo se ofreció para supervisar la película, y Cairo accedió. Se 
+tomaron algunos panoramas más con salidas de sol y atardeceres y se sus-
+tituyeron casi todas las leyendas por transcripciones del Martín Fierro que 
+parecían escritas especialmente para las distintas escenas (Ducrós Hicken 
+Orígenes).
+La anécdota, repetida infinidad de veces (Di Núbila 18; Peña Rodríguez), 
+es no obstante inexacta: González Castillo no sustituyó “casi todas las leyendas 
+79
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+por transcripciones del Martín Fierro”. Ante todo, porque las transcripciones 
+no corresponden exclusivamente a Martín Fierro –se incluyen también pasajes 
+de El Fausto criollo (1866) de Estanislao del Campo, Lázaro (1869) de Ricardo 
+Gutiérrez y Santos Vega de Rafael Obligado (1885)– y, en segundo lugar, porque 
+esas citas se concentran solo en el primer tercio del filme. Este doble error fue 
+reparado por Patricio Fontana (2011) en un minucioso estudio sobre Nobleza 
+gaucha que corrige varias imprecisiones de los precedentes y extrae una valiosa 
+conclusión: “Parecería ser que, de algún modo, la literatura salvó a Nobleza gau-
+cha del fracaso” (18). Tal vez habría que precisar que, siguiendo el relato de Du-
+crós Hicken, lo que salvó a Nobleza gaucha no sería tanto la literatura en general 
+como el Martín Fierro en particular, ya que ese relato deja de lado las otras refe-
+rencias literarias, como si cierta visión épica del texto de Hernández impregnara 
+el propio proceso creativo del filme y la historia de sus lecturas. En este sentido, 
+la película no es ajena al clima cultural de 1915: un par de años antes, en 1913, 
+Lugones había dictado sus conferencias en el teatro Odeón y Rojas proclamó 
+el Martín Fierro como poema épico nacional; poco después, la revista Nosotros 
+publicaría una célebre encuesta acerca del significado del poema. En este clima, 
+y formando parte de estas discusiones, aparece Nobleza gaucha.
+Pero menos que explicar el éxito del filme a partir de la canonización del 
+Martín Fierro, estos debates evidencian el modo en que la lectura lugoniana 
+–responsable, al decir de Ángel Rama, de “todos los equívocos y contradiccio-
+nes que habrían de regir el poema” (1062)– ha obturado algunos aspectos de 
+Nobleza gaucha que quisiera destacar. En su artículo, Ducrós Hicken cuenta 
+que “Bastó la modificación de las leyendas y el agregado de algunos panoramas 
+para que el film fuera recibido con entusiasmo”. En general, la crítica ha pres-
+tado atención a la primera parte de la frase, dejando de lado la segunda. ¿Qué 
+decir, entonces, sobre esos “panoramas”? La película se inicia, por caso, con un 
+amanecer, seguido de un payador montado a su caballo con la pampa de fondo 
+y una cita del canto II de El gaucho Martín Fierro. El gaucho está tomado a 
+contraluz, lo cual sugiere un raccord de iluminación con el plano del amanecer. 
+Tal elección, al inicio del filme, es de por sí significativa, tanto más cuanto que 
+parece contradecir el espíritu del poema, en el que –según Martínez Estrada– la 
+descripción del amanecer no se demora en la contemplación de la vasta llanura 
+ni del cielo de la pampa (Muerte y transfiguración 200).
+González Castillo, por lo tanto, no se limitó a seleccionar fragmentos de 
+obras poéticas para incluir en el filme. Su labor parece más bien una combina-
+ción del trabajo de libretista que había desarrollado en el filme Juan Moreira de 
+Mario Gallo y la tarea de adaptación de los intertítulos de películas extranjeras a 
+la que se venía dedicando. Sus comentarios no atañeron solo a las citas literarias 
+sino que también motivaron a los realizadores a filmar planos adicionales. ¿Pero 
+por qué, a la hora de volver a filmar para mejorar la película, además de los 
+textos, se eligió trabajar sobre los “panoramas”? Por un lado, factores materiales. 
+Cairo señala que la filmación demandó más de tres meses, “con actores que, por 
+80
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+compromisos teatrales en Buenos Aires, apenas disponían de un par de días para 
+trasladarse al campo a impresionar el film” (Mafud 68). Era más práctico ajustar 
+las partes de la película en las que los actores no habían intervenido (como las 
+tomas de paisajes y los intertítulos). Por otro lado, la cuestión del paisaje debió 
+de haber sido fundamental para los realizadores, como se constata en las declara-
+ciones de Cairo sobre las locaciones: “Y así, cuidando estos detalles e invirtiendo 
+en movilidad únicamente, buenas cantidades para estudiar los puntos mejores 
+de la ciudad que se debía filmar. Así conseguí hacer Nobleza gaucha”. A la vez, 
+como apunta Lucio Mafud, es probable que la película en otros países se haya 
+exhibido “con el agregado de escenas camperas, que Cairo planeaba filmar […] 
+para acentuar los aspectos pintorescos en sus representaciones en el exterior” 
+(69). Todo esto apunta a que los paisajes eran una zona sensible del filme, con 
+gran predisposición a las correcciones.
+En el comentario de Cairo que cita Mafud, asimismo, reaparece la preocu-
+pación por lo pintoresco, que Martínez Estrada había sindicado como caracte-
+rística del cine, a diferencia del paisaje “topográfico” del Martín Fierro. ¿Pero 
+qué es, exactamente, un paisaje pintoresco? Graciela Silvestri sostiene que, como 
+estrategia compositiva que articula la verdad de un lugar con una modalidad de 
+observación, lo pintoresco deriva de la pintura y se prolonga desde fines del siglo 
+XVIII y todo el XIX para definir un discurso evocador de imágenes mentales 
+que causan placer por su variedad, color, rusticidad integrada con lo primitivo, 
+popular o natural. Un paisaje pintoresco es, pues, ante todo, aquel digno de 
+ser pintado porque reúne ciertas condiciones (variedad, efecto escenográfico, 
+definición) (471). Trasladada al nuevo medio, esta cuestión dispara la pregunta: 
+¿qué es un paisaje pintoresco en el cine? O mejor: ¿qué sería un paisaje cinema-
+tográfico? Se diría que es un paisaje digno de ser filmado porque reúne ciertas 
+condiciones específicamente cinematográficas, como pueden ser el movimiento 
+y la duración.
+Precisamente el movimiento es lo que un espectador de la época habría en-
+contrado de novedoso en la representación de la pampa de Nobleza gaucha, que 
+poco se parecía en este aspecto a las imágenes de la pampa en la literatura (para 
+aquellos pocos que habían tenido acceso a ella) o en los medios gráficos masivos. 
+Podría objetarse, con todo, que esto es algo que la literatura ya había practicado. 
+Fermín Rodríguez analiza el espacio de la pampa en un vasto corpus literario 
+en base a dos clases de movimientos –de territorialización y de fuga– que lo 
+atraviesan. Pero, en clave bergsoniano-deleuziana, sería preciso introducir otra 
+distinción porque, según la primera tesis de Bergson, lo que describe Rodríguez 
+en algunos casos se asemejaría menos al movimiento que al espacio recorrido. 
+Rodríguez piensa, por ejemplo, la letra sarmientina como una herramienta de 
+actualización que vuelca el paisaje virtual sobre lo actual (285). Es decir que se 
+trata siempre de ir de un punto inmóvil a otro (de la barbarie a la civilización, de 
+lo deseado a lo vivido, etc.), añadiéndoles nuestra idea abstracta de tiempo. Lo 
+distintivo del cine, en cambio, sería que no nos brinda una imagen de la pampa 
+81
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+a la que se le añade lo móvil sino que nos da, de manera inmediata e indivi-
+sible, una imagen-movimiento (Deleuze 15), en la que lo móvil no pertenece 
+solo al orden de lo representado (el viento que agita un pajonal, el jinete que se 
+desplaza) sino también a la representación misma (cuyas condiciones técnicas 
+dependen del montaje, la movilidad de la cámara y la emancipación de la toma 
+respecto de la proyección). El propio Rodríguez advierte este cambio en las for-
+mas de percepción cuando, al analizar un viaje en tren (escena que se repite en 
+Nobleza gaucha), compara a Sarmiento con un espectador cinematográfico cuyas 
+fantasías apuntan a una “tecnología de representación más apropiada para una 
+nueva experiencia vital que la antigua forma artística –el teatro– no puede plas-
+mar sin una radicalización de sus procedimientos” (278).
+La obra de González Castillo ofrece un ejemplo de esa radicalización de los 
+procedimientos teatrales. La importancia que González Castillo concede al pro-
+blema del paisaje se hace notoria en la versión de Martín Fierro que estrenó en 
+diciembre de 1915 y que, en consecuencia, debió haber pergeñado de manera 
+contemporánea a la redacción de los títulos de Nobleza gaucha, estrenada en 
+agosto. En esta obra de teatro, introduce un truco escénico que acompaña la 
+sextina de cierre del poema:
+[S]e habrá levantado el telón corto y aparecido a todo foro la decoración de 
+campo raso. Canta un gallo. Se oye el rasguido de una guitarra adentro y 
+luego una voz que canta […], mientras el telón de fondo, transparentándose, 
+deja ver en perspectiva la silueta lejana de la ciudad que avanza (137).
+Mediante este dispositivo, González Castillo ofrece una visión que, si bien 
+parece corroborar literalmente la descripción del terreno en Martín Fierro que 
+hace Martínez Estrada –“la pampa es una llanura como un telón liso, sin relie-
+ves” (Muerte y transfiguración 344)–, en rigor se asemeja más a la pampa de Juan 
+Moreira, el otro gran texto del criollismo cuya teatralización alcanzó un éxito al 
+que las versiones de Fierro jamás lograron acercarse. En términos de Juan Pablo 
+Dabove, Gutiérrez construye una pampa rarificada, lo cual disminuye la calidad 
+literaria pero le ofrece un enorme potencial de apropiación política:
+Es por eso que el gaucho y la pampa de Gutiérrez son los que pasarán a ser la 
+pampa mítica del criollismo posterior […]. Gutiérrez inventa el gaucho y la 
+pampa del criollismo popular, pero podría decirse que también del criollismo 
+culto de Lugones y Rojas, que exaltan a Fierro y soslayan a Moreira, pero que 
+secretamente leen a Fierro desde el prisma del Moreira (308).
+El nuevo carácter semiurbano del gaucho –condición de posibilidad en Juan 
+Moreira para una distancia admirativa del paisaje ausente en Martín Fierro– es 
+captado por González Castillo a través del dispositivo de los telones que se trans-
+parentan y es también un rasgo de la construcción del espacio en Nobleza gau-
+cha, cuyo protagonista no casualmente lleva el mismo nombre de pila que el 
+82
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+personaje de Gutiérrez (Fontana 17). En un discurso pronunciado poco después 
+del estreno, González Castillo profundiza esta relación al proponer Nobleza gau-
+cha como paradigma temático y trazar una analogía según la cual este filme sería 
+al cine nacional lo que Juan Moreira significó para el teatro (Mafud 30).
+Esta retroalimentación se aprecia en la conformación del elenco por actores 
+del circo criollo, como Orfilia Rico, María Padin y Julio Scarcella. El caso más 
+notorio es el del personaje interpretado por Celestino Petray, Don Genaro, que 
+viene a ser una variación del personaje de Cocoliche, imitación paródica de un 
+inmigrante italiano con la que Petray había saltado a la fama en la troupe de los 
+hermanos Podestá. Pero Nobleza gaucha no solo toma del circo criollo perso-
+najes, intérpretes, formas de hablar y escenas como la del pericón, deudora del 
+music hall, sino también un imaginario y hasta un modo de mirar el paisaje.
+La mirada circense emerge de modo palmario durante las faenas campestres 
+del inicio. La sextina que acompaña estas imágenes corresponde al canto II de 
+la Ida:
+Y mientras domaban unos,
+Otros al campo salían
+Y la hacienda recogían,
+Las manadas repuntaban,
+Y ansí sin sentir pasaban
+Entretenidos el día (107).
+Es un momento en que Fierro construye retrospectivamente un mito cultu-
+ral según el tópico de la edad de oro, como si la pampa fuera el subsuelo donde 
+está enterrado el tesoro comunitario perdido. A este mismo canto pertenecen 
+dos de los apenas cuatro versos que Martínez Estrada reconoce como paisajes en 
+todo el poema “Tendiendo al campo la vista / Solo vía hacienda y cielo” (108). A 
+este respecto, si con Raymond Williams entendemos que un campo en actividad 
+productiva casi nunca es un paisaje (163), la condición de posibilidad para la 
+emergencia de esa inusual mirada contemplativa de Fierro puede hallarse en su 
+particular concepción del trabajo antes de ir a la frontera: “Aquello no era trabajo 
+/ Más bien era una junción” (109). Fontana detecta con sutileza el modo en que 
+en Nobleza gaucha, además, el trabajo literalmente se hace “junción”: un espec-
+táculo de destrezas rurales para el espectador urbano (20). De ahí que podamos 
+suponer que esta secuencia inicial debió haber funcionado para el espectador 
+como una suerte de reaseguro. Se empieza por lo conocido: el circo filmado (vale 
+la pena recordar que, a su vez, las películas solían proyectarse en los mismos 
+teatros donde actuaban sus intérpretes).
+De esta manera, durante todo este largo bloque, la película carece de una 
+narrativa lineal y la lógica circense se impone: los números se suceden por mera 
+acumulación. La pampa, por tanto, no es un escenario sino que se autono-
+miza del desarrollo narrativo y deviene, en términos de Lefebvre, paisaje. La 
+película conserva del circo el “estar ahí”, el efecto de realidad que producen la 
+83
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+doma o el fogón en escena y que, como indica Montaldo, el artificio del cine 
+potencia (Museo del consumo 106). La mayoría de los planos son panorámicos 
+y generales. Esta elección formal tiene la función de mostrar el paisaje durante 
+la doma, pero a la vez esconde los rostros de los actores, que fácilmente podían 
+ser reemplazados por jinetes más diestros. Tal decisión revela una elaborada 
+noción del montaje por parte de los directores, que además supieron combi-
+narla con algunos planos medios que exhiben las reacciones del estanciero. Este 
+recurso más adelante es explotado mediante primeros planos que muestran los 
+ojos llorosos de María. Son momentos puntuales en los que la planificación 
+enfatiza una política del rostro. Si se concibe el paisaje como el rostro de la 
+nación (Deleuze y Guattari 195), inversamente podría leerse en el semblante 
+de los actores una inscripción del paisaje nacional de la pampa y hasta las caras 
+mismas como paisajes añorados. Así, en el bigote de Scarcella, la barba postiza 
+de Petray o el pañuelo de Rico se adivinan los artificios del circo y, con ellos, los 
+orígenes del teatro nacional, que remite a las versiones de Juan Moreira a cargo 
+de la compañía de los Podestá, de la que muchos de estos actores formaban o 
+habían formado parte.
+Imagen sublime e imagen-movimiento
+Pero además de nutrirse del imaginario del circo, la secuencia de las faenas 
+campestres abreva en las artes visuales. Un puntilloso trabajo de Andrea Cuar-
+terolo revela los múltiples puntos de contacto del filme con las fotografías pro-
+ducidas por Francisco Ayerza en la década de 1890 para ilustrar una edición de 
+lujo de El gaucho Martín Fierro. Por su parte, Verónica Tell examina estas mismas 
+fotografías y las inscribe en una serie más amplia de ilustraciones del Martín 
+Fierro en diversos medios gráficos (7). Si nos remontamos un poco más atrás, en 
+las pocas imágenes de la pampa que produjo el siglo XIX había predominado el 
+costumbrismo. La pampa –argumenta Laura Malosetti– era apenas un espacio 
+casi abstracto en el que se desplegaban diversos tipos y costumbres (“¿Un paisaje 
+abstracto?” 294-295). Según Malosetti, es a partir de la literatura que la pampa 
+se volvió paisaje, mediante la visión romántica del desierto inaugurada por Eche-
+verría (Pampa, ciudad y suburbio 102). El gesto de Nobleza gaucha consistiría en 
+combinar ambas modalidades, desplazándose alternativamente entre la pampa 
+como escenario y paisaje.
+Cuando María no logra dominar su caballo y Juan trata de ayudarla, la mi-
+rada ya no es contemplativa sino que nos identificamos con el episodio dramá-
+tico, que culmina cuando él la alcanza y la sienta “en la cruz del caballo”. Esta 
+expresión ostenta una carga simbólica elevada. Por un lado, anticipa una serie de 
+imágenes religiosas que apuntan a una figuración virginal de María. Por otro, la 
+cruz es el punto mas alto de las vértebras del animal (el peligro era que María se 
+cayera del caballo). Esta búsqueda de la altura se puede articular con la obsesión 
+por hallar un sublime pampeano, que se volvió una suerte de desafío para los 
+84
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+artistas a lo largo del tiempo. Malosetti lo describe como un reclamo intelectual 
+a los pintores por los poetas que, como Obligado, en el siglo XIX asumieron la 
+pampa como paisaje nacional (103).
+Enfrentados al mismo problema, otros artistas se ocuparon de paisajes menos 
+cargados de una tradición política y literaria, como las sierras, las cataratas, el 
+litoral o los lagos del sur (Malosetti Pampa, ciudad y suburbio 96). Los propios 
+Martínez de la Pera y Gunche realizaron tentativas similares. Un ejemplo es su 
+cortometraje Las Cataratas del Iguazú (1911), al que se suma otro trabajo docu-
+mental sobre la selva chaqueña. Luego persistirían en esa búsqueda, en clave de 
+ficción, con En la sierra (1918). En esta película no se observa un distanciamien-
+to de la tradición literaria ya que estaba basada en El ramillete de la velada (1860) 
+de Juana Manuela Gorriti, pero sí un intento de encontrar paisajes nacionales 
+alternativos a la pampa, ya que se filmó en las sierras cordobesas (Mafud 252). 
+La elección de esta locación para transponer una novela que transcurre en los 
+Alpes permitía ajustar el territorio nacional a los cánones del paisajismo euro-
+peo. En Nobleza gaucha, en tanto, una de las estrategias para la producción de 
+un sublime pampeano es la búsqueda de la altura, que alcanza su clímax en la 
+desbarrancada final.
+Cabe destacar, asimismo, que el incidente del caballo deja en Juan “más que 
+una alegría una honda preocupación”. El placer que lo invade es menos el de 
+lo bello que el de lo sublime. El punto de vista elevado se impone enseguida 
+cuando la cámara muestra a Juan subido al caballo en un plano contrapicado. 
+A continuación, una imagen de Juan payando es acompañada por los siguientes 
+versos de Rafael Obligado:
+Cerró la noche. Un momento
+quedó la Pampa en reposo,
+cuando un rasgueo armonioso
+pobló de notas el viento (28).
+Lejos de la imagen móvil que cabría esperar del cine, se apuntala aquí la 
+idea de una pampa “en reposo”. Cómo poner la pampa en movimiento o cómo 
+producir allí un sublime son diferentes declinaciones de una pregunta de base 
+que sería: ¿cómo contar la pampa de otra manera? Por el momento, no es esta 
+la pampa del Martín Fierro (apenas sugerida) sino la de Santos Vega y sus des-
+cripciones del paisaje. Estas descripciones, nostálgicas de un pasado idílico, se 
+plasman en los intertítulos mediante metáforas que conectan el paisaje con sus 
+habitantes en tanto productos naturales. Por ejemplo, así como el gaucho parece 
+ser el arquetipo del habitante natural de las pampas, la pureza virginal de María 
+es reforzada a través de figuras florales (“flor del pago”, “flor del cardo”, “flor 
+silvestre”). Pero la película sugiere, a la vez, que de esa tierra feraz no solo se ali-
+mentan las bellas flores sino también los sentimientos violentos (“el germen de 
+un odio”) y desagradables (“vieca cara de vizcachón”).
+85
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+A menudo, estos sentimientos se vinculan con el personaje del estanciero, de-
+positario de casi todos los actos moralmente reprochables (en segunda instancia, 
+esta clase de actos son atribuibles a Genaro). Un ejemplo es cuando manda soltar 
+el caballo de Juan para secuestrar a María mientras él se distrae. Antes de lanzarse 
+a buscar el caballo, “De una sola mirada Juan explora el vasto campo”. De esa 
+manera, reaparece la mirada utilitaria y la pampa oscila, una vez más, entre su 
+percepción como escenario y paisaje. Esta secuencia narrativa se completa cuan-
+do Juan se percata del secuestro, en una actualización de la escena decimonónica 
+del rapto de la cautiva. Pero los indios, que ya no eran un problema a comienzos 
+del siglo XX, son relevados como captores y símbolos del pasado bárbaro por la 
+figura del estanciero. Presentado como “Nuevo señor feudal”, José Gran sinto-
+nizaba con una época en que la clase terrateniente –desde la reforma electoral de 
+1912– comenzaba a perder el control total del Estado que había ostentado por 
+más de un siglo.
+A partir de la escena del rapto, la acción se traslada a la ciudad, a donde Juan 
+acude para rescatar a María. Este desplazamiento coincide con un quiebre argu-
+mental por el cual la película ingresa en su segundo acto, recurso que se repetirá 
+en el tercer acto con el regreso al campo. Pero en este primer desplazamiento de 
+Juan y Genaro a la ciudad hay dos rasgos salientes. En primer lugar, la mirada 
+es desde el tren. Es decir, el ferrocarril no solo como dispositivo que habilita un 
+nuevo modo de circulación a través del espacio, sino además como tecnología 
+para la imaginación territorial y metáfora del cine mismo (la ventanilla es una 
+pantalla sobre la que pasan imágenes móviles). El tren es un modo de poner la 
+pampa en movimiento y, a la vez, de cercarla, encuadrarla a través de la ventani-
+lla. Alambrados, puertas, ventanas, cercos, entradas y salidas de cuadro son todas 
+formas diferentes de proyectar –a futuro y en la pantalla– una pampa tabicada 
+que solo de a ratos coincide con la mesa de billar que había descrito William 
+Henry Hudson y constituye, en general, un espacio mucho más matizado. En 
+segundo lugar, la mirada necesita un guía, que es Genaro, un inmigrante que 
+además había vivido en la ciudad: “En el tren, don Genaro explica a Juan los de-
+talles del paisaje, mientras envenena el ambiente con su cachimba”. El punto de 
+vista sobre el paisaje es el del “pueblero”, que no es inocuo sino que proyecta sus 
+propios valores (“envenena el ambiente”). Ya no se trata de la mirada utilitaria 
+del paisano, que Juan había depositado antes sobre la pampa, sino que es una 
+disposición urbana, contemplativa.
+En este sentido, como se observa en numerosos estudios (Tranchini; Díaz; 
+Fontana; Cuarterolo), lo rural en la película no puede entenderse sin el contra-
+punto con lo urbano. Varios de estos estudios, además, han señalado relaciones 
+entre Nobleza gaucha y el montaje en el cine de David Wark Griffith, cuya obra 
+Martínez de la Pera y Gunche habrían conocido en un viaje a Estados Unidos 
+(Tranchini; Alvira y Ronen Man; Díaz). Estos recursos formales, no obstante, 
+parecen quedar desligados en estos trabajos de toda una percepción griffithiana 
+del paisaje que no sería infructuoso contrastar con Nobleza gaucha. La influencia 
+86
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+que estos filmes ejercieron sobre la construcción del paisaje en el filme produci-
+do por Cairo no es ajena a las condiciones del incipiente campo cinematográfico 
+local. Jorge Couselo señala que “Cairo imaginó que el campo argentino facilita-
+ba paisajes tan seductores como los que su patrón –Julián de Ajuria– importaba 
+de Estados Unidos y Europa” (15-16).3 En una reseña de La Razón se describe el 
+filme como “una sucesión de vistas y cuadros que no dejan nada que desear en 
+comparación con las mejores de Europa y Norte América” (Mafud 68).
+¿Pero cuáles eran esas películas europeas y norteamericanas que Cairo habría 
+tomado como modelos? Entre las primeras, habría que mencionar los dos grandes 
+éxitos de la época: Quo Vadis (Enrico Guazzoni, 1913) y Cabiria (Giovanni Pas-
+trone, 1914), de la cual se afirma a menudo que constituye un antecedente de los 
+movimientos de cámara introducidos por Griffith. Precisamente, entre los filmes 
+norteamericanos, The Birth of a Nation (David Wark Griffith, 1915), estrenado 
+poco antes de Nobleza gaucha, constituye una referencia obligada. Al igual que 
+todos estos largometrajes, la obra de Martínez de la Pera, Gunche y Cairo es un 
+relato épico sobre los orígenes de la nación. Sin embargo, a diferencia de Quo Va-
+dis (rodada casi por completo en decorados) y Cabiria (en la que esta tendencia se 
+ve parcialmente alterada), Nobleza gaucha está mayormente filmada en locaciones 
+reales, ya sean urbanas o rurales. Esta decisión obedece en parte a la necesidad 
+de trabajar con luz natural por la falta de estudios en Argentina (Tranchini 135), 
+pero no puede explicarse solo por el estado de la técnica. El ahínco con que Cairo 
+salió a buscar lugares donde filmar da cuenta de un deseo de documentar los 
+vertiginosos cambios que experimentaba el país, tal como Martínez de la Pera y 
+Gunche lo habían evidenciado en su faceta de fotógrafos.4
+En este aspecto, el diseño productivo de Nobleza gaucha se emparenta al de los 
+primeros trabajos de Griffith, que –en palabras de su esposa– era un obsesivo de las 
+locaciones: “Su afección por los paisajes […] fue un factor significante en el éxito 
+de sus primeras películas” (Mottet 62). Otro tanto podría decirse del suceso de 
+Nobleza gaucha, como lo ha hecho Couselo, para quien “la alternancia de ciudad y 
+campo […] debió de ser el motor del gran éxito” (16). Sin embargo, las figuracio-
+nes de las planicies en ambos casos presentan diferencias notables que son en parte 
+históricas. Siguiendo el planteo de Malosetti, los norteamericanos llegaron a las 
+llanuras por los bosques y montañas del este, lo cual les permitió mirar hacia abajo 
+y proyectar al oeste el mito de un sublime americano. En el caso argentino, en 
+cambio, pese a la importancia literaria de la pampa, no hubo una escuela paisajís-
+tica (“¿Un paisaje abtracto?” 292-300). Recién a fines del siglo XIX esto empezó a 
+ser un problema, que luego se prolongaría en el cine criollista.
+3 
+Cairo era programador de la Sociedad General Cinematográfica, que inauguró el sistema de 
+alquiler de películas extranjeras en Argentina y había sido fundada en 1912 por el español Julián 
+de Ajuria. De ahí que, al concebir el argumento de Nobleza gaucha, se lo acercara a Ajuria, cuya 
+empresa produciría el filme.
+4 
+Para un examen detallado de las relaciones entre estas fotografías y Nobleza gaucha, se sugiere 
+consultar los textos de Cuarterolo y Tell.
+87
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+Por eso, para traducir visualmente un paisaje que solo había sido abordado 
+en sede literaria, Nobleza gaucha despliega varias estrategias. Una, evidente, es 
+yuxtaponer citas literarias e imágenes de la pampa. Otra estrategia está deter-
+minada por ciertos dispositivos distanciadores, que fabrican la distancia para 
+constituir en paisaje un vasto campo que de otra manera permanecería indife-
+renciado. Un ejemplo en el cine de Griffith sería la imagen del hogar rodeado 
+por la emblemática picket fence, que aparece en varios de sus primeros trabajos. 
+La demarcación de este espacio con límites claros define el punto de vista del 
+observador. En Nobleza gaucha, en tanto, si pensamos en las escenas de la doma, 
+la pampa primero aparece como una llanura casi infinita cuyos bordes coinciden 
+con el horizonte. Pero en los contraplanos el estanciero se recorta sobre un cerco, 
+como subrayando que es su mirada la que traza límites. María luego aparece en 
+su rancho y se le escapa el caballo. Con un par de cortes y un paneo, entendemos 
+que Juan se adentra en la planicie a buscarlo. Esta permeabilidad entre rancho 
+y pampa contrasta con el hogar de Genaro, para entrar al cual Juan debe abrir 
+una tranquera. La diferencia entre paisanos e inmigrantes no es, por tanto, solo 
+de nacionalidad, sino también de modos de habitabilidad del territorio. Para 
+Juan y María, al rancho se llega, como a la pampa, sin pedir permiso (forman 
+un continuo). Para Don Genaro y Ña Ciriaca, son territorios diferenciados y es 
+el entrenamiento para observar desde esa distancia lo que habilita a Genaro a 
+enseñarle a Juan a observar el paisaje.
+Según Jean Mottet –que estudia las configuraciones del territorio en las 
+primeras películas de Griffith–, la distancia necesaria para la construcción del 
+paisaje es tanto espacial como temporal, ya que despierta en el espectador la 
+memoria de un mito, que en las películas de Griffith sería la pastoral: el idilio 
+de una comunidad agraria sobre la cual se sustenta una nueva nación (65). Este 
+doble carácter del alejamiento se aprecia también en Nobleza gaucha en las imá-
+genes de la doma. El registro de esta escena mediante lentes angulares funciona 
+como otro dispositivo distanciador, ya que brinda mayor profundidad de campo 
+(reforzando la sensación de vastedad de la pampa) y exagera la separación entre 
+la cámara y el paisaje. Combinadas con el canto II de la Ida, estas imágenes su-
+ponen además un alejamiento temporal, dado que registran un tiempo mítico 
+perdido. Como en Griffith, los paisajes basculan aquí entre las imágenes del 
+Nuevo Mundo como jardín de Edén y como tierra salvaje y primitiva. Incluso, 
+en Griffith, la combinación de imágenes rurales y urbanas es una forma de par-
+ticipar de una tradición de oposición entre modos de vida que era la base del 
+mito de la pastoral. En Nobleza gaucha, si bien el contrapunto campo-ciudad 
+entronca en la tradición literaria local, tampoco es desdeñable la influencia de 
+un imaginario cristiano. La diferencia radicaría en que el cristianismo de Griffith 
+pone el acento sobre la Tierra Prometida y el de Nobleza gaucha sobre el Paraíso 
+Perdido. The Birth of a Nation es un ejemplo del reformismo protestante norte-
+americano y su deseo de fundar una Nación blanca, capitalista y democrática, 
+mientras que Nobleza gaucha –sin renunciar del todo al deseo reformista– se 
+88
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+acerca más al idealismo católico, por la añoranza de la vida gaucha y la pampa 
+como Paraíso Perdido.
+El imaginario cristiano de Nobleza gaucha se puede apreciar en dos persona-
+jes: María, con quien Juan establece una alianza amorosa, y Genaro, objeto de 
+una alianza amistosa. De nombre e imagen virginal, María aparece siempre de 
+blanco y asociada con cierta pureza natural. Cuando queda encerrada en la man-
+sión, besa un medallón de la virgen y le reza “buscando auxilio en la religión”. El 
+otro personaje de connotaciones religiosas es Genaro. Si el sistema nominativo 
+de la película tiene alguna importancia (recordemos que el protagonista se llama 
+Juan como Moreira), entonces también pueden hacerse algunas observaciones 
+sobre este personaje. Así como la criollita reza a la Virgen María, Genaro invoca 
+al santo homónimo: “Ti lo juro per l’anima de San Genaro”, se excusa ante el 
+comisario. San Genaro es el santo protector de Nápoles, famoso por el milagro 
+de la licuefacción de su sangre. Teniendo en cuenta que la mayor parte de los 
+inmigrantes llegados a la Argentina a comienzos de siglo eran italianos, resulta 
+comprensible la elección del nombre, con la sustitución del apócope san por don, 
+que destaca en Genaro su condición de propietario de la tierra, al igual que su 
+esposa Ña Ciriaca5 y a diferencia del gaucho y la criollita, que son Juan y María 
+a secas.
+La invocación a San Genaro debió de ser algo frecuente en la cultura de la 
+época, como lo atestigua, por ejemplo, un pasaje del sainete El conventillo de la 
+Paloma: “Ma giuro, pe l’ánema de San Genaro, que antes de aflojare, le prendo 
+fuego a lo conventillo” (Vacarezza 70). Pero más allá de esta explicación his-
+tórica, podría conectarse al personaje del filme con otros Genaro de la cultura 
+argentina. La referencia inmediata sería el Genaro Piazza de En la sangre (1887), 
+de Eugenio Cambaceres. Este Genaro, advenedizo social, inmigrante de segunda 
+generación, corrupto y degenerado, poco tiene que ver con el trabajador, ami-
+go y esposo fiel de Nobleza gaucha. Se produce aquí un desvío de la tradición 
+literaria comparable al que opera en el personaje del gaucho. Así como Juan 
+aparece desmoreirizado (Fontana 17), el gringo es desestigmatizado: sus lazos 
+de origen se diluyen o –como quiere la retórica hagiográfica– se licuan por la 
+asimilación a la vida argentina figurada en la propiedad de la tierra y en la alianza 
+con el gaucho, con quien forma una “pareja ítalo-criollo”. Sin embargo, entre 
+el gaucho y el inmigrante persisten varias diferencias. Mientras que el primero 
+es el depositario de las acciones heroicas, el segundo es su ayudante pero no un 
+personaje épico. La desestigmatización es moderada: Genaro pronto abandona 
+a Juan porque “no quiere compromisos”. Este Genaro parece constituirse, así, 
+como una conciliación entre el Genaro tramposo de En la sangre y el compasivo 
+de El desalojo (1906), sainete de Florencio Sánchez en que el personaje así lla-
+5 
+También este nombre puede leerse como alusión religiosa. Ciriaca de Roma era una rica viuda 
+que refugiaba en su casa a los cristianos perseguidos y sufrió martirio a través de la flagelación. 
+Irónicamente, en la película, Ña Ciriaca es una mujer humilde que, más de una vez, golpea sin 
+querer a su marido.
+89
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+mado es el único generoso de una intriga sórdida que excede la oposición entre 
+criollos y gringos.
+La figura de Sánchez es, asimismo, relevante para este trabajo, debido a la 
+influencia que ejerció sobre González Castillo:
+Yo había conocido a Florencio Sánchez en Rosario, cuando él era repórter 
+de La República […]. Desde luego, compartí su triunfo en Buenos Aires con 
+M’hijo el dotor y cobré afición al teatro gracias a la amistad que con él seguí 
+cultivando (González Castillo 49).
+Por esa época, convivían en González Castillo las ideas místicas del colegio 
+(“La sombra del seminario se proyectaba todavía sobre mi adolescencia”) y el 
+ideario anarquista de la juventud intelectual a la que pertenecía Sánchez (48). 
+En base a estos datos y considerando que González Castillo solía incluir en sus 
+obras parábolas religiosas con un sentido de denuncia social (Koss 6), no parece 
+desacertado suponer que, además de las citas literarias y los “panoramas”, él 
+haya sido responsable de otros intertítulos, como las alusiones cristianas, que 
+legitiman una alianza entre criollismo y modernización que es también la alianza 
+gaucho-inmigrante, muy a tono con el espíritu celebratorio del post Centenario 
+y la inminente “apertura” democrática.
+Precisamente, en el vaivén del campo a la ciudad, Nobleza gaucha encuentra 
+en el imaginario cristiano el sustrato común que santifica la tierra y, hacia el 
+final, asegura la justicia poética para la nueva nación. Dos variaciones en la figu-
+ración del paisaje pampeano parecen apuntar en esta dirección. Cuando Juan se 
+lanza a la persecución del estanciero, a este se le cae el revólver. Para mostrarnos 
+esta acción, el filme recurre a un insert del revólver cayendo en el pasto. Por este 
+breve instante, cambia la mirada sobre el terreno. Ya no se trata de tender la vista 
+a lo lejos para captar la inmensidad. Por el contrario, la cámara baja su punto de 
+vista para mirar de frente el pasto y, a partir de la aproximación, detenerse en la 
+contemplación de sus formas. Esto produce el efecto de que la caída del revólver 
+parezca menos un hecho accidental que necesario, como si en lugar de caerse el 
+arma fuese el pasto mismo el que la absorbiera en un acto de justicia poética.6 
+En la tradición cristiana, el pasto tiene un valor especial: en el Jardín de Edén, 
+donde alberga a todos los organismos fíticos, precede la llegada de los árboles 
+y del hombre. Pero a ese valor religioso, que en el imaginario norteamericano 
+de Griffith adquiere las connotaciones de lo hogareño, en Nobleza gaucha se le 
+añade el de lo salvaje. Aunque la pampa puede tener cualidades edénicas para 
+el gaucho, para el estanciero es una tierra hostil que encierra peligros mortales, 
+como perder el arma en el pastizal o –segunda inflexión– desbarrancarse.
+6 
+Este insert del revólver establece una rima plástica con el del puñal de Juan clavado en la puerta 
+de la habitación de José Gran: el arma del paisano triunfa en la ciudad, mientras que la del pue-
+blero fracasa en el campo.
+90
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+La caída final es una escena clave, que coincide con el clímax narrativo. ¿Pero 
+cómo es posible despeñarse en la llanura? A diferencia de las otras escenas ru-
+rales, rodadas cerca de Mar del Plata, esta se filmó en Campana,7 en una zona 
+conocida como la pampa ondulada por la erosión que produjeron los afluentes 
+del Río de la Plata y del Paraná. Se trata, de nuevo, de la búsqueda de un su-
+blime pampeano, que separa la película del hipotexto dominante en la primera 
+parte, el Martín Fierro, en el que todo está “sobre la tierra, en lugares bajos, 
+inundados de detritus” (Martínez Estrada Muerte y transfiguración 346). El re-
+curso a la mirada desde lo alto, más bien, entronca en una tradición literaria que 
+viene del programa romántico y no carece de resonancias cristianas.8 Ya en los 
+Apuntes de Francis Bond Head, al igual que en Alexander von Humboldt, los 
+Andes ofrecían un punto de vista privilegiado. ¿Pero qué ocurre en el pasaje de la 
+literatura al cine, es decir, cuando esa imagen mental abstracta deviene imagen-
+movimiento? Si pensamos la pampa no como paisaje sino como escenario, lo 
+que ofrecen las montañas, además de un mirador privilegiado para la vista, es 
+un plus climático para la historia. Basta pensar en la infinidad de películas de 
+Hollywood que encuentran su clímax en las montañas, desde Duel in the Sun 
+(King Vidor, 1946) hasta Thelma & Louise (Riddley Scott, 1991), por citar dos 
+casos bien disímiles, a los que habría que sumar la propia The Birth of a Nation, 
+en la que una de la hijas de los Cameron cae por un barranco al escapar de un 
+liberto que quiere violarla.
+Pero hay otro antecedente de Nobleza gaucha: el filme Captain Alvarez (Ro-
+llin Sturgeon, 1914), inspirado en la Amalia de Mármol, con la particularidad 
+de que –al estar rodado en California– presenta una Buenos Aires montañosa 
+(Ducrós Hicken “Hallazgo de una película”). Por su proximidad histórica y te-
+mática, es posible que Captain Alvarez haya funcionado como uno de esos mo-
+delos de paisajes que Cairo buscaba recrear, sobre todo porque su distribución 
+local estuvo a cargo de Julián de Ajuria, productor de Nobleza gaucha. En su 
+examen del filme, Couselo infiere que “prevaleció una promoción ambigua, no 
+aclaratoria de la nacionalidad de la película” (26). En este uso equívoco de las 
+estrategias de distribución y los paisajes, se puede encontrar un antecedente de 
+la desbarrancada de Nobleza gaucha, concebida en tanto producto exportable y, 
+por consiguiente, adecuado a ciertos parámetros paisajísticos y narrativos, como 
+el del happy ending.
+De esta manera, así como José Gran primero pierde su revólver en el suelo 
+de la pampa, las ondulaciones del terreno luego acaban por matarlo. Hay una 
+concepción de lo justo implícita en ambas acciones, que quisiera llamar la justi-
+cia del pago. Podría decirse que en la película hay dos leyes en disputa: la justicia 
+7 
+Estos datos fueron recabados a partir de una carta archivada en la biblioteca del Museo del Cine 
+Pablo Ducrós Hicken, en la que María Padin detalla pormenores del rodaje.
+8 
+En el sueño de Jacob, Jehová le concede la Tierra Prometida a la descendencia de Abraham desde 
+lo alto de una escalera cuyo extremo tocaba el cielo (Génesis, 28:13).
+91
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+del pago en sentido económico y en sentido territorial. La primera, a menudo 
+fallida, es casi un tópico del criollismo y alude al pago en tanto retribución de 
+una deuda. Se desconocen las deudas existentes (es lo que hacen el mayor y Sar-
+detti con Fierro y Moreira) o se inventan deudas que no existen (como cuando 
+José Gran acusa a Juan de cuatrerismo). Esta falta de pago es sintomática de la 
+explotación del gaucho.
+El complemento de esa falta de retribución económica es la justicia del pago 
+como unidad territorial (el lugar donde está arraigada una persona). De ahí, por 
+ejemplo, que de las dieciocho veces que esta palabra aparece en Martín Fierro, 
+once de ellas esté precedida por un posesivo: mi/tu/su/nuestro pago. A diferencia 
+del sentido económico (sometido a la supuesta objetividad de una transacción 
+pecuniaria), el pago como unidad geopolítica reviste una elevada carga de subje-
+tividad. A eso alude, como apunta Jean-Luc Nancy, la raíz latina pagus, presente 
+en las nociones de país y paisaje: pacus o pagus, el cantón, es decir, la tierra con-
+siderada desde un cierto “rincón” o ángulo, delimitado por algún rasgo natural 
+o cultural (51). Ese ángulo o punto de vista determina la perspectiva que cons-
+tituye el paisaje. Por eso, suele ser un lugar que se abandona o al que se vuelve: 
+“el regreso al pago es para Juan el camino de la felicidad”, “Don Genaro también 
+vuelve al pago”.
+El pago, así, como el paisaje, requiere de un distanciamiento para ser reco-
+nocido. Esa distancia, en Nobleza gaucha, es la que producen la lógica del pago 
+económico y la urbanización con sus efectos de extrañamiento: la transmutación 
+de la “junción” en trabajo. La imagen idealizada del lugar de pertenencia (a Ma-
+ría se la caracteriza como “La flor del pago”) se ve amenazada por estos cambios. 
+Pero, frente a ese peligro, emerge catárticamente la justica del pago territorial. Es 
+el suelo de la pampa, con sus pastizales y sus ondulaciones, el que despoja de su 
+revólver a José Gran y lo despeña por un barranco. Ese movimiento revanchista 
+de la tierra permite que, en la persecución final, ambas justicias, hasta entonces 
+separadas, coincidan. Juan amenaza a José Gran: “Ah, ¡hijuna!... Ahora me las 
+pagarás todas juntas”. Las dos justicias se juntan y se exige el pago correspondien-
+te. Porque ya no se trata solo de cancelar una deuda económica (el peón que 
+se libera de la explotación del patrón), sino sobre todo de la venganza del pago 
+en términos territoriales: la desbarrancada es, según se lee en los intertítulos, la 
+“verdadera justicia”.
+Referencias bibliográficas
+Alvira, Pablo y Ronen Man. “Inmigración y subalternidad en el cine argentino: 
+Nobleza Gaucha”, Amérique Latine Histoire et Mémoire. Les Cahiers ALHIM, 
+núm. 23, 2012, http://alhim.revues.org/4263.
+92
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+Andermann, Jens. “La vuelta de Martín Fierro: la gauchesca en el fin de siglo”. 
+Iberoromania, núm. 52, 2000, pp. 30-45.
+___. Mapas de poder. Una arqueología literaria del espacio argentino. Rosario, 
+Beatriz Viterbo, 2000.
+___. Nuevo cine argentino. Buenos Aires, Paidós, 2015.
+Borges, Jorge Luis. “Eduardo Gutiérrez, escritor realista”. Eduardo Gutiérrez, 
+Hormiga negra. Buenos Aires, Perfil, 1999, pp. 7-13.
+___. “El gaucho”, Obras completas, vol. 12. Buenos Aires, Sudamericana, 2011, 
+pp. 85-89.
+___. Obras completas (1923-1974). Buenos Aires, Emecé, 1974. 
+Cairo, Humberto. “El cinematografista que hizo Nobleza gaucha” (entrevista). 
+Film, 5 de abril de 1939.
+Cosgrove, Denis. Social Formation and Symbolic Landscape. Madison, The Uni-
+versity of Wisconsin Press, 1998.
+Couselo, Jorge. Cine argentino en capítulos sueltos. Buenos Aires, 23º Festival 
+Internacional de cine de Mar del Plata, 2008.
+Cuarterolo, Andrea. De la foto al fotograma. Relaciones entre cine y fotografía en la 
+Argentina (1840-1933). Montevideo, CDF Ediciones, 2013.
+Dabove, Juan Pablo. “Eduardo Gutiérrez: narrativa de bandidos y novela popu-
+lar argentina”, El brote de los géneros, vol. 3 dirigido por Alejandra Laera, His-
+toria crítica de la literatura argentina dirigida por Noé Jitrik. Buenos Aires, 
+Emecé, 2010, pp. 295-324.
+Deleuze, Gilles. La imagen-movimiento. Estudios sobre cine 1. Buenos Aires, Pai-
+dós, 2008.
+___. y Felix Guattari. Mil mesetas. Capitalismo y esquizofrenia. Valencia, Pre-
+Textos, 2002.
+Díaz, Emilio. “Tres imaginarios para el cine. La historia, el criollismo y el tango 
+en el período silente”, El cine cuenta nuestra historia dirigido por Raúl Cam-
+podónico. Buenos Aires, INCAA, 2010, pp. 14-33.
+Di Núbila, Domingo. Historia del cine argentino, t. 1. Buenos Aires, Cruz de 
+Malta, 1960.
+Ducrós Hicken, Pablo. “Hallazgo de una película: El capitán Álvarez”. El Hogar, 
+1952.
+___. “Orígenes del cine argentino. Una realidad apasionante”, capítulo IV. El 
+Hogar, febrero de 1955.
+Fontana, Patricio. “El gaucho y el tranvía. Notas sobre el criollismo de Nobleza 
+gaucha (1915)”, El matadero, núm. 7, 2011, pp. 13-35.
+93
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La pampa en movimiento: figuraciones del paisaje del Martín Fierro...: 73-94
+González Castillo, José. Martín Fierro. Buenos Aires, Instituto Nacional de Es-
+tudios de Teatro, 1942.
+Hernández, José. Martín Fierro. Nanterre, ALLCA XX, 2001.
+Jitrik, Noé. “El tema del canto en el Martín Fierro”, en José Hernández, Martín 
+Fierro, edición crítica coordinado por Élida Lois y Ángel Núñez. Nanterre, 
+ALLCAXX, 2001, pp. 966-986.
+Koss, Natacha. “Las innovaciones teatrales de José González Castillo”, La revista 
+del CCC, núm. 12, año 4, mayo/agosto 2011.
+Lefebvre, Martin. “Between Setting and Landscape in the Cinema”, Lands-
+cape and Film (ed. Martin Lefebvre). London-New York: Routledge, 
+2006, pp. 19-59.
+Mafud, Lucio. La imagen ausente. El cine mudo argentino en publicaciones gráfi-
+cas. Catálogo. El cine de ficción (1914-1923). Buenos Aires, Editorial Teseo, 
+2016.
+Malosetti Costa, Laura. Pampa, ciudad y suburbio. Buenos Aires, Fundación 
+OSDE, 2007. 
+___. “¿Un paisaje abstracto? Transformaciones en la percepción y representación 
+visual del desierto argentino”. Resonancias románticas. Ensayos sobre historia 
+de la cultura argentina (1820-1890), editado por Graciela Batticuore y Klaus 
+Gallo. Buenos Aires, Eudeba, 2005, pp. 291-303.
+Martínez Estrada, Ezequiel. La cabeza de Goliat. Buenos Aires, Losada, 1983.
+___. Muerte y transfiguración de Martín Fierro. Rosario, Beatriz Viterbo, 2005.
+___. “Prólogo” a José Hernández, Martín Fierro. Buenos Aires, Jackson, 1938, 
+pp. xiii-xxv.
+___. Radiografía de la pampa. Nanterre, ALLCAXX, 1997.
+Montaldo, Graciela. Ficciones culturales y fábulas de identidad en América Latina. 
+Rosario, Beatriz Viterbo, 2004.
+___. Museo del consumo. Archivos de la cultura de masas en Argentina. Buenos 
+Aires, Fondo de Cultura Económica, 2016.
+Mottet, Jean. “Toward a Genealogy of the American Landscape: Notes on 
+Landscapes in D. W. Griffith (1908–1912)”, Landscape and Film, editado 
+por Martin Lefebvre. London; New York, Routledge, 2006, pp. 61-90.
+Nancy, Jean-Luc. “Uncanny Landscape”, The Ground of the Image. New York, 
+Fordham University Press, 2005, pp. 51-62.
+Obligado, Rafael. Santos Vega. Buenos Aires, Huemul, 1995.
+Peña Rodríguez, Manuel. “Los cincuenta años de Nobleza gaucha”. La Nación, 
+12 de septiembre de 1965.
+94
+Nicolás Suárez | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+Prieto, Adolfo. El discurso criollista en la formación de la Argentina moderna. Bue-
+nos Aires, Siglo XXI, 2006.
+___. “La culminación de la poesía gauchesca”, en José Hernández, Martín Fie-
+rro, edición crítica coordinada por Élida Lois y Ángel Núñez. Nanterre, 
+ALLCAXX, 2001, pp. 1018-1027.
+Rama, Ángel. “El sistema literario de la poesía gauchesca”, en José Hernández, 
+Martín Fierro, edición crítica coordinada por Élida Lois y Ángel Núñez. 
+Nanterre, ALLCAXX, 2001, pp. 1049-1087.
+Rodríguez, Fermín. Un desierto para la nación. La escritura del vacío. Buenos 
+Aires, Eterna Cadencia, 2010.
+Sarmiento, Domingo. Facundo. Buenos Aires, Colihue, 2006.
+Silvestri, Graciela. “Cuadros de la naturaleza. La retórica del viaje en el fin de 
+siglo argentino (1878-1904). El brote de los géneros, vol. 3 dirigido por Ale-
+jandra Laera, Historia crítica de la literatura argentina dirigida por Noé Jitrik. 
+Buenos Aires, Emecé, 2010, pp. 467-498.
+Tell, Verónica. “Gentlemen, gauchos y modernización. Una lectura del proyecto 
+de la Sociedad Fotográfica Argentina de Aficionados”. caiana. Revista de His-
+toria del Arte y Cultura Visual del Centro Argentino de Investigadores de Arte 
+(CAIA), núm. 3, diciembre 2013, pp. 1-20.
+Tranchini, Elina. “El cine argentino y la construcción de un imaginario criollis-
+ta”, El cine argentino y su aporte a la identidad nacional. Buenos Aires, Faiga, 
+1999, pp. 101-173.
+Vacarezza, Alberto. El conventillo de la Paloma y otros textos. Teatro II. Buenos 
+Aires, Colihue, 2011.
+Weinberg de Magis, Liliana. “El Martín Fierro y la gauchesca en la interpre-
+tación de Ezequiel Martínez Estrada”, en José Hernández, Martín Fierro, 
+edición crítica coordinada por Élida Lois y Ángel Núñez). Nanterre, ALL-
+CAXX, 2001, pp. 602-634.
+Williams, Raymond. Marxismo y literatura. Barcelona, Península, 2001.
+Fecha de recepción: 23/03/2017 / Fecha de aceptación: 04/07/2017

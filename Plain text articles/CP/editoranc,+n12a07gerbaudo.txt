@@ -1,0 +1,946 @@
+119
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+Estela Figueroa y la “nueva 
+poesía argentina”.
+Exploración y reinvención 
+de una conjetura de Aldo Oliva
+Analía Gerbaudo
+Universidad Nacional del Litoral - CONICET
+[ analiagerbaudo71@yahoo.com.ar; analiafhucunl@gigared.com;
+ analiagerbaudo@hotmail.com ]
+Resumen: Este artículo expande una conjetura de Aldo Oliva sobre la poesía 
+de Estela Figueroa a partir de la caracterización de su poética. Para ello se 
+trabaja en varios órdenes. En primer lugar se define el tipo de intervención 
+sobre el habla que hace de su escritura una firma, un objeto reconocible 
+sin necesidad de que su nombre propio lo identifique. En segundo lugar se 
+reconocen sus persistencias temáticas: las obsesiones que recorren su obra 
+se interceptan con el análisis de sus procedimientos retóricos advirtiéndose 
+decisiones escriturarias que permiten sostener que su poesía funda su sin-
+gularidad en una “poética del despojo”. Finalmente se describe su “poética 
+del envío”: su escritura trae la voz de los poetas que respeta y también con-
+tribuye a colocar su nombre junto al de ellos, haciéndose un lugar junto a 
+quien invoca a la vez que conduce a su lectura. En el cruce de estos órdenes 
+se intenta mostrar por qué es posible sostener que este trabajo que Figueroa 
+despliega desde su escritura permite inscribirla en la “nueva poesía argen-
+tina”. Poesía que vuelve a interrogar lo que esta forma del arte puede, lo 
+que sabe y lo que hace mientras dice.
+Palabras claves: poesía - poética - transferencia - género - Estela Figueroa.
+1. Un cuaderno de apuntes, una conferencia 
+y una tesis de Aldo Oliva
+E
+n el año 1986 la Universidad Nacional del Litoral 
+organiza en la ciudad de Santa Fe el Primer encuentro 
+Nacional de Literatura y crítica en el que un grupo de 
+invitados presentan sus comunicaciones en diferentes 
+mesas redondas con temas pautados: Jorge Panesi y Enrique Pezzoni en “Lite-
+ratura e interpretación”; Rodolfo Rabanal, Abelardo Castillo y Ricardo Piglia 
+120
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+en “La novela argentina”; Héctor Libertella, Alberto Vanasco y Alan Pauls en 
+“Literatura y Sociedad”; Hugo Gola, Edgar Bayley y Francisco Madariaga 
+dialogan en un espacio llamado “La palabra poética”; Alberto Ure habla sobre 
+teatro y Edgardo Russo, Arturo Carrera, Diana Bellessi, Tamara Kamenszain, 
+Martín Prieto, Juan Martini y Aldo Oliva integran un panel que los organiza-
+dores llaman “La nueva poesía argentina”. Si bien la compilación de trabajos se 
+publica, los de Abelardo Castillo y de Aldo Oliva no se incluyen por razones 
+que se explicitan (en la “Introducción” se aclara que estas dos intervenciones 
+no pudieron reconstruirse debido a defectos técnicos de la grabación –Russo 
+1986: 9–). En el caso de Aldo Oliva la falta también puede explicarse a partir 
+de su reticencia a dejar fijada su posición sobre cuestiones que prefería sostener 
+a partir de los giros que permite la exposición oral: hábito que sus alumnos 
+reconocen y que contribuyó a consolidar la imagen mítica de profesor-hablador, 
+de maestro socrático que en el diálogo no siempre amable aguijoneaba a su 
+interlocutor para provocar el juicio crítico, la lectura, la revisión de los puntos 
+de vista. Costumbre en la que también lo descubre Saer que le dedica El arte de 
+narrar (1960-1975) y que escribe para él un poema en el que celebra la creación 
+del círculo intelectual que encontraba su sitio de reunión en el mítico bar Ehret 
+(que la poesía de Oliva inmortaliza en sus versos) y en otros espacios aledaños 
+a la Facultad de Filosofía y Letras de la Universidad Nacional del Litoral a 
+mediados de la década del 502. En los primeros versos de “Aldo”, Saer celebra 
+	 María Angélica Hechim, alumna de los cursos sobre marxismo que Aldo Oliva impartía en 
+Santa Fe entre los años 1969 y 1970, recuerda que una tarde Oliva lee un poema. Cuando le 
+pregunta por su publicación, él responde: “Yo no soy un escritor, soy un hablador” (Hechim 
+2007: 1). Ángel Oliva señala como un rasgo del trabajo de su padre la “retención” de los textos 
+que escribía, la “reticencia” a su fijación (2).
+	 En una entrevista realizada en 2002 por Edgardo Dobry, Saer cuenta que conoce a Aldo Oliva 
+hacia 1958 cuando éste era el secretario de Ramón Alcalde, Ministro de Educación de la pro-
+vincia de Santa Fe bajo el gobierno frondizista de Silvestre Begnis. Vínculo que se estrecha 
+cuando Saer, poco tiempo más tarde, comienza sus estudios en Rosario en la Facultad de Filo-
+sofía y Letras de la Universidad Nacional del Litoral; lugar que reúne a quienes serán algunos 
+de sus amigos perdurables (Aldo Oliva, María Teresa Gramuglio, Juan Pablo Renzi) y que 
+concentra en el plantel docente a una buena parte del grupo de Contorno: Adolfo Prieto, David 
+Viñas, Ramón Alcalde, Tulio Halperín Donghi. Eran los tiempos de una mouvance santafesina 
+(como Saer la llama –2002: 4–): el 19 de diciembre de 1956 se crea en Santa Fe el Instituto 
+de Cinematografía de la Universidad Nacional del Litoral que contará con Fernando Birri, 
+Ernesto Sábato, y más tarde con el propio Saer y con su amigo Hugo Gola como docentes (Neil 
+y Peralta 2007: 23). La Biblioteca Vigil en Rosario despliega sus actividades de publicación 
+y difusión de literatura, ensayo y crítica: bajo su sello aparecen Literatura y subdesarrollo de 
+Adolfo Prieto, Obra poética de José Pedroni, Del otro lado de Francisco Urondo, El destierro 
+de Jorge Conti, El vicio absoluto de Rafael Ielpi, Realidad interna y función de la poesía de 
+Edgar Bayley, Los terrores de la suerte de Francisco Madariaga, En el aura del sauce de Juan 
+L. Ortiz, Poemas 1956-1964 de Rubén Sevlever, La vuelta completa de Juan José Saer, El 
+fusilamiento de Penina de Aldo Oliva, entre otros títulos. En 1957 Francisco Urondo organiza 
+121
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+la ofrenda del orador: “La boca cumple un enorme papel: toma / el vino tinto, 
+de a poco, a lo largo de la noche, / y devuelve, incansablemente, iluminándose, 
+el verbo” (15). Entrega. Regalo del tiempo (ese bien escaso, tal vez lo único 
+que en verdad podemos donar) en esas conferencias improvisadas en bares y 
+en cafés. Momentos en que sus sentencias “alrededor de cuyo centelleo, todos 
+sus días, / que él se dice vivir, inútilmente, en dispersión, / como un milagro 
+austero, para el oyente, se reúnen” (Saer 2002: 16).
+“El poeta que se queda con la última palabra” (Giannera 2005: 5), el orador 
+que encanta a su auditorio (“la enseñanza de Aldo era fascinante”, recuerda 
+Saer –2002: 5–) elige conservar ese lugar: podemos conjeturar que, más allá 
+de los defectos de grabación que aduce Russo (1986), es probable que Aldo 
+Oliva nunca haya entregado la versión completa de la conferencia cuyos apuntes 
+encontramos entre sus papeles de trabajo4 y que, seguramente, habrá querido 
+preservar de la fijación que impone la escritura. 
+en Santa Fe como encargado de la sección Arte Contemporáneo del Instituto Social de la Uni-
+versidad Nacional del Litoral la Primera reunión de Arte Contemporáneo que reunió trabajos 
+de Carlos Drummond de Andrade, Juan L. Ortiz, Edgar Bayley, Raúl Gustavo Aguirre, Adolfo 
+Prieto, Tomás Eloy Martínez, Alberto Muñoz, Hugo Gola, Fernando Birri, Rodolfo Alonso, 
+Manuel J. Castilla, Leónidas Lamborghini, Francisco Madariaga y David Viñas, entre otros. 
+Entre el encanto y el desencanto con el frondizismo, mientras se organizaba el MALENA 
+(Movimiento de Liberación Nacional) en Buenos Aires, en Santa Fe y en Rosario (con Ismael 
+Viñas, Susana Fiorito y Ramón Alcalde como figuras claves de ese proceso), Aldo Oliva par-
+ticipa también de dos proyectos de intervención cultural importantes: las revistas Pausa (en la 
+que, entre otros, publican Hugo Padeletti, Paco Urondo, Rubén Sevlever) y la efímera El arre-
+mangado brazo (en la que Saer publica una versión de “Por la vuelta”). Entre 1969 y 1970 Aldo 
+Oliva da cursos sobre filosofía y marxismo en las ciudades de Santa Fe, Rosario y Paraná. Por 
+un breve período de tiempo adquiere el cargo de Ayudante de Primera Dedicación Simple en la 
+Universidad Nacional del Litoral para dar clases en la Escuela Universitaria del Profesorado en 
+las materias “Estudio político económico de la realidad nacional” y “Estructuras ideológicas 
+de la dependencia” (es dejado cesante el 19 de marzo de 1975 cuando dichas materias se reem-
+plazan por “Idioma Nacional”, “Historia de la Cultura Argentina” y “Geografía argentina” 
+–Cf. Resolución 538/75, Universidad Nacional del Litoral–). 
+	
+	
+En 1986 (año en el que la Universidad Nacional del Litoral organiza el Primer Encuentro 
+Nacional de Literatura y Crítica), Oliva hacía tres años que había regresado de su exilio en 
+Barcelona y estaba trabajando en la Escuela de Letras de la Universidad Nacional de Rosario 
+a cargo de las materias “Literatura europea II”, “Literatura argentina II” y “Seminario de 
+Literatura argentina”.
+	 Dice Derrida: “Perder el tiempo sería perder el solo bien del que se tiene derecho a ser avaro 
+y celoso, el único y la propiedad, la única propiedad que cabría ‘sentirse honrado de guardar 
+celosamente’” (1996: 18).
+	 Agradezco a Ángel y a Antonio Oliva el permitirme el acceso a la biblioteca privada de 
+Aldo Oliva así como la consulta de sus papeles de trabajo (cuadernos de apuntes, notas para 
+conferencias) y de sus programas de cátedra.
+	 Sobre esta tendencia de Aldo Oliva dice Sandro Barella (2006): “La biografía de Oliva, más 
+allá del mito, habla de un despreocupado aplazamiento –huida hacia el futuro– de lo que el 
+122
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+En aquel encuentro de 1986 este poeta, deliberadamente apartado de los 
+espacios de promoción y de consagración (rasgo que también Monteleone 
+observa en Oliva), advierte lo que otros poetas que, como él, eligen no par-
+ticipar de esos circuitos aportan con su escritura. En la serie que arma, en 
+su hipótesis respecto de quiénes integran la “nueva poesía argentina” (título 
+impuesto por la organización y que se convertía entonces en un tema obligado 
+para los invitados a cada panel) Aldo Oliva incluye, por Santa Fe a Juan Manuel 
+Inchauspe y a Marilyn Contardi junto a Estela Figueroa, y por Rosario a Héctor 
+Piccoli, a Raúl García Brarda y a Carlos Piccioni. Mucho antes de que aparez-
+can los primeros textos sobre Inchauspe (García Helder 1992; Herrera 2000; 
+Battilana 2002; Aguirre 2006), Piccioni (Retamoso 1995), Piccoli (Retamoso 
+1995 y 2004; D’Anna 1996; Pacella 2005) y sobre Brarda (Retamoso 1995), 
+Oliva llama la atención sobre estos nombres. 
+De esos apuntes que Aldo Oliva prepara para el encuentro que la Universi-
+dad Nacional del Litoral organiza en 1986 retomo una de sus conjeturas: entre 
+los representantes de la “nueva poesía argentina” incluye a Estela Figueroa. Dado 
+que sus notas son fragmentarias y no incorporan los argumentos que permiten 
+sostener la hipótesis, este trabajo desarrolla una tesis propia respecto del modo 
+en que la obra de Figueroa inscribe una forma singular de hacer poesía que 
+permite volver a interrogar lo que esta forma del arte puede (Derrida 1989 y 
+tiempo social demanda de sus ciudadanos: profesor tardío, poeta (édito) tardío, que parece 
+acusar una y otra vez al tiempo, desafiarlo y vencerlo. En su triunfo proclama, y su poesía 
+parece decírnoslo una y otra vez, la necesaria inactualidad del discurso poético. No la inac-
+tualidad quejosa del ‘poeta incomprendido’, sino la convincente apuesta a favor de una visión 
+de la poesía como práctica escrituraria que prescinde de los mecanismos de circulación y 
+prestigio; a la vez que política (política del conocimiento), práctica que tanto vale para la 
+escena íntima de quien a solas se encuentra frente ‘a la hecatombe blanca’ en plegaria propi-
+ciatoria para ‘que mane, pues, la hora del poema’, como para aquel que a diario se acomoda en 
+la mesa del bar, con el vaso de vino, remedando un simposio, o bien de aquel que en la ‘etapa 
+académica’ se dispone a alborotar a un auditorio colmado de jóvenes estudiantes” (22).
+	
+	
+En la introducción a su Poesía completa, anota Roberto García (2003): “Héctor Piccoli 
+afirmó que muchos se acostumbraron a repetir que Oliva ‘era un genio oral’, a la manera 
+en que se lo decía de Macedonio Fernández. Y discutía ese lugar común, en su opinión 
+restrictivo, para dedicarse a demostrar, con razón, que era sobre todas las cosas un ‘genio 
+escriturario’” (17). Probablemente Aldo Oliva haya sido todas estas cosas: un gran orador, 
+un buen profesor, un gran escritor. Sin duda creía que había discursos, reflexiones, análisis 
+que convenía dejar en el flujo oral, en el espacio del intercambio que se da en el diálogo cara 
+a cara. Posiblemente esa sea una de las razones que motivan su reticencia a poner por escrito 
+aquello que prefería suspender en el espacio evanescente de la enunciación que se pierde al 
+no registrarse, al no archivarse.
+	 En la introducción a la compilación de poesía argentina y brasileña que Jorge Monteleone 
+realiza junto a Heloisa Buarque de Hollanda, anota: “Oliva es, como otros grandes poetas 
+que viven y mueren en las provincias argentinas, fuera de los circuitos de consagración, aún 
+relativamente secreto” (16).
+123
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+1998), lo que sabe (Dalmaroni 2007) y lo que hace mientras dice (Kamenszain 
+2007). Intento oblicuo de explicar por qué la escritura de esta poeta integra 
+lo que Aldo Oliva ha llamado “nueva poesía argentina”, aceptando el rótulo 
+propuesto por los organizadores de aquel encuentro.
+Si bien hasta 1986 Estela Figueroa sólo había publicado Máscaras sueltas 
+(bajo el sello de la Universidad Nacional del Litoral), incluyo sus trabajos pos-
+teriores (A capella y La forastera) ya que continúan y profundizan las decisiones 
+que se advierten en este primer texto (persistencias que habilitan a reconocer 
+como marcas –Derrida 1972– lo que esta marcha muestra en su hacerse).
+2. Marcar la lengua (o el habla): firmar
+Bajo el título “Lo femenino como enunciación” en su Breve historia de la 
+literatura argentina Martín Prieto (2006) menciona a Estela Figueroa junto a 
+un conjunto de escritoras que “entre mediados de los ochenta y la mitad de la 
+década siguiente” logran que “los libros de poesía con firma de mujer dej[e]n 
+de ser una rareza” (454). De la serie destaca cuatro libros: La casa grande de 
+Tamara Kamenszain, El mundo incompleto de Irene Gruss, Eroica de Diana 
+Bellessi y Madam de Mirta Rosenberg. “Cuatro grandes libros”, como Prieto los 
+llama, firmados además por escritoras que sitúa en un punto clave para la poesía 
+argentina: sostiene que son ellas las que “amplían el repertorio temático” (2006: 
+455) y justifica su tesis destacando las referencias de Kamenszain a la familia, 
+las de Bellessi al “amor entre mujeres”, las de Rosenberg a la “devoción de una 
+hija a su madre” y la intersección entre vida íntima y vida política en Gruss. 
+Además encuentra en “Bordado y costura del texto” de Tamara Kamenszain el 
+	 Sobre esta pregunta vuelve Alberto Giordano (1995) a partir de su lectura de Deleuze (Spi-
+noza, filosofía práctica), de Blanchot (Falsos pasos, La risa de los dioses, El espacio lite-
+rario, El libro que vendrá) y de Barthes (“La lección inaugural”, Ensayos críticos). Retomo 
+esta interrogación para recuperar el mismo texto de Deleuze que trabaja Giordano pero en 
+cruce con Derrida (“This Strange…”; “Un ver à soie”).
+	 No incluyo en el corpus que aquí abordo El libro rojo de Tito, Un libro sobre Bioy Casares 
+y sus escritos en La ventana (la revista que funda en diciembre de 2000 y que lleva ya más 
+de diez números publicados) ya que circunscribo este artículo al desarrollo de una conjetura 
+sobre su poesía.
+	 Cito la serie de Prieto (2006) que él mismo señala como incompleta: “Entre mediados de los 
+ochenta y la mitad de la década siguiente, decenas de libros escritos por, entre otras, Mirta 
+Rosenberg, Diana Bellessi, Tamara Kamenszain, Irene Gruss, Concepción Bertone, Marilyn 
+Contardi, Estela Figueroa, Liliana Ponce, Alicia Genovese, Susana Villalba, Laura Klein, 
+Graciela Cros, Graciela Perosio, Mirtha Defilpo, Niní Bernardello, Teresa Arijón, Susana 
+Cerdá, María Negroni, Mercedes Roffé, Susana Cabuchi, María del Carmen Colombo, 
+irrumpen en las colecciones de poesía de las editoriales argentinas” (454, énfasis mío).
+124
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+desarrollo de “una primera teoría de la literatura de género en Argentina” (en 
+este lugar ubica también el trabajo “Un no de claridad” de Laura Klein y de Sil-
+via Bonzini). Prieto subraya que para Kamenszain, Bellessi, Gruss y Rosenberg 
+“el género no es una militancia externa a la escritura” ya que entiende que “la 
+misma escritura –sus asuntos, sus puntos de vista, elecciones léxicas, tonos– está 
+positivamente condicionada por la militancia” dando como resultado “que lo 
+femenino se conforme finalmente como enunciación” (455). 
+Si lo revolucionario en literatura puede entenderse como la “ampliación de 
+una frontera o un salto” (Ludmer 2000: 42), me permito incluir en el grupo 
+de los “grandes libros” que selecciona Prieto a Máscaras sueltas de Estela Figue-
+roa. Texto que esboza una poética que se afina en A capella y que encuentra 
+en La forastera su definición más neta. Si cabe leer como una ampliación de 
+la frontera de lo que una obra literaria hace o puede a partir de los materiales 
+de los que dispone, esto que Prieto encuentra como distintivo en estas cuatro 
+autoras, podrá sostenerse que la producción de Figueroa también provoca 
+un movimiento, un corrimiento que, más que “revolución” prefiero llamar 
+“revuelta”10. Un movimiento que crea una forma de inscripción que logra 
+lo que todo poeta desea cuando escribe: firmar (Derrida 1984) sólo con su 
+escritura. Es la forma de apropiación de la lengua la que vuelve reconocible 
+la inscripción de Figueroa sin necesidad de que su nombre esté indicado en 
+la tapa de sus libros o al finalizar sus poemas. No hay, además, un modo más 
+seguro de asegurar el copyright (Derrida 1977: 244) que a partir de esta marca 
+que en este caso se advierte en el habla: es el tono de sus trabajos, la cadencia de 
+sus versos y la forma en que aparece lo coloquial lo que singulariza su poesía, 
+lo que vuelve identificable su escritura sin convertirla por ello en previsible. 
+Elegante y estratégica manera de provocar, como quiere Nancy, “the surprise 
+of the event” (105).
+10	 Hablo de “revuelta” apropiándome del modo en que Kristeva define el concepto (Sentido…; 
+El porvenir…). El término “revuelta” aplicado a la poesía permite dar cuenta de irrupciones 
+que suponen una emergencia singular dentro del campo literario sin que dichas irrupciones 
+consoliden un nuevo “paradigma” (término que Kuhn ha empleado para nombrar, incluso en 
+arte, a “ejemplares” que se imponen como modelos de producción de un período determi-
+nado para una comunidad particular; modelos que se instauran a partir de una “revolución”, 
+ver Kuhn La estructura…, La tensión…; Vallejos “Paradigmas…”).
+125
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+3. Despojo, envío y otras insistencias: 
+la poética de Estela Figueroa
+La reflexión sobre la poética de Estela Figueroa reclama considerar tres 
+órdenes: sus elecciones retóricas, sus insistencias temáticas y lo que en trabajos 
+previos he denominado “política del envío”11.
+El primer orden que demanda atención hace volver sobre aquello que hace 
+de su escritura una “experiencia” (Grüner 1999: 127): aquello que convierte 
+su voz, fijada en verso, en reaseguro de su firma. Llamo “poética del despojo” 
+al conjunto de procedimientos que producen ese efecto. Una poética que se 
+construye a partir del mínimo de recursos explotados al máximo: el verso cin-
+celado (generalmente corto); los adjetivos necesarios para precisar una imagen, 
+para reforzar una idea; las comparaciones que en ningún caso funcionan como 
+adorno; escasas pero certeras metáforas; preguntas que evitan la formulación 
+retórica; dataciones y señalamientos de lugar cuando se intenta reasegurar el 
+“efecto de lo real” (Barthes 1982: 140) pretendiendo construir desde la poesía, 
+un archivo (Derrida 1995: 22), un sitio de memoria.
+Para abordar este aspecto elijo deliberadamente el cruce con otro: selec-
+ciono fragmentos de su obra desde un criterio doble ya que privilegio aquellos 
+que permiten mostrar la imagen de escritora12 que desde su poesía Figueroa 
+construye. 
+11	 Pueden distinguirse al menos dos formas de “envío” en la poesía: el directo (que se realiza 
+desde las dedicatorias, los epígrafes, las menciones) y el indirecto (en el que intervienen 
+la alusión, la intertextualidad, la reminiscencia). Ambas, por resistencia o fascinación, se 
+fundan en la herencia (Derrida 2003: 16) y en la deuda. Cuando el poema es firmado por un 
+arrivant (Derrida 1996: 62), suele reconocerse en esta operación un intento de inscribir su 
+nombre junto al de un linaje de escritores del que se desea participar intentando hacer lugar 
+a algo “propio”: “No hay fidelidad posible para alguien que no pudiese ser infiel”, afirma 
+Derrida (2001: 47). Y añade: “Si la herencia consiste simplemente en mantener las cosas 
+muertas, archivos, y en reproducir lo que fue, no es lo que se puede llamar una herencia. No 
+se puede desear ser un heredero o una heredera que no invente una herencia, que no se la 
+lleve a otra parte con fidelidad. Una fidelidad infiel” (47). Este trabajo de “escoger la heren-
+cia” (“un heredero no es solamente alguien que recibe, es alguien que escoge, y que se pone 
+a prueba decidiendo” –“Escoger” 16–) que se advierte (entre otras manifestaciones) en el 
+“envío”, desarrolla una “política de la amistad”: los arribantes a una comunidad construyen 
+sus lazos a partir de los envíos a la vez que se diferencian de otros miembros, de otros gru-
+pos. También los no-recién-venidos (Macedonio dixit) hacen lugar a otros mediante el envío 
+explicitando a quiénes reconocen en la “comunidad” que integran.
+12	 Tomo esta categoría de la conferencia “La construcción de una imagen” que María Teresa 
+Gramuglio da en la Universidad Nacional del Litoral en el año 1992. Gramuglio muestra 
+cómo funciona este concepto a partir de una lectura de algunos textos de Arlt y de Gálvez. 
+En la primera parte de su ensayo explica: “Los escritores con gran frecuencia, construyen en 
+sus textos figuras de escritor que suelen condensar, a veces oscuramente, a veces de manera 
+126
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+Figueroa crea desde sus versos una figura de poeta apartada de los circuitos 
+de difusión que escribe sus dolores y que, como al pasar, se permite mostrar los 
+dolores colectivos que registra en tanto la afectan, en tanto dañan su cuerpo, 
+alteran su sueño, consumen sus energías (dolores de mujeres; de escritores y 
+escritoras de provincia; de habitantes de un barrio periférico abandonado y 
+olvidado por los gobernantes –salvo en tiempo de elecciones–).
+Cuando el dolor emerge por un vacío que se hace ostensible, el trabajo, por 
+oposición al pasado, no calma, no es fruto del deseo sino de una necesidad 
+imperiosa de acallar eso que inquieta y que perturba: “Las tardes deseadas / de 
+luz tenue / sobre la página en blanco / ya no son para mí. / Si alguna vez las 
+tuve / las perdí” (A capella 11). Agrega: “yo escribo agazapada / palabras que 
+han resonado en mi cabeza / sobresaltándome / como disparos” (11).
+Son reiteradas (casi con obsesión) las explicaciones respecto de lo que la 
+lleva a escribir poesía. En todas, la misma insistencia: su mirada escéptica que 
+sólo confía en lo que promete la amistad; el sostén en lo íntimo, en los ritua-
+les que se eligen y que integran las rutinas cotidianas entre las que aparece la 
+compulsión a la escritura: “todo –el recuerdo / de mi casa vacía / y lo que allí 
+veía– / me llevaba al poema… / Y el poema era eso: / vacío de hogar / quietud 
+de árbol / hospitalidad de la calle / prodigalidad del río” (Máscaras 12).
+Tal como quien dice “yo” en un texto de difícil enmarcado genérico como 
+“Envois” (texto que Derrida escribe buscando impedir que se ligue a quien 
+habla y a quien firma, salvo que se asuma el riesgo de quedar atrapado en las 
+“jerarquías enredadas” que le gustan a Hofstadter13), en los poemas de Figueroa 
+se detecta el mismo juego tramposo que conduce a una similar situación de 
+indecidibilidad. “Allí donde más digo la verdad, ellos sólo ven una cortina de 
+humo”, afirma triunfante Derrida (1980: 242) o su alter-ego enredándonos en 
+un atrapante “bucle extraño”. La poesía de Figueroa, agujereada por la cons-
+tante presencia de una primera persona del singular (casi siempre mujer), se 
+más o menos explícita y aún programática, imágenes que son proyecciones, autoimágenes, y 
+también anti-imágenes o contrafiguras de sí mismos” (Gramuglio 1992: 37).
+13	 A partir de las litografías de Escher, de las composiciones de Bach y de las formulaciones 
+lógico-matemáticas de Gödel, Hofstadter (1979) realiza un creativo y elegante invento con-
+ceptual en el que revela la confusión entre los niveles que suelen demarcarse con bastante 
+seguridad cuando se interpreta la pintura, la música, la matemática, la literatura. “Bucle 
+extraño” es la metáfora que elige para dar cuenta de cierta “jerarquía enredada” que se produce 
+cada vez que fracasa todo intento por distinguir lenguaje de metalenguaje, representante de 
+representado, exterior de interior, superior de inferior, fondo de forma. Esto ocurre “cada vez 
+que, habiendo hecho (hacia arriba o hacia abajo) un movimiento a través de los niveles de un 
+sistema jerárquico dado, nos encontramos inopinadamente de vuelta en el punto de partida” 
+(1979: 12). La expresión “jerarquía enredada” intenta mostrar esta indistinción de bordes que 
+se advierte cada vez que nos vemos imposibilitados de deslindar niveles de enunciación. 
+127
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+vuelve sobre sí. Cada confesión acerca y aleja al mismo tiempo la posibilidad 
+de identificación, especialmente cuando la referencia al por qué de la escritura 
+cae directamente sobre quien habla en el poema:
+No es para hablar de mí que escribo
+de la glicina: cayó
+su lluvia ligera
+azul-
+violácea-
+celeste.
+Ni es para hablar de la glicina
+que la comparo con una lluvia
+y adjetivo esa lluvia.
+Es para detener este momento nocturno:
+la casa en calma
+y los pensamientos que ennoblecidos velan
+por un ordenamiento 
+que lo abarque todo (Máscaras 11).
+La escritura que a veces funciona para sujetar, para detener un momento, 
+para ensayar un conjuro, se liga siempre a algo que afecta a quien la produce. 
+Escritura y vida se enredan por un movimiento que no se elige: “La mala vida 
+y la mala poesía van juntas. / ¿Qué puedo hacer?” (Máscaras 16). La imagen 
+del otro poeta cuyo destino no se quiere para sí, irrumpe como un espectro que 
+acosa. Una imagen reflejada en un espejo que no se quiere mirar. Los gatos, 
+un símbolo en su obra, son los que en este caso habilitan la identificación con 
+ese otro respetado y temido que su escritura trae:
+Sentada en el suelo caigo en cuenta
+de que cada momento que pasa me acerca más a algo
+de lo que no quiero estar cerca.
+Me levanto y me refugio en la casa.
+Los gatos me siguen…
+¿Terminaré como Celine
+muriendo solitaria 
+rodeada de diecisiete gatos? (Máscaras 16).
+Las preguntas que se formulan para saber (buscando saber), se conjugan 
+con las pocas comparaciones que ajustan la descripción de qué lleva a escribir 
+(en este caso la poesía crea una zona de umbral, forma una coraza imaginaria, 
+un escudo que protege: la poeta que arma versos con las palabras se arma, por 
+ese mismo movimiento, contra lo que la asusta):
+128
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+Cuando la dulce estrella de la tarde
+deja caer su luz y no la vemos
+quien está solo en casa 
+enferma más cuando las puertas crujen
+porque nadie va a entrar.
+(…)
+Tomando con cuidado las palabras
+como a manos pequeñas
+arma, disuelve versos
+armándose de miedo contra el miedo (Máscaras 33).
+Armar versos y armar(se) contra el miedo. La misma palabra, abierta en 
+su juego diseminatorio. Explotación de la ambigüedad del sentido que vuelve 
+a advertirse en el modo en que, en uno de los poemas de la serie “Sin título”, 
+se inscribe la palabra “boca”. La “boca negra de la realidad” se contrapone a 
+la “propia boca” que transforma el horror en canto, el dolor en poesía (meta-
+morfosis productiva que habilita otra conjetura respecto de lo que la palabra 
+puede cuando hace lugar a eso que identificamos como literatura). Poder que 
+no la deja a salvo (la imagen de mujer atada al mundo por hilos delgados y 
+frágiles cobra cuerpo en estos versos) pero que, de todos modos, funciona como 
+el lazo que la trae, que la sujeta:
+Un hilo tenue me ata
+a lo que hasta ayer
+llamaba realidad.
+Mi realidad: aquella 
+boca negra que se abrió
+para herirme.
+Afiebradas pestilencias
+que poblaron mis días
+mis noches.
+Esa boca negra 
+tendría que haber callado.
+(…)
+Cuando mi propia boca se abra
+ámbar y frutas caerán sobre la ciudad (La forastera 17).
+Cuando la palabra no llega ni se encuentra (a pesar de las búsquedas), la 
+sensación es de encerrona. El momento del canto es esperado. Se desea y se 
+quiere poder cantar porque en ese canto algo se libera, se cura, se calma:
+129
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+Me siento presa como en una cárcel
+en una pequeña red de pescador.
+Casi no puedo moverme.
+Algunos peces me acompañan.
+Son mis amigos.
+Soy su sirena.
+Son los peces-palabra:
+espero ansiosa el momento de atraparlos
+y empezar a cantar (La forastera 38).
+La figura de mujer transida por el dolor que escribe en busca de alguna 
+reparación para sí es tan recurrente como la de poeta exigente que con claridad 
+puede discernir cuándo puede con la palabra y cuándo no. Cuando la impo-
+tencia prima, el producto de ese trabajo se equipara con lo que se imprime en 
+papeles poco valorados que recuerdan los achaques del cuerpo, las obligaciones 
+ineludibles, los listados que dicen el estado de nuestra sangre (la cantidad de 
+colesterol y otras contingencias por el estilo). Así, en la misma serie están “el 
+poema malo”, las cajitas de remedios, los resultados de análisis y las facturas. 
+La ironía combinada con la comparación aparece con insistencia (constituirá 
+luego el procedimiento nodal de su escritura):
+Amortajado por una red de palabras
+tachaduras y manchas
+conservo del poema malo
+su esqueleto precario.
+Digo que la idea no era mala
+así como puedo decir de otra mujer
+“No es fea”.
+Pero si una buena idea
+no es perfectamente desarrollada…
+Pero si una mujer hermosa
+no lleva un hermoso vestido…
+En el cajón de la mesa lo escondí
+junto con remedios, resultados de análisis y facturas (Máscaras 47).
+La imagen de sí que Figueroa bosqueja en sus versos coincide punto a 
+punto con las decisiones estéticas, éticas y políticas que toma como escritora: 
+sus declaraciones sobre cómo piensa la edición, la circulación de sus textos y el 
+ritmo de sus publicaciones unidas a su renuencia a las intervenciones públicas 
+(2006: 159 y 2007: 2) refuerzan lo que afirma su poesía14. Intersección poten-
+14	 Estos lazos autobiográficos que se señalan están atrapados en oscilaciones paradojales, en 
+“bucles extraños”. En una entrevista Derrida dice: “Todo lo que escribo es terriblemente auto-
+130
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+ciada en algunos poemas por la inserción de nombres propios y de fechas. En 
+La forastera Figueroa trae el nombre de Juan Manuel Inchauspe. El poeta amigo 
+con el que compartía una ética que es también una política de la escritura. 
+Una ética que sostiene y anima el trabajo llevando a desconfiar y también a 
+apartarse de los espacios de consagración, de los sitios en los que se construyen 
+los “nombres propios” de la poesía argentina, de la literatura argentina. En 
+“Juan Manuel Inchauspe, en el hospicio” escribe: “Las nuestras, mi amigo, / 
+son obras pequeñas. / Escritas en la intimidad / y como con vergüenza. / Nada 
+de tonos altos. / Nos parecemos a la ciudad / donde vivimos” (11). 
+Versos cada vez más cortos, una cuidada selección de comparaciones y un 
+vocabulario selecto componen una poesía ajena a los regodeos y a las estriden-
+cias que, en su aparente sencillez, revela el tono que Figueroa supo encontrar a 
+su escritura. Poesía desde la cual se vuelve insistentemente sobre lo que exige, 
+demanda, solicita; sobre el modo en que compromete el cuerpo de quien la 
+desea. En “Buscando el poema” la figura de mujer que escribe sin concederse 
+nada (lectora implacable, escritora también implacable) se delinea a partir de 
+un inteligente juego en el que se cruzan las comparaciones, las reiteraciones 
+y una reemplazo clave. Las comparaciones que utiliza para describir su modo 
+de “buscar el poema” intentan ajustar las derivas semánticas a las que podrían 
+hacer lugar adjetivos como “atropellada”, “selectiva”, “fiel”, “blanda”: 
+Atropellada como un perro
+Selectiva como un gato. 
+Lo busco.
+Fiel como tallada en piedra.
+Blanda como la espuma
+Inocente como un fantasma
+que vaga por la ciudad.
+Lo busco (La forastera 46).
+biográfico” (1997: 92). Cabe preguntarse, por ejemplo a propósito de Derrida, qué pasa cuando 
+asunciones de este calibre se profieren desde espacios como Glas o “Envois” que participan 
+no sólo de la teoría sobre la lectura y de la filosofía sino también de la literatura (uso deli-
+beradamente la teoría del género formulada por Derrida en “La loi du genre” para leer sus 
+propios escritos). ¿Qué pasa cuando, como en el caso de Figueroa, estas afirmaciones se sos-
+tienen desde la poesía (ese discurso que sólo engañosamente parece dejarnos tocar su secreto, 
+siempre (in)decidible y, por lo tanto, habilitando conjeturas siempre temblorosas, titubeantes)? 
+¿Y qué pasa cuando esas afirmaciones que se enuncian desde la poesía se reiteran en una 
+entrevista o en una conferencia? Son especialmente en estas instancias donde se potencian las 
+paradojas. “Bucles extraños” en los que celebratoriamente nos enredamos toda vez que nos 
+involucramos en la aventura de leer en la literatura las huellas de quien firma los textos.
+131
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+El estratégico reemplazo de un adjetivo por otro (“fiel” es sustituido por 
+“despiadada”) cae sobre el momento más feliz de la etapa de producción: el 
+“encuentro”. Es posible leer este poema como un arte poética que sella y que 
+refuerza lo que las decisiones retóricas de la escritora que lo firma dejan entre-
+ver: en el momento de escribir se imponen la ironía aguda y la descripción que 
+inquieta porque perturba modos más o menos convencionales de (re)presentar 
+determinados tópicos. En esa línea puede leerse como una “síntesis” la decisión 
+de Figueroa de cerrar su poema con un adjetivo que se agrega y que vuelve 
+sobre quien lo coloca, horadando la página. Adjetivo que traspasa el límite del 
+poema para construir, desde una “jerarquía enredada”, una descripción de la 
+obra en la que se integra: 
+Lejos parece que algo brilla:
+¿será el poema?
+Sobre una cinta de fuego
+camino a su encuentro. 
+Atropellada.
+Selectiva.
+Blanda.
+Inocente.
+Despiadada (La forastera 46).
+La constante vuelta sobre la poesía, sobre lo que puede, sobre cómo cuesta 
+o duele o calma es otra de sus persistencias y otro modo de reinventarse desde 
+la letra. Forma oblicua de hablar de sí hablando de lo que se juega al tallar los 
+versos o al acudir desesperadamente a su encuentro: “La palabra. La poesía. La 
+vieja casa. / Era una puerta que se abría se cerraba / porque yo no tenía llave. 
+/ Porque la puerta no tenía cerradura. / Porque yo era el extraño. / Porque yo 
+estaba encerrada” (Máscaras 52).
+En “Acompañando a mi hermana viuda” la figura del poeta, su lugar y su 
+función en el mundo se trabaja a partir de la delegación de la voz: es otro el 
+que dice lo que los poetas hacen, lo que pueden. El acompañamiento en los 
+rituales de un entierro, en la reasignación de los objetos del muerto y en la 
+elaboración de los documentos que se labran en tal caso, abre el espacio para 
+insistir en la posibilidad de la irrupción de la voz que cura, de la palabra que 
+repara. La comparación contribuye a crear la figura: “Un amigo me dice / que 
+los poetas tenemos una rara condición: / como los moretones / aparecemos 
+después de los golpes” (La forastera 13). Dolor y poesía, huella de ese dolor 
+en la poesía. Huella-memoria-cicatriz. Huella y deseo de reparación: “No sé 
+por qué / tuve el impulso de cortar una flor / que resplandecía solitaria / en 
+medio de la destrucción / y traerla a mi casa. / Y me contuve” (13). Preservar 
+132
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+una flor en medio de la destrucción. Gesto equiparable a la decisión de escribir 
+poesía después de un desastre, después del dolor, de la muerte. Única forma 
+de inscripción a la que Derrida, lector de Benjamin, apuesta después de la 
+“solución final”15.
+El segundo orden al que cabe atender al analizar la poética de Figueroa 
+está dado por sus insistencias, sus vueltas sobre los mismos tópicos: el vínculo 
+madre-hija, la muerte, los fantasmas, el padre, el amor y el desamor, el dolor, 
+la amistad, la soledad, los hombres, las mujeres y la poesía.
+Ciudad de las mujeres. Así iba a llamarse un libro desechado, iniciado en 
+un momento en que advierte la importancia de las mujeres en el acompaña-
+miento de los que se van (Figueroa 2007: 5). Las mujeres, los hombres, los 
+amigos, la muerte y la poesía. Forma más ajustada de señalar sus insistencias, 
+sus obsesiones. Quien habla interpela (esta vez la analogía con los gatos invita 
+a un gesto que se concibe en el borde de la ironía): “Mujeres: tendríamos /que 
+aprender de los gatos. / ¡Cómo agradecen el tazón / que rebosa de leche!” (La 
+forastera 8). En “Bichos en mi casa” condena el conformarse con los despojos 
+(la identificación con otro animal apunta en este caso a provocar el rechazo); 
+otra forma de interrogar a la lectora mujer de la que espera complicidad pero 
+no aprobación: “Cuando pienso en la felicidad que me diste / me pregunto si 
+no me comporté como el perro. / Mira agradecido / al que le tiró un hueso” 
+(A capella 20).
+En una formulación condensada, despojada, no hay lugar para la pregunta 
+retórica. Cuando la interrogación irrumpe, es para saber o para quebrar un 
+temor. La incertidumbre sobre la muerte, ese momento de pasaje solitario, la 
+lleva a la escritura: “¿Cómo quedarán mis manos / cuando muera? / ¿En qué gesto 
+inmóvil / como si un cuidadoso pintor / las hubiera acomodado? / ¿Tratando de 
+agarrar la taza de té frío / o la flor que un amigo piadoso traería / para endulzar 
+la convalecencia?” (Máscaras 41). Imaginando sus manos muertas, las evoca 
+vivas: “poco propicias a la caricia / poco propicias al golpe / siempre distantes 
+de mis emociones…” (41). El pedido que realiza quien habla es también un 
+pretexto para señalar su distancia de los rituales más usados para despedir a 
+los muertos: “Compatriotas, / júzguenlas con benevolencia / déjenlas como 
+queden / no las fuercen al gesto del perdón” (41). Sus comparaciones exhiben 
+y subrayan el carácter lacerante de esos rituales. A propósito de la muerte de 
+su padre, escribe: “Un pedazo de cartón / colocado en el cuello / hacía que la 
+15	 Afirma Derrida: “Numerosos signos permiten pensar, fiándose de una lógica constante de su 
+discurso, que para Benjamin, tras esa cosa irrepresentable que habrá sido la ‘solución final’, 
+no sólo el discurso y la literatura y la poesía no son imposibles, sino que se ven dictar, más 
+originariamente y más escatológicamente que nunca, el retorno o el advenimiento todavía 
+prometido de… una poética de la apelación” (1994: 73-74).
+133
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+cabeza / permaneciera levantada. / Puntillas de nylon / salían del ataúd / de este 
+hombre viril / sometido a las flores. / Hay humillación en la muerte” (A capella 
+15). El cuerpo sin vida, forzado a posiciones ridículas. Cuerpo vuelto muñeco, 
+cosa. Monigote. Despojo adornado (gratuitamente adornado para disimular 
+qué y para quién): “Lo habían acomodado / como a una torta” (15).
+La fragilidad del cuerpo y los distintos vejámenes a los que va quedando 
+expuesto a medida que el tiempo transcurre tienen espacio en sus versos que 
+arman una definición de la que nadie parece quedar excluido y en la que se 
+cuela la desconfianza kafkiana hacia la máquina institucional (hospitales, 
+Estado, Iglesia): 
+Debemos soportar cuatro
+sufrimientos esenciales:
+el nacimiento
+la vejez
+la enfermedad
+y la muerte.
+A la vejez vamos entrando lentamente como
+a una casa desconocida.
+Queda la enfermedad
+que nos habrá de abatir
+con su tropel de médicos y enfermeras
+su chirriar de camillas
+y la Indeseada (La forastera 31).
+Su poesía esboza una teoría del amor a partir de la comparación con el 
+modo en que ciertas plantas se aferran o ahogan o prescinden de lo que las 
+rodea (las plantas y los animales: dos referencias a partir de las cuales reinventa 
+y (re)presenta su mundo íntimo). La imposibilidad de tomar distancia para ver 
+lo que se mira cuando se ama; las cegueras de la pasión que sólo saben de su 
+propio exceso y la inercia que lleva a no poder controlar prácticamente nada 
+de lo que acontece son algunos de los tópicos que roza: 
+La enamorada del muro 
+no sabe cómo es el muro 
+pero seguro siente su humedad 
+cuando ha llovido. 
+(…)
+La enamorada del muro 
+depende del muro. 
+A él se aferra. 
+Si el muro cae 
+134
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+ella se desparrama 
+como una cabellera sin cabeza. 
+(…)
+Visto desde afuera
+la impresión general es de una gran belleza.
+¿Pero quién puede alejarse para mirar 
+cuando está enamorado? 
+El muro no ve el hermoso conjunto. 
+Ve pequeños tentáculos 
+que se clavan en él. 
+La enamorada ve el muro descarnado (A capella 16-17).
+Sus aserciones formulan conjeturas sobre los haceres de los hombres o 
+proponen políticas de resistencia valiéndose de irónicas interpelaciones o de 
+comparaciones aparentemente desopilantes que exhiben, en la conjunción 
+inesperada, vínculos ancestrales de poder. Estela Figueroa escribe: “Un hombre 
+es bueno para una noche. / Cuando amanece es un reflejo dorado / sobre la 
+cama donde se toma café. / Y es agradable el olor que deja. / Dura todo un día. 
+/ Pero no toda la vida” (La forastera 7). En “Un atardecer de abril después de 
+una separación” el relato se cruza con la confesión y el designio: “Mi vecino 
+homosexual me invita / a cenar este sábado en su casa. / Acepto. / Donde no 
+hay sexo no hay problemas” (9). Subiendo el tono, en “Pequeños asesinatos” un 
+hecho doméstico provoca la irrupción de un decir que aporta un saber desde 
+la enunciación responsable-irresponsable de la poesía. La descripción de cómo 
+madre e hija intentan deshacerse de una laucha que ha encontrado su morada 
+detrás de la heladera de la cocina, hace lugar a un juicio que es también un 
+credo. A propósito del comentario sobre la efectividad del veneno elegido y de 
+lo que la garantiza, la sentencia: 
+compré el triguillo Drumolive
+hecho con glándulas disecadas de roedores
+lo cual –según decía el prospecto– 
+ejerce una poderosa atracción sexual sobre sus 
+iguales. 
+(…)
+Durante varias mañanas 
+mientras yo tomaba té leyendo a Carver
+la sentí comer ávidamente. 
+Es cierto. Nadie
+nada escapa 
+de lo que implica una atracción sexual (16).
+135
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+Un “yo” en el que se (con)funden quien firma y quien habla presta su voz 
+para decir en singular un dolor colectivo (interrogando si eso que a falta de 
+otra expresión llamo “dolor colectivo” puede decirse de otra manera que a 
+partir del registro del modo en que golpea a quien lo afecta). Decisión que 
+trae la figura de otra artista: Frida Kahlo. Kahlo y Figueroa reunidas por una 
+similar elección estética, ética y política. Kahlo dibuja la hoz y el martillo en 
+sus corsés y en su diario íntimo, pero para el público pinta autorretratos que 
+sólo esporádicamente dejan aparecer la simbología marxista. Hay en su gesto 
+una resistencia deliberada a hablar en nombre de los otros; también puede leerse 
+allí una cautelosa e inteligente distancia de las representaciones abrumadoras 
+de Diego Rivera. Hay en la escritura de Figueroa una decisión a decir lo que 
+intuye que duele a muchos desde lo que le duele a quien toma la palabra. En 
+La forastera la serie “Tres poemas sobre la inundación” revela este artilugio que 
+permite preservarse, mantenerse a resguardo, lejos del chirrido políticamente 
+correcto o de las estridencias demagógicas. En una página negra un título en 
+forma de cruz reúne los poemas que evocan uno de los desastres que sufre 
+Santa Fe por descuido de quienes la gobiernan. Estela Figueroa construye 
+desde la poesía un archivo que intenta contrarrestar los efectos de la amnesia 
+planificada y del pliegue anestésico que en su hacerse eclipsa con una nueva 
+tragedia a la anterior. Insistencia de poeta-archivista que se refuerza desde la 
+datación y desde la nota que aclara, que advierte, que grita. Debajo de la cruz 
+que envía a la serie se lee: “El barrio donde vive Estela Figueroa fue tapado por 
+el desborde del Río Salado en el año 2003” (49). 
+Las secuelas del desastre se muestran a partir de las marcas dejadas en los 
+objetos que forman parte del mundo familiar. El detalle de los reemplazos (de 
+lo que es posible descartar y sustituir) dice también lo perdido para siempre. 
+“Las caras de mis hijas después de la inundación” explota la ambigüedad que 
+el título crea. Lo elidido hace lugar a una descripción de lo que queda de las 
+caras de Florencia y de Virginia en las fotos encontradas después del desastre y 
+con ello, a una denuncia de los intentos inútiles de remediar lo irremediable: 
+La foto de Florencia
+en el jardín de infantes.
+Los bordes blancos
+carcomidos por la humedad.
+Salvo su cara
+la recorto con cuidado.
+La coloco en el pequeño portarretratos redondo
+que ahora está entre mis libros nuevos.
+Con la foto de Virginia es más difícil.
+Estaba enmarcada entre dos vidrios
+136
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+y con un marco gris.
+Lo recuerdo. Cerca del ventanal. En el comedor.
+No resistió la fuera del agua
+la podredumbre del Salado.
+Parecía un ángel 
+–que Dios tenga de mí
+misericordia–.
+Ahora parece una cara con lepra (52).
+La descripción de otros intentos de resarcimiento exhibe que lo que se 
+necesita reparar excede lo que el dinero puede y también lo que el Estado 
+puede, ahora. Antes / ahora. El contraste entre el detalle de lo que sus vecinos 
+compran (“zapatillas que brillan como diamantes”) y las cosas sobre las que 
+pone la atención quien habla (“Fijo mi mirada en las plantas: / después de la 
+inundación / –confundidas– / algunas intentan florecer”); el contraste entre 
+la expectativas de los otros por recibir el “subsidio” y la actitud paciente de 
+quien, sin expectativas ni resignación, contempla y analiza (“¿Yo? / Observo. 
+Observo”), deja en un umbral las preguntas sobre las deudas imposibles, sobre 
+el valor incalculable de lo no que no es posible recobrar ni reemplazar. Escribe: 
+“¿Y yo? / Hago una urdimbre secreta / de las pérdidas y las ganancias. / El 
+dinero no figura / ni en un caso ni en otro” (53).
+Finalmente, el tercero de los órdenes a considerar en esta caracterización 
+de la poética de Estela Figueroa: la política del envío. Constantino Cavafis y 
+Emily Dickinson, entre otros, aparecen en los primeros textos; en el último se 
+inscriben hospitalariamente los nombres de los escritores amigos: Juan Manuel 
+Inchauspe, José Luis Pagés y Osvaldo Aguirre. 
+Osvaldo Aguirre y Laura Manzi se incluyen además en otro territorio 
+dentro del territorio propio. Desde la dedicatoria, la huella de género también 
+aporta una clave de lectura: “A Osvaldo Aguirre que entiende a las mujeres. A 
+Laura Manzi, que me entiende a mí” (La forastera 5). Forma de abrir cerrando 
+el círculo de destinatarios: la que “aún sin orquesta, canta” (ocurrencia que 
+motiva el título de su poemario A capella –Figueroa 2007: 6–), la que “no se 
+sube a ninguna comparsa” (forma en que explica el nombre de Máscaras sueltas 
+dado al primer conjunto de poemas –2007: 3–), es también una extranjera en 
+territorio “propio”. Una forastera. La forastera que invita a la poesía desde la 
+extranjería que impone su gesto de desnaturalización de rituales, de prácticas, 
+de puntos de vista y también su propia posición respecto de lo que implica 
+escribir firmando como mujer desde una ciudad de provincia y exhibiendo 
+las marcas que su locus de enunciación y que los avatares de su propia historia 
+imprimen en sus versos. 
+137
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+4. Una lectura en la costura de dos textos
+En “Un gusano de seda” Derrida (1998) “aconseja” leer La de Hélène 
+Cixous en lugar de “Nueva conferencia de introducción al psicoanálisis” de 
+Freud si lo que se busca es entender (o tal vez, justamente, hacer temblar las 
+certezas que regulan las interpretaciones de) algunos de los problemas que en 
+ese ensayo trabaja a partir de “Savoir” (otro texto de la escritora argelina). A 
+saber: la (im)posibilidad de la traducción de la poesía cuando ésta marca la 
+lengua de la que el poeta se apropia; los discursos desde los que se construyen 
+verdades, saberes; las ideas acuñadas de “feminidad”; el concepto de écriture 
+féminine. Derrida escribe: “Hélène Cixous trata a su manera poética y pen-
+sante, tocando con sus manos y sus idiomas todos estos grandes temas” (59). 
+Y agrega: “Puedo citar sólo algunas frases… pero sólo para incitar a leer todo, 
+porque citar no es leer” (59).
+Desde estas orillas escribo esta lectura sobre una obra poco transitada por-
+que entiendo que aparece allí, expuesto para quien quiera y pueda, un saber 
+sobre los hombres, los dolores, las mujeres, la justicia, la poesía, la memoria. 
+Un saber para quien pueda leer. Para quien quiera escuchar. No es eso sino 
+lo que “el demonio literario”, como lo llamaba Kristeva (1979: 271) propone: 
+el lugar de una inesperada transferencia de la que poco puede explicarse, de 
+la que poco puede decirse. “El poseído, los poseídos que somos en tanto que 
+lectores, somos sus primeros destinatarios”, advertía (271). 
+“Citar no es leer”, sentencia Derrida. Asumiendo lo que esta frase exige 
+reconozco más cita que lectura (si entendemos a la lectura como contresigna-
+ture, como refrenda literaria –Derrida 1992–) en este artículo que elige un 
+hilo de un tejido de trama intrincada. Un hilo que además hilvana ese tejido 
+a otro mediante una pretenciosa costura que se piensa como continuidad de la 
+conjetura esbozada en los papeles de trabajo de Aldo Oliva encontrados entre 
+los cuadernos y los libros de su biblioteca. Conjetura olvidada que el convite 
+derrideano a una “fidelidad infiel” (Derrida 2001: 47) me ha habilitado a 
+reinventar.
+Este trabajo está animado también por una fantasía similar a la que lleva a 
+Derrida a citar profusamente a Cixous: incitar a “leer todo”. Cito profusamente 
+a Estela Figueroa buscando incitar a leer su obra. El laborioso y paciente tejido 
+de una poeta que al apropiarse de la lengua, deja las huellas que permiten 
+identificarla. Una poeta que firma a partir de las marcas que deja su voz en 
+el habla.
+138
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+Referencias bibliográficas
+Aguirre, Osvaldo. “La tradición de los marginales”. Jorge Fondebrider. Ed. Tres 
+décadas de poesía argentina (1976-2006). Buenos Aires: Libros del Rojas, 
+2006: 45-56.
+Barella, Sandro. “Una política de autor”. Diario de poesía 73 (2006): 22.
+Barthes, Roland. “El efecto de lo real”. Ricardo Piglia. Comp. Polémica sobre 
+realismo. Barcelona: Buenos Aires, 1982: 139-155.
+—— Ensayos críticos. Barcelona: Seix-Barral, 1983.
+—— El placer del texto. La lección inaugural. México: Siglo XXI, 1982.
+Battilana, Carlos. “Juan Manuel Inchauspe: la oscura atención”. Hablar de poesía 
+8 (2002): 50-55.
+Bellessi, Diana. Eroica. Buenos Aires: Libros de Tierra Firme, 1988.
+Blanchot, Maurice. La risa de los dioses. Madrid: Taurus, 1976.
+—— Falsos pasos. Valencia: Pretextos, 1977.
+—— El espacio literario. Barcelona: Paidós, 1991.
+—— El libro que vendrá. Caracas: Monte Ávila, 1992.
+Bonzini, Silvia y Laura Klein. “Un no de claridad”. Punto de vista 21 (1984): 
+32-38.
+Cixous, Hélène. La. París: Gallimard, 1976.
+—— “Savoir”. Jacques Derrida y Hélène Cixous. Voiles. París: Galilée, 1998: 
+11-19.
+D’Anna, Eduardo. La literatura de Rosario (1941-1970). Tomo III. Rosario: 
+Ross, 1992.
+—— La literatura de Rosario. Siglo XIX-Siglo XX. Rosario: Ross, 1996.
+Dalmaroni, Miguel. “¿Qué se sabe en la literatura? Crítica, saberes y experiencia”. 
+Panel, Santa Fe, 18 de mayo de 2007. Facultad de Humanidades y Ciencias, 
+Universidad Nacional del Litoral, mimeo, 11 páginas.
+Deleuze, Gilles. Spinoza: filosofía práctica. Barcelona: Tusquets, 1981.
+Derrida, Jacques. La dissémination. París: Du Seuil, 1972.
+—— Glas. París: Denoël/Gonthier, 1974.
+—— Limited Inc. París: Galilée, 1977.
+—— “Envois”. La carte postale, De Socrate à Freud et au-delà. París: Flam-
+marion, 1980: 5-273.
+—— Signéponge. New York: Columbia University Press, 1984. 
+—— “La loi du genre”. Parages. París: Galilée, 1986: 249-287.
+—— “No apocalypse, not now (à toute vitesse, sept missiles, sept missives)”. 
+Psyché. Inventions de l’autre. París: Galilée, 1987: 363-386.
+139
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+—— “‘This Strange Institution called Literature’ (An Interview with Jacques 
+Derrida)”. Derek Attridge. Comp. Acts of Literature. New York: Routledge, 
+1989: 33-75. 
+—— “Contresignatures”. Points de suspension. Entretiens. París: Galilée, 1992: 
+377-383.
+—— Fuerza de ley. El “fundamento místico de la autoridad”. Madrid: Tecnos, 
+1994.
+—— Mal d’Archive. Une impression freudienne. París: Galilée, 1995.
+—— Aporías. Barcelona: Paidós, 1996.
+—— “Tener oído para la filosofía” (entrevista de Lucette Finas con Jacques 
+Derrida). El tiempo de una tesis. Desconstrucción e implicaciones concep-
+tuales. Barcelona: Proyecto a, 1997: 39-48.
+—— “Un ver à soie” (“Un gusano de seda”). Jacques Derrida y Hélène Cixous. 
+Voiles. París: Galilée, 1998: 25-85.
+—— “A corazón abierto”. ¡Palabra! Instantáneas filosóficas. Madrid: Trotta, 
+2001: 13-48.
+—— “Escoger su herencia”. Jacques Derrida y Elisabeth Roudinesco. Y mañana 
+qué… Buenos Aires: FCE, 2003: 9-28.
+Fernández, Macedonio. Museo de la novela de la eterna. Ana María Camblong 
+y Adolfo de Obieta. Eds. Madrid: FCE, 1996.
+Figueroa, Estela. Máscaras sueltas. Santa Fe: Universidad Nacional del Litoral, 
+1985.
+—— El libro rojo de Tito. Santa Fe: Universidad Nacional del Litoral, 1988.
+—— A capella. Santa Fe: Universidad Nacional del Litoral y Delanada, 1991.
+—— Un libro sobre Bioy Casares. Santa Fe: Universidad Nacional del Litoral: 
+2006.
+—— La forastera. Córdoba: Recovecos, 2007.
+—— “Entrevista”, 2007, mimeo, 10 páginas.
+Figueroa, Estela, Arturo Carrera y Diana Bellessi. “Tramas de la poética argen-
+tina”. Argentino de literatura I. Escritores, lecturas y debates. Santa Fe: 
+Universidad Nacional del Litoral, 2006: 113-164.
+García Helder, Daniel. “Despojo y tensión”. Diario de poesía 22 (1992): 7-8.
+García, Roberto. “Prólogo”. Aldo Oliva. Poesía completa. Rosario: Municipal 
+de Rosario, 2003: 15-57.
+Giannera, Pablo. “El poeta que se queda con la última palabra”. Diario de poesía 
+70 (2005): 5.
+Giordano, Alberto. Roland Barthes. Literatura y poder. Rosario: Beatriz Viterbo, 
+1995.
+Gramuglio, María Teresa. “La construcción de la imagen”. La escritura argentina. 
+Santa Fe: Universidad Nacional del Litoral, 1992: 37-64.
+140
+Analía Gerbaudo | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+Grüner, Eduardo. “La cosa política: el retorno de lo trágico en las filosofías ‘mal-
+ditas’ del S. XX. Apuntes provisorios para un nuevo fundacionalismo”. Atilio 
+Borón. Comp. Teoría y filosofía política. La tradición clásica y las nuevas 
+filosofías. Buenos Aires: FLACSO y Eudeba, 1999: 117-136.
+Gruss, Irene. El mundo incompleto. Buenos Aires: Libros de Tierra Firme, 
+1987.
+Hechim, María Angélica. “Entrevista”, 2007, mimeo, 4 páginas.
+Herrera, Ricardo. “Juan Manuel Inchauspe o el poema imposible”. Hablar de 
+poesía 3 (2000): 66-73.
+Hofstadter, Douglas. Gödel, Escher, Bach un Eterno y Grácil Bucle. Barcelona: 
+Tusquets, 1979.
+Kamenszain, Tamara. “Bordado y costura del texto” (1983). Historias de amor 
+(y otros ensayos sobre poesía). Buenos Aires: Paidós, 2000: 207-211.
+—— La casa grande. Buenos Aires: Sudamericana, 1986.
+—— La boca del testimonio. Lo que dice la poesía. Buenos Aires: Norma, 
+2007.
+Kristeva, Julia. “El demonio literario”. Jean Michel Ribettes. Ed. Loca verdad. 
+Madrid: Fundamentos, 1979: 269-273.
+—— Sentido y sinsentido de la revuelta. Literatura y psicoanálisis. Buenos 
+Aires: Eudeba, 1998.
+—— El porvenir de la revuelta. Buenos Aires: FCE, 1999.
+Kuhn, Thomas. La estructura de las revoluciones científicas. México: FCE, 
+1991.
+—— La tensión esencial. Estudios selectos sobre la tradición y el cambio en el 
+ámbito de la ciencia. México: FCE, 1987.
+Ludmer, Josefina. El género gauchesco. Un tratado sobre la patria. Buenos 
+Aires: Perfil, 2000.
+Monteleone, Jorge. “Una figura en el tapiz”. Jorge Monteleone y Heloisa Buar-
+que de Hollanda. Selección y Ensayos. Puentes/Pontes. Poesía argentina y 
+brasileña contemporánea. Buenos Aires: FCE, 2003: 9-21.
+Nancy, Jean Luc. “The Surprise of the Event”. Stuart Barnett. Ed. Hegel after 
+Derrida. London: Routledge, 1998: 91-104.
+Neil, Claudia y Sergio Peralta. Instituto de Cinematografía de la Universidad 
+Nacional del Litoral (1956-1976). Santa Fe: Universidad Nacional del Lito-
+ral, 2007.
+Oliva, Aldo. Apuntes para el Primer Encuentro Nacional de Literatura y Crítica. 
+Santa Fe: Universidad Nacional del Litoral, hojas de cuaderno datadas en 
+1986: 1-5.
+Oliva, Ángel. “Entrevista”, 2007, mimeo, 8 páginas.
+141
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | Estela Figueroa y la “nueva poesía argentina”…: 119-141
+Pacella, Cecilia. “La explosión de la memoria en las palabras. Notas acerca de 
+Filiación del humor de Héctor Piccoli”. Susana Romano Sued y Pampa Olga 
+Arán. Eds. Los 90. Otras indagaciones. Córdoba: Epoké, 2005: 65-73.
+Prieto, Martín. Breve historia de la literatura argentina. Madrid: Taurus, 2006.
+Retamoso, Roberto. La dimensión de lo poético. Buenos Aires: Héctor Dins-
+mann, 1995.
+—— Figuras cercanas. Ensayos sobre poetas de Rosario. Rosario: Artemisa, 
+2004.
+Rosenberg, Mirta. El árbol de palabras. Obra reunida (1984-2006). Buenos 
+Aires: Bajo la luna, 2006.
+Russo, Edgardo. “Introducción”. Literatura y crítica. Primer encuentro Uni-
+versidad Nacional del Litoral. Santa Fe: Universidad Nacional del Litoral, 
+1986: 9-10.
+Saer, Juan José. “Aldo”. El arte de narrar. Santa Fe: Universidad Nacional del 
+Litoral, 1988: 15-16.
+—— “La enseñanza de Aldo Oliva era fascinante” (entrevista de Edgardo Dobry). 
+Diario de poesía 70 (2002): 3-5.
+Vallejos, Oscar. “Paradigmas literarios. Una indagación sobre problemas epis-
+temológicos y ontológicos en literatura”. El hilo de la fábula 2 y 3 (2003): 
+47-56.
+Fecha de recepción: 23-07-07 / Fecha de aprobación: 14-12-07

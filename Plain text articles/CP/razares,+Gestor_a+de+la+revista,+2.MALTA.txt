@@ -1,0 +1,437 @@
+Modelo de publicação sem fins lucrativos para preservar a natureza acadêmica e
+aberta da comunicação científica
+PDF gerado a partir de XML JATS4R
+ARTÍCULOS
+AS MUSAS CONTRA TERSITES? IDEOLOGIA NO
+CANTO II DA ILÍADA
+e Muses Against ersites? Ideology in Book II of the Iliad
+Malta, André
+ André Malta *
+andremal@usp.br
+Universidade de São Paulo, Brasil
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidade: Semestral
+núm. 20, e2002, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepção: 01/08/2022
+Aprovação: 25/10/2022
+URL: http://portal.amelica.org/ameli/journal/785/7853965005/
+DOI: https://doi.org/10.30972/clt.0206621
+Este trabalho está sob uma Licença Creative Commons Atribuição-
+NãoComercial 4.0 Internacional.
+Resumo: A “Invocação às Musas” do Canto II da Ilíada
+determina um viés excludente na extensa enumeração prestes a
+ser apresentada. Meu objetivo aqui é defender que essa exclusão
+se alinha não apenas à ideologia aristocrática geral homérica, mas
+sobretudo à defesa contundente que dela se faz na primeira parte
+desse Canto II, na pequena crise deﬂagrada pela intervenção de
+Tersites, que conﬁrma o discurso de poder dos áristoi. Tentarei
+ainda mostrar que, a despeito da presença dessa ideologia,
+as tensões dramáticas envolvendo as ﬁguras de liderança na
+Ilíada permitem que, em sua recepção, o passo seja lido como
+retrato dos problemas decorrentes de governos centralizados e
+como veículo de contra-ideologias de valorização da intervenção
+popular.
+Palavras-chave: Ilíada, ideologia, Tersites.
+Abstract: e “Invocation to the Muses” of Book II of the Iliad
+sets an excludent approach for the long list about to be presented.
+My aim here is to argue that this exclusion lines up not only with
+the Homeric aristocratic ideology, but also, and mainly, with its
+solid defense displayed at the ﬁrst part of Book II, during the
+brief crisis raised by ersites, which conﬁrms the power of the
+áristoi. Similarly, I will try to show that, despite this ideology, the
+dramatic tensions attached to the leaders in the Iliad allow the
+passage to be read in its reception as a portrait of the problems
+caused by central power and as a vehicle of counter-ideologies
+that promote popular intervention.
+Keywords: Iliad, ideology, ersites.
+1O modo como o Canto II da Ilíada está organizado é familiar para leitores e estudiosos do poema: uma
+primeira parte centrada na ﬁgura de Agamêmnon e no sonho que o visita, com seus desdobramentos
+imediatos (vv. 1-483), e uma segunda trazendo a relação com os nomes das lideranças guerreiras e seus
+Autor notes
+*
+André Malta é Professor da área de Clássicas da Faculdade de Filosoﬁa, Letras e Ciências Humanas da Universidade de São Paulo (USP), pela qual
+obteve seu PhD em 2003. Especializado em épica grega, além de vários artigos, publicou uma “Tetralogia Homérica” formada pelos livros A selvagem
+perdição: erro e ruína na Ilíada (2006), Homero múltiplo: ensaios sobre a épica grega (2012), A Musa difusa: visões da oralidade nos poemas homéricos
+(2015) e A astúcia de Ninguém: ser e não ser na Odisseia (2018). Traduziu, para o português, doze cantos de Homero (quatro da Ilíada e oito da
+Odisseia), uma seleção das fábulas de Esopo e nove diálogos de Platão.
+Cuadernos de Literatura, 2023, núm. 20, e2002, Janeiro-Maio, ISSN: 0326-5102 2684-0499
+PDF gerado a partir de XML JATS4R
+contingentes, o chamado “Catálogo das naus” (vv. 484-877). Nesse arranjo, uma seção conduz à outra
+porque o rei, depois de um movimento inicial sinuoso e nada óbvio, que analisei em outro ensaio (Malta,
+2012, p. 113-150), acaba preparando suas numerosas tropas para o combate contra os troianos, seguindo
+a visão onírica vitoriosa que tivera na abertura do episódio. Com efeito, numa série de cinco símiles (vv.
+455-483), que preparam a transição na narrativa, Homero destaca a quantidade espantosa de homens que se
+movimentavam sob o impulso da ordenação militar levada a cabo pelo Atrida e pelos demais reis (krínontes,
+“organizando”, v. 446, diekósmeon, “organizavam”, v. 476).
+Nesse contexto, a famosa “Invocação às Musas”, abrindo a segunda parte do canto, vem assinalar o elo
+necessário entre o limitado cantor e a onipotência das deusas, para que a lista possa ser enunciada. Mais do que
+isso, porém, essas linhas determinam um viés excludente na extensa enumeração prestes a ser apresentada:
+como se sabe, só os “comandantes” (hegemónes, v. 487), “líderes” (koíranoi, v. 487) e “chefes” (arkhóus, v. 493)
+serão nomeados. A “multidão” (plethún, v. 488) não terá a mesma sorte. Quero analisar aqui essa exclusão para
+além da enorme exigência com que é justiﬁcada e mostrar que ela se alinha não apenas à ideologia aristocrática
+geral homérica (como era de se esperar),2 mas sobretudo à defesa contundente que dela se faz na primeira
+parte desse Canto II, na pequena crise deﬂagrada pela intervenção de Tersites. Em outras palavras, pretendo
+defender que a invocação e o catálogo são não só um desdobramento narrativo natural do que veio antes,
+mas a conﬁrmação eloquente do discurso de poder dos áristoi. Depois, tentarei mostrar que, a despeito da
+presença dessa ideologia, as tensões dramáticas envolvendo as ﬁguras de liderança na Ilíada permitem que
+em sua recepção o passo seja lido como retrato dos problemas decorrentes de governos centralizados, e como
+veículo de contraideologias de valorização da intervenção popular.3
+Começo apresentando os versos da invocação, no original grego e na tradução de Frederico Lourenço,
+ligeiramente modiﬁcada:
+ἔσπετε νῦν μοι Μοῦσαι Ὀλύμπια δώματ' ἔχουσαι,
+ὑμεῖς γὰρ θεαί ἐστε πάρεστέ τε ἴστέ τε πάντα,
+ἡμεῖς δὲ κλέος οἶον ἀκούομεν οὐδέ τι ἴδμεν,
+οἵ τινες ἡγεμόνες Δαναῶν καὶ κοίρανοι ἦσαν.
+πληθὺν δ' οὐκ ἂν ἐγὼ μυθήσομαι οὐδ' ὀνομήνω,
+οὐδ' εἴ μοι δέκα μὲν γλῶσσαι, δέκα δὲ στόματ' εἶεν,
+φωνὴ δ' ἄρρηκτος, χάλκεον δέ μοι ἦτορ ἐνείη,
+εἰ μὴ Ὀλυμπιάδες Μοῦσαι Διὸς αἰγιόχοιο
+θυγατέρες μνησαίαθ' ὅσοι ὑπὸ Ἴλιον ἦλθον.
+ἀρχοὺς αὖ νηῶν ἐρέω νῆάς τε προπάσας.
+Dizei-me agora, ó Musas que no Olimpo tendes vossas moradas
+–pois sois deusas, estais presentes e todas as coisas sabeis,
+ao passo que nós ouvimos apenas o kléos e nada sabemos–,
+quem foram os comandantes dos dânaos e os líderes.
+A multidão eu não seria capaz de enumerar ou nomear,
+nem que tivesse dez línguas, ou então dez bocas,
+uma voz indefectível e o coração de bronze,
+a não ser que vós, Musas Olímpias, de Zeus detentor da égide
+ﬁlhas, me lembrásseis quantos vieram para debaixo de Ílion.
+Enumerarei então os chefes das naus e a totalidade das naus.4
+(Ilíada II, vv. 484-493)
+É consenso que há muitos elementos em jogo nessas poucas linhas. Seria impossível abordá-los aqui. O
+fundamental é sublinhar que o dado objetivo da enorme quantidade (“multidão”, plethús, “quantos”, hósoi),
+aquela mesma destacada na sequência dos cinco símiles que fecha a primeira parte do canto, responderia pela
+impossibilidade de se nomear a massa, mesmo que o aedo assumisse uma forma quase monstruosa, com dez
+André Malta. AS MUSAS CONTRA TERSITES? IDEOLOGIA NO CANTO II DA ILÍADA
+PDF gerado a partir de XML JATS4R
+bocas e dez línguas (lembre-se o verso 176 do Canto XII, “difícil seria para mim narrar tudo como um deus”,
+argaléon dé me taûta theòn hòs pánt’ agoreûsai). Apenas o poder das Musas poderia contornar essa barreira –
+lembra a voz em primeira pessoa nos dois passos–, mas a advertência no Canto II parece protocolar, porque
+em seguida reaﬁrma-se a circunscrição aos líderes, dando-se o assunto por encerrado.5 A multidão será referida
+apenas numericamente: a partir da “totalidade das naus” (veás te propásas, v. 493) será possível tirar uma
+média imprecisa de cada contingente (Kirk, 1985-1993, vol. 1, p. 168). Portanto, no discurso a ser construído,
+os combatentes serão apenas número, e o kléos ouvido jamais poderá ser deles, menos porque não há como
+incluí-los de alguma forma na lista (como ﬁca sugerido), e mais porque nesse universo eles devem ser, por
+convenção, anônimos (a verdade que o poema não quer expor). O próprio Canto II, contudo, mostrara havia
+pouco a atuação –e a nomeação– de um combatente que tende a ser identiﬁcado com o povo, Tersites. O
+episódio não representaria uma fratura na ideologia aristocrática, por essa ﬁgura ter uma voz individualizada?
+Se não todos, ao menos alguns nomes de populares não poderiam, sim, ser enunciados?
+Relembremos o contexto. Depois do sonho enganador e do teste a que Agamêmnon submete as tropas,
+temos um princípio de debandada do exército, que é contido por Odisseu graças à orientação direta da
+deusa Atena. Essa ação do herói, apesar de descrita em poucos versos (vv. 183-206), chama nossa atenção
+porque é discriminatória. Empunhando o cetro tomado das mãos do Atrida, com quem era “rei” ou
+“homem nobre” (basilêa/éxokhon ándra, v. 188) Odisseu atua de um modo, chamando-o com “palavras
+suaves” (aganôis epéessin, v. 189) de “covarde” (kakós, v. 190)6 e mandando-o sentar e fazer sentar as tropas
+(v. 191), mas age de modo oposto com o “homem do povo” (démou t’ándra, v. 198), em quem “batia com
+o cetro” (sképtroi elásasken, v. 199):
+“δαιμόνι' ἀτρέμας ἧσο καὶ ἄων μῦθον ἄκουε,
+οἳ σέο φέρτεροί εἰσι, σὺ δ' ἀπτόλεμος καὶ ἄναλκις
+οὔτέ ποτ' ἐν πολέμῳ ἐναρίθμιος οὔτ' ἐνὶ βουλῇ.
+οὐ μέν πως πάντες βασιλεύσομεν ἐνθάδ' Ἀχαιοί,
+οὐκ ἀγαθὸν πολυκοιρανίη. εἷς κοίρανος ἔστω,
+εἷς βασιλεύς, ᾧ ἔδωκε Κρόνου πάϊς ἀγκυλομήτεω
+σκῆπτρόν τ' ἠδὲ θέμιστας, ἵνά σφισι βασιλεύῃ.”
+“Desvairado! Senta-te sossegado e ouve o que dizem outros,
+melhores que tu! És um covarde, um aco!
+Não serves para nada, nem na guerra, nem pelo conselho.
+Não penses que aqui nós, aqueus, reinaremos todos!
+Não é boa a multiliderança. Seja um só o líder,
+um só o rei, a quem o ﬁlho de Crono de curva astúcia deu
+o cetro e as sentenças, para que decida para os seus.”
+(Ilíada II, 200-206; tradução modiﬁcada)
+Repare-se que, a despeito do tratamento oposto, ambos os grupos são abordados de forma anônima: não
+interessa com que indivíduo em particular Odisseu fala, mas sim a classe a que pertence, numa estrutura que
+é bipartida. A ação tem o efeito desejado: todos retornam para a ágora, conforme nos diz o narrador entre os
+vv. 207 e 211. Uma vez reunidos, a assembleia terá agora um desfecho positivo, graças às falas, em sequência,
+do próprio Odisseu (a mais longa e importante, vv. 284-332), de Nestor (vv. 337-368) e de Agamêmnon (vv.
+370-393). Antes, porém, temos a intromissão da ﬁgura perturbadora de Tersites: toma a palavra e ataca o
+Atrida (vv. 225-242), sendo por isso censurado e espancado por Odisseu, que recebe a aprovação da multidão
+(vv. 243-278).
+Como entender esses comportamentos e as palavras ditas por esses personagens no contexto do Canto
+II? Logo de saída, é preciso destacar que todo o episódio, no plano maior da Ilíada, corresponde, a meu ver,
+a uma espécie de reﬂexão sobre o exercício falho da liderança político-militar: Agamêmnon, por causa da
+Cuadernos de Literatura, 2023, núm. 20, e2002, Janeiro-Maio, ISSN: 0326-5102 2684-0499
+PDF gerado a partir de XML JATS4R
+inoportuna desonra a Aquiles ocorrida no Canto 1, é alimentado por Zeus com falsas esperanças de vitória,
+que mais à frente ﬁcarão evidentes, para ele e para todos. Nesse sentido, a atuação destacada de Odisseu
+acaba tendo o efeito de assinalar a deﬁciência do rei, cujo lugar precisa ocupar provisoriamente: a ênfase aqui
+no comando central derivado de Zeus é consequência direta da sua instabilidade, desde o episódio inicial
+do poema (almann, 1988, p. 7-10). Mas isso não é tudo. Na medida em que não só louva o poder da
+grande liderança, mas também rebaixa a capacidade do povo, a passagem parece construir um discurso no
+qual se defende que, apesar das falhas da realeza, essa forma de governo não deve ser contestada em seus
+princípios, merecendo a aprovação da própria massa. É essa a ideologia que está muito bem assentada na cena
+que precede a entrada de Tersites, com a oposição eloquente entre “multiliderança” (polukoiraníe) / “todos
+reinarmos” (pántes basileúsomen), de um lado, e “um só rei/líder” (heîs basileús/koíranos), do outro.
+Mas quem é Tersites, aﬁnal? Sua apresentação pelo narrador ao longo de mais de dez versos (vv.
+212-223) é extraordinária na tradicional poesia homérica, que dispensa introduções formais de personagens
+já conhecidos do público, sobretudo longas. O vinco aqui é claro: essa ﬁgura precisa ser descrita de modo
+negativo, para que não simpatizemos com sua causa (Richardson, 1990, p. 39-40). Dois superlativos resumem
+o enfoque, que é físico-moral: aískhistos, “o mais feio” (v. 216), e ékhthistos, “o mais detestável” (v. 220); à
+sua fala, classiﬁcada como desordenada, vem se juntar o aspecto disforme. Seu alvo favorito eram os reis,
+aos quais gostava de agredir, censurar, insultar (o verbo neikéo é o principal na passagem, vv. 221, 224, 243,
+277), quase como um palhaço ou um eu-poético jâmbico, sempre com o objetivo de produzir o riso.7 Richard
+Martin abordou em seu livro os defeitos estilísticos da “performance falha” de Tersites, supondo que esta
+seria associável à sua classe, “talvez não-aristocrática” (tradução minha) (Martin, 1989, p. 109-113; ver ainda
+Zecchin de Fasano, 2005, p. 2-5). De fato, não ﬁca evidente que se trata de um homem do povo, que Tersites
+não deve ser visto por nós como um nobre. Para Leaf, a ausência tanto do nome do pai quanto da terra
+de origem seria sinal claro de que estamos diante de alguém “de origem baixa”, “o único soldado comum
+a ser nomeado na Ilíada” (tradução minha) (Leaf, 1900-1902, vol. 1, p. 64). Para Kirk, por outro lado, a
+divisão entre aristocratas e os demais combatentes é frouxa (ponto que retomarei), ainda que a omissão do
+patronímico pareça signiﬁcativa –não acontecendo, por exemplo, com uma ﬁgura como Dólon, cujo pai é
+citado no Canto 10, mesmo que este guerreiro do lado troiano seja “feio de aspecto” (eîdos kakós, v. 316) (Kirk,
+1985-1993, vol. 1, p. 138-139)–. Mas me parece que o dado decisivo vem do fato de acontecer com Tersites
+o mesmo que acontecera com o homem do povo referido de forma explícita antes: ao ﬁnal ele é espancado
+pelo rei Odisseu com o objeto cuja simbologia é central em toda a passagem (“com o cetro bateu-lhe”, sképtroi
+plêxen, vv. 264-265). Esse gesto é eloquente e tem, a meu ver, o poder de igualar Tersites a um popular.8
+Nesse sentido, é signiﬁcativo que a intrusão desse homem do povo se encerre com um comentário anônimo
+da massa, que faz o que dela se espera, louvar os líderes:
+οἳ δὲ καὶ ἀχνύμενοί περ ἐπ' αὐτῷ ἡδὺ γέλασσαν.
+ὧδε δέ τις εἴπεσκεν ἰδὼν ἐς πλησίον ἄον:
+“ὢ πόποι ἦ δὴ μυρί' Ὀδυσσεὺς ἐσθλὰ ἔοργε
+βουλάς τ' ἐξάρχων ἀγαθὰς πόλεμόν τε κορύσσων.
+νῦν δὲ τόδε μέγ' ἄριστον ἐν Ἀργείοισιν ἔρεξεν,
+ὃς τὸν λωβητῆρα ἐπεσβόλον ἔσχ' ἀγοράω
+οὔ θήν μιν πάλιν αὖτις ἀνήσει θυμὸς ἀγήνωρ
+νεικείειν βασιλῆας ὀνειδείοις ἐπέεσσιν”.
+ὣς φάσαν ἣ πληθύς.
+Mas os outros, embora acabrunhados, riam-se aprazivelmente.
+Entre eles um assim dizia, olhando de soslaio para outro:
+“Ah, na verdade são aos milhares os feitos valentes de Odisseu,
+tanto na primazia dos conselhos quanto na autoridade guerreira!
+Mas esta foi a melhor coisa que ele fez entre os argivos,
+André Malta. AS MUSAS CONTRA TERSITES? IDEOLOGIA NO CANTO II DA ILÍADA
+PDF gerado a partir de XML JATS4R
+visto que cortou o palavreado a este caluniador desavergonhado.
+Não me parece que doravante o seu coração orgulhoso
+de novo o encoraje a insultar reis com palavras despudoradas!”
+Assim falava a multidão.
+(Ilíada II, 270-278)
+O feito de Odisseu é considerado “a melhor coisa” (tóde még’ áriston, v. 274), visto que servirá de exemplo,
+inibindo novos insultos aos reis. Que esses que falam (um simples hoí no grego, v. 270, traduzido acima por
+“os outros”) sejam os populares ﬁca claro pelo verso 278, “Assim falava a multidão” (hós phásan he plethús),
+embora possamos, seguindo Kirk, ser menos rígidos na divisão e imaginar que nobres também pudessem
+ser incluídos no grupo. Note-se, contudo, que ao introduzir o comentário geral, o narrador dissera que eles,
+“embora acabrunhados, riam-se aprazivelmente” (kaì akhnúmenoí per ep’ autôi hedù gélassan, v. 270). Sim,
+Tersites aprendeu sua lição –quem busca expor os outros à chacota acaba sendo alvo dela–, mas o mais
+intrigante é a presença do particípio akhnúmenoi: por que “acabrunhados” ou “aﬂitos”? Leaf imagina que “a
+assembleia está desgostosa de ver a humilhação de seu porta-voz” (tradução minha) (Leaf, 1900-1902, vol.
+1, p. 68), mas quero sugerir que essa “aﬂição” pode ter a ver com o fato de que a ameaça de espancamento
+paira sobre todos eles que são do povo –alguns, sabemos, já haviam tido sua cota antes, para que retornassem
+à assembleia–. Como disse Moses Finley ao comentar a cena, em certo sentido, mesmo que rindo, eles se
+apiedavam de Tersites enquanto um dos seus, agredido porque “atacara as fundações sobre a quais se erigia
+o mundo de Odisseu” (tradução minha) (Finley, 2002, p. 113). Será que esse simples particípio pode não
+só conﬁrmar, para nós, que são populares esses que assim se manifestam, mas sugerir ainda a opressão que
+sofrem?
+Resumindo o que foi abordado, podemos dizer que há um contraste vívido entre nobres e populares nessa
+passagem, sintetizado nos próprios vv. 278 e 279, que fecham a fala anônima da massa e preparam a nova fala
+de Odisseu, verdadeira “antítese entre dois partidos”, nos dizeres de Kirk (tradução minha) (Kirk, 1985-1993,
+p. 145); note-se a presença ameaçadora do cetro:
+ὣς φάσαν ἣ πληθύς. ἀνὰ δ' ὃ πτολίπορθος Ὀδυσσεὺς
+ἔστη σκῆπτρον ἔχων...
+Assim falava a multidão. Levantou-se Odisseu saqueador de cidades,
+segurando o cetro na mão...
+(Ilíada II, 278-279)
+Num primeiro plano, temos então reaﬁrmado o discurso de poder dos melhores ou reis –organizados
+em torno de uma monarquia que idealmente não deve ser autocrática–, com o silenciamento violento de
+qualquer contestação. A situação dramática, porém, se constrói de modo a explicitar os problemas da vigência
+dessa ordem política, que provoca desordem quando a palavra ﬁnal de um só é despótica e desastrosa, como
+é a de Agamêmnon desde a abertura da Ilíada.
+Quero concluir explorando os efeitos que esse contraste pode ter tido –e pode ter– nas diferentes recepções
+do poema, segundo direções opostas: lido sim como legitimação do silenciamento da voz popular, como se
+viu, mas lido também como contra-exemplo para um regime de tipo democrático. Vale frisar que, qualquer
+que seja o enfoque, acredito ser preciso abrir espaço para uma perspectiva heurística supra-histórica da
+poesia homérica, segundo a qual situações e passagens são potencialmente reatualizáveis, e não estanques e
+presas às fontes, enquanto meros reﬂexos de um contexto especíﬁco. Como propôs Eric Havelock (embora
+fosse ele mesmo um historicista clássico), falando a respeito da assembleia do Canto I da Ilíada, não seria
+possível ver aí “a cidade reunindo-se em uma sessão”, como se a cena reproduzisse “o parlamento de uma
+pólis, fornecendo assim um paradigma do procedimento cívico, num misto de fantasia antiga e realidade
+política contemporânea”? (tradução minha) (Havelock, 1978, p. 127-128). Não estou preocupado aqui,
+Cuadernos de Literatura, 2023, núm. 20, e2002, Janeiro-Maio, ISSN: 0326-5102 2684-0499
+PDF gerado a partir de XML JATS4R
+portanto, em tomar Homero como retrato histórico (qualquer que seja esse retrato), em determinar se
+reﬂete uma condição política “tribal”, do oîkos, ou talvez uma suposta transição ocorrida por volta do século
+VIII, quando a ideologia aristocrática teria funcionado como instrumento contra a massa cada vez mais
+resistente, conforme defendeu Ian Morris em um artigo inﬂuente (Morris, 1986, p. 91).9 Preﬁro abandonar
+esse positivismo desenvolvimentista em favor de formulações mais gerais e, a meu ver, mais enriquecedoras:
+a ideologia homérica é, num primeiro plano, aristocrática (ainda que o rótulo seja ele mesmo redutor), mas
+é, ademais, tensionada por uma organização política interna multifacetada, que não reﬂete nenhuma época
+ou sistema, sendo assim útil como espaço de reﬂexão para diferentes situações, e objeto de apropriação para
+novos discursos ideológicos.
+Homero pinta, em parte, a oposição de que falamos, entre reis/melhores e povo/multidão, mas esse quadro
+está longe de ser algo simples de se acessar no interior das narrativas. Conforme mostrou Walter Donlan ao
+abordar suas lideranças, percebe-se aí uma espécie de hierarquia entre pares, que gera tensões em decorrência
+da aﬁrmação de status e autoridade num ambiente “honoríﬁco”, o que pode levar a um possível isolamento e
+à busca do “mais rei”. Mas, por outro lado, esse arranjo também ajuda a resolver conﬂitos, pela acomodação
+dos interesses e da visão comum dos que pertencem ao mesmo estrato (Donlan, 1999, p. 252-253). Se o
+Canto 1 exempliﬁca bem o primeiro movimento, o Canto II, sobretudo a partir da intervenção de Odisseu
+–como lembra o mesmo Donlan–, mostra manobra em sentido contrário: temos um rei (Agamêmnon) que,
+ao tentar “restabelecer sua própria posição de autoridade, que está diminuída”, conta com o “compromisso
+de lealdade” dos demais comandantes (Donlan, 1999, p. 257).
+Além desse arranjo/desarranjo interno da classe, que a encaminha para a coesão/ruptura, há ainda
+a interação com seus subordinados, que ajuda a compor o quadro. Dean Hammer, num artigo sobre
+democracia e tirania em Homero, mostrou como as relações de comando entre líderes e liderados aponta
+para direções contraditórias nos poemas (Hammer, 1988, p. 332). Segundo ele, o que teríamos nos épicos
+seria uma espécie de “política plebiscitária”, segundo a qual a “autoridade dos líderes deriva, ao menos em
+parte, da legitimidade oriunda de sua aclamação pelo povo”, ainda que esta voz pudesse ser ignorada (tradução
+minha) (Hammer, 1988, p. 337-348). É verdade que na sua visão evolutiva essa política funcionaria como
+uma ponte, nos séculos VIII e VII, para a emergência posterior da tirania e da democracia, mas quero defender
+que tirania e democracia, e outros regimes, podem ser projetados nos poemas homéricos sem que busquemos
+a correspondência histórica com um momento especíﬁco de criação.10
+A massa que precisa ser ouvida, por sua vez, é uma entidade ﬂuida, que aparentemente se opõe aos líderes
+como classe, mas que também parece englobar vários deles, quando temos a situação em que uma ﬁgura se
+isola em oposição à maioria, como é o caso de Agamêmnon no Canto I da Ilíada. Quem frequenta Homero no
+grego sabe que laós –e não dêmos, que tem o sentido de “demo”/“distrito”/“povoado”, nem plethús– é o termo
+central para designar a coletividade, depois de “argivos”/“dânaos”/“aqueus”, para ﬁcarmos apenas no lado
+grego.11 Já no proêmio fala-se nos “aqueus” mortos (v. 2), nas almas dos “heróis” (v. 4) que baixaram ao Hades.
+No verso 10 do Canto I usa-se o substantivo stratós, “exército”, e pela primeira vez laós. O termo pode ser
+traduzido por “tropa” por causa do contexto militar, mas sabemos que em grego tem o signiﬁcado de “massa”,
+“gente”, podendo vir no plural ou no singular. No começo do Canto II, ouvimos que o destino dos laoí
+dependia do rei Agamêmnon (v. 25), não por acaso qualiﬁcado como “pastor do povo/das tropas” (poimèn
+laôn), título político-militar que no Canto II será aplicado ao Atrida cinco vezes (vv. 85, 105, 243, 254, 772).
+É signiﬁcativo que nesse mesmo canto, antes de chamar o povo para a assembleia, o “pastor” reúna-se com o
+conselho restrito dos gérontes, “anciãos” (v. 53) –elemento que nos remete a um regime do tipo oligárquico–,
+e sabemos que esses “anciãos” são os reis porque, ao ﬁm da conversa com o Atrida, eles se levantam e seu
+movimento é contrastado com o da massa:
+οἳ δ' ἐπανέστησαν πείθοντό τε ποιμένι λαῶν
+σκηπτοῦχοι βασιλῆες, ἐπεσσεύοντο δὲ λαοί.
+André Malta. AS MUSAS CONTRA TERSITES? IDEOLOGIA NO CANTO II DA ILÍADA
+PDF gerado a partir de XML JATS4R
+Por seu lado se levantaram e obedeceram ao pastor do povo
+os reis detentores de cetro; e por seu lado se apressava o povo.
+(Ilíada II, 85-86)
+Mas nem todos os reis estavam no conselho (v. 194)12 e, portanto, laós pode englobar outros nobres.
+A despeito disso, a grande quantidade de gente, que vem destacada num símile, antecipa a sequência que
+aparecerá mais tarde (e que eu mencionei no começo deste artigo): as “raças de abelhas enxameantes” são
+aproximadas das “muitas raças que marchavam para a assembleia”, e vemos laós ser empregado no singular (v.
+99) e no plural (v. 96). Quando Agamêmnon termina ﬁnalmente seu desastrado discurso-teste, o narrador
+faz menção agora ao impacto que teve na “multidão” (plethún, v. 143).
+Essa ﬂuidez da massa na relação com os líderes encontra um bom exemplo, a título de ilustração, numa
+passagem intrigante do Canto XII, quando Polidamante, uma ﬁgura de origem nobre, e não popular,
+interpela assim Heitor:
+Ἕκτορ ἀεὶ μέν πώς μοι ἐπιπλήσσεις ἀγορῇσιν
+ἐσθλὰ φραζομένῳ, ἐπεὶ οὐδὲ μὲν οὐδὲ ἔοικε
+δῆμον ἐόντα παρὲξ ἀγορευέμεν, οὔτ' ἐνὶ βουλῇ
+οὔτέ ποτ' ἐν πολέμῳ, σὸν δὲ κράτος αἰὲν ἀέξειν.
+νῦν αὖτ' ἐξερέω ὥς μοι δοκεῖ εἶναι ἄριστα.
+Heitor, sempre me repreendes nas assembleias,
+embora eu diga coisas justas, visto que não ﬁca bem
+que alguém do povo te contradiga, seja na deliberação
+ou na guerra, pois deve sempre aumentar o teu poder.
+Mesmo assim direi aquilo que me parece melhor.
+(Ilíada XII, 211-215)
+“Alguém do povo” (dêmon eónta) traz um uso atípico de dêmos, quase como demótes, termo que não aparece
+em Homero. A despeito desse problema, o passo indica uma assimilação inesperada de Polidamante à massa,
+e a necessidade (da perspectiva aristocrática) de a voz popular não ir contra o chefe: temos simultaneamente
+a ótica da multidão e o lugar reservado a ela nesse sistema –aumentar o poder do líder–. A exposição desse
+choque e a atitude subsequente de Heitor, que, não sem uma boa dose de húbris, vai contra o homem cujo
+conselho antes acatara, falam muito sobre a complexidade das questões políticas que um poema como a Ilíada
+pode colocar para quem o lê.
+O levantamento desses dados sumários mostra que, mais do que uma oposição clara e simples entre duas
+classes, o poema promove deslizamentos entre os grupos sociais, que se afastam e se aproximam conforme a
+ação se desenrola. Se voltarmos à nossa discussão central do Canto II, poderemos aﬁrmar que o que vemos
+aí é um rei que, insistindo num comando mais autocrático (mas com o importante apoio de outros chefes),
+produz um descontentamento geral. A reação dos demais líderes, ainda que críticos, vai no sentido de reforçar
+a ﬁgura real para manter a todo custo a ordem. Tersites, contudo, ao dar voz a censuras legítimas, acaba, como
+sabemos, por avalizar as palavras já antes ditas por Aquiles, depois que a vontade de todos fora contrariada
+pelo desejo de um só (na rede semântica formular épica, não parece casual que o verso ﬁnal do seu discurso
+seja a repetição do que o Pelida dissera: Ilíada II, 242 = I, 232).13
+Assim, embora nesses momentos o poema pareça acomodar um discurso antidemocrático como ideologia
+central, a presença da assembleia e sua identiﬁcação com ﬁguras de ponta como Aquiles, junto ainda com
+as fraturas no comportamento do rei supremo, podem alimentar discurso contrário. À luz da democracia
+ateniense, por exemplo, e da nossa, a multiliderança, com todos reinando, poderia ser o mais desejável e
+o mais produtivo nas circunstâncias do poema (Odisseu ter que liderar com Agamêmnon não revela os
+problemas do comando quase tirânico de um só?). Note-se, a título de conclusão, que polukoiraníe (v. 204),
+Cuadernos de Literatura, 2023, núm. 20, e2002, Janeiro-Maio, ISSN: 0326-5102 2684-0499
+PDF gerado a partir de XML JATS4R
+“multiliderança” –a ocorrência é única, e curiosamente está na boca do herói polú- por excelência– é um
+tipo de organização política que vem aludida por Aristóteles no Livro 4 da Política, ao abordar as formas de
+democracia, apenas para confessar não saber a qual exatamente Homero se refere aí (ádelon, 1292a13-15).
+A menção pelo Estagirita à passagem que estou abordando, um pouco perdida no contexto maior de um
+tratado sobre os diferentes tipos de governo, tem no mínimo o poder de nos mostrar a rica possibilidade
+de cruzamentos na experiência da recepção. O enfoque dos regimes é móvel,14 reforçando entendimentos
+variados de contextos “ﬁccionais”, como o homérico, ou mesmo o trágico. Não há como negar que, nessas
+circunstâncias, Tersites, com seu atrevimento e seu conselho (que não deve, a meu ver, ser tomado apenas
+como fora do alvo), obtém algum kléos político e ombreia com muitos dos nomes listados na segunda parte
+do canto.15
+Referências bibliográficas
+Brandão, J. L. (2015). Antiga Musa (Arqueologia da Ficção). Belo Horizonte, Relicário.
+Chantraine, P. (1999). Dictionnaire Étymologique de la Langue Grecque. Paris, Klincksieck.
+Donlan, W. (1999). W. e Aristocratic Ideal and Selected Papers. Wauconda, Bolchazy-Carducci.
+Finley, M. (2002). e world of Odysseus. New York, New York Review Books.
+Hammer, D. (1988). Homer, Tyranny, and Democracy. Greek, Roman, and Byzantine Studies, 39, 331-360. https:/
+/bit.ly/3h47X96
+Havelock, E. (1978). e Greek Concept of Justice. Cambridge Mass., Harvard University Press.
+Homero. Ilíada. (2013). Trad. Frederico Lourenço. São Paulo, Penguin/Companhia das Letras.
+Kirk, G. S. (ed.) (1985-1993). e Iliad: a Commentary. 4 vols. Cambridge, Cambridge University Press.
+Leaf, W. (1900-1902). Homer: e Iliad. 2 vols. Cambridge, Cambridge University Press.
+Macey, D. (2000). Dictionary of Critical eory. London, Penguin.
+Malta, A. (2012). Homero Múltiplo: Ensaios sobre a Épica Grega. São Paulo, Edusp.
+Martin, R. (1989). e Language of Heroes: Speech and Performance in the Iliad. Ithaca, Cornell University Press.
+Morris, I. (1986). e Use and Abuse of Homer. Classical Antiquity, 5 (1), 81-138.
+Nagy, G. (1979). e Best of the Achaeans. Baltimore, e Johns Hopkins University Press.
+Quintus of Smyrna. (1996). e War at Troy: What Homer Didn’t Tell. Translated by F. Combellack. New York,
+Barnes & Noble.
+Richardson, S. (1990). e Homeric Narrator. Nashville, Vanderbilt University Press.
+Rosen, R. (2003). e Death of ersites and the Sympotic Performance of Iambic Mockery. Pallas, 61, 121-136. h
+ttps://bit.ly/3BemXb9
+almann, W. (1988). ersites: Comedy, Scapegoats, and Heroic Ideology in the Iliad. Transactions of the American
+Philological Association, 118, 1-28. https://bit.ly/3Vw2RBb
+West, M. (1998-2000). Homeri Ilias. 2 vols. Stuttgart, Teubner.
+Zecchin de Fasano, G. (2005). El arco y el cetro: problemas de la palabra y el poder en los poemas homéricos. Letras
+Cla#ssicas, 9, 11-25. https://bit.ly/3P5Cy2G
+Notas
+1 Uma primeira versão deste texto foi apresentada no colóquio “A Ilíada e sua recepção na Antiguidade e Modernidade”,
+ocorrido na FFLCH-USP em setembro de 2018. Agradeço a Christian Werner pelo convite para participar do evento
+e pela oportunidade de poder voltar a tratar da Ilíada.
+André Malta. AS MUSAS CONTRA TERSITES? IDEOLOGIA NO CANTO II DA ILÍADA
+PDF gerado a partir de XML JATS4R
+2 Nos dizeres de Moses Finley, no seu livro clássico de 1954, e World of Odysseus: “Homero reﬂetia as visões e os valores
+da aristocracia do primeiro verso da Ilíada à última frase da Odisseia” (tradução minha) (Finley, 2002, p. 113).
+3 Entendo aqui “ideologia” como conceito “usado para descrever, geralmente em termos negativos, a visão de mundo ou
+as crenças e atitudes coletivas de uma classe ou grupo social. (…) Numa sociedade dividida em classes antagônicas, a
+ideologia não só deriva das relações sociais de fato como as mascara, e assim legitimiza a dominação de classe, fazendo-a
+parecer natural e a-histórica” (tradução minha) (Macey, 2000, p. 198-199).
+4 Todas as citações do artigo são tiradas de Homero (2013). O texto grego é o de West (1998-2000).
+5 Jacyntho Lins Brandão fala do poeta descolando-se da Musa na sua escolha (Brandão, 2015, p. 44-47).
+6 Kakós designa também o indivíduo de status social baixo (ver seu uso, por exemplo, nas elegias atribuídas a Teógnis).
+Portanto, na cena esse qualiﬁcativo pode ser lido dentro do esquema de contraposição entre nobres e populares, como
+uma advertência ao nobre para que não se comportasse como alguém do povo (almann, 1988, p. 11).
+7 A esse respeito, ver a abordagem pioneira de Gregory Nagy (Nagy, 1979, p. 226) e o artigo de R. Rosen (Rosen, 2003,
+p. 121-136).
+8 Vale lembrar que na narrativa do Posthomerica, de Quinto de Esmirna (século IV d.C.), Tersites é apresentado como
+primo de Tideu, o pai de Diomedes. Na passagem em que aparece, no Canto 1 (vv. 715-778), provavelmente derivada da
+Etiópida, ele ataca Aquiles por ter se apaixonado pela amazona Pentesileia ao vê-la morta. O comportamento de Tersites
+é semelhante ao que vemos com relação a Agamêmnon no Canto 2 da Ilíada, assim como a reação das tropas. Aquiles
+termina por assassinar seu agressor verbal, e eles se comprazem com o fato de ele pôr ﬁm aos insultos dirigidos contra
+os reis. O único que se contrapõe é Diomedes, por causa do seu parentesco com Tersites. Com base nesse e em outros
+elementos, Rosen defende que Tersites não deve ser visto como ﬁgura socialmente inferior (Rosen, 2003, p. 134-135).
+9 Ainda segundo Morris, “a relação da elite com as classes mais baixas estava passando por uma ampla
+transformação” (Morris, 1986, p. 123) no século VIII, e por isso em Homero “ouvimos o que a elite social queria que
+Homero dissesse” (tradução minha) (Morris, 1986, p. 124).
+10 almann trabalha com a ideia de múltiplos níveis de leitura para a complexa cena com Tersites, mesmo ﬁxando o poema
+nos séculos VIII e VII a.C., que vê como períodos de crise (almann, 1988, p. 27-28).
+11 Laós ainda designa “povo” no grego moderno, onde um termo como “folclore” se diz laographía (Chantraine, 1999, p.
+619-620).
+12 Preﬁro ler a fala de Odisseu sem o ponto de interrogação ﬁnal, “Não ouvimos nós todos no conselho aquilo que ele disse”,
+e não “Não ouvimos nós todos no conselho aquilo que ele disse?” (Malta, 2012, p. 142-143 e nota 26).
+13 Para a visão de Tersites como um duplo cômico de Aquiles, ver almann (1988, p. 19-21).
+14 Lembre-se não só da identiﬁcação que Sócrates propõe entre monarquia e aristocracia no ﬁnal do Livro 4 da República
+(“uma só forma de constituição”, 445d-e), eloquente para lermos Homero, mas também da proposição, no Livro 8,
+de que a timocracia, ou timarquia, é uma espécie de degeneração da aristocracia (545b-d), formulação que é sugestiva
+para lermos a Ilíada. Há ainda o fato de que para Platão a tirania vem atrelada à discussão da democracia, enquanto em
+Aristóteles ela é a forma pervertida da monarquia.
+15 Cabe registrar que a passagem do espancamento dos populares vista aqui (Ilíada II, vv. 188-191 e 199-203) aparece citada
+por Xenofonte nas suas Memoráveis (I.2). Em sua defesa veemente de Sócrates, ele aﬁrma que a acusação de ele ter usado
+esses versos para justiﬁcar a violência contra o povo (o que o alinharia ao partido antidemocrático) não era verdadeira,
+porque o ﬁlósofo era um amigo da massa, e nesse caso teria defendido o seu próprio espancamento. Ou seja: acusado de
+ser como Odisseu, na realidade Sócrates seria como Tersites (e a identiﬁcação física entre os dois não deve ser ignorada
+aqui). Outro dado que mereceria ser explorado: no Filoctetes de Sófocles, quando o protagonista pergunta a Neoptólemo
+sobre Tersites, sem nomeá-lo, as características que apresenta (“hábil e sábio com sua língua”, v. 440) fazem com que o
+ﬁlho de Aquiles imagine que está perguntando, na verdade, sobre Odisseu, o que nos permite pensar na identiﬁcação
+histórica entre os dois como espécies de protodemagogos.

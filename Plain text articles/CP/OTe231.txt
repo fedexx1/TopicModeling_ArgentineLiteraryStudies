@@ -1,0 +1,557 @@
+Unabomber y Recycler. Capitalismo tecnológico y terrorismo en El 
+camino de Ida de Ricardo Piglia
+ Mario Gutiérrez Blanca
+mariogutierrezmgb@gmail.com
+Universidad Autónoma de Madrid, España
+Recepción: 07 Febrero 2022
+Aprobación: 26 Abril 2022
+Publicación: 02 Mayo 2022
+Resumen: A partir de la comparación de sus respectivos
+maniﬁestos, este artículo analiza las similitudes y diferencias
+más relevantes entre las ﬁguras de Thomas Munk/Recycler y
+Theodore Kaczynski/Unabomber, el referente real en que se
+inspira el terrorista antitecnológico de El camino de Ida (2013)
+de Ricardo Piglia. El objetivo es averiguar en qué aspectos
+transforma Piglia las ideas de Kaczynski y cuáles son los alcances
+políticos del paso del terrorista real al personaje de la novela.
+Si tanto Unabomber como Recycler comparten la forma de
+instrumentalizar el uso de la violencia, el enfoque anticapitalista
+de la crítica a la tecnología de este último constituye la brecha
+esencial que los separa.
+Palabras clave: Ricardo Piglia, El camino de Ida, Unabomber,
+Terrorismo, Capitalismo, Tecnología.
+Abstract: Based on a comparison of their respective manifestos,
+this article analyses the most relevant similarities and diﬀerences
+between the ﬁgures of Thomas Munk/Recycler and Theodore
+Kaczynski/Unabomber, the real-life inspiration for the anti-
+technological terrorist in Ricardo Piglia's e Way Out (2013).
+The aim is to ﬁnd out how Piglia transforms Kaczynski's ideas
+and what are the political implications of the shift from the
+real terrorist to the ﬁctional character in the novel. If both
+Unabomber and Recycler share the way of instrumentalising the
+use of violence, the anti-capitalist approach of the latter's critique
+of technology constitutes the essential gap that separates them.
+Keywords: Ricardo Piglia, The Way Out, Unabomber, 
+Terrorism, Capitalism, Technology.
+1. Introducción
+Adscrita certeramente al subgénero del policial académico (Gallego, 2019, p. 129), El camino de Ida (2013)1
+es la última novela publicada por el escritor argentino Ricardo Piglia (1940-2017). En ella pueden distinguirse
+“dos almas”: la policial y la propia de la novela de campus, un tipo de texto caracterizado por explorar
+“las preocupaciones y contradicciones que sufre el profesor/investigador universitario con respecto a la
+institución en la que trabaja” (Gallego y Oteros, 2020, p. 24). A este respecto, cabe recordar que Piglia se
+desempeñó como profesor en varias universidades, tanto en Argentina como en Estados Unidos; entre ellas,
+Princeton University, institución donde el de Adrogué enseñó durante más de diez años y cuya presencia se
+intuye tras “la elitista y exclusiva Taylor University” de la novela, también ubicada en el estado de New Jersey.
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo - octubre 2022. ISSN 1851-7811 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios de Teoría y Crítica Literaria
+ARTÍCULO / ARTICLE
+Cita sugerida: Gutiérrez Blanca, M. (2022). Unabomber y 
+Recycler. Capitalismo tecnológico y terrorismo en El 
+camino de Ida de Ricardo Piglia. Orbis Tertius, 27(35), 
+e231. https://doi.org/10.24215/18517811e231
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+Unabomber and Recycler. Technological Capitalism and Terrorism in El camino de 
+Ida, by Ricardo Piglia
+El arranque de la narración en El camino de Ida se produce cuando Emilio Renzi, que andaba “perdido,
+desconectado” en Buenos Aires, recibe una oferta para trabajar allí durante un semestre en calidad de “visiting
+professor” (Piglia, 2015a, p. 13). El contexto universitario en el que se desenvuelve Renzi permite incluir
+temas, referencias literarias y ciertas formas muy apreciadas por Piglia, como el diálogo intelectual y la clase.2
+A través del seminario que Renzi imparte sobre la obra de William Henry Hudson (1841-1922), además, se
+introducen reﬂexiones en torno a algunos de los temas que vertebran la novela, como la tecnología, la sociedad
+industrial y el deseo nostálgico de regresar a un estadio rural y precapitalista. Junto a esto, la condición de
+extranjero y profesor universitario del protagonista y narrador de la novela permite articular una mirada
+externa y extrañada sobre la sociedad y la academia norteamericanas, de la que Piglia, como señala Luis
+Othoniel Rosa —quien fue, por cierto, alumno suyo—, realiza una “etnografía muy crítica”, sobre todo en
+lo relativo a su complicidad con el capitalismo (2019, p. 2) y también a la violencia silente que late bajo sus
+prácticas. “El espacio académico es descrito en la novela como un espacio cerrado y controlado en donde
+circulan grandes olas de violencia subterránea” (Fernández Cobo, 2016, p. 643), una idea que se sintetiza
+metafóricamente en la ﬁgura del profesor D’Amato, colega de Renzi: un especialista en Melville que tiene en
+el sótano un enorme acuario donde nada un tiburón blanco (Piglia, 2015a, p. 44).
+El ambiente y los registros de la novela de campus se mantendrán cuando emerja la trama policial. El
+crimen, de hecho, se produce en este ámbito. La víctima es Ida Brown, una prestigiosa y carismática académica
+con la que Renzi mantenía una relación esporádica y clandestina. Tras una reunión de claustro, Ida es
+hallada muerta, en su coche, con la mano quemada por un explosivo. A raíz de este hecho, se inician dos
+investigaciones: una oﬁcial y otra extraoﬁcial. A través del detective Ralph Parker —a quien ha contratado—,
+Renzi averigua que el FBI investiga la muerte de Ida en el marco de una serie de atentados con cartas bomba
+que desde hace años tiene por objetivos a personas del mundo académico y cientíﬁco.
+El caso está basado en un hecho real. Theodore Kaczynski —más conocido como Unabomber—, un
+brillante matemático de la Universidad de Berkeley, abandonó su puesto como profesor, se retiró a vivir a
+una cabaña en los bosques de Montana y se dedicó a construir y enviar desde allí sus cartas bomba. El motivo
+de esta huida a la naturaleza y de los atentados residía en el rechazo a la deriva tecnológica de la sociedad
+contemporánea. Durante diecisiete años —de 1978 a 1995—, Kaczynski asesinó a tres personas e hirió a
+veinticuatro más sin dar explicación alguna. Eran actos vacíos, terror puro. Finalmente, Kaczynski le hizo
+llegar al FBI un largo ensayo exigiendo su difusión masiva a cambio de cesar los atentados. Bajo el título
+de La sociedad industrial y su futuro y ﬁrmado con el pseudónimo “Freedom Club” —como sus bombas,
+donde aparecían las siglas “FC”—, el maniﬁesto de Kaczynski se publicó en las páginas de los periódicos The
+Washington Post y The New York Times. El panﬂeto circuló por todo el país. Muchísimas personas leyeron
+el texto. Entre ellas, David Kaczynski, quien reconoció el estilo de su hermano y se puso en contacto con el
+FBI, lo delató y les entregó a los investigadores cartas y otros documentos escritos por Theodore. La lingüística
+forense hizo el resto. Kaczynski fue arrestado y desde 1998 cumple cadena perpetua en una prisión de alta
+seguridad.3
+Piglia, en líneas generales, respeta esta historia. Mantiene, por ejemplo, el grueso de la biografía de
+Kaczynski, las motivaciones antitecnológicas, el modo en que lleva a cabo los atentados, la existencia de un
+maniﬁesto, la delación del hermano, etcétera. Entre las modiﬁcaciones más evidentes de los hechos reales,
+por su parte, está el cambio de los nombres y los pseudónimos —Theodore Kaczynski por Thomas Munk,
+Unabomber por Recycler4—, la resolución ﬁnal del caso —Munk es ejecutado en la silla eléctrica—, y sobre
+todo una transformación tanto del título como del contenido del maniﬁesto.
+A los efectos de este trabajo, la mayor distancia entre Theodore Kaczynski/Unabomber y Thomas Munk/
+Recycler es la que media entre el contenido de La sociedad industrial y su futuro y el Maniﬁesto sobre el
+capitalismo tecnológico que aparece en la novela. Como se puede intuir ya desde el título, la lectura política
+de uno y otro texto acerca de la tecnología será radicalmente distinta. Comparar los argumentos que cada
+uno esgrime contra la tecnología arrojará luz sobre el paso del referente real al personaje de la novela. Con
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+2
+este objetivo, trazaré las líneas fundamentales del ensayo de Kaczynski e intentaré apuntar los momentos en
+que coincide con el Maniﬁesto de Munk. Después pondré el foco en sus diferencias.
+2. Unabomber vs. Recycler: dos manifiestos frente a frente
+La tesis del maniﬁesto real de Kaczynski es que la soﬁsticación de los sistemas tecnológicos de la sociedad
+industrial moderna ha traído consigo la anulación de la vida, puesto que ha alejado al ser humano
+de sus patrones naturales de comportamiento. Según Kaczynski, tecnología y naturaleza humana son
+incompatibles. Para argumentarlo, elabora como base una teoría que establece que los seres humanos tienen
+una necesidad natural que llama “proceso de poder”, divisible en cuatro elementos: ﬁnalidad, esfuerzo, logro
+de la ﬁnalidad y autonomía (p. 33)5. En el seno de la sociedad industrial, este proceso de poder se ve afectado de
+varias maneras. Por un lado, las necesidades físicas reales —conseguir comida, agua, vestido, refugio— están
+prácticamente garantizadas y han sido sustituidas por necesidades artiﬁciales —creadas por la publicidad
+—, y por actividades sustitutorias —no esenciales para la conservación de la vida—, cuya realización, según
+Kaczynski, no satisface por completo el proceso de poder. Por otro lado, la sociedad moderna impone bridas
+a la autonomía del sujeto, que, según Kaczynski, solo podría alcanzarla individualmente o como miembro de
+un grupo pequeño, donde resulta posible participar de las decisiones (p. 42). Toda esta reﬂexión acerca del
+“proceso de poder” está ausente en la novela.
+Para Kaczynski, el origen de los problemas sociales y psicológicos de la sociedad moderna se halla en ciertas
+condiciones como la excesiva densidad de población, el alejamiento y aislamiento de la naturaleza, la extrema
+rapidez del cambio social y el colapso de las comunidades naturales de pequeña escala, consecuencias todas
+ellas del progreso tecnológico (p. 47). Cada avance técnico estrecha aún más la esfera de libertad. Tecnología
+y libertad humana son dos instancias dependientes e irreconciliables porque el avance tecnológico precisa del
+control del comportamiento humano para asegurar el correcto funcionamiento del sistema. Por esta razón,
+para Kaczynski, la reforma no es suﬁciente (p. 93). No basta con regular los avances de la tecnología. Hay
+que abolirla.
+Frente al actual estado de las cosas, el ideal positivo que opone Kaczynski es el regreso a un modo de
+producción preindustrial más próximo a la naturaleza, organizado en estructuras sociales articuladas sobre
+personas o pequeños grupos (p. 183). A este respecto, cabe subrayar que Kaczynski aborda la naturaleza,
+ante todo, como estrategia discursiva. Obviamente, mucha gente, razona, ante la ausencia de tecnología,
+viviría en contacto directo con la naturaleza. Es inevitable: solo así podrían subsistir (p. 184). Kaczynski, sin
+embargo, no hace una reﬂexión especíﬁca acerca de lo natural. Más bien lo instrumentaliza y piensa en las
+ﬁguraciones religiosas y políticas de la naturaleza en el imaginario popular como un ﬂanco más en el combate
+ideológico y discursivo. Pese a todo, Kaczynski insiste en que la revolución que propugna será económica
+y antitecnológica, pero no política (p. 119). No le interesa quién controla la tecnología. La oposición, para
+él, no se da entre sistemas industriales “democráticos” o dictatoriales, sino entre sistemas industriales o
+no industriales (p. 195). Igual que Munk (Piglia, 2015a, p. 133), solo que sin citarlo,6 Kaczynski sigue al
+historiador de la técnica Lewis Mumford y establece una distinción entre dos clases de tecnología: la de
+pequeña escala y la dependiente de organizaciones; o dicho en términos de Mumford: entre la tecnología
+“‘democrática’ y dispersa” —basada en la artesanía a pequeña escala, operante en pequeñas comunidades—
+y “la totalitaria y centralizada” —la “megamáquina”, basada en la ingeniería, operante en grandes ciudades y
+siempre en manos de una minoría privilegiada (Mumford, 2017, p. 387)—. Las tecnologías que enfrentan
+Kaczynski y Munk corresponden esencialmente a este segundo tipo.
+Las dos tareas que propone Kaczynski para alcanzar la situación revolucionaria que permita la abolición de
+la tecnología son la promoción de la tensión social y la inestabilidad de la sociedad industrial y la difusión de
+una ideología que se oponga a la tecnología; en otras palabras: agitación y propaganda (p. 181). En este punto,
+no es de extrañar que ciertas reﬂexiones respecto de la circulación de los mensajes le resultasen interesantes a
+3
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+Piglia. La violencia de Kaczynski está orientada a conﬁgurar una situación de lectura propicia para su texto;
+por emplear una expresión pigliana: a crear una determinada escena de lectura. En Kaczynski, el empleo de
+correos bomba —la muerte que circula—, el “salto al mal, la decisión de matar estaba ligada a la voluntad
+de hacerse oír” y conseguir la tan cotizada atención de un público masivo en el hipersaturado entorno de
+información contemporáneo (Piglia, 2015a, p. 130). De ahí que, por primera y última vez, la novela transcriba
+y traduzca ﬁelmente el texto de Kaczynski; en este caso, el párrafo 96, al que Piglia añade el título de “Libertad
+de prensa”:
+Cualquier persona con algo de dinero puede publicar un escrito o distribuirlo por internet, pero aquello que ha dicho se
+confundirá con la enorme cantidad de material producido por los mass media y no tendrá ningún efecto práctico. Llamar la
+atención de la sociedad con la palabra es entonces casi imposible para la mayor parte de los individuos y de los grupos. Por
+ejemplo, nosotros (FC), si no hubiéramos cometido algunos actos de violencia y hubiéramos enviado el presente escrito a
+un editor, probablemente no habríamos conseguido que lo publicaran. Si lo hubiese aceptado y publicado, probablemente
+no habría tenido muchos lectores porque es más interesante la diversión propuesta por los media que leer un ensayo serio.
+Pero si este escrito hubiese tenido muchos lectores, la mayor parte de ellos lo habría rápidamente olvidado vista la masa de
+material con que los medios inundan nuestra mente. Para difundir nuestro mensaje con alguna probabilidad de tener un
+efecto duradero tuvimos que matar a algunas personas (Piglia, 2015a, p. 131).
+Matar para conseguir lectores. Herir al cuerpo social para alcanzar su plena atención. La idea, como se
+dice en la novela, es tan simple como aterradora. “El terrorista como escritor moderno, la acción directa
+como pacto con el Diablo”, comentan Renzi y Nina Andropova, su vecina rusa, catedrática de Literatura
+Eslava ya jubilada y especialista en Tolstoi (Piglia, 2015a, p. 131). A raíz de esta lectura en clave literaria del
+Maniﬁesto de Munk y de la relación entre la literatura y el mal puro, Luis Othoniel Rosa conecta a Munk
+con el personaje de Carlos Wieder, presente en la novela Estrella distante (1996), de Roberto Bolaño, en la
+que el poeta vanguardista Wieder lleva a cabo una serie de “actos poéticos” en los que el asesinato cumple un
+papel importante (2019, p. 6). En este sentido, la transgresión y el crimen como un modo de desautomatizar
+la mirada y modiﬁcar así la recepción de un texto —entendiendo “texto” en un sentido amplio; si se quiere:
+semiótico— puede verse como un punto de intersección entre los dos personajes. Sin embargo, existe entre
+ambos una diferencia esencial: la ﬁnalidad de los textos. El de Munk no es un texto artístico, sino un panﬂeto
+y un ensayo teórico. Por eso la moralidad de los actos de ambos personajes se problematiza desde enfoques
+distintos. De esta manera, mientras que los de Wieder pueden discutirse desde la estética, los de Munk, en
+cambio, deben abordarse desde la política, si bien la crítica literaria no deja de emerger en los análisis:
+No matar, concluyó John III, es la consigna de los que tienen el poder, son las víctimas quienes deben obedecer ese mandato,
+los poderosos no creen en las generalizaciones. Mike le contestó que matar gente al azar por razones razonables no volvía
+razonables los crímenes. Bien, dijo John III, pero no parece que mate al azar. De todos modos, elegir a quién se mata no
+justiﬁca el acto de matar aunque la serie de crímenes sea coherente, según Rachel. Debemos primero saber quién es el autor,
+dijo la coreana. Un mensaje no es el mismo sin no sabemos quién lo ha enviado, sostuvo. ¿Quien había escrito el Maniﬁesto
+era el mismo que había puesto las bombas? Pero él mismo lo había confesado. ¿Lo confesaba? Más bien lo consideraba una
+condición de lo que había escrito. En el Maniﬁesto se invertía el razonamiento. Eran los cientíﬁcos los que en nombre de
+progreso tecnológico legitimaban la violencia del sistema, los experimentos biológicos y bélicos. Eran esos “técnicos del saber
+práctico” los que violentaban la ética en nombre del progreso y de la ciencia (Piglia, 2015a, p. 135).
+Como Kaczynski, Munk tiene por objetivos a personas relacionadas con el ámbito técnico y cientíﬁco.
+En el apartado tres del capítulo nueve se hace un resumen de estos atentados. A sus víctimas, Munk las
+“consideraba funciones del sistema, individuos que estaban llevando adelante una tarea destinada a destruir
+todo lo que era humano en la sociedad” (Piglia, 2015a, p. 171). Con independencia de las motivaciones
+subyacentes, estos asesinatos entrañan un claro dilema ético. Como se dice en la novela, había “una demanda
+implícita de la sociedad por la defensa del mundo natural y de la justicia social” (Piglia, 2015a, p. 219). Resulta
+difícil negar eso. Sin embargo, la cuestión es hasta dónde es legítimo o ético llegar para hacerse escuchar, para
+lograr ciertos cambios.
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+4
+Greg Dawes señala acertadamente que Piglia discute la cuestión de la violencia anticapitalista mediante
+la articulación de dos referentes históricos: los años 60 y 70 en Argentina y los 70, 80 y 90 en los Estados
+Unidos (2017, p. 134). Los actos de Munk y los contactos de este y de Ida con grupos como Black Panthers se
+entreveran a través de las asociaciones de Renzi con la memoria de la militancia y la lucha armada argentinas
+(Piglia, 2015a, pp. 100, 112, 192, 234). Como muestra Dawes en su artículo, estas asociaciones, en su mayoría,
+tienen referentes reales (2017, p. 139). Al parecer del norteamericano, que Piglia “no haya estado vinculado
+con la lucha armada, no quiere decir que esté dispuesto a negar la experiencia global de los años 60 y 70, porque
+la opción por la violencia formó parte íntegra de aquel entonces” (2017, p. 141). En este sentido, Piglia no
+forma parte de los “arrepentidos” que aparecían en La ciudad ausente (Piglia, 2013b, p. 85). Por más que en
+su momento considerase equivocada la opción armada,7 no está de acuerdo con quienes, retrospectivamente,
+reniegan completamente de ella.
+Sea como fuere, en El camino de Ida, el asunto está en discusión. En un polo, Munk y la lucha armada de
+los 60 y 70 en Argentina: aquellos que “abandonaron sus vidas para ser otros, para tratar de encarnar un ideal
+por medio de la violencia” (Dawes, 2017, p. 140). En el otro polo, el paciﬁsmo. Como apunta Dawes, “Nina,
+estudiosa de la obra de Tolstói, junto a una de las estudiantes de Renzi (Rachel)”, exploran esta opción en
+la novela (2017, p. 141). Para Nina, “la posición de Tolstói sobre la no violencia y la no resistencia al mal
+eran una respuesta directa a la forma en que el terrorismo había empezado a imponer sus métodos de lucha
+contra el zarismo”; en deﬁnitiva, “una alternativa frente a la violencia revolucionaria y frente a la devastación
+capitalista” (Piglia, 2015a, pp. 125, 136). Rachel, por su parte, empleando un concepto de Gilles Deleuze, ve
+en los grandes profetas, como Tolstói, la inversión del “régimen de signos de la sociedad”; esto es: el abrazo
+de “una vida de pobreza, de ascetismo y de no violencia” (Piglia, 2015a, p. 59).
+Una forma habitual de evitar abordar frontalmente el debate sobre la violencia política es la inmediata
+psiquiatrización del terrorista, algo que sucedió también con Kaczynski (Chase, 2000). Según Munk, “el
+estado quería declararlo demente para que sus argumentos políticos fueran desechados como delirios, dijo.
+Sus argumentos y sus razones no eran considerados, lo que era clásico en los Estados Unidos, donde las razones
+políticas radicales eran vistas como desvíos en la personalidad” (Piglia, 2015a, p. 178). Libre de mediaciones
+ﬁccionales, esta opinión es compartida por Piglia. En 2013, en una entrevista concedida a Casa de América
+con motivo de la publicación de El camino de Ida, el argentino expuso su posición al respecto:
+En el interior de Estados Unidos hay una violencia muy perceptible, que se maniﬁesta en estos individuos que, de pronto,
+realizan acciones inesperadas y muy violentas, como hemos visto muchas en los últimos tiempos. [...] Detrás de esos actos
+siempre hay escondidas razones sociales que en los Estados Unidos habitualmente no se discuten. Eso se soluciona de una
+manera rápida diciendo que el sujeto es un psicótico, pero llama la atención que estos psicóticos siempre tengan algún
+conﬂicto social antes.8
+En el mismo sentido se pronuncia uno de los personajes: “ya sabe cómo son las cosas aquí, más de un
+individuo metido en algo así y hay que hablar de política. Aislado, lo convierten en un caso clínico” (Piglia,
+2015a, p. 206). Pero el hecho es que quizá Munk no actuaba solo. Con esa ambigüedad se cierra la novela. La
+conversación que Munk y Renzi mantienen en el último capítulo no llega a arrojar luz sobre si Ida colaboraba
+o no en los actos terroristas. “No aﬁrmo ni niego”; esa es la frase que repite Munk antes de terminar diciendo:
+“Somos muchos en este país”9 (Piglia, 2015a, pp. 233, 234). La participación de Ida, de hecho, constituye el
+punto ciego de la novela. En cualquier caso, llevados a cabo en solitario u organizado junto a otras personas,
+la única explicación política de los actos de Munk la ofrecen sus simpatizantes:
+Sólo había atacado a las ﬁguras ocultas que sostenían el andamiaje social y la estructura tecnológico-militar. No había puesto
+la mira en los títeres políticos ni en los congresistas corruptos, tampoco atacó a los policías ni a los verdugos a sueldo, no
+atacó a los responsables económicos y ﬁnancieros de la catástrofe, atacó a los que conocía mejor que nadie, a la intelligentzia
+tecnológica del capitalismo criminal, a sus responsables conceptuales, a sus ideólogos, a los cientíﬁcos enloquecidos con sus
+máquinas infernales y sus prácticas biológicas. Estaba mal matar, pero estaba bien defenderse y, sobre todo, usar la violencia
+5
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+para romper el muro de silencio y dar a conocer el nuevo Maniﬁesto libertario, una pieza teórica que estaba en la mejor
+tradición norteamericana, la tradición de Jim Brown, de Malcolm X, de Chomsky (Piglia, 2015a, p. 219).
+Como se verá enseguida, sin embargo, muy poco hay en Kaczynski de esta tradición de activistas. En este
+sentido, el rasgo más sorprendente de La sociedad industrial y su futuro es el frontal rechazo al “izquierdismo”
+que enmarca sus tesis y estrategias contra la tecnología. Tanto al comienzo como al ﬁnal del maniﬁesto,
+Kaczynski exhibe un odio visceral al pensamiento tradicionalmente considerado “de izquierdas”. Según
+Kaczynski, esta categoría engloba a “socialistas, colectivistas, ‘políticamente correctos’, feministas, activistas
+por los homosexuales y los discapacitados, activistas por los derechos de los animales” (p. 7), movimientos
+de los que Munk aparece muy próximo en la novela. En cierto punto, por ejemplo, se especula con que la
+decisión de Munk de enseñar en Berkeley la motivó el deseo de “ver de cerca los movimientos anticapitalistas
+que estaban en auge” y “observar las acciones de los grupos anarquistas de la bahía de San Francisco” (Piglia,
+2015a, p. 155). Más adelante, se describe una manifestación, frente a la prisión donde estaba encerrado Munk,
+en Sacramento, y las personas que reclaman su liberación forman parte de los movimientos y colectivos contra
+los que arremete Kaczynski:
+Una marcha incesante de viejos idealistas, hijos de hippies, de fumados, defensores de los animales, ecologistas, paciﬁstas,
+antirracistas, feministas, poetas inéditos, artesanos del Big Sur, pero también defensores de los derechos humanos de Nueva
+York y de Chicago, defensores de las minorías, una marea de rebeldes, ex marxistas, anarquistas, trotskistas, muchos de los
+que habían luchado contra la guerra de Vietnam, contra la guerra del Golfo, contra los pesticidas y las centrales nucleares,
+eran defensores de las comunas campesinas, de los pequeños emprendimientos rurales, de la autogestión, del derecho de los
+presos, de los homeless, de todas las causas perdidas y todas las derrotas, como si Thomas Munk se hubiera atrevido a hacer
+lo que muchos de ellos hubieran querido hacer o decir, sin atreverse: ¡Matar a todos esos bastardos tecnócratas y capitalistas!
+(Piglia, 2015a, p. 217; la cursiva en el original).
+En La sociedad industrial y su futuro Kaczynski acusa a estos izquierdistas de estar “sobresocializados” y de
+albergar un sentimiento de inferioridad que los lleva a identiﬁcarse con grupos desfavorecidos, excluidos y
+derrotados y a odiar a América y a Occidente por ser fuertes y exitosos (9-16). Entre otras muchas críticas,
+esta alucinada diatriba señala un rasgo que distingue el pensamiento antitecnológico de Kaczynski del de
+los izquierdistas: el colectivismo, el antiindividualismo típico de estos grupos, que, según él, echaría por
+tierra el proyecto que propone (16). A diferencia del de Munk —colectivista, según la novela, aunque actúe
+como un lobo solitario—, el anarquismo de Kaczynski es individualista. Nada hay en él del embrionario
+socialismo agrario de los narodniki o populistas rusos que menciona Piglia. Mientras que el Maniﬁesto de
+Munk “proponía el regreso a la pequeña comuna rural precapitalista, con propiedad colectiva de la tierra, en
+la que cada uno vive del trabajo manual” (Piglia, 2015a, p. 133), Kaczynski se zafa de cualquier vinculación
+con el colectivismo y la izquierda, argumentando que este enfoque de la sociedad requiere de una gran
+organización y esta solo es posible a través de rápidas comunicaciones, inviables sin hacer uso de tecnología
+avanzada (p. 201). En cuanto a la propiedad privada, Kaczynski no la menciona más que lateralmente en uno
+de sus ataques al izquierdismo (p. 219). Y lo mismo sucede con el término “capitalismo” (p. 229), crucial
+en el análisis del Maniﬁesto de Munk desde su mismo título. Como se verá, en suma, la lectura geopolítica
+e histórica del avance del capitalismo tecnológico que realiza Munk no solo estará ausente, sino que sería
+inconcebible en el ensayo real de Kaczynski.
+El Maniﬁesto sobre el capitalismo tecnológico de Munk exhibe un enfoque claramente marxista. La “breve
+síntesis” de su análisis que ofrece la novela no deja lugar a dudas: “El Maniﬁesto practicaba la crítica de la
+crítica crítica” (Piglia, 2015a, p. 134), se dice empleando el subtítulo de La sagrada familia (1845), una de
+las primeras obras que publicaron Karl Marx y Friedrich Engels. Junto a esto, hay asimismo una referencia
+desviada al Maniﬁesto comunista (1848). Si en aquel texto el comunismo era el fantasma que recorría Europa,
+en el Maniﬁesto de Munk —a través de metáforas muy deleuzianas—, el capitalismo se deﬁne como un
+organismo vivo que no cesa de reproducirse, “un mutante darwiniano, ‘ya no un fantasma’, alegaba con ironía,
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+6
+‘más bien un alien’ que en su transformación tecnológica anunciaba el advenimiento de formas culturales
+que ni siquiera respetaban las normas de la sociedad que las había producido” (Piglia, 2015a, p. 131).
+La gran capacidad de expansión y de renovación técnica que Munk atribuye al capitalismo es una
+característica que también ﬁgura en el Maniﬁesto comunista, cuyo primer capítulo, “Burgueses y proletarios”,
+tiene en el texto una función similar a este fragmento del Maniﬁesto de Munk: ofrecer un diagnóstico del
+avance del capitalismo muy ligado a la transformación técnica de las fuerzas productivas. “La burguesía
+no puede existir sin revolucionar continuamente los instrumentos de producción, esto es, las relaciones de
+producción, esto es, todas las relaciones sociales” (Marx y Engels, 2001, p. 45). En este mismo sentido, se dice
+en la novela: “La producción capitalista es ante todo expansión de nuevas relaciones capitalistas. Por lo tanto,
+es imposible que este sistema mejore o se reforme ya que sólo busca reproducir la relación capitalista renovada
+y a escala ampliada” (Piglia, 2015a, pp. 131-132).
+La inoperancia de la reforma, como se ha visto, es una convicción también presente en el texto de
+Kaczynski. Pero cabe apuntar una diferencia. Kaczynski se reﬁere en todo momento a la reforma del sistema
+tecnológico-industrial. No habla de capitalismo. Ni siquiera lo menciona en su análisis. Según él, como señalé
+más arriba, no importa el modelo político e ideológico que gestione la tecnología. El problema es intrínseco a
+ella. Para explicarlo, Kaczynski emplea una idea esclarecedora tomada de L. Sprague de Camp, quien escribió
+lo siguiente en la década de los sesenta:
+Hoy en día, en las regiones tecnológicamente avanzadas, el hombre lleva vidas muy similares a pesar de las diferencias
+geográﬁcas, religiosas o políticas. Las vidas diarias de un oﬁcinista cristiano de un banco en Chicago, un oﬁcinista budista en
+un banco de Tokio, y uno comunista en Moscú son mucho más parecidas que la vida de cualquiera de ellos con un hombre
+que viviera hace mil años. Los parecidos son el resultado de una tecnología común (p. 119).
+Munk, en cambio, sitúa en el centro de su disertación la crítica al capitalismo (Piglia, 2015a, p. 131). Su
+rechazo a la tecnología se inserta por tanto en una reﬂexión mucho más amplia. De acuerdo con tesis como las
+del geógrafo marxista David Harvey (2003), “[a]nalizaba el fracaso de la URSS y sus satélites y la dominación
+del capital en China y en los viejos territorios coloniales de Oriente como una nueva etapa del avance del
+capitalismo en busca de espacios vacíos” (Piglia, 2015a, p. 132). Según Munk, las dinámicas globalizadoras
+del capitalismo en expansión permitieron la apertura de inmensas regiones y una “mutación cientíﬁca y
+tecnológica sorprendente”; como resultado, “un ejército de consumidores y de mano de obra de reserva fue
+puesto a disposición del mercado” (Piglia, 2015a, p. 132). La caracterización espacial de este proceso es central
+en el texto de Munk. “El capitalismo, en su expansión tecnológica”, es como una gran máquina de guerra:
+avanza implacable, cerca a la sociedad y “no se detiene ante ningún límite: ni biológico, ni ético, ni económico
+ni social” (Piglia, 2015a, p. 132). En este punto, obviamente, Munk está en sintonía con toda una tradición
+de pensamiento político de izquierdas. Así resume esta línea el ﬁlósofo italiano Franco “Bifo” Berardi:
+Rosa Luxemburgo aﬁrma que el capitalismo está intrínsecamente impulsado hacia un proceso de continua expansión. El
+imperialismo es la expresión política, económica y militar de esta necesidad de continua expansión que hace que el capital
+amplíe constantemente su dominio.
+¿Pero qué sucede cuando cada rincón del territorio planetario ha sido sometido a la norma de la economía capitalista y cada 
+objeto de la vida cotidiana ha sido transformado en una mercancía? En la Modernidad tardía, el capitalismo parecía haber 
+agotado toda posibilidad de futura expansión. Durante un determinado período, la conquista del espacio extraterrestre 
+aparentaba ser la nueva dirección de desarrollo para el crecimiento capitalista. Posteriormente, nos dimos cuenta de que la 
+dirección de desarrollo era sobre todo la conquista del espacio interior, el mundo interior, el espacio de la mente, del alma y 
+del tiempo (2017, p. 203).
+Del mismo modo, según Munk, una vez globalizado y omnipresente el capitalismo, una vez conquistados y
+agotados todos los espacios externos, “[l]as investigaciones genéricas, los experimentos en biología molecular
+y ciencias cognitivas, la posibilidad de clonación y de inseminación artiﬁcial”, persiguen traspasar el último
+límite —lo que Munk denomina “la frontera psíquica”— y dar forma así al particular “hombre nuevo”
+capitalista: “el adicto sin convicciones ni principios que sólo aspira a obtener su dosis de la mercancía
+7
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+anhelada” (Piglia, 2015a, p. 132). La conﬁguración de este “ciudadano ideal” responde a lo que Berardi
+denomina “mutación conectiva”; esto es: la transformación en la textura de la experiencia humana y en la
+organización del mundo sufrida paulatinamente a lo largo de las últimas décadas, en “la transición desde la
+tecnosfera mecánica a la digital” (Berardi, 2017, p. 18). De acuerdo con Munk, “[l]a sociedad tecnológica
+satisface a los sujetos: los entretiene y los ahoga en un océano de información rápida y múltiple” (Piglia, 2015a,
+p. 132). Elaborada en sus propios términos, la tesis de Berardi, aunque más desarrollada que la de Munk,
+apunta en esa misma dirección:
+El estrato de la infoesfera crece progresivamente y se hace cada vez más denso y espeso, y los estímulos informáticos invaden
+cada átomo de la atención humana. El ciberespacio crece sin límites, mientras que, al contrario, el tiempo mental no es
+inﬁnito. El núcleo subjetivo del cibertiempo sigue el ritmo lento de la materia orgánica. Podemos aumentar el tiempo de
+exposición del organismo a la información, pero la experiencia no se puede intensiﬁcar más allá de ciertos límites. Fuera de
+estos límites, la aceleración de la experiencia provoca una conciencia reducida de los estímulos, una pérdida de intensidad
+que concierne a la esfera de la estética, de la sensibilidad y también de la ética. [...] La aceleración de la infoesfera produce
+un empobrecimiento de la experiencia, porque nos expone a una masa creciente de estímulos que no podemos elaborar
+intensivamente o percibir y conocer profundamente [...] El punto crucial de la mutación contemporánea reside en la
+intersección entre el ciberespacio electrónico y el cibertiempo orgánico (2017, p. 204).
+El décàlage temporal que reﬁere Berardi ha sido observado por Piglia en la tensión entre la velocidad
+cada vez más rápida de la circulación de los textos y la inalterada velocidad de lectura. Como señala el
+argentino en una conversación editada bajo el título “Tiempo de lectura”, “la velocidad, la instantaneidad,
+tiene que ver con el material, con los signos: llegan más rápido, están más cerca. Pero la velocidad de lectura
+sigue siendo la misma, [...] lo que se ha acelerado es la posibilidad de acceso a los signos, pero no la lectura
+misma” (2015b, p. 21). Sin negar el desborde sígnico y la saturación de la infoesfera que analiza Berardi,
+Piglia, según esta caracterización de la lectura, parece encontrar en ella una manera de hacer frente a la
+aceleración contemporánea. Leer —“descifrar un signo atrás de otro”— sería una manera de detener el ﬂujo:
+“puede llegar la cantidad de información que sea, pero siempre vamos a tener que descifrarla mediante un
+movimiento cuya velocidad no depende de la máquina” (Piglia, 2015b, p. 23). La linealidad y el tiempo
+especíﬁco de la lectura son características antagónicas a la simultaneidad e instantaneidad propias del entorno
+tecnológico de nuestros días. Por eso la lectura puede verse como una forma de resistencia. En cuanto al
+“empobrecimiento de la experiencia” que acusa Berardi, Piglia, como Benjamin, ve el antídoto en la narración.
+Frente a la proliferación excesiva de información —lo opuesto de la experiencia, según Piglia (2015b, p. 35)
+—, la literatura, como una forma de narración más próxima al “cibertiempo orgánico”, podría resolver a través
+de su lentitud la diﬁcultad contemporánea para elaborar sentido y reconstruir así la experiencia, puesto que,
+en deﬁnitiva, para Piglia, encontrar un modo de narrar es encontrar el sentido de la experiencia.10
+Cabe por último detenerse en las operaciones que realiza Piglia al sintetizar el Maniﬁesto de Munk, cuyo
+referente real, como se ha dicho, es el texto de Kaczynski. Al principio, ambos textos coinciden. La cita del
+párrafo 96 del Maniﬁesto de Munk corresponde de manera exacta al mismo punto del texto de Kaczynski.
+Después, sin embargo, cuando lo parafrasea y selecciona breves citas del Maniﬁesto —terminológicas,
+fundamentalmente—, la correspondencia entre ambos textos desaparece. De esto se inﬁere algo claro: el
+método salvaje de matar para conseguir lectores resulta muy atractivo literariamente; pero cuando se trata
+de conﬁgurar la base política y teórica de las acciones terroristas, Piglia se distancia totalmente de la ﬁgura
+real Kaczynski. Desecha su análisis y lo suple con otro. Para ello, Piglia elabora un hipertexto (el resumen)
+de un hipotexto (el Maniﬁesto) que es ahora enteramente ﬁcticio, puesto que ha perdido el referente real.
+Este progresivo alejamiento del texto de Kaczynski culmina cuando se cita el párrafo que cierra el Maniﬁesto
+de Munk:
+“El capital”, concluía, “ha logrado —como Dios— imponer la creencia de su omnipotencia y su eternidad; somos capaces
+de aceptar el ﬁn del mundo pero nadie parece capaz de concebir el ﬁn del capitalismo. Hemos terminado por confundir
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+8
+el sistema capitalista con el sistema solar. Nosotros, como Prometeo, estamos dispuesto a aceptar el desafío y asaltar el
+sol” (Piglia, 2015a, p. 133).
+En lugar de ser el excipit de La sociedad industrial y su futuro —cuya “Nota ﬁnal” es una conclusión acerca
+de los peligros del izquierdismo moderno—, este último párrafo del Maniﬁesto reelabora ciertas ideas claves
+en el pensamiento anticapitalista. Una de ellas atraviesa por completo la obra de Piglia: la noción de utopía.11
+Al no postular una alternativa y llamar al mismo tiempo la atención sobre un mundo sin salida (Piglia, 2015a,
+pp. 132-133), Munk da cuenta de la crisis del pensamiento utópico que emergió en los últimos años del
+siglo XX. Modiﬁcando el concepto gramsciano de “crisis” (1981, p. 37), la situación, desde entonces, es la
+siguiente: las viejas utopías han muerto sin que las nuevas hayan podido nacer. Como el propio Maniﬁesto
+describe, la época en que se insertan el texto y las acciones de Munk está marcada por el derrumbe de las
+alternativas reales al capitalismo. Su hegemonía, por ende, se ha hecho absoluta. A tal punto ha llegado que
+ha logrado dominar la ﬁguración de los futuros posibles, ﬁjando así los límites de la imaginación social. De
+ahí la mención de esta célebre idea, normalmente atribuida al crítico estadounidense Fredric Jameson, quien
+escribió: “Someone once said that it is easier to imagine the end of the world than to imagine the end of
+capitalism” (2003). De esta manera, el capitalismo se ha naturalizado y se ha convertido, según la imagen que
+emplea Munk, en algo tan indiscutible como el sistema solar. Frente a esta constatación, caben, al menos, dos
+posturas posibles: el duelo —por más que sea leído positivamente, como en la “melancolía de izquierda” de
+Enzo Traverso (2019)—, o la huida hacia adelante: presentar batalla a cualquier coste. Esta segunda postura
+será la que abrace Munk.
+En la última línea del Maniﬁesto hay una combinación de dos metáforas griegas. De un lado, la alusión al
+mito de Prometeo. Del otro, la idea de asaltar los cielos. Respecto de la primera, la historia es bien conocida:
+Prometeo, en la mitología griega, es un titán que “robó semillas de fuego en ‘la rueda del Sol’ y las llevó
+a la tierra ocultas en un tallo de férula”, devolviéndole así a los mortales el elemento que Zeus les había
+negado (Grimal, 1981, p. 455). Por este gesto, Prometeo ha sido considerado una “divinidad civilizadora”,
+asociada especialmente con el progreso técnico, que se enraíza tradicionalmente en el dominio del fuego
+(Calvo Martínez, 2018). Por otra parte, a partir del Renacimiento, Prometeo será visto además como una
+valiosa fuente para la reconstrucción mítica de la rebeldía y la emancipación humanas (Hinkelammert, 2006).
+Su reto al poder omnímodo de Zeus se interpretó como un ejemplo mítico de la insumisión. En cuanto a la
+segunda metáfora, el asalto a los cielos, procede asimismo del mundo griego y se basa “en el célebre mito de los
+gigantes hijos de Poseidón que trataron de asaltar el Olimpo para derrocar a los dioses” (Cortés Gabaudan,
+2016, p. 422). Introducida por primera vez en la novela Hiperión, o el eremita en Grecia (1797), de Friedrich
+Hölderlin, esta metáfora ha sido también empleada por Marx —en una carta de 1871, dirigida a Ludwig
+Kugelmann—, en referencia al heroísmo de los insurrectos en La Comuna de París (Cortés Gabaudan, 2016,
+p. 422). El asalto a los cielos, por consiguiente, tanto en sus orígenes como en el Maniﬁesto, apunta a la
+conquista del poder por parte de los sometidos a través del ejercicio de la violencia revolucionaria.
+La combinación de estas dos metáforas no es arbitraria. Una interpretación alegórica de la última línea del
+Maniﬁesto permite recomponer en clave mítica el proyecto de Munk. Como Prometeo, Munk está solo: es
+un sujeto que se rebela contra el poder —no el de Zeus, sino el del capitalismo tecnológico— en aras de la
+emancipación humana. Para conseguirlo, Munk, como los gigantes, hace uso de lo que él considera violencia
+revolucionaria. Pero Munk no asalta los cielos. Ahí está la diferencia. Para Munk, el ﬁn de las utopías ha
+destruido toda alternativa. No hay cielo alguno que asaltar. De este modo, la potencia semántica que entraña
+la combinación de estas dos metáforas reside principalmente en dos modiﬁcaciones. La primera es la del mito
+de Prometeo. Según Munk, la emancipación humana, en lugar de depender de la recuperación del fuego —
+cuyo control, como se dijo, está en el origen del progreso técnico—, requiere de su extinción, o al menos de la
+destrucción de la “megamáquina” de la que hablaba Mumford, la tecnología “totalitaria y centralizada” que ha
+violentado a la sociedad. En otros términos: hay que asaltar el sol y destruirlo. Esa es la segunda modiﬁcación.
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+9
+La metáfora utópica del asalto a los cielos se torna así en una misión suicida. En este sentido, no es descabellado
+ver a Munk como una suerte de Ícaro antitecnológico. En la última línea del Maniﬁesto está inscrito su ﬁnal.
+3. Conclusiones
+El examen y la comparación de los maniﬁestos de la dupla Kaczynski/Munk y Unabomber/Recycler han
+resultado reveladores. La convergencia esencial entre ambos está en el uso de la violencia. No en vano el
+único párrafo del maniﬁesto de Kaczynski que Piglia cita ﬁelmente es aquel donde ofrece una “explicación”
+de sus actos. A este respecto, en síntesis, para Munk y Kaczynski, el terrorismo es un medio: las bombas
+conﬁguran una escena de lectura propicia para sus textos, la atención plena en mitad de la fugacidad y el ruido
+contemporáneos. Entre los dos maniﬁestos, por lo demás, abundan las diferencias. Aunque ambos siguen a
+Lewis Mumford y enfrentan la tecnología “totalitaria y centralizada” (2017, p. 387), tanto el enfoque político
+de su análisis como las alternativas que proyectan divergen ostensiblemente. Colectivista y de izquierdas,
+Munk, de hecho, es todo lo que Kaczynski odia. En este sentido, la revisión del Maniﬁesto de Munk demuestra
+dos cosas. De un lado, la distancia que lo separa de su referente real. Del otro, la tradición anticapitalista en
+que se enraíza su crítica a la tecnología. La de Munk, en deﬁnitiva, es una respuesta violenta y autodestructiva
+a la crisis de las utopías: la de un Ícaro antitecnológico dispuesto a asaltar el sol.
+Como indiqué en la introducción, Kaczynski continúa encerrado, cumpliendo cadena perpetua. Munk,
+en cambio, fue condenado a muerte y ejecutado. En el epílogo de la novela se narra su paso por la silla eléctrica
+y las últimas palabras que pronunció antes de morir. De manera paradójica, “[l]a transmisión por el circuito
+cerrado del penal había sido captada en vivo por un link de internet” y el discurso ﬁnal y la muerte del
+mayor terrorista antitecnológico de los últimos años corrió la misma suerte que la práctica totalidad de los
+acontecimientos del mundo contemporáneo; esto es: ser retransmitido en directo y poco después olvidado:
+El vídeo de la ejecución estuvo un tiempo en YouTube pero la madre apeló ante la justicia y logró que lo retiraran. Durante
+un par de semanas fue sustituido por la imagen de Munk recibiendo la Medalla Fields, pero también ese documento se perdió
+en el mar de la web (Piglia, 2015a, p. 237).
+Referencias
+Balderston, D. (2017). Piglia y el Unabomber: literatura y política en El camino de Ida. Revista Landa, 2(5), 378-391.
+Recuperado de https://issuu.com/revistalanda/docs/dossier_piglia_vol.5_n__2__2017_
+Berardi, F. (2017). Fenomenología del ﬁn. Sensibilidad y mutación conectiva. Buenos Aires: Caja Negra Editora.
+Calvo Martínez, T. (2018). Prometeo, divinidad civilizadora. Gazetade Antropología, 34. Recuperado de http://www
+.gazeta-antropologia.es/?p=5059
+Chase, A. (2000). Harvard and the making of the Unabomber. e Atlantic. Recuperado de https://www.theatlantic
+.com/magazine/archive/2000/06/harvard-and-the-making-of-the-unabomber/378239/
+Cortés Gabaudan, H. (2016). Asaltar el cielo: Hölderlin y la decepción revolucionaria. Razón y fe, 1412-1411(273),
+421-433. Recuperado de https://revistas.comillas.edu/index.php/razonyfe/article/view/9485
+Dawes, G. (2017). Hacia el pasado para llegar al futuro: El camino de Ida, de Ricardo Piglia. Gramma, 59, 133-144.
+Recuperado de https://dialnet.unirioja.es/servlet/articulo?codigo=6522003
+Fernández Cobo, R. (2016). La cólera subterránea o la terrible violencia de los hombres educados formas de la violencia
+en El camino de ida de Ricado Piglia. En VV.AA. (coord..), Tuércele el cuello al cisne: expresiones de la violencia en la
+literatura hispánica contemporánea (Siglos XX y XXI) (pp. 641-657). Sevilla: Editorial Renacimiento. Recuperado
+de https://dialnet.unirioja.es/servlet/articulo?codigo=5652272
+Gallego Cuiñas, A. (2019). Otros. Ricardo Piglia y la literatura mundial. Madrid: Iberoamericana Vervuert.
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+10
+Gallego Cuiñas, A. y Otero Tapia, M. J. (2020). El camino de Ida de Ricardo Piglia: una novela de campus feminista.
+América sin Nombre, 24, 23-33. Recuperado de https://rua.ua.es/dspace/bitstream/10045/100846/1/ASN_2
+4_2_02.pdf
+Gramsci, A. (1981). Cuadernos de la cárcel (2). México D.F.: Ediciones Era.
+Grimal, P. (1981). Diccionario de mitología griega y romana. Barcelona: Paidós.
+Harvey, D. (2003). El nuevo imperialismo. Madrid: Akal.
+Hinkelammert, F. (2006). Prometeo, el discernimiento de los dioses y la ética del sujeto. Polis, 13. Recuperado de ht
+tp://journals.openedition.org/polis/5527
+Jameson, F. (2003). Future City. New Le Review, 21. Recuperado de https://newleftreview.org/issues/II21/article
+s/fredric-jameson-future-city
+Kaczynski, T. (1995). La sociedad industrial y su futuro. Recuperado de https://essentialinstitute.org/uploads/2_i_3
+_Theodore_Kaczynski_Manifiesto_de_Unabomber.pdf
+Marx, K. y Engels, F. (2001). Maniﬁesto comunista. Madrid: Alianza Editorial.
+Mumford, L. (2017). El mito de la máquina. Técnica y evolución humana. Logroño: Pepitas de calabaza.
+Othoniel Rosa, L. (2019). Traiciones en El camino de Ida. Cuadernos Lírico, Hors-série. Recuperado de https://jour
+nals.openedition.org/lirico/7670#text
+Piglia, R. (2013a). Respiración artiﬁcial. Barcelona: Penguin Random House.
+Piglia, R. (2013b). La ciudad ausente. Barcelona: Penguin Random House.
+Piglia, R. (2014). Crítica y ﬁcción. Barcelona: Penguin Random House.
+Piglia, R. (2015a). El camino de Ida. Barcelona: Penguin Random House.
+Piglia, R. (2015b).  La forma inicial. Conversación en Princeton. Madrid: Editorial Sexto Piso.
+Piglia, R. (2016). Las tres vanguardias: Saer, Puig, Walsh. Buenos Aires: Eterna Cadencia.
+Piglia, R. (2017). Los diarios de Emilio Renzi. Un día en la vida. Barcelona: Anagrama.
+Piglia, R. (2019). Teoría de la prosa. Buenos Aires: Eterna Cadencia.
+Traverso, E. (2019). Melancolía de izquierda. Después de las utopías. Barcelona: Galaxia Gutenberg
+Notas
+1 En adelante, las referencias a la novela corresponderán a la edición de Penguin Random House (2015a).
+2 De esta modalidad del ensayo dan muestra las lecciones magistrales transcritas y reunidas en Las tres vanguardias (2016)
+y Teoría de la prosa (2019). Otro ejemplo puede hallarse en los diarios del escritor: una clase sobre el olvido ligado a la
+forma de la nouvelle (Piglia, 2017, p. 204-210).
+3 Un resumen oﬁcial del caso puede encontrarse en: https://www.fbi.gov/history/famous-cases/unabomber
+4 El apodo “Recycler” es leído por Daniel Balderston en relación con la condición de “plagiario” de Munk a ojos de Renzi,
+quien lo ve como alguien que “recicla materiales ajenos y los ﬁrma” (2017, p. 387). Esta observación es muy aguda, puesto
+que tanto en el texto de Munk como en el original de Kaczynski pueden rastrearse un notable número de ideas ajenas
+que no aparecen referenciadas. En la novela, sin embargo, el apodo parece apoyarse esencialmente en otro detalle: todas
+las cartas bomba que enviaba Munk —como las de Kaczynski— “eran artefactos caseros hechos de material de descarte
+y restos de elementos industriales” (Piglia, 2015a, p. 105). En coherencia con su pensamiento ecologista, Munk reciclaba
+para llevar a cabo sus atentados.
+5 Aunque no ha sido posible acceder a una edición paginada y ﬁable del texto de Kaczynski, los párrafos de La sociedad
+industrial y su futuro están numerados. Por ello, en lo que sigue, las citas del maniﬁesto se harán de este modo, en
+referencia al número de párrafo que corresponda.
+6 Daniel Balderston señala que “Piglia se toma muchas libertades en sus descripciones del maniﬁesto de Kaczynski. Dice,
+por ejemplo, que se cita en el maniﬁesto a Lewis Mumford (p. 161) pero no es así: me parece muy probable que
+Kaczynski haya leído a Mumford, importante crítico de ciertos procesos de la modernidad, pero su nombre no aparece
+explícitamente en el maniﬁesto” (2017, p. 384). A mi juicio, es más que probable que Kaczynski haya leído a Mumford,
+a quien, en realidad, como explico, prácticamente parafrasea sin citarlo.
+11
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+7 A este respecto, se lee en los diarios, en una entrada de 1978: “Me identiﬁcaba con él [con Gramsci] en su lucha contra el
+fascismo en condiciones de extrema diﬁcultad, en la cárcel como yo, digamos. La posición de Gramsci, ‘democrática’ y de
+frente amplio, se oponía al izquierdismo de Bordiga. Algo de eso pienso yo en estos días, al sol, en una pausa, en relación
+con los amigos que eligieron hace años —equivocadamente, para mí, y obedeciendo a una dirección política imbécil o
+provocadora— la lucha armada” (Piglia, 2017, p. 66).
+8 Recuperado de https://www.youtube.com/watch?v=W1CE7P19WHM
+9 Auténtico leitmotiv en Piglia, la idea de las vidas múltiples y divididas en series atraviesa la conversación y permanece en
+la cabeza de Renzi cuando se despide de Munk y se queda a solas. “‘Somos varios’, había dicho. Era una frase ambigua que
+sólo podía ser comprendida si uno conocía sus ideas. “Soy Chambige, soy Badinguet, soy Prado, soy todos los nombres
+de la historia” (Piglia, 2015a, p. 235). Esta versión modiﬁcada de la frase que Friedrich Nietzsche le escribió a Jakob
+Burckhard del 5 de enero de 1889 aparece asimismo en Respiración artiﬁcial: “yo soy Ossorio, soy un extranjero, un
+desterrado, yo soy Rosas, era Rosas, soy el clown de Rosas, soy todos los nombres de la historia” (Piglia, 2013a, p. 60).
+10 Esta idea es central en la poética de Piglia al menos desde Respiración artiﬁcial, cuya primera parte se abre con un epígrafe
+de T.S. Eliot que apunta en esta dirección: “We had the experience but missed the meaning, an approach to the meaning
+restores the experience”.
+11 De hecho, está en el núcleo de su poética. Para Piglia, el arte de narrar consiste en «ser capaz de transmitir al lenguaje
+la pasión de lo que está por venir» (2014, p. 98). Así lo expresó en una entrevista titulada “Novela y utopía”. En ella
+modiﬁca una cita extraída de El principio de esperanza (1954), de Ernst Bloch, para sostener que “el carácter esencial de
+la literatura es tratar lo todavía no manifestado como existente” y concluir que “en última instancia la literatura es una
+forma privada de la utopía” (Piglia, 2014, p. 94).
+Orbis Tertius, vol. XXVII, nº 35, e231, mayo-octubre 2022. ISSN 1851-7811
+12
+Ediciones de la FaHCE utiliza Amelica Marcador XML, herramienta desarrollada con tecnología XML-JATS4R por Redalyc. 
+Proyecto académico sin fines de lucro desarrollado bajo la  iniciativa Open Access 

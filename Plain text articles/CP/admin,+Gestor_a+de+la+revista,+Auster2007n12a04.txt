@@ -1,0 +1,635 @@
+LA ADIVINACIÓN EN OEDIPUS DE SÉNECA 
+En la introducción a su traducción castellana de Edipo Rey de Séneca!, J. Lu-
+que Moreno resume lo que ha sido la opinión generalizada de la crítica durante 
+los siglos XIX y XX. Haciendo la comparación obligada con Edipo Rey de Sófo-
+cles, señala dos puntos evidentes de divergencia: las escenas de adivinación por 
+el fuego y las vísceras (vv. 291-402) y la necromancia (vv. 509-658) por un lado, 
+y la presencia escénica de Yocasta en toda la obra. Coincide con la apreciación de 
+K. Büchner al destacar "la falta de relación entre las partes y el todo" y "la fuer-
+te autonomía de las escenas que va más allá de lo que supondría el planteamien-
+to de éstas en función de una estructura dramática global"2. 
+Considera la primera parte de la tragedia senequiana, donde se encuentran 
+las escenas rituales, "una serie de episodios sueltos" y para finalizar afirma: 
+Algunos de estos episodios, como los de adivinación a que antes nos refe-
+ríamos, ofrecen una buena prueba de lo que estamos diciendo, pues, si bien 
+para algunos resultan dramáticamente apropiados y encajan bien como pre-
+paración para el descubrimiento de la verdad, es decir, están planteados en 
+función del "suspenso" de la pieza, no cabe duda de que se les ha dado una 
+excesiva extensión que les hace perder coherencia como elementos de una 
+estructura dramática total"3. 
+Hemos citado estas opiniones de curso corriente que evidencian la negli-
+gencia de la crítica, restringida a la discusión de aspectos epidérmicos de la obra. 
+Sin duda, no compartimos tales opiniones y creemos, por lo contrario, que la tra-
+gedia que compone Séneca no ofrece partes supernumerarias, meramente orna-
+mentales y retóricas, sino que todas se entraman ajustadamente reclamadas por 
+las ideas que impulsan esta nueva versión de Edipo. 
+Parece de rigor, en la temprana crítica del siglo XX sobre la obra dramática 
+de Séneca, establecer paralelos entre las producciones romanas y las griegas pa-
+ra ver en qué puntos el romano "se desviaba" del "original" griego y hasta qué 
+punto tales" 
+desviaciones" podían considerarse argumental y escénicamente to-
+lerables. El estudio de Edipo de Séneca ha resultado anodino al ceñirse a compa-
+raciones con la tragedia de Sófocles, celebrada por Aristóteles como obra "per-
+fecta", lo que significó, en la perspectiva romántica, un tácito dictamen de supe-
+1 Séneca, TragedÚls. Introducción, traducción y notas de Jesús Luque Moreno. Madrid, Gredas, 1999 
+(reimpresión de 1980), Tomo 11, p. 88. 
+2 Luque Moreno, J. "Introducción". En: Séneca, Op.cít. p.89. 
+3 Luque Moreno, J. Ibídem p.90; el resaltado es nuestro. 
+41 
+AUSTER 12 (2007): 41-55 
+La adivinaci´
+on en Oedipus de S´
+eneca
+GAL´
+AN L´
+ıa Margarita
+Auster, 2007 (12). ISSN 1514-0121.
+http://www.auster.fahce.unlp.edu.ar
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on.
+Centro de Estudios Latinos
+Esta obra est´
+a bajo licencia Creative Commons Atribuci´
+on-NoComercial-SinDerivadas 2.5 Argentina
+1
+LA ADIVINACIÓN EN OEDIPUS DE SÉNECA 
+cuente aparición del espectro de Layo que ha convocado. La necromancia, a di-
+ferencia del extispicio, no se presenta en escena sino que es relatada, recurso ha-
+bitual en las tragedias de Séneca para las acciones más escabrosas y truculentas. 
+La tragedia griega suscribe la autoridad panhelénica del oráculo de Delfos 
+y la intervención del reticente Tiresias contribuye más a agudizar el conflicto de 
+Edipo que a brindar nuevos datos para el avance de la investigación. En el con-
+texto romano, este planteo no parece suficiente y Séneca rediseña la historia in-
+troduciendo formas de adivinación tradicionalmente válidas para el auditorio 
+contemporáneo. Creemos que este punto es de particular relevancia en la nueva 
+versión romana. 
+Para un análisis más completo, estimamos conveniente recordar la impor-
+tancia de la adivinación en Roma en general y en Séneca en particular. 
+Séneca en el contexto de la adivinación romana 
+Algunas formas de adivinación son originariamente itálicas, si bien todos 
+los pueblos han tenido sus propias formas de practicarla, tal como afirma Cice-
+rón en uno de los tratados más completos sobre el tema que se conservan, De 
+Diuinatione, del que citamos su caracterización general de la diuinatío: 
+"Constituye una antigua creencia, que se remonta hasta los tiempos heroi-
+cos y que se halla confirmada por el sentimiento unánime del pueblo roma-
+no y de todas las naciones, que existe entre los hombres una cierta facultad 
+de adivinación. Los griegos la llamaban mantíké, es decir, la predicción, la 
+ciencia de las cosas futuras, ciencia sublime y provechosa, por la cual la na-
+turaleza humana alcanza su máxima cercanía con la potencia divina. En es-
+to, como en muchas otras cosas, nosotros hemos mejorado a los griegos, ya 
+que hemos dado a esta facultad superior un nombre tomado de la divini-
+dad: diuínatío, mientras que los griegos, según la interpretación de Platón, 
+le hallaron uno en la palabra furor (manía, de donde viene la palabra manti-
+ké). Lo seguro es que no veo ninguna nación, por ilustrada y sabia o por gro-
+sera y bárbara que sea, que no crea en una revelación del porvenir y que no 
+reconozca a algunos la facultad de predecirlo"7. 
+Inspirado en Platón, distingue dos especies de díuínatío, la inductiva o artificial 
+7 Vetus opinio est Úlm usque ab heroicis ducta temporibus, eaque et populí Romani et omnium gentium ¡ir-
+mata consensu, versari quandam inter homines diuinationem, quam Graeci mantiken appe/lant, id est prae-
+sensionem et scientÚlm rerum futurarum. magnifica quaedam res et salutaris, si modo est u/la, quaque pro-
+xime ad deorum vim natura mortalís possit accedere. ítaque ut alía nos melius multa quam Graeci, sic huic 
+praestantissimae rei nomen nostri a diuis, Graeci, ut Plato interpretatur, a 
+furore duxerunt. 2 gentem qui-
+dem nu/lam vídeo neque tam humana m atque doctam neque tam inmanem tamque barbaram quae non sig-
+nificari futura et a quibusdam inte/legi praedicique posse censeat (De Diu. l, 1, 1-2). 
+43 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+2
+LiAGALÁN 
+y la intuitiva o natural: 
+duo sunt enim diuinandi genera, quorum alterum artis est, alterum naturae. 
+(De Diu. 1, 11, 8) 
+(dos son los géneros de la adivinación, de los cuales uno corresponde al ar-
+te, otro a la naturaleza) 
+La primera de estas formas adivinatorias se basa en la observación de distinto ti-
+po de fenómenos naturales (rayos, vísceras de animales, vuelo de aves, etc.) per-
+cibidos por los adivinos y siempre requiere la mediación de un soporte natural 
+o sobrenatural como en la necromancia. La segunda es una especie de locura 
+pues la divinidad inspira directamente al profeta, sin mediación alguna, en una 
+especie de posesión temporaria. 
+Conviene asimismo mencionar brevemente los aspectos más característicos 
+de las prácticas religiosas itálicas cuyas raíces se hunden en la enigmática cultu-
+ra de los etruscos. 
+La adivinación tenía en Roma sus ministros y expertos: 
+1. Augures 
+2. Decemuiri sacris faciundis: eran intérpretes de los Libros Sibilinos 
+3. Harúspices: examinaban las entrañas de las víctimas (extispicio) y en es-
+pecial el hígado (hepatoscopía) 
+Augures y Decemuiri sacris faciundis estaban a cargo del culto oficial y regular 
+mientras que los harúspices eran convocados con motivo de alguna necesidad. 
+El amplio y minucioso corpus de la doctrina adivinatoria y sus ritos consti-
+tuía la llamada disciplina etrusca, que incluía Libri Haruspicini que trataban so-
+bre la consulta de las vísceras de los animales; Libri Fulguratores sobre la ciencia 
+del rayo, Libri Rituales referidos a la organización de la esfera celeste, los ritos de 
+fundación de ciudades y consagración de templos, los ritos concernientes a la es-
+fera cívica y militar, Libri Acherontici sobre la vida de ultramundo y los rituales 
+de purificación; Libri Fatales sobre el destino ifatum) del pueblo etrusco y Libri 
+Ostentaria sobre interpretación de prodigios y fenómenos de la naturaleza. 
+Así, pues, la disciplina etrusca (haruspicum disciplina, "disciplina de los ha-
+rúspices") se encuentra ligada al pueblo romano desde los tiempos más remotos 
+e integra el imaginario de la fundación de Roma: 
+44 
+principio huius urbis parens Romulus non solum auspicato urbem condidisse, sed 
+ipse etiam optumus augur fuisse traditur. 
+(Cic. De Diu. 1,3). 
+(En el origen, se dice que Rómulo, padre de esta ciudad, no sólo fundó la 
+ciudad por el auspicio sino que también él mismo fue el mejor augur.) 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+3
+LA ADIVINACIÓN EN OEDIPUS DE SÉNECA 
+Agrega, a continuación, que nada se lleva a cabo sin consultar los auspicia (nihil 
+publice sine auspiciis). 
+En el caso de Séneca, tiene particular incidencia su adhesión a la filosofía es-
+toica ya que los estoicos tratan de arraigar la fe en la adivinaciónB a partir del 
+principio de la sympatheia (consensus naturae, traduce Cicerón9), cohesión cósmi-
+ca que Lucano considera una prueba de la inmanencia divina, un trabajo activo 
+de los dioses en el mundo que se manifiesta en algunos lugares, como Delfos, o 
+en alguna personas (profetas, filósofos). 
+La simpatía y el fatalismo estoicos son favorables a toda especie de adivina-
+ción. La simpatía cósmica une todos los seres del universo, que se ligan entre sí 
+por relaciones necesarias que abarcan presente, pasado y futuro. El destino es un 
+orden, una sucesión de causas que producen efectos necesarios, causa eterna de 
+todas las cosas según las leyes de la naturaleza 
+10. No hay, pues, partes inconexas. 
+El sabio encuentra, dentro de la cadena del orden cósmico, el significado de to-
+dos los datos de la naturaleza, por más pequeños que parezcan. Según estos 
+principios, la peste es una inevitable consecuencia de la sympatheia cósmicall y 
+motivo de alarma para Edipo; la creciente angustia se profundiza con la visión 
+del coro, que percibe la contracara de la sympatheia, la súbita y alarmante des-
+trucción de la organización cósmica por irrupción del caos que descompone la 
+naturaleza 
+12. 
+En suma, la haruspicum disciplina gozaba de amplia autoridad en Roma y re-
+presentaba una forma fidedigna de conocer los designios y mandatos de las di-
+vinidades, tanto de los superi (dioses celestes) como de los inferi (divinidades del 
+mundo subterráneo). 
+Los ritos en Oedipus 
+Las escenas que contienen relatos o representaciones de diuinatio son tres: 
+1. La respuesta que trae Creonte tras consultar el oráculo de Delfos, que tiene co-
+rrespondencias con la tragedia de Sófocles (primer episodio) 
+2. La llegada de Tiresias y su hija Manto, con la introducción de un rito adivina-
+8 Flaceliere, R. Adivinos y oráculos griegos. Buenos Aires Eudeba, 1993 (trad. del original francés De-
+vins et oracles grecs, París, 1961), p. 85. 
+9 Tusc. I, 35,l. 
+10 Flaceliere, R. Op. Cit. p. 86. 
+11 Cf. Rosenmeyer, T. G. Senecan Drama and Stoic Cosmology. California, University of California P., 
+1989, p. 111. 
+12 The charus' visualisation of the plague-infested land of 
+Thebas rings the negative changes on Stoic doctri-
+ne of 
+"sympatheia" or universal interaction to present a world where nature has been in 
+verted, the barriers 
+between life and death have disolved, and the living and dead conjoin (vv. 149-79) (Boyle, A. J. Tragic Se-
+neca. An essay in the theatrical tradition. London - New York, Routledge, 1997, pp. 93-4). 
+45 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+4
+LfAGALÁN 
+torio en escena (primer episodio) 
+3. El rito de necromancia relatado por Creonte a Edipo (segundo episodio) 
+Analizaremos, a continuación, estas escenas. 
+1. 
+El Oráculo de Delfos 
+En correspondencia con la versión griega, las acciones de Oedipus comien-
+zan con el regreso de Creonte tras consultar el oráculo de Delfos. La diuinatio 
+oracular constituye la forma más difundida de la adivinación intuitiva o natu-
+ral, y Delfos es el oráculo más célebre, de presencia constante en la literatura gre-
+colatina. 
+Afianzado como paradigma oracular, Delfos llega a convertirse en una ins-
+titución de reconocido prestigio en el mundo griego. En tiempos de Sófocles 
+conservaba una particular forma de dominio a causa de su estabilidad, dentro 
+de una confederación precaria de pueblos que cambiaba frecuentemente de con-
+figuración bajo el peso de las circunstancias. 
+Sin embargo, es interesante observar que Tebas tenía, desde tiempo inmemo-
+rial, el Isménion, lugar tradicional de revelaciones, un oráculo que no remite a una 
+fundación apolínea. Con él se relacionan Tiresias, Manto y Téneros. En el caso de 
+Tiresias importa destacar que ni el origen legendario de su presciencia ni su mé-
+todo adivinatorio proceden de la religión de Apolol3. Sin embargo, el sacerdote 
+de Zeus se ha transformado en sacerdote de Apolo en la tragedia romana". 
+Según Herodoto (VIII, 134), en Tebas se seguían los ritos de Olimpia, es de-
+cir los procedimientos de empiromancia y extispicio15 que introduce Séneca en 
+esta tragedia y que analizaremos más adelante. Tebas tenía, además, un segun-
+do oráculo, el de Apolo Espodio (Apollon Spodios), con un altar de ceniza como 
+el de Olimpia que muestra el método de los oficiantes. Las víctimas se apoyaban 
+sobre un fragmento de roca llamado "piedra del juicio" y se realizaba el examen 
+de las entrañas. Sin embargo, este oráculo parece no haber tenido una organiza-
+ción regular ni sacerdocio estable pues actuaban en él adivinos independientes, 
+por lo que su autoridad se restringía a una limitada región de Beocial6. Al exten-
+derse la fama de Delfos y la autoridad del oráculo de Apolo, el Isménion pasa 
+13 Cf. Bouché-Leclercq, A. Histoire de la divination dans /'Antiquité. Grenoble, Éditions Jéróme Million, 
+2003 (1 a edición en 4 vol. Paris, Éditions Emest Leroux, 1879-82), p. 690. 
+14 Cf. v. 297: quo uocat ... Phoebus. 
+15 Bouché-Leclercq, A. Op. cit. ibid. 
+16 Es necesario apuntar, al menos, que estos centros oraculares funcionan en el marco de las pugnas 
+políticas de ciudades y pueblos que competían por la supremacía y proclamaban la autoridad de 
+sus respectivos centros sagrados. La tragedia ática está ampliamente involucrada en estas dispu-
+tas, como lo han demostrado innumerables estudios producidos en las últimas décadas, y es ma-
+nifiesta su adhesión a la autoridad político-religiosa de Delfos. El rey de Tebas de Sófocles no re-
+curre al oráculo patrio sino al délfico para obtener una respuesta fidedigna y veraz, sin que se re-
+quiera una consulta local, lo que en cierta medida implica desvalorizar la autoridad del oráculo 
+tebano. 
+46 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+5
+LA ADIVINACIÓN EN OEDIPUS DE SÉNECA 
+también a inscribirse entre los lugares de revelación apolínea, conocido entonces 
+como Apollon Isménios, y se transforma en el oráculo nacional de Tebas. Pese a 
+esto, no hay mención de este oráculo en Sófocles. 
+Al introducir, pues, la escena de Tiresias y Manto, Séneca no sólo actualiza 
+el mito con ritos adivinatorios de profunda raíz itálica sino que apoya la perti-
+nencia de tales escenas en una especie de corrección histórica: los tebanos no só-
+lo podían confiar, como quiere Sófocles, en el oráculo de Delfos sino que además 
+tenían su propia diuinatio local, con un método adivinatorio que era institucio-
+nalmente autorizado como forma Ipatria"17. 
+Edipo manda a Creonte a consultar el oráculo de Delfos para el presente (no 
+para el futuro); el oráculo se refiere al pasado y Edipo mismo pide a Tiresias que 
+le revele el pasado, algo frecuente en las consultas oraculares. El Creonte de Sé-
+neca no llega, como el griego, con la alegría en el semblante ni la cabeza corona-
+da de laurel, signos ambos de buenos augurios. Se acerca con paso apresurado 
+(propero ... gressu) trayendo los responsa del oráculo: 
+Creon: Responsa dubia sorte perplexa iacent. (v. 212) 
+(Las respuestas persisten dudosas por un oráculo confuso) 
+El clima que crea esta entrada de Creonte es inquietante y acrecienta el temor 
+que Edipo manifiesta desde el principio. El oráculo ha respondido dubia porque 
+sólo ha dicho que hay un crimen y un criminal, pero no ha dicho quién es y es-
+to sigue complicando las cosas ya que la peste continuará asolando Tebas hasta 
+que se encuentre al culpable. Aquí aparece una diferencia básica entre la versión 
+griega y la romana: en la primera la pregunta estaba respondida porque ya se sa-
+bía la causa de la peste y su remedio, restando la identificación del culpable; en 
+la segunda, el oráculo contesta a medias, no ofrece una respuesta clara, por lo 
+que el problema permanece sin cambios. La consulta délfica ha sido sólo un pa-
+so hacia la solución, no la solución fundamental de la peste. Merece observarse, 
+además, que el Edipo de Sófocles encara el cumplimiento del oráculo como go-
+bernante de una polis en la que es posible hacer un llamado general para que el 
+pueblo mismo colabore en el descubrimiento del culpable. El Edipo de Séneca se 
+mueve en la sociedad imperial neroniana, es rey de un imperio excesivamente 
+vasto como para detectar con un llamado cívico al asesino y resultar verosímil. 
+Pero si sólo se tratara de una adaptación al nuevo auditorio, no se pasaría de un 
+recurso retórico- escénico que habilita una progresión de horrores dispuestos pa-
+ra commover el affectus de la audiencia. De lo que se trata, según entendemos, 
+es de introducir sucesivas comprobaciones a partir de lo dicho por el oráculo 
+17 Diodoro (XVll, 10) relata que, ante la amenaza de Alejandro, los tebanos consultaron el oráculo 
+patrio, es decir el de Apollon Isménios. 
+47 
+AUSTER 12 (2007): 41-55 
+----.----------------------------------------------------------
+Auster, 2007 (12). ISSN 1514-0121.
+6
+LfAGALAN 
+délfico (como ya vimos, una adivinación intuitiva de pura inspiración), compro-
+baciones que presentarán cuadros de empiromancia, extispicium y necromancia 
+como expresión de "a distinct and distinctively Roman world"18. 
+2. Tiresias y Manto 
+Tiresias, a continuación, acude ante Edipo para contribuir con nuevas reve-
+laciones. No obstante, Séneca ha remodelado por completo el personaje que co-
+nocemos a través de Sófocles. No es ya un vidente sino un harúspice, la figura 
+del adivino más familiar y verosímil para el auditorio romano. 
+Es sabido que los harúspices interpretaban las vísceras de los animales es-
+pecialmente sacrificados (hastíae cansultataríae) en el ritual de extispícium. En el 
+extispicio se tomaban en cuenta la forma, el color, estado y disposición de los ór-
+ganos internos del animal, y cada detalle, en particular los defectos y anormali-
+dades, tenían una razón de ser que sólo podía dilucidar el harúspice19. 
+En el ritual se analizaba el estado de los diversos órganos (corazón, pulmo-
+nes, etc.) pero se prestaba especial atención al hígado. El interés mántico provie-
+ne de la importancia asignada al hígado como asiento de las emociones, pero 
+también porque se lo consideraba una representación esquemática del cosmos. 
+Dado su aspecto general y su particular conformación, el hígado constituía un 
+"templo terrestre", correspondiente al templum caeleste, una perfecta imagen del 
+universo con orientación espacial y regiones estelares sobre las que actuaban las 
+diversas divinidades. El más importante testimonio de la antigüedad acerca de 
+la hepatoscopía es el hígado de Piacenza, una pieza arqueológica única de incal-
+culable valor para el conocimiento de las culturas mediterráneas. 
+Se encuentra también un testimonio en Platón, que incluye el extispicio en 
+su teoría general de la mántica2o; el hígado es un espejo del pensamiento divino 
+y guarda las huellas de las imágenes contempladas por el alma21. 
+Sin embargo, Bouché-Leclercq22 afirma que, en rigor, el extispicio era desco-
+nocido en la época de Homero; si bien el sacrificio constituía el acto religioso por 
+excelencia, los sacerdotes de Homero no hacían un examen de las entrañas sino 
+que se limitaban a juzgar si el sacrificio había sido aceptado o rechazado por los 
+dioses de acuerdo con el movimiento del humo, método conocido como empi-
+romancia o adivinación por el fuego del que también hablaremos. 
+18 Boyle, A.J. Op. Cit. p. 96. 
+19 Cf. Bloch, Raymond. Les Prodiges dans L'Antiquité Classique (Gréce, Étrurie et Rome). Paris, PUF, 
+1963, p. 33 Y 
+ss. 
+20 Timeo 71c. 
+21 Bouché-Leclercq, A. Op. cit. p. 134 : Cette conception entraine apres elle une conséquence fficheuse, c' 
+est 
+que les entrailles humaines doivent are les plus intéressantes ¡¡ consulter. Estrabón (III, 3, 6) consigna la 
+existencia de esta práctica llamada antropomancia entre algunos pueblos (los lusitanos, los alba-
+nienses del Cáucaso). 
+22 Bouché-Leclercq, A. Op. Cit. p. 134-5. 
+48 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+7
+LA ADIVINACIÓN EN OEDIPUS DE SÉNECA 
+Si a esto se suman las escasas e imprecisas referencias al origen griego del 
+extispicio, atribuido a Delfos, hijo de Poseidón23, o a Promete02
+\ resulta posible 
+admitir la antigüedad y la autoridad del extispicio estrusco contenido en los Li-
+bri Haruspicini. Por otra parte, el extispicio griego queda reducido a una hepatos-
+copía - i.e. observación del hígado - y se asocia rápidamente con la astrología25• 
+K. O. Müller26, entre los primeros, considera que el haruspicio fue llevado desde 
+Etruria a Grecia en el siglo VI a.c., tesis avalada posteriormente por testimonios 
+arqueológicos. 
+El episodio de Tiresias presenta una diferencia marcada con la versión grie-
+ga de la tragedia. El adivino llega en compañía de su hija Manto, una especie de 
+guía y apoyo del anciano ciego, y es un personaje distinto: ha venido para cola-
+borar en la dilucidación del oráculo, se disculpa por su "lengua torpe" y agrega 
+"al que carece de vista se le oculta gran parte de la verdad"27. Pero cumplirá su 
+tarea como servicio: "a donde me llama la patria, a donde Febo, allí voy yo: des-
+cubramos los hados"28. Tal como señalamos al comienzo, los harúspices no cum-
+plían una función regular sino que eran convocados en momentos de peligro o 
+necesidad. Tal se presenta Tiresias, atento a su servicio. No hay renuencia o te-
+mor de hablar. No hay precognición: Tiresias y Manto realizarán un rito en el 
+que el adivino irá interpretando los datos que su hija le proporcione mientras 
+cumple la operación ritual, donde se combinan el extispicio y la empiromancia 
+con el culto apolíneo en el que expresamente se inscribe el Tiresias romano. Sé-
+neca, pues, incorpora ambas formas de adivinación, que aparecen regularmente 
+combinadas tal como aquí ocurre. 
+Si bien el rito adivinatorio basado en la observación del fuego se denomina 
+genéricamente piromancia, Bouché-Leclercq distingue entre piromancia yempi-
+romancia. La primera basa su adivinación en el aspecto de la llama, mientras 
+23 Plinio VII, 56, 203 ; Nono Synag. Hist. 6l. 
+24 Curiosamente, esta versión ofrece una interesante coherencia lógica ya que la culpa de Prometeo 
+es haber revelado a los seres humanos los secretos divinos a través de la observación del hígado, 
+esto es, la hepatoscopía, y que el castigo -el águila o buitre que diariamente devora su hígado - co-
+rresponde a tal culpa. Esta versión no se encuentra desarrollada literariamente; sólo aparece una 
+breve e imprecisa referencia en Esquilo (Promet. 493 y ss.). Véase también C. Kerenyi. Prometheus. 
+Archetypal Image of Human Existence. Princeton, Princeton University Press, 1991 (Zürich, Rhein, 
+1946 _la ed. en alemán-), p. 39; d. el comentario de Tochterle, K. Lucius Annaeus Seneca. Oedipus. 
+Kommentar mit Einleitung, Text und Übersetzung. Heidelberg, Winter, 1994 (en especial pp. 301 Y 
+ss.), 
+que además observa: Die Empyromantie steht schon in der Liste der durch Prometheus überbrachten 
+mantischen Mittel bei Aischylos, Prom. 496-9. Zum Opferfeuer Stellung bezieht Teiresias auch bei Sopho-
+kles, Ant. 1006 ff. (p. 312). 
+25 Le foie occupait tellement les hiéroscopes grecs qu'ils négligeaient presque completement les six autres or-
+ganes étudiés par la science complete, ¡¡ savoir le coeur, la rate, l' 
+estomac, le poumon et les deux reins (Bou-
+ché-Leclercq, A. Op. Cit. p. 137). 
+26 Müller, K. O. Die Etrusker: vier Bücher. K. Preussischen Akademie der Wissenschaften zu Berlin ge-
+kronte Preisschrift. Neu bearb. van Wilhelm Deecke. Stuttgart, 1877, Il, p. 187. La obra de Müller 
+continúa siendo un texto fundamental para el estudio de la civilización etrusca. 
+27 uisu carenti magna pars ueri patet (v. 295). 
+28 sed qua uocat me patria, qua Phoebus, sequar: lFata eruantur (v. 296-7). 
+49 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+8
+LfAGALAN 
+que la segunda interpreta los signos producidos por distintas sustancias que se 
+arrojan al fuego. En los ritos empirománticos se observa el color de la llama, los 
+cambios de forma, la dirección del humo y la reacción de la carne29• 
+La escena de Séneca se inicia con un rito de empiromancia y culmina en el 
+extispicio. Colocan en el altar una novilla que no ha sufrido el yugo y "un buey 
+de blanco lomo" (eandidum tergo bouem, v. 299) porque se trata de un sacrificio a 
+los superi (v. 304), a las deidades que habitan el cielo (eaelitum, v .306), a quienes 
+se invoca. Se hace la ofrenda de incienso de Oriente y se atiende el ascenso del 
+humo y de la llama: 
+Tiresias : 
+.... arasque dono turis Eoi extrue. 
+Manto: Iam tura saeris eaelitum ingessi foeis. 
+vv. 305-6 
+(Tiresias: ... cubre los altares con la ofrenda del incienso de Oriente. 
+Manto: ya he arrojado el incienso en los fuegos sagrados de los dioses) 
+Aquí se inicia el ritual propedéutico de la empiromancia (vv. 307-334): 
+Tiresias: Quid flamma? largas iam ne eomprendit dapes? 
+Manto: subito refulsit lumine et subito oeeidit. 
+Tiresias: Utrumne clarus ignis et nitidus stetit 
+reetus que purum vertieem eaelo tulit 
+et summam in auras fusus explieuit eomam? 
+vv. 307-11 
+(Tiresias: ¿Y la llama? ¿Ha prendido ya las copiosas ofrendas? 
+Manto: Con súbito resplandor ha brillado y súbitamente se ha venido abajo. 
+Tiresias: Se ha erguido el fuego claro y brillante enderezando limpiamente su 
+vértice hacia el cielo y ha desplegado al viento la cúspide de su cabellera?) 
+Se observan los distintos fenómenos que se producen en relación con el fuego: 
+libata Baeehi dona permutat eruor 
+ambitque densus regium fumus eaput 
+ipsosque cirea spissior uultus sedet 
+vv. 324-6 
+(las libaciones ofrecidas a Baca se han vuelto sangre y un denso humo rodea 
+la cabeza del rey y permanece más espeso alrededor de sus mismos ojos) 
+29 Cf. Bouché-Leclercq, A. Op. Cit. p. 142. 
+50 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+9
+LA ADIVINACIÓN EN OEDIPUS DE SÉNECA 
+Los signos son funestos; el fuego anuncia males: hay males terribles pero están 
+en lo profundo (sunt dira, sed in alto mala v. 330). 
+De inmediato, se hace el sacrificio de los animales según el rito romano de 
+la mola salsa, una combinación de harina y sal arrojada sobre los cuellos de las 
+ofrendas, y se inicia el extispicium o examen de las entrañas de los animales que 
+ofrecen "datos ciertos" para el adivino: 
+Sed ede certas viscerum nobis notas. 
+v.352 
+(pero muéstranos las señales seguras de las vísceras) 
+A los 27 versos de empiromancia le suceden 39 de extispicium (335-385) en 
+los que se detallan signos cada vez más graves. Todo es monstruoso y deforme. 
+Como en el caso del oráculo de Apolo, la pregunta pública y puntual (el nombre 
+del asesino) sigue sin respuesta, pero Edipo obtiene una respuesta personal por 
+boca de Tiresias: "Has de añorar los males que ahora tratas de remediar" -his in-
+videbis quibus opem quaeris malis (v. 387)-. 
+La respuesta que necesita el pueblo para erradicar la peste todavía no se ha 
+revelado, por lo que hay que intentar otro camino: 
+Tiresias: ... 
+alía temptanda est vía: v. 392 
+(Tiresias: Debe intentarse otra vía) 
+Esta vía será la necromancia del segundo episodio, ya no presentada en escena 
+sino relatada por Creonte. 
+3. La necromancia 
+La necesidad de encontrar una fuente inequívoca de revelación, de intentar 
+otra vía adivinatoria tal como se anuncia al cabo del extispicio, da paso al rito de 
+necromancia que realiza Tiresias en el bosque próximo a Tebas. En la profunda 
+oscuridad del lugar, al pie de un inmenso árbol que añade sombra a las sombras 
+de la densa vegetación, el adivino lleva a cabo las acciones rituales que convo-
+carán a los seres subterráneos entre los que estará Layo. Allí se abren las puertas 
+del Hades y va surgiendo el pueblo de Ditis: 
+(dice Tiresias) 'rata uerba fudi: rumpitur caecum chaos 
+iterque populis Ditis ad superos datur. ' 
+vv. 572-3 
+51 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+10
+LIAGALAN 
+("he lanzado las palabras exactas: el ciego caos se quiebra y se da paso ha-
+cia arriba a los pueblos de Dite") 
+Finalmente, Tiresias distingue a Layo, semioculto entre las otras sombras, y lo 
+apremia para que indique a su asesino. En este caso, como dijimos, no se presen-
+tan estas acciones en escena sino que están relatadas por Creonte, que transmi-
+te a Edipo lo que, como rey, no le está permitido presenciar"'. 
+Se entiende por necromancia la adivinación o revelación por las almas de los 
+muertos. Las historias griegas y romanas están llenas de muertos que reclaman 
+sepultura o venganza por su muerte. El texto más antiguo de revelación por los 
+muertos que se conserva es la célebre necromancia de Odisea en el Libro XI, pre-
+cedida de las instrucciones de Circe para honrar a los muertos (Dd. X, 488-543). 
+Todos los ritos necrománticos presentan rasgos comunes3', en gran parte 
+coincidentes con los ritos funerarios. Es posible que el relato homérico haya in-
+fluido en la concepción de la escena, en especial porque en ambas interviene TI-
+resias, ya que pueden encontrarse abundantes paralelos entre el relato de Home-
+ro y el de Creonte, pero no se trata de una directa y exclusiva influencia pues las 
+evocaciones están relacionadas con ritos funerarios, que ofrecen importantes si-
+militudes con lo narrado. 
+Las acciones de TIresias que relata Creonte coinciden con las características 
+enunciadas por D. Odgen, como se reseña a continuación: 
+a. Los ritos se realizan por la noche. 
+El lugar es profusamente arbolado, oscuro y tenebroso; la necromancia se 
+realiza bajo un inmenso árbol que cubre todo el bosque formando una caverna 
+sin luz (vv. 532-45): "el sitio le ofrecía la noche" (praestitit noctem locus v. 549). 
+b. Se cumplen alrededor de un hoyo y un fuego. 
+Tiresias cava la tierra y en el hoyo se echa el fuego de piras funerarias (v. 550 
+y ss.). 
+c. Se sacrifica un animal negro, frecuentemente una oveja, color que concuerda 
+con el ultramundo y la noche. Estas ofrendas, a diferencia de las dedicadas a los 
+dioses del cielo, no se comen. 
+En oposición con el primer ritual, donde se inmolaba un candidum bouem, se 
+sacrifican ovejas de negro vellón (nigro bidentes uellere v. 556) que son rápidamen-
+te consumidas por un fuego infernal. 
+d. Se hacen plegarias y súplicas a los fantasmas y a los poderes del ultramundo. 
+Tiresias dirige una plegaria a las divinidades del Hades (vv. 559-60), evoca 
+a los Manes y a Plutón y recita encantamientos: 
+3() When Oedipus is expressly tald thot it is 'taboo' ar nejas far him ta hove dired contact with the dead (398f.), 
+the Raman madel behind his presentatian, the emperar as pontifex maximus ar chief 
+priest, ta whom such 
+taboo applied, is clearly visible (Boyle, A. J. Op. cit. p. 97). 
+31 Ogden, DanieL Magic, witchcraft, and ghasts in Greek and Raman World. Oxford, Oxford U. Press, 
+2002, p. 179. 
+52 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+11
+LA ADIVINACIÓN EN OEDIPUS DE SÉNECA 
+carmenque magicum uoluít et rabido minax 
+decantat ore quidquid aut placat leues 
+aut cogit umbras 
+VV. 561-3 
+(Amenazante, con rabia en su boca, entona todo aquello que aplaca a las 
+sombras sutiles o que las convoca) 
+e. La sangre de la víctima se deja drenar en el hoyo para que los fantasmas beban. 
+Como en Homero, la sangre de las víctimas restaura temporariamente cier-
+to elemento de corporeidad que posibilita la comunicación con los seres vivos. 
+Tiresias hace libaciones de sangre hasta llenar el hoyo (v. 564). 
+f. Se hacen libaciones con leche y miel, vino, agua y, algunas veces, con aceite de 
+oliva mezclada con cebada. Estas ofrendas son las mismas que se hacen en los 
+ritos fúnebres como tributo al difunto; tienen un sentido propiciatorio y calman 
+a los muertos. 
+Tiresias hace libaciones con leche y vino (vv. 565-6) 
+g. Se convoca a las sombras: 
+laeua canitque rursus ac terram intuens 
+grauiore manes uoce et aftonita cítat. 
+vv. 567-8 
+(canta de nuevo sortilegios y mirando la tierra convoca a los manes con voz 
+más grave y atronadora) 
+Nuevamente Séneca pone de manifiesto su capacidad poética al amalgamar 
+el pasado y la experiencia presente, acercando una historia antigua y prestigio-
+sa a la actualidad del auditorio. Se podría pensar, además, que una escena como 
+ésta, aunque discursivamente elaborada, podía producir un fuerte impacto en la 
+audiencia imperial al presentar la sombra del rey muerto que sale del inframun-
+do para señalar a su asesino y habilitar el castigo. En la corte de Nerón esto ha-
+bría podido resultar inquietante32• Pese a que no resulta posible datar con media-
+na exactitud la fecha de composición de Oedipus, resulta inevitable relacionarla 
+con el asesinato de Agripina y los rumores acerca de una relación incestuosa con 
+su hijo. La muerte de Yocasta, no ahorcada sino por la espada que se hunde en 
+su vientre (similar al suicidio de Fedra), coincide con la muerte de Agripina en 
+Octavia y con la descripción de Tácito (Ann. 14,8,4)33. 
+32 Es sugestiva la relación con la estratagema de Harnlet al escenificar para Claudio una obra teatral 
+en la que el rey muerto se manifiesta para denunciar que ha sido asesinado. 
+33 Yocasta puede haber sido a suitable model for their account of Nero's mother, one which carried implica-
+tions of 
+incest and moral perversion at the heart of 
+the late Julio-Claudian court. (Boyle, A. J. Op. cit. p. 102). 
+53 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+12
+LIAGAIÁN 
+La habitual comparación entre los Edipos exigiría otro tipo de conclusiones 
+pues estamos ni más ni menos que ante dos visiones profundamente distintas de 
+la realidad, dos manifestaciones culturales, dos estados, dos filosofías o creen-
+cias distintas. Contrariamente a lo que se supone, la exuberancia retórica no es-
+tá allí para disimular con adornos la falta de contenido y pertinencia sino que 
+destaca y subraya la nueva presentación de la fabula, en particular el nuevo es-
+pectro semántico que la tragedia romana de Edipo despliega. 
+Para el Edipo griego bastaba la gran fama oracular de Delfos y la consulta 
+a Tiresias, el vidente ciego, el profeta reticente. Asistimos allí al paso de la igno-
+rancia al conocimiento, una ignorancia con el empaque de certeza suficiente. El 
+Edipo de Sófocles recibe el oráculo como algo que le compete en tanto adminis-
+trador del estado y responsable del bienestar de Tebas. Creonte regresa con sig-
+nos triunfales porque sólo se trata de que el rey administre justicia con rapidez 
+y destreza, castigando al culpable. Lo que sobrevendrá será una pesquisa que, a 
+través de deducciones y testimonios empíricos llegará al definitivo reconoci-
+miento de la verdad. 
+El Edipo de Séneca se angustia y desespera porque sabe íntimamente que la 
+peste lo involucra y lo condena, que si no lo ha tocado aún es porque lo reserva 
+para males mayores. En el contexto de la simpatía cósmica, la peste y los omino-
+sos signos de la naturaleza lo señalan aunque no pueda explicar las causas. La 
+utilización política de los oráculos (en particular el de Delfos) y también la sos-
+pecha de que ciertas profecías eran enunciadas para favorecer a talo cual poten-
+cia que tenía medios de presión sobre el clero de los santuarios figuran entre las 
+causas principales de la desafección por la adivinación oracular, al menos en los 
+medios más ilustrados, y minó la confianza en los adivinos inspirados y en los 
+oráculos tradicionales34• El Edipo romano teme los responsa dubía porque su men-
+saje es insuficiente y sospechoso. La indagatoria progresa, entonces, por la vía 
+de la diuinatio, esto es, sustentada en prácticas adivinatorias prístinamente itáli-
+cas que mostrarán lo que Edipo no puede ni quiere ver. Se acumulan las prue-
+bas en el orden mántico, sumándose las evidencias naturales y sobrenaturales. 
+El fuego, los animales y los muertos van estrechando el cerco del culpable. La in-
+vestigación policial que va tras los testigos humanos se repliega: lo más impor-
+tante es lo que dicen los dioses. Los ostentaría etruscos son el medio al que Séne-
+ca apela para develar la culpabilidad de Edipo escalonadamente; sólo después 
+de esto adquieren valor los testimonios humanos, cuya función es menos la de 
+revelar que la de confirmar quién es el culpable. 
+Para hacerle justicia al Oedípus de Séneca, entonces, hay que considerar que 
+todas estas diferencias encuentran razón de ser en la nueva concepción de una 
+historia reinterpretada y modificada profundamente a la luz de las antiguas 
+creencias romanas y de la filosofía estoica. 
+34 Flaceliere, R. Op. Cit. p. 78. 
+54 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+13
+LA ADIVINACI6N EN OEDIPUS DE SÉNECA 
+Edipo Rey de Séneca bien puede considerarse "la cenicienta" de las tragedias 
+antiguas; el relumbrón de la tragedia griega, promocionado por Aristóteles - que 
+era lo que podía conocer -, pareció sellar en la modernidad, y especialmente en 
+los dos últimos siglos, esta especie de mala fortuna. Tal vez sea hora de que cam-
+bie su suerte. 
+Resumen 
+Lía Galán 
+Centro de Estudios Latinos 
+Universidad Nacional de La Plata 
+liagalan@netverk.com.ar 
+El estudio tiene como objetivo presentar el motivo de los ritos y las ceremonias en Oedi-
+pus de Séneca como formas semánticamente fuertes, en oposición a la opinión generalizada de 
+la crítica, para la que tales motivos resultan ornamentales y supernumerarios. El análisis abar-
+ca las escenas de la adivinación por el fuego (empiromancia) y el examen de las vísceras de los 
+animales inmolados (extispicio), y la necromancia de Tiresias en el relato que de ella hace 
+Creonte. La importancia de tales escenas proviene de la complejidad de ideas y nociones que 
+convergen en ellas: cuestiones filosóficas apoyadas en el estoicismo, las creencias propiamen-
+te itálicas en las variadas formas de la diuinatio, la tradición oracular, la afirmación de lo roma-
+no frente a lo griego, la captatio beneuolentiae y la movilización del affectus de la audiencia que 
+organizan los efectos dramáticos. 
+Palabras clave: tragedia romana - Edipo - adivinación - extispicio - necromancia 
+Abstract 
+The study has the purpose to present the motive of rites and ceremonies in Seneca's Oe-
+dipus as semantically strong forms, in opposition to the widespread opinion of the criticism 
+that has seen such motives as ornamental and supernumerary. The analysis incIudes the sce-
+nes of the divination by the fire (empiromancy) and the examination of the immolated animals' 
+viscera (extispicy), and the Tiresias' necromancy in the Creon's speech. The importance of such 
+scenes comes from the complexity of ideas and notions that converge on them: Stoic philosop-
+hical matters, the properly italic beliefs in the varied forms of the diuinatio, the oracular tradi-
+tion, the affirmation of the Roman culture in front of the Greek tradition, the captatio beneuolen-
+tiae and the mobilization of the affectus' audience that organize the dramatic effects. 
+Key words: Roman tragedy - Oedipus - divination - extispicy - necromancy 
+RECIBIDO: 02-08-2007 - ACEPTADO: 14-10-2007. 
+55 
+AUSTER 12 (2007): 41-55 
+Auster, 2007 (12). ISSN 1514-0121.
+14

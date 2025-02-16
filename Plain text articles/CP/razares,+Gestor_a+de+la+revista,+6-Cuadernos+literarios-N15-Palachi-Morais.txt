@@ -1,0 +1,811 @@
+C. D. Palachi - M. J. Morais
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+74 
+CUADERNOS de literatura
+Revista de Estudios Lingüísticos y Literarios
+LA PARTÍCULA Y. MARCADOR DISCURSIVO EN EL ESPAÑOL 
+ARGENTINO
+The particle y. Discursive marker in Argentine Spanish
+Cadina M. Palachi*
+IhuCSo - UNL / UADE
+cadina.palachi@gmail.com
+Resumen
+Nuestro trabajo describe, en el marco de la Gramática Generativa, más 
+específicamente, en el de la teoría cartográfica de la periferia izquierda de la oración 
+(Rizzi, 1997 y siguientes y Cinque, 1999), los valores de la partícula y en el español 
+de Argentina, cuando no es conjunción coordinante. Hemos estudiado un corpus 
+de datos de nuestra variación del español sometido a una encuesta respondida por 
+125 sujetos de entre 20 y 65 años. Según nuestro análisis, esta partícula –siguiendo 
+la denominación y caracterización de Martín Zorraquino (1992)– en el español 
+de Argentina presenta, además de características propias de la conjunción, las de 
+un marcador del discurso en los términos en que Martín Zorraquino y Portolés 
+Lázaro (1999) lo definen, en tanto una unidad invariable que posee un contenido 
+coincidente con el del discurso y guía inferencias en la comunicación. Revisamos y 
+contrastamos su funcionamiento atendiendo a su alcance, las marcas de polaridad, 
+su no libertad posicional, dentro del Sintagma Complementante, y así observamos 
+tanto un valor enfático (Kany, 1963), como un valor de distanciamiento con 
+respecto al enunciado anterior –contraargumentación o negación– y otro digresor 
+–cambio o inicio de tema nuevo–.
+Abstract
+In this paper we describe the values ​
+of the particle y in its non-coordinating 
+usages in Argentine Spanish. Our study this particle within the framework of 
+Generative Grammar, more specifically, within the cartographic theory of the 
+left periphery of the sentence (Rizzi, 1997 and following and Cinque, 1999). The 
+corpus of data studied belongs to the variation of Spanish spoken in Argentina 
+and it was submitted to a survey answered by 125 subjects between 20 and 65 
+years old. According to our analysis, this particle –following the denomination and 
+characterization of Martín Zorraquino (1992)– in Argentine Spanish presents, 
+in addition to the characteristics of the conjunction, those of a discourse marker 
+as Martín Zorraquino and Portolés Lázaro (1999) define it, i.e. it is an invariable 
+unit that has a content coincident with that of discourse and guides inferences 
+in communication. We review and contrast its operation taking into account its 
+scope, the polarity marks, its lack of positional freedom, within the Complementary 
+Phrase, and thus we observe both an emphatic value (Kany, 1969), and a distance 
+value with respect to the previous statement –counter-argument or denial– and 
+another digresor –change or start of a new topic–.
+Palabras clave
+periferia izquierda; 
+marcadores; 
+discurso; 
+sintaxis
+M. Jimena Morais**
+UNL / UADER
+jimena.morais@gmail.com 
+Cómo citar: Palachi, C. D. y Morais, M. J. (2020). La partícula y. Marcador discursivo en el español argentino. Cuadernos de 
+Literatura. Revista de Estudios Lingüísticos y Literarios, 15, 74-90. Resistencia, Argentina, UNNE. ISSN 2684-0499. DOI: http://
+dx.doi.org/10.30972/clt.0154709
+Keywords
+left periphery; 
+markers; 
+discourse; 
+syntax
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+C. D. Palachi - M. J. Morais
+ 75 
+1.	A modo de introducción
+1.1. El problema 
+Este trabajo surge a partir de la observación de dos cuestiones: 1. que la conjunción coordinante 
+y, en algunos de sus usos, tiene valores que no son propios de la conjunción; es decir que no “sirve para 
+unir palabras o frases” (Moliner, 2007, p. 3085), y 2. que, en los casos en que la partícula aparece con 
+valores no coordinantes se percibe una diferencia semántica entre el mismo enunciado precedido por 
+y y su equivalente sin la partícula.
+En el siguiente ejemplo se puede observar que la presencia de y en la respuesta b’ no implica 
+coordinación de elementos y, también, que las respuestas b y b’ difieren en cuanto a sus significados: 
+1. a -No sabés lo contenta que estoy con este resultado.
+    b -Sí, me imagino. 
+    b’ -Y sí, me imagino. 
+La posición sintáctica de y al comienzo de oración estaría señalando la imposibilidad de 
+coordinación con otro sintagma u oración anterior. Una cuestión diferente es la de responder a la 
+posibilidad de que el enunciado “Y sí, me imagino” esté conectado o coordinado con el enunciado del 
+hablante a. Volveremos sobre este punto, pero consideramos que en este ejemplo y no es un conector 
+discursivo, sino un marcador de modalidad. Este dato fue sometido a una encuesta que respondieron 
+125 sujetos de entre 20 y 65 años y un 77,6 % de los encuestados respondió que había una diferencia 
+de significado entre la respuesta de b y la de b’. Un 19,2% también advirtió una diferencia leve de 
+significado y sólo un 3,2 % no encontró diferencias entre ambas respuestas. En tal sentido se puede 
+afirmar, tal como hacen Hernanz y Rigau (2006) para referirse a la conjunción que –el elemento que 
+ellas estudian–, que no se trata de un elemento accesorio. Según nuestra interpretación, la diferencia 
+está dada por el énfasis en la afirmación, más marcado en el enunciado de b’. Retomaremos este valor 
+de y en el apartado destinado a la descripción de los datos. 
+A partir de esta observación, hemos decidido concentrarnos en algunos de los valores semánticos 
+que adquiere la partícula y cuando no funciona como la conjunción copulativa en el español de 
+Argentina. Sin ser exhaustiva, presentaremos una descripción de dichos valores. Nuestra intención es 
+mostrar que y, cuando no es una conjunción, se comporta como una partícula ligada al discurso.
+Los valores que hemos decidido analizar en este trabajo son los siguientes:
+-Modalidad epistémica: 
+  enfática o atenuada
+  contraargumentación o negación
+-Cambio o inicio de tema nuevo. 
+Este elemento, según nuestro análisis, tiene, además de las características propias de la 
+conjunción copulativa, las de un marcador del discurso o, en términos de Biberauer (2008) una “C 
+particle”, es decir, una partícula asociada al sintagma funcional de Complementante en la periferia 
+C. D. Palachi - M. J. Morais
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+76 
+izquierda de la oración y, por lo tanto, ligada al discurso, la interrogación o la modalidad/evidencialidad. 
+Martín Zorraquino y Portolés Lázaro definen los marcadores del discurso como “unidades invariables, 
+(que) no ejercen una función sintáctica en el marco de la predicación oracional –son, pues, elementos 
+marginales– y poseen un contenido coincidente en el discurso: el de guiar (…) las inferencias que 
+se realizan en la comunicación” (1999, p. 4057). Si bien la partícula y no tiene la libertad posicional 
+propia de los marcadores, sí comparte otras características, como señala Camacho (1999, p. 2640) “no 
+coordina sintagmas en sentido estricto puesto que aparece solo uno” de los sintagmas. Por otra parte, 
+es evidente que se trata de una “unidad invariable” en cuanto a su morfología. 
+También Martín Zorroaquino y Portolés Lázaro se refieren a la capacidad de estos elementos 
+de cambiar de funciones y de valores semánticos, en tal sentido afirman que: 
+las partículas, es decir, las tradicionales partes invariables del discurso: adverbios, preposiciones 
+y conjunciones, y otros elementos gramaticalizados, pueden desempeñar, en ciertos contextos, 
+funciones que no se ajustan a las que cumplen habitualmente en el marco de la sintaxis oracional. 
+(1999, p. 4055)
+Estos elementos adquieren entonces valores de marcadores discursivos. Es también Martín 
+Zorraquino (1992) quien explica que este concepto de partícula es pensado como una categoría 
+específica de “carácter transversal” a esas unidades invariables del discurso y presenta la ventaja de 
+resultar eficiente para describir elementos que operan tanto en la gramática de la oración como en la 
+del discurso. 
+1.2.	 ¿Qué se ha dicho acerca de y?
+Muchos autores han notado que y tiene otros usos o valores que no son propios de la conjunción 
+coordinante, no sólo en el español de Argentina o Hispanoamérica, sino también en otras regiones de 
+habla hispana y desde tiempos remotos. Sin embargo, algunos de sus usos son característicos sólo del 
+español argentino. 
+Andrés Bello señala que y “pierde el oficio de conjunción y toma el de simple adverbio en 
+interrogaciones y exclamaciones directas” (1847, p. 391). Entre los ejemplos presentados por Bello se 
+encuentran de Fray Luis de León y de Cervantes, en tal sentido es evidente la antigüedad de este uso 
+no coordinante de la partícula. 
+Kany trata, entre las conjunciones, la que él llama “y enfática” que no es ligativa y “ocurre en 
+preguntas y exclamaciones” y afirma, siguiendo a Keniston, que “se remonta muy arriba en el curso 
+de la lengua antigua” (1969, p. 464). Los ejemplos que presenta Kany (1969) son interesantes, pues 
+se puede observar que uno de los usos que este autor engloba en la “y enfática” puede ser considerado 
+más como un marcador de cambio de tema o digresión (“¿Y tu padre?”) del que ya hablaremos. 
+Según este autor, existe un uso, diferente al mencionado, que es propio de Argentina y otros países 
+como Chile, Perú y Ecuador, “se la aísla y se la pronuncia con entonación interrogativa, seguida por 
+escrito de puntos suspensivos que indican que la expresión es elíptica” (p. 464). El autor proporciona 
+muchos ejemplos de este valor que considera, siguiendo a Alonso y Henriquez Ureña, “un localismo 
+restringido a la Argentina” (p. 464), aunque indica cautelosamente que este uso también es propio de 
+otras regiones de América. 
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+C. D. Palachi - M. J. Morais
+ 77 
+El Diccionario de Uso del Español de América y España, Vox, señala que y, registra en el habla 
+coloquial usos no copulativos: “Se utiliza sin valor de enlace para introducir una pregunta sobre el 
+aspecto que se menciona, generalmente las preguntas no llegan a constituir oraciones completas”. Y, 
+en otra de las acepciones posibles, indica: “Se utiliza en preguntas y oraciones exclamativas para dar 
+énfasis o indicar disgusto o enfado” (2003, entrada y 2). 
+María Moliner (2007, p. 3085), en el Diccionario de Uso del Español advierte sobre los valores no 
+coordinantes de esta partícula: 
+y conj. Sirve para unir palabras o frases en relación de coordinación copulativa (…). A veces, 
+se pone y al principio de una expresión, de modo que aparentemente, no enlaza ésta con nada. 
+Se puede suponer que el enlace se realiza mentalmente con algo pensado o dicho antes o por 
+otra persona. (…). A veces, no es fácil suponer un antecedente tácito y la y debe considerarse como una 
+partícula expletiva (…). Se usa también expletivamente en lenguaje hablado informal entre una 
+interjección y el complemento de ella ‘¡Caramba y qué niña!’. (La cursiva es nuestra)
+Este último ejemplo presentado por Moliner no es propio del español de Argentina, sin embargo, 
+es interesante notar el valor no coordinante de y en otros usos regionales. Hernanz y Rigau (2006) 
+consideran que los usos de estas partículas, aparentemente idiosincrásicos de una región o país, no lo 
+son y tampoco son marginales sino que entran en el rango de microvariación. Estas autoras sostienen, 
+de acuerdo con el marco teórico de la Gramática Generativa (en adelante: GG) y de la cartografía de 
+la periferia izquierda de Rizzi (1997), que existen usos de ciertas conjunciones en construcciones de 
+modalidad interrogativa y exclamativa que, como hemos dicho, no son marginales, sino que se trata de 
+fenómenos de variación dialectal y se repiten en otras variedades alejadas geográficamente.
+Al respecto de y, sostienen que si bien otros autores la han considerado marginal –al igual que 
+a la conjunción o–, este elemento muestra un valor modalizado y pierde su valor canónico de cópula. 
+Hernanz y Rigau retoman a Bello (1874), quien –como ya hemos dicho– manifestó que en algunos datos 
+(literarios) este elemento y perdía su oficio de conjunción y ganaba uno adverbial en interrogaciones 
+y exclamaciones directas. Las autoras corroboran su perspectiva con muestras del español americano 
+y señalan en particular la variación de Argentina:1 “(31) a. ¡Y dale con las telenovelas! b. ¡Y pensar que 
+estuve a punto de casarme con él! c. ¿Y me dejáis así, solo y desamparado?” (2006, p. 15). Estas autoras 
+insisten en que, si bien este elemento es considerado por algunos gramáticos como “superfluo”, la 
+conjunción y se halla estrechamente relacionada con la fuerza ilocutiva y se genera en la posición de 
+especificador del sintagma fuerza SFuerza.
+El Diccionario de partículas discursivas del español compilado por Antonio Briz propone 
+considerar el uso de este elemento y entre signos de interrogación: “¿y…?”. La entrada correspondiente 
+es presentada por María Marta García Negroni y Manuel Libenson, ya que se considera que esta 
+forma es característica de Argentina y México, y se presentan datos recientes (2016-2018). Al respecto 
+se sostiene que y “Presenta el miembro del discurso que introduce como un pedido ya de confirmación, 
+ya de continuación respecto de un discurso o un saber previo implícito que se da como conocido por 
+1. También observan este comportamiento en el italiano antiguo y moderno y en el catalán. 
+C. D. Palachi - M. J. Morais
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+78 
+locutor e interlocutor” (definición, párr. 1). También observan un valor de pedido de continuación del 
+discurso del interlocutor y otro de atenuación. Acerca de su posición, señalan que siempre inicia el 
+turno de la interlocución –y que también puede ocupar un turno completo–; mientras que, cuando 
+consideran la sintaxis, indican que esta partícula “aparece siempre en estructuras interrogativas o 
+interrogativas-exclamativas, seguidas o no de oraciones interrogativas parciales o totales” (sintaxis, 
+párr. 1). 
+Como ya se ha señalado en este trabajo, diversos autores (Bello, 1847; Kany, 1969; Hernanz 
+y Rigau, 2006; María Moliner, 2007 y hasta el Diccionario de Vox y del de Partículas discursivas del 
+español) han hecho notar que y no siempre coordina sintagmas o frases. 
+Escandell Vidal (1999) se refiere al valor no coordinante de y al comienzo de los enunciados 
+interrogativos. La autora diferencia entre la conjunción coordinante y la partícula a partir de la 
+capacidad de una y otra para llevar acento prosódico; “aunque la escritura no refleja este contraste, 
+la partícula y se distingue de la conjunción copulativa y en que esta es siempre átona, mientras que 
+aquella lleva siempre acento prosódico” (p. 3955). Por otra parte, también indica que “las diferencias 
+en el comportamiento discursivo de ambos elementos son muy notables” (p. 3955), puesto que cuando 
+es coordinante la presencia de y está determinada por lo mencionado en el turno anterior, mientras 
+que la partícula, introduce un tema nuevo. Escandell Vidal refiere la introducción de sintagmas 
+nominales (“¿Y Paco?”) y de oraciones condicionales (“¿Y si no congeniamos?”), en nuestra opinión, 
+esta descripción omite la posibilidad de que y también introduzca interrogativas totales que, en el 
+turno del diálogo, marcan el cambio de tema o el comienzo de otro. 
+Entre los ejemplos recogidos a partir de la encuesta, encontramos una gran cantidad que 
+muestran este valor de y: 
+2. a. ¿Y al final qué onda con Mati?
+    b. ¿Y, cómo te fue con el médico?
+1.3.	 Marco teórico y metodología
+Este trabajo se enmarca en la Gramática Generativa y, consistentemente con la hipótesis de 
+que el lenguaje es de naturaleza biológica y caracteriza a toda la especie humana (es universal), la teoría 
+de la cartografía de la periferia izquierda (Rizzi, 1997 y siguientes; Cinque, 1999 y siguientes) sostiene 
+que los sintagmas a la izquierda de la oración y su ordenamiento jerárquico, generalmente asociados a 
+valores pragmáticos y discursivos, son universales e innatos. La idea de que los sintagmas de la periferia 
+izquierda tienen relación con el discurso, más que con la sintaxis oracional, es discutida en Rizzi & 
+Bocci (en prensa), quienes sostienen que toda la arquitectura oracional, por encima de los sintagmas 
+funcionales de Concordancia/Tiempo, es sintáctica. En la adquisición de una lengua-I, los sintagmas 
+de la periferia izquierda se activan y están disponibles para los hablantes. En las lenguas-I, algunas 
+de estas categorías no tienen representación morfológica (o fonológica) y no hay partículas que las 
+“encarnen” por lo que pareciera que no están presentes. Teóricamente, se puede postular la existencia, 
+en esos casos, de un morfema 0 (cero). Además, las lenguas y sus variedades pueden presentar diferentes 
+morfemas para cada uno de estos significados o variar en el tiempo. El orden de los sintagmas de la 
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+C. D. Palachi - M. J. Morais
+ 79 
+periferia izquierda puede variar en las distintas lenguas-I por cuestiones de movimiento. En este marco 
+teórico se analiza la partícula y en la variedad rioplatense del español, de acuerdo con la hipótesis de 
+que la variación intralingüística puede ser reducida a cambios microparamétricos, es decir, los cambios 
+se restringen a los elementos del léxico, de acuerdo con la conjetura Borer-Chomsky. 
+La teoría generativa ha visto la importancia de estudiar los fenómenos de variación lingüística, 
+y a su vez la incorporación de una perspectiva comparatista ha permitido una renovación en algunos 
+conceptos como el de “construcción gramatical”, por ejemplo, según sostienen Hernanz y Rigau 
+(2006). Es así que se observan comparativamente más los fenómenos microparamétricos que las 
+“construcciones”, ya que a través del estudio de los primeros se puede llegar a una explicación más 
+profunda de las propiedades gramaticales. Estas autoras sostienen que “Es el estudio comparativo de 
+las pequeñas diferencias entre las lenguas –y no sólo de sus contrastes más llamativos– lo que permite 
+explicar cómo están formadas, hasta qué punto son semejantes y en qué medida pueden divergir” (2006, 
+p. 2). Los estudios microparamétricos han ganado mucho terreno a partir de los aportes del trabajo de 
+Rizzi de 1997 ya mencionado, quien estudió la organización del espacio estructural del SC (Sintagma 
+Complementante), ya que consideró que la “capa” del nudo complementante es más compleja de lo 
+que se consideraba (marcas de subordinación o elementos -qu en función de especificador) y propuso 
+descomponerla en dos niveles –la fuerza (ilocutiva) y la finitud de una oración– los cuales pueden 
+opcionalmente materializarse en otros dos niveles más –Tópico y Foco.
+Dentro de las teorías formalistas existe cada vez mayor interés por explicar el cambio de las 
+propiedades gramaticales de las variedades dialectales desde perspectivas teóricas que sostienen que 
+tales cambios son el producto de la competencia entre gramáticas, el reestablecimiento de parámetros 
+o micro-parámetros o del cambio en las propiedades de atracción de las categorías funcionales 
+(Gutiérrez-Rexach y Sessarego, 2014). Una mirada más profunda al estudio comparativo entre lenguas 
+ha permitido observar la necesidad de investigar las variedades de una misma lengua. De manera 
+que la investigación lingüística ha ido enfocando su observación hacia las similitudes y diferencias 
+entre lenguas cercanas o bien entre dialectos o variedades de una misma lengua, especialmente a 
+partir del Programa Minimalista. Señala Kayne (2000) que la pregunta más adecuada en este tipo 
+de investigación es ¿cuáles son las unidades mínimas de la variación sintáctica? Este enfoque, que busca 
+encontrar los rasgos mínimos propios de la variedad dentro de una misma lengua, resulta cada vez 
+más necesario para la investigación en lingüística formal y requiere la introducción de conceptos tales 
+como la noción de microvariación morfosintáctica, entendida como las diferencias intralingüísticas 
+que surgen a partir de la interacción de los macroparámetros y los microparámetros. 
+En este sentido, entendemos que la variación intralingüística también es la que se produce 
+entre la lengua oral y la escrita, por lo que no hablaremos aquí de registro coloquial o formal, ni oral 
+y escrito, ya que en cualquier caso se trata de microvariación, aunque la mayor parte de los datos y 
+ejemplos pertenecen a la oralidad y en un contexto de informalidad. 
+Para este trabajo hemos utilizado la metodología propia de la investigación en lingüística formal; 
+es decir que, una vez delimitado el problema a partir de observaciones descriptivas guiadas por las 
+hipótesis teóricas, se recogieron muestras. Se diseñó una encuesta online, utilizando un formulario de 
+google, y se consultó a 125 sujetos que realizaron reflexiones conscientes en torno de su conocimiento 
+C. D. Palachi - M. J. Morais
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+80 
+de la lengua, en este caso, de los usos de la partícula y. Luego, se procedió a la descripción y explicación, 
+en términos teóricos, de los problemas planteados. La escritura de este texto surge, entonces, del 
+análisis de los datos a partir de las hipótesis teóricas que enmarcan la investigación. Los datos y 
+ejemplos han sido tomados de diferentes fuentes, especialmente orales, también se han solicitado 
+ejemplos a los sujetos encuestados, todos hablantes de la variedad argentina del español y consultados 
+en el 2020.
+1.4.	 ¿Es y una partícula? ¿Qué es una partícula? 
+La y debe ser catalogada, en su uso más canónico, como una conjunción copulativa puesto que 
+su función gramatical consiste en unir dos sintagmas. Sin embargo, este trabajo se ocupa de otros 
+usos en los que este elemento no liga dos sintagmas, por este motivo, interesa comprender mejor la 
+idea misma de coordinación. José Camacho en la GDLE (1999) entiende que la coordinación se 
+establece entre dos miembros que, tal como indica Bello (1847), son “análogos”, sin embargo, hay un 
+problema en establecer si la analogía de los dos miembros es en cuanto a la función sintáctica, a la 
+categoría sintáctica, o si se trata de analogía semántica. Camacho concluye que “se puede reducir el 
+criterio semántico a uno sintáctico. A estos criterios podemos añadir los siguientes: la coordinación 
+debe unir dos o más miembros, y esos miembros deben estar ligados por un nexo” (1999, p. 2637). 
+Desde este punto de vista, la partícula y que nos ocupa presenta una diferencia notable, ya que no 
+establece relación entre dos miembros, en la mayoría de los casos está ubicada al comienzo de una 
+oración o de un enunciado. Por otro lado, la coordinación copulativa es, también según Camacho, “la 
+más neutra en cuanto a su significado básico” (1999, p. 2640). Los posibles significados añadidos a esta 
+conjunción, en opinión de este autor, son temporal, causal y condicional.2 En ninguno de los casos que 
+tratamos encontramos estos valores. En tal sentido, entendemos que la partícula estudiada no sería 
+una “conjunción coordinante”, debido a que son justamente los diversos significados discursivos y 
+sintácticos que aporta, los que la distinguen de la correspondiente conjunción copulativa. 
+La discusión sobre la pertenencia de las partículas a una clase diferenciada de otros elementos 
+funcionales no-partículas es extensa. Para este trabajo hemos decidido considerar a y como una 
+partícula relacionada con la periferia izquierda de la oración sin entrar en la discusión acerca de las 
+partículas en sí. Biberauer afirma que 
+from the perspective of formal considerations like category-type and distribution, then, it is not 
+clear that there is any basis for distinguishing particles from non-particle elements: particles 
+appear to be able to realise the same functional categories than the elements that are not 
+designated particles. (2011, p. 395)
+Desde el punto de vista de la GG las partículas pueden ser asociadas a las categorías funcionales, 
+en el caso que nos ocupa, las relacionadas con el dominio de C(omplementante). 
+2. No podemos extendernos aquí en revisar la propuesta de Camacho (1999) que puede leerse en la GDLE (1999, p. 2637).
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+C. D. Palachi - M. J. Morais
+ 81 
+En opinión de Biberauer (2011) la característica más relevante de un elemento para ser 
+considerado “partícula” es la deficiencia que puede ser morfológica (son elementos indeclinables), 
+fonológica (no reciben acento) o sintáctica (ocupan una posición fija). Si, como indica Escandell Vidal, 
+lo que distingue a la conjunción copulativa de la partícula discursiva, destinada a introducir un tema 
+nuevo en la conversación, es que la segunda lleva acento, entonces la deficiencia fonológica no sería 
+una característica de la y que nos ocupa. Consideramos, en consecuencia, que cumple dos de las tres 
+propiedades para ser considerada “partícula”. Por esta razón continuaremos usando esta denominación 
+que podría ser objeto de revisión en futuros trabajos. 
+Otra característica presentada por la partícula discursiva y es la que mencionan Bayer Obenauer 
+(2011, p. 450): “It is a general property of discourse particles that they modify the utterance rather 
+than the proposition. They express the speaker’s attitude about him-/ herself or about the hearer with 
+respect to the propositional content of the utterance”. En este sentido, queda claro que la y es una 
+partícula discursiva. 
+2.	Descripción y análisis
+2.1.	 Dos valores de y que no son “coordinantes”
+Nuestro análisis de los datos nos ha permitido observar que y tiene distintos valores: introduce 
+un cambio de tema, presenta un contraargumento, marca modalidad de manera enfática o atenuada, 
+especialmente cuando va seguida de “bueno”. 
+En este punto nos referiremos a los dos valores que hemos mencionado antes y que repetimos 
+aquí para facilitar la lectura: 
+- Modalidad epistémica: 
+  enfática o atenuada
+  contraargumentación o negación
+- Cambio o inicio de tema nuevo. 
+Un uso que no trataremos aquí, pero que interesa mencionar, puesto que ha sido presentado en 
+gran número de los ejemplos aportados por nuestros encuestados, es cuando y encabeza una oración 
+condicional, que debe interpretarse como una invitación, es decir, como una exhortativa: 
+3. a. ¿Y si vamos a la pile?
+    b. ¿Y si comemos milanesa? 
+Interesa mencionar que, a diferencia de otros marcadores del discurso que resultan de procesos 
+de gramaticalización a partir de elementos léxicos, y es originalmente funcional. Las características 
+que diferencian a la partícula de la conjunción son la incapacidad de la primera para ligar o establecer 
+una relación entre dos términos y los matices semánticos que ha adquirido la partícula en relación con 
+las inferencias discursivas. 
+C. D. Palachi - M. J. Morais
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+82 
+Una cuestión central en la consideración de las características de este elemento es la posición 
+que ocupa la partícula en el orden lineal del enunciado; ya que se encuentra siempre a la izquierda, en 
+posición inicial. La conjunción, por su parte, se sitúa entre los dos términos que une; excepcionalmente, 
+puede ir en posición inicial cuando el término anterior se puede reponer, tal como señala Moliner (2007).
+Como ya se ha mencionado en relación con el ejemplo (1), la presencia o la ausencia de la 
+partícula en posición inicial de enunciado tiene consecuencias semánticas en la interpretación del 
+mismo, especialmente relacionadas con el valor pragmático del enunciado encabezado por y. 
+En un plano sintáctico, es importante observar que esta partícula encabeza oraciones afirmativas 
+o negativas, interrogativas parciales o totales y exclamativas, aunque, según nuestro análisis, solo 
+cuando va en posición inicial de oraciones enunciativas es un marcador de la modalidad, mientras que 
+en posición inicial de interrogativas es un marcador de cambio de tema o digresión. 
+Tal como indican Martín Zorroaquino y Portolés Lázaro (1999) entre las características de 
+los marcadores discursivos se encuentra la incapacidad para recibir especificadores o modificadores, 
+así como la imposibilidad de coordinarse entre sí con otros marcadores del discurso. Estos elementos 
+tampoco pueden ser negados. La partícula que analizamos tiene todas estas características. 
+4. -*muy y…
+	   -*no y…
+	   -* y de mí… 
+El comportamiento de los marcadores del discurso es variable en cuanto a la capacidad para 
+aparecer como respuesta independiente. Muchos de estos elementos no pueden ser respuesta en un 
+intercambio de enunciados, sin embargo, otros sí pueden hacerlo. Y tiene esta posibilidad en algunos 
+de sus usos pero no en todos:
+5. a- No sabés lo contenta que estoy con la noticia.
+	  b-* y … (con interpretación “y, sí.”) 
+6. a- Que aburrido es ser un perro.
+	  b-Y… 
+El ejemplo de (6) consideramos que es posible cuando la interpretación supone una negación 
+del enunciado anterior. “Y…” puede interpretarse como “y ... no”. Sin embargo, no puede aparecer solo 
+en el caso de (5) donde se interpreta como afirmación enfática. 
+2.2.	 La partícula y marcador discursivo de modalidad epistémica: enfática o atenuada
+La partícula y se comporta en algunos contextos como un marcador de modalidad epistémica 
+afirmando de manera enfática o atenuada un enunciado producido por otro hablante o dentro del 
+propio enunciado. En relación con el ejemplo que en este trabajo se ha presentado como (1), un 64.8% 
+de los encuestados consideró que la partícula marca un “acuerdo enfático” con el enunciado anterior 
+y un 32% cree que se trata de una “constatación”. Presentamos tres ejemplos en los que se puede 
+apreciar que la partícula manifiesta afirmación, en (7) se puede observar este uso en una narración, 
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+C. D. Palachi - M. J. Morais
+ 83 
+nos referimos a la expresión “y claro” en la que el entrevistado da la razón a una opinión de otro que 
+menciona inmediatamente después:
+7. Le contamos y el tipo preguntó: “¿Y quién va a ser el director?”. “Yo”, le dije. Y claro, yo tenía 
+veintiocho años, o veintinueve pero una cara de veinte, más o menos. “¿Usted? No, discúlpeme 
+pero... muy joven”. (Recuperado de CREA, 18/11/2019- ejemplo de prensa 2003)
+8. Y sí, era lógico.
+9. Y claro, si para eso era… 
+Cinque define la modalidad epistémica de la siguiente manera: “epistemic modality expresses 
+the speaker’s degree of confidence about the truth of the proposition (based on the kind of information 
+she/he has)” (1999, p.86).
+Cuando esta partícula tiene valor de marcador de modalidad epistémica siempre encabeza 
+oraciones declarativas: afirmativas o negativas, tal como se puede observar en (7, 8 y 9). Martín 
+Zorroaquino y Portolés Lázaro señalan que hay dos tipos de partículas de modalidad epistémica: las 
+que indican “evidencia” y las que “orientan al interlocutor sobre el origen del mensaje” (1999, p. 4147). 
+Si bien la partícula que nos ocupa pertenece a la primera clase, en este trabajo, sin embargo, hemos 
+decidido no llamarlas “evidenciales”, como sí lo hacen los autores mencionados, porque existe una 
+controversia acerca de la definición de marcadores “evidenciales” como “reforzadores de la aserción”. 
+Por el contrario, consideramos acertada la idea de “reforzador de la aserción” a la que denominamos 
+“enfática”. 
+En nuestra opinión la partícula y al comienzo de un enunciado afirmativo, y especialmente 
+cuando va seguida de “sí, claro o bueno”, es un marcador de la modalidad epistémica que sirve 
+para corroborar lo dicho por el hablante anterior, ya sea de manera enfática o atenuada. Uno de los 
+encuestados ha sido claro en este sentido al afirmar que usa la expresión “y bueno” “cuando asentís 
+sobre algo que no tiene opciones, que hay que aceptarlo”. 
+Consideramos que la presencia de la partícula y en el ejemplo (1) permite comprender que el 
+hablante b’ no solo afirma lo dicho por el hablante a, sino que expresa también su acuerdo enfático con 
+lo anterior. 
+Los ejemplos que han aportado los encuestados son: 
+10. a. Y sí, era obvio
+	    b. Y sí, era lógico. 
+	    c. ¡Y sí, claro! 
+	    d. Y sí, me imagino. 
+En los ejemplos que presentamos a continuación se puede observar que el hablante manifiesta su 
+acuerdo con un enunciado, aun cuando, probablemente, no esté totalmente de acuerdo con lo afirmado. 
+Sin embargo, la partícula está indicando que, como ha explicitado el encuestado ya mencionado, se 
+trata de “algo que no tiene opciones, que hay que aceptarlo”. 
+C. D. Palachi - M. J. Morais
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+84 
+11. a. Y bueno.
+      b. Y… me parece que… 
+      c. Y sí, si vos decís, así será. 
+2.3.	 Negación o contraargumentación
+De acuerdo con nuestro análisis la misma partícula que introduce una oración aseverativa 
+o enunciativa afirmativa también puede presentarse en posición inicial de una enunciativa negativa 
+para indicar que el hablante no está (del todo) de acuerdo con lo expresado en el enunciado anterior. 
+Se puede observar una escalaridad entre el valor de modalidad epistémica enfática, la modalidad 
+epistémica atenuada (y bueno) y el valor de negación / contraargumentativo en el que el hablante 
+manifiesta su desacuerdo, generalmente, parcial con lo expresado antes:
+12. a. Y… me parece que no da. 
+      b. Y… ¡no sé, eh!
+	     c. Y sí, pero no. 
+En la encuesta realizada hemos presentado el siguiente diálogo extraído del perfil de Facebook 
+“La gente anda diciendo”:
+13. -Qué aburrido es ser un perro, ¿no?
+       -Y… a veces es más aburrido ser humano. (La gente anda diciendo/ chica y chico de unos 20 
+       años, Chacabuco y Rondeau, Córdoba)
+La presencia de la partícula no establece una relación de coordinación entre los enunciados, 
+en cambio, marca un distanciamiento con respecto a la opinión vertida por el primer hablante. De 
+hecho, los encuestados respondieron que la partícula “genera una sensación” de distanciamiento 
+(un 50.4%) y un 29.6%, especialmente entre los encuestados más jóvenes, sostienen que existe una 
+“contrariedad” en la respuesta. Consideramos que la idea misma de “contrariedad” podría ser revisada, 
+puesto que es probable que los entrevistados hayan considerado que había diferencia de opiniones 
+entre esos hablantes. Es esto, justamente, lo que parece estar indicando la presencia de y. Es interesante 
+notar, aunque no tenemos una explicación para esta interpretación, el hecho de que un 34.4% de los 
+encuestados consideró, además, que se puede reconocer “complicidad entre quienes hablan” a partir de 
+la presencia de la partícula en este caso. 
+Consideramos que este uso de la partícula tiene un valor contraargumentativo con respecto 
+al enunciado anterior. Incluso podría sobreentenderse una negación (“y… no”), de manera que el 
+enunciado efectivamente es una negación, al menos parcial, del anterior. Sánchez López, en la GDLE 
+(1999), cuando se refiere al “foco de la negación” lo define como “aquel elemento sobre el que recae la 
+exclusión o refutación, de tal manera que puede considerarse responsable de la falsedad o inadecuación 
+de la frase con la realidad” (p. 2577). Es interesante notar que esta autora sostiene que la refutación 
+puede referirse a un elemento efectivamente mencionado o presupuesto y que “a menudo la refutación 
+viene acompañada de un sintagma correctivo que aporta la información que rectifica la del elemento 
+negado” (p. 2577). Una de las maneras de hacer la corrección es justamente, entre otros, “el giro y no”. 
+Si bien la autora presenta ejemplos en los que el sintagma introducido por y no refuta una parte del 
+enunciado (ejemplo 43, a. y b. de Sánchez López, 1999, o. 2578 María, y no Luis, habló con Pepe. María 
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+C. D. Palachi - M. J. Morais
+ 85 
+habló con tus amigos, y no con los míos.), se puede observar que en el ejemplo (13) la partícula y … indica 
+una corrección del enunciado anterior y podría haberse repuesto el giro “y no, a veces…”. 
+Uno de los encuestados nos aporta un ejemplo y realiza una reflexión sobre el mismo: “Si 
+alguien dice ‘ese profesor es malísimo’ y yo no estoy de acuerdo diría ‘y… más o menos’”. Es evidente 
+que el uso de la partícula y resulta un marcador discursivo de atenuación, ya que el hablante no quiere 
+presentar una negación tajante, pero rechaza el enunciado anterior. En nuestra opinión este ejemplo 
+muestra que el valor de y contraargumentativo o negador es simplemente una variante del marcador 
+de modalidad epistémica. 
+En la introducción a esta sección hemos mencionado el hecho de que y, cuando se comporta 
+como un marcador que expresa negación, puede aparecer solo. Es interesante observar que esta 
+capacidad se da cuando es respuesta a un enunciado afirmativo o a una pregunta total, no, en cambio, 
+cuando el enunciado anterior es una interrogación parcial, en este sentido podría interpretarse que 
+tiene alcance sobre toda la proposición. 
+14. - ¿Venís?
+      -Y….
+15. -Ese profesor es malísimo
+      -y… 
+16. - ¿Cuándo venís? / ¿Quién viene? 
+      -*Y… 
+2.4. Conclusiones parciales
+La partícula y en posición inicial con valor de marcador discursivo de modalidad epistémica es 
+compatible con las marcas de la polaridad enfática o no positivas o negativas. Pueden coaparecer con 
+sí y también con no pero no es obligatoria la presencia de estos elementos para que la presencia de y 
+permita interpretar al enunciado como una afirmación enfática o atenuada o como una negación, en 
+este último caso, generalmente atenuada. 
+En relación con los tipos de marcadores relacionados con la negación, Di Tullio y Kornfeld 
+(2013) mencionan los siguientes valores semánticos:
+- negación enfática,
+- negación polémica, implican una cancelación o frustración de una suposición o expectativa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+  previa,
+- desacuerdo relativo, una réplica que no niega el enunciado precedente, sino que indica que 	
+	
+  no es suficiente.
+En nuestra opinión, la partícula y estaría comprendida en el segundo tipo de estos valores 
+“negación polémica”. 
+2.5. Y cambio de tema
+Otro de los valores semánticos que se puede reconocer en algunos contextos sintácticos es 
+el que ya ha señalado Escandell Vidal (1999), se trata de la introducción de un tema nuevo o de un 
+C. D. Palachi - M. J. Morais
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+86 
+cambio de tema. En este uso la partícula introduce generalmente oraciones interrogativas totales o 
+parciales: 
+17. -y… al final ¿qué te dijo?
+18. -¿Y seguiste yendo al psicólogo? 
+      -Noo. Empecé el gimnasio. Porque los problemas seguían ahí y el culo se me estaba cayendo. 	
+	 (La gente anda diciendo, mujer de unos 40 años a otra. Colectivo 168. CABA)
+En (17 y 18) se trata de un uso digresor, por lo que indica un cambio de tema o sirve para 
+retomar uno que estaba pendiente de otra conversación o de un momento antes en la misma. Escandell 
+Vidal (1999, p. 3955), al referirse a los enunciados interrogativos, indica: 
+Además, los enunciados interrogativos pueden utilizarse para introducir un tema nuevo, como 
+en el ejemplo de (74): -¿Y Paco? -Salió a comprar el periódico. Para ello es necesaria la presencia de la 
+partícula y, que precisamente marca como tema nuevo al constituyente que le sigue. 
+Si se observa con atención el ejemplo (74) de Escandell Vidal, se notará que guarda una 
+similitud muy notable con el que Kany (1969) menciona como “y enfática”. En nuestra opinión, el 
+juicio de Escandell Vidal (1999) es más acertado pues pone en contexto el enunciado como parte de 
+un diálogo. 
+Uno de nuestros encuestados hace una reflexión interesante al decir “La uso en forma de 
+pregunta, como invitando a la persona a hablar o contar algo de un tema que ya hemos hablado antes. 
+(...) Pero solo oralmente”. De manera que, explícitamente, el hablante reconoce que la utiliza para 
+cambiar de tema o, al menos retomar un tema anterior, pero no inmediato. Ya hemos presentado 
+también un ejemplo en el que la partícula aparece en comienzo de una interrogativa total precediendo 
+a la partícula si con una fuerza exhortativa: 
+19. -¿Y si nos tomamos un vino? 
+Si bien no presentaremos un análisis de este uso, que retomaremos en futuras investigaciones, 
+consideramos que una hipótesis elegante abogaría por unificar estos dos usos en uno. 
+Como hemos mencionado, desde la aparición del prestigioso trabajo de Rizzi (1997) se ha 
+prestado mayor atención a la zona de la sintaxis denominada “periferia izquierda” y esto ha permitido 
+observar que la variación intra e interlingüística está, muy frecuentemente, relacionada con la posición 
+que ocupan algunas partículas.3 La partícula y en sus usos no coordinantes ha sido considerada propia 
+de algunas regiones de Hispanoamérica, aunque, en línea con las hipótesis de la GG y, tal como señalan 
+Hernanz y Rigau (2006), los fenómenos que se han observado como variaciones idiosincrásicas no lo 
+son y, según se ha podido ver en este trabajo, algunos de los valores que ha adquirido esta partícula en 
+el español de Argentina (tal como el que sirve para introducir un tema) se encuentran en el español 
+de España (según se puede deducir del tratamiento que hace de esta partícula Escandell Vidal y del 
+Diccionario de marcadores discursivos citado más arriba). El valor de marcador de modalidad enfática o 
+3. Al respecto Rizzi & Bocci afirman que “Clearly, languages differs as to whether or not, and how, a given position is 
+lexicalized”.
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+C. D. Palachi - M. J. Morais
+ 87 
+atenuada es más característico de Argentina. En el español de otras regiones hay otras partículas que 
+desempeñan esas funciones, por lo que la variación puede reducirse a una cuestión meramente léxica. 
+A partir del mencionado trabajo de Rizzi (1997) ha sido evidente que el sintagma que alojaba al 
+complementante (que) no era suficiente para la gran cantidad de elementos que preceden a la oración 
+nuclear. La información que se expresa en la zona propia del SC (Sintagma de Complementante), 
+corresponde a la interfaz entre el contenido proposicional y la estructura superordinada (ya se trate 
+de una cláusula más alta o de la articulación con el discurso). Dicha información es de dos tipos, 
+por un lado, informa acerca del tipo de cláusula (y está relacionada con el Sintagma Fuerza) y por 
+otro lado hay una información que “mira hacia adentro de la cláusula” y tiene relación con el sistema 
+temporal, por lo que se trata de una información contenida en el Sintagma Finitud. De manera que 
+la propuesta de Rizzi (1997) es diferenciar en la zona del SC un SFuerza y un SFinitud, y en estos 
+se insertan morfemas funcionales libres. En un desarrollo más ampliado el autor propone considerar 
+que entre el SFuerza y el SFin se pueden postular dos sintagmas funcionales más: el Sintagma Foco 
+y el Sintagma Tópico. Como se observa, la periferia izquierda de la oración es un espacio en el que 
+se pueden reconocer una gran cantidad de elementos que tienen incidencia en las interpretaciones 
+semánticas de las oraciones. 
+Cinque (1999) considera que en dicha zona hay una variedad de sintagmas funcionales en los 
+cuales se insertan diferentes tipos de partículas y adverbios. Este autor presenta la modalidad, de una 
+manera muy general, relacionada con “la opinión del hablante o la actitud hacia la proposición”. La 
+modalidad expresa la actitud que el hablante tiene hacia la “verdad” del enunciado. 
+La propuesta presentada en este trabajo sostiene que se pueden reconocer dos valores de la 
+partícula y cuando no es conjunción copulativa: 
+- marcador de modalidad epistémica
+- marcador de cambio de tema (digresor).
+La hipótesis, siguiendo a Hernanz y Rigau (2006), es que estos marcadores se sitúan en el 
+especificador del Sintagma de Fuerza que, en la propuesta de Rizzi (1997) es la posición más alta de 
+la estructura oracional. El hecho de que la partícula aparezca siempre en posición inicial y que no sea 
+posible insertar ningún otro elemento antes de la misma es un argumento a favor de tal hipótesis. 
+3. Algunas conclusiones e interrogantes
+A partir de la observación de que la partícula y, especialmente en el español de Argentina, 
+presenta algunos valores no coordinantes, que en una primera aproximación parecían ser muy diversos, 
+nuestro trabajo ha centrado su atención en observar qué significados aporta la presencia de la partícula 
+a la oración. 
+C. D. Palachi - M. J. Morais
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+88 
+El análisis detenido de los usos ha permitido encontrar los rasgos en común de los, 
+aparentemente, diversos usos y de esta manera nuestra investigación ha intentado unificarlos para 
+lograr una explicación más elegante desde un punto de vista teórico. 
+Si bien este trabajo es una investigación preliminar, nos ha permitido presentar una descripción 
+de los valores semánticos que aporta la partícula y a los enunciados. 
+La encuesta que hemos preparado y que han respondido 125 sujetos nos confirmó algunas de 
+las hipótesis preliminares acerca de los diferentes valores semánticos de y. Los encuestados no sólo han 
+aportado una gran cantidad de datos y ejemplos, sino que también han realizado reflexiones explícitas 
+acerca de su conocimiento implícito del lenguaje. 
+La investigación sobre el uso de partículas que operan como marcadores discursivos se ha 
+desarrollado enormemente a partir de las teorías que se enfocan en la pragmática y el análisis del 
+discurso, en cuanto a la lingüística formal, la GG ha puesto su atención en estos elementos desde fines 
+de la década del noventa y ha mostrado un gran desarrollo en este sentido. Por este motivo hemos 
+considerado la importancia de investigar esta partícula desde una perspectiva formalista. 
+Finalmente, consideramos que este trabajo deja abierto una serie de interrogantes en relación 
+con los usos de la partícula y en las variedades regionales del español. Es importante mencionar que 
+creemos necesario enfocar futuras investigaciones en las variedades cronolectales, puesto que nuestra 
+encuesta ha sido respondida por sujetos cuyas edades oscilan entre los 20 y los 65 años, sin embargo, 
+al analizar los datos no hemos hecho distinciones entre los rangos etarios. 
+Referencias bibliográficas
+Aliaga Jiménez, J. L.; Almería, L. B. et alii (eds.) (2014). María Antonia Martín Zorraquino. Filología, 
+gramática, discurso. Artículos escogidos [1976-2013]. Zaragoza, Publicación de la Institución Fernando 
+el Católico.
+Bayer, J. y Obenauer, H. (2011). Discourse particles, clause structure and question types. The linguistic 
+review, 28, 449-491. https://bit.ly/3emfVqi. 
+Benincà, P. y Poletto, C. (2004). Topic, Focus, and V2: Defining the CP Sublayers. En Rizzi, L. (ed.), 
+The structure of CP and IP
+. The Cartography of Syntactic Structures (Vol. 2, pp. 52-75). New York, 
+Oxford University Press.
+Biberauer, T. (ed.) (2008). The limits of syntactic variation. Amsterdam, John Benjamins.
+Biberauer, T. y Sheehan, M. (2011). Introduction: particles through a modern syntactic lens. The 
+Linguistic Review, 28, 387-410. http://bit.ly/30vLaXJ.
+Briz, A. y Grupo Val.Es.Co. Diccionario de partículas discursivas del español. http://bit.ly/2O5LERN.
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+C. D. Palachi - M. J. Morais
+ 89 
+Brucart, J. y Hernanz, M. (2012). Las Posiciones Sintácticas. En Gallego, Á. (ed.), Perspectivas de 
+sintaxis formal (pp. 33-110). Madrid, Akal.
+Camacho, J. (1999). La coordinación. En Bosque, I. y Demonte, V. (eds.), Gramática Descriptiva de la 
+Lengua Española (pp. 2635-2694). Madrid, Espasa.
+Cardinaletti, A. (2011). German and Italian modal particles and clause structure. The Linguistic 
+Review, 28, 493-531. http://bit.ly/3qBBRzY. 
+Cinque, G. (1999). Adverbs and Functional Heads. A Cross-Linguistic Perspective. New York, Oxford 
+University Press.
+Cinque, G. (2004). Issues in Adverbial Syntax. Lingua, 114, 683-710.
+Di Tullio, A. y Kornfeld. L. (2013). Marcas de modalidad epistémica en el registro coloquial. En 
+Di Tullio, A. (coord.), El español de la Argentina: estudios gramaticales (pp. 85-105). Buenos Aires, 
+Eudeba.
+Escandell Vidal, V. (1999). Los enunciados interrogativos. Aspectos semánticos y pragmáticos. En 
+Bosque, I. y Demonte, V. (eds.), Gramática Descriptiva de la Lengua Española (pp. 3929-3992). 
+Madrid, Espasa.
+Gutiérrez-Rexach, J. y Sessarego, S. (2014). Morphosyntactic variation and gender agreement in three 
+Afro-Andean dialects. Lingua 151, 142-161.
+Hernanz, M. L. y Rigau, G. (2006). Variación dialectal y periferia izquierda. En Fernández, B. y Laka, 
+I. (eds.), Andolin Gogoan. Essays in honor of professor Eguzkitza (pp. 435-452). Guipúzcoa, Euskal 
+Herriko Unibersitatea.
+Kany, C. (1969). Sintaxis Hispanoamericana. Madrid, Gredos.
+Kayne, R. (2000). Parameters and Universals. Oxford, Oxford University Press.
+Martín Zorraquino, M. A. (1992). Partículas y modalidad. En Holtus, G. et alii (eds.), Lexikon der 
+romanistischen Linguistik (pp. 110-124). Tubinga, Max Niemeyer Verlag.
+Martín Zorraquino, M. A. y Portolés Lázaro, J. (1999). Los marcadores del discurso. En Bosque, I. y 
+Demonte, V. (eds.), Gramática Descriptiva de la Lengua Española (pp. 4051-4214). Madrid, Espasa.
+Moliner, M. (2007). Diccionario de uso del español. Madrid, Gredos.
+Rizzi, L. (1997). The Fine Structure of the Left Periphery. En Haegeman, L. (ed.), Elements of 
+Grammar. Handbook of Generative Syntax (pp. 289-338). Dordrecht, Kluwer Academic Publishers.
+Rizzi, L. (2013). The functional structure of the sentence and cartography. En Den Dikken, M. (ed.), 
+The Cambridge Handbook of Generative Syntax (pp. 425-457). Cambridge, Cambridge University 
+Press.
+Rizzi, L. y Bocci, G. (en prensa). The Left Periphery of the Clause. En Everaert, M. y van Riemsdijk, 
+H. (eds.), Blackwell Companion to Syntax. II Edition. Blackwell Publishers.
+C. D. Palachi - M. J. Morais
+La partícula y. Marcador discursivo en el español argentino
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154709
+90 
+Rizzi, L. y Cinque, G. (2016). Functional Categories and Syntactic Theory.  Annual Reviews, 2, 139-163.
+Sánchez López, C. (1999). La negación. En Bosque, I. y Demonte, V. (eds.), Gramática Descriptiva de 
+la Lengua Española (pp. 2561-2634). Madrid, Espasa.
+Vox (2003). Diccionario de uso del español de América y España. Barcelona.
+*Cadina M. Palachi es Profesora en Letras por la UNL y Doctora en Humanidades y Artes, mención 
+Lingüística, por la UNR. Es Profesora Adjunta a cargo de Latín II, Latín III y Seminario Problemas 
+de Léxico y Morfosintaxis del Español en la FHUC, UNL desde 1998 y Profesora Titular Ordinaria 
+de Lengua Española I en la FHAyCS, UADER. Dirige proyectos de investigación desde 2014. 
+Es directora del Proyecto de investigación CAI+D 2020 Estudios gramaticales del español y lenguas 
+relacionadas: variación lingüística y problemas de adquisición del lenguaje. Es directora de la Revista 
+Argos, de la Asociación Argentina de Estudios Clásicos. 
+**M.  Jimena Morais es Profesora y Licencia en Letras por la UNL. Es Profesora Asociada a cargo de 
+Latín y cultura latina I y II, Adjunta a cargo de Lengua española II y docente a cargo de Historia de 
+la Lengua en la FHAyCS, UADER, institución en la que ha dirigido adscripciones y un proyecto de 
+investigación. Es Jefa de Trabajos Prácticos de Latín I y II en FHUC, UNL. Fue editora y secretaria 
+de redacción de la revista Argos (2010-2019). 
+Recibido: 29/11/2020
+Aceptado: 29/12/2020

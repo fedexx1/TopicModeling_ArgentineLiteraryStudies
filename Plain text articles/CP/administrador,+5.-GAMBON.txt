@@ -1,0 +1,1102 @@
+ 
+160 
+ 
+LA TRAGEDIA Y LA PAIDEÍA DEL DOLOR Y LA 
+LOCURA: HERACLES Y ORESTES  
+ 
+Lidia Gambon 
+Universidad Nacional del Sur 
+lgambon@uns.edu.ar 
+ 
+ 
+ 
+ 
+Resumen: La tragedia griega asumió 
+como función social y elemento 
+esencial de su paideía una abarcadora 
+reflexión sobre el dolor, escenificando 
+con frecuencia, en el marco de su 
+construcción 
+simbólica, 
+patologías 
+como la locura. El objetivo del 
+presente artículo será precisamente 
+analizar el léxico y la representación del 
+dolor en dos tragedias euripideas: 
+Heracles (c. 416 a. C.) y Orestes (408 a. 
+C.). Ambas exponen la situación 
+marginal de un héroe asesino, víctima 
+de la locura, mostrando coherencia y 
+variedad en la representación del dolor 
+y la enfermedad a partir del modo en 
+que se relacionan el destino del héroe, 
+el oîkos y la pólis. 
+ 
+Palabras clave: tragedia, dolor, locura, 
+Heracles, Orestes  
+Abstract: Greek tragedy took as an 
+essential element of its paideía a 
+comprehensive reflection on pain, 
+staging often pathologies like madness 
+as part of its symbolic construction. 
+The aim of this paper is to analyze the 
+vocabulary and the representation of 
+pain in two Euripidean tragedies, 
+Heracles (c. 416 BC.) and Orestes (408 
+BC.). Both plays expose the marginal 
+situation of a murderer hero, victim of 
+madness, showing cohesion and variety 
+in the depiction of pain and disease in 
+relation to the fate of the hero, the 
+oîkos and the pólis. 
+ 
+ 
+    
+Keywords: tragedy, pain, madness, 
+Heracles, Orestes  
+ 
+ 
+ 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+En un ensayo contemporáneo consagrado a la reflexión 
+sobre el dolor, David Morris no solo reconocía a la tragedia 
+griega la capacidad de escudriñar un territorio ignorado por la 
+medicina, sino de formular uno de los más profundos 
+interrogantes de la condición humana: qué hacer con el dolor 
+(Morris, 1994 [1991]). Proponía así —como punto de partida, 
+no como definición— que la tragedia es la forma literaria que 
+asume como función social principal una prolongada y 
+abarcadora reflexión acerca del dolor y el sufrimiento humano. 
+A priori no resulta difícil coincidir con esta perspectiva, no solo 
+porque el uso ordinario del término “trágico” apoya esta 
+mirada, sino porque el lenguaje de la enfermedad y del dolor 
+atraviesa cada una de las piezas dramáticas. La complejidad de 
+las aristas del tema, sin embargo, no debe subestimarse. 
+Integradas a la construcción de un imaginario, las patologías 
+que escenifica la tragedia traspasan el orden de lo físico, para 
+traducir con frecuencia la disfunción orgánica del espacio 
+social cívico y familiar —la pólis y el oîkos—; se proyectan así 
+reiteradamente como una metáfora que “explica” esa 
+disfunción, a través, entre otros recursos, de la presencia 
+ostensiva de un vocabulario nosológico.1 
+Dicho vocabulario nosológico, como el imaginario que 
+acaba por conformar, se sostiene en un presupuesto: el de la 
+                                                          
+ 
+1 Sobre la enfermedad como expresión de la disfunción del orden cívico, remitimos a las 
+contribuciones de Jennifer C. Kosak y de Roger Brock en Death and Disease in the Ancient 
+City (Hope & Marshall, 2000), y de Roger Brock en Greek Political Imagery from Homer to 
+Aristotle (Brock, 2013, pp. 69-82). En La institución imaginaria del oikos en la tragedia de 
+Eurípides se analiza la enfermedad como expresión de la disfunción del espacio familiar 
+(Cf. Gambon, 2009). 
+ 
+162 
+ 
+construcción simbólica del drama, aquella que define para la 
+mirada trágica la normalidad a través de la anomalía, el orden 
+funcional a través de la disfunción, la salud a través de la 
+enfermedad. En la representación de las historias del mito, la 
+tragedia está atravesada toda ella por esa visión idiosincrásica 
+que podríamos denominar “patológica”. Se trata, sin embargo, 
+y como consecuencia de este mismo carácter simbólico, de una 
+visión sobradamente compleja, que responde y se corresponde 
+con el carácter paidéutico alusivo e indirecto de un género de 
+naturaleza política (i.e. que interpela a la pólis y refiere 
+ínsitamente a ella). Por un lado, y en relación con el dolor y la 
+enfermedad, esta visión entronca —muy especialmente en 
+Eurípides— con el desarrollo de la actividad práctica y 
+especulativa de la misma ciencia médica en la Grecia del s. V a. 
+C., que se ocupa y preocupa de igual modo por restaurar el 
+equilibrio saludable del cuerpo. En tal sentido, medicina y 
+tragedia se constituyen en el período clásico en formas de un 
+discurso centrado en la nosología, y consecuentemente vemos 
+imperar en el teatro no solo diferentes tipos de enfermedades, 
+sino un lenguaje común que “sharpens in intensity and 
+multiplies in frecuency” (Mitchell-Boyask, 2008, p. 4).2 Por 
+otro, dicha perspectiva plantea el modo indistinguible, 
+inseparable, en que suelen relacionarse el sentido concreto y 
+metafórico, somático y simbólico de una nósos trágica bajo la 
+imagen del héroe sufriente. Este es un aspecto que, percibido 
+                                                          
+ 
+2 Asumimos así que la frecuencia de aparición de términos como nósos se corresponde 
+con la intensidad de la preocupación o la importancia asignada al tema. Esta 
+preocupación es común tanto a la medicina hipocrática (Aguilar, 2002; Schironi, 2010) 
+como al drama (Mitchell-Boyask, 2008). 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+seguramente de manera natural por los griegos, solo las más 
+recientes investigaciones de lingüística cognitiva han venido a 
+poner de relieve, en particular en el estudio de temas como el 
+dolor y las emociones.3 Y en ningún padecimiento resulta esto 
+tan claro, quizás, como en la locura, donde la interconexión 
+entre mente y cuerpo es manifiesta, y el drama se complace en 
+exhibirla. Así, con frecuencia, el héroe víctima de la manía 
+fluctúa en su enfermedad entre estados emocionales variados 
+en los que se anula la distancia entre síntoma físico y estado 
+mental, y vemos confluir en el discurso trágico de manera 
+indisociable el dolor del cuerpo y de la mente, las emociones y 
+el aspecto moral. 
+Si a la medicina contemporánea interesaba la naturaleza del 
+sufrimiento y sus causas, la tragedia le otorgó un lugar 
+“pervasivo” al dolor, exponiendo su categoría compleja de 
+semeîon y emoción asociada a la esfera conceptual de la 
+enfermedad. El primero de los aspectos, el que sitúa al dolor 
+en la categoría de signo, guarda una clara conexión con la 
+naturaleza ambigua del síntoma —que la misma medicina 
+hipocrática se esforzaba en interpretar y que la tragedia se 
+complace en explotar—; también con la emergencia del cuerpo 
+como objeto epistémico en el período clásico, recientemente 
+puesta de relieve (Holmes, 2010). La segunda caracterización, 
+la que sitúa al dolor en el lugar de la emoción, a la par que 
+vinculado a ella, guarda relación asimismo con la ciencia y, 
+                                                          
+ 
+3 En la medida en que el enfoque cognitivo entiende que la conceptualización del dolor 
+y las emociones es una construcción social, constreñida por lo biológico y al mismo 
+tiempo culturalmente definida por los componentes que cada sociedad selecciona en 
+función de un foco empírico determinado (Cf. Theodoropoulou, 2012). 
+ 
+164 
+ 
+además, con una de las funciones esenciales del teatro, 
+destinado no solo a representar sino a generar empatía en el 
+dolor (LaCourse Munteanu, 2012).  
+El objetivo del presente artículo será precisamente analizar 
+el léxico y la representación del dolor en dos tragedias 
+euripideas: Heracles (c. 416 a. C.) y Orestes (408 a. C.). Ambas 
+exponen la situación marginal de un héroe asesino que es 
+víctima de la locura, aun cuando el tormento de la manía se 
+concentra en diferentes momentos del drama. Mientras la 
+locura de Heracles precede a los crímenes familiares, y acarrea 
+sufrimientos que se despliegan sobre todo en la última parte de 
+la pieza, la de Orestes, que no es causa sino consecuencia del 
+asesinato más impío, ocupa la primera parte de la obra.4 
+Heracles define su marginalidad a partir de nuevas hazañas (la 
+muerte de su esposa y de sus hijos) realizadas bajo los alcances 
+de la locura incitada por Lisa; Orestes, en cambio, no ha 
+                                                          
+ 
+4 La distinción y relación entre cada una de las partes depende naturalmente de 
+cuestiones estructurales en las que no entraremos aquí, pero que, en líneas generales, 
+pueden resumirse en el reconocimiento en ambas tragedias de dos mitades de 
+dimensiones quasi semejantes. En el caso de Heracles, hay coincidencia en señalar un 
+primer momento centrado en la amenaza y la salvación de la familia del héroe (vv. 1-
+814) y un segundo tiempo dramático (vv. 815-1428) que instala la aparición de Lisa y 
+centra el conflicto en la locura (y las consecuencias de la locura de Heracles). En Orestes, 
+es posible advertir un primer momento en que los hijos de Agamenón actúan como 
+víctimas a la espera de la decisión de la asamblea argiva (vv. 1-843), y un segundo 
+momento en que Orestes y Electra son compelidos a obrar como victimarios para 
+procurarse su salvación (vv. 843-1693), aun cuando caben otras posibilidades, como las 
+planteadas por E. García Novo (García Novo, 1981) o M. C. Schamun (Schamun, 
+1995). Ello no invalida nuestras afirmaciones. Sobre la polémica estructura y unidad 
+dramática de Heracles, pueden consultarse los aportes de E. Griffiths (Griffiths, 2006, pp. 
+42-64), M. Sanz Morales y M. Librán Moreno (Sanz Morales & Librán Moreno, 2008, 
+pp. 59-60) y E. Hall (Hall, 2010, p. 166); para la estructura bipartita de Orestes, M. Wright 
+ofrece un análisis (Wright, 2008, pp. 29-50). 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+matado a su madre en estado de perturbación mental, pero su 
+situación marginal se potencia en la disrupción del orden 
+familiar y social que representa este crimen, y especialmente en 
+el padecimiento de la manía derivada del acto cometido, lo que 
+problematiza la relación del héroe no solo con su entorno sino 
+consigo mismo (Medda, 2013, pp. 176-177). Por ello, aun 
+cuando sea posible coincidir en un sentido con el juicio de 
+Theodorou acerca de que estos héroes no tienen nada en 
+común, “not even their madness” (Theodorou, 1993, p. 36), 
+nos proponemos mostrar que Eurípides despliega en la pintura 
+del dolor y la locura de estas tragedias de las últimas décadas 
+del siglo un tratamiento que exhibe a la par variedad y 
+cohesión en la presentación de la enfermedad, aunando el 
+destino del héroe, el oîkos y la pólis, y ahondando sobre todo en 
+la sintomatología emocional del dolor de la locura. En tiempos 
+de una convulsionada Atenas, ya desgastada por más de diez 
+años de insensata guerra fratricida ¿de qué otro modo podía 
+interpelarse a la pólis?  
+ 
+Heracles: el héroe del dolor superlativo5 
+ 
+Heracles es una tragedia en la que se hace coincidir de manera 
+dolorosamente paradójica la salvación de la ciudad y la familia 
+con el ataque de locura del héroe, que atrae la completa 
+destrucción del oîkos, consume la casa en la más absoluta 
+                                                          
+ 
+5 Para las citas del texto griego de las obras analizadas hemos seguido la edición de J. 
+Diggle (OCT). Las traducciones en todos los casos nos pertenecen. 
+ 
+166 
+ 
+vergüenza (v. 1423-4) y deja a Tebas desolada. Invirtiendo la 
+secuencia de trabajos, Eurípides presenta al inicio del drama a 
+un Heracles que ha debido abandonar en esta ciudad a su 
+esposa Mégara, a sus tres hijos y a su padre mortal Anfitrión, 
+para marchar al Hades y asegurar con esta última labor el pago 
+definitivo a Euristeo por el retorno del exiliado Anfitrión a 
+Argos. Como Orestes al matar a Clitemnestra, Heracles al 
+marcharse dejando solos a los suyos ha actuado movido por las 
+obligaciones que crea la philía parental. Pero la crisis política, 
+bajo la forma de una stásis o sedición, ha enfermado a Tebas 
+(στάσει νοσοῦσαν τήνδ' ἐπεσπεσὼν πόλιν, v. 34). La 
+ciudad ya no razona bien (vv. 272-274); y ciudadanos 
+ambiciosos, en su locura, han llevado al poder, durante la 
+ausencia del héroe, a un advenedizo, un tirano. Este no solo ha 
+matado al rey y a sus hijos, sino que amenaza con acabar con 
+toda la familia de Mégara, de modo que el parentesco político 
+con Creonte se ha convertido en un gran mal para Heracles. 
+Gobernada por el tirano Lico, Tebas deviene un espacio 
+completamente hostil para la familia del héroe descendiente de 
+Zeus, y para una casa que carece de phíloi (v. 430). De ahí que 
+el momento del retorno de Heracles, del rescate de la forzosa 
+muerte de los miembros del oîkos, sea celebrado de manera 
+esperanzada por el coro como una afortunada metabolé 
+(μεταβολὰ κακῶν, v. 735, cf. vv. 765-766). Sin embargo, esta 
+metabolé, que nace con un crimen (la muerte de Lico) para 
+multiplicarse en muchos otros, resulta singularmente dolorosa 
+en razón de la entronización del tema de la locura. 
+Un rasgo singular del imaginario de esta tragedia es el modo 
+en que la crisis política de Tebas -anti-modelo trágico de la pólis 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+(Zeitlin, 1990)- se expresa mediante la imagen de la 
+enfermedad y la locura; Eurípides se sirve para caracterizar el 
+mal de la ciudad de los mismos términos que refieren en el 
+desarrollo del drama al padecimiento del héroe. Así, νοσέω 
+(‛estar enfermo’, vv. 34, 273, 542, 1414), al igual que ταράσσω 
+(‛perturbar’) y sus derivados nominales (vv. 533, 605, 836, 908, 
+1091) se aplican indistintamente a Tebas y a Heracles, 
+estableciendo de este modo explícitamente una conexión entre 
+la salud del héroe y la salud del cuerpo político, aunque este 
+aspecto tan significativo no siempre haya resultado evidente en 
+las lecturas críticas de la obra.6  
+En cuanto a la locura misma, un amplio espectro de familias 
+de palabras concurren en esta tragedia para designarla, designar 
+las acciones que desencadena y el estado de quien la padece: 
+desde μανία/μαίνομαι (‛locura’/‛estar loco’, vv. 835, 878, 
+952, 1137), el ya mencionado ταράσσω, y βακχεύω -en las 
+significaciones activa (‛inspirar locura’) y pasiva (‛sufrir locura’) 
+de su valor transitivo- (vv. 898, 966, 1086, 1122, 11427), hasta 
+el más emocional término μάργος (‛rabioso’, ‛enfurecido’, v. 
+1082, cf. μαργάω, v. 1005) y el que designa a la misma diosa 
+                                                          
+ 
+6 Esta conexión fue señalada por J. C. Kosak (Kosak, 2004, pp. 151-174) y por R. M. 
+Mitchell-Boyask (Mitchell-Boyask, 2008, p. 124), y puesta recientemente en relación con 
+el valor y los usos del verbo tarásso (Cf. Gambon, 2016). 
+7 El mismo valor puede aplicarse a la forma nominal βάκχος (v. 1119). Aunque el 
+sentido fundamental del verbo βακχεύω refiere a la locura báquica o inspirada por 
+Dioniso, es el valor más general el que prima en Heracles, sea para designar la locura que 
+inspira Lisa, o de la que es víctima Heracles. Como señala H. Perdicoyianni-Paléologou 
+(Perdicoyianni-Paléologou, 2009b), las formas nominales y verbales de esta familia son 
+acuñaciones del período clásico. 
+ 
+168 
+ 
+de la locura en la obra, λύσσα (vv. 866, 878, 883, 887, 898, 
+1024).8 La imagen patológica que impera, en virtud de la 
+caracterización de esta diosa y de su aparición en escena, es, 
+por un lado, la que asocia la locura a la conducta bestial y 
+salvaje;9 por otro, la que entiende la enfermedad como un 
+funcionamiento defectivo, un estado de desorden debido a la 
+alteración del equilibrio o isonomía de los elementos 
+compositivos del cuerpo, y en el caso particular de Heracles 
+(como en el de Orestes), de la mente o phrén (φρενῶν 
+ταραγμούς, v. 836, cf. v. 1091).10  
+Desde su misma aparición, Iris enfatiza que ella y Lisa no 
+vienen a atacar a la ciudad, sino tan solo la casa de Heracles 
+(vv. 824-825). Reafirma, en el explícito contraste que establece 
+entre oîkos y pólis, la amenazante relación entre el destino del 
+héroe y su familia. De algún modo Heracles debe pagar las 
+consecuencias de su condición de hijo bastardo de Zeus (vv. 
+841-842).11 Pero el precio exigido -como es de uso en un 
+                                                          
+ 
+8 Un estudio exhaustivo del vocabulario de la locura y su valor en el período clásico es el 
+que brinda H. Perdicoyianni-Paléologou en sus dos artículos (Perdicoyianni-Paléologou, 
+2009a; 2009b). La personificación de la locura, Lisa, si no llega a ser una innovación 
+completamente euripidea, adquiere sus rasgos idiosincrásicos como personaje dramático 
+con este trágico (Cf. Duchemin, 1967). 
+9 Esta imagen patológica guarda relación con la percepción de la enfermedad como 
+invasión de una fuerza externa daimónica (Cf. Padel, 1992, pp. 138-161). 
+10 La concepción de la enfermedad como desequilibrio halló sustento científico en la 
+teoría fisiológica de los humores desarrollada por los médicos hipocráticos. La noción 
+de isonomía referida a la salud se remonta al filósofo presocrático Alcmeón de Crotona (s. 
+VI a. C.). 
+11 La interpretación de la frase del v. 842, δίκην δόντος (‛pagar una penalidad’), ha sido 
+discutida en relación a la responsabilidad de Heracles en su locura. Su valor ambiguo, 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+género que muestra por esencia la violación extrema de las 
+relaciones de philía (Belfiore, 2000)- es demasiado alto, pues 
+Heracles, enloquecido, mata a sus más queridos phíloi (v. 1147).  
+Aunque la locura es presentada doblemente en la obra -de 
+manera prospectiva y poética por las diosas (vv. 822-885)12, y 
+de manera retrospectiva y más realista por el mensajero (vv. 
+922-1015)-, y aunque en cada una de ellas se abunda en la 
+sintomatología y las emociones que comporta la manía, en 
+Heracles, a diferencia de Orestes, el ataque en sí es circunscripto 
+al espacio retro-escénico. La centralidad del sufrimiento 
+aparece así confinada no al momento de la manía sino al de la 
+recuperación de la conciencia después de la crisis. Se trata de 
+un proceso gradual, que sucede a una crisis que es temporal (y 
+no recurrente, como en el caso de Orestes), después de la cual 
+Heracles se siente confundido (vv. 1094 ss.), amnésico (vv. 
+1105-1108) y acusa aún síntomas físicos de su agitada y 
+convulsiva actividad maníaca, como su respiración irregular (v. 
+1092).13 Apenas recuperado, cree estar de nuevo en el Hades 
+(v. 1101) -y en cierto modo lo está, hallándose entre muertos-; 
+                                                                                                                                         
+señalado por E. Griffiths (Griffiths, 2006, pp. 88-90), no oculta la significación del 
+problemático lazo parental de philía de Heracles, en tanto hijo del mortal Anfitrión y del 
+dios Zeus. Sobre todo J. Gregory (Gregory, 1997, pp. 121-154) se ha detenido en el 
+tema de la doble paternidad de Heracles y la relación que mantiene con el sufrimiento 
+del héroe.   
+12 Autoras como M. G. Ciani (Ciani, 1974, p. 89) y posteriormente A. Guardasole 
+(Guardasole, 2000, p. 197) señalaron la matriz esquílea de esta primera descripción. 
+Remitimos a sus observaciones en lo que refiere a contrastes y similitudes entre una y 
+otra escena, y para los puntos de contacto de la segunda descripción de la locura con los 
+textos médicos. 
+13 La misma sensación experimentará Orestes en los vv. 215-216 y 277-279. 
+ 
+170 
+ 
+pero no reconoce la geografía, y se siente aturdido, sin recursos 
+(v. 1105). Si la locura ha representado un proceso de 
+extrañamiento, de alienación, por el que Heracles “ya no era el 
+mismo” (vv. 931, 965), la amnesia que le sigue es a su vez un 
+estado no menos saludable de incapacidad de entendimiento 
+(δύσγνοια, v. 1107) del que Heracles desea curarse. Y 
+mientras Orestes encuentra en el reconocimiento de lo 
+realizado (σύνεσις, Or. 396) una fuente de dolor y locura que 
+no da tregua a su sufrimiento, para Heracles δύσγνοια es 
+parte de un mal al que desea sobreponerse, pero cuya cura 
+resulta aun peor que la misma enfermedad, por el sufrimiento 
+que entraña. 
+Si los mismos tratados médicos explotaron el uso de 
+términos polisémicos para referir al dolor, lo que les permitía 
+insistir en la ambigüedad de su estatuto (Villard, 2006), la 
+tragedia lleva la ambigüedad y la polisemia al paroxismo. Tal es 
+lo que sucede con el término πόνος (‛trabajo’, ‛dolor’, 
+‛esfuerzo’), que representa una de las grandes familias de 
+palabras de dolor para la medicina, y es uno de los vocablos de 
+mayor presencia en Heracles.14 El término, como el verbo 
+derivativo πονέω, refiere en la primera parte de la obra tanto a 
+las hazañas del héroe, entre las que se incluye el rescate de su 
+familia (vv. 22, 388, 427, 575, 1275, 1353, 1410), como a las 
+                                                          
+ 
+14 L. Villard señala πόνος como una de las tres grandes familias de palabras que en los 
+escritos hipocráticos se usan para referir al dolor, y destaca que, a excepción de ὀδύνη, 
+los otros términos (ἄλγος, πόνος) son intercambiables y pueden tener un sentido 
+diferente (Villard, 2006, pp. 161-162). Claramente en Heracles Eurípides explota la 
+polivalencia del término al elegir, además, un vocablo distinto del homérico ἄεθλοι 
+utilizado para referir a las hazañas del hijo de Zeus (cf. Il. 8.363; Od. 11.622).  
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+desgracias de la casa (v. 597), y al dolor que experimenta 
+Heracles por su última “hazaña” contra sus hijos y su esposa 
+(τὸν λοίσθιον δὲ τόνδ' ἔτλην τάλας πόνον, v. 1279), lo que 
+reduce la magnitud de los proezas anteriores a la luz del nuevo 
+esfuerzo a sobrellevar. El valor de este término es 
+intercambiable en la tragedia con μόχθος/μοχθέω (vv. 355-
+356, 698, 830, 1251, 1270), que igualmente se usa para referir a 
+las acciones y a los sufrimientos de Heracles, parangonables 
+entre sí por su extraordinariedad. Así, Anfitrión llama a su hijo 
+πολύπονος (‛muy doloroso’, ‛muy esforzado’, v. 1190), y más 
+aun, πολυμοχθότερον πολυπλαγκτότερόν τε θνατῶν (“el 
+más esforzado y extraviado de los mortales”, v. 1197), 
+refiriendo a su capacidad superlativa de dolor.15 Y el mensajero 
+asegura, al final de su relato, no conocer a alguien más 
+desdichado o con más capacidad de soportar el dolor (οὐκ 
+οἶδα θνητῶν ὅστις ἀθλιώτερος, v. 1015). 
+La cadencia de la locura, su pulso rítmico, está determinado 
+en la obra por las dos emociones que ya los textos médicos 
+                                                          
+ 
+15 Las adjetivaciones del v. 1197 son realmente extraordinarias, no solo por su carácter 
+inusitado, que las convierte en hápax, sino porque la magnitud de la ponderación alcanza 
+a la extensión misma de las palabras en el verso. La polisemia, además, hace 
+notablemente difícil la traducción del pasaje. El término πολυμοχθότερον es usado 
+únicamente en esta ocasión en la tragedia, aunque en grado positivo hallamos otros 
+ocho ejemplos del mismo adjetivo en Eurípides, generalmente para referir a la dolorosa 
+condición humana (Hec. 95, El. 1330, Fen. 784, 800, IA 1330 [2], fr. 638a.1 K, fr. 916.1 
+K). No está, sin embargo, testimoniado en Esquilo, y en Sófocles hallamos un solo 
+ejemplo (S. EC 165). El vocablo πολυπλαγκτότερον -el más difícil de traducir- remite 
+a la idea de la errancia o vagabundeo que, como ha demostrado R. Padel (1997 [1995]), 
+es una de las imágenes de la locura trágica (la misma imagen está presente en 
+μαινομένῳ πιτύλῳ πλαγχθεὶς, v. 1187). El compuesto es único en Eurípides, y de 
+matriz esquílea, ya que es el que se aplica a la locura de Ío (Esq. Sup. 572).  
+ 
+172 
+ 
+reconocían asociadas a la llamada “enfermedad sagrada” (cf. 
+Hipócrates: Sobre la enfermedad sagrada): el miedo y la vergüenza. 
+El primero preanuncia el clima de la segunda parte de la 
+tragedia, con la referencia del coro de ancianos de Tebas a la 
+aparición del phásma de Lisa (v. 816). Ciertamente los estados 
+de pánico y terror son síntomas estándar del delirio y la manía, 
+pero en Heracles, estas emociones están reservadas en principio 
+a los espectadores de la locura, no a su víctima (cf. vv. 950, 
+971). El tiempo del dolor, en cambio, es el tiempo de la 
+vergüenza, expresada en los términos αἰδώς y αἰσχύνω.16 
+Heracles lamenta la contaminación que como homicida 
+representa para la comunidad social (vv. 1155-1162), y su 
+preocupación por la mancha que comporta lo lleva a pensar 
+como única salida posible el suicidio cuando su padre le 
+recuerda las hazañas que ha realizado. Solo la llegada de Teseo 
+-una suerte de deus ex machina humano (Stafford, 2012, p. 89)- 
+logrará impedirlo. Pero esta llegada es también la que activa el 
+profundo sentimiento de vergüenza por sus hechos, al punto 
+de querer ocultar el rostro tras el peplo (vv. 1159-1160, 1198-
+1201).17 
+Si 
+la 
+emoción 
+se 
+inscribe 
+en 
+el 
+cuerpo 
+(Theodoropoulou, 2012, p. 461), y este habla elocuentemente 
+por sus gestos, el gesto del ocultamiento, aquí como en Orestes, 
+                                                          
+ 
+16 La complementariedad de las esferas de significación de ambos términos en la lengua 
+griega ha sido desarrollada por D. Cairns en Aidôs: The Psychology and Ethics of Honour and 
+Shame in Ancient Greek Literature (Cairns, 1993). 
+17 El uso de aidós/aischýno en estos dos pasajes deja en claro la complementariedad del 
+sentimiento que expresan: H.: αἰσχύνομαι γὰρ τοῖς δεδραμένοις κακοῖς (Heracles: 
+“Me avergüenzan los hechos cometidos”, v. 1160); Α: αἰδόμενος τὸ σὸν ὄμμα / καὶ 
+φιλίαν ὁμόφυλον /αἷμά τε παιδοφόνον (Anfitrión: “Lo avergüenza [sc. a Heracles] tu 
+rostro y tu amistad hermana, y la sangre filicida”, vv. 1199-1201). 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+adquiere un valor significativo. El tono emocional de la escena 
+con Teseo está determinado por el dolor de la vergüenza, la 
+conciencia de un míasma al que el rey ateniense, sin embargo, 
+no le teme, y para quien ni siquiera existe (v. 1232).18  
+Al comienzo de la tragedia, cuando aún no es posible 
+predecir la dimensión de los sufrimientos que se avecinan, 
+Anfitrión afirma la capacidad del tiempo de curar, de 
+proporcionar un remedio (ἄκη, v. 93) a los males. Pero aunque 
+la aparición y el rescate de Teseo fuerzan en los anuncios del 
+éxodo a proyectar las esperanzas en el nuevo tiempo que 
+aguarda a Heracles en Atenas, para la magnitud del dolor de 
+este héroe no hay filtro aliviador alguno (φίλτρον τοῦτ' ἔχων 
+ῥᾴων ἔσῃ; v. 1407). Y Heracles es y sigue siendo, al final de la 
+tragedia, su dolor y su enfermedad (cf. νοσῶν, v. 1414). 
+¿Qué destino espera, entonces, a la pólis y al oîkos? Aunque la 
+caótica situación de Tebas es olvidada completamente después 
+de la muerte de Lico, la ciudad vuelve al centro del discurso 
+trágico en la escena final, ahora desdoblada en su 
+contramodelo, Atenas. Es allí que Heracles, por mediación de 
+Teseo, será purificado y recibirá los honores de varón 
+excelente (ἄνδρ' ἐσθλὸν, v. 1335), mientras viva y después de 
+muerto. Pero en Tebas, en el escenario de Tebas, solo queda el 
+dolor, 
+tal 
+como 
+expresa 
+la 
+recurrencia 
+del 
+verbo 
+πενθέω/συμπενθέω (‛estar en duelo’/‛condolerse’) en los vv. 
+                                                          
+ 
+18 El estudio de R. Parker, central para la comprensión de la noción religiosa arcaica de 
+míasma, expone los ejemplos de Heracles y Orestes como expresión de “those situations 
+where the infectiousness of pollution is either explicitly denied or nobly disregarded in 
+favour of a higher ideal” (Parker, 1983, p. 309). 
+ 
+174 
+ 
+1390 y 1391. Anfitrión ha quedado sin descendientes, y 
+Heracles debe marcharse, sin poder ejercer los deberes y 
+derechos de la philía: sin enterrar a sus hijos, sin poder 
+garantizar el entierro a su padre. El silencio sobre el futuro 
+político de la ciudad de Tebas y sobre la continuidad del oîkos 
+de Anfitrión y de Heracles solo perpetúa el dolor en el 
+momento de la pérdida.19 
+ 
+Orestes, ¿el dolor de la locura o la locura de dolor? 
+ 
+En Orestes, la enfermedad del protagonista se enmarca en las 
+consecuencias de la venganza del hijo de Agamenón, cuyas 
+repercusiones comprometen tanto la salud del propio Orestes 
+como el destino de la familia Atrida y de la misma pólis argiva. 
+Elecciones significativas de esta interrelación entre el destino 
+del héroe, su génos y la pólis son dos de las novedades en la 
+presentación euripidea del mito. Por un lado, como ha 
+destacado entre otros Enrico Medda, la elección de Argos 
+como el nuevo escenario político del drama (Medda, 1999): 
+Orestes no ha abandonado su ciudad tras el matricidio, sino 
+que, sumido en la postración derivada de su enfermedad, 
+permanece allí después de seis días de la muerte de 
+Clitemnestra, asistido por su hermana Electra a la espera de la 
+sentencia definitiva de la ciudad. El nuevo escenario espacio-
+temporal elegido por Eurípides conlleva la sustitución del 
+                                                          
+ 
+19 En tal sentido resultan significativas las palabras finales del coro: “Marchamos, 
+compadecidos y entre muchas lágrimas, pues hemos perdido al más grande de nuestros 
+amigos” (vv. 1427-1428). 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+juicio ateniense del Areópago por el juicio de la asamblea de 
+los propios conciudadanos argivos, cuyo momento el poeta 
+hace coincidir con el regreso de Menelao y Helena, y con la 
+llegada del amigo Pílades, extremando de este modo las 
+tensiones entre las relaciones del oîkos y las obligaciones que 
+crea, y la pólis. Así, la ciudad no permite a Orestes tener el cetro 
+de Agamenón y, excluyéndolo de los espacios sociales (vv. 
+428-430), se apresta a votar su muerte y la de Electra; pero si 
+ello sucede, el oîkos paterno quedará definitivamente huérfano 
+(v. 664). La otra singularidad de la tragedia es la que se 
+relaciona con la enfermedad de Orestes, la locura, escenificada 
+-y no simplemente descrita- en los momentos precedentes y 
+sucesivos a la crisis, así como en la crisis misma, y caracterizada 
+con la sintomatología de una verdadera enfermedad mental de 
+periódica recurrencia.20 De hecho, durante aproximadamente la 
+mitad de la pieza el foco principal es el lecho de enfermo del 
+hijo de Agamenón y las repercusiones de su padecimiento.21  
+                                                          
+ 
+20 Esta caracterización singular permite mostrar a Orestes en el estado de devastación y 
+menoscabo de su salud mental que supone la recurrente alternancia de la manía con 
+períodos de cordura, un precario equilibrio y una permanente amenaza de 
+desestabilización que no dan tregua al sufrimiento del héroe, como ha señalado Medda 
+(Medda, 2013, pp. 168-169). La brevedad de la crisis en sí, que en Orestes tiene una 
+extensión menor a la de Heracles, resulta entonces amplificada por el padecimiento que la 
+precede y sigue como parte de una enfermedad que es tanto más amenazante por su 
+posibilidad de reincidencia. La relevancia del tema de la enfermedad en esta tragedia fue 
+destacada tempranamente (Cf. Smith, 1967), y su realismo, como en Heracles, 
+relacionado con las observaciones médicas contemporáneas. Buena parte de la amplia 
+bibliografía sobre el tema es referida por E. Medda (Medda, 2013, p. 167, n. 1). 
+21 Con excepción del momento de ataque de locura, Orestes permanece en el lecho 
+desde el comienzo del drama hasta el v. 794, en que Pílades lo ayuda a levantarse para 
+dirigirse a la asamblea. La cuestión del lecho y su integración y desaparición de la 
+escenografía en la segunda parte de la pieza (en especial después del cuarto episodio en 
+ 
+176 
+ 
+Ya en el prólogo, Electra define el mal que perturba a su 
+hermano: una enfermedad salvaje, una ἀγρία νόσος (v. 34) 
+que se confunde, en este punto, con la propia naturaleza 
+mimetizada del paciente (cf. vv. 226, 387).22 La enfermedad 
+tiene, pues, en principio, un sentido concreto: la locura de 
+Orestes. Pero en una línea hereditaria que se remonta al mismo 
+Tántalo, esta nósos se inscribe en el catálogo de horrorosos 
+crímenes que conectan a los miembros del génos a través de 
+sucesivas generaciones (cf. νόσον, v. 10). El sino del oîkos 
+Atrida se define así, a partir de esta nósos, por la perpetuación 
+de la desgracia en todos los descendientes, el continuo 
+intercambio de dolor y muerte, como evocan reiteradamente el 
+coro de jóvenes argivas y la misma Electra (vv. 807-843; 971-
+981; 982-1012). El término νόσος y sus derivados (vv. 10, 34, 
+43, 211, 227, 229, 232, 282, 304, 314, 395, 407, 480, 792, 800, 
+                                                                                                                                         
+que Orestes regresa de dicha asamblea) han suscitado respuestas diversas, como sucede 
+con muchos de los aspectos performativos del teatro antiguo. Se ha sostenido tanto el 
+uso del recurso del ekkýklema (Webster, 1967, p. 247), como defendido la flexibilidad de 
+una escenografía convencional que permite entender que la obra se desarrolla en parte 
+dentro del palacio Atrida, en parte delante del mismo (Willink, 1986), o interpretado que 
+el lecho fuera del palacio representa la marginalidad social de Orestes (Bosman, 1993, p. 
+12). Enrico Medda, a quien remitimos para la bibliografía en torno al tema, discute 
+ampliamente este punto, exponiendo las evidencias textuales que definen la escena 
+inicial como exterior (Medda, 2013, pp. 115-36). De la cuestión escénica se ocupa 
+especial y extensamente también S. Ferrando (Ferrando, 2008). 
+22 La enfermedad de Orestes es salvaje, y el aspecto mismo de Orestes ha devenido 
+salvaje a partir de ella. Percibida como una fuerza agresiva que ataca al hombre desde el 
+exterior, la enfermedad en su potestad destructiva asume frecuentemente en el corpus 
+trágico la forma de una fiera, como surge aquí de la denominación agría nósos (Cf. S. Tr. 
+1030, S. Fil. 173, 265-266). Ello responde a un imaginario arcaico que no es extraño a la 
+nueva medicina racional (Jouanna, 1988), aunque haya autores que atribuyan un valor 
+plenamente técnico a la expresión aludida (Garzya, 1992, pp. 25-26). 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+831, 881, 883, 1016) y otros términos y expresiones que 
+refieren 
+al 
+campo 
+específico 
+de 
+la 
+locura, 
+como 
+μανία/μαίνομαι (vv. 37, 135, 228, 270, 326, 400, 532, 835, 
+845), βακχεύω/ἀναβακχεύω (338, 411, 835) y λύσσα (254, 
+270, 326, 401, 793, 845) demuestran la ostensiva presencia de 
+la enfermedad a lo largo de todo el drama.23 Su violencia y 
+agresividad aparecen remarcadas no solo por su caracterización 
+salvaje, sino sobre todo por su concepción agonal, evidente en 
+las imágenes del campo atlético y militar que confluyen en 
+torno a la de la enfermedad, y que la revelan en más de un 
+punto como irrupción de una lucha de fuerzas que pugnan en 
+el interior del mismo Orestes.24 Pero no es este el único rasgo 
+que merece señalarse. Si la tragedia ofrece por lo general 
+escasos ejemplos de términos de salud y cura, Orestes resulta 
+excepcional en un doble sentido: por un lado, porque es uno 
+de los pocos dramas en los que la noción de salud o curación 
+se expresa reiteradamente (ἰάσιμος, v. 399; ἰώμενος, v. 650; 
+ὑγίεια, v. 235; ὑγιής, v. 590); por otro, por el valor 
+extrañamente positivo al que remiten términos de salud como 
+el adjetivo ὑγιής (‛sano’).25 Y sin embargo, pese a ello, a 
+                                                          
+ 
+23 En su reflexión acerca del crimen de Orestes, el coro refiere además al acto con el 
+término patológico científico para la locura: paránoia (v. 824). 
+24 La concepción agonal de la enfermedad es especialmente notoria en Orestes (Cf. 
+Gambon, 2012). Se trata de una percepción que también comparte la tragedia con la 
+ciencia médica contemporánea (Cf. von Staden, 1990, p. 97). 
+25 En Eurípides el adjetivo hygiés se usa generalmente en forma negativa, asociado a la 
+mente y con el sentido metafórico de “insensato” (cf. Andr. 448, 952, Hel. 746, Fen. 201, 
+Ba. 262, 948, fr. 493.5 K, fr. 659.5 N2, fr. 824.1 K). Más que constituir una metáfora 
+muerta (Cf. Craik, 2001, p. 83), es una metáfora que en nuestra opinión se integra a la 
+propia construcción simbólica del género. 
+ 
+178 
+ 
+diferencia de Heracles, no parece haber cura posible para 
+Orestes, que se muestra desde un comienzo atrapado en la 
+aporía de su mal (v. 232), convertido incluso en una amenaza 
+para la salud de su propia hermana por los cuidados que 
+requiere (vv. 304-305), y para Pílades, que acepta -y no 
+deniega- la posibilidad de contagio estando junto a su amigo (v. 
+793). Orestes compara en esta situación su destino con el de 
+una ciudad asediada (v. 762). Y cuando la philía de Pílades 
+parece proporcionarle por fin una salida a su situación 
+desesperada -la salida que no le brinda su propio pariente, 
+Menelao- esta toma la forma de una violenta conspiración (vv. 
+1105-1152), y el phármakon que sugiere Electra (v. 1190) no 
+acarrea una solución ni en el plano político, ni familiar, ni 
+personal. Orestes es un drama que no admite -salvo por 
+mediación divina- la posibilidad de restauración de la salud. 
+Desde el inicio de la tragedia, el quebranto físico de Orestes 
+es expuesto visiblemente en escena. Aun en los momentos de 
+alivio de su mal, exhausto, la condición de este héroe casi no se 
+diferencia de la muerte (v. 83-84).26 Olvidado del alimento y el 
+cuidado de su cuerpo, su respiración, incluso bajo la acción 
+reparadora del sueño, apenas se deja oír (v. 155). Si Electra 
+teme despertarlo es para no avivar un sufrimiento que llena de 
+lágrimas y vergüenza sus momentos de cordura, como de 
+temor sus momentos de locura. Así, si el dolor resulta 
+entronizado en el drama, no es tanto desde las repercusiones 
+                                                          
+ 
+26 El coro, en el v. 209, exhorta a Electra a verificar si su hermano no ha muerto sin que 
+ella se percatara. En el v. 879, el mensajero describe la aparición de Orestes en la 
+asamblea con el término φάσμα (‛aparición’). 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+somáticas de la enfermedad, sino especialmente desde las 
+anímicas y emocionales. De ahí que los momentos de locura y 
+de conciencia son de igual modo fuente ininterrumpida de 
+sufrimiento para Orestes. 
+Ya la sentencia inicial de Electra (vv. 1-3) inserta el dolor del 
+hijo de Agamenón en un esquema universal inexorable, la phýsis 
+del hombre, expresándola en la imagen de la carga, contenida 
+en el término ἄχθος (‛pesar’, v. 3). Esta imagen, reforzada en 
+el drama por la recurrencia del vocablo ἄθλιος (‛desgraciado’, 
+vv. 83, 87, 121, 219, 225, 295, 358, 449, 952, 1166), enfatiza la 
+necesaria capacidad humana de soportar el sufrimiento. El 
+vocativo 
+μέλεος (‛mísero’, ‛desdichado’), de inusitada 
+presencia en este drama, evoca en su desarrollo la condición 
+desgraciada del enfermo (vv. 90, 160, 335, 447, 671, 839, 1029) 
+y de su génos (vv. 192, 207). Electra y el coro llaman la atención 
+sobre lo esforzado de esta condición a la que Orestes ha sido 
+conducido por un dios, utilizando en su lamento la inusual 
+exclamación φεῦ μόχθων (“¡Ay de los sufrimientos!”, vv. 161, 
+327, cf. IT 156).27 El término ya estaba presente en Heracles; los 
+contextos de aparición en Orestes (la párodos y el estásimo que 
+preceden y siguen al ataque de locura) permiten pensarlo en 
+este drama en relación a la esfera general de un dolor que es 
+físico y moral a la vez. Hallamos de igual modo en el léxico la 
+preferencia por términos polisémicos como πόνος, cuya 
+                                                          
+ 
+27 Más aun, en el v. 328 el coro, haciendo uso de una etimología del gusto de Eurípides, 
+se refiere a la acción de Orestes con el participio ὀρεχθείς (‛extendido’, ‛alcanzado con 
+la mano’). Orestes, que “ha alcanzado” el oráculo de Apolo, “ha extendido” hasta el 
+extremo sus sufrimientos en el extravío a que lo condena su locura. 
+ 
+180 
+ 
+forma compuesta πολύπονος (vv. 175-176, 977, 1012, 1500) y 
+el verbo derivado συμπονέω (‛sufrir juntamente’, vv. 683, 
+1224) atraviesan el drama. Un hecho significativo es la forma 
+en que, pese a que las desgracias involucran al entorno familiar 
+y a la ciudad misma, los personajes de la tragedia se refieren a 
+ellas repetidamente bajo la forma genérica kaká acompañada 
+del pronombre posesivo que tiene por referente a Orestes, 
+como si el dolor, bajo esa dimensión etiológica que expresa la 
+desgracia, le perteneciese con exclusividad, ínsitamente a él (vv. 
+85, 187, 243, 381, 384, 386, 393, 419, 671, 683, 734, 764, 768).  
+Como la enfermedad misma, el dolor muestra en esta 
+tragedia su autonomía en su capacidad de agente destructivo. 
+Se trata del dolor de la σύνεσις (‛conciencia’) que explica el 
+término λύπη (‛pena’), señalado por Smith (1967, p. 297) 
+como “a good medical term from the emotional upset that can 
+bring on disease”:28  
+ 
+Με.  τί χρῆμα πάσχεις; τίς σ' ἀπόλλυσιν νόσος; 
+ 
+Ορ.  ἡ σύνεσις, ὅτι σύνοιδα δείν' εἰργασμένος.  
+Με.  πῶς φῄς; σοφόν τοι τὸ σαφές, οὐ τὸ μὴ σαφές.  
+                                                          
+ 
+28 En el mismo sentido de referencia al campo emocional, Garzya, en su interpretación 
+del término sýnesis, señala: “L’aver chiamato in causa la σύνεσις prova che l’autore ha 
+voluto risalire all’origine della patologia descritta rifacendosi a una particolare dottrina 
+della genesi dei processi mentali. L’idea che alla base della coscienza vi fosse una 
+componente emozionale andava certamente facendosi strada per varie vie nella cultura 
+comune già alla fine del V secolo [...]” (Garzya, 1992, p. 31). Se trata de un concepto (y 
+un pasaje textual) cuya significación ha sido ampliamente debatida, y que va de la mano 
+con el nuevo estatuto mental de las Erinias que la escena alucinatoria saca a luz en la 
+tragedia. 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+Ορ. λύπη μάλιστά γ' ἡ διαφθείρουσά με –   
+Με. δεινὴ γὰρ ἡ θεός, ἀλλ' ὅμως ἰάσιμος.  
+Ορ.  μανίαι τε, μητρὸς αἵματος τιμωρίαν. (vv. 395-400) 
+  
+Menelao: ¿Qué cosa sufres? ¿Qué enfermedad te está 
+destruyendo? 
+Orestes: La conciencia, porque soy consciente de haber 
+hecho cosas terribles. 
+Menelao: ¿Cómo dices? Sabio es lo claro, no lo que no es 
+claro. 
+Orestes: Principalmente es la pena la que me destruye... 
+Menelao: Ciertamente es terrible esta diosa, pero 
+igualmente curable. 
+Orestes: Y los ataques de locura, castigo de la sangre de mi 
+madre. 
+Como expresa el pasaje citado, la locura se suma al dolor, 
+que es lo que principalmente (μάλιστά) destruye a Orestes. 
+Este sentido de devastación es el que trasunta Orestes en el v. 
+388 con el verbo αἰκίζεται (‛lastimar’, ‛desfigurar’), al explicar 
+que son las acciones cometidas -el matricidio- las que lo 
+lastiman, proyectando en el estado morboso un doble e 
+indisociable componente psico-físico del dolor. El uso común 
+del verbo πάσχω (‛padecer’) para referir a la enfermedad y a 
+las Erinias en la escena del interrogatorio de Menelao 
+incursiona en el estatuto ambiguo del síntoma: Orestes padece 
+una enfermedad (v. 395), y padece asimismo en las Erinias el 
+síntoma de esta enfermedad, la alucinación (v. 413). Y como 
+muestra la escena precedente de ataque de locura, cuando el 
+hijo de Agamenón repentinamente cree ver en Electra a una de 
+ 
+182 
+ 
+las divinidades vengadoras, es la propia emoción que despierta 
+el nombre de Clitemnestra la que convoca a las diosas, que 
+existen en y por la mente de Orestes.29  
+La autonomía del dolor se manifiesta en esta naturaleza 
+divina que Menelao le reconoce a λύπη (v. 399) como agente 
+patológico. También, y de modo esencial, en su capacidad de 
+liderar las emociones, conjugando o haciendo alternar los 
+estados de temor y vergüenza. Orestes es presa del terror (vv. 
+270, 297, 312) y de visiones igualmente aterrorizantes (v. 407). 
+Cuando está en el lecho, oculta su cuerpo -un gesto “parlante” 
+que confunde el temor y la vergüenza del enfermo-, y aun 
+cuerdo, a pesar del alivio, llora (cf. vv. 42-43). Cuando se 
+recupera de sus crisis, Orestes experimenta vergüenza ante sus 
+parientes (αἰσχύνομαι, v. 281, αἰδώς, v. 460), una emoción 
+característica de su estado morboso que coincide igualmente 
+con la descrita por los textos médicos (Guardasole, 2000, p. 
+211). Como el míasma del matricidio, esta emoción resulta en la 
+tragedia “contagiosa”, lo que explica que sea Electra aquí la 
+que recurra al gesto de ocultar el rostro tras el peplo, en una 
+actitud que “typically expresses a combination of grief and 
+aidós” (Willink, 1986, p. 132). 
+Pocas tragedias, según el juicio de E. Hall, requieren un final 
+tan patentemente político como Orestes (Hall, 2010, p. 287); 
+podríamos agregar, considerando la sucesión de acciones 
+                                                          
+ 
+29 Eurípides inserta así la figura mítica de las Erinias en un nuevo esquema que les 
+otorga el estatuto ambiguo del síntoma. Ellas son la causa del sufrimiento (v. 413) y 
+consecuencia de la manía; son producto de la alucinación, y la alucinación misma (Cf. 
+Holmes, 2010, p. 249). 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+dramáticas del éxodo (la muerte de Helena, la captura de 
+Hermíone, la amenaza de destrucción del palacio), un final tan 
+abierta e intrincadamente político y familiar, que pueda 
+garantizar la gobernabilidad de la pólis, la purificación y 
+sanación de Orestes -cuyos crímenes al final de la tragedia se 
+han multiplicado- y la continuidad del génos. Ello solo se vuelve 
+factible en la obra mediante la abrupta aparición de Apolo, en 
+un desenlace que no ha dejado de concitar las opiniones más 
+críticas. Mediante la intervención del dios sanador como deus ex 
+machina, en la escena final del éxodo la profecía proyecta la 
+restauración de la salud de Orestes, así como la salud familiar y 
+social, a un tiempo futuro. Pero este tiempo futuro no oculta 
+su naturaleza ambivalente, y no es posible ignorar, a la luz de 
+los hechos pasados, la precaria estabilidad en que se sostiene: 
+nuevas bodas -las de Electra y Orestes- aseguran la 
+continuidad del oîkos Atrida, los asuntos de la ciudad argiva 
+serán bien reencaminados por Apolo, y tras la purificación de 
+Orestes en el exilio y el juicio absolutorio en Atenas, el héroe 
+podrá gobernar la ciudad (v. 1664). Sin alegar justificativos, el 
+dios se reconoce como instigador del matricidio y promete un 
+futuro restaurador. Aun así, sujeto a las condiciones de la phýsis 
+humana, ese futuro se muestra de una incertidumbre 
+inquietante. Pues fundamentalmente no está exento de la 
+posibilidad de una nueva intervención caprichosa, una 
+irrupción que cambie el curso de los acontecimientos con la 
+misma arbitrariedad con que se dispone Apolo a hacerlo, 
+condenando entonces al hombre a habitar de nuevo su 
+sufrimiento. 
+ 
+ 
+184 
+ 
+El período clásico proporcionó con el teatro una nueva 
+herramienta cognitiva para procesar las viejas historias del 
+mito, historias de héroes como el matricida Orestes o el filicida 
+Heracles, en quienes la locura deviene su vicisitud fatal. Al 
+hacerlo, acaso como ningún otro género, expuso el dolor 
+como el punto en que se enlazan inextricablemente el cuerpo y 
+la voz, y buscó nombrarlo bajo sus diversas formas. 
+Nominando el dolor, reconocía sus formas complejas, a la par 
+que se atrevía a trasponer los límites de la ciencia, que desde su 
+nacimiento no ignoró, sin embargo, la ambigüedad del estatuto 
+de este signo. Pero la tragedia fue más allá en la búsqueda de 
+las razones, al conjugar el sufrimiento en todas sus formas en 
+su construcción simbólica. También se mostró menos 
+optimista respecto de la posibilidad de aliviarlo, hecho que no 
+podía dejar de interpelar directamente a una Atenas devastada 
+como la de las postrimerías de la Guerra del Peloponeso. 
+Eurípides, el poeta que más representó y mejor describió los 
+síntomas de la locura, es también quien deja ver de modo 
+elocuente la variedad y la cohesión en el léxico y el imaginario 
+de la enfermedad y del dolor y el modo en que responden a la 
+naturaleza del género, como ilustran los ejemplos de las obras 
+analizadas. 
+Por ello, frente a la compleja finalidad que ya las poéticas de 
+la Antigüedad procuraron asignarle a la tragedia, frente a las 
+discusiones que han suscitado y continúan suscitando aun hoy 
+las formas y alcances de las funciones implicadas en su proceso 
+catártico (docere, movere, delectare), podríamos concluir -
+coincidiendo una vez más aquí con David Morris- que la 
+paideía más cruda e inexorable del drama consistía (consiste) en 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+mostrar que el sufrimiento solo se puede presenciar. Es decir, 
+solo podemos asistir como espectadores al espectáculo del 
+dolor humano, que por eso mismo nos es dado comprender. 
+ 
+ 
+Referencias Bibliográficas 
+Fuente 
+Diggle, J. (Ed.) (1981-94). Euripidis. Fabulae. I-III. Oxford: 
+Oxford University Press. 
+Bibliografía  
+Aguilar, R. M. (2002). “El concepto de normalidad en el Corpus 
+Hippocraticum”. A. Thivel & A. Zucker (Eds.). Le normal et le 
+pathologique dans la Collection hippocratique, Actes du 
+Xème colloque international hippocratique, Nice, 6-8 
+Octobre 1999, t. I, Nice: Publications de la Faculté des 
+Lettres, Arts et Sciences Humaines de Nice-Sophia Antipolis, 
+pp. 123-148. 
+Belfiore, E. S. (2000). Murder among Friends: Violation of 
+philia in Greek Tragedy. New York & Oxford: Oxford 
+University Press. 
+Bosman, P. R. (1993). “Pathology of a Guilty Conscience. The 
+Legacy of Euripides’ Orestes”. AC 36: 11-25. 
+Brock, R. (2013). Greek Political Imagery from Homer to 
+Aristotle. London: Bloomsbury. 
+Cairns, D. L. (1993). Aidôs: The Psychology and Ethics of 
+Honour and Shame in Ancient Greek Literature. Oxford: 
+Oxford University Press. 
+Ciani, M. G. (1974). “Lessico e funzione della follia nella tragedia 
+greca”. Boll. Ist. Fil. Gr 1: 70-110. 
+ 
+186 
+ 
+Craik, E. (2001). “Medical Reference in Euripides”. BICS 45: 81-
+95. 
+Duchemin, J. (1967). “Le Personnage de Lyssa dans l´Héraclès 
+Furieux d´Euripide”. REG 80: 130-139.  
+Ferrando, S. (2008). “Considerazioni sceniche sull’ Oreste folle 
+di Euripide”. Maia 60.1: 34-39. 
+Gambon, L. (2009). La institución imaginaria del oikos en la 
+tragedia de Eurípides. Bahía Blanca: Ediuns. 
+Gambon, L. (2012). “El imaginario trágico de la locura: la 
+metáfora agonal y la caracterización de la enfermedad en 
+Orestes de Eurípides”. G. N. Hamamé & M. C. Schamun 
+(Eds.). 
+Actas 
+del 
+VI 
+Coloquio 
+Internacional 
+Agón: 
+Competencia y Cooperación. De la antigua Grecia a la 
+actualidad. Homenaje a Ana María González de Tobia. La 
+Plata, 
+junio 
+de 
+2012. 
+Web.  
+http://coloquiointernacionalceh.fahce.unlp.edu.ar/6ciceh 
+Gambon, L. (2016). “Enfermedad y marginalidad en el drama: 
+construyendo la gramática de la locura”. V. Gastaldi, C. 
+Fernández & G. De Santis (Coords.). Imaginarios de la 
+integración y la marginalidad en el drama griego ático. 
+Bahía Blanca: Ediuns, pp. 131-165. 
+García Novo, E. (1981). “Simetría estructural. Importancia de la 
+escena en la tragedia griega”. Habis 12: 43-57. 
+Garzya, A. (1992). “Synesis come malattia: Euripide e 
+Ippocrate”. Vichiana 3: 25-32. 
+Gregory, J. (1997). Euripides and the Instruction of the 
+Athenians. Ann Arbor: The University of Michigan Press. 
+Griffiths, E. (2006). Euripides: Heracles. London: Duckworth. 
+Guardasole, A. (2000). Tragedia e medicina nell’Atene del V 
+secolo A.C. Napoli: M. D’Auria Editore. 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+Hall, E. (2010). Greek Tragedy: Suffering under the Sun. 
+Oxford: Oxford University Press. 
+Holmes, B. (2010). The Symptom and the Subject: The 
+Emergence of the Physical Body in Ancient Greece. 
+Princeton: PUP. 
+Hope, V. M. & Marshall, E. (Eds.). (2000). Death and Disease in 
+the Ancient City. London & New York: Routledge.  
+Jouanna, J. (1988). “La maladie sauvage dans la Collection 
+Hippocratique et la tragédie grecque”. Metis 3.1: 343-360. 
+Kosak, J. C. (2004). Heroic Measures: Hippocratic Medicine in 
+the Making of Euripidean Tragedy. Leiden: Brill. 
+LaCourse Munteanu, D. (2012). Tragic Pathos: Pity and Fear in 
+Greek Philosophy and Tragedy. Cambridge: Cambridge 
+University Press. 
+Medda, E. (1999). “La casa e la città: spazio scenico e spazio 
+drammatico nell’Oreste di Euripide”. SIFC 17.1: 12-65. 
+Medda, E. (2001). Euripide: Oreste. Milano: BUR. 
+Medda, E. (2013). La saggezza dell'illusione: Studi sul teatro 
+greco. Pisa: Edizioni Ets. 
+Mitchell-Boyask, 
+R. 
+(2008). 
+Plague 
+and 
+the 
+Athenian 
+Imagination: Drama, History and the Cult of Asclepius. 
+Cambridge: Cambridge University Press. 
+Morris, D. (1994 [1991]). La cultura del dolor. Santiago de Chile: 
+Andrés Bello. 
+Padel, R. (1992). In and Out of the Mind: Greek Images of the 
+Tragic Self. Princeton: PUP. 
+Padel, R. (1997 [1995]). A quien un dios quiere destruir, antes lo 
+enloquece. Elementos de la locura griega y trágica. Buenos 
+Aires: Manantial. 
+ 
+188 
+ 
+Parker, R. (1983). Miasma, Pollution and Purification in Early 
+Greek Religion. Oxford: Clarendon Press. 
+Perdicoyianni-Paléologou, H. (2009a). “The vocabulary of 
+madness from Homer to Hippocrates, Part I: the verbal group 
+of maínomai”. History of Psychiatry 20.3: 311-339. 
+Perdicoyianni-Paléologou, H. (2009b). “The vocabulary of 
+madness from Homer to Hippocrates, Part II: the verbal 
+group of bakcheúo and the noun lýssa”. History of 
+Psychiatry 20.4: 457-467. 
+Sanz Morales, M. & Librán Moreno, M. (2008). “El contraste 
+como procedimiento compositivo en el 
+Heracles de 
+Eurípides”. QUCC 88.1: 59-78.  
+Schamun, M. C. (1995). “Significaciones del efecto de 
+sparagmós en Orestes de Eurípides”. Synthesis 2: 53-65. 
+Schironi, F. (2010). “Technical Languages: Science and 
+Medicine”. E. J. Bakker (Ed.). A Companion to the Ancient 
+Greek Language. Londres: Blackwell Pub., pp. 338-353.  
+Smith, W. D. (1967). “Disease in Euripides’ Orestes”. Hermes 
+95: 291-307. 
+Stafford, E. (2012). Herakles. London & New York: Routledge. 
+Theodorou, Z. (1993). “Subject to Emotion. Exploring Madness 
+in Orestes”. CQ 43.1: 32-46. 
+Theodoropoulou, M. (2012). “The emotion seeks to be 
+expressed”. A. Chaniotis (Ed.) Unveiling Emotions. Sources 
+and Methods for the Study of Emotions in the Greek World. 
+Stuttgart: Franz Steiner Verlag, pp. 433-468.  
+Villard, L. (2006). “Vocabulaire et représentation de la douleur 
+dans la Collection hippocratique”. F. Prost & J. Wilgaux 
+(Dirs.). Penser et représenter le corps dans l'Antiquité. 
+Rennes: Presses universitaires de Rennes, pp. 61-78. 
+Lidia Gambon. La tragedia y la paideía del dolor y la locura: Heracles y Orestes 
+ 
+ 
+N° 5. Primer Semestre de 2016 
+ 
+von Staden, H. (1990). “Incurability and hopelessness: the 
+Hippocratic Corpus”. P. Potter, G. Maloney & J. Desautels 
+(Eds.). La Maladie et les maladies dans la Collection 
+hippocratique: 
+Actes 
+du 
+VIe 
+Colloque 
+international 
+hippocratique, Quebec, 1987. Québec: Les Éditions du 
+Sphinx, pp. 75-112. 
+Webster, T. B. L. (1967). The Tragedies of Euripides. London: 
+Methuen. 
+Willink, C.W. (Ed.). (1986). Euripides: Orestes. Oxford: Oxford 
+University Press. 
+Wright, M. (2008). Euripides: Orestes. London: Duckworth. 
+Zeitlin, F. (1990). “Thebes: Theater of Self and Society in 
+Athenian Drama”. J. J. Winkler & F. Zeitlin (Eds.). Nothing to 
+do with Dionysos?: Athenian Drama in its Social Context. 
+Princeton: Princeton University Press, pp. 130-167. 
+ 
+ 
+ 
+ 

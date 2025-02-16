@@ -1,0 +1,808 @@
+31
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+DOSSIER
+Literatura, periodismo y materialidad. 
+Argentina y México (primera mitad del siglo XX)
+Delgado, Verónica. “Babel (1921-1929): arquitecturas y modalidades de exhibición 
+de la literatura. De la vida en común a la bibliografía”. Anclajes, vol.26, n.º3, septiem-
+bre-diciembre 2022, pp. 31-51.
+https://doi.org/10.19137/anclajes-2022-2633
+ 
+Babel (1921-1929): 
+arquitecturas y 
+modalidades de 
+exhibición de la 
+literatura. De la vida en 
+común a la bibliografía
+Verónica Delgado 
+Instituto de Investigaciones en Humanidades y Ciencias Sociales 
+Universidad Nacional de La Plata
+vdelgado@fahce.unlp.edu.ar 
+ORCID: 0000-0003-0659-0251
+Fecha de recepción: 10/03/2022 | Fecha de aceptación: 24/05/2022
+Resumen: Reparar en la dimensión compositiva de las publicaciones permite pensar las 
+relaciones entre literatura y publicaciones periódicas en función de lo que las revistas 
+exponen y ofrecen a la vista/lectura y cómo lo hacen. Las revistas pueden ser consi-
+deradas como intermediaciones (Chartier) con modalidades específicas de exhibición 
+(Rogers). En el marco que abren estas definiciones, propongo estudiar las relaciones 
+entre revistas, literatura y prácticas editoriales en la revista Babel de Samuel Glusberg 
+publicada entre 1921 y 1929, tratando de precisar dos momentos diferenciados a los 
+que correspondieron estrategias particulares de organización material de la publicación 
+que impactaron y modelaron la noción misma de literatura dentro de la revista. Durante 
+la primera etapa y como Revista de arte y crítica (n.º 1 - n.º 12), articuló aquellas que con-
+sideraba prácticas artísticas a través de la mediación de una palabra crítica sobre lo que 
+circunscribía dentro del término arte. Durante la segunda época y como Revista de biblio-
+grafía (n.º 13 - n.º 29), se produjo un cambio evidente en la arquitectura de Babel; dicho 
+cambio estuvo ligado a un movimiento de especialización editorial que imantó la revista 
+al sello editor homónimo fundado en 1922 y que la aproximó a la forma catálogo.
+Palabras clave: Babel; Glusberg; revista catálogo; bibliografía; vida editorial.
+Babel (1921-1929): architectures and modes of exhibition of literature. 
+From life in common to the bibliography
+Abstract: Looking at the compositional dimension of publications allows us to think 
+about the relationships between literature and periodicals based on what the magazines 
+32
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+L
+as relaciones entre literatura y publicaciones periódicas han sido 
+abordadas desde distintas perspectivas críticas y metodológicas. 
+Definirlas como “contextos formativos de la literatura”1 implica 
+enfatizar el carácter determinante de estas producciones colectivas dentro de 
+un proceso cultural y, en particular, respecto de una práctica especializada. De 
+este modo, las publicaciones son elementos constitutivos de la literatura, no 
+mero soporte de lo escrito, simples vehículos o mero conglomerado de textos. 
+Esta noción de “contexto” importa la necesidad de explorar las relaciones entre 
+las publicaciones y la escritura, precisando cómo las publicaciones periódicas a 
+1	
+Desde esta perspectiva hemos venido trabajando con Geraldine Rogers en diversos proyectos  de 
+investigación radicados en el Instituto de Investigaciones en Humanidades y Ciencias Sociales 
+de UNLP.
+expose and offer to the view/read and how they do it. Journals can be considered as 
+intermediaries (Chartier) with specific modes of display (Rogers). 
+Within the framework 
+of these definitions, I propose to study the relationships between journals, literature 
+and publishing practices in Samuel Glusberg’s journal Babel, published between 1921 
+and 1929, trying to pinpoint two distinct moments that corresponded to particular 
+strategies of material organization of the publication that impacted and shaped the very 
+notion of literature within the journal. During the first stage, as Revista de Arte y Crítica 
+(n.º 1 - n.º 12), it articulated what it considered artistic practices through the mediation 
+of a critical word about what it circumscribed within the term art. During the second 
+period, as Revista de Bibliografía (n.º 13 - n.º 29), there was a clear change in the archi-
+tecture of Babel; this change was linked to a movement of editorial specialization that 
+imbued the journal with the same name, founded in 1922, and brought it closer to the 
+catalogue form.
+Keywords: Babel; Glusberg; magazine-catalogue; bibliography; editorial life.
+Babel (1921-1929): arquiteturas e modalidades de exibição da 
+literatura. Da vida em comum à bibliografia
+Resumo: Olhar para a dimensão composicional das publicações permite pensar as 
+relações entre literatura e periódicos a partir do que as revistas expõem e oferecem ao 
+olhar/lido e como o fazem. Os periódicos podem ser considerados como intermediários 
+(Chartier) com modos específicos de exibição (Rogers). No âmbito dessas definições, 
+proponho-me a estudar as relações entre periódicos, literatura e práticas editoriais na 
+revista Babel, de Samuel Glusberg, publicada entre 1921 e 1929, tentando apontar dois 
+momentos distintos que corresponderam a estratégias particulares de organização ma-
+terial da publicação que impactaram e moldaram a própria noção de literatura dentro da 
+revista. Na primeira etapa, como Revista de Arte e Crítica (n.º 1 - n.º 12), articulou o que 
+considerava práticas artísticas por meio da mediação de uma palavra crítica sobre o que 
+circunscrevia no termo arte. No segundo período, como Revista de bibliografía (n.o 13 - 
+n.º 29), houve uma nítida mudança na arquitetura de Babel; essa mudança esteve ligada a 
+um movimento de especialização editorial que impregnou a revista com o mesmo nome, 
+fundada em 1922, e a aproximou da forma de catálogo.
+Palavras-chave: Babel; Glusberg; revista catálogo; bibliografía; vida editorial.
+33
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+la vez determinaron, produjeron y fueron espacio de configuración de ciertos 
+tipos y géneros de escritura o poéticas particulares, de lectores y las prácticas de 
+lectura, de figuras de escritores y de formas de profesionalidad y de sociabilidad 
+ligadas con ellas, así como también de tradiciones críticas, de formas de publi-
+cidad, de circulación y de exhibición de los textos2. En este marco general que 
+hace hincapié en el análisis de los vínculos y sus efectos, este trabajo se focaliza 
+en el estudio de las relaciones entre revistas, literatura y prácticas editoriales y en 
+el de las existentes entre revistas, sociabilidad y vida literaria3. Esas interacciones 
+formativas toman cuerpo en la arquitectura de las publicaciones y en las modali-
+dades de los procesos de exhibición de la literatura que ellas proponen. El énfasis 
+en la dimensión compositiva de las publicaciones implica pensar dichas relacio-
+nes en función de lo que las revistas exponen y ofrecen a la vista/lectura y cómo 
+lo hacen. Al respecto Geraldine Rogers ha definido las publicaciones periódicas 
+“como dispositivos de exposición, arquitecturas de aparición periódica que dis-
+ponen de manera conjunta lo visible y lo legible (“Las publicaciones…” 12-13)4. 
+A partir de este último énfasis es posible además considerar las revistas como 
+“intermediaciones” (Chartier, “El sentido…” 8)5 con modalidades específicas de 
+exposición. Así, pensar las publicaciones desde esta pertinencia implica analizar 
+y preguntarse “cómo intervienen en el reparto de lo visible y lo legible: qué y 
+2	
+Para una ampliación de las cuestiones críticas y metodológicas ver en las “Referencias biblio-
+gráficas” mis trabajos “Algunas cuestiones críticas y metodológicas en relación con el estudio de 
+revistas”, “Trabajar con publicaciones periódicas”, así como los cuatro volúmenes que coordiné 
+junto con Geraldine Rogers sobre publicaciones periódicas. 
+3	
+La noción de sociabilidad fue definida en términos generales “como agrupamiento permanen-
+te o temporario, cualquiera sea su grado de institucionalización, del cual se elige participar” 
+(Sirinelli, “Le hasard ou la nécessité?...” p.103). Intenta particularizar las formas en que un 
+medio intelectual se organiza y funciona, precisando las relaciones sutiles entre ese medio  y 
+una comunidad de valores y referencias, para articular la especificidad de las relaciones internas 
+de un medio intelectual con una especificidad de intervención. La historia literaria piensa las 
+sociabilidades distanciándose de un interés meramente anecdótico o de cierta vocación mitolo-
+gizante, para comprenderlas en el marco de una poética histórica no exclusivamente sociológica 
+ni exclusivamente historiográfica sino literaria, en el sentido en que la literatura es considerada 
+como el proceso complejo que produce, entre otros resultados, obras. (Díaz,  “Présentation”, p. 
+516). Jacqueline Pluet Despatin estudió las revistas como “estructuras de sociabilidad” (“Une 
+contribution à l’histoire des intellectuels…” pp. 125-126).
+4	
+Rogers fundamenta su propuesta en las hipótesis historiográficas de tres autores: Walter Benja-
+min, Georges Didi-Huberman y Philippe Hamon. En Expositions. Littérature et architecture au 
+XIXe siècle Philippe Hamon analiza justamente las interferencias entre literatura y arquitectura, 
+explorando las posibilidades que ofrece el término exposición a partir de sus distintos valores, 
+como una noción clave en la revisión de los textos y monumentos del siglo XIX, centuria du-
+rante la cual se multiplican las exposiciones de distinta clase. Rogers retoma este interés por  las 
+posibilidades que ofrece el cruce entre las revistas, arquitectura y exposición y define las publi-
+caciones como “dispositivos de exposición”.
+5	
+En “El sentido de las formas” Roger Chartier afirma que “las formas producen sentido”, y “un 
+texto, estable en sí mismo, puede verse investido de un significado y  de una tipología inéditos 
+cuando cambian las estructuras o las intermediaciones que lo proponen a la lectura o a la escu-
+cha” (p. 8).
+34
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+cómo en ellas se muestra y se anuncia, a qué fines orientan sus recorridos, cómo 
+se materializan sus estrategias de visibilización” (“Las publicaciones…” 24)6. 
+Como se sabe, los editores Samuel Glusberg, Jacobo Samet, y Lorenzo J. 
+Rosso, representantes de la “época heroica” de la edición7, emprendieron y sos-
+tuvieron, junto con la producción de libros, la edición de revistas como parte 
+central de su labor. En Buenos Aires y, a lo largo de las décadas de 1920 y 19308, 
+aparecieron Babel. Revista de arte y crítica (1921-1928)9 y La Vida Literaria. 
+Crítica. Información. Bibliografía (1928-1933) de Glusberg10; Noticias literarias 
+(1923-1924), Cartel (1928) y Bibliogramas (1934-1935) de Jacobo Samet; La 
+Literatura Argentina (1928-1936) dirigida por Lorenzo J. Rosso. Regido por una 
+función informativa y de actualidad, este género de publicación fue definido por 
+Lorenzo Rosso con el nombre de “periodismo de la bibliografía” o “periodismo 
+de la producción literaria”, cuyas encarnaciones eran estos “órgano[s] de infor-
+mación del ambiente libresco”, a los que Rosso distinguía de las revistas dedica-
+das exclusivamente a la crítica literaria11. Cabe señalar que las revistas de estos 
+editores porteños se filiaron –más o menos explícitamente según el caso–, con 
+6	
+Annick Louis propone abordar las revistas desde una noción “declinada” y plural  de “contexto” 
+(de publicación, producción, lectura y edición, contexto este último que se intersecta y completa 
+con el de “red de revistas”). Esta noción realza los aspectos materiales de la revista como con-
+junto de textos pero  reenvía además al estudio de otras dimensiones –colectiva, institucional, 
+asociativa, editorial. (“Leer una revista literaria. Autoría individual…”, p. 32).
+7	
+En Las revistas literarias argentinas Lafleur, Alonso y Pronvenzano se refieren estos térmi-
+nos a tarea de los editores Samuel Gleizer, Samuel Glusberg y Jacobo Samet  (p. 111). Desde 
+1919 y hasta 1922 en que fundó su sello la Biblioteca Argentina de Buenas Ediciones Literarias 
+(B.A.B.E.L), Samuel Glusberg llevó adelante la publicación de las Ediciones Selectas-América. 
+Cuadernos mensuales de Letras y Ciencias, proyecto del que participó su hermano Leonardo 
+como administrador. Se trataba de cuadernillos de periodicidad mensual y luego quincenal que 
+incluyeron escritos de autores en su mayoría vivos. 
+También es verosímil pensar que Glusberg fuera responsable de otra colección periódica, Los 
+cuentos, que circulaba a comienzos de la década de 1920 y cuyos anuncios aparecieron sistemá-
+ticamente en Babel.
+8	
+No me detengo aquí en el análisis detallado de la producción editorial argentina de las décadas 
+de 1920 y 1930. No obstante, es necesario destacar que se trata de un momento en el que se 
+produce un desarrollo sostenido de la industria editorial en todas sus ramas en cuyo marco se lee 
+la aparición de las revistas de Glusberg y de los editores porteños ya mencionados. Remito a  mi 
+trabajo en colaboración con Fabio Espósito “1920-1940: La emergencia del editor moderno”. 
+9	
+Posteriormente, cuando se radicó en Chile, Glusberg continuó con publicación de Babel.  Fue 
+publicada en Santiago entre 1939-1951 y vehiculizó la cultura ligada al pensamiento socialista 
+libertario. 
+Ver el estudio preliminar de Graciela Salto a Joaquín García Monge / Samuel Glusberg. Episto-
+lario 1920-1958. Circulación y mercado editorial en América Latina. 
+10	 Para contrastar la propuesta editorial de la revista Babel  con la de La Vida Literaria, ver mi 
+antología  La Vida literaria. La revista de un editor (1928-1932) y específicamente el estudio 
+preliminar a mi cargo. 
+11	 “La Literatura Argentina ha cumplido dos años de existencia”, La Literatura Argentina, n.º 25, 
+septiembre de 1930, p. 32. El escrito sostiene que La Literatura Argentina es la primera revista 
+bibliográfica del país. 
+35
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+una clase de publicación europea de comienzos de la década de 1920, también 
+ligada con sellos editoriales, entre las que se destacaron: Les Nouvelles Littéraires, 
+Artistiques et Scientifiques (1922-1958); Candide (1924-1944); La Fiera Lettera-
+ria (1925-1928); Die Literarische Welt (1925-1933); Wiadomosci Literackie [No-
+ticias Literarias] (1924-1939); La Gaceta Literaria (1927-1931)12. Todas estas 
+publicaciones, cuyos títulos remiten a una temporalidad marcada por el tempo 
+de las novedades librescas y a la voluntad de totalizar y mostrar13 la información 
+disponible sobre zonas específicas del mundo cultural (arte, ciencia, literatura), 
+expresaron su deseo de distinguirse de la revista y en muchos casos se refirieron 
+a sí mismas como periódicos. Así, La Fiera Letteraria aspiraba a ser “un perió-
+dico destinado a un amplio público, redactado con criterios periodísticos, am-
+pliamente informativo, y reflejar[ía] de la manera más completa el movimiento 
+literario, científico y artístico italiano y extranjero [...]” y a no convertirse en “el 
+exponente de un pequeño grupo de escritores”14. Del mismo modo, La Gaceta 
+Literaria, en tanto “periódico de las letras”15, consideraba que debía ir más allá de 
+los límites del “gremio letrado” e interesar a “la masa lectora, al presunto público 
+de librería” enrolándose en una política cultural, específicamente editorial cuyo 
+objetivo fue promover el conocimiento mutuo de las letras ibéricas y americanas 
+según reforzaba su subtítulo: ibérica, americana e internacional.
+Con ese mismo afán informativo aunque declinado de forma más local, las 
+publicaciones de Glusberg, Samet y Rosso se preocuparon por la promoción y 
+difusión de la literatura a la que, a su manera, exhibieron e hicieron visible a 
+12	 Les Nouvelles Littéraires, Artistiques et Scientifiques  (1922-1958) fue fundada por Maurice Mar-
+tin du Gard, André Gillon, Charles Peignot y Jacques Guenne y editada en París por Larousse; 
+La Fiera Letteraria: giornale settimanale delle lettere, delle arti e delle scienze de Milán (1925-
+1928) dirigida por Umberto Fracchia, procedente de la editorial Arnoldo Mondadori; Candide, 
+fundado por el librero Arthème Fayard; Wiadomosci Literackie de  Varsovia, semanario fundado 
+por el periodista e historiador polaco Mieczysław Grydzewski; Die Literarische Welt (1925-
+1933) publicada en Berlín, por  iniciativa del editor Ernst Rowohlt y dirigida por el periodista 
+Willy Haas; La Gaceta Literaria (1927-1931) de Madrid dirigida por Ernesto Giménez Caballe-
+ro, y casi desde sus inicios ligada a Compañía Iberoamericana de Publicaciones (CIAP). 
+13	 El término Fiera –feria– con el que Humberto Fracchia titula su publicación es especialmente 
+relevante para pensar la diversidad y heterogeneidad de lo que se exhibe en contraposición con 
+lo que muestran las revistas ligadas con grupos. 
+14	 En carta del 17 de noviembre de 1925, Fracchia anunciaba la inminente aparición de La Fiera 
+Letteraria: “El próximo 12 de diciembre saldrá en Milán un nuevo periódico semanal de letras, 
+ciencias y artes titulado La Fiera Letteraria. Será un periódico del tamaño normal de un diario, 
+en seis u ocho páginas ilustradas, impreso en rotativa, en el tipo de los periódicos literarios que 
+tienen actualmente tanto éxito en Francia como  Candide  y  Les nouvelles litteraires [...]”. 
+Traducción  mía. Francesca Rocchetti “Scheda e indici”. Por su parte Ernst Rowohlt, en el 
+mismo sentido, se refiere a su concepción de Die Literarische Welt: “Eine wöchentliche Litera-
+turzeitung, ausdrücklich als Zeitung, nicht als Zeitschrift aufgemacht, die neben Informationen 
+über moderne Literatur und Kunst auch Interviews mit Schriftstellern über aktuelle Themen, 
+Rundfragen, Essays, Karikaturen und Fotos bringen sollte”. Cursivas mías. “Zeitschrift  Die 
+Lliterarische Welt”.
+15	 José Ortega y Gasset define en estos términos la revista madrileña “Sobre un periódico de las 
+letras”, Año I, n.º 1,  enero, 1927, p.1.
+36
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+partir de un movimiento hacia lo periodístico que tomó cuerpo en una cons-
+trucción específica de secciones cuyo valor no siempre ha sido resaltado16. Como 
+instancias mediadoras, difusoras y organizativas de la literatura, estas revistas 
+fundaron sus acciones en la necesidad de insertar la literatura en el espacio de la 
+prensa y se pensaron como formas modernas de promoción de los libros, de los 
+autores y de una inflexión específica de la vida literaria, la vida editorial. 
+Año 3, n.º 10, marzo, 1927
+Año I, n.º1, 12 de diciembre, 1925. Catalogo
+Informatico Riviste Culturali Europee (CIRCE)
+16	 Los estudios de historia literaria de la prensa han analizado las diversas secciones de los diarios 
+–principalmente del siglo XIX– afirmando la matriz literaria del periódico. Ver La Civilisation 
+du journal. Histoire culturelle et littéraire de la presse francaise au XIXe siècle, dirigido por Do-
+minque Kalifa, Philippe Régnier, Marie-Ève Thérenty y Alain Vialant. Por su parte, en Cuando lo 
+nuevo conquistó América. Prensa, moda y literatura en el siglo XIX, Víctor Goldgel ha abordado 
+las relaciones entre moda, prensa y literatura en el siglo XIX y ha analizado las similitudes entre las 
+formas de difusión de ambas prácticas en la prensa. Ha destacado las secciones de Variedades como 
+zonas conformadas por textos breves y de lectura sencilla cuya finalidad era entretener o despertar 
+la atención y el deseo del lector sobre una gran diversidad de objetos y temas. 
+37
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+Año, II, n.º13, 13 de enero, 1923
+Año III, n.º 80, 26 de abril, 1924
+Al igual que las publicaciones europeas y argentinas mencionadas, Babel no 
+se definió como un órgano de una tendencia estética sino como un producto del 
+trabajo “de hombres jóvenes y libres que nos decidimos a editar[la]”17 y, desde 
+la primera entrega de abril de 1921, declaró su interés por el público y por la 
+prensa, a los que en un brevísimo texto de apertura se dirigió específicamente. Al 
+mismo tiempo, esas líneas inaugurales manifestaron la “creencia en la necesidad 
+de negar un programa” señalando como campo de su intervención la “vida pe-
+riodística”, forma de mediatización eficaz de la vida literaria18. 
+En lo que sigue, el análisis de Babel (1921-1929)19 toma como marco estas 
+hipótesis generales para precisar dos momentos diferenciados en la estructura 
+17	 Cursivas mías.
+18	 La dirección de Babel afirmaba que “los hombres jóvenes y libres que nos decidimos a editar[la]” 
+ 
+reconocían en el público la capacidad distinguir el carácter “escogid[o] e interesante” de las co-
+laboraciones de Babel, entre la oferta numerosa de revistas que se le ofrecen en la ciudad, las 
+llamadas “revistas nutridas”. Babel Año I, n.º1, primera quincena de abril de 1921, p.1.
+19	 En su etapa argentina (1921-1929) la revista publicó 29 números en formato de 19,5 x 28,5 cm. 
+La Dirección y Administración funcionaron juntas: primero en la calle Tucumán 692 (números 
+1 a 3), luego en la calle Moreno 1167 (números 4 a 12). A partir de la entrega 13 y hasta la 18 la 
+revista solo contó un director cuyas oficinas  estuvieron en Iriarte 1664 (números 13 a 17); en el 
+número 18 se trasladaron a Entre Ríos 1585. A partir del n.º 19 la Dirección y la Administración 
+de la revista tuvieron domicilios separados. La primera se estableció en Rivera Indarte 1030 y la 
+segunda permaneció en la calle Entre Ríos.
+Su frecuencia de publicación fue variando. Para esta cuestión así como para la nómina de cola-
+boradores  de cada número ver  el índice de la revista  en el repositorio del CEDINCI realizado 
+por Natalia Efrom. 
+38
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+editorial de la publicación y por tanto de sus estrategias de difusión, exhibición 
+y publicidad de la literatura, los libros y la vida editorial. En ese sentido, y sin 
+dejar de tener en cuenta la ligazón evidente entre Babel y la editorial homónima 
+B.A.B.E.L fundada en 192220, el análisis se focalizará en la revista como proyecto 
+editorial y no en el análisis específico del catálogo del sello.
+ 
+La mediación crítica 
+En la revista Babel es posible distinguir dos épocas que respondieron a modali-
+dades de intervención específicas aunque conectadas. Esa especificidad puede pen-
+sarse a partir del subtítulo que distinguió a cada una de ellas. Durante la primera 
+y como Revista de arte y crítica, subtítulo que llevó hasta febrero de 1922 (n.º 12), 
+articuló las prácticas artísticas a través de la mediación de una palabra crítica que 
+ofrecía a sus lectores –a los que consideraba cultos– una lectura informada sobre lo 
+que circunscribía dentro del término arte: literatura, música, pintura, teatro.21 
+Portadas de la primera época de Babel
+20	 Para un análisis de la editorial B.A.B.E.L y de la trayectoria de Glusberg como editor, véanse 
+entre otros: “Samuel Glusberg/Enrique Espinoza: revistas culturales y proyectos editoriales en 
+Argentina (1921- 1935)” de Sebastián Hernández; Edición y redes epistolares. Samuel Glusberg, 
+hombre de letras-editor en la Argentina de las primeras décadas del siglo xx (1919-1935”, tesis 
+de doctorado de Ana Mosqueda realizada en Universidad de Alcalá de Henares, 2017; “BABEL, 
+revista de arte y crítica (1921-1951)”,  Lote, n.º 7 y  “Revistas, intelectuales y formaciones cul-
+turales izquierdistas en la Argentina de los veinte”, ambos de Horacio Tarcus.
+21	 Entre los números 1 y 12 las páginas de Babel tuvieron numeración corrida,  a la manera de fas-
+cículos coleccionables. A partir del n.º 13 las páginas no estuvieron numeradas. Esto se vincula 
+con el cambio de la segunda época que, como se verá, acercó la revista a un catálogo y por eso 
+a un tipo de impreso más efímero. El diseño de las páginas fue siempre a tres columnas y podía 
+variar por la presencia de imágenes.
+39
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+La crítica mediaba entre la literatura y el público de la revista. En cada entre-
+ga ofrecía una selección de lecturas, breves aunque no fragmentarias, informaba 
+sobre compañías teatrales u obras de teatro en cartel, conciertos y exposiciones. 
+El discurso crítico bajo la forma de crónicas –para la música y el teatro–22, de 
+semblanzas sobre escritores –acompañadas de dibujos del autor en cuestión–23 
+o de bibliográficas sobre determinados libros de diversas editoriales argentinas 
+y americanas –cuyos nombres casi siempre Babel se encargaba de consignar– 
+constituía el centro de la revista. En ese sentido, se trataba de un conjunto de 
+colaboraciones firmadas, a partir de las que luego se confeccionaban los sumarios 
+de Babel, que expurgados de las secciones de sociabilidad, convertían a la revista 
+en una antología, aproximándola al libro, publicitándola como colección, extraí-
+das de su tiempo de circulación efímero para ingresar en el de la circulación y la 
+lectura de los libros de una biblioteca. De entre esas firmas críticas luego anto-
+logadas, se destacaban las de Arturo Marasso Roca, Leopoldo Lugones, Héctor 
+P
+. Blomberg, Juan Lazarte, Vicente Media, Eugenio D’Ors, José Bustamante, 
+Arturo Cancela, Alberto Gerchunoff, Enrique Diez Canedo, Adolfo Zalazar, 
+Rafael Arrieta, cuyos textos podían haber sido escritos para Babel o tomados de 
+otras revistas o diarios. De ese modo, los números combinaban tales colabora-
+ciones firmadas, con cuentos, poemas, poemas en prosa, capítulos de libros por 
+aparecer o de reciente publicación, traducciones de otras literaturas (literatura 
+rusa, italiana, sueca) cuyos traductores –quienes muchas veces se contaban entre 
+los propios colaboradores de Babel– eran destacados en su función de mediado-
+res literarios y difusores culturales. La crítica asumía también otra inflexión más 
+amplia y no especializada ligada con la discusión de cuestiones de actualidad 
+social y/o política24.
+Al mismo tiempo, las páginas que seguían a las colaboraciones firmadas cons-
+tituían una zona de Babel organizada por la presencia de secciones que aunque 
+no aparecieran en todos números, fueron anunciadas como permanentes. Tales 
+espacios fueron: “Personas, obras y cosas” (1-13); “La vida literaria” (1, 4-13), 
+“Motivos de la ciudad” (4 y 5), “Notas del momento” (4 y 5), “La mesa del café” 
+22	 La sección “Crónica musical” se publicó entre los números 1 a  9, 11, 12. En el número 10, en 
+su lugar, se publicó “Arte pictórico”. “Crónica teatral” se publicó en ocho de las 13 entregas de 
+esta primera época.
+23	 Entre las semblanzas se contaron las de John Keats por Rafael Arrieta (n.º 1); Gabriela Mistral 
+por Vicente Medina (n.º 4);  Rafael A. Arrieta por  Edmundo Montagne (n.º 10); Carlos Grünberg 
+sobre Eugenio D’Ors (n.º9); Pedro Sájaroff sobre Dostoievsky  (n.º 9), Juan Lazarte sobre Rémy 
+de Gourmont  (n.º 7), Andrés L. Caro sobre Ramón Gómez Cornet (n.º 9), Tomás Iragorri  sobre 
+Benito Quinquela Martín (n.º 12).   
+24	 Dentro de esa modalidad crítica pueden incluirse: “La reacción de la escuela” o “Panorama 
+grotesco” ambos  de J. P. Calou; “El trabajo femenino” de Rodolfo Senet (n.º 8); “Incipit Vita 
+Nova” (n.º 5) y “Diálogo” de Alejandro Korn (n.º 9);  de José Ingenieros “Entusiasmo – Energía” 
+ 
+(n.º 4), “Voluntad, iniciativa, trabajo” (n.º 6), “Simpatía – Justicia – Solidaridad” (n.º 9). Babel 
+realizó dos encuestas, que en cierto modo, están ligadas con esta segunda modalidad crítica. La 
+primera sobre el llamado voto profesional (n.º1); la otra,  sobre el arte, su profesionalización y 
+los vínculos de los artistas con la política (n.º11).
+40
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+(11 y 12), “A través de las revistas” (6). Impregnadas del imperativo de actuali-
+dad, pusieron en escena la vida editorial en relación con lo cual “Personas, obras 
+y cosas” junto con “La Vida Literaria” fueron las secciones más destacadas. La 
+primera de ellas, escrita generalmente por la redacción, mostraba y daba cuenta 
+de problemáticas literarias desde la mirada de un editor. Como conocedor del 
+mundo editorial, éste podía señalar, por ejemplo, la falacia que encubría una 
+edición promocionada como inédita en castellano –como ocurría con los Cuen-
+tos judíos contemporáneos de la editorial América de Madrid (n.º 1)–; discutía los 
+criterios de selección de los autores de una antología o colección; reconocía la 
+falsa atribución a Josué Carducci de un estudio sobre Don Quijote cuyo autor era, 
+en verdad, Enrique Heine (n.º 1). En otro sentido, y en la forma de una ficción 
+aleccionadora destinada a los jóvenes poetas, “Versos, hojas muertas” (n.º 3), 
+narraba las ilusiones perdidas de un poeta que puede suponerse realizaba una 
+edición de autor, sin la mediación de un editor y cuyo sueño de reconocimien-
+to público se desvanecía justamente por ese motivo25. Para reforzar el carácter 
+imprescindible de la tarea del editor, “Versos, hojas muertas” se publicó en la 
+misma página, inmediatamente después de la reseña que, por contraste, alababa 
+el éxito teatral de La sulamita (1916, editorial Nosotros) de Arturo Capdevila, 
+autor que Glusberg había publicado en Ediciones Selectas América26 y cuyas 
+obras serían reeditadas y editadas posteriormente por el sello B.A.B.E.L.
+Es interesante destacar la conexión entre el contenido de estas secciones y 
+los avisos de las últimas páginas de Babel. Un caso sintomático de esa conexión 
+se observa entre el comentario sobre la iniciativa de las Bibliotecas al Aire Libre 
+(n.º 5) –promovidas por la Biblioteca Obrera de Buenos Aires e inspirada en 
+experiencias europeas– y los anuncios de ciertas colecciones locales y extranjeras. 
+De este modo, cuando Babel se manifestó a favor de esa propuesta de lecturas al 
+aire libre, indicando que la poesía era el género adecuado para parques y plazas27, 
+en sus páginas finales dedicadas a la publicidad incluía un aviso de media página 
+que llamaba al “lector inteligente” a adquirir la colección de “Las mejores poesías 
+de los mejores poetas” del mundo cuyos “tomitos” contenían un prefacio con 
+25	 Se afirmaba: “Y llegado el otoño, publicó su libro y logró, tras paciente lucha, que alguna librería 
+elegante lo exhibiera, en un rinconcillo, sofocado por otros volúmenes.[…] hasta que cierta vez, 
+habiendo desaparecido el libro de su rinconcillo, el soñador, entró al comercio con una secreta 
+esperanza… todos los ejemplares, intactos, habían ido a engrosar el osario común, en el lóbrego 
+sótano” (n.º 3, p. 39)
+26	 La pena monstruosa había sido publicada en el cuadernillo n.º 16 de 1920 de Ediciones Selectas 
+América. Babel anunciaba para el 5 de diciembre de ese mismo año 1921 (n.º 9) La fiesta del 
+mundo de Capdevila en Ediciones Selectas América.
+27	 A su vez, como un editor que organiza sus colecciones, indicaba que el éxito de la iniciativa 
+dependía de los encargados de armar esas bibliotecas que debían incluir libros adecuados no solo 
+a las circunstancias sino a un público diferenciado. “Convendría también que esas Bibliotecas tu-
+vieran una sección infantil para proporcionar a los niños libros de estampas, cuentos,  aventuras, 
+viajes, etc.” (n.º 5, p. 70).
+41
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+una biografía sobre el autor y un juicio crítico sobre la obra y que podía conse-
+guir en la Administración de Babel.
+Por su parte, la sección “La vida literaria” estuvo en 10 de los 12 números de 
+la primera época. Se componía de reseñas críticas firmadas sobre obras recien-
+temente aparecidas y permitía repasar el conjunto de casas editoriales con que 
+la revista se vinculaba: se trataba de Minerva de Chile, Coni imprenta y casa 
+editora, casa editora-librería Las Ciencias, Cooperativa Editorial Buenos Aires, 
+Biblioteca de novelistas americanos, Mercatali, Ediciones Sarmiento de Bogotá, 
+biblioteca mejicana Cultura, Nosotros, América de Madrid, Cooperativa Edito-
+rial Pegaso de Montevideo, Agencia Nacional de Librería y Publicaciones, Seran-
+tes Hermanos, Maucci, Talleres Gráfico Alfredo Martino, Tor, Moro y Tello y las 
+propias Ediciones Selectas América. 
+Otras secciones más esporádicas de esta primera época como “Motivos de la 
+ciudad” o “La mesa del café” eran tributarias de una idea de ciudad asociada con 
+las figuras del escritor cronista, el reporter –también el vagabundo y el flaneur– 
+que se desplaza por un espacio cultural urbano. Su presencia atestigua un tópico 
+consolidado tanto en estas secciones como en los poemas, cuentos, ensayos, co-
+mentarios publicados en la revista28. Esas secciones también mostraban el modo 
+en que el cronista porteño podía captar y evaluar ciertos cambios culturales liga-
+dos con las nuevas distribuciones de la escritura y la lectura. Babel lo hizo echan-
+do mano a recursos propios de los diarios y semanarios como lo era la presencia 
+misma de este tipo de secciones misceláneas y en las que a su modo, desde la 
+28	 La revista registró tempranamente la fuerza de la idea de ciudad que anuda prensa, poesía y 
+metrópoli cultural y publicó además poemas, ensayos breves y relatos que hacían de la ciudad su 
+tema y su espacio de representación.
+42
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+mirada del productor de libros, también se sopesaban los efectos culturales de 
+aquella modernización que hacía de la explotación comercial de la necesidad de 
+leer y escribir, en su versión más comercial y degradada (la novela corta), una 
+mera forma de ganar dinero. Así, en el suelto “Novelería”, Glusberg se quejaba 
+de la proliferación de “empresas de novelas cortas”, a las que se abocaba “todo 
+el mundo”, “el buen ciudadano que hasta ayer no más se dedicaba a comprar 
+y vender bolsas vacías hoy novelas vende compra (sic) y no más llenas” (n.º 1, 
+p.10). En “Es usted escritor inédito” Babel extractaba la convocatoria del último 
+número de la revista Cuasimodo para ironizar sobre la aplicación del principio 
+social de la igualdad como criterio editorial. Cuasimodo invitaba a quien tuviera 
+“algo que decirle a la humanidad” a enviar los originales del género que fueran 
+–chistes, cartas amatorias, poesía, epigrama, anécdota, juicio crítico, pieza de 
+teatro, argumento cinematográfico, etc.– para ser publicados gratuitamente en 
+la siguiente entrega de Los nuevos ingenios. Frente a esta convocatoria igualitaria 
+que desconocía el trabajo especializado de escritores y editores, Babel afirmaba: 
+“Los escritores y poetas de la clase social “inédita” están de parabienes” (n.º 5). 
+Esta posición llevaba a impugnar las formas de difusión asociadas a las novelas 
+cortas a las que también recurrían los autores más serios29.
+Revista de Bibliografía: la intermediación editorial
+Como se sabe, los boletines bibliográficos fueron con los prospectos, o los 
+volantes de suscripción en el caso de las publicaciones seriadas, instrumentos de 
+difusión que los editores españoles venían empleando desde mediados del siglo 
+XIX junto con los catálogos de librerías de los que en muchos casos eran libreros-
+impresores30. Bajo el título de “Boletín bibliográfico” o con alguna variación, 
+muchas revistas literarias y culturales argentinas informaban sobre la produc-
+ción intelectual impresa, generalmente en libro. Secciones de coda, y fuera del 
+cuerpo principal, estaban impresas en una tipografía de menor tamaño que la 
+del resto de los escritos. Así, “Bibliografía y variedades”, fue el nombre con que 
+en 1867 la Revista de Buenos Aires daba a conocer un conjunto indiferenciado de 
+obras e informaciones cuya principal razón era la de procurar un conocimien-
+to de lo publicado en el continente americano, guiada también por un énfasis 
+patrimonial; “Boletín Bibliográfico” fue para el caso de la revista La Biblioteca 
+(1896-1898) el espacio donde Paul Groussac ejerció la crítica literaria y dio 
+29	 En “Carteles” se afirmaba: “ya no son los empresarios de las abundantes ‘novelitas cortas’ los 
+que empapelan Buenos Aires con el retrato  de un autor desconocido que se dirige a un millón 
+de lectores (…) sino que es el mismo escritor profesional el que hace embadurnar las paredes 
+de la ciudad con grotescos carteles que él mismo redacta según el patrón yanqui importado por 
+nuestros políticos”. Año, 1, n.º 4, junio, 1921. p. 54.
+30	 Ver “Los catálogos editoriales como fuentes para el estudio de la bibliografía y la historia de la 
+edición: El caso del Fondo de Cultura Económica” de Marina Garone Gravier; “Los catálogos 
+de venta de las librerías argentinas: eclosión y especialización de un medio publicitario efímero, 
+1850-1920” de Juan David Murillo Sandoval. 
+43
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+cuenta de libros principalmente nacionales que consideraba relevantes para el 
+debate intelectual (libros de historia, sobre todo); “Bibliografía” fue una sección 
+que en La Montaña (1897), relevó especialmente las revistas que promovían 
+el debate político en las filas del anarco-socialismo. En algunas publicaciones 
+argentinas de comienzos del siglo XX como Nosotros la sección “Bibliografía” se 
+componía de reseñas valorativas y firmadas por distintos autores sobre obras no 
+necesariamente incluidas en las secciones de letras nacionales –como, por ejem-
+plo, “Letras argentinas” y “Letras españolas”–. Renacimiento (1909-1913) y el 
+semanario La Nota (1915-1921) incluyeron la rúbrica “Bibliografía” como tam-
+bién lo hicieron Helios de M. Conde Montero en 1918 y la vanguardista Martín 
+Fierro (1924-1927). Esta presencia y consolidación de la Bibliografía, primero 
+como sección cuyos dominio y sentidos fueron variables y posteriormente como 
+género de prensa, puede ligarse con lo que Jesús Martínez Martín llama “depu-
+ración” de la figura del editor. Se trata de un proceso por el cual esta figura fue 
+adquiriendo un papel específico y diferenciado en el proceso de producción: no 
+solo transformaba los textos en libros, sino que desempeñaba la tarea de discer-
+nir textos y acoplarlos a la demanda, proyectaba gustos, y proponía estrategias 
+comerciales para su difusión31 (Martínez Martín, “La edición artesanal y …”, p. 
+34). De este modo los periódicos de los editores mencionados fueron parte de 
+ese proceso de diferenciación. Como género periodístico particular, estas “re-
+vistas de bibliografía” o este “periodismo de la bibliografía” constituyen formas 
+especializadas de difusión y exhibición de textos y escritores que se alimentan 
+no solo de la producción de los autores sino de sus imágenes públicas escritas o 
+visuales, de la información de los catálogos propios y ajenos. La publicidad cons-
+tituyó uno de los modos más característico de promover los libros a través de 
+noticias sobre ediciones futuras o previas, sobre editores, propagandas específicas 
+sobre obras determinadas o sellos editoriales que consignaban los títulos y sus 
+precios, cantidad de ediciones y sus características materiales, o avisos genéricos 
+sobre librerías y casas editoras, sobre la publicación de catálogos –especialmente 
+de colecciones, de librerías y sellos editores32. A esto se agregaban prácticas de 
+sociabilidad como la realización de demostraciones o banquetes de camaradería, 
+presentaciones de libros y relatos escritos de esas prácticas. Babel echó mano a 
+todos estos recursos.
+Babel se presentó como Revista de bibliografía a partir de julio de 1923 (n.º 
+13), e inauguró así su segunda época, luego de algo más de un año de ausencia. 
+Aunque como sección “Bibliografía” solamente apareció en el n.º14, esta trans-
+formación implicó un cambio evidente en la arquitectura de la revista. El pasaje 
+de una época a la otra está ligado con un movimiento de especialización editorial 
+31	 A estas funciones el crítico español agrega la planificación técnica en la fabricación de las formas 
+de los libros.
+32	 También se anunciaban guías profesionales de distribución gratuita. Cabe destacar la presencia 
+de una “Guía de libreros y editores” que se organizaba en base a una reunión de anuncios. Se 
+publicó en las últimas páginas de los números 22 a 28.
+44
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+que imantó la revista al sello editor homónimo fundado en 1922 y orientó los 
+focos de exhibición (de lo escrito y los materiales gráficos incorporados) hacia la 
+construcción de figuras literarias e intelectuales ligadas con la edición de libros, 
+dejando de lado las otras prácticas artísticas que ya no tuvieron un espacio propio 
+para su presentación. A la vez, a partir del n.º14, se redujeron tanto en frecuencia 
+como en extensión las secciones, vinculadas con la configuración, consignación 
+y relato de la dimensión sociable y colectiva de la literatura para enfocarse en la 
+exhibición y mostración del catálogo de la editorial B.A.B.E.L –de los autores 
+y sus obras33. En ese sentido, es relevante indicar que las primeras seis entregas 
+de la publicación de esta segunda etapa llevaron en las portadas el grabado de la 
+torre de Babel que singularizaba los libros del sello editor de Glusberg.
+Portada de la segunda época (izquierda) y portadas de dos libros de B.A.B.E.L
+En esta nueva época, “Notas y comentarios” (16, 17, 20, 21, 24,27, 28) 
+reemplazó las secciones de sociabilidad precedentes y alternó con “Autores y 
+Libros” (26, 27), concentrando ambas la información relativa a los libros, los 
+autores, las iniciativas e informaciones de la editorial. Al equiparar literatura 
+con bibliografía y ésta con edición de libros, la revista fue circunscribiendo ese 
+término para identificarlo con libros publicados, sobre todo con los del sello 
+B.A.B.E.L. La revista dejó su aspirada periodicidad quincenal que escasamente 
+había podido cumplir e intentó publicarse mensualmente, algo que tampoco 
+logró. Su frecuencia de aparición entre los números 13 y el 2934 estuvo ligada a 
+33	 Es importante señalar que Babel publicó números enteramente dedicados a los autores más pres-
+tigiosos de la editorial. El dedicado a Horacio Quiroga merecería un análisis detallado en función 
+del modo en que Babel construye la figura del escritor: no solo a partir de la  crítica sobre sus 
+libros sino también de los sentidos que proponen las imágenes. Así, por ejemplo, una fotografía 
+muestra al escritor sentado a una mesa de trabajo; sobre la pared en que se apoya la mesa, se 
+observa una serie variada de utensilios que aparentemente no se ligan con la escritura. Debajo de 
+la fotografía un epígrafe señala: “El escritor”. Se trata,  probablemente, de una habitación de la 
+casa que Quiroga tenía en San Ignacio (Babel, segunda época, n.º 21, noviembre, 1926).
+34	 Esos números fueron de distribución gratuita.
+45
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+los tiempos de las novedades y del concurso literario anual35, principal inicia-
+tiva de promoción y consagración de la editorial, respecto de la cual Glusberg 
+se consideraba pionero entre los editores porteños.36 En adelante, la revista se 
+construyó a partir del recorte y la reedición fragmentaria y se convirtió en una 
+revista-catálogo. El sello editor aparecía como protagonista: Babel se abría con 
+el anuncio de las obras publicadas y los nombres de los autores próximos a 
+publicar; se componía de escritos de los premiados en su certamen y de otros 
+previamente publicados en las dos series (A y B) de la editorial B.A.B.E.L, de 
+anticipos de los libros por aparecer en el sello; de críticas sobre los autores, 
+publicados en grandes diarios y por grandes firmas. El pasaje a revista de bi-
+bliografía se vio plasmado además en las tapas de Babel antes conformadas por 
+el índice de los colaboradores, textos y secciones, las cuales desde la entrega 
+16 incorporaron retratos fotográficos o dibujos –algunos de ellos realizados a 
+partir de fotografías– del escritor al que se destacaba, promocionaba u home-
+najeaba. 
+Portadas de la segunda época que incorporan imágenes de los autores
+En el n.º 13 que iniciaba la nueva época, un recuadro anunciaba la realiza-
+ción del certamen, cuyas bases volvían a poner el acento en la labor del editor 
+como productor de libros, al convocar a participar solo a autores que “hasta la 
+fecha no hayan reunido sus producciones”37, es decir, que no hubieran publicado 
+35	 Entre julio de 1923 y 1929, se publicaron 16 números. De los tres concursos anuales convocados, 
+se sustanciaron los dos primeros de 1923 y 1924. El tercer concurso se anuló en el número 20 por 
+decisión de la Comisión formada por Lugones, Quiroga y Baldomero Sanín Cano.
+36	 En “Notas y comentarios” del n.º 17, en “Tercer concurso literario de BABEL”, Glusberg soste-
+nía que “No obstante las imitaciones evidentes que han hecho de nuestro certamen anual la ‘Aso-
+ciación Amigos del Arte’ y la casa editora de Manuel Gleizer, nuestro tercer concurso literario 
+correspondiente a 1925 se llevará a cabo como todos los años”. Más allá de esta declaración, el 
+concurso se canceló.
+37	 En el texto de la segunda y la tercera convocatorias  se llama a “escritores inéditos”.
+46
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+libros. Los nombres de los jurados, todos ellos autores de B.A.B.E.L38 prestigia-
+ban el concurso: para la poesía Leopoldo Lugones, Arturo Capdevila y Rafael A. 
+Arrieta; para el cuento Horacio Quiroga, Roberto Payró y Arturo Cancela.
+Babel n.º13, julio, 1923
+Convocatorias de los concursos anuales
+ n.º 15, n.º 18
+En el n.º14 de diciembre de 1923 se consignaban los ganadores del con-
+curso –Conrado Nalé Roxlo en poesía con El grillo y Guillermo Estrella para 
+el cuento con Los egoístas– así como la nómina extensa de quienes habían par-
+ticipado. Este número inauguró la nueva estructura editorial de Babel como 
+revista-catálogo que se plasmó en dos formas de exhibición de la producción 
+libresca de B.A.B.E.L. específicas y relacionadas. La primera consistía en una 
+publicidad39 que incluía la totalidad de los títulos del catálogo ordenados cro-
+nológicamente y que informaba sobre el precio, la disponibilidad y la cantidad 
+38	 Como se observa, el recuadro con la primera convocatoria se publicaba incrustado en el frag-
+mento de Historia de un amor turbio de Horacio Quiroga. El sello Arnoldo Moen y Hermano 
+había editado la novela en 1908 en un volumen junto con Los perseguidos.  En 1923 Glusberg 
+la reeditó en B.AB.E.L; fue el séptimo de la Serie A. Para el momento del primer certamen y tal 
+como figuraba en la revista, B.A.B.E.L había editado, en dicha serie, once libros en el siguiente 
+orden: Las horas doradas de Lugones; La Jofaina maravillosa de Alberto Gerchunoff; La fiesta 
+del mundo de Arturo Capdevila; Fugacidad  de Rafael A. Arrieta; Estudios helénicos (dos tomos) 
+de Lugones; Las mal calladas  de Benito Lynch; El romero alucinado de González Martínez; 
+la ya citada de Quiroga; Libro del gay vivir de Luis Franco; Las hermanas tutelares  de Arrieta; 
+Odas seculares de Lugones.
+39	 En este trabajo hago mención solo de aquellos anuncios de la revista vinculados con las estrate-
+gias de promoción del sello de Glusberg.
+47
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+de ediciones de cada obra; bajo el subtítulo “Próximamente obras de”, ese mis-
+mo anuncio prometía la publicación de firmas reconocidas que funcionaban 
+como garantía de calidad literaria. En segundo lugar, la revista operaba sobre 
+las obras de esa lista, cuyos contenidos ingresaban de manera fragmentaria40, 
+y reorganizaba las dos series (A y B) en que el sello B.A.B.E.L agrupaba su 
+producción, a partir de criterios centrados en las novedades y en las figuras de 
+los autores cuyos retratos publicaba41. Así la propia revista fragmentaba el libro 
+impreso y mostraba ese fragmento a la vez como parte del libro42 y del catálogo 
+que lo albergaba43. 
+Entre las entregas 16 a 18 la revista incorporó dos secciones: la sección “Los 
+libros de B.A.B.E.L juzgados en el país” y otra similar que informaba sobre las 
+repercusiones y acogida de los libros en países del continente y en España44. Se 
+trataba de secciones conformadas por “recortes”45 de periódicos que reproducían 
+“los juicios que la prensa nacional y extranjera emit[ier]a sobre los libros de 
+nuestra colección” (n.º 16 s/p), y funcionaron como espacios de autopromoción, 
+equiparables a las tradicionales secciones de “Ecos” o “Juicios de afuera” presen-
+tes en numerosas revistas literarias americanas de fines de siglo XIX y comienzos 
+del siglo XX. Estas secciones de recortes pusieron en escena la lectura como 
+40	 Además, otra forma en que reorganizaba su catálogo era la publicación de avisos por autor. Así, 
+por ejemplo,  al final de las entregas podían publicarse  avisos sobre “Obras de Leopoldo Lugo-
+nes”, “Obras de  Horacio Quiroga”, “Obras de Luis Franco” pero también anuncios de autores 
+que estaban vinculados a la revista –porque habían publicado en ella- aunque sus libros fueran 
+editados en otros sellos como el caso de Fernández Moreno y Tor. En el n.º 24, un anuncio agru-
+pó a tres autores de B.A.B.E.L como cuentistas: Guillermo Estrella, Arturo S. Mom,  Horacio 
+Quiroga. Se ofertaban  tres libros a $5.
+41	 Los autores que tuvieron retrato de tapa fueron: Luis Cané (n.º 16), Alfred Samain (n.º 17), Bal-
+domero Sanín Cano (n.º 18), Leopoldo Lugones (n.º 19), J. Fitzmaurice – Kelly (n.º 20), Horacio 
+Quiroga (n.º 21), Rafael A. Arrieta (n.º 23), Alfredo S. Mom (n.º 24), Roberto J. Payró (n.º 25), 
+Enrique Heine (n.º 26), Ezequiel Martínez Estrada (n.º 27), Roberto Gache (n.º 28), Luis Franco 
+(n.º 29). El hecho de que una tapa llevara el retrato de determinado autor no implicó siempre que 
+la entrega de la publicación le estuviera dedicada enteramente o casi por completo.
+42	 Es interesante señalar que en la revista se publicaba el fragmento junto con la tapa del libro del 
+que se lo extractaba.
+43	 En esta segunda época Babel publicó un aviso centrado en las funciones y características del 
+sello editorial –no ya en la producción misma– que era a la vez una invitación a comprar, leer y 
+publicar con B.A.B.E.L Según la colección consultada en el CEDINCI, solo en el n.º 14 aparece 
+este anuncio.
+44	 En el caso de los recortes de la prensa extranjera el título de la sección tomaba el nombre del país 
+donde se publicaba el periódico. Así, los títulos fueron: “Los libros de B.A.B.E.L juzgados en 
+Chile”, “Los libros de B.A.B.E.L juzgados en España”. Cuando el número estaba dedicado a un 
+autor, estas secciones de juicios y opiniones adecuaban su nombre a esa ocasión. Por ejemplo, en 
+el n.º 23 de abril de 1927 dedicado a Rafael A. Arrieta se titularon “Algunas opiniones hispano-
+americanas”, “Algunas opiniones argentinas”.
+45	 Antonia Viu ha estudiado el recorte como procedimiento constructivo de ciertas publicaciones 
+en relación con las que llama “culturas lectoras”. “Culturas lectoras, recortes y colaboración en 
+las revistas culturales: Repertorio Americano y Babel”. 
+48
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+principio básico de composición: Babel leía la prensa nacional – principalmente 
+La Nación, La Razón, Atlántida, América, Crítica, El Hogar– y extranjera con-
+temporáneas; el resultado de esa lectura selectiva era un muestrario de artículos 
+y notas de firmas consagradas –en algunos casos eran de autores de la editorial– 
+cuyos juicios incluidos en la revista no solo servían para promover los libros sino 
+que legitimaban al editor y su sello.
+Anuncio que incluye Filosofícula y fragmento de la misma obra
+A modo de conclusión
+Desde una mirada que atiende a las formas de difusión de la literatura, el 
+análisis de la revista Babel de Samuel Glusberg permite leer la emergencia de un 
+género de publicación particular que es inescindible del surgimiento de la figura 
+del editor moderno, proceso que en Argentina tiene en la década del veinte del 
+pasado siglo. En ese sentido, Babel puede pensarse en el conjunto más amplio 
+de las publicaciones fundadas por esos mismos años por otros editores porteños 
+que empiezan a distinguirse de las revistas literarias. Desde esa perspectiva, Babel 
+puede ser considerada un producto editorial novedoso aunque muchos de los 
+textos que difunde no lo sean o pertenezcan a figuras ampliamente consagradas 
+de la literatura argentina, americana o extranjera. Revisar la colección completa 
+de Babel atendiendo a su dimensión compositiva permite pensar las singulari-
+dades de cada una de sus épocas legibles en la arquitectura de sus secciones. El 
+49
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+pasaje de la primera a la segunda época muestra una serie de estrategias en las 
+formas de promover, difundir y exhibir los libros y los autores que aproximan la 
+publicación a un catálogo e indican un movimiento de especialización editorial.
+Bibliografía
+Revista Babel n.º1- n.º 29. https://bit.ly/3QsHBKz
+Revista La Literatura Argentina, n.º 25, septiembre de 1930. https://bit.
+ly/3xukMNV 
+Chartier, Roger. “El sentido de las formas”. Iber: revista europea de libros, n.º 1,1989, 
+pp. 8-10.
+Delgado, Verónica. “Algunas cuestiones críticas y metodológicas en relación con 
+el estudio de revistas”. Verónica Delgado, Alejandra Mailhe y Geraldine Ro-
+gers coordinadoras. Tramas impresas: Publicaciones periódicas argentinas (XIX-
+XX). Universidad Nacional de La Plata, Facultad de Humanidades y Ciencias 
+de la Educación, Colección Estudios/Investigaciones, n.º 54, 2014, pp.11-25. 
+https://bit.ly/3mPWQzy 
+Delgado, Verónica y Geraldine Rogers, compiladoras. Exposiciones en el tiempo. 
+Revistas latinoamericanas del siglo XX. Buenos Aires, Ediciones Katatay, 2021. 
+https://bit.ly/3NQrtkx
+Delgado, Verónica. La Vida Literaria de Samuel Glusberg. La revista de un editor. 
+La Plata, Biblioteca Orbis Tertius / CeDInCI, Facultad de Humanidades y 
+Ciencias de la Educación, Universidad Nacional de La Plata, 2020. https://
+bit.ly/39slXWd
+Delgado, Verónica y Fabio Espósito. “1920-1940: La emergencia del editor mo-
+derno”. José Luis de Diego (director), Editores y políticas editoriales en Argen-
+tina (1880-2010), Buenos Aires, 2014.
+Delgado, Verónica y Geraldine Rogers, editoras. Tiempos de papel: publicaciones pe-
+riódicas argentinas (XIX-XX). Universidad Nacional de La Plata. Facultad de 
+Humanidades y Ciencias de la Educación, Colección Estudios/Investigaciones, 
+n.º 60, 2016. https://bit.ly/3Hv4FUQ 
+Delgado, Verónica. “Trabajar con publicaciones periódicas”. AAVV, Prensa pe-
+riódica, géneros e historia literaria. Siglos XIX y XX, México, Institutos de In-
+vestigaciones Filológicas e Investigaciones Bibliográficas de la Universidad 
+Nacional Autónoma de México, 2022, en prensa.
+Díaz, José-Louis. “Présentation”. Revue d’histoire littéraire de la France, n.º 3, 
+Vol. 110, 2010, pp. 515 -520. https://bit.ly/3QrjQ5R 
+Efrom, Natalia. Índice de la revista Babel https://bit.ly/3b4zhjV 
+50
+Verónica Delgado | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+Garone Gravier, Marina. “Los catálogos editoriales como fuentes para el estudio 
+de la bibliografía y la historia de la edición: El caso del Fondo de Cultura 
+Económica”. Palabra Clave, n.º 9, 2020. https://bit.ly/3HrENt0 
+Goldgel, Víctor. Cuando lo nuevo conquistó América. Prensa, moda y literatura en 
+el siglo XIX. Buenos Aires, Siglo XXI, 2012.
+Hamon, Phillipe. Expositions. Littérature et architecture au XIXe siècle. Paris, 
+Corti, 1989.
+Hernández, Sebastián. “Samuel Glusberg/Enrique Espinoza: revistas culturales y 
+proyectos editoriales en Argentina (1921- 1935)”. Revista Universum, n.º 27, 
+vol. 2, II Semestre de 2012, pp. 211-21.
+Kalifa, Dominique, Philippe Régnier, Marie-Ève Thérenty y Alain Vaillant, di-
+récteurs. La Civilisation du journal. Histoire culturelle et littéraire de la presse 
+francaise au XIXe siècle, Paris, Nouveau Monde éditions, 2011.
+Lafleur, Héctor et al. Las revistas literarias argentinas 1893-1960. Buenos Aires, Edi-
+ciones Culturales Argentinas, (1960-1968).
+Louis, Annick. “Leer una revista literaria. Autoría individual, autoría colectiva en 
+las revistas argentinas de la década de 1920”. Rose Corral, Anthony Stanton, 
+James Valender, editores. Laboratorios de lo nuevo. Revistas literarias y culturales 
+de México, España y el Río de La Plata en la década de 1920, México, El Colegio 
+de México, 2018, pp. 27-53.
+Martínez Martín, Jesús. “La edición artesanal y la construcción del mercado”. Jesús 
+Martínez Martín, director. Historia de la edición en España 1836-1936. Madrid, 
+Marcial Pons, 2001, pp. 29-72.
+Mosqueda, Ana. Edición y redes epistolares. Samuel Glusberg, hombre de letras-edi-
+tor en la Argentina de las primeras décadas del siglo XX (1919-1935)”, tesis de 
+doctorado. Director: Dr. Antonio Castillo Gómez. Universidad de Alcalá de 
+Henares, 2017.
+Murillo Sandoval, Juan David. “Los catálogos de venta de las librerías argen-
+tinas: eclosión y especialización de un medio publicitario efímero, 1850-
+1920”. Información, Cultura Y Sociedad, n.º 43, 2020, pp. 87-106. https://
+bit.ly/3xRo7bp
+Ortega y Gasset, José. “Sobre un periódico de las letras”. La Gaceta Literaria, 
+Año I, n.º 1, enero, 1927, p.1.
+Pluet-Despatin, Jacqueline, “Une contribution à l’histoire des intellectuels: les 
+revues”. Nicole Racine y Michel Trebitsch, directeurs, “Sociabilités intellec-
+tuelles: lieux, milieux, réseaux”, Les Cahiers de L’ IHTP, n.º 20, Paris, CNRS, 
+marzo, 1992, pp. 125-136.
+Rogers, Geraldine. “Las publicaciones periódicas como dispositivos de expo-
+sición”. x Verónica Delgado y Geraldine Rogers, coordinaadoras. Revistas, 
+archivo y exposición: Publicaciones periódicas argentinas del siglo XX. La Plata: 
+51
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Babel (1921-1929): arquitecturas y modalidades de exhibición...: 31-51
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de 
+la Educación. Colectivo Crítico; n.º 5, 2019. https://bit.ly/3Hr2zp4
+Rocchetti, Francesca. “Scheda e indici”, https://bit.ly/3xV8dg8
+Rowohlt, Ernst. “Zeitschrift Die Lliterarische Welt” https://bit.ly/3tEWP5o
+Salto, Graciela. “Estudio preliminar”. Joaquín García Monge / Samuel Glusberg. 
+Epistolario 1920-1958. Circulación y mercado editorial en América Latina. 
+La Plata, Biblioteca Orbis Tertius / CeDInCI, Facultad de Humanidades y 
+Ciencias de la Educación, Universidad Nacional de La Plata, 2019. https://
+bit.ly/3HHhXy1 
+Sirinelli, Jean-François. “Le hasard ou la nécessité? Una histoire en chantier: 
+l’histoire des intellectuels”. Vintième siècle. Revue d’histoire n.º 9, janvier-
+mars, 1986, pp. 97-108.
+Tarcus, Horacio. “BABEL, revista de arte y crítica (1921-1951)”. Revista Lote. 
+Mensuario de Cultura, año 1, n.º 7, noviembre, 1997, pp. 6-9.
+Tarcus, Horacio. “Revistas, intelectuales y formaciones culturales izquierdistas 
+en la Argentina de los veinte”. Revista Iberoamericana, vol. LXX, n.º 208-
+209, julio-diciembre de 2004, pp. 749-772. https://bit.ly/3xy5Tub 
+Viu, Antonia. “Culturas lectoras, recortes y colaboración en las revistas culturales: 
+Repertorio Americano y Babel”. Revista de Humanidades, n.º 35, enero-junio 
+2017, pp. 159-184. https://bit.ly/3mPasez 

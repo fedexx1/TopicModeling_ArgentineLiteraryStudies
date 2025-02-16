@@ -1,0 +1,566 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+TRES MUERTES DEL SUJETO POÉTICO: BORGES,
+GIANNUZZI, VIGNOLI
+ree deaths of the persona: Borges, Giannuzzi, Vignoli
+Sbdar Kaplan, Julieta
+ Julieta Sbdar Kaplan *
+julietasbdar@gmail.com
+Universidad de Buenos Aires – CONICET, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 20, e2014, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 13/04/23
+Aprobación: 03/05/23
+URL: http://portal.amelica.org/ameli/journal/785/7853965031/
+DOI: https://doi.org/10.30972/clt.0206634
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: Este trabajo plantea un recorrido por algunas
+vanguardias poéticas argentinas a partir de tres poemas que serán
+leídos, en su singularidad, como tres actas de defunción del
+sujeto poético: “La noche que en el sur lo velaron” de Jorge Luis
+Borges (Cuaderno San Martín, 1929), “Comensales eternos” de
+Joaquín Giannuzzi (Nuestros días mortales, 1958), y “Función de
+la lírica” de Beatriz Vignoli (Viernes, 2001). A pesar de las tres o
+cuatro décadas que separan un poema de otro, y sin desconocer
+las tramas históricas, políticas y culturales que los atraviesan,
+la propuesta es establecer un recorrido siguiendo el hilo que
+se tiende entre los tres textos: la muerte. El trabajo semiótico
+que realizaremos tiene como propósito no tanto analizar ese
+remanido motivo lírico sino pensar hasta qué punto la muerte
+que se ﬁgura en cada uno de los poemas sella la disolución –
+y por disolución entendemos, junto con Monteleone (2016),
+una existencia fantasmagórica o, junto con Agamben (2013), un
+gesto que persiste– de cierta concepción del sujeto poético.
+Palabras clave: vanguardias, muerte, sujeto poético.
+Abstract: is paper proposes a journey through some
+Argentine poetic avant-gardes based on three poems that are
+read, in their singularity, as three acts of death of the poetic
+subject: “La noche que en el sur lo velaron” by Jorge Luis Borges
+(Cuaderno San Martín, 1929), “Comensales eternos” by Joaquín
+Giannuzzi (Nuestros días mortales, 1958), and “Función de la
+lírica” by Beatriz Vignoli (Viernes, 2001). In spite of the three or
+four decades that separate one poem from the other, and without
+ignoring the historical, political and cultural plots that cross
+them, the proposal is to establish a journey following the thread
+that runs between the three texts: death. e semiotic work we
+carry out aims not so much to analyze this cliched lyrical motif
+rather than thinking to what extent the death that ﬁgures in each
+of the poems seals the dissolution –and by dissolution we mean,
+along with Monteleone (2016), a phantasmagoric existence or,
+along with Agamben (2013), a gesture that persists– of a certain
+conception of the poetic subject.
+Keywords: avant-garde, death, persona.
+Cuadernos de Literatura, 2023, núm. 20, e2014, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Introducción
+Al comienzo de El fantasma de un nombre. Poesía, imaginario, vida, Jorge Monteleone se pregunta: “¿quién
+dice yo en el poema cuando el poema dice yo?” (2016, p. 9). A esta pregunta por el sujeto detrás del pronombre,
+que Monteleone responderá con su teoría del sujeto imaginario del poema, agregamos: ¿quién muere en el
+poema cuando el poema dice la muerte? ¿Qué concepción del sujeto poético se desvanece en cada acto poético
+de defunción? ¿Qué huellas de ese sujeto prevalecen en la arquitectura del fantasma? Dichas preguntas
+guiarán, en lo que sigue, la lectura de los poemas “La noche que en el sur lo velaron” de Jorge Luis Borges
+(Cuaderno San Martín, 1929), “Comensales eternos” de Joaquín Giannuzzi (Nuestros días mortales, 1958),
+y “Función de la lírica” de Beatriz Vignoli (Viernes, 2001). A modo de hipótesis inicial, propondremos que
+estos poemas, a la luz de la vanguardia (el ultraísmo en Borges, el objetivismo en Giannuzzi,1 la recuperación
+de cierto lirismo objetivista en Vignoli), funcionan como maniﬁestos y, en tanto tales, disuelven los modos
+preexistentes de concebir el sujeto del poema. Explorar estas actas poéticas de defunción, en última instancia,
+nos permitirá rastrear qué concepción del sujeto poético aparece velada (en el sentido de velo pero también
+de velorio) en cada muerte poética.
+Los tres poemas a trabajar ﬁguran la muerte: un velorio, la fotografía de personajes muertos y un padre
+que agoniza en el hospital nos instalan en el memento mori tan caro al lenguaje poético. Sin embargo, en
+los tres poemas lo que muere, más allá de quiénes mueren, es cierta concepción del sujeto poético: cada
+muerte que se ﬁgura en los poemas funciona como acta de disolución de una concepción de sujeto poético
+ligada a la tradición anterior, es decir, como gesto vanguardista. En Borges, la indeﬁnición de la voz y su
+relación especular con el muerto da cuenta de la muerte del autor en el sentido que recogerá más tarde el
+posestructuralismo, a saber, una muerte biográﬁca que deja un lugar vacante, fantasmático, en el poema. En
+Giannuzzi, la ﬁgura oximorónica de los comensales muertos barre con el sujeto histórico esencializado para
+dar lugar a un sujeto poético material, ﬁnito, descriptible. En el poema de Vignoli “Función de la lírica”, título
+irónicamente programático, la escena televisiva que atraviesa el poema funciona como síntesis entre estos dos
+postulados, es decir, como una muerte especular del sujeto lírico que encuentra en la televisión (como objeto
+mundano) un soporte pero, al mismo tiempo, como un retorno a la tradición lírica (la ópera) donde el sujeto
+recupera su densidad epistémica.
+En suma, nos interesa rescatar la ﬁgura de la muerte como acta de defunción proclamada por la vanguardia.
+En postulados como la muerte del sujeto o la muerte del autor, el sujeto poético vanguardista deviene un sujeto
+fantasmal que renace a cada rato. La propuesta del trabajo es ver estas actas de defunción, estas muertes del
+sujeto poético, como ecos de una ruptura con el pronombre yo unario, unívoco, pero también como huella de
+ese “alguien” del pasado que nos habla, ese fantasma que, en su desaparecer, sigue proﬁriendo un enunciado
+(Agamben, 2013, p. 82).
+Notas de autor
+*
+Julieta Sbdar Kaplan es Licenciada en Letras por la Universidad de Buenos Aires (UBA) y Magíster en Estudios de Género por la Universidad París
+8. Actualmente, cursa el Doctorado en Literatura de la UBA, en cotutela con el Doctorado en Estudios de Género de la Universidad París 8, y es
+becaria doctoral del Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas (CONICET). Investiga las ﬁguraciones del tiempo en un corpus
+de poesía argentina contemporánea. Es profesora de Literatura en escuelas secundarias y dicta talleres en contextos de encierro. Publicó los libros de
+poesía Demoliciones (Eloísa Cartonera, 2017) y Mandarinas (Nebliplateada, 2022).
+Julieta Sbdar Kaplan. TRES MUERTES DEL SUJETO POÉTICO: BORGES, GIANNUZZI, VIGNOLI
+PDF generado a partir de XML-JATS4R
+La vanguardia y la muerte del sujeto
+En El fantasma de un nombre, Jorge Monteleone introduce su teoría del sujeto imaginario del poema
+y le otorga una función que nos interesa particularmente: la función tanática. Dice Monteleone en la
+introducción a su libro:
+dicho fenómeno de escisión, de descentramiento o disolución de la unidad del sujeto –tampoco ajena al descubrimiento
+freudiano– también se corresponde con la pérdida del fundamento trascendente para el sujeto y su palabra, es decir, con la
+destitución del Logos divino como garante de la subjetividad. (2016, p. 10)
+La ﬁgura de la disolución de la unidad del sujeto se inicia, para Monteleone, con la poesía moderna
+–en ﬁguras emblemáticas como Mallarmé o Rimbaud, con su famoso Je est un autre– y los discursos
+que la circundan, tales como lo dionisíaco nietzscheano o el inconsciente freudiano. En este sentido, la
+poesía moderna realiza anticipadamente aquello que la ﬁlosofía y el psicoanálisis recogen ya entrado el
+siglo diecinueve: la imposibilidad de reducir al sujeto a una unidad cerrada, autoconsciente, trascendental y
+cartesiana. Como señala Mariela Blanco en su artículo “Teorías sobre el sujeto poético”, “conviene no olvidar
+que el sujeto contra el que recaen estos golpes es el ego cartesiano que se funda en su oposición a la categoría
+de objeto y en clara supremacía con respecto a la misma” (2006, p. 154). La crisis decimonónica del sujeto
+cartesiano será retomada ampliamente por el posestructuralismo mediante la deconstrucción de la ﬁgura
+del autor como garante de sentido y autoridad sobre el texto, para mostrar que la trama textual no cesa de
+diseminar las marcas de su supremacía. Sin embargo, siguiendo la línea de Monteleone, en Latinoamérica es
+la vanguardia histórica la que recoge el guante de la disolución del yo mediante el uso del doble (Borges), la
+orfandad o la negación del nombre (Vallejo). A partir de estas ﬁguraciones del sujeto escindido, diseminado,
+se vuelve imposible, mucho antes del posestructuralismo francés, no solamente remitirnos al autor como
+categoría orientadora de la lectura, sino también leer la construcción imaginaria del sujeto como una categoría
+estable. Por el contrario, el sujeto imaginario del poema aparece como un signiﬁcante vacío que será hablado
+por cada acto de enunciación poética, como una deixis inseparable de su entramado textual o como una voz
+fragmentaria que sigue hablando “tras la ‘evaporación’ que sufre el sujeto en la vanguardia” (Blanco, 2006,
+p. 158).
+Ahora bien, si la vanguardia se hace eco de esa disolución del sujeto, sostenemos que cada vanguardia
+producirá una muerte distinta. Si, como señala Peter Bürger, la vanguardia no solamente critica las tendencias
+artísticas precedentes sino también la institución arte en sí, entendiendo por esto tanto “el aparato de
+producción y distribución del arte como a las ideas que sobre el arte dominan en una época dada y que
+determinan esencialmente la recepción de las obras” (1987, p. 62), creemos que mientras los maniﬁestos de
+las vanguardias poéticas argentinas se ocupan de la primera parte de la aﬁrmación de Bürger (por ejemplo, el
+famoso maniﬁesto de la Revista Martín Fierro), son los poemas los que dan cuenta de la segunda. Observar
+de qué modos se maniﬁesta la muerte del sujeto poético, entonces, implica detectar el cuestionamiento de
+las ideas dominantes sobre el sujeto en una época dada. El ultraísmo y el objetivismo, que nos ocupan aquí,
+volverán extraño un sujeto diferente, performando aquello que Bürger, siguiendo a Adorno, deﬁne como lo
+nuevo en la modernidad: “la ruptura de una tradición” (p. 120).
+De este modo, sugerimos que el ultraísmo de Borges rompería con la tradición del sujeto poético
+protagonista, ornamental, del modernismo (Artuondo, 1999), reduciendo su campo de enunciación,
+borrando sus marcas y asimilándolo, como veremos, al fallecido. La muerte del sujeto poético, entonces,
+es una muerte del ornamento, del confesionalismo y de la nebulosidad, pero también del autobiograﬁsmo:
+“el ultraísmo viene a conjurar toda esa lirastenia. No es autobiográﬁco. No es individualista”, señala Borges
+en el maniﬁesto “Ultraísmo” de 1921 (1997, p. 54-55). El sujeto poético que sigue hablando, en cambio,
+es un fantasma sintético, condensado, que sugiere tanto la desaparición del yo biográﬁco como el quiebre
+de las frases medianeras que separan al yo del otro. En Giannuzzi, la tradición, motivo del poema, es la
+Cuadernos de Literatura, 2023, núm. 20, e2014, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+tradición neorromántica de la década del 40 y su consecuente esencialización del sujeto poético. Frente
+a este dispositivo que pretende capturar la esencia en una fotografía, el poema de Giannuzzi reduce la
+subjetividad a la mera materia, al papel viejo, efímero como el sujeto que enuncia. El poema de Vignoli,
+publicado a comienzos de nuestro siglo, sugiere un retorno a la lírica que permite concebir la muerte del sujeto
+poético como una mirada hacia atrás y, a la vanguardia, como una operación retrospectiva que encuentra,
+en cada lectura del pasado (el uso retrospectivo del objetivismo, el rescate de la tradición lírica), un modo
+fragmentario (propio del collage o del montaje) de enunciar el mundo.
+Ahora bien: ¿qué ocurre con esa subjetividad fantasmal cuando el poema ﬁgura la muerte? Si el sujeto
+imaginario del poema siempre es un muerto, ¿quién/qué muere cuando la muerte aparece como motivo y
+dispositivo textual del poema? Los poemas a analizar forman parte de la producción temprana de Borges,
+Giannuzzi y Vignoli. Todos ellos, a su vez, se presentan como maniﬁestos que discuten una tradición anterior:
+el “rubenianismo” (Borges, 1997, p. 87) plagado de nexos y frases medianeras (p. 88) criticado por el ultraísmo
+borgeano; el neorromanticismo de la década del cuarenta ausente en la poética materialista de Giannuzzi; y
+el objetivismo de la década de los 90, puesto en cuestión por Vignoli. En este sentido, el carácter vanguardista
+de los textos puede leerse no tanto como un divorcio con lo anterior sino como un estadio de autocrítica
+del sujeto (Bürger, 1987, p. 60), una matriz tanática que echa luz sobre la tradición con la que dialoga a la
+manera de un montaje crítico.
+La indefinición del muerto: Borges
+Reunida alrededor de lo que no se sabe: el Muerto.
+J.L. Borges
+En 1929, con dos poemarios y tres libros de ensayo en su haber, Borges emprende la publicación del último
+libro de poesía de esta época “temprana”: Cuaderno San Martín. Cuarenta años después, anota en el prólogo
+a la nueva edición: “fuera de ‘Llaneza’, ‘La noche que en el sur lo velaron’ es acaso el primer poema auténtico
+que escribí” (1989, p. 79). Fiel al gesto, ya por ese entonces borgeano, de tachar, remendar o reescribir, Borges
+dirige los ojos de la crítica hacia un poema mortuorio, fantasmático. En el sintagma “primer poema auténtico”
+leemos una operación fundacional, una construcción del mito de origen que constituye un gesto típicamente
+vanguardista. Es por eso que, teniendo en cuenta las hibridaciones que se producen en la obra de Borges
+(cuentos que son ensayos, ensayos que son poemas, etc.), nos atrevemos a pensar este poema como una suerte
+de maniﬁesto. El primer poema auténtico, ese que funda retrospectivamente la mirada madura de Borges,
+no es, paradojalmente, “Fundación mítica de Buenos Aires”, poema que registra, como lo indica el título,
+un origen o un comienzo apócrifos, sino el texto que, de manera misteriosa (a juzgar por el segundo verso),
+ﬁgura un ﬁnal. La poesía de Borges, la auténtica poesía de Borges –y debemos entender por “auténtica” la
+versión más acabada de la ﬁcción–, comienza por la muerte, y más especíﬁcamente –nos atreveremos a decir–
+por la muerte del sujeto poético. Ese sujeto de la enunciación que fulgura en el primer poema del libro, el
+yo insistente en versos como “la manzana pareja que persiste en mi barrio” o “a mí se me hace cuento que
+empezó Buenos Aires”,2 desaparece, se borra, en “La noche…”. Esa diseminación del sujeto está al origen de
+una propuesta vanguardista que coloca la novedad, o la autenticidad, en la muerte del sujeto y de la ﬁgura
+autoral, aunque muerte, nos dice Cuaderno San Martín, no signiﬁca desaparición: el duelo por la ciudad
+perdida que atraviesa el poemario es también un duelo por el sujeto que se retira dejando, a cada paso, su
+huella textual. Transcribimos el poema:
+Por el deceso de alguien
+Julieta Sbdar Kaplan. TRES MUERTES DEL SUJETO POÉTICO: BORGES, GIANNUZZI, VIGNOLI
+PDF generado a partir de XML-JATS4R
+–misterio cuyo vacante nombre poseo y cuya realidad no abarcamos–
+hay hasta el alba una casa abierta en el Sur,
+una ignorada casa que no estoy destinado a rever,
+pero que me espera esta noche
+con desvelada luz en las altas horas del sueño,
+demacrada de malas noches, distinta,
+minuciosa de realidad.
+A su vigilia gravitada en muerte camino
+por las noches elementales como recuerdos,
+por el tiempo abundante de la noche,
+sin más oíble vida
+que los vagos hombres de barrio junto al apagado almacén
+y algún silbido solo en el mundo.
+Lento el andar, en la procesión de la espera,
+llego a la cuadra y a la casa y a la sincera puerta que busco
+y me reciben hombres obligados a la gravedad
+que participaron de los años de mis mayores,
+y nivelamos destinos en una pieza habilitada que mira al patio
+–patio que está bajo el poder y en la integridad de la noche–
+y decimos, porque la realidad es mayor, cosas indiferentes
+y somos desganados y argentinos en el espejo
+y el mate compartido mide horas vanas.
+Me conmueven las menudas sabidurías
+que en todo fallecimiento se pierden
+–hábito de unos libros, de una llave, de un cuerpo entre los otros–.
+Yo sé que todo privilegio, aunque oscuro, es de linaje de milagro
+y mucho lo es el de participar en esta vigilia,
+reunida alrededor de lo que no se sabe: del Muerto,
+reunida para acompañar y guardar su primera noche en la muerte.
+(El velorio gasta las caras;
+los ojos se nos están muriendo en lo alto como Jesús.)
+¿Y el muerto, el increíble?
+Su realidad está bajo las ﬂores diferentes de él
+y su mortal hospitalidad nos dará
+un recuerdo más para el tiempo
+y sentenciosas calles del Sur para merecerlas despacio
+y la noche que de la mayor congoja nos libra:
+la prolijidad de lo real. (Borges, 1989, p. 88-89)
+El poema ﬁgura el recorrido de un sujeto poético que se encamina hacia un velorio. Ya desde el título, la
+muerte aparece en primer plano, no sólo (y no tanto) como motivo o material sino como operación textual
+que se evidenciará a lo largo de todo el poema mediante el borramiento de las marcas identitarias, tanto del
+fallecido como, de manera especular, del sujeto poético. El título “La noche que en el sur lo velaron” supone
+una doble ausencia: del objeto al que se reﬁere el verbo, reemplazado por el pronombre “lo” que no alude a
+ningún referente conocido, y del sujeto del verbo, ese actante plural que aparece tácito. La carga semántica,
+entonces, está puesta en el espacio-tiempo: la noche, el Sur, el velorio. El espacio, en efecto, vela (esconde,
+disimula) al sujeto doblemente ausente del título y disuelto a lo largo del texto: ni el muerto ni los que lo
+velan se hacen presentes, sino que el título y el poema se encargan de reforzar el misterio, la pregunta que
+vuelve y vuelve: ¿quién(es)?
+Cuadernos de Literatura, 2023, núm. 20, e2014, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Esa pregunta por la identidad o por la subjetividad del muerto, de quienes lo rodean y, en deﬁnitiva, del
+sujeto que se percibe en esa ausencia, se nombra en los primeros versos: “por el deceso de alguien/ –misterio
+cuyo vacante nombre poseo y cuya realidad no abarcamos–/ hay hasta el alba una casa abierta en el Sur” (p.
+88). Ese “alguien”, pronombre indeﬁnido, nos recuerda la famosa frase de Beckett retomada por Foucault
+y, más tarde, por Agamben: “qu’importe qui parle, quelqu’un a dit qu’importe qui parle”.3 En su famosa
+conferencia “¿Qué es un autor?”, Foucault se centra en el sintagma “qué importa quién habla” para desarrollar
+su teoría de la escritura como un espacio donde el autor no cesa de desaparecer. Giorgio Agamben, en “El
+autor como gesto”, retoma el pasaje beckettiano para posar el ojo en otro lugar, en ese sintagma pasado por
+alto por Foucault: ha dicho alguien. Dice Agamben: “hay allí, entonces, alguien que, aun permaneciendo en sí
+mismo anónimo y sin rostro, ha proferido el enunciado” (2013, p. 81-82). Salvando las distancias, puesto que
+el “alguien” del poema de Borges no proﬁere un enunciado sino que es una tercera persona ausente, es posible
+pensar que el uso de este pronombre indeﬁnido, reforzado en el segundo verso por la palabra “misterio” que
+encubre el nombre, sugiere una pista de lectura: no debemos leer la muerte, en este poema, solamente como
+una muerte física de un personaje, sino como una defunción textual en la que el referente (la inabarcable
+realidad) cae para dar lugar a una nueva concepción del sujeto poético: un sujeto fantasmal.
+Esta asociación entre la tercera y la primera persona, que llamaremos especular o prismática, aparece
+sugerida ya en los versos citados. El sintagma “cuyo vacante nombre poseo” puede ser leído en dos sentidos:
+o bien el sujeto poético conoce el nombre de ese muerto, o bien el nombre del muerto es el suyo. Esta doble
+lectura se sostiene a lo largo del texto tensando la relación entre uno y otro y haciendo de ese yo un muerto
+a medias, un fantasma cuyo gesto, velado, sigue hablando.
+Entre el “poseo” y el “no abarcamos” se abre un espacio que acoge el estatuto fantasmático del sujeto
+poético, que oscila entre el nombre y su desmaterialización. El resto del poema ﬁgura la caminata del yo hacia
+el velorio, atravesando una ciudad que se desvanece, se apaga. Frente a la casa “minuciosa de realidad”, plagada
+de detalles y “menudas sabidurías/ que en todo fallecimiento se pierden/ –hábitos de unos libros, de una
+llave, de un cuerpo entre los otros”, frente a ese despliegue material, en suma, el sujeto elige sentarse alrededor
+de la indeterminación del muerto: “reunida alrededor de lo que no se sabe: el Muerto”. Las “sabidurías”,
+descriptas como objetos materiales, se oponen a “lo que no se sabe”, ese muerto con mayúscula que disuelve,
+incluso, su nombre. En este punto se diferenciará cabalmente la propuesta de Giannuzzi. Si el sujeto poético
+borgeano rodea lo que no se sabe, sumergiendo en el olvido las “sabidurías” materiales (llaves, libros, cuerpo),
+esas mismas sabidurías son el material del que está hecho el sujeto giannuzziano, como contrapunto de una
+esencia metafísica irreconciliable con la subjetividad política de los años 50.
+La última estrofa comienza con un paréntesis que cifra, como suele ocurrir con Borges, una clave de lectura:
+“(El velorio gasta las caras;/ los ojos se nos están muriendo en lo alto como Jesús)”. El nosotros, la primera
+persona del plural que incluye al sujeto poético, aparece aquí literalmente asociado a la muerte (por lo demás,
+la muerte cristiana, que implica resurrección). El muerto, entonces, no es solo un tercero que descansa en un
+cajón, no es “alguien” diferente del “yo”, sino también ese yo que, al mirar al muerto, pierde los ojos.
+Para concluir, podemos decir que “La noche que en el Sur lo velaron” se constituye como poema-
+maniﬁesto, como “primer poema auténtico”, porque allí se realiza aquello que, según Monteleone, es
+característico del género poético y, más precisamente, de la vanguardia: la muerte del sujeto como garante
+de sentidos. El poema de Borges es testamentario no solamente –y no tanto– porque ﬁgura un velorio, sino
+porque, desde la enunciación, ﬁrma el acta de defunción de un “yo” que todavía operaba en poemarios como
+Fervor de Buenos Aires (1923) o Luna de enente (1925). Mucho antes que Foucault, Barthes o Blanchot,
+Borges anuncia la muerte del autor y el estatuto fantasmal de un sujeto poético que ocupa el lugar del muerto.
+Y lo hace, como hemos intentado demostrar, desde la ﬁgura devenida lugar común de la ﬁcción borgeana:
+el espejo o, para tomar la terminología ultraísta, el prisma. La relación especular entre el yo y el Muerto,
+en última instancia, realiza aquello que proclama el maniﬁesto ultraísta: borra las frases medianeras que
+interferirían en la duplicidad constitutiva del sujeto. Con este poema muere, entonces, el lugar privilegiado
+Julieta Sbdar Kaplan. TRES MUERTES DEL SUJETO POÉTICO: BORGES, GIANNUZZI, VIGNOLI
+PDF generado a partir de XML-JATS4R
+del yo, dando lugar a un sujeto borrado, mortuorio, velado, confundido con la noche que “de la mejor congoja
+nos libra:/ la prolijidad de lo real” (Borges, 1989, p. 89).
+Los muertos que nos miran: Giannuzzi
+(…) y no obstante hace mucho que todos se murieron.
+J. O. Giannuzzi
+El poema “Comensales eternos”, de Joaquín Giannuzzi, fue publicado en el libro Nuestros días mortales
+de 1958. Como en Borges, la muerte aparece tempranamente, en el título de su primer poemario. Como
+en Borges, esa muerte es compartida por el yo, mejor dicho, por el nosotros plural que ﬁgura en el título.
+La mortalidad, el tempus fugit aparecerá, a lo largo del libro, plasmada en los objetos, insectos, animales o
+alimentos que dan cuenta de la irreductible mortalidad de la materia: uvas, moscas, una paloma, un sapo o
+una botella de leche anuncian el pronto ﬁnal pero también el fracaso empírico de toda voluntad esencialista.
+En “Comensales eternos”, asistimos a la defunción del sujeto de la Historia, un sujeto esencializado, eterno y
+sagrado, que permite el surgimiento de un sujeto poético material, como las uvas rosadas del famoso poema
+que abre el libro, y, como tal, ﬁnito, cuya mortalidad no es tampoco deﬁnitiva, sino proferida en cada acto
+de enunciación que implica el poema:
+Un instante: mirad esta fotografía
+en un diario reseco de los años treinta.
+No se trata, creedme, de un error o acaso
+de la imaginación. Más allá del dolor
+y también del castigo, contemplad este grupo
+de hombres en la mesa; están cenando
+y no obstante hace mucho que todos se murieron.
+La luz decae, extraña. Las comidas, las rosas
+el pan, el vino fueron a sí mismos consagrados
+y han entrado con ellos en la sombra suprema.
+Por lo tanto, nosotros, tenemos tiempo ahora
+para todas las preguntas. ¿Cómo les fue posible
+padecer lo real en el centro
+de sus propias cabeza? Observad qué profundas
+y afeitadas mandíbulas en grave movimiento
+adaptando a la carne de los campos de América.
+Sensatez, hombres, ojos tan pulcros como astutos,
+¿hubo un instante acaso de la noche en que todo
+se les tornó ilusorio? ¿Alguna vez, debajo
+de esas entes fue ahuyentada la vasta perplejidad de ser?
+¿Acaso en un segundo, en tanto que miraban
+distraídos el jardín, en otoño,
+el pensamiento se abrasó en sí mismo
+como cae la llama bajo el espacio oscuro?
+Nadie sabe. Detrás de la fotografía
+mirad cómo se instala lentamente la noche.
+Esto quedó; nosotros contemplamos la cena
+de los señores; sin embargo, seamos
+prudentes. Aquí hay algo, que en nada nos concierne:
+ellos murieron, vemos cómo se desentienden
+de nuestra triste lógica en un reino inmutable
+donde el juicio acasa. Sabemos desde siempre
+Cuadernos de Literatura, 2023, núm. 20, e2014, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+que lucidez y sangre se disputan los límites
+del error o el orgullo. Pero hay esto: la horrible
+responsabilidad que les atribuimos
+se aposenta y se agota en el ámbito escaso
+de sus rostros de hombres. Hace tiempo que están
+retrocediendo, a ciegas, comensales eternos de irrealidad colmados
+que excepto a la piedad impunes se deshacen. (Giannuzzi, 2014, p. 26-27)
+Los dos versos que abren el poema, y que constituyen una estrofa separada del resto, pueden leerse como
+epítome del texto. Frente a la eternidad que se anuncia en el título, el texto empieza por el instante, ese
+fragmento temporal de la poesía que se opone a la presunta longevidad de la fotografía. Desde el comienzo,
+entonces, dos tiempos se anuncian. Por un lado, el tiempo eterno de la Historia y la tradición, plasmado
+en el diario fechado en la década del 30, la década infame, pero también en el verso alejandrino y en el
+uso casi irónico del “vosotros” que se opone a la coloquialidad rioplatense usualmente atribuida a la poesía
+de Giannuzzi. Por el otro, el tiempo del instante marcado por los deícticos (“mirad esta fotografía”).4 Esta
+temporalidad doble, que en el título se expresa a modo de oxímoron, podría leerse como un gesto típicamente
+barroco, un claroscuro entre la muerte y la vida, entre el memento mori de la violencia dictatorial y el carpe
+diem del presente de la enunciación. Sin embargo, proponemos aquí que el “nosotros” del poema dirige la
+atención hacia la mortalidad que ocupa el presente: la fotografía pero también el poema como fragmentos
+efímeros que dan cuenta de la violencia de la Historia y, por ende, del tipo de sujeto que esta inventa para sí.
+Así como en el poema de Borges el muerto estaba marcado por la indeterminación (gramatical, conceptual,
+enunciativa), por el no saber que bordeaba lo real, y el sujeto poético, de manera especular, recogía esa
+condición indeﬁnida del difunto (alguien), aquí los muertos constituyen un dispositivo consagratorio que no
+sella su disolución sino su presunta eternidad: “no se trata, creedme, de un error o fracaso/ de la imaginación.
+Más allá del dolor/ y también del castigo, contemplad este grupo/ de hombres en la mesa; están cenando/ y
+no obstante hace mucho que todos se murieron”. La perplejidad proviene de la convivencia entre esos dos
+tiempos que mencionamos más arriba y que se evidencian en la lengua del poema: el instante capturado por la
+fotografía y descripto por el poema, que es puro presente, y el tiempo mortuorio de la Historia. Sigue: “la luz
+decae, extraña. Las comidas, las rosas,/ el pan, el vino fueron a sí mismos consagrados/ y han entrado con ellos
+en la sombra suprema”. Los hombres de la fotografía pertenecen, por tomar las palabras del propio Giannuzzi
+en la entrevista ya citada, a la pesadilla de la Historia.5 En sus rostros y sus gestos corporales se evidencian el
+poder, la explotación y la violencia: “observad qué profundas/ y afeitadas mandíbulas en grave movimiento/
+adaptado a la carne de los campos de América”; “sabemos desde siempre/ que lucidez y sangre se disputan
+los límites/ del error o el orgullo”.
+Este sujeto colectivo, masculino, consagrado, el sujeto de la historia argentina y de la tradición, no es,
+sin embargo, un sujeto intocable. El poema, mediante el uso de apelativos y preguntas reiteradas, perfora la
+intangibilidad de la historia: “sensatez, hombres, ojos tan pulcros como astutos,/ ¿hubo un instante acaso
+de la noche en que todo/ se les tornó ilusorio?” La pregunta barroca por la artiﬁcialidad de la vida recuerda,
+paradójicamente, la insigniﬁcancia de la historia, el fracaso innegable de las vidas singulares. En este sentido,
+la fotografía de la cena no es una postal del sujeto histórico iluminado, consagrado por el banquete que lo
+rodea, sino un papel reseco, material y, como tal, olvidable.
+Ahora bien, ¿qué hay del sujeto poético? ¿Muere también él en esta escena? Como hemos tratado
+de demostrar, en este poema no es la muerte de los comensales lo que aparece en primer plano sino la
+muerte del recuerdo, la diseminación de su huella histórica. El sujeto poético, que en la primera parte del
+poema se encarga de dejar sus marcas (en los deícticos, en los imperativos, en las preguntas que traen la
+fotografía al presente y perforan cierta idea de historicidad), niega su existencia en la segunda parte. Las
+repetición de la negación (“nadie sabe”, “en nada nos concierne”) parece surcar una distancia irreconciliable
+entre los comensales y el sujeto que enuncia en primera persona del plural: ellos murieron, pertenecen a
+Julieta Sbdar Kaplan. TRES MUERTES DEL SUJETO POÉTICO: BORGES, GIANNUZZI, VIGNOLI
+PDF generado a partir de XML-JATS4R
+“otro reino” (“Uvas rosadas”, 2014, p. 17) y nosotros, que permanecemos en este “reino inmutable”, no
+sabemos nada de la muerte. Sin embargo, si leemos atentamente, notamos que ese nosotros (plural como los
+comensales) se encuentra “detrás de la fotografía”, confundido con la noche que se instala. Al comienzo del
+libro Figuras de la historia, Jacques Rancière describe una escena de la película El último bolchevique de Chris
+Marker en la cual, ante el paso de una familia imperial, un oﬁcial se dirige a la muchedumbre reclamando
+respeto. Lo que a Rancière le interesa de esta imagen no es la representación de la opresión del pueblo sino
+el hecho de que la “muchedumbre” aparezca, en la fotografía, al lado de la familia imperial. Dice Rancière:
+“(…) la máquina no hace diferencias. No sabe que existen pinturas de género y pinturas de historia. Toma
+a grandes y a humildes por igual; los toma juntos (…) Los vuelve simplemente susceptibles de compartir la
+misma imagen, una imagen de igual tenor ontológico” (2013, p. 20).
+La primera persona del plural que enuncia en el poema de Giannuzzi no forma parte de la fotografía;
+no comparte, como la muchedumbre de Rancière, la imagen con los hombres que han perpetrado,
+probablemente, el golpe militar de 1930. Sin embargo, aquí los comensales forman parte de la cocina poética,
+mientras el poema devora los restos de la mesa eterna. Si “la historia es el tiempo en el que aquellos que
+no tienen derecho a ocupar el mismo lugar pueden ocupar la misma imagen” (Rancière, 2013, p. 21), el
+lenguaje poético de Giannuzzi, un lenguaje despojado, material, por momentos envejecido como el diario,
+pone a convivir la muerte del sujeto histórico con la condición fantasmal de ese “nosotros” sin rostro. Mortal,
+como los días que dan nombre al poemario, el sujeto poético se despoja del esencialismo tan caro a la poesía
+neorromántica. Al tiempo que borra la grandilocuencia del pasado reduciendo a los hombres que nos miran a
+una pesadilla material y ﬁnita, el sujeto poético que devuelve la mirada admite su destino de comensal efímero
+y, así como en tanto lectores asistimos a su construcción a través de los objetos –la fotografía del diario–,
+también participamos de su gradual desmaterialización.
+La doble simetría de la muerte: Vignoli
+(…) para amortiguar sus alaridos constantes.
+B. Vignoli
+Con un título programáticamente irónico, el poema “Función de la lírica” de Beatriz Vignoli, publicado
+en Viernes (2001), libro en el que el objetivismo de Almagro (2000) retrocede ante la recuperación de un
+“impulso lírico contenido”, tal como señala Marina Maggi en el prólogo a edición de la poesía completa
+de Vignoli (2021, p. 20), da cuenta del creciente rechazo a la univocidad del tono y de una apuesta por el
+montaje o el collage en tanto dispositivos de la escritura poética. Lejos de polémicas estériles, la poética de
+Vignoli, y este poema en particular, se sitúan en la “frontera” entre “la materialidad plebeya reivindicada por la
+formación objetivista” y “el arrebato contemplativo” (Maggi, 2021, p. 26). Esta hibridación, este ensamblaje,
+sitúan a la poética de Vignoli, a partir de Viernes, en este siglo: el viernes es el día de la muerte, de la cruciﬁxión,
+pero también el día de pasaje entre el trabajo material y la contemplación de los domingueros, entre la rutina
+semanal de las poéticas de los 90 y lo que se abre al vacío ocioso del nuevo siglo. En Viernes, en efecto, se
+cifra una poética de entresiglos, una lengua híbrida que barre con tonos tautológicos o universalizantes, que
+reconoce los límites políticos del objetivismo en medio de la crisis neoliberal, y que se prepara para una
+resurrección parcial de la lírica.
+Así, fechado en 2001, el libro inscribe una caída, como el famoso poema que comienza: “Si te dicen que
+caí/ es que caí./ Verticalmente./ Y con horizontales resultados” (Vignoli, 2021, p. 124). Lo que se pone de
+maniﬁesto allí es una reﬂexión sobre los modos de enunciar esa caída. “Si te dicen” abre una mirada sobre el
+lenguaje y sobre la imposibilidad de estetizar lo que cae. No hay, en este poema, giros posibles, ni del cuerpo
+Cuadernos de Literatura, 2023, núm. 20, e2014, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+ni de la lengua; no hay acrobacias del lenguaje que atenúen el peso de un cuerpo que cae: “no hay parábola”,
+dice el sujeto poético, no hay condimentos heroicos, no hay explicaciones metafísicas que puedan estetizar
+“lo único que sabe hacer el universo/ (…) derrumbarse sin ningún motivo,/ (…) desmoronarse porque sí” (p.
+125). Esta apuesta por la caída sin atributos, sin adjetivaciones, sin conjugaciones hipotéticas, más cercana al
+objetivismo, adquiere otro espesor en “Función de la lírica”, poema donde la caída también aparece, pero sin
+horizontales resultados. Transcribimos el poema:
+Mi padre agonizaba
+en un sanatorio con TV por cable.
+Puse el canal de ópera
+para amortiguar sus alaridos constantes.
+Justo cuando Rigoletto abraza el cadáver
+de su hija, debí tenerlo al viejo
+para que no se cayera de la cama:
+la doble simetría de la escena
+me la volvió soportable. (Vignoli, 2021, p. 128)
+Como se puede ver, a diferencia de la certeza de una caída enunciada en primera persona, conjugada en
+pretérito perfecto y repetida dos veces (“si te dicen que caí/ es que caí”), acá de lo que se trata es de evitar que
+el padre agonizante, horizontal, se caiga de la cama: para que eso no ocurra, el sujeto poético (¿o el yo lírico?)
+sostiene “al viejo”, el protagonista de una escena que oscila entre la gravedad (en el sentido físico pero también
+tonal) y el absurdo. Por más irónico que resuene el título del poema, ironía enfatizada por la presencia de
+Rigoletto, el padre bufón de la ópera de Verdi, eso no implica que se trate de un mero chiste. Al contrario,
+podemos leer esta escena, aparentemente íntima, como una escena fuertemente alegórica, en la medida en que
+los alaridos del padre, del “viejo”, pueden leerse como el ocaso de cierto antilirismo agonizante, y el sostén de
+la hija, paradojalmente espejada en la ópera televisada, como una recuperación de la lírica, una resurrección
+de una voz cantante que se superpone (en tiempo, en espacio, en materialidad) al alarido informe del pasado.
+El derrumbe palpable en “La caída” encuentra aquí un límite, un sostén: la lírica. No se trata, entonces, de
+la muerte del padre y por ende de la tradición, sino de la agonía de un sistema poético que funcionaría como
+garante de sentidos. El alarido, ruido animal, sella la diseminación de un modo de concebir el lenguaje; pero
+esa diseminación no es, como puede leerse, una simple caída, lo que nos remitiría al silencio, sino una base
+sonora que se confunde con la ópera que la hija invoca para amortiguar la agonía. En la duplicidad que ﬁgura
+el poema (construido en pares de versos que van armando, antes de que se enuncie, la “doble simetría” de la
+escena), no hay, sin embargo, binarismos. En el medio, en el pasaje entre el grito y la ópera, entre el padre
+y la hija, entre la muerte y la vida, se encuentra la televisión como “soporte” material, como “cable” o como
+“canal”. La televisión, ese objeto que Adorno había leído como prolongación de la propiedad o habitación
+suplementaria, es decir, como una mercancía a la par de las otras incapaz de producir distanciamiento, acá, en
+el ocaso del siglo XX, instala otro tiempo en el tiempo hospitalario: el tiempo pretérito y el tiempo de la durée,
+es decir, el tiempo de la lírica. Como si le contestara a la aﬁrmación de Alejandro Rubio, que ese mismo año, en
+Monstruos. Antología de la joven poesía argentina, escribía “la lírica está muerta”, y a la pregunta “¿quién tiene
+tiempo, habiendo televisión por cable y FM, de escuchar el laúd de un joven herido de amor?” (2001, p. 7),
+Vignoli pareciera responder: la televisión por cable puede también introducir otro tiempo, otro canal, atraer
+hacia el interior de la habitación hospitalaria lo que le es extraño, resucitar a la lírica como hija no huérfana,
+sino bastarda o, como diría Genovese: “frente a la eﬁcacia y a la locuacidad de otros lenguajes, la poesía es un
+zapping hacia otro canal, un corte de ruta frente a una economía comunicacional que exige ciertas reglas de
+exposición” (2011, p. 15).
+Paradójicamente, si bien el poema presenta una primera persona protagonista, marcada por la estrecha
+relación con el padre desde el primer verso y enfatizada en el sintagma “al viejo”, que prescinde del posesivo,
+la protagonista de la escena es la televisión. Objeto mundano, “sabiduría” material, la TV por cable desplaza
+Julieta Sbdar Kaplan. TRES MUERTES DEL SUJETO POÉTICO: BORGES, GIANNUZZI, VIGNOLI
+PDF generado a partir de XML-JATS4R
+el pathos de la escena y hace del poema una écfrasis a la manera de “Comensales eternos”. Para que la escena
+se vuelva soportable, como señala el sujeto poético al ﬁnal, es necesaria una simetría, un desplazamiento
+hacia el objeto que funciona, justamente, como soporte material que desacraliza la agonía. La televisión, sin
+embargo, ocupa un lugar doble: como estructura o soporte material, objetivo, pero también como “canal”
+hacia la lírica, a través de la ópera que viene a amortiguar los alaridos del padre agonizante. A diferencia de
+la écfrasis estática de Giannuzzi, la televisión no da cuenta de la materialidad ﬁnita sino que, por su carácter
+narrativo, en movimiento, por la durée que imprime, la ópera permite reﬁgurar la agonía hospitalaria: la lírica
+(la ópera, el canto, pero también el poema despojado de un objetivismo sin matices) permite duplicar el
+mundo material, trascender la mera descripción para utilizarlo como máquina externa capaz de narrar de
+otro modo la densidad de lo real. En una nota al pie del prólogo, Vignoli señala que el libro Ítaca parte de una
+ópera homérica de Monteverdi que “vi(o) en televisión en la casa de (su) madre” (2021, p. 23). Esta ﬁcción
+de origen, que desvía perspicazmente los sentidos (madre en lugar de padre, casa en lugar de sanatorio) pone
+el énfasis en la importancia del montaje entre estos dos dispositivos aparentemente irreconciliables: la ópera
+y la televisión. Pasado y presente, lirismo y materialismo, durée e inmediatez, conviven en el poema a modo
+de collage que ensambla el alarido y el canto en una misma habitación de hospital.
+En este sentido, la ironía o el pastiche propios de la neovanguardia permiten un retorno a la lírica como
+un modo renovado de leer el presente. Hal Foster (2001) señala que la neovanguardia de los años cincuenta
+y sesenta no implica una ruptura absoluta con lo anterior sino una lectura retrospectiva que pone atención
+sobre lo olvidado que retorna como fantasma. A pesar de la distancia histórica, podemos leer en esta línea
+el poema de Vignoli, donde el retorno a la lírica/ópera permite delinear una operación retrospectiva que
+encuentra, en la lectura contemporánea del pasado, un nuevo modo de enunciar el mundo. Como es evidente,
+la ópera de Giuseppe Verdi invierte la lógica del padre agonizante, inversión que el sujeto poético llama “doble
+simetría”: a diferencia de la escena del sanatorio, en la ópera es la hija quien muere. Si en el poema de Borges la
+mortalidad del sujeto poético estaba dada por el juego especular, sutil, de la enunciación, y en Giannuzzi por
+el espesor material del cuerpo fotográﬁco, aquí quien muere es la duplicación invertida del sujeto poético, es
+decir, la representación. Vuelta cadáver, la hija de Rigoletto, la hija televisiva, obtura, en una primera instancia,
+la posibilidad de la metáfora lineal. Pero, al mismo tiempo, es esta metáfora invertida, este uso a contrapelo
+de la tradición, la que posibilita la soportabilidad de la escena. La ópera en tanto género inactual (para tomar
+las palabras de Genovese), pero también el lirismo como contrapunto del objetivismo de los 90, no funciona
+como “padre” agonizante de un presente completamente nuevo, sino que su uso controvertido, su relectura
+contemporánea, permite invertir roles y hacer del montaje (entre televisión y sanatorio, entre padre e hija,
+entre tradición y novedad) un modo de la enunciación poética que siga siendo soportable.
+Fechada en 2001, en medio de la debacle y unos meses antes del estallido económico y social, la publicación
+de Viernes reclama una lectura historizada. Como no podemos extendernos aquí, dejamos planteadas
+algunas preguntas que resuenan en la lectura de “Función de la lírica” y que permiten repensar el estatuto
+problemático de la muerte del sujeto poético en una contemporaneidad situada: ¿qué impacto tiene la crisis
+social y política en este retorno miope a la tradición lírica? ¿Acaso la narratividad afectiva de la televisión
+cuestiona el lugar de la mercancía para el objetivismo? El retorno al lirismo, ¿vuelve a poner en el centro
+una experiencia sustraída por las políticas neoliberales, pero también por una poética demasiado pegada a
+las cosas? ¿Es posible hacer resurgir un sujeto de la experiencia que no sea, necesariamente, un sujeto de la
+representación? ¿Puede el canto, la ópera, la poesía, volver a entonar los alaridos agonizantes del lenguaje
+poético?
+Referencias bibliográficas
+Agamben, G. (2013). El autor como gesto. En Profanaciones (pp. 81-96). Buenos Aires, Adriana Hidalgo.
+Cuadernos de Literatura, 2023, núm. 20, e2014, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Artuondo, P. (1999). Entre ‘la aventura y el orden’: los hermanos Borges y el ultraísmo argentino. Cuadernos de
+Recienvenido, 10, 57-97.
+Beckett, S. (2003). Nouvelles et textes pour rien. Paris, Minuit.
+Blanco, M. (2006). Teorías sobre el sujeto poético. Alpha, 23, 153-166. https://bit.ly/3MkQ3vG
+Borges, J. L. (1989). Cuaderno San Martín, Obras Completas I. Buenos Aires, Emecé.
+Borges, J. L. (1997). Ultraísmo. En Textos recobrados (1919-1921) (pp. 54-55). Buenos Aires, Ediciones Nepeuis.
+Bürger, P. (1987). Teoría de la vanguardia. Barcelona, Península.
+Foster, H. (2001). ¿Quién le teme a la neovanguardia?. En El retorno de lo real: la vanguardia a ﬁnales de siglo (pp.
+3-38). Madrid, Akal.
+Freidemberg, D. (1994). Joaquín Giannuzzi: un poeta standard. Diario de poesía, 9, 30, 14-15.
+Genovese, A. (2011). Poesía y modernidad. La poesía como discurso “inactual”. En Leer poesía. Lo leve, lo grave, lo
+opaco (pp. 15-22). Buenos Aires, Fondo de Cultura Económica. https://bit.ly/41sfMqb
+Giannuzzi, J. O. (2014). Obra completa. Buenos Aires, Ediciones Del Dock.
+Maggi, M. (2021). Prólogo. “Siempre debería ser verano”: la revuelta contra el tiempo de Beatriz Vignoli. En Vignoli,
+B., Viernes (pp. 15-39). Buenos Aires, Nebliplateada.
+Monteleone, J. (2016). El fantasma de un nombre. Poesía, imaginario, vida. Rosario, Nube Negra.
+Rancière, J. (2013). Figuras de la historia. Buenos Aires, Eterna Cadencia.
+Rubio, A. (2001). Arspoetica. En Carrera, A. (comp), Monstruos. Antología de la joven poesía argentina (pp. 160-161).
+Buenos Aires, Fondo de Cultura Económica.
+Vignoli, B. (2021). Viernes. Buenos Aires, Ediciones Nebliplateada.
+Notas
+1 Si bien acordamos con la lectura de Mariela Blanco (2011) que señala la imposibilidad de reducir a Giannuzzi a una
+poética objetivista en la medida en que sus textos llevan las marcas del trascendentalismo o, por lo menos, de cierto lirismo
+impensable para los poetas de la generación del 90, hacemos uso de esta categoría para señalar el carácter materialista
+de su poética. Señala el propio Giannuzzi en la entrevista publicada por Diario de Poesía, ante la pregunta de Daniel
+Freidemberg: “Habría que ver qué signiﬁca ‘objetivista’. Yo he estado tratando de conseguir en lo posible una poesía
+objetiva. Una poesía donde explícitamente esté el mundo, estén las cosas. Mi ideal es la poesía descriptiva” (1994, p. 14).
+Más allá de su adscripción o no a los “ismos”, que no trataremos aquí con exhaustividad, esa poesía “de las cosas” incide
+en la conﬁguración de un sujeto poético también material.
+2 Las cursivas son nuestras.
+3 Traducción: “qué importa quién habla, alguien ha dicho qué importa quién habla” (Beckett, 2003, p. 129).
+4 Las cursivas son nuestras, y apuntan a marcar la deixis del verbo en imperativo, dirigido a un vosotros, y del pronombre
+demostrativo.
+5 Dice Giannuzzi: “de lo que se trata es de salvarse de la Historia, que, como no sé quién decía, es una pesadilla de la cual
+quiero despertar. Claro que al mismo tiempo la Historia es fascinante” (Freidemberg, 1994, p. 15).

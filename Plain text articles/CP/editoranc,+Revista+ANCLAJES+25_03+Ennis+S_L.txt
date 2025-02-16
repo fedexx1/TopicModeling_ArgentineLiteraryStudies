@@ -1,0 +1,499 @@
+37
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+DOSSIER
+Ennis, Juan. “Lengua y archivo: glotopolítica e historiografía lingüística desde las pá-
+ginas de Anclajes”. Anclajes, vol. XXV, n.° 3, septiembre-diciembre 2021, pp. 37-48.
+https://doi.org/10.19137/anclajes-2021-2536
+Lengua y archivo: 
+glotopolítica e 
+historiografía 
+lingüística desde las 
+páginas de Anclajes
+Juan Antonio Ennis
+Instituto de Humanidades y Ciencias Sociales, IdHICS
+Universidad Nacional de La Plata
+Consejo Nacional de Investigaciones Científicas y Técnicas, CONICET
+Argentina
+juanennis@conicet.gov.ar
+ORCID: 0000-0002-7070-464X
+Fecha de recepción: 29/06/2021 | Fecha de aceptación: 12/07/2021
+Resumen: A mediados del siglo XX emergen perspectivas que estudian el lenguaje en 
+la sociedad y logran su apogeo en los estudios sobre ideologías de las lenguas a fines del 
+mismo siglo y los más recientes desarrollos de la glotopolítica y la historiografía lingüísti-
+ca. Unas y otras perspectivas comparten la certeza de que la lengua en la modernidad es 
+un artefacto discursivo cuya historia y construcción social es eminentemente política. Se 
+reseñan los aportes de estas perspectivas teórico-críticas y se los relaciona con algunas 
+investigaciones publicadas en la revista Anclajes.
+Palabras clave: lengua; archivo; glotopolítica; historiografía lingüística; Argentina.
+Language and archive: glotopolitics and linguistic 
+historiography from the pages of Anclajes
+Abstract: Studies about the relationship between language in society emerged in the 
+mid-20th century, and reached a peak at the end of the century with analyses on lan-
+guage ideologies and the most recent developments in glotopolitics and linguistic histo-
+riography. Both perspectives share a common framework: that language in modernity is a 
+discursive artifact whose history and social construction is eminently political. The con-
+tributions of these theoretical-critical perspectives are reviewed and related to some 
+research published in the journal Anclajes.
+Keywords: language; archive; glotopolitics; linguistic historiography; Argentina.
+38
+Juan Antonio Ennis | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+Linguagem e arquivo: glotopolítica e historiografia 
+linguística das páginas de Anclajes
+Resumo: Em meados do século XX, surgiram perspectivas que estudava a linguagem na 
+sociedade e alcançava seu apogeu nos estudos sobre ideologias das línguas no final do 
+mesmo século e nos mais recentes desdobramentos da glotopolítica e da historiografia 
+linguística. Ambas as perspectivas compartilham a certeza de que a linguagem na moder-
+nidade é um artefato discursivo cuja história e construção social são eminentemente 
+políticas. As contribuições dessas perspectivas teórico-críticas são revisadas e relaciona-
+das a algumas pesquisas publicadas na revista Anclajes.
+Palavras chave: língua; Arquivo; glotopolítica; historiografia linguística; Argentina.
+L
+as ciencias del lenguaje se establecen y afianzan, en sus distintas 
+modulaciones hegemónicas a lo largo de los siglos XIX y XX, 
+afirmando por un lado la esencial importancia de la lengua para 
+la conformación de la vida social y la comunidad política, y procurando al mismo 
+tiempo desprenderla de ellas, para dar con un objeto susceptible de caber en la 
+sistematicidad de un modelo científico où tout se tient. La crítica a este modelo 
+descarnado de la lengua como objeto de estudio (lo que Roy Harris llamó hace 
+cuarenta años “el mito de la lengua”) y de la consecuente división fundante entre 
+lingüística interna y lingüística externa encuentra diversas manifestaciones en el 
+tiempo, pero comienza a consolidarse sobre todo en la segunda mitad del siglo 
+XX con la emergencia de perspectivas como la sociolingüística, entre otras, aboca-
+das a indagar el lenguaje en la sociedad, y no a pesar de ella. Este desprendimiento 
+de lengua y sociedad tenía también como consecuencia un desprendimiento de 
+la lengua y la historia, contra el que argumentaba Tony Crowley en su Language 
+in History, releyendo a Mijail Bajtín. El Raymond Williams de Marxismo y lite-
+ratura ya lo había hecho veinte años antes, recuperando a Valentín Volóshinov. 
+En ese segundo capítulo dedicado a la lengua, Williams, con su recorrido desde 
+Johann T. Herder hasta Noam Chomsky, demostraba ya cómo a esta altura, para 
+entender el lenguaje en la sociedad, había que dar cuenta de la historia de los 
+saberes y discursos autorizados para dar cuenta de él. Algo similar a lo que había 
+hecho Michel Foucault diez años antes, al postular que de algún modo ese dis-
+curso relegado a “los márgenes de nuestra consciencia histórica”, que habría fun-
+dado una disciplina “un tanto lateral y esotérica” (específicamente la gramática 
+histórico-comparativa de Franz Bopp, Jacob Grimm, Rasmus Rask y August W. 
+von Schlegel), habría modificado “todo el modo de ser del lenguaje” (Las pala-
+bras 275). Esta conciliación del archivo de la disciplina y la carnadura política y 
+social del objeto encontraría expresión en los años 1990 en la conformación de 
+un campo dedicado a las ideologías lingüísticas, y especialmente en los volúme-
+nes editados por Kathryn Woolard, Bambi Schieffelin y Paul Kroskrity en 1998, 
+39
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Lengua y archivo: glotopolítica e historiografía lingüística...: 37-48
+Kroskrity en el 2000 y Jan Blommaert en 1999. Allí este último establecía la re-
+levancia del estudio de los debates sobre la lengua por el hecho de que eran estos 
+los que podían motorizar sus procesos de cambio: “language is being changed by 
+debates” (Blommaert 435). Como puede comprobarse en la amplia variedad de 
+publicaciones (entre las que pueden destacarse los volúmenes de Richard Bauman 
+y Charles Briggs de 2003, los posteriores de Joseph Errington o Tuska Benes en 
+2008 y el más reciente de Monica Heller y Bonnie McElhinny en 2017, entre 
+otros), la historia de los saberes especializados y dispositivos de conocimiento, 
+sistematización y eventual regimentación sobre el lenguaje resulta inescindible 
+de la historia de la expansión colonial moderna de occidente también conocida 
+como capitalismo. Dicho de otro modo, el espacio de investigación en torno al 
+consenso de que lo que conocemos como lengua en la modernidad es un artefac-
+to discursivo cuya historia y construcción social es eminentemente política (Del 
+Valle Historia política 22), no ha cesado desde entonces de expandirse.
+Este tipo de desarrollos tienen en nuestro espacio sus formas específicas. Es-
+tas no dejan de vincularse con aquellos, pero al hacerlo, imprimen a la cuestión 
+un giro propio, específico, relacionado no solamente con las características del 
+campo en el que se desenvuelven, sino sobre todo con la impronta que el lugar 
+de enunciación brinda a la construcción epistemológica. 
+Es el caso, por ejemplo, de la glotopolítica. 
+En 1986, Louis Guespin y Jean-Baptiste Marcellesi publicaban en la revista 
+Langages un artículo-manifiesto llamado “Pour la glottopolitique”, destinado a 
+intervenir en las prácticas de la lingüística en su relación con la planificación de 
+políticas del lenguaje, dicho de otro modo al desarrollo de una conciencia más 
+clara y crítica del rol político de las y los profesionales de los estudios lingüísti-
+cos, sobre todo cuando su investigación funge como input para políticas estatales 
+y formación de opinión que inciden en la vida de la comunidad hablante. Al filo 
+del siglo, Elvira Arnoux recupera esta intervención, con explícita conciencia de 
+los límites que la misma encontrara en su lugar de origen, para imprimirle así 
+un giro desde la especificidad latinoamericana, como campo de trabajo y espa-
+cio de enunciación, que permitiría asimismo una consolidación más segura del 
+término como demarcador de un espacio disciplinar, allí donde no solamente 
+“la globalización muestra un rostro diferente” sino que además “América Lati-
+na constituye un espacio donde todavía pesan las tareas políticas no realizadas” 
+(Arnoux “La glotopolítica”). El giro que proponía este artículo fundador, como 
+lo reconoce un repaso reciente sobre la consolidación de la corriente de estu-
+dios reunida bajo el nombre de glotopolítica, implicaba asimismo agregar a la 
+mirada sobre el presente de aquellos “hechos de lenguaje donde la acción de la 
+sociedad reviste la forma de lo político” (Guespin y Marcellesi), otro ojo atento 
+a la historia de los saberes especializados sobre el lenguaje: “Arnoux propose déjà 
+une extension de leur approche en invitant à repenser radicalement les sciences 
+du langage, en mettant au cœur de cette entreprise une focale sur l’histoire des 
+idées linguistiques comme foncièrement ancrée dans une analyse des conditions 
+40
+Juan Antonio Ennis | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+politiques et des effets de domination que ces idées produisent, en questionnant 
+les conditions matérielles de production des discours sur la langue, de même 
+qu’en considérant que l’étude du langage s’accompagne d’un engagement poli-
+tique assumé” (Arnoux, del Valle y Duchêne 2). Desde ese artículo hasta el pre-
+sente, la glotopolítica se ha afirmado como corriente de pensamiento y espacio 
+de producción, debate e intercambio, afianzada en los sucesivos congresos de 
+la especialidad desde 2015, y en la aparición desde 2017 del Anuario de Gloto-
+política, y en la aparición primero en inglés por Cambridge University Press 
+(2013), luego en español por Aluvión  (2015) de la Historia política del español, 
+seguida recientemente por su crestomatía en el Autorretrato de un idioma. Este 
+afianzamiento fue propiciado especialmente por la confluencia bajo el paraguas 
+conceptual del término de los equipos coordinados por Arnoux en Buenos Aires 
+con el de José del Valle –cuyos trabajos, sobre todo La batalla del idioma y La 
+lengua ¿patria común? habían contribuido decisivamente a abrir camino a este 
+tipo de investigaciones– en la City University of New York, que rápidamente fue 
+integrando a numerosos equipos de trabajo y personal académico de distintas 
+partes de Europa y América.
+Al mismo tiempo, desde los años 70 del pasado siglo asistimos a la progre-
+siva consolidación internacional de un espacio disciplinar específico dedicado 
+al estudio de la historia de las ciencias del lenguaje, sobre todo a partir del esta-
+blecimiento de la revista dirigida por uno de sus representantes más prolíficos y 
+notorios, E.F.K. Koerner, Historiographia Lingüística y las distintas publicacio-
+nes, sociedades y reuniones periódicas que fueron marcando la expansión de la 
+disciplina hasta el día de hoy. Este desarrollo se cristaliza aquí cuando, con sede 
+en el mismo Instituto de Lingüística de la Universidad de Buenos Aires desde el 
+que se desarrolla la tarea de Arnoux y equipo, se comienza a publicar en 2009 la 
+Revista Argentina de Historiografía Lingüística, dirigida por Guillermo Toscano 
+y García, y pensada asimismo como un espacio destinado a la difusión de las 
+investigaciones sobre la historia de las ideas lingüísticas en América Latina (Tos-
+cano y García “Presentación”), que se sostiene hasta la fecha con periodicidad se-
+mestral y en permanente diálogo con los demás enfoques sobre el mismo objeto. 
+Si bien la historiografía lingüística reviste su especificidad disciplinar, el deslinde 
+teórico-metodológico que esto implica no excluye las inevitables y provechosas 
+formas diversas del intercambio, la convivencia y muchas veces imbricación con 
+las demás formas de acceso al mismo archivo de los saberes especializados sobre 
+la lengua y sus procesos de desarrollo, afianzamiento y legitimación. De hecho, 
+el primer número de la revista contiene en la reseña que José del Valle hace del 
+imprescindible volumen de Arnoux sobre la lengua en la formación del Estado-
+nación en Chile (Arnoux Los discursos de la nación), un espacio para destacar 
+los rasgos específicos del enfoque glotopolítico allí asumido, en el cual del Valle 
+anticipa los rasgos del proyecto común de elaboración teórica que cristalizarían 
+en trabajos como el publicado al año siguiente en Spanish in Context (Arnoux y 
+del Valle “Las representaciones”). 
+41
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Lengua y archivo: glotopolítica e historiografía lingüística...: 37-48
+En suma, un rápido vistazo sobre los estudios de esta índole en el país per-
+mite comprobar que hacia el final de la primera década de este siglo que vivimos 
+se hace evidente una mayor proliferación y progresiva consolidación de este tipo 
+de trabajos y las distintas perspectivas teórico-metodológicas para su abordaje, 
+síntoma también del “giro archivístico”  propio de los tiempos (Sánchez-Macedo 
+2020; Tello 2018: 11, e. o.). Dicho de otro modo, si bien los estudios en el área 
+no carecían de antecedentes, el volumen y la profundidad de la investigación 
+necesaria para consolidar el espacio y los equipos de trabajo necesarios para dar 
+cuenta del archivo de los saberes y discursos legos y especializados que intervie-
+nen en la configuración discursiva de la(s) lengua(s) como acontecer político, en 
+el país y la región principalmente, se hace por entonces más notable. 
+Al mismo tiempo, la materia comienza a recibir un renovado interés de parte 
+de los estudios literarios, conformándose un espacio disciplinarmente plural, 
+abierto a una diversidad de enfoques que encontrarían en las páginas de Anclajes 
+un espacio propicio para su difusión. Justamente, una revista que plantea a los 
+estudios literarios y discursivos como su campo de interés, se ofrece al mismo 
+tiempo como zona de contacto e intercambio entre modos diversos pero muchas 
+veces complementarios de acceder al mismo archivo, en una convergencia pro-
+piciada al mismo tiempo por la ampliación de la mirada de los estudios literarios 
+generada por el giro material en la investigación, comentado por Hernán Pas en 
+este mismo número. 
+En el número 13 de la revista (2009) aparece el trabajo de Mara Glozman, 
+“La Academia Argentina de Letras y el peronismo (1946-1956)”, riguroso exa-
+men de un corpus amplio de materiales que forman parte de la imprescindi-
+ble investigación de la autora en su tesis doctoral (dirigida por Elvira Arnoux), 
+consolidada en el valioso volumen publicado en 2015 bajo el título de Lengua 
+y peronismo. Glozman, que hace del trabajo y la reflexión sobre el archivo ejes 
+fundamentales de su investigación, indagaba en este caso en un profuso volumen 
+de materiales, que comprendían no solamente las publicaciones de la Academia, 
+sino también los discursos presidenciales, los planes de gobiernos, diarios de 
+sesiones, las representaciones sobre la lengua y su relación con las proyecciones 
+desde el Estado sobre la concepción de una identidad lingüístico cultural de la 
+nación (Glozman, 142). Lengua y Estado son objeto de análisis una vez más, 
+también desde el enfoque de la glotopolítica, en el caso de la contribución de 
+Malena Kornfeld (Vol. 23/2, 2019), “Notas sobre la neutralidad lingüística en 
+los medios: los Manuales de estilo de Educ.ar (2012-2015)”, esta vez sobre un 
+corpus más reciente referido a la regulación política de las prácticas lingüísticas 
+en los medios de comunicación, más específicamente observando las estrategias 
+asumidas por los Manuales de Estilo de los canales de televisión dependientes del 
+Ministerio de Educación argentino, Encuentro y Pakapaka, entre 2012 y 2015. 
+Kornfeld, especialista en lingüística descriptiva que sin embargo había realizado 
+valiosos aportes a este campo de investigación (como el trabajo citado aquí como 
+precedente, “Políticas de la neutralidad”, en el tomo II del Homenaje a Elvira 
+42
+Juan Antonio Ennis | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+Arnoux publicado en 2017 por la Facultad de Filosofía y Letras de la Univer-
+sidad de Buenos Aires, o la compilación De lenguas y patrias, que contaba con 
+un muy interesante capítulo a cargo de Mara Glozman, en línea con el trabajo 
+comentado más arriba), realiza un recorrido por las opciones adoptadas en este 
+terreno por los medios mencionados, para desarrollar una política lingüística 
+propia, dando forma a “un modelo de lengua alternativo al que la élite dirigente 
+estableció a comienzos del XX a partir de una actitud conservacionista hacia 
+la lengua y que se filtró en las concepciones casticistas, puristas y normativas 
+sobre la lengua que aún hoy impregnan la educación argentina” (Kornfeld 53). 
+Al mismo tiempo, más allá de la tradición normativa arraigada en la educación 
+local, este modelo alternativo de la variedad de referencia para estos medios pú-
+blicos argentinos se distancia a la vez de la normativa panhispánica ordenada 
+en Madrid y del modelo de neutralidad lingüística dominante en el mercado 
+latinoamericano de los medios de comunicación.
+También desde el marco de la glotopolítica latinoamericana, y en la línea 
+de una investigación doctoral asimismo dirigida por Arnoux, es que Florencia 
+Rizzo examina en su artículo publicado en el número 3 del volumen 20 (2016) 
+la configuración de la matriz discursiva de los Congresos Internacionales de la 
+Lengua Española, cuyo interés estratégico para el área había quedado establecido 
+en el ensayo de cierre de la fundamental Battle over Spanish de Gabriel-Stheeman 
+y Del Valle (“Codo con codo”), y la autora ha examinado en profundidad en 
+una amplia investigación, de la que aquí se presenta la sección correspondiente 
+al antecedente fundacional a finales del XIX del espectáculo de la lengua que el 
+Estado español y las empresas estratégicas del país desplegadas por el continente 
+orquestan desde finales del siglo XX hasta el día de hoy en diversas ciudades de 
+España y sus antiguas colonias. 
+De este modo, desde 2009 hasta el presente, Anclajes se ha constituido en 
+uno de los espacios de referencia para el conocimiento de un campo en sostenida 
+expansión y articulación con otros de más larga tradición como espacios defini-
+dos y consolidados de investigación. Una combinación de creciente prestigio y 
+hospitalaria vocación de apertura han hecho de Anclajes un espacio no solamente 
+de referencia, sino también de eventual construcción de diálogos críticos, que 
+exceden naturalmente las páginas de la publicación pero encuentran no obs-
+tante en ellas una continuidad propia. Tal es el caso en lo que respecta al eje de 
+lengua y propiedad en la construcción de los estados americanos a través de la 
+incorporación del discurso de las modernas ciencias del lenguaje en el de los na-
+cionalismos criollos. Este hilo se inicia con el aporte de Hernán Pas en el vol. 16, 
+n.° 2 (2012) “¿Ecos de Lautaro?: las lenguas indígenas como patrimonio cultural 
+del nacionalismo criollo en el siglo XIX”, y puede seguirse en la intervención de 
+quien firma esta nota en el vol. 18, n.° 2 (2014) “El uso, la propiedad y el valor 
+en el debate de la lengua americana”, el trabajo de María Carolina Domínguez 
+“Un diálogo con la tradición clásica latina en la Argentina del siglo XIX: con-
+tinuidades y rupturas” (vol. 20, n.° 3, 2016), el aporte de Esteban Lidgett “La 
+43
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Lengua y archivo: glotopolítica e historiografía lingüística...: 37-48
+propiedad de la lengua: norma y uso en la obra de Ricardo Monner Sans” (vol. 
+22, n.° 1, 2018), y finalmente el más reciente aporte de Sofía de Mauro, “La 
+imposibilidad moral de la existencia del drama: notas sobre la controversia del 
+Ollantay” (vol. 24, n.° 1, 2020). Se trata de estudios sobre recortes de diversa 
+extensión y especificidad en el corpus de la historiografía lingüística, filológica 
+y literaria americana, donde sin embargo se encuentra un punto fuerte de con-
+vergencia tanto en el planteo explícito del problema teórico, histórico y político 
+de la propiedad de la lengua en sus variantes (purismo, patrimonialización), y 
+los modos de relacionarse la intelectualidad americana con la tradición europea 
+a la hora de pensar una matriz teórica e ideológica para la gestión política de las 
+prácticas lingüísticas en la región. 
+El giro archivístico, la atención a la materialidad de los procesos culturales, 
+ha traído consigo un renovado interés en el estudio del material epistolar, más 
+allá del anecdotario anexo a la biografía de los grandes autores, como corpus 
+de interés para distintas disciplinas, entre las que cuenta por supuesto la histo-
+riografía lingüística, tal como puede constatarse en la proliferación de publica-
+ciones recientes sobre la materia, como el dossier sobre Intercambios epistolares 
+entre lingüistas y filólogos en la primera mitad del siglo XX a cargo de Graciela 
+Salto y Gloria Chicote en la Revista Internacional de Lingüística Iberoameri-
+cana. Es una de las editoras de este dossier, Gloria Chicote, quien realiza en 
+el número 1 del vol. 24 de Anclajes (2020) un aporte destacable en este senti-
+do con “Intercambio epistolar entre Ricardo Rojas y Ramón Menéndez Pidal: 
+fragmentos para la construcción de una hispanidad post-imperial”. Este trabajo 
+reviste un especial valor para el estudio de la historia de la consolidación de los 
+estudios filológicos y lingüísticos en el país, ya que, como se sabe, es a través 
+del contacto entre Rojas y Menéndez Pidal que se va a organizar entre 1922 y 
+1923 el Instituto de Filología de la Universidad de Buenos Aires, vital para la 
+consolidación de un campo científico para los estudios de la lengua en el país 
+(Toscano y García “Materiales”).
+La dimensión glotopolítica de la obra de Rojas, por otra parte, había sido ya 
+objeto de un artículo publicado en el volumen 22, número 2  (2018) por Caro-
+lina Bartalini,  “Del otro al yo: ideologías lingüísticas y nacionalismo cultural en 
+Archipiélago de Ricardo Rojas”, quien expande el análisis glotopolítico iniciado 
+por Diego Bentivegna sobre este libro tan rico como escasamente estudiado, al 
+menos desde esta perspectiva. Así, el recorrido de la autora por las representacio-
+nes ideológicas sobre el lenguaje presentes en el texto de Rojas, pone en eviden-
+cia un desplazamiento notable en una de las figuras centrales del imaginario del 
+Centenario con respecto al deber-ser glotopolítico del Estado-nación argentino, 
+y así concluye: “Archipiélago es un documento sobre la muerte de una lengua 
+y el exterminio de una cultura, pero también hay aquí un sujeto que escribe 
+revisando su esquema de percepción, una retrospectiva en tiempo presente, un 
+espacio marginal a la formación estatal, nacional e, incluso, biográfica” (Bartalini 
+17). Este trabajo, por otra parte, puede pensarse asimismo integrado al diálogo 
+44
+Juan Antonio Ennis | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+planteado más arriba a partir de los “¿Ecos de Lautaro?” de Pas y los trabajos de 
+De Mauro, Domínguez, Ennis y Lidgett.
+Finalmente, en este mismo número encontramos un aporte de un autor al 
+que ya se ha mencionado en estas líneas: Guillermo Toscano y García. Desde el 
+enfoque de la historiografía lingüística y en la línea trabajada por su equipo en 
+los últimos años acerca de la gramática escolar, este autor incorpora una modali-
+dad del archivo de reciente y creciente interés para diversas formas de la investi-
+gación histórica (ese “pasado audible” que interrogara J. Sterne, en general, y en 
+particular el fenómeno de la radio en la Argentina, tal como ha sido estudiado, 
+por ejemplo, por Andrea Matallana, Robert Claxton o Matthew Karush), y pre-
+sente ya en algunos estudios relativos a las políticas, debates y discursos sobre 
+la lengua en la Argentina del siglo XX (Vitale, Marsimián, Ennis y Sesnich): la 
+radiofonía. “Ondas que llevan idioma nacional. Las Lecciones de Florencio Ga-
+rrigós en la Escuela del Aire” da cuenta de un corpus poco o nada conocido de 
+intervenciones radiales a cargo de quien fuera el responsable de las “Gramaticales 
+y filológicas” de La Prensa por largos años, además de contribuir en esta línea 
+con publicaciones de la popularidad de Caras y caretas y El hogar. En el marco 
+de la Escuela del Aire, “una iniciativa pionera en la Argentina en el campo de la 
+educación a distancia mediante el uso de la radiofonía”, las Lecciones de idioma 
+nacional de Garrigós constituyen la primera lección brindada a través de ese 
+medio, confirmando la vigencia de la importancia de la cuestión del idioma 
+en la concepción de la formación de la ciudadanía desde el Estado a través del 
+sistema educativo. Estas lecciones constituyeron una propuesta novedosa tanto 
+en la forma técnica de su difusión como en las decisiones tomadas en cuanto a 
+su contenido, donde se proponía una forma de la norma culta más próxima a las 
+características del habla local (al menos las fonéticas y de extensión generalizada) 
+y no a la norma culta peninsular aún promovida por el discurso académico y los 
+instrumentos lingüísticos al uso. 
+El cuarto de siglo que Anclajes lleva presente en el horizonte de nuestra pro-
+ducción intelectual aparece, francamente, como una ocasión de celebración, na-
+turalmente, pero de una celebración atravesada además por un sentimiento de 
+gratitud. Lo que se agradece en este caso es la empresa sostenida, con rigor y em-
+pecinada dedicación, de ensanchar el campo de nuestro trabajo, de sostener un 
+horizonte amplio y hospitalario sobre el suelo firme de un trabajo bien hecho, de 
+manera ejemplar. Pienso en la palabra ejemplar en este caso, porque justamente 
+lo que ha sabido ofrecer es un modelo de trabajo y un espacio de referencia. 
+No solo con Anclajes, porque el despliegue del trabajo individual y colectivo 
+tiene muchas otras vertientes, pero especialmente a través de su plataforma, el 
+Instituto de Investigaciones Literarias y Discursivas de la Universidad Nacional 
+de La Pampa logró algo fundamental para cualquier centro de investigación, y 
+es que se quiera, necesite, no se pueda evitar hablar con quienes lo integran. Y 
+lograr eso, desde una institución situada en las puertas de la Patagonia, prácti-
+camente en el centro geográfico pero lejos de los centros económico-políticos 
+45
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Lengua y archivo: glotopolítica e historiografía lingüística...: 37-48
+del país, es ya una gran cosa. Pero lo más interesante del asunto es que no se 
+trata solamente de ganar visibilidad y protagonismo para un espacio y sus ac-
+tores, sino, mucho más importante aún, de hacer de este un espacio de cruces, 
+intercambios, diálogos, logrando algo en extremo complejo como la convivencia 
+entre el rigor y la hospitalidad de sus páginas, el cuidado y la puntualidad de su 
+edición. Porque cualquiera que haya editado una revista científica, al menos en 
+el amplio campo que se conoce a grandes rasgos como el de las letras, sabe de las 
+dificultades de mantener la periodicidad, sobre todo si se tiene la generosa osadía 
+de que esta sea cuatrimestral, como sucede con Anclajes desde hace al menos un 
+lustro. Al mismo tiempo, cualquiera que haya intentado sostener una revista en 
+universidades, nuevamente, distantes de los centros más populosos y de largas 
+trayectorias en la construcción científica, sabe que hay que hacer de la necesidad 
+virtud, y concebir una amplitud temática y disciplinar que sostenga a la vez una 
+identidad. Y eso, en Anclajes, de un modo notable, sucede. Y por eso también 
+para quienes transitamos el espacio necesariamente amplio, poroso, muchas ve-
+ces interdisciplinario del estudio de los discursos legos o especializados sobre el 
+lenguaje, aquellos que contribuyen a la construcción discursiva de las lenguas 
+como artefactos políticos, Anclajes se ha convertido también, necesariamente, en 
+lo que es para otras líneas de trabajo en el área: un punto de referencia, un polo 
+de atracción, un espacio para el diálogo. 
+Referencias bibliográficas
+Arnoux, Elvira Narvaja de. “La Glotopolítica: transformaciones de un campo 
+disciplinario”, Lenguajes: teorías y prácticas. Buenos Aires, Gobierno de la 
+Ciudad de Buenos Aires, Secretaría de Educación, 2000, pp. 95-109.
+Arnoux, Elvira Narvaja de. Los discursos sobre la nación y el lenguaje en la for-
+mación del Estado (Chile, 1842-1862). Estudio glotopolítico. Buenos Aires, 
+Santiago Arcos, 2008.
+Arnoux, Elvira Narvaja de y José del Valle. “Las representaciones ideológicas del 
+lenguaje. Discurso glotopolítico y panhispanismo”, dossier Ideologías lingü-
+ísticas y el español en contexto histórico; Spanish in Context vol. 7, n.° 1, 2010, 
+pp. 1-24, https://doi.org/10.1075/sic.7.1.01nar.
+Arnoux, Elvira Narvaja de, José del Valle y Alexandre Duchêne. “Glottopolitique 
+– glotopolítica: circulation, appropriation et expansion d’une lecture sociale du 
+langage”. Glottopol. Revue de sociolinguistique en ligne, 32, 2019, pp. 2-6.
+Bartalini, Carolina. “Del otro al yo: ideologías lingüísticas y nacionalismo cultu-
+ral en Archipiélago de Ricardo Rojas”. Anclajes, vol. 22, n.° 2, 2018, pp. 1-19, 
+https://doi.org/10.19137/anclajes-2018-2221.
+46
+Juan Antonio Ennis | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+Bauman, Richard y Charles L. Briggs. Voices of Modernity. Language Ideologies and 
+the Politics of Inequality. Cambridge, Cambridge University Press, 2003.
+Benes, Tuska. In Babel’s shadow. Language, Philology and the Nation in Nine-
+teenth Century Germany. Detroit, Wayne State University Press, 2008.
+Bentivegna, Diego. “Ricardo Rojas y Benvenuto Terracini: destierro, muerte y 
+biopolítica de las lenguas”. Filología, vol. 46, 2014, pp.125-138. 
+Blommaert, Jan (ed.). Language Ideological Debates, Berlín/Nueva York, Mouton 
+de Gruyter, 1999.
+Chicote, Gloria. “Intercambio epistolar entre Ricardo Rojas y Ramón Menén-
+dez Pidal: fragmentos para la construcción de una hispanidad post-imperial”. 
+Anclajes, vol. 24, n.° 1, 2020, pp. 1-18, https://doi.org/10.19137/anclajes-
+2020-2411.
+Claxton, Robert. From Parsifal to Perón: Early Radio in Argentina, 1920-1944. 
+Gainesville, University Press of Florida, 2007.
+Crowley, Tony. Language in History. Londres/Nueva York, Routledge, 1986.
+De Mauro, Sofía.  “La imposibilidad moral de la existencia del drama: notas 
+sobre la controversia del Ollantay”. Anclajes, vol. 24, n.° 1, 2020, pp. 69-86, 
+https://doi.org/10.19137/anclajes-2020-2415.
+Del Valle, José. La lengua, ¿patria común? Ideas e ideologías del español. Madrid/
+Fráncfort del Meno, Vervuert/Iberoamericana, 2005. 
+Del Valle, José (ed.). A Political History of Spanish. The Making of a Language. 
+Cambridge (e.o.), Cambridge University Press, 2013.
+Del Valle, José (ed.). Historia política del español. La invención de una lengua. 
+Madrid, Aluvión, 2015.
+Del Valle, José y Luis Gabriel-Stheeman. “‘Codo con codo’. Hispanic commu-
+nity and the language spectacle”, The Battle over Spanish between 1800 and 
+2000. Language ideologies and Hispanic intellectuals, Londres/Nueva York, 
+Routledge, 2002, pp. 193-216.
+Del Valle, José, Daniela Lauria, Mariela Oroño y Darío Rojas (eds.). Autorretrato 
+de un idioma. Crestomatía glotopolítica del español. Madrid, Lengua de trapo, 
+2021.
+Domínguez, María Carolina. “Un diálogo con la tradición clásica latina en la 
+Argentina del siglo XIX: continuidades y rupturas”. Anclajes vol. 20, n.° 2, 
+2016, pp. 17-32, https://doi.org/10.19137/anclajes-2016-2022.
+Ennis, Juan. “El uso, la propiedad y el valor en el debate de la lengua americana”. 
+Anclajes, vol. 18, n.° 2, 2014, pp. 32-47.
+Ennis, Juan y Laura Sesnich. “Print (and Broadcasting) Capitalism in Times of 
+Crisis: The Quest for a Unified Language Market in Buenos Aires, 1935-
+47
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669 | Lengua y archivo: glotopolítica e historiografía lingüística...: 37-48
+1943”. Bulletin of Spanish Studies, vol. 97, n.° 7, 2020, pp. 1211-1233, 
+https://doi.org/10.1080/14753820.2020.1815978.
+Foucault, Michel. Les Mots et les choses. Une archéologie des sciences humaines. 
+París, Gallimard, 1967.
+Glozman, Mara. “La Academia Argentina de Letras y el peronismo (1946-
+1956)”. Anclajes, vol. 13, n.° 13, 2009, pp. 129-144.
+Glozman, Mara. Lengua y peronismo. Políticas y saberes lingüísticos en la Argenti-
+na, 1943-1956. Buenos Aires, Biblioteca Nacional, 2015.
+Guespin, Louis y Jean-Baptiste. Marcellesi. “Pour la Glottopolitique”. Langages, 
+n.° 83, 1986, pp. 5-34, https://doi.org/10.3406/lgge.1986.2493. 
+Harris, Roy. The Language Myth. Londres, Duckworth, 1981.
+Heller, Monica y Bonnie McElhinny. Language, Capitalism, Colonialism: To-
+wards a Critical History. Toronto, University of Toronto Press, 2017.
+Karush, Matthew. Cultura de clase. Radio y cine en la creación de una Argentina 
+dividida (1920-1946). Buenos Aires, Ariel, 2013.
+Kornfeld, Laura Malena (comp.). De lenguas, ficciones y patrias. Los Polvorines, 
+Universidad Nacional de General Sarmiento, 2014.
+Kornfeld, Laura Malena. “Políticas de la neutralidad”, Homenaje a Elvira Ar-
+noux. Estu­
+dios de análisis del discurso, glotopolítica y pedagogía de la lectura y 
+la escritura, editado por Roberto Bein et al., Tomo II: Glotopolítica. Buenos 
+Aires, Editorial de la Facultad de Filosofía y Letras, 2017, pp. 67-81.
+Kornfeld, Laura Malena. “Notas sobre la neutralidad lingüística en los medios: 
+los Manuales de estilo de Educ.ar (2012-2015)”. Anclajes vol. 23, n.° 2, 
+2019, pp. 39-55, https://doi.org/10.19137/anclajes-2019-2323.
+Lidgett, Esteban. “La propiedad de la lengua: norma y uso en la obra de Ricardo 
+Monner Sans”. Anclajes, vol. XXII, n.° 1, 2018, pp. 55-71, https://doi.org/ 
+10.19137/anclajes-2018-2214.
+Marsimián, Silvina. Lengua, radio, humor y censura: el caso Niní Marshall. Bue-
+nos Aires, Biblos, 2016.
+Matallana, Andrea. Locos por la radio: una historia social de la radiofonía argenti-
+na, 1923-1947. Buenos Aires, Prometeo, 2006.
+Pas, Hernán. “¿Ecos de Lautaro?: las lenguas indígenas como patrimonio cultu-
+ral del nacionalismo criollo en el siglo XIX”. Anclajes, vol. XVI, n.° 2, 2012, 
+pp. 74-92.
+Rizzo, María Florencia. “Los congresos de la lengua española: configuración de 
+una matriz discursiva”. Anclajes, vol. 20, n.° 3, 2016, pp. 59-75, https://doi.
+org/10.19137/anclajes-2016-2034
+48
+Juan Antonio Ennis | 
+ XXV.3 (septiembre-diciembre 2021) ISSN 1851-4669
+Sánchez-Macedo, Jaime. “El giro archivístico; su impacto en la investigación 
+histórica”. Humanitas. Anuario del Centro de Estudios Humanísiticos, vol. IV, 
+n.° 47, 2020, pp. 183-223.
+Sterne, Jonathan. The Audible Past. Cultural Origins of Sound Reproduction. Dur-
+ham /Londres, Durham University Press, 2003.
+Tello, Andrés Maximiliano. Anarchivismo. Tecnologías políticas del archivo. 
+Adrogué, La Cebra, 2018.
+Toscano y García, Guillermo. “Materiales para una historia del Instituto de Filo-
+logía de la Universidad de Buenos Aires (1920-1926)”. Revista Internacional 
+de Lingüística Iberoamericana, vol. VII, 1, n.° 13, 2009, pp. 113-135. 
+Toscano y García, Guillermo. “Ondas que llevan idioma nacional. Las Lecciones 
+de Florencio Garrigós en la Escuela del Aire”. Anclajes, vol. 25, n.° 3, 2021, 
+pp. 117-135, https://doi.org/10.19137/anclajes-2021-25314.
+Vitale, María Alejandra. “En torno a la lengua en la radio argentina: la encues-
+ta de la Comisión Parlamentaria de 1938”. Elvira Arnoux y Roberto Bein 
+(eds.). La regulación política de las prácticas lingüísticas. Buenos Aires, Eude-
+ba, 2010, pp. 73-99. 
+Williams, Raymond. Marxism and Literature. Oxford, Oxford University Press, 
+1977.
+Woolard, Kathryn y Schieffelin, Bambi. “Language ideology”. Annual Review 
+of Anthropology, vol. 23, 1994, pp. 55-82, https://doi.org/10.1146/annurev.
+an.23.100194.000415.

@@ -1,0 +1,998 @@
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+209 
+ 
+LA EXPRESIÓN DE LA EVIDENCIALIDAD EN 
+LATÍN Y ESPAÑOL: VIDEOR Y PARECER 
+ 
+Cadina Palachi 
+UNL 
+ 
+Resumen: Este trabajo presenta un 
+análisis del verbo latino videor (parecer) 
+y del español parecer y describe las 
+características sintácticas de las es-
+tructuras en las que se insertan. Se 
+observa que ambos verbos poseen 
+rasgos de evidencialidad, de manera 
+que pueden ser considerados elemen-
+tos 
+funcionales. 
+Describimos 
+el 
+evento de conocimiento y la forma 
+en que se presenta sintácticamente la 
+expresión de la inferencia. Las pre-
+guntas por la forma en que se realiza 
+en las lenguas la expresión de conte-
+nidos orientados hacia el hablante 
+constituyen un campo en expansión 
+en la actualidad, en la medida en que 
+comprometen la estructura funcional 
+de la oración y forman parte de la 
+investigación referida a la llamada 
+periferia izquierda que provee de 
+instrucciones a la interfaz conceptual.  
+ 
+Palabras 
+clave: 
+Evidencialidad- 
+Periferia izquierda-Conocimiento 
+ 
+Abstract: This paper presents an 
+analysis of the Latin verb videor (seem) 
+and 
+Spanish 
+parecer 
+(seem) 
+and 
+describes the syntactic characteristics 
+of the structures in which they are 
+inserted. Our work notices that both 
+verbs have evidentiality features so 
+that 
+they 
+can 
+be 
+considered 
+functional elements. We describe the 
+event of knowledge and how the 
+expression of inference is syntac-
+tically done. Questions by the way in 
+which languages express the speaker 
+oriented contents constitute an ex-
+panding field because they are 
+referred to the functional structure of 
+the sentence and they form part of 
+the research about the left periphery 
+which provides instructions to the 
+conceptual interface. 
+ 
+ 
+ 
+Key 
+words: 
+Evidentiality-Left 
+Periphery-Knowledge 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+1. Introducción 
+La forma pasiva del verbo latino video (ver) ha 
+desarrollado características propias que lo alejan de su 
+contraparte activa. Videor (parecer) no ha recibido la 
+suficiente atención en la bibliografía especializada en 
+comparación con verbos de similar comportamiento del 
+español (parecer), del inglés (seem), del italiano (parere, sem-
+brare) o del francés (sembler). Sin embargo, resulta interesante 
+porque presenta características que lo acercan a los verbos 
+copulativos y a los (semi)auxiliares; en cualquiera de sus dos 
+valores se trata de un verbo que no selecciona su sujeto.  
+En el marco de la Gramática Generativa, el verbo seem 
+y sus semejantes en otras lenguas, tal como es el caso de 
+parecer, ha sido considerado un ítem léxico que selecciona un 
+solo argumento en función de complemento proposicional 
+y que es incapaz de seleccionar semánticamente su sujeto, 
+razón por la cual, cuando el complemento es una oración 
+con verbo conjugado, el sujeto permanece dentro de los 
+límites estructurales de la misma, en tanto que si la cláusula 
+seleccionada es de infinitivo, que carece de sintagma de 
+tiempo que pueda chequear el caso nominativo del sujeto, 
+éste se eleva al especificador del sintagma de tiempo de 
+videor que le otorga caso pero no lo selecciona semán-
+ticamente. Por este motivo, se ha considerado a parecer 
+como un verbo de “elevación de sujeto”. 
+Por otra parte, dentro de otro marco teórico, la 
+propuesta de Cornillie (2007) considera que parecer es un 
+semi-auxiliar evidencial y que presenta la particularidad de la 
+“transparencia”, por lo que el sujeto del infinitivo también 
+lo es del verbo conjugado parecer. Entendemos que, por 
+caminos diferentes, tanto dentro de la Gramática de tipo 
+Funcionalista como Generativista se ha llegado a describir a 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+211 
+ 
+este verbo de una manera muy similar en lo que respecta a 
+su comportamiento sintáctico como verbo de elevación de 
+sujeto o bien como verbo transparente.   
+Además de su comportamiento sintáctico, creemos 
+que es importante observar el significado evidencial que 
+portan videor y parecer, por cuanto se trata de verbos que se 
+asemejan en lo referido a su capacidad para aportar rasgos 
+relacionados con la forma en que el hablante presenta la 
+inferencia de conocimiento y en tal sentido, tiene 
+implicaciones para lo que Cinque y Rizzi (2008) han deno-
+minado la cartografía de las estructuras sintácticas que tiene 
+por objetivo “to draw maps as precise and detailed as 
+possible of syntactic configurations” y, dentro de esta línea 
+de investigación, interesa entender la forma en que la 
+sintaxis es capaz de codificar elementos referidos a la 
+evaluación que el hablante hace de su proposición, 
+problema referido a la cartografía de la periferia izquierda 
+de la oración. La hipótesis es que hay una jerarquía 
+universal de proyecciones funcionales que dominan los 
+sintagmas proyectados por categorías léxicas y por encima 
+de la oración, es importante notar que la posición de los 
+especificadores de estos sintagmas es también universal.  
+El latín, que presenta cierto grado de orden libre de 
+palabras, se plantea como un campo fecundo e interesante 
+para investigar estas cuestiones. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+2. Descripción de la sintaxis 
+A diferencia de lo que sucede con el verbo español 
+parecer, para el que el Diccionario de la RAE destina una 
+entrada léxica independiente, con una acepción de percep-
+ción (“aparecer, dejarse ver”) y una de opinión (“opinar, 
+creer”), el Oxford Latin Dictionary (Glare, 1968) no 
+presenta una entrada propia para el verbo videor. En cambio, 
+a partir de la acepción 20 hasta la 24 de la entrada de video se 
+consigna su valor “pasivo” e “impersonal”, cuyo significado 
+y sintaxis se alejan, como se puede observar, del rasgo 
+semántico más relevante de percepción física, aunque 
+conserva el de percepción intelectual, y del valor transitivo 
+asociado con el verbo activo. Las acepciones de 21, 23 y 24 
+presentan el rasgo semántico de opinión.  
+ 
+(1) 
+Video:  
+1. To perceive with the eyes, see. 
+20. (pass.) To appear, seem, be thought  
+21. (pass, with or without dat. of refl.) to seem to 
+oneself (to), suppose or imagine (that) 
+23. (pass., w. neut. pron. as subj.) to seem good, 
+right, proper, or sim.  
+24. (impers. pass.) to seem good, right, proper // 
+a.w. inf.; w. acc and inf.// b.w. ut+subj. 
+ 
+De la misma forma que en el diccionario, este verbo 
+no ha recibido en las gramáticas del latín tanta atención co-
+mo sus análogos en español, inglés o francés. Aunque es un 
+verbo que despierta el interés de los gramáticos puesto que, 
+como afirma Fernández Leborans (1999, pág. 2447), “se 
+trata de un hecho excepcional; ningún otro verbo con 
+similar estructura –los verbos psicológicos o de afección, 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+213 
+ 
+por ejemplo– admite conmutación por lo de su objeto-tema 
+(clausal o no clausal)”.  
+Si bien parecer y también videor han sido considerados 
+“copulativos” porque admiten una expresión predicativa 
+que, en español, sabemos que puede ser sustituida por el 
+pronombre neutro lo, como se observa en los ejemplos de 
+(2) y (3):  
+(2) 
+a. Ella parece inteligente 
+b. Ella lo parece 
+(3) 
+a. sumque ornata ita ut aegra videar (Plautus, 
+Truculentus, 475)  
+voy vestida así para parecer enferma 
+ 
+es difícil sostener que videor o parecer se comporten 
+como otros verbos copulativos, por ejemplo, como el latino 
+sum o como los españoles ser y estar, ya que ninguno de estos 
+verbos admite, como sí lo hacen videor y parecer, un com-
+plemento oracional en infinitivo y el sujeto en concordancia 
+con el verbo conjugado. De manera que supondremos que 
+lo que distingue a videor del verbo copulativo ser/sum es su 
+posibilidad de llevar un complemento en infinitivo con 
+valor oracional. Efectivamente, este verbo se presenta con 
+mayor frecuencia en contextos como los de (4), que de 
+ninguna manera son posibles para ser o estar en español, y 
+tampoco encontramos ejemplos en latín en la base de datos:  
+ 
+(4)a. Omnia subiecisse oratori uidetur Aristoteles 
+(Quintilianus, Institutio Oratoria  
+2.15.16.1) 
+Aristóteles parece haberlo confiado todo a la 
+competencia del orador. (Trad. Ortega Carmona) 
+b. non homines habitare mecum mi hic videntur, sed 
+sues. (Plauto, Stichus, 64) 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+no hombres, sino cerdos parecen habitar aquí 
+conmigo. (me parece que habitan aquí…) 
+(5) a.*Cerdos son vivir aquí./Cerdos parecen vivir 
+aquí. 
+b.*Este hombre está pensar así./Este hombre parece 
+pensar así.  
+ 
+Mucho menos habitual que la construcción de infini-
+tivo resulta, en latín, la presencia de una cláusula con verbo 
+conjugado (en subjuntivo) y nexo ut, ejemplos en (6). Aun-
+que en español parecer admite con naturalidad oraciones con 
+verbo conjugado en indicativo y nexo que: 
+ 
+(6)a. visum est ut te facerem certiorem.(Cic., Ad fam, 
+8.5.2.5) 
+Parece que te he ayudado a decidirte.  
+b. sed scis ita nobis esse visum ut isti ante 
+legerent.(Cic., Ad Attic., 12.51.2.6) 
+pero sabes que me parece que aquellos debieran leer 
+antes.  
+c. patribus id tempus reipublicae uisum est ut per 
+ueteres et expertos bellique peritos imperatores res publica 
+gereretur; (Liv., AUC, 27.6.10.2) 
+Los senadores estimaron que las circunstancias 
+del Estado exigían confiar la dirección de los asuntos 
+públicos a generales veteranos, experimentados y 
+dotados de conocimientos bélicos. (Trad. Villar Vidal) 
+ 
+En (6) se observa que videor permite como su argu-
+mento una oración con ut y verbo conjugado con su propio 
+sujeto en caso nominativo, aunque debemos mencionar que 
+esta estructura no resulta tan frecuente como la cláusula en 
+infinitivo. En este sentido vemos una diferencia notable con 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+215 
+ 
+el español parecer, que admite la construcción con que + 
+verbo conjugado en indicativo + clítico dativo y en cambio, 
+cuando lleva la construcción con infinitivo no permite la 
+presencia del dativo (salvo un tipo de construcción que 
+comentaremos más abajo). Aunque vamos a señalar que 
+además, en español, el verbo parecer se utiliza con esta 
+construcción en presente y tercera persona del singular; en 
+latín, en cambio, los ejemplos que hemos encontrado son 
+con visum est en pretérito y en tercera persona del singular:  
+ 
+(7)a. Parece que las mujeres organizaron una 
+revolución. 
+a’. ?Pareció que las mujeres organizaron una 
+revolución. 
+b. Las mujeres parecen haber organizado una 
+revolución. 
+ 
+Descartamos entonces la posibilidad de considerar a 
+videor como verbo copulativo por las diferencias sintácticas 
+que presenta con sum. Por otra parte, no nos ocuparemos 
+de la construcción de videor + oración encabezada por ut y 
+verbo conjugado en modo subjuntivo, que, como hemos 
+visto, no es muy habitual en latín y se diferencia de la 
+construcción en español que lleva parecer en presente y la 
+oración con verbo conjugado en indicativo. Este tipo de 
+estructuras tampoco ha recibido suficiente atención en la 
+bibliografía, sin embargo, aquí dejaremos la cuestión para 
+próximos trabajos. Consideraremos la construcción de videor 
++ cláusula de infinitivo.  
+ 
+ 
+ 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+3. Características de la construcción videor + infinitivo 
+En este trabajo estamos interesados en desmontar el 
+significado de videor como verbo evidencial capaz de 
+insertarse en sintagmas funcionales de la periferia izquierda 
+ligados al discurso y con efectos en la sintaxis oracional: por 
+este motivo resulta mucho más productivo analizar la 
+construcción con infinitivo y dativo. Tal como señala 
+Givón (1993) citado por Cornillie (2007, pág. 12), “cuanto 
+más orientada hacia el hablante la percepción del evento, 
+más extensa será la integración de dos proposiciones en una 
+sola”, es decir que la construcción de verbo conjugado + 
+infinitivo tiene más probabilidades de tener una orientación 
+hacia el hablante que las de verbo + cláusula con que. Para 
+observar la contribución que hace videor a la lectura de 
+evidencialidad del evento que compromete la orientación 
+hacia el hablante, entendemos que la presencia del dativo en 
+estructuras con infinitivo contribuye a que prevalezca una 
+lectura de este verbo como evidencial.  
+Dado que venimos estableciendo comparaciones, que 
+se han mostrado interesantes, entre el latín y el español, 
+vamos a considerar una vez más la forma de la construcción 
+de videor y parecer. En (8) retomamos nuestro ejemplo (7) 
+para experimentar qué sucede en español con la presencia 
+del dativo:  
+ 
+(8)a. Me parece que las mujeres organizaron una 
+revolución. 
+b. *Las mujeres me parecen haber organizado una 
+revolución. 
+ 
+(8) nos permite observar que en español la presencia 
+del dativo de opinión es posible con la estructura de parecer 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+217 
+ 
++ oración con verbo conjugado y, en cambio, no está 
+permitido en presencia del infinitivo.  
+En latín este comportamiento es diferente, como se 
+puede ver en (9):  
+ 
+(9)a. Mihi uidetur condicionem mutare quod his locis 
+uerba coniungimus. (Quint, Inst Or., I.5.27.1)  
+Me parece que cambia la condición, porque en estos 
+lugares hacemos uniones de palabras. (Trad. Ortega 
+Carmona) (*me parece cambiar la condición) 
+b. Quare mihi non inuenuste dici uidetur aliud esse 
+Latine, aliud grammatice loqui. (Quint, Inst. Or., I.6.27.3) 
+Por lo cual me parece que se dice, no sin cierta 
+gracia, 
+que 
+una 
+cosa 
+es 
+hablar 
+latina 
+y 
+otra 
+gramaticalmente. (Trad. Ortega Carmona) (*me parece 
+decirse) 
+c. illa, Caecili, contemnendane tibi videntur esse,…? 
+(Cic, In Caecil., 35.7) 
+¿Estos asuntos te parece, Cecilio, que deben ser 
+consideradas? (*¿te parecen deber ser considerados?) 
+ 
+Las traducciones al español de los ejemplos 
+presentados en (9) recurren a estructuras con nexo subor-
+dinante que + verbo conjugado (en indicativo) para poder 
+mantener la presencia del dativo de opinión.  
+Entendemos, entonces, que existe una diferencia de 
+comportamiento referida particularmente a una de las 
+acepciones posibles de videor. Tal como señala Fernández 
+Leborans, resulta relevante en relación con la sintaxis 
+considerar la diferenciación semántica entre el uso de 
+“parecer como verbo de "percepción" de su uso como verbo 
+de "cognición" u "opinión" (Fernández Leborans, 1999, 
+pág. 2443). Teniendo en cuenta que “el verbo de "cog-
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+nición" u "opinión" requiere la presencia del argumento 
+experimentante”, vemos que videor + dativo puede ser 
+interpretado como verbo de opinión/cognición y no como 
+verbo de percepción.  
+La primera diferencia sintáctica con el español es que 
+parecer, como hemos visto, no permite la realización del 
+dativo cuando el complemento se encuentra en infinitivo y, 
+en consecuencia, el valor semántico de opinión. Se debe 
+mencionar aquí una estructura como la siguiente, que sin 
+embargo es diferente de las posibles en latín:  
+ 
+(10) Me pareció oír una explosión en la calle. 
+ 
+En (10) la presencia del clítico dativo en el contexto de 
+un verbo de percepción física como oír es perfectamente 
+aceptable y parecer no adquiere el valor de un verbo de 
+opinión, sino que prevalece el significado de percepción 
+física de oír y el dativo carece del rasgo relacionado con la 
+opinión. Es preciso notar además que la misma 
+construcción admite otros verbos de percepción como ver, 
+escuchar. En esta estructura, parecer va siempre en tercera 
+persona del singular y no hace la concordancia con el sujeto 
+del infinitivo, como sí es posible cuando el sujeto del 
+infinitivo lo es también del verbo conjugado. Además es 
+notable que el clítico dativo debe necesariamente coincidir 
+con (estar controlado por) el sujeto del infinitivo (11c y d): 
+  
+(11)a. *Nos parecieron oír su voz y una explosión.  
+b. *Me pareciste decir la verdad.  
+c. ¿Te pareció oír un ruido en la calle? 
+d. *Te parecí oír un ruido en la calle. 
+ 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+219 
+ 
+En latín, videor se comporta como un verbo de opinión 
+en presencia de infinitivos y admite el dativo. En este tipo 
+de estructuras es capaz de llevar también el verbo en forma 
+personal en concordancia con el sujeto, que es además el 
+sujeto lógico del infinitivo, y puede llevar un clítico dativo 
+que es diferente del sujeto del verbo videor y del infinitivo:  
+ 
+(12)a. Ergo inridere ne videare et gestire admodum; 
+noli facere mentionem te <has> emisse. (Plauto, 
+Mostellaria, 812) 
+Por lo tanto, para que no parezcas burlarte y hacer 
+gestos de este modo; no quiero hacer mención de que tú 
+las compraste. 
+b. an tibi irasci tum videmur, (Cicero, Tusculanae 
+Disputationes 4.55.2) 
+¿Entonces te parece que estamos enojados? 
+(*¿Entonces te parecemos estar enojados?) 
+c. omnes videntur scire (Plautus, Aulularia, 114) 
+todos parecen saberlo 
+d. Vt, quia te tango, mel mihi videor lingere. (Plautus, 
+Casina, 458) 
+Porque al tocarte me parece que estoy lamiendo miel. 
+(*me parezco lamer miel) 
+ 
+En cuanto a la flexión temporal, hemos visto que la 
+construcción en pasado con videor (visum est + oración con 
+verbo conjugado) es de tercera persona del singular. Sin 
+embargo, videor en pasado también admite la construcción 
+de infinitivo con el clítico dativo y la concordancia con el 
+sujeto de infinitivo; como se puede observar en los 
+ejemplos de (13), la traducción literal al español no es 
+posible ya que, según se puede concluir de esta descripción, 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+en español la construcción de parecer + dativo + infinitivo se 
+encuentra mucho más restringida que en latín.  
+ 
+(13)a. Phanostrata. Audire vocem visa sum ante aedis 
+modo mei Lampadisci servi. (Plauto, Cistellaria, 543) 
+Me parece haber oído aquí a la puerta la voz de mi 
+esclavo Lampadión. (Trad. González-Habba) 
+(*Parecí haber oído la voz…)  
+b. mercari visus mihi sum formosam capram; 
+(Plauto, Mercator, 229) 
+Me parecía que compraba una cabra muy hermosa 
+(Trad. González- Habba) (*Me parecí haber comprado…)  
+c. verum illa nobis abhorrere ab usu oratorio visa 
+sunt. (Cic, De Inv, 1.77.6) 
+en verdad, nos pareció que aquellas cosas son 
+incompatibles con el uso de la oratoria (*aquellas cosas nos 
+parecieron ser incompatibles…) 
+ 
+También encontramos estructuras con el verbo 
+conjugado en futuro y en pretérito imperfecto y con infi-
+nitivos en diferentes voces y tiempos, por ejemplo, el infini-
+tivo de futuro activo scituri esse:  
+ 
+(14)a. colloqui videbamur in Tusculano cum essem; 
+tanta erat crebritas litterarum. (Cic, Ad Atticum, 13.18.1.2) 
+We seemed to be talking to one another, when I was 
+at Tusculum, so frequent was the interchange of letters. 
+(Trad. Winstedt) 
+b. sed videbamur omnia biduo triduove scituri. (Cic, 
+Ad Atticum, 7.23.3.4) 
+It would seem that we shall know all in a day or so. 
+(Trad. Windstedt) (*parecíamos haber de conocer todo en 
+dos o tres días)  
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+221 
+ 
+c. et eum qui tibi inimicissimus esse videbitur (Cic, In 
+Verrem, 2.2.152.7) 
+y este que te parecerá que es el mayor enemigo.  
+d. Quod si haec ratio rei gerendae periculosa tibi esse 
+videbitur (Cic, Ad Fam., 1.7.6) 
+But if this plan of procedure in the business seems to 
+you to be dangerous (Trad. Williams)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+4. Evidencialidad. El evento de conocimiento: 
+El uso de videor con infinitivo + dativo tiene clara-
+mente un significado relacionado con la forma en que se 
+infiere conocimiento; en este trabajo proponemos que es un 
+significado de evidencialidad. El concepto de “eviden-
+cialidad” resulta muy cercano al de “modalidad epistémica”, 
+pero no deberían confundirse. Señala Cornillie que:  
+ 
+“los hablantes a menudo comentan el contenido 
+proposicional de manera de guiar a su interlocutor hacia 
+una interpretación viable de lo que se dice o para atenuar la 
+afirmación con la intención de no perjudicar su propia 
+posición. Dado que el hablante quiere evitar el riesgo de 
+perder contacto, a menudo sugiere que la proposición 
+afirmada se basa en cierto modo de conocimiento y 
+también indica cuánta certeza tiene de la verdad de su 
+proposición. Estas dos modalidades de la comunicación 
+tienen sus propios conceptos en la lingüística moderna: la 
+evidencialidad se refiere a ‘la encodificación (del tipo) de 
+fundamento del hablante para la realización de su acto de 
+habla’ (Faller 2002:2), mientras que la modalidad 
+epistémica se refiere a la ‘evaluación de las oportunidades 
+de que cierto estado de cosas hipotético en consideración 
+(o algún aspecto de éste) va a ocurrir, está ocurriendo o ha 
+ocurrido en un mundo posible’ (Nuyts, 2001b:21).” 
+(Cornillie, 2007, pág. 1) 
+ 
+Talmy (2000:2) propone encontrar “los patrones y los 
+procesos por medio de los cuales el contenido conceptual 
+se organiza en el lenguaje” o “cómo el lenguaje estructura el 
+contenido conceptual”. Según este autor, algunas categorías 
+se consideran centrales porque constituyen el sostén de los 
+sistemas conceptuales y suelen ser universales, se trata de 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+223 
+ 
+aquellas relacionadas con la organización del espacio y el 
+tiempo, el movimiento y la locación, la causalidad y las 
+categorías atribuidas a los agentes cognoscentes.  
+Entonces, para comprender mejor el concepto de 
+evidencialidad es necesario describir el evento de cono-
+cimiento o de inferencia de conocimiento que tiene, al 
+menos, los siguientes componentes:  
+-sujeto cognoscente 
+-objeto conocido 
+-fuente de conocimiento 
+-modo de conocimiento 
+-evaluación sobre el conocimiento 
+La expresión sintáctica de este evento puede realizarse 
+de diferentes maneras, videor es un elemento sintácticamente 
+capaz de configurar un evento de conocimiento, de la 
+siguiente manera: el sujeto cognoscente debe necesaria-
+mente estar expresado sintácticamente y la tendencia, según 
+hemos visto, es mediante el clítico dativo; el objeto es la 
+proposición en sí misma (que en latín se expresa en 
+infinitivo) y la evaluación se manifiesta mediante elementos 
+léxicos modales epistémicos de los que no nos ocupamos 
+aquí. Finalmente, la fuente del conocimiento y el modo son 
+dos aspectos íntimamente ligados entre sí que pueden no 
+estar presentes en el enunciado, pero el verbo videor enco-
+difica en sí mismo la noción semántica de que la fuente del 
+conocimiento es procesada por el sujeto a partir de la 
+evidencia indirecta o inferencia cognitiva.  
+Hay varias posibilidades de presentar la relación con 
+las fuentes de conocimiento que, según Willett (1988) citado 
+por Cornillie (2007), dependen de la forma en que se ha 
+adquirido la información:  
+-de manera directa (vi que…),  
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+-de manera indirecta:  
+1) por medio de la escucha (escuché que…), o  
+2) inferida por el hablante a partir de la percepción 
+intelectual (me parece que...).  
+Se observa que la manifestación de la evidencialidad 
+puede hacerse por otros medios sintácticos (infiero que…, se 
+deduce que…, etc.), aunque en este trabajo nos ocupamos só-
+lo del valor evidencial presente en videor + dativo + infini-
+tivo. Tal como señala Bybee (1985:184), de manera estricta, 
+los “evidenciales pueden ser definidos en general como 
+marcadores que indican algo acerca de la fuente de 
+información de la proposición” Los evidenciales muestran 
+que el hablante tiene “evidencia” o tiene un tipo de 
+evidencia de una proposición.  
+Nos parece útil distinguir, como propone Cornillie 
+(2007) en lo que respecta a las nociones expresadas por los 
+elementos lingüísticos relacionados con la evidencialidad: 
+-La 
+manifestación 
+de 
+la 
+fuente 
+indirecta 
+de 
+conocimiento 
+-El tipo de compromiso del hablante con la inferencia 
+resultante  
+-La relación de intersubjetividad entre el hablante y el 
+oyente, concebido también como un sujeto cognoscente 
+Analizaremos construcciones que permiten ver cómo 
+se presenta la información que introduce videor según estos 
+tres ejes.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+225 
+ 
+4.1. Fuente: 
+La presencia de videor + dativo indica que la fuente de 
+la que emana el conocimiento de la situación expresada por 
+la estructura de infinitivo no es percibida por los sentidos, 
+sino inferida indirectamente a partir del conocimiento o 
+intelectualmente, aunque pueda y quizás deba, haber una 
+situación vista o conocida previamente. En (15)a. vemos 
+que el sujeto cognoscente infiere la falta de recursos a partir 
+de una observación hecha previamente y en b. se pregunta 
+al interlocutor cómo hizo la inferencia en cuestión: 
+ 
+(15)a. ut, quotiens esset occasio, extemporales eorum 
+dictiones his uelut emblematis exornarentur: quo quidem 
+(neque enim eius rei iudicium differre sustineo) summam 
+uidebantur mihi infirmitatem de se confiteri. (Quintilianus, 
+Inst. Or., 2.4.28.2) 
+de modo que cuantas veces se les ofrecía la 
+oportunidad, se adornaban como con estos ropajes las 
+amplificaciones improvisadas: con lo cual ciertamente (y 
+no me resigno a diferir mi juicio sobre ello) me parece que 
+daban testimonio de la altísima pobreza de ellos mismos. 
+(Trad. Ortega Carmona) 
+b. Sed scire ex te pervelim quam ob rem qui ex 
+municipiis veniant peregrini tibi esse videantur.(Cic, Pro 
+Sulla, 23.4)  
+But I should like exceedingly to know from you, how 
+it is that those men who come from the municipal towns 
+appear to you to be foreigners (Trad. Yonge)  
+ 
+4.2. Compromiso del hablante: 
+Dado que la proposición no se conoce sino que se 
+infiere, es posible observar diferentes grados de compro-
+miso con la evidencia. En (16a) la presencia de quidem 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+(ciertamente) permite suponer un grado bastante alto de 
+compromiso con la inferencia. En (16b), el hablante sugiere 
+que no es lo mismo buscar consejo seguro (certi) que pedir 
+una opinión (sed quid videatur): el sed marca claramente esta 
+diferencia. En (16c), se niega la opinión de los sujetos 
+cognoscentes (vobis) mostrando que una argumentación 
+puede producir un cambio en tal inferencia:  
+ 
+(16)a. quamquam facienda mentio est, ut quidem 
+mihi videtur, duorum adulescentium, qui si diutius 
+vixissent, magnam essent eloquentiae laudem consecuti. 
+(Cic, Brutus, 279.10) 
+b. itaque a te nihildum certi exquiro sed quid 
+videatur, denique ipsam ἀπορίαν tuam cupio cognoscere. 
+(Cic, Ad Atticum, 7.12.4.6) 
+So I don’t look to you for positive advice: but only 
+for your opinion. In fact I want to know how the dilema 
+presents itself to you. (Trad. Windsted) 
+c. atque hoc haud videtur veri simile vobis, at ego id 
+faciam esse ita ut credatis.(Plautus, Mostellaria, 93) 
+seguro que no os parece muy exacta la comparación, 
+pero ya veréis cómo hago que cambiéis de opinión y 
+consigo probar que es cierto lo que digo. (Trad. González-
+Haba) 
+ 
+4.3. Relación de intersubjetividad:  
+Hemos visto en los ejemplos presentados que el sujeto 
+cognoscente puede coincidir o no con el sujeto de la 
+enunciación. En este sentido, la intersubjetividad se refiere a 
+la conciencia que tiene el hablante de que el otro 
+participante es también un sujeto hablante y, fundamen-
+talmente, cognoscente. La evidencia puede ser compartida o 
+no por el hablante y el oyente, generalmente el uso del 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+227 
+ 
+verbo videor con un dativo de segunda persona apunta a 
+asegurarse de que el oyente está compartiendo o no la 
+misma evidencia y realiza las mismas inferencias cognos-
+citivas que el hablante:  
+ 
+(17)a. quid tibi ego aetatis videor? (Plautus, Mercator, 290) 
+¿Qué edad te parece que tengo? (lit: ¿de qué edad te 
+parezco?) 
+b. in quae corpora si nullus tibi forte videtur posse 
+animi iniectus fieri, procul avius erras. (Lucrecio, DRN, 
+2.739) 
+Y si acaso te parece que sobre tales cuerpos no se 
+puede llevar a cabo ningún avance de la inteligencia, andas 
+muy descarriado. (Trad. Socas) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+5. Evidencialidad y periferia izquierda 
+Es claro que videor y parecer portan un significado de 
+evidencialidad que presenta la cláusula como un evento 
+inferido y que el clítico dativo constituye un elemento 
+sintáctico relevante para la interpretación de estos verbos. 
+Sin embargo, en este trabajo hemos comprobado que existe 
+una diferencia en el comportamiento sintáctico de videor y 
+parecer con respecto a la transparencia. El verbo latino 
+permite la elevación de sujeto en presencia del clítico, en 
+tanto que el español con dativo y, por lo tanto con su valor 
+evidencial, tiende a presentar una cláusula con nexo y verbo 
+conjugado (sin elevación de sujeto).  
+La hipótesis fuerte que se sostiene en el marco del 
+proyecto cartográfico es que el tipo y orden de sintagmas 
+funcionales que dominan las proyecciones léxicas y la 
+cláusula es universal y la presencia de un tipo de sintagma 
+funcional en una lengua es suficiente para postular que tal 
+elemento existe en todas las lenguas, aún en aquellas en que 
+no se presente un elemento (morfema dependiente o 
+independiente) que encarne tal significado. Cinque 
+(2006:12) propone que  
+ 
+the functional portion of the clause, in all languages, 
+is constituted by the same, richly articulated and rigidly 
+ordered, hierarchy of functional projections, a subset of 
+which is shown in (3):  
+(3) MoodPspeech act > MoodPevaluative > MoodPevidential 
+> MoodPepistemic > TP(Past) > TP(Fut) > MoodPirrealis > 
+ModPalethic 
+> 
+AspPhabitual 
+> 
+AspPrepetitive(I) 
+> 
+AspPfrequentative(I) > ModPvolitional > AspPcelerative(I) > 
+TP(Anterior) 
+> 
+AspPterminative 
+> 
+AspPcontinuative 
+> 
+AspPretrospective 
+> 
+AspPproximative 
+> 
+AspPdurative 
+> 
+AspPgeneric/progressive > AspPprospective > ModPobligation > 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+229 
+ 
+ModPpermission/ability 
+> 
+AspPCompletive 
+> 
+VoiceP 
+>AspPcelerative(II) > AspPrepetitive(II) > AspPfrequentative(II) 
+ 
+Entendemos que videor y parecer se insertan por sus 
+rasgos semánticos en el Sintagma Modalevidencial. La pregunta 
+es si ambos verbos, a pesar de sus diferencias sintácticas, 
+pueden entenderse como morfemas funcionales. Según 
+nuestra hipótesis, videor con dativo e infinitivo es claramente 
+un verbo modal funcional, razón por la cual forma una 
+unidad con el infinitivo capaz de exhibir transparencia en 
+cuanto a su sujeto. En cuanto a parecer con dativo, 
+entendemos que podría también postularse que se trata de 
+un morfema funcional que se inserta en el mismo sintagma 
+que videor. Sin embargo, consideramos que esta hipótesis 
+debe ser puesta a prueba y dejamos este aspecto para 
+futuras investigaciones.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+Conclusiones  
+En este trabajo hemos propuesto un análisis de videor 
+como verbo evidencial, cuando se presenta con una 
+estructura de infinitivo y un dativo de opinión. La 
+comparación con el español parecer muestra que, si bien 
+existen similitudes en cuanto al rasgo de significado 
+evidencial, estos verbos tienen una sintaxis diferente cuando 
+llevan el clítico dativo. Videor admite la presencia del clítico 
+cuando se construye con la cláusula de infinitivo, en tanto 
+que parecer lleva el dativo en presencia de la oración con 
+nexo (que) y verbo conjugado en modo indicativo. Si bien 
+en latín también se registra la construcción con oración 
+introducida por el nexo ut y verbo conjugado, éste debe ir 
+en subjuntivo. Por otra parte, este tipo de contexto 
+sintáctico es poco habitual.  
+Entendemos 
+que 
+los 
+mecanismos 
+lingüísticos, 
+sintácticos, para la expresión de un evento de conocimiento 
+no son estrictamente idénticos en todas las lenguas, aunque 
+suelen intervenir los mismos componentes. Videor tiene 
+alcance sobre la construcción de infinitivo otorgándole un 
+significado no aseverado, sino inferido por un sujeto 
+cognoscente que se presenta en forma de dativo. Se trata de 
+un morfema funcional que se inserta en el Sintagma 
+Modalevidencial en la periferia izquierda de la cláusula, desde 
+donde da instrucciones a la interfaz conceptual.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+231 
+ 
+Bibliografía 
+ 
+Aikhenvald, Alexandra (2004) Evidentiality, Oxford, OUP 
+Baños Baños (Editor, 2009) Sintaxis del latín clásico, 
+Madrid, Liceus 
+Bosque y Gutiérrez Rexach (2009) Fundamentos de Sintaxis 
+Formal, Madrid, Akal 
+Bybee, Joan (1985) Morphology: a Study of the Relation 
+between 
+Meaning 
+and 
+Form, 
+Amsterdam, 
+Philadelphia, John Benjamins Publishing Company 
+Cinque, Guglielmo (2006) Reestructuring and Functional 
+Heads, Oxford, OUP  
+Cornillie, Bert (2007) Evidentiality and Epistemic Modality 
+in Spanish (Semi)-Auxiliaries. A Cognitive-Functional 
+Approach, Berlin, Mouton de Gruyter 
+Di Tullio, Ángela (2010) Manual de gramática del español, 
+Bs.As., Waldhuter editores 
+Fernández Leborans (1999) “La predicación: las oraciones 
+copulativas” en Bosque y Demonte (Directores, 
+1999) Gramática Descriptiva de la Lengua Española, 
+Madrid, Espasa 
+Glare, P.G.W. (Editor, 1982) Oxford Latin Dictionary, 
+Oxford, At the Clarendon Press 
+Pinkster, Harm (1995) Sintaxis y semántica del latín, 
+[Traducción de Esperanza Torrego y Jesús de la Villa, 
+Madrid, Ediciones Clásicas] 
+Ridruejo (1999) “Modo y modalidad. El modo en las 
+subordinadas sustantivas”, en Bosque y Demonte 
+(Directores, 1999) Gramática Descriptiva de la 
+Lengua Española, Madrid, Espasa 
+Cadina Palachi. La expresión de la evidencialidad en latín y español… 
+ 
+ 
+ 
+Talmy, Leonard (2000) Toward a Cognitive Semantics, 
+Vol.1 Concept Structuring Systems, Cambridge, The 
+MIT Press 
+Talmy, L (2000) Toward a Cognitive Semantics, Vol. 2 
+Typology and Process in Concept Structuring, 
+Cambridge, The MIT Press 
+Torrego, 
+Esperanza 
+(2007) 
+“Los 
+esquemas 
+de 
+complementación de los verbos de ‘ver’ en latín” en 
+Torrego, Baños, Cabrillana y Méndez Dosuna 
+(Editores, 2007) Praedicativa II: Esquemas de 
+complementación verbal en griego antiguo y en latín. 
+Universidad de Zaragoza. Monografías de Filología 
+Latina 15 
+Torrego, Esther (1996) “Experiencers and raising verbs” en 
+Freidin, Robert (Edit, 1996) Current issues in 
+comparative grammar, Dordrecht, Kluwer Academic 
+Publishers 
+ 
+Traducciones: 
+Livio, Tito Historia de Roma desde su fundación, 
+Traducción y notas Villar Vidal, José Antonio, 
+Madrid, Gredos, 1990 
+Quintiliano, 
+Marco 
+Fabio 
+Instituciones 
+Oratorias, 
+Traducción y comentarios Ortega Carmona, Alfonso, 
+Salamanca, Publicaciones Universidad Pontificia de 
+Salamanca, 1996 
+Lucrecio, La Naturaleza, Presentación, traducción y notas 
+de Socas, Francisco, Madrid, Gredos, 2010 
+Plauto, Comedias, Introducciones, traducciones y notas de 
+González-Haba, Mercedes, Madrid, Gredos, 1992 
+ 
+ 
+N°2.  Segundo Semestre de 2014 
+233 
+ 
+Cicero, Marco Tulio, Letters to Atticus, English translation 
+by E.O. Winstedt, Oxford, The  L.O.E.B Classical 
+Library, 1912 
+Cicero, Marco Tulio, The Letters to his Friends, English 
+translation by Glynn Williams, Massachussets, The 
+LOEB Classical Library, 1927 
+Cicero, Marco Tulio, Pro Sulla, English Translation by 
+Yonge, Charles Duke, George Bells and Sons, 1856. 
+urn:cts:latinLit:phi0474.phi015.perseus-eng1 

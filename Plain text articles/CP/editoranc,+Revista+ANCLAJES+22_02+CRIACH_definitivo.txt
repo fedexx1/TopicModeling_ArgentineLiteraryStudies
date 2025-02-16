@@ -1,0 +1,962 @@
+35
+Esta obra está bajo una Licencia Creative Commons Atribución - No Comercial -
+Sin Obra Derivada 4.0 Internacional. http://creativecommons.org/licenses/by-nc-nd/4.0/
+Criach, Sofía. “Animal/humano: proximidades y fronteras en Mundo animal y otros tex-
+tos de Antonio Di Benedetto”. Anclajes, vol. XXII, n° 2, mayo-agosto 2018, pp. 35-56
+DOI: 10.19137/anclajes-2018-2223
+Animal/humano: 
+proximidades y 
+fronteras en Mundo 
+animal y otros textos de 
+Antonio Di Benedetto
+Animal/human: proximities and borders in Mundo Animal 
+and other texts by Antonio Di Benedetto
+Sofía Criach
+Instituto de Ciencias Humanas, Sociales y Ambientales
+Consejo Nacional de Investigaciones Científicas y Técnicas - Mendoza
+Universidad Nacional de Córdoba
+Argentina
+scriach@mendoza-conicet.gob.ar
+Resumen: Antonio Di Benedetto (1922-1986), uno de los escritores argentinos más 
+importantes del siglo XX, publica en 1953 Mundo animal, volumen de cuentos en el 
+que es fundamental, como su título lo explicita, la figura animal. Dentro del universo 
+ficcional de la obra, esta figura se encarna en lo humano y viceversa, sugiriendo una 
+humanidad que, más allá de sus atributos exclusivos –razón y lenguaje– comparte con 
+otros seres vivientes un amplio sustrato común. Esta configuración existencial no solo 
+provoca vacilaciones en el lector, sino que tiene implicancias ontológicas, es decir, incita 
+a la interrogación sobre los esquemas de sentido y la condición humana presentes en 
+estas historias fantástico-alegóricas. Este artículo propone indagar e interpretar, en la 
+escritura de Di Benedetto, la ficcionalización de estos encuentros y fronteras entre lo 
+animal y lo humano, analizando diferentes manifestaciones textuales de esta cuestión: el 
+procedimiento del quid pro quo, los narradores no humanos, la animalidad de los niños, 
+la relación con las patologías psíquicas, la proximidad ontológica entre los dos mundos, 
+la metáfora del espejo, la corporalidad. 
+Palabras clave: literatura argentina; siglo XX; Antonio Di Benedetto; animalidad
+Abstract: Antonio Di Benedetto (1922-1986), one of the most important Argentinean 
+writers of the twentieth century, published in 1953 Mundo Animal, a volume of short 
+stories in which the animal figure becomes fundamental, as its title makes explicit. 
+Within 
+36
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+“Si vida animal y vida humana se superpusieran perfectamente,
+ni el hombre ni el animal –y tal vez, ni lo divino– serían pensables”
+Giorgio Agamben. Lo abierto. El hombre y el animal.
+U
+n tuberculoso delirante que asegura expulsar mariposas rojas 
+por su boca; un enmudecido adolescente compañero de un ra-
+tón que se alimenta de los viejos libros de su padre suicida; un 
+niño con la cabeza llena de pájaros y otro con un perro imaginario que, en sue-
+ños, lo invita a pasarse al mundo onírico; una mujer embarazada con tendencias 
+suicidas obsesionada con una gatita preñada; la improbable existencia de un gato 
+con características de perro y de ave; un enjambre de polillas devoradoras de las 
+ropas de un joven; una mujer que junto al río, en un arrebato de ensoñación si-
+milar al de la Ofelia de Hamlet, es comida por cerdos feroces. Esta enumeración 
+refiere los argumentos de algunos de los cuentos que componen Mundo animal, 
+publicado por la editorial mendocina D’Accurzio en 1953 con una reducida 
+tirada. Este primer libro de Antonio Di Benedetto ganó, en 1952, el Premio 
+Municipal de Mendoza, y al año siguiente, la Faja de Honor de la Sociedad 
+Argentina de Escritores, con Borges entre los miembros del jurado. Con algunas 
+modificaciones, una segunda edición se publicó en Buenos Aires en 1971. 
+La significativa presencia de animales en estos cuentos, anticipada desde el 
+título del volumen, es una constante que, con mayor o menor intensidad y fre-
+cuencia, puede rastrearse a lo largo de toda la producción de Di Benedetto. Ya 
+en 1943, cuando es un joven periodista de veintiún años, publica en la revista 
+Millcayac un artículo sobre el zoológico de Mendoza que desborda humor y ter-
+nura, y en el que ya se perfilan temas centrales de su narrativa posterior, como la 
+libertad, la soledad, el suicidio, el sentido de la existencia humana, todos en vin-
+the fictional universe of the work, this figure is incarnated in the human and vice versa, 
+suggesting that humanity, beyond its exclusive attributes –reason and language–, shares 
+a broad common substratum with other living beings. This existential configuration not 
+only provokes hesitations in the reader, but has also ontological implications, that is, it 
+leads to questioning about meaning schemes and the human condition in these fantastic-
+allegorical stories. The purpose of this paper is then to investigate and interpret Di 
+Benedetto’s fictionalization of these encounters and borders between the animal and 
+the human, analyzing different textual manifestations of this question: the quid pro quo 
+procedure, the non-human narrators, the animality of children, the relationship with 
+psychic pathologies, the ontological proximity between the two worlds, the metaphor 
+of the mirror, and the corporality. 
+Keywords: Argentine literature; XXth Century; Antonio Di Benedetto; animality
+37
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+culación con la cuestión animal. En esta nota, Di Benedetto inventa el posible 
+monólogo de “un león cualquiera en esos momentos en que se refugia en algún 
+rincón de su enorme y árida jaula” (Di Benedetto Escritos periodísticos 57). La 
+fiera, luego de reflexionar sobre su propia condición, concluye así: “Yo he naci-
+do… no sé, quizá nada más que para estar aquí encerrado, para que los hombres 
+me vengan a ver. Pero el hombre, ¿para qué ha nacido?” (58). La pregunta por el 
+sentido de la existencia humana ya está allí, presente e inquietante. Más tarde, en 
+1971, el escritor viaja a África, donde va a buscar, según él mismo lo cuenta en 
+una entrevista que le hizo Rodolfo Braceli en 1972, “lo que el animal almacena 
+en estado natural” (Di Benedetto EP 496). “Sí, hace bien mirar a los animales” 
+(497), afirma a su interlocutor1. 
+El interés de Di Benedetto por el asunto no es extraño: se trata de una cues-
+tión que podríamos considerar atávica, por cuanto el desarrollo y la evolución 
+de la humanidad ha necesitado y dependido siempre de los animales. Esta con-
+vivencia ancestral no se limitó, evidentemente, a sus utilidades vitales (alimento, 
+vestimenta, transporte), sino que configuró la cultura en todas sus formas, entre 
+ellas, el mundo del arte. Aunque un ejemplo paradigmático sea el de la pintura 
+–los conocidos dibujos teriomórficos sobre paredes de piedra–, el territorio de la 
+literatura ha sido sumamente fecundo: desde las narraciones orales populares a 
+las parábolas de la Biblia, pasando por los bestiarios medievales, las misceláneas 
+renacentistas o las fábulas, el camino de las letras a través del bosque de lo animal 
+es largo, sinuoso, diverso; y como el jardín de Borges, se bifurca persistentemen-
+te2. Franz Kafka, Horacio Quiroga o Julio Cortázar son solo algunos nombres 
+cercanos de la enorme lista de narradores que, con distintas intenciones y téc-
+nicas, han confeccionado representaciones de lo animal en sus textos. En este 
+panorama, se puede incluir a Di Benedetto como eslabón de una larga cadena 
+que entrelaza la palabra humana con lo animal, en la que consideramos, además, 
+que ocupa un lugar destacado.
+El horizonte de producción de la obra nos sitúa en los años cincuenta, década 
+de posguerra impregnada de reflexiones sobre el ser humano en su existencia 
+concreta, con sus debilidades, crueldades y temores, males y culpas, responsa-
+bilidades y libertades. El animal, tan abordado por la literatura y la filosofía a 
+lo largo de los siglos, configura, en ese momento, el eco de un hombre que se 
+ha separado definitivamente del mundo natural, pero que se siente, al mismo 
+tiempo, extranjero en el mundo humano a causa de la deshumanización que las 
+grandes tragedias del siglo XX patentizaron3: 
+1	
+John Berger escribió un breve ensayo sobre el asunto: “¿Por qué miramos a los animales?”, en 
+Mirar. Barcelona: Editorial Gustavo Gili, 2001. 
+2	
+Dice Jimena Néspolo: “Hombre y animal han mantenido una relación tan antigua como intensa, 
+transmutada hoy en una suerte de latencia que intenta revivir en las numerosas ficciones que 
+abordan esta temática” (Ejercicios de pudor 53).
+3	
+Giorgio Agamben refiere, entre otros casos, la decisión biopolítica de “animalización” de los 
+judíos que subyace en el trato inhumano que el nazismo les dio. En general, las manos del poder 
+38
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+el fenómeno de emergencia de relatos que recreaban figuraciones de animales 
+y de lo animal en el período inmediatamente posterior a la Segunda Guerra 
+Mundial presentaba de modo ineludible la pregunta por su estatuto en el 
+marco de una acentuación de la crisis del humanismo como discurso domi-
+nante en las culturas de Occidente, iniciada en el período de entreguerras 
+[…] La literatura respondía –aunque muchas veces esta respuesta tomaba la 
+forma de una pregunta– abordando de modos disímiles las relaciones hom-
+bre-animal y escenificando un conflicto cuyo núcleo era el vaciamiento de las 
+ideas y los valores que sostenían las distinciones y jerarquización del universo 
+de lo viviente (Yelin La letra salvaje 14).
+Un recorrido por la inmensa historia del pensamiento en torno de la materia 
+permite hacer al menos dos aproximaciones iniciales, relacionadas con la difi-
+cultad que encierra en sí mismo el término animal en cuanto a su definición y 
+delimitación 4. Por un lado, mientras el hombre, en tanto especie, es uno solo, 
+el mundo zoológico es abrumadoramente grande: el vocablo animal contiene 
+y resume en sí una monstruosa pluralidad. Por el otro, todo acercamiento al 
+término implica abordar también lo humano, ya que los estudios sobre uno y 
+otro suelen elaborarse recíprocamente, a través del señalamiento de semejanzas 
+y diferencias.
+Ya en el contexto de lo estrictamente literario y en relación con las expecta-
+tivas del lector, admitamos la existencia de cierto pacto de lectura tácito sobre 
+la naturaleza humana de los personajes: un animal que irrumpe en la escritura, 
+especialmente como narrador, resulta una figura atípica o al menos inesperada. 
+Al desatender esta expectativa implícita del narrador/personaje humano, el des-
+acomodamiento hace surgir la interrogación sobre las implicancias de sentido 
+que conlleva ese fenómeno inusual. Siguiendo esta línea exegética en la escritura 
+de Di Benedetto, este trabajo indaga especialmente cómo lo animal se vincula 
+–de forma a veces más diáfana y otras más velada– con lo humano, tanto con lo 
+habitual y/o esperado, como con lo humano inesperado/perturbador. 
+En el prefacio a la primera edición de Mundo animal, Di Benedetto escribe 
+lo siguiente: “busco poner al lector en el juego de la literatura evolucionada, para 
+internarlo en los misterios de la existencia que, si no le planteo, puedo suscitar 
+en su imaginación, y también para convocarlo a una cavilación –más duradera 
+que la lectura– sobre la perfectibilidad del ser humano” (1953, 8). Efectivamen-
+te, estos cuentos híbridos –algunos muy breves, como dentelladas al sentido 
+corren la línea que separa lo animal de lo humano cuando se trata de un extranjero, un “bárbaro”, 
+otro que es visto como amenaza o enemigo de los propios intereses. John Berger también hace 
+referencia a ello al mostrar los lazos que los lugares de marginación –guetos, villas miseria, 
+manicomios, campos de concentración– guardan con los zoológicos. 
+4	
+El recorrido, excluido aquí por cuestiones de extensión, se fundamenta principalmente en la lec-
+tura de dos obras: el monumental libro de Élisabeth de Fontenay Le Silence des bêtes, la philo-
+sophie à l’épreuve de l’animalité. París: Fayard, 1998; y el pequeño de Gilbert Simondon. Deux 
+leçons sur l’animal et l’homme. París: Ellipses, 2004. A estas obras se hace referencia también 
+en otras partes del artículo. 
+39
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+común; oscilantes entre la fábula, lo fantástico y la alegoría; por momentos con 
+carácter moralista y por momentos fatalmente amorales; con secuencias oscuras 
+o de final abierto– dejan al lector en una situación de incertidumbre acerca de 
+qué lo constituye como humano. Un fragmento del solemne discurso proferido 
+por el protagonista del relato “Sospechas de perfección” resulta ilustrativo al 
+respecto:
+Soy uno de los sostenedores de este Reino de los Hombres (que apenas es algo 
+más que un Mundo Animal). Que se cobren en mí, las bestias, lo que de ellas 
+despreciamos, condenamos y tememos, mientras en la misma especie huma-
+na brota y se ejerce, por individuos, por multitudes, de instante en instante, 
+o por rachas, la ferocidad, la impiedad, la cerrada torpeza, los inmundos o 
+temibles hábitos, el designio tramposo, el ánimo bélico y, en la guerra y la 
+paz, el sentido de destrucción y la voluntad de opresión5.
+Este pasaje hace alusión explícita al título del volumen y brinda una clave de 
+interpretación para los cuentos que contiene: el mundo humano es un mundo 
+animal. Se nos advierte, entonces, que las referencias animales deberán ser leídas 
+entre líneas y en relación con todo lo irracional y violento que (per)vive en los 
+hombres; pero también, como se verá en los cuentos, establece la consideración 
+del mundo animal como un mundo subjetivo, es decir, habitado por sujetos (y 
+no como objetos del mundo del hombre). Ambas ideas son importantes por 
+cuanto permiten advertir los juegos narrativos que se dan en los textos y la po-
+sibilidad misma de comprender lo humano a través de lo animal que Di Bene-
+detto propone en ellos.
+Algunos estados subjetivos de la condición humana se presentan en animales 
+(quid pro quo) o en relación con ellos, de manera tal que la referencia al hombre 
+sea indirecta, lo que otorga a estos textos cierto cariz alegórico. En tal sentido, 
+algunos críticos destacan el aspecto simbólico de los animales en esta obra y su 
+relación con la fábula (fin moral) y lo fantástico (Varela 2011; Néspolo 2004). 
+Por el contrario, hay quienes prefieren ir más allá de la idea de la metáfora animal 
+y leer los cuentos como imágenes verbales, metonímicas, que hablan de modo 
+figurado porque no hay término literal para ciertas experiencias humanas: en un 
+sentido catacrético, lo ideal se vuelve material, la metáfora se literaliza, los ani-
+males se despojan de la pesada carga símbolo (Arce 2016; Yelin 2010). Por nues-
+tra parte, creemos pertinente no descartar ninguna de estas lecturas, más aún por 
+lo variado de los textos que componen Mundo animal. Como iremos viendo, la 
+interpretación simbólica y metafórica parecerá ser la más pertinente en algunos, 
+mientras que en otros, el borramiento de fronteras, las metamorfosis, las irrup-
+ciones o las invasiones corporales, sugieren más bien un devenir animal-humano 
+y una zona común que no se explica sólo mediante la clave simbólica, aun siendo 
+5	
+Di Benedetto, Antonio. Cuentos completos. Buenos Aires: Adriana Hidalgo, 2009, pp.80-81. En 
+adelante, toda cita de los cuentos corresponde a esta edición y se consigna solo la página.
+40
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+esta plurisignificante. Di Benedetto, en una entrevista, definió cada cuento de 
+este volumen como “una indignación transfigurada” (Lorenz Diálogo con Améri-
+ca Latina 131). Ese término, transfiguración, nos es adecuado por cuanto lo hu-
+mano cambia su figura para revelarnos algo, que puede ser, como analizaremos 
+en primer lugar, aspectos oscuros del ser humano, pero también lo que veremos 
+más adelante: el señalamiento delo indiscernible o indecible, la confesión de la 
+imposibilidad misma de revelar/nombrar lo animal. 
+Empezaremos por el procedimiento narrativo más claro, y quizás también el 
+más clásico, que es el del quid pro quo, en el cual una cosa se presenta en el lugar 
+de otra. Así, podemos distinguir ciertos aspectos del hombre6 que se configuran a 
+partir de su vinculación con el animal, o bien que aparecen directamente reempla-
+zados por este: la condición humana de angustia y de libertad, el mal/lo bestial, la 
+culpa. Abordamos estos tópicos tomando como corpus fundamental los cuentos 
+de Mundo animal, por la centralidad que este tema adquiere en la colección, pero 
+haremos referencia a otros textos del autor cuando resulte pertinente. 
+La condición humana: angustia y libertad
+En el cuento “Nido en los huesos”, se plantea una analogía entre el mono 
+que vive en la palmera de una casa de familia y el pequeño protagonista. El niño 
+inadaptado, incapaz de ser uno más en la sociedad, aislado en “la palmera” que 
+para él son las habitaciones de la casa, se halla, como el mono en un patio de 
+ciudad, en una situación de extranjería con respecto al lugar que ocupa en el 
+mundo. Con el fin de ser útil a los demás decide hacer de su cabeza un nido de 
+pájaros, pero ocurre algo inesperado: se instalan allí buitres, que acaban dañán-
+dolo y provocándole un terrible dolor. Juego narrativo entre lo fantástico y lo 
+simbólico, este relato es uno de los primeros ejemplos de la particular construc-
+ción de lo animal en estas ficciones. Los pájaros (como figuras de la libertad) y el 
+mono (alter ego del hombre, el animal que es y no es humano al mismo tiempo) 
+no aparecen como criaturas realmente concretas, sino más bien cubiertos por 
+el manto opaco de la conciencia del niño narrador, como transfiguraciones de 
+su enajenación, sus deseos de conexión con los otros y la angustia vital que lo 
+abruma. 
+En “Volamos”, el extraño animal que es gato, pero también perro y asimismo 
+vuela, ese ser maravilloso que no es lo que parece, señala el hecho de que los 
+hombres tampoco son lo que aparentan. Cuando la amante del narrador le pre-
+gunta si se maravilla con su gato-perro-pájaro, este –aunque lo calle– no puede 
+otra cosa que ver en esa criatura el rostro descubierto de su propio cinismo, de 
+su falta de conjunción entre palabra y acción, de su simulación: “Tu animalejo 
+es un cínico, nada más. Un cínico ejercitado” (76).
+6	
+A lo largo de este trabajo, se emplea el término “hombre” como equivalente a “humanidad”, 
+“género humano” o “ser humano” solo por cuestiones estilísticas para evitar repeticiones.
+41
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+“Es superable” constituye un texto fundamental de reflexión del autor sobre 
+la condición humana. El protagonista de la historia narra en primera persona 
+cómo va padeciendo una serie de metamorfosis y los cambios psíquicos que tales 
+transformaciones físicas le acarrean: de ternero a hombre, y de hombre a pan, en 
+cada cambio el narrador conserva una consciencia de sí mismo que le permite la 
+reflexión sobre sus diferentes estados. Cuando el narrador es un hombre, señala 
+tres aspectos que definen al ser humano como tal: 1) existe y piensa, a diferencia 
+de los animales, que se limitan a “existir”; 2) ese don exclusivo, la razón, es la 
+causa de su sufrimiento (como reza el famoso grabado de Goya: “El sueño de la 
+razón produce monstruos”); y 3) la razón y la libertad habilitan la ejecución del 
+suicidio. 
+Aunque este texto ficcionaliza el pasaje de un alma o consciencia de un cuer-
+po a otro, no acusa ningún factor moral que, vuelto castigo o purificación, res-
+palde los cambios que sufre el protagonista: no hay jerarquía de seres vivientes, 
+ni siquiera de lo que tiene vida sobre lo no viviente, como ocurre cuando se 
+transforma en pan. El meollo del cuento reside más bien en la idea de que no 
+es mejor ni peor ser hombre o ser animal, sino distinto. Y esa distinción está 
+dada por el pensamiento y la angustia que este conlleva, revelación se da gracias 
+a ese devenir otro que el texto plantea, a esa continuidad: qué es ser humano 
+es impensable si se ignora qué es ser animal. Esto lleva a una aporía del pensa-
+miento teórico sobre lo animal, puesto que si no sufrimos, como el personaje 
+de Di Benedetto, una metamorfosis que nos conserve la conciencia, no seremos 
+capaces de saber a ciencia cierta qué es ser uno u otro. Ni siquiera la creencia en 
+la metempsicosis podría salvar este abismo de lo inefable, puesto que la clave de 
+aquella es el olvido de las vidas pasadas. 
+Asimismo, indicar con precisión quién habla en este texto también resulta 
+problemático. Extrapolando lo que refiere sobre Kafka Julieta Yelin, especialista 
+en el tema, podemos decir que en este texto “el discurso mismo ha sido tomado 
+por una voz descentrada, ni humana ni animal, que se examina a sí misma e 
+intenta narrar una experiencia de transformación” (La letra salvaje 64). Esta in-
+determinación impide al lector hacer de ese narrador un sujeto, un yo definido, 
+y en su lugar parece haber una virtualidad, una voz viviente y reticente a toda 
+identidad categórica. La identidad –como lo mostrará ejemplarmente Di Bene-
+detto poco después con su Diego de Zama– es siempre precaria y vacilante. 
+En el célebre relato “Caballo en el salitral” (de El cariño de los tontos, 1961), 
+el protagonista es un caballo ciego cuyo dueño ha muerto fulgurado por un 
+rayo durante una tormenta. Se libera así de su amo, pero no de la carga: tira 
+consigo todavía la carreta con fardos de pasto y con ella se interna en el monte, 
+como animal domesticado que vuelve a su hábitat, como un esclavo liberado. 
+Sin embargo, no está acostumbrado a seguir sus instintos ni a hallarse su propio 
+alimento; interrumpe con su torpeza el silencio del desierto y lo perturban los 
+ruidos de los otros animales. Se halla desorientado y el carro que lleva consigo 
+no le permite desplegarse con comodidad en su ambiente. Finalmente muere de 
+42
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+hambre y de sed, atascada su carreta en medio de un salitral. La brevedad del 
+cuento, su lenguaje sencillo y depurado, sostiene y potencia las significaciones 
+posibles del texto; la situación argumental, aunque simple, se abre a diferen-
+tes interpretaciones. Una de ellas es que en esa criatura hambrienta, que lleva 
+consigo su propio alimento y no puede alcanzarlo, se dibuja una vívida imagen 
+del absurdo; como una analogía de la vida humana, la historia del desdichado 
+animal encarna la escena del sinsentido existencial7. El ser humano recorre ciego 
+su camino vital, pero libre. No obstante, teme la propia libertad; como el caballo 
+amansado que, ante la ausencia de amo, se siente desamparado porque de cierto 
+modo ha perdido el instinto –ese dios de los animales–, así también nosotros lo 
+hemos abandonado para devenir hombres. El camino se acabará, inevitablemen-
+te, con la muerte, aunque la imagen final de la paloma que alumbra sus huevos 
+en el cráneo del caballo despliega una interpretación más esperanzadora: con la 
+llegada de la primavera, ese nido improvisado “será una caja de trinos”. La muer-
+te no solo sega vidas, sino que también las engendra. 
+En “Salvada pureza”, el narrador presenta a su mascota, un gato llamado 
+Fuci, de manera absolutamente humanizada, al punto tal que describe la situa-
+ción de este como la de un “jefe de familia”: el animal cuida de su compañera y 
+sus cachorros en el horno abandonado que habitan. La figura del gato se vuelve, 
+luego, un reflejo de su propia vida humana: “ahora veo, en el rostro triste y 
+tenuemente severo del Fuci, el gravamen de las obligaciones, y yo pienso que, 
+por más leopardo que sea, en lo íntimo es sólo un gato y no pueden cargarse 
+demasiadas responsabilidades sobre un gato. Bien lo sé yo, por mi personal expe-
+riencia de hombre” (94). Las obligaciones diarias, de alcance social, se tornan tan 
+pesadas que pasan a tener un alcance existencial. Finalmente, el espejo animal en 
+el cual el narrador se mira le muestra su propio agobio vital y termina por borrar 
+las jerarquías de hombre/superior que protege al animal/inferior, para configurar 
+en su lugar una simetría, una relación de solidaridad: “Si ahora regresa, de los 
+techos y de su porción de amor, sentirá en mí, más que la habitual protección del 
+hombre al gato, la solidaridad de los nivelados por los problemas” (94). Arthur 
+Schopenhauer hacía hincapié en la angustia del ser viviente y consideraba que el 
+dolor es común a los hombres y a los animales (Fontenay Le silence des bêtes 582). 
+Gilles Deleuze, por su parte, señalaba esta identidad de sufrimiento al decir que 
+“l’homme qui souffre est une bête, la bête qui souffre est un hommeˮ (Francis Bacon 
+28)8. A diferencia de lo planteado en “Es superable” –que el hombre sufre por-
+que piensa, y el animal no–, aquí el ser humano y las bestias padecen por igual: 
+7	
+Este cuento será incluido años más tarde en la colección Absurdos. 
+8	
+“El hombre que sufre es una bestia, la bestia que sufre es un hombre” (traducción nuestra). 
+Gilles Deleuze elabora estas reflexiones a partir de las obras pictóricas del artista irlandés Fran-
+cis Bacon. Para el filósofo francés, estas pinturas permiten pensar las modulaciones del deve-
+nir hombre/animal-animal/hombre y sus zonas comunes, fundamentalmente en relación con la 
+carne, nudo de la identificación más profunda y a la vez, más indiscernible, entre lo humano y lo 
+animal. 
+43
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+el dolor aúna las criaturas que habitan este mundo. Si lenguaje y razón separan 
+lo humano de lo animal, el sufrimiento los torna próximos.
+Apartando por un momento la mirada de Mundo animal, veremos que las 
+conocidas imágenes del mono y del pez, descriptas en el comienzo de Zama 
+(1956), la novela más importante de Di Benedetto, constituyen un claro ejemplo 
+del espejo animal. Diego se ve a sí mismo en el mono muerto que el río acarrea 
+de un lado a otro y no termina de llevarse: es su reflejo, su eco, como así también 
+lo es el pez que es rechazado por las aguas y debe luchar cada día por permanecer 
+en ellas. Representan dos cosas distintas: el mono, las ansias de partir, de dejar el 
+lugar en el que vive (y que aquella imagen, como cruel designio, parece decirle 
+que ni muerto podrá abandonar); y el pez, su lucha constante para permanecer 
+en esta vida aunque extrañas fuerzas lo instiguen constantemente a renunciar a 
+ella. Ambas criaturas, la muerta y la legendaria, son espejos en los que Zama ve 
+reflejada la miseria, la monotonía y la precariedad de su existir. 
+El mal y lo bestial
+Antonio Di Benedetto expresa en una entrevista lo siguiente: “Yo creo que 
+el hombre no es naturalmente bueno, por el contrario, las necesidades, el afán 
+de descollar hacen que el hombre use muchas armas innobles. Si se porta bien 
+es por obligación de la sociedad” (Escritos periodísticos 497). Como secretamente 
+abocado a la escritura de una teratología de lo humano, de un bestiario, en al-
+gunos textos los animales aparecen revestidos de una negatividad que funciona 
+como eco o reflejo de esa maldad que reconoce en los hombres. En tal sentido, 
+la proximidad hombre/animal se da no sólo en el sufrimiento, sino también 
+en lo bestial, entendiendo el término en su acepción de “brutal o irracional” 
+(DRAE). 
+Un caso paradigmático es el de “Hombre-perro”, en el cual el narrador y un 
+personaje apellidado Magissi discuten acerca de la maldad humana a través de 
+la comparación con los canes. Como en una especie de silogismo, el primero 
+afirma que todos los hombres son perros, mientras que el otro expresa que se por-
+tan como perros, aunque tanto perros y hombres tienen sus momentos malos. 
+Pero el narrador va más allá y cree que, en realidad, los hombres son habitual-
+mente malos y solo en contados momentos, buenos: se habla de “perrada” para 
+referirse, precisamente, a esa actitud vil. Cuando el protagonista, luego de varios 
+fracasos laborales, descubre que Magissi ocupa el puesto del cual él ha sido des-
+pedido, la furia lo invade y el enfrentamiento físico entre los amigos es narrado 
+como una pelea entre dos canes. Más aún, se trata de una verdadera transfigura-
+ción, en la cual los amigos se revelan mutuamente la verdadera naturaleza que los 
+enfrenta. La escena es una de las pocas en que Di Benedetto emplea con humor e 
+intención satírica la animalización, la cual funciona como la operación narrativa 
+que le permite personificar la concepción de un ser humano naturalmente malo 
+y agresivo.
+44
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+ “Pero uno pudo” y “De viboradas”, los dos cuentos de la edición original 
+de Mundo animal que desaparecen en la publicación de 1971, son ejemplares 
+para comprender este juego narrativo del uso de lo animal como crítica de lo 
+humano; no solo por sus tramas, sino por la perspectiva, la mirada desde la cual 
+se cuentan y se juzgan los hechos, ya que en los dos casos la voz narradora es ani-
+mal. En el primer texto, los piojillos de las plantas toman el papel narrador –así 
+en plural–, y justamente es su carácter de colectividad lo que les permite criticar 
+el individualismo de los hombres, el cual los conduce a la guerra, la muerte y la 
+angustia, mientras que los piojillos, con su concepción de vida colectiva, pueden 
+vivir en paz. “De viboradas”, por su parte, juega con la voz narradora de una 
+ladina víbora y sus anécdotas para hablar de la malicia humana y la resignación 
+en la vida conyugal, aunque con un tono jocoso. 
+En el ya referido “Salvada pureza”, la relación de identidad/diferencia entre 
+gato y leopardo que coexiste en Fuci marca una línea entre lo animal y lo bestial. 
+Al comienzo del cuento se habla del amor nocturno –que es el que realizan los 
+gatos– y se lo describe como el más idílico, pero también el más irracional, frente 
+al amor diurno que, en cambio, es visto como desilusión: “quizás la franqueza 
+del sol propicia, dentro de la relación, las revelaciones que conducen al tedio y al 
+desencanto” (93). Mientras lo humano se asocia a la razón, lo bestial se vincula 
+con el amor, y junto a este, con la pasión y el deseo, la voluptuosidad, la desme-
+sura. En tal sentido, los hombres carecerían de cierto grado de animalidad que 
+podría salvarlos del tedio de lo cotidiano: “l’homme devra faire la bête en faisant 
+l’amour”, dice Clément Rosset para señalar la paradoja del hombre que gana en 
+humanidad si reduce el sexo a lo animal (“Le miroir animal” 865), como parece 
+suceder en este texto, y como sucede en las reflexiones de Amaya, protagonista 
+de “El cariño de los tontos”, para quien el veterinario que despierta su deseo es 
+“un bruto”, “un animal” (262).
+Otro de los temas sobre el mal que aparece estrechamente vinculado a los 
+animales es el de la violencia del hombre hacia la mujer. Está presente en “Pero 
+uno pudo” en la figura del marido que “desinsectiza” su matrimonio (esto es, ase-
+sina a su mujer), y también en “La comida de los cerdos”. En este onírico relato, 
+la mujer atacada por los cerdos ve casi con indiferencia la pelea entre las bestias 
+por su posesión, ya “que tanto conoce a los hombres” (92): oblicua pero clara 
+comparación de estos con criaturas salvajes que compiten por su presa. En la no-
+vela Sombras, nada más…, el procedimiento de animalización para representar 
+el carácter violento del género masculino se observa en los pensamientos secretos 
+de Emanuel, el protagonista, quien al ver a la mujer que le trae la comida al 
+refugio en el bosque como “Caperucita”, se imagina a sí mismo como un lobo 
+que puede matarla en su desamparo y soledad; y también en la animalización 
+constante de Leoncio Leonardo, asociado ya desde el nombre a una fiera, cuya 
+presa es la criada a la que acosa y vulnera sistemáticamente. El mismo proce-
+dimiento, pero bajo la forma del sueño, está presente también en la novela Los 
+suicidas y en el cuento “La presa fácil”.
+45
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+La culpa
+El tema de la culpa, recurrente en Di Benedetto, se manifiesta en el relato “En 
+rojo de culpa” con una tonalidad fantástico-alegórica, como ocurre en muchos 
+de los textos de Mundo animal. Especie de inversión del clásico mito infantil en 
+torno de los dientes, los ratones roban billetes a los hombres para pagarle con ese 
+dinero a un hombre, cuyo trabajo es ser el culpable de sus canalladas. Pero un 
+día, los ratones arremeten contra él: lo mutilan horrorosamente y mueren, así 
+como morirá de peste ese hombre que se vendió a ellos por dinero. 
+En un pequeño prólogo que principia la primera edición del libro, Di 
+Benedetto habla específicamente de este texto y expresa que 
+Siempre buscamos algo o alguien a quien adjudicar nuestra culpa […] Sin 
+embargo, eso no nos exime de nada. Lo único que podemos esperar es la to-
+lerancia, de quienes nos quieren, y el olvido de quienes nos quieren y de quie-
+nes no nos quieren. Lo único que podemos de nuestra parte es enmendarnos, 
+beneficiar a quien perjudicamos o algo semejante, impredecible en su forma 
+pero en su esencia naturalmente dirigido al bien (Mundo animal 7). 
+En el cuento, la idea aparece de la siguiente manera:
+Se han vuelto contra su culpa. El ilustrado profesor [¿se refiere a Freud?] diría 
+que no es posible destruirla, que las culpas permanecen y nos sobreviven, que 
+moralmente sólo podemos contra ellas un acto bueno y compensador refe-
+rido a la misma cuestión, aunque no ha de extinguirlas de ninguna manera. 
+Sólo hay un medio, diría él, de vestirlas de humo tolerablemente camuflador 
+y complaciente: el olvido voluntario, mecanismo apaciguador para tolerar la 
+vida ajena y la propia (68).
+En el prólogo, Di Benedetto también dirá que “En la desesperación de ver 
+que las culpas nuestras trasladadas a otros de nada nos excusan ni de nada nos 
+sirven […] nos lanzamos ciegamente, como toros enardecidos, contra la propia 
+culpa. A veces, ella nos devora” (Mundo animal 7). Ello sucede con los ratones 
+y el hombre en el cuento. Como si el carácter antropomórfico de las alimañas 
+–expresado en esa necesidad de que un “otro” cargue con el peso de sus malas 
+acciones– corriera el riesgo de no ser suficientemente claro, el autor ha decidido 
+señalarlo explícitamente con ese texto introductorio9. Lo parabólico también se 
+señala allí, al declarar que “se trata de un cuento moralista y pretende dejar una 
+huella constante en el lector” (Mundo animal 8). 
+9	
+Aunque no en relación con los animales, el tema de la culpa delegada aparece en la novela Som-
+bras, nada más…, cuando Emanuel no quiere hacerse cargo de los efectos de sus acciones: “A fin 
+de no ser él sol, sino ser él y el otro, y que el otro actuara por él (¿trabajara por él?) y él tuviera 
+en quien descargar responsabilidades, sobre todo las morales, que son las que más pesan. Que las 
+culpas las tuviera el otro” (14). 
+46
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+La culpa delegada también aparece en “Martina espera” (de Cuentos del exilio, 
+1983), pero en dirección inversa: del ser humano al animal. En ese breve cuento, 
+una mujer abandonada por el marido traslada a su gato la responsabilidad del 
+desamparo: “No le gustaste, por eso se fue. ¿Qué iba a hacer aquí, sin un gato 
+que le gustara?” (565). Con otras modulaciones, la temática aparece en el cuento 
+“Aballay” (de Absurdos, 1978), en el cual el protagonista, un gaucho, elige expiar 
+la culpa por un asesinato con la ayuda de su caballo. A diferencia del gato incul-
+pado, Aballay no busca endosarle a la criatura la carga de su espíritu, sino que el 
+animal es el medio para ejecutar un castigo autoimpuesto de ascetismo. En “Fe-
+lino de Indias”, de ese mismo volumen, un espada se aprovecha sin escrúpulos 
+de la muerte del jefe y le roba todas sus pertenencias. Su mala vida lo deja pronto 
+sin nada y, cuando se acerca a un poblado para procurarse refugio y alimento, la 
+mirada de un gato lo turba a tal punto que lo obliga alejarse. Aunque no recono-
+ce que es el mismo gato que perteneciera en otro tiempo a su jefe muerto, algo lo 
+atormenta: esa mirada animal es la mirada del Otro, del Otro que juzga y acusa, 
+que despierta la consciencia y hace que emerja el sentimiento de culpabilidad. 
+Volviendo a Mundo animal, el joven narrador de “Bizcocho para polillas” se re-
+procha a sí mismo “haberle ocultado el cuerpo al amor”, lo cual lo lleva a dejarse 
+hostigar por los insectos, como si mereciera tales castigos. 
+En todos estos textos se observa cómo la potencia –narrativa, estética, ale-
+górica, fantástica– propia del animal le resulta al escritor un buen instrumento 
+para ejecutar las variaciones de esta sinfonía de la culpa que se tañe en lo más 
+profundo de la consciencia humana.
+Humanimalidad10
+El camino recorrido hasta aquí nos permite hacer algunas aproximaciones a 
+las producciones de Di Benedetto que hemos abordado. Por un lado, destacamos 
+la manera en que la figura animal le es estética y narrativamente provechosa para 
+hablar del hombre y sus cualidades. Para ello, resulta necesario considerar que 
+el ser humano posee algo de aquel que motiva el ejercicio auténtico del quid pro 
+quo. Es el mecanismo básico de cualquier tropo: algo tiene que haber en común 
+entre A y B para que uno pueda aparecer en el lugar del otro. Sin embargo, para 
+no caer en una identidad hombre/animal inexistente, es útil hacer la distinción 
+entre animal, el ser vivo concreto, y animalidad, materia común a los hombres y 
+a los animales que permite aproximarlos ontológicamente. La animalidad es ese 
+“elemento a negar” que la humanidad necesita para “crear una segunda natura-
+leza, que posibilite toda expresión de la civilización, la cual requiere del someti-
+miento y nivelación de los hombres, concedidos solo a través de la destrucción 
+de su naturaleza animal” (Castillo Signos filosóficos, s/p). A principios del siglo 
+10	 Libre traducción del término propuesto por Michel Surya (Humanimalité: l’inéliminable ani-
+malité de l’homme, 2001) para referirse a la figura que señala la relación entre humanidad y 
+animalidad. 
+47
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+pasado, el filósofo Edmund Husserl elaboró una distinción entre lo animal (Ani-
+malien: lo pulsional, la estructura psíquica del cuerpo común al hombre y a la 
+bestia), el animal (Tier: la bestia propiamente dicha) y la animalidad (estrato de 
+constitución pasiva común a los animales y a los hombres)11. Sin ahondar en 
+una explicación filosófica de estos términos, recuperamos lo fundamental: los 
+seres humanos no son lo mismo que los animales, pero lo animal y la animalidad 
+forman parte de aquellos. Di Benedetto, precisamente, explora y literaturiza las 
+posibilidades de emergencia de tales atributos. 
+Es productivo pensar también el lugar del animal como narrador de una his-
+toria. Esa voz no humana, aunque sin mucha frecuencia, aparece en algunos tex-
+tos de Di Benedetto: “Es superable”, “Algo del misterio”, “De viboradas”, “Pero 
+uno pudo” y “Sargazos”. A diferencia de Horacio Quiroga, quien si bien opta por 
+la tercera persona omnisciente para sus historias, establece la focalización en los 
+personajes animales, de modo tal que las criaturas impregnan, en lo que se narra 
+y en el modo de narrar, una sensibilidad especial, Di Benedetto se mantiene más 
+apegado a su antropocentrismo. En “Sargazos” (Absurdos), por ejemplo, la voz 
+narradora es la de una anguila que, en una especie de breve relato biográfico, 
+describe su recorrido vital desde los cauces de Europa hacia el Mar de los Sargazos 
+donde estos animales desovan y mueren. Pero las disquisiciones sobre la pregunta 
+que esta especie despertó en Aristóteles, así como el intenso lirismo, son de una 
+humanidad que queda en total evidencia cuando el discurso del hombre irrum-
+pe: “Yo que, inmerso entre mis libros aquí no más en una ciudad de la América 
+Latina, he pasado este rato especulando sin sujetarme al orden de las fechas ni a 
+las precisiones de la geografía. Pensando… Pensando como humano y pensándo-
+me anguila” (344-345). Este tipo de historias, expresa Yelin, “suelen enmascarar 
+procesos de autoconstitución en los que un ‘yo’ humano se interroga sobre su 
+propia experiencia como animal” (“Escritor-perro, escritor-gato”36). Devenir an-
+guila (performativizar el animal, diría Yelin) le permite al narrador indagarse a sí 
+mismo, lo cual es evidente cuando al final del cuento se retoma la voz narradora 
+de la criatura marina, pero para reflexionar sobre el hombre: “El fuego que nos 
+aplica es uno de los tantos que enciende, incluso para alcanzar a sus semejantes. 
+Con algunos mata y con otros ama” (Cuentos completos 345).
+Un narrador animal, o en su defecto, una focalización de esta naturaleza, 
+presta voz a quienes no la tienen: se oye la palabra muda de la bestia, la palabra 
+de ese nadie humano devenido animal. Recurrimos nuevamente a Yelin: “ese 
+relato amoroso, cuando los textos experimentan con las posibilidades del lengua-
+je, con sus derivas más impersonales, termina por decir una verdad paradójica 
+11	 Según la fenomenología de Husserl, el mundo se constituye como correlato de la conciencia in-
+tencional de un sujeto. ‟Esta constitución puede ser activa, es decir, consciente, atenta, explícita, 
+reflexionada, capaz, por ejemplo, de efectuar la reducción, o bien pasiva, es decir, preconsciente 
+o inconsciente, involuntaria, desatenta, implícita, «animal»ˮ (Fontenay 632) (La traducción es 
+nuestra).En tal sentido, los hombres no solo constituyen el mundo activamente, sino también de 
+forma no voluntaria, en virtud de su animalidad.
+48
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+acerca de la identidad narradora: no sé quién soy; sólo sé que soy un animal; es 
+decir: soy nadie, y el animal-nadie que soy habla de mí –escribe sobre mí– con 
+una destreza que no me puedo atribuir” (“Escritor-perro, escritor-gato”36). La 
+imposibilidad de la voz animal sin mediación del hombre queda lacónicamente 
+demostrada en el sucinto microrrelato de una oración titulado “Hay un pero” 
+(de Cuentos del exilio, 1983): 
+El escritor que quiere escribir un cuento con animales, para adquirir expe-
+riencia y poner verosimilitud se vuelve mono, pero… (545) 
+La conjunción adversativa seguida de puntos suspensivos que cierra el texto 
+instaura la diferencia entre el ser humano y el animal, que es la posesión del 
+lenguaje, y señala una verdad irremediable: quien hable en nombre del segundo 
+lo hará siempre a tientas, porque para ser verosímil tendría que volverse bestia, y 
+al hacerlo, ya no podría escribir. De este callejón sin salida, una sola cosa parece 
+rescatable: el carácter inefable del animal y su mundo.
+Animalidad: niñez y patologías psíquicas
+La animalidad se vincula también con la infancia, pues el niño puede verse 
+como un intermediario que asegura la continuidad entre el hombre y el animal 
+(Fontenay Le silence des bêtes 128). Varias teorías filosóficas y psicológicas del 
+siglo XIX y principios del XX vinculan lo animal con los niños y también con 
+los hombres primitivos; el supuesto sobre unos y otros reside en que aún no han 
+superado el período de la animalidad. Sigmund Freud consideraba que el niño se 
+siente más próximo que el adulto a las bestias por la ausencia de orgullo y por la 
+confesión franca de sus necesidades (Totem y tabú 129), como el hijito de Zama 
+que juega con las gallinas en el barro o el niño-mono de “Nido en los huesos”. 
+El pequeño de “Enroscado” (de la colección Cuentos claros, 1957) es paradigmá-
+tico: se lo describe como “un animalito”, una “lauchita asustada”, una criatura 
+“agazapada” con “ojos redondos y luminosos como los de un gato”, un “gatito 
+despavorido”, un “cachorro de tigre”. La muerte de la madre desencadena en 
+Robertito un proceso de retroceso emocional y evolutivo que se va agudizando 
+hasta que finalmente deja de hablar. Esta última acción despunta el máximo de 
+la animalización, porque los animales son justamente los aloga, es decir, los que 
+no tienen lenguaje, así como los niños son los infans, los “sin voz”. 
+Si bien Di Benedetto también emplea la animalización en personajes adultos, 
+marca una diferencia con respecto al niño. La vinculación de los pequeños con 
+las bestias reside en cierto estadio de primitivismo cándido, cercano a la pureza 
+y a la inocencia, mientras que en el adulto se vincula más bien con el instinto, lo 
+sexual, la violencia y lo bestial. 
+Los desórdenes y las inquietudes psíquicas también funcionan como algunas 
+de las modulaciones que lo animal adquiere en el primer libro de Di Benedetto, 
+49
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+lo cual él mismo deja entrever cuando se refiere a la gestación de la colección: “el 
+título es en realidad una invectiva. Algo me enfurecía o me lastimaba” (Lorenz 
+Diálogo con América Latina 131). Esta herida existencial es visible en los textos 
+abordados, en los cuales los aspectos más oscuros, ocultos y reprimidos del hom-
+bre aparecen vinculados a figuras no humanas. En “Trueques con muerte”, la 
+mujer embarazada que pierde a su bebé y, a raíz de ello, se ensaña con una gatita 
+preñada que vive en su hogar, es un ejemplo de estos personajes delirantes cuya 
+relación con lo animal es sombría y se mueve mediante oscuros engranajes. 
+Para algunos teóricos, los desórdenes mentales guardan parentesco con ciertos 
+estados primitivos del hombre cuyos resabios pueden emerger a la superficie de 
+la consciencia. De esta manera, puede leerse en la oposición hombre/animal una 
+relación especular con aquella de bárbaro/civilizado. Los personajes de la Colo-
+rada y Cataldo, a los cuales hace referencia el título del cuento-nouvelle de Di 
+Benedetto “El cariño de los tontos” (1961), andan por el campo, en los árboles 
+y subidos a los muros, sucios, dejando transcurrir el tiempo con la observación 
+del entorno y las conversaciones pueriles y desinhibidas. Son profundamente 
+inocentes y no parece haber pizca de maldad en ellos. Si los comparamos con los 
+hermanos brutos perfilados por Horacio Quiroga en su conocido cuento “La ga-
+llina degollada”, advertimos que las aproximaciones ontológicas entre hombre y 
+animal pueden irradiar valores tanto positivos –inocencia, bondad, sensibilidad 
+natural– como negativos –indolencia, brutalidad, crueldad. 
+Cuerpos y corporalidades
+Cuerpos enfermos, invadidos, mutilados, transitorios: la corporalidad ocupa 
+en la colección de Mundo animal un lugar destacado, y está “en estrecha conexión 
+con la animalidad, la percepción no categorizada de la materia informe, lo sensitivo. El 
+narrador es en cada relato un cuerpo sujeto a pathos: enfermedad, erotismo, desmembra-
+miento, sufrimiento” (Arce “Del símbolo a la metonimia” 138). Di Benedetto explora, 
+en estos cuentos, algunas modulaciones del asunto que se hallan presentes en el 
+horizonte cultural de su época: “la separación cuerpo-conciencia; las posibilidad 
+de un hombre descarnado; la conciencia del sujeto que no se pierde ante los 
+cambios corporales; la agresión al cuerpo que llega a la mutilación y a la muerte; 
+la mirada del otro que puede cosificar y alienar nuestro cuerpo y la conciencia de 
+nuestra propia corporalidad” (Varela “Cuerpos invadidos” 222). 
+El personaje del cuento que abre la colección, “Mariposas de Koch”, se refiere 
+a las manchas rojas que escupe como mariposas que se suicidan a causa de su 
+carácter romántico; en realidad, se trata de la tos sangrienta de un tuberculoso 
+moribundo. El enfermo, en su delirio y negación de la muerte, hace de los es-
+cupitajos seres vivientes, y aún más, seres con impulso de muerte, en una clara 
+proyección de sus propias pulsiones y del propio conocimiento, quizás negado 
+u oculto en su subconsciente, de que va a morir. Ese impulso brota de su propio 
+seno, ya que las mariposas han nacido en su interior, en su corazón, y al crecer, 
+50
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+las ansias de libertad las han impelido a salir. El cuerpo es, entonces, una especie 
+de prisión, de la cual no es posible librarse sin morir: la muerte corporal es el fin 
+del ser humano, sin disociación permisible. 
+Algo muy distinto ocurre en el ya referido “Es superable”, en el que el cuer-
+po resulta sólo una materialidad pasajera que puede ser reemplazada por otra. 
+Así, lo humano y lo animal se distinguirían, entre otras cosas, por su envoltura 
+corporal específica12. El cuento explora la posibilidad de borrar la línea diviso-
+ria absoluta entre ellos, puesto que la transmigración del alma, consciencia o 
+espíritu (Di Benedetto nunca especifica cómo llamar a eso que persiste a través 
+de las distintas materialidades) supone que el hombre es solo una especie y hay 
+continuidad entre humanidad y animalidad (Poirier “Eléments pour un zoologie 
+philosophique” 678-679). 
+En “Trueques con muerte”, la protagonista ejemplifica la visión distorsiona-
+da que tienen de sí mismos los seres humanos, debido a las configuraciones men-
+tales y sentimentales que van construyendo a partir de lo vivido, de manera tal 
+que no es posible disociar lo corporal de los estados emocionales. A pesar de estar 
+gestando una vida dentro de ella, su existencia enajenada se le presenta como un 
+vacío que será aún peor cuando realmente ya no cargue nada en su interior. La 
+gatita preñada a la cual agrede, y que muere al dar a luz a sus crías, se transforma 
+en una imagen corpórea (en el sentido de material) de sí misma, con sus deseos 
+suicidas y su dolor por la muerte del hijo recién nacido.
+En “Bizcocho para polillas” se narra en primera persona una invasión cor-
+poral directa: la de un joven que es atacado constantemente por polillas que se 
+comen la ropa que lleva puesta. La situación le genera un intenso sufrimiento, 
+ya que afecta su pudor (nivel social) y lo desprotege del frío (nivel biológico). 
+En el plano físico, se trata de un cuerpo que es mirado por los demás y que 
+resulta problemático porque se sale de lo normal, puesto que no está debida-
+mente cubierto. En un estrato más profundo, esa desnudez implica no portar el 
+disfraz socialmente aceptado. Supone estar a la intemperie metafísica, expuesto 
+al mundo, habitándolo con incomodidad, puesto que el pudor es la negación 
+de lo animal y no tenerlo implica, a la vista de la sociedad, perder algo de lo 
+que nos hace humanos. Finalmente, el hostigado joven se pregunta para qué 
+vivir, y sin tener una respuesta para ello, le ruega a las polillas que se coman 
+su corazón. Mientras los insectos cumplen con su pedido, siente alivio, “como 
+si fuera entrando en el sueño, pasito a pasito” (90), en una evidente analogía 
+entre el dormir y la muerte. El joven siente gratitud por ese “acto de amor” de 
+las polillas, como si se liberara de la prisión de ese cuerpo escindido con el que 
+no ha logrado hacerse uno. 
+En “Amigo enemigo” hay también una invasión del espacio humano –ex-
+tensión del cuerpo– por parte de un animal. Un joven y un “pericote” (voz 
+12	 “La théorie de la transmigration commande que les différences entre ces trois sortes de vivants 
+résident uniquement dans leurs articulations somatiques, dans leurs enveloppes corporelles 
+spécifiquesˮ (Fontenay Le silence des bêtes 69).
+51
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+regional para referirse al ratón) han estado conviviendo en paz en la misma 
+habitación, y más aún, el muchacho se ha encargado de alimentar al animal con 
+migas de pan. Pero un día, el roedor comienza a comerse los libros del padre 
+del joven, únicos recuerdos que tenía de este –aparte del suicidio y la terrible 
+imagen del hombre muerto en el baño, que lo ha dejado mudo desde enton-
+ces–. Di Benedetto, en el texto introductorio a Mundo animal, que ya hemos 
+referido en relación con el tema de la culpa, dice de este cuento: “el pericote 
+que el hombre alimenta en ‘Amigo enemigo’ es la guerra, justamente la guerra” 
+(8). De hecho, “Guerra” es el nombre que le pone el joven al animal. Pero el 
+escritor también nos dice que el lector “puede pensar que sí, que es, pero tam-
+bién puede pensar que no, que no es, porque es, para usted, otra cosa, y esto me 
+tendría muy satisfecho, con la satisfacción de saber que lo mío va más lejos de 
+donde yo pude llevarlo” (9). Esto nos habilita a una segunda lectura, de alcance 
+ya no social, sino individual, y quizás, psicoanalítico. Como si representase el 
+olvido, el ratón está aniquilando los únicos recuerdos positivos del padre que 
+el joven guarda, y eso lo desespera profundamente. El espacio de la habitación 
+es el propio cuerpo del joven, la extensión de su yo; los libros, sus recuerdos; el 
+ratón, el olvido que, con el pasar del tiempo, va royendo los pensamientos hasta 
+volverlos nada. Finalmente, el muchacho hiere con una lapicera al ratón, apa-
+rentemente de muerte, y recupera débilmente su voz. Es decir, solo el olvido le 
+permite desatascar su camino existencial, aunque sin dejar de ver los rastros de 
+sangre que el ratón (metonimia de la figura paterna) ha dejado en su vía hacia 
+la muerte: esa marca es imborrable. 
+“Hombre invadido” (pertenece a Absurdos, aunque se asemeja mucho en tema 
+y estilo a los cuentos de Mundo animal) narra la batalla de Vicente contra una 
+rata que tiene prisionera, y que actúa como una analogía de él mismo, quien, 
+como lo dice explícitamente, es prisionero de su propia consciencia (352). Este 
+texto se halla en la misma línea que “Nido en los huesos” y sus buitres invisibles 
+en la cabeza del ser humano, es decir, el acoso de lo más inconsciente y angus-
+tiante del ser humano aparece encarnado –literalmente, hecho carne– en una 
+figura animal. 
+El recorrido anterior muestra que los cuerpos son una zona de contacto entre 
+el mundo humano y el animal, porque en ellos mismos se inscribe la subjetivi-
+dad. Por momentos campo de batalla, armonioso pasaje entre los seres, otros, y 
+la mayoría de las veces, escenario para el drama simbólico de las carencias y los 
+desencuentros del hombre consigo mismo, el cuerpo es el espacio-hábitat del 
+ser viviente que hace posible su misma existencia. La corporalidad es un aspecto 
+común entre humanos y animales, un área compartida donde se ponen en juego 
+lo que los diferencia y lo que los aproxima, las necesidades y los deseos, la enfer-
+medad, las ansias de vivir y las tendencias autodestructivas13. 
+13	 En una entrevista realizada para la revista francesa Critique, Frédéric Rossif expresa que el ani-
+mal lucha antes de morir porque no negocia su muerte, mientras que el hombre sí lo hace, y esto, 
+“c’est un manque d’animalité” (Barou, ‟La fête sauvage” 670).
+52
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+El otro, el mismo
+La profusión de discursos filosóficos, literarios y hasta plásticos que abordan 
+el tema de lo animal permite pensar que las aproximaciones a este concepto, más 
+que basadas en una supuesta esencia o naturaleza, parten de las representaciones 
+que se tienen y que se construyen sobre lo animal en relación con lo humano. 
+La principal diferencia entre uno y otro es, precisamente, la representación de esa 
+diferencia. De allí surge el cambio según las épocas y los contextos, las miradas y 
+las cosmovisiones. En la tradición occidental, el animal tiende a ser un gran Otro, 
+lo cual no sucede en muchas culturas orientales –o incluso en los pueblos ame-
+ricanos originarios–, en las cuales los lazos que guardan los seres humanos con 
+el resto de las criaturas vivientes difieren mucho de los nuestros. Di Benedetto 
+imagina y construye ese otro animal, más próximo de lo esperable e incluso de lo 
+deseable: ese otro que es parte del hombre mismo. 
+Como decía Yelin en referencia al contexto de la posguerra, la respuesta lite-
+raria a la cuestión animal ha tomado, muchas veces, la forma de una pregunta. 
+Entonces podemos interrogarnos: ¿hay en la escritura animal un intento por es-
+capar de la abrumadora vida humana porque se la encuentra, paradójicamente, 
+deshumanizada? ¿Es una manera de volver a humanizar al hombre, en el sentido 
+de repensar su humanidad a través del espejo animal, bajo un antropocentrismo 
+o un (post)humanismo enmascarado? La separación hombre/animal parece ser 
+reverberación de la separación hombre/hombre, de esa dañina y persistente rela-
+ción de verticalidad que enajena y escinde.
+Sin embargo, esa posición vertical del ser humano de pie, de la cual muchos 
+pensadores se han servido para establecer una separación ontológica tajante, de-
+viene por momentos una horizontalidad, en especial en un aspecto que iguala 
+categóricamente a todas las especies de este mundo: la naturaleza mortal de la 
+existencia, el encuentro con la muerte como “único horizonte común de lo vi-
+viente” (Yelin “Escritor-perro, escritor-gato” 41). Por eso, cuando un persona-
+je–y con él, el lector– se mira en el crudo espejo animal que se trama en la escri-
+tura de Di Benedetto, muchas veces solo ve el rostro de la muerte, o bien otros 
+aspectos de sí mismo que preferiría desconocer o ignorar: la angustia, la maldad, 
+la culpa. Clément Rosset define ese “espejo animal” como la imagen que la bestia 
+nos devuelve de nosotros mismos, en la cual toma forma la dimensión de nuestra 
+animalidad o de nuestra humanidad. Señala la molestia que causa al hombre 
+mirarse en este, al punto de forzar la inatención o el dar vuelta la cara, porque ese 
+reflejo, quizás aceptable para el niño o el bebé, no lo es para el adulto que ya ha 
+entrado plenamente en la escena de la humanidad (“Le miroir animal” 864). Por 
+eso, el mísero ladrón de “Felino de Indias” no soporta la mirada del gato, que le 
+devuelve la imagen de su culpa; por eso ve Zama, en el mono muerto en el río, 
+la casi intolerable inmovilidad de su existencia. 
+El corrimiento en los roles esperables en los sujetos humanos y los sujetos 
+animales plantea una singular cosmovisión en la cual los límites entre unos y 
+53
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+otros son difusos, donde la humanidad es objeto de discusión. El reino de los 
+hombres, dice el condenado a muerte de “Sospechas de perfección”, es apenas 
+algo más que un mundo animal, porque toda figura en la cual la identidad media 
+del ser humano no está más asegurada, es aquello que llamamos lo animal. Tal 
+incertidumbre es lo que explicaría las modulaciones, casi siempre negativas, o al 
+menos problemáticas, que el asunto adquiere en esta escritura, lo cual despunta 
+más preguntas que respuestas: ¿es lo animal una caída, o acaso un retorno a los 
+orígenes? ¿Es inferioridad y ascendencia vergonzante, o pureza perdida? ¿Es lo 
+bestial todo aquello que el hombre no puede o no quiere aceptar de sí mismo? Y 
+si no quiere aceptarlo, si la animalidad es el elemento a negar para constituirse en 
+sujeto plenamente humano, ¿no se está por tanto admitiendo su existencia? Sub-
+yace aquí la consideración de una zona compartida, un fundamento común. De-
+leuze habla de una zona de indiscernibilidad–y de indecibilidad– compartida por 
+hombres y animales que es mucho más profunda que cualquier identificación 
+sentimental (Francis Bacon30); esa región insondable que el hombre desconoce 
+de sí pero que lo constituye como tal (Yelin La letra salvaje 32); un territorio 
+explorado persistentemente por autores de todas las épocas, porque la escritura 
+configura un caldero privilegiado para tales alquimias. 
+Dentro de esta, la literatura fantástica ha constituido un campo especial-
+mente fértil para pensar los enigmas de la relación hombre/animal y la propia 
+condición humana. Al respecto, Jimena Néspolo explica que lo fantástico puede 
+convertirse en la posibilidad ficcional de recrear los monstruos que construye la 
+imaginación del hombre. Considera que en Di Benedetto este es un género de 
+riesgo, porque “obliga al sujeto a abandonar cualquier tipo de certeza (realista) 
+y a enfrentarse –en un juego dramático, terrible y desesperado– con sus más 
+recónditas opacidades” (Ejercicios de pudor 84). Señala que el mendocino se in-
+troduce en lo fantástico bajo el magisterio indiscutible de Borges, pero que se 
+aleja de cierta función lúdica del rioplatense para ahondar en el conocimiento 
+y la problematización de la subjetividad a partir de los insumos que le brinda, 
+especialmente, el psicoanálisis. En 1958, cuando Borges invitó a Di Benedetto 
+a dictar una conferencia sobre el tema en la Biblioteca Nacional, este definió la 
+literatura fantástica como un juego dramático y ficcional en el que tiene lugar 
+“una asimilación y una trascendencia de tres factores esenciales: la fe, el miedo 
+y los deseos” (Ejercicios de pudor 83). Estos tres factores, sobre todo los dos úl-
+timos, aparecen en Mundo animal figurados en animales que se vuelven ines-
+peradamente extraños y, como eco de la extrañeza del sujeto hacia sí mismo, 
+hacen que lo humano devenga también ajeno. La elección de animales comunes, 
+cercanos al hombre (como perros, gatos, ratas) vuelve más inquietante esa extra-
+ñeza, porque germina en lo próximo, en lo íntimo. Y aunque por momentos los 
+cuentos adquieran cierto tono moralista, Di Benedetto no da respuestas a las in-
+quietudes que nos despierta la precariedad de lo humano. Prefiere dejar al lector 
+en la cavilación: “Yo sugiero; resuelva, de una o más maneras, igual o distinto a 
+mí, quien me lea” (Mundo animal 10).
+54
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+Por otro lado, el carácter alegórico señalado por la crítica, en algunos de 
+estos textos, no funciona en detrimento de la fantasía. Como también explica 
+Néspolo siguiendo a Ana María Barrenechea, en la literatura contemporánea lo 
+alegórico refuerza el nivel fantástico porque se relaciona con el sinsentido del 
+mundo, con su carácter caótico e irreal. Muy cerca de Kafka en este sentido, Di 
+Benedetto explora las fronteras de lo humano y de lo real a través de imágenes 
+que representan o significan una cosa diferente a la que se ve a simple vista: lo 
+animal le permite indagar la condición del sujeto de manera indirecta pero ín-
+tima. Como un niño pequeño que habla en tercera persona porque aún no ha 
+desarrollado una consciencia del yo, el otro animal es uno de los modos en que 
+la subjetividad escindida se observa y se conoce a sí misma. Es un espejo que 
+no refleja, sino que refracta; esto es, cambia la dirección de lo que cae sobre él, 
+la dirección de la mirada: observar lo humano desde lo animal es sostener una 
+perspectiva oblicua, no directa, y en tal sentido, reveladora. La escritura configu-
+ra ese espejo porque ella misma es también una actividad animal, en cuanto su 
+génesis es naturalmente impredecible y enigmática. Como le dice el escribiente 
+Manuel Fernández a Diego de Zama: “La disposición a escribir no es una semi-
+lla que germina en tiempo fijo. Es un animalito que está en su cueva, y procrea 
+cuando se le ocurre, porque su época es variable” (Zama 132). 
+Como bien señala Yelin, más allá de la reificación y la humanización –las dos 
+formas más clásicas en que podría resumirse la respuesta literaria a la cuestión 
+animal– puede haber una tercera vertiente: la de la experiencia del encuentro/
+desencuentro con el animal en la zona común, el espacio transicional habitado 
+por ambos (La letra salvaje 117). En ese territorio desterritorializado, en ese ima-
+ginario de la sospecha, moran las criaturas dibenedettianas. 
+Conclusiones
+El procedimiento del quid pro quo, los narradores no humanos, la animali-
+dad de los niños, la relación con las patologías psíquicas, la proximidad ontoló-
+gica entre los dos mundos, la metáfora del espejo animal, la corporalidad, son 
+algunos de los elementos que ayudan a pensar las manifestaciones textuales de 
+la cuestión animal en la escritura de Di Benedetto. Sus lecturas, experiencias 
+e indagaciones interiores (e incluso sueños, si atendemos a la gestación que él 
+mismo declara para Mundo animal) le han permitido al escritor pensar la condi-
+ción humana con muchos más atributos que aquellos dos que se le conceden de 
+forma exclusiva: razón y lenguaje. En el dolor, en los cuerpos y sus necesidades, 
+en la niñez y en la locura, en los estados afectivos de agresividad y pasión, el 
+hombre revela un sustrato común compartido con otros seres vivientes. Y como 
+hemos dicho, lo que parece aproximarlos más es el sufrimiento. Si el hombre 
+que sufre es una bestia, en sentido figurado podemos llamar a Mundo animal un 
+bestiario moderno, porque compendia seres cuya angustia vital los echa fuera de 
+sí mismos, rompiendo la conexión con el mundo y con los otros que lo habitan. 
+55
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Animal/humano: proximidades y fronteras en Mundo animal...: 35-56
+Es un bestiario del siglo XX, sin lección moral pero revelador de la angustia 
+existencial del hombre. 
+Por otro lado, aclaremos que hablar del espejo animal como una figura a tra-
+vés de la cual el ser humano puede mirarse desde otras perspectivas no implica 
+sostener que las bestias son simples marionetas usadas para representar el teatro 
+del hombre. El equino de “Caballo en el salitral” o el loro y el gato de “Felino 
+de Indias” dan cuenta de una sustancia propia que compenetra en sus historias, 
+a veces antes de reflexionar conscientemente sobre sus implicancias humanas. La 
+lectura simbólica, metafórica o metonímica que se pueda hacer de los personajes 
+animales puede ser una especulación a posteriori, ya que la solidez estética de la 
+escritura dibenedettiana pone sus límites a las reflexiones explícitas –salvo algu-
+nas excepciones– sobre el ser humano. El discurso de la humanimalidad nunca es 
+directo y además, dice tanto de uno como del otro; señala, en libre distorsión de 
+la poética baudelairiana, las correspondencias entre ambos mundos. Las zoografías 
+de Di Benedetto van más allá de toda división tajante entre hombre y animal, 
+señalando puntos de contacto, fronteras difusas, nuevas lecturas posibles. Del 
+mismo modo en que el lenguaje no es soporte de contenido, lo animal no es 
+soporte de lo humano. El animal no representa al hombre como si este portara 
+el disfraz de bestia, sino que en la idea de lo animal está encarnada la idea de lo 
+humano, y viceversa. ¿Dónde están los límites entre uno y otro? En cada escritu-
+ra que, en cuanto universo de signos, es infinita.
+Referencias bibliográficas
+Agamben, Giorgio. Lo abierto: el hombre y el animal, traducido por Flavia Costa 
+y Edgardo Castro. Buenos Aires, Adriana Hidalgo, 2007.
+Arce, Rafael. “Del símbolo a la metonimia vía Kafka. Mundo animal de Antonio 
+Di Benedetto”. Acta literaria, núm. 52, 2016, pp. 125-144.
+Barou, Jean-Pierre. ‟La fête sauvage” (entrevista a Frédéric Rossif). Criti-
+que. Revue générale des publications françaises et étrangères, núms. 375-376, 
+‟L’animalitéˮ, ago.-sep. 1978, pp. 668-670. 
+Castillo, Rafael. “Reseña del libro: Lemm, Vanessa. La filosofía animal de Nietz-
+sche. Cultura, política y animalidad del ser humano. Santiago, Ediciones Uni-
+versidad Diego Portales, 2010”. Signos filosóficos, vol. 14, núm. 27, ene-jun 
+2012. En línea. Consultado 28 de diciembre de 2016. 
+Deleuze, Gilles. Francis Bacon: logique de la sensation. París, Éditions du Seuil, 
+2002. 
+Di Benedetto, Antonio. Mundo animal. Mendoza, D’Accurzio, 1953.
+___. Cuentos completos. Buenos Aires, Adriana Hidalgo, 2009.
+56
+Sofía Criach | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+___. Escritos periodísticos 1943-1986, compilado por Liliana Reales. Buenos Ai-
+res, Adriana Hidalgo, 2016. 
+___. Los suicidas. Buenos Aires, Sudamericana, 1969.
+___. Sombras, nada más…. Madrid, Alianza, 1985.
+___. Zama. Buenos Aires, Ediciones Doble P
+, 1956.
+Fontenay, Elisabeth de. Le silence des bêtes. La philosophie à l’épreuve de l’anima-
+lité. París, Fayard, 1998.
+Freud, Sigmund. “Tótem y tabú y otras obras (1913-1914)”. En Obras comple-
+tas. t.XIII. Buenos Aires: Amorrortu, 1988: 1-164. 
+Lorenz, Günter. Diálogo con América Latina: panorama de una literatura del fu-
+turo. Valparaíso, Ediciones de la Universidad de Valparaíso-Pomaire, 1972.
+Néspolo, Jimena. Ejercicios de pudor. Sujeto y escritura en la narrativa de Antonio 
+Di Benedetto. Buenos Aires, Adriana Hidalgo, 2004. 
+Poirier, Jean-Louis. ‟Eléments pour un zoologie philosophique”. Critique. Revue 
+générale des publications françaises et étrangères, núms. 375-376, ‟L’animalitéˮ, 
+ago.-sep. 1978, pp. 673-706.
+Rosset, Clément. ‟Le miroir animal”. Critique. Revue générale des publications 
+françaises et étrangères, núms. 375-376, «‟L’animalitéˮ, ago.-sep. 1978, pp. 
+864-866.
+Simondon, Gilbert. Deux leçons sur l’animal et l’homme. París, Ellipses, 2004.
+Varela, Fabiana. “Cuerpos invadidos: cuerpo y corporalidad en algunos relatos 
+de Antonio Di Benedetto”. Revista de Literaturas Modernas, núm. 37, 2007, 
+pp. 209-228.
+___. “Reino de hombres, mundo animal: presencia animal en la narrativa breve 
+de Antonio Di Benedetto”. Anales de Literatura Hispanoamericana, núm. 40, 
+2011, pp. 279-296. 
+Yelin, Julieta. “Escritor-perro, escritor-gato”. Boca de Sapo. Arte, literatura y pen-
+samiento, núm. 21, abr. 2016, pp. 36-41.
+___. “Kafka en Argentina”. Hispanic Review, vol.78, núm. 2, 2010, pp. 251-
+273.
+___. La letra salvaje: ensayos sobre literatura y animalidad. Rosario, Beatriz Vit-
+erbo Editora, 2015. 
+Fecha de recepción: 14/03/2017 / Fecha de aceptación: 22/12/2017

@@ -1,0 +1,795 @@
+71
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+Las historias de vida 
+en José Ingenieros1
+Cristina Beatriz Fernández
+Universidad Nacional de Mar del Plata - CONICET
+[ crisfer@mdp.edu.ar ]
+La explicación de ciertos acontecimientos históricos debe buscarse, en 
+muchas ocasiones, dentro del cráneo de algún rey hipocondríaco, o de algún 
+mandatario enardecido por las vibraciones enfermizas de su encéfalo.
+José María Ramos Mejía, Las neurosis de los hombres célebres en la 
+historia argentina
+Resumen: En este artículo se rastrea la relación entre los procedimientos 
+narrativos de los casos que José Ingenieros publica, sobre todo en su Cri-
+minología, derivados de historias clínicas, y el modelo de la biografía, muy 
+cultivado por la historiografía positivista. La ejemplaridad del caso clínico y 
+la pérdida, en muchos casos, del anonimato del sujeto involucrado lo acer-
+can a la biografía, en una operación que se relaciona estrechamente con la 
+ampliación del campo de actuación de los médicos que, legitimados por la 
+extrapolación del cientificismo a distintos órdenes de la actividad intelec-
+tual, se convirtieron en intérpretes de la historia política y social. Por otra 
+parte, en la biografía profesional del médico, diseminada en los distintos 
+casos narrados, una verdadera pulsión autobiográfica horada la pretendida 
+neutralidad y objetividad del discurso médico.
+Palabras clave: José Ingenieros - casos clínicos - biografía - positivismo - 
+cientificismo.
+1. Casos clínicos y biografía
+E
+s bien sabido que en el discurso literario argentino 
+finisecular tuvo un lugar preeminente la utilización 
+de casos clínicos como dispositivos narrativos para 
+construir un verosímil realista y científicamente auto-
+1	 Este artículo expone resultados parciales de mi tesis de doctorado, presentada en la Facultad 
+de Lenguas de la Universidad Nacional de Córdoba, Argentina, y titulada: “Diálogos entre 
+las dos culturas: literatura y ciencia en José Ingenieros”. La tesis fue dirigida por la Dra. 
+Mónica Scarano y contó con el asesoramiento científico del Dr. Alberto de la Torre.
+72
+Cristina Beatriz Fernández | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+rizado. Este diálogo entre las estrategias narrativas de la literatura y la ciencia 
+–los saberes médicos, en particular– fue posible en el marco de ese “ambiente 
+espiritual del 900”, fuertemente signado por el pensamiento positivista (Real 
+de Azúa: 146). Cabe aclarar que cuando hablamos del positivismo de 1900, 
+nos referimos a un complejo de corrientes ideológicas que tenían como punto 
+en común el entronizamiento de la ciencia como garantía de sus propios dis-
+cursos, sostenidos en una retórica cientificista. Como señala Real de Azúa, el 
+positivismo novecentista fue equivalente a lo que en su momento significó el 
+enciclopedismo francés o, dicho de otro modo, constituyó un movimiento 
+ideológico que concentró en un momento histórico, en forma coherente y 
+prestigiosa, ciertas tendencias de larga duración del pensamiento moderno 
+occidental, sostenidas en conceptos como razón, individuo, progreso, libertad 
+y naturaleza, a partir de los cuales se formó un verdadero sistema de pensa-
+miento. En este marco conceptual, adquirió un lugar relevante el darwinismo, 
+entendido no como la teoría puntual propuesta por Darwin para explicar la 
+transformación de las especies naturales, sino como “un sistema cognoscitivo, 
+o sea, un conjunto de ideas relacionadas, que –como todo sistema cognosci-
+tivo– está provisto de tal dinamismo y maleabilidad que le permita cambiar 
+en el tiempo y el espacio” (Glick: 320).
+Uno de los campos de aplicación más notorios de ese positivismo finisecular 
+fue el Derecho penal que, en la línea de la escuela criminológica italiana –entre 
+cuyas figuras se destacaban Lombroso, Ferri y Garófalo– derivó en explicacio-
+nes mesológicas y antropológicas del delito, afirmando la preeminencia de los 
+factores económicos, biológicos y sociales. Desde esta óptica, el delincuente se 
+transformaba en una víctima de las condiciones sociales o incluso un enfermo, 
+lo cual ponía en entredicho no sólo la existencia de la responsabilidad indivi-
+dual sino la misma posibilidad de la libertad ética. Como es fácil observar, esta 
+perspectiva antropológico-jurídica entraba en diálogo con los presupuestos de 
+la poética naturalista, si recordamos que Zola había dado desarrollo literario 
+a la tesis del carácter hereditario de los crímenes, los vicios, las enfermedades 
+y pasiones, sobre la base de teorías médicas coetáneas (Barthes: 122). Incluso 
+se ha afirmado que su manifiesto La novela experimental es, en esencia, una 
+paráfrasis del tratado fisiológico del médico Claude Bernard, al punto de que 
+está en gran parte compuesto por citas en las que la palabra “doctor” ha sido sus-
+tituida por “novelista” (Levin: 376). Ya hacia 1900, autores como Max Nordau 
+agregaban a la herencia, factor clave para explicar la génesis de la degeneración, 
+los impactos de la urbanización: en efecto, Nordau sostenía que, paralelamente 
+al crecimiento de las grandes ciudades, se estaba incrementando el número de 
+73
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+degenerados de todas clases, y señalaba, además, el grado de insanidad que 
+esos sujetos introducían en el arte y la literatura (Nordau: 36).
+En el contexto argentino, ciertos cuadros estatales se preocuparon noto-
+riamente por la salud urbana, amenazada por la explosión demográfica y la 
+diversificación causada por la inmigración. Así, encontramos a José Ingenieros 
+vinculado a ese operativo que entre 1890 y 1910 asoció a coroneles y cirujanos 
+del ejército –como Falcón y de Veyga– y a psiquiatras y criminólogos civiles 
+–como Ramos Mejía y él mismo– en la empresa de modernizar la policía de 
+la ciudad de Buenos Aires y el mismo ejército nacional (Salessi: 127). De este 
+modo, Ingenieros quedó incluido en esa corriente que se ha denominado libe-
+ral reformista, caracterizada por haber atravesado sectores políticos tanto del 
+oficialismo como de la oposición y haber capitalizado experiencias reformistas 
+de diverso sesgo ideológico. Se procuraba, en síntesis, introducir modificaciones 
+en las instituciones vigentes sin llegar al cambio revolucionario-radical que 
+proponían los anarquistas y otros sectores afines. 
+Entre los rasgos que distinguieron el accionar de estos sectores reformistas se 
+destacan la conjugación de su actividad profesional con la vida académico-inte-
+lectual y la vocación de intervención política, la ideología de sesgo progresista 
+–muy frecuentemente, anticlerical–, la preocupación por resolver las cuestiones 
+sociales en el marco de la legalidad y el afán de insertar a la Argentina en el 
+contexto moderno internacional. Asimismo, el recurso al cientificismo para 
+orientar las políticas sociales convirtió al biologicismo en un lenguaje común 
+para las propuestas de diverso signo ideológico que buscaban legitimación 
+intelectual (Zimmermann: 15 ss.). 
+En el marco de esta actividad estatal-reformista, encontramos a Ingenieros 
+cumpliendo la función de jefe de clínica del Servicio de Observación de Aliena-
+dos de la Policía Federal, desde 1900 hasta 1903. En ese ámbito, su labor clínica 
+se vio orientada por razones de orden social como la prevención del crimen y la 
+evaluación de la culpabilidad de los delincuentes, con todos los efectos legales 
+y penales que esto podía conllevar. En efecto, para la legislación entonces 
+vigente, determinar que un criminal padecía locura era razón suficiente para 
+excarcelarlo, ya que no cumplía con el requisito de intencionalidad requerido 
+por la ley penal para declararlo culpable. Este era la clase de conflicto que 
+Ingenieros denunciaba cuando decía que las “ciencias nuevas” estaban siendo 
+usadas para sacar ventaja de los intersticios de las “leyes viejas” por los abogados 
+defensores de los delincuentes. Su propuesta, como la de varios otros, era que 
+la determinación de irresponsabilidad del delincuente basada en el peritaje 
+psiquiátrico, aunque suficiente para eximirlo de la pena de prisión, implicara 
+74
+Cristina Beatriz Fernández | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+la reclusión manicomial2. Ingenieros exponía sus opiniones sobre la base de 
+analogías entre el orden natural y social, analogías que ayudaban a extremar 
+sus argumentos con el fin de connotar los peligros que habían invadido el seno 
+de la vida urbana y moderna:
+…¿se le ocurriría a alguien sin hacer pensar en el absurdo, que si apareciera 
+una víbora en nuestra casa debiéramos conservarla, porque al morder y 
+envenenar no obraba con discernimiento, sino que seguía impulsos deriva-
+dos de su naturaleza? Creo que ni aun a los más exagerados protectores de 
+animales se les ha ocurrido nunca semejante peregrina teoría.
+	
+Sin embargo, bastaría hacer una simple consideración de analogía para 
+llegar a la conclusión de que es semejante la defensa que la sociedad debe 
+oponer al criminal, al animal dañino y a las fuerzas naturales que tiendan 
+a destruirnos (Ingenieros [1916]: 435).
+Sin embargo, esa clase de absurdos parecían concretarse en casos como el 
+siguiente, que Ingenieros publicó para poner de manifiesto la peligrosidad 
+social de sujetos alienados y, por lo tanto, eximidos de los castigos de las leyes 
+entonces vigentes: 
+N.N., español, soltero, de treinta y un años de edad, jornalero, hace varios 
+años inmigró al Brasil.
+	
+Hará tres años, más o menos, comenzó a sentirse enfermo, con dolores 
+de cabeza y debilidad nerviosa, sin conocer la causa de su malestar. Una 
+intensa introspección y el caviloso estudio del medio en que vivía, llevá-
+ronle a creer que era objeto de persecuciones; día por día le era posible des-
+cubrir nuevos signos de ello. Llegó un momento en que las persecuciones 
+le parecieron terribles, siéndole imposible vivir tranquilo.
+	
+Estando así las cosas, N.N., resolvió defenderse, librando una batalla 
+campal en la vía pública, contra transeúntes y policianos que le eran des-
+conocidos y que consideró sus perseguidores. Mató a uno e hirió a seis o 
+siete. En la refriega N.N., recibió diez heridas incisas y lácerocontusas, cuyas 
+cicatrices conserva en varias partes de su cuerpo.
+	
+Reducido a prisión fue pasado a la cárcel. El sumario duró veinte 
+meses. De la cárcel fue puesto en libertad, en lugar de ser encerrado en un 
+manicomio. Es evidente que se tuvo en cuenta su estado de alienación mental 
+para declararlo irresponsable e imponible, suprimiendo toda defensa social 
+2	 La literatura había representado esta situación en textos como la novela Irresponsable del médico 
+Manuel Podestá, publicada en 1889. En la misma línea, en una charla dictada en el Colegio 
+Nacional, el 27/6/1888, Luis M. Drago lamentaba las decisiones judiciales que “consagran 
+la impunidad para los más peligrosos malhechores y los más ocasionados a reincidir, los que 
+proceden por fatalidad de un desorden patológico” (Drago: 30). Esa conferencia se publicó en 
+forma de libro como Los hombres de presa. 
+75
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+contra un sujeto que de tan siniestra manera acababa de probar su temibili-
+dad (Ingenieros [1916]: 430-431. Nuestra bastardilla).
+En torno de problemas similares fue escrita su Criminología, en la que 
+trataba de sostener esta clase de argumentos ejemplificando con casos clínicos 
+que ponían en evidencia el maridaje entre servicios psiquiátricos y policíacos. 
+Ya se demostró cómo en la Argentina de fines del siglo XIX, la ficción posibilitó 
+el tratamiento de temas científicos pertenecientes a disciplinas no establecidas 
+ni aceptadas socialmente, mientras que géneros científicos como las historias 
+clínicas y los informes médico-legales adoptaban recursos propios de la ficción. 
+Eso fue posible gracias al cientificismo dominante en los textos de la cultura 
+letrada argentina, que establecía vínculos entre el discurso científico, el discurso 
+histórico, el discurso realista y el discurso fantástico, a partir de una unidad 
+narrativa simple: el caso. El predominio de esta estrategia narrativa se vinculó 
+estrechamente con el desplazamiento del saber médico desde temas propios 
+de la salud individual hacia el orden social, con la consiguiente expansión de 
+los alcances y compromisos de la profesión de la medicina, que excedió así el 
+perfil de la figura del clínico para configurar la de un intelectual científico. El 
+avance, entonces, de los médicos y científicos sobre otras esferas de la cultura 
+y la sociedad fue de la mano de la ampliación de su inserción institucional 
+y del prestigio, también ampliado, de estrategias discursivas que rebasaron 
+el campo de acción disciplinario original (Salto 2002: 191 ss.). Respecto del 
+caso clínico, aceptamos la descripción que ofrece de él Graciela Salto, quien 
+sostiene que se trata de 
+…un tipo de narración que sigue un modelo establecido desde el naci-
+miento de la clínica. El paciente es identificado por alguna abreviatura, se 
+consigna su edad, origen y, de acuerdo con las teorías frenopáticas del siglo 
+XIX, su temperamento. Inmediatamente después se informa la historia de 
+la enfermedad actual, la historia clínica anterior, los exámenes y estudios 
+realizados, sus resultados y, por último, el tratamiento prescripto. Se evita 
+la primera persona testimonial del médico que intervino en el tratamiento 
+y se adopta, en cambio, una tercera persona narrativa que sustenta la auto-
+ridad de la narración construida (Salto 1989: 259, nota 2)3.
+3	 La misma autora advierte que la historia clínica que surge de la entrevista entre el médico y el 
+paciente, más que la historia de vida del segundo, podría verse como la historia de la relación 
+del médico con los síntomas del paciente, puesto que tras el primer acto narrativo –la narración 
+oral del paciente– se produce un segundo acto consistente en la apropiación y alteración del 
+discurso del otro, generalmente en forma escrita. Por otro lado, si la historia clínica responde 
+a una demanda institucional, el caso se conforma como tal debido al impulso o necesidad de 
+divulgar una anécdota ejemplar (Salto 2004: 119-120).
+76
+Cristina Beatriz Fernández | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+Ahora bien, lo que nos interesa destacar aquí es el parentesco entre la 
+forma narrativa de los casos clínicos y el modelo biográfico, tan propio de la 
+historiografía positivista decimonónica, que en gran medida se basaba en la 
+figura de los héroes y el rol jugado por las vidas de los grandes personajes en el 
+drama histórico (Aguirre Rojas: 11). Como parte de esa expansión de roles, los 
+médicos ya habían incursionado en la investigación historiográfica, realizada, 
+en consecuencia, desde una perspectiva clínica, lo que había producido esa 
+asociación entre el caso clínico y la biografía, como lo muestra claramente el 
+proyecto esbozado por Ramos Mejía en Las neurosis de los hombres célebres de 
+la historia argentina. 
+En cuanto a la biografía, aceptamos definirla como un tipo discursivo o 
+género que consiste en 
+…el intento de reconstruir y explicar las modalidades específicas que ha adop-
+tado, y luego la significación y el impacto que ha tenido, la curva integral de la 
+vida de un personaje determinado o de un individuo elegido, personaje o indi-
+viduo que se encuentra necesariamente inserto dentro de un contexto múltiple 
+también específico (Aguirre Rojas: 15. Bastardilla del autor).
+Lo que tienen en común los casos o historias clínicas y las biografías es, 
+entonces, la estructura básica de ser historias de vida. En efecto, a partir de la 
+identificación de la patología o peculiaridad de un sujeto, los casos narrativi-
+zan la historia de una vida, privilegiando aquellos puntos de contacto con la 
+historia de una patología, pero asignando un orden coherente a los hechos y 
+signos patológicos que requieren esta visión normalizadora del médico-escritor 
+(Cfr. Salto 1989: 259). No son historias de vida cualesquiera sino de sujetos 
+cuya singularidad merece ser contada y atendida. Ya Hugo Vezetti insinuó 
+esta analogía entre los casos clínicos y las biografías de hombres destacados al 
+decir que “[e]l caso, anónimo en cuanto a su portador social, es sin embargo 
+heredero del hombre superior en cuanto recibe una idéntica voluntad de hacer 
+pública su faz privada” (Vezzetti: 101). 
+Por otro lado, la configuración de los personajes, tanto de la biografía como 
+del caso clínico, se nutrió de recursos tomados de la novela contemporánea, en 
+una relación de circularidad que hace difícil esclarecer cuánto le debe la ficción 
+naturalista a los estudios de medicina mental y cuánto le debe esta última disci-
+plina al diseño de personajes prototípicos propios de la poética inaugurada por 
+Zola. Baste un ejemplo para ilustrarlo: los personajes históricos analizados en 
+el texto mencionado de Ramos Mejía comportan una locura cuyos parámetros 
+ellos mismos ayudan a definir. Por esta razón, “los personajes parecen preceder 
+y guiar a la nosografía” y tendríamos aquí uno de esos casos en que la novela 
+77
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+ejerció su “influencia transformadora”, en el proceso que Bajtín denominaba 
+la “novelización” de otros géneros (Bajtín: 33). Según Vezzetti, 
+…toda una zona de la producción clínica psiquiátrica, considerada bajo 
+los cánones del naturalismo, no sólo merece ocupar un lugar en el espacio 
+de la literatura, sino que es propiamente un resultado elaborado sobre la 
+materialidad de ciertas zonas de la novela del siglo XIX (Vezetti: 186).
+Esta fusión de escrituras proveniente de diferentes archivos culturales y 
+disciplinarios es evidente en las fuentes heterogéneas que citaba Ingenieros. 
+Por ejemplo, en La locura en la Argentina, el capítulo “Locos y brujos en las 
+razas indígenas” se sostenía en los datos provenientes de fuentes tan diversas 
+como las Supersticiones y Leyendas de Ambrosetti, Una excursión a los indios 
+ranqueles de Mansilla, el “Ollanta [sic], drama pseudo-incásico” en el que “el 
+protagonista da muestras de delirio o locuras” (Ingenieros [1919]: 174), estudios 
+de folklore comparado, procesos inquisitoriales, textos de Nina Rodríguez y 
+Fernando Ortiz, entre otros.
+La identificación entre biografías de sujetos históricos, personajes típicos 
+y casos clínicos era tal que autorizaba a Ingenieros a decir, evaluando Nuestra 
+América de Carlos Octavio Bunge, que el libro quinto consistía en “tres sem-
+blanzas de caciques hispano-americanos” –Rosas, García Moreno y Porfirio 
+Díaz–, para hacer de inmediato una valoración de estilo: “se lee con interés 
+sostenido, sin decaer un solo momento” y justificaba la elección de personajes 
+hecha por Bunge en estos términos: “Los tipos –como si dijéramos los casos 
+clínicos– están elegidos con felicidad: los Monagas, los Santa Ana, los Guzmán 
+Blanco, los Piérola, tienen una personalidad menos característica” (Ingenieros 
+1918: 26). Seguía así la interpretación que les daba el mismo Bunge cuando 
+hablaba de los “casos clínicos” que iba a analizar en el libro (Bunge: 49).
+Esto último entra en colisión con el requisito de anonimato del caso 
+clínico estándar. Efectivamente, al extrapolar la forma analítico-narrativa 
+del caso clínico para hacer referencia a personajes célebres de la historia o a 
+criminales famosos, el anonimato se perdía. Así había ocurrido con el famoso 
+caso Castruccio, un célebre envenenador a quien se había logrado descubrir 
+porque sistemáticamente cobraba seguros de vida que había sacado sobre sus 
+víctimas y que tuvo un éxito muy sonado en la prensa finisecular argentina. 
+Sobre Castruccio ya había escrito Drago en Los hombres de presa e Ingenieros, 
+quien conoció al asesino cuando ya estaba preso, lo definió como un “espíritu 
+en que parecían alternarse personajes de tragedia griega y de sainete picaresco” 
+(Ingenieros [1916]: 337) e incluyó su caso en Criminología, al par de otros menos 
+famosos, en los que preservaba el nombre de los pacientes. El caso Castruccio 
+78
+Cristina Beatriz Fernández | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+era un buen ejemplo de la incursión de elementos novelescos en la retórica de 
+las narraciones clínicas. Escribía Ingenieros:
+…La descripción fidedigna de sus tentativas de cloroformización es una 
+página de psicología criminal digna de tentar la pluma de un novelista. Cas-
+truccio, protegido por la obscuridad de la noche, se acercaba a la cama de su 
+víctima cuando ésta ya dormía, aproximaba lentamente a su boca un trapo 
+humedecido en cloroformo y la dejaba respirar un momento: en seguida, 
+embebía más el trapo y volvía a aproximarlo, cuidando evitar todo contacto 
+que pudiera despertar a la víctima, cuya expresión fisonómica adivinaba, más 
+que veía, con curiosidad siniestra. Poco a poco aumentaba la dosis del anes-
+tésico: Constantin se agitaba un poco y despertaba; entonces Castruccio se 
+agazapaba en las tinieblas, conteniendo el aliento para que no se sospechara 
+su presencia. Luego, cuando el rumor de la respiración profunda le avisaba 
+que Constantin dormía de nuevo, recomenzaba la tarea protegido por la 
+sombra: con la perseverancia de un artista que modela el barro indócil hasta 
+arrancarle una forma que traduzca fielmente la concepción de su ingenio 
+(Ingenieros [1916]: 337. Nuestra bastardilla).
+Tentado como el novelista mencionado al principio de la frase, Ingenieros 
+se demoraba en una narración casi policíaca, graduando el tiempo narrativo 
+para generar el suspenso al estilo de una novela de detectives. Así narraba, 
+con morosidad, el momento en que Castruccio iba a sufrir la pena de muerte, 
+suspendida merced a un indulto presidencial conseguido a último momento 
+por su defensa:
+…Pasaron los últimos minutos… el indulto [presidencial] no llegaba… lo 
+pusieron en marcha hacia el banquillo en medio del pavoroso aparato que 
+suele rodear a esta clase de espectáculos. El piquete de ejecutores estaba 
+en su sitio; los presos asomados tras los barrotes de sus celdas; un grupo 
+lúgubre de curiosos callaba; en torno suyo un silencio de catacumba; sólo 
+interrumpido por las oraciones del sacerdote que marchaba a su lado…
+…
+	
+En ese momento llegó el indulto y Castruccio volvió a su celda, mur-
+murando que lo ocurrido le parecía el cuento del muerto resucitado (Inge-
+nieros [1916]: 339).
+Es curioso que el propio Castruccio homologase su experiencia a un relato 
+ficcional. Pero más significativo es que Ingenieros, en el primer fragmento 
+citado, hubiese equiparado al criminal con un artista, poniéndolo en paridad 
+intelectual con este médico que, al fin y al cabo, era también un poco novelista. 
+En otro pasaje, elevaba el enfrentamiento entre médicos y criminales a instan-
+cias más sutiles al relatar un duelo entre dos orgullos: el que el criminal-artista 
+sentía por su creatividad asesina y el del médico, por su sagaz investigación. 
+79
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+Un duelo entre ingenios y vanidades profesionales que concluía con la victoria 
+del médico, tras obtener la confesión de Castruccio:
+El examen químico de las vísceras reveló que se trataba de un envenena-
+miento por el arsénico; pero Castruccio se mantenía firme en negar su par-
+ticipación en el delito. Sin embargo toda su conducta defensiva falló por no 
+contener una frase que halagaba su vanidad teatral y que surgió espontánea de 
+sus labios al ser sorprendido por una observación perspicaz del doctor Agus-
+tín J. Drago; éste le manifestó su seguridad de que, no obstante la intoxica-
+ción, Bouchot había fallecido por asfixia debido a la oclusión de la boca y de 
+la nariz. El criminal, que hasta allí había negado con obstinación, rompió 
+imprevisoramente su reserva, como felicitando al médico por su intuición: 
+‘Es verdad –dijo, con voz tranquila y fisonomía sonriente–, lo maté como 
+Otelo a Desdémona’ (Ingenieros [1916]: 338. Nuestra bastardilla).
+Si las historias de vida en que consisten estos casos clínicos se acercan al 
+modelo biográfico, es porque el examen del alienista necesita exceder ciertos 
+límites del análisis clínico normal, al necesitar ir más allá del cuerpo, hacia 
+las conciencias e, incluso, el contexto social. Así se establece otra clase de rela-
+ción con la temporalidad, que supera la relación temporal causa-efecto para 
+llegar a vislumbrar la conformación de una personalidad. Desde el trabajo 
+psiquiátrico, el cuerpo cede lugar a la evolución de una biografía y, con ella, 
+al tiempo de la historia: 
+El límite del cuerpo estalla y ese ejercicio inquisitorial metódico podrá 
+abrirse a la vida familiar y social, al medio histórico y al campo de los valo-
+res… y no debe extrañar que tantos médicos del espíritu se hayan extendido 
+hacia la filosofía y la literatura (Vezetti: 82).
+Se podrá argumentar, teniendo en cuenta nuestra referencia inicial a la 
+criminología italiana, que el lombrosianismo apuntaba, justamente, a buscar 
+una equivalencia entre la semiosis corporal y los atributos mentales y morales, 
+pero alienistas como Ingenieros no estaban de acuerdo con esta traducción al 
+cuerpo de los rasgos de la mente. El dato físico no era para él un correlato de 
+la psiquis, de ahí la necesidad de indagar en la historia y el lenguaje4. En la 
+4	 El mismo Ingenieros nos informa que, en ocasión de participar como delegado argentino al V 
+Congreso Internacional de Psicología que tuvo lugar en Roma en 1905, presentó una propuesta 
+para una nueva clasificación de los delincuentes basada en el análisis de sus caracteres psico-
+patológicos, en desmedro de los caracteres físicos, que eran los privilegiados por la escuela 
+lombrosiana. Ingenieros opinaba que el estudio de los caracteres físicos “en los degenerados y 
+particularmente en los delincuentes debería considerarse secundario, siendo los caracteres psí-
+quicos los más importantes para su diferenciación”. En parte, trataba de explicar por qué no todos 
+los “degenerados” que compartían ciertos atributos físicos caían en la delincuencia. Su crónica 
+finalizaba con el informe de la propuesta del autor en el congreso –que avivó un serio debate–, 
+80
+Cristina Beatriz Fernández | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+misma línea, su amigo Florencio Sánchez había tenido que luchar contra los 
+prejuicios instalados por el lombrosianismo al caracterizar al caudillo de Rio 
+Grande do Sul, Joao Francisco Pereyra de Souza:
+Lo habréis imaginado, sin duda, un indio alto, empacado, cerduno, con 
+la cara llena de tajos, viruelas y costurones, y si no bizco, tuerto. Sus men-
+tas, su trágica reputación tantas veces encarecida, parece no admitir otra 
+fisonomía ni otra encarnadura que la consagrada en las mentes por las 
+vulgarizaciones del lombrosianismo, y tal es nuestra certidumbre de que se 
+ha acendrado este juicio en el público, que tememos, al concluir el retrato 
+del gran vándalo riograndense, se nos grite: ¡Mentira! ¡Falsedad!
+	
+Se dirá: ¡No puede ser joven, ni buen mozo, ni fino, ni elegante, ni 
+culto, ni amable, ni espiritual, semejante bellaco! Empero, no tenemos más 
+remedio que resignarnos a conceder a Joao Francisco Pereyra de Souza, la 
+atenuante de ciertos adornos físicos y morales (Sánchez: 24)5.
+En ese sentido, Ingenieros tomaba distancia de Lombroso y se acercaba a 
+Morel, porque su caracterización tanto del loco como del delincuente –que 
+involucraba una analogía entre ambos– no era morfológica sino moral (Marí: 
+62). Asentado más en la historia de vida que en la caracterización física, hacía 
+explícita la equivalencia entre sus casos clínicos y la dimensión biográfica, lo 
+cual permitía, a su vez, leer biografías de personajes históricos como evidencias 
+clínicas. Por ejemplo, al referirse a los estigmas y otras marcas físicas ostensibles 
+en el cuerpo de algunos santos, sostenía que 
+Tales hechos, así como los sudores de sangre y ciertas equimosis espontá-
+neas, lejos de ser negados por la ciencia, recibieron de ella su más indiscu-
+tible consagración. Con esta diferencia: ya no son atribuidos a intervencio-
+nes diabólicas o divinas, carecen de carácter extraordinario o sobrenatural, 
+y están libres del significado místico que les atribuyen los biógrafos religio-
+sos. Son simples fenómenos de patología nerviosa y mental; pueden obser-
+varse y repetirse experimentalmente en las clínicas, donde su determinismo 
+y su patogenia son estudiados como los de otros accidentes tróficos de la 
+histeria.
+	
+…Leyendo la vida [de Francisco de Asís] es forzoso admitir la neurosis 
+histérica del santo personaje; es una larga historia clínica, como se redactan a 
+lamentando que el rol alguna vez revolucionario desempeñado por Lombroso –asistente de honor 
+al evento– hubiese devenido en un dogma: “Tal vez la presencia de Lombroso sea un obstáculo a 
+esta renovación de su escuela; por una ley general, todos los revolucionarios de hoy llegan a ser 
+los conservadores de mañana, cuando la marcha de su propia obra sobrepasa los límites que ellos 
+señalaron en su concepción primitiva” (Ingenieros 1908: 114, 116). 
+5	 Estos textos fueron originalmente publicados en los Archivos de Psiquiatría, dirigidos por 
+Ingenieros, en mayo de 1903. 
+81
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+menudo en los hospitales y manicomios… (Ingenieros [1904]: 101. Nues-
+tra bastardilla)6.
+Al ser homologados a biografías, los relatos de casos clínicos narrados 
+por Ingenieros exhiben algunas marcas peculiares: en primer lugar, gracias 
+a ese lenguaje biologicista, es notable la extrapolación de los caracteres del 
+individuo a la raza, con todo el determinismo que esta clase de operaciones 
+implica7. Cabe aclarar que la raza era una confusa noción que oscilaba desde 
+lo histórico-cultural hasta lo biológico, una idea que había sido prestigiada por 
+el romanticismo, el positivismo, la sociología evolucionista y la mayor parte de 
+las corrientes de pensamiento de la época (Real de Azúa: 164)8. Incluso para el 
+pensamiento socialista, la desigualdad humana era un presupuesto justificado 
+científicamente por argumentos de tipo racial. En palabras de Enrique Ferri: 
+…el socialismo científico (es decir, aquel que se inspira en la teoría de Marx 
+y que es el único que hoy merezca ser sostenido o atacado) no niega para 
+nada la desigualdad de los hombres, ni la de los demás seres vivientes –des-
+6	 En la misma línea, habla de una obra literaria como el Quijote, describiéndola como la “mara-
+villosa historia clínica de un alienado” (Ingenieros [1900-1902]: 167).
+7	 Conviene tener en cuenta que “[e]n el racismo, cuya importancia en el siglo XIX es difícil 
+exagerar, la biología fue fundamental para la ideología burguesa teóricamente igualitaria, ya 
+que pasó de la sociedad a la naturaleza la responsabilidad de las evidentes desigualdades 
+humanas” (Hobsbawm: 261).
+8	 Michel Foucault explica cómo, a partir del siglo XIX, el lenguaje médico desplazó signifi-
+cativamente al lenguaje jurídico para pensar las relaciones políticas y sociales. Eso se debió 
+a que el discurso que, desde el pensamiento histórico-político inglés y francés de los siglos 
+XVII y XVIII, había entendido la guerra de razas como el sustrato de las relaciones sociales, 
+fue paulatinamente capitalizado por los biólogos racistas y eugenistas de fines del siglo XIX, 
+dando lugar al nacimiento de una biopolítica. Eso implicó una modificación en el concepto 
+de raza, que originalmente se acercaba semánticamente al de nación, puesto que denotaba 
+diferencias étnicas, de idioma y religión altamente relacionadas con el lugar de procedencia 
+de un grupo social. El siglo XIX llegaría a reformular el enfrentamiento social entre las 
+distintas razas o naciones –en el sentido originario de ambas expresiones– en los términos 
+biológicos y posevolucionistas de la lucha por la vida e incluso, a la sombra del pensamiento 
+marxista, como lucha de clases económicas en una sociedad. Así cobraría fuerza la idea de 
+que la raza que perjudica a una sociedad no es necesariamente una invasora visible sino 
+que se infiltra permanente y discretamente en el tejido social, degenerándolo. Institucio-
+nalizada como racismo de Estado, la lucha de razas autorizaría distintos dispositivos de 
+normalización social vinculados al discurso biológico-racista sobre la degeneración –como 
+el control del trabajo y la producción o la importancia concedida por la medicina a la higiene 
+pública– cuyo máximo exponente llegaría a ser el nazismo.
+	
+	
+Siempre según Foucault, el mismo socialismo del siglo XIX habría sido un racismo, 
+dado que no sólo no criticaba el biopoder sino que le asignaba al Estado la función de ges-
+tionar la vida. El antisemitismo del socialismo anterior al caso Dreyfus, fundado en la iden-
+tificación de los judíos con la clase capitalista, sería un ejemplo de lo antedicho.
+82
+Cristina Beatriz Fernández | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+igualdad innata y adquirida, física y moral–… el socialismo dice: Los hom-
+bres son desiguales, pero son hombres (Ferri: 11. Bastardilla del autor).
+Tal vez era esa omnipresencia de presupuestos raciales lo que autorizaba a 
+Ingenieros, en un caso como el que sigue, elaborar hipótesis para completar 
+la historia de vida de su paciente: 
+En febrero de 1903, concurrió a la clínica neuropatológica del hospital 
+San Roque, una joven de quince años, soltera, nacida en Rusia; aprende el 
+oficio de modista; es de raza judía, lee y escribe con dificultad, su hábito 
+de vida es normal, su constitución física excelente y satisfactorio el estado 
+de nutrición.
+	
+Sus antecedentes hereditarios no los conocemos bien; la enferma y su 
+familia no hablan más que el dialecto nativo; en español o alemán no con-
+siguen hilvanar una conversación. Por motivos étnicos puede suponerse, 
+sin afirmarlo, que hay herencia neuropática; en estos últimos años se ha 
+llamado, en efecto, la atención sobre la frecuencia de las neurosis y psicosis 
+entre los judíos (Ingenieros [1904]: 77).
+El recurso a datos raciales era una de las formas de llenar el vacío de la infor-
+mación necesaria para explicar las causas de las neurosis, no siempre evidentes 
+en el testimonio de los enfermos. Pero el médico-biógrafo no sólo especulaba 
+para llenar ese vacío de origen, también predecía desarrollos ulteriores de la 
+conducta en el intento de ofrecer un final con sentido a esa biografía clínica. 
+Por ejemplo, en el relato en que describía la conducta de un “delincuente oca-
+sional” que había padecido “amoralidad accidental”, leemos:
+X.X., joven de excelentes condiciones, empleado como cajero en una casa 
+de comercio, donde goza de la más absoluta confianza por sus óptimos 
+antecedentes. Tenía costumbre de tomar algunos fondos de la caja para su 
+uso personal, que reponía escrupulosamente pocos días más tarde; jamás 
+había tenido la intención de robar a sus patrones, y creía, de buena fe, 
+que esos pequeños usos del dinero confiado a su custodia eran lícitos y 
+honestos. No comunicaba el hecho a sus patrones por creerlo innecesario, 
+dado su propósito, siempre cumplido, de reponer los fondos en plazo de 
+pocos días.
+	
+Con motivo de ser el día onomástico de su novia dispuso, como de 
+costumbre, de mil pesos, cifra exigua con relación a las que solía tener bajo 
+custodia. Advirtió el hecho el contador del establecimiento, que aspiraba 
+a ocupar su puesto por ascenso, y lo denunció a sus patrones; instigados 
+por el delator, resolvieron hacer un arqueo de caja, comprobaron la falta, y 
+decidieron dar parte a la policía antes que al mismo cajero.
+83
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+	
+Fue procesado. Carecía, en absoluto, de todo mal antecedente poli-
+cial. Fue condenado a un año de prisión, que cumplió en la Penitenciaría 
+Nacional. 
+	
+Al salir de la cárcel se estableció en un pequeño comercio, contrajo 
+matrimonio al poco tiempo, y en pocos años ha adquirido una brillante 
+posición comercial, gozando de la más envidiable reputación por su labo-
+riosidad y la honradez de sus procedimientos (Ingenieros [1916]: 328).
+Al completar el itinerario de vida de este sujeto que logró reinsertarse en la 
+sociedad, Ingenieros iba más allá del fenómeno de amoralidad accidental que 
+había motivado la pericia psiquiátrica y colaboraba en ofrecer esa frecuente 
+visión normalizadora de la biografía que consiste en anunciar, ya desde el 
+principio, el final de la vida narrada: los “óptimos antecedentes” de este joven 
+que obraba “de buena fe” eran los que tornaban inteligible su conducta pos-
+terior, el éxito comercial y el respeto social alcanzados a pesar de haber sido 
+un presidiario. Tenemos, entonces, un ejemplo más de esa linealidad de las 
+historias de vida que pretendía construir una identidad estable y previsible para 
+los personajes. Sin embargo, este afán de coherencia entraba en conflicto en 
+los casos de locura, a primera vista, inexplicables, como el de un inmigrante 
+español, peón agrario y obrero en un horno de ladrillos de la estación Vela, 
+quien había cometido un imprevisto asesinato. Ingenieros hizo el relato de 
+una vida bastante típica, la de un inmigrante que había venido a la Argentina 
+a trabajar, llamado por su hermano, y la resumió en estos términos:
+…Tal es, brevemente reseñada, su biografía con anterioridad a la época en 
+que cometió su delito. Humilde, trabajador, económico, todo parece con-
+jugarse para demostrar que hasta entonces nada ocurría en él que pudiera 
+hacer presumir su deslizamiento posterior por la pendiente de la criminali-
+dad o la locura (Ingenieros [1916]: 344. Nuestra bastardilla).
+Sin embargo, y aun desacreditando el testimonio del propio enfermo, 
+necesitaba introducir una causa –una hipotética adicción alcohólica– para 
+justificar el cambio fundamental en el curso de acción de esa vida tan tranquila 
+y predecible (Ingenieros [1916]: 344-345).
+Como ya hemos visto, estos casos clínicos que Ingenieros llamaba “biogra-
+fías”, tenían la peculiaridad de requerir el relato del propio sujeto biografiado, 
+lo que los acercaba más a lo que hoy llamamos testimonio. Sin embargo, el 
+autor pretendía poner límites a las posibilidades de auto-análisis del biografiado, 
+autorizando sólo al médico para la interpretación. Ese era el conflicto que se 
+planteaba, por ejemplo, con el psicoanálisis, cuya concepción psico-sexual 
+Ingenieros concebía como el resurgimiento, “con sabia vestidura médico-psico-
+lógica”, de “la vieja teoría uterina de la histeria” (Ingenieros [1904]: 24) y que, 
+84
+Cristina Beatriz Fernández | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+a su juicio, llevaba la introspección a un grado peligroso, porque desdibujaba 
+en parte los límites entre el paciente y el médico o, en términos narrativos, le 
+daba demasiado poder al biografiado sobre su propio relato de vida:
+…La causa de los fenómenos histéricos consistiría, pues, en reacciones emo-
+tivas contenidas que siguen influyendo subconscientemente sobre la perso-
+nalidad, desequilibrándola, disociándola. De esta patogenia deduce Freud 
+el tratamiento, que se reduce a una verdadera confesión médica, hábilmente 
+conducida: los síntomas histéricos desaparecerían definitivamente cuando 
+se llegara a despertar en los sujetos recuerdos claros de los hechos que moti-
+varon la primera crisis y se les diera oportunidad de desahogar en el relato 
+la emoción contenida. Se trata –hablando en términos llanos–, de propor-
+cionar a los enfermos un desahogo verbal de sus traumatismos morales 
+inconscientes, tratando de hacerlos conscientes y de volver la personalidad 
+a su equilibrio. Es indudable que este autoanálisis de los histéricos puede 
+contribuir a la reasociación de lo consciente y de lo inconsciente, puestos 
+en pugna por el choque emotivo; pero se trata de un método no exento de 
+peligros, en cuanto el exceso de análisis puede conducir a un refinamiento 
+de la libido y ser de consecuencias nocivas en el porvenir (Ingenieros [1904]: 
+24. Bastardilla del autor).
+En síntesis, para Ingenieros, el paciente podía ser fuente de datos, pero no 
+el hermeneuta de su propia historia vital ni, mucho menos, de su enfermedad. 
+Por eso confiaba más en la hipnosis que en el psicoanálisis. Justamente esto es 
+lo que planteaba respecto de un caso tomado de un libro, en el que un hom-
+bre de treinta y cinco años de edad había dirigido al profesor Bechterew una 
+autodescripción de su risa obsesiva sumamente minuciosa. Tras reproducir 
+el relato del paciente –evidentemente en traducción propia, pues el libro que 
+menciona como fuente está en francés9– concluía: “En presencia de esta curiosa 
+autobiografía, el profesor Bechterew diagnosticó neurastenia” (Ingenieros 
+[1904]: 70-71). Ponía así en evidencia que diagnóstico y cura debían quedar 
+exclusivamente en manos del médico-biógrafo, que terminaba asignándole el 
+sentido final a la “autobiografía” del paciente.
+2. La pulsión autobiográfica
+De acuerdo con la definición del caso clínico que citamos en el primer apar-
+tado, estas formas de la narración biográfica se caracterizan por el anonimato 
+de la vida que exponen a la luz. Sin embargo, hemos visto que eso no siempre 
+se cumple, sobre todo cuando el biografiado es algún delincuente célebre o 
+9	 Sur le sourire obsédant, compte-rendu en Revue de Psychologie, octubre 1899.
+85
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+un sujeto histórico sometido a la disección del alienista devenido historiador. 
+Asimismo, encontramos otra variación, al menos en los casos narrados por 
+Ingenieros, en lo que parece ser una suerte de pulsión autobiográfica que horada 
+la objetividad e impersonalidad típicas de estas formas textuales.
+Esto se debía, en parte, a que Ingenieros constantemente introducía aclara-
+ciones tendientes a validar la información en su carácter de médico interviniente 
+y, en consecuencia, testigo de los casos clínicos narrados e iba así ganando un 
+protagonismo mucho más visible, como cuando afirmaba que “[t]odo el material 
+científico que se analiza en esta obra ha sido personalmente observado por el 
+autor en el servicio de Enfermedades Nerviosas de la Facultad de Medicina, 
+de que fue nombrado jefe de clínica a fines de 1900” (Ingenieros [1904]: 13), 
+o cuando agregaba información del siguiente tenor, ya no relacionada con lo 
+inherente al caso clínico sino con el circuito de prácticas del profesional médico, 
+que exhibía su rol tanto de investigador como de docente: “Presentamos esta 
+interesante enferma [de histeria] en una de las lecciones clínicas, del curso de 
+Psicología Experimental dictado en la Facultad de Filosofía y Letras por el 
+profesor Horacio G. Piñero” (Ingenieros [1904]: 41).
+A su vez, la referencia al propio médico, observador y narrador del caso 
+clínico, permitía digresiones del orden de la deontología, como también esta-
+blecer un distanciamiento, dentro del campo profesional, entre aquellos que 
+conjugaban ciencia y ética y los que violentaban los procedimientos moral-
+mente aceptables:
+Es pernicioso provocar sugestivamente alucinaciones experimentales en las 
+histéricas; por ese medio es fácil hacerles comer papas o esponjas, dicién-
+doles que son bombones, o hacerlas deleitar oliendo el imaginario perfume 
+de rosas que emana de una alcachofa puesta en su mano. Son juegos poco 
+serios y peligrosos, pues despiertan en la enferma la posibilidad de fenó-
+menos alucinatorios, que ella misma no sospecha hasta entonces. Ni en esta 
+enferma, ni en otra alguna de nuestro servicio, hemos practicado ni permitido 
+jamás la práctica de estas experiencias perjudiciales (Ingenieros [1904]: 42. 
+Nuestra bastardilla)10.
+Esta inclusión de núcleos narrativos que posibilitaba reconstruir el itinerario 
+de la conducta del médico, autorizaba simultáneamente a completar –como 
+vimos en apartados anteriores– la información no disponible con hipótesis gene-
+10	 En la misma línea, explicaba que “A fuerza de buscar las zonas [histerógenas] se excitan 
+determinados puntos del organismo (los de mayor sensibilidad, normalmente: mamas, ova-
+rios, etc.), determinando alguna vez un ataque; este hecho facilita su repetición, siempre que 
+se renueven sensaciones semejantes. Sin negar, pues, la existencia de zonas histerógenas 
+primitivas (aunque no las hemos visto) consideramos que generalmente resultan de la edu-
+cación y son obra del manoseo profesional” (Ingenieros [1904]: 42).
+86
+Cristina Beatriz Fernández | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+radas a partir de la experiencia y seriedad profesional. Por ejemplo, en el caso de 
+una mujer que había sufrido un ataque cerebral con algunas complicaciones, a 
+la escasa información obtenida en el examen clínico se había sumado el relato 
+de los accidentes previos, hecho por terceros: “su esposo nos refirió que, cuatro 
+años atrás, había sufrido un ataque análogo, quedando súbitamente paralizada 
+del costado derecho y afásica”. También se agregaban deducciones acerca del 
+accionar de otros colegas, en una cadena de hipótesis bastante frágil: “Había 
+sido examinada por el doctor Rabuffetti, domiciliado en las inmediaciones, 
+quien le había recetado una bebida, que suponemos fuera bromuro de potasio; 
+presumimos, por este dato, que diagnosticó hemiplejia histérica”. No obstante, 
+Ingenieros consideraba que ese diagnóstico estaba incompleto y opinaba que 
+otros síntomas de la enfermedad que él mismo había detectado eran “muy 
+dignos de ser publicados, no obstante no haber podido seguir y completar la 
+observación de la enferma”, pues, ante la recomendación de hospitalizarla, su 
+marido la había internado en el Hospital Francés, dado que la pareja era de 
+esa nacionalidad. A pesar de no haber podido tratarla en las clínicas a las que 
+tenía acceso, el celo profesional de Ingenieros se ponía de manifiesto en acla-
+raciones como la siguiente, que excedían la dimensión del caso que realmente 
+había podido observar: “Salió completamente curada, según nos comunicó un 
+vecino a quien pedimos datos sobre ella, no pudiendo verla personalmente, pues 
+su esposo cambió de domicilio durante la enfermedad” (Ingenieros [1904]: 50. 
+Nuestras bastardillas). Pese, entonces, a tratarse de un caso en que el diagnóstico 
+estaba incompleto –no pudo tratarla ni seguir su evolución porque la mujer 
+fue atendida en otra clínica–, lo incluye. Casi podríamos pensar que la única 
+justificación de la incorporación de este relato era exhibir el funcionamiento 
+del profesional de la medicina, altamente comprometido con su misión. 
+Pero éste no es el único caso que parece puesto al servicio no ya de la 
+ilustración de la enfermedad sino de la conducta del galeno. En referencia al 
+caso de una joven que había ido a su consultorio aduciendo que sudaba sangre, 
+Ingenieros trasladaba al lector su propia desconfianza, mientras lo aleccionaba 
+sobre la conducta a seguir con los histéricos: “Pudimos ratificar la verdad del 
+hecho, advirtiendo que en casos tales nuestra norma de conducta es la descon-
+fianza sistemática, pues sabemos que el afán de ser interesantes aguijonea a los 
+histéricos” (Ingenieros [1904]: 105. Bastardilla del autor).
+Asimismo, la información obtenida en la entrevista con el paciente se 
+completaba con observaciones efectuadas en otros contextos de la ciudad, 
+como vimos que había ocurrido con los relatos del marido y los vecinos de la 
+señora francesa enferma. Un ejemplo de esto sería el episodio protagonizado 
+por una chica histérica, que tenía la idea fija de que su nariz era fea, sin que los 
+87
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+comentarios de otras personas pudieran hacerla cambiar de opinión: “Rechaza 
+terminantemente que pueda tratarse de autosugestión y se dice ofendida por 
+los médicos, pues pretenden negar su deformación y afirman que son ideas 
+suyas”. La situación, bastante extrema, llega al punto de que 
+[e]l sentimiento de ridículo la domina: si saliera a la calle sin tul, todo el 
+mundo se reiría de ella. Sin embargo, en esto hay exageración, pues una 
+mañana, en compañía de un estudiante de medicina, la encontramos en 
+la calle sin tul y aparentemente muy tranquila (Ingenieros [1904]: 148. 
+Bastardilla del autor). 
+Pero quizás el pasaje más elocuente al respecto sea el que alude a las desvia-
+ciones de la conducta de la población negra y la locura o el estado de trance de 
+las mujeres que hacían el baile del santo. Ingenieros apelaba aquí a una anécdota 
+curiosa de su adolescencia que vale la pena citar completa:
+Las mujeres que bailaban el santo solían enloquecerse, si ya no lo estaban a 
+medias; eran, por lo general, las más ardorosas de temperamento y livianas 
+de costumbres, siendo creencia general entre los negros que tenían gancho 
+para hacerse desear de los blancos, según podía inferirse del hecho que 
+solían tener hijos blanqueados… En Buenos Aires alcanzaron los negros 
+su mayor auge durante la tiranía de Rosas, quien los protegía para usarlos 
+en el espionaje de los blancos; después han desaparecido esas ceremonias, 
+junto con los negros, siendo tal vez uno de los últimos bailes del santo el 
+que hemos presenciado en la adolescencia, por el año 1893.
+	
+Debimos este favor a una cocinera negra que sirvió algunos años en 
+nuestra casa, ablancándose mucho sus ideas por hallarse entre personas exen-
+tas de toda superstición religiosa. Poco antes de la revolución de 1893, nos 
+ofreció llevarnos a ver algo que no había visto ningún blanco. Fuimos a un 
+edificio bajo que aún existe en la Avenida Alvear, donde solían reunirse 
+negros a bailar, y nos encerró desde la tarde en una habitación contigua a la 
+que sirvió por la noche para bailar el santo. Desde allí oímos todo y vimos 
+algo de la ceremonia que hemos descripto, la que tenía por objeto curar a 
+un negro loco perseguido por los mandingas. Posteriormente nos refirió que 
+al enfermo lo habían llevado a la Convalecencia, pues El Tata no lo había 
+curado, agregando despectivamente que los bailes del santo eran cosas de 
+negros (Ingenieros [1919]: 182. Bastardillas del autor).
+Es así como, entre líneas, en los casos clínicos se lee la biografía profesional 
+del médico –investigador, clínico, profesor y, también, sociólogo e historiador–, 
+un sujeto que insertaba su labor de análisis y archivo en la historiografía de 
+la ciencia nacional, cuando declaraba, en La locura en la Argentina, que había 
+juntado, por más de veinte años, 
+88
+Cristina Beatriz Fernández | 
+ XIII.13 (diciembre 2009) ISSN 0329-3807
+…cuantos datos y publicaciones llegaron a mis manos acerca de locos, 
+alienistas y asilos en la Argentina; constituyen una verdadera historia de 
+la psiquiatría en el país. Pensando que con mi muerte se perderían, sin la 
+seguridad de que otro pueda reunirlos por segunda vez, me he decidido 
+a ordenarlos en esta monografía, capítulo para la historia de la Ciencia 
+Nacional (Ingenieros [1919]: 169).
+Evidentemente, el Ingenieros narrador y biógrafo, a partir del tipo dis-
+cursivo de las historias clínicas, se aventuraba en interpretaciones de alcances 
+sociales más amplios. Y los casos analizados muestran también, al trasluz, la 
+biografía de un médico que ya desde la adolescencia sentía curiosidad por las 
+desviaciones mentales y morales ocultas en la ciudad moderna.
+Referencias bibliográficas
+Aguirre Rojas, Carlos Antonio. “La biografía como género historiográfico. Algu-
+nas reflexiones sobre sus posibilidades actuales”. O biográfico. Perspectivas 
+interdisciplinares. Organizador Benito Schmidt. Santa Cruz do Sul: EDU-
+NISC, 2000. 9-48.
+Bajtín, M.M. Estética de la creación verbal. México: Siglo XXI, 1999.
+Barthes, Roland. “Nota introductoria a La Bestia Humana de Émile Zola”. Tra-
+ducción de Gustavo y Sergio Cueto. Paradoxa. Literatura / Filosofía, X, 8 
+(1996): 119-122.
+Bunge, Carlos Octavio. Nuestra América (ensayo de psicología social). 1903. 
+Buenos Aires: La Cultura Argentina, 1918.
+Drago, Luis M. Los hombres de presa. 1921. Buenos Aires: La Cultura Argen-
+tina, 1988. 
+Ferri, Enrique. Socialismo y ciencia positiva (Darwin-Spencer-Marx). Traducción 
+de Roberto J. Payró. Buenos Aires: Imprenta de La Nación, 1895. 
+Foucault, Michel. Genealogía del racismo. 1975-1976. Traducción de Alfredo 
+Tzveibel. La Plata: Altamira, 1996. 
+Glick, Thomas F. “El impacto del darwinismo en la Europa mediterránea y 
+Latinoamérica”. Ciencia colonial en América. Ed. Antonio Lafuente y José 
+Sala Catalá. Madrid: Alianza, 1992.
+Hobsbawm, Eric. La era del imperio, 1875-1914. Buenos Aires: Crítica, 1998. 
+Ingegnieros [sic], José. Al margen de la ciencia. Buenos Aires: Lajouane y Cía., 
+1908. 
+Ingenieros, José. “Criminología”. 1916. Obras completas. Tomo II. Buenos Aires: 
+Mar Océano, 1962. 259-474.
+—— “Histeria y sugestión”. 1904. Obras completas. Tomo II. Buenos Aires: 
+Mar Océano, 1962. 7-166.
+89
+ XIII.13 (diciembre 2009) ISSN 0329-3807 | Las historias de vida en José Ingenieros: 71-89
+—— “Introducción”. Carlos Octavio Bunge. Nuestra América (ensayo de psico-
+logía social). Buenos Aires: La Cultura Argentina, 1918. 7-27.
+—— “La locura en la Argentina”. 1919. Obras completas. Tomo II. Buenos Aires: 
+Mar Océano, 1962. 167-258.
+—— “Simulación de la locura”. 1900-1902. Obras completas. Tomo I. Buenos 
+Aires: Mar Océano, 1962. 117-297. 
+Levin, Harry. “Zola”. El realismo francés (Stendhal, Balzac, Flaubert, Zola, 
+Proust). Barcelona: Laia, 1974. 373-451. 
+Marí, Enrique Eduardo. “José Ingenieros. El alienista, su loco y el delito”. Todo 
+es Historia, XV, 173 (octubre 1981): 58-62.
+Nordau, Max. Degeneration. 1892. Translated by George Mosse. Lincoln/Lon-
+don: Nebraska UP, 1993.
+Ramos Mejía, José María. Las neurosis de los hombres célebres en la historia 
+argentina. 1878-1882. Prólogo de José Ingenieros. Buenos Aires: Anaconda, 
+1936.
+Real de Azúa, Carlos. “Ambiente espiritual del 900”. Escritos. Montevideo: 
+Arca, 1987. 145-165.
+Salessi, Jorge. Médicos maleantes y maricas. Higiene, criminología y homosexua-
+lidad en la construcción de la nación Argentina (Buenos Aires: 1871-1914). 
+Rosario: Beatriz Viterbo, 1995. 
+Salto, Graciela Nélida. “El Cientificismo en la Literatura Argentina de fines del 
+siglo XIX”. Ometeca, 5/6 (2002): 189-199. 
+—— “El caso clínico: narración, moral y enfermedad”. Filología, XXIV, 1-2 
+(1989): 259-274. 
+—— “De las escenas de colegio a las escenas de hospital: la trama higienista 
+en narraciones, anécdotas y casos”. Higienismo, educación y discurso en 
+la Argentina (1870-1940). Edit. María Silvia Di Lisia y Graciela Nélida 
+Salto. Santa Rosa: Editorial de la Universidad Nacional de La Pampa, 2004. 
+113-136.
+Sánchez, Florencio. El caudillaje criminal en Sud América y otras páginas. 
+Buenos Aires: EUDEBA, 1966. 
+Vezzetti, Hugo. La locura en la Argentina. Buenos Aires: Paidós, 1985. 
+Zimmermann, Eduardo. Los liberales reformistas. La cuestión social en la Argen-
+tina, 1890-1916. Buenos Aires: Sudamericana/Universidad de San Andrés, 
+1995.
+Fecha de recepción: 25-04-08 / Fecha de aprobación: 10-09-08

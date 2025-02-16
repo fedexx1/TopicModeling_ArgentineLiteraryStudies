@@ -1,0 +1,1203 @@
+ 
+1 
+Cuadernos del CILHA n 35 – 2021 | publicación contínua  
+ISSN 1515-6125 | EISSN 1852-9615 
+Licencia Creative Commons CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha      
+Recibido: 10/04/2021 Aprobado: 11/06/2021 |  pp. 1-36 
+ https://doi.org/10.48162/rev.34.037 
+Performatividad y archivo, a partir del 
+Proyecto Atlas (de) las obras perdidas 
+de Beatriz Catani 
+Performativity and Archive, based on Beatriz Catani’s Project 
+Atlas (of) lost works 
+ 
+Óscar Cornago Bernal 
+ 0000-0002-3660-6392  
+Centro de Ciencias Humanas y Sociales del Consejo Superior de Investigaciones Científicas 
+ oscar.cornago@cchs.csic.es 
+ España 
+Resumen 
+Performance y archivo han definido dos grandes campos de investigación en artes a lo 
+largo del siglo XX. Este artículo explora las distancias y confluencias entre estos dos 
+territorios aparentemente opuestos tomando como punto de partida el Proyecto Atlas 
+(de) las obras perdidas (setiembre 2019 - ), de la dramaturga y directora argentina Beatriz 
+Catani. Con este fin se ponen en diálogo diversos episodios fundacionales del archivo y la 
+performance, como el Atlas Mnemosyne de Aby Warburg y la lectura que hace de este 
+Didi-Huberman, las fotografías de Jackson Pollock inaugurando la action painting o las 
+ideas de Allan Kaprow anticipando un nuevo territorio para las prácticas artísticas.  
+Palabras clave: Performatividad, Archivo, Fantasmas, Beatriz Catani, Aby Warburg. 
+ 
+Abstract 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+2  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Performance and archive have defined two great fields of research in the arts throughout 
+the 20th-century. This article explores the distances and confluences between these two 
+apparently opposite territories, taking as a starting point the Project Atlas (of) Lost Works, 
+by argentine playwright and theater director Beatriz Catani (september 2019 -). To this 
+end, various foundational episodes in the history of archives and performance are put 
+into dialogue, such as Aby Warburg's Atlas Mnemosyne and the analysis by Didi-
+Huberman, the photographs of Jackson Pollock inventing action painting or the Allan 
+Kaprow's ideas anticipating the future of artistic practices. 
+Keywords: Performativity, Archive, Ghosts, Beatriz Catani, Aby Warburg. 
+0. 
+Recuerdo que hace años en el debate que siguió a una conferencia que di en la 
+Universidad de Cali, en Colombia, sobre la figura del actor en la escena actual una 
+persona ya entrada en años, de quien después supe que era un conocido director 
+teatral de la ciudad, expresó de forma airada su rechazo más radical a la performance 
+(un término que, por cierto, yo apenas había utilizado), definiéndola como un atajo, un 
+truco para actores que no querían estudiar. No recuerdo las palabras exactas, lo que se 
+me quedó grabado fue la virulencia de su intervención, en la que fue elevando el tono 
+de voz hasta acabar de pie a gritos con el rostro enrojecido y las venas de la garganta 
+infladas.  
+Cuando volví a Madrid le conté a un amigo, un reconocido artista y performer, Jaime 
+Vallaure, aquel episodio, y me dijo que efectivamente la performance era justo eso, un 
+atajo. ¿Un atajo? Creo que en aquel momento no entendí bien a qué se refería 
+exactamente. ¿Un atajo para qué? Hoy me doy cuenta de que se trataba exactamente 
+de eso que enfurecía tanto a aquel director teatral. Un atajo para burlar la academia, 
+para trazar diagonales en la historia, trampillas para saltar el orden establecido, túneles 
+para conectar realidades discontinuas. La performance, que paradójicamente no tarda 
+en integrarse en la academia, nace efectivamente como un salto al vacío y un gesto 
+antiacadémico, un cortocircuito en la corriente de la historia, una manera de salirse del 
+marco del cuadro, bajarse del pedestal de la escultura o romper las convenciones del 
+escenario teatral.  
+ 
+Óscar Cornago Bernal  
+ 
+ 
+3  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+1. 
+La performance se ha convertido en un término de época. Cualquier cosa podría ser 
+vista en términos de performance o performatividad. Una persona, una reunión, un 
+paisaje o un cuadro de Velázquez pueden ser entendidos en función de los 
+procedimientos performativos a los que remiten. Como suele ocurrir con los cambios 
+paradigmáticos, como ocurrió con la semiótica, la posmodernidad y todos los pos que 
+le han seguido, incluido lo posdramático, y ocurrirá con la decolonialidad, una vez 
+pasado el momento de emergencia, estas miradas quedan asimiladas de un modo u 
+otro. Se convierten en términos de uso común, modas, corrientes, y en el mejor de los 
+casos puntos de partida para abrir nuevos derroteros. La pregunta que me hago es 
+desde dónde seguir hoy pensando el discurso de la performatividad, no como herencia 
+del pasado, identificada con ciertos géneros críticos y/o artísticos archivados por la 
+historia (Carlson, 2004), y que damos por sabidos, sino como una posición todavía 
+válida para seguir mirando, pensando y haciendo el mundo alrededor. 
+ 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+4  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Jackson Pollock & Lee Krasner in Pollock’s studio, 1950. Photo ©Hans Namuth Ltd. Courtesy Pollock-Krasner 
+House & Study Center.   
+Una de las imágenes icónicas del archivo de la modernidad fueron las fotografías de 
+Jackson Pollock que Hans Namuth hizo en 1950, pertenecientes a la Fundación Pollock-
+Krasner, de la que extraigo aquí la mitad de una de ellas, la correspondiente al artista, 
+el que hace, el que actúa. Seguramente, la encontramos en algún lugar de nuestra 
+memoria cultural, y si no, es fácil dar con ellas en ese archivo de archivos que es hoy 
+internet. El pintor aparece en su taller con ropa de trabajo. Un año después se pondrá 
+al aire libre en mitad de la naturaleza para la grabación del vídeo también de Hans 
+Nammuth en 1951. Pero en estas primeras está todavía en el interior de su estudio, 
+ligeramente inclinado sobre un gran lienzo dispuesto en el suelo. Se le ve concentrado, 
+con un bote de pintura en una mano y un pincel grueso en la otra esparciendo pintura 
+por uno y otro lado de la amplia superficie del cuadro. Está absorto en su tarea, aunque 
+nos lo imaginamos algo tenso y por momentos nervioso. Dos antes, la revista Life le 
+dedicó un reportaje firmado por Ben Cosgrove (1949) y acompañado con las imágenes 
+de Martha Holmes, en el que se lanzaba la siguiente pregunta: “Is he the greatest living 
+painter in the United States?”. 
+Estas imágenes no solo sirvieron para construir la historia de la performatividad en el 
+arte (De Diego, 2015), sino para lanzar a su autor como representante por definición de 
+una nueva corriente genuinamente americana, el expresionismo abstracto, un tipo de 
+pintura que quería romper todos los moldes, no solo por el estilo, sino por la puesta en 
+escena, los modos y actitudes con las que quedará identificada, con la que el país 
+americano tomaba el relevo del liderazgo que hasta entonces había tenido Europa en 
+el mundo artístico. Resulta significativo la utilización de este gesto inaugural en la 
+historia de la performance, que dará lugar a la denominada action painting, como una 
+estrategia, como supo ver nuestro airado interlocutor, una operación de marketing 
+cuya principal valedora era en aquel entonces Peggy Guggenheim, gran admiradora del 
+artista. 
+A la frase que encabezaba el reportaje de la revista Life se le podría yuxtaponer el 
+famoso comentario que la propia Lee Krasner (1978) atribuye a su profesor Hans 
+Hofmann, precursor del expresionismo alemán: “This is so good. You would not know 
+it was done by a woman”. Lo que hoy nadie duda es que su obra ocupa un lugar propio 
+Óscar Cornago Bernal  
+ 
+ 
+5  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+en la historia de la pintura. Aunque en aquel momento, como señala Estrella de Diego 
+(2015, p. 12) en su historia de las Artes visuales, su lugar en alguna de aquellas 
+fotografías, como podemos ver en esta otra mitad de la imagen anterior, sea el de 
+observadora desde un discreto segundo plano: la que mira frente al que sabe que le 
+están mirando; el que está frente al que no está. Como tantos otros artistas que han 
+vivido y trabajado en el lado B de la historia, Krasner quedó entonces excluida del 
+archivo de la modernidad, construido desde una visión de raza, género y clase social.  
+ 
+Hans Namuth, H. Lee Krasner and Jackson Pollock. [fragmento de foto] Hans Namuth Estate.  
+Center for Creative Photography  
+El archivo es una maquinaria política por definición, un mecanismo de inclusiones y 
+exclusiones. En este ejercicio esencialmente escénico radica su performatividad. Es la 
+dinámica que sirve para delimitar cualquier escenario público. Un archivo es otro tipo 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+6  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+de escenario público, caracterizado no solo por lo que contiene, sino por lo que no 
+contiene. Es a este segundo lado de lo que queda fuera a donde van a dirigir su mirada 
+tanto los archivos de creación como la performance en su intento por intervenir de 
+forma práctica en los límites que regulan la construcción de lo público.   
+A pesar de nacer como resistencia al archivo, la performance se halla sujeta por su 
+origen a este gesto intrínseco de rechazo al propio archivo. Toda performance sueña 
+con un archivo del que quiere escapar, porque no quiere convertirse en un resultado, 
+producto u obra identificada en la historia, sino realizarse como acción viva; y todo 
+archivo de creación es un archivo imposible porque cuestiona las lógicas 
+epistemológicas de los archivos oficiales. En este giro sobre sí mismo radica su 
+performatividad. Las cámaras y dispositivos de grabación que rodean al performer en 
+el momento de la acción son la puesta en escena de la tensión entre estos dos ámbitos. 
+La insistencia en su efimeridad señala el archivo, el documento, la historia y la 
+posibilidad del relato, como una imposibilidad frente a la que se define por oposición. 
+Sin embargo, hoy no solo existen numerosos archivos de performance, sino que la 
+performance en sí constituye uno de los capítulos centrales del archivo de la 
+modernidad que quiso dejar atrás, convirtiéndose en uno de sus ejes transversales. 
+Finalmente, habría que preguntarse si hubo alguna vez alguna performance que no 
+naciera para ser archivada. La emergencia del archivo de creación puede entenderse 
+como una respuesta a esta pregunta. 
+La relación entre performance y archivo es ciertamente paradójica, como lo es la 
+relación de la idea de acción con una cultura eminentemente teórica que ha funcionado 
+como una maquinaria de producir teorías, relatos de autoridad y modos de legitimación 
+de lo que debe entrar y lo que no debe entrar en los archivos. A pesar de su resistencia, 
+la performance terminó ocupando un puesto de honor en los archivos de la 
+modernidad, una muestra de las buenas intenciones del archivo, o parafraseando el 
+título de la conferencia de Derrida, del mal de archivo, que no son sus límites o 
+resistencias, sino el vórtice sobre el que gira un movimiento compulsivo hacia el pasado 
+como un modo de resolver el presente. El archivo se convierte en un síntoma de una 
+historia que a pesar de su obsesiva insistencia no consigue cerrarse sobre sí misma. 
+Óscar Cornago Bernal  
+ 
+ 
+7  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Poco después de la temprana muerte de Pollock en 1946, Allan Kaprow, otro de los 
+nombres clave de este giro cultural, escribe una reseña destacando la renovación que 
+había aportado este artista, las promesas que había traído consigo, pero también su 
+rápida neutralización por la historia. Lo que se prometía como una liberación de los 
+modos de entender y utilizar los medios artísticos se transforma pronto en un estilo 
+perfectamente reconocido y reconocible, integrado y proyectado desde las 
+instituciones:   
+El acto de pintar, el nuevo espacio, la marca personal que construye su propia 
+forma y significado, el embrollo infinito, la gran escala, los nuevos materiales, 
+son todos lugares comunes en los departamentos universitarios de arte. Las 
+innovaciones han sido aceptadas. Están empezando a formar parte de los libros 
+de texto (Kaprow, 2016, p. 43).   
+Sin embargo, no es esto lo que rescata del trabajo de Pollock, sino el mundo alrededor 
+que el giro performativo descubre, los objetos de la vida cotidiana, las rutinas del 
+artista, el medio que le rodea: “nos hizo ver que es necesario dejarse inquietar e incluso 
+deslumbrar por el espacio y los objetos de nuestra vida cotidiana, por nuestros cuerpos, 
+nuestra ropa, nuestras habitaciones y, si es menester, por la enormidad de la calle 42” 
+(Kaprow, 2016, p. 51). 
+Estos elementos en los que el impulsor del happening descubre un nuevo horizonte 
+para las artes, pertenecen a la cultura ordinaria, sobre la que se estaban volviendo 
+todas las miradas como una suerte de tabla de salvación, no solo en el mundo del arte 
+y la filosofía, sino también de la sociedad de consumo. Como conclusión de su proyecto, 
+La invención de lo cotidiano, Michel De Certeau define la cultura ordinaria como una 
+“ciencia práctica de lo singular” (De Certeu, Giard y Mayol, 1999, p. 265), frente al 
+conocimiento de lo general, las abstracciones y el rigor características del discurso 
+científico. El descubrimiento del mundo que tenemos más a la mano, las rutinas, 
+objetos, lugares y personas del día a día, será también el terreno desde el que nace la 
+performance y al que se vuelve el archivo. 
+La performance incorpora los límites de la modernidad. Como uno de los modos 
+artísticos y críticos que mejor define lo que quiere ser -acción, cuerpo, inmediatez, 
+experiencia-, expresa también lo que se le escapa. Unas limitaciones que, sin embargo, 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+8  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+no la han hecho desaparecer de la historia, al contrario: la respuesta fue su asimilación 
+dejándola perfectamente integrada en su lugar correspondiente. Hablar de 
+performance y producto es ya en sí una contradicción si tenemos en cuenta el rechazo 
+de la primera a ser considerada como producto, objeto o resultado en lugar de un 
+proceso vivo. No obstante de la insistencia en la experiencia y la acción, el discurso 
+sobre la acción y las prácticas nacieron como una construcción intelectual. Esto explica 
+su vinculación histórica con los conceptualismos o la enorme producción teórica de que 
+ha sido objeto en el ámbito académico.  
+Pocos años después de su nacimiento existían ya departamentos de universidad que 
+ofrecían un grado académico con este título. Su éxito hubiera hecho esperar que los 
+sistemas de producción, incluido el medio cultural, cambiaran, pero esto no fue así. 
+Nuestro furibundo detractor de la performance puede estar en este sentido tranquilo. 
+Su teatro de toda la vida y sus actores bien formados en los métodos de actuación 
+homologados por la institución seguirán gozando de buena salud. El discurso de la 
+performance remite a una práctica que es también una experiencia y un riesgo, pero 
+cuando en un platillo de la balanza se coloca la inmediatez de lo sensible y en el otro la 
+academia, de la que forman parte también los métodos con nombres propios y las 
+escuelas, el fiel de la balanza siempre se termina inclinando para el mismo lado. El poder 
+explicativo de la teoría instituida, encarnada por un sujeto abstracto y vigilante movido 
+por los principios de la autoridad, deja poco espacio para lo incierto de la experiencia 
+sensible. Este conflicto expresa la paradoja de un discurso cultural como la modernidad 
+cargado de buenas intenciones —y buenas teorías— pero cuyos modos de 
+implementación han tenido efectos contrarios. 
+La performance desaparece cuando se la nombra. Resulta inevitable. Desaparece para 
+quedar convertida en un relato ligado a unas operaciones de legitimación. La 
+performatividad de estas estrategias es la peformatividad característica de la 
+modernidad. El relato podría ser portador de una experiencia que permita traducir a 
+nivel sensible el momento al que se refiere, pero en la mayoría de los casos estas 
+narrativas se encuentran sujetas a una retórica que se define por su rechazo de lo 
+sensible en favor de las abstracciones. La performance podía haber dado lugar a otros 
+modos (prácticos) de hacer teoría, pero esto no sucedió, en su lugar se convirtió en 
+escuela, estilo, corriente o moda. Se hizo teoría de la performance como se hace teoría 
+Óscar Cornago Bernal  
+ 
+ 
+9  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+de cualquier otra cosa, porque la institución se organiza en función de unos códigos y 
+lenguajes, y ahí no cabe otra performatividad que la impuesta como forma 
+aparentemente universal de homologación de los resultados. De este modo, no solo se 
+terminó uniformando la teoría de la performance, sino la propia performance, que pasó 
+en un tiempo récord de tener un efecto de descolocación a convertirse en un clásico de 
+la modernidad.  
+La pregunta que me hago es si posible rescatar hoy este término más allá de los lugares 
+comunes y la aparente evidencia con la que se nos presenta la idea de acción y cuerpo, 
+el aquí y el ahora, la experiencia inmediata o el relato de lo que ya pasó. Se trata de 
+articular estos imaginarios para que no se reduzcan a un decorado cultural o una 
+estrategia de legitimación artística. Para ello hemos de empezar cuestionando la 
+evidencia de estas posiciones, lo que implica poner en riesgo el lugar de la acción y el 
+cuerpo, el aquí y el ahora, la experiencia y la historia; confrontar el hacer con el no 
+hacer, la academia con lo que queda fuera de la academia, lo que está pasando con lo 
+que ya pasó, el cuerpo con su ausencia.  
+2. 
+En sábado, 1 de mayo de 2021 09:46:55 GMT-3, Óscar Cornago 
+<oscarcornago@yahoo.com> escribió: 
+Hola Beatriz,  
+hoy es sábado, no suelo mirar el mail los fines de semana, pero andaba 
+desayunando (hemos desayunado tarde, de estos desayunos de sábado que 
+son casi una comida), y justo se me ocurrió un modo de arrancar con la 
+escritura de un artículo cuya fecha de entrega se me está echando encima. Las 
+ideas crecían, pero no daba con la manera de dar forma al relato, cómo poner 
+la maquinaria (de la escritura) en movimiento. Entonces se me ocurrió utilizar 
+nuestro intercambio de mails como parte de este artículo. El tema no es muy 
+distinto de lo que venimos hablando desde que empezamos con tu proyecto 
+de tesis sobre el archivo de tu propia obra, que he tomado como eje 
+transversal para el estudio.  
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+10  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+El objetivo es poner en diálogo dos campos aparentemente distantes como 
+son la performance y el archivo. Indagar en la performatividad del archivo y en 
+el archivo de algo como la performance, la puesta en escena, las artes vivas, 
+que parece nacer justamente como rechazo de ese archivo. Para ello voy a 
+recurrir a distintos proyectos y momentos singulares de cada uno de estos 
+campos. 
+Diría que, más que el archivo en sí, me interesan los mecanismos que lo 
+articulan, los desplazamientos, movimientos y descolocaciones que introduce 
+en ese tejido de relaciones que va generando, relaciones entre personas, pero 
+también entre tiempos, obras, formas y miradas distintos, y los vacíos que se 
+van creando entre medias. Vacíos recuperados de un pasado que se confunden 
+con los vacíos del presente. Los silencios que dejaron las obras que hicimos, y 
+las que no hicimos.  
+Si un archivo supone un tejido de relaciones que se va armando a medida que 
+crece, me veo como un nodo más de ese tejido que desborda los límites del 
+propio archivo para seguir creciendo por fuera. Me veo ahora dentro de un 
+archivo que remite a otro archivo. Hace casi veinte años fui por primera vez a 
+Buenos Aires. Iba con una beca de investigación y como parte del trabajo que 
+estaba haciendo comencé a consultar los fondos de la biblioteca del Teatro San 
+Martín, que estaba en la planta 5 o 6. Ya no recuerdo bien. Carlos, creo que se 
+llamaba el bibliotecario, un tío majísimo, antropólogo. ¿Le recuerdas? Ahí 
+empecé a revisar materiales sobre el teatro argentino actual. Fue ahí que tuve 
+noticias de tus primeras obras, de Cuerpos abanderados y Ojos de ciervo 
+rumanos, que tiempo después recogimos en aquel libro, Acercamientos a lo 
+real. 
+El arco temporal que se extiende desde esa escena inicial hasta el momento 
+actual, en el que me veo un sábado por la mañana escribiéndote este mail 
+como parte de un trabajo sobre otro archivo, es seguramente la motivación 
+secreta de este artículo, cuyo fin es tratar de entender qué ha pasado en ese 
+tiempo en términos de formas de trabajo, creación e investigación. Dónde 
+estábamos antes y dónde estamos ahora. Claro que esto no se puede entender 
+Óscar Cornago Bernal  
+ 
+ 
+11  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+sin tener en cuenta el período de confinamiento que nos ha tocado vivir y que 
+nos ha obligado a recurrir al archivo casi como un modo de supervivencia, otra 
+estrategia de supervivencia. Justo hoy leía en el suplemento literario de El País, 
+que suelo tener en el baño, un titular que decía “El aislamiento provocado por 
+la pandemia devolvió a muchos artistas a un formato que ha dejado de ser 
+privado o preparatorio de una obra mayor” (El País, 12 de junio, 2021). Si no 
+podemos hacer de un modo, habrá que probar otros. El archivo en definitiva 
+supone eso, otros modos de hacer y situarnos en el mundo sin necesidad de 
+fijar un resultado final.  
+Ese lapso que va desde un archivo otro, desde la biblioteca de teatro del San 
+Martín al Proyecto Atlas, describe una extraña parábola que hace saltar la 
+continuidad de los tiempos, la linealidad con la que entendemos el tiempo 
+histórico. Esta perspectiva lineal sirvió para explicar la evolución entre el teatro 
+dramático y las dramaturgias performativas, que luego se utilizarán para 
+estudiar tu trabajo (Radice y Donnantuoni, 2018), o entre el teatro de texto y 
+el llamado teatro posdramático; cuando en realidad lo que ha pasado es que 
+estos y otro modos teatrales y no teatrales se ha terminado confundiendo en 
+una variedad de posibilidades de hacer y trabajar con el teatro y con las 
+prácticas artísticas que va más allá de cualquier división binaria. En este lapso 
+no solo han cambiado los lugares y las fechas, sino sobre todo las posibilidades 
+frente a la historia. La linealidad interrumpida de la historia hace emerger 
+estratos distintos de tiempo, planos superpuestos ligados a lógicas y 
+causalidades diversas. Esta es la complejidad que despliega el archivo y su 
+performatividad característica.  
+En este sentido, creo que el Proyecto Atlas no es un proyecto más que venga a 
+sumarse a otros proyectos tuyos, sino que supone un salto cualitativo en el 
+tiempo, una posición distinta, una manera de hacerle un quiebre a la historia 
+para repensar sus propias formas de hacerse y deshacerse, que son las tuyas 
+propias como parte de unos contextos históricos. Esta posición, como se decía 
+en el diario, no busca un resultado previamente fijado, como una obra teatral 
+o una performance. Los resultados finalmente se irán produciendo a medida 
+que avanza el trabajo y respondiendo a planteamientos distintos en función 
+de las obras que se van archivando.  
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+12  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Recuerdo que un día hablamos sobre lo performativo o la performance, y 
+decíamos que hoy ya performance puede ser cualquier cosa. Me quedé 
+pensando en eso, efectivamente hoy de casi cualquier cosa se podría decir que 
+es performativo. Y si todo es performativo, finalmente nada sería 
+performativo. Esa nada es lo que en realidad me interesa, ese lugar difuso en 
+relación con este término y los discursos que se han generado desde ahí. En 
+qué medida o de qué modo podemos seguir rescatando hoy la nada de lo 
+performativo, quizá como un fantasma más del imaginario del siglo XX. 
+Quiero presentar la performatividad como una estrategia práctica, un modo 
+de dar soluciones prácticas a problemas reales, soluciones que se conjugan con 
+mundos imaginarios. Esto es lo que Bourdieu en su teoría de la acción llama la 
+razón práctica: la capacidad de aprovechar los recursos inmediatos del medio, 
+“las potencialidades inscritas -dice textualmente- en el cuerpo de los agentes 
+y en la estructura de las situaciones en las que estos actúan o, con mayor 
+exactitud, en su relación” (Bourdieu 7), es decir, la capacidad de aprovechar 
+los recursos que tenemos a la mano, de los espacios y relaciones de las que 
+formamos parte. Esta dimensión relacional, y yo añadiría operativa y práctica, 
+como dirá por aquellos años también De Certeau, es la que pone en juego la 
+performatividad en el campo de las artes y la imaginación como forma de 
+conocimiento por medio del hacer. 
+Para bajar esto a tierra, te confieso que uno de esos problemas reales a los que 
+quiero dar respuesta con este mail tiene que ver con el destinatario de la 
+escritura académica. Para quién se escribe un artículo como este, ¿para la 
+comunidad científica, para la humanidad, para la posteridad? ¿Cómo seguir 
+dando un sentido a esta maquinaria de producción de artículos en que se ha 
+convertido la investigación académica? Quizá para eso vale la performatividad, 
+para buscar soluciones prácticas a problemas reales. Soluciones que pasan al 
+mismo tiempo por un plano imaginario. Prácticas/hábitos/usos que nos abran 
+otros mundos y modos de hacer. 
+Abrazo grande, y que disfrutes el sábado. Voy a acabar el café. 
+Óscar Cornago Bernal  
+ 
+ 
+13  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+ 
+Catani, B. (2021). Proyecto Atlas (de) las obras perdidas. [captura de pantalla] 
+https://www.centrodearte.unlp.edu.ar/categorias_archivo/beatriz-catani-proyecto-atlas/ 
+3. 
+Proyecto Atlas (de) las obras perdidas tiene como eje la construcción de un archivo que 
+parte de los trabajos escénicos de Beatriz Catani (2020). El proyecto se inició con la 
+primera de sus obras, Cuerpos abanderados, cuyos resultados se editaron en formato 
+pdf y luego en vídeo, disponibles, como el resto de los materiales que se han ido 
+produciendo, en la página del proyecto alojado en el archivo del centro de artes de la 
+Universidad Nacional de La Plata. Aunque la idea inicial es seguir obra por obra, y 
+actualmente se está trabajando en la segunda, Ojos de ciervo rumanos, el proyecto se 
+ha traducido en distintas actividades e iniciativas que han descrito líneas de trabajo 
+diversas que han interferido en este orden inicial, ajeno a los mecanismos de la 
+memoria.   
+Las obras en sí mismas no son, sin embargo, el objeto del archivo, sino el punto de 
+partida desde el que se construye un mapa de relaciones cuyos nexos son los contextos, 
+mundos y personas con los que se ha ido poniendo en relación, con los reflejos y 
+sombras que han ido dejando. Estos contextos, mundos y personas, reflejos y sombras 
+son en definitiva el objeto de este archivo, que desde que nació en el 2019 no ha dejado 
+de probar formatos de trabajo y estrategias de relación distintas. De este modo, ha ido 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+14  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+creciendo con textos y documentos, imágenes, nombres, lugares y personas del pasado, 
+a los que se han sumado otros documentos y reflexiones, vídeos y acciones propuestas 
+ya desde el presente del archivo puesto en relación con esos pasados. De fondo late 
+una consistencia poética que transita entre el texto y la imagen, entre lo literario, lo 
+sonoro, el video y la acción.   
+La pregunta que lo mueve es por el modo de supervivencia de lo que ya no está. Cómo 
+algo vuelve a pasar en el momento en que es evocado de nuevo, actualizado, 
+incorporado. Esta es la pregunta por la historia y el interrogante para el que el archivo 
+de creación busca una respuesta práctica. Lo sensible en relación con los documentos 
+y los cómplices que se irán involucrando en este ejercicio colectivo de memoria son los 
+motores de estas búsquedas. Porque un archivo no se limita a la memoria de una sola 
+persona, se entrelazan también las memorias de los otros invocados al hilo de ese ir 
+recordando. La memoria de uno dialoga con la memoria del otro, lo que le da al archivo 
+una condición de memoria que se constituye a medida que se hace, y no ya 
+previamente instituida.  
+ 
+Catani, B. (2021). Proyecto Atlas (de) las obras perdidas. [captura de pantalla] 
+https://www.centrodearte.unlp.edu.ar/categorias_archivo/beatriz-catani-proyecto-atlas/ 
+Óscar Cornago Bernal  
+ 
+ 
+15  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+El archivo de Cuerpos abanderados está dividido en cinco secciones: imágenes, 
+memorias, textos críticos, análisis dramatúrgicos y datos relativos a la obra. La primera 
+se compone de imágenes que no provienen únicamente de la obra ni están sujetas a un 
+mismo tratamiento, sino que tanto las fuentes, el tipo de imagen, como los 
+procedimientos y modos de comentarlas y ponerlas en relación varían. Un principio que 
+caracteriza todo el archivo, en el que las formas de elaborar los documentos, 
+exponerlos y cruzarlos son el objeto constante de reflexión. Como explica Catani (2020)  
+en la presentación del proyecto no se trata de recuperar el positivo de las imágenes que 
+dejaron estos trabajos, lo que de algún modo ya estaría recogido por defecto en el 
+archivo de la historia del teatro argentino, sino el negativo, lo que rodeó la memoria de 
+estas obras, lo que se cruzó de forma azarosa, y lo que la rodea hoy, ahora, en el 
+momento en el que se evoca nuevamente su recuerdo. La memoria recuperada no es 
+algo que se dé por hecho, sino que está siempre rehaciéndose, resultado de un ejercicio 
+de formalización que se desarrolla de manera distinta en cada caso.  
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+16  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+ 
+Catani, B. (2021). Proyecto Atlas (de) las obras perdidas. [captura de pantalla] 
+https://www.centrodearte.unlp.edu.ar/categorias_archivo/beatriz-catani-proyecto-atlas/ 
+La botánica de los fantasmas, un breve ensayo en formato audiovisual que vino a 
+continuación de esta primera entrega, revela las claves del proyecto al tiempo que abre 
+un plano paralelo de reflexión. Este trabajo fue un punto de llegada y al mismo tiempo 
+sirvió para poner en marcha otra línea de trabajo transversal a todo el archivo, 
+abriéndolo a la participación de otras personas que habiendo tenido alguna experiencia 
+de la obra de Catani quieran hacer sus propias devoluciones en vídeo. La botánica de 
+los fantasmas trata de la economía incierta de los recuerdos y los modos de pervivencia 
+de la obra. Los reflejos que producen las imágenes; las sombras, proyecciones y 
+espectros que surgen difusos como pervivencias de las obras, como si el sentido de 
+estas, dice una voz en off, fuera solamente producir un reflejo en el tiempo. A 
+continuación se cita a Chris Marker: “Las cosas mueren cuando ya no hay sobre ellas 
+una mirada viva”, para terminar haciendo una apuesta: quizá la función de los 
+fantasmas sea impresionar la mirada de los vivos. 
+Óscar Cornago Bernal  
+ 
+ 
+17  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Seguramente el denominador común de este archivo no haya que buscarlo en la 
+especificidad formal de los materiales, sino en los modos de implicar y establecer 
+vínculos con otros agentes que desde posiciones distintas tuvieron algún tipo de 
+relación con su obra o con la autora, actrices, críticos, amigos, compañeros de viaje, 
+conocidos casuales. Es la complicidad de estos actores invitados a sostener juntos una 
+memoria común la que anima este ejercicio en el tiempo. Si juntarse para recordar es 
+la función del teatro, este archivo se asemeja a una suerte de teatro virtual, teatro de 
+fantasmas expandido en el tiempo. Quizá sea esta la definición de archivo: un teatro 
+irreal, un escenario de fantasmas sostenido en el tiempo. El campo de relaciones 
+abierto es tan vasto que potencialmente cualquiera que entre en relación con el 
+archivo, aunque sea como usuario incidental, puede convertirse en un nodo más de 
+este tejido vivo de memorias inciertas. Este tejido forma parte finalmente de la 
+memoria del mundo, el horizonte último al que mira todo archivo. 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+18  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+ 
+ 
+Catani, B. (2021). Proyecto Atlas (de) las obras perdidas. [captura de pantalla] 
+https://www.centrodearte.unlp.edu.ar/categorias_archivo/beatriz-catani-proyecto-atlas/ 
+ 
+Óscar Cornago Bernal  
+ 
+ 
+19  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Las “imágenes comentadas”, que conforman el archivo de Cuerpos abanderados, una 
+ficción dramática sobre una cooperativa en un pueblo de Buenos Aires en el que no se 
+permite a las familias recuperar a sus muertos, se intercalan con imágenes y 
+comentarios ligadas al momento político y cultural de entonces y de ahora, de lo que 
+estaba pasando a finales de los años noventa y de lo que está pasando ahora. Así, por 
+ejemplo, a la descripción de una escena de la obra en la que se ve a la actriz llevándose 
+un cigarrillo a los labios, le sigue una foto de Carlos Saúl Menem, el que fuera presidente 
+de Argentina, en el momento de hacerse público el indulto a los presidentes de la 
+dictadura militar argentina llevándose igualmente un cigarrillo a los labios. O tras una 
+referencia a la ficción dramática, en la que a los deudos de los muertos solo se les 
+entrega una foto de estos, le sigue una imagen de las camas alineadas en los hospitales 
+improvisados para atender a los enfermos de Covid, a la que sigue un comentario de 
+Agamben sobre la situación, insólita desde los tiempos de Antígona, de que los 
+familiares de los enfermos ingresados no puedan despedirse de ellos. 
+ 
+Catani, B. (2021). Proyecto Atlas (de) las obras perdidas. [captura de pantalla] 
+https://www.centrodearte.unlp.edu.ar/categorias_archivo/beatriz-catani-proyecto-atlas/ 
+ 
+ 
+ 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+20  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+4. 
+ 
+ 
+Catani, B. (2021). Proyecto Atlas (de) las obras perdidas. [captura de pantalla] 
+https://www.centrodearte.unlp.edu.ar/categorias_archivo/beatriz-catani-proyecto-atlas/ 
+Los archivos de creación, tal y como lo expone en su recorrido histórico Guasch (2011), 
+se construyen como una operación incierta sobre un archivo previo: sobre la geometría 
+calculada de los archivos oficiales custodiados por las instituciones se trazan las líneas 
+de fuga de estos nuevos archivos. En el caso del Proyecto Atlas el territorio previo del 
+que se despega es el campo teatral y los criterios, discursos y categorías que han servido 
+para organizarlo: dramaturgia, obra, autor, director, actores, público, crítica, etc. Ahora 
+bien, este archivo específico es solo el punto de partida, el medio y la excusa para un 
+viaje que se adentra en un espacio más vasto que es la memoria del mundo y más 
+concretamente, en este caso, de la sociedad argentina desde la época de las dictaduras 
+y los movimientos de izquierdas de los años sesenta hasta la actualidad, que 
+corresponde con los años de formación, de trabajo y vida de la autora.   
+Un archivo remite finalmente al archivo de una vida en relación con una época, con 
+otras vidas y pasados, por ello termina resultando tan específico e inespecífico como 
+puede ser cualquier vida, que está más allá del ejercicio de una profesión. En su 
+indeterminación cotidiana descansa también su potencia. 
+Óscar Cornago Bernal  
+ 
+ 
+21  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+ 
+Warburg. A. Montaje original de los paneles para el Atlas Mnemosyne en la sala oval de la Biblioteca de 
+Ciencias de la Cultura del Instituto Warburg en Hamburgo. © The Warburg Institute London. 
+ 
+Warburg. A. Reproducción del Atlas Mnemosyne en la sala oval de la Biblioteca de Ciencias de la Cultura del 
+Instituto Warburg en Hamburgo en el 2020 en la Haus der Kulturen der Welt en Berlín. 
+https://www.hkw.de/de/programm/projekte/2020/aby_warburg/bilderatlas_mnemosyne_start.php 
+El Atlas Mnemosyne está construido como un archivo universal de imágenes de épocas 
+y naturaleza diversas, responde a unas condiciones históricas y materiales 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+22  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+evidentemente muy distintas, pero nos proporciona un horizonte de referencia para 
+poner en perspectiva el proyecto de Catani. El trabajo desarrollado por el historiador 
+alemán Aby Warburg entre 1924 y 1929 constituye junto con el Libro de los Pasajes, de 
+Walter Benjamin, también de los años veinte, dos de las referencias pioneras en el 
+archivo como modo de organizar una investigación interdisciplinar en artes con un 
+alcance cultural amplio. En ambos casos los archivos previos sobre los que operan 
+comprenden una amplia esfera de la enciclopedia cultural del momento, que a su vez 
+remite a temas universales. Si el horizonte de fondo de El libro de los pasajes son las 
+transformaciones del París de la II mitad del siglo XIX, el del Atlas Mnemosyne son los 
+métodos y motivos sobre los que está construida la historia del arte, cuyos principios, 
+conceptos y categorías se estaban redefiniendo en este momento con el objetivo de 
+establecer las bases para una historiografía con unos criterios más académicos.   
+La elaboración del archivo va unida a un trabajo práctico de reflexión sobre las formas 
+de la historia. A menudo se trata de proyectos de vida. Resulta significativo que ambos 
+proyectos quedaran inacabados, lo que hizo que pasaran a la historia en el modo 
+provisional, abierto y sin concluir, en el que se fueron gestando, sin llegar a conocerse 
+como obras acabadas con un formato ya cerrado. Aunque en los dos casos estos 
+proyectos ocuparon la etapa final de sus vidas, sus huellas pueden rastrearse desde sus 
+primeros años, cuando tanto Benjamin como Warburg, aunque desde contextos muy 
+distintos, descubren en la dimensión estética de la imagen, de los objetos, el espacio y 
+la vida cotidiana el vehículo para recorrer de manera transversal disciplinas, saberes y 
+épocas.  
+La Biblioteca Warburg de Ciencias de la Cultura (Kulturwissenschaftliche Bibliotek 
+Warburg), el gran proyecto en el que joven doctor empieza a trabajar tan pronto acaba 
+sus estudios con el respaldo económico de su familia, de la que el Atlas es la pieza final, 
+comparte un enfoque transdisciplinar con el Libro de los pasajes. Una mirada capaz de 
+trazar puentes entre el arte y la vida, las imágenes y la cultura, la filosofía y lo cotidiano, 
+la política y lo sensible. Es esta perspectiva abierta, y no la elaboración de un 
+determinado método de estudio, lo que los ha convertido en algunos de los referentes 
+más inspiradores, y también más citados, en las Humanidades desde los años ochenta 
+del siglo pasado; con el riesgo de convertirse en una auténtica avalancha orquestada 
+por las modas internacionales y las vanidades académicas, como explica Krieger, 
+Óscar Cornago Bernal  
+ 
+ 
+23  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+temeroso de los efectos que puede tener el uso indisciplinado de unos mundos de 
+conocimiento que justamente invitan a ir más allá de las disciplinas.   
+No es de extrañar que el extenso estudio de Didi-Huberman sobre Warburg no se abra 
+con el Atlas Mnemosyne, que ocupa tan solo la última parte, sino con un capítulo 
+dedicado al nacimiento de la historia del arte como disciplina con referencias tan 
+distantes en el tiempo como Vasari y Winckelmann. La historia del arte, se dice al 
+comienzo, no nació una vez, sino que está naciendo constantemente.  
+La promesa de un origen, explicada en el Proyecto Atlas por medio de la botánica de los 
+fantasmas, es el secreto sobre el que gira el archivo, su arché, orden y principio, y por 
+ello también el centro del que nace su poesía y su poética, una inteligencia compleja 
+objeto de una constante reinvención. Tenemos archivo porque necesitamos un 
+principio, un origen, un punto de partida que permite salir y entrar de la historia, como 
+dirá también Benjamin (1982), quien hace de la crítica de la historia  el tema transversal 
+de todo el Libro de los pasajes, aunque lo trata de forma más directa en el archivo N 
+“Teoría del conocimiento, teoría del progreso”. En paralelo a la historia, se señala el 
+arte y la experiencia estética como un terreno desde el que sortear los modos de la 
+lógica lineal y la rigidez de las categorías abstractas. Del cruce entre una cosa y otra, 
+entre la necesidad de historia y la de sabernos más allá de la historia surgen los archivos 
+de creación. 
+El Atlas Mnemosyne está formado por reproducciones en blanco y negro de obras, 
+mapas e imágenes que van desde la Antigüedad europea al Renacimiento y Oriente 
+Próximo, a las que suman en los últimos paneles recortes de prensa, anuncios e 
+imágenes de actualidad. La posibilidad de un principio de ordenación queda 
+suspendida, sujeta a un proceso de reelaboración, como lo estuvo el propio Atlas. La 
+insatisfacción con la historia da lugar al archivo como un mecanismo diverso de 
+conocimiento y posición activa frente al pasado. 
+Dejar en suspenso este principio, que es también un principio de autoridad, es la cuerda 
+floja sobre la que se sostiene este tipo de proyectos de larga duración. Así mantiene 
+Warburg en vilo la posibilidad de este principio para la historia de las imágenes a lo 
+largo de los 63 paneles negros sobre los que se ordenan 971 imágenes. Solo en el 2020, 
+en la exposición Aby Warburg: Atlas Mnemosyne. Das Original, organizada entre el 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+24  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Warburg Institute, en la Universidad de Londres, y la Haus del Kultur der Welt en Berlín 
+se reprodujo de modo integral la disposición última que tenía cuando Warburg muere.   
+Las técnicas, modos de composición y formas de exposición difieren para cada archivo, 
+pero todos ellos suponen una intervención en el tiempo y en los modos de instituir y 
+desinstituir el pasado, de organizarlo y desorganizarlo, de clausurarlo y abrirlo. Realizan 
+un movimiento de apertura, de des-archivo más que de archivo, de procedimientos de 
+identificación y clasificación de la historia. Una operación epistémica en tanto que 
+cuestiona las categorías y prácticas de conocimiento que han servido para organizar los 
+campos académicos. 
+Si traducimos esta operación al medio artístico, diríamos que el archivo no se centra 
+estrictamente en la historia como relato, sino en las prácticas de ese relato. Se trata de 
+un instrumento esencialmente práctico, una intervención mantenida en el tiempo 
+sobre los modos de la historia, los medios de conocer y desconocer, componer y 
+descomponer, replanteando sus usos y combinatorias. 
+Una de las diferencias, nos advierte Didi-Huberman (2013: 44), entre el Atlas 
+Mnemosyne y los enfoques del historiador académico es que este último no cree en los 
+fantasmas, sino en los hechos. Las sombras, las visiones, los anacronismos, las 
+supervivencias del pasado o los síntomas de lo que queda oculto, llenan los vacíos 
+abiertos por el montaje y distancias de ese conjunto heterogéneo de piezas que 
+conforma los archivos de creación. Los fantasmas son los actores que habitan el archivo 
+esperando el momento para aparecerse; fantasmas que también son invocados en el 
+Proyecto Atlas. La búsqueda de relaciones imprecisas, detalles marginales, analogías 
+azarosas, marcan el ritmo de un juego de descomposiciones que apela a la presencia 
+de quién los contempla, provocando su mirada y poniendo en riesgo la capacidad de 
+identificarnos.  
+En este escenario donde todo se mezcla, la historia se descompone, sus imágenes se 
+confunden y sus actores vuelven a entrar en acción, pero sacados de sus escenarios 
+habituales, siguiendo un guion que aún no ha sido escrito. La pregunta que queda en el 
+aire no es ya por el sentido original que todo aquello pudo tener en su momento, sino 
+por el que puede tener hoy. El origen está en el presente. Se trata más de averiguar una 
+Óscar Cornago Bernal  
+ 
+ 
+25  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+dirección, como se pregunta también Catani en uno de los trabajos para el archivo de 
+su segunda obra, Ojos de ciervo rumanos. El archivo insiste en una pregunta sobre el 
+presente. Vuelve su mirada al pasado, pero no para quedarse ahí, sino para volverse de 
+forma obsesiva sobre el momento en fuga desde el que se está recordando. En su 
+capacidad para movernos y relacionarnos no solo con nuestros fantasmas, sino con los 
+ajenos, radica su capacidad de agencia y dimensión performativa.  
+Como puede verse por los ejemplos paradigmáticos del Libro de los pasajes o el Atlas 
+Mnemosyne, el formato del archivo de creación sirvió para establecer los primeros 
+puentes entre el mundo de la investigación académica y el arte a comienzos del siglo 
+XX, cuando todavía el discurso del arte como modo de investigación práctica no existía. 
+El archivo, herramienta por definición del trabajo en la academia, traslada al campo del 
+arte preguntas y principios que serán ahora objeto de un tratamiento distinto. No es 
+casualidad que el Proyecto Atlas se inicie, como se cuenta en la primera entrega, como 
+proyecto de investigación doctoral de su autora. Tampoco es de extrañar que el 
+proyecto de Warburg, con sus metodologías indisciplinadas, tuviera que esperar a ser 
+redescubierto medio siglo después.  
+La lógica poética del archivo funciona de cara a la institución como una estrategia de 
+suspensión de las certezas. Para la academia del arte, como para el campo de la filosofía 
+establecida históricamente, los métodos de Warburg o de Benjamin de asociación de 
+imágenes viajando entre épocas, corrientes y estilos distantes, debieron despertar más 
+dudas que certezas, como las puede seguir despertando fuera del ámbito de las 
+prácticas artísticas y las perspectivas críticas de investigación en diálogo con un 
+pensamiento estético.  
+En el caso del Proyecto Atlas, las objeciones por parte de la universidad, primero para 
+que una artista haga la tesis sobre su propia obra, lo que parece atentar contra el 
+discurso de la objetividad y la distancia necesaria frente al objeto de estudio, y sobre 
+todo las dudas acerca de una metodología que inevitablemente habrían de convertirse 
+en el objeto central de la tesis, serían comparables salvando las distancias con el lugar 
+entre paréntesis que hasta hace poco ocupó el Atlas Mnemosyne dentro de la historia 
+del arte. 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+26  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+El salto constituye el método de trabajo, la forma práctica de operar, incorporada en el 
+caso de Warburg no solo en el plano crítico, sino también a nivel clínico por la 
+esquizofrenia que le fue diagnosticada. Como explicaba él mismo: “Mi enfermedad 
+consiste en que pierdo la capacidad de conectar las cosas en sus simples relaciones 
+causales, lo que se refleja tanto en lo espiritual como en lo concreto” (cit. en Vélez 
+Bertomeu, 2013), aunque, por otro lado, no dejó de reconocer la condición 
+esquizofrénica de toda la humanidad. 
+El médico que le trató en el Sanatorio Bellevue, en Suiza, Ludwig Binswanger, uno de 
+los fundadores de la psicología existencial, se inspiró en su paciente para su estudio 
+sobre las fugas de ideas Über Ideenflucht, de 1933, donde se refería a su forma de 
+trabajar con las ideas/imágenes saltando de unas a otras a un ritmo que variaba según 
+los momentos, como explica Didi-Huberman (2013, p. 426) citando las palabras de su 
+médico: “Cuando el salto es festivo, es una danza (es sabido la importancia que 
+Warburg le concedía). Cuando no lo es, es una decadencia, una caída, un torbellino con 
+“gritos y accesos gesticulantes violentos”. Pero en todos los casos, concluía, “el salto es 
+el método” (2013, p. 426). El archivo se convierte en un denkraum, una escena incierta 
+de vida y pensamiento; algo que también podría afirmarse del Proyecto Atlas.  
+Todavía hoy, a pesar de lo que ha llovido, alguien identificado con el mundo académico, 
+como el citado Krieger, se siente obligado a comenzar su estudio sobre Warburg 
+señalando que “No obstante, a todos los interesados en el pensamiento warburgiano 
+hay que advertirles que Aby Warburg no dejó una estricta metodología de la 
+investigación sobre la imagen” (Krieger, 2006, p. 244), temeroso quizá de los efectos 
+que puede tener un siglo después en sus lectores esta falta de instrucciones de uso.  
+El método es el telón de Aquiles de la academia, en él descansa la credibilidad de los 
+resultados. La importancia del método no está en función de los resultados, sino que 
+son estos los que tienen que legitimarse recurriendo a unos procedimientos 
+previamente validados que los autorice. Por eso las metodologías van siempre al 
+comienzo de un proyecto, y son imprescindibles aun cuando los proyectos están en fase 
+de solicitud. Por contradictorio que pueda resultar, antes de andar el camino hay que 
+haber establecido los modos de recorrerlo.  
+Óscar Cornago Bernal  
+ 
+ 
+27  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Sin embargo, después de una vida dedicada a construir un archivo universal de las 
+imágenes, Warburg sigue teniendo dudas acerca de su método. Trabajar sobre el 
+archivo es trabajar sobre los modos de hacerlo. Los últimos folios de las más de 2000 
+páginas manuscritas, como señala Didi-Huberman al final de su estudio, que 
+acompañaron el trabajo en el archivo están dedicadas a la cuestión del método. Sin 
+embargo, este último apartado, escrito poco antes de morir en 1929, apenas concluye 
+nada acerca del método empleado, más bien lo vuelve a dejar abierto, o incluso más 
+abierto que nunca, porque esas últimas veinte páginas están en blanco, salvando 
+algunas palabras dispersas al comienzo, entre las que figura justamente el término 
+conclusión, al lado de otros como destino, huida y Nietzsche. 
+Una investigación práctica no concluye, tampoco se desarrolla en función de unos 
+métodos previamente establecidos; en la reinvención del método está su inteligencia. 
+Su performatividad radica en una metodología en fuga, un modo permanente de 
+hacerse y deshacerse. 
+A pesar de su corta historia, la historia de la performance, también ha vuelto a nacer 
+una y otra vez, cada vez que fue convertida en lo que no quería ser: una obra, un 
+resultado, un estilo o una teoría que se repite a sí misma. La reformulación de Warburg 
+a través de todo su trabajo, pero de forma clara por medio del Atlas Mnemosyne del 
+paradigma histórico del arte en términos no de evolución sino de supervivencia, no de 
+continuidad, sino de discontinuidades y anacronismos, podría aplicarse igualmente al 
+difuso territorio de la performance o la performatividad. Las huellas de la 
+performatividad afloran por las rendijas de la modernidad sin que medie una relación 
+directa, sino más bien una latencia, una necesidad, una trampa para sobrevivir dentro 
+de un sistema económico que impone las reglas de la producción también en el campo 
+del arte y la cultura. Consumir performances como quien consume tranquilizantes 
+expresa el carácter esquizofrénico que Warburg descubre en la humanidad. 
+Buscando los síntomas de esas fuerzas oscuras que desmienten el ideal de equilibrio y 
+serenidad del arte clásico, el investigador alemán convierte la función del historiador 
+en la búsqueda comparada de huellas de otras épocas. No se trata de establecer líneas 
+de continuidad, sino de ejercitarse en el arte de andar por la cuerda floja, de dar saltos 
+y advertir los huecos abiertos por los fantasmas de la historia, cuyas huellas eran lo que 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+28  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Warburg denominó los pathosformeln, expresiones de pasiones que irrumpen en la 
+superficie de la historia. 
+ 
+Warbug, A. Aby Warburg, Bilderatlas Mnemosyne. Detalle de la reproducción del panel 39. Foto: 
+Wooton/fluid. Cortesía The Warburg Institute. 
+https://www.hkw.de/de/programm/projekte/2020/aby_warburg/bilderatlas_mnemosyne_start.php 
+Es significativo que uno de estos rastros del pasado los encuentre justamente en una 
+performance. Las danzas rituales de las comunidades Pueblo de América del Norte, en 
+Nuevo México, fueron el objeto de la famosa conferencia que retoma casi treinta años 
+más tarde a modo de celebración y prueba del restablecimiento de su salud mental. La 
+visita a estas comunidades y sus entornos de vida, de los que fue mostrando numerosas 
+imágenes, a pesar de que no conocer el idioma y de que nunca llegó a asistir a las citadas 
+danzas de la serpiente, que dan título a la conferencia, fue suficiente para disparar su 
+imaginación trazando conexiones con imágenes de otras épocas y culturas.  
+A las danzas de la serpiente, símbolo de las fuerzas oscuras que habitan la humanidad 
+y con las que él mismo estaba luchando, dedica su conferencia de 1923, dejando claro 
+desde el comienzo que es en la distancia entre su memoria ya lejana de este viaje y lo 
+que pudo ser en realidad, donde el público podía encontrar sentido no solo a las 
+Óscar Cornago Bernal  
+ 
+ 
+29  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+imágenes, sino al propio acto de la conferencia planteada por Warburg como otra 
+suerte de deambular sobre la cuerda floja de su propia historia de vida:  
+Soy consciente de que, si en el curso de esta tarde he de presentar y comentar 
+las fotografías que en su mayoría fueron tomadas por mí durante un viaje 
+realizado veintisiete años atrás, tal empresa requiere una explicación. Sin 
+embargo, dado que no he podido refrescar y repasar adecuadamente los viejos 
+recuerdos […] no puedo prometerles más que el relato de mis propios 
+pensamientos sobre estos recuerdos lejanos, con la esperanza de que el carácter 
+inmediato de las fotografías les permita obtener, por encima de lo que les puedo 
+contar con palabras, una impresión [...] (Warburg, 2018, p. 8). 
+Alejándose del esteticismo con que la historia fija las imágenes, expone su búsqueda 
+personal de los lazos biológicos entre estas y la historia. En la performatividad de estas 
+danzas descubre el puente entre la historia de las imágenes y el impulso vital que las 
+anima, tratando de escapar de la historia. Una necesidad de fuga que trasladada al 
+momento de la conferencia, hace de esta otra suerte de ritual de la serpiente y 
+performance de sanación. 
+Puede resultar un azar que este artículo comience con otra coreografía, la descrita por 
+los movimientos de Pollock sobre el lienzo extendido en el suelo. El pintor expresionista 
+había conocido ya desde su infancia en entornos rurales las tradiciones de otras 
+comunidades originarias como las comunidades navajo. También Pollock recurre al 
+imaginario de estos rituales y más concretamente a las pinturas de arena de este pueblo 
+como un modo de invocar un origen con el que conectar su propia práctica artística. No 
+se trataba de buscar el principio de la imagen, sino el modo de fabricarlas, la puesta en 
+práctica de un momento de creación. La performance circunstancial de Pollock 
+esparciendo pintura sobre sus grandes lienzos extendidos en el suelo tuvo sus efectos, 
+pues marcó el nacimiento de una historia de la pintura que no partía de un ideal 
+abstracto o un estilo, sino de un modo de hacer, un hábito o una acción física, la action 
+painting.  
+La partitura de una performance, uno de sus elementos por definición, se corresponde 
+con otro plano menos visible a nivel formal, que es el entorno de inmediatez en el que 
+interviene, formado por los objetos, las rutinas y el día a día del performer. A este 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+30  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+ámbito de lo cotidiano aludían también las imágenes que acompañaban la conferencia 
+de Warburg. Repetición y emergencias, partituras y acciones, archivos y performance, 
+terminan siendo dos polos que a pesar de las distancias se cruzan en una reflexión 
+común sobre lo distante y lo inmediato, la extrañeza de lo cotidiano y la cotidianeidad 
+de lo extraño.  
+En A este mundo ordinario se refiere centra Kaprow para poner en valor no la pintura 
+de Pollock como un nuevo estilo, sino los modos de afrontarla. Kaprow no busca en su 
+trabajo la creación de un lenguaje distinto, sino unas formas de hacer y una economía 
+distintas, incorporadas como modos de vida, hábitos que nos integran y desintegran en 
+el día a día.  
+El giro performativo en la historia cultural va de la mano del descubrimiento de la vida 
+cotidiana. Es desde ahí que se sostienen las acciones como una realidad sensible, lo que 
+incluye también la acción de recordar y la performatividad del propio archivo. Es por 
+estos años cuando Henri Lefebvre convierte lo que él denomina la “humilde razón de lo 
+cotidiano” (1972, p. 26) en un terreno práctico para reconsiderar los modos de la 
+filosofía y el pensamiento. Este desplazamiento le conducirá igualmente a reconsiderar 
+el modo de las imágenes en unos términos cercanos a los de Warburg: “La imagen, la 
+imaginación, lo imaginario, parecen hundirse y prolongarse en el flujo temporal; y, sin 
+embargo, la esencia de lo imaginario se sitúa quizá en la evocación, en la resurrección 
+del pasado; es decir, en una repetición” (1972, p. 31). A estos habitus del día a día, los 
+modos de relacionarnos con los lugares, personas y objetos que nos rodean, se refiere 
+también Bourdieu como un elemento fundamental de la acción desde una perspectiva 
+contextual, que se corresponde con esa “ciencia práctica de lo singular” al que remite 
+La invención de lo cotidiano emprendida por De Certeau.  
+En estas mismas rutinas repara Didi-Huberman para explicar la cualidad fantasmal de 
+ese performer anónimo de todos los días, no por moderno sino por superviviente de la 
+modernidad: 
+El superviviente no es el hombre moderno ni posmoderno, se sitúa a distancia 
+de estas configuraciones históricas, en otro tiempo, discontinuo, anárquico, real 
+e irreal. El performer, por su gestualidad de todos los días, su actitud neutra, sus 
+Óscar Cornago Bernal  
+ 
+ 
+31  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+rutinas repetidas hasta la saciedad, se presenta como un fantasma de la historia, 
+alguien venido de algún pasado, hasta que queda identificado como figura de la 
+(pos)modernidad (2013, p. 67). 
+Las referencias a lo que va sucediendo en el día a día es el sustrato con el que se tejen 
+las memorias en el Proyecto Atlas. Como espacio desde el que recuperar el pasado se 
+deja ver el magma informe de un acontecer inmediato, el entorno que nos rodea, 
+episodios anecdóticos, momentos de desidia, agujeros en el tiempo. “El domingo 19 de 
+julio de 2020, en la plataforma Mubi dan el film Lola de Rainer Werner Fassbinder y 
+distingo la misma luz y el mismo fondo opresivo”. Comentario que introduce las 
+imágenes de la película del director alemán que continuarán alimentando ese bajo 
+continuo de imágenes, reflexiones, recuerdos de distinta procedencia.  
+El mismo Proyecto Atlas, como se recoge en el archivo, nace de una conversación con 
+amigos en un pequeño auto regresando de Buenos Aires a La Plata; una conversación 
+en la que estos la animan a hacer su tesis doctoral sobre la memoria de su propia obra. 
+De ahí surge la acción/obra/performance fundacional que activará esta maquinaria de 
+recordar.  
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+32  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+ 
+Catani, B. (2021). Si yo en silla y el público habla. En Proyecto Atlas (de) las obras perdidas. [captura de 
+pantalla] https://www.centrodearte.unlp.edu.ar/categorias_archivo/beatriz-catani-proyecto-atlas/ 
+Si yo en silla y el público habla, realizada en los últimos meses del 2020, se plantea como 
+un encuentro performativo en el que la directora hace de público y el que fue público 
+de sus obras actúa frente a ella: “La acción parte de procedimientos de inversión, el 
+público trabajando y devenido en obra y yo misma viviendo la experiencia de ser 
+público de mis obras, de los residuos de mis obras en la memoria de algunos 
+espectadores” (Proyecto Atlas, 24). Al comienzo se firma un contrato para formar una 
+cooperativa, una referencia directa al mundo de Cuerpos abanderados, para gestionar 
+el dinero que había para la actividad.  
+Convertir un encuentro en una performance, un trabajo en un juego, una acción en una 
+rutina construida, abre un plano aparente de irrealidad, una temporalidad incierta, 
+espectral, como afirma Didi-Huberman del performer, que sin embargo confiere otro 
+tipo de anclajes con lo real, el entorno y el pasado.  
+Óscar Cornago Bernal  
+ 
+ 
+33  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+La performance se convierte en un modo de hacerse cargo de la ley de la botánica: “Sin 
+presencia de origen no hay espectros que nos visiten”. La acción, que consiste en 
+reunirse para recordar, matriz fundacional del teatro, es comparable a una suerte de 
+ritual integrado en la cotidianeidad. La confianza en una fuerza trascendental de los 
+rituales antiguos se traslada a la confianza en el grupo, en el momento y en la acción 
+que se está llevando a cabo. Como en todo ritual, su finalidad es invocar los orígenes y 
+celebrar la memoria perdida, en este caso de la primera de sus obras.  
+Reunidos como espectros del pasado, los participantes se juntan para contarle a la 
+directora lo que recuerdan de su obra. La acción se hizo en casas privadas. En un 
+momento previo, los asistentes rellenan un cuestionario con varias preguntas; un 
+cuestionario que se continuará enviando después vía mail y redes sociales, y cuyas 
+respuestas pasarán a integrar otro de los apartados del archivo, Memorias del público. 
+Como estrategias frente al paso del tiempo, archivo y performance se miraban sin 
+saberlo, pues ni el archivo tenía conciencia de su dimensión operativa y contextual, que 
+tiempo después descubrirá la perspectiva performativa, ni la performance sabía que a 
+pesar de su resistencia al objeto-obra y al documento, y su insistencia en lo inmediato 
+y lo fugaz, estaba señalando también su opuesto, la posibilidad de archivar lo que más 
+se resiste al archivo, de hacer historia a partir de lo que más se escapa de la historia. 
+La cualidad autómata que caracteriza la performance se corresponde con la utilización 
+de partituras o instrucciones/contratos que a menudo guían su desarrollo. Estas hacen 
+de disparador de una temporalidad dispersa, sin una dirección fija, a lo que contribuye 
+la desubjetivación del performer, que contrasta, sobre todo en sus inicios, con la 
+subjetividad emocional y la construcción sicológica características del actor dramático 
+y el teatro convencional. La acción y el performer, la operación y el ejecutor se 
+confunden con el paisaje que lo rodea, extraño y cotidiano, cercano y distante.  
+La performance será lo que quede más dentro y más fuera. Su fracaso comienza con su 
+integración plena en la historia, en la anormalidad de la norma, con la pérdida de ese 
+impulso de descolocación que le permite estar y no estar al mismo tiempo, de esa 
+fuerza para salir y entrar (que es como los navajos llaman a sus pinturas rituales con 
+arena iikáá). Lo incierto de la acción la convierte en una apuesta colectiva. La presencia 
+del performer, agente, actor o chamán no es evidente, como tampoco su sentido, sino 
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+34  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+que emergen desde la improbabilidad de un origen, de un principio que nunca tuvo 
+lugar, por eso necesita el secreto, la ley, la arché. Como los cuerpos que los incorporan, 
+estos tampoco están, sino que se aparecen a partir de su ausencia, como se aparecen 
+las imágenes del archivo frente a la mirada que los interroga.  
+ 
+Catani, B. (2021). Proyecto Atlas (de) las obras perdidas. [captura de pantalla] 
+https://www.centrodearte.unlp.edu.ar/categorias_archivo/beatriz-catani-proyecto-atlas/ 
+Si la botánica de los fantasmas consiste en la invocación de un origen, la botánica de la 
+historia consiste en la capitalización de esos orígenes para asegurar un sentido de 
+presencia sin necesidad de estar. Son los agentes del capital, zombis más que 
+fantasmas, que devoran todo lo que tocan. El problema de la performance es quedar 
+convertida en un estilo o una teoría. Al igual que los fantasmas, el problema de los 
+performers es también quedar convertidos en zombis. 
+6.  
+En miércoles, 9 de junio de 2021 06:03:49 GMT-3, Óscar Cornago 
+<oscarcornago@yahoo.com> escribió: 
+Hola Beatriz,  
+Óscar Cornago Bernal  
+ 
+ 
+35  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Yo también estoy acabando con mi artículo, justamente lo quiero cerrar con 
+este mail a modo de conclusión. Frente a la botánica de los fantasmas, la 
+botánica de la historia. Esta es la conclusión. El conflicto entre la acción y el 
+archivo, entre el cuerpo y la imagen, la obra ya hecha y el presente, la historia 
+y la experiencia. Creo que hay que partir de esta tensión si queremos pensar 
+en recuperar las obras del pasado, recuperar la memoria como un espacio por 
+hacer, el relato de la historia como un ejercicio de creación en relación con el 
+presente; hacer del archivo un espacio de incertidumbres antes que una 
+ceremonia de reconocimientos. Estas son las preguntas que han convertido el 
+archivo en uno de los recursos más utilizados para plantear, organizar y hacer 
+público un proyecto de investigación en artes.  
+En la Haus der Kulturen der Welt, la misma institución de Berlín que impulsó la 
+reconstrucción del Atlas Mnemosyne, me encuentro con otra referencia al 
+archivo The Whole Life: An Archive Project (2018-2022), en el que lo presentan 
+como “una red de sociabilidad con el potencial de establecer relaciones entre 
+campos de investigación interdisciplinares, prácticas sociales, vida cultural e 
+infraestructuras locales”. 
+A pesar de sus distintos modos de conjugar ausencias y presencias, archivo y 
+performance han terminado confluyendo como elementos clave del legado 
+artístico y cultural del siglo XX. En torno a ellos se han desplegado nuevos 
+modos de entender el trabajo en artes, se ha desplegado un campo inédito de 
+posibilidades de relación y juego no solo entre diferentes lenguajes artísticos, 
+sino entre el campo artístico y otros ámbitos de conocimiento, y en definitiva 
+se ha replanteado el lugar de las prácticas artísticas y su dimensión pública, 
+cuestionando la construcción y los roles de los agentes clásicos del medio 
+artístico, tales como el autor, el público, el crítico o la obra.  
+Entre medias, como mar de fondo que hace posible este diálogo entre archivo 
+y cuerpo, memoria y presente, está el mundo de todos los días, esa íntima 
+clandestinidad que guarda el secreto de una vida y en la que Agamben 
+descubre el centro de lo político, justamente en lo que más fuera se queda de 
+la política:  
+Proyecto Atlas (de) las obras perdidas de Beatriz Catani  
+ 
+36  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Pues ella es, sin duda – la clandestinidad, nuestra forma-de-vida-, tan íntima y 
+próxima que, si intentamos captarla, queda entre las manos tan sólo la 
+impenetrable, tediosa cotidianeidad. Y, sin embargo, tal vez precisamente esta 
+homónima, promiscua y sombría presencia guarda el secreto de la política, la 
+otra cara del arcanum imperio, en el que naufragan todas las biografías y todas 
+las revoluciones (Agamben, 2017, p. 15).  
+Sin embargo, los fantasmas de lo cotidiano nos resultan más ordinarios, más 
+cercanos, también más huidizos. Somos nosotros mismos repitiendo nuestros 
+rituales de supervivencia. Es la performatividad de lo inmediato, de los atajos, 
+de una inteligencia práctica capaz de hacernos y pensarnos en relación con lo 
+más inmediato y lo más distante, lo más presente y lo más ausente.  
+ 
+En jueves, 10 de junio de 2021 15:51:41 CEST, beatriz catani 
+<beatrizcatani2002@yahoo.es> escribió: 
+Hola Óscar,  
+Y sí, es un tiempo de pensar en rituales, se están valorizando. En el taller de 
+dramaturgia un estudiante escribió sobre la parrilla de su casa, contaba que 
+prende igual el fuego y se queda tiempo ahí, pensando y extrañando. Barthes, 
+creo, dice que las ceremonias protegen como una casa, que dejan habitar un 
+sentimiento. No lo había pensado en la actuación, como si la reiteración fuese 
+un rito que vendría también a contener; aunque a veces es más bien una 
+maldición! 
+Referencias  
+Agamben, G. (2017). El uso de los cuerpos. Homo Sacer IV, 2. Trad. César Palma. Pre-Textos. 
+Catani, B. (2007). Acercamientos a lo real. Textos y escenarios. Ed. Óscar Cornago. Ediciones al Sur. 
+Catani, B. Proyecto Atlas (de) las obras perdidas. Archivo de Arte de la Universidad de La Plata. 
+https://www.centrodearte.unlp.edu.ar/categorias_archivo/beatriz-catani-proyecto-atlas/  
+De Diego, E. (2015). Artes visuales en Occidente desde la segunda mitad del siglo XX. Cátedra. 
+Óscar Cornago Bernal  
+ 
+ 
+37  
+Cuadernos del CILHA n 35 – 2021  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Derrida, J. (1997). Mal de archivo. Una impresión freudiana. Edición original del 1995. Trad. Francisco 
+Vidarte. Trotta. 
+De Certeau, M., Giard, L. y Mayol, P. (1999). La invención de lo cotidiano. 2. Habitar, cocinar. Nueva edición 
+revisada y aumentada presentada por Luce Giard Trad. Alejandro Pescador. Universidad Iberoamericana. 
+Didi-Huberman, G. (2013). La imagen superviviente. Historia del arte y tiempo de los fantasmas según Aby 
+Warburg. Edición original del 2002. Trad. Juan Calatrava. Abada. 
+Kaprow, A. (2016). El legado de Jackson Pollock. Edición original del 1946. En J. Kelley (Ed), Entre el arte y la 
+vida: Ensayos sobre el happening. Trad. Albert Fuentes. Alpha Decay. 
+Krieger, P. (enero, 2006). El ritual de la serpiente. Reflexiones sobre la actualidad de Aby Warburg, en torno 
+a la traducción al español del libro Schlangenritual. Eine Reisebericht. Anales del Instituto de Investigaciones 
+Estéticas, 88, 236-250. https://doi.org/10.22201/iie.18703062e.2006.88.2208 
+Lefebvre, H. (1972). La vida cotidiana en el mundo moderno. Edición original de 1968. Trad. Alberto 
+Escudero. Alianza. 
+Radice, G. y Donnantuoni, C. (2018). Entrevista pública. Los posibles caminos de la dramaturgia platense I: 
+Beatriz Catani y el desconcierto de la presencia de lo real en el teatro. Plataforma de Teatro Performático. 
+https://plataformadeteatroperformatico.wordpress.com/2019/02/05/entrevista-publica-los-posibles-
+caminos-de-la-dramaturgia-platense-i-beatriz-catani-y-el-desconcierto-de-la-presencia-de-lo-real-en-el-
+teatro/ 
+Vélez Bertomeu, F. (2013). Aby Warburg, El ritual de la serpiente trad. J. Etorena, Sexto Piso, Madrid, 2008, 
+112 pags. Salon Kritik 
+ https://www.academia.edu/45535724/El_ritual_de_la_serpiente_Aby_Warburg 
+Warburg, A. (2018). Recuerdos del viaje al territorio de los indios pueblo en Norteamérica. Ed. Maurizio 
+Ghelardi. Trad. Helena Aguilá Ruzola. Siruela.  

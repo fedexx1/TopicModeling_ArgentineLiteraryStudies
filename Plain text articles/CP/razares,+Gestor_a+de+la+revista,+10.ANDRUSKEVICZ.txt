@@ -1,0 +1,675 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+METAPOÉTICAS TERRITORIALES: LITERATURA Y
+CRÍTICA EN FIGURAS AUTORALES DE MISIONES
+Territorial metapoetics: Literature and criticism in authorial
+ﬁgures from Misiones
+Andruskevicz, Carla
+ Carla Andruskevicz *
+cvandruskevicz@ycs.unam.edu.ar
+Universidad Nacional de Misiones, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 20, e2010, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 07/03/23
+Aprobación: 07/04/23
+URL: http://portal.amelica.org/ameli/journal/785/7853965019/
+DOI: https://doi.org/10.30972/clt.0206629
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: En este artículo se despliegan anclajes teórico-críticos
+acerca de la literatura territorial producida por autores y autoras
+de la provincia de Misiones, quienes escriben sobre y desde
+este espacio intercultural y fronterizo en el que se revelan no
+solo paisajes geográﬁcos, sino también semióticos y políticos.
+Más adelante se focaliza la mirada en un conjunto de poetas
+territoriales quienes, a través de metapoemas y metadiscursos
+poéticos, reﬂexionan acerca de múltiples dimensiones respecto
+del género lírico en diálogo con la vida cotidiana y una tarea
+escritural comprometida.
+Palabras clave: literatura territorial, poesía, poetas, metapoética.
+Abstract: In this article, we display theoretical-critical
+anchorages about the territorial literature produced by authors
+from the province of Misiones, who write about and om this
+intercultural and border space in which not only geographical
+landscapes are revealed, but also semiotic and political ones.
+Later on, we focus on a group of territorial poets who,
+through metapoems and poetic metadiscourses, reﬂect on multiple
+dimensions regarding the lyrical genre in dialogue with everyday
+life and a committed writing task.
+Keywords: territorial literature, poetry, poets, metapoetics.
+Una literatura territorial: Notas de presentación
+Nuestro recorrido parte de la lectura semiótico-discursiva y en clave territorial de poemas pertenecientes a
+ﬁguras autorales de la provincia de Misiones, en conversación y debate con la perspectiva regional entendida
+–en algunas esferas de la crítica canónica, de la educación, de los medios de comunicación e, incluso, en
+Notas de autor
+*
+Carla Andruskevicz es Dra. en Ciencias Humanas y Sociales, Mgter. en Semiótica Discursiva, Prof. y Lic. en Letras por la Universidad Nacional
+de Misiones (UNaM). Se desempeña como Prof. Adjunta Regular Exclusiva en las carreras del Prof. y Lic. en Letras y de Bibliotecología y Lic. en
+Bibliotecología de la Facultad de Humanidades y Ciencias Sociales de la UNaM. Es Codirectora de la Carrera de Letras, Coordinadora Académica y
+Docente del Cuerpo Estable de la Especialización en Semiótica de la Lengua y la Literatura en la UNaM. Asimismo, es Investigadora Independiente
+del Laboratorio de Semiótica - Subsede Cátedra UNESCO para la Lectura y la Escritura, con Categoría III del Programa Nacional de Incentivos. En
+cuanto a la dirección de proyectos de investigación, se desempeña como Directora del proyecto de Investigación “Lectura y escritura en los umbrales:
+Prácticas y diálogos entre la Escuela Media y los Estudios Superiores. Etapa II” (16/H1769-PI); y como Codirectora del Proyecto de Investigación
+“Cartografías literarias y críticas. Archivos territoriales. ETAPA II” (16/H1785-PI).
+Cuadernos de Literatura, 2023, núm. 20, e2010, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+parte de la comunidad de poetas con los cuales trabajamos– como aquella que deﬁne a la literatura desde
+un esencialismo a partir del cual se reproducen y reﬂejan, miméticamente, paisajes geográﬁcos, culturales y
+lingüísticos, aparentemente anclados en el mundo real. De este modo, la literatura territorial –categoría
+construida en el marco del equipo de investigación al cual pertenecemos– incursiona en dimensiones
+espaciales y geografías que rodean y atraviesan al poeta; sin embargo, lo hace de una forma muy distinta,
+entre provocadora y polémica, y aprovechando los recursos y potencialidades lúdicas de la práctica de la
+escritura literaria. Es por ello que concebimos a la literatura territorial como un dispositivo de poder (Foucault,
+2006, p. 16-17), una maquinaria que legitima representaciones culturales y posiciones ideológicas que señalan
+dimensiones cronotópicas políticas y críticas.
+Desde este marco, entendemos a quien escribe como alguien que se instala en el territorio como lugar de
+enunciación estratégico a partir del cual marca un espacio, lo habita y lo cartografía en su escritura, en un
+proceso dinámico en el que las fronteras geográﬁcas pero también simbólicas e identitarias se construyen y
+reconstruyen en los devenires discursivos, metafóricos y retóricos. En consonancia con ello, la literatura de
+los autores y autoras a quienes consideramos territoriales pretende dialogar y debatir con cierta concepción
+de la literatura regional a partir de la cual las representaciones se ciñen a los aspectos paisajísticos-geográﬁcos,
+pintoresquistas y a los detalles del color local de las zonas culturales, silenciando y solapando discursividades
+críticas y posicionamientos estéticos e ideológicos. La noción de territorio nos permite repensar y poner en
+tensión las relaciones de poder simbólico instaladas en la diversidad de centros y periferias culturales del bloque
+geopolítico argentino para no deﬁnirlo, de antemano, como un espacio cultural cerrado o limitado sino como
+uno cuyas fronteras son móviles y dialógicas a partir de los procesos de (des/re) territorialización permanentes
+(Deleuze y Guattari, 2002, p. 9-10).
+Desde las investigaciones territoriales1 trabajamos con una literatura menor (Deleuze y Guattari, 1998, p.
+28) que se concibe ante todo como política y comunitaria, y despliega anclajes críticos en el universo en el que
+es producida y circula. La literatura menor funciona como un dispositivo colectivo de enunciación en el que
+las voces autorales, pero también las de sus lectores y lectoras, instalan diálogos rizomáticos cuyos procesos
+de signiﬁcación y de territorialización no pueden preverse ni tampoco frenarse.
+Es por ello que decimos que la literatura territorial no se encierra en un universo geográﬁco detectable
+y palpable, ni busca la correspondencia taxativa entre acontecimientos y personajes con el mundo real; sus
+espacialidades son móviles y posibilitan el despliegue y la diseminación de los sentidos para quien se atreve
+a leerla liberándose de los prejuicios y estereotipos que con demasiada frecuencia se le asignan a la escritura
+que se escribe en y desde las provincias o el interior de un país/nación. La literatura menor, en el sentido
+deleuzeano, involucra el posicionamiento de autores y autoras, quienes actúan como portavoces de una
+comunidad de escribientes, polemizando y encauzando las conversaciones y debates colectivos y políticos
+y, por ello, actúa como un dispositivo maquínico, capaz de expandirse hacia renovados territorios en cada
+lectura.
+Teniendo en cuenta las reﬂexiones y teorizaciones bosquejadas, en este artículo focalizaremos en un
+conjunto de autores y autoras que proponen una lectura poética e ideológica de un complejo territorio
+cultural en el cual las fronteras geográﬁcas y semióticas no son límites ﬁjos e inamovibles; por esta razón,
+en el devenir de la producción literaria que desde allí se escribe, los sentidos se construyen y reconstruyen
+produciendo lecturas interconectadas e intertextuales que enlazan múltiples discursividades sociales. De este
+modo, la literatura territorial es un género con características temáticas, estructurales y estilísticas (Bajtín,
+2002, p. 248) propias, pero al mismo tiempo, es una práctica estética y política a partir de la cual numerosas
+ﬁguras autorales misioneras asumen posicionamientos que se van entretejiendo en su escritura urgente y
+polémica, incómoda y delicada a la vez:
+…Yo que soy un simple poeta
+preﬁero “… permanecer con los perseguidos”
+Carla Andruskevicz. METAPOÉTICAS TERRITORIALES: LITERATURA Y CRÍTICA EN FIGURAS AUTORALES
+DE MISIO...
+PDF generado a partir de XML-JATS4R
+Me adhiero al éxodo del microorganismo
+Me voy con la culebra y con el canto
+del agua, la calandria, el helecho
+Me voy con los humildes de mi tierra
+Con los pies descalzos
+Con los simples
+Con el hombre-hombre
+Con el hombre a secas
+Me voy con mis 2.000 milímetros de lágrimas
+anuales y un isipó trenzado en la garganta
+de pura pena
+Voy a vivir con duendes y lagartos
+el caliente misterio de la siesta
+Voy a soñar con orquídeas y lunas
+moradas como un sexo
+capaz al mismo tiempo
+de recibirme y de fecundarme el alma de la poesía
+Capaz de inocularme la fuerza necesaria
+para seguir cantando –a pesar de todo-
+SOBRE EL CADAVER (sic) SECO DE MI TIERRA
+(Szretter, 1985, p. 79)
+El último verso del fragmento compartido da título al “Cuento versiforme” de Alberto Leopoldo Ramón
+Szretter publicado en su libro Mantenerse en el vórtice (1985); este es un poema extenso de estilo incisivo y
+crítico –al igual que el de toda su producción– que se instala como reclamo y denuncia ante el avance del
+supuesto progreso que atenta contra la deforestación y la contaminación ambiental del agua y de la selva. Cabe
+destacar que un conjunto considerable de autores y autoras territoriales utilizan el espacio del poema para
+desplegar discursividades críticas sobre variadas temáticas y problemáticas en las que los paisajes misioneros
+son abundantes y rizomáticos, en el sentido de que se expanden hacia múltiples puntos de fuga que no
+agotan las interpretaciones lecturales; al mismo tiempo, en ellos anidan diálogos y voces del campo cultural
+posibilitando el entramado polifónico de diversas discursividades sociales. En este sentido, concebimos al
+poema territorial como un dispositivo potente en el que las dimensiones estéticas y políticas se conjugan y
+forman parte de un universo discursivo compartido en el cual se esceniﬁcan los posicionamientos autorales
+ideológicos y críticos.
+Metapoética territorial
+Luego de esbozar algunos trazados teórico-críticos acerca de la literatura territorial a partir de la cual
+deﬁnimos el conjunto de poemas con los cuales trabajamos, quisiéramos detenernos en una dimensión a la
+cual consideramos necesaria y primordial puesto que en ella recuperaremos las voces de poetas de Misiones
+en las cuales dialogan sobre la poesía: nos preguntamos, entonces, qué han dicho –y que han escrito– sobre
+ella y cómo han trasladado estas reﬂexiones y problemáticas a sus producciones. En relación con ello, nuestros
+recorridos de lectura analítica nos indican que han realizado estas incursiones a partir de, por lo menos, dos
+prácticas metadiscursivas visibles: en primer lugar, mencionaremos los metapoemas en los que se habla sobre
+la poesía o el poema –en ocasiones a través de reﬂexiones, descripciones, deﬁniciones, explicaciones, etc.– en
+una búsqueda que explota los recursos y procedimientos propios del género:
+Oleadas de poesía
+acuden a mi inspiración
+de tiempo en tiempo.
+Cuadernos de Literatura, 2023, núm. 20, e2010, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Vienen del corazón o del magín.
+No esperan; nada los ataja;
+ni escollos de rutina
+ni acantilados de obligadas tareas.
+(…)
+(Amable, 2018, p. 145-146)
+Este fragmento pertenece a “El poema de mis poemas” de Hugo Amable y, si bien “‘lo que el poema dice’ no
+siempre es tan evidente” (Eagleton, 2010, p. 129), podríamos conjeturar que la voz poética pone en escena un
+tópico visible en la historia de la literatura como lo es el de la inspiración de quien escribe y, al mismo tiempo,
+el lugar del cual esta proviene, “del corazón o del magín”, de los sentimientos y emociones o del conocimiento
+y la razón. Al mismo tiempo, estas “oleadas de poesía” arrebatan al poeta e intervienen sorpresivamente en su
+vida cotidiana y rutinaria –imagen que se reiterará, tal como veremos, en las producciones de otros autores
+y autoras territoriales–.
+La segunda práctica que les permite reﬂexionar sobre la poesía, en íntima relación con la anterior, son los
+metadiscursos poéticos es decir aquellas textualidades críticas y ensayísticas en las cuales los autores y autoras
+demuestran, en palabras de Barthes, “una conciencia artesana de la fabricación literaria” (2003, p. 139-140):
+Hoy entrego a nuestra literatura estas páginas, no sé si he logrado algún verso. El arte poética es tremendamente difícil, uno
+puede decir las mismas cosas de inﬁnitas maneras, puede corregir inﬁnitamente.
+Quizá con los años aprenda a no equivocarme.
+Hoy concluyo mi tarea, me agobia, debo continuar. (Szychowski, 2001, p. 12)
+En este caso, compartimos como ejemplo inicial un fragmento del prólogo de Poemas (2001), libro
+póstumo de Tamara Szychowski en el cual, a partir de un tono en el que se entrevé la angustia que genera la
+clausura del proceso escritural, se reconoce en la poesía una práctica inconmensurable, abisal, que la desborda
+e inquieta frente a la inmensidad del lenguaje y a la imposibilidad de concluir la revisión para pulir sus
+“equivocaciones”.
+Es preciso reconocer que al instalarnos en esta problemática nos encontramos articulando con diversos
+abordajes en los que los procedimientos meta, denominados de este modo por Scarano (2017, p. 1), se tornan
+protagónicos; en ellos se visibiliza la práctica recursiva y reﬂexiva sobre aquello que se dice/escribe instalado
+en un universo particular que condiciona, matiza y otorga características contextuales que resultan claves
+para el análisis de las condiciones de producción y circulación de la literatura y, especialmente en este
+trabajo, de la poesía misionera. Nos referimos, particularmente, a una constelación de categorías que se
+entrelazan posibilitando la recuperación de anclajes teóricos primordiales para este despliegue, como los de
+metalenguaje (Jakobson, 1996; Bajtín, 2002), metadiscurso (Maingueneau, 2008), metatexto(Genette, 1989)
+y metaliteratura a partir de la cual se realiza la siguiente distinción: “objeto y mirada sobre este objeto, palabra
+y palabra de esta palabra, literatura-objeto y meta-literatura” (Barthes, 2003, p. 139).
+Tal como veremos, no solo en los prólogos de los poemarios –como el fragmento de Szychowski citado
+anteriormente– nos encontramos con estas textualidades metapoéticas, sino también en artículos publicados
+en revistas literarias y culturales, en entrevistas, en presentaciones de libros, etc., a partir de las cuales
+entretejeremos una constelación discursiva –en la que se intenta reﬂexionar acerca de la poesía, el poema y los
+poetas– conﬁgurada por diversas incursiones en los archivos de nuestras investigaciones territoriales.
+Metapoemas, metadiscursos y vida cotidiana
+Para iniciar este recorrido, diremos que los metapoemas son bastante frecuentes en los autores y autoras
+territoriales, quienes en distintos momentos de su producción arriesgan y proponen reﬂexiones sobre la
+materia prima con la cual trabajan en sus proyectos escriturales; esto puede advertirse, por ejemplo, en
+el siguiente fragmento de “Poemas inconclusos” de Alberto L. R. Szretter –publicado en La caramañola
+Carla Andruskevicz. METAPOÉTICAS TERRITORIALES: LITERATURA Y CRÍTICA EN FIGURAS AUTORALES
+DE MISIO...
+PDF generado a partir de XML-JATS4R
+y El horizonte (1998)– en el cual accedemos a la exhibición de experiencias íntimas que se combinan
+armónicamente con categorías y terminologías propias del lenguaje poético:
+(…)
+Se fueron apilando en los rincones
+de cajones, del alma, del ropero
+o mejor del olvido que creciendo
+los puso a buen recaudo
+en el más vertical de los desórdenes.
+Todos quedaron amarillos
+con el paso del tiempo. Malformados
+de una caligrafía de emergencia
+llenos de cardenillos y miriápodos
+devoradores de octosílabos
+que entre hemistiquios y cesuras
+destrozaban sinéresis mordían
+metáforas palabras y papeles
+sin saber que eran sueños levantados
+en las noches de insomnio.
+(…)
+(Szretter, 1998, p. 161-162)2
+Al recorrer las páginas de los poemarios, antologías y revistas literarias misioneras, no es difícil descubrir
+que el poema y la poesía son tópicos que emergen con insistencia en una búsqueda permanente en torno
+a concepciones y funcionalidades del género, la cual siempre ha tenido gran protagonismo en las prácticas
+literarias de los escritores y escritoras y en el campo cultural en general.
+Si partimos de la idea de Pérez Bowie –referente teórico visible en las investigaciones de Scarano en las
+que se interesa por la “poesía en su vertiente auto(bio)gráﬁca” (2014, p. 66)– respecto a que “al volcarse el
+poema sobre sí mismo, se articula un movimiento de búsqueda, de conocimiento, en el cual el poema no es
+nunca resultado –la pieza acabada e intocable– sino la mostración misma de ese proceso” (Pérez Bowie, 1994,
+p. 238), en el contexto territorial misionero no podríamos dejar de mencionar, en primer lugar, un ejemplo
+emblemático en el cual dicha práctica meta resulta evidente y profundamente trabajada por su autor; nos
+referimos a Los poemas del poema (1987) de Marcial Toledo:
+Estas
+veintipico visitas
+ocurrieron
+en el oído o en las manos
+en setiembre,
+mientras en otros
+ardían campanas
+de colores
+y un arco iris total
+descendía
+sobre los ojos y las plantas,
+urdiendo celos
+y señalando
+cápsulas de eternidad.
+(…)
+(Toledo, 1987, p. 55)
+Tal como se maniﬁesta en estos versos pertenecientes a “El vino en las ortigas”, este libro cuenta con
+veintiséis visitas-poemas en los que su autor reﬂexiona sobre las múltiples dimensiones a partir de las cuales
+Cuadernos de Literatura, 2023, núm. 20, e2010, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+estos se construyen, en algunos casos a través de preguntas que se vislumbran en el espacio paratextual de los
+títulos y que funcionan como disparadores para la exhibición del proceso meta-escritural; algunas de ellas
+son “¿Adónde va el poema?”, “¿Qué se propone?”, “Qué cosa es el poema” o “Qué queda del poema” del cual
+compartimos un fragmento a continuación:
+Qué queda del poema si le quito
+el pudor de alguien que lo rechaza,
+o su enojo,
+o su sentirse herido por un concepto
+que dentro del poema
+tiene aliados
+y enemigos.
+(p. 9)
+Si se realiza una lectura detenida de este particular libro, puede aﬁrmarse que los procedimientos meta
+atraviesan y matizan cada uno de sus poemas. Por esta razón se menciona en primer lugar puesto que, por
+un lado, resulta un ejemplo emblemático respecto de las imbricadas relaciones entre el poeta, sus poemas
+y la poesía; y, por el otro, es el único en el contexto misionero que se dedica exclusivamente a la escritura
+metapoética. En el universo construido por Toledo, los poemas parecerían asumir la forma de personajes que
+lo sorprenden con visitas que intervienen en su vida cotidiana –y en distintas horas del día, como la noche
+o el momento del desayuno– y con los cuales se entablan íntimas conversaciones en las que se entretejen
+reﬂexiones sobre la escritura del género. Es por ello que no es casual, que en el devenir de “Metapoema”
+accedamos a una deﬁnición respecto a la práctica que nos encontramos describiendo y que parecería tener
+gran relevancia en el discurrir de las páginas del poemario puesto que orienta e impulsa la producción de cada
+uno de sus textos:
+(…)
+y la palabra entonces
+tiene como objeto otras palabras,
+se contempla a sí misma
+en su cara de letras,
+en su panza de misiones cumplidas,
+arte y parte
+(…)
+(p. 37-38)
+Simultáneamente a las referencias sobre la propia concepción del poema mirándose a sí mismo, en los versos
+de Toledo nos encontramos con variadas pistas y huellas sobre el proceso de escritura que dan cuenta de una
+constelación de elementos, herramientas y procedimientos concretos, a través de los cuales se proporcionan
+anclajes visuales y metafóricos en el escenario cotidiano habitado por el escritor, como los que se incluyen en
+los siguientes fragmentos de sus versos: “Papel a rayas,/ sombra de mi mano,/ lápiz” (p. 24), “Dejo el papel,/
+la punta de metal con tinta,/ la frente donde guardo las palabras” (p. 26), “no se te ocurra/ cambiarme un
+sustantivo,/ ni agregarme una coma” (p. 44), “tacho y sigo” (p. 58), “y te deslizas en el papel” (p. 58).
+Como estamos visualizando en los versos compartidos, en Los poemas del poema la voz enunciadora no
+presenta deﬁniciones y reﬂexiones clausuradas o taxativas a partir de las cuales deberíamos entender la poesía
+–¿su poesía?– sino, ante todo, la posibilidad de un acercamiento a los procesos a partir de los cuales se entreteje
+la escritura poética:
+En el momento en que el poema se nos presenta autodesignándose, con la categoría de objeto autónomo, el propio acto de la
+escritura puede llegar a convertirse en centro temático, con lo que el texto no nos es entregado como un producto concluido
+sino mostrado como un devenir; el objetivo que se persigue es, entonces, llamar la atención sobre la propia escritura como
+proceso que ha conducido a aquél. (Pérez Bowie, 1992, p. 102)
+Carla Andruskevicz. METAPOÉTICAS TERRITORIALES: LITERATURA Y CRÍTICA EN FIGURAS AUTORALES
+DE MISIO...
+PDF generado a partir de XML-JATS4R
+En relación con ello, advertimos que en este libro algunos poemas se personiﬁcan interviniendo los juegos
+y procedimientos metaﬁccionales que aquí se proponen; en este sentido, asumen la voz enunciadora y se
+comunican con el poeta a través de autodeﬁniciones metafóricas como: “Yo, tu poema,/ el gorrión asignado/
+a tu jaula/ y a tu cielo,/ esperaba/ el ﬁn/ de tu hibernación” (Toledo, 1987, p. 49). En este caso, el poema
+pareciera encontrarse preparado para levantar su vuelo –¿para escribirse y existir?– en cuanto el poeta se
+despierte; cabe destacar que las referencias a las aves –no solo gorriones sino también palomas, golondrinas,
+etc.– son frecuentes en dicho poemario y parecieran jugar con los sentidos entre la prisión y la libertad de
+manera oscilante: “Cuando en el pecho/ salta mi corazón/ como algún pájaro enjaulado,/ vuelves…” (p. 60).
+En este caso, la poesía es algo vivo que se encuentra encerrado en la intimidad del poeta y espera ser liberado
+de los límites de la jaula-mente o pensamiento:
+Por allí, en un rincón, en un cajón que nadie osaba abrir, dormía mi piel antigua, o mejor, mis entrañas, lastimosamente
+amontonadas. A veces, con la punta de los dedos, separaba las hojas, releía un instante y luego, cuando aquel dichoso animal
+me miraba con sus ojos ausentes, estremecido lo volvía a enjaular. (Toledo, 2015, p. 1)
+El fragmento anterior pertenece al texto ensayístico titulado “Algo sobre la poesía”, en cuyo título se
+revela nuevamente la imposibilidad de decirlo todo respecto del género, y en el cual también se vislumbra
+la metáfora del animal enjaulado que intenta conmover al poeta con la ﬁnalidad de ser liberado. A través de
+un tono autobiográﬁco, Toledo nos relata los avatares sufridos al sentirse, esta vez él, cautivo y dependiente
+de su vida profesional dentro del campo de las leyes, y al mismo tiempo su deseo, en ocasiones dormido y en
+otras escondido, de escribir poesía. En relación con ello, otra imagen recurrente en la voz poética que Toledo
+impulsa es aquella en la que se insiste en el lugar que habita la poesía en el cuerpo del poeta, aguardando
+ser liberada, como en el siguiente fragmento, en el que también el poema ensaya su autodeﬁnición: “Soy la
+medida/ de tu frente,/ quepo sin duda/ en tus palabras” (Toledo, 1987, p. 51).
+Si bien resulta frecuente el diálogo íntimo que se entabla entre el poeta y el poema a partir del cual este
+último vuelve sobre sí mismo proporcionando algunos anclajes en los que se lo deﬁne y describe, en otros
+textos se incluye una tercera ﬁgura, el posible lector, complejizando aún más la trama que entrelaza a quienes
+participan de la ﬁcción, como por ejemplo en “Nardo”:
+Golpeó las palmas,
+vino a enterarme
+de una ﬂor,
+contando con tus ojos
+y tu perspectiva,
+valiéndose de mi mano
+derecha,
+(…)
+ahora,
+cuando se dirige
+a ti, lector,
+para,
+salteándome,
+hacerte saber
+que en cualquier parte del jardín
+hay una planta
+llamada nardo,
+cuya existencia ignoro
+pero ﬁgura por allí,
+en un correcto manual
+o en un aburrido diccionario.
+Y bien,
+quiso poner
+Cuadernos de Literatura, 2023, núm. 20, e2010, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+palabras en columna
+para que sepas
+que esa ﬂor
+existe
+en otra realidad,
+lejos del césped
+y de la mano que lo riega
+(…)
+(Toledo, 1987, p. 40-41)
+En este momento resulta oportuno continuar insistiendo en el carácter ﬁccional de la literatura, lo cual
+por supuesto permanece vigente en el territorio de la poesía, en donde tanto el poeta como su posible lector
+no podrían corresponderse con seres históricos –de carne y hueso– sino con construcciones discursivas que
+se encuentran en permanente devenir en el entretejido de los versos. Del mismo modo, los acontecimientos,
+las temáticas y los tópicos que se diseminan en los poemas, también adquieren la libertad dinámica que
+proporciona la ﬁcción literaria, y si se realizan anclajes en universos discursivos reales, estos no son más que
+recreaciones móviles y lúdicas. En este sentido, coincidimos con Pérez Bowie cuando aﬁrma:
+En la experiencia de los receptores no existen, pues, dudas en adscribir la situación comunicativa del poema al ámbito de la
+irrealidad y en admitir, por consiguiente, su pertenencia a la categoría de lo ﬁccional. De ahí, entonces, que resulte posible
+echar mano del concepto de metaﬁcción para describir aquellos procedimientos a los que la lírica contemporánea recurre muy
+a menudo para denunciar ese carácter ﬁccional, para desrealizar la comunicación poemática, presentando sus enunciados
+desvinculados de la personalidad del yo histórico del autor y poniendo de relieve la teatralidad de la situación comunicativa
+del poema, su carácter de ﬁcción representada y contemplada como tal. (1992, p. 93)
+Uno de los procedimientos metaﬁccionales referidos por Pérez Bowie es justamente la inclusión del
+posible lector empírico en el entramado poético (1992, p. 102) a través de su apelación maniﬁesta en diversas
+modalidades que lo convocan y lo traen al centro de la escena en la cual, al igual que el poeta, resulta un
+protagonista que interviene activamente. En el fragmento anterior de “Nardo”, el poeta es una suerte de
+mediador entre el lector y el poema quien, valiéndose de aquel y de la mano que escribe, “quiso poner/ palabras
+en columna/ para que sepas/ que esa ﬂor/ existe/ en otra realidad,/ lejos del césped”. De modo diferente pero
+en íntimo diálogo, en “Poema” perteneciente al primer libro publicado de Olga Zamboni y titulado Latitudes,
+la voz poética enunciadora parecería dirigirse a un lector-poeta con la intención de proporcionarle consejos
+u orientaciones respecto a la escritura y sus vínculos con la vida cotidiana:
+No lo escribas. Las letras
+(habría que agitar antes de usarlas)
+solo mienten disaces confortables.
+Encontralo en las cosas del camino y la gente
+adherido a la piel de tus semanas.
+Cada día es un verso sin forma que te espera
+vaciale en molde de ojos nuevos de manos labradoras
+Y miralo crecer
+en el renglón sin ﬁn y cotidiano
+de tus luchas de coraje y de sombra.
+Que vibre y se retuerce en el furor de este
+tiempo maduro y complicado. Dale tu ritmo:
+la íntima disonancia y la ﬂor.
+Carla Andruskevicz. METAPOÉTICAS TERRITORIALES: LITERATURA Y CRÍTICA EN FIGURAS AUTORALES
+DE MISIO...
+PDF generado a partir de XML-JATS4R
+(…)
+(Zamboni, 1980, p. 11)
+Así como en “Nardo” de Toledo, también en este poema de Zamboni se visibiliza, además de la apelación
+directa a un posible lector –quien, en este caso, parecería ser simultáneamente un poeta–, la íntima relación
+que se instala entre la poesía y la vida cotidiana, la cual proporciona un abanico ilimitado de temáticas y
+tópicos: “Encontralo en las cosas del camino y la gente”, “Cada día es un verso sin forma que te espera”. En
+articulación con este aspecto del proceso de escritura, en “La dimensión de lo poético en la vida (Umbrales
+del Siglo XXI)”, artículo ensayístico publicado en la revista Mojón “A” de la Sociedad Argentina de Escritores,
+Filial Misiones (SADEM), Zamboni busca remover a los poetas del lugar en el cual con frecuencia son
+ubicados cuando se piensa que “vivir la poesía es estar en la estratósfera, un mundillo de elegidos” (Zamboni,
+1994a, p. 22); en debate con estos estereotipos, la autora propone la búsqueda de la ﬁnalidad práctica de la
+poesía la cual no solo habita en las letras sino también en la vida cotidiana: “Captar TODA la poesía, también
+la poesía sin poemas, la que está en las cosas que nos rodean, es integrarnos en su paisaje vital que es el nuestro,
+y que contiene belleza, también en el dolor, la lucha, y el agobio del tiempo” (Zamboni, 1994a, p. 22).
+A través de estos fragmentos entretejidos es posible reconocer aquello que veníamos anunciando al inicio
+del despliegue respecto a que las reﬂexiones metapoéticas de los autores y autoras territoriales se diseminan
+tanto en los propios poemas como en los textos ensayísticos, tanto los publicados como los inéditos –y
+hallados en sus archivos–. En ocasiones, incluso se trazan puentes dialógicos entre ambos géneros ya que en
+ellos se habla sobre las mismas preocupaciones y temáticas –como por ejemplo poesía y vida cotidiana–, por
+lo cual es posible advertir su tratamiento recursivo, repetido y al mismo tiempo diferente, en cada poema o
+texto crítico en los que reconocemos abordajes metaliterarios.
+En relación con ello, Zamboni refuerza y sostiene su propuesta en otro artículo titulado “Poesía y tercer
+mundo” (1994b) –publicado en el Suplemento Punto Crítico del diario Primera Edición– cuando aﬁrma:
+La poesía, el arte son necesarios para vivir mejor. Sin esa cuota de poesía la vida probablemente no tendría sentido.
+Poesía entendida en el “buen sentido de la palabra”. Ingrediente para vivir con una calidad de vida en donde no se miden
+cualitativamente los momentos sino con otros parámetros, los de la sensibilidad, la coincidencia, la solidaridad, la creación
+compartida. (Zamboni, 1994b, p. 1)
+Sin embargo, los anclajes de la poesía en la vida y viceversa, tan necesarios para esta autora y con los que
+Toledo acuerda, para este no deberían convertirse en un reﬂejo mimético de la vida del escritor o, en lo que
+él mismo denomina, un “canto a uno mismo”:
+La poesía –ﬁnalmente– es misterio, delirio cósmico, juego de vivencias profundas que de otra manera no saldría a la superﬁcie.
+Pero dentro de lo posible no debe ser un canto a uno mismo. Hasta cierto punto uno debe ser el poeta del que habla Neruda en
+uno de sus poemas, el que va recogiendo los problemas de los demás para compartirlos, olvidándose de los propios. (Toledo,
+2015, p. 3)
+En este nuevo fragmento de “Algo sobre la poesía”, esta busca ser desenterrada de las profundidades y vuelve
+a emerger a través de la imagen de su liberación, pero no para develar las emociones y sentires del propio poeta,
+sino los de los otros, de lo contrario “puede ser afectación y entonces hay que matarla antes de que termine
+por cubrirnos de moho” (Toledo, 2015, p. 1).
+Para ﬁnalizar y dar paso al último despliegue, si bien son diversas las voces territoriales que trazan recorridos
+metapoéticos tanto en su escritura literaria como en la ensayística y crítica, es justo reconocer en Zamboni y
+Toledo dos ﬁguras que, con estilos disímiles pero al mismo tiempo articulados como se ha podido vislumbrar,
+se han destacado y han sostenido esta práctica a lo largo de sus proyectos autorales, instalando un diálogo
+intenso y permanente entre sus poemas y sus textos críticos. En este sentido, ambos han hablado sobre la
+literatura y la poesía en innumerables ocasiones y actuaciones contribuyendo a la conformación del campo
+cultural y, es preciso reconocerlo, aquí solo hemos podido compartir algunos valiosos ejemplos de ello.
+Sin embargo, consideramos que se ha mostrado con suﬁciente claridad el posicionamiento estratégico y
+Cuadernos de Literatura, 2023, núm. 20, e2010, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+comprometido de su escritura, la cual se ha ido construyendo y reterritorializándose en cada uno de los
+papeles que habitan sus respectivos archivos (Santander, 2020; Guadalupe Melo, 2016);3 en ellos, se revela
+una constelación de fragmentos discursivos y textuales que dan cuenta de la conﬁguración de la función autor
+en cada uno.
+Figuras poéticas comprometidas
+Para dar inicio a este nuevo despliegue, quisiéramos insistir en que más allá de los matices y diferencias entre
+las distintas conceptualizaciones que los autores y autoras territoriales nos han legado respecto al género,
+y con las cuales podríamos acordar o disentir poniéndolas en debate con las voces canónicas que discurren
+respecto a qué es la poesía o cómo se la lee, lo que aquí nos interesa especialmente es poner de relieve el abordaje
+que aquellos han propuesto sobre múltiples dimensiones metapoéticas y, de este modo, rescatar estos valiosos
+discursos que forman parte de la conﬁguración de la literatura misionera y su memoria.
+En este marco, además de la poesía, también la ﬁgura del poeta –la cual incluso en las autoras se encuentra
+formulada en masculino– es un tópico recurrente:
+El poeta ama por sobre todas las cosas
+el temblor de las tempestades y los volcanes,
+ama el ritmo y la belleza,
+así también el cielo encendido que brilla.
+Porque la poesía es un llamado desde adentro,
+una estrella que se enciende y cae hacia afuera,
+como un meteoro inverso
+cabalgando desde el centro al inﬁnito.
+(Szychowski, 1980, p. 17)
+Este poema se titula “Amor de poeta” y en la brevedad4 de sus versos libres, se entrelaza al poeta con objetos
+de la naturaleza en los que predominan imágenes que insinúan iluminaciones y movimientos intensos;
+“tempestades”, “volcanes”, “cielos estrellados” son amados por él y su poesía es entendida a partir de un juego
+dinámico de relaciones espaciales que señalan el adentro y el afuera, el centro y, esta vez, no la periferia sino
+la inﬁnitud. Bien pareciera entonces que aquí nuevamente se insiste en la liberación de la poesía que habita el
+universo íntimo de quien escribe y ama, escuchando el llamado de “una estrella que se enciende y cae hacia
+afuera,/ como un meteoro inverso”.
+La conﬁguración de un poeta que “ama el ritmo y la belleza” con sus movimientos e intensidades como
+nos señala la voz enunciadora en el poema de Szychowski, y que tiene cualidades para detectar la “dimensión
+de lo poético en la vida” según las palabras de Zamboni, encuentra ecos dialógicos signiﬁcativos en las de
+Juan Enrique Acuña, cuando el 15 de enero de 1985 en una visita a la ciudad de Posadas, especialmente a los
+miembros de la SADEM, les dice:
+“Encontrarse con el paisaje de Misiones implica necesariamente buscar la gente que lo sustenta. En realidad, todo lo que yo
+he escrito siempre ha tenido relación con la gente en la cual se enraíza un momento vital como puede ser el escribir un libro,
+fabricar un muñeco…”
+(…)
+“Yo no he abandonado la poesía. Dejé de escribir versos en determinado momento pero no abandoné nunca la poesía.
+Hacer teatro de muñecos, es, de alguna manera, hacer poesía. (…) Para mí el teatro es una transposición poética de la realidad.
+Lo importante de todo esto es la actitud con que hacemos esa transposición.
+En la medida en que haya un hombre trabajando, en cualquier forma, sea con un martillo, un hacha, un escoplo, una
+máquina de escribir, en la medida que ocurra eso, hay poesía. Encontramos que allí puede estar la supervivencia de la
+condición humana. Estamos inmersos en un universo poético. Si conseguimos transponer ese trabajo del hombre… estamos
+haciendo un trabajo poético”.
+(…)
+Carla Andruskevicz. METAPOÉTICAS TERRITORIALES: LITERATURA Y CRÍTICA EN FIGURAS AUTORALES
+DE MISIO...
+PDF generado a partir de XML-JATS4R
+“Yo creo a pie juntillas en la capacidad del hombre para crear”. (Acuña, 1986, p. 4)5
+El fragmento pertenece a una breve reseña, junto a un puñado de citas fragmentarias, de la conversación
+coordinada por la poeta Lucrecia Jeanneret, publicada en la revista Mojón “A” y titulada “Juan Enrique Acuña
+en Misiones”; en ella se reconoce que los miembros de la SADEM tuvieron “la grata e inesperada presencia de
+quien sentara un valioso antecedente en la lírica misionera” (Acuña, 1986, p. 4). Cabe destacar que en aquella
+época Acuña se encontraba viviendo en San José de Costa Rica –ciudad en la que estaba radicado desde 1968–
+en donde dirigía el Moderno Teatro de Muñecos de la Universidad. Además de la escritura poética, en su vida
+Acuña manifestó un marcado interés por la dramaturgia y el arte de los títeres, lo cual queda demostrado en
+su respuesta ante una pregunta que, si bien no sabemos con certeza cuál ha sido, es posible imaginarla según
+lo enunciado por el autor cuando reconoce que toda su producción artística, sea un libro o un muñeco, se
+encuentra profundamente vinculada al paisaje misionero y a su gente. De este modo, concibe al arte –el teatro
+o la escritura– como “una trasposición poética de la realidad”, tal es así que conﬁesa que no ha abandonado la
+poesía puesto que en cualquier creación humana ella está presente: “Estamos inmersos en un universo poético”.
+En este punto del recorrido, es preciso insistir en que resulta signiﬁcativa la importancia que los autores y
+autoras territoriales le conﬁeren al anclaje de su escritura en la realidad que habitan, en el paisaje que recorren
+cotidianamente y que, tal como hemos anticipado, esto no implica un reﬂejo mimético, sino una recreación
+o transposición, como agrega Acuña. En articulación con ello, en otras voces, la ﬁgura del poeta se asocia con
+frecuencia a la de alguien que piensa y reﬂexiona críticamente sobre la realidad que le toca vivir, como por
+ejemplo Rosa Etorena de Rodríguez, quien basándose en la poética de Zamboni y Toledo, publica en la revista
+Puente el estudio “Los que dudan” en el cual aﬁrma: “El poeta es esencialmente el que duda. El que parcela
+la realidad, el que elige, el que selecciona. Es esencialmente un constante inquisidor. Un investigador de la
+realidad. Un pensador” (Etorena de Rodríguez, 1971, p. 7).
+Asimismo, en otro fragmento del texto “Algo sobre la poesía” citado con anterioridad, Toledo arremete
+nuevamente contra los estereotipos sociales y propone un poeta ajeno al poder de turno, libre –¿para poder
+también liberar su poesía?– tanto de presiones políticas como de funciones festivas:
+Se nace poeta como se nace tuerto o sordomudo. Lo demás es pasatiempo más o menos cultivado, más o menos empeñoso.
+No es cuestión de barbas ni de romanticismo. Tampoco el poeta es un lujo de la sociedad (como dijo nuestro diario), o un
+ave canora apta para amenizar ﬁestas. Es un ser humano como cualquier otro y es preferible que no viva de la limosna de
+nadie, para poder decir lo que se le antoje. No necesita pertenecer a ninguna tendencia política. El compromiso no lo asume
+llenando formularios sino frente a su conciencia. (Toledo, 2015, p. 3)
+En las palabras de Toledo, se vislumbra nuevamente la agudeza de su tono cuando asevera que el poeta
+es un ser humano cualquiera que nace con dicha condición, la cual debería permitirle decir lo que se le
+antoja sin ataduras políticas puesto que, tal como aﬁrma en otro texto titulado “Poesía desganada”, esta “no
+sirve para adornar la realidad sino para enjuiciarla e implica el punto de densidad máxima en la tarea del
+escritor” (Toledo, s.f., p. 2). El poeta, entonces, es un ser comprometido con el contexto cultural que habita
+y su palabra es libre y urgente, tal como la reservaba Barthes para los écrivants (2003, p. 202-211), por ello es
+también un intelectual (Said, 1996), alguien que, antes de pintar paisajes amigables, polemiza y debate acerca
+de ellos:
+El PANFLETO sabe que no es un factor de cambio. Es un género de barricada genéticamente lírico; combativo y bohemio al
+mismo tiempo. (…) Es un híbrido juego, en última instancia inocente; un niño disfrazado de guerrero; inofensivo simulacro
+de arrebato intolerante con la injusticia del poder… (Szretter, 1993, p. 16)
+Cuando está prohibido decir lo que se piensa y hay que enfrentar la tortura y la muerte por decirlo a pesar de la amenaza;
+nace el PANFLETO. (p. 17)
+Estos fragmentos pertenecen al prólogo de Panﬂetos en la noche y Antología ﬁnal (1993) de Alberto L.
+R. Szretter. Estos panﬂetos-poemas, sumergidos en una Argentina de represión y dictadura, de oscuros e
+impuestos silencios, revelan una vez más la palabra crítica del autor territorial, aquella que incomoda, que
+Cuadernos de Literatura, 2023, núm. 20, e2010, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+se hace cargo de lo que nadie se anima a decir y por ello es concebida como “La necesaria palabra”, título de
+un poema en el cual se deﬁne a esta última como: “Alacranes de luz/ Cardúmenes esquirlas/ Coronadas de
+dientes/ Aguavivas descalzas/ Vienen mordiendo el aire/ Las carnes y los huesos” (Szretter, 1993, p. 115).
+En este poemario, el autor no solo nos arroja imágenes inquietantes de un mundo en el que reinan la
+inseguridad, la violencia y la injusticia, sino que también se incluyen reﬂexiones acerca de la poesía y los
+poetas a los que se les hace similares reclamos a los planteados por Toledo, como en el siguiente fragmento
+de “Panﬂeto contra la poesía eufemística”:
+Sin embargo al poeta le exigen la palabra melosa
+la rima minuciosa
+el soneto de ac y de monóculo
+Sintaxis adornadas con cintas de colores
+la ase chantillí con uta esca y dulce
+de una metáfora ingeniosa.
+La quisicosa de una estocada hermética
+que cause una hemorragia… ¡apenas rosa!
+El verso edulcorado con sonrisas
+lleno de genuﬂexiones elegantes, atléticas
+aroma, gracia, brisa
+que se ajuste a las leyes estéticas
+que disimulen la injusticia
+de madres esqueléticas
+con las tetas sin leche
+y manos sin caricias
+¡Mas tendrán que admitir el verso duro
+la matemática y justiﬁcada puteada
+la poesía denuncia
+que clavamos en el cuero peludo
+de nuestros enemigos!
+(Szretter, 1993, p. 37)
+Resulta interesante mencionar que la poesía-denuncia de Szretter siempre se ha instalado en un territorio
+profundamente político que no esquiva las problemáticas sociales sino que las exhibe en toda su crudeza y
+realidad, interpelando a quienes ejercen el poder en los lugares más privilegiados y olvidan el compromiso
+asumido con el pueblo.
+Palabras inconclusas
+A lo largo de este artículo hemos tratado de visibilizar de qué manera la producción literaria y crítica de los
+autores y autoras de Misiones reterritorializa los espacios geográﬁcos y simbólicos que atraviesa provocando
+anclajes discursivos, retóricos y semióticos que instauran relaciones de poder (Foucault, 1992, p. 125) en el
+campo cultural. En relación con lo dicho, entendemos a la literatura misionera de las ﬁguras autorales con
+las cuales trabajamos como un territorio poderoso que excede el mero rastreo y muestrario de pinceladas
+paisajísticas desde una mirada regionalizada y esencialista en la cual se buscarían articulaciones ﬁjas entre el
+acontecimiento literario y la realidad del entorno.
+En este sentido: “Es totalmente inútil inventariar un tema en un escritor si no se pregunta qué importancia
+tiene en la obra, es decir, exactamente cómo funciona (y no su ‘sentido’)” (Deleuze y Guattari, 1998, p. 69).
+Desde esta perspectiva, la literatura es un saber que funciona como una máquina que se activa y se pone en
+marcha a partir de las multiplicidades instaladas por las miradas críticas de quienes la consumen y leen.
+Carla Andruskevicz. METAPOÉTICAS TERRITORIALES: LITERATURA Y CRÍTICA EN FIGURAS AUTORALES
+DE MISIO...
+PDF generado a partir de XML-JATS4R
+Para ﬁnalizar, quisiéramos mencionar que en este trabajo hemos compartido numerosas lecturas posibles
+sobre textos críticos y poemas pertenecientes a autores y autoras territoriales, sin perder de vista que “…
+los signiﬁcados no son ni otorgados al azar por los lectores, ni están presentes objetivamente en la página
+a la manera que lo está una ﬁligrana” (Eagleton, 2010, p. 137); por lo cual, abordamos cada texto tratando
+de evitar el encorsetamiento de las interpretaciones y siendo conscientes de las múltiples posibilidades de
+sentidos que podrían entramarse. Asimismo, la tríada poesía-poema-poeta ha sido deﬁnida a partir de la propia
+voz de las ﬁguras autorales protagonistas quienes, a través de metapoemas y metadiscursos poéticos han resaltado
+la importancia del anclaje en la vida cotidiana y del compromiso social de quien escribe respecto del espacio
+que habita.
+De esta manera, a partir de esta indagación en algunas de las textualidades de los archivos territoriales,
+hemos intentado ampliar la mirada sobre la producción y circulación de la palabra literaria y crítica de
+un conjunto de poetas de Misiones adentrándonos en diversos intersticios de su universo discursivo;
+consideramos que allí se arriesgan postulados y despliegues potentes en torno al género –como los
+anteriormente compartidos– que dan cuenta de la intención de conﬁgurar e integrar un programa poético
+comprometido con el territorio en el cual emerge y se disemina.
+Referencias bibliográficas
+Acuña, J. E. (1986). Juan Enrique Acuña en Misiones. Mojón “A”. Revista de la Sociedad Argentina de Escritores (Filial
+Misiones), 2 (2), 4. https://bit.ly/3KJpSgb
+Amable, H. W. (2018). Narraciones, poemas e historietas literarias. Posadas, Edunam.
+Bajtín, M. (2002). Estética de la Creación Verbal. Buenos Aires, Siglo XXI.
+Barthes, R. (2003). Ensayos críticos. Buenos Aires, Seix Barral.
+Deleuze, G. y Guattari, F. (1998). Kaa. Por una literatura menor. México, Ediciones Era.
+Deleuze, G. y Guattari, F. (2002). Mil mesetas. Capitalismo y esquizoenia. Madrid, Pre-Textos.
+Eagleton, T. (2010). Cómo leer un poema. Madrid, Akal.
+Etorena de Rodríguez, R. M. (1971). Los que dudan. Puente. Revista cultural de la Asociación de Magistrados y
+Funcionarios de la Justicia de Misiones. 1 (1), 7-9. https://bit.ly/3Gvn8lg
+Guadalupe Melo, C. (2016). Exploraciones para una Crítica Territorial e Intercultural. De la antología al archivo de
+autor [Tesis de maestría en Semiótica Discursiva]. Universidad Nacional de Misiones, Repositorio Institucional
+Argos. https://bit.ly/3o1H3lm
+Foucault, M. (1992). Microfísica del poder. Madrid, Ediciones de La Piqueta.
+Foucault, M. (2006). Seguridad, territorio, población. Buenos Aires, FCE.
+Genette, G. (1989). Palimpsestos. Madrid, Taurus.
+Genovese, A. (2011). Leer poesía. Lo leve, lo grave, lo opaco. Buenos Aires, FCE.
+Jakobson, R. (1996). El marco del lenguaje. México, FCE.
+Maingueneau, D. (2008). Términos claves del Análisis del discurso. Buenos Aires, Nueva Visión.
+Pérez Bowie, J. A. (1992). Para una tipología de los procedimientos metaﬁccionales en la lírica contemporánea.
+Tropelías: Revista de Teoría de la Literatura y Literatura Comparada, (3), 91-104. https://bit.ly/3GxLCKC
+Pérez Bowie, J. A. (1994). Sobre lírica y autorreferencialidad (algunos ejemplos de la poesía española contemporánea).
+En Paz Gago, J. M.; Fernández Roca, J. A. y Gómez Blanco, C. J. (eds.), Semiótica y modernidad. Actas del V
+Congreso internacional de la Asociación Española de Semiótica Vol. 2 (pp. 237-248). Coruña, Universidade da
+Coruña, Servizo de publicacións. https://bit.ly/3KJToDC
+Said, E. (1996). Representaciones del intelectual. Barcelona, Paidós.
+Santander, C. (2020). Marcial Toledo: un proyecto literario intelectual de provincia. Posadas, Edunam. https://bit.ly/
+3L0zcxe
+Cuadernos de Literatura, 2023, núm. 20, e2010, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Santander, C.; Andruskevicz, C. y Guadalupe Melo, C. (2015). Banco de Autores Territoriales. Archivos y bibliotecas de
+autores misioneros. Laboratorio de Semiótica, FHyCS-UNaM. www.autoresterritoriales.com
+Scarano, L. (2014). Vidas en verso: autoﬁcciones poéticas. Santa Fe, Ediciones UNL.
+Scarano, L. (2017). Escribo que escribo: De la metapoesía a las autopoéticas. Tropelías: Revista de Teoría de la Literatura
+y Literatura Comparada, (2), 133-152. https://bit.ly/3zMiRWG
+Szretter, A. L. R. (1985). Mantenerse en el vórtice. Posadas, Edición de autor.
+Szretter, A. L. R. (1993). Panﬂetos en la noche y Antología Final. Posadas, Edunam.
+Szretter, A. L. R. (1998). La Caramañola y El Horizonte. Cuentos – Poesías. Posadas, Edición de Autor.
+Szychowski, T. (1980). Amor de poeta. Juglaría, XIII (22-23), 17. https://bit.ly/40Yo6hW
+Szychowski, T. (2001). Poemas. Posadas, Edunam.
+Toledo, M. (s.f.). “Poesía desganada”. Inédito. Recuperado de Santander, C. (2020), Archivo del escritor. Marcial
+Toledo: un proyecto literario intelectual de provincia. [Tesis de doctorado en Letras]. UNC.
+Toledo, M. (1987). Los poemas del poema. Buenos Aires, Torres Agüero Editor. https://bit.ly/3KvqCVK
+Toledo, M. (2015). Algo sobre la poesía. Banco de Autores Territoriales. Archivos y bibliotecas de escritores misioneros.h
+ttps://bit.ly/40aEWc4
+Zamboni, O. (1980). Latitudes. Posadas, Ediciones Montoya.
+Zamboni, O. (enero de 1994a). La dimensión de lo poético en la vida. Revista Mojón “A”, 22.
+Zamboni, O. (agosto de 1994b). Poesía y tercer mundo. Punto Crítico, Suplemento de la Edición N° 1091 del diario
+Primera Edición, 1.
+Notas
+1 Las mismas se inscriben en el Laboratorio de Semiótica de la Secretaría de Investigación de la Facultad de Humanidades y
+Ciencias Sociales de la Universidad Nacional de Misiones (FHyCS - UNaM). Para mayor información visitar el siguiente
+sitio web: www.autoresterritoriales.com (Santander, Andruskevicz y Guadalupe Melo, 2015).
+2 Los destacados son nuestros.
+3 Esta publicación corresponde a la Tesis de Doctorado en Letras de Santander, presentada y defendida en el año 2004
+en la Universidad Nacional de Córdoba.
+4 “En la brevedad del poema, el sentido literal se abre, en su simbolización, hacia ese otro o esos otros sentidos que lo
+rodean en su espacio fantasmático” (Genovese, 2011, p. 19).
+5 Las comillas pertenecen al original.

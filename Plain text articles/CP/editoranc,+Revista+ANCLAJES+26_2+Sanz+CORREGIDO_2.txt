@@ -1,0 +1,731 @@
+67
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+Martín Sanz, Álvaro. “Representar el trauma. Posmemoria y ética de la repre-
+sentación en Maus de Art Spiegelman”. Anclajes, vol.26, n.° 2, mayo-agosto 2022, 
+pp. 67-83.
+https://doi.org/10.19137/anclajes-2022-2625 
+Representar el trauma. 
+Posmemoria y ética de la 
+representación en Maus 
+de Art Spiegelman
+Álvaro Martín Sanz
+Universidad de 
+Valladolid
+España
+alvaro.martin.sanz@uva.es
+ORCID: 0000-0002-8327-9830
+Fecha de recepción: 08/08/2021  |  Fecha de aceptación: 19/10/2021
+Resumen: La novela gráfica Maus, de Art Spiegelman, es una de las obras más céle-
+bres acerca del Holocausto realizadas por la generación de la posmemoria debido a la 
+originalidad de su planteamiento estético para representar un testimonio traumático. 
+Dentro de las corrientes de pensamiento sobre el Holocausto, es posible concebir 
+su modo de representación como una solución pertinente y éticamente válida ante el 
+dilema imágenes versus testimonio. De la misma manera, cabe señalar como su plan-
+teamiento narrativo, esencialmente fragmentado, refleja las condiciones de elaboración 
+de la obra: la escasez de fuentes y el componente traumático y familiar de la memoria 
+representada.
+Palabras clave: Siglo XX; Polonia; Spiegelman; Novela gráfica; Posmemoria.
+Representing Trauma. Post-memory and ethics of 
+representation in Art Spiegelman’s Maus
+Abstract: Due to the originality of its aesthetic approach in representing a traumat-
+ic testimony, Art Spiegelman’s graphic novel Maus is one of the most famous works 
+about the Holocaust produced by the post-memory generation. Within the currents 
+of thought on the Holocaust, it is possible to conceive its style of representation as a 
+pertinent and ethically valid solution to the dilemma of images v. testimony. Likewise, it 
+is worth noting how its essentially fragmented, narrative approach reflects conditions 
+in which the work was created: the scarcity of sources and the traumatic and familiar 
+component of the memory represented.
+keywords: 20th century; Poland; Spiegelman, Graphic novel; Post-memory.
+68
+Álvaro Martín Sanz | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+Representar o trauma. A pós-memória e a ética da 
+representação na Art Spiegelman’s Maus
+Resumo: O romance gráfico Maus, de Art Spiegelman, é uma das obras mais célebres 
+sobre o Holocausto produzidas pela geração pós-memória devido à originalidade da sua 
+abordagem estética para representar um testemunho traumático. Dentro das correntes 
+de pensamento sobre o Holocausto, é possível conceber o seu modo de representação 
+como uma solução relevante e eticamente válida para o dilema imagens versus testemu-
+nho. Do mesmo modo, vale a pena notar como a sua abordagem narrativa essencialmen-
+te fragmentada reflecte as condições em que a obra foi produzida: a escassez de fontes 
+e a componente traumática e familiar da memória representada.
+Palavras-chave: Século XX; Polónia; Spiegelman; romances gráficos; pós-memória.
+Introducción. Discursos sobre el trauma. 
+La generación de la posmemoria
+El recuerdo del pasado conduce a dos reacciones 
+muy diferentes: dar un testimonio o pedir repa-
+raciones. El testimonio es siempre legítimo, aun 
+cuando luego pueda ser usado con malos fines 
+[...]. Hay que admitir también que ciertos ca-
+sos son definitivamente irreparables. Es en vano 
+que los padres de un niño asesinado reclamen la 
+pena de muerte para sus asesinos: ninguna nueva 
+muerte podrá aliviar su dolor. Las decisiones de la 
+justicia no pretenden reparar el daño individual: 
+no se trata de una terapia, su objetivo es restaurar 
+y proteger el orden público. (Levi 72‐73)
+S
+egún se desprende de las palabras de Primo Levi, lo paradójico 
+del trauma relativo a genocidios y crímenes de gran envergadu-
+ra es que ni siquiera la denuncia posterior tiene, por lo general, 
+una voluntad de reparación. La magnitud de la tragedia es tan gigantesca que 
+el acto de testimoniar lleva, más allá de la necesidad personal, un mensaje de 
+prevención con respecto a posibles actos semejantes en el futuro, así como una 
+búsqueda de recuperar el orden normal sin que los hechos acontecidos caigan en 
+el olvido. De esta forma, existe una postura ideológica que subyace al contenido 
+y que provoca que obras literarias basadas en el testimonio tengan una voluntad 
+política. Parafraseando a Hannah Arendt, “hay en el mundo demasiada gente 
+para que el olvido sea posible. Siempre quedará un hombre vivo para contar la 
+historia” (352). El relato de los hechos del pasado termina abriéndose paso en 
+el tiempo y en el espacio para testimoniar el horror, incluso el de aquellos que 
+69
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | Representar el trauma. Posmemoria y ética de la representación en Maus...: 67-83
+ya no pueden contarlo: “La vida ha sucumbido ante la muerte, pero la memoria 
+sale victoriosa en su combate contra la nada” (Todorov 27). De esta manera, 
+los supervivientes encuentran distintos canales de comunicación a través de los 
+cuales pueden testimoniar todo el horror que han visto. La palabra viaja así de 
+unos individuos a otros, se instala en la memoria de los pueblos y, finalmente, se 
+inscribe en la historia.
+El tránsito de los relatos testimoniales a la construcción de narrativas sobre 
+lo traumático, sean del tipo que sean (discursivas, escritas o audiovisuales), es un 
+proceso relevante ya que se introducen “las estrategias y lógicas que con usos del 
+olvido y potenciadores del recuerdo modulan las formas colectivas e individuales 
+de la memoria: lo que hay que rememorar, no olvidar, testimoniar” (Makowski 
+150). Al respecto, Dominick LaCapra (Escribir la historia...) fija tres tipos de 
+acercamientos ante el trauma: el que lo niega, el que lo repite y el que intenta 
+elaborarlo. Así pues, todo el conjunto de obras literarias y artísticas que tra-
+tan temas traumáticos pueden funcionar como fundamentos de todo un nuevo 
+imaginario colectivo (formado por ideas, imágenes y representaciones) para la 
+generación de la posmemoria. Este concepto surge a principios de los noventa 
+como parte del “boom de la memoria” que ocurre en el ámbito anglosajón de 
+los Memory Studies (Huyssen 13). Marianne Hirsch introduce este término en 
+su obra homónima, explica que este 
+describe la relación de la “generación de después” con el trauma personal, colectivo 
+y cultural de la generación anterior, es decir, su relación con las experiencias que 
+“recuerdan” a través de los relatos, imágenes y comportamientos en medio de los que 
+crecieron. (Hirsch Generación de la posmemoria 19)
+Sin embargo, a pesar de la presencia de esta carga traumática, por lo general, 
+las generaciones de la posmemoria rechazan la idea de la redención del dolor 
+del pretérito a través de producciones culturales y/o artísticas (Young, Memory’s 
+Edge 72-3). El concepto de posmemoria tiene “una afinidad mucho más clara 
+con la idea de aporía y de repetición, que con la de clausura, curación total de 
+las heridas y trascendencia absoluta” (Vetö 97). En línea con ello, para LaCapra 
+“Toda ‘sutura’ retrospectiva sería en sí misma fantasmática o ilusoria” (Historia 
+en tránsito 164).
+Desde su publicación en formato serializado en la revista Raw, desde 1980 
+hasta 1991, Maus ha sido una de las creaciones de la generación de la posme-
+moria que más repercusión ha tenido “en la esfera pública y en el ámbito acadé-
+mico” (Quílez Esteve, 2015, 61). Este amplio reconocimiento fue consolidado 
+en el año 1992 con la consecución del Premio Pulitzer. La obra, creada por el 
+dibujante Art Spiegelman, supone un acercamiento, desde la generación de la 
+posmemoria, a la dramática biografía de sus padres, supervivientes del campo de 
+Auschwitz. Sin embargo, lejos de quedarse con los actos del pasado, la novela 
+gráfica va más allá de la novelización del testimonio de los progenitores al pro-
+blematizar acerca del propio acto de testimoniar. La narrativa se abre al presente 
+70
+Álvaro Martín Sanz | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+en el que es escrita para reflejar las relaciones entre padre e hijo con el objetivo 
+de lograr una representación fidedigna de la experiencia sufrida y recordada. 
+Así, Maus se centra también en “las dificultades de transmisión de la experiencia 
+traumática” (Pighin 120) a través de una discusión paternofilial.
+Cabe, no obstante, antes de todo, tratar de definir qué tipo de obra es Maus. 
+Una creación artística consistente en viñetas dibujadas bien pudiera concep-
+tualizarse como cómic. Para la especialista Ann Miller, el cómic se define en 
+dos tendencias paralelas: por un lado, la de autores que priman la interrelación 
+entre texto e imágenes, y por el otro, la de aquellos que crean una articulación 
+de imágenes en secuencias narrativas (82). Maus emplea ambas estrategias. Y, sin 
+embargo, con frecuencia, más que como cómic es definido como novela gráfi-
+ca. Esto es debido, en parte, a la conceptualización infantil del término cómic. 
+Eddie Campbell, autor del Graphic Novel Manifesto, apunta en esta dirección al 
+diferenciar la novela gráfica como producto más adulto: 
+Propongo que aceptemos simplemente que los cómics son ahora de superhéroes. La 
+razón de esta estrategia es que realmente se ha vuelto demasiado difícil intentar cam-
+biar la percepción del público. Si queremos utilizar el vocabulario gráfico del cómic 
+para crear otra cosa, llamémoslo de otra manera1. (Campbell en Deppey)
+Tal y como expone Gómez Salamanca, Maus incluye la mayoría de las temá-
+ticas que se usan para definir el concepto de novela gráfica, por lo que puede ser 
+vista como una suerte de piedra fundacional: “está dirigida a un público adulto, 
+es (auto)biográfica, trata un tema serio (el holocausto), tiene un gran componen-
+te autoral, permite la legitimación del cómic” (190). Es decir, las características 
+y el contenido de Maus provocan que sea un cómic con consideración de puede 
+ser considerado novela gráfica, a pesar de su nacimiento en formato serializado. 
+Para Charles Hatfield (9), estas particularidades son las que provocan que la 
+novela gráfica sea reconocida como una forma de literatura. En consonancia con 
+esto, Ben Schwartz propone sustituir el término de graphic novel por el de lit 
+comics o literary comics (10). 
+Ética de la representación. Imágenes del trauma 
+El Holocausto perpetrado por los nazis, por alcance, dimensiones y tempora-
+lidad, abre todo un amplio debate referido a la problemática de la recreación de 
+unos hechos que, por la magnitud de su brutalidad, parecen situarse por encima 
+de los límites de la representación y huir de cualquier conceptualización. La 
+Shoah, definida como el “tropos universal del trauma histórico” (Huyssen 17) o 
+1	
+I propose that we just accept that comic books are now about superheroes. The reason for this 
+strategy is that it really has now become too difficult to try and change the public perception. If 
+we want to use the graphic vocabulary of the comic book to create something else, let’s call it 
+something else.
+71
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | Representar el trauma. Posmemoria y ética de la representación en Maus...: 67-83
+como la metonimia del mal (Wieviorka 15), supone el caso más extremo regis-
+trado en la historia reciente de violencia y aniquilación sistemática del hombre a 
+manos del hombre. No es posible hacer poesía después de Auschwitz, resumen 
+las famosas palabras, tan difundidas como malinterpretadas, que parecen reducir 
+toda la filosofía de Theodor Adorno a una sentencia definitiva.  Sin embargo, lo 
+inimaginable no obliga a abortar las posibilidades de representación.
+En este sentido, el Holocausto abre dos grandes corrientes sobre la represen-
+tación de su horror: por un lado, las imágenes –ejemplificadas en las fotogra-
+fías supervivientes y en el film Noche y Niebla (1955) de Alain Resnais–; por el 
+otro, el testimonio, representado en primer lugar por todas las crónicas y relatos 
+testimoniales de los supervivientes. Este debate se ejemplifica en las figuras de 
+Claude Lanzmann y Georges Didi-Huberman. El acercamiento al exterminio 
+del director francés supone también la eliminación de cualquier tipo de repre-
+sentación, al ser su película la ruptura de la relación entre lo perceptible y lo 
+inteligible (Rancière 123). El cine del testimonio se propone como el único mé-
+todo legítimo de acercamiento desde el presente a la tragedia del pretérito. Con-
+sidera el realizador judío que mostrar imágenes extremas implica una perversa 
+complicidad con el acto perpetrado (Hamilton 171) y, por lo tanto, posiciona al 
+creador del lado de los verdugos.
+La opción ética de Lanzmann se convierte en toma de postura estética: su desafío a la 
+ausencia de huellas del holocausto, a la operación emprendida por los mismos dirigen-
+tes del III Reich de borrar todo rastro, le incita a renunciar a las imágenes de archivo, es 
+decir, a fuentes espectaculares. Ninguna concesión a las pasiones mórbidas del ojo, a la 
+fascinación que el horror es capaz de producir en él. (Sánchez-Biosca 12)
+Así pues, a pesar de que Lanzmann ya había manifestado públicamente su 
+oposición a la utilización de imágenes de la barbarie (Seminar), en su autobio-
+grafía La liebre de la Patagonia verbaliza su postura con una concisa radicalidad 
+que no deja atisbo de dudas sobre la ética que sostiene su trabajo en confronta-
+ción con otro tipo de representaciones:
+Ya dije una vez, después del estreno de la película de Spielberg, La lista de Schindler, y 
+para elevar al absurdo la postura inclemente de Shoah, que si yo hubiera encontrado 
+un hipotético film mudo de apenas unos minutos, rodado en secreto por un SS, en 
+el que se mostrase la muerte de tres mil personas en una cámara de gas, no sólo no la 
+habría integrado en mi película, sino que la habría destruido. […] Un coro inmenso 
+de voces en mi película -judías, polacas, alemanas- testimonia, en una verdadera 
+construcción de la memoria, lo que ha sido perpetrado. (La liebre 466)
+Es decir, el Holocausto es un sublime negativo imposible de representar (Ja-
+cobs 273). Ninguna imagen (sea esta de archivo o recreada en la actualidad) es 
+capaz de contar la historia en todos sus matices y complejidades. La imagen de 
+archivo no es más que un fetichismo sin poder de representación (Emmelhainz 
+72
+Álvaro Martín Sanz | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+189). Frente a la utilización del archivo disponible, no queda más que dar voz 
+a los supervivientes, quienes se convierten en los únicos vestigios válidos de la 
+historia, ya que el Holocausto es un acontecimiento demasiado horrible como 
+para que pueda ser resumido en una serie de imágenes visuales.
+Este discurso contra la representación se opone a la muestra directa de los 
+remanentes visuales del Holocausto y a la creación de distintas representacio-
+nes visuales. Como muestra de imágenes de archivo de Auschwitz, resulta fun-
+damental mencionar la exposición Memoire des camps. Photographies des camps 
+de concentration et d’extermination nazis, desarrollada en París, en el Palacio de 
+Sully, de enero a marzo de 2001. Esta muestra presentaba todo un conjunto de 
+fotografías relativas al Holocausto: realizadas en los campos de concentración 
+por los propios nazis, por las víctimas, por los liberadores, así como fotógrafos 
+contemporáneos (Baumgartner 37). Sin embargo, por encima de todas estas 
+imágenes destacaban cuatro fotografías tomadas en Auschwitz por miembros 
+del Sonderkommando. Así, la postura de Lanzmann se veía contestada por el 
+historiador Georges Didi-Huberman en forma de un artículo, “Images malgré 
+tout”, incluido en el catálogo de la exposición (2001).
+Este ensayo es completado posteriormente por el pensador en el libro del 
+mismo nombre que publicará dos años más tarde (Didi-Huberman 2004). En 
+él, siguiendo las ideas de Jean-Luc Godard, Didi-Huberman defiende la utilidad 
+de cualquier documento gráfico, por muy fragmentado y pequeño que este sea, 
+para explicar el horror del pasado. El francés reivindica la utilidad de las imáge-
+nes con un discurso que se puede fácilmente emparejar con el de Benjamin: 
+Habría que hablar en ella [en la historia] de la creciente condensación (integración) 
+de la realidad, en la que todo lo pasado (en su tiempo) puede recibir un grado de 
+actualidad superior al que tuvo en el momento de su existencia. El modo en que, 
+como actualidad superior, se expresa, es lo que produce la imagen por la que y en la 
+que se lo entiende. (Benjamin 397)
+Para el filósofo alemán, la imagen, como reproducción de un momento de-
+terminado del pasado histórico, debe detonar “el material explosivo que yace en 
+lo que ha sido” (Benjamin 397). El valor de una representación reside, por lo 
+tanto, en el inmediato acceso que proporciona a una realidad que ya no existe 
+más que en ella. Por antigua que sea una imagen, “el presente no cesa de recon-
+figurarse y, por reciente que esta sea, el pasado no cesa nunca de reconfigurarse” 
+(Cangi 160). Desde esta perspectiva, cualquier imagen es válida para reconstruir 
+la historia, sin que ello quiera decir que todo suceso puede ser reducido a los 
+escasos trazos que de él han sobrevivido.
+En este contexto de oposición debemos situar una obra como Maus que, 
+debido a su formulación en forma de cómic, opta por combinar ambos paradig-
+mas para generar una obra literaria basada en el testimonio y sustentada sobre 
+diversas representaciones gráficas. Además de solucionar esta oposición, con la 
+adopción del formato de novela gráfica Spiegelman logra narrar una historia 
+73
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | Representar el trauma. Posmemoria y ética de la representación en Maus...: 67-83
+trágica desde unos parámetros con los que generacionalmente se siente cómo-
+do: “El cómic como zona de confort, un lugar alejado de mis padres-a salvo de 
+ellos-mi asimilación a la cultura estadounidense” (Metamaus 36). No obstante, 
+tratando de huir de una concepción infantilizada del formato de la novela grá-
+fica, su creador pone distancias con respecto a la tradición: “El humor no es un 
+componente intrínseco del medio. En vez de comics […] prefiero la palabra 
+commix, mezclar ambos, porque hablar de comics es referirse a la mezcla de 
+palabras y dibujos para contar una historia” (Spiegelman en Young Holocaust as 
+a Vicarious Past 672).
+Sin embargo, lejos de optar por representaciones realistas que acompañen la 
+narración, Spiegelman dibuja imágenes esquemáticas basadas en la simplicidad 
+del trazo que además presentan un estilo cartoon acorde a la metáfora visual de su 
+propuesta inicial. Así, en vez de dibujar seres humanos, el artista decide recrear 
+animales antropomórficos para los distintos personajes de su relato: los judíos 
+como ratones, los alemanes como gatos, los polacos como cerdos, los franceses 
+como sapos, los suecos como alces y los americanos como perros. Al ser pregun-
+tado al respecto, el autor explica que: “Necesito mostrar los acontecimientos y la 
+memoria del Holocausto sin mostrarlos. Quiero mostrar el enmascaramiento de 
+estos eventos en su representación” (Spiegelman en Young 678). De esta forma, 
+se trata de representar significados que vayan más allá de la representación explí-
+cita y de codificar, a través de la imagen, un sentido crítico autoral con respecto 
+a los hechos del pasado. En el caso de los ratones que dan título a la obra, esta 
+transformación parece contestar a un estereotipo racista sobre una visión históri-
+ca, tal y como señala la cita de Adolf Hitler que abre el libro: “Sin duda los judíos 
+son una raza, pero no humana” (Spiegelman 10). En consonancia con esta idea, 
+más adelante en el volumen se presenta el extracto de un periódico alemán de 
+los años 30 del siglo XX: 
+Mickey Mouse es el ideal más lamentable que jamás haya visto la luz… Un senti-
+miento sano indica a cualquier joven independiente y a toda la juventud honorable 
+que esa alimaña sucia e inmunda, el mayor portador de bacterias del mundo animal, 
+no puede ser el tipo ideal de animal… ¡Fuera la animalización judía del pueblo! ¡Aba-
+jo con Mickey Mouse! ¡Lucid la cruz gamada! (Spiegelman 164)
+Ambos fragmentos prueban, para Silvana Vetö, que la estrategia de repre-
+sentación del autor consiste en la apropiación de la descalificación. El término 
+se extrae de su contexto y de “su semántica de persecución, humillación y dis-
+criminación, para insertarlo en un campo semántico nuevo” (90). Así pues, es 
+posible ver también al ratón, por oposición a la rata, como pequeño e inofensivo 
+roedor víctima de trampas y predadores varios. La representación de Spiegelman 
+se asocia con esta idea, al dibujar a estos animales con cabezas redondeadas, ojos 
+diminutos, omitir sus dientes (como única arma potencial) y marcar las cejas 
+como forma exclusiva de expresividad. Los felinos, como principal amenaza, 
+están caracterizados por grandes caras poligonales, ojos de serpiente y colmillos 
+74
+Álvaro Martín Sanz | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+afilados. La representación del perro, que suplanta al soldado norteamericano 
+medio, es la de un ser proactivo que, al igual que en las fábulas infantiles, es el 
+único animal capaz de mantener a raya al gato. Por su parte, la representación 
+de los franceses como sapos de pecho hinchado parece remitir a una suerte de 
+chovinismo que prescinde del relato del colaboracionismo para centrarse en el 
+de la heroica resistencia. Por último, de la representación de los polacos como 
+cerdos no hay mucho más que añadir aparte de una clara connotación peyorativa 
+relacionada con el papel de testigo preferente que decide no tomar partido y no 
+involucrarse en la problemática. 
+Más allá del simbolismo inherente a cada animal como canalizador del papel 
+de cada nacionalidad en la tragedia, es posible interpretar esta decisión estética 
+como un gesto perteneciente a la posmodernidad desde la que se construyen la 
+mayor parte de narrativas de la posmemoria (Quílez Esteve Éticas y estéticas de 
+la posmemoria 65). Las obras de la generación de la posmemoria no pueden, por 
+lo tanto, disociarse ni dejar de tomar elementos de la sociedad posmoderna en 
+la que nacen (Hirsch The generation 106). El hecho de que Maus se construya 
+como un diálogo entre el presente y el pasado le otorga un posicionamiento es-
+tético inicial que trasciende el discursivo. La obra es consciente de su condición 
+de memoria mediada (Spiegelman tan solo representa el testimonio que su padre 
+le ha transmitido) y, por lo tanto, parte de una configuración propia que va más 
+allá de la memoria traumática al cargar esta con toda una serie de nuevos sig-
+nificantes. La contemporaneidad irrumpe incluso explícitamente en la segunda 
+parte de la narración, en la que Spiegelman se representa a sí mismo frente a su 
+escritorio, atormentado por el revuelo mediático que ha causado la publicación 
+de la primera parte de las memorias de su padre. De esta forma, Maus pasa del 
+relato del padre a focalizarse en el del propio creador como generador de un 
+discurso artístico de posmemoria desde el que puede mediar en el relato. Un 
+claro ejemplo de esta dinámica puede verse con la representación de la orquesta 
+de Auschwitz. Tal y como ha confesado el dibujante (Metamaus 30), su padre 
+no recordaba la existencia de esta banda; no obstante, ante la probada veracidad 
+de estos hechos, finalmente decide insertarla en las viñetas, en las que también 
+incluye al padre negando que esto fuera así. Una solución original para ser fiel, 
+al mismo tiempo, a la historia –por medio de distintos documentos, testimonios 
+y fotografías– y a la memoria de la figura paterna.
+Así pues, la estética planteada por Spiegelman reconceptualiza todas las imá-
+genes del pasado para ofrecerlas renovadas a través del filtro de su dinámica de 
+presentación. Las imágenes de Maus pueden, de esta manera, crear represen-
+taciones ficticias de las conversaciones entre padre e hijo o redibujar imágenes 
+como las pertenecientes a la liberación de los campos de concentración que fue-
+ron publicadas en la revista Life (Ciancio 513). Al rechazar una representación 
+realista, la técnica animada muestra eventos traumáticos del pasado que, de otra 
+forma, serían demasiado horribles como para ser representados directamente 
+(Yosef 321). Lejos de banalizar el trauma, la animación parece deformar la ima-
+75
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | Representar el trauma. Posmemoria y ética de la representación en Maus...: 67-83
+gen del terror hasta hacerla soportable; de tal modo, permite una inmersión más 
+profunda en este horror (Hachero Hernández 120). Así, el tipo de representa-
+ciones presentadas por Spiegelman configuran una animación que posee una 
+cualidad distanciadora que facilita la inmersión de los espectadores en el trauma 
+de los otros (Kriger 11). La frontalidad con la que Spiegelman dibuja a ratones 
+ahorcados (Spiegelman 85) constituye un ejemplo de este modo de representa-
+ción. La distancia que suponen los animales permite evitar la “fascinación vo-
+yeurística que siempre acecha en estos casos ante la violencia” (Huyssen 131).
+La renuncia de imágenes realistas permite crear un paradigma propio que no 
+esté obligado a responder a la fidelidad de las fotografías supervivientes y que 
+pueda utilizar la imaginación del creador para representar las imágenes inexis-
+tentes testimoniadas por el padre. De esta manera, la novela gráfica puede con-
+cebir sus propios límites de representación a su voluntad. La distancia planteada 
+le sirve además para evitar caer en el peligro señalado por Lanzmann: que cual-
+quiera de sus imágenes pueda servir como anclaje en el que reducir y simplificar 
+un fenómeno tan colosal como es el Holocausto. Al formular un dispositivo 
+de representación tan distinto y original, Maus parece crear la narración de un 
+mundo paralelo que no se rige por las normas del nuestro –no existe Auschwitz 
+sino Mauswitz– pero que, sin embargo, se conecta a él a través de un irrefutable 
+testimonio de la memoria. Las viñetas que dibuja Spiegelman no tienen por 
+objetivo reemplazar todas las imágenes desaparecidas, sino establecer un diálogo 
+con el pasado que dé testimonio al lector de los sucesos no registrados en la 
+Historia oficial. Las imágenes no son la copia fiel de lo ausente, sino lo necesario 
+para cubrir su vacío (Rancière 6). Esta traslación a un medio no realista  permite 
+a Spiegelman capturar la “hiperintensidad de Auschwitz” (Rothberg 206). De 
+esta forma, los dibujos sirven para “encauzar las ficciones o documentos testimo-
+niales sobre su experiencia con el horror»” (Amado 225). En este espacio de la 
+libre creación el autor introduce simbolismos o metáforas visuales. Por ejemplo, 
+cuando Vladek y su mujer intentan huir de los nazis llegan a una encrucijada 
+cuyos caminos componen la forma de la esvástica (Spiegelman 127) para dar a 
+entender que no hay salida para la joven pareja.
+Acorde al drama que está representando, las representaciones en blanco y ne-
+gro de Maus se caracterizan por una cierta concepción feísta que rehúye de mos-
+trar imágenes bellas, armónicas y equilibradas. La ausencia de color de la novela 
+da lugar a la técnica del rayado para rellenar espacios y elementos, y otorgarles 
+así una dimensión de profundidad dentro de la imagen, mientras que el fuerte 
+contraste de las ilustraciones –como si fuera un boceto, tan solo hay un único 
+tono de negro– va acorde con una narración sobre lo extremo en la que el propio 
+posicionamiento del creador dentro de ella evita medias implicaciones. 
+Para Ann Miller, el comic se caracteriza por la relación secuencial que se 
+establece entre las imágenes, contengan o no texto (75). De esta forma, el medio 
+parece estar delimitado por su potencial para crear una narración en imágenes. 
+Thierry Groensteen se basa en esta idea para señalar que el comic puede espo-
+76
+Álvaro Martín Sanz | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+rádicamente crear una disociación entre texto e imágenes (52). En línea con 
+esto, Van der Linden expone que tanto el texto como la imagen pueden llevar la 
+narrativa principal indistintamente, pues es posible trazar distintas relaciones de 
+interdependencia entre ambos lenguajes (122). Y es que, a pesar de que la dispo-
+sición del comic intercala ambas estructuras comunicativas, su presentación en 
+ocasiones se basa más en la contigüidad que en la continuidad (Van der Linden 
+70). Así pues, en el caso que nos ocupa, es posible constatar la independencia de 
+las imágenes con respecto a la narración de las palabras. Las imágenes que com-
+ponen Maus “no comentan las palabras, no las ejemplifican o imaginarizan, sino 
+que agregan algo a la narración” (Vetö 88). Por lo tanto, es posible disociar texto 
+e imágenes para formular dos relatos traumáticos a través de los que va viajando 
+el lector. “El commix de Spiegelman también se autosugiere como un medio 
+deliberadamente anti-redentor, que simultáneamente hace y deshace significado 
+mientras se desenvuelve. Las palabras cuentan una historia, las imágenes otra” 
+(Young 676). Se configura, de esta forma, un relato que puede experimentarse 
+como un discurso global en el que se solapan dos narrativas (imagen y pala-
+bra). Esto se plasma mediante la contraposición en determinados momentos de 
+imágenes y narración oral: el mencionado caso con la orquesta de Auschwitz, o 
+determinados detalles que no se plasman en el texto, como las situaciones dra-
+máticas en las que tienen lugar muchas de las conversaciones entre padre e hijo.
+Estrategias discursivas: el testimonio fragmentado
+Tal como se señaló anteriormente, la narración de Maus se estructura como 
+la transmisión del testimonio traumático del padre al hijo. En este sentido, más 
+allá de relatar los hechos del pasado, la novela opta por mostrar todas las contra-
+dicciones internas y el doloroso y arduo proceso que es la creación de la obra en 
+sí misma. Así pues, el relato yuxtapone tres temporalidades. Por un lado, la vida 
+de Vladek, representado como un anciano gruñón, como “una víctima a la que 
+se debe respeto, pero no es alguien querible” (LaCapra Historia y memoria 195). 
+Este personaje narra, en primera persona, los hechos conservados en su memoria: 
+su exitosa vida como hombre de negocios, el auge del nazismo, su cautiverio y su 
+posterior liberación del campo de Auschwitz.  Por otro lado, el relato presenta dis-
+tintas escenas de las décadas de 1970 y 1980 en las que Art y Vladek mantienen 
+distintos encuentros en los que, grabadora de por medio o cuaderno en mano (tal 
+y como muestran las representaciones gráficas), el artista trata de recoger el testi-
+monio de su padre al formular preguntas que buscan esclarecer el pasado. Final-
+mente, la narración muestra una última configuración temporal, la del presente 
+en el que la obra se va gestando. Muerto Vladek, Art se interroga sobre el testimo-
+nio y sobre las implicaciones de su trabajo a nivel personal y social. El proceso de 
+creación genera inseguridades en el autor sobre la consecución de sus intenciones 
+iniciales. Ya indica Jorge Semprún: “Únicamente el artificio de un relato domina-
+do conseguirá transmitir parcialmente la verdad del testimonio” (25).
+77
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | Representar el trauma. Posmemoria y ética de la representación en Maus...: 67-83
+Estos tres niveles se alternan en la composición de la historia, cuyo peso 
+principal recae en las escenas que muestran las conversaciones entre padre e 
+hijo. Estos diálogos articulan la narrativa principal del relato a nivel dramático 
+en torno a las distintas problemáticas inherentes al acto de recordar: la fidelidad 
+de la memoria, la transmisión del testimonio, la asimilación por parte de la 
+generación de la posmemoria, o la rememoración y posterior presentación de 
+actos traumáticos. La voz de Vladek, como superviviente y testigo privilegia-
+do, se convierte en la voz del narrador que guía el testimonio, se introducen 
+así escenas de analepsis que buscan recrear todas aquellas imágenes que vivió 
+de joven. Sus palabras son el principal hilo conductor del relato a la vez que la 
+primera garantía de la veracidad documental de la historia, que se acompasa a 
+nivel gráfico con la similitud entre algunas de las viñetas de la novela con célebres 
+fotografías, como la de los cadáveres apilados en una fosa de Auschwitz. Frente 
+a la claridad con la que el padre enuncia sus recuerdos, que son representados de 
+manera frontal y sin ambages, la representación de las escenas en las que ocurre 
+esta transmisión, y las posteriores en las que Spiegelman trabaja en la obra, están 
+definidas por una cierta opacidad que no se reafirma en unas ideas propias, sino 
+que explora distintas posibilidades sin conocer certezas. Al igual que sucede en 
+buena parte de los relatos de la generación de la posmemoria, el yo creador es 
+un yo fracturado que, “tratando de recordar un pasado histórico que no se vivió 
+en carne propia, necesariamente se ve abocado a instalarse en la recreación y el 
+vacío” (Quílez Esteve “Hacia una teoría de la posmemoria…” 70).
+Estos gestos quedan definidos en las escenas en las que no está presente Vla-
+dek, las cuales, si bien tienen un peso residual con respecto al conjunto de la obra, 
+destacan por las enunciaciones existencialistas con respecto al acto de la creación 
+de esta. Remiten de esta forma a las conversaciones con el padre o entran a dia-
+logar acerca de los mecanismos de representación y la propia configuración de la 
+obra. En este sentido, resulta ilustrativa la discusión que Spiegelman mantiene 
+con su pareja sobre cómo representarla en Maus (171). Ella propone ser un ratón, 
+pero Art descarta esto inicialmente por su condición de francesa, que impide que 
+pueda ser algo “dulce y tierno” como un conejo debido a “siglos de antisemitis-
+mo”. Al fin, la representa como un ratón debido a su conversión al judaísmo. En 
+línea con esto, Spiegelman interrumpe el relato para presentar un antiguo cómic, 
+Prisionero del planeta infierno, una historia real (Spiegelman 102-5), narración 
+que remite al suicidio de la madre de Art y que sirve de pretexto para que Vladek 
+reflexione en la obra sobre el recuerdo de su esposa difunta, cuya representación 
+es mediada a lo largo del texto por la imagen del marido.  La ausencia de la madre, 
+al igual que el Holocausto, es fuente de innumerables preguntas al padre, “quien 
+no sólo no es capaz de transmitir una historia que no es suya, sino que además se 
+levanta ante Artie como el culpable del vacío” (Vetö 93). De esta forma, el autor 
+se posiciona en una encrucijada de relatos que anteceden a su vida presente y so-
+bre los que no tiene más que incógnitas que tan solo puede remediar fragmenta-
+riamente, a través del testimonio de su padre o del escaso archivo superviviente y 
+78
+Álvaro Martín Sanz | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+sus ausencias (en consonancia con esta idea, se remarca en el texto cómo la madre 
+no dejó ninguna nota explicando los motivos de su suicidio).
+A través de su narrativa fragmentada, Spiegelman trata de mostrar las dificul-
+tades para realizar una arqueología de la memoria que realmente conduzca a un 
+resultado satisfactorio y veraz con respecto a los hechos acontecidos. El modo de 
+representación de Maus se descubre tan solo como un medio con el que trazar la 
+imposibilidad de aprehender el relato de la memoria desde una perspectiva in-
+cluyente que vaya más allá de la figura del padre. Así, la eliminación de cualquier 
+tipo de prueba, como el diario de la esposa, es un crimen contra la verdad que 
+destruye la memoria de la mujer y enfrenta al personaje al vacío de una ausencia 
+traumática:
+Vladek: Los diarios y otras cosas preciosas de tu madre… un malísimo día que tuve… 
+lo destruí todo. […] Cuando Anja murió tuve que poner todo en orden… aquellos 
+papeles me traían demasiados recuerdos y los quemé.
+Art: ¿Los quemaste? […] ¿Alguna vez los leíste? ¿Recuerdas algo de lo que escribió?
+Vladek: No. Eché un vistazo, pero no me acuerdo… Solo sé que decía: “espero que 
+mi hijo, cuando crezca, se interese por esto”.
+Art: ¡Maldito seas! ¡Eres un… asesino! ¡Cómo has podido! (Spiegelman 158-159)
+De esta forma, la narrativización de la vida de los padres se inserta en una 
+investigación de ordenamiento personal de la propia vida (Chute 203). Spiegel-
+man busca el sentido propio a través de la empresa de enfrentarse a los relatos 
+que le han antecedido, que lo han marcado, pero de los que apenas tiene infor-
+mación. En el transcurrir de esta búsqueda, se enfrenta  al trauma de la desapari-
+ción de sus seres queridos. Dentro del marco de esta formulación del testimonio 
+fragmentado cabe destacar la inclusión de fotografías pertenecientes al archivo 
+familiar como único contacto con la realidad objetiva. Spiegelman recrea todas 
+las imágenes del Holocausto que ha visto en el archivo. Sin embargo, ve nece-
+sario contextualizar a los personajes de su relato por medio de la integración de 
+las imágenes que tiene de ellos. Así, los animales antropomórficos adquieren 
+un sentido más trascendente, al mostrarse de forma directa como representan a 
+ciertos personajes reales. Se deconstruye la ilusión de Mauswitz para presentar el 
+retrato de algunas de sus víctimas. “Frente al carácter onírico de la animación, 
+los semblantes de las víctimas […] adquieren la categoría de pruebas de un pro-
+ceso histórico” (Pintor Iranzo 27). Las fotografías insertadas en la narración son 
+tres y operan como soportes de la memoria: una imagen de Art Spiegelman con 
+su difunta madre Anja, una imagen de Richieu, difunto hermano de Art muerto 
+durante la guerra, y una fotografía de Vladek con el uniforme a rayas del campo 
+de concentración. Incluyendo estas tres imágenes privadas, Spiegelman integra, 
+en su relato, representaciones que, como señala Rodríguez Iborra (24) siguiendo 
+a Barthes (94), funcionan como “una especie de cordón umbilical une el cuerpo 
+de la cosa fotografiada a mi mirada”.
+79
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | Representar el trauma. Posmemoria y ética de la representación en Maus...: 67-83
+“Precisamente porque seccionan un momento y lo congelan, todas las foto-
+grafías atestiguan la despiadada disolución del tiempo”, afirmaba Susan Sontag 
+en su famoso trabajo en torno al arte fotográfico (25). Mediante la inclusión de 
+tres imágenes aisladas, Spiegelman parece tratar de afirmar la tácita, pero soluble 
+conexión con este pasado que está desapareciendo. Las imágenes no tienen la 
+capacidad de explicarse a sí mismas, necesitan ser acompañadas por el relato 
+que las identifique y contextualice. De las tres fotografías, tan solo la de Vladek 
+adquiere una descripción debido a todo el testimonio que se ofrece en la obra. 
+Por ello, el dibujante la integra en el texto como parte fundamental de una de sus 
+viñetas dentro de un contexto en el que la foto es insustituible porque funciona 
+como la prueba que tiene Anja de que su marido sigue vivo.
+Frente a esta representación integrada, las otras dos imágenes se muestran ais-
+ladas del resto de la estructura animada. Para Marianne Hirsch “las imágenes de 
+Anja y Richieu funcionan como el fantasma de unos muertos a quienes resucita el 
+vigor indéxico e icónico de las fotos” (La generación de posmemoria 64). La imagen 
+de Spiegelman con su madre aparece en una esquina, a modo introductorio (y 
+asociada con el contenido) del relato Prisionero, mientras que la de Richieu, que 
+bien pudiera representar la incomprensibilidad de la destrucción del Holocausto 
+(Family Pictures 23), sirve para presentar la segunda parte del libro al rescatar 
+el pasado a través de sus ausencias y trazar un paralelismo sustitutivo entre el 
+destino de ambos hermanos –sin ir más lejos, en una de las últimas viñetas del 
+relato, Vladek se equivoca y llama Richieu a Art–. Más allá de esto, el hecho de 
+que la segunda parte de la obra se dedique por igual al hermano difunto y a los 
+hijos de Spiegelman parece apuntar en la dirección de unificar un único discurso 
+de la memoria familiar a través de un relato heredado que funcione como línea 
+común. Por lo tanto, Spiegelman hace partícipes a sus hijos del testimonio de su 
+padre y promueve la transmisión con respecto a futuras generaciones de una pos-
+memoria cedida. “Se establece una continuidad entre los muertos y los vivos que 
+al anticipar a la generación siguiente guarda una dimensión de futuro” (Huyssen 
+144). Con Maus, Spiegelman “transmite el punto de quiebre del siglo XX, a sus 
+hijos que, nacidos en los Estados Unidos, dos generaciones después, podrían no 
+conocer ni integrar esta parte de su historia a sus vidas” (Vetö 94).
+De esta forma, la fragmentación de la narración remite a una suerte de trau-
+ma vicario relacionado con unos eventos que deben ser rastreados. Spiegelman, 
+como testigo secundario del horror de Auschwitz, a través de la figura del padre 
+trata de superar una forma de estrés postraumático por medio de una animación 
+que refleja, en su formulación, el doloroso proceder de una arqueología de la me-
+moria condenada a aceptar los espacios en negro. En este sentido, Maus es una 
+obra condenada a ser inacabada en su reconstrucción del pasado, pero certera 
+en su reflejo de las vicisitudes del acto de creación relacionado con el trauma: 
+la investigación en la memoria como búsqueda de la sanación mental. La triple 
+disposición temporal del texto permite generar “a conception of past historical 
+events that includes the present conditions under which they are being remem-
+80
+Álvaro Martín Sanz | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+bered” (Young 678), de tal manera que el pasado de los campos de concentra-
+ción y el presente en el que estos se representan componen una única unidad de 
+significado que es amenazada por una fragmentación constante, dada la volun-
+tad de recordar y los agujeros de la memoria. Las fotografías complementan la 
+identificación con un nuevo punto de vista, con más o menos contexto, que se 
+ofrece al lector para terminar de completar el relato de la memoria de Vladek.
+Conclusiones
+Frente a la disyuntiva imágenes versus testimonio relativa a la ética de la re-
+presentación de fenómenos extremos como el Holocausto, podemos ver en Maus 
+un ejemplo de postura conciliadora que trata de reelaborar el pasado a través de 
+las fuentes de las que dispone sin rechazar ninguna opción: creaciones artísticas, 
+recopilación de testimonios (propio y ajenos) e imágenes de archivo. El autor 
+emplea esta suma de recursos para crear una memoria mediada que suscite una 
+representación válida desde un punto de vista ético. Lejos de buscar una recrea-
+ción exacta, la libertad de no haber vivido directamente los hechos que se trans-
+miten de la generación de la posmemoria permite a su creador, Art Spiegelman, 
+desarrollar una mirada propia sobre el testimonio traumático del padre a través 
+del arte. Así, Maus renuncia al realismo para plantear una distancia desde la cual 
+poder presentar el horror del pasado por medio de una intervención metafórica 
+caracterizada por personajes en forma de animales antropomórficos que conjugan 
+un paradigma de representación propio en el que la imagen y el texto constituyen 
+dos relatos de forma simultánea: el texto transmite el testimonio literal del padre 
+y las incertidumbres del autor con respecto a la obra que crea y la imagen codifica 
+todo un conjunto de metáforas visuales sobre el pretérito acontecido.
+Más allá de este planteamiento, a nivel narrativo y, de nuevo, debido a que 
+la obra es el producto de un testimonio mediado, Maus se caracteriza por una 
+fragmentación que trata de sortear los actos traumáticos, tanto del padre como 
+del propio creador, a través de una narración múltiple que intercala escenas del 
+pasado con otras de su rememoración. Spiegelman, como autor del texto, se re-
+presenta a sí mismo enfrentándose a su propio trauma en torno a la búsqueda y 
+correcta plasmación de todas las imágenes que no existen, tanto de las generales 
+del genocidio como de las particulares que conforman el retrato personal de su 
+familia, especialmente de su madre. En este sentido, la inclusión de fotografías 
+de archivo no solo ayuda a que el lector pueda comprender e imaginar mejor la 
+historia al ponerle cara a sus personajes, sino que además sirve para matizar y 
+personificar el relato como una experiencia propia que conecta al creador con el 
+resto de los miembros desaparecidos de su familia. Así, las imágenes deshacen la 
+indeterminación de las ilustraciones de Spiegelman al funcionar como anclajes 
+presentes de la memoria del pasado.  Las fotografías entran, por lo tanto, dentro 
+de la narración fragmentada como unidades de significado independiente que 
+remiten a un relato perdido que demanda su íntegra representación.
+81
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | Representar el trauma. Posmemoria y ética de la representación en Maus...: 67-83
+Referencias bibliográficas
+Amado, Ana. “Las nuevas generaciones y el documental como herramienta de 
+historia”. Historia, género y política en los 70’, editado por A. Andújar, D. 
+D’Antonio y N. Domínguez et al., Buenos Aires, Feminaria Editora, 2005, 
+pp. 221-40.
+Arendt, Hannah. Eichmann en Jerusalén. Barcelona, Lume, 1999. 
+Barthes, Roland. La cámara lúcida. Notas sobre fotografía. Barcelona, Paidós, 
+2011.
+Baumgartner, Michael. “The Camps-Nobody Has Ever Shown Them: Jean-Luc 
+Godard, Holocaust, Histoire (s) Du Cinèma, and Cinema of Resistance”. 
+Arts and Terror, editado por V. L. Marchenkov, Newcastle, Cambridge Schol-
+ars Publishing, 2014, pp. 37-72.
+Benjamin, Walter. Libro de los pasajes. Madrid, Akal, 2004.
+Cangi, Adrián. “Poética de la luz, política del gesto”. Revista Nomadías, n.º 14, 
+2011, pp. 157-69.
+Chute, Hillary. “The Shadow of a past Time: History and Graphic Representation 
+in Maus”. Twentieth Century Literature, vol. 2, n.º 52, 2006, pp. 199-230.
+Ciancio, María Belén. “¿Cómo (no) hacer cosas con imágenes? Sobre el con-
+cepto de posmemoria” Constelaciones: Revista de teoría crítica, vol. 7, n.º 7, 
+2015, pp. 503-15.
+Deppey, Dirk. “The Eddie Campbell Interview”. The Comics Journal, n. º 273, 
+pp. 66-116.
+Didi-Huberman, Georges. “Images malgré tout”. Mémoire des camps. Photogra-
+phies des camps de concentration et d’extermination nazis (1933-1999), editado 
+por C. Chéroux, Paris, Marval, 2001. 
+Didi-Huberman, Georges. Imágenes pese a todo: memoria visual del Holocausto. 
+Barcelona, Paidós, 2004.
+Emmelhainz, Irmgard. Jean-Luc Godard’s Political Filmmaking. Cham, Suiza, 
+Palgrave Macmillan, 2009.
+Gómez Salamanca, Daniel. Tebeo, cómic y novela gráfica: la influencia de la novela 
+gráfica en la industria del cómic en España. Barcelona, Universitat Ramón 
+Llul, Phd, 2013.
+Groensteen, Thierry. Comics and Narration. Jackson, University Press of Missis-
+sippi, 2013.
+Hachero Hernández, Bruno. “Deformar a la Gorgona: la imagen animada como 
+estrategia para documentar el horror”. Con A de animación, n.º 5, 2015, pp. 
+114-25, http://dx.doi.org/10.4995/caa
+82
+Álvaro Martín Sanz | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+Hamilton, Annette. “Cambodian Genocide: Ethics and Aesthetics in the Cinema 
+of Rithy Panh”. Holocaust Intersections: Genocide and Visual Culture at the -New 
+Millennium, editado por A. Bangert, R. Gordon y L. Saxton, Nueva York, 
+Modern Humanities Research Association and Routledge, 2013, pp. 170-90.
+Hatfield, Charles. Alternative comics. An emerging literature. Jackson, University 
+Press of Mississippi, 2005.
+Hirsch, Marianne. “Family pictures: Maus, mourning, and post-memory”. Dis-
+course, vol. 15, n.º 2, 1992, pp. 3-29.
+Hirsch, Marianne. “The Generation of Postmemory”. Poetics Today, vol. 1, n.º 
+29, 2008, pp. 103-18.
+Hirsch, Marianne. La generación de la posmemoria. Escritura y cultura visual 
+después del Holocausto. Madrid, Editorial Carpe Noctem, 2012.
+Huyssen, Andreas. En busca del tiempo futuro. Cultura y memoria en tiempos de 
+globalización. México, Fondo de Cultura Económica, 2002.
+Jacobs, Steven. “Hitchcock, the Holocaust, and the Long Take: Memory of the 
+Camps”. Arcadia-International Journal for Literary Studies, vol. 2, n.º 45, 
+2011, pp. 265-276.
+Kriger, Judith. “Finding pleasure in the imperfection: Yoni Goodman”. Ani-
+mated Realism. A behind the scenes look at the animated documentary genre, J. 
+Kriger, Oxford, Elsevier, 2012, pp. 1-16.
+LaCapra, Dominick. Escribir la historia, escribir el trauma. Buenos Aires, Nueva 
+Visión, 2005.
+LaCapra, Dominick. Historia en tránsito. Experiencia, identidad, teoría crítica. 
+Buenos Aires, Fondo de Cultura Económica, 2006.
+LaCapra, Dominick. Historia y memoria después de Auschwitz. Buenos Aires, 
+Prometeo, 2009.
+Lanzmann, Claude. “Seminar on Shoah”. Yale French Studies, n.º 79, 1991, pp. 
+82-99.
+Lanzmann, Claude. La liebre de la Patagonia. Madrid, Seix Barral, 2011.
+Levi, Primo. Los hundidos y los salvados. Barcelona, Muchnik Editores, 1997.
+Makowski, Sara. “Entre la bruma de la memoria: Trauma, sujeto y narración”. 
+Perfiles latinoamericanos: Revista de la Facultad Latinoamericana de Ciencias 
+Sociales, vol. 10, n.º 21, 2002, pp. 143-58.
+Miller, Ann. Reading Bande Dessinée. Bristol, Intellect, 2007.
+Pighin, Daniela. “Transmisión del pasado traumático: posmemoria y enseñanza 
+de la historia reciente”. Clío & Asociados. La historia enseñada, n.º 27, 2018, 
+pp. 118-26.
+Pintor Iranzo, Iván. “Yo bombardeé Beirut…”. Cultura/s La Vanguardia, 18 de 
+febrero de 2009, pp. 26-27.
+83
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | Representar el trauma. Posmemoria y ética de la representación en Maus...: 67-83
+Quílez Esteve, Laia. “Hacia una teoría de la posmemoria. Reflexiones en torno 
+a las representaciones de la memoria generacional”. Historiografías, n.º 8, 
+2014, pp. 57-75.
+Quílez Esteve, Laia. “Éticas y estéticas de la posmemoria en el audiovisual con-
+temporáneo”. Historia Actual Online, n. º 38, 2015, pp. 57-69.
+Rancière, Jacques. The Future of Image. Londres, Verso, 2003.
+Rodríguez Iborra, Susana. La representación Artística en tiempos de la posmemoria: 
+Maus de Art Spiegelman. Trabajo fin de grado, Universidad de Barcelona, 
+Barcelona, 2020.
+Rothberg, Michael. Traumatic Realism: the Demands of Holocaust Representation. 
+Minneapolis, University of Minnesota, 2000.
+Sánchez-Biosca, Vicente. Funcionarios de la violencia: la violencia y su imagen en 
+los campos de exterminio nazis. Valencia, Ediciones Episteme, 1997.
+Schwartz, Ben. Best american comics criticism. Seattle, Fantagraphic Books, 
+2010.
+Semprún, Jorge. La escritura o la vida. Barcelona, Tusquets, 1995.
+Sontag, Susan. Sobre la fotografía. Barcelona, De bolsillo, 2011.
+Spiegelman, Art. Maus. Barcelona, Reservoir Books, 2015.
+Spiegelman, Art. Metamaus. Barcelona, Reservoir Books, 2019.
+Todorov, Tzvetan. Los abusos de la memoria. Barcelona, Paidós, 2008.
+Van Der Linden, Sophie. Lire l’ Album. Paris, L’Atelier du poisson soluble, 
+2006.
+Vetö, Silvana. “Maus y la ética de la representación después del Holocausto Na-
+rrativas post-traumáticas, elaboración y post-memoria”. Liminales. Escritos 
+sobre psicología y sociedad, vol. 1, n.º1, 2012, pp. 71-113.
+Wieviorka, Annette. L’ère du témoin. París, Plon, 1998.
+Yosef, Raz. “War Fantasies: Memory, Trauma and Ethics in Ari Folman’s Waltz 
+with Bashir”. Journal of Modern Jewish Studies, vol. 9, n.º3, 2010, pp. 311-
+326. https://doi.org/10.1080/14725886.2010.518444
+Young, James. “The Holocaust as a Vicarious Past: Art Spiegelman’s Maus and 
+the Afterimages of History”. Critical Inquiry, n.º 24, 1998, pp. 666-99.
+Young, James. At Memory’s Edge: After-Images of the Holocaust in Contemporary 
+Art and Architecture. New Haven & London, Yale University Press, 2000.
+Young, James. “The Holocaust as vicarious past: Restoring the voices of memory 
+to history”. Judaism: A Quarterly Journal of Jewish Life and Thought, vol. 1, 
+n.º 51, 2002, pp. 71-87.

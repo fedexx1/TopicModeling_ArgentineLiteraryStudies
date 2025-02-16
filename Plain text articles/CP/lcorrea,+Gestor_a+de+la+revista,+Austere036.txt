@@ -1,0 +1,337 @@
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+Universidad Nacional de La Plata. 
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios Latinos
+Cipo y la monarquía en Metamorfosis de Ovidio1
+Introducción y marco teórico
+En el presente trabajo analizaremos la representación de la monarquía en el episodio
+de Cipo del libro XV de Metamorfosis de Ovidio. Sostendremos que, si bien en la época del
+poeta la figura del rey era negativa y estaba asociada a la idea de tiranía, se puede ver a
+partir de elementos que señalaremos oportunamente un cambio en la mirada sobre este tipo
+de gobierno que se relaciona con los cambios sociales que se estaban viviendo en la época.
+Para realizar este análisis nos serviremos del concepto de estructura del sentir de Raymond
+Williams, ya que postulamos que esta nueva visión no está dada de manera explícita sino
+que más bien el texto señala un conflicto, una crisis, una grieta entre un idea dominante, la
+visión negativa de la figura del rey, y un nuevo sentimiento.
+Williams define la estructura del sentir como la expresión de la interacción entre el
+“carácter social dominante de un período” y la “experiencia real”. Esta interacción denota
+un conflicto, una rivalidad, un enfrentamiento. 
+[El arte] crea, mediante nuevas percepciones y respuestas, elementos que la sociedad, como
+tal, no es capaz de realizar […] encontramos una descripción, una discusión, una exposición
+por medio de la trama y una vivencia del carácter social. También hallamos, en ciertas
+formas y dispositivos característicos, pruebas de los atascos y problemas no resueltos de la
+sociedad: a menudo presentes por primera vez en la conciencia de este modo […] parte del
+arte expresa sentimientos que la sociedad, en su carácter general, no podía expresar. Estos
+pueden ser las respuestas creativas que sacan a la luz nuevos sentimientos. Pueden ser
+1 Una versión previa de este trabajo fue presentada en las VII Jornadas de Estudios Clásicos y Medievales 
+“Diálogos culturales”. Las citas de Metamorfosis provienen de Tarrant, R. J., P. Ovidi Nasonis 
+Metamorphoses, Oxford, 2004.
+Cita sugerida: Mollo Brisco, M. E. (2017). Cipo y la monarquía en Metamorfosis de Ovidio. Auster, (22), e036. 
+Recuperado de: http://doi.org/10.24215/23468890e36 
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+también la mera constancia de las omisiones: la reparación o el intento de reparación de
+necesidades humanas insatisfechas2.
+Este concepto es utilizado para “describir algo que sucede específicamente en las
+obras de arte, en la literatura: que se comunica y se realiza en un nivel diferente al de
+ideología”3 . Esto nos parece especialmente importante para el análisis de las obras del
+período augustal ya que evita la visión de los  textos  como propaganda política que
+desestima que la obra literaria es un discurso diferente y trabaja con otros materiales. El
+concepto de Williams mantiene la idea de la especificidad de la literatura, que radica
+justamente en la idea de “específica organización del sentimiento”4. 
+Contexto histórico de Metamorfosis
+Para intentar conocer, por lo menos a grandes rasgos, el carácter dominante de la
+época tendremos que ubicar la obra en su contexto histórico. Metamorfosis fue escrita entre
+el 2 y el 8 d. C. durante el principado de Augusto. Este período fue, desde el punto de vista
+político y social, una etapa de transición. Augusto se esforzaba por asegurar que él había
+restaurado la res publica luego de décadas de guerras civiles e inestabilidad política pero
+estaba claro que esta forma de gobierno ya no existía como tal. La figura de un gobernante
+único era muy fuerte. Galinsky señala:
+Even if gradual, it must have been clear to Augustus´ contemporaries that important
+changes were taking place. There was no sudden jump from republic to monarchy, but there
+was a republican system with a  princeps […] the Augustan principate emerged as “the
+binding link between Republic and Empire”.5
+2 Williams, R., La larga revolución, Buenos Aires, Nueva Visión, 2003, 75-76.
+3 Sarlo, B., “Raymond Williams y Richard Hoggart: sobre cultura y sociedad”, Punto de vista, II, 6, julio 
+1979, 9-18, 13.
+4 Sarlo, Punto de Vista, 14
+5 Galinsky, K., “Introduction. The Augustan Evolution”, en: Augustan Culture. An Interpretive Introduction, 
+Princeton, Princeton University P., 1996, 3-9, 9.
+2
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+Como  señala  Galinsky,  el  funcionamiento  de  la  “constitución”  republicana  se
+basaba más en las tradiciones que en los aspectos legales.  Y Augusto aprovechó este hecho
+y basó su legitimidad en una vuelta a esos valores y principios básicos. Mantuvo el
+consulado con sus funciones intactas pero ocupó ese cargo todos los años después del 31 a.
+C. y el cónsul que lo acompañaba en sus funciones le era adicto. Es decir, el poder recaía en
+su persona pero se mantenía la fachada del consulado. Debido a que el título de rey se cargó
+de una valoración negativa luego del derrocamiento de Tarquino el Soberbio, no podía
+volver a ser utilizado. En el año 27 a. C. Augusto anuncia que la paz estaba restaurada y
+que ponía el poder a disposición del Pueblo y el Senado romanos. Pero, como señala
+Grimal, Octavio había adquirido mucha influencia en Roma y no podía volver a ser un
+simple ciudadano. 
+Era precisamente esa posición excepcional lo que se trataba de expresar con un título, con
+un nombre nuevo. En un momento dado los senadores pensaron en concederle el de
+Rómulo […] Rómulo había fundado la ciudad, es cierto, pero fue rey […] a pesar de su
+prestigio, el nombre era de mal agüero y resultaba imposible pretender que la República
+estaba restaurada y a la vez conferir, aun indirectamente, honores reales al hombre de quien
+había dependido esa restauración.6
+En su lugar, se le ofreció el nombre Augusto7, que evocaba la idea del favor de los
+dioses y la misión divina de su empresa y evitaba el problema de la connotación negativa
+ligada a la monarquía. Este nombre vino a ocupar un vacío, un espacio “sin nombre”. 
+Metamorfosis
+Analizaremos ahora cómo aparece la figura del rey en los pasajes referidos a
+Rómulo, Numa y Cipo en Metamorfosis de Ovidio.
+En el libro XIV el poema alcanza el “período histórico”. El punto que marca la
+división entre el mito y la historia es la guerra de Troya.8  Se narra la llegada de Eneas al
+6 Grimal, P., El siglo de Augusto, Buenos Aires, Eudeba, 1965, 8.
+7 Grimal, El siglo de Augusto, 8: “El vocablo no era nuevo, lo aplicaban ordinariamente a lugares u objetos 
+consagrados, designados por los augures.” 
+8 Cf. Myers, S. (ed.), Ovid. Metamorphoses. Book XIV, Cambridge, Cambridge University Press, 2009.
+3
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+Lacio, luego la lista de reyes de Alba y la fundación de Roma. El libro termina con las
+apoteosis de Rómulo y Hersilia. El libro XV, que se enlaza con el anterior a partir del
+problema de la sucesión al trono, comienza con el reinado de Numa.
+Del período histórico correspondiente a la monarquía sólo se mencionan dos reyes,
+Rómulo y Numa, y ambos están caracterizados de manera positiva, según veremos a
+continuación.  Rómulo  representa  a  un  gobernante  al  principio  guerrero  pero  luego
+pacificador y dador de leyes; Numa, a un gobernante ligado a la paz y a la religión. 
+El  tratamiento  de  los  hechos  referidos  a  Rómulo  es  bastante  abreviado.
+Principalmente se destacan dos hechos, su participación en la guerra contra los sabinos,
+donde se pone el énfasis en la transformación de una fuente, y su apoteosis. Queremos
+destacar en primer lugar que en la caracterización de Rómulo se omiten los hechos que
+pueden resultar negativos. Por un lado, se excluye la muerte de Remo y la posible visión
+negativa del fratricidio9 y, además, se menciona la guerra con los sabinos sin explicitar las
+causas, el rapto de las sabinas; simplemente se nombra a los  patres Sabini. Rómulo se
+destaca por su iniciativa en la guerra, quae postquam Romulus ultro/ obtulit (Met XIV, 799-
+800). La paz entre los pueblos finalmente es decidida por ambas partes- no se menciona la
+intervención de las mujeres sabinas como en otras versiones10- y los generales de cada lado
+gobiernan en conjunto11. A continuación se dice que luego de morir Tacio, Rómulo se
+encontraba dictando leyes igualitarias a los sabinos y a los romanos:  Occiderat Tatius,
+populisque aequata duobus,/ Romule, iura dabas (Met. XIV, 805-806). El adjetivo aequata
+9 La primera referencia a Rómulo es en singular (nepotis); se omite el rol de Remo en la tradición (Myers, S., 
+Ovid. Metamorphoses. Book XIV, 194)
+10 Liv., I, 13; Dion. Hal., II 45-46; Plut., Rom., XIX.
+11 Sobre este punto nos parece convincente la argumentación de Wheeler, S., Narrative Dynamics in Ovid’s 
+Metamorphoses, Tübingen, 2000, 113, que responde a las críticas sobre el acotado espacio que dedica Ovidio 
+a la fundación de Roma: “In light of closural dynamics already set in motion by Pomona and Vertumnus, it 
+makes narratological sense that Ovid passes over the beginnings of Rome. His narrative focus has shifted to 
+endings. Thus, he passes over the beginning and middle of Romulus’s career and concentrates on this role of 
+conclusion of the civil war with the Sabines (14.775-804), which is repetition of the war fought between the 
+Trojans and Italians (14. 450-588)”.
+4
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+puede interpretarse como una refutación a la tradición que mostraba a Rómulo como un
+tirano, razón por la cual había sido asesinado por los senadores12.
+El otro hecho importante es la apoteosis de Rómulo. Sobre su muerte había una
+versión según la cual Rómulo había sido asesinado por los senadores o por el pueblo a
+causa de su despotismo13. En Metamorfosis se narra la otra versión según la cual este rey
+fue convertido en el dios Quirino a pedido de su padre Marte.  Además de su ascendencia
+divina se destaca como motivo de su deificación su virtus: fundamine magno/ res Romana
+valet (Met. XIV, 808-809); tanto [...] regi (Met. XV, 2). La grandeza del pueblo romano está
+garantizada por sus fuertes cimientos. 
+En el momento en que Rómulo es llevado al cielo se dice que se encontraba
+impartiendo  leyes  no  reales: 
+reddentemque  suo
+ non  regia 
+iura  Quiriti/
+abstulit Iliaden  (Met. XIV, 823-824). En estos versos podemos observar la tensión que
+mencionábamos en la introducción entre el modelo social, connotación negativa de la
+monarquía,  y  la  experiencia  real.  Rómulo,  el  rey  fundador  de  Roma,  el  gobernante
+pacificador y legislador, que prefigura a Augusto, no actúa como tal. No vemos en esto una
+crítica a la monarquía sino la muestra de un malestar, una incomodidad entre lo que “se
+siente”, que Rómulo gobernaba de manera justa, y lo que “se debe sentir”, que un rey era
+un tirano. Este conflicto no se expresa de manera explícita sino que se interpreta como un
+“sentir” a través de los elementos mencionados. 
+Numa,  de  origen  sabino,  es  el  sucesor  de  Rómulo.  Debido  a  su  afán  de
+conocimiento (animo maiora capaci/concipit et, quae sit rerum natura, requirit, Met. XV,
+5-6) viaja a Crotona, donde aprende la doctrina pitagórica. A su regreso es nombrado rey a
+pedido  de  los  ciudadanos  (ferunt  ultroque  petitum/accepisse  Numam  populi  Latialis
+habenas, Met. XV, 480-481). Está casado con la ninfa Egeria y las Camenas son sus guías
+(coniuge qui felix nympha ducibusque Camenis, Met. XV, 482). A diferencia de Rómulo,
+que es un rey más caracterizado por su aspecto guerrero (gentem feroci/ adsuetam bello,
+Met.  XV,  483-484),  el  reinado  de  Numa  se  caracteriza  por  sus  acciones  religiosas-
+enseñanza de los sacrificios- y su acción pacificadora -transmisión del hábito de la paz.
+12 Cf. Myers, S. (ed.), Ovid. Metamorphoses. Book XIV, p.203
+13 En Fasti se menciona la versión del asesinato pero se la rechaza (II, 496-498).
+5
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+La imagen de Numa representada en la obra es positiva. Como señala Martínez
+Astorino, si bien Numa no tiene ascendencia divina y no recibe la apoteosis, luego de su
+muerte es llorado por todos los romanos, acción que no es mencionada con tanto énfasis en
+las  fuentes,  lo cual  es  señal  de  que  era  un hombre  excepcional14. Además  hay  una
+asociación entre su reinado y la edad de oro descripta por Pitágoras15. Por último, hay una
+alusión a Augusto, no sólo en el verbo succedere que aparece al principio del libro, sino
+fundamentalmente en el motivo de la pax:
+Las enseñanzas de Pitágoras sobre la paz de la edad de oro le permiten a Numa, que no es
+philosophus sino rex, consolidar la paz en la edad de hierro de la historia de Roma que en
+ese momento se encontraba en sus orígenes. La pax de Augusto remeda esa imagen de la
+edad  de  oro  […]  pero  agrega  el  elemento  de  la  guerra  como  condición  necesaria.
+Intratextualmente, Numa no constituye una evasión, sino un eslabón del desarrollo de una
+historia  que,  para  el  caso  de  Metamorfosis,  termina  políticamente  con  Augusto.  La
+identificación con Pitágoras y con Augusto y el empleo de la palabra pax conforman así una
+cadena de sentido.16
+Es interesante que luego de Rómulo y Numa no se menciona a ningún otro rey. El
+llanto de Egeria por la muerte de su esposo permite introducir el relato de Hipólito quien
+comparte sus desgracias con ella y relata su transformación en Virbio. Egeria sin embargo
+no encuentra consuelo en esta historia y es transformada en fuente por Diana. El asombro
+que  esta  transformación  genera  en  Hipólito  es  similar  al  producido  por  las  tres
+metamorfosis que se narran a continuación: la de Tages, la del hasta Romuli y la de Cipo.
+Estas historias además están conectadas porque las tres son relatos etiológicos. Las dos
+primeras historias son más breves y, como señala Marks, no se les ha prestado mucha
+atención17. Compartimos con este autor la idea que las dos primeras narraciones son
+14 Martínez Astorino, P., “Numa y la construcción poética de la historia en las Metamorfosis de Ovidio”. 
+QUCC 102 (131)/ 3, 2012, 149-164, 154-156.
+15 Martínez Astorino, “Numa y la construcción poética”, 156-158.
+16 Martínez Astorino, “Numa y la construcción poética”, 161.
+17 Marks, R., “Of Kings, Crowns, and Boundary Stones: Cipus and the hasta Romuli in Metamorphoses 15”, 
+TAPhA 134, 2004 197-131, 107-108.
+6
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+relevantes para una interpretación de la historia de Cipo en relación con la idea de la
+monarquía y la importancia de la misión divina del rey. 
+La primera historia ocupa siete versos y en ella se narra la transformación de un
+terrón de tierra en un hombre al que los etruscos llamaron Tages y fue el primero que
+enseñó a este pueblo a descubrir los sucesos futuros.
+La segunda historia es desarrollada en solo cinco versos y relata la transformación
+en  árbol de una lanza que, al ser arrojada por Rómulo, quedó clavada en el monte
+Aventino.
+La historia de Cipo es más largo, ocupa veintinueve versos. Cipo, que llegaba a
+Roma como victor, ve su reflejo en un río y nota que le han crecido unos cuernos en su
+cabeza. Un arúspice etrusco consulta las entrañas de unas ovejas sacrificadas y augura
+grandes empresas para él aunque aún no manifiestas. Al levantar los ojos ve los cuernos y
+vaticina que si es recibido en la ciudad cumplirá su destino de convertirse en rey. Cipo
+retrocede y señala que preferiría vivir en el exilio. Sin embargo, en lugar de marcharse tapa
+sus cuernos con laurel y convoca al pueblo y al Senado. Les revela que hay uno con
+cuernos en su frente que se convertirá en rey y dará leyes de esclavitud si se le permite la
+entrada en la ciudad. Les ordena que a éste lo exilien, lo encadenen o lo maten. Ante la
+intriga de los oyentes revela sus cuernos y el pueblo y el Senado, no queriendo que quedase
+sin honor, lo ciñen con una corona festiva, le dan una porción de tierra y por último
+esculpen sus cuernos en una de las puertas de Roma.
+Este episodio ha sido leído en clave antiaugustea18, como una muestra de la herencia
+monárquica inevitable19 y también como una alusión a Agripa20. Nosotros daremos una
+lectura del episodio bajo la luz del concepto de estructura del sentir mencionado en la
+introducción, es decir, como una muestra del cambio de la experiencia con respecto a esta
+18 Galinsky K., “The Cipus Episode in Ovid's Metamorphoses (15.565-621)”, TAPhA, 98, 1967, 181-191.
+19 Marks, “ Of Kings, Crowns, and Boundary Stones”.
+20 Díez Platas, F. y López Barja de Quiroga, P., “Cipo en las Metamorfosis de Ovidio y en su recepción 
+posterior”, en C. Fornis- J. Gallego- P. López Barja –M. Valdés (eds.), Dialéctica histórica y compromiso 
+social. Homenaje a Domingo Plácido, Zaragoza, 2010, 275-306.
+7
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+forma de gobierno. Como ha señalado Martínez Astorino21 en un trabajo reciente, la
+monarquía se ve como una opción viable. Y es viable cuando el reinado es asumido por
+seres excepcionales, como Rómulo, Numa, Cipo (potencialmente ya que su reinado no
+llega a desarrollarse), Julio César y Augusto22.
+En el episodio de Cipo podemos ver la tensión entre un modelo social articulado y
+la experiencia real, vemos allí una “estructura del sentir”. Por un lado Cipo, republicano, no
+puede concebir la idea de ser rey porque pertenece a un carácter social anterior, según el
+cual ser rey era ser un tirano (quem vobis indicat augur/si Romam intrarit, famularia iura
+daturum.,  Met.  XV, 496-497) pero el texto nos muestra indicios de un conflicto con
+respecto a ese modo de sentir anterior. Por un lado se hace énfasis en que el reinado de
+Cipo está predicho por los dioses (sic fata iubent v. 584, fatalis […] tyranni v. 602).23 El
+peso de los hados nos parece fundamental, no sólo por la referencia al fatum de Eneas24 sino
+21 Martínez Astorino, P. “Cipo-César en las Metamorfosis de Ovidio: ¿una reivindicación de la monarquía?”, 
+Euphrosyne 45, 2017, 268.
+22 Coincidimos con Marks, “Kings, Crowns, and Boundary Stones”, en que el episodio de Cipo debe leerse 
+en conexión con los de los reyes Rómulo y Numa. La historia de la ciudad de Roma comienza con sus dos 
+primeros reyes, Rómulo y Numa, pero luego el texto pasa de largo todos los otros reyes para llegar hasta la 
+historia de Cipo en algún momento de la temprana República. Además, como señala este autor, Rómulo es 
+recordado por el episodio del hasta Romuli.
+23 Guillaumin, J-Y., (“Les cornes de Cipus”, en : F. Galtier- Y. Perrin, (eds.), Ars pictoris, ars scriptoris. 
+Peinture, littérature, histoire. Mélanges offerts à Jean-Michel Croisille, Clermont-Ferrand, 2008, 165-171) 
+señala que en Valerio Máximo el episodio de Cipo está ejemplificando la pietas hacia la patria mientras que 
+en Ovidio se subrayan sus aspiraciones reales. Para nosotros lo que se destaca en este episodio es justamente 
+la tensión entre la pietas hacia la patria y los conciudadanos y la pietas hacia los dioses. Además este episodio
+en el último libro nos recuerda al episodio de Deucalión y Pirra en el primer libro. Estos últimos personajes 
+son ejemplos de pietas hacia los dioses. Ellos siguen lo designado por los dioses a pesar de su desconfianza 
+inicial. Luego del diluvio y de quedar la pareja como únicos ejemplares humanos, la diosa Temis les revela 
+que deben cubrir su cabeza y arrojar los huesos de la gran madre. Pirra desconfía, teme ultrajar la sombra de 
+su madre. Pero, luego de reflexionar, Deucalión acepta el oráculo: “… 'aut fallax' ait 'est sollertia nobis,/ aut 
+(pia sunt nullumque nefas oracula suadent!)/ magna parens terra est: lapides in corpore terrae/ ossa reor 
+dici; iacere hos post terga iubemur.” “O mi inteligencia me es engañosa o (¡los oráculos son piadosos y no 
+recomiendan ningún crimen!)/ la magna madre es la tierra: creo que las piedras son llamadas huesos en el 
+cuerpo de la tierra; se nos ordena que las arrojemos por la espalda” (Met. I, 391-394).
+24 La “Eneida ovidiana” ocupa la segunda parte del libro XIII y finaliza bien entrado el libro XIV. Luego de 
+la apoteosis de Eneas, el poema enumera los reyes latinos y la descendencia que termina en Rómulo. Por esto,
+nos parece apropiada la conexión con el fatum y la pietas de Eneas. Martínez Astorino, “Cipo-César en las 
+Metamorfosis de Ovidio”, dice con respecto a la respuesta del arúspice: “Ese es el omen y en él no hay 
+8
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+porque esta historia está relacionada, como señalamos antes, con la historia de Tages, que
+es quien enseñó el arte de la adivinación a los etruscos, de quienes aprendieron los
+romanos. Como señala Marks, también podemos encontrar una relación con la historia del
+hasta Romuli que según el mito ocurría inmediatamente después de que Rómulo tomara los
+auspicios. El arúspice que interpreta el prodigio de los cuernos de Cipo es llamado en el
+verso 596 augur, hecho que puede interpretarse en conexión con la interpretación del vuelo
+de las aves por Rómulo. Es decir, estas dos historias que preceden a la de Cipo están
+reforzando la importancia de la adivinación y poniendo en duda la posibilidad de escape de
+este legado monárquico.
+Otro hecho que muestra la vacilación con respecto al destino monárquico es la
+actitud de Cipo luego de escuchar las palabras del arúspice ya que, a pesar del rechazo
+inicial de su destino real, no se aleja de la ciudad sino que vuelve al pueblo para escuchar
+su opinión. Este hecho no aparece en la otra versión de la historia que poseemos, la de
+Valerio Máximo25, según la cual Cipo se exilia ni bien escucha la noticia. 
+La reacción del pueblo también nos muestra un conflicto entre lo que se debe sentir
+y “lo que realmente se está viviendo”.  El pueblo quiere impedir que Cipo muestre sus
+cuernos y se duele y gime cuando descubre la verdad. Pareciera que el pueblo estuviera
+experimentando un nuevo tipo de sentir: ¿acaso una persona digna por sus méritos no puede
+ser rey? El episodio termina con un acto conciliatorio: Cipo, que no puede ser nombrado
+rey, no puede tampoco quedar sin recompensa. Por eso el pueblo le otorga una corona
+festiva y el senado le otorga la cantidad de tierra que pudiera abarcar con un arado en un
+día: 
+ruris honorati tantum tibi, Cipe, dedere
+quantum depresso subiectis bobus aratro
+conplecti posses ad finem lucis ab ortu. (Met. XV, 617-619). 
+te dieron a ti, Cipo, como recompensa tanto campo 
+ninguna nota negativa. De hecho, son los hados quienes ordenan su cumplimiento: con rumpe moras se alude 
+a la aparición de Mercurio a Eneas para recordarle su fatum en el libro 4 de la Eneida (569), una obra que 
+tiene al fatum como motivo central.”
+25 También hay una referencia en Plinio el Viejo pero es muy breve (HN XI, 45, 123).
+9
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+cuanto pudieras abarcar con un arado que con bueyes uncidos
+recibiera tu peso desde el nacimiento hasta el final del día.
+Esta última recompensa asocia a Cipo con Rómulo, ya que recuerda la fundación de
+Roma que se llevó a cabo a través del trazado de los límites con un arado. 
+Conclusión
+En los pasajes analizados intentamos mostrar cómo puede verse en el texto una
+nueva mirada con respecto a la monarquía. Para realizar este análisis tomamos como
+perspectiva teórica el concepto de Raymond Williams de “estructura del sentir” que nos
+permite entender esa nueva mirada como una tensión que el texto descubre entre un modelo
+social anterior, que asociaba la figura del rey con la de un tirano, y un nuevo sentir que
+aflora en medio de los cambios políticos y sociales que estaban ocurriendo en la época.  Se
+quiso mostrar cómo este conflicto se deja entrever a partir de la selección que realiza el
+poeta de los personajes que ilustran la “etapa histórica” y su descripción. Este período está
+signado por la monarquía: figuran los dos primeros reyes, Rómulo y Numa, valorados
+positivamente, y luego el texto salta al período de la República para mencionar a Cipo, un
+personaje que está destinado a ser rey. Además se subraya la importancia de la adivinación
+y el peso de los hados. Este malestar encuentra en el texto una respuesta conciliatoria: la
+figura de un rey con virtus como Rómulo, como Numa, como Cipo, si hubiera sido rey, y
+quizás como podría haber sido Julio César y como podría serlo Augusto.
+María Eugenia Mollo Brisco
+Universidad Nacional de La Plata
+eugeniamollo@gmail.com
+10
+Auster, nº 22, e036, 2017. ISSN 2346-8890
+Resumen:
+Nuestro  propósito  en  este  trabajo  es  analizar  cómo  el  episodio  de  Cipo  en  el  libro  XV de
+Metamorfosis de Ovidio da forma literaria a una crisis de la experiencia: el fin de la República y el pasaje a
+una nueva forma de gobierno, el Principado. Tomaremos como marco teórico el concepto de “estructura del
+sentir” de Raymond Williams que se define como la expresión de la interacción entre el “carácter social
+dominante de un período” y la “experiencia real”. Nosotros postulamos que el episodio de Cipo señala un
+conflicto entre una idea dominante, la visión negativa de la figura del rey, y un nuevo sentimiento, la
+posibilidad de un rey con virtus.
+Palabras clave: Metamorfosis – Cipo– estructura del sentir - monarquía
+Abstract:
+Our purpose in this paper is to analyse how the Cipus episode in Ovid's Metamorphoses XV gives a
+literary shape to a crisis of experience: the end of the Republic and the transition to a new form of
+government, the Principate. We will take as a theoretical framework Raymond Williams´s concept  of
+"structure of feeling", which is defined as the expression of the interaction between the dominant social
+character of a period and actual experience. We postulate that the Cipus episode points to a conflict between a
+dominant idea, the negative view over the king´s figure, and a new feeling, the possibility of a virtuous king.
+Keywords: Metamorphoses – Cipus - structure of feeling – monarchy 
+RECIBIDO: 28-6-2017 – ACEPTADO: 17-10-2017
+11

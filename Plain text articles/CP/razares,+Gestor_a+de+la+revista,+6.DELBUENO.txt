@@ -1,0 +1,582 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+EL PERSONAJE MÍTICO DE MEDEA EN LA VERSIÓN
+POÉTICA DE CHANTAL MAILLARD
+e mythical character of Medea in Chantal Maillard’s poetic
+version
+Delbueno, María Silvina
+ María Silvina Delbueno *
+silvinadelbueno@yahoo.com.ar
+Universidad Nacional del Centro de la Provincia de
+Buenos Aires, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 20, e2006, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 20/12/22
+Aprobación: 18/01/23
+URL: http://portal.amelica.org/ameli/journal/785/7853965011/
+DOI: https://doi.org/10.30972/clt.0206625
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: Las apropiaciones de las que ha sido objeto el mito de
+Medea podrían resumirse en la continuidad y en las rupturas de
+los géneros literarios, como es el caso del poemario que nos ocupa
+en este trabajo, Medea de Chantal Maillard (2020). La autora
+belga, nacionalizada española, ha construido esta obra a partir
+de la tragedia epónima de Eurípides (431 a.C) y del ﬁlm Medea
+de Lars Von Trier (1988). Tal como lo ha decidido Maillard,
+su protagonista ya anciana y de regreso, nos cuenta su historia.
+Comienza en el punto en que lo dejó Eurípides, en la secuencia
+del ﬁlicidio, para seguir indagando acerca de los conﬂictos que
+nos pertenecen como seres humanos, de modo particularmente
+agudo y perturbador, con una voz poderosa y conmovedora que
+expresa el dolor como una manera de supervivencia.
+Palabras clave: Medea, Eurípides, recepción, Maillard, Von
+Trier.
+Abstract: e appropriations to which the myth of Medea
+has been subjected could be summarized in the continuity and
+ruptures of literary genres, as in the case of the book of poems
+that concerns this work: Medea by Chantal Maillard (2020). e
+Belgian-born and Spanish nationalized author has constructed
+this work based on the eponymus tragedy Euripides (431 a.C)
+and from the ﬁlm Medea by Lars Von Trier (1988). Just as
+Maillard has decided, her elderly and returning protagonist tells
+us her story. She starts from the point where Euripides le oﬀ in
+the sequence of the ﬁlicide, in order to continue inquiring about
+the conﬂicts that belong to us as human beings, in a particularly
+acute and disturbing way, with a powerful and poignant voice
+that expresses the pain as a method of survival.
+Keywords:  Medea, Euripides, reception, Maillard, Von Trier.
+Notas de autor
+*
+María Silvina Delbueno es Profesora en Letras por la Universidad Nacional de La Plata (UNLP), Diplomada y Especialista en Lectura, Escritura
+y Alfabetización por la Facultad Latinoamericana de Ciencias Sociales (FLACSO), Magíster en Literaturas Comparadas por la UNLP y Doctora
+en Letras por la UNLP. Actualmente se desempeña como Profesora Titular Ordinaria de la materia Producción de Textos y Argumentación en la
+Facultad de Derecho y como Profesora Adjunta Ordinaria en la asignatura Introducción a los Estudios Universitarios en la Facultad de Agronomía,
+ambas pertenecientes a la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN). Está categorizada en nivel III y su línea de
+investigación se fundamenta en los estudios de recepción del personaje mítico de Medea de Eurípides en obras argentinas. Su último libro, publicado
+en 2021 por Editorial Hespérides, se titula Médée Kali de Laurent Gaudé. Introducción, traducción y notas. Dirige el Proyecto de Investigación
+“Las marginadas de siempre. La violencia en algunos personajes míticos de la literatura griega clásica y su reescritura en la literatura hispánica” y de
+Cuadernos de Literatura, 2023, núm. 20, e2006, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Introducción
+Lo que nos ha quedado, la historia postgriega, “podría resumirse en la continuidad y en las rupturas de
+los géneros literarios, de los estilos artísticos, continuándolos, renovándolos, o transformándolos según los
+casos” (Rodríguez Adrados, 2004, p. 17) pero sin poder olvidar la referencia a los orígenes, incluso cuando
+se intenta plantear una escisión completa con la tradición de ciertos temas.1 En esta línea, Véronique Gèly
+aﬁrma: “´Mythos` est dans tous les cas le scénario de l`histoire racontèe, jouèe ou citèe tel que le poète
+à chaque fois l`invente. Mais il existe des ´mythoi` hèritès, transmis par une mèmoire collective, et des
+“mythoi” inventès, nouveaux” (Gèly, 2012, p. 13).
+Es el caso de las apropiaciones de las que ha sido objeto el mito de Medea como una manera de
+revivir el mundo antiguo y sobre todo de indagar las motivaciones que preceden los comportamientos
+humanos en el mundo actual. Recordemos que “la apropiación apunta a una historia social de usos e
+interpretaciones, relacionados con sus determinaciones fundamentales e inscriptos en las prácticas especíﬁcas
+que los producen” (Chartier, 2005, p. 52-53). Desde esas apropiaciones, los estudios de recepción que se
+focalizan en el lector y también en el autor como “lector”,2 en cuanto a su metodología de análisis, nos han
+llevado a indagar las cualidades más intrínsecas de Medea, personaje mítico y trágico desde la obra homónima
+del poeta clásico griego Eurípides (431 a. C). Estos estudios se fundamentan en la reciprocidad entre culturas,
+textos y contextos y nos permiten aﬁrmar con Martindale: “Such intertextuality never merely resolves
+meaning; rather there is a dialectic of diﬀerence and similarity between the two texts, which is constantly
+reconﬁgured in new ways by new readers” (Martindale, 2007, p. 301). A partir de dicha reciprocidad es
+preciso tener en cuenta las posibilidades que habilita el mito por su capacidad de migración, concepto ya
+deﬁnido por Lorna Hardwick como: “Movement through time or across place; may involve dispersal and
+diaspora and acquisition of new characteristics” (Hardwick, 2003, p. 9).
+Por tanto, la itinerancia de nuestro personaje femenino ha convocado un sinnúmero de versiones dada la
+profundidad de sus diversos matices que han transitado los más disímiles géneros discursivos: de la tragedia
+a la parodia, del mimo al melodrama y del poema épico a la poesía, como es la ocasión del poemario que
+nos ocupa en este trabajo, Medea de Chantal Maillard (2020). La autora belga,3 nacionalizada española, ha
+construido en mayor medida, esta pieza a partir de la Medea de Eurípides, que nomina su obra, y el ﬁlm
+Medea de Lars Von Trier (1988)4porque así lo constata el epígrafe de esta obra: “–Qué vas a colgar de esa
+cuerda?/ –Lo que amo”. Por ello, nuestro objetivo es disponer, desde “la transtextualidad o trascendencia
+textual del texto, […] todo lo que pone al texto, en relación, maniﬁesta o secreta, con otros textos” (Genette,
+1989, p. 9-10), de una serie de similitudes y de intertextos de lectura que relacionen y vinculen la tragedia
+Medea de Eurípides, el poemario Medea de Chantal Maillard y el ﬁlm Medea de Lars Von Trier para su mejor
+comprensión recíproca.
+Este poemario está destinado a pensar los vínculos entre poesía e intimidad y se sitúa de modo
+particularmente agudo y perturbador convocando la estrecha interrelación entre escritura y vida que “nos
+permite indagar categorías inherentes a la cultura donde los géneros sintetizan los restos de especiﬁcidad
+propios de una experiencia moderna” (Fernández, 2009, p. 103).
+Medea de Chantal Maillard
+La obra poética de Maillard ubica a Medea en una función nuclear y catalizadora, luego de un largo periplo
+a través de los siglos, sentada en su barca, sobre el mar de Alborán.
+Extensión universitaria “La problemática de las mujeres ﬁlicidas: una propuesta humanizante a través del mito griego a la realidad, de Medea a las
+mujeres del siglo XXl”, ambos radicados en la Facultad de Derecho de UNICEN.
+María Silvina Delbueno. EL PERSONAJE MÍTICO DE MEDEA EN LA VERSIÓN POÉTICA DE CHANTAL
+MAILLARD
+PDF generado a partir de XML-JATS4R
+Tal como lo ha decidido la autora, lejos de Grecia, una Medea ya anciana nos cuenta su historia. Comienza
+su relato en el punto ﬁnal en que lo dejó el poeta Eurípides, luego del crimen de sus hijos, y a partir de esta
+inﬂexión, intenta indagar acerca de los conﬂictos que pertenecen al género femenino y que nos perturban
+como seres humanos. A la autora le ha interesado transformar esos conﬂictos para perpetuarlos en la violencia
+del acto sacriﬁcial y entonces, devolver a la tragedia su entera dimensión desde una versión poética. En este
+sentido, “el nudo trágico sólo es posible en el antagonismo: la visión discordante sobre un mismo hecho es el
+punto de partida para que se lleve a cabo una confrontación, para que surja la dolencia trágica” (García Pérez,
+2016, p. 280). Desde esta discordancia, la voz de Medea, poderosa, conmovedora, resulta de una introyección
+de otras voces, las voces ancestrales que se superponen a aquella otra voz, la de la voluntad que ocluye el
+tiempo histórico y gira en torno al tiempo existencial. Maillard rescata la posición genérica femenina, y lo
+hace a partir de Eurípides, pero en otra vuelta de tuerca, insertando su postura frente a la dimensión de la
+culpa que proyecta hacia el exterior en un lenguaje estratégico para expresar el extremo del dolor como una
+manera de sobrevivir.
+Frente a nosotros los lectores, Medea sabe que sigue siendo vituperada, puesto que le llegan los rumores
+que circulan en torno a ella, su φημή; sin embargo, nos contará su versión. Ya no parece interesada en el tema
+que ha hecho de ella el más trágico de todos los personajes clásicos, el ﬁlicidio, sino que se halla invadida por
+una culpabilidad incontenible, mientras está inmersa en una sociedad incapaz de comprender su otredad.
+Entonces, la protagonista se nos revela como si se tratara de una mujer oracular, consciente del papel que toda
+mujer y toda madre representan.
+El poemario está estructurado en un preámbulo seguido por los libros I, II y III. Es de notar que tanto el
+preámbulo como el inicio de cada uno de los libros contienen pequeños fragmentos en prosa a ﬁn de darnos
+a conocer una historia narrada que anticipa lo por venir. Podemos agregar también, teniendo en cuenta la
+estructura de la tragedia, que el preámbulo funcionaría a modo de prólogo para luego dar lugar a la aparición
+del personaje. En dicho preámbulo, la historia de Medea acontece en la espacialidad del mar de Alborán,
+provincia de Almería, España, ubicado en la parte más occidental del mar Mediterráneo. De manera muy
+general, anticipamos que el libro I se enmarca en el círculo del hambre, pues este constituye un símbolo de
+fuerte raigambre en el estilo personal de la autora ya referido en sus obras La herida en la lengua (2015) y
+La compasión difícil (2019). Por tanto, el ﬁlicidio es entendido como una ciclicidad de vida-muerte, βίος-
+θάνατος. El libro II se vertebra en la muerte liberadora, y el libro III, ahonda la animalización monstruosa
+de la ﬁlicida en su identiﬁcación con el Minotauro. Nos detendremos particularmente en el análisis de cada
+uno de estos libros.
+Libro I, la ciclicidad de la vida y de la muerte
+Este libro se extiende desde el fragmento 1 al fragmento 22. A través de un monólogo dramático en el
+que distancia su voz autoral para exponer los conﬂictos más íntimos,5 Maillard utiliza en esta primera
+parte imágenes que atravesarán la totalidad de su obra, como el hilo, la cuerda, la trama, el círculo del
+hambre, la llaga, la culpa, la sed, y sigue manejando, como lo ha hecho en poemarios anteriores, la idea del
+fragmentarismo, razón por la cual cada poema de este libro se denomina fragmento seguido por el número
+arábigo correspondiente.
+Nos llama la atención el primer verso: “Je suis un revenant“6 escrito en lengua francesa con respecto a
+la escritura total del poemario, pues quizá la autora intenta acentuar desde los inicios la factoría euripidea
+de su protagonista, la foránea, tal como lo podremos corroborar más adelante y, al mismo tiempo, la
+hechicera a partir de un regreso insostenible. Sin embargo, esta extranjería deviene en dos vértices, tanto de
+su exterioridad, ya renombrada, como de su interioridad, en su enajenamiento. Inmediatamente después nos
+conﬁrma: “He vuelto de la muerte”. Entonces, en el vaivén de las luces y de las sombras por las que transita la
+protagonista, este único personaje femenino nos habla desde ese más allá, fantasmagórico, abisal, imposible
+Cuadernos de Literatura, 2023, núm. 20, e2006, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+de racionalizar y solo plausible en los designios de una maga. Dichas luces y sombras también acompañan a la
+Medea del ﬁlm pues desde una óptica y desde un tiempo diferentes, el cineasta danés enfatiza la concepción
+del trágico al retomar las fragmentaciones míticas. Ello lo lleva a gestar su obra a partir de la confrontación
+de los espacios, tal como aparece en Eurípides: espacio exterior-interior,πόλις-οἶκος, símil de espacio abierto-
+cerrado y, subsumido a estos, las consecuentes luces y sombras.7
+El propósito de la Medea de Maillard es el regreso a lo perdido, desde su interioridad, desde su introyección,
+y para ello golpea, se destroza las uñas tratando de “abrir un agujero” (p. 18).8
+La apelación al receptor es permanente: “¡Cuida bien tus deseos, tú/ que vienes a oírme […]” (p. 17), “tú
+que ahora penetras en mi celda” […] (p. 18). La celda se erige en la metáfora de aquel agujero interior, visceral,
+al que intenta llegar. A través de ese intento, la autora resigniﬁca la itinerancia del personaje mítico, que
+inhabilita la permanencia, pues en el fragmento 2 resuelve las diversas huidas: “De Corinto a Atenas de/ Italia
+a Tesalia de Fenicia/ a Persia y de vuelta a Cólquide […] cruzando el Adriático encallar/ en las costas de Libia/
+de Córcega de Ampurias/ o del Mar del Alborán” (tal como ya ha sido constatado en el prefacio) (p. 20). La
+historia que narra esta Medea se corresponde con “la resonancia de un combate” (p. 22), que refracta el resabio
+euripideo en el que la maga lucha frente a sus tres mortales enemigos, aunque, en este caso, antitéticamente
+la lucha no encuentra un adversario o, mejor dicho, ella misma es su propio adversario, y su única ﬁnalidad
+es alimentar “el círculo del hambre” (p. 22), ciclicidad de vida-muerte, βίος-θάνατος, hilo conductor de todo
+el poemario. La temporalidad incierta sobre la que se cierne la obra parece entramarse en un tejido cuya
+ﬁnalidad es “seguir contando” (p. 25). Este tejido nos trae evocaciones de otras tejedoras míticas como es el
+consabido caso de Penélope, o el hilo de Ariadna y el de Aracne, que aparecerán más adelante. Estas últimas
+constituyen dos poderosos hipotextos de la poeta en relación con los símbolos del hilo, el huso y el agujero
+expuestos en obras anteriores.
+Maillard revive en la trama de su protagonista la nostalgia inalcanzable de la memoria porque “¡Tanta era la
+sed y tan pútrida el agua! (p. 27) en consonancia con el referido círculo del hambre. Al igual que en Eurípides,
+esta Medea no está exenta del olvido, sopesa las palabras de Creonte como sopesa el amor por Jasón puesto que
+“–No hay mayor pena que el amor,/ contesté” (p. 29). Ese amor se halla inscripto en el telar mientras sus uñas
+desgarraban “la niebla que ascendía del pantano” (p. 29), desgarro relacionado con aquel agujero de los versos
+iniciales y en clara intertextualidad con la metáfora del agua que ha manejado en la mayoría de las secuencias
+la versión fílmica de Lars Von Trier. Recordemos que la metáfora resulta a su vez un modelo perceptivo visual
+general y, en tanto tal, “permite captar con claridad la especiﬁcidad de su mecanismo semiótico” (Oliveras,
+2007, p. 105). El cineasta entrelaza desde la metáfora del agua no solo el pasado mítico de la heroína junto
+con Jasón y los Argonautas, sino que atraviesa todo el ﬁlm. Tanto las aguas de distinto tipo como la tierra
+aparecen ensambladas a partir de la ﬁgura de Medea.9
+La mujer de Maillard, perdido el amor, retóricamente se pregunta: “¿Quién traicionó a quién?” (p. 30) en
+clara alusión al nuevo matrimonio del argonauta, pues no hay razón para el olvido femenino como no hay
+razón para la redención masculina. Desde la itinerancia de su propio viaje, la protagonista recobra al héroe de
+la epopeya homérica, Odiseo, pues apela a la imagen del mar, otro mar por el que la extranjera ha transitado,
+y junto con él halla la incursión de las sirenas, las oraculares hechiceras de la mente, las conductoras de la
+muerte como lo es Medea. Desde ese desplazamiento ahora externo, la heroína diagrama y resemantiza la
+sexualización de los espacios netamente clásicos: el afuera masculino frente el adentro femenino. Los paralelos
+con la construcción de la ciudad-estado, la πόλις, como ámbito masculino, por un lado y, por otro, con la
+construcción del οἶκος, como ámbito femenino, ya han sido establecidos por Pomeroy,10 Foley,11 y Biglieri,12
+entre otros autores, pero resulta evidente que estos aspectos mantienen vigente su interés. Entonces, la casa
+funciona como metáfora del poder de la mujer,13 y desde el espacio interior y cerrado de su οἶκος, desde su
+condición marginal de abandonada, la protagonista se subleva y emerge brutalmente.
+María Silvina Delbueno. EL PERSONAJE MÍTICO DE MEDEA EN LA VERSIÓN POÉTICA DE CHANTAL
+MAILLARD
+PDF generado a partir de XML-JATS4R
+Mayor mérito hay en aprender
+el arte del tejido
+que en surcar los mares combatiendo
+quimeras.
+[…]
+Más eﬁcaz saber cortar el hilo
+que fondear en uno y otro puerto.
+La ruta más difícil es a veces
+aquella que se emprende
+sin moverse de sitio. (p. 31)
+Entre los hilos de la trama,14 tan presentes como el huso y el agujero en las obras de la autora Diarios de la
+India (2014) o Matar a Platón (2004), la mujer permanece en la herida abierta del amor, “la ulcerada cuna
+de los labios” (p. 33). Cíclico es el tiempo en que presente y pasado sobrevuelan, mientras ella deambula en
+las sombras.
+El imperativo del fragmento 9 resuelve un marcado cambio de tono que se aviene con la violencia del
+crimen perpetrado frente a un receptor que bien podría instalarse en la ﬁgura de uno de sus hijos: “¡Corta el
+hilo!, le dije. ¡Córtalo!” (p. 37) y conﬁrma el ﬁlicidio que enuncia en el siguiente fragmento: “Maté a mis hijos,
+sí. O esa fue/ la historia que os contaron” (p. 39) y nosotros agregamos, ¿quiénes nos contaron?, ¿acaso los
+poetas? Para ello nos provoca lúdicamente con las interrogaciones semiotizadas: la soga en referencia fílmica,
+el veneno y el cuchillo en referencias euripideas. Recordemos que en el ﬁlm la protagonista utiliza la soga para
+matar a sus hijos, entre tanto, en Eurípides, la maga utiliza el veneno para aniquilar a sus enemigos: la nueva
+esposa y su padre, el rey Creón, mientras que con el ﬁlo de la espada (símil cuchillo) desgarrará a su simiente.
+La carne mutilada de los hijos, esos cuerpos vulnerables devienen cosiﬁcación para el otro social,
+especialmente para el identitario masculino y su posterior fatalidad. Observamos que en el ﬁlm Jasón se
+detiene como mero espectador frente a la escena del crimen, montaje destinado únicamente al traidor.
+Igualmente, dicho crimen habilita el íntimo espectáculo que los espectadores recibimos en la emoción que
+causa en los personajes, al igual que en la tragedia clásica,15y se enclava en el teatro del dolor por una pasión
+fuera de cauce. La materia corporal de estos hijos se ha vuelto algo manipulable, es decir, se ha convertido en
+un lugar de resistencia para la mujer.
+En el personaje clásico, razón y pasión, conﬂuyen y devienen en ἀκρασία,16 deﬁnida como la incapacidad
+para refrenarse en la comisión de una acción prohibida impulsada por la pasión.17 De allí deviene el carácter
+monstruoso de la mujer que aparecería asociada en la cultura griega con lo animal instintivo y lo salvaje, lo
+irracional, lo no domesticado. A consecuencia de ello aparece la expresión de la violencia ﬁlicida que solo
+engendra un entramado de violencia, emanado desde una pulsión secreta.
+En Maillard, la pervivencia de la vida y de la muerte, a modo de metáfora entre la tensión y distensión
+de una misma trama, aparece conformada en un proceso indeclinable: “¿No condenamos todas/ acaso a
+nuestros hijos? ¿No destinamos su cuerpo tembloroso/ a la muerte/ en aquel mismo instante/ en que los
+concebimos?” (p. 39). Sin embargo, aﬁrma no haberlos matado por piedad, ya que, como lo ha dicho, amaba
+a Jasón e interpela y subvierte el mito que ha llegado a nosotros. Aquella tensión deviene en un combate, un
+ἀγών, que Medea es capaz de librar y superar y que nos retrotrae a la dubitación y posterior consentimiento
+pasional (vv .1040-1081)18 de la tragedia euripidea.
+En el fragmento 11 hallamos la versión más brutalmente descripta del ﬁlicidio:
+Cada sonido en su cuerda
+cada reﬂejo en su destello.
+Apresados.
+Vibrantes.
+Cuadernos de Literatura, 2023, núm. 20, e2006, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+A la espera
+de una conmoción
+un acorde
+un breve resplandor
+que desgarrando el envoltorio
+los arroje
+al agujero oscuro
+que conduce
+de vuelta al estallido. (p. 42)
+Ese agujero ya ha sido anticipado en el fragmento1, mientras que mente y cuerpo se hallan disociados
+pues la mujer logra mantener interiormente la calma en tanto el cuerpo emula una barca, a la deriva, para
+“seguir contando” su propia historia en la que los hijos deben morir para ser ofrecidos en holocausto.19 La
+presencia del otro social, actores de impostura, no se hace esperar cuando todos exclaman: “¡Medea ha matado
+a sus hijos! […] Pero qué saben ellos/ de lo que eso signiﬁca” (p. 47). Y porque es temida por ese otro social,
+al igual que le teme el personaje de Creonte en la versión del trágico, (vv. 283-292), causa y consecuencia
+de su destierro, los otros pretenden lapidarla.20 Mientras tanto, impávida, conocedora del peligro de la
+transgresión a las normas, mantiene la monstruosidad de la ﬁera deambulando en círculos concéntricos y,
+entonces como una sirena, canta, a ﬁn de abatir a su presa. Contestataria, interpela a ese colectivo acerca
+de la ignorancia del horror: “Matar lo que se ama/ no es algo de lo que tengáis conocimiento” (p. 48).
+Entonces, nos preguntamos, ¿cuál es la causa por la que esta mujer ha abjurado de la maternidad? Tal vez
+porque el nacimiento se confunde con la muerte, el mismo estertor “–el primer/ sudario de quien ya empezó
+a morir–” (p. 50) y, paradójicamente comienza a transformarse en víctima del hijo en su rapacidad de
+hambre. La afamada transgresora se erige en una verdadera ofensa social, el μίασμα, una mancha necesaria
+de extirpar, y así recuperar el equilibrio cívico perdido. Las acciones perpetradas por la protagonista exigen,
+desde la perspectiva masculina, la expulsión de la sociedad, tal como aﬁrma Burkert: “Aer all, ritual killing
+is real killing, and the ritual expulsión of a pharmakos is directly eﬀective on the societal level” (Burkert,
+1987, p. 153). Entre tanto, ella seguirá relatando su propia historia, tal vez emulando a una sibila frente
+“a la lengua muerta de lo escrito” (p. 50). Sin embargo, parece comprender la concepción femenina, el
+apareamiento trastocado en “el fuego de las bestias” (p. 53) por consecuencia del ﬂujo de la vida y en la edad
+fértil.21 Entonces, el odio resulta recíproco en la dupla madre-hijo puesto que “Caer al mundo es/ oﬁcio/
+de tinieblas” (p. 55), en donde el cuerpo asume el ritual sacriﬁcial que renueva y perpetúa el crimen. Ese
+cuerpo materno violentado metaforiza la sangre que abre y cierra el sacriﬁcio del dolor de parto, del esfuerzo
+prolongado, una lucha agónica en que la mujer se homologa a la masculinidad en la imagen de la caída:
+“el agujero blanco abierto por el hijo” (p. 61) símil de/ “la dentellada del felino” (p. 62). En este sentido,
+“la feminidad es un obstáculo para dar acceso al nuevo ser-viril” (Loraux, 2004, p. 222), en donde el parto
+constituye un combate y resulta sinónimo de impureza. Por tal motivo, el espectáculo que la mujer recién
+parida brinda al mundo signiﬁca un acto de violencia, “el escenario de un furor”, siempre cíclico, en el que
+tanto la culpa como la compasión conforman otras violencias también heredadas.
+Libro II: la muerte liberadora
+Hallamos en él a una protagonista asentada en la barca y la narración de una derrota perﬁlada en las preguntas
+retóricas pautadas por ese otro social. Por un lado, su comportamiento conductual la torna imperdonable e
+incomprendida a la vez y, por otro lado, la estatiﬁca en la muerte e impide que zarpe hacia otros mares. De los
+fragmentos 22 al 37, utiliza tanto la primera persona, el yo poético en carnadura, contestatario y agónico, y la
+apelación a los lectores que la sojuzgan. Desarrolla irredenta las razones que generan su ﬁlicidio y que deben
+entenderse dentro de la violencia de la naturaleza animal, “la arcaica cepa del crimen” (p. 69) cuando al dar la
+María Silvina Delbueno. EL PERSONAJE MÍTICO DE MEDEA EN LA VERSIÓN POÉTICA DE CHANTAL
+MAILLARD
+PDF generado a partir de XML-JATS4R
+vida comienza a dar la muerte, eje vertebrador de todo el poemario, βίος-θάνατος, como ya lo hemos anticipado
+en el libro I. Vuelve a nominarse inclemente, “no busquéis en mis actos/ motivos de piedad” (p. 70). Lejos de
+la protagonista clásica y de su creencia en las leyes divinas, la Medea de Maillard, descreída de todo, quizá de
+una pulsión mayormente pasional, estima que el corazón-la pasión, no necesita leyes, sólo “acude a la herida
+y/ la reconoce” (p. 73). Su versión más animalizada desde la confrontación del ámbito exterior como interior
+de sí, todo su universo, en deﬁnitiva, lo constituye la representación de un mundo primitivo consistente en
+las voces de la tierra y los ciclos de las savias. Habita, como animal que es, el territorio de las tinieblas del que
+procede. Por tanto, resigniﬁca el acto ﬁlicida desde la animalidad, desde el hambre del depredador y, asume la
+muerte liberadora en una misma convergencia entre víctima y victimario: “En el lugar del hambre/ cualquier
+depredador es inocente” (p. 81).22
+El tópico del hambre involucra otro nuevo tópico de espeluznante actualidad: el ansia de guerra y la muerte
+que hallarán los hijos en ella. Por ello, proclama deshacerse de la cuerda ﬁlicida, la que vuelve a remitirnos
+al epígrafe del poemario.
+Nuestra es ahora la tarea.
+Detener
+la rueda
+cortar
+las cuerdas que mantienen
+a todo aquel que nace
+asido
+al hambre
+y al terror. (p. 83)
+Por consecuencia, se atreve a quebrar las reglas, a desobedecer las leyes de la tribu, ese otro social aludido,
+ya que, según su parecer en la llaga está la cura.
+Se reaﬁrma ﬁlicida: “Maté a mis hijos, sí/ Nadie mejor que el asesino conoce los inﬁernos/ sus abismos su
+espanto/ sus renuncias” (p. 89). Sin embargo, esta racionalización del ﬁlicidio no la deja exenta de angustia
+que al incrementarse la vuelve a animalizar desde la herida y en duelo constante por la pérdida. Dicha
+animalización pervive desde la mujer del trágico griego. Recordemos el caliﬁcativo animal en la voz de la
+nodriza (vv. 187-188): “Aunque descarga sobre sus criadas la mirada salvaje de una leona parturienta cada vez
+que alguien se acerca para ofrecerle su palabra” y en la voz de Jasón: “[…] leona, no mujer, de natural más salvaje
+que la tirrénica Escila” (vv. 1342-1343). Maillard lleva dicha animalización a los extremos poéticos puesto
+que la mujer se perﬁla oracular al denominarse “la habladora” (p. 93) y lo hace para provocar la disrupción
+del mito: “Jasón no traicionó. Yo le fui inﬁel/ Dejé a su cargo nuestros hijos” (p. 94).23 En ese entonces,
+ella cerró todos sus caminos,24y ahora, mientras envejece como animal-humano depredador ralentiza sus
+movimientos.25 Retoma una y otra vez, en este libro II el ﬁlicidio, pera ahora lo hace evidentemente desde
+el intertexto fílmico en la secuencia en que la protagonista camina por el espacio exterior y luminoso de un
+trigal con uno de los hijos de la mano y el otro en uno de sus brazos. Mientras Jasón fallidamente intenta
+salvar la vida de los niños, Medea, hacedora de una violencia sin límites, ata al árbol “algo que ama”, epígrafe
+retomado en el poemario de Maillard, y ahorca al más pequeño, mirándolo a los ojos mientras muere. El otro
+se coloca a sí mismo la soga al cuello y la madre llora mientras lo sostiene.
+La cuerda estaba seca y mis manos húmedas.
+Temblaron.
+La anudé en la rama de un árbol
+Muerto.
+Cuadernos de Literatura, 2023, núm. 20, e2006, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Para reestablecer el equilibrio. […] (p. 97)
+Este último verso incorpora el eje vertebrador del poemario a partir del binomio vida-muerte, sinonimia
+de caos-cosmos, que nos retrotrae al libro I. La misma cuerda ﬁlicida es portadora de la ciclicidad de ambos
+extremos.
+Esta mujer en carestía de leyes interpela al tú para que se acerque a su barca, objeto fílmico poetizado que
+incluye otro rasgo de espacialidad en la pieza. Incrédula a la presencia de los dioses, como ya lo anticipamos,
+como de las afamadas heroicidades, según su decir no existe ese más allá: “Nadie/ te acogerá en su seno/
+cuando el aliento haya dejado de silbar/ en la abertura de tu frágil osamenta” (p. 105). Preﬁere sumirse en
+la memoria del olvido y la enunciación del tú se erige en testigo de su orfandad. Mientras tanto, tanática,
+nos recuerda su muerte, en los tiempos de errancia, al sigilo del hambre. Solo entonces es hora de zarpar,
+pero a diferencia de la heroína trágica, la protagonista de Maillard se halla derrotada: “Sirva de ejemplo mi
+impiedad./ […] Y mi derrota […]” (p. 108). Ha vivido el tiempo suﬁciente y ha tejido su historia en el telar,
+pero a diferencia de Penélope, en dicho telar se hallan inscriptos los errores y los daños, causas y consecuencias
+de culpas saldadas y cumplidas.
+Libro III: El monstruo
+Los fragmentos 38 al 48 conforman este libro III que tiende a la tercera persona. Comienza con una breve
+narración, que al igual que en los libros anteriores y, a modo de prólogo, transcurre durante el anochecer,
+en el momento en que el círculo comenzará a cerrarse. Nos resulta clave la alusión a la animalización de la
+protagonista, transpuesta a otras Medeas, las que se multiplican en situaciones similares y se recepcionan en
+un ovillo común, ya aludido en el libro anterior. La consonancia de todas ellas se halla en: “la fuente/ a la
+que otras acuden/ a abrevarse” (p. 113). Otras ﬁlicidas, en otras realidades, que marcan el descenso a aquella
+animalidad, ese “más abajo/ donde el lenguaje no procede” (p. 116). Dicho descenso, metáfora del hilo de
+la vida, resume la situación de aporía, de sin salida posible, por la que atraviesa la mujer multiplicada. La
+monstruosidad anticipada a lo largo del poemario encuentra asidero en la enunciación posterior del mito del
+Minotauro. Si tenemos en cuenta el carácter del monstruo, podemos decir que este constituye la disrupción
+del orden, la deixis de alteración. La conformación de lo monstruoso pertenece al campo de la cultura y
+subyace en la violación de un orden pre-establecido. El monstruo humano tiene como marco de referencia
+la ley. Michel Foucault lo deﬁne del siguiente modo:
+La noción de monstruo es esencialmente una noción jurídica, lo que deﬁne al monstruo es el hecho de que en su existencia
+misma y su forma, no sólo es violación de las leyes de la sociedad, sino también de las leyes de la naturaleza. Es en un doble
+registro, infracción a las leyes en su misma existencia. El campo de aparición del monstruo, por lo tanto, es un dominio a
+la vez extremo y extremadamente raro. Es el límite, el punto de derrumbe de la ley y, al mismo tiempo, la excepción que
+sólo se encuentra, precisamente, en casos extremos. Digamos que monstruo es lo que combina lo imposible y lo prohibido.
+(Foucault, 2000, p. 61)
+La voz de Maillard asume la monstruosidad del ﬁlicidio en la monstruosidad del Minotauro,26 en
+su otredad, sugerente para enfatizar el juego de los opuestos, razón frente a pasión que se encuentran
+ampliamente deslindadas aunque prima esta última.
+[…] El corazón del Híbrido es tal
+que nadie soporta su presencia
+sin perder la cordura.
+Preﬁeren darle muerte. Todo
+lo que no comprendemos
+nos espanta […]. (p. 119)
+María Silvina Delbueno. EL PERSONAJE MÍTICO DE MEDEA EN LA VERSIÓN POÉTICA DE CHANTAL
+MAILLARD
+PDF generado a partir de XML-JATS4R
+Desde la marcada alusión a la monstruosidad del libro II, en este libro constata su deﬁnición en el Híbrido,
+la alusión intertextual al mito del hombre-toro, su transgresión a la norma natural, tan transgresor al orden
+establecido como la ﬁlicida, la anti-natura que debe ser extirpada. Junto al monstruo se hace inevitable
+encontrarnos con la ﬁgura de Ariadna. La autora otra vez repite “Cuentan mal los poetas” en alusión anterior
+a la inﬁdelidad a Jasón, ahora se trata de Ariadna, ingeniosa y cobarde al mismo tiempo, en deﬁnitiva, tan
+engañosa como lo ha sido Medea y en una clara inversión al paradigma míticamente conocido. Maillard se
+detiene casi con delectación en la ﬁgura del Minotauro, en el laberinto que habita, en el encierro, como lo
+está Medea, carente del hilo de la vida, del hilo de salida al que nos aferramos al nacer. El juicio del otro social
+sobre los transgresores del orden resulta demasiado grave, en tanto la mujer trata de “Revertir la mirada” (p.
+122), limpiar la llaga, mientras en ese descenso escucha la melodía de todos los muertos. Desde la muerte en
+la que está sumergida, sin anclajes, solo desea perder su ser para poder regresar a ese otro mundo: “Perder
+los límites./ Hacerse inﬁnita./ Para volver a ellos./ Para darles alcance […]” (p. 126). Ella apela a la muerte,
+exhortando al tú de la enunciación: “Despójate de ti. Actúa/ sin temer la salida” (p. 127). Ya sin voluntad y
+carente de historia, descenderá al abismo, caerá más abajo, guiada por el animal en el que se ha convertido.
+Entonces, víctima y victimario se entrelazan, Medea adquiere la constelación del monstruo, se metamorfosea
+en él: […] tu víctima/ será tu guía […]” (p. 129).
+Cíclicamente cierra el poemario la narración ﬁnal durante el amanecer de una Medea que espera en la
+barca. Espera a que suba la marea, o no espera, de espaldas al horizonte. La muerta, portadora de muerte, nos
+ha contado su historia y ha cerrado su periplo.
+A modo de conclusión
+Tanto la tragedia griega como la obra fílmica, sobre los que se asienta la obra de Maillard, se cierran con una
+imagen que simula un campo de batalla. En la tragedia, la maga desde las alturas permanece vencedora pues
+impide a Jasón acercarse a los cadáveres de sus hijos, mientras prosigue su errancia a través del ﬁrmamento.
+De igual modo, en el ﬁlm, en el espacio abierto del campo, la mujer, enteramente humana, con los mismos
+síntomas vengativos euripideos, monta el espectáculo ﬁlicida para ser visto por el traidor. Desde esa misma
+humanidad en quiebre y desde ese mismo campo de batalla, pero enteramente interior, Maillard asume en
+la voz de su protagonista la condición femenina de la maternidad, su anulación anti-natura a partir de la
+ciclicidad en la violencia del binomio vida-muerte, βίος-θάνατος, deﬁnido en “el círculo del hambre” con el
+que estructura la totalidad del poemario. Su acto ﬁlicida la aísla en los trazos de una identidad fronteriza que
+la delimita y la excluye del otro social que la juzga y la difama. La monstruosidad de su crimen la identiﬁca con
+el mito del Minotauro, el eterno incomprendido, metáfora del exceso y de la desproporción de sus actos. Lejos
+de la entidad demiúrgica euripidea, la voz oracular de esta Medea hace eco en otras voces, otras realidades
+similares, aunadas en la corporeidad de la herida abierta del parto.
+En la particularidad del lenguaje fílmico y desde el racconto,27 Lars Von Trier resigniﬁca las imágenes de la
+nave, la red, la mujer en soledad extrema, transterrada, el rito sacriﬁcial del ﬁlicidio, retomadas del mito y que,
+a su vez, se erigen a posteriori en ejes temáticos revitalizados en este poemario para de este modo, perpetuar
+el diálogo con el pasado y con el presente.
+Insanamente trágica, la mujer de Maillard ya envejecida, vuelve de la muerte para contarnos
+fragmentariamente una historia, su propia historia, aquella que los poetas han tergiversado.
+Referencias bibliográficas
+Aumont, J. (1992). La imagen. Barcelona, Paidós.
+Biglieri, A. A. (2005). Medea en la Literatura Española Medieval. La Plata, Decus.
+Cuadernos de Literatura, 2023, núm. 20, e2006, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Borges, J. L. (1984). Obras Completas. Buenos Aires, Emecé.
+Burkert, W., Girard, R. y Smith, J. (1987). Ritual Killing and Cultural Formation. Stanford, Stanford University Press.
+Calabrese, E. (2009). Joaquín O. Giannuzzi o el horror de lo cotidiano. Revista del Centro de Letras Hispanoamericanas,
+18 (20), 37-56. https://bit.ly/3meJQH3
+Castillo, H. (1999). La casa del ahorcado. Buenos Aires, Colihue.
+Catenacci, C. (2000). Il monologo di Medea (Euripide, Medea 1021-1080). En Gentili, B. y Perusino, F. (eds.), Medea
+nella letteratura e nell´arte (pp. 67-82). España, Marsilio.
+Chartier, R. (2005). El mundo como representación. Estudios sobre historia cultural. Barcelona, Gedisa.
+Corrado, A. (1956). Larga noche de Medea. Buenos Aires, Losada.
+Correia, H. (2006). Desmesura. Exercício com Medeia. Portugal, Relógio D'Água Editores.
+Cureses, D. (1964). La ontera. Buenos Aires, Ediciones Tespis.
+De Pourcq, M. (2012). Classical Reception Studies: Reconceptualizing the Study of the Classical Tradition. e
+International Journal of the Humanities, 9 (4), 219-226. https://bit.ly/3z8L2zp
+Fernández, N. (2009). Adentro/afuera: paradojas de la escritura argentina actual. Revista del Centro de Letras
+Hispanoamericanas, 18 (20), 101-120. https://bit.ly/3IG2Llo
+Foley, H. (1994). e concept of women in Athenian Drama. En Foley, H. (ed.), Reﬂections on Women in Antiquity
+(pp. 127-168). New York, Gordon and Breache Science Publishers.
+Foucault, M. (2000). Los anormales. Buenos Aires, Fondo de Cultura Económica.
+Galeno, C. (1823). De Placitis Hippocratis et Platonis. En Kühn, C. G. (ed.), Claudii Galeni Opera Omnia, Vol. 5.
+Leipzig, University of Leipzig.
+Gambon, L. (2009). La institución imaginaria del oikos en la tragedia de Eurípides. Bahía Blanca, Universidad Nacional
+del Sur.
+García Jurado, F. (2015). Tradición frente a Recepción clásica: Historia frente a Estética, autor frente a lector. Nova
+Tellus, 33 (1), 11-40. https://bit.ly/3yHin3i
+García Pérez, D. (2016). La conversión del Minotauro: de Antihéroe a Redentor. En De Martino, F. y Morenilla,
+C. (eds.), Teatro y Sociedad en la Antigüedad Clásica. Personajes secundarios con Historia (pp. 279-300). Bari,
+Levante Editori.
+Gaudé, L. (2021). Médée Kali. Introducción, traducción y notas de M. S. Delbueno. La Plata, Hespérides.
+Gèly, V. (2012). Pour une mythopoètique: quelques propositions sur les rapports entre mythe et ﬁction. Paris, Universitè
+de Paris-X-Nanterre.
+Genette, G. (1989). Palimpsestos. La literatura en segundo grado. Madrid, Taurus.
+Grillparzer, F. (1960). Medea. Prólogo, traducción y notas de I. T. M. Brugger. La Plata, Universidad Nacional de La
+Plata.
+Hardwick, L. (2003). Reception Studies. Oxford, Oxford University Press.
+Kovacs, D. (1994). Eurípides. Cyclops – Alcestis – Medea. Edición y traducción. Cambridge, Harvard University Press.
+Lojo, M. R. (1994). La “Barbarie” en la narrativa argentina (Siglo XIX). Buenos Aires, Ediciones Corregidor.
+Loraux, N. (2004). Las experiencias de Tiresias (lo masculino y lo femenino en el mundo griego). Barcelona, Acantilado.
+Loupiac A. (1998). La poétique des éléments dans La Pharsale de Lucain (Vol. 241). Bruxelles, Collection Latomus.
+Maillard, Ch. (2020). Medea. Barcelona, Tusquets.
+Martindale, C. (2007). Reception. En Kallendorf, C. W. (ed.), A Companion to the Classical Tradition (pp. 297-311).
+Blackwell Publishing Ltd.
+Merleau-Ponty, M. (2003). El mundo de la percepción. Siete conferencias. Buenos Aires, Fondo de Cultura Económica.
+Moore, T. S. (1920). Tragic Mothers. London, Grant Richards. https://bit.ly/3IEZ7bA
+Mosse, C. (1991). La mujer en la Grecia clásica. Madrid, Nerea.
+Napoli, J. T. (2007). Eurípides. Tragedias. Introducción, traducción y notas. Buenos Aires, Colihue Clásica.
+María Silvina Delbueno. EL PERSONAJE MÍTICO DE MEDEA EN LA VERSIÓN POÉTICA DE CHANTAL
+MAILLARD
+PDF generado a partir de XML-JATS4R
+Oliveras, E. (2007). La metáfora en el arte. Retórica y ﬁlosofía de la imagen. Buenos Aires, Emecé.
+Pomeroy, S. (ed.) (1991). Women's History & Ancient History. Chapel Hill-Londres, University of North Carolina
+Press.
+Rodríguez Adrados, F. (2004). El “despegue” griego en el nacimiento de una nueva humanidad. En González de Tobía,
+A. M. (ed.), Ética y estética. De Grecia a la modernidad (pp. 13-25). La Plata, Universidad Nacional de La Plata.
+Rosental, M. e Iudin, P. (1965). Diccionario Filosóﬁco. Buenos Aires, Ediciones Universo.
+Segal, Ch. (1995). El espectador y el oyente. En Vernant, J. P. (ed.), El hombre griego (pp. 211-247). Madrid, Alianza.
+Séneca, L. A. (2001). Medea. Traducción en verso de V. García Yebra. Madrid, Gredos.
+Soriano, E. (1985). Medea 55. Barcelona, Plaza & Janés Editores.
+Von Trier, L. (director). (1988). Medea [Película]. Radio (DR).
+Wolf, C. (1996). Medea. Voces. Madrid, Debate.
+Notas
+1 García Jurado (2015, p. 14) sostiene: “[…] a la hora de comparar las etiquetas de “Tradición” y “Recepción clásica”, la
+primera característica que apreciamos es la de la desproporción temporal que hay entre ambas acuñaciones. Mientras
+que la primera data de ﬁnales del siglo XIX (gracias al ya citado Comparetti, 1872) y su acuñación deﬁnitiva y universal
+no tiene lugar hasta mediados del siglo XX (por obra de Gilbert Highet, 1949), la segunda proviene de ﬁnales de los años
+60 del siglo XX (precisamente la Rezeptionästhetik de Hans Robert Jauss, 2000) y no se constituye como tal etiqueta
+(Classical Reception) hasta el siglo XXI. Por su parte, al tener el término “Recepción” un carácter general, el adjetivo
+“clásico” contribuyó asimismo a cerrar una nueva disciplina ligada, en principio, al ámbito de los Estudios Clásicos
+aunque no de manera excluyente […]”.
+2 Cfr. De Pourcq (2012).
+3 Chantal Maillard. Nacida en 1951. Poeta y ensayista. Entre sus libros se encuentran: La mujer de pie (2015), La baba del
+caracol (2015), La razón estética (2017), ¿Es posible un mundo sin violencia? (2017), La compasión difícil (2018). Entre
+sus poemarios: Matar a Platón (2004), Hilos (2007), Hainuwele y otros poemas (2009), La herida en la lengua (2015)
+y Cual menguando (2018).
+4 El cineasta danés Lars Von Trier resemantiza al personaje mítico que nos ocupa en su ﬁlm Medea. Para ello, cuenta con
+el guión de Carl T. Dreyer y Preben omsen y la interpretación protagónica de Kirsten Olesen.
+5 Recordemos que esta voz: “Se trata de un sujeto imaginario, al que no debemos confundir con el ﬁcticio de la narrativa,
+pues no es un otro, sino la máscara del yo, lugar donde este se exhibe a la vez que se disocia […]. Como una consecuencia
+de la coextensión entre el yo y su enunciación, que en el imaginario lector, de modo espontáneo e inconsciente, pero
+también en el de cierto tipo de crítica, se produzca una identiﬁcación entre –en términos de Mignolo– el yo textual y
+el yo social del poeta […]” (Calabrese, 2009, p. 40).
+6 Todas las citas están extraídas de esta edición: Maillard (2020). Dichas citas serán indicadas solamente con el número
+de página entre paréntesis.
+7 Aumont (1992, p. 231) denomina: “un espacio abierto en el sentido de que, fundado en la noción de objeto y en una
+geometría de la vecindad, es, en sí, ilimitado”.
+8 Con respecto al regreso de una mujer con el propósito de cavar y destrozar la tumba de sus hijos, intertextualmente lo
+hallamos en Médée Kali de Laurent Gaudé (2021).
+9 Al hablar de “elementos” resulta imprescindible una referencia a Empédocles de Agrigento (483-433 a.n.e) nacido en
+Sicilia. Como aclaran Rosental e Iudin (1965, p. 136) “fue un ﬁlósofo materialista de la Antigua Grecia, ideólogo de la
+democracia esclavista en su poema ﬁlosóﬁco De la Naturaleza reduce toda la diversidad de las cosas a cuatro “raíces”:
+tierra, agua, aire y fuego. Esta teoría sobre los cuatro elementos (o “principios”) de la naturaleza se mantuvo en la ﬁlosofía
+antigua y medieval durante muchos siglos. Empédocles explicaba la unión y separación de los elementos por la acción
+de dos fuerzas opuestas: la de atracción y la de repulsión (“la amistad” y “la enemistad”). El predominio de una fuerza
+u otra explica los diferentes estadios en el desarrollo del universo”. Por otra parte Loupiac (1998, p. 9) aclara que: “[…]
+constitutifs de toute chose, incréés et impérissables, la Terre, l`Eau, l`Air et le Feu correspondent aux apparences et aux
+états de la matière: la Terre est le principe et le support de l`état solide et de la sécheresse; l`Eau, issue d`une fusion ignée
+ou d`une dissolution, de l`état liquide et du froid; l´Air, de l`état volatile et gazeux. Le Feu est un ﬂuide éthéré, support
+de la lumière et de la chaleur et anime les particules des corps […]”.
+10 Cfr. Pomeroy (1991).
+Cuadernos de Literatura, 2023, núm. 20, e2006, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+11 Cfr. Foley (1994).
+12 Cfr. Biglieri (2005).
+13 “El término griego οἶκος tiene un signiﬁcado muy rico y complejo. Esta complejidad no queda suﬁcientemente plasmada
+si lo traducimos como dominio o propiedad. Porque si bien es cierto que con οἶκος se hace referencia en primer lugar a
+la hacienda, unidad de producción fundamentalmente agrícola y ganadera, donde sin embargo ocupa también un lugar
+importante la artesanía doméstica, se utiliza además, y tal vez con más frecuencia, para referirse a un grupo humano
+estructurado de manera más o menos compleja, de extensión más o menos grande según las épocas, y donde el lugar que
+ocupan las mujeres se inscribe por consiguiente en función de la estructura misma de la sociedad cuya unidad básica está
+constituida por el οἶκος”. (Mosse, 1991, p. 19). Por su parte Gambon (2009, p. 28) sostiene: “En su acepción de familia,
+οἶκος suele estar en estrecha relación con genos, término que reaﬁrma la idea de ﬁliación y remarca el lazo sanguíneo
+que une a los miembros de un grupo. El hecho de que en la antigüedad, en algunos contextos, el uso de estas palabras
+resulte intercambiable (cf. DA s.v.oikos) destaca la concepción del oikos como una unidad diacrónica y enfatiza un aspecto
+esencial del mismo que adquiere relevancia en el marco de la polis: la continuidad, asegurada a través de la transmisión
+intergeneracional […]”.
+14 No es casual la preeminencia del término hilos que nomina el poemario anterior de esta autora (2007).
+15 Segal (1995, p. 232) respecto de la tragedia griega: “La tragedia deﬁne de nuevo el papel del espectador. En vez del deleite
+o térpsis del recitado épico o de la actuación coral, la tragedia implica a su público en una tensión entre el esperado placer
+de asistir a un espectáculo trabajado en sus más mínimos detalles y el dolor que sus contenidos nos producen. Aquí y allá
+los propios trágicos llaman la atención sobre esta contradicción, la “paradoja trágica”, que consiste en encontrar placer
+en el sufrimiento […]”.
+16 Catenacci (2000, p. 73-74) sostiene que: “la Medea de Eurípides invierte la conducta de los héroes homéricos, quienes,
+frente a dos alternativas, cada una con sus propias ventajas y desventajas, optan por la mejor, por lo general la segunda”.
+17 El conﬂicto entre razón y pasión ya fue percibido por Galeno. Cfr. Galeno (1823), De Placitis Hippocratis etPlatonis,
+III.3, 14-16 (306K); Cfr. III.4, 23(317K) ss., III.7, 14-16(338K), IV.2, 27 (372K), IV.6, 19(408K) ss.
+18 Para las citas de los versos de la tragedia griega tomamos como referencia principal las obras de Kovacs (1994) y de Nápoli
+(2007). Los versos estarán indicados entre paréntesis.
+19 Lojo (1994, p. 23) sostiene: “La víctima inmolada, que en el asesinato primordial pertenecía del todo a la comunidad en
+conﬂicto, se sustituye luego por un “chivo expiatorio” no por completo ajeno al grupo social pero tampoco asimilable a
+él enteramente (como los locos, enfermos, ancianos o niños, seres con alguna anomalía, extranjeros o esclavos)”.
+20 Cfr. Intertextualmente la lapidación de la protagonista se halla en Wolf (1996).
+21 Este verso nos retrotrae al poema “Dice Eurídice” de Horacio Castillo (1999).
+22 Con respecto a la muerte liberadora ejecutada por Medea Cfr. Medea de Tomas Moore (1920); Larga noche de Medea de
+Corrado Álvaro (1956); Medea de Franz Grillparzer (1960); La ontera de David Cureses (1964); Desmesura. Exercício
+com Medeia de Hélia Correia (2006); El escorpión blanco de Daniel Fermani (2012) (inédito).
+23 La inﬁdelidad de Medea ya ha sido referenciada en Medea 55 de Elena Soriano (1985) y en Medea. Voces de Wolf (1996).
+24 Cfr. Esta enunciación en Medea de Séneca (2001, vv. 458): “Quascumque aperui tibi vías, clausi mihi […]”.
+25 Cfr. La imagen del envejecimiento animal de Medea en El Escorpión blanco de Daniel Fermani (2012) (inédito).
+26 Presumiblemente la autora ha leído el cuento de Borges, “La casa de Asterión” (1984, p. 569 y ss.) cuando enuncia: “[…]
+Semejante al carnero que va a embestir, corro por las galerías de piedra hasta rodar al suelo, mareado. Me agazapo a la
+sombra de un aljibe o a la vuelta de un corredor y juego a que me buscan […]”, ya que Maillard escribe: “Estancia tras
+estancia/ de una/ habitación a otra/ por los interminables corredores […]” (p. 121).
+27 Merleau-Ponty (2003, p. 62)

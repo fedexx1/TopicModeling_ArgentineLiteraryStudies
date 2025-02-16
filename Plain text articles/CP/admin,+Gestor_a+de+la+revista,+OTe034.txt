@@ -1,0 +1,637 @@
+ARTÍCULO / ARTICLE
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios de Teoría y Crítica Literaria
+Los límites de la ausencia. Un ensayo 
+sobre historia de las ideas: José Aricó, 
+Leopoldo Zea y Carlos Real de Azúa
+Ximena Espeche *
+                                * Universidad de Buenos Aires- Centro de Historia Intelectual-Universidad Nacional de Quilmes, Argentina
+PALABRAS CLAVE
+América Latina
+José Aricó
+Leopoldo Zea
+Carlos Real de Azúa
+historia de las ideas
+RESUMEN
+ Propongo leer “Marx y América Latina” de José Aricó como un trabajo que discute los
+presupuestos de la historia de las ideas identificados con la producción de Leopoldo Zea
+en un sentido que lo vincula fuertemente con otro autor, Carlos Real de Azúa: las
+obsesiones, los límites y los alcances de una posible “historia esotérica” o “investigación
+filosófica”.
+KEYWORDS
+Latin-america
+José Aricó
+Leopoldo Zea
+Carlos Real de Azúa
+History of ideas
+ 
+ABSTRACT
+I propose reading José Aricó’s “Marx y América Latina” as a work in which the author
+discusses Leopoldo Zea´s proposals to study the history of ideas in such a way that it also
+relates to Carlos Real de Azúa´s approaches: the obsessions and terms of a possible
+“esoteric history” or a “philosophical research”.
+Cita sugerida: Espeche, X. (2017). Los límites de la ausencia. Un ensayo sobre historia de las ideas: José Aricó, 
+Leopoldo Zea y Carlos Real de Azúa. Orbis Tertius, 22(25), e034. https://doi.org/10.24215/18517811e034 
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+Introducción 
+El argentino José Aricó (1931-1991), exilado en México entre 1976 y 1982, publicó el libro Marx y América
+Latina en 1980 en Perú, y dos años después en México.1 La publicación del libro puede ser leída en el marco
+de los análisis y reflexiones que Aricó ya venía haciendo vinculados a la recepción, y el “desencuentro”, del
+socialismo en América Latina; y, sobre todo, puede ser comprendido en concordancia con una trama más
+amplia  de  discusiones  llevadas  a  cabo  en  dicho  país  por  exilados  argentinos  y  de  otros  países
+latinoamericanos acerca de la derrota de la perspectiva revolucionaria, el rol de las organizaciones armadas y
+de los intelectuales (Portantiero 1999; Crespo 2009: 9-28; Yankelevich 2010). El libro de Aricó se propuso,
+entre otras cosas, explicar las razones de ese “desencuentro” entre socialismo y América Latina, y seguir de
+cerca una ausencia —o “soslayamiento”— y un malentendido.2 Esto es: por un lado explicar la ausencia
+notoria de reflexiones de Carlos Marx sobre América Latina, o las reflexiones que lo harían insistir en la
+incapacidad de estos pueblos para tener una “historia” (frente a las posibilidades de las experiencias rusa e
+india). Aricó siguió de cerca la producción de Marx vinculada a la colonización y a la diferenciación entre
+Occidente/Oriente, y se detuvo en el escrito de este último sobre Bolívar. Por el otro, criticó en su análisis la
+suerte de malentendidos o de lecturas sesgadas sobre las reflexiones de Marx que sólo podían ver allí los
+límites del autor valorándolos como eurocentrismo —de matriz hegeliana, y vinculado a la jerarquización del
+lugar de la historia de América Latina en Occidente. 
+En general, las lecturas sobre este libro están centradas en sumarlo a una serie vinculante con otras
+producciones de Aricó y los desplazamientos relativos a su trayectoria político-intelectual. Para Juan Carlos
+Portantiero, amigo y colega de Aricó con quien compartió el exilio, la estadía mexicana de este último habría
+significado su “descubrimiento de América Latina”, “un punto de viraje” y “un corte importantísimo en la
+definición de su trayectoria intelectual”: 
+Así como maduró su propia visión del socialismo, se perfiló también su vocación de historiador de 
+las ideas, y, sin perder sus obsesiones generosas de organizador y difusor de la cultura, pudo dar 
+cauce, en el acicateador ambiente mexicano, a una tarea de investigador para la cual, fuera de las 
+aulas convencionales de la universidad, se había preparado desde hacía mucho tiempo (1999: 7). 
+Como señala Portantiero, el exilio mexicano implicó un cambio en el pensamiento de Aricó así como
+también un nuevo modo de posicionarse en relación con su producción y práctica como intelectual. El libro
+Marx y América Latina puede convertirse, entonces, también en un excelente ángulo de toma para revisar
+hasta qué punto la apuesta analítica de Aricó tuvo, en esta vocación de historiador de las ideas, un nudo
+fortísimo que necesariamente tenía que posicionarse en un ambiente señoreado por el mexicano Leopoldo
+Zea, al que nunca nombra en su libro. De lo que trato aquí es de capturar una apuesta como la de Aricó
+respecto de los modos de leer y entonces de apuesta por la capacidad analítica y de intervención político-
+cultural de la historia de las ideas. Y, para seguir esta trama, vale la pena revisar qué otros exponentes de la
+historia de las ideas en América Latina discutieron de manera explícita las opciones analíticas de Zea, como
+fue el caso del uruguayo Carlos Real de Azúa.3 
+Aunque mi análisis esté centrado en estas formas de leer, es necesario poner en relación —y en un mismo
+mapa— a tres autores que no han sido vinculados en estos términos, según el estado de un campo en un
+momento específico: el del ambiente mexicano, receptor de exilados de todo el continente; la crisis del
+marxismo y sus reverberaciones latinoamericanas; y la reflexión sobre la derrota de las izquierdas y de la
+perspectiva revolucionaria.4 
+América Latina y marxismo
+En México, muchos/as exilados/as argentinos/as se nuclearon en torno a diversas asociaciones civiles y
+2
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+políticas cuyos objetivos fueron, entre otros, la denuncia de los crímenes de la dictadura, la búsqueda de
+consensos para lograr apoyo internacional contra el accionar de los militares y así generar presión política a
+los efectos de que la dictadura pusiera fin a esos crímenes y esclareciese la situación de los desaparecidos
+(Farías 2013). La revista Controversia para un análisis de la realidad Argentina (1979-1981) de la que Aricó
+fue uno de sus principales miembros estaba vinculada a una de esas asociaciones, la Comisión Argentina de
+Solidaridad (CAS), creada por un grupo de exiliados que defendió la idea de “conformar un ámbito donde
+pudieran tener cabida otras alternativas políticas” que las lideradas por el Comité de Solidaridad con el
+Pueblo Argentino (COSPA), vinculada a Montoneros (Yankelevich 2010: 138).5 
+Además, Aricó fue profesor del Colegio de México —donde dictó el seminario “Introducción a Marx” en
+1976—, y de la Universidad Autónoma de Puebla (UAP) —en cuyo Centro de Estudios Contemporáneos del
+Instituto de Ciencias discutió avances del libro (Aricó 2009 [1982]: 77)— y su trabajo principal fue en la
+editorial Siglo XXI —que había sido una empresa cultural de referencia en la modernización de las ciencias
+sociales de América Latina y en cuya filial argentina Aricó había trabajado de 1971 a 1976.6 En síntesis,
+estaba inmerso en el campo cultural mexicano, aunque no discutiera activamente sobre México (dado que en
+tanto que exilado lo tenía prohibido) sino sobre América Latina y Argentina en particular en el contexto de la
+derrota de la perspectiva revolucionaria, la égida de las dictaduras en la región y la avanzada feroz contra los
+derechos humanos. 
+Las caracterizaciones más usuales de la figura de Aricó recalcan sus cuestionamientos a los itinerarios de un
+marxismo ortodoxo utilizado por un partido comunista del mismo tenor —partido del que fue expulsado
+junto con otros jóvenes argentinos de su generación en 1963 bajo la sospecha de fraccionalistas. También es
+reconocido por su exploración crítica —y distanciada— relativa a las interpretaciones sobre la especificidad
+latinoamericana que Marx habría malentendido, del que su libro  Marx y América Latina es un claro
+exponente. De hecho, un trabajo como su análisis de la ausencia o malentendido de América Latina en Marx
+implicó retomar sus obsesiones anteriores y prácticas de un traductor y gestor cultural. Hago referencia aquí,
+entre otras cosas, a su trabajo como coeditor de la ya mítica revista Pasado y Presente —que fue financiada
+en dos números por el Partido Comunista Argentino (Córdoba, 1963-1965) y a cuyos “compañeros” está
+dedicado  Marx y América Latina—, de los  Cuadernos de Pasado y Presente que eran monográficos de
+intervención político-cultural (Buenos Aires, 1971-1973); y, además de su participación en Controversia, a
+sus estudios sobre Antonio Gramsci y José Carlos Mariátegui y, especialmente, a su rol como director de la
+colección Biblioteca del pensamiento socialista de la editorial mexicana Siglo XXI. 7 
+Pero me interesa aquí poner el foco en otro lado, y este es el de pensar la figura de Aricó también como
+historiador de las ideas, que propuso/disputó acerca de las formulaciones teórico-metodológicas de esa
+misma disciplina. Y esto puede verse a trasluz: justamente en su intento por entender y auscultar el marxismo
+distanciándose de otros acercamientos tanto teórico como militantes (desde los revisionismos y la izquierda
+nacional hasta el comunismo) que insistían en afirmar la existencia de una producción marxiana sin fisuras.
+Guillermo Ricca lo dice en estos términos: el libro de Aricó sobre Marx y América Latina es tanto un trabajo
+de historia intelectual como un ensayo que muestra la productividad de pensar a Marx como un autor menos
+“sistemático” que lo que en general se ha supuesto (Ricca 2013: 78). Diría, extremando la asunción de Ricca,
+que justamente “desistematizar” el pensamiento marxiano implicaba una apuesta epistemológica distanciada
+de la tradicional historia de las ideas latinoamericana de la que Zea era un referente indiscutible. 
+Como analiza Elías Palti, Zea había realizado un movimiento crítico respecto de la historia de las ideas
+hegemónica en los años cuarenta liderada por el estadounidense Arthur Lovejoy, sin por ello desarmar sus
+fundamentos. Para Lovejoy, las ideas funcionan como núcleo de sentido en la producción cultural, porque
+supone que el fundamento de la existencia y producción de las ideas es antropológico. Y, como además
+3
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+tienen la capacidad de migrar, precisan de una disciplina que pueda dar cuenta de esas migraciones de una
+cultura, época o disciplina particular a otra. Zea matizó la asunción de las “ideas” sólo como propias de
+“Occidente” y buscó entonces los casos particulares, esto es, la caracterización de un positivismo específico
+como el de México, aunque no enjuició la existencia y continuidad de ese núcleo: lo que definía el
+positivismo in toto asumiendo así un estudio de sus derivados —como el mexicano—, cuestión que entonces
+afirmaba la existencia de modelos (Palti 2007: 272).8 Como veremos, para Zea de lo que se trataba era de
+afirmar aquellas cualidades centrales que hacían la diferencia  per se  de la producción latinoamericana
+respecto de otras en la órbita de Occidente. Por el contrario, Aricó desestimó en su Marx y América Latina la
+continuidad sin fisuras de una idea cuyo núcleo se pareciera siempre a sí mismo, y para ello historizó el
+carácter concreto de la producción y reflexión marxianas. Y, como veremos, dudó además de la continuidad o
+sistematicidad de la idea misma de América Latina (en particular siguiendo el modo en que se había
+articulado con el sintagma “latinidad”). Esa idea de “América Latina” es la que, como comunidad, Zea fue
+construyendo a lo largo de sus escritos: la idea de comunidad sostenía la chance del futuro más allá de la
+crisis de la modernidad; esta opción estaba ligada a la valorización de lo latino, caracterizado en un ensayo
+que se volvería clásico gracias a las prácticas lectoras y militantes de los reformismos universitarios
+latinoamericanos:  el  Ariel  del  uruguayo  José  E.  Rodó.  Allí,  el  componente  “latino”  implicaba  una
+espiritualidad desinteresada, capaz de oponerse al avance masificador del materialismo sajón. Y ambas
+cuestiones serían a su vez foco de una denuncia antiimperialista propiciada por esos reformismos a la que
+Zea llegaría promediando los años sesenta.9 Así, Aricó se distanció tomando posición críticamente respecto
+de la sustancialidad de las ideas (y consecuentemente sobre el modo de abordar los textos) y sobre la
+sustancialidad de América Latina.
+Traducir “América Latina”
+Leopoldo Zea era para 1980 un prohombre del pensamiento mexicano y de toda América Latina, y el tipo de
+asunciones que manejaba eran ya a esa altura un sentido común vinculado a la factura de la historia de las
+ideas subcontinental. Zea se había dedicado a la filosofía de la historia, a revisar cuánto del positivismo
+mexicano tenía qué conjuntos de particularidades de ese país que lo hacían muy específico; además estaba
+enfrascado en explicar la capacidad en América Latina de producir una filosofía “sin más”, objeto de una
+discusión muy conocida con Augusto Salazar Bondy en 1968, quien observaba justamente lo contrario:
+América Latina y su falta de originalidad, su ser como si dijéramos de “segundo grado” en cualquier
+actividad intelectual, especialmente una como la del quehacer filosófico. Zea, recordemos, también era un
+incansable  articulador  de  “equipos  a  distancia”,  quien  pensaba  y  coordinaba  posibles  integraciones
+latinoamericanas a la luz de esa filosofía instalada en las “circunstancias”, en el sentido orteguiano del
+término. Y que, para la fecha en que Aricó estaba exilado en México, había tenido varios cargos en
+instituciones educativas mexicanas (sin ir más lejos, fue director de la Facultad de Filosofía y Letras de la
+UNAM (1966-1971), en 1966 convirtió el Seminario de Historia de las Ideas —que había dirigido— en el
+Centro de Estudios Latinoamericanos y recibió entre otros premios el Premio Nacional de Ciencias y Artes
+en 1980.10 En definitiva Zea, para la época en que Aricó se encontraba en México, trabajando en la editorial
+Siglo XXI, era un funcionario, y seguía siendo un latinoamericanista reconocido. 
+Sus intervenciones de los años setenta fueron “Latinoamérica Tercer Mundo” (1976),  Dialéctica de la
+conciencia americana (1976) y Filosofía de la historia americana (1978). En todos los casos estaba decidido
+a rechazar la opción capitalista, buscando la apropiación de la palabra del dominador por parte del dominado
+—como  Tercer  Mundo  o  desarrollo—,  el  reconocimiento  de  la  separación  entre  “dirigentes”  (como
+colaboracionistas de ese mismo capitalismo en su fase imperialista) y “pueblo” y, sobre todo, la discusión
+sobre el carácter de la Historia y del ingreso de América Latina en ella (revisitando un ítem central en su
+4
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+producción  como  lo  son  sus  lecturas  del  historicismo  hegeliano).  En  1980,  publicó  Simón  Bolívar,
+integración en la libertad y en 1983 “Marx y Bolívar” en la revista Nueva Sociedad, artículo sobre el que
+volveré enseguida. 
+Con todo ello quiero dibujar un retrato sintético pero que viene bien para comprender esa suerte de diálogo
+de sordos que había entre las producciones editadas en el México de fines de los años setenta y comienzos de
+los años ochenta sobre quizá una de las cuestiones centrales que habían acechado los estudios de Zea y
+Aricó: esto es, esa afirmación sobre los “pueblos sin historia” que parecía caracterizar a los latinoamericanos
+según la perspectiva hegeliana que Marx utilizara para explicar en un retrato malogrado a Bolívar. Para
+Aricó, se trataba de que:
+La singularidad latinoamericana no pudo ser comprendida por dicho movimiento [por Marx y el 
+socialismo] no tanto por el “eurocentrismo” de éste, como por la singularidad de aquella. La  
+condición ni periférica ni central de los estados-nación del continente; el hecho de haber sido el 
+producto de un proceso al que gramscianamente podríamos definir como de revolución “pasiva”; el 
+carácter esencialmente estatal de sus formaciones nacionales; el temprano aislamiento o destrucción 
+de aquellos procesos teñidos de una fuerte presencia de la movilización de masas, fueron todos  
+elementos que contribuyeron a hacer de América Latina un continente ajeno a la clásica dicotomía 
+entre Europa o Asia que atraviesa la conciencia intelectual europea desde la Ilustración. Es por todo 
+ello que resulta pobre, limitado y falso asignar el supuesto “eurocentrismo” marxiano al paradójico 
+soslayamiento de la realidad latinoamericana. La presencia obnubilante de los fenómenos del  
+populismo que caracterizan a la historia de nuestros países en el siglo XX llevó curiosamente a 
+identificar eurocentrismo con resistencia a toda forma de bonapartismo, o de autoritarismo. El  
+resultado fue una fragmentación cada vez más acentuada del pensamiento de izquierda, dividido 
+entre una aceptación del autoritarismo como costo ineludible de todo proceso de democratización de 
+las masas, y un liberalismo aristocratizante como único resguardo posible del proyecto de una  
+sociedad futura, aún al precio de enajenarse el apoyo de las masas. Aceptar la calificación de  
+“eurocéntrico” con que se pretende explicar la oclusión marxiana implica de hecho cuestionar el 
+filón democrático, nacional y popular que constituye una parte inescindible del pensamiento de Marx
+(Aricó 2009 [1980]: 134-5)
+Bajo la reflexión final que este fragmento ilustra, Aricó propuso explorar la manera en que la crítica
+acusatoria de Marx como eurocéntrico no quería ver, finalmente, lo que el marxismo tendría para analizar
+aquellos  procesos  nacional-populares  que  no  podían  explicarse  sólo  en  términos  de  desviaciones
+demagógicas de la democracia. Aricó, además, historizó el marco de “latinidad” que América Latina tiene en
+su nombre: lo hizo buscando el carácter histórico-político de ese nombre en la invasión de Francia a México,
+luego continuó el análisis en el uso de las élites letradas de los jóvenes estados hispanoamericanos contra la
+herencia colonial y el “rechazo al expansionismo yanqui” (Aricó 1980: 111). Y especificó las variaciones
+sobre lo que el nombre designaba —“supeditación ideológico-cultural” a Francia— hasta la Primera Guerra
+Mundial para abrir, con la Rusia de 1917 “un nuevo proceso de búsqueda de su identidad que se expresa una
+vez más en la querella de las designaciones”. Así ingresó el “indoamericanismo” —y entonces aquí Aricó
+miraba ahora a José Carlos Mariátegui— bajo el que “la primera revista que intenta fundar la singularidad
+latinoamericana busca en la América “antigua” el título a través del cual aquella emerja como una nueva
+forma de ver a Europa y al mundo” (Aricó 2009 [1980]: 112). En un texto posterior, introducción a su
+estudio La hipótesis de Justo, Aricó lo explicaba sintéticamente ya en el subtítulo: “América Latina como
+una unidad problemática” (Aricó 1999: 11).11 En definitiva, diría que lo que hay es una discusión sobre los
+sentidos de América Latina, objeto tan en disputa como las palabras de Marx. 
+5
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+El problema era, también, el de traducir América Latina, y por ello Aricó repuso una historia que intenta
+traducir la serie compleja —e históricamente situada— de interpretaciones que podría haber tenido en un
+Marx ese mismo peso de latinidad. Eran obsesiones de traductor, o para decirlo con Martín Cortés, “La
+traducción supone siempre un ejercicio de fino análisis de la configuración nacional específica y eso implica
+siempre un esfuerzo de lectura.” (Cortés 2010: 163).12 Es cierto que el trabajo de Aricó como “traductor”, en
+el sentido literal de traducir obras como las de Gramsci o las Grundrisse de Marx al español, y en el sentido
+tal como lo maneja Cortés citado más arriba (el “ejercicio del fino análisis”) es anterior al que realiza en su
+exilio mexicano. Y que la referencia al Gramsci de la “traducibilidad de los lenguajes políticos” es posterior
+(si bien Robert Paris se había detenido en el famoso seminario sobre Mariátegui en Sinaloa en 1980): es en
+1985 en el seminario internacional organizado en Ferrara, Italia, y luego su La cola del diablo. Itinerarios de
+Gramsci en América Latina, donde justamente Aricó recupera y amplía esa presentación de Ferrara (Aricó
+1987). Diré entonces que la cuestión de la traducción —retomando la perspectiva gramsciana— es un modo
+que lee la relación entre contextos de enunciación, producción, recepción, etc. en términos políticos, como
+praxis. Ello implica un trabajo sobre los textos que explore las discontinuidades y los matices y, a la vez, los
+piense enmarcados en la efectividad de una palabra que buscaba convencer políticamente para una acción: la
+transformación social. Como dijo hace tiempo Jorge Panesi (1994) sobre la cultura letrada argentina y esa
+suerte de necesidad de traducción (en el sentido borgeano de que así se produce una cultura, un modo de
+vida, un pasado útil), Aricó se puso sobre los hombros la discusión con las prácticas culturales de un partido
+—como el comunista— o de otros análisis que consideraba rengos sobre el marxismo, y directamente
+también se puso al hombro la discusión contra las afirmaciones que regían un método que pareció asumirse
+como latinoamericanista. Y lo que estaba también ahí presente era un tiro por elevación: ¿qué quería decir,
+entonces, esa América Latina sobre la que Zea venía insistiendo?
+Confluencias heroicas
+Como mencioné, Zea había estudiado la recepción de “pensamientos” e “ideas” europeos en América Latina,
+como su clásico ensayo sobre el positivismo; y también se había dedicado a discutir el carácter del
+imperialismo y colonialismo en América Latina. Zea viajó por diversos países latinoamericanos entre 1945 y
+1947, relacionándose con exponentes de una incipiente comunidad de historia de las ideas latinoamericana,
+en lo que Horacio Tarcus (2015) menciona como un “segundo hito” que tuvo como corolario el proyecto
+para  la  creación  de  un  “Comité  de  historia  de  las  ideas”  en  la  Comisión  de  Historia  del  Instituto
+Panamericano de Geografía e Historia dependiente de la OEA (del que participaría, entre otros, un
+reconocido exponente de ese campo de investigaciones, el uruguayo Arturo Ardao). Todavía no había
+desarrollado en esa búsqueda de la historia de las ideas “americana” una impronta antiimperialista. 
+El “primer hito” de esa historia habría sido la fundación en Argentina y México, y de manera contemporánea,
+de la Cátedra de pensamiento Alejandro Korn en el Colegio Libre de Estudios Superiores por parte de
+Francisco Romero y del Seminario para el estudio del pensamiento en los países de lengua española en la
+Casa de España en México (que luego pasaría a convertirse en el Colegio de México), por el exilado español
+José Gaos respectivamente en 1940. Para Tarcus (2015), en 1978 comenzaría otro tramo, bajo la perspectiva
+de la historia intelectual —y a partir de una presentación de Juan Marichal en España de una crítica de la
+historia de las ideas de Arthur Lovejoy.13 Así, para la fecha en que Aricó publicó en México su trabajo, la
+historia de las ideas a la que Zea adscribía era objeto de cuestionamientos. Frente a ellos, Zea continuaba su
+prédica, pero actualizando sus objetos y referencias. 
+En 1983, la revista venezolana Nueva Sociedad publicó un dossier dedicado a Marx con motivo de los cien
+años de su muerte. Allí tanto Aricó como Zea presentaron sus trabajos.14 En la espacialidad de la revista, en
+la sincronía del papel, las visiones sobre Marx no pueden ser más divergentes, y diríamos, sordas entre sí. En
+6
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+“Visión de Marx sobre América Latina”, Zea nombró a Aricó después de la publicación de Marx y América
+Latina y al mismo tiempo que este publica en esa misma revista un artículo titulado igual que su libro de
+1980. Pero la mención de Arico que hace Zea es sólo a modo de nota a pie. Ese gesto puede ser leído sin
+demasiada dificultad como  la incorporación de una cita que revela el conocimiento de una serie de
+producciones específicas sobre un tema dado (recepción del marxismo). Y ello es aún más claro cuando al
+leer el texto de Zea éste insiste en aquello que el propio Aricó desestimaba con Marx y América Latina, y que
+repitió en la publicación de su texto en Nueva Sociedad. Es decir, para Aricó se trataba de arribar a una
+crítica de las conclusiones marxianas más allá de una suerte de comodidad analítica que el eurocentrismo
+vendría a resaltar. Por el contrario, Zea hizo caso omiso a esas evaluaciones y sólo veía en Marx el resultado
+de un pensamiento eurocéntrico, y allí la ignorancia de ese mismo pensamiento. Zea se detuvo en la
+categoría “hombres de su tiempo” (entonces en la “circunstancia”) por lo que Marx y Engels habrían tenido
+un límite para comprender las particularidades de Bolívar y de toda América Latina: su eurocentrismo.
+Refiriéndose a las fuentes o ejemplos que Aricó había rastreado para mentar una diferencia vinculada con
+esta  noción  (el  problema  era  menos  esa  característica  que  explicar  América  Latina  en  términos  de
+occidente/oriente), Zea insistió en leer allí una continuidad interpretativa que ligaba directamente a la
+filosofía de Hegel. Zea, por otra parte, quería hacer  confluir a los dos personajes que darían cuenta del
+desencuentro, esto es, Marx y Bolívar: 
+Lo que ya destacaba el Che Guevara en 1960, se ha presentado en nuestros días en forma crítica 
+entre varios marxistas latinoamericanos al recordarse, por un lado, el bicentenario del nacimiento de 
+Simón Bolívar y, por el otro, el centenario de la muerte de Marx. Un problema que parece de  
+lealtades. Lealtad como latinoamericano a la obra y trascendencia de Bolívar y, como marxista a la 
+doctrina revolucionaria de éste. Lo cierto es que, cada uno en su campo, en el de la acción  
+libertadora, y en el de la doctrina que ofrece instrumentos para ampliar esas acciones, siguen  
+vigentes. Una vigencia que no debe ser vista como contradictoria (Zea 1983: 59)
+Zea organizó una confluencia que, al mismo tiempo, definía otra: la del militar/revolucionario y la del
+teórico/militante cuya síntesis era el Che Guevara —al que Zea citó en su ensayo. Por esos años, la revista
+Controversia…  intentaba revisar ciertos presupuestos en el análisis de la derrota de las organizaciones
+armadas revolucionarias en Argentina, y en una tesis polémica afirmó que estas habían sido derrotadas
+políticamente  incluso  antes  que  militarmente.  A la  luz  de  esa  tesis,  la  afirmación  de  Zea  se  volvía
+problemática:  insistir  en  la  figura  del  intelectual  revolucionario  como  confluencia  entre  el
+militar/revolucionario y teórico/militante era, así, un problema donde la voluntad no podía resolver las
+cuestiones que, estructurales e históricas, habían derrotado las potencias y actos de esa figura. Esto es, el
+planteo de Aricó se hacía cargo de dimensiones históricas evaluadas como las que habían llevado a la
+derrota, dimensiones que Zea no tomaba en cuenta apelando a la figura voluntarista por excelencia.15
+Podemos pensar que visto bajo esa lupa, la discusión sobre cómo hacer historia de las ideas era para Aricó,
+singularmente, una apuesta concreta: buscar allí también la historia de cómo habían sido posibles lenguajes
+políticos nuevos, y que esa búsqueda constituyese al mismo tiempo la articulación entre teoría y práctica. 
+Aires de familia
+En este punto, vale la pena traer a colación a otro autor, esta vez uruguayo quien —esta vez sí de forma
+explícita— definía de qué otro modo era posible y necesario hacer historia de las ideas. Hago referencia aquí
+al uruguayo Carlos Real de Azúa, porque diría que en esta presencia efectiva de la discusión con Zea me fue
+posible leer la ausencia de ese mismo autor en el trabajo de Aricó. Real de Azúa publicó Historia visible e
+historia esotérica en 1975, cuando la dictadura uruguaya tenía ya dos largos años de vida. Poco después lo
+retiró de circulación, y lo hizo porque (no ha sido confirmado pero es plausible) no podía discutir desde
+7
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+Uruguay sobre esos temas en ese momento. Se abría para Uruguay, se habían abierto para Chile, y lo harían
+poco después para Argentina tiempos duros y feroces. Real de Azúa era para muchos de su generación,
+conocida como la generación crítica o generación del ‘45, incluso como “generación de Marcha” (haciendo
+referencia al mítico semanario uruguayo) un personaje incómodo, heterodoxo, habitué lector de lo último en
+la producción intelectual internacional. Real de Azúa era abogado, crítico literario, introductor de los clásicos
+de la sociología y ciencia política estadounidense en Uruguay, y se volvería ya entrados los años ochenta en
+un referente en esas últimas dos disciplinas —en particular debido a la recepción de sus estudios sobre el
+poder y la institucionalidad de los partidos políticos en Uruguay. Un hombre que había apoyado a la falange
+y que publicó un libro para entender ese apoyo tan equívoco y errado; que cada vez más fue optando por la
+capacidad transformadora de un nacionalismo revolucionario al que le dedicó un volumen escrito al fragor de
+los discursos de Fidel Castro entre 1961 y 1963 y que estuvo inédito hasta entrados los años 90.16
+Real de Azúa insistía en que en historia de las ideas había que estar atentos a una clave interpretativa, pero
+también a un modo de auscultar las fuentes, interesada en lo que llamó la “condición-situación”. Era menos
+la atención en el “lastre”, la “culpa”, “conjura” o el “complot” de o sobre América Latina que ponderar
+cuánto de esas acusaciones y paranoias apuntaban a rasgos ineludibles en la historia del subcontinente como,
+por ejemplo, el peso del imperialismo. Se trataba de atender a la condición  difusa de las ideas y las
+ideologías, a comprender igualmente lo que de arraigado ellas tenían en un momento particular. Bajo la
+dialéctica  del  palimpsesto,  tendría  en  cuenta  de  qué  forma  cualquier  “gran  tema”  —como  el  de
+modernización, por ejemplo— se hallaba inscrito sobre otro anterior sin borrarlo ni cancelarlo, como si se
+tratara de un juego de elementos latentes y manifiestos (Real de Azúa 1975: 12).
+En parte estaba respondiendo a los parámetros que Leopoldo Zea desde México y, en su país, el también
+uruguayo  Arturo  Ardao,  privilegiaban  para  ese  quehacer  historiográfico  (Ardao  fue  una  suerte  de
+representante para el cono sur de esa historia de las ideas que Zea parecía liderar, y que en 1957 había
+fomentado la creación de un Centro de Historia de las Ideas en Uruguay). Porque de lo que se trataba era el
+interés de Real de Azúa en “ciertas configuraciones durables” y “no tanto en su curso histórico lineal”. Y
+“aun  si  de  ideas  e  ideologías  se  trata  me  importan  siempre  más  los  supuestos  de  ellas  que  sus
+efectivizaciones, más las latentes y difusas que esas formuladas y explícitas que trabaja regularmente la
+‘historia de las ideas’ en América Latina”. 
+En una reseña del libro de Zea, América Latina en la historia, que había publicado con motivo de la salida
+del trabajo de Zea en 1958 y que decidió revisitar en Historia visible… en 1975, Real de Azúa criticaba a
+Zea uno de los puntos nodales que hacen a todo su andamiaje investigativo.17 En el libro de Zea había una
+paradoja en el análisis: la de los occidentales modernos aliándose a los antioccidentales premodernos (Real
+de Azúa 1975: 59). Para el autor mexicano, Occidente funcionó como elemento modernizador, cuyos valores
+positivos eran los de la lucha por la dignidad y derechos del hombre y el progreso de la técnica para su
+beneficio y felicidad. Pero, a la vez, en la periferia lo hizo impidiendo la modernización al aliarse y utilizar
+las entidades adversas a esos principios constitutivos. De hecho, Occidente negaba así aquello que era
+positivamente universal y al hacerlo cortaba de cuajo su propio fundamento civilizatorio. El ejemplo más
+claro era el del imperialismo que era una máquina de impedir el desarrollo de la periferia.18 
+En la comparación entre las dos Américas (sajona y la íbero-latina) Zea completaba una imagen dando
+sustento a esa historia en la que América Latina se inscribía: a diferencia de las evaluaciones que trababan el
+ingreso del subcontinente en la historia occidental porque consideran que lo que allí existía era solamente
+retardatario, Zea reconoció un valor específico en esa “peculiaridad ibérica”, demostrando que esa diferencia
+era justamente lo que la hacía ingresar en la historia, y mejor aún, en un futuro redentor de la modernidad
+considerada en crisis.
+8
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+Para Real de Azúa, el libro de Zea era un intento de “filosofía de la historia de las ideas” erigido como si se
+tratara de una “filosofía de la historia a secas”, que terminaba por ser esquemático, en parte por “cierto
+desdén por la particularidad” y una “abusiva simplificación de la multiplicidad de la historia”. Y en el caso
+de una filosofía de la historia de las ideas manejaba nociones ambiguas, “instrumentos conceptuales elevados
+a la univocidad gracias a la eliminación de su variado condicionamiento en el mundo real”. Así, Zea
+rotulaba, y al hacerlo hipostasiaba la realidad misma. Zea veía claramente una doble pertenencia en la
+“conciencia de la marginalidad” de América Latina y en “la paralela operancia mundial de este estado de
+espíritu” (la adhesión iberoamericana a los bienes de Occidente). Pero no había visto que lo moderno se
+había expandido a naciones diferentes entre sí, que los resabios no modernos no eran un lugar al que llegar
+sino también un lugar desde donde partir (religión, aristocracias tradicionales, vida corporativa, reflejos no-
+económicos, etc.). Occidente en la consideración de Real de Azúa era una composición de naciones “en
+constante tensión y competencia” (1975: 54-55). La insistencia de Real de Azúa en el matiz expone también
+una crítica al modo en que Zea organizó una historia de las ideas: “Una pura dialéctica de ideas tiende a
+prescindir de su propio y variado condicionamiento” (1975: 61). En definitiva, por más que Zea insistiese de
+forma explícita en la condición de la “circunstancia” de las ideas, los sujetos y su tiempo o época, que las
+hacían posibles, retenía en su planteo una condición de a-historicidad notoria.
+Conclusiones
+Ese modo de trabajo criticado por Real de Azúa es también el modo de trabajo que Aricó rechaza. De hecho,
+este último había escrito en su prólogo a la edición de la correspondencia de Marx, Nicolai F. Anderson y
+Friedrich Engels —editada en Siglo XXI en 1981 y como parte de la Biblioteca del Pensamiento Socialista
+— que su estudio no era “una mera operación arqueológica y sin otra importancia que la de abonar ese
+campo neutro e indiferenciado de la historia de las ideas. Dicho de otro modo, sólo un intento postrero por
+salvar a toda costa a Marx del naufragio de la metafísica occidental y del marxismo en ella incluido” (Aricó
+1981: XIV). Es que la cuestión estaba en la cualidad de eso “indiferenciado” y “neutro”: si para Zea
+justamente el modo de la “circunstancia” arraigaba las investigaciones en un núcleo específico y, diría, cuasi-
+esencial, era esa esencialización (¿idealismo?) que volvía el gesto de la particularización un gesto inocuo
+para la transformación concreta de interpretaciones que debían ser al mismo tiempo una formulación precisa
+de una praxis específica: la del cambio social. Diría más, la vocación de historiador de las ideas encontraba
+para Aricó un límite cuando el trabajo con las fuentes desconocía la historicidad de las lecturas, de las
+recepciones, de la disputa por la verba marxiana. Así, hizo del potencial crítico de la verba marxiana un
+modo también de auscultar esa misma verba. Quizá aquí podríamos revisar hasta qué punto la cuestión del
+límite abre a una figura que Verónica Gago ha llamado “investigación filosófica”: que trata de “indagar las
+voluntades que están detrás de cada construcción de conceptos que se identifican con el nombre de un autor
+pero que realmente obedecen a un problema que distribuye elementos y retaza fronteras” donde en el
+“zigzagueo” del pensamiento es posible encontrar “un modo de la escritura investigativa” (Gago 2012: 111). 
+Marx y América Latina pareciera tocarse con algunas de las formulaciones enunciadas por Real de Azúa.
+También podríamos pensar que estas últimas están dentro de esa “investigación filosófica”. Quiero decir: una
+lectura a contrapelo, sin solemnidades pero sí comprehensiva de la tragedia de la historia, que tratase de
+entender por qué quedaron asentadas ciertas formulaciones tomadas como verdades históricas. En esos
+términos, Aricó además aclaraba en su libro que: 
+Así como la historia de la iglesia no es idéntica a la historia del cristianismo ni la contiene in toto, la 
+historia del marxismo desborda las vicisitudes de la vulgata y de sus “desviaciones”. Además de una 
+historia esotérica como institución y como dogma, como hecho de ideas y de figuras intelectuales, es
+innegable que hay otra historia suya discontinua y descentrada, plena de morfologías ocultas, de 
+9
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+sendas perdidas y de temporalidades diversas; una historia esotérica y pluralista en la que se expresa 
+la multiplicidad de tentativas, de proyectos y de resultados de la lucha de las clases subalternas. 
+Negada como reconstrucción ideal, cronológica y rectilínea de una ortodoxia —que no deja de ser tal
+por el hecho de instituirse a partir de ciertas corrientes o centros teóricos o políticos de coagulación
+— la historia del marxismo reclama ser construida en su diversidad nacional” (Aricó 2009: 253-
+254). 
+Podría preguntarme aquí, en efecto, si Aricó era un interlocutor válido para Zea. La pregunta también
+permite su  inversión  simétrica: ¿Qué  grado  de legitimidad  podía  tener Zea para Aricó?  Que  Zea lo
+mencionara  aunque  más  no  fuera  en  una  nota  a  pie  indica  que  el  libro  de  Aricó  no  había  pasado
+desapercibido. Que tres años después sí llamase a Carlos Real de Azúa pero no a Aricó para participar en un
+volumen financiado por la UNESCO y que tenía el título de  América Latina en sus ideas influye en la
+sospecha de que Aricó debía quedarse en una nota a pie. En definitiva, lo que Aricó estaba discutiendo era el
+carácter del “devenir común de América Latina”, como summa de una explicación que él mismo venía a
+discutir: ese referente de “América Latina” (ya fuera en el reflejo oblicuo de cómo se habían constituido las
+lecturas de lo que había mirado o no mirado Marx, como uno de los casos más paradigmáticos de la
+discusión sobre ese objeto).19 
+En relación con la validez o legitimidad de la producción de Zea para Aricó, pareciera que construyeron una
+suerte de “sendas paralelas” o “diálogo de sordos” pero con un sentido específico. Aricó podía conocer la
+obra  del  mexicano  y  adrede  ignorarla,  hacerla  ausente.  Porque  no  parecía  haber  diálogo  posible  o
+confluencia; Zea era uno de los representantes a los que aludía al criticar el uso como si se dijera “tipificado”
+o “protocolizado” de la acusación de eurocentrismo a Marx (y por ende, a todo el marxismo). A los efectos
+de  una  militante  integración  pro-latinoamericana  como  lo  fue  el  trabajo  de  Zea  (fuera  desde  el
+“pensamiento”, fuera desde la “acción”) era necesario contabilizar en el arcón de los recuerdos algún hilo
+rojo que  diera  sentido  a  diferencias  tan  claramente  tangibles  como  la  de  los  países  y  poblaciones
+subcontinentales. En  Marx y América Latina, Aricó había tratado justamente de mostrar y explorar una
+historia no lineal (y que en trabajos posteriores le costaría profundizar, cayendo él mismo en lo que
+criticaba): menos continua que interpelada por retazos, contradicciones, malentendidos e insistencias. En
+otras palabras, dar un estatuto explícito a las razones de centrarse en las ausencias y explorar, siempre, sus
+límites. 20
+NOTAS
+1 Como aclara Juan Carlos Portantiero, la primera edición del libro fue en Perú con prólogo del sociólogo
+Carlos Franco. Luego en México en 1982 y en Buenos Aires en 1987, con una reedición en 2009 (Portantiero
+1999). Para una reconstrucción de la factura del libro véase Crespo 2009.
+2 De hecho, así titula el primer capítulo de su libro: “Una realidad soslayada”.
+3 Para otro trabajo quedará incorporar también la producción del argentino Oscar Terán, muy cercano a Aricó
+y cuyo artículo “El primer antiimperialismo latinoamericano”, publicado por primera vez en 1980 (y luego
+en 1986), podría ser leído en estos mismos términos de oposición y crítica a la historia de las ideas á la Zea.
+Véase Terán 1986. Para un desarrollo que toma en parte esta mirada, véase Pita y Marichal Salinas 2012.
+4 Agradezco los atinados comentarios de los/las referí anónimos así como también la lectura atenta de
+Ricardo Martínez Mazzola.
+10
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+5 En el  caso de la  CAS, según  Yankelevich: “Se  trataba de gente con una militancia de  izquierda
+desarrollada, en unos casos, en un peronismo de matriz camporista, pero también había militantes o
+simpatizantes  de  organizaciones  políticas  de  cuño  marxista  o  socialista.  En  su  mayoría,  todos  eran
+profesionales de clase media” (Yankelevich 2010: 138).
+6 José Aricó, carta a Juan Carlos Torre (copia), México df, 26 de diciembre de 1976, en Archivo Aricó,
+Correspondencia, caja 1, Biblioteca José María Aricó, Universidad Nacional de Córdoba (citado en Crespo
+2009: 34).
+7 Sobre Aricó, su figura y sus emprendimientos político-culturales véase, entre otros: Burgos 2004; Cortés
+2015; Malecki 2013; Ricca 2013 y García 2013; y también véase el dossier dedicado a la revista Pasado y
+Presente en la revista Prismas (2015). Sobre Aricó y el grupo Pasado y Presente véase Petra 2010a. Allí la
+autora estudia la trama de la constitución de un grupo específico teniendo muy en cuenta la tradición
+comunista y la referencia a la universidad para pensar su formación interna. Para un trabajo que define la
+identidad política de Aricó signada por la “nueva izquierda” véase el ya clásico libro de Terán (1991). Para
+trabajos que analizan la etapa en el exilio y los tópicos que fueron centrales en las discusiones vinculadas a la
+derrota de las transformaciones vía la lucha armada, las denuncias de las atrocidades de las dictaduras
+latinoamericanas y las discusiones sobre la democracia, véase Farías 2015; Gago 2012, Martínez Mazzola
+2016 y Reano 2012.
+8 Para un trabajo que postula una crítica a esa “historia de las ideas”, donde revisa sus fundamentos y los
+límites que le eran inherentes y por donde avanzaron el sostén de, en principio, la historia conceptual y de la
+historia de los lenguajes políticos de la Escuela de Cambridge, véase Palti 2012. 
+9 Véase Kozel 2012: 239-344.
+10 Para  una  breve  trayectoria  de  la  vida  de  Zea,  véase  Enciclopedia  de  la  filosofía  mexicana:
+http://dcsh.izt.uam.mx/cen_doc/cefilibe/images/banners/enciclopedia/Diccionario/Autores/FilosofosMexican
+os/Zea_Leopoldo-Saladino_Alberto.pdf (consultado 8/9/2015). Para un trabajo de análisis sobre los motivos-
+ideas/fuerza de Zea a lo largo de su trayectoria, véase: Kozel 2012. Para una biografía intelectual véase Tzvi
+Medin 1992.
+11 Aricó terminó La hipótesis de Justo en 1980, aunque lo fue reescribiendo hasta su muerte. El texto obtuvo
+una mención especial en el Premio de Historia Internacional “José Luis Romero”, cuyo jurado estaba
+constituido por dos académicos argentinos (Tulio Halperin Donghi y Gregorio Weinberg), uno uruguayo
+(Juan Carlos Oddone) y uno estadounidense (Richard Morse). Véase, Portantiero 1999: 7. Agradezco a
+Ricardo Martínez Mazzola recordarme la mención de América Latina, y como “problema”, en este libro.
+12 Sobre las propuestas gramscianas vinculadas a la traducibilidad de los lenguajes políticos y el modo en
+que Aricó las retoma véase, también, los trabajos de Zarowski (2013) y Malecki (2013). Sobre la práctica de
+la traducción de la cultura italiana y las disputas por esas traducciones, véase Petra 2010b.
+13. Véase para otro acercamiento al estudio sobre la conformación de esa historia de las ideas en América
+Latina:  Acosta  (2007);  Y  especialmente:  http://www.filosofia.org/ave/001/a348.htm (Última  consulta:
+1/4/2016).
+14 Participaron también Rodolfo Peña, Leandro Konder, Luis Vitale, André Gunder Frank, Antonio Araníbar
+Quiroga, Jesús Monjaráz Ruiz y Pablo González Casanova. 
+15 Para un trabajo acerca de las posiciones de Controversia, véase Farías 2013.
+11
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+16 Sobre Real de Azúa y su producción puede consultarse, entre otros: Cotelo 1987; Espeche 2015a y 2015b;
+Halperin Dongui 1987 y Rocca 2006.
+17 Según Andrés Kozel (2012), el período que va de 1952/53 a los años setenta es uno en el que Zea concibe
+algunas de sus principales ideas-fuerza más desapegadas de las de su maestro, el español José Gaos. Kozel
+sugiere también que esas mismas ideas-fuerza no pueden concebirse siempre iguales a sí mismas.
+18 Y aunque no lo mencionó, no es aleatorio que el análisis de Zea deba leerse a tono con la intervención
+norteamericana en Guatemala de 1954, como muestrario sintético del devenir de la relación entre esas dos
+Américas, el lugar del imperialismo allí y el caso guatemalteco como el de la positividad occidental
+negándose a sí misma. Véase: Kozel 2008: 108. 
+19 Real de Azúa también discutió el aglutinante latinoamericano, pero un  ethos específico que unía lo
+popular, lo nacional y lo revolucionario fue también el hálito que le permitió establecer mayores parentescos
+con ciertas propuestas del propio Zea. Véase Espeche (2015a y b).
+20 En un artículo posterior, Aricó pareció desestimar sus propios postulados invocando el par analítico
+“tradición-modernidad” y un supuesto hilo rojo que podía seguirse a lo largo de la historia de la ciudad de
+Córdoba en la relación entre cultura y política. En el caso de Real de Azúa, también este par funciona en esos
+mismos términos, normalizando lo “difuso”. Véase, para un análisis en profundidad de ambos temas: García
+2013 y Espeche 2015a. También quedará para otro trabajo revisar las objeciones que Álvaro García Linera
+realiza a Marx y América Latina. Véase, García Linera 2009.
+BIBLIOGRAFÍA
+Acosta, Yamandú (2009). “Historia de las ideas e identidad”, en Estudios de filosofía práctica e historia de
+las  ideas,  vol.  11  (nº  1),  pp.  33-43.  Recuperado  de:
+ http://www.scielo.org.ar/scielo.php?
+script=sci_arttext&pid=S1851-94902009000100004
+Aricó, José María (2009) [1980]. Marx y América Latina, Buenos Aires, Fondo de Cultura Económica. 
+Aricó, José María (1981). “Presentación”, en Aricó José (comp.), Correspondencia Carlos Marx, Nicolai F.
+Danielson y Friedrich Engels, México, Siglo XXI.
+Aricó, José María (1983). “Marx y América Latina”, en Nueva Sociedad (nº 66), pp. 47-58.
+Burgos, Raúl (2004).  Los gramscianos argentinos. Cultura y política en la experiencia de Pasado y
+Presente, Buenos Aires, Siglo XXI.
+Cortés, Martín (2010). “La traducción como búsqueda de un marxismo latinoamericano: la trayectoria
+intelectual  de  José  Aricó”,  en
+ A  Contra  Corriente,  vol.  7  (nº  3),  pp.  145-167,  doi:
+www.ncsu.edu/project/acontracorriente
+Cortés, Martín (2015). Un nuevo marxismo para América Latina. José Aricó: traductor, editor, intelectual,
+Buenos Aires, Siglo XXI.
+Cotelo, Rubén (1987). Carlos Real de Azúa, de cerca y de lejos, Montevideo, Nuevo Mundo.
+Crespo, Horacio (2001). “Celebración del pensamiento de José Aricó”, en Agencia Córdoba Cultura.
+Recuperado de: http://www.arico.unc.edu.ar/pdf/crespo.pdf
+12
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+Crespo, Horacio, (2009). “El marxismo latinoamericano de Aricó. La búsqueda de la autonomía de lo
+político en la falla de Marx”, en Aricó José (2009), Marx y América Latina (pp. 9-48), Buenos Aires: Siglo
+XXI.
+Espeche, Ximena (2015a). “Carlos Real de Azúa y el problema de las ideas en América Latina”, en Crespo,
+Horacio, Luis Gerardo Morales Moreno y Mina Alejandra Navarro Trujillo, (coords.), En torno a fronteras
+intelectuales.  Conceptualizaciones,  itinerarios  y  coyunturas  institucionales (pp.  317-332),  México,
+Universidad Autónoma del Estado de Morelos / Editorial Itaca.
+Espeche, Ximena (2015b, en prensa). La paradoja uruguaya. Intelectuales, latinoamericanismo y nación a
+mediados de siglo XX, Bernal, Universidad Nacional de Quilmes.
+Farías,  Matías  (2013).  “Del  intelectual  revolucionario  al intelectual  crítico:  la  relectura  de  Walsh  en
+Controversia”, en Cuadernos de H Ideas, vol. 7 (nº 7), doi: http://perio.unlp.edu.ar/ojs/index.php/cps/index
+Farías, Matías (2015). “Un epílogo para los años setenta.  Controversiay la crítica a las organizaciones
+revolucionarias”, en Prislei, Leticia (dir.), Polémicas intelectuales, debates políticos. Las revistas culturales
+en el siglo XIX (pp. 355-398), Buenos Aires, Editorial de la Facultad de Filosofía y Letras. Colección Libros
+de Cátedra.
+Gago, Verónica (2012). Controversia. Una lengua en el exilio, Buenos Aires, Ediciones Biblioteca Nacional.
+García, Diego (2013). “Tradición, modernidad y frontera. Aricó y dos ideas sobre Córdoba”, en Kozel
+Andrés, Horacio Crespo y Héctor A. Palma (comp.), Heterodoxia y fronteras en América Latina (pp. 55-74),
+Buenos Aires, Teseo. 
+García Linera, Álvaro (2009). La potencia plebeya. Acción colectiva e identidades indígenas y populares en
+Bolivia,
+ 
+Bogotá,
+ 
+Siglo
+ 
+del
+ 
+Hombre
+ 
+Ediciones
+ 
+y
+ 
+CLACSO,
+ 
+doi:
+http://bibliotecavirtual.clacso.org.ar/ar/libros/coedicion/linera/linera.pdf
+Halperin Donghi, Tulio (1987). “Prólogo”, en Real de Azúa, Carlos, Escritos, Montevideo, Arca.
+Kozel, Andrés (2008), “La idea de América en el historicismo mexicano. Notas de investigación”, en
+Anuario, Colegio de México, pp. 95-112.
+Kozel, Andrés (2012), “Ethos y desarrollo en Leopoldo Zea”, en Andamios, vol. 9 (nº 20), pp. 13-34. 
+Malecki,  Sebastián  (2013).  “Difundir,  traducir,  producir.  Aricó  y  la  difusión  del  marxismo  como
+problemática”, en Revista de Filosofía, pp. 153-177.
+Martínez Mazzola, Ricardo, Jimena Montaña y otros (2015). “Dossier: 50 años de Pasado y Presente”, en
+Prismas. Revista de historia intelectual (nº 18), pp 177-242.
+Martínez Mazzola, Ricardo, (2016). “Una ruptura en la tradición. La Ciudad Futura y la construcción de una
+izquierda democrática, 1986-1991”, en Revista Izquierdas (n° 28), pp. 248-273.
+Medin, Tzvi (1992) [1983]. Leopoldo Zea: ideología y filosofía de América Latina, México, Universidad
+Autónoma de México. 
+Palti, Elías (2007). “Lugares y no lugares de las ideas en América Latina”, en El tiempo de la política. El
+siglo XIX reconsiderado (pp.258-308), Buenos Aires, Siglo XXI. 
+Palti, Elías (2012). “Giro Lingüístico e historia intelectual”, en Giro lingüístico e historia intelectual. Stanley
+Fish, Dominick Lacapra, Paul Robinow y Richard Rorty (pp. 19-167), Bernal, UNQ.
+13
+Orbis Tertius, vol. XXII, nº 25, e034, junio 2017. ISSN 1851-7811
+Panesi, Jorge (1994). “La traducción en Argentina”, en Voces (n° 3), pp. 2-7.
+Petra, Adriana (2010a). “En la zona de contacto: Pasado y Presente y la formación de un grupo cultural”, en
+Agüero Ana Clarisa y Diego García (Eds.),  Culturas interiores. Córdoba en la geografía nacional e
+internacional de la cultura (pp. 213-240), La Plata, Ediciones Al Margen.
+Petra, Adriana (2010b). “El momento peninsular. La cultura italiana de posguerra y los intelectuales
+comunistas argentinos”, en Revista Izquierdas (nº 8).
+Pita González, Alexandra y Carlos Marichal Salinas (coords.) (2012). Pensar el antiimperialismo. Ensayos
+de historia intelectual latinoamericana, 1900-1930, México/Colima, Colmex/Universidad de Colima.
+Portantiero, Juan Carlos (1999). “Prólogo”, en Aricó José M., La hipótesis de Justo (pp. 7-12), Buenos Aires,
+Sudamericana.
+Real  de  Azúa,  Carlos  (1975).  Historia  visible  e  historia  esotérica.  Personajes  y  claves  del  debate
+latinoamericano, Montevideo, Calicanto-Arca.
+Reano, Ariana (2012). “Controversia y La Ciudad Futura: democracia y socialismo en debate”, en Revista
+Mexicana
+ 
+de
+ 
+Sociología, vol.
+ 
+74
+ 
+(nº
+ 
+3),  
+pp.
+ 
+487-511.  
+Recuperado
+ 
+de:
+http://www.scielo.org.mx/pdf/rms/v74n3/v74n3a5.pdf
+Ricca, Guillermo (2013). “Marx después de Marx: eurocentrismo, crítica y política en José M. Aricó”, en
+Utopía y Praxis Latinoamericana (nº 61), pp. 71-87.
+Rocca, Pablo (2006). “El caso Real: alternativas críticas americanas”, en  Prismas. Revista de historia
+intelectual (nº10), pp. 37-54.
+Tarcus, Horacio (2015). “Una invitación a la historia intelectual. Palabras de apertura del II Congreso de
+Historia  Intelectual  de  América  Latina”,  en  Revista Pléyade (nº  15),  pp.  9-25.  Recuperado  de:
+https://www.academia.edu/15397381/Una_invitaci
+%C3%B3n_a_la_historia_intelectual._Palabras_de_apertura_del_II_Congreso_de_Historia_Intelectual_de_
+Am%C3%A9rica_Latina
+Terán, Oscar (1981). “El primer antiimperialismo argentino”. Punto de Vista, año IV, julio-octubre de 1981,
+pp. 3-10.
+Terán, Oscar (1991). Nuestros años sesenta. La formación de la nueva izquierda intelectual en Argentina
+(1956-1966), Buenos Aires, Puntosur.
+Yankelevich, Pablo (2010). Ráfagas de un exilio. Argentinos en México, 1974-1983, Buenos Aires, Fondo de
+Cultura Económica.
+Zarowsky, Mariano (2013). “Gramsci y la traducción. Génesis y alcances de una metáfora”. Prismas. Revista
+de historia intelectual, vol. 17 (nº 1), pp. 49-66.
+Zea, Leopoldo (1983), “Visión de Marx sobre América Latina”, en Revista Nueva Sociedad (nº 66), pp. 59-
+66.
+14

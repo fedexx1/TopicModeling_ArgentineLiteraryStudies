@@ -1,0 +1,577 @@
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+ 
+Joyce decimonónico: el monólogo interior en la literatura del siglo XIX  
+a la luz del Ulises 
+ 
+Fabricio Welschen 
+ 
+fabricio_welschen@outlook.com 
+ 
+Universidad Nacional del Litoral, Argentina 
+ 
+Resumen 
+Este artículo se centra en los alcances de la novela Ulises de James Joyce, especialmente en 
+relación con la literatura anterior. Para eso, se tomará como punto de partida la premisa que 
+se desprende del texto “Kafka y sus precursores” de Jorge Luis Borges. De este modo, se 
+indagará en cómo la influencia de la escritura de Joyce ha permitido que se reconocieran 
+antecedentes del monólogo interior en novelas de la literatura del siglo XIX como Madame 
+Bovary, Ana Karenina y Effi Briest. 
+Palabras claves: Joyce- decimonónico- monólogo interior.  
+ 
+Nineteenth-century Joyce: the interior monologue in the 19th century literature in 
+the light of Ulysses 
+ 
+Abstract 
+This article focuses on the scope of James Joyce's novel Ulysses, especially with regard to 
+earlier literature. For that, the premise that emerges from the text "Kafka y sus precursores", 
+by Jorge Luis Borges, will be taken as a starting point. In this way, it will be investigated 
+how the influence of Joyce's writing has allowed the recognition of antecedents of the interior 
+monologue in novels of 19th century literature such as Madame Bovary, Anna Karenina and 
+Effi Briest. 
+Keywords: Joyce, nineteenth-century, interior monologue.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Esta obra está bajo una Licencia Creative Commons Atribución 
+– No Comercial – Sin Obra Derivada 4.0 Internacional. 
+F. Welschen “Joyce decimonónico: el monólogo interior en la literatura del siglo XIX  
+a la luz del Ulises”  
+ 
+Joyce y sus precursores  
+La narrativa inglesa del siglo XVIII resulta clave para comprender el devenir posterior 
+de la literatura en ese idioma. La aparición de tres novelas configurará tendencias narrativas 
+diferentes entre sí que, a modo de influencia, incidirán en el mismo siglo XVIII y en los 
+ulteriores XIX y XX. Se trata de las novelas Pamela o la virtud recompensada (1740) de 
+Samuel Richardson, Historia de Tom Jones, el expósito (1749) de Henry Fielding y Vida y 
+opiniones del caballero Tristram Shandy (1759-1767) de Laurence Sterne1. 
+La novela epistolar de Richardson supuso un punto de inflexión en el mismo siglo de 
+su publicación2, contando, además, con un consenso mayoritario. Su incidencia puede ser 
+rastreada, incluso, en novelas pertenecientes a otras literaturas como Los sufrimientos del 
+joven Werther (1774) de Goethe, aunque en este caso resulte pertinente relativizar esta 
+incidencia, puesto que el despliegue narrativo de Goethe supera (y con creces) al de 
+Richardson3.  
+El Tom Jones de Fielding tendrá una clara influencia en el siglo siguiente. 
+Continuando la tradición cervantina, Fielding instauró el modelo de la novela moderna en la 
+literatura inglesa (Galván 9-10). El modelo de Fielding será retomado (aunque, en líneas 
+generales, prescindiendo del marco metaficcional propio del Quijote) por los escritores 
+ingleses decimonónicos: Charles Dickens, George Eliot, Jane Austen (el orden responde al 
+grado de influencia de Fielding en dichos autores). 
+En tanto que la extravagancia formal del Tristram Shandy condenaría a la novela a 
+un ostracismo que duraría hasta las primeras décadas del siglo XX. Hasta entonces, Sterne 
+será recordado principalmente por el Viaje sentimental por Francia e Italia (1768)4. Pero a 
+principios de la década del veinte del siglo pasado comenzaría la puesta en valor del Tristram 
+Shandy a partir del interés despertado por los formalistas rusos5 (Crolla “Paradigmas 
+literarios” 74) y, especialmente, por la publicación, en 1922, del Ulises de James Joyce, que 
+permitiría que la tendencia narrativa iniciada por Sterne en el siglo XVIII rindiera sus frutos 
+un siglo y medio después. 
+Está claro que el radio de influencia del Ulises de Joyce se extiende hacia adelante 
+(Faulkner, Barth, Pynchon), pero también lo hace hacia atrás. En otras palabras: la magnitud 
+del carácter disruptivo del Ulises, lo novedoso de su propuesta narrativa, permitió reparar en 
+propuestas narrativas anteriores que, al no ajustarse a las tendencias dominantes del 
+momento, habían quedado al margen, incomprendidas. Este es, desde luego, el caso del 
+ 
+1 Desde luego que también se podría mencionar el caso de Robinson Crusoe (1719) de Daniel Defoe, a quien 
+Borges atribuiría “la invención de los rasgos circunstanciales, casi ignorada por la literatura anterior” (Borges 
+Biblioteca personal 88). 
+2 Milan Kundera afirma que es a partir de Richardson que el género de la novela comienza a indagar en la 
+subjetividad del individuo, lo cual constituirá el puntapié inicial para el emprendimiento de otros autores (39). 
+3 Lejos de ser algo infrecuente, la particularidad de la relación Richardson-Goethe (una relación de lejana 
+influencia debido a la maestría con la que el segundo autor se aleja del modelo que ha tomado como referencia) 
+se puede encontrar también en vínculos como el establecido entre Ivanhoe (1819) de Walter Scott y Los novios 
+(1827) de Alessandro Manzoni.  
+4 Vladimir Nabokov, en su Curso de literatura europea, señala que en cierto pasaje de Mansfield Park (1814) 
+de Jane Austen, en la que se cita a un estornino enjaulado, se puede apreciar una reminiscencia de una escena 
+de esta novela de Sterne (2010, 62-63). 
+5 Justamente Víktor Shklovski se interesó en esta novela por la “forma pura liberada de cualquier contenido” 
+(Kalinin 59) que presentaba. 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+ 
+Tristram Shandy, una novela, como se dice, “adelantada a su tiempo”. Pero también se 
+pueden llevar a cabo este tipo de “descubrimientos” a la luz del Ulises de Joyce en otro tipo 
+de novelas.  
+Resuenan las palabras de Borges acerca de Kafka:  
+ 
+En cada uno de esos textos está la idiosincrasia de Kafka, en grado mayor o menor, pero si 
+Kafka no hubiera escrito, no la percibiríamos; vale decir, no existiría. El poema “Fears and 
+Scruples” de Robert Browning profetiza la obra de Kafka, pero nuestra lectura de Kafka 
+afina y desvía sensiblemente nuestra lectura del poema. Browning no lo leía como ahora 
+nosotros lo leemos (…) El hecho es que cada escritor crea a sus precursores. Su labor 
+modifica nuestra concepción del pasado, como ha de modificar el futuro. (Borges Obras 
+completas II 81) 
+ 
+La noción borgeana de “precursoridad” (Crolla “Borges precursor” 59) puede 
+contribuir a la comprensión de cómo la incidencia del Ulises de Joyce “alumbra”, total o 
+parcialmente, algunos textos precedentes. La importancia, dentro de la literatura universal, 
+de un escritor como James Joyce puede ser equiparable a la figura Kafka (así como también, 
+por cierto, a la del propio Borges); de ahí que servirse de la noción de “precursoridad” que 
+Borges empleó originalmente para referirse al autor de El proceso resulte pertinente al 
+abordar la magnitud de la obra del escritor irlandés y su radio de influencia. 
+En el presente artículo, nos centraremos particularmente en uno de los aspectos clave 
+dentro de la obra joyceana: el monólogo interior. En su estudio de las novelas modernas, 
+Humphrey distingue al monólogo interior como una de las técnicas que los autores emplean 
+a la hora de explorar la corriente de la conciencia. Acuñada por William James en el ámbito 
+de la psicología, la corriente de la conciencia es empleada también en el ámbito literario 
+(Humphrey 11). Humphrey aventura una aproximación a este término y señala que la 
+corriente de la conciencia aborda “aquellos niveles anteriores a la verbalización racional: los 
+niveles al margen de la reflexión” (12). En consonancia con esto, la técnica del monólogo 
+interior cuenta con las siguientes características: 
+ 
+El monólogo interior es (...) la técnica utilizada en el arte narrativo para representar el 
+contenido mental y los procesos síquicos del personaje en forma parcial o totalmente 
+inarticulada, tal y como los dichos procesos existen a los varios niveles del control 
+consciente antes de ser deliberadamente formulados por medio de la palabra. (Humphrey 
+36) 
+ 
+Tal como sostiene Umberto Eco, esta cuestión central en la narrativa de James Joyce 
+adscribe al innovador trabajo con el punto de vista de Henry James6 (72). No obstante, hay 
+personalidades que encontraron antecedentes más antiguos del monólogo interior. Estas 
+apreciaciones fijan estos antecedentes en la segunda mitad del siglo XIX. En las siguientes 
+páginas, se realizará un recorrido por estas lecturas tomando como punto de partida la 
+ 
+6 No es casualidad que Enrique Butti, en su discurso inaugural del VIII Congreso Argentino de Literatura 
+organizado por la Universidad Nacional del Litoral, señale que la literatura contemporánea se divide en dos 
+grandes vertientes (“senderos que se bifurcan” y “autopistas del sur”) y que “Henry James podría ser el santo 
+patrono de una [la vertiente de los senderos que se bifurcan]. Henry James, y Kafka y Joyce” (70).  
+F. Welschen “Joyce decimonónico: el monólogo interior en la literatura del siglo XIX  
+a la luz del Ulises”  
+ 
+premisa de que los “descubrimientos” efectuados por estas personalidades han sido posibles 
+gracias a la existencia del Ulises de Joyce. Es decir que a la luz de la obra de Joyce estos 
+aspectos han podido ser conceptualizados como antecedentes del monólogo interior. 
+Ahora bien, lo cierto es que, según la sentencia borgeana, cada escritor crea a sus 
+precursores. Adriana Crolla se explaya sobre este punto de la noción de precursoridad: 
+ 
+Debemos entender entonces que según esta operación creativa premeditada por Borges, 
+cada escritor construye su propio horizonte de referencia al apropiarse de aquellas 
+producciones literarias, filosóficas, históricas, semióticas o discursivas previas, que les son 
+operativas para la creación y organización de un sistema de sentido propio y original, en el 
+que lo precursor se resignifica en función del conjunto y a la luz de la nueva obra que lo 
+contiene e involucra. (Crolla “Borges precursor” 60) 
+ 
+En el caso del Tristram Shandy, esta dinámica resulta evidente. Pero si bien es menos 
+explícito, en la relación del Ulises con los autores del siglo XIX también tiene lugar un 
+procedimiento de apropiación por parte de Joyce a los fines de establecer su horizonte de 
+referencia. Esto que, a priori, podría parecer una contradicción (sustentada en la trillada 
+oposición entre la estética realista del siglo XIX ―con su predominio de la trama― y las 
+rupturas formales del siglo XX) no lo es y, por el contrario, demostraría cierta simbiosis entre 
+uno (Joyce) y otros (los escritores decimonónicos). En otras palabras, demostraría la 
+existencia de una suerte de Joyce decimonónico. 
+ 
+Realismo y subjetividad 
+En su Curso de literatura rusa, Vladimir Nabokov afirma que el escritor ruso León 
+Tolstoi es el inventor del monólogo interior. Aunque, desde luego, no deja de reconocer a 
+James Joyce como el escritor que ha perfeccionado dicho procedimiento.  
+ 
+El stream of consciousness o monólogo interior es un método de expresión inventado por 
+Tolstoi, un ruso, mucho antes de James Joyce; la mente del personaje en su fluir natural, 
+ora discurriendo por emociones y recuerdos personales, ora internándose bajo tierra y 
+brotando del subsuelo a manera de manantial oculto y reflejando distintos objetos del 
+mundo exterior. Es una especie de registro del movimiento constante de la mente del 
+personaje, que va pasando de una imagen o idea a otra sin ningún comentario o explicación 
+por parte del autor. En Tolstoi este procedimiento presenta una forma todavía rudimentaria, 
+prestando el autor alguna ayuda al lector, pero en James Joyce alcanzará un estadio extremo 
+de crónica objetiva. (Nabokov Curso de literatura europea 287-288). 
+ 
+Nabokov sitúa este invento de Tolstoi en los capítulos finales de la novela Ana 
+Karenina (1875-1877). Más específicamente, en los pasajes que rinden cuenta del trayecto 
+en coche que realiza la protagonista hacia la estación de trenes. Se trata del último día de vida 
+de Ana Karenina antes de arrojarse a las ruedas de un tren. Alterada por una pelea con su 
+amante, el conde Wronsky, Ana va alternando sus pensamientos entre el tema que la aflige y 
+las cosas que va viendo por la calle (los transeúntes, los rótulos de las tiendas): 
+ 
+“Ahora vuelvo a ver las cosas con claridad”, se dijo Ana cuando subió al coche y éste 
+empezó a rodar sobre el irregular empedrado. Otra vez las impresiones callejeras se 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+ 
+sucedieron sin interrupción. “¿Qué iba pensando antes?”. Hizo un esfuerzo por recordar. 
+“Tiutkin, peluquero [en referencia al rótulo de una tienda que ha visto anteriormente]… No, 
+no era esto lo interesante… ¡Ah, sí! Lo que dijo Yashvin sobre la lucha, dando a entender 
+que el odio es lo único que une a los hombres… “¿Adónde irán tan contentos? ―Al hacerse 
+esta pregunta miraba un coche de cuatro caballos en el que iba un bullicioso grupo que 
+evidentemente se marchaba al campo a divertirse―. Ni ese perro que va con vosotros os 
+ayudará a olvidar vuestras tristezas. ―Y añadió al ver que cerca del coche pasaba un obrero 
+borracho conducido por un guardia
+̭ ―: Éste sí que ha logrado olvidarse de todo. Wronsky y 
+yo tampoco hemos encontrado la alegría, aunque confiábamos en ello”. (Tolstoi 600-601) 
+ 
+Comparemos este pasaje de la novela de Tolstoi con alguno perteneciente al Ulises 
+en el que Joyce hace uso del procedimiento del monólogo interior. Se trata del quinto capítulo 
+de la novela: acompañamos a Leopoldo Bloom en su caminata luego de retirar en la oficina 
+de correos la carta que le dirige su amante por correspondencia: 
+ 
+Salió despreocupadamente de la oficina de correos y dobló hacia la derecha. Charla: como 
+si eso arreglara las cosas. Metió la mano en el bolsillo y el dedo índice se abrió camino bajo 
+el ala del sobre rasgándolo a tirones. Las mujeres le prestarán mucha atención, no lo creo. 
+Sus dedos sacaron y arrugaron el sobre en el bolsillo. Algo prendido: fotografía tal vez. 
+¿Cabello? No.  
+M’Coy. Desembarázate de él en seguida. Me saca de mi camino. Detesto la compañía 
+cuando yo.  
+―¡Hola, Bloom! ¿Adónde vas? 
+―¡Hola, M’Coy! A ningún lado en particular. 
+―¿Cómo va esa salud? 
+―Bien. ¿Y la tuya? 
+―Tirando —dijo M’Coy. (Joyce 103) 
+ 
+En los dos pasajes citados, se pueden apreciar las diferencias entre las formas que 
+emplean cada uno de los autores a la hora de plasmar el monólogo interior. Tal como señala 
+Nabokov, Tolstoi se resiste a prescindir del narrador omnisciente a la hora de explicar el 
+porqué del fluir del pensamiento de Ana. Así, debe aclarar que ese “¿Adónde irán tan 
+contentos?” que irrumpe repentinamente en los pensamientos de la protagonista se refiere a 
+un grupo de personas que pasan en otro coche, del mismo modo que se ve obligado a realizar 
+una breve presentación para introducir la jocosa observación “éste sí que ha logrado olvidarse 
+de todo” en referencia al estado de alcoholismo de un obrero que pasa cerca de su coche. A 
+pesar de que en su convincente emulación de la actividad mental Tolstoi registra cualquier 
+tipo de impresión que se genera en la mente de Ana a partir de lo que ve por la calle, estas 
+impresiones tienen un remoto punto en común: la angustia que le genera su desencuentro con 
+Wronsky. De esta forma, repara en la aparente felicidad del grupo que se va de excursión al 
+campo porque se opone a su estado de aflicción. Y eso la lleva a sentenciar que el viaje al 
+campo, con perro incluido, no logrará que cada uno de ellos pueda olvidar sus tristezas. Es 
+aquí cuando logra enlazar esta sentencia con la aparición del borracho y su irónica 
+observación de que él sí puede olvidarse de su infelicidad (a diferencia de ella, que no puede 
+olvidar su problema de pareja) y así, finalmente, sus pensamientos vuelven a desembocar en 
+su pelea con Wronsky. Es decir, en este monólogo interior de Ana hay un hilo conductor, 
+F. Welschen “Joyce decimonónico: el monólogo interior en la literatura del siglo XIX  
+a la luz del Ulises”  
+ 
+pero un hilo conductor que necesita de la presencia tutora del narrador omnisciente a los fines 
+de garantizar su legibilidad. 
+En el Ulises, en cambio, los límites entre narrador omnisciente y monólogo interior 
+del personaje se encuentran difuminados. En el pasaje citado, se van alternando oraciones 
+que responden a dos registros diferentes: el del tradicional narrador omnisciente que rinde 
+cuenta de las acciones que va llevando a cabo Leopoldo Bloom (“salió despreocupadamente 
+de la oficina de correos y dobló hacia la derecha”) y el registro del monólogo interior de este, 
+que retoma el hilo de los pensamientos que tuvo anteriormente (“las mujeres le prestarán 
+mucha atención, no lo creo”). De repente, en el párrafo siguiente, la narración de lo que 
+sucede, de la acción, ya no queda en manos del narrador omnisciente, sino que nos enteramos 
+de lo que acontece (la aparición del indeseable M’Coy) a partir del monólogo interior de 
+Leopoldo Bloom. Incluso Joyce lleva más lejos que Tolstoi el registro de los pensamientos 
+de su personaje cuando deja por la mitad el monólogo interior (“detesto la compañía cuando 
+yo”) al iniciarse la conversación entre los dos conocidos. 
+Estas intervenciones del narrador no son infrecuentes en el monólogo interior:  
+ 
+Pueden existir variantes, sin embargo. La más frecuente se produce cuando el autor se hace 
+presente en la narración a modo de guía o comentador. Aunque esto es algo habitual en el 
+monólogo interior directo, se hace siempre subrepticiamente y nunca de forma que cese el 
+efecto de que el monólogo emerge directamente del personaje. (Humphrey 39)  
+ 
+El rol de comentador de las circunstancias exteriores es ejercido tanto por el narrador 
+de Tolstoi como por el de Joyce en los dos pasajes seleccionados. Está claro que en el caso 
+de Tolstoi el efecto al que hace referencia Humphrey aparece mitigado debido a la presencia 
+explícita del narrador, mientras que en Joyce la antes mencionada atenuación entre narrador 
+y monólogo interior del personaje es funcional al efecto en cuestión. Se trata, en suma, de la 
+manifestación de la diferencia entre el monólogo interior indirecto y el monólogo interior 
+directo, respectivamente (Humphrey 40). 
+Pero a pesar de la forma rudimentaria y todavía atada a las convenciones narrativas 
+con la que Tolstoi plasma los pensamientos de Ana, vamos a ver que, entre los antecedentes 
+decimonónicos del monólogo interior que serán revisados en el presente apartado, la del 
+escritor ruso es la que más se acerca a Joyce. De hecho, uno de los puntos en común entre el 
+monólogo interior de Joyce y la versión primigenia de Tolstoi es el de sustentarse en la libre 
+asociación, lo cual constituye la forma más aproximada de plasmar la corriente de conciencia 
+(Humphrey 53).  
+En su lectura de Effi Briest (1894-1895) del escritor alemán Theodor Fontane, 
+Ricardo Ahumada identifica un “soberbio monólogo interior que anticipa a James Joyce y a 
+Virginia Woolf” (40). Al igual que Nabokov, Ahumada no deja de reconocer a James Joyce 
+a la hora de señalar un caso primario de monólogo interior. La mención a James Joyce (y a 
+Virginia Woolf, en el caso de Ahumada) se constituye, así, en una referencia obligada a la 
+hora de abordar el monólogo interior.  
+Ahumada identifica el monólogo interior en los capítulos finales de la novela de 
+Fontane, particularmente en el capítulo 29. El personaje encargado de realizar el monólogo 
+interior es el barón Von Innstetten, el esposo de la protagonista, que presta su nombre al título 
+de la novela. Se trata de un momento en el que el barón se encuentra en un pronunciado 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+ 
+estado de inquietud debido a que acaba de matar en un duelo al amante de su esposa. Fontane 
+despacha el episodio del duelo de manera sumaria, pero, en cambio, sí decide detenerse 
+minuciosamente en la mente excitada del barón y en los pensamientos que se desatan a raíz 
+de lo que acaba de suceder. El episodio del duelo hace que el barón Von Innstetten se 
+replantee varias de las convenciones sociales, especialmente las relacionadas con el honor. 
+Este será, entonces, el hilo conductor de los pensamientos que el personaje desplegará a lo 
+largo de lo que Ahumada identifica como un monólogo interior: 
+ 
+Durante todo el trayecto, ya solo en el compartimento, fue repasando todo lo sucedido. Eran 
+los mismos pensamientos de hacía dos días, solo que ahora en orden inverso: el primero era 
+la profunda convicción de que estaba en su derecho y había cumplido con su deber, y luego 
+le asaltaban las dudas. “La culpa, si es que existe tal cosa, no es una cuestión que dependa 
+del lugar ni de la hora, no es algo que prescriba de la noche a la mañana. La culpa exige una 
+expiación; esto sí tiene sentido. La prescripción no tiene ningún fundamento sólido, es 
+cuando menos prosaica”. Esa idea le confortó y no dejaba de repetirse que había hecho todo 
+lo que tenía que hacer. Pero, en el preciso instante en que lo veía todo tan claro, volvía a 
+rebatir el argumento. “Tiene que existir un límite de tiempo, la prescripción es la única vía 
+razonable; y no importa lo prosaica que pueda resultar, porque lo que es razonable suele ser 
+prosaico. Ahora tengo cuarenta y cinco años. Si hubiera encontrado las cartas [gracias a las 
+cuales descubrió la infidelidad consumada varios años atrás] dentro de veinticinco años, 
+tendría setenta. Y entonces Wüllersdorf habría dicho ‘Innstetten, no sea insensato’. Y si no 
+me lo hubiera dicho Wüllersdorf, lo habría hecho Buddenbrook, y si ninguno de ellos lo 
+hubiera hecho, yo mismo me lo habría dicho. Esto está muy claro. Cuando se llega a tales 
+extremos, se cae en el ridículo. De eso no hay duda. Pero ¿adónde comienza? ¿Cuál es el 
+límite? Antes de diez años todavía se exige un duelo para reparar la ofensa, y a eso se le 
+llama defender el honor; pero después de once años, o quizá de diez y medio, ya se le llama 
+hacer un disparate. El límite… ¿adónde está el límite? ¿Era este? ¿O ya lo he traspasado?” 
+(Fontane 318-319)  
+ 
+Como puede verse, el de la novela de Fontane se trata de un monólogo más tradicional 
+y menos exacto (comparado con el de la novela de Tolstoi) en relación con la dinámica propia 
+del discurrir de los pensamientos de un individuo. Indudablemente, el de Fontane es un 
+monólogo cambiante que rinde cuenta de las vacilaciones, de las dudas, del personaje, pero 
+que, a su vez, resulta inalterable en relación con las impresiones provocadas por el exterior. 
+Hay una preocupación del autor alemán por plasmar narrativamente la actividad mental de 
+su personaje, pero esta preocupación no se condice con el tratamiento compositivo que se le 
+destina al pasaje en cuestión. Esto se debe al hecho de que, en rigor, el monólogo del barón 
+Von Innstetten constituye otra técnica, diferente al monólogo interior, a través de la cual se 
+ha buscado rendir cuenta de la corriente de la conciencia en la literatura. Se trata de un 
+soliloquio. En contraposición al monólogo interior, Humphrey destaca en el soliloquio “su 
+mayor coherencia, puesto que su propósito no es otro que el de comunicar emociones e ideas 
+relacionadas con un argumento y una acción” (46-47). Esto se puede apreciar en el presente 
+caso: las ideas y las emociones que se suscitan en el barón Von Innstetten a partir de la acción 
+del duelo. 
+Al último antecedente decimonónico del monólogo interior llegamos gracias a una 
+observación realizada por Vargas Llosa en su libro La orgía perpetua: 
+F. Welschen “Joyce decimonónico: el monólogo interior en la literatura del siglo XIX  
+a la luz del Ulises”  
+ 
+ 
+El gran aporte técnico de Flaubert consiste en acercar tanto el narrador omnisciente al 
+personaje que las fronteras entre ambos se evaporan, en crear una ambivalencia en la que el 
+lector no sabe si aquello que el narrador dice proviene del relator invisible o del propio 
+personaje que está monologando mentalmente (…) Es un estilo empleado para narrar 
+siempre la intimidad (recuerdos, sentimientos, sensaciones, ideas) desde adentro, es decir, 
+para avecindar lo más posible al lector y al personaje. (Vargas Llosa 202) 
+ 
+Se refiere, por supuesto, a Madame Bovary (1856) del francés Gustave Flaubert. A 
+diferencia de Nabokov y Ahumada, Vargas Llosa no identifica un solo pasaje específico en 
+el que tendría lugar el antecedente de monólogo interior; más bien se refiere a una técnica 
+generalizada a la que designa como “estilo indirecto libre”. De hecho, Vargas Llosa eleva la 
+técnica de Flaubert a fundadora del estilo indirecto libre ―y, consecuentemente, a Flaubert 
+como escritor de la primera novela moderna― (Vargas Llosa 210). Uno de los pasajes que 
+Vargas Llosa pone como ejemplo de este estilo indirecto libre es aquel que aparece al final 
+del capítulo V de la novela. En este caso, el estilo indirecto libre de Flaubert indaga en los 
+pensamientos de Charles Bovary, el esposo de la protagonista: 
+ 
+¿Qué había habido de bueno en la vida para él hasta aquel momento? ¿Su época de colegial, 
+cuando permanecía encerrado entre aquellas altas paredes, solo en medio de sus camaradas, 
+más ricos o más adelantados que él en las clases, a quienes hacía reír con su dejo al hablar, 
+que se burlaban de su vestimenta, y cuyas madres acudían al locutorio con golosinas dentro 
+del manguito? ¿O bien, posteriormente, cuando estudiaba medicina, siempre sin un centavo 
+en el bolsillo para convidar a una obrerilla cualquiera, que era su querida? (Flaubert 34). 
+ 
+Esta vez, a diferencia de los casos de Tolstoi y Fontane, la subjetividad del personaje 
+no se plasma mediante el empleo del estilo directo (con la reproducción textual, exacta, de lo 
+que el personaje piensa y el consecuente uso de las comillas), sino que Flaubert hace empleo 
+del estilo indirecto para así, tal como señala Vargas Llosa, lograr que el omnipresente 
+narrador omnisciente se mimetice con el punto de vista del personaje Charles Bovary. 
+Al postular a Flaubert como inventor del estilo indirecto libre, Vargas Llosa está 
+reconociendo al escritor francés como el primero que indagó en la subjetividad de los 
+personajes mediante un procedimiento primitivo del monólogo interior:  
+ 
+La significación del estilo indirecto libre no se debe tanto a que esa técnica para mostrar la 
+interioridad es usada por incontables novelistas contemporáneos con las mismas 
+características que la usó Flaubert, sino que fue el punto de partida de una serie de 
+procedimientos que, revolucionando las formas narrativas tradicionales, han permitido a la 
+novela describir la realidad mental, representar de manera vívida la intimidad psicológica. 
+El estilo indirecto libre es, de un lado, antecedente del discurso proustiano para la lenta, 
+oleaginosa reconstrucción por la memoria del tiempo ido y, de otro, el precedente más 
+inmediato del monólogo interior, tal como fue concebido, primero, por Joyce, en el episodio 
+final del Ulysses, y, luego, perfeccionado y diversificado (para representar no sólo el 
+desenvolvimiento de una conciencia “normal” sino también distintos tipos de 
+“anormalidad” psíquica) por Faulkner. (Vargas Llosa 221) 
+ 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+ 
+Dos consideraciones acerca del cotejo realizado. La primera consideración es una 
+conjetura que refiere a la indagación en las subjetividades de los personajes que se puede 
+apreciar en las novelas abordadas. En principio, hay que señalar que el corpus literario 
+decimonónico seleccionado se caracteriza por tener una misma temática: las novelas de 
+Flaubert, Tolstoi y Fontane son narraciones que desarrollan el tópico de la mujer adúltera 
+(uno de los temas recurrentes en la literatura de ese siglo). Sin embargo, consideramos que 
+no es la cuestión temática la que nos permitiría explicar el porqué de la indagación de estos 
+autores sobre la actividad mental de sus personajes por medio de un procedimiento que 
+prefigurará el monólogo interior joyceano. Lo que en cambio sí nos podría esclarecer la razón 
+de esta indagación en el plano psicológico es la estética que comparten las tres novelas: el 
+realismo. 
+En efecto, la estética realista (predominante en la segunda mitad del siglo XIX) se 
+erigió como el marco dentro del cual se permitirían representar lo más fielmente posible los 
+avatares de la vida social (todos aquellos elementos que conforman el plano exterior, 
+material). En este sentido, esta pretensión de representación realista llegará al punto de que, 
+a los fines de alcanzar su objetivo, no le bastará con las representaciones de los aspectos 
+materiales de la vida social. Y es aquí en donde empezarían las incursiones narrativas en el 
+plano interno e inmaterial, es decir, en las subjetividades de los individuos. Así, en 
+consonancia con los estudios de William James y las pautas del incipiente psicoanálisis que 
+Freud trazaría a finales de ese siglo, la psicología, la actividad mental, se terminaría 
+presentando como uno de los núcleos de interés que los escritores realistas decimonónicos 
+narrarían mediante una serie de procedimientos rudimentarios, aunque también innovadores, 
+en los que se representaría (con mayor o menor exactitud) el fluir de los pensamientos. 
+Todo lo cual implicaría que décadas después James Joyce encontraría en la literatura 
+del siglo anterior una base sobre la cual llevar a cabo su procedimiento del monólogo interior.  
+La segunda consideración tiene que ver con la premisa señalada en la primera parte 
+de este artículo: es innegable que Nabokov, Vargas Llosa y Ahumada pueden reconocer las 
+versiones rudimentarias del monólogo interior en las novelas decimonónicas que analizan a 
+la luz de la escritura del Ulises de Joyce (de hecho, ninguna de las tres personalidades 
+mencionadas puede eludir la obligada mención a Joyce). Probablemente, si no fuera por la 
+novela del escritor irlandés, este aspecto valioso e innovador de las novelas de Flaubert, 
+Tolstoi y Fontane no hubiera sido apreciado de la misma manera. 
+ 
+Joyce decimonónico 
+El carácter rupturista de James Joyce no implica un rechazo a la herencia literaria del 
+siglo XIX. Si bien es cierto que hay diferencias para nada menores entre las novelas 
+decimonónicas y una novela como el Ulises, estas diferencias no constituyen la prueba de 
+una desestimación de la narrativa del siglo XIX. Que su impronta rupturista no le impida a 
+Joyce retomar algunos aspectos propios de la literatura decimonónica es una de las 
+conclusiones que se desprendieron del apartado anterior (esto es, el hecho de que para su 
+monólogo interior Joyce haya sacado partido del interés de los escritores realistas 
+decimonónicos por la subjetividad, la psicología).  
+No se trata, por cierto, del único aspecto de la literatura decimonónica de la que se 
+servirá Joyce. Este otro aspecto queda especialmente en evidencia al comparar el Ulises con 
+el Tristram Shandy. 
+F. Welschen “Joyce decimonónico: el monólogo interior en la literatura del siglo XIX  
+a la luz del Ulises”  
+ 
+Milan Kundera señala el aspecto en cuestión al realizar la siguiente apreciación del 
+Tristram Shandy: 
+ 
+Los contemporáneos de Sterne, Fielding por ejemplo, supieron sobre todo gozar del 
+extraordinario encanto de la acción y de la aventura. La respuesta implícita en la novela de 
+Sterne es distinta: la poesía, según él, no reside en la acción, sino en la interrupción de la 
+acción. (…) Ante esta reducción del mundo a la sucesión causal de acontecimientos, la 
+novela de Sterne, tan sólo por su forma, afirma: la poesía no está en la acción sino allí donde 
+se detiene la acción; allí donde se rompe el puente entre una causa y un efecto y allí donde 
+el pensamiento vagabundea en una dulce libertad ociosa. La poesía de la existencia, dice la 
+novela de Sterne, está en la digresión. (Kundera 190-191)  
+ 
+Lo que Kundera reconoce como la “acción” (que en la novela de Sterne se caracteriza 
+por una reducción que da lugar a la aparición de las digresiones) es el desarrollo de una trama. 
+En el pasaje citado, Kundera contrapone a Sterne con Fielding, un autor que a pesar del marco 
+metaficcional que le imprime a su novela no descuida el trabajo con la trama (la típica trama 
+de aventuras). Se trata, de hecho, de una de las cuestiones que los escritores ingleses del siglo 
+XIX retomarán del autor del Tom Jones. Este es el punto que diferencia al Ulises del Tristram 
+Shandy. 
+Por un lado, la novela de Sterne presenta un argumento acotado que podría resumirse 
+de la siguiente manera: la intrincada enunciación, que se ve interrumpida por numerosas 
+digresiones y rodeos, que hace un personaje acerca de su vida y de los sucesos familiares que 
+giran en torno a esta. Como puede verse, un argumento acotado como este no permite el 
+despliegue de una trama, de ahí que la dinámica de la narración resida casi exclusivamente 
+en las digresiones (lo que implica un narrador que “se va por las ramas”). 
+Por el otro lado, el desarrollo de la novela de Joyce no reside solamente en el aspecto 
+más sobresaliente (esto es: las rupturas formales), sino que logra un equilibrio al focalizarse 
+también en la trama narrativa. 
+De hecho, en su lectura del Ulises, Nabokov demuestra, mediante el examen de la 
+evolución de los temas del caballo ganador y del misterioso hombre de impermeable marrón, 
+el mecanismo de relojería que Joyce le imprimió a su novela. También Harold Bloom repara 
+en cómo Joyce logra el desarrollo de una trama a partir de la consolidación de un argumento 
+gracias a que lo cifra simultáneamente en dos obras emblemáticas del canon occidental: La 
+Odisea de Homero y Hamlet de Shakespeare:  
+ 
+El coraje de Joyce al basar Ulises simultáneamente en la Odisea y Hamlet fue 
+extraordinario, pues, tal como observa Ellman [sic], los dos paradigmas de Odiseo/Ulises y 
+el príncipe de Dinamarca no tienen prácticamente nada en común. Una pista para 
+comprender el plan de Joyce podría ser que el personaje literario que parece más inteligente 
+después de Hamlet (y Falstaff) es el héroe de la Odisea, aun cuando Joyce le elogie por ser 
+un personaje muy completo más que por sus recursos mentales. Pero el primer Ulises quiere 
+llegar a casa, mientras que Hamlet no tiene casa, ni en Elsinore ni en ningún sitio. Joyce 
+consigue formar una amalgama con Ulises y Hamlet duplicándolos: Poldy [Leopoldo 
+Bloom] es tanto Ulises como el fantasma del padre de Hamlet, mientras que Stephen es 
+Telémaco y el joven Hamlet, y Poldy y Stephen juntos forman a Shakespeare y a Joyce. 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+ 
+Esto suena un poco desconcertante, aunque encaja con el propósito de Joyce, que es que 
+Shakespeare pase a formar parte de sí mismo. (Bloom 425) 
+ 
+En suma, el equilibro entre el plano de las rupturas formales y el plano de una trama 
+bien consolidada es la principal diferencia entre la novela de Sterne y la novela de Joyce. En 
+este sentido, el Tristram Shandy presentaría una narración “desbalanceada”. Todo esto no 
+quita, por cierto, que haya otros herederos del Tristram Shandy que, en lo que refiere a 
+privilegiar un plano sobre el otro, sean más fieles a su precursor. Por ejemplo, Manhattan 
+Transfer (1925) del estadounidense John Dos Passos, cuyo discurrir narrativo se distancia de 
+la consolidación de una trama (mediante insinuaciones que en algunos casos se concretizan 
+pero que en otros defraudan: RMS Lusitania, el asesinato de Stanford White) para así 
+acercarse a una dinámica colindante con la cinematográfica que se anticipará a la película El 
+hombre de la cámara (1929) de Vértov. 
+ 
+Conclusión 
+La noción borgeana de “precursoridad” se ha constituido en el punto de partida de 
+una indagación sobre los alcances de una novela central como lo es el Ulises de James Joyce. 
+La noción de “precursoridad” nos permite apreciar no solo la incidencia hacia adelante de un 
+texto (es decir, la influencia en los escritores posteriores), sino, fundamentalmente, la 
+incidencia hacia atrás, hacia los escritores precedentes. Del mismo modo en que en su ensayo 
+Borges señalaba que la escritura de Kafka nos posibilitaba leer de otra forma a aquellos 
+autores que lo precedieron, la escritura de Joyce ha permitido a varias personalidades (los 
+escritores y profesores Nabokov, Vargas Llosa y Ahumada) detectar antecedentes del 
+monólogo interior en una serie de novelas del siglo XIX. 
+Así, Joyce retomará las indagaciones sobre el plano subjetivo realizadas por los 
+escritores realistas decimonónicos como base para su monólogo interior. Y gracias a Joyce 
+estas indagaciones psicológicas efectuadas por los escritores realistas decimonónicos serán 
+conceptualizadas y valoradas como antecedentes inmediatos del monólogo interior, 
+apreciándose los intentos por emular ―dentro de los parámetros realistas― el sinuoso fluir 
+de la conciencia. De este modo, lo que se pudo haber entendido como un simple interés por 
+la subjetividad humana por parte de los escritores decimonónicos terminó siendo leído, a 
+través del lente del Ulises, como un procedimiento específicamente literario. Se puede 
+afirmar, entonces, que la aparición del Ulises en 1922 ha cambiado el modo en el que 
+tradicionalmente se leyeron aquellos pasajes de las novelas decimonónicas dedicados a la 
+actividad mental. 
+A su vez, este influjo a la inversa que puede apreciarse entre Joyce y los escritores 
+del siglo XIX evidencia que el escritor irlandés lejos se encuentra de la imagen de un 
+rupturista abiertamente reacio a la tradición inmediatamente anterior (la decimonónica). La 
+consolidación de una trama que signe el discurrir narrativo fue una de las características 
+distintivas de la literatura decimonónica. Joyce retomará esta característica, que ya había 
+empleado en la composición de los cuentos realistas de Dublineses, para la elaboración de la 
+que será su obra maestra. Aunque el Ulises se inscriba en la tendencia narrativa dieciochesca 
+inaugurada por el Tristram Shandy de Laurence Sterne, Joyce no dará la espalda a aquella 
+herencia del Tom Jones de Henry Fielding que más se materializaría en la literatura inglesa 
+del siglo XIX.  
+F. Welschen “Joyce decimonónico: el monólogo interior en la literatura del siglo XIX  
+a la luz del Ulises”  
+ 
+ 
+Bibliografía 
+Ahumada, Ricardo. Theodor Fontane y el Realismo Alemán. ‘Effi Briest’. Santa Fe: Edición 
+de la Alianza Francesa de Santa Fe, 2007. 
+Borges, Jorge Luis. Biblioteca personal (prólogos). Buenos Aires: Alianza Editorial, 1994. 
+---. Obras completas II (1952-1972). Buenos Aires: Emecé Editores, 2010.  
+Bloom, Harold. El canon occidental. Barcelona: Anagrama, 1995. 
+Butti, Enrique. “Ad libitum”. La ventana 15 (2012). Santa Fe: Ediciones UNL, 2012. 60-70.  
+Crolla, Adriana. “Borges precursor: estribaciones entre literatura comparada e 
+hipertextualidad”. Literatura: crítica comparada. Comp. João Luis Pereira Ourique, 
+João Manuel dos Santos Cunha, Gerson Roberto Neumann. Editora e Gráfica da 
+UFPel: Pelota, 2011. 57-72.  
+---. “Paradigmas literarios para/del/desde el siglo XX”. Paradigmas literarios del siglo XX. 
+Vallejos, O. et al. Santa Fe: UNL, 2001. 56-85.  
+Eco, Umberto. Las poéticas de Joyce. Barcelona: Lumen, 1998. 
+Flaubert, Gustave. Madame Bovary. Trad. Ramón Ledesma Miranda. Barcelona: RBA, 2004. 
+Fontane, Theodor. Effi Briest. Trad. F. de Ocampo. Barcelona: Penguin Clásicos, 2020. 
+Galván, Fernando. “Introducción”. Tom Jones. Henry Fielding. Madrid: Cátedra, 1997. 9-
+107. 
+Humphrey, Robert. La corriente de la conciencia en la novela moderna. Santiago de Chile: 
+Editorial Universitaria, 1969. 
+Joyce, James. Ulises. Trad. J. Salas Subirat. Argentina: Santiago Rueda Editor, 2002.  
+Kalinin, Iliá. “Víktor Shklovski: peripecias de la teoría, aventuras del teórico”. Escritos sobre 
+arte. Víktor Shklovski. Madrid: Ediciones Asimétricas, 2021. 
+Kundera, Milan. El arte de la novela. Barcelona: Tusquets, 2012.  
+Nabokov, Vladimir. Curso de literatura europea. Buenos Aires, Argentina: Del Nuevo 
+Extremo: RBA, 2010. 
+---. Curso de literatura rusa. Buenos Aires, Argentina: Del Nuevo Extremo: RBA, 2010.  
+Tolstoi, León. Ana Karenina. Trad. de José Fernández. Barcelona: Editorial Sol 90, 2000.  
+Vargas Llosa, Mario. La orgía perpetua. Flaubert y ‘Madame Bovary’. Buenos Aires: 
+Alfaguara, 2006.  
+ 
+ 
+ 
+Recibido: 02/03/2022 
+Aceptado: 12/09/2022 
+ 

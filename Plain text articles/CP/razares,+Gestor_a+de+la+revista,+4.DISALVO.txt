@@ -1,0 +1,422 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+THE CHANTING BECOMES LOUD AND CLEAR:
+LA POESÍA DE J. R. R. TOLKIEN, LA ÉPICA
+ANGLOSAJONA Y LA LITURGIA MEDIEVAL SOBRE
+LOS CAÍDOS EN LA BATALLA
+e chanting becomes loud and clear: J. R. R. Tolkien’s poetry,
+Anglo Saxon epics and medieval liturgy on those who have
+fallen in battle
+Disalvo, Santiago
+ Santiago Disalvo *
+santiago.disalvo@gmail.com
+Universidad Nacional de La Plata - Instituto de
+Investigaciones en Humanidades y Ciencias Sociales
+(CONICET), Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 20, e2004, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 28/11/22
+Aprobación: 06/02/23
+URL: http://portal.amelica.org/ameli/journal/785/7853965009/
+DOI: https://doi.org/10.30972/clt.0206623
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: Como es sabido por los lectores de Tolkien, existen
+innumerables escenas de batallas y de meditación o lamento
+sobre los caídos en sus célebres obras (El hobbit, El señor de los
+anillos, El Silmarillion), además de los fantasmas que pueblan
+los túmulos y los muertos guerreros que regresan del trasmundo
+para cumplir antiguos pactos. Menos popular, la pieza dramática
+e Homecoming of Beorhtnoth Beorhthelm’s Son se sitúa en la
+escena de los restos de una gran matanza: el campo de batalla
+que Tída y Totta recorren, donde reconocen los cuerpos de los
+caídos, recuperando el del querido Beorhtnoth. Aunque Tolkien
+derive estos versos aliterativos del fragmento de la Batalla de
+Maldon (poema narrativo en inglés antiguo del siglo XI), es
+posible detectar otros elementos textuales que intervienen en la
+creación de esta pieza dramática y estos son, justamente, otros
+“pasajes poéticos” que, en principio, no tienen vínculo alguno
+con el verso épico anglosajón, sino más bien con el universo de
+la liturgia medieval en latín y su himnodia. En una perspectiva
+comparativa, pero atendiendo igualmente a las consideraciones
+del mismo Tolkien medievalista, se propone aquí observar una
+serie de textos líricos y narrativos, modernos y medievales, cuya
+comparación puede contribuir a iluminar los procesos creativos
+del escritor inglés y, eventualmente, a agregar una pequeña nota
+a los grandes temas literarios de la muerte y la guerra.
+Palabras clave: Tolkien, poesía, épica, plegaria, liturgia, guerra.
+Abstract: As it is well known to Tolkien’s readers, there are
+innumerable scenes of battles and meditation or lamentation
+over the fallen in his famous works (e Hobbit, e Lord of the
+Rings, e Silmarillion), in addition to the ghosts that populate
+the burial mounds and the dead warriors who return from the
+underworld to fulﬁll ancient pacts. Less popular, the dramatic
+piece e Homecoming of Beorhtnoth Beorhthelm's Son is set in
+the scene of the remains of a great massacre: the battleﬁeld that
+Tída and Totta walk through, where they recognize the bodies
+of the fallen, recovering the one of the beloved Beorhtnoth.
+Although Tolkien derives these alliterative verses from the
+fragment of the Battle of Maldon (an eleventh-century narrative
+Cuadernos de Literatura, 2023, núm. 20, e2004, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+poem in Old English), it is possible to discover other textual
+elements that intervene in the creation of this dramatic piece.
+ese are, precisely, other ‘poetic fragments’ that, at ﬁrst glance,
+have no link with the Anglo-Saxon epic verse, but rather with
+the universe of medieval Latin liturgy and its hymnody. In a
+comparative perspective, but also taking into account Tolkien’s
+considerations as a medievalist himself, a series of lyrical and
+narrative texts are observed, both modern and medieval, in
+which comparison can shed light on this English writer’s creative
+processes and, eventually, add a little note to the great literary
+themes of death and war.
+Keywords: Tolkien, poetry, epics, prayer, liturgy, war.
+Dedicado a Agustín Disalvo,
+lector apasionado de la obra de Tolkien
+Es evidente que la contemplación o evocación de los caídos en la batalla constituye una escena que se repite en
+toda la poesía occidental, particularmente en la épica. Y, como también es sabido para los lectores de Tolkien,
+innumerables escenas de batallas y de meditación o lamento sobre los caídos pueblan sus célebres obras (El
+hobbit, El señor de los anillos, El Silmarillion), además de los fantasmas que pululan en los túmulos y ciénagas
+o los muertos guerreros que regresan del trasmundo para cumplir antiguos pactos traicionados.
+Muchos textos medievales pudieron haber inspirado al profesor de Oxford para escribir de una cierta
+manera sobre los difuntos y, muy especialmente, sobre los caídos en combate, aparte de sus propias
+experiencias en los horrores del campo de batalla. Por ejemplo, Tolkien amaba de forma especial el poema
+Beowulf, y salió en defensa de su dignidad poética –que consideraba anterior a su utilidad meramente
+arqueológica, antropológica, sociohistórica o lingüística– en Beowulf: e Monsters and the Critics (1990),
+hasta tal punto que se puede hablar de un antes y un después de Tolkien en la lectura de este famoso
+poema épico anglosajón altomedieval. Él mismo admitía que Beowulf estaba entre sus fuentes más preciadas,
+aunque no hubiera estado presente de manera consciente en su pensamiento durante el proceso de escritura.1
+Signiﬁcativamente, este célebre poema se abre y se cierra con un funeral: el del mítico Scyld Sceﬁng al inicio
+y el del propio Beowulf al ﬁnal.
+Se podría decir mucho respecto de Tolkien y la poesía anglosajona, ya que no solo la conocía
+profundamente, la traducía y la enseñaba, sino que componía versos en anglosajón o bien sobre asuntos
+extraídos de la épica anglosajona, como es el caso de e Homecoming of Beorhtnoth Beorhthelm’s Son
+(Tolkien, 2001; edición original en Essays and Studies, 1953). Esta pieza dramática, mucho menos comentada
+que otras obras del autor, se sitúa en la escena de los restos de una gran matanza: el campo de batalla que
+Tídwald (Tída) y Torhthelm (Totta) recorren, donde reconocen los cuerpos de los caídos, recuperando
+el del querido jefe Beorhtnoth (Byrhtnoth en el poema medieval). Aunque Tolkien derive estos versos
+aliterativos del fragmento de la Batalla de Maldon (también conocido como la Balada de Maldon), es
+Notas de autor
+*
+Santiago Disalvo es Doctor en Letras por la Universidad Nacional de La Plata (UNLP), investigador del Consejo Nacional de Investigaciones
+Cientíﬁcas y Técnicas (CONICET) y profesor adjunto de Literatura Medieval en la Facultad de Humanidades y Ciencias de la Educación (UNLP).
+Su investigación se centra, por un lado, en los textos poéticos medievales de temática religiosa, en latín y lenguas románicas, sobre todo poesía mariana
+hispánica, y, por otro, en el estudio de obras religiosas de la Inglaterra medieval, en latín e inglés antiguo.
+Santiago Disalvo. THE CHANTING BECOMES LOUD AND CLEAR: LA POESÍA DE J. R. R. TOLKIEN, LA ÉPICA
+ANG...
+PDF generado a partir de XML-JATS4R
+posible detectar otros elementos textuales que intervienen en la creación de esta pieza poética dramática y
+estos son, justamente, otros “pasajes poéticos” que, en principio, no corresponden al verso épico anglosajón,
+según se verá, sino más bien al universo de la liturgia medieval en latín y su himnodia. Al respecto, aclara
+Humphrey Carpenter (1977, p. 214): “He was not enthusiastic about drama as an art-form, considering it
+to be tiresomely anthropocentric and therefore restricting. But he did not extend this dislike to the dramatic
+recitation of verse, in which category he presumably placed his own Beorhtnoth.”
+El poema épico de la Batalla de Maldon (Marsden, 2004, p. 254-269; versión en inglés moderno en
+Alexander, 2008, p. 95-104), escrito en el siglo XI y del cual se conservan solo 325 versos, narra desde el punto
+de vista de los derrotados unos hechos acaecidos en agosto del año 991, cuando unos vikingos (que el poema
+nombra “daneses”, aunque supuestamente liderados por el noruego Anlaf) desembarcan en las costas de Essex
+para saquear Maldon. Esto ocurre durante el reinado de Æthelred the Unready (Etelredo II). Quien se pone
+al frente de un grupo de guerreros y de las milicias de campesinos para frenar la avanzada, en la desembocadura
+del río Pante (Blackwater), es el caudillo Byrhtnoth –o Beorhtnoth:
+ere are two deﬁning moments in the action. In the ﬁrst, Byrhtnoth allows the Vikings, who are contained on a tidal island,
+to cross a causeway (which is exposed when the tide ﬂows out) to the mainland and thus to engage the English troop, man
+to man; he does so because of his ofermōd, a word whose meaning and signiﬁcance (a good thing, or bad?) are much debated
+(see 89n). In the second, some cowardly English participants escape (one of them on Byrhtnoth’s horse), causing confusion
+and fatally weakening the English eﬀort. (Marsden, 2004, p. 252)
+Se trata de un poema que exalta la ﬁdelidad de los combatientes en medio de la derrota y la agonía. Cuando
+el mismo Beorhtnoth, hacia la mitad del fragmento, es herido de muerte, pronuncia una oración, a la manera
+de un canto de ofrecimiento ﬁnal de su vida (vv. 173-180):
+He to heofenum wlat
+‘Geþancie þe, ðeoda waldend,
+ealra þæra wynna þe ic on worulde gebad.
+Nu ic ah, milde metod, mæste þearfe
+þæt þu minum gaste godes geunne
+þæt min sawul to ðe siðian mote
+on þin geweald, þeoden engla,
+mid iþe ferian. Ic eom ymdi to þe
+þæt hi helsceaðan hynan ne moton.’
+Traducción:
+Él hacia los cielos contempló:
+“Te agradezco, regidor de los pueblos,
+por todos los gozos que yo en este mundo he recibido.
+Ahora yo tengo, dulce Señor, la más grande necesidad,
+que tú a mi espíritu concedas el bien,
+que mi alma hacia ti pueda viajar,
+en tu potestad, amo de los ángeles,
+ir con paz. Yo soy suplicante hacia ti,
+que los enemigos infernales no puedan humillarla”.2
+Este es acaso el punto más luminoso de todo el fragmento, en el que se abre la esperanza en algo distinto al
+orgullo guerrero y al destino ciego. Más tarde, hacia el ﬁnal, cuando la matanza ha avanzado, se escuchan de
+boca del anciano Beorhtwold estos versos que se han vuelto emblemáticos de todo el poema, por su desafío
+al destino de muerte casi segura (vv. 312-313), y que se retomarán literalmente en el texto de Tolkien:
+Hige sceal þe heardra, heorte þe cenre,
+mod sceal þe mare, þe ure mægen lytlað.
+Cuadernos de Literatura, 2023, núm. 20, e2004, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Traducción:
+“La mente deberá [ser] tanto más ﬁrme, el corazón tanto más aguerrido,
+el ánimo tanto mayor, cuanto nuestras fuerzas mengüen.”
+El poema e Homecoming of Beorhtnoth Beorhthelm's Son es, en palabras de su autor, “a piece plainly
+intended as a recitation for two persons, two shapes in ‘dim shadow’, with the help of a few gleams of light
+and appropriate noises and a chant at the end” (Homecoming, p. 19), acompañado por un breve ensayo
+titulado Ofermod, al que los críticos han prestado por lo general más atención que al poema (Nelson, 2008).
+Homecoming es una pieza dramática, un diálogo entre dos sirvientes que, por encargo de los monjes de la
+abadía de Ely, van a recoger el cadáver del caudillo al campo de batalla. La búsqueda de Tídwald y Torhthelm
+se enmarca, pues, en una empresa más amplia encabezada por los monjes que llevarán a cabo el oﬁcio fúnebre y
+el entierro de Beorhtnoth. De esta manera, el texto de Tolkien, que además utiliza la misma métrica aliterativa
+de los versos anglosajones, aunque en inglés moderno, se plantea como una continuación del poema medieval
+en cuanto a los hechos que se narran, aunque no en cuanto al género, puesto que pasa de la épica al diálogo
+dramático, ni al tono, como es posible apreciar en sus mismos comentarios. Se puede decir que Homecoming
+es el contrapunto entre una mirada ingenua, la del joven, y una mirada más crítica, la del viejo, a los valores
+heroicos aristocráticos que supuestamente se destacan en el poema de la Batalla de Maldon, miradas que se
+extienden a toda la épica anglosajona en general:
+Torhthelm (colloquially Totta) is a youth, son of a minstrel; his head is full of old lays concerning the heroes of northern
+antiquity, such as Finn, King of Frisia; Froda of the Hathobards; Beowulf; and Hengest and Horsa, traditional leaders of
+the English Vikings in the days of Vortigern (called by the English Wyrtgeorn). Tídwald (in short Tída) was an old ceorl,
+a farmer who had seen much ﬁghting in the English defence-levies. Neither of these men were actually in the battle. Aer
+leaving the wagon they became separated in the gathering dusk. Night falls, dark and clouded. Torhthelm is found alone in
+a part of the ﬁeld where the dead lie thick.3(Tolkien, 2001, p. 123)
+Se puede aﬁrmar que la postura del mismo Tolkien, si bien fascinado con la poesía anglosajona, es muy
+cercana a la del anciano Tída:4
+Alas, my iend, our lord was at fault,
+or so in Maldon this morning men were saying.
+Too proud, too princely! But his pride’s cheated,
+and his princedom has passed, so we’ll praise his valour.
+He let them cross the causeway, so keen was he
+to give minstrels matter for mighty songs.
+Needlessly noble. It should never have been:
+bidding bows be still, and the bridge opening,
+matching more with few in mad handstrokes.
+Well, doom he dared, and died for it.
+(Tolkien, 2001, p. 137)
+El poema de Tolkien participa de ciertos tópicos que no me detendré a analizar aquí, pero que enlazan su
+obra al universo literario medieval y, en particular, a la épica europea. Así, pues, además del tópos del joven
+y el viejo, señalado y comentado por Curtius (1955, p. 149) y de la larga tradición de textos dialogados a
+este respecto, se insinúa la pregunta angustiosa del ubi sunt, incluso con muchos elementos que recuerdan a
+la entrada de Carlomagno en Roncesvalles en la Chanson de Roland, y su progresivo reconocimiento de los
+cadáveres hasta llegar al de su sobrino.5
+Fijemos ahora la atención en el ﬁnal del texto de Tolkien, en el que se introducen tanto una pieza latina
+como unos versos cantados por una misteriosa “tercera voz”:
+Hey! rattle and bump over rut and boulder!
+Santiago Disalvo. THE CHANTING BECOMES LOUD AND CLEAR: LA POESÍA DE J. R. R. TOLKIEN, LA ÉPICA
+ANG...
+PDF generado a partir de XML-JATS4R
+e roads are rough and rest is short
+for English men in Æthelred’s day.
+e rumbling of the cart dies away. ere is complete silence for a while. Slowly the sound
+of voices chanting begins to be heard. Soon the words, though faint, can be distinguished.
+Dirige, Domine, in conspectu tuo viam meam.
+Introibo in domum tuam: adorabo ad templum
+Sanctum tuum in timore tuo.
+(A voice in the dark):
+Sadly they sing, the monks of Ely isle.
+Row men, row! Let us listen here a while!
+e chanting becomes loud and clear.
+Monks bearing a bier amid tapers pass across the scene.
+Dirige, Domine, in conspectu tuo viam meam.
+Introibo in domum tuam: adorabo ad templum
+Sanctum tuum in timore tuo.
+Domine, deduc me in iustitia tua: propter
+inimicos meos dirige in conspectu tuo viam meam.
+Gloria Patri et Filio et Spiritui Sancto: sicut
+erat in principio et nunc et semper et in saecula saeculorum.
+Dirige, Domine, in conspectu tuo viam meam.
+ey pass, and the chanting fades into silence
+(Tolkien, 2001, p. 142)
+Así como el mismo Tolkien aclara, el paso del verso aliterado a la breve estrofa rimada marca ya la irrupción
+de una nueva etapa de la poesía, en la que el verso épico anglosajón irá declinando: “e third English voice
+in the dark, speaking aer the Dirige is ﬁrst heard, uses rhyme: presaging the fading end of the old heroic
+alliterative measure” (Tolkien, 2001, p. 124). Jane Chance señala el cambio en el tipo de verso utilizado por
+Tolkien en este momento de la obra:
+is changes to rhyming verse (a measure predominant in France in the thirteenth and fourteenth centuries), spoken
+somewhat anachronistically here by a “Voice in the dark” who comments upon the “Dirige” of the monks at the end: “Sadly
+they sing, the monks of Ely Isle! / Row, men, row! Let us listen here a while!” (“Homecoming”, p. 18). e voice presages
+events of the future (the lines from the Historia Eliensis actually refer to Canute, ruler of England from 1016 to 1035).
+(2001, p. 136)
+Como una suerte de estribillo anónimo en la soledad de la madrugada, estas palabras, según nos aclara el
+mismo autor, están calcadas sobre unos versos de la Historia Eliensis dedicados al rey Cnut (castellanizado
+como Canuto), posterior al reinado de Etelredo (Saxton, 1908).6
+Merie sungen ðe muneches binnen Ely,
+ða Cnut ching reu ðerby;
+‘Roweð, cnihtes, noer the land,
+and here we ther muneches sæng’.
+(Tolkien, 2001, p. 125)
+Traducción:
+Cuadernos de Literatura, 2023, núm. 20, e2004, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Alegres cantan los monjes dentro de Ely,
+cuando el rey Cnut rema por allí;
+“Remad, muchachos, cerca de la tierra,
+y oiremos el canto de los monjes.”
+Este procedimiento no es extraño a la creación poética de Tolkien, que incluso puede apreciarse en sus
+obras largas más célebres: la introducción de poemas o fragmentos poéticos tomados o inspirados en los
+poemas medievales que conocía bien como estudioso académico.
+Jane Chance también considera la importancia del sonido en la obra: “Sound is important in this drama,
+which should be staged to be fully understood. Sound dramatizes the change in a culture for the primarily
+Anglo-Saxon to the Christian through the contrast between human words and the Word made ﬂesh and
+between the chaotic noise of life and the silence of death.” (2001, p. 136). Beorhtnoth sería, según esta autora,
+un señor fallido que no duda en sacriﬁcar a sus propios hombres, frente al buen Señor, Cristo, cuyo sacriﬁcio
+salva a los hombres. En este sentido, yendo incluso más allá, Tom Shippey (2000) aﬁrma que Tolkien en
+Homecoming lleva su severa crítica hacia las voces de los guerreros de Maldon al punto de la acusación de
+paganismo y maniqueísmo:
+‘Mind shall not falter nor mood waver, / though doom shall come and dark conquer’ (my emphasis). e lines have become
+clearly pagan, indeed Manichaean, and the older and more sensible speaker in the dialogue, Tídwald, immediately identiﬁes
+them as such: ‘your words were queer… It sounded fey and fell-hearted / and heathenish, too: I don’t hold with that’. […]
+ere should be no compromise. Christian men, even Christian warriors, should not be seduced by the ‘theory of courage’
+which Tolkien had himself praised seventeen years before (see Essays p. 20), or by ‘the doctrine of uttermost endurance in
+the service of indomitable will’, as expressed by Beorhtwold. (Shippey, 2000, p. 295-296)
+Lo que indudablemente domina el ﬁnal de la obra es, pues, el canto latino de los monjes: Dirige, Domine…
+El Dirige es una antífona, tomada del Salmo 5, con la que se solía encabezar el rezo de Maitines en el Oﬁcio
+de Difuntos y que, muy probablemente, haya dado lugar a que la palabra inglesa para designar una endecha,
+o canto de lamento fúnebre, sea dirge, utilizada también en la obra en boca de Tída. Tolkien, de hecho, la ha
+incluido de manera literal, unida a la oración Gloria Patri, como cierre del diálogo y ﬁnalización de la empresa
+en la oscuridad del campo de cadáveres:
+Dirige, Domine, in conspectu tuo viam meam.
+Introibo in domum tuam: adorabo ad templum sanctum tuum in timore tuo.
+Domine, deduc me in justitia tua: propter inimicos meos dirige in conspectu tuo viam
+meam.
+Gloria Patri et Filio et Spiritui Sancto: sicut erat in principio et nunc et semper et in
+saecula saeculorum.
+Dirige, Domine, in conspectu tuo viam meam.
+Traducción:
+Conduce, Señor, mi camino en tu presencia.
+Entraré en tu casa: adoraré ante tu templo santo en el temor de Ti.
+Señor, sálvame por tu justicia: ante mis enemigos conduce mi camino en tu presencia.
+Gloria al Padre y al Hijo y al Espíritu Santo: como era en el principio y ahora y siempre
+y por los siglos de los siglos.
+Conduce, Señor, mi camino en tu presencia.
+Es inevitable, en este punto, reparar en las similitudes de este texto latino con la oración pronunciada por
+Beorhtnoth en el poema de la Batalla de Maldon. Si bien el texto latino no es una invención de Tolkien, ya
+que pertenece a la tradición litúrgica anónima, es muy probable que nuestro autor haya percibido la analogía
+de sus elementos: la alusión al viaje del alma y la súplica por la defensa contra los enemigos infernales.
+Santiago Disalvo. THE CHANTING BECOMES LOUD AND CLEAR: LA POESÍA DE J. R. R. TOLKIEN, LA ÉPICA
+ANG...
+PDF generado a partir de XML-JATS4R
+La relación de Tolkien con la poesía litúrgica, no tan explícita en su obra literaria, se maniﬁesta claramente
+como parte esencial de su vida, según él mismo lo cuenta en sus cartas. No es extraño que tuviera presentes
+los poemas latinos de la liturgia quien aseguraba “I have, for instance, a particular love for the Latin
+language” (Tolkien, 2013, carta n° 294) y, además, recomendaba a su hijo Christopher, en la carta del 8 de
+enero de 1944, que los recitara de memoria, tal como lo hacía él, desde el Gloria Patri, Gloria in Excelsis,
+Laudate Dominum, Laudate Pueri Dominum, los salmos dominicales, el Magniﬁcat, hasta las Letanías a la
+Virgen y el Canon de la Misa:
+If you don’t do so already, make a habit of the ‘praises.’ I use them much (in Latin): the Gloria Patri, the Gloria in Excelsis,
+the Laudate Dominum; the Laudate Pueri Dominum (of which I am specially fond), one of the Sunday psalms; and the
+Magniﬁcat; also the Litany of Loretto (with the prayer Sub tuum praesidium). If you have these by heart you never need for
+words of joy. It is also a good and admirable thing to know by heart the Canon of the Mass, for you can say this in your
+heart if ever hard circumstance keeps you from hearing Mass. So endeth Fæder lar his suna. [“El consejo del padre a su hijo”].
+With very much love.
+Longað þonne þy læs þe him con léoþa worn,
+oþþe mit hondum con hearpan grétan;
+hafaþ him his glíwes giefe þe him God sealde.
+From the Exeter Book. “Less doth yearning trouble him who knoweth many songs, or with his hands can touch the harp:
+his possession is his gi of ‘glee’ (= music and/ or verse) which God gave him”. (Tolkien, 2013, carta n° 54)
+La himnodia y la liturgia latina, como él lo evidencia, aunque más no sea por contigüidad de pensamiento,
+se conecta de una forma misteriosa, pero auténtica, con la poesía anglosajona. Del patrimonio de esta
+tradición poética es perfectamente consciente Tolkien, ya que se trata de una inﬂuencia presente a lo largo
+de toda su vida y enraizada en su mentalidad, como lo demuestran las cartas citadas.
+En Homecoming tenemos, pues, un texto complejo que engarza unos textos poéticos con otros, con una
+visible gradación según sus diferentes fuentes. Existe así, pues, en el texto una progresión a partir de fuentes
+poéticas diferentes: 1) texto dramático en verso aliterado propio de la épica; 2) versos rimados extraídos de
+textos medievales de un período posterior; 3) plegaria litúrgica en latín, que remata la obra y que evoca la
+oración del guerrero moribundo.
+Parece tratarse de una cuestión meramente formal. Sin embargo, las formas y las fuentes poéticas utilizadas
+por Tolkien parecen querer decir mucho más, ya que, por ejemplo, los versos calcados de la Historia Eliensis
+dedicados al rey Cnut, podrían funcionar como el presagio de un buen rey después de Etelredo II: Cnut,
+rey de Dinamarca, Noruega e Inglaterra y un período más benéﬁco para el pueblo. A esto se podría agregar
+una nota de índole más ideológica o, mejor dicho, de la convicción humana profunda de Tolkien, sobre su
+concepción del héroe en varios poemas épicos anglosajones, tal como explica Clark:
+In the event, as Tolkien saw it, Byrhtnoth [Beorhtnoth] erred in making a decision that promised to enhance his personal
+glory rather than subordinating the quest for honor to duty of defending the land against the Vikings. e young poet
+who shares the battleﬁeld search for Byrhtnoth’s body in “Homecoming” is, like Byrhtnoth, under the spell of the poetic
+tradition that conferred lof and dom, and a kind of immorality upon its heroes. In his commentaries, however, Tolkien
+blames Byrhtnoth for “chivalry”, a desire for “honor and glory” (lof and dom) which leads the ﬂawed hero to act “beyond the
+bleak heroic necessity” (14-17). ough “Homecoming” comments directly on the meaning of Maldon, both parts of the
+work, the verse drama and the following critical essay, refer explicitly to Beowulf. (Clark, 2000, p. 49-50)
+En todas las obras de Tolkien se incluye la poesía y, por otro lado, es difícil encontrar una obra en la que
+no se trate el tema de la muerte. Las ﬁguras se repiten de una obra a otra: ﬁguración ya destacada por muchos
+como principio relevante en la obra de Tolkien (Ferro, 1996). La búsqueda, el llanto o la mera contemplación
+de los caídos es algo repetido en e Lord of the Rings. Piénsese en los Tumularios (Barrow-wights),7 en las
+tumbas de los reyes de Rohan y el príncipe muerto éodred, en las Ciénagas de los Muertos (Dead Marshes),
+Cuadernos de Literatura, 2023, núm. 20, e2004, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+en la visión de Faramir del cuerpo de su hermano Boromir, en los Muertos Perjuros en Dwimorberg, con sus
+tópicos y motivos que se suceden: el lamento sobre los difuntos, la perplejidad nostálgica ante su belleza y su
+juventud, las imágenes del trasmundo.
+En medio del horror de los despojos y la mortandad de viejos y jóvenes, Homecoming hace la crítica
+al “exceso” de la guerra innecesaria conducido por el espíritu guerrero aristocrático demasiado deseoso de
+demostrar su coraje, pero desconsiderado con respecto al bien del pueblo. Así lo vivía y lo había sufrido
+en carne propia el autor. En una carta a su hijo (Tolkien, 2013, carta n° 64), Tolkien habla del enorme
+desconcertante “estúpido desperdicio de la guerra” que nunca podrá evitarse y, por lo tanto, tendrá que
+enfrentarse siempre “en un mundo maligno”. Como comenta Jorge Ferro: “La guerra está planteada, e
+intentar eludirla es inútil. Pero no por esto deja de ser un mal. Lo que es ilusorio es tratar de negarla sin más,
+en un mundo caído” (1996, p. 74).
+El canto ﬁnal, anónimo y colectivo, toma el lugar del verso épico: el latín litúrgico reemplaza a la épica
+aliterada, y en medio de la oscuridad húmeda aparecen las luces de los cirios del monasterio, que trasladan el
+foco de esperanza a un lugar completamente diferente.
+Referencias bibliográficas
+Alexander, M. (2008). e First Poems in English. Londres, Penguin Classics.
+Arias, M. y Hadis, M. (2010). Borges profesor. Curso de literatura inglesa en la Universidad de Buenos Aires. Buenos
+Aires, Emecé.
+Carpenter, H. (1977). J. R. R. Tolkien: A biography. London, G. Allen & Unwin.
+Chance, J. (2001). Tolkien's Art: A Mythology for England. Lexington, e University Press of Kentucky.
+Clark, G. (2000). J. R. R. Tolkien and the True Hero. En Clark, G. y Timmons, D. (eds.), J.R.R. Tolkien and His
+Literary Resonances. Views of Middle-earth (pp. 39-51). Westport, Greenwood.
+Curtius, E. R. (1955). Literatura Europea y Edad Media Latina. México, Fondo de Cultura Económica.
+Ferré, V. (2003). Le Livre Rouge et Le Seigneur des Anneaux de Tolkien : une fantastique incertitude. En Dupeyron-
+Lafay, F. (ed.), L’Image et le livre dans la littérature fantastique et la science-ﬁction (pp. 105-131). Université de
+Provence.
+Ferro, J. (1996). Leyendo a Tolkien. Buenos Aires, Vórtice.
+Marsden, R. (2004). e Cambridge Old English Reader. Cambridge, Cambridge University Press.
+Nelson, M. (2008). “e homecoming of Beorhtnoth Beorhthelm's Son”: J.R.R. Tolkien’s sequel to “e Battle of
+Maldon”. e Free Library. https://bit.ly/3lpHWTk
+Rorabeck, R. (2003). Tolkien’s Heroic Criticism: A Developing Application of Anglo-Saxon Ofermod to the Monsters of
+Modernity [Tesis de Maestría]. Florida, Florida State University. https://bit.ly/3HQey07
+Saxton, E. (1908). Canute. e Catholic Encyclopedia. New York, Robert Appleton Company. https://bit.ly/3xbBE
+cD
+Shippey, T. (2000). J. R. R. Tolkien: Author of the Century. London, HarperCollins.
+Tolkien, J. R. R. (1990). Beowulf: e Monsters and the Critics. En Tolkien, Ch. (ed.), e Monsters and the Critics,
+and Other Essays (pp. 5-48). Londres, HarperCollins.
+Tolkien, J. R. R. (2001). Tree and Leaf. Mythopoeia. e Homecoming of Beorhtnoth Beorhthelm's Son. London,
+HarperCollins. (Original publicado en 1953 por Essays and Studies)
+Tolkien, J. R. R. (2013). e Letters of J.R.R. Tolkien. Edición de Humphrey Carpenter y Christopher Tolkien. Boston,
+Houghton Miﬄin Harcourt.
+Tolkien, J. R. R. (2015). Beowulf. A Translation and Commentary, together with Sellic Spell. Edición de Christopher
+Tolkien. Boston, Mariner Books - Houghton Miﬄin Harcourt.
+Santiago Disalvo. THE CHANTING BECOMES LOUD AND CLEAR: LA POESÍA DE J. R. R. TOLKIEN, LA ÉPICA
+ANG...
+PDF generado a partir de XML-JATS4R
+Notas
+1 En este proceso, según él mismo aclara al tratar de El hobbit, el episodio del robo emergió de manera natural e inevitable a
+las circunstancias (Tolkien, 2013, carta n° 31): el momento en que Bilbo roba una copa del tesoro de Smaug, despertando
+al dragón de su letargo y provocando así su furia incendiaria, elemento narrativo idéntico al de la segunda parte de
+Beowulf.
+2 Todas las traducciones del inglés antiguo y del latín son propias. Los pasajes de las obras de Tolkien se citan en su lengua
+original.
+3 Es interesante, en este sentido, la explicación dada por Nelson: “Torhthelm, his name an apparent combination of the
+Old English Old words ‘torht,’ for which John R. Clark Hall and Herbert D. Meritt’s Concise Anglo. Saxon Dictionary
+provides the Modern English equivalents ‘bright, radiant, beautiful, splendid, noble, illustrious,’ and ‘helm,’ which
+translates to ‘helmet’ (346, 177), represents what Tolkien calls ‘the northern heroic’ perspective. Tidwald, the older,
+wiser man, on the other hand, represents the more skeptical point of view that Tolkien himself takes in his ‘Ofermod’
+essay. e parts of Tidwald’s name may not translate so easily to a role deﬁnition, but its ﬁrst element, ‘Tid,’ carries
+the meaning ‘time,’ and its second element ‘wald,’ also spelled in Old English as ‘weald,’ translates to Modern English
+‘control.’ Tidwald is in control of the search –his young helper must do as he says– and his interpretation of the evidence
+their search uncovers is based on a lifetime of experience. For these two reasons alone, then, it seems to me that e
+Homecoming of Beorhtnoth Beorhthelm’s Son has strong possibilities for dramatic performance” (Nelson, 2008, párr. 3).
+4 C.Rorabeck, R. (2003). Tolkien’s Heroic Criticism: A Developing Application of Anglo-Saxon Ofermod to the Monsters
+of Modernity.
+5 Borges destaca varias similitudes de la Batalla de Maldon con la Chanson de Roland(Arias y Hadis, 2010) así como
+algunos autores franceses, los vínculos de Homecoming con el célebre cantar de gesta francés (Ferré, 2003).
+6 “e rhyming lines are an echo of some verses, preserved in the Historia Eliensis, referring to King Canute” (Tolkien,
+2001, p. 125).
+7 Al comentar los versos 90-91 de Beowulf, Tolkien explica lo siguiente: “I think that what is here meant is that terrible
+northern imagination to which I have ventured to give the name ‘barrow-wights’. e ‘undead’. ose dreadful creatures
+that inhabit tombs and mounds. ey are not living: they have le humanity, but are ‘undead’. With superhuman
+strength and malice they can strangle men and rend them” (Tolkien, 2015, p. 163-164).

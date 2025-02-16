@@ -1,0 +1,636 @@
+Facundo Nieto
+CLRELyL 19 (2022): 164-178. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196216
+164 
+CUADERNOS de literatura
+Revista de Estudios Lingüísticos y Literarios
+Cómo citar: Nieto, F. (2022). Escuela, literatura y homosexualidad. Notas sobre dispositivos para la circulación de ficciones 
+disidentes. Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios, 19, 164-178. Resistencia, Argentina, UNNE. 
+ISSN 2684-0499. DOI: http://dx.doi.org/10.30972/clt.0196216
+ESCUELA, LITERATURA Y HOMOSEXUALIDAD. NOTAS SOBRE 
+DISPOSITIVOS PARA LA CIRCULACIÓN DE FICCIONES DISIDENTES
+School, literature and homosexuality. Notes on devices for the circulation of 
+dissident fiction
+Facundo Nieto*
+Universidad Nacional de General Sarmiento
+fnieto@campus.ungs.edu.ar
+Recibido: 29/03/2022 - Aceptado: 12/05/2022
+Resumen
+El artículo analiza algunos problemas que plantea la circulación en el ámbito 
+escolar de textos literarios en los que se aborda la temática homosexual. 
+Al respecto, independientemente de la resistencia que ofrecen los sectores 
+contrarios a la enseñanza de contenidos de Educación Sexual Integral, se 
+examinan los argumentos de quienes se oponen al uso de la ficción literaria 
+para esa práctica (“objeción elitista”), así como dos problemas relacionados 
+con los criterios de selección de textos: el del “exceso anti-asimilacionista” y el 
+del “exceso didactista”. A fin de ofrecer una alternativa, se propone un corpus 
+de textos en los que predomina la mirada de niñes y adolescentes, articulado 
+en tres tópicos de la literatura de temática LGBTIQ+: la nominación de lo 
+abyecto, el espacio homoerótico urbano y la salida del armario.
+Abstract
+The article analyzes some problems related to the circulation of gay literature 
+in school contexts. In this regard, beyond the resistance from conservative 
+groups opposed to teaching contents of Comprehensive Sex Education, this 
+article analyzes the objections from those opposed to the uses of literature 
+for teaching that kind of contents (the “elitist objection”), and two problems 
+related to the criteria for texts selection: the problem of “anti-assimilationist 
+excess” and the one of “pedagogic excess”. In order to offer an alternative, 
+the article proposes a corpus of texts in which the perspective of children 
+and adolescents prevails, articulated around three themes of gay literature: 
+the denomination of the abjection, the homoerotic urban space and the 
+“coming out”.
+Palabras clave
+escuela secundaria; 
+literatura;
+homosexualidad;
+selección de textos
+Keywords
+high school; 
+literature; 
+homosexuality; 
+selection of texts 
+Escuela, literatura y homosexualidad. Notas sobre dispositivos para la circulación de ficciones disidentes
+DOI: http://dx.doi.org/10.30972/clt.0196216
+Facundo Nieto
+ 165 
+Escuela, literatura y homosexualidad. Notas sobre dispositivos para la circulación 
+de ficciones disidentes
+Busqué un lenguaje sencillo, que pudiera referenciar sin nombrar, que comunicara mansamente, sin 
+volver a lastimar donde duele.
+Ruth Hillar
+Introducción
+En un libro que, a más de treinta años de publicado puede considerarse fundacional para el 
+campo de la investigación en didáctica de la literatura en nuestro país, Gustavo Bombini ofrecía, a 
+partir del análisis de libros de texto, un diagnóstico acerca del estado de la enseñanza de la literatura en 
+la educación secundaria en términos de “leyes” y “censuras”. En efecto, en los materiales que examinaba 
+advertía la existencia de dos leyes (la “ley de la canonización” y la “ley del usufructo”) que revelaban, en 
+su revés, la presencia de cuatro “censuras y prohibiciones” que impactaban directamente en los criterios 
+de selección de textos. En relación con una de esas prohibiciones –la llamada “censura del cuerpo”–,1 
+el autor señalaba: 
+Aquello de lo que no se puede hablar, el cuerpo, es otro de los censurados en el discurso de la 
+enseñanza. La censura del cuerpo como sublimación obsesiva en los llamados “valores literarios” 
+no permitirá la inclusión de algunos poemas de Oliverio Girondo, o algunos textos de Cortázar 
+u Osvaldo Lamborghini, para citar algunos autores… (1989, p. 10-11)2
+Y a modo de desafío contra los pacatos manuales de la época, reproducía íntegro el poema 12 
+de Espantapájaros, invitando implícitamente a sus lectores a incorporarlo en las clases de literatura, a 
+fin de comenzar a desarticular ese canon descorporizado. 
+Transcurridas más de tres décadas, la sanción de la Ley de Educación Sexual Integral en 2006 
+y las correspondientes orientaciones para su implementación en el ámbito educativo modificaron 
+sensiblemente las prácticas de enseñanza de literatura. Actualmente, son los propios discursos oficiales 
+los que instan a les docentes a “ampliar la selección y alcance curricular de manera de ensanchar la 
+legitimidad social de las distintas experiencias vitales” y a introducir en la escuela “narrativas alternativas 
+que incorporen la visión de aquellas personas, comunidades y colectivos históricamente invisibilizados” 
+(Ministerio de Educación de la Nación, 2021, p. 68). Y entre esas identidades invisibilizadas, 
+se enfatiza la presencia de “orientaciones sexuales e identidades de género disidentes de la norma 
+1. Las otras tres interdicciones eran la censura política, la del campo de los lenguajes y la de la reflexión teórica (Bombini, 1989).
+2. Cursivas del autor.
+Facundo Nieto
+CLRELyL 19 (2022): 164-178. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196216
+166 
+cis-heterosexual” (p. 57). En otras palabras, es el propio campo oficial el que convoca a eliminar la 
+censura de los cuerpos a fin de orientar las prácticas de enseñanza hacia un ideal de justicia curricular 
+(Connell, 2006).3
+1
+No obstante, la “censura del cuerpo” no ha sido completamente abolida. Algunos ejemplos 
+resultan elocuentes. Uno de ellos puede hallarse en las fórmulas que, en dos adaptaciones diferentes 
+del Quijote, la misma adaptadora eligió para nombrar a las “mozas del partido” que trabajan en la 
+venta donde el personaje es armado caballero: en la adaptación para adultes eligió hablar de “dos 
+prostitutas”; para la versión escolar prefirió “dos chicas”.4
+2 Por otra parte, el episodio que en un artículo 
+reciente recuerda Analía Gerbaudo (2021) en torno a la sanción recibida por la profesora Romina 
+García Hermelo en la provincia de San Luis en 2013 por incorporar en sus clases la novela Hay una 
+chica en mi sopa “bajo el argumento de que la lectura era ‘pornográfica’ y ‘obscena’” (García Hermelo, 
+2019, p. 64) o las repercusiones por la inclusión del libro El inspector justo y otras historias en cajas de 
+materiales enviados por el Ministerio de Educación a las escuelas mendocinas ese mismo año no 
+son sino episodios que visibilizan un sólido núcleo conservador sumamente atento al vínculo entre 
+literatura y escuela y dispuesto a funcionar como dique de contención para la ampliación de derechos. 
+Pero más allá de la tarea de vigilancia de libros y control de lecturas ejercida por los sectores 
+que sienten amenazados los valores del heterocispatriarcado, parece importante atender, por una 
+parte, a la genuina dificultad que experimentan les docentes para acceder a ficciones alternativas5
+3 y, 
+fundamentalmente, a las dudas legítimas de quienes, en relación con una obra, se preguntan, como 
+bien imagina Paula Labeur, “si es posible leerla con sus alumnxs y si pasará los filtros de la censura 
+institucional y la autocensura” (2019, p. 16).6
+4 En la misma línea, en “¿Tenés un cuento para trabajar la 
+ESI?”, Damián Martínez logra captar en el título de su artículo esa pregunta reiterada que en las escuelas 
+y en los ámbitos de formación inicial “surge tanto hacia bibliotecarios/as como a profesores/as de Lengua 
+y Literatura (especialmente a quienes están en los roles de formación de formadores/as)” (Martínez, 
+2020) y que evidencia, en quienes la formulan, tanto el deseo de generar situaciones de aprendizaje 
+sobre literatura y sexualidad como la razonable vacilación ante la selección de textos adecuados para 
+propiciar esas situaciones.
+3. Resulta oportuno recordar aquí que, entre las acciones con que ejemplifica el concepto de “justicia curricular”, Connell 
+menciona “exponer la sexualidad desde la posición de los homosexuales” (2006, p. 64), y hace referencia a su propio 
+trabajo desarrollado en la enseñanza de sociología en el nivel superior: “…al diseñar nuestras asignaturas sobre el género, 
+tratamos de elaborar un programa que abarcara áreas de la sociología que tradicionalmente se organizaban en torno a 
+otros conceptos (por ej. ‘la familia’, ‘conductas desviadas’), y reorganizamos el currículum de forma que diera prioridad a 
+las perspectivas de las mujeres y de los homosexuales” (2006, p. 77).
+4. Nos referimos, respectivamente, a El ingenioso hidalgo Don Quijote de la Mancha (Emecé, 2015), adaptado por Federico 
+Jeanmaire y Ángeles Durini y Los caminos del Quijote (La Estación, 2010), versión de Ángeles Durini para una editorial 
+escolar. En relación con el oficio de adaptadores y las presiones editoriales sobre les escritores que versionan obras clásicas, 
+es interesante y revelador el artículo “De Transilvania al Olimpo”, de Franco Vaccarini (2021).
+5. Como advierte la propia García Hermelo, “en el mundo literario existe una notable escasez de representaciones múltiples 
+y variadas no solo de las mujeres heterosexuales y lesbianas, sino también de aquellas experiencias e identidades sexuales no 
+hegemónicas: mujeres y varones trans (o no binaries), gays, intersex, bisexuales, entre otros” (2019, p. 71).
+6. Cursivas nuestras.
+Escuela, literatura y homosexualidad. Notas sobre dispositivos para la circulación de ficciones disidentes
+DOI: http://dx.doi.org/10.30972/clt.0196216
+Facundo Nieto
+ 167 
+Si aceptamos que una de las funciones tradicionales de les profesores de literatura consiste 
+en poner en marcha dispositivos de circulación de ficciones en el ámbito escolar, si coincidimos con 
+Connell en la necesidad de incorporar las perspectivas de las personas menos favorecidas y si acordamos 
+que en ese universo se encuentran las personas disidentes respecto de la norma heterocisexista, resulta 
+claro que la incorporación en el aula de ficciones que problematizan el orden del heterocispatriarcado 
+constituye una tarea fundamental para la abolición de la censura del cuerpo. Ahora bien: ¿Cómo 
+generar dispositivos de circulación de ficciones disidentes? ¿Cuáles son los límites de lo decible sobre 
+disidencias sexo-genéricas en un aula de secundaria? ¿Cuánto supone de pérdida para el estudio 
+escolar de literatura (en general) priorizar (en particular) la literatura de temática LGBTIQ+? ¿Cuál 
+es el aporte de aquellos libros para jóvenes especialmente elaborados para poner en circulación los 
+temas de la ESI en el ámbito escolar? En todas estas preguntas (que subyacen en “¿Tenés un cuento 
+para trabajar la ESI?”) se manifiesta, una vez más, el problema del corpus y los criterios de selección. 
+La objeción elitista
+Antes de explorar posibles respuestas en torno a los criterios de selección de textos, conviene 
+considerar por un momento la objeción elitista: ¿Por qué someter a la literatura a la tarea de producir 
+un dispositivo destinado a la reparación de identidades históricamente oprimidas? De acuerdo con 
+esta perspectiva, un dispositivo escolar de circulación de ficciones disidentes, aun con las mejores 
+intenciones, no sería más que otro capítulo en la historia de la ley del usufructo. Si a finales de la década 
+de 1980, Bombini llamó de este modo al sometimiento inapropiado de la literatura a escrutinios 
+moralistas (la “búsqueda de un mensaje”) y gramaticalistas (la resolución de ejercicios de morfología 
+y sintaxis)7
+1, el pánico academicista se ampara ahora en la creencia de que la literatura en la escuela 
+no debe estar al servicio de ninguna práctica que no sea la de estudiar literatura. Desde esta especie 
+de fundamentalismo esteticista (el propio Bombini se mostraba ajeno a esta posición al cuestionar la 
+“sublimación obsesiva en los llamados ‘valores literarios’”), el vínculo entre literatura y ESI supondría el 
+riesgo de una nueva heteronomía (similar a aquella que, durante gran parte del siglo XX, se configuró 
+ante la demanda de transmitir valores patrios o la supuesta pureza de “la lengua nacional”), según 
+la cual instancias externas a la literatura y a la escuela determinarían una función para la literatura 
+en el campo escolar. 
+Por una parte, esta posición descansa sobre cierta ilusión de asepsia en las prácticas de enseñanza 
+de literatura en las cuales no deberían intervenir saberes ni concepciones provenientes más que del 
+campo de la investigación literaria, como si los estudios literarios no estuvieran atravesados por una 
+diversidad de saberes procedentes de campos disciplinares de bordes cada vez más difusos. O bien sobre 
+cierto “presupuesto de inconmensurabilidad en la relación externa e interna entre fines y medios cercana 
+a alguna noción de sublime en la experiencia estética” (Peralta, 2015, p. 211), como si no existieran
+7. “La fuerte impronta normativa de la escuela restringe los efectos posibles de lo literario buscando evitar toda gratuidad. 
+Ética y gramática (el buen hacer y el buen decir) se constituyen como zonas pragmáticas fuertemente jerarquizadas, no 
+separadas de las políticas lingüísticas, literarias y educativas específicas” (Bombini, 1989, p. 26).
+Facundo Nieto
+CLRELyL 19 (2022): 164-178. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196216
+168 
+peculiaridades específicamente escolares para los usos de lo literario. En la escuela, la literatura se 
+constituye en un discurso de singular potencia como para negarse a producir con él aquello que, para 
+el campo de la sociología del trabajo artesanal, Sennett ha denominado cambio de dominio, esto es, 
+“utilizar una herramienta con una finalidad diferente a la que tuvo en un primer momento, o que la 
+orientación principal de una práctica se aplique a una actividad completamente distinta” (2009, p. 
+160). O como para negarse a producir lo que, dentro del territorio de la didáctica, Teresa Colomer ha 
+referido como “enlaces” con contenidos curriculares propios de otras disciplinas:
+…los enlaces pueden producirse (…) a causa de la riqueza de elementos culturales que forman 
+parte inseparable de la dimensión literaria: los conocimientos sociales, filosóficos, éticos, 
+históricos o artísticos que se hallan en este tipo de obras y que han permitido, incluso, que 
+algunos autores postulen la inclusión de la enseñanza de la literatura en el interior de una 
+hipotética área “cultural” del currículo escolar. (2005, p. 217)
+Tanto el estudio sistemático (e inmanente) de un texto literario como su lectura para acceder 
+a conocimientos de otro orden son dos de las tantas funciones de la ficción en la escuela. En última 
+instancia, analizar textos literarios en su más pura inmanencia –si tal cosa fuera posible– no deja de ser 
+una forma, tan legítima como otras, de ejercer usufructo.
+Dos excesos: anti-asimilacionismo y didactismo
+Más allá de la objeción elitista, decíamos que la construcción de un dispositivo de circulación 
+de ficciones disidentes plantea otro problema: la pregunta por el corpus. Ante el acto de habla 
+indirecto “¿Tenés un cuento para trabajar la ESI?”, podemos pensar que el enunciador demanda a su 
+enunciatario un repertorio, dado que aparenta exhibir una carencia (“…porque yo no conozco ningún 
+cuento para trabajar la ESI”), pero también parece experimentar dudas en torno a los criterios de 
+selección (“…porque los cuentos que conozco para trabajar la ESI no me parecen adecuados”). Sin 
+dudas es más fácil responder a la primera interpretación de la pregunta a través de una serie de títulos, 
+pero quizás también pueda esbozarse alguna hipótesis en relación con ciertos aspectos implicados en 
+la construcción de un corpus disidente en términos de “adecuación”. 
+Para bosquejar una respuesta, podría partirse de la pregunta sobre cómo se narra la 
+homosexualidad en ficciones a incorporar en un dispositivo de circulación en un ámbito altamente 
+regulado por regímenes de decibilidad. En este sentido, podríamos imaginar, tentativamente, la 
+existencia de dos polos: el polo del exceso anti-asimilacionista y el del exceso didactista. Los siguientes 
+fragmentos pueden servir para ilustrar cada uno de ellos:
+La Lagartija Mamadora mueve sus ojos ahuevados, está enloquecida. Siente en el fondo de la 
+garganta un escozor irritante, como si la punta roma de un bili duro y húmedo le rozara. Sería 
+bueno cantar “¿Qué queda de nuestros amores?”, con una poronga enterrada hasta el estómago. 
+(…) “Como sigás rechazando proposiciones se te va a atrofiar el culo”. “Qué trabajo da ser puto, 
+piensa la Flor, lo mejor sería que uno gozara tanto como si la tuviera adentro pero sin tenerla 
+adentro”. Un puto viejo, desgarbado, se pasea entre las mesas, con un vaso de cerveza en las manos 
+puliditas. Lleva una peluca azulada. Anda a la pesca de braguetas soliviantadas: se especializa
+Escuela, literatura y homosexualidad. Notas sobre dispositivos para la circulación de ficciones disidentes
+DOI: http://dx.doi.org/10.30972/clt.0196216
+Facundo Nieto
+ 169 
+en pajas. Hace que el otro le acabe en la mano y luego se toma la leche: un capricho vulgar. 
+(Correas, 2012, p. 20-21)
+–Ah, no. Ya me acordé. Que lo normal viene de norma, estoy pensando en voz alta, y que las 
+normas las hace la gente. Y que podrían hacer normas más buenas, más copadas. Mi papá 
+está casado con mi otro papá, y ellos me dicen que esto pudieron hacerlo porque cambiaron 
+las leyes –dice Lucio, escuchando el silencio que se hizo cuando él habló. Toma aire y sigue 
+hablando–. Entonces habría que hacer muchas leyes buenas y buenas ondas, para que más 
+personas estén felices, ¿no? (…) Mi papá Marcos me dice que nos tenemos que preguntar todo. 
+Que los heterosexuales, porque mis papis no son heterosexuales, muchas veces no se preguntan 
+si eligieron ser heterosexuales o lo heredaron. Son así porque tiene que ser así. Y a mí me gustan 
+las chicas, pero a ellos no. ¿Y cuál es el problema? (Soto, 2020, p. 101-102)
+El primer fragmento pertenece a “Los jóvenes”, de Carlos Correas, posiblemente uno de los 
+primeros relatos del autor, escrito a comienzos de la década de 1950 (Fraguas y Muslip, 2012), momento 
+en que la crítica establece un punto de quiebre en la historia de la representación del homoerotismo 
+en la literatura argentina. Si hasta mediados del siglo XX “las representaciones literarias de la 
+‘homosexualidad’ habían sido más bien escasas, oscilando entre articulaciones (más o menos) fóbicas 
+(…) y otras ambiguas y elusivas, que no se atrevían a ir más allá de ciertos límites de decoro” (Peralta, 
+2021, p. 11), en las décadas de 1950 y 1960 irrumpe un nuevo paradigma para la representación de 
+las figuras disidentes. Los discursos apuestan a generar una ruptura radical con los modos de decir 
+afines a los parámetros de sociabilidad burguesa y de lengua moralmente aceptable. Con un punto de 
+partida conformado por la obra de Carlos Correas, autor que quiso decirlo todo, este nuevo paradigma 
+se propuso transgredir los límites vigentes para narrar el universo homosexual y empleó todos los 
+mecanismos retóricos disponibles destinados a provocar, desafiar y escandalizar la moral aceptada.8
+1   
+Al examinar las obras de este período, que podrían caracterizarse por la “producción de un 
+estereotipo de resistencia que exalta e incluso asume la marginalidad, que reivindica los aspectos menos 
+asimilables de la homosexualidad y que no busca normalización alguna” (Mira, citado en Peralta, 2021, 
+p. 192), José Maristany (2010) recuerda las reflexiones de Didier Eribon y de Eve Kosofsky-Sedgwick 
+acerca del paradójico funcionamiento de las obras que conformaron el canon literario universal de 
+temática gay: por una parte, contribuyeron a construir una identidad colectiva para las disidencias 
+sexo-genéricas, pero, al mismo tiempo, ofrecieron imágenes propicias para el fortalecimiento de las 
+posiciones más homofóbicas. Un programa de escritura articulado en torno al trabajo sobre materiales 
+estéticos que celebran la marginalidad y que impugnan de antemano cualquier forma posible de 
+asimilación parece destinado a construir identidad para un grupo estigmatizado al costo de fortalecer 
+su condición de abyección.
+No sería sensato negar a priori la posibilidad de incluir en un aula escolar de literatura cualquiera 
+de los textos que forman parte de esta tradición, aunque sí es necesario reconocer que no resulta sencillo
+8. “Quiere ‘decirlo todo’; ese ‘decirlo todo’ –una consigna que Correas repetiría en otros contextos– constituye la ilusión 
+de que es posible un lenguaje que ahonde en la experiencia al punto de que se constituya la experiencia misma” (Fraguas y 
+Muslip, 2012, p. 123). Así se titula precisamente el libro sobre la obra de Correas compilado por José Fraguas y Eduardo 
+Muslip: Decirlo todo: escritura y negatividad en Carlos Correas (2011).
+Facundo Nieto
+CLRELyL 19 (2022): 164-178. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196216
+170 
+imaginar la lectura de estas obras en todas las escuelas, en cualquier curso del nivel medio, con 
+independencia de las edades de les estudiantes y en cualquier contexto sociocultural. Sin un trabajo de 
+intervención didáctica que permita conocer las características de una tradición estética y moralmente 
+disruptiva, la propuesta corre el riesgo de fracasar. La puesta en circulación de discursos tan radicalmente 
+anti-asimilacionistas en el ámbito escolar, ante jóvenes que no han transitado aún la experiencia de leer 
+discursos que persiguen la utopía de representar lo irrepresentable (Peralta, 2021), aun con las mejores 
+intenciones puede contribuir a afianzar estereotipos e incluso introducir involuntariamente formas de 
+violencia simbólica contra niñes y adolescentes con identidades de género u orientaciones sexuales no 
+hegemónicas a quienes se prometía una propuesta inclusiva.    
+El segundo fragmento pertenece a la novela juvenil La fábrica de sueños, de Facu Soto, relato que 
+se inserta cómodamente en un género que denominamos ficciones de escuela: narraciones destinadas a su 
+lectura en el aula que se proponen ficcionalizar el propio universo escolar (Nieto, 2018). Si este género 
+encuentra un lejano parentesco con las school stories británicas (Manners Smith, 2003), en nuestro país 
+fue Alma Maritano la autora que, al tiempo que introdujo en el ámbito escolar la literatura infantil y 
+juvenil como fenómeno comercial (Labeur, 2019, p. 16), publicó las primeras ficciones de escuela en la 
+década de 1980. Pero, además, debemos recordar aquí que su libro En el sur, publicado en 1988, es la 
+primera ficción de escuela argentina que aborda abiertamente la temática homosexual, cuestión que la 
+propia Maritano evaluó como una transgresión, tanto por el momento en que fue publicada como por 
+estar destinada a estudiantes del nivel secundario (Nieto, 2017).
+La novela de Soto muestra un cambio significativo respecto de En el sur de Maritano en lo que 
+respecta a la representación de la homosexualidad en la literatura infantil y juvenil: si en la novela de 
+Maritano la homosexualidad es una cuestión que atañe al mundo adulto (la persona homosexual no es 
+une joven ni une niñe, sino el tutor del protagonista; el adolescente protagonista simplemente descubre 
+ese secreto por accidente), en La fábrica de sueños aparecen, por primera vez, niñes que manifiestan deseo 
+homosexual o que, como en el fragmento seleccionado, hablan de la homosexualidad de sus padres. No 
+obstante, pese a esa extraordinaria transformación, es posible advertir en el fragmento aquello que Ruiz 
+Huici ha denominado “exceso didactista” o “exceso pedagogista” (1999), esto es, el riesgo –particularmente 
+presente en la literatura infantil– que implica el predominio de una gestualidad pedagógica.
+El fragmento desarrolla didácticamente –desde la voz de un locutor niño que encubre a un 
+enunciador adulto (“estoy pensando en voz alta”), que a su vez enuncia como niñe: “más copadas”, 
+“buenas ondas”, “mis papis”– una explicación sobre la noción de “normal/norma” y una argumentación 
+en torno a la necesidad de leyes destinadas a la ampliación de derechos, tales como la que posibilitó 
+el matrimonio de sus dos padres.9
+1 El pequeño enunciador no se encuentra aquí en una búsqueda, 
+sino que muestra saberlo todo; por eso no tiene más que exponer, explicar y enseñar a sus compañeres
+9. Resulta llamativa en la literatura infantil de temática LGBTIQ+ de inflexión didactista la necesidad de contextualizar 
+detalladamente ciertos aspectos legales. En un trabajo anterior (Nieto y Martínez, 2015) encontramos aspectos similares 
+en uno de los relatos analizados: “Ahora estamos esperando que se apruebe algo que se llama Ley de Identidad de Género 
+y Atención Sanitaria. Cuando se apruebe, todas las personas como Sol van a ser reconocidas como lo que son en realidad: 
+el documento de identidad de Sol va a dejar de decir “Saúl” y en la universidad, en el hospital, en todos lados van a tener 
+que llamarla por su nombre, su verdadero nombre. Van a tener que llamarla Sol” (Olguín, 2012, p. 15).
+Escuela, literatura y homosexualidad. Notas sobre dispositivos para la circulación de ficciones disidentes
+DOI: http://dx.doi.org/10.30972/clt.0196216
+Facundo Nieto
+ 171 
+la versión correcta de las cosas, que es la que le proporcionan, en la diégesis, las figuras paternas y, 
+fuera de ella, el autor. Evidentemente, constituye un verdadero desafío para la literatura infantil y 
+juvenil que aborda el tema de las disidencias sexo-genéricas encontrar el modo de sortear lo que 
+Andruetto denomina “una escritura correcta”, esto es, “políticamente correcta, socialmente correcta, 
+educacionalmente correcta” porque “ya se sabe que correcto no es un adjetivo que le venga bien a la 
+literatura, pues la literatura es un arte en el cual el lenguaje se resiste y manifiesta su voluntad de desvío 
+de la norma” (2013, p. 36).   
+Hacia un dispositivo en grado cero
+En nuestra propuesta para la construcción de un dispositivo de circulación de ficciones 
+disidentes, destinado a estudiantes del ciclo básico de la educación secundaria (Nieto, 2021a),10 hemos 
+seleccionado textos sumamente heterogéneos, de modo que resulta difícil encontrar rasgos en común 
+entre los relatos que lo componen: confluyen en él autores del canon escolar y otres ausentes de 
+él; obras tradicionales y contemporáneas; textos narrativos, líricos y dramáticos; literatura de adultes 
+y literatura infantil y juvenil. Sin embargo, para pensar la selección en relación con los dos polos 
+descriptos anteriormente, los textos elegidos –destinados fundamentalmente a jóvenes de entre 11 y 
+14 años de edad aproximadamente– se asemejan entre sí en la distancia que guardan tanto respecto 
+del exceso anti-asimilacionista como del exceso didactista. Los relatos de nuestro corpus producen 
+extrañamiento sobre el orden cisheteropatriarcal desde una suerte de “grado cero”, esto es, sin misión 
+pedagógica ni radicalización provocadora,11
+2 quizás porque, como hemos señalado en otra oportunidad 
+(Nieto, 2021b), el procedimiento dominante radica en el extrañamiento a partir de la mirada de 
+niñes o adolescentes que funcionan, no como instancia de explicación razonada del mundo, sino 
+como dispositivo estético e ideológico capaz de, por una parte, generar interrogantes destinados a 
+desautomatizar las cosmovisiones naturalizadas del mundo adulto y, por otra parte, poner en juego 
+tres tópicos que han revelado enorme potencia para pensar la homosexualidad: la abyección, el espacio 
+homoerótico urbano y la salida del clóset. Presentamos tres casos a modo de ejemplo.
+1) Nombrar lo abyecto
+En el cuarto no había ningún escondite. César salió al pasillo y miró a su alrededor. Al final 
+del pasillo había una escalera oscura que casi no se veía. A lo mejor un depravado era como un 
+10. Nos referimos a Zarpado. Literatura y ESI, serie de libros editados por la Universidad Nacional de General Sarmiento. 
+Los libros se dividen en tres secciones: “Cuerpos en exploración”, “Cuerpos en disidencia” y “Cuerpos en riesgo”. La 
+sección “Cuerpos en disidencia” –la correspondiente al tema que aquí nos ocupa– incluye propuestas de trabajo con textos 
+que abordan la temática de las disidencias sexo-genéricas; en esa sección hemos incorporado obras de Inés Garland, Juan 
+Ramón Jiménez, Federico García Lorca, Natalia Borges Polesso, Manuel Mujica Láinez, Ana María Shua, Gabriela 
+Mansilla, Camila Sosa Villada y Susy Shock.
+11. Recuperamos aquí la categoría de Barthes no sólo por el parentesco que el autor encontraba con el recurso de les 
+lingüistas que “establecen entre los dos términos de una polaridad (…) la existencia de un tercer término, término neutro o 
+término-cero”, sino también por algunos de los rasgos que Barthes atribuía a este tipo de escritura: “la escritura en su grado 
+cero es en el fondo una escritura indicativa o si se quiere amodal (…); no se puede decir que sea una escritura impasible; 
+es más bien una escritura inocente” (Barthes, 1989, p. 78-79).
+Facundo Nieto
+CLRELyL 19 (2022): 164-178. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196216
+172 
+hombre lobo. Estaría despierto con todo el ruido que habían hecho ellos y ahora lo estaría 
+espiando desde la parte de la escalera que él no alcanzaba a ver; un depravado con la lengua 
+colgando para afuera, baboso, muerto de hambre. César se enojó consigo mismo. Su mamá 
+siempre le decía que no se imaginara cosas feas y él acababa de imaginarse la peor de todas. Un 
+hombre lobo. (Garland, 2008, p. 50)
+“Una buena educación”, de la escritora y traductora argentina Inés Garland, publicado en 2008 
+en su libro de cuentos Una reina perfecta, narra, desde la perspectiva de César, la visita del niño a casa 
+de su compañero Rolo y su encuentro con el tío de Rolo, a quien César sólo conoce a través de los 
+comentarios homofóbicos de su padre: “un depravado”. El encuentro, que se produce en el final del 
+relato, echa por tierra los temores del niño quien, en lugar del monstruo que había imaginado, conoce 
+a un hombre amigable que sabe unirse a los juegos infantiles (“era divertido, los había hecho reír”). 
+El desconocimiento de César del significado de “depravado”, pero que asocia acertadamente con lo 
+ominoso, conduce al protagonista, antes del encuentro, a imaginar a lo largo del relato, sucesivamente, 
+a un enano, un fenómeno, un vampiro y un hombre lobo; en esta línea, su temor, que va in crescendo y 
+que trata de ocultar, se describe a través de la incorporación de elementos del gótico que asimilan la 
+casa del “depravado” a un oscuro castillo.
+El cuento ficcionaliza tanto el concepto de “lo abyecto”, representado por el tío, como la matriz 
+excluyente y generadora de sujetos y abyecciones (Butler, 2010) en la figura del padre de César. En este 
+punto, los detalles de las voces y los gestos asumen un rol fundamental, especialmente porque permiten 
+advertir las llamativas semejanzas que unen a César con el tío de Rolo: si el niño deja “escapar uno 
+de esos estúpidos gemidos que enojaban tanto a su papá”, el tío chilla “con una voz muy aguda”; si 
+el niño piensa “en la vergüenza que le habría dado a su papá, que insistía tanto para que mirara a los 
+ojos, si lo hubiera visto bajar la vista”, el tío agita las manos “como si fuera una de las chicas del grado 
+espantando un bicho”. Asimismo, las voces y gestos de ambos personajes se diferencian notablemente 
+de los del padre de César, cuya voz suena “muy fuerte en el aire del jardín” acentuando su hegemónica 
+proxemia masculina: “su papá seguía con los brazos cruzados y así, de lejos, sus bigotes parecían mucho 
+más grandes, tanto que no se le veía la boca”. 
+Irene Klein (2012) ha llamado la atención sobre la importancia fenomenológica que adquieren 
+los objetos en los cuentos de Garland. En el caso de “Una buena educación” podría afirmarse que, 
+en contraste con la enormidad de todos los objetos que componen la escenografía gótica, adquiere 
+particular significado el pequeño jabón que César se atreve a esconder en un bolsillo: el tío es quien 
+descubre el “robo” (robo que desafía la “buena educación” recibida en el hogar: no tocar los adornos, 
+no comer la última masita del plato) y no sólo lo aprueba, sino que confiesa su coincidencia en el 
+gusto por esos “jabones muy chiquitos con forma de rosas”. El breve bildungsroman finaliza con la 
+transformación de César: el protagonista aprende que había sido el sistema patriarcal el que había 
+construido abyección; hacia el final, los términos “matriz heterosexista” y “abyecto” se invierten y lo 
+ominoso se proyecta en la figura del padre.
+2) Perderse en la ciudad 
+Se lanzan a andar por las calles. Van hasta el Real Consulado, en cuyo balcón central, bajo dosel, 
+la estampa imperturbable del Borbón preside las fiestas. Van al barrio del sur y merodean entre 
+Escuela, literatura y homosexualidad. Notas sobre dispositivos para la circulación de ficciones disidentes
+DOI: http://dx.doi.org/10.30972/clt.0196216
+Facundo Nieto
+ 173 
+las casas aristocráticas. El aire de agosto guerrea con los postigos, pero más allá de las cortinas 
+de damasco arde la púrpura de los braseros. Y Gerardo ya no es el pordiosero transido ante los 
+portales. Su amigo le pone una mano en el hombro y esa leve presión le hace vacilar y le obliga a 
+entornar los ojos para gozar la emocionada plenitud del momento. (Mujica Láinez, 1987, p. 197)
+Perteneciente a la serie de cuentos Misteriosa Buenos Aires (1950), “El amigo” (1808) narra el 
+ilusorio encuentro entre Gerardo y Antonio en una fonda de la ciudad de Buenos Aires el 21 de agosto 
+de 1808, jornada en que la población porteña celebra la jura de lealtad a Fernando VII por parte del 
+virrey Liniers. Ex estudiante del Real Colegio Convictorio Carolino, castigado por la pobreza y por el 
+hambre, Gerardo logra hacerse de una moneda y dirigirse desde la pensión en la que vive (los Altos 
+de Escalada) hasta la fonda Los Tres Reyes; allí se encuentra con Antonio, un atractivo joven con 
+quien entabla un apasionado diálogo e inicia un paseo por la ciudad. Al día siguiente, cuando sale de 
+su pensión en busca de Antonio, Gerardo no logra encontrar a nadie que responda al nombre ni a las 
+características del amigo.
+Con elementos que no dejan de evocar El matadero de Echeverría (el joven ilustrado frente a 
+la muchedumbre desbocada: “negrea el pueblo sobre la escoria”), el cuento construye al protagonista 
+como un diferente, conocedor del latín, ajeno a los festejos y con “ropaje absurdo”, víctima de las 
+burlas, pero también del hambre y la soledad, dos elementos cuya combinación insiste como un motivo 
+literario; por eso el encuentro con Antonio se narra a través de ese campo semántico: “Y se echa a 
+hablar y a escuchar, a hablar y a escuchar, vorazmente. (…) Hablan como únicamente pueden hablar 
+dos solitarios hambrientos de comunicación”.
+Si la representación de la homosexualidad en la literatura de Mujica Láinez ha sido caracterizada 
+a través de los términos de “enmascaramiento discursivo”, “retórica alusiva” y “significados indirectos”,12 
+es posible advertir que no ocurre lo mismo cuando se representa la sexualidad heteronormada. En 
+efecto, los pellizcos de los hombres en la fonda en respuesta a los guiños de una “criolla apicarada”, 
+las coplas que refieren la relación del virrey con una mujer francesa y, particularmente, el romance 
+incestuoso en boca de los borrachos, difieren radicalmente de la narración romantizada del contacto 
+físico entre los dos protagonistas, contacto que se limita al roce de una mano en el hombro pero que 
+habilita la mística de “gozar la emocionada plenitud del momento”.  
+La construcción del espacio13
+2 convierte al pequeño reducto urbano en que se desarrolla la 
+historia –las tres manzanas que actualmente rodean el frente de la Casa Rosada– en una gran ciudad-
+refugio, “mundo de socialización posible [que] permite vencer la soledad al mismo tiempo que protege 
+el anonimato” (Eribon, 2001, p. 37). La conexión entre ciudad y homoerotismo se materializa aquí en 
+el encuentro de los protagonistas en medio de una multitud, posiblemente más propia de la Buenos 
+Aires contemporánea a Mujica Láinez que de la ciudad colonial. La Buenos Aires de la colonia es 
+aquí ideologema del refugio homosexual, una “auténtica mitología de la ciudad y la capital” (p. 35); 
+12. Jorge Luis Peralta caracteriza la obra de Mujica Láinez, junto con la de Abelardo Arias y José Bianco, a través de la 
+marca del understatement propio del “‘buen decir’ homófilo” (2021, p. 192).
+13. Para un exhaustivo análisis de la espacialidad homoerótica en la literatura argentina, cf. Peralta, J. L., 2017.
+Facundo Nieto
+CLRELyL 19 (2022): 164-178. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196216
+174 
+la multitud funciona como guarida para el encuentro de los dos jóvenes “desentendidos del resto de 
+la orquesta desafinada”. En este sentido, en el título puede leerse un matiz irónico, pero también una 
+referencia a eso que Didier Eribon denomina una “política de la amistad” característica del universo 
+de las disidencias sexo-genéricas en los espacios urbanos: “hay que tratar de establecer contactos, 
+conocer a gente que va a convertirse en amiga y formar poco a poco un círculo de relaciones elegidas” 
+(p. 42). El desencuentro del final también admite una doble lectura: la desaparición del amigo puede 
+considerarse afín a los “sueños de exterminio” (Giorgi, 2004), pero también metáfora del “perderse” en 
+una ciudad que sabe amparar a través del anonimato.   
+3) Salir del armario 
+La abuela Clarissa dejó caer los cubiertos sobre el plato, que quebraron la porcelana. Joaquim, 
+mi primo, seguía con el mentón suspendido, golpeándose los labios con el tenedor, esperando 
+la respuesta. Beatriz repitió la palabra como pregunta “¿qué significa lesbiana?”. Yo me quedé 
+muda. Joaquim sabía sobre mí y me delataría ante la abuela y más tarde ante toda la familia. 
+Sentí un calor letal que me subía por la nuca y me dolía detrás de las orejas. Preví la escena: 
+abuela, ¿usted es lesbiana? Porque Joana sí. La vergüenza aparecía en mi cara y me denunciaba 
+incluso antes de la delación. Cerré fuerte los ojos y contraje el pecho, esperando el tiro. (Borges 
+Polesso, 2015, p. 31)
+“Abuelita, ¿usted es lesbiana?”, relato de la narradora brasileña Natalia Borges Polesso, incluido 
+en la serie Amora (2015), cuenta la obligada salida del clóset de la abuela Clarissa como consecuencia 
+de la incómoda pregunta formulada por su nieto Joaquim durante un almuerzo en casa de la abuela en 
+la que están presentes, además del joven, otras dos nietas: Beatriz y Joana, la narradora. La pregunta no 
+sólo resulta perturbadora para la abuela, sino también para Joana, quien siente temor de que su primo 
+aproveche la situación para revelar que la narradora también es lesbiana y que mantiene una relación 
+amorosa con una compañera de la facultad, relación de la que, al menos en el ámbito familiar, sólo 
+Joaquim está al tanto. 
+Con un tono intimista, el relato logra entrelazar cuatro historias que se desarrollan en tres 
+momentos diferentes: en el presente de la enunciación asistimos al tenso almuerzo de la abuela y sus 
+tres nietes; en un pasado reciente presenciamos los avatares de la relación entre la narradora y su pareja, 
+estudiantes universitarias de Letras; finalmente, en un pasado más remoto, el cuento presenta los 
+recuerdos de infancia de Joana, que permiten acceder, por una parte, a su relación con su abuela, quien 
+solía cuidarla cuando niña y, por otro lado, a la relación entre la abuela y Carolina, una mujer a quien 
+la familia creía simplemente una amiga de Clarissa. De este modo, la historia amorosa de las jóvenes 
+Joana y Taís y la de las ancianas Clarissa y Carolina conforman historias paralelas que, pese a las 
+diferencias generacionales, se estructuran en torno a una matriz común: la epistemología del clóset. Tal 
+como ha planteado Kosofsky Sedgwick (1990), este dispositivo del sistema heterosexista administra 
+visibilidad e invisibilidad a las identidades disidentes a través de un abanico de acciones imprevisibles 
+para el oprimido (la imposición de silencio, el imperativo de confesión y la culpabilización del secreto), 
+y pone en evidencia en el cuento, además de su poder de inquisición, el poder de verificación: Joaquim, 
+el varón heterosexual que ya tiene conocimiento de la orientación sexual de su abuela Clarissa, formula 
+igualmente la pregunta innecesaria, exhibiendo un diestro manejo de los rasgos del “armario de cristal” 
+(Kosofsky Sedgwick, 1990). Pero también evidencia su poder de delación, esto es, el manejo de la 
+Escuela, literatura y homosexualidad. Notas sobre dispositivos para la circulación de ficciones disidentes
+DOI: http://dx.doi.org/10.30972/clt.0196216
+Facundo Nieto
+ 175 
+posibilidad de des-cubrir a toda aquella persona de sexualidad disidente: “Preví la escena: abuela, 
+¿usted es lesbiana? Porque Joana sí” (Borges Polesso, 2015, p. 31).
+Además de la alegoría en la descripción del tapiz que en casa de la abuela muestra a dos mujeres 
+danzando tomadas de la mano, no puede dejar de advertirse el valor simbólico que adopta aquí La 
+metamorfosis, uno de los relatos que la abuela narraba a su nieta cuando niña. El texto de Kafka, 
+sometido a una reescritura en clave queer gracias a su narración oral por la abuela lesbiana, resignifica 
+las relaciones de poder: la habitación de Gregor se percibe como un clóset cuya puerta no se desea 
+abrir; la salida (el abrir la puerta) supone descubrirse ante quienes ejercen poder sobre el oprimido, y 
+el insecto se vuelve símbolo de lo abyecto que se esconde en la habitación-armario.14    
+Pese a sus notables diferencias, los textos que componen el corpus descrito tienen dos rasgos en 
+común. En primer lugar, evitan la exposición didáctica del mensaje moralmente adecuado en boca de 
+un personaje delegado del autor textual; en todo caso, lo políticamente correcto circula en la historia a 
+través de la construcción de una diégesis que no deja de producir extrañamiento sobre el funcionamiento 
+del universo heterosexista. En segundo lugar, evitan los recursos narrativos y descriptivos destinados 
+a “decirlo todo”. En este sentido, el lector inscripto en los relatos es un lector no necesariamente 
+dispuesto a “leerlo todo” ni tampoco a “aprenderlo todo”, sino a descubrir los matices que lo abyecto, la 
+“ciudad refugio” y el par ocultamiento/revelación adquieren en las ficciones disidentes.
+A modo de conclusión
+La propuesta de diseñar dispositivos de circulación de ficciones disidentes en el ámbito escolar 
+implica enfrentarse con sectores dispuestos a preservar formas escolares de violencia simbólica a 
+través de la defensa de los valores del heterocispatriarcado, pero también con posiciones cuyo elitismo 
+académico conduce a imaginar, en cualquier propuesta de vincular literatura y ESI, fantasmas de 
+“usufructo” supuestamente dispuestos a entregar a intereses de grupos hegemónicos las decisiones 
+en torno a los valores literarios. No son pocos los riesgos de la propuesta de construir dispositivos 
+disidentes, máxime pensando en que su puesta en práctica se localiza en un ámbito institucional 
+caracterizado por la diversidad de actores a cargo del control de lo decible. Aquí hemos examinado 
+sólo dos de esos riesgos: a) la construcción de un corpus estéticamente potente, pero capaz de fortalecer 
+posiciones homofóbicas por exceso anti-asimilacionista; b) el diseño de un corpus de altos niveles de 
+decibilidad, pero de baja intensidad estética por exceso didactista.
+Los textos que componen nuestro propio dispositivo, articulados en torno a la representación 
+de lo abyecto, la ciudad homoerótica y el clóset, buscan evitar, a través de una suerte de grado cero,
+14. En lo que respecta a la literatura argentina reciente, Laura Arnés advierte que este tipo de escenificación se ha modificado 
+de modo significativo: “Si hasta el momento la clave de la politicidad de las voces lesbianas y homosexuales estaba en el 
+acto de contar –la salida del closet como ese acto performativo sobre el que giraron muchos relatos hasta entrado el siglo 
+XXI–, ‘saber o no saber’ ya no es la crisis que atraviesa nuestra cultura y nuestra literatura. No hay verdad que develar, no 
+hay certeza que modele los cuerpos, ni los géneros, ni los territorios (sexuales o literarios). Si antes la fusión con lo animal 
+era una anomalía, ahora parecería ser una condición” (2020, p. 382).
+Facundo Nieto
+CLRELyL 19 (2022): 164-178. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196216
+176 
+los riesgos mencionados. Por una parte, está ausente en ellos la corrección que suele manifestarse 
+mediante una cuidadosa exposición pedagógica en torno a las disidencias. Por otra parte, el lugar 
+protagónico de niñes y adolescentes tiende a producir extrañamiento sobre el mundo heteropatriarcal 
+evitando la posible violencia de una radical desidentificación en el universo de lectores.         
+El ideal de justicia curricular que supone incorporar en la educación formal las perspectivas 
+de las personas menos favorecidas obliga a revisar, en el campo específico de la enseñanza de la 
+literatura, el corpus de obras y sus criterios de selección. Si se considera que en ese universo de 
+grupos vulnerabilizados han ocupado un lugar central las personas LGBTIQ+, la construcción 
+de dispositivos de circulación escolar de ficciones disidentes tiene como propósito ofrecer una 
+oportunidad de reparación identitaria a través de narrativas que ofrezcan historias estéticamente 
+potentes, pero cuya potencia estética –como dice en nuestro epígrafe Ruth Hillar, compositora de 
+la bellísima vidala “Hay secretos” de Canticuénticos– “comunique mansamente, sin volver a lastimar 
+donde duele” (Rosende, 2021).
+Referencias bibliográficas
+Andruetto, M. (2013). Hacia una literatura sin adjetivos. Córdoba, Comunicarte.
+Arnés, L. (2020). Contar el cuento: sexualidades fuera de término. En Arnés, L.; Domínguez, N.; 
+Punte, M. J. (dirs.), Historia feminista de la literatura argentina. Tomo 5. Arnés, L.; De Leone, L.; 
+Punte, M. J. (coords.), En la intemperie. Poéticas de la fragilidad y la revuelta (pp. 375-402). Villa 
+María, Eduvim.
+Barthes, R. (1989). El grado cero de la escritura. México, Siglo XXI. 
+Bombini, G. (1989). La trama de los textos. Problemas de la enseñanza de la literatura. Buenos Aires, 
+Libros del Quirquincho.
+Borges Polesso, N. (2015). Abuelita, ¿usted es lesbiana? En Borges Polesso, N., Amora (pp. 31-37). 
+Buenos Aires, Odelia.
+Butler, J. ([1993] 2010). Cuerpos que importan. Sobre los límites materiales y discursivos del “sexo”. Buenos 
+Aires, Paidós.
+Colomer, T. (2005). Andar entre libros. La lectura literaria en la escuela. México, FCE.
+Connell, R. ([1993] 2006). Escuelas y justicia social. Madrid, Morata.
+Correas, C. (2012). Los jóvenes. Buenos Aires, Mansalva.
+Durini, A. (2010). Los caminos del Quijote. Buenos Aires, La Estación.
+Eribon, D. (2001). Reflexiones sobre la cuestión gay. Barcelona, Anagrama.
+Fraguas, J. y Muslip, E. (2011). Decirlo todo: escritura y negatividad en Carlos Correas. Los Polvorines, 
+Universidad Nacional de General Sarmiento.
+Escuela, literatura y homosexualidad. Notas sobre dispositivos para la circulación de ficciones disidentes
+DOI: http://dx.doi.org/10.30972/clt.0196216
+Facundo Nieto
+ 177 
+Fraguas, J. y Muslip, E. (2012). Los “turbios fondeaderos” de la experiencia literaria. En Correas, C., 
+Los jóvenes (pp. 121-126). Buenos Aires, Mansalva. 
+García Hermelo, R. (2019). Lesbianas como alienígenas de la trama escolar: cuando ciertos silencios 
+alimentan prejuicios. En Arnés, L. y Saxe, F. (comps), Escenas lesbianas. Tiempos, voces y afectos 
+disidentes (pp. 63-82). Adrogué, La Cebra.
+Garland, I. (2008). Una buena educación. En Garland, I., Una reina perfecta (pp. 47-55). Buenos Aires, 
+Alfaguara.
+Gerbaudo, A. (2021). El Estado, el mercado y las políticas públicas (o algo más sobre las “grietas”). 
+Umbral, (2). https://bit.ly/3LJm1iZ
+Giorgi, G. (2004). Sueños de exterminio. Homosexualidad y representación en la literatura argentina 
+contemporánea. Rosario, Beatriz Viterbo.
+Jeanmaire, F. y Durini, A. (2015). El ingenioso hidalgo Don Quijote de la Mancha. Buenos Aires, Emecé.
+Klein, I. (2012). El lenguaje de los objetos. AVATARES de la comunicación y la cultura, (4). 
+https://bit.ly/3dGtBP5
+Kosofsky Sedgwick, E. (1990). Epistemología del armario. Barcelona, Llibres de l‘Índex.
+Labeur, P. (2019). Dar para leer. El problema de la selección de textos en la enseñanza de la lengua y la 
+literatura. Buenos Aires, UNIPE.
+Manners Smith, K. (2003). Harry Potter’s Schooldays: J. K. Rowling and the British Boarding School 
+Novel. En Liza Anatol, G. (ed.), Reading Harry Potter. Critical Essays (pp. 69-87). Westport, Praeger 
+Publishers.
+Maristany, J. (2010). Fuera de la ley, fuera de género: escritura homoerótica y proceso de subjetivación 
+en la Argentina de los 60-70. En Maristany, J. (ed.), Aquí no podemos hacerlo. Moral sexual y figuración 
+literaria en la narrativa argentina (1960-1976) (pp. 185-241). Buenos Aires, Biblos. 
+Martínez, D. (2020). ¿Tenés un cuento para trabajar la ESI? Los textos literarios en las propuestas 
+educativas argentinas para el abordaje de la Educación Sexual Integral. IntercambiEIS. Boletín digital 
+de Educación Integral en Sexualidad para América Latina y el Caribe, 10. https://bit.ly/3BJiw7L
+Ministerio de Educación de la Nación (2021). Pensar las diferencias [Libro digital]. Buenos Aires, 
+Colección Derechos Humanos, Género y ESI en la escuela. https://bit.ly/3UTCViu
+Mujica Láinez, M. ([1950] 1987). El amigo. 1808. En Mujica Láinez, M., Misteriosa Buenos Aires 
+(pp. 190-200). Buenos Aires, Sudamericana.
+Nieto, F. (2017). Diversidad sexual y novela juvenil: alusiones, explicitaciones y pedagogía. El 
+Toldo de Astier. Propuestas y estudios sobre enseñanza de la lengua y la literatura, 8 (15), 86-102. 
+https://bit.ly/3DUzF0V
+Nieto, F. (2018). Alma Maritano: el cuaderno borrador de las ficciones de escuela. Boletín GEC. Teorías 
+literarias y prácticas críticas, (22), 117-144. https://bit.ly/3DPWq6e
+Facundo Nieto
+CLRELyL 19 (2022): 164-178. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196216
+178 
+Nieto, F. (2021a). Zarpado. Literatura y ESI 1. Los Polvorines, Universidad Nacional de General 
+Sarmiento.
+Nieto, F. (2021b). Reflexiones sobre un manual queer. En Gerbaudo, A.;  Torres, P. y Tosti, I. (eds.), 
+Más allá de la anécdota: Una pretensión (pp. 273-284). Santa Fe, Universidad Nacional del Litoral.
+Nieto, F. y Martínez, D. (2015). Configuraciones de la temática LGTBI en la Literatura Infanto-
+Juvenil argentina: publicaciones de la editorial Bajo el arcoíris, RED Sociales. Revista Electrónica 
+del Departamento de Ciencias Sociales UNLu, 2 (5), 90-100. https://bit.ly/3CapAvu
+Olguín, S. (2012). ¿Te gustaría ser mi sol? Buenos Aires, Bajo el Arcoíris. https://bit.ly/3CbtxA3
+Peralta, J. L. (2017). Paisaje de varones. Genealogías del homoerotismo en la literatura argentina. Barcelona, 
+Icaria.
+Peralta, J. L. (2021). La ciudad amoral. Espacio urbano y disidencia sexual en Renato Pellegrini y Carlos 
+Correas. Villa María, EDUVIM.
+Peralta, S. (2015). ¡Espera! Educación sexual integral en el aula de Lengua y Literatura. Periódicus, 4, 
+209-230. https://bit.ly/3fiSl03 
+Rosende, L. (30 de marzo de 2021). “Hay secretos”, la canción infantil que destapó un caso de abuso 
+y sonó durante el veredicto. Tiempo Argentino. https://bit.ly/3USCfe7
+Ruiz Huici, K. (1999). La literatura juvenil y el lector joven. Revista de Psicodidáctica, 8, 25-40. 
+http://bit.ly/3gmB4Ek
+Sennet, R. (2009). El artesano. Barcelona, Anagrama.
+Soto, F. (2020). La fábrica de sueños. Buenos Aires, Chirimbote.
+Vaccarini, F. (2021). De Transilvania al Olimpo. Umbral, 2. https://bit.ly/3SDXM8p
+*Facundo Nieto es Profesor en Letras por la Universidad de Buenos Aires (UBA), Magíster en 
+Enseñanza de la Lengua y la Literatura por la Universidad Nacional de Rosario (UNR) y Doctor en 
+Educación por la Universidad de Valencia (UV, España). Se desempeña como investigador docente 
+en el Instituto del Desarrollo Humano de la Universidad Nacional de General Sarmiento (UNGS), 
+donde se encuentra a cargo del dictado de las materias Enseñanza de la Lengua y la Literatura y 
+Residencia en Lengua y Literatura e investiga en el área La Lengua, La Literatura y su Enseñanza. 
+Actualmente dirige el proyecto “La literatura al servicio de la Educación Sexual Integral (ESI) en la 
+escuela secundaria”. Es autor de Segundas letras (2017), coautor de Ensayar la enseñanza (2020), y ha 
+coordinado los manuales Antinomias. Historias de una literatura (2015) y Zarpado. Literatura y ESI (2021).

@@ -1,0 +1,623 @@
+26
+Virginia Paola Forace | 
+  XIX.1 (julio 2015) ISSN 1851-4669
+LA CONDICIÓN TESTIMONIAL 
+DE UN ESCRITOR EN 
+TRANSICIÓN:
+MEMORIAS CURIOSAS DE 
+JUAN MANUEL BERUTI
+The testimonial condition of a writer in transition: Memorias 
+curiosas of Juan Manuel Beruti
+Virginia Paola Forace
+Consejo Nacional de Investigaciones Científicas y Técnicas
+Centro de Letras Hispanoamericanas
+Universidad Nacional de Mar del Plata
+virginiaforace@yahoo.com.ar
+RESUMEN: Estudiar la condición testimonial de Juan Manuel Beruti (1777-1856) es 
+el objetivo principal del artículo. Para ello se hace una breve revisión teórica sobre 
+las escrituras autobiográficas y sus características particulares a fines del siglo XVIII y 
+principios del XIX, para luego realizar un análisis discursivo de Memorias curiosas, su 
+extensa crónica que relata los sucesos relevantes ocurridos en la ciudad de Buenos 
+Aires entre 1717 y 1855. Se utiliza como eje de análisis la definición de testigo pro­
+puesta por Paul Ricoeur para comprender el texto como un testimonio.
+PALABRAS CLAVE: literatura argentina; siglo XIX; Juan Manuel Beruti; análisis lite­
+rario; memorias. 
+ABSTRACT: This article examines the testimonial condition of Juan Manuel Beruti 
+(1777-1856). T
+o do so, it provides a brief theoretical review about autobiographical writ­
+ing and its characteristics in late 18th century and early 19th century, and then performs 
+a discourse analysis of Memorias curiosas, an extensive chronicle about the main events 
+ocurring in the city of Buenos Aires from 1717 to 1855. The definition of “witness”, 
+proposed by Paul Ricoeur, is used to understand the text as a testimony.
+KEYWORDS: Argentinine literature; 19th century; Juan Manuel Beruti; literary analy­
+sis; memory. 
+“En las revoluciones es donde se ven cosas grandes tanto en lo militar como 
+en lo político, mudanzas de costumbres, vaivenes de la fortuna y cosas extraor­
+dinarias […]” (Juan Manuel Beruti).
+L
+a transición entre el sistema colonial español y las nuevas repúblicas 
+constituye un tiempo de aceleradas trasformaciones en los sistemas 
+simbólicos, en las formas de sociabilización, representación, opi­
+nión, escritura y lectura. Aquellos que atestiguaron este período de convulsión 
+27
+  XIX.1 (julio 2015) ISSN 1851-4669 | La condición testimonial de un escritor en transición: Memorias curiosas…: 26-39
+política y social se involucraron de formas disímiles en los hechos que se suce­
+dieron rápidamente en las primeras décadas del siglo XIX, ya sea participando 
+activamente como protagonistas de esos cambios, o viviendo sus efectos a modo 
+de espectadores, no completamente pasivos, pero sí parcialmente marginales. 
+Cualquiera sea el caso, fueron conscientes de que estaban experimentando un 
+tiempo excepcional que tendría consecuencias en el largo plazo. Así, muchos 
+de ellos, optaron por registrar las impresiones y eventos sobresalientes para 
+generaciones futuras.
+En este sentido, Memorias curiosas (1717-1855), de Juan Manuel Beruti 
+(1777-1856), constituye una importante fuente de valor documental que ha sido 
+visitada por numerosos historiadores; sin embargo, poca atención ha recibido 
+desde el ámbito de las letras1. El texto recorre una época amplia y enumera 
+hechos fundacionales que van desde 1717 a 1855. Un autor anónimo lo inicia 
+y se propone realizar una concisa enumeración de los sucesos administrativos y 
+políticos ocurridos en el virreinato del Río de la Plata, por ejemplo, elección de 
+alcaldes, entrada de virreyes, fallecimiento de obispos. En 1770, cuando apenas 
+cuenta con 13 años, Beruti descubre ese manuscrito y decide continuarlo. Hasta 
+1804, la crónica conserva el estilo lacónico de su primer creador, pero, a partir 
+de mediados de ese año, comienza a incluir entradas mucho más extensas con 
+pasajes narrativos, descriptivos y evaluativos que desbordan el discurso, el tono 
+y el espíritu del autor anterior. Empieza, de esta forma, a ganar terreno la figura 
+del escritor y la ficcionalización de los acontecimientos, especialmente luego de 
+la narración de la invasión de 1806, cuando el estilo cambia completamente. 
+En este trabajo procuraremos acercarnos al relato desde su problemática 
+inserción genérica como parte de las escrituras autobiográficas de principios del 
+siglo XIX considerando los rasgos particulares de época y a la vez intentaremos 
+reflexionar sobre la relevancia que esperaba Beruti que tuviera su crónica como 
+fuente de informaciones sobre ese período2. Cuestionarse acerca del material 
+seleccionado, es decir, acerca de las características propias del género en ese 
+momento, parece ser el primer paso antes de adentrarnos en el análisis de los 
+aspectos discursivos del texto en cuestión ya que nuestra comprensión y defini­
+ción actual de todo aquello que incluye de forma amplia lo “autobiográfico” no 
+se corresponde con la de los sujetos del período tardocolonial. 
+Por otra parte, comprendemos Memorias curiosas como un acto comunicativo, 
+por lo tanto, interrogarse sobre la representación que de sí mismo realiza el cronista, 
+investigar quién habla y por qué lo hace, son condiciones que deben pensarse a 
+1	 No hemos encontrado bibliografía que lo estudie desde esta perspectiva a pesar de la cantidad de 
+historiadores que lo utilizan como fuente.
+2	 El presente artículo es resultado de un trabajo de investigación realizado para el seminario de 
+posgrado, “Hacia una historia social del poder y la política. Temas y problemas a partir de la 
+experiencia argentina decimonónica”, dictado por la Dra. Beatriz Bragoni en la Universidad 
+Nacional de Mar del Plata en el año 2013. Forma parte además del proyecto de doctorado diri­
+gido por las Dras. María Coira y Rosalía Baltar.
+28
+Virginia Paola Forace | 
+  XIX.1 (julio 2015) ISSN 1851-4669
+la luz de los aspectos pragmáticos que involucra, es decir, qué intenta lograr, qué 
+acto de habla se propone realizar el sujeto de la enunciación con su comunicación.
+Algunas consideraciones sobre las escrituras autobiográficas
+El pasado se conserva en la memoria gracias a operaciones públicas y priva­
+das que tienden a registrar su huella de diversas formas: testimonios escritos u 
+orales, vestigios materiales del pasado, registros institucionales, entre otros. En 
+este sentido, historiografía, memorias, crónicas, diarios, canciones populares, 
+poemas panegíricos serían diversos medios para registrar esa ausencia, ese haber 
+sido, formas que implican ciertas condiciones ontológicas que las hacen precisa­
+mente históricas. Evidentemente, entre estos discursos se abre un amplio rango 
+de disposiciones epistemológicas, en especial en cuanto a su valor veritativo, su 
+aspiración referencial y su forma de enunciación: básicamente, no persiguen 
+intenciones comunicativas equivalentes y, por lo tanto, no establecen el mismo 
+tipo de pacto de lectura con sus receptores3. Si bien no nos interesa ocuparnos en 
+particular de esta diferenciación, debemos señalar la conexión de estas prácticas 
+discursivas con el pasado como un rasgo compartido entre ellas para avanzar así 
+sobre la relevancia de la consideración de los registros subjetivos.
+Paul Ricoeur valora al testimonio como el elemento intermedio en la transi­
+ción entre la memoria individual y la historia (41). Los géneros autobiográficos así 
+considerados –que son los que nos interesan para poner en perspectiva Memorias 
+curiosas–, son testimonios del pasado que, si bien se caracterizan por su visión 
+subjetiva, no dejan, por ello, de tener relevancia para reconstruir un haber sido 
+ajeno a nuestra experiencia presente4. En este sentido, la consideración de la 
+biografía como tipo historiográfico ya ha sido señalada por José Luis Romero 
+en su clásico trabajo La vida histórica (1944)5. Otro enfoque que nos interesa 
+retomar para revalorizar estas expresiones es la propuesta de la microhistoria 
+en tanto recuperación de las escalas menores de lo acontecido para ver lo que 
+una macroescala de análisis no permite observar6; allí gana importancia el 
+individuo y el caso particular para reconstruir y comprender a partir de él un 
+3 Paul Ricoeur señala como una de las diferencias centrales entre relato histórico y relato ficcional 
+el diverso pacto (en tanto expectativas y promesas) que establecen autor y lector: en un texto 
+histórico ambos convienen implícitamente en que se tratará de situaciones que existieron antes 
+de hacerse un relato de ellos y que el placer de su lectura no será el objetivo fundamental a con­
+siderar en la evaluación (342). 
+4 Utilizamos el término “autobiográfico” en el sentido amplio, es decir, no sólo considerando a la 
+autobiografía per sé, sino a todos géneros cercanos como memoria, biografía, novela personal, 
+poema autobiográfico, diario íntimo, autorretrato, entre otros (Lejeune).
+5 Romero define los “tipos historiográficos” como “ciertos esquemas regulares dentro de los cua­
+les se ordenan y se estructuran los elementos de la intelección histórica, valorados de acuerdo a 
+cierto principio ordenador” (105). 
+6 Giovanni Levi afirma: “El principio unificador de toda investigación microhistórica es la creen­
+cia de que la observación microscópica revelará factores anteriormente no observados” (124). 
+29
+  XIX.1 (julio 2015) ISSN 1851-4669 | La condición testimonial de un escritor en transición: Memorias curiosas…: 26-39
+contexto mayor7. Los modos de sentir y de pensar, y las formas de representar son 
+aspectos que buscan ser recobrados desde esta configuración8. La tensión entre 
+el todo y la parte es la que proponen conservar, por ejemplo, Giovanni Levi y 
+Carlo Ginzburg9. A esto se refiere también Paul Ricoeur al sostener la necesidad 
+de la variación de escalas, ya que en ese movimiento es donde se puede ver la 
+circulación de los mensajes, los procesos de negociación y apropiación (285), 
+los intersticios y contradicciones en los sistemas normativos (Levi 138), lo “no 
+controlado” en los discursos10.
+El problema clásico de la fiabilidad de los géneros autobiográficos queda de 
+esta forma subsumido bajo esta intención reconstructiva del pasado11. Como 
+señala Adolfo Prieto, lo que importa es su carácter testimonial, no su veracidad 
+(14); por ello, no se desconocen los límites de la memoria individual y las res­
+tricciones que la representación escrituraria le impone, sino que se aceptan en 
+tanto forma de acceder a lo particular.
+Estas generalidades respecto de los géneros autobiográficos y su relación con la 
+historia son convocadas aquí debido a las características de las memorias, diarios 
+y crónicas en el período que nos interesa. En primer lugar, la separación entre 
+historia y biografía no siempre fue un problema como lo es en la actualidad, ya 
+sea porque no existía aún una división absoluta entre las esferas, especialmente 
+entre lo público y lo privado (Guerra) o porque los géneros en sí mismos no 
+habían sufrido el proceso histórico que los ha delineado en la forma actual. Los 
+sujetos de fines del siglo XVIII y principios del XIX no se cuestionaban estos 
+temas. Anna Caballé explica al respecto: “No se conocían todavía las diferencias 
+propias de la crítica literaria actual, entre unos subgéneros y otros: memorias, 
+justificaciones, manifiestos, etc., son términos que se usan indistintamente y 
+7 Sabina Logira critica las tendencias historiográficas que se concentran en los social, en detri­
+mento de lo singular: “Na tentativa de aplicar o princípio da causalidade aos fenômenos sociais, 
+sacrificaram tudo aquilo que é singular ou único: os indivíduos não são pensados como seres par­
+ticulares, dotados de um caráter singular, distinto, nem mesmo como seres capazes de agir sobre 
+o curso da história, mas como exemplares equivalentes entre si, submissos apenas à dominação 
+do grupo (classe, nação etc.)” (Souza y Lopes, entrevista a Loriga en portugués 29).
+8	 Carlo Ginzburg señala como una de las tareas del historiador el “echar luz sobre la mentalidad 
+de quien escribió esos textos” (14). 
+9 Levi explica: “La microhistoria no intenta sacrificar el conocimiento de los elementos individuales 
+a una generalización más amplia y, de hecho, insiste en las vidas y acontecimientos de los indivi­
+duos. Pero, al mismo tiempo, intenta no rechazar todas las formas de abstracción, pues los hechos 
+mínimos y los casos individuales pueden servir para revelar fenómenos más generales” (138). 
+10 Ginzburg, siguiendo a Walter Benjamin, afirma “leer a contrapelo las intenciones de quien pro­
+dujo [los textos] y sacar a la luz voces no controladas (mentalidades, usos y costumbres)” (14). 
+11	 Karl Mannheim puntualiza que “La historia de la autobiografía, es, en este aspecto, una de las 
+fuentes de información más valiosas: en primer lugar e indirectamente podemos observar de qué 
+naturaleza eran en el pasado las actitudes introspectivas de los hombres, de qué modo y para qué 
+fines se observaban a sí mismos; además, podemos ver cómo las distintas situaciones sociales e his­
+tóricas han favorecido distintas formas de la personalidad, y cómo estas distintas formas de actitudes 
+introspectivas desempeñan inconscientemente ciertas funciones sociales” (citado en Prieto 12). 
+30
+Virginia Paola Forace | 
+  XIX.1 (julio 2015) ISSN 1851-4669
+con una pretensión fundamental: la de relatar externamente los hechos más 
+importantes de una vida o una etapa histórica” (145).
+Esta pretensión era la que guiaba las dos tendencias de las memorias en el 
+siglo XIX: aquellas impulsadas por el deseo de sus autores por dejar testimonio 
+de un tiempo excepcional (Caballé) y las de carácter justificativo, escritas para 
+explicar la propia conducta política o la de una clase12. En el caso de las primeras, 
+Karl Weintraub explica que “en las memorias, el hecho externo se traduce en 
+experiencia consciente, la mirada del escritor se dirige más hacia el ámbito de los 
+hechos externos que al de los interiores. Así, el interés del escritor de memorias se 
+sitúa en el mundo de los acontecimientos externos y busca dejar constancia de los 
+recuerdos más significativos” (23). El objetivo inicial no sería, entonces, registrar 
+la historia de una subjetividad, sino, simplemente, lo que ella ha atestiguado; 
+así, el criterio de escritura de principios del siglo XIX era justamente omitir lo 
+personal en este tipo de relatos y sólo narrar lo relacionado con la historia. 
+Esta aspiración histórica es uno de los rasgos centrales en este momento ya 
+que los sujetos creen ingenuamente en la función social de sus textos. Por ese 
+motivo, su pretensión es producir una obra provechosa para sus contemporáneos 
+y las generaciones futuras13. Si bien las formas autobiográficas de principios del 
+siglo XIX escriben textos vacilantes entre historia y ficción, eligen siempre la 
+tendencia histórica: “la autobiografía decimonónica se legitima como historia, 
+y como historia, se justifica por su valor testimonial” (Molloy 187).
+Las condiciones fiduciarias y el carácter testimonial14
+Beruti fue, como afirma Gabriel Di Meglio, un “personaje promedio de la élite 
+porteña” (“Ojos tenaces…” 177). Era hijo de españoles de respetabilidad social y 
+buena posición económica. Estudió en el Real Colegio de San Carlos y luego se 
+dedicó a la función pública. También se desempeñó como escribiente en la oficina 
+de control de Artillería y luego como sobrestante pagador tesorero de la misma 
+armada. Desarrolló funciones en Contaduría de la Aduana e integró el Tribunal 
+de Cuentas; finalmente, trabajó como contador de número en tiempos de Rosas.
+12 Según Adolfo Prieto, en su imprescindible La literatura autobiográfica argentina, el contenido 
+de lo que se rememora en los textos que van de principios de siglo XIX hasta bien avanzado el 
+XX tiende a salvaguardar, recuperar o exaltar los valores de una elite, y más aún, de una clase, 
+la oligarquía.
+13	 Estos textos dan cuenta de un fenómeno particular: el hombre corriente, quien no tiene una par­
+ticipación preponderante en los hechos, se convierte en testigo de grandes transformaciones en 
+su tiempo y, consciente de su impacto, se preocupa por registrar los sucesos excepcionales para 
+generaciones posteriores (Weintraub 1991).
+14	 Paul Ricouer señala la diferencia entre la práctica cotidiana del testimonio y su uso jurídico e 
+histórico. Uno de los rasgos que estudia es el grado de importancia que puede tener la fiabilidad 
+de lo narrado ya que los grados de sospecha y confianza que se exhiben en la audiencia varían 
+en cada caso. Considera, sin embargo, que la dimensión fiduciaria, es decir, la confianza en la 
+palabra del otro, forma parte del núcleo que comparten (208-214).
+31
+  XIX.1 (julio 2015) ISSN 1851-4669 | La condición testimonial de un escritor en transición: Memorias curiosas…: 26-39
+En este sentido, su actuación política no es el motivo por el que se lo recuerda, 
+sino la extensa crónica del período inicial de la formación de la Argentina. 
+Adolfo Prieto lo define como “el más atento cronista de ese largo período de 
+desorganización” (59). La publicación de su texto fue póstuma; sin embargo, 
+estimo que su autor manifestó una clara conciencia de que alcanzaría mayores 
+receptores ya que, como veremos luego, así lo anticipa15. En este sentido, vale 
+interrogarnos sobre las circunstancias que llevaron a este sujeto a redactar un 
+texto de estas características. Así, independientemente de la aclaración que abre 
+la crónica respecto de continuar una obra ajena, considero que posteriormente 
+Beruti adopta una actitud de testigo de un tiempo excepcional16. 
+La aspiración histórica en los textos era, tal como mencionamos más arriba, 
+un criterio propio de la época, el cual no sólo legitimaba la función de la obra sino 
+también dirigía la pluma del escritor. En efecto, el cronista de Memorias curiosas 
+expresa en varias oportunidades su preocupación por la posteridad y por el juicio 
+futuro sobre su tiempo; así, por ejemplo, afirma “con el tiempo [éstos hechos] publi­
+cará la historia. […] estas y otras cosas hizo el insigne Liniers, que para escribirlas 
+se necesita un volumen; pero el tiempo lo dará a la luz. Últimamente murió, pero 
+no morirá su memoria en los corazones” (148). También de tal forma lo declara 
+luego: “Finalmente la historia manifestará los grandes trabajos y aventuras que en 
+esta desatinada expedición padeció el ejército” (363). Es decir, se encuentra presente 
+en su discurso esa conciencia histórica y de acuerdo con ella se escribe un texto con 
+aspiraciones afines. Podríamos recordar lo que señala Paul Ricoeur respecto de la 
+historia: considerada desde un punto de vista pragmático, ella implica un acto de 
+habla (“El historiador se propone «hacer historia»” 82), una fuerza ilocutiva que 
+define su enunciación bajo ciertas reglas de interpretación17. De esta manera, la 
+crónica de Beruti no sólo tiene aspiraciones históricas, sino que intenta producir 
+ciertos efectos perlocutivos, busca ser leído bajo ese “pacto”. 
+15	 José María Beruti, hijo de Juan Manuel, donó los manuscritos originales del texto al Dardo 
+Rocha el 28 de mayo de 1869. Se conservaron en el archivo particular del fundador de la ciudad 
+de La Plata sin ver la luz pública durante setenta y tres años. En 1942, el hijo de Dardo Rocha, 
+Carlos Dardo Rocha, lo entregó en préstamo a la Biblioteca Nacional de la República Argentina, 
+para someterlo a estudios paleográficos y posterior edición en la Revista de la Biblioteca Nacio­
+nal en 1945, donde sólo se publicaron los dos primeros volúmenes manuscritos y un sumario del 
+contenido del tercero. En 1960, en el marco de las conmemoraciones por el sesquicentenario de 
+la Revolución de Mayo, el Congreso de la Nación Argentina dispuso publicar cinco mil ejempla­
+res de la Biblioteca de Mayo, Colección de Obras y Documentos para la Historia Argentina y el 
+texto de Beruti, tal cual había aparecido en la Revista de la Biblioteca Nacional pasó a integrar 
+dicha colección en el tomo IV, denominado “Diarios y Crónicas”. 
+16	 La aclaración mencionada aparece en la primera página: “De los sujetos que han sido goberna­
+dores y virreyes de las Provincias del Río de la Plata; como de los señores alcaldes de 1º y 2º 
+voto y síndicos procuradores del ilustrísimo Cabildo de Buenos Ayres desde el año 1717 hasta 
+este 1789, en que saqué esta copia de un manuscrito original que me prestó un amigo; y yo Juan 
+Manuel Beruti, lo sigo desde este presente año de 1790, aumentándole otras noticias más que 
+ocurran, dignas de notarse” (13).
+17	 Para un desarrollo completo de este enfoque, véase John L. Austin y John R. Searle.
+32
+Virginia Paola Forace | 
+  XIX.1 (julio 2015) ISSN 1851-4669
+Ahora bien, esto abre una serie de inconvenientes afines al modo elegido de 
+expresión. En primer lugar, si bien debe reconocerse que persigue una función 
+histórica y objetiva más que artística, Beruti, a pesar de ser testigo directo de 
+lo que narra y tener, por lo tanto, un referente cercano, al pasarlo a testimonio 
+escrito no puede más que construir un referido18, es decir, una representación 
+producida gracias a ciertos procedimientos y estructuras narrativas, desde el 
+punto de vista particular, atravesado por una ideología y un imaginario19. 
+De acuerdo con esto, las modalidades elegidas para expresarse también 
+podrían generar una fisura con respecto a la aspiración mencionada; la crónica 
+de Beruti puede pensarse como una mixtura entre dos géneros pertenecientes a 
+las escrituras autobiográficas, el diario y la memoria: lo que inicia como memoria 
+(con una mínima distancia del sujeto y los hechos, ya que las entradas se escriben 
+al finalizar cada año), en 1804 se convierte en diario porque los acelerados sucesos 
+(conflictos públicos por el ceremonial, invasiones, revoluciones, celebraciones, 
+fusilamientos, entre otros) obligan a un registro regular y actual. En la segunda 
+parte del texto, a partir de 1852, la alternancia entre ambas modalidades es 
+constante ya que el cronista continúa anotando de forma casi diaria los hechos 
+relativos a la actualidad pero intercalando párrafos que recuperan los fragmentos 
+perdidos de su texto correspondientes a los acontecimientos de una parte del 
+período rosista (1830-1842)20. 
+Esta alternancia entre ambas modalidades le otorga un carácter especial respecto 
+de su testimonio: la crónica que escribe a fin de cada año tiene más marcado el 
+sesgo interpretativo, ya que Beruti selecciona los acontecimientos para construir su 
+relato a la luz de su conocimiento presente; en cambio, el registro diario conlleva 
+una actualidad que reduce este aspecto. Como señala Weintraub: “El diario, la 
+carta, la crónica y los anales adquieren valor en el hecho de no ser más que inter­
+pretaciones momentáneas de la vida. Su valor reside en ser un recuerdo fiel del 
+pasado y no en el hecho de asignarle a éste un significado de mayor alcance” (21).
+Estos inconvenientes no son considerados por el cronista en los términos 
+referidos, pero evidentemente hay una conciencia de que la credibilidad de su 
+18	 Noé Jitrik, en su excelente análisis sobre la novela histórica, distingue las nociones de referente 
+y referido: el referente es aquello que se retoma de un discurso ya establecido, y el referido es lo 
+que se construye con el material retomado, mediante modalidades y procedimientos propios de 
+la narración novelística. Puede consultarse también María Coira.
+19 Esto sería equivalente a los problemas derivados de la tercera operación historiográfica, la repre­
+sentación literaria, propuesta por Paul Ricoeur.
+20	 Los registros de esos años se han perdido: el propio Beruti explica que en ese período de violen­
+cia y persecución, le entregó esos pliegos a su hijo para que los ocultara por temor a la mazorca 
+y nunca los recuperó. El cronista lo narra en los siguientes términos: “En el año de 1842, la más-
+horca, corifeos de Rosas, entraron en partidas de 6 u 8 hombres en todas las casas con el fin de 
+hacer pedazos todos los colores verde y azul […]. Yo tenía escrito sus hechos desde el año [1829] 
+hasta esta fecha, 1842, que son trece años. Sabiendo esto el diario que llevaba lo puse bajo mis 
+colchones de mi cama, no creyendo que registraran […], pero mi hijo Juan Ángel me dijo, mi 
+padre, pueden estos malvados entrar en casa y registrar toda la casa y los colchones, déme usted 
+el diario lo guardaré, y se lo entregué” (514).
+33
+  XIX.1 (julio 2015) ISSN 1851-4669 | La condición testimonial de un escritor en transición: Memorias curiosas…: 26-39
+texto dependerá de su construcción ya que Beruti manifiesta una preocupación 
+por la dimensión fiduciaria de su testimonio. Es así que recurre a diversas fuen­
+tes para acreditar sus informaciones y corrige errores en sus declaraciones. En 
+este sentido, se podría relacionar su actitud con la de un “testigo” tal como lo 
+caracteriza Paul Ricoeur: a) realiza una aserción sobre la realidad factual de lo 
+atestiguado; b) se autodesigna a través del “yo estuve allí”; c) su discurso trabaja 
+con una dimensión fiduciaria incluida en el pedido de ser creído –“Creedme”– y 
+d) la sospecha de omisión o falta que asedia su testimonio intenta ser suprimida 
+por medio de su confrontación con otros –“si no me creéis, preguntad a otro”– 
+
+(210 y ss.).
+Las primeras condiciones, especialmente la sintetizada en el “yo estuve allí”, 
+quedan señaladas a partir de la introducción de los deícticos (ubicación espacio-
+temporal) y de la utilización de la primera persona singular o plural; dice, por 
+ejemplo, “les manifestaré las caídas que tengo vistas en esta época” (196), donde 
+no sólo apela a su condición de testigo presencial, sino que además interpela 
+directamente a sus lectores.
+El proceder que pretende el testigo bajo la forma del “creedme” es reforzado a 
+partir del señalamiento de las informaciones erróneas y de los olvidos cometidos 
+–“El 3 y 4 dije que los patricios quitaron un cañón al enemigo; pero sépase que 
+no fue ese día, sino el 5 en el ataque general” (74)–, y de la profusa variedad de 
+fuentes a que refiere. Mucho más numerosos son los ejemplos que rectifican: 
+Esta nota es falsa pues me han informado que Rodríguez no lo fue a visitar 
+y que sus enemigos le han levantado esta calumnia, pues Estomba murió en 
+su locura sin querer comer (427)21.
+	
+Este párrafo, desde el principio al fin es falso, y si lo he puesto es porque 
+así corrió en el público generalmente y se creyó; pero después averiguada la 
+verdad, resultó mentira todo; y por lo tanto lo anoto, para que no tenga valor 
+ninguno; pues no trato en este diario de poner otra cosa que la verdad, y si hay 
+alguna mentira como ésta, cuanto la sepa la anotaré, como hago en ésta (366).
+La rectificación y el registro de los “olvidos” quedan subsanados no sólo gracias 
+a estos comentarios, sino también a partir de una estrategia que inaugura en 1807: 
+agregar “suplementos” al final de cada año refiriendo lo que al calor del registro 
+diario quedó relegado (o que sólo adquirió importancia posteriormente). La pre­
+ocupación de Beruti por la credibilidad de su texto queda claramente expresada 
+en el último fragmento: hay una aspiración veritativa que dirige su discurso y en 
+función de la cual establece las diversas marcas de fidelidad de sus noticias.
+En la misma línea de reforzar la credibilidad, Beruti refiere sus informacio­
+nes a una variedad de fuentes que son citadas en su discurso. En primer lugar, 
+21	 Esta nota se encuentra al margen del siguiente párrafo: “También se dice que el coronel Estomba, 
+estando loco en el hospital, lo fue a visitar el brigadier Martín Rodríguez; pero que Estomba lo reci­
+bió con insultos, sacándole, que por su causa había sido fusilado Dorrego por el mal consejo que 
+dio a Lavalle, y que al segundo día de esto murió Estomba, atribuyéndose fue de veneno, mandado 
+dárselo por Rodríguez” (Beruti 427).
+34
+Virginia Paola Forace | 
+  XIX.1 (julio 2015) ISSN 1851-4669
+las fuentes oficiales, como bandos públicos y órdenes reales, y, posteriormente, 
+los periódicos. Dice: “Todo esto lo he copiado de los papeles públicos y sólo 
+en extracto” (531). En los primeros años tiene una relevancia fundamental la 
+Gazeta de Buenos Aires22, de la cual transcribe largos pasajes23, y posteriormente 
+se agregan el Redactor de la Asamblea, la Gaceta ministerial, la Gaceta Mercantil, 
+el Diario de la Tarde, el Diario de Avisos, La Tribuna, El Progreso y el Argos. 
+Establece una relación de continuidad con estas fuentes, las cuales no sólo son 
+referidas como citas de autoridad, sino que también se indican a los lectores 
+como posibles lecturas complementarias: “Los demás pormenores por no ser 
+de consideración los he omitidos el ponerlos; pero se podrán ver en la Gaceta 
+Mercantil del viernes 22 de enero de 1847” (463).
+Otras fuentes relevantes de información a las que apela Beruti son los tes­
+timonios de personas respetables, los cuales se relacionan con la posibilidad de 
+confrontar su testimonio con otros: “Pasajes sueltos, que me han contado por 
+dos sujetos respetables, el presbítero don Manuel Ascorra y el doctor don Pedro 
+Ignacio Rivero, abogado de la superior cámara de justicia, quienes me lo han 
+asegurado por ciertos y son los siguientes” (419). También refiere a diversos 
+testigos anónimos, aunque el refuerzo que puedan dar a la veracidad de lo 
+informado se vea mermado por la ausencia de nombres propios: “Finalmente 
+todo lo anteriormente dicho me lo han informado diversas personas” (427).
+Por último, el cronista reproduce fuentes inestimables para el investigador, 
+ya que incluye frecuentemente rumores que circulan en el espacio público, 
+logrando salvarlos del olvido. Como afirma Prieto, “Estos hechos [rumores, 
+gestos, antipatías] escapan al registro específico de la historia, pero nadie dudará 
+que ellos son también la historia” (93, itálicas en el original). En este sentido, 
+podemos afirmar que Beruti no sólo se configura como testigo presencial de los 
+hechos, sino también como preservador de la memoria oral, de las opiniones y 
+valoraciones ausentes en registros oficiales, y de los rumores que corroían jus­
+tamente esas versiones. Por ejemplo, luego de la “asonada de Álzaga”, del 1 de 
+enero de 1809, el público se alborota porque no todos los acusados han recibido 
+el mismo castigo:
+22 Si bien el Río de la Plata contó con antecedentes de papeles públicos, como el Telégrafo Mer­
+cantil, rural, político-económico e historiográfico del Río de la Plata (1 de abril de 1801 al 
+17 de octubre de 1802), el Semanario de Agricultura Industria y Comercio (1 de septiembre 
+de 1802 al 11 de Febrero de 1807), The Southern Star (de Montevideo, en 1807), la Gazeta de 
+Gobierno (una reimpresión de la Gazeta de Gobierno de la ciudad de Sevilla aparecido en 1809), 
+y el Correo de Comercio (3 de marzo de 1810 a 23 de febrero de 1811), la Gazeta de Buenos 
+Aires introdujo la innovación de ser una publicación oficial, a diferencia de sus antecesoras e 
+“inauguró un estilo de escritura periódica cuya materia era exclusivamente política” (Martínez 
+Gramuglia 38). La carencia de otras publicaciones en los primeros años de la revolución hizo 
+que la GBA disfrutara de un relativo monopolio de la palabra escrita (Cremonte).
+23	 Para un desarrollo completo de la relación del texto de Beruti y la Gazeta de Buenos Aires véase 
+Forace (“Cruces discursivos”).
+35
+  XIX.1 (julio 2015) ISSN 1851-4669 | La condición testimonial de un escritor en transición: Memorias curiosas…: 26-39
+Ha causado novedad a los críticos y políticos sensatos ver libres cinco señores 
+capitulares, cuando éstos deben tener el mismo delito que los expatriados, pues 
+si aquéllos tienen causa, éstos deben de tener la misma. […] ¿qué misterios 
+encierra esto? Lo que más se cree es el que son muy pudientes, y haberlos puesto 
+en libertad, era dar margen a que picados siguieran sus pretensiones […] (121). 
+Gracias a este registro de los rumores podemos observar cómo el sentir popular 
+se alzaba por detrás de los acontecimientos, cuán poderoso era el circuito oral, 
+especialmente para desmentir versiones oficiales. Igual relevancia poseía la circu­
+lación informal de papeles anónimos, a los que apunta en diversas oportunidades 
+el cronista: “Dios quiera que no nos causen muchos males su quitada, por cuanto 
+el pueblo generalmente está disgustado con esta determinación, los pasquines 
+amanecen diariamente contra esta disposición y el gobierno está vigilante” (337).
+Esas murmuraciones y chismes también refieren al sentir popular sobre 
+algunos acontecimientos polémicos; el ajusticiamiento de un oficial, por ejemplo, 
+causa que se eleven entre los contemporáneos y que el cronista los registre: “El 
+sentimiento del pueblo por la muerte de este sujeto ha sido grande, y públi­
+camente dicen se le ha quitado la vida injustamente” (263)24. Al respecto, no 
+podemos dejar de mencionar el uso del rumor para desprestigiar a los hombres 
+públicos por medio de la burla: 
+Entró en esta capital el señor director José Rondeau, quien sin ser visto se 
+dirigió a su casa en donde se halla; cuyo señor no da razón cómo ha sido la 
+dispersión de nuestra caballería ni aun la causa de su fuga tan precipitada, que 
+no paró hasta llegar a su casa y meterse en su cama; tal fue el susto pánico 
+que recibió […] que a uñas de su buen caballo no le dio alcance la partida 
+enemiga; esto cuentan, la verdad, no sé, pero la fuga sin orden es cierta (303).
+La vacilación final en este fragmento (“esto cuentan, la verdad, no sé”) 
+(303), propia del rumor y la oralidad, da cuenta de cómo está construido el 
+texto: la apelación a diversas fuentes escritas y orales, la introducción de voces 
+ajenas que conviven dentro de la de Beruti permiten considerar el dialogismo 
+que ha exhibido hasta el momento (Bajtin). Esta utilización de lo que desde la 
+lingüística se ha denominado extravocalización (introducir en el texto fuentes 
+de voces externas) no presenta, sin embargo, un uso uniforme25. Beruti establece 
+24 Respecto al concepto de pueblo, Beruti restringe su significado al “verdadero pueblo” confor­
+mado por los vecinos distinguidos; dice, por ejemplo respecto de la revolución de los orilleros de 
+1811: “Todo lo cual se hizo con el mejor orden, sosiego y arreglo que se podía desear, sacando 
+partido en cuanto quisieron los satélites del despotismo, suponiendo pueblo a la última plebe 
+del campo, con desdoro del verdadero del vecindario ilustre y sensato de esta ciudad, que ha 
+quedado burlado y no fue llamado para nada; pero bien sabían los facciosos que si hubieran 
+llamado al verdadero pueblo, no habría logrado sus planes el presidente” (166). Asimismo, la 
+denominación “pueblo” y su mutación semántica en el período revolucionario ha sido analizada 
+por numerosos críticos e historiadores; sólo a modo de guía, consúltese: Goldman, Cansanello, 
+Di Meglio (¡Viva el bajo pueblo!), Oieni, entre otros.
+25	 Una corriente lingüística (la Teoría de la Valoración) encabezada por Martín White retoma las 
+ideas bajtinianas de dialogismo. Reconoce la “heteroglosia” como un rasgo de los enuncia­
+36
+Virginia Paola Forace | 
+  XIX.1 (julio 2015) ISSN 1851-4669
+diversas relaciones de acercamiento y/o distanciamiento con esas fuentes, es decir, 
+muestra variaciones entre la apertura hacia otras voces y posturas alternativas 
+(la expansión dialógica) y el rechazo o confrontación de esas alternativas (la 
+contracción dialógica)26. De la primera hemos transcripto ya varios ejemplos 
+donde se observa cómo el cronista refiere a voces ajenas a veces compartiendo su 
+posición o manifestando cierto grado de distanciamiento o duda (la última, por 
+ejemplo). La refutación de fuentes aparece fundamentalmente en relación con las 
+informaciones aparecidas en la prensa, órgano que rápidamente fue aprovechado 
+por los diversos gobiernos para sus campañas. Por ejemplo, en 1828 luego del 
+fusilamiento de Manuel Dorrego escribe el cronista: “Esta infausta noticia lo ha 
+recibido la mayor parte del pueblo con desagrado y sentimiento, porque en el 
+tiempo que gobernó no hizo mal a ninguno […], y así cuanto dicen los papeles 
+públicos contra él son falsos, y sólo por cubrir el atroz atropellamiento que ha 
+ejecutado Lavalle los estampan para alucinar incautos” (401).
+La utilización de la prensa para atacar a los enemigos políticos no era algo 
+novedoso para Beruti luego de que la Primera Junta publicara La Gazeta de Buenos 
+Aires, por eso se encuentra advertido de la posible manipulación discursiva a la 
+que está expuesto como lector y se distancia de esas afirmaciones. Antecedentes de 
+este tipo de relación con las fuentes oficiales ya pueden rastrearse en su discurso 
+desde 1815 cuando, por ejemplo, introduce este revelador diálogo: 
+Estoy informado de un coronel juicioso, y por lo mismo lo manifestó, que 
+cuanto se ha dicho y vituperado denigrativamente contra los gobiernos que 
+han caído y sucedido unos tras de otros, como contra las personas que han 
+mandado de presidentes, de la primera junta, el gobierno ejecutivo, direc­
+tores, secretarios, etcétera, jefes militares y políticos es falso y no se debe de 
+creer, por no haberse probado cosa alguna […]; por lo que preguntando el 
+coronel, que por qué se les levantaba tantas especies y se daban en Gaceta 
+públicamente, me contestó diciendo que se hacía para acarrearles el odio 
+público […]; cuyas razones de este sujeto tan respetable, me han dado a no 
+creer cuanto se ha dicho de las personas de los anteriores gobernantes (267). 
+La situación dialógica reproducida indirectamente por el cronista abre su 
+texto no sólo a la posición del coronel, con quien comparte opinión, sino tam­
+dos que reconocen la existencia de otras voces y posturas alternativas. Dentro de esta categoría, 
+la teoría diferencia la extravocalización y la intravocalización: la primera introduce en el texto 
+fuentes de voces externas (corresponden al discurso reproducido, citado o reportado); la segunda 
+corresponde a la voz interna del autor, quien asume la responsabilidad de los enunciados emitidos 
+(Martín y White; White “Beyond modality”; Appraisal website).
+26	 White (“Beyond modality…”) señala estas dos opciones, la expansión dialógica y la contracción 
+dialógica, como recursos que amplían o limitan el potencial de un texto para construir la diver­
+sidad heteroglósica. Dentro de los primeros incluye la consideración (formulaciones que evocan 
+alternativas dialógicas como probabilidades) y la atribución (formulaciones que pueden sólo 
+reportar las palabras ajenas y/o distanciarse de ellas); dentro de los segundos, la refutación (el 
+rechazo directo o la contradicción de la posición dialógica opuesta), la proclamación (cuando la 
+voz textual desea señalar lo fuertemente involucrada que está con el punto de vista que emite).
+37
+  XIX.1 (julio 2015) ISSN 1851-4669 | La condición testimonial de un escritor en transición: Memorias curiosas…: 26-39
+bién a las diversas publicaciones aparecidas en la Gazeta, órgano oficial que ha 
+cambiado tanto de discurso como de gobierno a cargo.
+Autodesignación a partir del establecimiento de la ubicación espacio-tem­
+poral y del uso de la primera persona (“yo estuve allí”), pedido de ser creído 
+(“creedme”), apertura a la inclusión de otras voces para apoyar sus informaciones 
+(“si no me creéis, preguntad a otro”), todas son condiciones del testigo que están 
+en juego en el discurso de Beruti, quien se configura a sí mismo como tal en 
+orden de intentar reforzar la credibilidad de su relato.
+Palabras finales
+En el texto propuesto hemos podido observar cómo Beruti se configura 
+en un rol particular, el de “testigo”, intentando dar cuenta de lo acontecido de 
+forma fiable de acuerdo a las condiciones propias de ese papel (“yo estuve allí”, 
+“creedme”, “si no me creéis, preguntad a otro”).
+El interés testimonial de este cronista puede relacionarse con una conciencia 
+histórica propia del momento y con la aspiración referencial como criterio de 
+escritura en los textos de este período; en correlación a ellos debe entenderse la 
+preocupación expresada por la dimensión fiduciaria de su testimonio: Beruti 
+cree que su texto será de utilidad para futuros lectores y, si bien no está pensado 
+como una obra de intervención política, aun así existe la certeza de que será 
+provechoso, justamente porque aún no se ha construido el discurso de la historia 
+y la memoria necesita preservar los vaivenes de ese período de crisis y revolución 
+para cuando se constituya.
+En este sentido, este tipo registro subjetivo, como las escrituras autobiográfi­
+cas, cobra relevancia para reconstruir un haber sido ajeno a nuestra experiencia 
+presente; independientemente de las limitaciones propias que la modalidad elegida 
+les impone, el individuo y el caso particular ganan protagonismo para reconstruir 
+un contexto mayor, formas de pensar y representar, y/o preocupaciones de época. 
+La expresión de las opiniones de este testigo, al igual que el registro, no sólo de las 
+fuentes oficiales, sino también del rumor, las murmuraciones y el sentir general, 
+hacen que el texto adquiera aún mayor relevancia para comprender mejor no los 
+acontecimientos, sino la forma en que fueron vividos por sus contemporáneos.
+Referencias bibliográficas
+Austin, John. Cómo hacer cosas con palabras. Palabras y acciones. Barcelona: Pai­
+dós, 1998. 
+Ayrolo, Valentina. Acerca de la construcción del discurso histórico: a dos siglos de 
+las Invasiones inglesas… seguimos pensando y trabajando. Textos, fuentes y acti­
+vidades para ESB, Historia / Lengua y Literatura. Mar del Plata: Ediciones 
+Suárez-Grupo “Problemas y debates del siglo XIX”, 2007.
+38
+Virginia Paola Forace | 
+  XIX.1 (julio 2015) ISSN 1851-4669
+Bajtin, Mijail M. Problemas de la poética de Dostoievski. México: Fondo de Cultura 
+Económica, 1986.
+Beruti Juan Manuel. Memorias curiosas. Buenos Aires: Emecé, 2001.
+Caballé, Anna. “Memorias y autobiografías en España (siglos XIX y XX)”. La 
+autobiografía y sus problemas teóricos. Coord. Loureiro, Ángel. Suplementos 
+Anthropos 29. Barcelona: Editorial Anthropos, 1991. 143-169.
+Cadenas, Felipe. “Juan Manuel Beruti, el constante cronista”. Todo es Historia. 
+Revista mensual de divulgación histórica 1. 5 (septiembre 1967): 78-83.
+Cansanello, Oreste Carlos. “De súbditos a ciudadanos. Los pobladores rurales 
+bonaerenses entre el Antiguo Régimen y la Modernidad”. Boletín del Instituto 
+de Historia Argentina y Americana “Dr. Emilio Ravignani”, Tercera serie, 11 
+(ler. semestre 1995): 113-139.
+Coira, María. “La operación de escritura: Poner la cosa ante los ojos: la repre­
+sentación en tanto problema”. La serpiente y el nopal. Historia y ficción en la 
+novelística mexicana de los 80. Buenos Aires: El otro el mismo, 2009. 46-68.
+Cremonte, Néstor. La Gazeta de Buenos Ayres de 1810. Luces y sombras de la 
+ilustración revolucionaria. La Plata: Universidad Nacional de la Plata, 2010. 
+Di Meglio, Gabriel. “Ojos tenaces. El diario de Juan Manuel Beruti y el devenir 
+de Buenos Aires”. Desde este día adelante revolución. Voces del 25 de Mayo de 
+1810. Coord. Gustavo Paz. Buenos Aires: Eudeba, 2010. 175-180.
+___. ¡Viva el bajo pueblo! La plebe urbana de Buenos Aires y la política entre la 
+Revolución de Mayo y el Rosismo. Buenos Aires: Prometeo, 2007.
+Forace, Virginia P
+. “Cruces discursivos de la memoria pública y la privada: Memo­
+rias curiosas de Juan Manuel Beruti y la Gazeta de Buenos Aires”. Actas de las 
+VI Jornadas Internacionales de Filología y Lingüística y I de Crítica Genética 
+“Las lenguas del archivo”. Universidad Nacional de La Plata, 2014. En línea. 
+Consultado el 10 de octubre de 2012. 
+___. “Un hombre de letras entre el antiguo régimen y las nuevas repúblicas: 
+Memorias curiosas de Juan Manuel Beruti”. Bibliographica Americana. Revista 
+interdisciplinaria de estudios coloniales 8 (diciembre 2012): 159-169.
+Ginzburg, Carlo. El hilo de las huellas. Lo verdadero, lo falso, lo ficticio. Buenos 
+Aires: Fondo de Cultura Económica, 2010.
+Goldman, Noemí (dir.). Lenguaje y revolución: conceptos políticos clave en el Río 
+de la Plata, 1780-1850. Buenos Aires: Prometeo, 2010.
+Guerra, Francois-Xavier y otros. Los espacios públicos en Iberoamérica: ambigüedades 
+y problemas: siglos XVIII-XIX. México DF: Fondo de Cultura Económica, 1998.
+Jitrik, Noé. Historia e Imaginación literaria. Las posibilidades de un género. Buenos 
+Aires: Biblos, 1995.
+39
+  XIX.1 (julio 2015) ISSN 1851-4669 | La condición testimonial de un escritor en transición: Memorias curiosas…: 26-39
+Lejeune, Pierre. El pacto autobiográfico y otros estudios. Madrid: Megazul-End­
+ymion, 1994.
+Levi, Giovanni. “Sobre Microhistoria”. Formas de hacer historia. Ed. Burke, Peter. 
+Madrid: Alianza, 1993. 119-143. 
+Lozano, Jorge, Cristina Peña-Marín y Gonzalo Abril. Análisis del discurso. Hacia 
+una semiótica de la interacción textual. Madrid: Cátedra, 1982.
+Martin, James y Peter White. “Attitude. Ways of feeling”. The language of evalua­
+tion. Appraisal in English. New York: Palgrave Mac Millan, 2005. Traducción de 
+Viviana Iturburu para uso exclusivo de los alumnos de la Cátedra de Gramática 
+Textual, Facultad de Filosofía y Letras, Universidad de Buenos Aires, 2005. 
+Martínez Gramulia, Pablo. “Nuevos textos, nuevos (y viejos) lectores: la repre­
+sentación del público en los periódicos desde 1801 a 1810”. Tres momentos de 
+la cultura argentina: 1810-1910-2010. Comps. Baticuore, Graciela y Sandra 
+Gayol. Buenos Aires: Prometeo, 2011. 25-40.
+Molloy, Silvia. Acto de presencia. La escritura autobiográfica en Hispanoamérica. 
+México: El Colegio de México; Fondo de Cultura Económica, 2001.
+Oieni, Vicente. “Ciudadanía y revolución en el río de la plata 1806-1815”. 
+Historia Contemporánea 28 (2004): 311-334.
+Prieto, Adolfo. La literatura autobiográfica argentina. 1966. Buenos Aires: Centro 
+Editor de América Latina, 1982.
+Ricoeur, Paul. La memoria, la historia y el olvido. Trad. Agustín Neira. México: 
+Fondo de Cultura Económica, 2013.
+Romero, José Luis. “La biografía como género autobiográfico”. 1944. La vida 
+histórica. Buenos Aires: Sudamericana, 1988. 104-117.
+Searle, John R. Actos de habla. Ensayo de filosofía del lenguaje. Madrid: Cátedra, 1980.
+Souza, Adriana Barreto y Fábio Henrique Lopes. “Entrevista com Sabina Loriga: 
+a biografia como problema”. História da historiografia 9 (2012): 26-37. 
+Weintraub, Karl. “Autobiografía y conciencia histórica”. La autobiografía y sus 
+problemas teóricos. Coord. Loureiro, Ángel. Suplementos Anthropos 29. Bar­
+celona: Editorial Anthropos, 1991.18-33.
+White, Peter. The Appraisal website: The language of Attitude, Arguability and Inter­
+personal Positioning. 2004. Consultado en línea el 11 de noviembre de 2013.
+___. “Beyond modality and hedging: A dialogic view of the language of inter­
+subjective stance”. Text 23. 2 (2003): 259-284. 
+Fecha de recepción: 12/12/2013 / Fecha de aceptación: 02/12/2014

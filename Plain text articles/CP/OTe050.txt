@@ -1,0 +1,517 @@
+ARTÍCULO / ARTICLE
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios de Teoría y Crítica Literaria
+Cómo se investiga un crimen.
+Detectives y literatura detectivesca en 
+Buenos Aires entre los siglos XIX y XX
+Lila Caimari *
+                                * Universidad de San Andrés, Argentina.
+PALABRAS CLAVE
+Literatura policial
+Cultura policial
+Policía, historia
+Detectives, historia
+RESUMEN
+ Apoyándose en un corpus de escritos informales de policías de la ciudad de Buenos Aires
+publicados entre fines del siglo XIX y principios del XX, el trabajo se ocupa de las
+narrativas de la pesquisa nacidas en el seno de la institución policial. Argumenta que en el
+contexto decimonónico de expansión de un imaginario literario de la detección, los
+policías  debieron  redoblar  esfuerzos  para  construir  una  voz  profesional  sobre  la
+investigación y el quehacer de los detectives estatales, y que esos esfuerzos resultaron en
+discursos no del todo autónomos de las reglas de la ficción. A lo largo de su desarrollo, el
+trabajo reflexiona, además, sobre la relación entre policía, literatura policial y culturas
+policiales.
+KEYWORDS
+Police literature
+Police culture
+Police, history
+Detectives, history
+ABSTRACT
+ Drawing from a body of informal writing authored by Buenos Aires policemen between the
+late 19th and the early 20th centuries, this article deals with informal chronicles of
+detective  investigation. It  argues  that  in  the  context  of  the  expansion of  a literary
+imagination about detection, in the late 19th century, it was hard for policemen to build up
+a professional voice about the work of public detectives. Ultimately, their discourse was
+never completely free from the influence of literary voices. Moreover, the article reflects
+on the complex relationship between the police force, detective literature and police
+cultures.
+Cita sugerida: Caimari, L. (2017). Cómo se investiga un crimen. Detectives y literatura detectivesca en Buenos Aires
+entre los siglos XIX y XX. Orbis Tertius, 22(26), e050. https://doi.org/10.24215/18517811e050
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+Entre el gremio policial argentino,
+para no hacer mención de los extraños,
+las obras de Conan Doyle despertaron siempre vivo interés.1
+Este trabajo se interroga sobre la relación entre la narrativa policial literaria y la narrativa de la pesquisa nacida en
+las agencias estatales del orden, en un momento de reforma profesionalizadora de la práctica de la investigación
+policial de Buenos Aires. El origen de este interrogante se sitúa en un conjunto de investigaciones en el Centro de
+Estudios Históricos de la Policía Federal, donde tomé contacto con un vasto universo de textos “de afición”
+escritos por policías entre fines del siglo XIX y mediados del XX. Dicho  corpus incluía crónicas en primera
+persona,  incursiones  en  el  tango,  ficción,  abundante  poesía  y  colecciones  de  guiones  radioteatrales,
+cinematográficos y televisivos, entre otros materiales. El análisis de esos textos pronto delineó un argumento
+general en relación al papel primordial de la experiencia en la práctica escrita de los policías: la experiencia, y la
+experiencia sola, provee un repertorio de temas —la calle, los márgenes, la noche, el sufrimiento, el crimen—
+sobre los que la policía siempre ha reclamado autoridad cognitiva superior (Caimari 2012; 2013).
+Proveedora de materia prima, entonces, la experiencia policial funciona en el doble sentido de acumulación de
+saberes vivenciales y de intimidad con el peligro. La palabra “experiencia”, recordemos, lleva inscripta en su
+etimología la noción de superación de un riesgo. Comparte una raíz con “experimento” y “experto”, pero también
+con “perilous” (peligroso) (Yi-Fu-Tuan 2008: 9). En esta concepción activa del término, tener experiencia implica
+haberse aventurado en lo que no es familiar, en lo incierto y potencialmente amenazante: en lo que es oscuramente
+desconocido a los profanos. La experiencia que reclama el policía que escribe sitúa esa forma de la puesta en
+riesgo (que puede tener sentido físico o emocional) en el centro de su campo de sentido. Sobre la exaltación de
+esta diferencia, el policía radicaliza su posición en relación a interlocutores y competidores que se aventuran en la
+narración de los mismos temas —criminólogos, juristas, escritores, periodistas (Monjardet 1994: 224). La simple
+colocación del policía de calle en relación al mundo  real lo inviste de una insuperable ventaja cognitiva, lo
+convierte en autoridad última de un saber que es social, urbano y existencial. Así pues, la experiencia preside
+sobre la práctica de la escritura, marca lo que la hace única, es prueba de una forma de distinción rea que opera
+tanto hacia dentro como hacia fuera de la institución.
+Partiendo de esta idea general, este trabajo se detiene en un núcleo de narrativas tempranas de la investigación
+policial del crimen. Sus autores constituyen un grupo mezclado —pesquisas, sumariantes, policías de calle— que
+en su relato del quehacer de la investigación entrelazaron saber policial con dosis diversas de escritura literaria y
+burocrática.
+Detectives y literatura detectivesca
+“¿Leen novelas policiales los policías?”. En los años que van de 1969 a 1989, el comisario Eugenio Zappietro
+volvió varias veces sobre el asunto. Volvió porque su respuesta era afirmativa: los policías leen policiales. Como
+tantos, leen por el placer de desentrañar misterios. Pero también leen por curiosidad profesional, porque su
+experiencia les permite comparar realidad y ficción: “(…) esto es, la tarea policial cotidiana y la novela que se
+hace en un escritorio, planificando las dosis de misterio, violencia y acción.” (Zappietro 1986) Si el diagnóstico
+era difícil de comprobar, desde su puesto de director de la revista oficial de la Policía Federal Argentina, Mundo
+Policial,  Zappietro  hizo  lo  posible  por  confirmar  este  vínculo,  difundiendo  reseñas  y  comentarios  de  las
+novedades literarias locales e internacionales. Esta ecléctica revista institucional fue, entre otras cosas, una
+empresa de instrucción básica sobre el género policial, con extensas semblanzas de Georges Simenon, Edgar
+Wallace, Wilkie Collins, Conan Doyle, Agatha Christie, William Irish, John MacDonald, John Le Carré, entre
+otros.
+Aunque ningún órgano oficial había dedicado tanto espacio al tema, la cuestión del vínculo entre pesquisas
+ficticios y reales ya era conocida en los ámbitos ilustrados de la institución. En 1934, por ejemplo, la colección de
+libros “Biblioteca Policial” (antecesora de la Editorial Policial) se había inaugurado con el título  Policías de
+2
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+novela y policías de laboratorio, del célebre criminalista francés Edmond Locard —él mismo autor de memorias
+y textos periodísticos (Locard 1934). Allí se trazaba un paralelo entre los personajes de la literatura de enigma y el
+trabajo de la detección real. Se ocupaba de Sherlock Holmes, por supuesto, pero también del Monsieur Lecoq de
+Émile Gaboriau y del Dupin de Edgar Allan Poe, personajes que a esas alturas eran viejos conocidos de los
+lectores porteños (Lafforgue y Rivera 1996: 13; Laplaza 1945: 48-49; Setton 2009: 282; 2015). Que esta obra de
+Locard, de amplia difusión internacional, encabezara la primera colección de libros editados por la policía porteña
+fue responsabilidad del director de la empresa, Enrique Fentanes, animador de otras iniciativas educativas y figura
+próxima a los círculos oficiales. Según se indicaba, la traducción del francés era obra del mismísimo Jefe de
+Policía de la Capital, coronel Luis J. García.
+¿Por qué incluir a los héroes de la ficción policial en las publicaciones internas de la policía? Al instalar en el
+imaginario popular al detective de perfil intelectual y metodología elegante, argumentaba Locard, la literatura
+contribuía a restaurar el respeto perdido gracias a los retratos del agente rústico de las novelas de Balzac y Victor
+Hugo. Locard atribuía un poder considerable a la literatura en la difusión de imágenes de la policía: si las cosas
+habían mejorado y los representantes de las fuerzas del orden de su tiempo gozaban de una estima relativa, esto se
+debía sobre todo a cambios en el tratamiento de estas figuras en esas novelas que “despertaban en el corazón de
+todo hombre al policía que en él dormita.” (Locard 1934: 11). La literatura podía (debía) participar de la empresa
+de transición del policía rústico al policía civilizado. Y además de proyectar una imagen culta, podía inspirar
+práctica efectiva. Argumentos apolíneos y énfasis en las destrezas de la mente eran ejercicios aconsejables para los
+policías, entonces, y por este camino, la jerarquía institucional emuló muchas veces el argumento de Locard en
+relación al potencial civilizatorio del cuento y la novela policial.
+Por cierto, la policía porteña abrevaba de un universo de ficción “criminal” desde mediados del siglo XIX, cuando
+la moda del folletín y las “causas célebres” se había instalado en la prensa escrita. La emblemática compilación de
+Albert Bataille, Causas criminales y mundanas del año 1880 fue traducido por la Policía de la Capital en 1895
+“para instrucción de su personal”, según rezaba la portada (Laplaza 1945: 44; Galeano 2009: 112; Barry 2008). La
+ficción de Victor Hugo también ofrecía material aprovechable. El inspector Javert — personaje de Los Miserables
+inspirado en las memorias de policías parisinos— tuvo un lugar en el imaginario de la fuerza porteña desde fines
+del siglo XIX, y de la misma cantera provenían modelos románticos de transgresor.
+Es sabido que la causa célebre europea (la francesa en especial) tuvo una circulación transnacional muy extendida.
+Género híbrido, se nutría de la reproducción (o la imitación) de los alegatos desplegados en esos teatros del drama
+criminal que eran los juicios orales de las grandes ciudades europeas, que nutrían la humana curiosidad por el
+misterio del delincuente. Pronto pasaron por el tamiz del caso célebre algunos episodios locales, como el crimen
+de Barranca Yaco o la ejecución de Camila O’Gorman (Laplaza 1945: 30). La flamante  Revista de Policía
+introdujo casos de este tipo desde el comienzo:
+[La Revista de Policía] no descuidará tampoco una sección de lectura amena que encierre un fondo de 
+enseñanza en cuestiones de este género y ejerciten la imaginación del agente, hincándolo en los medios de
+pesquisa o de investigación con que se consigue sorprender muchos criminales.2
+“Lectura  amena”  significaba,  en  este  caso,  lectura  que  combinaba  instrucción,  testimonio  y  ficción.  Las
+narraciones sensacionales servirían para allanar el difícil camino de la profesionalización de la tropa, por entonces
+prioritario en la agenda institucional.
+En sus líneas generales, los criterios de selección que aplicaban las revistas policiales no eran muy diversos de los
+del periodismo masivo. El espacio concedido al envenenador Castruccio, por ejemplo, se justificaba porque “La
+prensa diaria ha alimentado durante varios días la natural curiosidad en estos casos”. El perfil de asesino nato y el
+gran retrato a lápiz que lo acompañaba echaba mano de la misma colección de elementos científico-novelescos de
+sesgo morboso y voyeurista que había asegurado el éxito de su historia en sede periodística.3 Pronto aparecieron
+relatos de los casos más sonados de la jurisdicción, intercalando los ocurridos en París con secciones sobre
+3
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+criminales locales salidos de los reportes del mes – criminografías, en términos de Diego Galeano (Galeano 2009:
+111). La Revista de Policía aprovechaba estas coberturas para dar lecciones de procedimiento:
+Con motivo del crimen que ha conmovido últimamente la población de la capital, es conveniente hacer 
+resaltar la necesidad de lo delicadas que son las primeras medidas que deben tomarse para evitar que los 
+rastros dejados por los criminales sean borrados ó alterados, siendo ellos innumerosos casos los del  
+procedimiento ulterior.4
+En versiones menos confrontativas de la autoridad pero no menos sensacionalistas que las de los diarios, los
+perfiles de criminales seguirían llenando páginas de las revistas policiales hasta muy entrado el siglo XX.
+Tensionada entre los mandatos profesionalizadores y los de la cultura masiva que también entretenía a los policías,
+esta encarnación de la prensa del crimen nunca perdió de vista su relación problemática con el género periodístico
+y literario. Así, los grandes casos incluidos en sus páginas convivían con editoriales críticos de la fascinación
+morbosa de los tiempos modernos, y con llamados al disciplinamiento de los policías cómplices del periodismo
+sensacional.
+Como es evidente, todo esto plantea preguntas sobre la especificidad del punto de vista de los policías. Los
+redactores de las revistas institucionales no podían sustraerse a un contexto saturado de narraciones sobre su
+objeto de trabajo, allí donde diarios y revistas definían, cada día y en miles de ejemplares, los términos simbólicos
+del crimen. A pesar de las críticas al sensacionalismo, la policía participaba (y seguiría participando por muchos
+años) de una red de préstamos amplia y permisiva, donde las influencias iban en varias direcciones.
+A fines del siglo XIX, la curiosidad por el delincuente fue desplazada por la fijación en el detective. Las razones
+del deslizamiento del drama criminal al héroe detectivesco no son claras —las interpretaciones extra-literarias
+aluden a cambios en el sistema legal inglés, que mejoraron la percepción pública de la justicia y la policía
+(Shpaier Makov 2011: 226). Al pasar del drama tribunalicio a los laberintos de la pesquisa, la ficción comenzó a
+depositar expectativas de emoción y entretenimiento en una actividad que atañía más directamente a la policía. El
+giro de la literatura tuvo ecos en las publicaciones de la profesión. En 1900, por ejemplo, la Revista de Policía de
+la Provincia de Buenos Aires publicaba como folletín, en varias entregas, la novela de Gaboriau, El crimen de
+Orcival, recomendando especialmente la lectura, porque “Trata de una de las notables pesquisas del célebre M.
+Lecoq, el agente de seguridad de más genio investigador que se ha conocido.”5
+El ingreso de la ficción detectivesca a las bibliotecas policiales no resultó sencillo, sin embargo. El primer escollo
+remitía a las premisas mismas del género, pues en la literatura de enigma el cumplimiento de la ley y la captura
+del transgresor eran objetivos secundarios. Peor aun: esos elementos podían estar ausentes sin que dejara de
+cumplirse la misión última del género, que era la de develar una trama indicial hacia la verdad. Como se ha
+señalado a menudo, la devaluación del pesquisante estatal era uno de los supuestos fundantes de la literatura
+policial clásica, donde inspectores e investigadores institucionales funcionaban como figuras de la equivocación o
+del ridículo. En el mejor de los casos, eran tácitamente subestimados (Miller 1988: 3). Los policías no estaban
+para lucirse, sino para subrayar con sus torpezas el talento del detective privado —una operación evidente, por
+ejemplo, en el tratamiento que Conan Doyle reservaba a los interlocutores de su héroe Sherlock Holmes.
+Observar la difusión del género detectivesco desde el punto de vista de los intereses de la policía permite volver
+sobre la noción del poder subversivo (o erosionante) de esta ficción. Pues esta idea, tan visitada en sede literaria,
+ha contribuido a ocultar otra, que resulta evidente al pensar el problema desde el punto de vista de los intereses de
+la institución policial: no obstante los desafíos a la autoridad que planteaba la ficción de detectives, la moda de la
+pesquisa operó como una aliada en sentidos que fueron decisivos en el largo plazo. En un contexto de trabajosa
+profesionalización de tropas policiales analfabetas, rústicas y mal equipadas, las historias de detectives pusieron
+en escena una de las raras dimensiones del quehacer policial donde primaban la razón y la ciencia. La descripción
+de la ficción de enigma como un dispositivo eminentemente crítico de la policía, en efecto, no debería pasar por
+alto que el auge de esta literatura coincidió con la construcción simbólica de la institución en muchas ciudades del
+4
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+mundo, y con el momento liminal de modernización de las policías urbanas. La policía moderna tiene, de hecho,
+una deuda fundamental con la ficción de la detección, una deuda que no se reduce a la elevación intelectual de la
+tropa, como quería la minoría de policías ilustrados. Es una deuda que toca a la construcción de una imagen de la
+institución en el público masivo, a la fijación de nociones de lo que hace la policía, de sus tareas y funciones en la
+sociedad. En este plano, el policial de enigma (como el procedimental, y como tanta ficción cinematográfica y
+televisiva contemporánea) cumplió una función ideológica principal, relegando a segundo plano los desencuentros
+y decepciones que la literatura deparó a los lectores policías. Al entronizar la aventura de la investigación, operó
+un recorte del quehacer policial que aisló y enfatizó capacidades técnicas, aptitudes intelectuales y sensibilidades
+perceptivas. El lugar paradigmático de la policía quedó definido en la escena del crimen, en los laboratorios o en
+los despachos donde se ponderaban hipótesis. Aun si resultaban fallidas—aun cuando ese policía se equivocaba,
+aun cuando era puesto en ridículo—estas intervenciones se mantuvieron ajenas al núcleo coercitivo que sostenía
+(sostiene) la inmensa mayoría de las intervenciones policiales del mundo real (Waddington: 1999).
+Los enigmas literarios fundantes, y sus famosos detectives, colaboraron en una empresa simbólica difícil y muy
+cara a la institución policial. Fijaron la noción —objetivamente falsa, pero esencial a la construcción de una
+imagen de modernidad— de que la principal ocupación de la policía era la lucha contra el delito, la investigación
+sostenida del delito. Al hacerlo, distrajeron (distraen) de lo que la policía efectivamente hace. Es decir, de esa
+forma de patrullamiento genérico, indeterminado y a menudo brutal que constituye (siempre ha constituido) el
+universo cotidiano de la policía urbana.
+Pedagogías correctivas
+Los policías deberían leer policiales, decía la jefatura porteña. Pero muy pocos se animaban a escribirlos. Género
+exigente y codificado, el policial no se prestaba a las incursiones literarias “blandas”: esos esfuerzos conducían
+por los caminos permisivos y sentimentales del melodrama, la viñeta picaresca o el poema elegíaco, muy visitados
+por la tropa policial (Sirimarco: 2010; Caimari 2012: 197).
+La primera y principal vía de abordaje del policial literario tenía un sesgo correctivo—policíaco más que policial.
+Estaba marcada por la tensión entre literatura y verdad, por la validación de la autoridad cognitiva puesta en riesgo
+por la ficción. Era un ejercicio de cotejo incesante, donde la narración del pesquisa estatal procuraba competir con
+las voces forjadas por fuera de la experiencia del crimen. Es lo que hacía, por ejemplo, el comisario Laurentino
+Mejías en su libro de memorias,  Policíacas(1927), donde procuraba corregir las fábulas del escritor Eduardo
+Gutiérrez apelando a la voz de la experiencia. Contra los mitos construidos por la literatura, la autoridad del
+policía invocaba su pergamino esencial, apelando a los detalles que sólo podían provenir del contacto personalcon
+el caso.6
+Para quienes transitaron el camino de la práctica de la detección a la escritura de la detección, este ejercicio de
+autoridad era difícil de resistir. En verdad, la operación ya era frecuente entre los detectives de ciudades europeas
+de mediados del siglo XIX: las narrativas de los “misterios de la ciudad”, que tanta fortuna internacional lograron
+a partir de las variaciones locales sobre el modelo de los Mystères de Paris de Eugène Sue, pronto encontraron
+respuesta del oficial Vidocq, cuya obra Les Vraies Mystères de Paris incluía el programa correctivo en el mismo
+título (Kalifa 2013: 337). Los detectives de Scotland Yard, por su parte, se lanzaron a escribir para corregir la
+imagen de su quehacer producido por el éxito planetario de las novelas de Sherlock Holmes (Shpaier-Makov
+2006: 122).
+El impulso correctivo es tan perdurable en el tiempo y tan extendida en el espacio, que obliga a reflexionar sobre
+la  singular  posición  del  policía  memorialista.  Otros  profesionales  han  incursionado  en  la  crónica  y  la
+ficcionalización, por supuesto, pero ninguno ha debido hacerse cargo de las pautas establecidas en un género
+literario con códigos mundialmente aceptados y canales de difusión masivos. Desde fines del siglo XIX —el
+momento de despegue del proceso de profesionalización del cuerpo policial— el policía dispuesto a narrar su
+relación con el mundo del delito sabía que competía en desventaja con cuentos, novelas, periodismo (y más tarde,
+5
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+con el cine y la televisión). Sus narraciones existirían en el marco de una frondosa imaginación cuyas lógicas
+podían hacer la mímica del quehacer policial, pero le eran ajenas.
+Corregir esta brecha era un propósito central, permanente (y fallido) de las primeras crónicas de la detección. Ya
+en 1912, el comisario Alberto Dellepiane dedicaba el prólogo de sus  Memorias de un detective a deplorar la
+influencia de las novelas de Conan Doyle, responsables de lanzar la opinión “por un singular derrotero, que tiene
+mucho más de fantástico que de real” (Dellepiane 1912: 5). Dellepiane atacaba el endiosamiento del detective
+genial a partir de deducciones que consideraba habituales en cualquier cabeza pensante de la policía. Su libro
+estaba dedicado a mostrar que los detectives verdaderos, como él, no se limitaban a disolverse mansamente ante
+los rayos de inspiración de mentes superiores. Una agenda similar informaba la reflexión del prestigioso oficial
+carioca Elysio de Carvalho. En Sherlock Holmes en Brasil sostenía que la obra de Conan Doyle no era más que
+una “pálida copia de la realidad palpitante”, que el público lector debería conocer mejor (Galeano 2012: 71).
+En un mundo donde la ficción de detectives parecía indetenible, los pesquisas más astutos no luchaban contra la
+literatura: se servían de ella para subrayar la distinción entre la seriedad del experto y la fantasía del artista. Luego
+de dirigir la más poderosa agencia de detectives de Estados Unidos, por ejemplo, Allan Pinkerton dedicó muchas
+páginas a demostrar que el ejercicio de la detección no se parecía en absoluto a las novelas de detección tan de
+moda en esa vuelta del siglo XX —estableciendo, de paso, que lo que hacía su agencia era cosa de profesionales y
+no de amateurs. La detección era un business sin nada misterioso, oscuro ni milagroso (Raczkowski 2003; Frisby
+2007).
+Como es sabido, credenciales similares sirvieron a Dashiell Hammett —que saltó a la fama luego de varios años
+como empleado de Pinkerton— para construir un lugar en el campo literario de entreguerras. Mientras se ganaba
+la vida reseñando libros, subrayaba con deleite las gaffes de sus colegas del género, que escribían como si sacaran
+sus ideas del métier de cursos por correo sobre Cómo ser detective. Incluso les dedicó un humillante catálogo de
+datos útiles: la diferencia entre un revólver y una pistola, la verosimilitud del uso del silenciador en escenas de
+homicidio, la secuencia del dolor que producían una herida de bala y una de arma blanca, etc. (Johnson 1985: 117-
+120).
+Entre los autores de policiales argentinos, no faltaron quienes respondieron a la crítica de los experimentados en la
+detección. No eran muchos, claro, pues la disociación entre ambas esferas era consideraba demasiado evidente
+para detenerse en la cuestión. Decía Borges: “El cuento policial nada tiene que ver con la investigación policial,
+con las minucias de la toxicología y la balística.” (1945: 74). Tardíamente, el escritor Adolfo Pérez Zelaschi
+entabló un diálogo con los policías porteños. Como disciplinado cultor del policial entendido como “una
+investigación racional de la violación de la norma”, Pérez Zelaschi procuraba diferenciarlo de la andanada de
+“falsos” policiales que circulaban en las industrias culturales, y que bajo ese rótulo narraban toda clase de
+aventuras. Era en la racionalidad de la investigación donde el escritor verdaderamente comprometido con el
+género establecía una alianza con el policial “verdad” de los policías: “El azar, el porque sí, lo casual, lo fortuito,
+lo no justificable, lo irracional, lo gratuito le son extraños, y este rasgo es el que diferencia al género de la novela,
+teatro o filme de aventuras, donde todas estas circunstancias tienen cabida normal. Y están proscritos de la policía-
+ficción porque también lo están de la policía-verdad” (Pérez Zelaschi 1985: 85). De modo que una investigación
+racional (es decir, policial en ambos sentidos) debía conducir, en los dos casos, a resultados verosímiles, creíbles,
+perfectamente explicables, aunque ese desenlace resultara poco habitual, y aun sorprendente. En ese punto
+mínimo pero básico es donde se encontraban ambas narrativas. El escritor podía no instruir un sumario tal como
+verdaderamente se instruía un sumario, pero no podía llevar este desapego demasiado lejos sin poner en riesgo la
+credibilidad de su historia. Debía tomar algunos de estos elementos, pero no todos: “Si se atuviera a todos estaría
+haciendo historia policial que desde luego es otra cosa.”
+El apego a la realidad que tanto importaba a algunos policías escritores no era en absoluto suficiente para el éxito,
+decía Pérez Zelaschi, volviendo decidido al corazón de la lógica literaria. La insistencia en los errores del escritor
+marcaba el límite literario de los policías, observaba, porque el ambiente debía ser verosímil al lector promedio
+6
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+(no al policía) “confirmándome en mi opinión de que la parte de realidad que la policía-ficción requiere es poca”
+(Pérez Zelaschi 1985: 87).
+Escrituras burocráticas, escrituras de afición
+La literatura y el periodismo de fines del siglo XIX alcanzan y sobran para explicar la temprana tentación
+narrativa entre investigadores de la policía de Buenos Aires. Pero otro origen no menos decisivo reside en los
+géneros burocráticos donde cada día se relataban las peripecias de la calle, el conflicto, la transgresión, la
+investigación, pues la policía es (siempre ha sido) la agencia estatal más sistemáticamente abocada al registro
+escrito de la vida urbana (Milliot 2006). De esos géneros policial-burocráticos, el más antiguo era el sumario.
+Cuando se denunciaba un crimen, la principal intervención de la policía consistía —y ha consistido por casi dos
+siglos— en reunir la evidencia recogida en las horas inmediatamente posteriores al hecho, hasta la intervención
+del juez de instrucción (Rebollo 1916: 13-17). En toda comisaría moderna, entonces, ha habido policías dedicados
+a pasar al lenguaje escrito los relatos orales de los testigos. Esa narrativa estaba destinada a abrir y nutrir causas,
+no a decidirlas. En otras palabras: funcionaba como disparador de la justicia, donde luego se retomaban y
+procesaban los datos según regímenes de verdad y criterios de admisibilidad altamente codificados. Así pues, la
+policía traducía peripecias de patrullaje y escenas de comisaría a un sumario, que debía ser compatible con otra
+burocracia, la judicial. (En esta transmisión reside la frontera más crítica entre policía y justicia, y una de sus
+principales zonas de tensión.)
+Para guiar esta práctica narrativa, los agentes sumariantes se han servido del saber-hacer adquirido y transmitido
+por los veteranos del oficio: adaptación según el juez de turno, manejo de los tiempos y dosificación de la
+información en relación a la justicia y los medios de comunicación de cada época (Bianciotto 2014: 305). Antes de
+eso, los sumariantes han recurrido a manuales especiales. Allí se indicaban las reglas procedimentales (quién
+podía intervenir sobre quién, y en qué circunstancias) y se proveían los formularios para cada instancia de
+transcripción de incidentes, delitos o accidentes. El sumario, se indicaba a los policías, “no es una monografía
+jurídica o científica médica ni una prueba de literatura”. Sí requiere simplicidad y claridad, “con lo cual se
+facilitará al juez todo lo más posible para que pueda formarse un juicio, una impresión clara de la naturaleza y
+circunstancias del delito.” (Rebollo 1916: 33; Coquibús 1958: 790).
+La misión del sumario era relatar una historia verosímil, que reservaba lugar para detalles y peripecias. Una
+codificación estricta regía el encabezamiento, pero luego el texto podía avanzar con libertad considerable en la
+recolección y exposición de pruebas y testimonios. A diferencia de la causa judicial, que se engrosaba con tiempo
+y múltiples intervenciones, el sumario surgía de una sola pluma, “en caliente”, con rapidez y astucias del oficio.
+Era una narración recogida en la comisaría a partir de lo ocurrido en la calle “hace aproximadamente una hora”,
+que testigos e imputados relatan sin mediación (ni prevención) de un abogado. El texto que escribía ese policía era
+el primer registro del incidente en cuestión, y debía responder a una estética estatal, a una  forma capaz de
+convertir la suma de narrativas orales en una versión que lograra abrir un expediente. El inmenso “poder
+sumarial” de la policía reside precisamente en esa posibilidad de narrar  primero que nadie, de establecer los
+carriles de sentido por los que transcurrirán las reconstrucciones ulteriores. Es una forma de poder que necesita del
+cultivo de capacidades específicas de escritura. Y del más somero vistazo a estos documentos se desprende la
+posibilidad de una deriva narrativa. La opción periodística o memorialística no está lejos del oficial sumariante,
+que además de escribir diariamente, lee folletines y quizás también libros.
+El segundo género burocrático que subyace a las crónicas de los detectives porteños es el informe de pesquisa,
+producido en el seno de la División Investigaciones. Área clave del Departamento de Policía, esta repartición era
+descendiente de la Policía de Pesquisas, formalizada en 1886. Su intervención (con jurisdicción sobre todo el
+territorio  de  la  ciudad)  incluía  áreas  tan  críticas  como  “Robos  y  Hurtos”,  “Defraudaciones  y  Estafas”,
+“Identificación” y reparticiones dedicadas al espionaje político. En Investigaciones nacieron los prontuarios
+policiales. Y allí también se desarrolló una burocracia especializada en la redacción de “casos”, cuyos avances
+parciales se elevaban al jefe de sección, quien a su vez se servía de estos insumos para la redacción de un informe
+7
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+anual a la jefatura. A veces, los veteranos de Investigaciones se sentaban a escribir, tentados por alguna editorial,
+por contactos periodísticos, o por el deseo de dejar testimonio a los discípulos en el métier de la detección.
+Escribir es (siempre ha sido) una tarea importante del policía de investigación. La observación etnográfica
+contemporánea muestra que en estas reparticiones se pasa mucho tiempo traduciendo la evidencia disponible a los
+lenguajes institucionales. Los estudios son convergentes: el detective-empleado dedica la mitad de sus esfuerzos a
+“legalizar” los casos—es decir, a transformar los hallazgos a informes escritos, de tal manera que la formulación
+de los expedientes satisfaga requerimientos formales (Greenwood 1979; Tarling y Burrows 1985; Thornton 1991).
+Lamentablemente,  no  disponemos  todavía  de  estudios  del  quehacer  de  los  detectives  argentinos  (o
+latinoamericanos en general), aunque hay pocas dudas en relación al peso de la narrativa burocrática en la
+escritura sobre la investigación del crimen. Al trasladar casos para la pedagogía o el entretenimiento, los policías
+traían al ámbito de la cultura masiva destrezas adquiridas en años de cultivo de otros géneros, con reglas
+expresivas y propias reglas de verosimilitud.
+Ser pesquisa en un mundo de pesquisas
+En Buenos Aires, la tradición de crónicas de la pesquisa se desarrolló inicialmente bajo la moda del folletín, las
+causas célebres, los “misterios de la ciudad” y la literatura de enigma, que involucraba a los profesionales de la
+detección a la vez como consumidores y partícipes.
+A fines del siglo XIX, cuando el crimen se consagraba como tema de entretenimiento masivo, y el detective
+devenía en personaje de la imaginación colectiva, la práctica de la investigación criminal de la policía de Buenos
+Aires atravesaba un umbral importante de profesionalización. Esto involucraba dos dimensiones centrales: la
+constitución de una rama específica (la mencionada División Investigaciones) y la adopción de un conjunto de
+técnicas, como la dactiloscopia y la balística.7 Así pues, los investigadores de la policía adquirían su expertise en
+una sociedad donde dicho quehacer constituía el objeto de discursos de estatus muy diverso —científico y
+profano, real, semi-real, ficcional. Como hemos visto, el giro de la literatura tuvo ecos en las publicaciones de la
+profesión. La Revista de Policía pronto publicó crónicas informales de la investigación, firmadas por miembros de
+la fuerza.8 Tiempo después, algunos pesquisas porteños se lanzaban a participar en una ambiciosa empresa
+periodística.
+En 1911 aparecía la revista semanal  Sherlock Holmes, “como consecuencia de una necesidad que existe”.
+Proponía desarrollar, mediante investigaciones propias, las fragmentarias noticias policiales de los diarios:
+Sherlock Holmes hará su pesquisa propia; intervendrá en todas las incidencias de la vida policial  
+metropolitana, para reconstruir con sus datos la escena en sus más mínimos detalles; para presentarla con 
+todos sus matices de novela; con toda su intensidad de delito (…)9
+El nombre de la revista habla del éxito que auguraba la figura del detective inglés a una empresa de ambiciones
+masivas. Usando definiciones de la pesquisa que abarcaban la práctica de profesionales, amateurs, imitadores y
+bromistas, el magazine de “lo policial” dedicaba páginas a juegos de “gentlemen detectives”, y a folletines
+apócrifos como “Sherlock Holmes en Buenos Aires”, firmado por Juan de León. El semanario compendiaba todo
+lo que ofrecía la frontera periodística de “lo policial”, que era mucho (Caimari 2015). En poco tiempo, Sherlock
+Holmes acusaba 50.000 ejemplares semanales.
+El lugar de la policía en esta empresa era a la vez omnipresente e inestable. Ciertamente, Sherlock Holmes era una
+revista amiga de la fuerza, pero generaba un tipo de exposición de implicancias ambiguas. Como en las ficciones
+de Eduardo Gutiérrez, volvieron a circular aquí los nombres de jefes de policía de la vida real. En “Sherlock
+Holmes en el Plata”, folletín publicado en tres entregas, se describía la visita del famoso detective y su amigo y
+narrador, Watson, llamados a auxiliar a la policía porteña en su lucha contra el anarquismo. El centro del relato
+transcurría en el Departamento de Policía, donde Holmes (inicialmente sospechoso de responsabilidad en el
+8
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+crimen) explicaba al sorprendido nuevo jefe, Luis Dellepiane, la trama oculta del caso. Tras una laberíntica
+historia de huellas, disfraces y confusiones de identidad, los policías se entregaban a la superioridad del detective,
+y lograban capturar al temible Simon Radowitzky. “El orden y la tranquilidad están asegurados por mucho tiempo
+en Buenos Aires”, decía Watson. “Nos volvemos a Londres”.10
+En estos juegos había un distintivo alarde de intimidad con la policía. Se hablaba del quehacer de la institución en
+tono familiar, cuando no se hacía propaganda lisa y llana. La cobertura de pesquisas entró en este marco, que
+incluía la promoción de las bondades de la División Investigaciones y la celebración de la pericia de sus
+detectives. Pero aun si no había dudas en relación a la vocación filo-policial, la lógica periodística (masiva y
+divertida) imponía otras reglas. Con el tiempo, apareció el reportero-detective ficcional “Sifro”, que resolvía casos
+mejor que la policía. Y en este marco a la vez tentador e incierto se difundió, también, la palabra de los policías
+detectives.  Apelando  a su  arma  principal  —la  autoridad  que  otorgaba  acceso  a información  exclusiva,  la
+experiencia en la escena del crimen— varios ofrecieron a  Sherlock Holmes la narración de “Una de mis
+pesquisas”.
+¿Qué relataban los “pesquisantes”? Indagaciones relativamente sencillas ocurridas durante su actividad en la
+fuerza, módicos misterios del pasado, reconstruidos con lenguajes más o menos adaptados al medio periodístico
+(en algunos casos, los mismos textos burocráticos eran reproducidos sin modificaciones).11 La figura central no
+era el detective "puro" sino el comisario, el subcomisario, o algún suboficial asignado a la comisaría, que exhibía
+destrezas deductivas gracias a sus potestades de investigación sumarial. Ese pesquisante combinaba los ademanes
+de la experiencia callejera del policía con la adhesión a la figura del detective literario.
+Veamos  el  caso  del  Comisario  Jubilado,  que  en  1912  relató  una  pesquisa  ocurrida  25  años  antes  en  su
+jurisdicción.12 Como en la mayoría de estos textos, la narración se mantenía cerca de las rutinas urbanas del
+baqueano-policía: “En la noche del 25 de Mayo del año 1887, al regresar de una recorrida que hiciera en el radio
+de mi  sección…” Lo que seguía  combinaba la  exhibición de la  experiencia del comisario porteño  (“Los
+comisarios estamos hartos,—porque el caso es el común en Buenos Aires— de recibir denuncias sobre robos y
+escamoteos en la vía pública.”) con el prestigio del detective cerebral:
+Durante mi larga actuación policial, he llegado a erigir en axioma elemental el principio de que, dentro de
+las paredes del despacho del Comisario, nada se estudia ni nada se resuelve. Lo mejor es, durante la 
+noche, en la cama, analizar el caso con toda tranquilidad, por la vía hipotética que tanta fama ha dado al 
+ilustre pesquisante cuyo nombre sirve de título a esta novedosa revista.
+Luego de este saludo al detective mental de las ficciones tan de moda, el caso se resolvía con ingenio y tretas muy
+propias de las práctica policial cotidiana: el recurso al seguimiento nocturno (sin uniforme) hacia “lo que
+policialmente llamamos ‘la combinación’”, el arresto y la confesión. El relato remataba con saberes de comisaría:
+Teniendo preso al pájaro, la solución del misterio duró muy poco. Un detenido es siempre un hombre 
+dispuesto a “cantar” y á decir la verdad, si el interrogatorio á que se lo somete es llevado con habilidad, 
+que sólo da la práctica.13
+En última instancia, los saberes nacidos de la acumulación de la experiencia eran los que zanjaban la cuestión. Y
+ninguno entre ellos más importante que las destrezas del interrogatorio. En este sentido, las narrativas tempranas
+de la pesquisa policial muestran el germen de un elemento que se consolidaría en las memorias de detectives
+porteños de entrado el siglo XX, que exaltaron el manejo del interrogatorio como elemento de distinción rea del
+buen detective policial (Meneses 1964; Urricelqui 1977).
+Por el momento, estos “detectives” porteños del cambio del siglo eran tales sólo entre comillas: en su mayoría,
+eran comisarios con potestades judiciales o escribientes entrenados en el resumen de casos. Tal es el origen de la
+mayor parte de las narrativas policiales escritas por "detectives" policías en revistas propias o ajenas, y también
+las que aparecían en las Memorias de un detective de Dellepiane (1912), o los cuentos del comisario Laurentino
+9
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+Mejías. No obstante los ademanes correctivos y la denuncia de los errores del profano, la primera escritura
+informal de la pesquisa nacía entre el memorialismo de oficio y la tímida incursión en el gran torrente de la
+narrativa del crimen.
+NOTAS
+1 Revista de Policía (en adelante, RP), 16 de julio de 1930, p. 960.
+2 “Programa”, RP, 1 de junio de 1888, p. 1.
+3 “El criminal Castruccio”, RP, 25 de agosto de 1888, p. 72.
+4 “Rastros del crimen”, RP, 15 de junio de 1888, p. 1.
+5 Revista de Policía de la Provincia de Buenos Aires, 15 de diciembre de 1900, p. 192.
+6 En el mismo sentido: "Los dramas criollos, policialmente considerados", RP, 16 de julio de 1900, p. 57.
+7 Aunque existía una policía “secreta” desde los inicios mismos de la institución, la Policía de Pesquisas no logró
+entidad formal (en presupuesto y reglamento) hasta 1886, bajo la dirección de José S. Álvarez (el futuro Fray
+Mocho). A partir de 1897, la repartición pasó a denominarse “Comisaría de Investigaciones” (Romero 1986).
+8 “Mi primera pesquisa. Éxito y fracaso”, RP, 16 de junio de 1903, p; “Los hurtos de una devota”, RP, 16 de julio
+de 1903, p. 39, p. 68.
+9 SH, Nº 1, 4 de julio de 1911, p. 1.
+10 SH, 22 de octubre de 1912, s/p.
+11 Miguel Peyre, “Una de mis pesquisas”, SH, 16 de julio de 1912, p. 18; Auxiliar Fidel E. Zabala, “Una madre
+que degüella a su hija”, SH, 30 de julio de 1912, p. 31; Alberto Dellepiane (Comisario de la secc. 29), “Un crimen
+autorizado”, SH, 23 de abril de 1912, p. 53.
+12 Comisario Jubilado, “El sombrero ribeteado” (Memorias de un comisario de policía)”, SH, 19 de septiembre de
+1911, pp. 68-69.
+13 Ibidem. Énfasis agregado.
+BIBLIOGRAFIA
+Barry, Viviana (2008). “Lecturas de policías. La Revista de Policía de la ciudad de Buenos Aires”, Papeles de
+trabajo. Revista electrónica del Instituto de Altos Estudios Sociales de la UNGSM, Año 2, nº 3, junio.
+Bianciotto, María Laura (2014). “Previsión, anticipación y viveza. A propósito de la relación entre prácticas
+policiales y ámbito judicial en Rosario”, en S. Frederic, M. Galvani, J. Garriga Zucal y B. Renoldi (eds.), De
+armas llevar. Estudos antropológicos sobre los quehaceres de policías y de las fuerzas de seguridad, Buenos
+Aires, Ed. EPC.
+Borges, Jorge Luis (1945). “La espada dormida”, Sur, nº 127, mayo.
+Caimari, Lila (2012). Mientras la ciudad duerme. Pistoleros, policías y periodistas en Buenos Aires, 1920-1930,
+Buenos Aires, Siglo XXI.
+10
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+Caimari, Lila (2013). “Police, tango et argot: culture policière et culture populaire à Buenos Aires au XXe siècle”,
+Histoire, économie & société, nº 4, pp. 41-48.
+Caimari, Lila (2015). “Lecturas policiales porteñas”, en: Setton (comp.), Fuera de la ley, 47-63.
+Coquibús, Juan Emilio (1958).  Código Penal. Síntesis penal, procesal y sumarial, Buenos Aires, La Prensa
+Médica Argentina.
+Dellepiane, Alberto (1912). Memorias de un detective, Buenos Aires, s/d.
+Foucault, Michel (1996). La verdad y las formas jurídicas, Gedisa, Barcelona.
+Frisby, David (2007). Paisajes urbanos de la modernidad. Exploraciones críticas, Bernal, Universidad Nacional
+de Quilmes.
+Galeano, Diego (2009),  Escritores, detectives y archivistas. La cultura policial en Buenos Aires, 1821-1910,
+Buenos Aires, Teseo/BN.
+Galeano, Diego 2016). Criminosos viajantes. Circulações policiais entre Rio de Janeiro e Buenos Aires, 1890-
+1930, Rio de Janeiro, Ministério da Justiça-Archivo Nacional.
+García Ferrari, Mercedes (2015).  Marcas de identidad. Juan Vucetich y el surgimiento transnacional de la
+dactiloscopia: 1888-1913, Rosario, Prohistoria.
+Johnson, Diane (1985). Dashiell Hammett. Biografía, Barcelona, Seix Barral.
+Kalifa, Dominique (2013). Les bas fonds. Histoire d’un imaginaire, Paris, Seuil.
+Lafforgue, Jorge y Rivera, Jorge (1996).  Asesinos de papel. Ensayos sobre narrativa policial. Buenos Aires,
+Colihue.
+Laplaza, Francisco (1945). “Antecedentes de nuestro periodismo forense hasta la aparición de la ‘Revista
+Criminal’“. Revista Penal y Penitenciaria, Tomo X. 
+Locard, Edmond (1934). Policías de novela y policías de laboratorio, Buenos Aires, Biblioteca Policial.
+Meneses, José Evaristo (1964). Meneses contra el hampa, Buenos Aires, Ed. Mam.
+Miller, D. A. (1988). The Novel and the Police. Berkeley U. of California Press.
+Milliot, Vincent (dir.) (2006). Les Mémoires policières, 1750-1850. Écritures et pratiques policières du Siècle des
+Lumières au Second Empire, Rennes, Presses Universitaires de Rennes.
+Monjardet, Dominique (1994). Ce que fait la police. Une sociologie de la force publique, Paris, La Découverte.
+O’Brien, Geoffrey (1997). Hardboiled America. Lurid Paperbacks and the Masters of Noir, Nueva York, Da Capo
+Press.
+Pérez Zelaschi, Adolfo (1985). “Policía verdad – policía ficción. Algunos apuntes sobre la narrativa y el cine
+policial y su relación con la realidad”, Mundo Policial, abril 1985, pp. 85-86.
+Raczkowski, Christopher (2003). “From Modernity’s Detection to Modernist Detectives: Narrative Vision in the
+Work of Allan Pinkerton and Dashiell Hammett”, Modern Fiction Studies, vol. 49, nº 4.
+Rebollo, Juan Carlos (1916). Manual del sumariante de policía. Buenos Aires, Talleres Gráficos Rodríguez-Giles.
+Romero, Alberto J. (Comisario Inspector R.) (1986). “Breve historia de la Policía de Investigaciones”, Mundo
+Policial, Año 18, nº 54- Año 24 nº 76.
+11
+Orbis Tertius, vol. XXII, nº 26, e050, diciembre 2017. ISSN 1851-7811
+Setton, Román (2009). “Raúl Waleis y los inicios de la literatura policial argentina”, en Raúl Waleis, La huella del
+crimen, Buenos Aires, Adriana Hidalgo.
+Setton, Román (2015). “La literatura policial argentina entre 1910 y 1940”, en AAVV, Fuera de la ley. 20 cuentos
+policiales argentinos. Edición, introducción y notas de Román Setton, Buenos Aires, Adriana Hidalgo.
+Shpaier Makov, Haia (2006). “Explaining the Rise and Success of Detective Memoirs in Britain”, en Clive
+Emsley y H. Shpayer-Makov, Police Detectives in History, 1750-1950, Burlington (VT, EEUU), Ashgate.
+Shpaier  Makov,  Haia  (2011).  The  Ascent  of  the  Detective.  Police  Sleuths  in  Victorian  and  Edwardian
+England,Oxford, Oxford University Press.
+Shpaier Makov, Haia (2012). “Shedding the uniform and acquiring a new masculine image. The case of the late-
+Victorian and Edwardian English police detective”, en D. Barrie y S. Broomhall (eds.), A History of Police and
+Masculinities, 1700-2010, Nueva York, Routledge.
+Sirimarco, Mariana (2010). “Memorias policiales. Narrativas de emotividad”, en Publicar – En Antropología y
+Ciencias Sociales, Año VIII, nº IX, pp. 127-143.
+Tarling, Roger y John Burrows (1985). “The Work of Detectives”, Policing, vol. 1, nº 1, pp. 57-62.
+Thomas, Ronald (1999): Detective Fiction and the Rise of Forensic Science. Cambridge: Cambridge University
+Press.
+Thornton, G. (1991). “Detectives or Clerks? Anexamination of the work of detectives”, Department of Social
+Administration, Manchester University. Recuperado de:  www.xrce.xerox.com/content/download/.../EPC-1991-
+109.pdf
+Urricelqui, Evaristo (1977). Careo, Buenos Aires, Yala.
+Waddington, P. A. J. (1999). Policing Citizens. Authority and Rights, Nueva York, Routledge.
+Yi-Fu-Tuan (2008). Space and Place. The perspective of experience, Minneapolis, U. of Minnesota.
+Zappietro, Eugenio (1981). “Vigencia de la novela policial: sobre la nostalgia y la evasión”, Mundo Policial, abril-
+octubre, p. 86.
+12

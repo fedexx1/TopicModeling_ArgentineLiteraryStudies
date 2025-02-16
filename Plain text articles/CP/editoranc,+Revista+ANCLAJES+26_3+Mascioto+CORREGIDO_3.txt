@@ -1,0 +1,671 @@
+101
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+DOSSIER
+Literatura, periodismo y materialidad. 
+Argentina y México (primera mitad del siglo XX)
+Mascioto, María de los Ángeles. “Volver sobre lo recortado: exposición y archivo 
+en las secciones “Museo” de Borges y Bioy Casares”. Anclajes, vol.26, n.º3, septiem-
+bre-diciembre 2022, pp. 101-116.
+https://doi.org/10.19137/anclajes-2022-2637
+Volver sobre lo 
+recortado: exposición 
+y conservación en las 
+secciones “Museo” de 
+Borges y Bioy Casares1
+María de los Ángeles Mascioto
+Universidad Nacional de La Plata
+Consejo Nacional de Investigaciones Científicas y Técnicas
+Argentina
+mariamascioto@gmail.com 
+ORCID: 0000-0003-3766-9974
+Fecha de recepción: 2/03/2022 | Fecha de aceptación: 13/05/2022
+Resumen: El artículo explora las poéticas de recorte en un conjunto de textos publica-
+dos en la sección “Museo” de las revistas Destiempo (1936-1937) y Los Anales de Buenos 
+Aires (1946-1948) a cargo de Jorge Luis Borges y Adolfo Bioy Casares. La manipulación 
+de los textos puede vincularse con la tecnología moderna del recorte, que respondía 
+a la necesidad de brevedad, un requisito propio de la prensa, así como también con 
+procedimientos literarios y editoriales implementados en la recuperación de textos 
+provenientes de los soportes más diversos y que habilitan a pensar en el recorte como 
+reescritura y reinterpretación (Thérenty, 2012; 
+Viu, 2019). Bajo la denominación de “Mu-
+seo”, los textos publicados se insertan en el campo semántico de la exposición y la con-
+servación. Con respecto a lo primero, se analizará la visualidad de los textos; en cuanto 
+a lo segundo, se estudiarán las estrategias de su recopilación (Guelfi Campos, 2019) así 
+como las nuevas modalidades de escritura que generan la fragmentación y la síntesis. 
+Sostenemos que estas poéticas del recorte diluían el rol del escritor como único autor 
+e implicaban una intervención sobre los géneros textuales.
+Palabras clave: Recorte; Publicaciones periódicas; Borges; Bioy Casares 
+1	
+Versiones anteriores de este trabajo se han discutido en la II Jornada Literatura, periodismo y 
+materialidad (Argentina y México, siglo XX) y en el V Coloquio sobre Publicaciones Periódicas 
+Argentinas. Agradezco el intercambio generoso con las participantes, coordinadoras y comenta-
+ristas de ambos encuentros, que derivaron en la escritura de este artículo.
+102
+María de los Ángeles Mascioto | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+Returning to clipping: exhibition and conservation in the 
+“Museo” sections of Borges and Bioy Casares
+Abstract: The article explores the poetics of clipping in a set of texts published in 
+the “Museo” section y Jorge Luis Borges and Adolfo Bioy Casares, in Destiempo (1936-
+1937) and Los Anales de Buenos Aires (1946-1948) y Jorge Luis Borges and Adolfo Bioy 
+Casares. The manipulation of texts can be linked to modern clipping technology, which 
+responded to the need for brevity, a requirement of the press, as well as literary and 
+editorial procedures implemented in the recovery of texts from the most diverse sup-
+ports and that enable to think about cutting as rewriting and reinterpretation (Thérenty, 
+2012; Viu, 2019). Under the name of “Museo”, the published texts are inserted in the 
+semantic field of exhibition and conservation. Regarding the first, it will be analyzed the 
+visuality of the texts. Regarding the second, the strategies of its collection will be studied 
+(Guelfi Campos, 2019). Finally, we will study the new writing modalities that generate 
+fragmentation and synthesis. We hypothesize that these cut poetics diluted the role of 
+the writer as the sole author and implied an intervention on genres.
+Keywords: Clipping; Periodicals; Borges; Bioy Casares
+Voltar ao recorte: exposição e conservação nas seções 
+“Museo” de Borges e Bioy Casares
+Resumo: O artigo explora a poética do recorte em um conjunto de textos publicados 
+na seção “Museo” de Jorge Luis Borges e Adolfo Bioy Casares nas revistas Destiempo 
+(1936-1937) e Los Anales de Buenos Aires (1946-1948). A manipulação de textos pode 
+estar atrelada à moderna tecnologia de corte, que respondeu à necessidade de brevida-
+de, exigência da imprensa, bem como aos procedimentos literários e editoriais imple-
+mentados na recuperação de textos dos mais diversos suportes e que nos permitem 
+pensar o recorte como reescrita e reinterpretação (Thérenty, 2012; Viu, 2019). Sob o 
+nome de “Museo”, os textos publicados inserem-se no campo semântico da exposição 
+e conservação. Quanto ao primeiro, será analisada a visualidade dos textos. Quanto ao 
+segundo, serão estudadas as estratégias de sua coleta (Guelfi Campos, 2019), bem como 
+as novas modalidades de escrita que geram a fragmentação e síntese. Partimos da hipó-
+tese de que essas poéticas do recorte diluíram o papel do escritor como único autor e 
+implicaram uma intervenção sobre os gêneros textuais.
+Palabras-chave: Recorte; Periódicos; Borges; Bioy Casares
+103
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Volver sobre lo recortado: exposición y archivo en las secciones...: 101-116
+Quiera Dios que la monotonía esencial de esta misce-
+lánea (que el tiempo ha compilado, no yo, y que admi-
+te piezas pretéritas que no me he atrevido a enmendar, 
+porque las escribí con otro concepto de la literatura) sea 
+menos evidente que la diversidad geográfica o histórica 
+de los temas. De cuantos libros he entregado a la impren-
+ta, ninguno, creo, es tan personal como esta colecticia y 
+desordenada silva de varia lección, precisamente porque 
+abunda en reflejos y en interpolaciones.
+Jorge Luis Borges (“Epílogo”, 109)
+D
+e acuerdo con Roger Chartier, podemos identificar en un pe-
+riódico o en una revista una temporalidad impuesta por la 
+publicación, mientras que el libro se asociaría con una tem-
+poralidad que el lector decidiría dedicar en relación con el texto (“Entrevista”, 
+208).2 Pero ¿qué ocurre con las secciones, especialmente cuando se repiten de 
+una publicación a otra o cuando sus textos pasan de un soporte a otro?
+En el epílogo de El hacedor (1960) citado arriba, el libro es pensado como 
+una compilación de piezas textuales con el fin de que sobrevivan en el tiempo. 
+Borges remarca, asimismo, en la cita del epígrafe el carácter misceláneo, hete-
+rogéneo y desordenado del material que conforma este volumen.3 Dirá luego 
+de este libro que “Si es bueno, será porque […] se hizo solo. No tiene rellenos. 
+Ninguna parte en él fue escrita con el propósito de formar un libro; el libro re-
+sultó de reunir páginas escritas por un impulso espontáneo” (Bioy Casares, 728, 
+cursiva mía). Fue precisamente en El hacedor donde se incorporó un apartado 
+titulado “Museo” que reunió textos publicados anteriormente en una sección 
+homónima a cargo de Borges y Bioy Casares. La conformación de un libro a 
+partir de secciones (cuya presencia en diarios o revistas dependía de la mayor o 
+menor cantidad de espacio con el que se contaba para su publicación) implicaba 
+la continuidad de una estrategia comercial, al mismo tiempo que una modalidad 
+editorial ya instalada en la industria de la edición argentina del siglo XX.4 
+“Museo” nació entre 1936 y 1937, cuando Jorge Luis Borges y Adolfo Bioy 
+Casares se embarcaron en uno de sus primeros proyectos conjuntos: una revista 
+2	
+Dice Chartier: “Leer una novela de Machado de Assis como folletín en el periódico, o la revista, 
+y leer el libro que recoge esta obra son experiencias de lectura completamente diferentes en rela-
+ción con la temporalidad. La primera es una temporalidad impuesta por la publicación; la segun-
+da, la temporalidad que el lector decide dedicar a su relación con el texto” (“Entrevista”,208).
+3	
+Cabe destacar que en este libro reúne, en una disposición más o menos arbitraria, textos publica-
+dos anteriormente en otros soportes más efímeros.
+4	
+Para dar sólo dos ejemplos: la editorial Tor en 1935 publicó los relatos de Jorge Luis Borges de la 
+sección “Historia Universal de la Infamia” de la Revista Multicolor de los Sábados (1933-1934), 
+suplemento ilustrado de literatura del diario Crítica; la Sociedad del Libro Rioplatense reunió 
+en el libro El otro lado de la estrella (1934), de Raúl González Tuñón, algunos de los textos que 
+había publicado en la sección homónima del mencionado suplemento.
+104
+María de los Ángeles Mascioto | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+de seis páginas y muy corta duración –tan sólo tres números– a la que llama-
+ron Destiempo. Particularmente en la última página de la revista se incluyó una 
+columna miscelánea que recibió el nombre de “Museo” y se publicó sin firma. 
+En ella Borges y Bioy Casares recorrieron el camino inverso al mencionado en 
+el epígrafe: recortaron y extrajeron partes de textos publicados originalmente 
+en otros soportes, principalmente libros, para recopilarlos y exponerlos en la 
+publicación periódica, siguiendo la lógica de toda sección miscelánea. Diez años 
+después, ambos se hacían cargo de una sección titulada del mismo modo en Los 
+Anales de Buenos Aires (1946-1948), desde el número 3 al 11, bajo el seudónimo 
+de B. Lynch Davis, de manera simultánea al período en el que Borges se desem-
+peñó como director de la revista. 
+El presente artículo sostiene que, en ambos casos, en la sección “Museo” se 
+retomó una práctica implementada varios años antes en la Revista Multicolor 
+de los Sábados, suplemento del diario Crítica que Borges había dirigido junto 
+con Ulyses Petit de Murat entre 1933 y 1934,5 así como en la Antología de 
+la literatura fantástica (1940 y 1965).6 Consistía en extraer partes de textos de 
+otros soportes y, no sólo integrarlos al nuevo espacio, sino convertirlos en textos 
+autónomos,7es decir, independientes con respecto a su publicación original, me-
+diante procedimientos, como la fragmentación y la síntesis, que conforman una 
+poética del recorte. La pervivencia de la sección habilita a pensar en la extensión 
+temporal de esta práctica: volver sobre lo escrito para reescribirlo y sobre lo edi-
+tado para reeditarlo (Mascioto, “Borges”, 64).8 
+Como procedimiento de una poética, el recorte implica la manipulación de 
+discursos ajenos, de formas y de materiales, como elementos compositivos que 
+dejan sus marcas sobre los textos. Este artículo tomará como caso el recorrido 
+5	
+En lo que respecta al recorte en el periódico y su suplemento, “Si en el diario [Crítica]se ma-
+nipulaban, recortaban y retomaban noticias o entrevistas con el fin de volverlas asombrosas, 
+interesantes y entretenidas; en el suplemento se implementaban nuevas modalidades de escritura 
+vinculadas con una estética moderna del recorte que respondía a la necesidad de brevedad, un 
+requisito propio de la prensa, y con un trabajo de reescritura como reinterpretación, adaptación e 
+integración de los objetos mutilados al nuevo espacio.” (Mascioto, “Poéticas”, 1018).
+6	
+En cuanto a la Antología de la literatura fantástica, las sucesivas ediciones implicaron “cambios 
+en la materialidad de los textos, una relectura y una corrección por parte de los antólogos, opera-
+ciones que se vincularon de manera más o menos directa con el momento y el espacio en el que 
+fueron publicados” (Mascioto, “Literatura”: 131). 
+7	
+Como hemos analizado anteriormente, “La publicación de un fragmento como texto autónomo 
+involucra un trabajo consistente en la búsqueda y selección de una parte dentro de una obra ma-
+yor, una posterior extracción de esa parte pequeña y significativa –una ‘semilla literaria’– para 
+integrarla y adaptarla –‘trasplantarla’, siguiendo la metáfora de Novalis– a un nuevo espacio de 
+publicación, mediante una serie de operaciones como la asignación de un título, la reorientación 
+genérica, la ilustración, la puesta en página e interacción con otras textualidades, aspectos todos 
+que le otorgarán nuevos sentidos y permitirían leerlo como un material escrito independiente del 
+espacio en el que circuló originalmente.” (Mascioto, “Nuevos”: 211).
+8	
+Cabe destacar que, en un artículo reciente, Mariela Blanco analiza procedimientos de montaje 
+de la sección “Museo” en ambas revistas, enfocándose especialmente en las implicancias de la 
+traducción. 
+105
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Volver sobre lo recortado: exposición y archivo en las secciones...: 101-116
+temporal de esta sección atendiendo a dos aspectos en particular vinculados con 
+la fragmentación y la síntesis: la visualidad que adquieren los textos en el espacio 
+de la página y la perdurabilidad de algunas constantes en el traspaso de una pu-
+blicación a otra y de ella al libro. En distintas circunstancias Borges ha retomado 
+y vuelto a incluir los textos de esos “museos” en diferentes libros: uno de ellos fue 
+Cuentos breves y extraordinarios (1955), compilado junto con Adolfo Bioy Casa-
+res, en el que se incorporaron numerosos textos publicados anteriormente en el 
+“Museo” de Los Anales de Buenos Aires; otro El hacedor (1960), en cuyo apartado 
+final reaparecía el título de la sección y se replicaron textos ya publicados en ella. 
+La misma denominación de “Museo”, así como las sucesivas publicaciones 
+como columna, sección o capítulo, inserta a los textos no sólo en el campo se-
+mántico de la exposición sino también en el de la conservación, motivo por el 
+cual puede pensarse la sección de recortes en relación con la perdurabilidad y la 
+conservación,9 aspecto que añade a la cuestión visual y escrituraria una dimen-
+sión temporal. 
+Las secciones “Museo”: visualidad del recorte
+Destiempo y Los Anales de Buenos Aires, distaron mucho entre sí, tanto en sus 
+dimensiones, como en el tipo de proyecto, los modos de financiación, el público 
+al que iban dirigidas, el período temporal en el que se publicaron.10 En ningu-
+na de ellas se ofrece una presentación de la sección “Museo” ni un comentario 
+sobre ella, entre ambas no se repiten los textos, cada pieza textual expuesta en 
+la sección es diferente, y tampoco se han hallado menciones en los testimonios 
+de Borges ni de Bioy Casares sobre la repetición de una publicación a la otra y 
+de ella al libro. Ni la revista de 1936-37 ni la de 1946-48 tuvieron una frecuen-
+cia continua. Los números 1 y 2 de Destiempo se publicaron sucesivamente en 
+octubre y noviembre de 1936, pero el tercero apareció recién en diciembre del 
+9	
+Ya desde la Revista Multicolor de los Sábados, se le dio el nombre de “Museo de la confusión” a 
+la sección miscelánea a cargo de Guillermo Juan Borges, primo de Jorge Luis, única sección que 
+se mantuvo a lo largo de todo el período de existencia del suplemento (1933-1934).
+10	 Con respecto a Destiempo, señala Sabsay Herrera que “era en realidad un simple pliego de seis 
+páginas de formato mayor, en el que no figuran los nombres de sus directores. Si nos atenemos 
+a la información que brinda Destiempo, el único responsable de la publicación es su secretario, 
+Ernesto Pissavini, cuyo nombre se encuentra en la primera página de la revista, al lado de la 
+dirección de la sede de su redacción: Alsina 2090 para el primer número y Avenida Quintana 174 
+–el domicilio de los padres de Bioy, donde vivía el escritor por aquel entonces– para los dos si-
+guientes.” (107). La autora realiza un análisis detallado de las características de esta publicación. 
+En cuanto a Los Anales de Buenos Aires, Annick Louis ha realizado un estudio pormenorizado y 
+señala, entre otras cosas, que: “La revista fue fundada a partir del modelo de la publicación Con-
+férencia, de la Université des Annales de Paris, institución, creada en 1905 por Yvonne Sarcey 
+(1869-1950), uno de los seudónimos de Madeleine Brisson, como un desprendimiento de Les 
+Annales politiques et littéraires, publicación semanal de Jules y Adolphe Brisson (este último 
+era el esposo de Madeleine)” (96) y que “La presentación es elegante, casi lujosa debido a estos 
+dibujos, a la variación de colores de las tapas y a la calidad del papel. En promedio la revista 
+tenía 70 páginas, y contaba con avisos comerciales, de empresas […].” (98). 
+106
+María de los Ángeles Mascioto | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+año siguiente. Los Anales de Buenos Aires, por su parte, tuvo una regularidad que 
+osciló entre mensual y bimensual. 
+No obstante, en ambas se publicó la sección “Museo” de manera continua 
+y regular durante un determinado período temporal. En el primer número de 
+Destiempo, la sección apareció tímidamente en la penúltima página, en los dos 
+siguientes pasó a conformar una de las dos columnas de la contratapa. En ella, 
+se incluyeron sucesivas citas de textos, principalmente en verso, de distintos 
+autores, dispuestas de manera vertical y separadas ya fuera por la indicación 
+bibliográfica de donde habían sido tomadas o por marcas ornamentales, como 
+sucedía en el último número. En Los Anales de Buenos Aires “Museo” se publicó 
+regularmente sólo durante el período de participación de Borges como director. 
+Al igual que en Destiempo, la sección se mantuvo entre las últimas páginas, pero 
+ahora era bastante más extensa y además aparecía firmada: a partir del número 4 
+un seudónimo se hacía cargo de las intervenciones sobre los textos tomados de 
+otros soportes. Esa figura autoral apócrifa pareciera habilitar la implementación 
+de nuevas estrategias editoriales y escriturarias sobre los recortes que ofrecía la 
+sección. Así, bajo el disfraz de B. Lynch Davis, los compiladores Borges y Bioy 
+Casares intervenían los textos copiados agregando títulos –un aspecto novedoso 
+con respecto al anterior “Museo” de 1937, pero que se asocia con los implemen-
+tados en la Antología de la Literatura Fantástica (1940) (Mascioto “Literatura”)–, 
+alterando las traducciones, colocando las citas junto con textos de su propia 
+invención atribuidos a otros. 
+En ambas revistas, la sección consistió principalmente en la publicación de 
+recortes pertenecientes a una obra mayor: fragmentos o textos sintetizados –cuyo 
+argumento se reducía a los aspectos fundamentales u ofrecía versiones libres del 
+original–. Estos procedimientos desafiaban la representación del texto estable, 
+revelando una relación constitutiva entre la literatura y su soporte (Chartier, 
+“Textos”). 
+Desde el punto de vista editorial, tanto en su publicación como columna, 
+como sección y luego como capítulo, “Museo” mantuvo una visualidad propia 
+que la distinguía de todo lo que venía antes y después. Ésta se manifestaba en la 
+tipografía del título de la sección y, más especialmente, en un juego de alternan-
+cia entre textos breves y espacios en blanco. Además, otras marcas paratextuales 
+como la referencia al texto de donde se había tomado el recorte publicado, en 
+algunos casos apócrifo,11 la titulación de los recortes a partir de Los Anales de 
+Buenos Aires, la presencia de ornamentos, de las fechas de publicación de los 
+textos y alusiones a otros soportes, aportaban a una visualidad de mosaico.
+11	 Con respecto a los textos apócrifos de la sección en Los Anales de Buenos Aires, Mariela Blanco 
+señala: “La crítica suele hacer más hincapié incluso en las citas apócrifas, es decir, en aquellas que 
+son creación de Borges y/o, en menor medida, de Bioy, y que suelen visibilizarse porque circulan 
+hacia otros textos [...]. No obstante, creo que es necesario hacer énfasis en el dato cuantitativo que 
+muestra que ese tipo de texto ocupa un porcentaje nimio en relación con los otros, que son citas 
+auténticas de fuentes de las más diversas procedencias.” (121).
+107
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Volver sobre lo recortado: exposición y archivo en las secciones...: 101-116
+En la sección no se oculta, sino que, por el contrario, se exhibe el carácter 
+fragmentario de los textos. En muchos casos, se observan comienzos o finales 
+con puntos suspensivos, como puede notarse, por ejemplo, en el primer y tercer 
+textos publicados en el “Museo” del número 1 de Destiempo: “…Se arrodilló, 
+elevó los ojos cerrados y rezó con tanto fervor que parecía un hombre arrodillado 
+y rezando en el fondo del mar. Herman Melville. Moby Dick” (5); “…Consi-
+guió con esto una noticiosa universalidad, de suerte que la Filosofía moral le hizo 
+prudente, la natural sabio, la Historia avisado, la Poesía ingenioso, la Retórica 
+elocuente […]” (5); o bien en el número 2 de la misma publicación: “Sirve pues 
+la Isla de Santa Elena en la escala de un mundo al otro, de descanso a la portátil 
+Europa…” (6) y en el número 3: “Me hizo meditar mucho cierta damita en flor, 
+toda juventud y actualidad, estrella de primera magnitud en el zodíaco de la 
+elegancia madrileña…” (6). 
+Este procedimiento se observa asimismo en el “Museo” de Los Anales…, por 
+ejemplo, en el número 8:
+…La hermosa Hsi Shih frunció el entrecejo. Una aldeana feísima que la vió quedó 
+maravillada. Anheló imitarla, asiduamente se puso de mal humor y frunció el en-
+trecejo. Luego pisó la calle. Los ricos se encerraron bajo llave y rehusaron salir; los 
+pobres cargaron con sus hijos y sus mujeres y emigraron a otros países. (52). 
+Además del uso de puntos suspensivos que aparecen, incluso en algunas oca-
+siones, interrumpiendo el texto, se evidencian también comienzos in medias res, 
+como se observa en el número 1 de Destiempo: “Y la esperanza es el vínculo del 
+tiempo” (5) y en el número 2: “Luego por circunstancias económicas / Tuvimos 
+que mudar de domicilio/ Y abandonar la casa que mis padres/ Habían adquirido 
+en Calle Oruro” (6). Lo mismo sucede en varias entregas de la sección en Los 
+Anales…. A modo de ejemplo, en el número 6 se puede leer: “Así llegó a un 
+inmenso castillo, en cuyo frontispicio estaba grabado: A nadie pertenezco, y a 
+todos; antes de entrar, ya estabas aquí; quedarás aquí cuando salgas” (50). En el 
+mismo número leemos: 
+Diferente compasión se vió en Himilcón, el cual, habiendo alcanzado en Sicilia gran-
+des victorias, porque en ellas perdió mucha gente por enfermedades que sobrevi-
+nieron al ejército, entró en Cartago, no triunfante sino vestido de luto, y con una 
+esclavina suelta, hábito de esclavo, y en llegando a su casa, sin hablar a nadie, se dio 
+la muerte (50).
+Desde la perspectiva de la Historia literaria y cultural de la prensa, la pro-
+moción en la literatura de “microformas” concebidas y pensadas para el espacio 
+limitado de una sección, sin duda, favoreció la configuración de una estética de 
+mosaico y repetición (Thérenty, 1513). Además de las modalidades literarias que 
+surgen a partir de la fragmentación, y que se analizarán en el tercer apartado, 
+la visualidad de mosaico resalta el recorte y acerca “Museo” a la sección de va-
+108
+María de los Ángeles Mascioto | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+riedades, propia de la prensa, considerada marginal pero ampliamente utilizada 
+desde las publicaciones del circuito masivo a las revistas de vanguardia locales. 
+Desde el siglo XIX, los periódicos y luego las revistas contaron con este tipo de 
+sección en la que se retaceaban párrafos de temáticas heterogéneas, de diferentes 
+dimensiones, que tenían por principal objetivo llenar los espacios en blanco que 
+se producían cuando los textos largos no llegaban a cubrir la superficie de la 
+página (Goldgel, 277). Como señala Goldgel, la particularidad de los textos que 
+conformaban las “variedades” es que eran: “heterogéneos con respecto a la vida 
+de los lectores. […] eran hasta cierto punto ajenos a los ‘intereses’ de aquellos; si 
+se los leía era justamente para distender los límites del propio interés” (279). 
+El recorte como tecnología también ha tenido un desarrollo extendido en las 
+empresas de clipping especializadas en “seleccionar, por encomienda, recortes de 
+materias publicadas en periódicos acerca de determinada persona, institución o 
+asunto” (Guelfi Campos, 147). Una evidencia de este desarrollo en tanto prácti-
+ca cultural en Latinoamérica puede observarse a comienzos del siglo XX con el 
+surgimiento de publicaciones que reproducían fragmentos “a partir de archivos 
+de recortes que mantuvieron sus editores y, en algunos casos, también de los que 
+mantuvieron los mismos lectores de esas publicaciones, quienes podían contri-
+buir con sus propios recortes de prensa a los contenidos de las revistas” (Viu, 
+Materialidades: 129). Del mismo modo, señala Garvey que ya desde el siglo 
+XIX las publicaciones periódicas rutinariamente tomaban prestado y reusaban 
+material de otros diarios y revistas sin pagar y muchas veces sin mencionar los 
+créditos (212). 
+La diferencia de soportes desde Destiempo hasta Los Anales… generó cambios 
+importantes en la sección, vinculados con la extensión, con el modo de presentar 
+y distribuir los textos en el espacio y especialmente con la implementación de 
+poéticas del recorte. En la extensa Los Anales…, que contaba con un promedio 
+de 65 páginas, la sección “Museo” excedió los límites de una columna que le 
+habían sido impuestos en el espacio reducido de Destiempo y pasó a tener entre 
+dos y tres páginas.
+Atendiendo a lo que Beatriz Sarlo ha llamado “sintaxis de revista” –es decir, 
+un conjunto de decisiones en torno al tipo de letra, el lugar de las páginas, el 
+orden de los textos, que se toman para “intervenir en la coyuntura, alinearse 
+respecto de posiciones y, en lo posible, alterarlas, mostrar los textos en lugar de 
+solamente publicarlos” (Sarlo, 11)–, y dada su aparición en las páginas finales 
+tanto de Destiempo como de Los Anales…, la sección de recortes puede pensarse 
+como una sección de relleno. En efecto, leídos en ambas, los textos eran más 
+sencillos y fruitivos que los publicados en las primeras páginas. 
+No obstante, en relación con la visualidad general de ambos espacios de pu-
+blicación periódica, en todos los casos el “llenado de espacio en blanco” (Gold-
+gel) mediante citas evidencia una propuesta literaria y visual diferente que llama-
+ba la atención e interrumpía la modalidad del resto de los artículos de la revista. 
+Por otro lado, la reaparición de la sección en dos publicaciones diferentes, así 
+109
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Volver sobre lo recortado: exposición y archivo en las secciones...: 101-116
+como la posterior recuperación de algunos de sus textos como apartado de libro 
+titulado del mismo modo nos permite identificar la relevancia que adquirió para 
+Borges y Bioy Casares la sección por sobre la publicación, y dentro de la sección, 
+el recorte como un tipo de técnica al mismo tiempo editorial y escrituraria.
+T
+emporalidad de “Museo”
+“Museo” es un espacio en el que se conservan textos breves que serán retoma-
+dos posteriormente. Esto puede remitir a los cuadernos de citas –o commonplace 
+book. De acuerdo con Guelfi Campos, el origen de este tipo de compilación de 
+recortes remite “a la cultura de los gabinetes de curiosidades” y eran utilizados 
+para transcribir 
+extractos de libros y de periódicos para uso posterior en cartas, discursos y conver-
+saciones, a modo de herramienta mnemotécnica para preservar el conocimiento y 
+ponerlo en práctica. Como objetos convertidos en ‘tesoros’, estos álbumes tenían 
+una funcionalidad relacionada con la ostentación y con la expresión de los gustos 
+cultivados. (142)
+Para esto, Borges y Bioy Casares realizaron un trabajo de búsqueda y selec-
+ción de un texto dentro de una obra mayor, la extracción de esa porción pequeña 
+y significativa para no sólo “pegarla” o citarla en el nuevo espacio de publicación, 
+sino trasplantarla y adaptarla mediante una serie de operaciones: la asignación 
+de un título, la puesta en página junto con otros recortes, la edición o versión 
+del texto, aspectos que le otorgarían nuevos sentidos y permitirían leerlo como 
+un material escrito independiente del espacio en el que circuló originalmente 
+(Mascioto “Poéticas”). Así, por ejemplo, el cuarto y quinto recorte publicados 
+en el “Museo” del número 7 de Los Anales… tratan el mismo tema (la abolición 
+del pasado), y los cinco primeros fragmentos publicados en el número 9 hacen 
+referencia a la muerte, mientras que los tres primeros del “Museo” publicado en 
+el número 10 reflexionan sobre los cambios en el tiempo. Mediante estas accio-
+nes Borges y Bioy Casares actuaban no sólo como compiladores sino como edi-
+tores, considerando la “edición” como una práctica compleja y heterogénea que 
+superpone y combina varias acciones: selección, recorte, traducción, resumen o 
+síntesis, titulación, reescritura, adición, entre otras (Mascioto, Nuevos: 211). 
+En este sentido, es relevante mencionar que el recorte puede ser pensado 
+también como una práctica común entre los lectores modernos, que implicaba 
+una relación con el cuerpo de los textos. Como señala Garvey, así como los 
+autores no pueden establecer el significado definitivo de lo que escriben, tam-
+poco ellos ni los editores pueden controlar la circulación y el ordenamiento o 
+reordenamiento del significado. Incluso si los derechos de autor bloquean la 
+posibilidad de reproducir textos ajenos, los lectores tienen la opción de colocar 
+textos antiguos en nuevos contextos, creando un nuevo nivel de circulación pri-
+vada: recortar material escrito, pegarlo en álbumes de recortes y hacer circular 
+110
+María de los Ángeles Mascioto | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+una nueva versión recopilada. Esta práctica, que comenzó en el siglo XIX y que 
+se conserva incluso en la actualidad con el desarrollo de las páginas web, permite 
+pensar en un elaborado circuito de los textos (Garvey, 208). 
+Puede decirse que Borges y Bioy Casares vuelven pública la práctica privada 
+del álbum de recortes en estas secciones que reciben el nombre de “Museo”, que 
+se convierten en un lugar de exposición de fragmentos hallados y recuperados 
+de distintas fuentes. De este modo, encontramos que las prácticas de lectura, en 
+el sentido que les da Chartier (“Textos”), gestan prácticas escriturarias y edito-
+riales. 
+Si pensamos en el museo como un espacio de conservación, los procedimien-
+tos literarios, periodísticos y editoriales que afectan los textos que se publicaron 
+en la columna, la sección y el capítulo establecieron un modo de difusión de la 
+literatura basado precisamente en versiones, como si “Museo” fuera un álbum de 
+recortes extraídos de distintos lugares e intervenidos y de historias que provenían 
+de distintas fuentes e incluso de los soportes más diversos,12 al que Borges y Bioy 
+Casares podían volver una y otra vez. En efecto, en los testimonios que da Bioy 
+Casares en su diario, menciona la búsqueda de textos en esta sección para su 
+recopilación y reescritura en nuevas colecciones:
+Con Borges traducimos unas notas sobre los ciervos celestiales tomadas de Chinese 
+Ghouls and Goblins de G. Willoughby-Meade, y un párrafo de los Note-Books de 
+Butler sobre Andrómeda, para la antología de cuentos breves. Después buscamos 
+cuentos en el “Museo” de Los Anales de Buenos Aires. (74).
+Anteriormente también Bioy Casares diría que junto con Borges buscaban 
+en “números viejos de Crítica […] cuentos […] para la nueva antología fantásti-
+ca” (92).13 Este volver a las publicaciones como cuadernos en los que se conser-
+van extractos de libros se evidencia en las distintas reinserciones de estos textos 
+en nuevas publicaciones, en algunas de las cuales se les da el estatus de “cuentos”, 
+como se observa en la cita, anticipándose así a lo que luego se le daría el nombre 
+de microficciones. 
+La conservación y compilación implicaba, sin embargo, la autenticidad de 
+las obras. Al igual que en la Revista Multicolor de los Sábados y en las sucesivas 
+ediciones de la Antología de la Literatura Fantástica (1940) y como sucedería 
+luego con la recopilación de algunos fragmentos de “Museo” para la colección 
+Cuentos breves y extraordinarios, en la sección se ofreció al público lector no tanto 
+una traducción fiel sino una versión de textos manipulados (Mascioto, “Litera-
+12	 En el “Museo” del n.º 5 de Los Anales…, por ejemplo, se menciona que uno de los textos ha sido 
+tomado de una piedra rúnica.
+13	 Daniel Balderston identifica una intervención material sobre esos textos conservados en publi-
+caciones periódicas: “Borges utilizaba las revistas y los diarios donde habían aparecido origi-
+nalmente los textos, así como también ejemplares de los libros donde habían sido reunidos, para 
+continuar su proceso de reescritura” (2021: 211).
+111
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Volver sobre lo recortado: exposición y archivo en las secciones...: 101-116
+tura”: 141). Borges y Bioy Casares resumían partes, suprimían signos de pun-
+tuación, cambiaban referencias, agregaban contenido e incluso cambiaban el 
+género –como muestra la cita del párrafo anterior donde Bioy Casares denomina 
+“cuentos” a los fragmentos y textos sintéticos de “Museo”.14 
+Recorte y escritura
+Recordé el cuento de Henry James, El dibujo del tapiz: la 
+historia de un hombre de letras que ha publicado muchas 
+novelas y que oye con alguna perplejidad que uno de sus 
+lectores no había notado que todas eran variaciones de 
+un mismo tema y que un solo dibujo las recorría, como 
+el dibujo de un tapiz oriental. Si no me engaño: el nove-
+lista muere, sin haber declarado el secreto, y la historia 
+concluye de una manera muy delicada, dejándonos con 
+el lector que, nos dan a entender, se consagrará a des-
+cubrir ese reiterado dibujo, que está oculto en muchos 
+volúmenes.
+Arthur Machen (1924). The London Adventure 
+(B. Lynch Davis, Los Anales, 46) 
+La sección habilita la persistencia en el tiempo del recorte como tecnología, 
+como espacio de conservación, pero también se vincula con prácticas de escri-
+tura que se repetirán en el tiempo. Especialmente en Los Anales de Buenos Aires, 
+numerosos recortes presentados en “Museo” recurrían a la síntesis, un procedi-
+miento bien conocido e implementado anteriormente en la Revista Multicolor 
+–donde especialmente se puso en práctica el trabajo con las microformas– y 
+en la Antología de la Literatura Fantástica de 1940 –en la que un conjunto de 
+recortes se alternaba con relatos más extensos. Para dar algunos ejemplos, textos 
+como “La aniquilación de los ogros”, publicado en el número 3 de Los Anales…, 
+sintetiza una parte del libro The story of the Rakshasas; “Del agua de la isla” de 
+ese mismo número sintetiza y versiona partes de The Narrative of Arthur Gordon 
+Pym, novela de Edgar Allan Poe; la conocida “Historia de los dos reyes y los dos 
+laberintos”, publicada en el número 5 y retomada por Borges en varios soportes, 
+tergiversa y falsifica la historia original.15 
+El procedimiento de la síntesis, es decir, la reducción de la historia a lo esen-
+cial (Mascioto, “Literatura”, 143) a fin de que pueda integrar la sección es, in-
+cluso, celebrado por Borges y Bioy Casares cuando, por ejemplo, consideran que 
+aquella que había realizado Arthur Machen sobre el reconocido relato de Henry 
+14	 Asimismo, Mariela Blanco observa que, en la sección, ambos autores “al mismo tiempo que pro-
+ponen un itinerario de lectura, parecen estar riéndose de la solemnidad de la institución a través de 
+la estilización, muchas veces exagerada, a la que someten a cada texto en su traducción” (120).
+15	 Nogales Baena identifica el recorrido detallado y las manipulaciones de este texto en el pasaje de 
+un soporte al otro (116).
+112
+María de los Ángeles Mascioto | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+James era mejor que su original. Así, Bioy Casares cita a Borges: “Machen inven-
+ta un final para ‘The Figure in the Carpet’ mejor que el de Henry James, y lo atri-
+buye a James” (741). Esta síntesis, que conforma el epílogo de este apartado, no 
+sólo será uno de los primeros textos en publicarse en el “Museo” del número 4 de 
+Los Anales… sino que, como muchos otros, se incluirá como microrrelato pocos 
+años después en la compilación de Cuentos breves y extraordinarios (1955). 
+Desde el punto de vista escriturario, tanto las estrategias visuales de frag-
+mentación identificadas en el primer apartado como la elaboración de textos 
+sintéticos evidencian la necesidad de brevedad y la preferencia por lo inacabado. 
+Si, como señala Isabel Stratta, “A la hegemonía de la gran novela, Borges no le 
+opone una teoría del cuento, pero sí una poética de la narración disciplinada 
+y económica” (53), podemos pensar que la exposición y puesta en relación de 
+distintos recortes en una misma página y en una misma sección puede ser otra 
+de las formas en que se manifestó el enfrentamiento en torno a la representación 
+de la totalidad propia de la novela. Así como Borges señala que: “La magia es 
+una causalidad distinta. Es suponer que además de las relaciones causales que 
+conocemos, hay otra relación causal” (Siete, 25), podemos pensar en la sucesión 
+de textos recortados –incompletos, resumidos, versionados– de “Museo”, como 
+un tipo de causalidad u orden diferente, orientada, además, a lo esencial del 
+relato que se presentaba allí.16 Algo de esto resulta evidente en la nota preliminar 
+a Cuentos breves y extraordinarios (1955), libro que retoma algunos textos ya 
+publicados y donde se señala que “Lo esencial de lo narrativo está, nos atrevemos 
+a pensar, en estas piezas.” (Borges, Cuentos, 7, cursiva mía).17 Fragmentación y 
+síntesis provenían de una totalidad a la que modificaban, y aportaron a la posi-
+bilidad de reducir un texto extenso a un microrrelato,18 tendiendo a desencua-
+dernar el libro, quitando y colocando sus partes en otro contexto, diluyendo a la 
+vez el rol del escritor como único autor.
+De las publicaciones periódicas al libro
+En El hacedor (1960) la compilación de microformas conservadas en dis-
+tintas publicaciones finalmente se convierte en libro y, dentro de él, la sección 
+se convierte en un apartado. Tras un prólogo, un conjunto de textos en prosa 
+tomados de otras publicaciones (incluso de la misma revista Destiempo) y un 
+16	 Daniel Zavala Medina realiza un estudio detallado de la causalidad como tema y recurso narra-
+tivo especialmente en la Antología de la literatura fantástica (198-218). 
+17	 Estas manipulaciones retoman, asimismo aquellas presentes en la Revista Multicolor, donde 
+“las operaciones de fragmentación y resumen se vincularon, al mismo tiempo, con una política 
+de los géneros en la que se le daba un mayor valor al relato breve por sobre las obras extensas”. 
+(Mascioto, Nuevos, 210).
+18	 En relación con esto, Zavala Medina señala que una particularidad de la Antología de la literatu-
+ra fantástica es, justamente, “la idea de que el fragmento de una obra mayor –como una novela– 
+pueda ser representativo de lo fantástico” (128).
+113
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Volver sobre lo recortado: exposición y archivo en las secciones...: 101-116
+conjunto de poemas se separan, mediante una frontera material y visual, del 
+apartado “Museo” que, al igual que los otros “museos”, aparece hacia el final 
+del ahora libro. Después de una página que contiene sólo el título, se ofrece un 
+prolijo álbum de seis hojas, en cada una de las cuales se presenta un único texto 
+breve en verso o en prosa. 
+Ese álbum reproduce una selección de los recortes que conformaron la sec-
+ción “Museo” de Los Anales… y que fueron publicados en distintas entregas, 
+copiando exactamente el título, contenido y fuentes bibliográficas aunque cam-
+biando las fuentes tipográficas y la relación de los textos con el espacio de la 
+página. El primero de ellos, “Del rigor de la ciencia”, había aparecido en el 
+número 3 y poco después había integrado la Historia Universal de la Infamia de 
+1954 y Cuentos breves y extraordinarios (1955). El artificio literario exponía, al 
+igual que en los publicados en la sección de las revistas Destiempo y Los Anales…, 
+el recorte como técnica: como en las microformas de “Museo”, éste comenzaba 
+con puntos suspensivos. 
+Los dos textos que le siguieron, “Cuarteta” y “Límites” aparecieron primero 
+en el “Museo” que se publicó en el número 5 de Los Anales…. “El poeta declara 
+su nombradía” (49) repetía un texto que había integrado la sección en el número 
+6 y tanto “El enemigo generoso” como “Le regret de Heraclite”, que se presen-
+taban en las páginas siguientes del libro, habían aparecido ambos con antelación 
+en el número 10 de la revista. 
+A diferencia de las publicaciones periódicas y de otros libros compilatorios 
+en los que se publicaron microrrelatos, tales como la Antología de la Literatura 
+Fantástica, en el apartado “Museo” de El hacedor se sobre-expone (Rogers) la 
+visualidad de estas microformas. El lector ya no visualiza un mosaico de retazos 
+o una combinación de textos más extensos con otros breves, sino que cada re-
+corte es presentado como pieza única, con su título en una hoja aparte y con un 
+amplio espacio en blanco debajo. Esos espacios son los que precisamente hacen 
+sobresalir su brevedad en comparación con los textos en prosa y en verso que los 
+anteceden.
+Conclusiones 
+Sección, columna o apartado, “Museo” presentó procedimientos comple-
+mentarios vinculados con una poética del recorte, como la fragmentación y la 
+síntesis, en los que se puede ver una manipulación material, visual y escrituraria. 
+La permanencia en el tiempo de una sección y su conversión en apartado nos 
+permite identificar las complejas relaciones entre la historia de la prensa, el estu-
+dio de las publicaciones periódicas y la historia del libro. Como se ha observado, 
+incluso los textos apócrifos retoman y simulan estrategias de recorte. 
+Nacida para rellenar espacios en blanco, la sección miscelánea se convierte en 
+un espacio con visualidad propia y, además, en un museo que expone y conserva 
+citas. De Destiempo a Los Anales de Buenos Aires, la iteración del nombre que da 
+114
+María de los Ángeles Mascioto | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+título a la sección da lugar no tanto a la repetición de los mismos textos sino a 
+un modo de difusión, de conservación y especialmente de escritura a partir de 
+recortes. 
+El paso del tiempo expande una compilación de textos a la que Borges y Bioy 
+Casares vuelven una y otra vez, pero también expande una práctica basada en 
+usos o apropiaciones de textos (Chartier, “Entrevista”). Ambos releen, traducen, 
+reversionan, manipulan. Sus usos de los textos implican la fragmentación, la 
+síntesis, la versión, además de un trabajo con los paratextos, como prácticas de 
+lectura, pero también como prácticas de escritura que surgen a partir de textos 
+que tiempo después serán leídos como microficciones (Chartier, “Textos”). 
+Finalmente, la presencia de “Museo” como apartado de libro vuelve a copiar 
+los textos ya manipulados en Los Anales… y modifica la visualidad propia de la 
+sección: mantiene la ubicación de los microrrelatos hacia el final, pero rompe el 
+mosaico de fragmentos y amplía el espacio en blanco entre uno y otro, poniendo 
+en evidencia la escritura de microformas. 
+Bibliografía 
+Balderston, Daniel. El método Borges. Buenos Aires, Ampersand, 2021.
+Bioy Casares, Adolfo. Borges. Buenos Aires, Destino, 2001. 
+Blanco, Mariela. “Las piezas de ‘Museo’ de B. Suárez Lynch” Variaciones Borges 
+n.º 49, 2020, pp. 117-141.
+Borges, Jorge Luis. “Epílogo” a El hacedor. Buenos Aires, Emecé, 1960, p. 109.
+Borges, Jorge Luis. “Museo”. El hacedor. Buenos Aires, Emecé, 1960, pp. 103-
+108.
+Borges, Jorge Luis. Siete Noches. México, Meló, 1980.
+Borges, Jorge Luis. “Nueva refutación del tiempo”. Obras Completas. Buenos 
+Aires, Emecé, vol. II, 1989, p. 762.
+Borges, Jorge Luis y Adolfo Bioy Casares. Cuentos Breves y extraordinarios. Bue-
+nos Aires, Emecé, 1955.
+Borges, Jorge Luis. (dir). Los Anales de Buenos Aires, n.° 1-11, 1946.
+Borges, Jorge Luis y Ulyses Petit de Murat. (dir.) Crítica. Revista Multicolor de los 
+Sábados. n.° 1-61, 1933-1934.
+Borges, Jorge Luis y Adolfo Bioy Casares. (dir). Destiempo, n.° 1-3, 1936-1937. 
+Borges, Jorge Luis, Adolfo Bioy Casares y Silvina Ocampo. Antología de la litera-
+tura fantástica. Buenos Aires, Sudamericana, 1940 y 1965.
+115
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669 | Volver sobre lo recortado: exposición y archivo en las secciones...: 101-116
+Chartier, Roger. “Textos, impresos, lecturas”. Revista de História, n.º 132, 1er 
+semestre, 1995, pp. 83-94.
+Chartier, Roger. “Entrevista con Roger Chartier. Límites, prácticas y tensiones 
+en una historiografía en construcción”. Meridional. Revista Chilena de Estu-
+dios Latinoamericanos, n.º 13, octubre-marzo, 2019, pp. 197-217.
+Garvey, Ellen Gruber. “Scissorizing and scrapbooks: nineteenth – century reading, 
+remarking, and recirculating”. En: Gitelman, Lisa y Geoffrey Pingree (eds). 
+New Media. 1740-1915. Cambridge, The MIT Press, 2003, pp. 207-227.
+Goldgel, Víctor. “Caleidoscopios del saber. El deseo de variedad en las letras 
+latinoamericanas del siglo XIX”. Estudios. Revista de investigaciones literarias 
+y culturales, Vol. 18, n.º 36, julio-diciembre de 2010, pp. 272-295. 
+Guelfi Campos, José Francisco. “Recortes de prensa: de la práctica social a los 
+archivos”. Anuario Escuela de Archivología, n.º XI, 2019, pp. 137-160.
+Louis, Annick. “Los Anales de Buenos Aires y su director, Jorge Luis Borges”. En: 
+Delgado, Verónica y Geraldine Rogers (coords). Revistas, archivo y exposición. 
+Publicaciones periódicas argentinas del siglo XX. La Plata, Prosecretaría de ges-
+tión editorial y difusión. Colección Colectivo Crítico, 2019, pp. 93-118.
+Mascioto, María de los Ángeles. “Literatura fantástica entre el diario Crítica y 
+la editorial Sudamericana: Políticas editoriales, materialidad de los textos y 
+modos de escritura”. Revista Chilena de Literatura, n.º 93, noviembre, 2016, 
+pp. 127-153.
+Mascioto, María de los Ángeles. “Borges Editor”. Anclajes, Vol XXII, n.º 2, ma-
+yo-agosto, 2018, pp. 57-68.
+Mascioto, María de los Ángeles. Nuevos modos de escritura en la Revista Mul-
+ticolor de los Sábados. Tesis de Doctorado en Letras. La Plata, Universidad 
+Nacional de La Plata, 2019. 
+Mascioto, María de los Ángeles. “Poéticas del recorte: El caso de Os Sertões, de 
+Euclides da Cunha en la Revista Multicolor de los Sábados”. Caracol, n.º 21, 
+2021, pp. 1017-1039.
+Nogales Baena, José L. “El laberinto borgeano de ´Las mil y una noches´”. Car-
+taphilus. Revista de investigación y crítica estética, n.º 15, 2017, pp. 110-125.
+Rogers, Geraldine. “Las publicaciones periódicas como dispositivos de exposi-
+ción”. En: Delgado, Verónica y Geraldine Rogers (coords). Revistas, archivo 
+y exposición. Publicaciones periódicas argentinas del siglo XX. La Plata, Prose-
+cretaría de gestión editorial y difusión. Colección Colectivo Crítico, 2019, 
+pp. 93-118.
+Sabsay Herrera, Fabiana. “Para la prehistoria de H. Bustos Domecq. Destiempo, 
+una colaboración olvidada de Jorge Luis Borges y Adolfo Bioy Casares”. Va-
+riaciones Borges, n.º 5, 1998, pp.106-122.
+116
+María de los Ángeles Mascioto | 
+ XXVI.3 (septiembre-diciembre 2022) ISSN 1851-4669
+Sarlo, Beatriz. “Intelectuales y revistas: razones de una práctica”. América. Ca-
+hiers du CRICCAL, n.º 9/10, 1992, pp. 9-16.
+Stratta, Isabel. “Documentos para una poética del relato”. En: Jitrik, Noé (dir.). 
+Historia Crítica de la Literatura Argentina. Tomo 9: El oficio se afirma. Bue-
+nos Aires, Emecé, 2009, pp. 39-64.
+Thérenty, Marie Éve. «Métamorphoses littéraires ». En : Kalifa, Dominique et. 
+al. (2012) La Civilisation du journal. Histoire culturelle et littéraire de la presse 
+française au XIXe siècle. Paris, Nouveau Monde, 2012.
+Viu, Antonia. Materialidades de lo impreso. Revistas latinoamericanas 1910-1950. 
+Santiago de Chile, Metales Pesados, 2019.
+Zavala Medina, Daniel. Borges en la conformación de la Antología de la literatura 
+fantástica. México, Miguel Ángel Porrúa, 2012.

@@ -1,0 +1,797 @@
+Cómo (re)hacer héroes con palabras. El piadoso Aquiles y la preciosa 
+muerte de Héctor
+How to (re)make heroes with words. Pious Achilles and Hector’s precious death
+ Gabriela Andrea Marrón
+marron.gabriela@gmail.com
+Centro de Estudios de Filología Clásica Antigua
+y Medieval, Departamento de Humanidades,
+Universidad Nacional del Sur, Argentina
+Recepción: 18 julio 2023 
+Aprobación: 15 agosto 2023 
+Publicación: 01 septiembre 2023
+Resumen: En el Romuleon IX, se le asigna a Aquiles tanto 
+el adjetivo opuesto a uno que recibe dos veces en la Eneida 
+(immitis), como el epíteto más característico de Eneas en el 
+poema virgiliano (pius); a su vez, se lo vincula a Héctor con una 
+expresión que reconﬁgura el clásico tópico de su muerte heroica 
+en términos bíblicos (mors pretiosa). A partir del análisis 
+desarrollado en este trabajo, intentaremos demostrar que, para 
+construir sus propias versiones de los personajes homéricos, 
+Draconcio recurre a distintos términos y sintagmas de la épica 
+clásica, previamente insertos y resigniﬁcados en las obras de otros 
+autores cristianos. Dicha estrategia le permite volver a presentar 
+las situaciones narrativas del mito a través de un lenguaje que en 
+términos formales se confunde con el de la literatura romana del 
+período clásico, pero a la vez conlleva el sustrato ideológico del 
+cristianismo.
+Palabras clave: Draconcio, Épica latina, Literatura cristiana,
+Muerte heroica, Pietas.
+Abstract: In Romuleon IX, Achilles receives an adjective 
+opposed to one he gets twice in the Aeneid (immitis), as well as 
+Aeneas’s more characteristic epithet in the Virgilian poem 
+(pius); in turn, Hector is related with an expression that readjusts 
+in biblical terms the classic topic of his heroic death (mors 
+pretiosa). rough the analysis developed in this work, we 
+will demonstrate that, to construct his own versions of the 
+Homeric characters, Dracontius employs diﬀerent words and 
+phrases from classical epic that had been previously inserted 
+and resigniﬁed in other Christian authors’ poems. is strategy 
+allows him to present again mythical narrative situations 
+through a poetic language consubstantiated in formal terms with 
+the one of classic Roman literature, but that also suggests a 
+Christian ideological substrate.
+Keywords: Dracontius, Latin epic, Christian literature, Heroic
+death, Pietas.
+Auster, no. 28, septiembre 2023, e085. ISSN 2346-8890 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación 
+Centro de Estudios Latinos
+ARTÍCULOS/ARTICLES
+Cita sugerida: Marrón, G. A. (2023). Cómo (re)hacer héroes 
+con palabras. El piadoso Aquiles y la preciosa muerte de 
+Héctor. Auster, 28, e085. 
+https://doi.org/10.24215/23468890e085 
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+2
+La formación retórica de Draconcio y la estructura del Romuleon IX
+A partir del prefacio que encabeza la colección de Romulea y del que precede a la tercera composición
+del códice,1 es posible inferir que las prácticas escolares del aprendizaje retórico cumplieron un papel
+determinante en la formación de Draconcio.2 Ambos prefacios consisten en dedicatorias a su maestro,
+Feliciano, de quien probablemente obtuvo no solo el tradicional aprendizaje sobre gramática y comentario de
+textos, sino también su formación retórica e instrucción en las técnicas de composición literaria. El noveno de
+los Romulea, del que me ocuparé este artículo, se titula Deliberación de Aquiles sobre la posibilidad de vender
+el cuerpo de Héctor3 y constituye, precisamente, una de las tres obras de su autoría que la crítica ha agrupado
+bajo la denominación de ejercicios retóricos.4 Las dos restantes son la Controversia sobre la estatua del varón
+fuerte .Romul., V) y una etopeya con las Palabras de Hércules al observar cómo se multiplican las cabezas
+cortadas de la Hidra .Romul., IV). Estas tres obras de Draconcio, declamaciones en verso que responden a
+una peculiaridad literaria de la Antigüedad tardía (Scafoglio, 2019, p. 4-9), constituyen la mitad de las piezas
+retóricas latinas, escritas en verso, que se han conservado; las otras tres son la Controversia del pescador sacrílego
+(AL 21 R), las Palabras de Aquiles al oír la trompeta de Diomedes en el gineceo (AL 198), y las Palabras de
+Augusto cuando Virgilio ordena quemar la Eneida (AL 672 R).5
+Durante el dominio vándalo, el norte de África fue escenario de una suerte de forzada convivencia más
+o menos pacíﬁca entre los habitantes romanos de la región y el nuevo grupo gobernante, que requería la
+participación de la élite romana letrada para el funcionamiento del Estado. Desde el punto de vista intelectual,
+como señala Marrou (1985, p. 440-441), tenemos la certeza de que Cartago conoció durante ese período una
+intensa actividad, particularmente atestiguada por la compilación de la Antología Latina (a la que pertenecen
+las tres piezas retoricas en verso no escritas por Draconcio), que da cuenta de la existencia de un núcleo de
+profesores enteramente acorde con la tradición clásica. En tal sentido, como explica Stoehr-Monjou (2015b,
+p. 101-102), el África vándala parece haber funcionado a la vez como una suerte de conservatorio de la
+declamación latina y un laboratorio de experimentación que permitió su renovación mediante el pasaje de
+la prosa al verso. Nótese que tanto la anónima Controversia del pescador (AL 21 R), como la Deliberación de
+Aquiles .Romul., IX) y la Controversia sobre la estatua .Romul., V) son prosímetros, desarrollados mayormente
+en hexámetros, pero con inscriptiones y quaestiones intercaladas en prosa.6 La Deliberación de Aquiles presenta
+la siguiente estructura: un proemio de 36 versos; una breve quaestio inicial en prosa, con su correspondiente
+respuesta de 41 versos; otra segunda quaestio en prosa, cuya respuesta es más extensa (63 versos); y un epílogo
+que abarca prácticamente el cuarenta por ciento de la composición (91 versos).
+En el proemio, se apela primero a la gloria (decus, v. 1) y al renombre (fama, v. 2) de Aquiles, en correlación
+con la necesidad de reconocer el coraje (uirtus, v. 5) de su adversario. Luego, el orador señala que Héctor ya
+no representa ningún peligro y que al héroe no le afecta que este reciba o no sepultura: si los muertos ya no
+pueden sentir nada,7 impedir su cremación no tendría sentido; y, si los muertos aún pueden sentir algo, dejar
+que se lo incinere supondría, en todo caso, seguir torturándolo (vv. 9-15). No obstante, enseguida se aclara
+que no es cierto que la muerte sea el ﬁn de la existencia: una vez liberadas del cuerpo, las almas de las personas
+piadosas perduran, aunque no experimenten dolor por lo que les suceda a sus restos mortales. Finalmente,
+luego de una digresión sobre el ascenso de esas almas a los astros, el orador plantea que, si Aquiles se comporta
+de manera piadosa, la suya tendrá el mismo destino (vv. 16-36).
+La hipotética objeción de la primera quaestio se desprende, en términos lógicos, del razonamiento
+desarrollado en el proemio: si después de la muerte el cuerpo es solo un envase abandonado por el alma,
+incapaz de sufrir o sentir dolor, ¿qué sentido tiene pedir la devolución del hijo de Príamo? Al responder, el
+orador primero desplaza el foco hacia el sufrimiento de quienes reclaman el cuerpo: su esposa Andrómaca,
+su hijo Astianacte y su hermana Políxena (vv. 37-48). Luego, le dice a Aquiles que debe dejar de sentir dolor
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+3
+por la pérdida de Patroclo y alegrarse por el inconsolable sufrimiento de los troyanos, quienes ahora carecen
+de alguien capaz de vengar la muerte de Héctor (vv. 49-77).
+Como segunda quaestio, se formula la objeción de que Aquiles podría aliviar su dolor al dejar que los perros
+y las aves laceren el cadáver de quien mató a Patroclo. Durante el primer movimiento argumentativo, el
+orador señala que algunos pueblos honran a los muertos dejando a los perros y las aves devorar sus cadáveres,
+que al reducir a huesos los cuerpos los animales hacen lo mismo que las piras funerarias, que el proceso
+de descomposición de un muerto es igual adentro que afuera del sepulcro, y que Andrómaca podría llorar
+a Héctor en un cenotaﬁo (vv. 78-91).8 De alguna manera, mientras el siguiente argumento es de orden
+cientíﬁco, porque apela los conocimientos médicos de Aquiles para instarlo a evitar que la descomposición
+del cadáver contamine el aire y esparza enfermedades (vv. 92-119), el último se inscribe en la escatología
+mítica, apelando a la ﬁgura de su abuelo Éaco para advertirle que, si Héctor no recibe sepultura, Patroclo
+no podrá cruzar el Aqueronte y él será condenado en los inﬁernos (vv. 120-140). No obstante, como señala
+Scafoglio (2019, p. 29), también es cierto que la intervención de Éaco adopta el formato de una idolopeya,
+cercana a la idea de Lucrecio sobre el Averno y sus castigos como imagen metafórica del remordimiento, el
+temor y la culpa.
+En el extenso epílogo, primero se recapitulan los argumentos desarrollados en los dos últimos apartados (vv.
+141-147). En segundo lugar, se plantea la posibilidad de que Andrómaca y Príamo puedan comenzar a buscar
+y reunir los restos dispersos de la mitad desgarrada del cadáver de Héctor (vv. 148-168). En tercera instancia,
+se introduce la imagen de Andrómaca, Príamo, Hécuba, Astianacte y Políxena en actitud suplicante, para
+describir luego a Hécuba y Andrómaca, abrazadas al cadáver, mientras palpan sus heridas (vv. 169-192). A
+continuación, se ampliﬁca el principal argumento de la súplica 
+de Príamo a Aquiles en la Ilíada
+,9 para invitar 
+al héroe a sustituir la imagen de Astianacte por la de Pirro, la de Príamo por las de Peleo y Licomedes, la de 
+Andrómaca por la Deidamía y la de Hécuba por la de Tetis (vv. 193-213). Finalmente, el orador le propone 
+a Aquiles vender el cuerpo de Héctor como si fuera un prisionero de guerra, pero a cambio de un rescate que 
+deje a los troyanos económicamente en la ruina (vv. 213-231).
+Reconfiguraciones del léxico heroico
+Del diverso espectro de aproximaciones posibles al Romuleon IX, muchas de ellas ya desarrolladas en distintos
+trabajos de investigación,10 abordaré un aspecto que, hasta donde pude indagar, no parece haber sido
+estudiado aún por la crítica. Me reﬁero a la nueva conﬁguración del léxico heroico que ocurre en el texto,
+fundamentalmente en torno a las ﬁguras de Aquiles y Héctor. Algunos de los predicativos y sintagmas
+adscriptos a ambos se ajustan a las características clásicas del héroe épico (fuerza física, juventud, nobleza,
+magnanimidad y capacidad de vencer al enemigo en combate):
+TABLA 1
+predicativos y sintagmas compartidos
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+4
+Otros, en cambio, resultan tradicionalmente especíﬁcos. Con Aquiles (presentado como cruel,
+sanguinario, combativo, irascible, feroz, vengador y destructor), se utilizan en vocativo los términos dux
+bellipotens, magnus y summus. Héctor, singularizado como rey, varón y señor, aparece deﬁnido a partir de su
+muerte heroica en el campo de batalla:
+TABLA 2
+predicativos y sintagmas idiosincráticos
+Presentado el contexto general, analizaré a continuación dos aspectos léxicos puntuales, que suponen una
+innovación respecto a las caracterizaciones heroicas tradicionales de Aquiles y de Héctor: 1) relacionar al
+primero no solo con un epíteto opuesto al que tiene en la Eneida, sino incluso con el epíteto más característico
+de Eneas; 2) vincular al segundo con un sintagma que reconﬁgura el tópico clásico de la muerte heroica en
+términos bíblicos.
+1. El piadoso Aquiles
+No he consignado en la Tabla 2 los adjetivos mitis y pius, utilizados para caracterizar a Aquiles en el epílogo,
+precisamente porque no forman parte de los rasgos idiosincráticos por lo general asociados a dicho personaje.
+El orador recurre al primero para proponerle al héroe que mire hacia atrás y recuerde a sus seres queridos
+a través del rostro suplicante de los familiares de Héctor: iam respice mitis (v. 192: “y ahora, sosegado,
+recuerda”);13 posteriormente, apela al segundo para pedirle meditar sobre lo que le ha dicho: haec, summe,
+retracta / et ueniam largire pius (vv. 213-214: “Reﬂexiona sobre esto, supremo, y accede, piadoso, a la súplica”).
+No obstante, mirar hacia atrás, sosegarse y pensar dos veces no parecen conductas propias del hijo de Peleo.14
+Como señala Curtius (1955), Aquiles no constituye una ﬁgura ideal en la Ilíada, entre otras cosas, porque
+el poeta precisamente desaprueba la profanación del cadáver de Héctor. Si bien posee el don divino del
+vigor corporal, para Homero el verdadero héroe debía tener además la sabiduría encarnada por Néstor. En
+tal sentido, como la norma ideal suponía la coexistencia de valor (fortitudo) y sabiduría (sapientia) en la
+misma persona, la acción épica de la Ilíada explora la antinomia entre ambas cualidades: por ejemplo, si
+bien Héctor es un buen guerrero, no es tan bueno al aconsejar, aspecto en que contrasta con Polidamante
+(pp. 247-249). Respecto a la conﬁguración heroica de Eneas, a su vez, Curtius (1955) sostiene que en él la
+sabiduría aparece sustituida por una fuerte dimensión moral, sustentada en la noción de pietas (pp. 250-251).
+El epíteto característico de Eneas es, precisamente, pius; por lo tanto, que Draconcio se lo asigne a Aquiles
+supone, en principio, una transgresión similar a la de atribuirle el antónimo del adjetivo que lo deﬁne en el
+poema virgiliano;15 tanto a través del narrador: super iactatos aequore toto / Troas, reliquias Danaum atque
+immitis Achilli (I, 29-30: “tras haber zarandeado por todo el mar a los Troyanos, los restos que dejaron los
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+5
+Dánaos y el cruel Aquiles”);16 como del propio Eneas: serua altera Troiae / Pergama, reliquias Danaum atque
+immitis Achilli (III, 86-87: “protege a la otra Pérgamo troyana y a los restos que dejaron los Dánaos y el cruel
+Aquiles”). Nótese, además, que Draconcio también alude al sintagma immitis Achilli en los últimos versos
+del proemio, donde aparece junto al término pietas:
+aduenturus eris, pietas si sancta manebit 
+corpore belligero, si non crudelis in hoste 
+post uitam morientis eris, si immitis Achilles 
+nec post bella manes nec spectant funera 
+poenas arbitrio subiecta tuo, si parcitur 
+umbris, quaesitor quas torquet auus, si uera 
+feruntur. (Drac., Romul., IX, 31-36)17
+Has de llegar allí si la santa piedad se arraiga en tu combativo cuerpo, si no eres sanguinario 
+con el enemigo una vez que ya ha perdido la vida, si tras la guerra no permaneces cruel, 
+Aquiles, si no aguarda a los cadáveres sujetos a tu voluntad un suplicio y perdonas a las 
+sombras que (si lo que se dice es verdad) tortura tu abuelo el juez.
+Tanto el arraigo de una sancta pietas (v. 31) en su combativo cuerpo, como la pérdida de los rasgos
+inherentes a su prototípica crueldad en combate, son presentados aquí como condiciones necesarias para que
+Aquiles, después de la muerte, pueda acceder a la morada astral donde habitan las almas piadosas. Muchas
+veces resulta complejo encontrar la palabra justa para traducir ciertos términos con el matiz preciso que les
+asigna Draconcio. El empleo de la expresión sancta pietas, que en este pasaje aparece ligada a la idea de relegar
+la conducta marcial aceptable para el héroe en el campo de batalla, constituye un ejemplo. La connotación
+clásica del sintagma remite al universo de las tragedias de Séneca (Phoen. 445; Phaedr. 903; Oct. 160, 286,
+573), pero aquí el poeta parece tener presente un texto anterior, en el que ya había sido resigniﬁcado en
+términos cristianos. Me reﬁero al cuarto natalicio que Paulino de Nola le dedicara a San Félix en el año
+398, cuyo tema central es precisamente la biografía del santo. Al narrar su liberación de la cárcel gracias la
+intervención divina de un ángel, el poeta aﬁrma que Félix se hallaba preso a causa de su sancta pietas .carm.
+XV, 240-241: pietas cui sancta reatum / fecerat), pero lo más relevante del mencionado natalicio es cómo la
+pietas del santo aparece modelada a través de una imagen que sustituye a la de Eneas, con Anquises sobre la
+espalda, por la del buen pastor que –como el μοσχοφόρος– porta la oveja perdida sobre sus hombros.18 Se
+trata, concretamente, del pasaje en que el obispo Máximo le dice:
+utere, ﬁli,
+praeceptis pietatis opus mandantibus et me 
+suscipiens humeris commune ad ouile reporta 
+(Paul. Nol., carm. XV, 326-328)19
+“Cumple, hijo, con los preceptos que te ordenan la piadosa tarea y, llevándome sobre los hombros, regrésame al redil de las
+ovejas”.
+Los términos pius y pietas aparecen numerosas veces en el poema dedicado al cuarto natalicio de San Félix,20
+incluso presentados –como en Romul., IX– por oposición a la idea tradicional de que la sola fortitudo es
+garantía de victoria.21 Si en la épica de Virgilio la sapientia había sido sustituida por la dimensión moral de la
+pietas romana, en los autores cristianos esa pietas se reconﬁgura a partir de valores religiosos diferentes:22
+cuius de numine pendet
+uincere uel uinci, cuius uirtute uel unus 
+fortior innumeris, pietate armatus inermi 
+armatos ferro, sed inermes pectora Christo 
+prosternit superante ﬁde, quae conscia ueri
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+6
+caelestis uitam praesenti morte futuram 
+conparat et uicto uictricem corpore mentem 
+laeta deo referens gaudentibus inuehit astris.
+(Paul. Nol., carm. XV, 145-152)
+De la voluntad [de Dios] depende vencer o ser vencido, gracias a su coraje hasta uno solo es 
+más fuerte que muchos juntos y, armado de inerme piedad, a los armados con espadas e 
+inermes de corazón los hace postrar ante Cristo con una fe superadora, que consciente de la 
+verdad celestial, compara la vida futura con la muerte del presente y, vencido el cuerpo, 
+mientras le entrega contenta a Dios el espíritu, lo conduce victorioso hacia los alegres astros.23
+La propuesta es audaz: siglos después, Draconcio coloca de nuevo a Aquiles ante la disyuntiva heroica de
+una elección: podría atenerse a la tradición, vender el cadáver de Héctor y seguir habitando en la νέκυια del
+canto XI de la Odisea, o bien adaptar los rasgos de su ἀρετή a los nuevos parámetros culturales de una uirtus
+cristiana, vertebrada por la sancta pietas, que permitiría convertir la brevedad terrenal de su κλέος en un decus
+de amplitud inmortal. Ese es, precisamente, el planteo formulado por Draconcio en los primeros siete versos
+del proemio:
+Si decus est uirtus et praemia cuncta meretur, 
+si meritum post fata manet, si fama superstes 
+eminet et gaudet titulis ornare sepulchra, 
+annue quod petimus. fortis pro forte rogaris: 
+egregias mentes uirtus delectat in hoste, 
+inuidia mens summa caret, laudare decora 
+nouit et ingentes attollere gestiet actus.
+(Drac., Romul., IX, 1-7)
+Si la gloria es el coraje y amerita todos los premios, si lo merecido se conserva después de la 
+muerte, si la fama que sobrevive es eminente y se complace en realzar los sepulcros con títulos 
+honoríﬁcos, accede a lo que pedimos. Eres fuerte y se te ruega por un fuerte: a las mentes 
+insignes les agrada que el enemigo tenga coraje, una mente elevada carece de envidia, sabe 
+alabar las glorias y le apasiona exaltar las grandiosas hazañas.
+Draconcio utiliza solo aquí el término decus con esta particular acepción, que expresa la consecuencia del
+ejercicio de la uirtus dentro del grupo social y, por lo tanto, equivale a la legítima consideración lograda por
+alguien a partir del valor reconocido de sus acciones.24 Si bien lo traduje como “gloria”, es importante recordar
+que no equivale al mero renombre o fama;25 término también presente en este pasaje (fama superstes, v. 2),
+pero como parte de un sintagma que remite a las Odas de Horacio: illum aget pinna metuente solui / fama
+superstes (II, 2, 7-8: “se lo llevará la fama, que sobrevive, con sus alas reacias a deshacerse”); y a las Tristes de
+Ovidio: me tamen exstincto fama superstes erit (III, 7, 50: “sin embargo, cuando me haya muerto, sobrevivirá
+mi fama”).26 El carácter efímero de la fama, incluso adjetivada superstes, se observa también en el texto de un
+autor cristiano posterior a Draconcio; Boecio, en la Consolación de la ﬁlosofía se pregunta:
+ubi nunc ﬁdelis ossa Fabricii manent?      
+      quid Brutus aut rigidus Cato?
+signat superstes fama tenuis pauculis 
+     inane nomen litteris. 
+(Boeth., cons., II, 7, 15-18)27
+¿Dónde permanecen ahora los huesos del leal Fabricio? ¿Qué fue de Bruto o del inﬂexible 
+Catón? La tenue fama que sobrevive traza con poquitas letras un nombre vacío.
+En tal sentido, considero que uno de los términos más relevantes en los versos iniciales del proemio es
+decus. No solo por el preeminente lugar que ocupa en el primer hexámetro, sino también por la estrecha
+relación que supone con la inmediata digresión sobre el destino astral de las almas piadosas. Por razones de
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+7
+extensión, no me demoraré en la cuestión escatológica y sus vínculos con distintas nociones ﬁlosóﬁcas y textos
+literarios (como la Farsalia de Lucano o la Tebaida de Estacio), tema del que ya se han ocupado ampliamente
+otros autores.28 No obstante, resulta pertinente recuperar el planteo de Scafoglio (2019, p. 22), que fue el
+primero en señalar al Sueño de Escipión como una suerte de arquetipo (en tanto modelo primario, aunque no
+necesariamente directo) del planteo escatológico desarrollado por Draconcio en esta obra:
+Nel Somnium, infatti, si parla già della natura divina (ignea) dell’anima, di cui il corpo è considerato una prigione; si 
+fa la distinzione (all’interno di un più ampio quadro cosmologico) tra il cerchio inferiore della luna e quello 
+superiore del sole, sede delle anime ‘beate’; gli uomini degni dell’immortalità sono deﬁniti omnes pii (15), con lo 
+stesso aggettivo che Draconzio attribuisce alle anime destinate alla sfera del sole e che non compare invece in 
+Lucano (e neppure in Stazio).
+Entre los autores del siglo I a. C., particularmente en Cicerón, que concentra la mayor cantidad de
+ocurrencias del término en ese período, decus rara vez tiene el sentido de “gloria”. El único caso en que decus
+signiﬁca claramente “gloria” se encuentra en el Sueño de Escipión (omas, 2002, p. 241), una obra sin duda
+conocida y apreciada en la Antigüedad tardía, sobre todo a través del comentario de Macrobio. Y aunque
+hasta ahora la crítica no parece haber reparado en ello, el léxico presente en el proemio del Romuleon IX se
+relaciona estrechamente con el pasaje en que eso ocurre:
+Igitur alte spectare si uoles atque hanc sedem et aeternam domum contueri, neque te sermonibus uulgi dedideris nec in 
+praemiis humanis spem posueris rerum tuarum, suis te oportet illecebris ipsa uirtus trahat ad uerum decus. Quid de te alii 
+loquantur, ipsi uideant, sed loquentur tamen; sermo autem omnis ille et angustiis cingitur his regionum quas uides, nec 
+umquam de ullo perennis fuit; et obruitur hominum interitu, et obliuione posteritatis extinguitur.
+(Cic., Rep., 6, 25)29
+Así, si deseas aspirar a lo más elevado y contemplar esta sede y morada eterna, no confíes en lo que dice el vulgo, ni pongas la
+esperanza de tus acciones en los premios humanos, conviene que el coraje mismo, con su estímulo, te conduzca a la verdadera
+gloria. Que lo que digan sobre ti los demás sea asunto de ellos, lo dirán igual; porque todo lo que digan queda circunscripto
+a este pequeño espacio de las regiones que ves, y nunca perduró lo que se dijo de alguien; no solo queda sepultado con la
+muerte de los hombres, sino que se extingue por el olvido de la posteridad.
+Escipión el Africano se reﬁere a los “premios humanos” (praemiis humanis) como algo en lo que no resulta
+conveniente depositar la conﬁanza. Los dos primeros versos del Romuleon IX establecen, como condición
+inicial del argumento a desarrollar, no solo la idea de que la gloria (decus) consista en el coraje (uirtus) y sea
+merecedora todos los premios (praemia cuncta), sino también la necesidad de que lo merecido (meritum) por
+los hombres pueda conservarse después de la muerte (post fata). Todo parece indicar que, entre Cicerón y
+Draconcio, media también el léxico de las Instituciones de Lactancio:
+iniusti ac deum nescientes et diuitiis et potentia et honoribus ﬂorent. haec enim cuncta 
+iniustitiae praemia sunt, quia et perpetua esse non possunt et per cupiditatem uiolentiamque 
+quaeruntur.
+(Lact., inst., V, 22, 6)30
+Los injustos y quienes no conocen a Dios poseen abundantes riquezas, poder y honores. Estas cosas, en efecto, constituyen
+todos los premios de la injusticia, porque no pueden ser perpetuas y se obtienen por la ambición y la violencia.
+Los premios que Aquiles podría conservar después de la muerte, como reconocimiento a una uirtus
+equiparable al decus, serían aquellos que no fueran de tipo material ni procedieran de la injusticia. El sintagma
+praemia cuncta, inserto en el primer verso del Romuleon IX, parece relacionarse entonces con la recepción
+previa del planteo de Lactancio por parte de Juvenco, cuando reﬁere que Herodes, embelesado por la destreza
+de Salomé en la danza, se comprometió a darle todo lo que quisiera: tunc praemia cuncta patere / iuratus
+spondet, quaecumque puella petisset (Juvenc., III, 59-50: “entonces jura y promete ofrecerle todos los premios,
+cualquier cosa que la joven pidiera”).31
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+8
+Al aplicarle a Aquiles tanto un adjetivo opuesto al que recibe en la Eneida (immitis), como el epíteto
+especíﬁco de Eneas (pius), Draconcio recupera –y activa una vez más– las distintas operaciones de conversión
+que los autores cristianos habían realizado sobre la lengua de Virgilio y el léxico heroico de la literatura latina.
+En todo caso, lo novedoso de la estrategia consiste en presentar a los personajes y situaciones narrativas de
+los mitos griegos a través de un lenguaje que, si bien en términos formales se confunde con el de la literatura
+romana del período clásico, a la vez conlleva el sustrato ideológico del cristianismo.
+2. La preciosa muerte de Héctor
+Draconcio aborda en esta suasoria uno de los tópicos característicos de la épica grecolatina –la muerte
+heroica–, articulándolo con cruentas descripciones del cadáver de Héctor tras haber sido arrastrado por el
+carro de Aquiles. Para los antiguos griegos, la muerte bella (καλός θάνατος) era la muerte gloriosa (εὐκλεής
+θάνατος) en el campo de batalla.32 Dicha muerte se fundía con la palabra poética que la expresaba y le confería
+una realidad perdurable; su belleza se homologaba con la del canto que, al celebrarla, se convertía él mismo
+“en memoria inmortal a lo largo de la ininterrumpida cadena de las generaciones” (Vernant, 2001, p. 80).
+La muerte heroica sustraía al guerrero del olvido, íntimamente ligado a la muerte, pero a la vez suponía un
+triunfo restringido a pocos hombres de nobleza y cualidades excepcionales; el cristianismo, en cambio, hizo
+extensiva a todos los ﬁeles la idea de “vencer a la muerte con la muerte” (morte et mortem uincere, Prud., perist.,
+I, 27),33 conﬁriéndole un nuevo sentido trascendente al momento en que la vida concluye. No obstante, entre
+ambas concepciones había mediado también la recepción y readaptación del tema en la Eneida, que sin duda
+fue la obra de mayor difusión y ascendiente entre los autores cristianos (Florio, 2002, p. 269-270).
+En el epílogo del Romuleon IX, como parte los escenarios posibles planteados por el orador para intentar
+persuadir a Aquiles, tienen lugar dos descripciones particularmente cruentas de los despojos mortales de
+Héctor. La primera, que abarca veinte versos, apela tanto a la imagen de Andrómaca recolectando los restos
+dispersos del héroe junto a Príamo, como a la interacción del pequeño Astianacte con la sangre y el cuerpo
+desmembrado de su padre:
+uel medium Priamo, generose, refunde cadauer, 
+nam partem tractura tenet. si reddere corpus 
+et laceros artus tempta pietate negabis,
+exiet Andromache socero comitante per agros 
+Astyanacta trahens, qua tristior orbita monstrat, 
+et leget infelix dispersi membra mariti, 
+uepribus e mediis rupem complexa cruentam 
+oscula ﬁxa dabit dicens de rupe maritum;
+in qua sanguis erit, rupem uocat Hectora coniux 
+et puerum miseranda docet, ne calcet harenas 
+infecit quas forte cruor. tardumque per horas 
+expectat socerum, sed non uacat: exprimit herbas, 
+quas rubuisse uidet; hoc nati uultibus addit, 
+ut patrem ferat ore puer; suadente dolore
+ipsa sibi demens extorquet, ut Hectora credat 
+Astyanacta suum. Priamo tamen Hectoris ossa, 
+si qua iacent dispersa rotis, ostendet et ambo 
+carnibus Hectoreis deﬁgent oscula ﬂentes.
+ore cruentato puerum simul ambo monebunt 
+oscula det membris; ‘laceros ubicunque iacere’, 
+dicet auus puero, ‘pater est quos uideris artus’
+(Drac., Romul., IX, 148-168)
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+9
+Restitúyele la mitad del cadáver a Príamo, noble Aquiles, porque el resto está donde lo has arrastrado. Si despreciando la 
+piedad te niegas a devolver el cuerpo y los miembros lacerados, Andrómaca alzará a Astianacte, saldrá por los campos con 
+su suegro y, desdichada, recogerá los miembros de su esparcido marido por donde el triste rastro le indique. Abrazada a una 
+piedra ensangrentada entre espinos la besa diciendo que su marido está en esa piedra: la mísera esposa llama Héctor a la 
+piedra ensangrentada y le enseña al niño a no pisar la arena que podría estar impregnada de sangre. Espera durante horas al 
+rezagado suegro, pero no permanece inactiva: exprime las hierbas que ve enrojecidas, coloca eso en las mejillas del hijo, para 
+que el pequeño lleve en el rostro a su padre, y ella misma, enloquecida de dolor, se convence de que es Héctor su Astianacte. 
+Y si los huesos de Héctor yacen esparcidos por las ruedas en algún sitio, ella se los mostrará a Príamo y juntos, llorando, 
+estamparán besos en la carne de Héctor. Ambos a la par alentarán al niño a besar los miembros con su rostro ensangrentado: 
+“Esas laceradas coyunturas que ves tiradas por todas partes son tu padre” le dirá su abuelo al pequeño.
+Como señala Scaﬀai (1995, p. 311) la conducta de Andrómaca en ese pasaje puede relacionarse con la
+de Argía en el libro XII de la Tebaida de Estacio (pp. 312-315), con la grotesca compositio membrorum
+que intenta llevar a cabo Teseo en la Fedra de Séneca (pp. 320-321) y con las passiones de Hipólito y
+Vicente en el Peristephanon de Prudencio (pp. 321-323). No obstante, por situarse en una instancia narrativa,
+previa a la devolución del cuerpo de Héctor, el escenario descripto por el orador no guarda relación con
+lo que efectivamente sucede en el poema homérico, donde Apolo y Afrodita intervienen para impedir la
+descomposición y asegurarse de que el héroe no sea desﬁgurado.34 En la Ilíada, las constantes alusiones a
+distintos cuerpos devorados por los perros o pudriéndose al sol hacen del cadáver ultrajado un espacio en el
+que la imagen de la bella muerte se invierte (Vernant, 2001, p. 79). Ultrajar a un guerrero muerto suponía
+borrar de su cuerpo todo rastro de la belleza viril y juvenil que exteriorizara su gloria; es decir, privarlo también
+del ritual funerario, que implicaba embellecerlo, perfumarlo y ungirlo antes de que la forma efímera de su
+existencia fuera consumida por la pira.35 Al acercarse al cadáver de Héctor, los griegos admiran su ﬁgura y
+su hermosa apariencia (XXII, 370: φυὴν καὶ εἶδος ἀγητὸν), aspecto relacionado con la aﬁrmación previa de
+Príamo: “Para el joven que muere en el encuentro de Ares es del todo decoroso yacer desgarrado por el agudo
+bronce, pues aunque esté muerto, su entera apariencia es hermosa” (XXII, 71-73).36
+En la Ilíada, Héctor no solo recibe honras fúnebres, sino que además su cadáver es preservado gracias la
+intervención de los dioses. Pero como en el Romuleon IX no se alude al panteón homérico, cuando el orador
+presenta la imagen de Andrómaca y Hécuba palpando las heridas del héroe, Draconcio señala la necesidad de
+distinguir las recibidas de frente, propias de una muerte heroica, de aquellas que tiene en la espalda, inﬂigidas
+por el carro de Aquiles al arrastrarlo:
+heu lacerum nam corpus erat, quod mater et uxor 
+complexae per colla tenent et uulnera ferri
+per laceros artus generoso in corpore quaerunt. 
+sed quid dorsa uiri palpant? iniuria constat 
+magnanimi iuuenis; plagam, qua concidit Hector, 
+et uulnus si nosse placet, uersate supinum 
+corpus et occisi tractentur pectora regis:
+inuenient ungues, quanto descendit hiatu 
+hasta potens quantumque dedit Vulcanius ensis. 
+nam quod terga ferunt, hoc currus fecit Achillis,
+dum trahit extincti iuuenis per saxa cadauer.37 
+(Drac., Romul., IX, 177-187)
+Pues, ay, desgarrado estaba el cuerpo a cuyo cuello se abrazan la madre y la esposa, mientras buscan las 
+heridas del hierro en los lacerados miembros. ¿Pero por qué palpan la espalda del héroe? Supone insultar a 
+este valeroso joven: si quieren reconocer la herida y el golpe con que fue abatido Héctor, coloquen boca 
+arriba el cuerpo y tóquenle el pecho al rey muerto: las uñas notarán qué profundo ha penetrado la 
+poderosa lanza y cuánto se clavó la espada de Vulcano. Porque lo que tiene en la espalda lo hizo el carro de 
+Aquiles mientras arrastraba por las piedras el cadáver del joven exánime.
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+10
+En la épica grecolatina, la cobardía se maniﬁesta dando la espalda al enemigo, por eso las cicatrices (como
+explica Mario en su arenga, Sall., Iug., LXXXV, 29: cicatrices aduorso corpore) deben estar en el pecho del
+guerrero, como signo de que no ha rehuido el combate.38 En este caso, la insistencia del poeta en señalar el
+diferente origen de las heridas que Héctor tiene en el pecho y en la espalda supone tanto reconocer los códigos
+propios de la épica clásica, como distanciarse voluntariamente de ellos: para que ambas clases de heridas
+coexistan en el cuerpo de, Héctor la estructura divina que sostenía la narración homérica necesariamente
+tenía que haber cambiado.39 Y eso se maniﬁesta, incluso con mayor claridad léxica, en un pasaje posterior de la
+suasoria, cuando el orador le propone a Aquiles establecer un precio a cambio del cadáver: hoc placet: ut fortis
+habeatur iudice bello / mors pretiosa uiri (vv. 217-218: “Lo que agrada es esto: que, con la guerra como juez,
+la muerte de un varón fuerte sea considerada preciosa”). En este punto, el lector versado en la épica clásica
+habría esperado allí una alusión a la pulchra mors del enjambre de las Geórgicas (IV, 215-218), o a la de Niso
+y Euríalo en la Eneida (IX, 399-401).40 Sin embargo, la mors pretiosa del sintagma propuesto por Draconcio
+es de origen bíblico y se relaciona tanto con uno de los Salmos. pretiosa in conspectu Domini mors sanctorum
+eius (CXV, 5: “Es preciosa a los ojos del Señor la muerte de sus santos”),41 como con la siguiente paráfrasis
+previa, en el Peristephanon de Prudencio:
+docta mulier psallere
+hymnum canebat carminis Dauitici: 
+‘Pretiosa sancti mors sub aspectu dei, 
+tuus ille seruus, prolis ancillae tuae’. 
+(Prud., perist. X, 837-840)42
+La mujer, docta en el canto, entonaba este himno del Salmo de David: “Preciosa es la muerte del santo a 
+los ojos de Dios; aquel es tu siervo, el hijo de tu esclava”.
+Como es posible observar, nos hallamos ante un tipo de muerte heroica que se inscribe en un esquema
+diferente: su justa valoración ya no depende solo del grupo social, como en la Grecia arcaica, donde cada
+individuo existe solo en función de otro y la verdadera muerte consiste en el olvido y la ausencia de renombre
+(Vernant, 2001, p. 56); se trata de una mors que, en términos propios de una ofrenda o sacriﬁcio, resulta
+apreciada como tal (pretiosa) por parte de la divinidad. Aunque se trate de una gloria que quedará inscripta en
+la memoria colectiva del grupo gracias a la mediación de la palabra poética, es el Dios cristiano quien, como
+juez, garantizará su proyección en una esfera que trascienda, incluso, el recuerdo de las futuras generaciones.
+En tal sentido, que Draconcio utilice, junto al sintagma mors pretiosa, la expresión iudice bello, que remite al
+pasaje de la Farsalia de Lucano en que César se encuentra a punto de cruzar el Rubicón, es revelador:
+‘hic’, ait ‘hic pacem temerataque iura relinquo; 
+te, Fortuna, sequor. procul hinc iam foedera sunto; 
+credidimus satis , utendum est iudice bello’. 
+(Luc., I, 225-227)43
+“Aquí”, dijo, “aquí me alejo de la paz y las leyes transgredidas; te sigo, Fortuna; aléjense ya de aquí los 
+pactos; bastante hemos conﬁado en ellos, hay que recurrir a la guerra como juez”.
+La guerra aludida por César funciona como parámetro de justicia en un mundo regido por la Fortuna,
+donde la transgresión de las leyes y los pactos carece de consecuencias. Se trata de una aﬁrmación cuyo
+correlato es la extensa arenga de César que tiene lugar en el libro VII, cuando aﬁrma que el vencedor será
+el único juez y ninguno de los vencidos resultará inocente: nulla manus, belli mutato iudice, pura est (Luc.
+VII, 263: “ningún ejército está limpio [de culpa] si cambia el juez de la guerra”).44 Con un simple cambio
+de puntuación, la aﬁrmación: “Lo que agrada es esto: que, con la guerra como juez, la muerte de un varón
+fuerte sea considerada preciosa” (hoc placet: ut fortis habeatur iudice bello / mors pretiosa uiri .Romul., IX,
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+11
+217-218), se transforma en: “esto agrada al juez: que la muerte de un varón en combate sea considerada
+preciosa” (hoc placet ut fortis habeatur iudice, bello / mors pretiosa uiri .Romul., IX, 217-218). ¿No podríamos
+pensar, entonces, que Draconcio apela a esa ambigüedad para convertir la muerte heroica de Héctor en algo
+precioso a la vista de Dios, como el sacriﬁcio de sus mártires? Nótese que, si bien el sintagma mors pretiosa
+se vincula tanto con el Salmo CXV, como con el pasaje del Peristephanon X, que ya hemos citado, guarda
+relación también con el Poema XXI de Paulino de Nola, cuyo tema no es la gloria (laus)45 especíﬁca de los
+santos, sino de las personas piadosas, en general:
+quod ‘laude’ dixi, ‘morte’ dictum discite, 
+quia mors piorum iure laus vocabitur, 
+pretiosa domino quae deo rependitur.
+(Paul. Nol., carm. XXI, 107-109)
+Sepan que al decir ‘gloria’ he dicho ‘muerte’, porque la muerte de los piadosos, calibrada como preciosa por 
+los ojos de Dios, será con justicia llamada gloria.46
+En este pasaje, la presencia del verbo rependo, cuyo signiﬁcado es sopesar, calibrar o estimar para tasar una
+retribución proporcional,47 supone la misma oscilación entre lo concreto y lo abstracto que la aplicación del
+verbo pensabitur48 al cuerpo de Héctor en estos versos:
+si parua putantur
+fac pretium, uictor: generosum uende cadauer. 
+uendatur ceu uiuus adhuc nec munere paruo, 
+sed ueneat tantum quantum pensabitur Hector 
+(Drac., Romul., IX, 213-216)
+Si no te parece suﬁciente, vencedor, ﬁja un precio: vende el noble cadáver. Que sea vendido como si 
+estuviera todavía vivo y no por un monto exiguo, sino por tanto como Héctor sea calibrado.
+Draconcio parece proponer un juego de palabras que alude a las variantes textuales e iconográﬁcas del mito
+en que el cuerpo de Héctor es colocado sobre una balanza para establecer el peso equivalente en oro de su
+rescate.49 En tal sentido, la acumulación de términos propios de una transacción económica también evoca,
+concretamente, el verso 484 del libro I de la Eneida. exanimumque auro corpus uendebat Achilles (“Aquiles
+vendía el cuerpo sin vida [de Héctor] a cambio de oro”), que corresponde a la descripción de las imágenes
+observadas por Eneas en el templo de Juno.50 No obstante, la convergencia de dos variantes textuales en un
+verso de Juvenco nos recuerda que la gloriosa mors, con que la redención de Cristo corona a la humanidad,
+equivale al valor salvíﬁco de su preciosa sangre (pretiosus sanguis) y constituye el paradigma sacriﬁcial de las
+pretiosae mortes de sus mártires y santos:
+et multos redimens pretioso sanguine seruat 
+(Juvenc., III, 611)
+et multos redimens gloriosa morte coronat
+(Juvenc., III, 611: Matritensis cason 14 no. 22, saec. IX-X)
+scientes quod non corruptibilibus argento uel auro redempti estis de uana uestra conuersatione 
+paternae traditionis sed pretioso sanguine quasi agni incontaminati et inmaculati Christi (Vulg., I Petr., 
+18-19)
+sabiendo que han sido redimidos de la necia conducta heredada de sus padres no con algo caduco, como el oro o la plata, sino
+con la preciosa sangre de Cristo, semejante a la de un cordero inmaculado y sin tacha
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+12
+Como señala Scaﬀai (1985, p. 317), en el Romuleon IX el componente épico-trágico de la tradición clásica
+se inscribe en tensiones culturales que cambian sus connotaciones y las desplazan hacia aspectos relacionados
+con las persecuciones de los vándalos arrianos contra los cristianos nicenos, tales como el valor simbólico
+atribuido a la sangre, el culto de las reliquias y el sufrimiento de los mártires. Por lo tanto, no sería extraño
+vislumbrar en dicha obra algún eco de los problemas ético-políticos aludidos en otras fuentes y documentos
+de la época, incluso a través de los ﬁltros literarios de la tradición retórica y de cierta distancia histórica.51
+De la misma manera que al interpelar a Aquiles a través del paradigma religioso de la sancta pietas, para
+construir su propia versión del personaje de Héctor, Draconcio recurre a distintos términos y sintagmas de
+la épica clásica, previamente insertos y resigniﬁcados en las obras de otros autores cristianos. En este caso, al
+articular el tópico de la muerte heroica con el léxico bíblico de los Salmos y de la Primera Epístola de Pedro,
+la variante griega del mito en que el cuerpo de Héctor es rescatado a cambio de su peso en oro se convierte
+en un inesperado soporte del sustrato ideológico cristiano.
+* * *
+Como parte de la nueva paideia asociada al proyecto ideológico de la nueva religión (cf. Florio, 2009), poco
+a poco se fue conﬁgurando un corpus de literatura latina cristiana que, para ﬁnes del siglo V, cuando escribe sus
+obras Draconcio, estaba ya sólidamente establecido. Autores como Juvenco, Ambrosio, Prudencio, Paulino
+de Nola y Sedulio, entre otros, fueron conformando un nuevo canon poético de temas vinculados con la
+religión y articulados en torno a la doctrina trinitaria. Dado ese contexto, cabe la posibilidad de pensar el
+desplazamiento temático de Draconcio hacia cuestiones de orden mitológico como una forma de escribir en
+el norte de África y vivir para contarlo; al menos durante alguno de los momentos políticos más álgidos de
+esa vida suya sobre la que sabemos tan poco. El entramado de alusiones a textos cristianos imbricadas en sus
+versos –que también ha sido estudiado por De Gaetano (2019) en términos similares a los propuestos en
+este trabajo– contribuye a sostener esa hipótesis. Al retomar la interpretación propuesta por Scaﬀai (1985, p.
+317-318), respecto a la posibilidad de que Aquiles y Héctor funcionen también como vectores de alusiones
+a la situación política contemporánea, Stoher-Monjou (2015c, p. 170) señala que, si bien la asimilación de
+Aquiles con un perseguidor resulta evidente, relacionar la ﬁgura de Héctor con los mártires resulta excesivo,
+porque, más allá de la relevancia de las passionesafricanas, Draconcio no aborda ese tema ni siquiera en sus
+obras de temática cristiana. No obstante, acaso la clave resida, precisamente, en la habilidad del poeta para
+evocar el martirio apelando a términos y sintagmas que lo aludan sin explicitarlo; el contexto histórico de las
+persecuciones padecidas por los cristianos durante dominación de los vándalos en el norte de África podría
+haber sido, incluso, el percutor de la estrategia.
+Referencias bibliográficas
+Bouquet, J. (1996). L’inﬂuence de la déclamation chez Dracontius. En J. Dangel y C. Moussy, (Eds.), Les structures de
+l’oralité en latin. Colloque du Centre Aled Ernout, Université de Paris IV (Paris, 2-4 juin 1994) (pp. 245-255).
+Paris: PUPS.
+Bureau, B. (2006). Les pièces profanes de Dracontius. Mécanismes de transfert et métamorphoses génériques.
+Interférences, Ars Scribendi, 4. Recuperado de http://ars-scribendi.ens-lyon.fr/IMG/pdf/Bureau.pdf
+Brugnoli, G. (2001). L’Ilias Latina nei Romulea di Draconzio. En F. Montanari y S. Pittaluga (Eds.), Posthomerica III.
+Tradizioni omeriche dall’Antichità al Rinascimento (pp. 71-85). Genova: D.AR.FI.CL.ET.
+Consolino, F. E. (1985). L’Achille sapiens di Accio e la ‘distinzione socratica’ fra Ettore e il corpo di Ettore. En V.
+Tandoi (Ed.), Disiecti membra poetae II (pp. 39-58). Foggia: Atlantica.
+Conte, G. B. (Ed.) (2019). P. Vergilius Maro Aeneis. Berlin-Boston: Teubner.
+Courtney, E. (1984). Some poems of the Latin Anthology. Classical Philology, 79(4), 309-312.
+Cunningham, M. P. (Ed.) (1966). Aurelii Prudentii Clementis carmina. Turnhout: Brepols.
+Curtius, E. (1955). Literatura Europea y Edad Media Latina. Madrid: Fondo de Cultura Económica.
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+13
+De Gaetano, M. (2009). Scuola e potere in Draconzio. Alessandria: Edizioni dell’Orso.
+De Gaetano, M. (2010). Echi politici nell’esegesi draconziana di Ez. 37.1-14. En C. Burini De Lorenzi y M. De Gaetano
+(Eds.), La poesia tardoantica e medievale. IV Convegno internazionale di studi (Perugia, 15-17 novembre 2007).
+Atti in onore di Antonino Isola per il 70° genetliaco (pp. 223-251). Alessandria: Edizioni dell’Orso.
+De Gaetano, M. (2018). La παιδέια musicale di Achille nel Romul. 9. En K. Pohl (Ed.), Tradition, Transformation und
+Innovation in den Werken des Dracontius (pp. 133-152). Stuttgart: Franz Steiner Verlag.
+De Gaetano, M. (2019). Signiﬁcato politico del Romuleon 9. Vetera Christianorum, 56, 119-126.
+Florio, R. (1999). Iter durum. Decurso del viaje heroico. En J. V. Bañuls Oller, J. Sánchez Méndez y J. Sanmartín
+Sáez (Eds.), Literatura iberoamericana y tradición clásica (pp. 179-190). Valencia: Universitat Autònoma de
+Barcelona - Universitat de Valencia.
+Florio, R. (2002). Peristephanon: muerte cristiana, muerte heroica. Rivista di Cultura Classica e Medioevale, 2, 269-279.
+Florio, R. (2006). Waltharius, ﬁguras heroicas, restauración literaria, alusiones políticas. Maia. Rivista di Letterature
+Classiche, 58(2), 207-229.
+Florio, R. (2009). Discere-docere: Tertuliano y Alcuino frente a la paideia oﬁcial. Traditio, 64, 105-138.
+Gale, M. (2003). Poetry and the Backward Glance in Virgil’s Georgics and Aeneid. Transactions of the American
+Philological Association, 133(2), 323-353.
+Grillone, A. (Ed.) (2008). Blossi Aem. Draconti Orestis Tragoedia. Bari: Edipuglia.
+Hartel, G. (Ed.) (1894). Sancti Pontii Meropii Paulini Nolani Carmina. Vienna - Praga: Tempsky / Leipzig: Freytag.
+Hays, G. (1997). E. Wolﬀ (ed. and tr.), Dracontius: Oeuvres. Tome IV. Poèmes Profanes VI-X. Fragments. Paris, Les
+Belles Lettres, 1996. Scholia Reviews, 6, 23.
+Heck, E. y Wlosok, A. (Eds.) (2009). L. Caelius Firmianus Lactantius. Divinarum institutionum libri septem. Fasc. 3.
+Libri V et VI. Berlin: De Gruyter.
+Hernández Lobato, J. (2012). Vel Apolline muto. Estética y poética de la Antigüedad tardía. Bern: Peter Lang.
+Herren, M. (2016). Dracontius, the Pagan Gods, and Stoicism. En S. McGill y J. Pucci (Eds.), Classics Renewed:
+Reception and Innovation in the Latin Poetry of Late Antiquity (pp. 297-322). Heidelberg: Universitätsverlag
+Winter.
+Huemer, I. (Ed.) (1891). Gai Vetti Aquilini Iuvenci Evangeliorum libri quattuor. Vienna - Praga: Tempsky / Leipzig:
+Freytag.
+Jenik, A. (2016). Martyrium oder Askese? Felix und Maximus im 4. Natalicium (= carm. 15) des Paulinus von Nola.
+Philologus, 160(1), 84-132.
+Lavarenne, M. (Ed.) (1963). Prudence. Tome IV: Le livre des couronnes. Dittochaeon. Épilogue. Paris: Les Belles Lettres.
+Martínez García, O. (Trad.) (2013). Homero. Ilíada. Madrid: Alianza.
+Marrón, G. A. (2021). Semántica de las formas. Estrategias intertextuales en la Medea de Draconcio. En M. L. La
+Fico Guzzo; L. Gambon; G. Marrón; M. Carmignani y G. Rodríguez (Eds.), La retórica heroica. Construcción y
+reformulación a través de la épica y la tragedia (pp. 249-276). Bahía Blanca: EdiUNS.
+Marrou, H. I. (1985). Historia de la educación en la Antigüedad. Madrid: Akal.
+Moreschini, C. (Ed.) (2005). Boethius. De consolatione philosophiae. Opuscula theologica. Leipzig: K. G. Saur.
+Moussy, C. (Ed.) (2002). Dracontius. Œuvres. Tome II: Louanges de Dieu. Livre III. Réparation. Paris: Les Belles
+Lettres.
+Moussy, C. y Camus, C. (Eds.) (2002). Dracontius. Œuvres. Tome I: Louanges de Dieu. Livres I et II. Paris: Les Belles
+Lettres.
+Otero Pereira, E. (Ed.) (2009). C. Vetti Aquilini Iuvenci Evangeliorum Libri Quattuor: Edición crítica y traducción
+(Tesis). Salamanca. Recuperado de http://hdl.handle.net/10366/19290
+Powell, J. G. F. (Ed.) (2006). M. Tulli Ciceronis De Re Publica, De Legibus, Cato Maior de Senectute, Laelius de Amicitia.
+Oxford: Oxford University Press.
+Scaﬀai, Marco (1995). Il corpo disintegrato di Ettore in Draconzio Romuleon 9. Orpheus, 16,  293-329.
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+14
+Scafoglio, G. (2019). La declamazione in forma poetica: Draconzio. Camenae, 23, 1-40.
+Schetter, W. (1981). Dracontius, Romulea 9,18-30. Rheinisches Museum, 124, 81-94.
+Shackleton Bailey, D. R. (Ed.) (2009). Marcus Annaeus Lucanus. De bello civili libri X. Berlin: De Gruyter.
+Stanley, K. (1965). Irony and foreshadowing in Aeneid I, 462. e American Journal of Philology, 86(3), 267-277.
+Stella, F. (1987). Epiteti di Dio in Draconzio fra tradizione classica e cristiana. Civilità classica e cristiana, 8(1), 91-123.
+Stoehr-Monjou, A. (2015a). Dracontius. Poèmes profanes, VI-X; Fragments. En A. Rolet y S. Rolet (Eds.), Silves Latines
+2015-2016 (pp. 87-191). Neuilly sur Seine: Atlande.
+Stoehr-Monjou, A. (2015b). L’Afrique vandale, conservatoire et laboratoire de la déclamation latine entre Orient et
+Occident. Signiﬁcation et enjeux de trois déclamations versiﬁées (AL 21 Riese; Dracontius, Romul. 5 et 9). En
+R. Poignault & C. Schneider (Eds.), Présence de la déclamation antique: controverses et suasoires (pp. 101-126).
+Clermont Ferrand: Centre de Recherches A. Piganiol  Présence de l’Antiquité.
+Stoehr-Monjou, A. (2015c). L’âme et le corps dans la suasoire de Dracontius: Rom. IX, un hommage à Homère. Vita
+Latina (191-192), 154-175.
+Stoehr-Monjou, A. (2015d). Une réception rhétorique d’Homère en Afrique vandale: Dracontius (Romul. VIII-IX).
+En S. Dubel, A.-M. Favreau-Linder y E. Oudot (Eds.), À l’école d’Homère. La culture des orateurs et des sophistes
+(pp. 229-239). Paris: Éditions Rue d’Ulm.
+omas, J., Beeson, A., Neal, D. y Kruschwitz, P. (2022). Greek myth in Roman Rutland. Unearthing scenes from the
+Trojan War. Current Archaeology, 383. Recuperado de https://the-past.com/feature/greek-myth-in-roman-ru
+tland-unearthing-scenes-from-the-trojan-war
+omas, J.-F. (2000). Le champ sémantique de la notoriété et de la gloire en Latin: problèmes de synonymie nominale.
+Revue de philologie de littérature et d’histoire anciennes, 74(1-2), 231-256.
+omas, J.-F. (2007). Déshonneur et honte en Latin: étude sémantique. Luvain: Peeters.
+Vernant, J. P. (2001). El individuo, la muerte y el amor en la antigua Grecia. Barcelona: Paidós.
+Vollmer, F. (Ed.) (1905). Fl. Merobaudis reliquiae. Blossii Aemilii Dracontii Carmina. Eugenii Toletani episcopi
+Carmina et epistulae. Cum appendicula carminum spuriorum. Berlin: Weidmann.
+Weber, R. (Ed.) (1994). Biblia Sacra iuxta Vulgatam versionem. Stuttgart: Deutsche Bibelgesellscha.
+Wilson, R. J. A. (2021). Living in luxury in rural Sicily: the late Roman villa of Caddeddi. Current World Archaeology,
+105. Recuperado de https://the-past.com/feature/living-in-luxury-in-rural-sicily-the-late-roman-villa-of-cadde
+ddi
+Wolﬀ, E. (Ed.) (1996). Dracontius. Œuvres. Tome IV: Poèmes profanes VI-X. Fragments. Paris: Les Belles Lettres.
+Wolﬀ, É. (2015). Rétour sur les pièces 6 à 10 des Romulea de Dracontius. En É. Wolﬀ (Ed.), Littérature, politique et
+religion en Aique vandale (pp. 355-376). Paris: Institut d’Études Augustiniennens.
+Zwierlein, O. (Ed.) (2017). Blossius Aemilius Dracontius. Carmina Profana. Berlin: Walter de Gruyter.
+Notas
+1 La colección, transmitida por una única fuente (Codex Neapolitanus IV E48, ss. XV-XVI), tiene tres miniaturas
+épicas (II: Hylas; VIII: De raptu Helenae; X: Medea), dos epitalamios (VI: Epithalamium in atribus dictum; VII:
+Epithalamium Ioannis et Vitulae), tres piezas retóricas (IV: Verba Herculis cum uideret Hydrae serpentis capita pullare post
+caedes; V: Controuersia de statua uiri fortis; IX: Deliberativa Achillis an corpus Hectoris uendat) y dos prefacios (I y III).
+2 Los lineamientos principales de su biografía pueden consultarse en Moussy y Camus (2002, p. 7-55); para un panorama
+general sobre la formación escolar en el África vándala, cf. De Gaetano (2009, p. 71-110); para un estado de la cuestión
+relativamente reciente acerca de las distintas vertientes de su obra y las aproximaciones críticas más relevantes, véase
+Scafoglio (2019, p. 1-2).
+3 Pese al título, el Romuleon IX no es una deliberatiua sino una suasoria, cf. Wolﬀ (1996, p. 173, n. 1); sobre el carácter
+intercambiable de las deﬁniciones de suasoria y deliberatiua en la Antigüedad tardía, véase. Scaﬀai (1995, p. 294-295).
+Como señala Stoehr-Monjou (2015d, p. 234): “le sujet de Romulea IX, mythologique et non pas historique, est original
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+15
+dans le corpus des suasoires latines, tandis que l’on peut rapprocher à certains égards la suasoire de Dracontius de
+l’Homère des rhéteur grecs”.
+4 Cf., entre otros, Bouquet (1996, p. 249): “les pièces rhétoriques de Dracontius sont entièrement déterminées, tant dans
+le choix des sujets, que dans leur traitement, par les exercices de l’École”; quien, además –a mi juicio, erróneamente–
+sostiene (p. 254): “est-il vain de rechercher dans l’œuvre profane de Dracontius une retractatio chrétienne des grands
+mythes païens: dans les légendes qu’il emprunte à la mythologie, Dracontius ne s’intéresse qu’à l’homme et à ses passions”.
+5 Cf. Stoehr-Monjou (2015b), particularmente, pp. 102-103. Courtney (1984) llegó a plantear incluso la posibilidad de
+que la Controversia del pescador sacrílego (AL 21 R) y las Palabras de Aquiles al oír la trompeta de Diomedes en el
+gineceo (AL 198) hayan sido escritas también por Draconcio; no obstante, cf. Bureau (2006, p. 3-7).
+6 Cf. Scafoglio (2019, p. 15). Stoehr-Monjou (2015a, p. 126) considera que llamar prosímetro al Romuleon IX sería
+exagerado dada la brevedad de las quaestiones en prosa, aunque el efecto de ruptura sea claro; al respecto, cf. también 
+Bureau (2006, p. 3-4).
+7 Respecto al tono lucreciano de esta aﬁrmación y del planteo inicial, cf. Stoehr-Monjou (2015c, p. 157-158)
+8 Para un análisis de la relación entre el tratamiento de estos temas y la segunda parte del libro I de las Tusculanas de
+Cicerón, cf. Scaﬀai (1995, p. 298-303) y Consolino (1985).
+9 Cf. Stoehr-Monjou (2015d, p. 235): “La troisième scène est la plus proche du modèle homérique puisqu’il imite
+l’analogie entre Priam et Pelée pour l’ampliﬁer à travers Astyanax-Pyrrhus, Andromaque-Déidamie et enﬁn Hécube-
+étis”.
+10 Un estado de la cuestión reciente acerca de las tres aproximaciones críticas principales al Romuleon IX puede consultarse
+en De Gaetano (2019, p. 112); para un análisis de la dimensión política de la obra, cf. también De Gaetano (2010). Entre
+otros enfoques críticos relevantes, pueden mencionarse Brugnoli (2001), De Gaetano (2018).
+11 Como rasgo idiosincrático, la genealogía divina de Aquiles aparece evocada prácticamente solo en la idolopeya, cuando
+además de nepos (v. 125), fortis (v. 125) y Erebi gens clara mei (v. 125), Éaco lo llama deum suboles (v. 124) y caeli pelagique
+nepos (v. 124); en el único otro pasaje sobre al tema, el orador solo señala que Tetis lo ha engendrado mortal (vv. 208-212).
+12 Interpreto, como Vollmer (1905, p. 337), Wolﬀ (1996; 2015, p. 367), Stoehr-Monjou (2015c, p. 164-165) y De Gaetano
+(2019, p. 119-121), que dominus se reﬁere aquí a Héctor y no a Aquiles, como sostiene en cambio Zwierlein (2017, p.
+136).
+13 El verbo respicio puede signiﬁcar mirar hacia atrás tanto en el tiempo como en el espacio, cf. Gale (2005, p. 334-335); las
+traducciones de todos los textos latinos incluidos en este trabajo son de mi autoría.
+14 Al menos no sin mediar la intervención divina: por ejemplo, en el canto I de la Ilíada, cuando Aquiles se da vuelta (μετὰ
+δ' ἐτράπετ’, v. 199) una vez que Atenea se ha colocado detrás de él (στῆ δ’ ὄπιθεν, v. 197) y tirado de sus cabellos.
+15 Cf. Florio (1999, p. 189): “Al ﬁnal de su penoso camino, la última acción de Eneas consiste en eliminar a Turno, el
+Aquiles latino. Al matar a Turno, lo que Eneas mata no es solo al guerrero que obstaculiza el cumplimiento de su destino.
+Mata un tipo de ideal heroico. Y es la memoria, el recuerdo doloroso, la fuerza que impulsa su decisión”.
+16 Cito la Eneida por la edición de Conte (2019).
+17 Cito el Romuleon IX por la edición de Wolﬀ (1996); aunque he consultado también las revisiones propuestas por Wolﬀ
+(2015, p. 366-367) y la edición de Zwierlein (2017).
+18 Cf. Jenik (2016, p. 117): “Felix wird damit zum pius Felix und zum christlichen Ersatz für den heidnischen Pius Aeneas,
+den er ersetzt und sogar übertri, rettet er doch nicht seinen leiblichen, sondern seinen geistlichen Vater.”
+19 Cito a Paulino de Nola por la edición de Hartel (1894).
+20 Cf. Paul. Nol., carm. XV, 41: pia gratia, 53-54: patriarchas pios, 67: pia uena ﬁdei, 104: pia mens, 117: pia ecclesia, 119:
+insignior pietas, 146-147: inerme pietate, 153-154: pium Felicem, 165: piis ciuibus, 220: mota patris summa pietas, 240:
+sancta pietas, 259-260: piorum gratia, 282: pia pectora, 293: mente pia, 327: opus pietatis, 333: pedibus pietate citis.
+21 Cf. Drac., Sat., 297-298: materiem laudis praebet tibi culpa reorum / et titulos famae dat pietatis opus (“La falta de los
+culpables te proporciona motivos de alabanza y la acción de tu piedad concede honoríﬁcos títulos a tu renombre”); cito
+por la edición de Moussy (2002). Véase, a su vez, Stella (1987, p. 109): “in Sat. 290 sembra presentato come attributo
+ﬁsso, antonomastico: per pietatis opus nomen habet placidum. Dio è dunque placidus per eccellenza, quia dat ueniam
+populis peccata relaxans (Sat. 289).”
+22 Cf. Hernández Lobato (2012, p. 110-111): “El Yahvé que Jesús reclama, aquel en función del cual le cabe erigirse como
+Mesías, es el Yahvé que frustra las expectativas, el que se sale de lo esperado, el que elige al más débil frente al poderoso y
+hegemónico: a Abel en lugar de su hermano mayor Caín, a un arameo errante (Abraham) en lugar de un héroe fundador,
+al delicado y astuto Jacob en lugar del primogénito y vigoroso Esaú, al mimado José en lugar de sus laboriosos hermanos,
+a un pueblo de esclavos sometido a Egipto en lugar de alguno de los grandes imperios de la tierra, a David en lugar de a
+sus fornidos hermanos mayores... En ese sentido, el mesianismo de Jesús en lugar de traicionar el espíritu del texto que
+se propone cumplir, no hace más que activar sus latencias”.
+23 La destinataria de la alocución es la impietas, cf. Paul. Nol., carm. XV, 140-141: heu, misera impietas, infernis caeca
+tenebris / quo ruis? in quem tela moues? (“¡Ay, mísera impiedad!, ¿hacia dónde te arrojas, ciega por las tinieblas del
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+16
+inﬁerno? ¿contra quién diriges tus armas?”); en este poema, la persecución contra los cristianos se describe a través del
+mismo campo semántico, cf. vv. 117-119: cum pia sacrilego quateretur eclesia bello / praecipueque illos populo deposceret
+omni / impietas, quorum pietas insignior esset (“cuando la piadosa iglesia se vio sacudida por una sacrílega guerra y la
+impiedad reclamó para sí, de entre todo el pueblo, a los más insignes por su piedad”); cf. la caracterización de Eneas en
+Verg., Aen., I, 110: insigne pietate uirum; y VI, 403: pietate insignis et armis.
+24 Cf. omas (2007, p. 95): “decus représente la conséquence de la pratique de la uirtus dans le groupe social, c’est-à-dire
+l’obtention légitime de la considération à cause de la valeur des actions. Ce n’est pas la réputation (fama), mais c’est
+l’honneur, l’inverse du dedecus”.
+25 Fundamentalmente, a partir de la reconﬁguración léxica propuesta por Cicerón en el libro 6 de Sobre la República,
+cf. omas (2000, p. 242): “Scipion développe ensuite la conception d’un monde supérieur où l’âme peut vivre
+éternellement et donc peut jouir d’une gloire, elle, immortelle. (...) Sémantiquement, il s’agit du même sens de ‘gloire’,
+mais les applications référentielles s’opposent. Tout se passe comme si gloria, utilisé pour la gloire acquise auprès des
+hommes et donc fragile, recevait une connotation dépréciative qui pouvait le rendre impropre à exprimer à quelques
+lignes d’intervalle la notion d’une gloire immortelle gagnée dans un monde suprahumain. D’où le recours à un autre
+mot, decus, dont les idées de bien moral et d’illustration ne peuvent être que marquées positivement”.
+26 Cf. Drac., laud., III, 464-473; en particular, el v. 470, donde también aparece el sintagma fama superstes. En términos
+de contraste, cf. Drac., Orest. 472-473: si stat post fata superstes / spiritus; cito por la edición de Grillone (2008). Véase,
+a su vez, la formulación original del tema en Cic., Rep., 6, 23.
+27 Cito a Boecio por la edición de Moreschini (2005).
+28 Cf., por ejemplo, Schetter (1981), Stoehr-Monjou (2015c) y Herren (2016).
+29 Cito a Cicerón por la edición de Powell (2006).
+30 Cito a Lactancio por la edición de Heck y Wlosok (2009).
+31 Cito a Juvenco por la edición de Otero Pereira (2009); para un análisis de este pasaje y su relación con la obra de
+Draconcio, véase Marrón (2021), particularmente p. 254-255. En un contexto lexicalmente próximo al del Romuleon
+IX, Draconcio retoma la expresión praemia cuncta en Romul., VIII, 300-304: uictori quis uictus ait: ‘Te bella gerente /
+me maneat uirtutis honos, me praeda sequatur, / praemia me laudis, me praemia cuncta triumphi / expectent, sterili uictor
+sed laude potitus / et ieiunus eat?’ (“¿Qué vencido le dice al vencedor: ‘Si me haces la guerra, que permanezca conmigo el
+honor del coraje, que me toque el botín, que sean para mí los premios de la gloria, que sean para mí todos los premios
+del triunfo y que el vencedor quede ayuno, en posesión de una gloria inútil’?”).
+32 Cf. Vernant (2001, p. 45-80); particularmente p. 45: “Mientras el tiempo sea tiempo, persistirá la gloria del desaparecido
+guerrero; y el resplandor de su fama, kléos, que en lo sucesivo adornará su nombre y su ﬁgura, representa el último grado
+del honor, su punto más álgido, la consecución de la areté. Gracias a la bella muerte, la excelencia (areté) deja por ﬁn de
+ser mensurable solo en relación a un otro, de necesitar comprobación por medio del enfrentamiento. Se ha realizado de
+una vez y para siempre gracias a la proeza que pone ﬁn a la vida del héroe”.
+33 La cita corresponde a la edición de Lavarenne (1963); aquí Cunningham (1966) adopta la lectio hostem en lugar de
+mortem.
+34 Cf. Scaﬀai (1995, p. 311): “Ettore rimane sempre integro nel suo εἶδος e, in conformità alla concezione eroico-
+aristocratica sottesa ai poemi omerici, la sua è la belle mort dell’eroe epico”.
+35 Cf. Vernant (2001, p. 74): “Proponiéndose cerrar al adversario el acceso al estatuto de muerto glorioso del que, sin
+embargo, su ﬁnal heroico le ha hecho merecedor, el ultraje nos permite comprender mejor, por la misma naturaleza de su
+crueldad, el camino seguido normalmente por los ritos funerarios para inmortalizar al guerrero caído según los criterios
+de la bella muerte”.
+36 Cito la traducción de Martínez García (2013).
+37 Respecto hemistiquio ﬁnal del pasaje (per saxa cadauer, v.187), Stoehr-Monjou (2015c, p. 165) señala que procede de
+Luc., VI, 639, cuando Ericto arrastra el cadáver que revivirá para el episodio de necromancia.
+38 Cf. Florio (2006, p. 221, n. 51), omas (2007, p. 37): “La fuite elle-même est une cause de déshonneur, mais, en Salluste,
+B. Iug. 38, 7 - 39, 1, la présence de dedecus paraît liée à une circonstance particulièrement aggravante puisque les soldats
+ont fui en jetant leurs armes, symboles de leur devoir et de la puissance romaine”, y Stoehr-Monjou (2015c, p. 165).
+39 Según Stoehr-Monjou (2015c, p. 163): “Cette absence des dieux, à l’exception du juge des Enfers, place l’auditoire
+dans un espace ‘sécularisé’ et renforce l’eﬀet de réel sur le publique carthaginois”; no obstante, podría tratarse de una
+“secularización” solo aparente, dada la presencia de unidades léxicas relevantes para la ideología cristiana.
+40 El sintagma de Geórgicas se repite en Verg., Aen., XI, 647: pulchramque petunt per uulnera mortem; la misma idea expresa
+Eneas en la narración de II, 317: pulchrumquemori succurrit in armis. Sobre las particularidades léxicas del episodio de
+la muerte de Niso y de Euríalo, véase Florio (2002, p. 269-270).
+41 Cito por los Psalmi iuxta LXX de la edición de Weber (1994), la versión de los Psalmi iuxta Hebraicum dice: gloriosa in
+conspectu Domini mors sanctorum eius; cf., a su vez, Prud., perist., X, 65: quo gloriosa morte fortes oppetant (“para sucumbir,
+como valientes, con una muerte gloriosa”) y Paul. Nol., carm., XXIV, 573-576: et morte in ipsa praepotens heros dei /
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890
+hostes ruinae miscuit / et gloriosa morte pensauit sibi / uitae subactae dedecus (“con su propia muerte el poderoso héroe de
+dios implicó a los enemigos en su ruina y compensó el deshonor de su esclavizada vida con una muerte gloriosa”).
+42 Cito a Prudencio por la edición de Cunningham (1966).
+43 Cito a Lucano por la edición de Shackleton Bailey (2009).
+44 Cf.,Stoehr-Monjou (2015c, p. 167): “Tour au long du poème, Dracontius assimile implicitement Hector à Pompée (v.
+17, 23, 177) et Achille à César l’impie (v. 143)”.
+45 Cf. omas (2000, p. 236): “la gloria émane du sujet et s’impose à l’attention des autres, alors que la laus est donnée par
+les autres: il n’est pas indiﬀérent à cet égard que laus signiﬁe aussi ‘éloge’”.
+46 Cf. también Paul. Nol., epist., XXXII, 8, vv. 7-8: uota sacerdotis uiuentum et commoda paruo / puluere sanctorum mors
+pretiosa iuuat (“la preciosa muerte de los santos asiste con esta pequeña ceniza, las oraciones de los sacerdotes y el bienestar
+de los vivos”).
+47 Cf., LL X, 1: c. 1043, ll. 49-51: aestimare aliquam rem uel personam, sc. quod ad pondus, pretium, dignitatem sim.
+48 Cf. Wolﬀ (2015, p. 367): “Le verbe pensare est ici concret (‘peser’ et non ‘estimer’), (…) et on traduira plus exactement:
+‘Vends-le comme s’il était encore vivant et en faisant un gain qui ne soit pas petit (mot à mot: pas en échange d’un petit
+don), vends Hector pour une somme équivalant à son poids”; y Hays (1997, p. 23): “9.216 ueniat tantum pensabitur
+Hector] Not ‘aussi cher que tu l’auras estimé’ but concretely ‘for a sum equivalent to his weight’.”
+49 Sobre esas tradiciones textuales e iconográﬁcas y su recepción en la Eneida, cf., por ejemplo, Stanley (1965, p. 270-271).
+En un mosaico romano de ﬁeles del siglo IV o principios del V, excavado en 2021 en Rutland, puede observarse tanto 
+el cadáver herido de Héctor, como el momento en que se lo pesa antes ser devuelto a Príamo a cambio de una cantidad 
+equivalente de oro. Si bien la representación de escenas en las que se pese el cuerpo de Héctor no es usual, hay otro 
+mosaico de ﬁeles del siglo IV, ubicado en la Villa Caddeddi de Sicilia, que también incluye el motivo. En la escena del 
+mosaico de Rutland, la balanza está colocada sobre los hombros de un troyano, mientras que en la de Sicilia la balanza 
+se sostiene sobre un trípode; cf. Wilson (2021) y omas, Beeson, Neal y Kruschwitz (2022).
+50 Cf. también la profecía de Héleno en Drac., Romul., VIII, 140-143: nec uenditur Hector / integer et lacerum retines pro
+pignore corpus / funeris Hectorei pretio maiore redemptum (“Héctor no será vendido entero y, por un precio más alto,
+recibirás como prenda el lacerado cuerpo de Héctor sin vida”).
+51 Cf. Scaﬀai (1985, p. 318): “Illustrano le condizioni dell’Africa in età vandala il De tempore barbarico di Quodvultdeus,
+le omelie di Fulgenzio di Ruspe e l’Historia persecutionis Vandalicae, cronaca storica di Vittore di Vita che descrive con
+ricchezza di dettagli e freschezza di colori i martiri di sangue sotto il regno dei primi re vandali Genserico e Hunerico. Da
+qui apprendiamo, per es., che un cristiano viene trascinato da una quadriga a cui è stato prima assicurato per i piedi (1,37);
+un trattamento analogo è riservato dagli aguzzini ai cristiani impediti a marciare speditamente durante le deportazioni
+(2,36)”.
+17
+Ediciones de la FaHCE utiliza Amelica Marcador XML, herramienta desarrollada con tecnología XML-JATS4R por Redalyc. 
+Proyecto académico sin fines de lucro desarrollado bajo la  iniciativa Open Access 
+Auster, núm. 28, Septiembre 2023, E085. ISSN: 2346-8890

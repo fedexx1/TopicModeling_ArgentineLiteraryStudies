@@ -1,0 +1,687 @@
+181
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+Stocco, Melisa. “Autotraducción y retraducción en la poesía mapuche: las versio-
+nes al mapuzungun de Leonel Lienlaf y Víctor Cifuentes”. Anclajes, vol. XXV, n.° 1, 
+enero-abril 2021, pp. 181-195.
+https://doi.org/10.19137/anclajes-2021-25113
+Autotraducción 
+y retraducción en 
+la poesía mapuche: 
+las versiones al 
+mapuzungun de Leonel 
+Lienlaf y Víctor 
+Cifuentes
+Melisa Stocco 
+Universidad Nacional de la Patagonia 
+Consejo Nacional de Investigaciones Científicas y Técnicas
+Argentina
+meli.stocco@gmail.com
+ORCID: 0000-0003-1933-5436
+Fecha de recepción: 05/12/2019 | Fecha de aceptación: 25/07/2020
+Resumen: El presente artículo explora las particularidades de las prácticas de auto-
+traducción y retraducción en la poesía mapuche contemporánea, a partir de un estudio 
+de caso: el poema bilingüe Chonkitun de Leonel Lienlaf, retraducido al mapuzungun por 
+Víctor Cifuentes. A través de un análisis comparativo de las versiones en español y 
+mapuzungun de la obra en cuestión, se discute y reflexiona en torno de los parámetros 
+de innovación, fidelidad y autenticidad que autotraductor y retraductor utilizan en el 
+proceso de escritura y traducción del poema, con especial atención a su contexto de 
+producción y edición, así como a la condición subalternizada de la lengua mapuche y su 
+lugar en el sistema literario mapuche contemporáneo.
+Palabras clave: literatura latinoamericana; poesía; traducción; cultura mapuche; siglo 
+XX
+Self-translation and retranslation in Mapuche poetry: 
+the Mapuzungun versions of Leonel Lienlaf and Víctor Cifuentes
+Abstract: This article explores the particularities of self-translation and retranslation 
+practices in contemporary Mapuche poetry, based on a case study: the bilingual poem 
+Chonkitun by Leonel Lienlaf, retranslated to Mapuzungun by Víctor Cifuentes. Through a 
+182
+Melisa Stocco | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+L
+as dos prácticas de traducción que competen a este trabajo, auto-
+traducción y retraducción, son hoy en día campos de investigación 
+de especial interés para los Estudios de Traducción, así como 
+para la Literatura Comparada y otras ramas de los Estudios Literarios. Se trata 
+de fenómenos complejos dentro de la traducción, tanto en su carácter procesual 
+como en los productos textuales que resultan de ellos. Por su parte, las condi-
+ciones de producción, edición, circulación y recepción de las autotraducciones y 
+retraducciones continúan siendo objeto de discusión y reflexión teórica.
+La autotraducción es comúnmente entendida como la traducción de una obra 
+por su propio autor (Popovič 19). Se trata de una práctica creativa por la cual 
+un autor escribe en dos o más lenguas y está atravesada por las formas singulares 
+en que el autotraductor construye tanto paralelismos y correspondencias, como 
+contrastes por medio de omisiones o digresiones entre versiones de su obra. La 
+autotraducción se ha destacado especialmente en textos novelísticos, obras dra-
+matúrgicas y poesía. En el último caso, la tendencia a la edición enfrentada de 
+las versiones de un poema bilingüe, por ejemplo, demuestran a las claras cómo 
+la práctica de la autotraducción construye, además de dos textos paralelos, un 
+espacio intermedio entre ellos, donde se negocia y articula creativamente la di-
+ferencia cultural. 
+La retraducción, por otra parte, consiste en “la traducción total o parcial de 
+un texto traducido previamente” (Zaro 21). Como proceso, ocurre en el trans-
+comparative analysis of the Spanish and Mapuzungun versions of the work in question, 
+we discuss and reflect on the parameters of innovation, fidelity and authenticity that 
+self-translator and retranslator use in the process of writing and translating the poem, 
+with special attention to its context of production and editing and to the subalternized 
+condition of the Mapuche language and its place in the contemporary Mapuche literary 
+system.
+Keywords: Latin American literature; poetry; translation; Mapuche culture; XXth cen-
+tury
+Autotradução e retradução na poesia mapuche: 
+as versões em mapuzungun de Leonel Lienlaf e Víctor Cifuentes
+Resumo: Este artigo explora as particularidades das práticas de autotradução e retra-
+dução na poesia mapuche contemporânea com base em um estudo de caso: o poema 
+bilíngue Chonkitun, de Leonel Lienlaf, retraduzido ao mapuzungun por Víctor Cifuentes. 
+Através de uma análise comparativa das versões em espanhol e mapuzungun do poe-
+ma em questão, discutimos e refletimos sobre os parâmetros de inovação, fidelidade 
+e autenticidade que o auto-tradutor e o retradutor usam no processo de escrever e 
+traduzir o poema, com atenção especial ao contexto de sua produção e edição, bem 
+como à condição subalternizada da língua mapuche e seu lugar no sistema literário 
+mapuche contemporâneo.
+Palavras-chave: Literatura latino-americana; poesia; tradução; cultura mapuche
+183
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Autotraducción y retraducción en la poesía mapuche...: 181-195
+curso de un período de tiempo, aunque también existen retraducciones simultá-
+neas o cuasi-simultáneas (Koskinen y Paloposki 294). Uno de los interrogantes 
+que surgen al pensar en la retraducción es por qué se decide volver a traducir 
+un texto. Para Lawrence Venuti, la intención del traductor es central, en cuanto 
+que la retraducción está diseñada para marcar diferencias con la versin previa, la 
+que puede considerarse insuficiente, errónea o carente de corrección lingüística, 
+todos motivos por los cuales se busca lograr una recepción distinta en la cultura 
+meta (26-29).
+En relación con los teloi o motivaciones de la retraducción, Anthony Pym 
+elabora una tipología: las retraducciones pasivas son aquellas que están separadas 
+diacrónicamente de la traducción anterior y responderían a cambios lingüísticos 
+y culturales de la comunidad meta (Deane-Cox 12), con lo que no implican 
+una rivalidad con su precursora ni se originan por discrepancias en los modos 
+de traducir (Zaro 22). En cambio, las retraducciones activas están separadas por 
+discrepancias sincrónicas, “se publican en el mismo ámbito cultural o genera-
+cional” (22) y por ello mismo rivalizan. Dichas retraducciones revelarían, en un 
+estudio comparado, motivaciones vinculadas al entorno de los editores, lectores 
+y a políticas interculturales (Pym 83).
+Dado que el objetivo de este trabajo es explorar las particularidades de las 
+prácticas de la autotraducción y la retraducción en el campo de la literatura 
+mapuche contemporánea y, más específicamente, en la poesía mapuche, plan-
+tearemos a continuación algunos antecedentes y puntos de referencia teórico-
+metodológicos que guiarán tanto las reflexiones como los análisis textuales con-
+cretos que competen a este trabajo. Seguidamente, nos ocuparemos de realizar 
+un análisis comparativo de las versiones al mapuzungun1 del poema Chonkitun 
+de Leonel Lienlaf, autotraducido en su poemario individual (32-33) y retradu-
+cido para una antología por Víctor Cifuentes cuatro años más tarde (244-245), 
+con la finalidad de dilucidar de qué manera estas prácticas plantean parámetros 
+de innovación, fidelidad y autenticidad. Se prestará especial atención al contexto 
+de producción y edición, a las motivaciones que tales contextos permiten iden-
+tificar en los agenciamientos de autotraductor y retraductor, así como la relación 
+1	
+La lengua mapuche cuenta con diversas nomenclaturas, tanto denominaciones dadas por exter-
+nos (exoglosónimos) como por los propios miembros del pueblo mapuche (autoglosónimos), con 
+variantes geográficas y dialectales (alónimos) que a su vez pueden presentar variantes ortográ-
+ficas (alógramos). El caso del término seleccionado en este trabajo, mapuzungun, corresponde a 
+un alógramo del autoglosónimo mapudungun. Siguiendo el estudio de Antonio Díaz-Fernández 
+(98), la consonante fricativa interdental representada con el grafema d se realiza fonéticamente 
+como sorda (/θ/) en algunas regiones y como sonora (/ð/) en otras, de modo que este glosónimo 
+presenta las variantes: /mapuðu’ηun/, como se pronuncia en la provincia chilena de Malleco y 
+/mapuθu’ηun/ propia de Cautín. Mapudungun es la grafía más generalizada, especialmente en 
+Ngulu Mapu y representa ambas realizaciones fonéticas, aunque Elisa Loncón Antileo también 
+registra la variante mapuzungun para referirse a la zona de Cautín (30). El alógramo mapuzungun 
+aquí utilizado refleja la variante fonológica sorda y la pronunciación regional del glosónimo (/
+mapuθu’ηun/) en Río Negro y Chubut, Puel Mapu. 
+184
+Melisa Stocco | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+que estas prácticas evidencian con la condición subalternizada de la lengua ma-
+puche y sus concomitantes procesos de revitalización y revaloración lingüística.
+El lugar de la autotraducción y la retraducción 
+en la poesía mapuche: propuestas y discusiones teóricas
+En primer lugar, es importante señalar que la autotraducción ha sido esca-
+samente estudiada en la poesía mapuche bilingüe, a pesar de presentarse como 
+práctica central en los procesos de escritura y traducción mapuzungun-español 
+de un corpus importante de obras poéticas contemporáneas. Ha sido más co-
+mún, por otra parte, que los estudios de autotraducción se hayan concentrado en 
+obras literarias autotraducidas por escritores localizados en el ámbito del norte 
+global. Sin embargo, en la literatura mapuche contemporánea, así como en otras 
+literaturas indígenas del Abya Yala, varios autores, con diversas competencias 
+y desarrollo de variados modos de habla (Grosjean 41) en su lengua ancestral, 
+realizan sistemáticos esfuerzos por escribir y traducir su obra en ambos idiomas: 
+español y su correspondiente lengua vernácula. En el caso de la poesía mapuche, 
+por lo menos desde la década de los ochenta, es posible identificar textos auto-
+traducidos. Entre los autotraductores mapuche más destacados de la actualidad 
+se encuentran Elicura Chihuailaf, María Isabel Lara Millapán, Liliana Ancalao o 
+Leonel Lienlaf, poeta este último a quien nos referiremos especialmente a través 
+de uno de sus poemas bilingües.
+En trabajos previos (Stocco La autotraducción 32-34), hemos reflexionado en 
+torno a la pretendida equivalencia lingüística en la autotraducción. Al respecto, 
+hemos postulado que en la autotraducción se producen textos bilingües en forma 
+de “co-creaciones” y textos “pares”. Estos mantienen la correlación estructural pro-
+pia de toda práctica traductora, pero se desplazan de ciertos parámetros conven-
+cionales para la Traductología al rehuir la búsqueda de equivalencia semántica y 
+desarrollarse en un plano de horizontalidad e influencia mutua, en lugar de un eje 
+vertical, unidireccional y binario propio del par tradicional “original/versión”. 
+En este sentido, nuestra propuesta teórico-metodológica para el análisis par-
+ticular de los procesos y productos de la autotraducción en la poesía mapuche 
+contemporánea, se sustenta en la noción de traful (Stocco “Traful” 47-49). Se 
+trata de una elaboración teórico-metodológica específica para el estudio de la 
+práctica autotraductora mapuche y no de un concepto alternativo o de reempla-
+zo del término originario rulpan que suele utilizarse para categorizar la acción de 
+traducir en mapuzungun. Rulpan es un verbo que originalmente tiene el sentido 
+de “pasar, hacer pasar”, lo cual nos remite a la idea de traslado o traspaso que 
+también se halla presente en el origen latino del concepto de translatio y que 
+“presupone la identidad de contenido de lo que se pretende lingüísticamente 
+en las diversas formas de expresión del lenguaje” (Lohmann 85). Sin embargo, 
+es justamente la idea de pasaje lineal de contenidos y de equivalencia semántica 
+que tradicionalmente se enarbola al pensar en la traducción lingüística lo que 
+185
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Autotraducción y retraducción en la poesía mapuche...: 181-195
+la propuesta teórica del concepto de traful intenta problematizar al estudiar las 
+prácticas de traducción entre el mapuzungun y el castellano. 
+El término, inspirado en la metáfora fluvial2 y basado en la riqueza semánti-
+ca de la palabra mapuche traful que incluye matices referidos al encuentro, pero 
+también a la oposición, entiende la autotraducción como un lugar intermedio, 
+ch’ixi3 (Rivera Cusicanqui 69), un “tercer espacio” de contactos y fricciones, com-
+plementariedad y conflicto y refleja la complejidad de la temporalidad del proceso 
+autotraductor como un flujo multidireccional entre las lenguas y culturas implica-
+das. Se propone, por medio de la imagen conceptual que habilita la palabra traful, 
+evidenciar que en las prácticas de traducción, tales como la de autotraducción 
+aquí señaladas, el conflicto y la complementariedad semánticas son instancias que 
+problematizan la traducción como espacio de articulación y desarticulación de la 
+diferencia cultural, de (re)negociación de sentidos entre lenguas. 
+De este traful se desprende una tipología analítica de cuatro estrategias de 
+autotraducción, a saber: rebalse, acometida, efluente y afluente. Estas categorías 
+nos han permitido constatar las intensidades y modulaciones del proceso au-
+totraductor y cómo se evidencia en su producto: el texto bilingüe (Stocco La 
+Autotraducción 85-87). De estas estrategias, haremos especial hincapié en este 
+trabajo en la acometida semántica, por medio de la que se torna evidente la di-
+ferencia cultural entre versiones, en la medida en que el autotraductor muestra 
+una marcada intención de que los términos pares, ya sean estos palabras o frases 
+completas, tengan sentidos muy diferentes, a veces incluso, diametralmente an-
+tagónicos en sendos textos español y mapuche. 
+La retraducción, por su parte, constituye un fenómeno aún menos considerado 
+por los estudios literarios comparados y de traducción a la hora de pensar las prác-
+ticas traductológicas que se desarrollan en el campo literario de la poesía mapuche. 
+Una cuestión de importancia en la aproximación tradicional a la retraducción es 
+que se toman en consideración para su definición como práctica las categorías de 
+texto primigenio y versión previa, con la que el texto retraducido puede rivalizar en 
+2	
+El traful es, en mapuzungun, “la confluencia de dos ríos”. Tiene su raíz en la preposición traf 
+que significa “junto a, unido a, al lado de” y, en construcciones recíprocas antepuestas al sujeto, 
+significa “uno al otro”. También comparte raíz con verbos como trafaŋewn, “tocarse mejilla con 
+mejilla”; trafiawn, “ir al encuentro de” y trafnewenn, “oponer a alguno resistencia armada”; con 
+el sustantivo trafkin, “amigo con quien se han cambiado regalos” y con el adjetivo homónimo 
+trafkün o trafkin, “revuelto” (Augusta 221-222). Esta red de sentidos ligados a la raíz traf, que 
+puede evocar a la vez el contacto armonioso o revuelto, el intercambio y la lucha, la reciprocidad 
+y la oposición, no es casual en nuestra elección del término, ya que nos permite pensar en varios 
+de los aspectos de consenso y conflicto, complementariedad y antagonismo que describimos 
+como constituyentes de la autotraducción.
+3	
+El concepto de lo ch’ixi de Silvia Rivera Cusicanqui, en cuanto “conjuga el mundo indio con su 
+opuesto, sin mezclarse nunca con él” y plantea “la coexistencia en paralelo de múltiples diferen-
+cias culturales que no se funden, sino que antagonizan o se complementan” (Rivera Cusicanqui 
+70) se condice con nuestra comprensión del proceso autotraductor en las literaturas originarias 
+como espacio de tensión entre el consenso y el conflicto entre las lenguas y culturas originarias 
+y el castellano y la cultura hegemónica occidental. 
+186
+Melisa Stocco | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+la cultura meta y a la que, en el mejor de los casos, puede superar. Sin embargo, tal 
+perspectiva teleológica pasa por alto las condiciones externas al texto que influyen 
+en su producción, circulación y traducción. Seguimos la propuesta de Deane-Cox 
+(5)4 de partir del contexto de producción de una retraducción para luego pasar al 
+estudio del texto, buscando en él signos de las condiciones socio-culturales de pro-
+ducción y cómo interactúan unas con otras (18). En el caso de las retraducciones 
+en mapuzungun, toda vez que estas derivan de textos previamente autotraducidos, 
+la definición de un texto primigenio se vuelve imprecisa y dependiente de la sin-
+gularidad de la obra de cada autor, pues ellos llevan adelante distintos itinerarios 
+escriturales, ora simultáneos entre el mapuzungun y el castellano, ora sucedáneos 
+de una lengua a la otra y, como ya mencionamos, difuminan así la frontera jerár-
+quica original/versión entre sus textos. Esta indefinición en términos de textos 
+primigenios para la retraducción que planteamos aquí será uno de los puntos a 
+analizar en la subsiguiente lectura del poema de Lienlaf.
+Por otro lado, la ya clásica conceptualización de Antoine Berman sobre la 
+retraducción sostiene que su intención es reforzar la extranjeridad del texto, 
+poniendo de manifiesto la diferencia cultural de forma más acentuada que la 
+primera traducción, la cual, se supone, busca atenuar tal discrepancia (Zaro 26-
+27). El trabajo de Berman continúa la perspectiva de Goethe acerca de una 
+linealidad evolutiva en la sucesión de traducciones de una obra, en la medida en 
+que se considera que la primera es un intento con más fallas que las siguientes, 
+las cuales restaurarían y corregirían posibles torpezas (Deane-Cox 3), a la vez 
+que ofrece una mirada basada en la ilusión de un “sentido inmanente” del texto 
+fuente (Tahir Gürçağlar 233). Como señalan Kaisa Koskinen y Outi Paloposki, 
+esta premisa de perfeccionamiento se ha visto recientemente cuestionada por 
+estudios que analizan las motivaciones de la retraducción en torno de otros fac-
+tores como la agencia de todos los actores involucrados –autor, traductor, editor, 
+etc.–, sus disputas de poder y la confrontación de interpretaciones divergentes 
+o, incluso, las razones económicas por las que se considera que una retraducción 
+potencia las ventas de una determinada obra (296). Sharon Deane-Cox apunta 
+a que las “narrativas teleológicas” en torno a la retraducción constituyen una 
+forma de doxa amparada por los campos académico y literario que es explota-
+da por el mercado editorial como estrategia de auto-engrandecimiento y auto-
+legitimación (90). Más allá de estos intentos, la retraducción tiende a resistirse 
+a definiciones simples, dada su inconstancia en frecuencia, comportamiento y, 
+justamente, motivaciones (Deane-Cox 1).
+Ante estas discusiones, es pertinente recordar que, al igual que en el caso de 
+la autotraducción, las distintas aproximaciones a la retraducción como proceso 
+4	
+En términos similares, Venuti plantea que “las retraducciones pueden ayudar en el avance de 
+los estudios de traducción al iluminar diferentes problemas clave que afectan directamente la 
+práctica y la investigación, pero la exploración se vuelve más productiva solo cuando una opera-
+ción lingüística o un análisis textual se vincula con los factores culturales y políticos que le dan 
+significado y valor” (27). La traducción es nuestra.
+187
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Autotraducción y retraducción en la poesía mapuche...: 181-195
+y producto han tenido una fuerte tendencia a centrarse en el estudio de un cor-
+pus de textos en su mayoría pertenecientes a la literatura europea. La pregunta 
+que surge entonces es si, efectivamente, una “literatura menor” como la poesía 
+mapuche, en cuanto sistema literario periférico5, adopta una perspectiva diversa 
+acerca de la retraducción respecto de una intencionalidad de énfasis de extranje-
+ridad, superación de supuestas fallas en versiones previas o legitimación editorial 
+y comercial. 
+Las retraducciones de Víctor Cifuentes son, en el ámbito de la poesía mapu-
+che, una referencia fundamental que permite profundizar en estas inquietudes 
+y relevar, desde un análisis comparativo, la existencia o no de confrontaciones, 
+instancias de mayor extranjerización, ampliaciones u omisiones entre la traduc-
+ción precursora, en este caso, la autotraducción de Lienlaf y la retraducción. 
+Cifuentes es poeta, artista plástico, músico y actor. Las traducciones de poemas 
+al mapuzungun encargadas a su pluma son numerosas y van desde las antolo-
+gías editadas por Jaime Luis Huenún Epu mari ülkatufe ta fachiantü / 20 poetas 
+mapuche contemporáneos (2003) y La Memoria Iluminada: poesía mapuche con-
+temporánea (2007), hasta los poemarios individuales Pu llimeñ ñi rulpázuame-
+lkaken / Seducción de los venenos (2008) de Roxana Miranda Rupailaf y Haykuche 
+(2008) de David Aniñir.
+Además de señalar las particularidades de la literatura mapuche en la que se 
+enmarca la práctica retraductora de Cifuentes, es relevante tener en cuenta su 
+especificidad como retraducción del texto autotraducido, tipología desarrollada 
+por Xosé Dasilva y referida a un nuevo traslado de un texto autotraducido a la 
+misma lengua (147).
+Retraducción del texto autotraducido: 
+Chonkitun de Leonel Lienlaf 
+Según Dasilva, el autotraductor tiene, en el papel de traductor, una auto-
+nomía superior a la del traductor alógrafo para fijar los criterios globales de la 
+traducción, así como para escoger las estrategias más oportunas con el objeto de 
+ajustar en cada momento su versión a dichos criterios, mientras que el traductor 
+alógrafo no tiene esa misma libertad y se halla, por tanto, incapacitado para in-
+5	
+Al referirnos a “literatura menor” no estamos expresando una valoración negativa o ningún tipo 
+de menoscabo respecto de la literatura mapuche contemporánea, por el contrario, esta categoría 
+desarrollada por Gilles Deleuze y Félix Guattari responde a una reflexión teórico-política en 
+torno al lugar de ciertos sistemas literarios como minorizados frente a producciones del circuito 
+hegemónico: “Una literatura menor [...] es [...] la literatura que una minoría hace dentro de una 
+lengua mayor” (28). La categoría de literatura menor describe la condición minoritaria de la 
+literatura mapuche contemporánea en el sistema literario global y la potencia que dicho devenir 
+habilita para la desterritorialización de los usos centrales de la lengua mayoritaria, en este caso, 
+el español en su relación con una lengua subalternizada como el mapuzungun. Para más detalles 
+en torno de esta categoría y su vinculación con la literatura mapuche contemporánea, se sugiere 
+considerar un trabajo anterior (Stocco “El amor destructor” 66-67).
+188
+Melisa Stocco | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+troducir elementos nuevos en el texto de partida (158). Procederemos a compro-
+bar en el análisis textual si dichos criterios de innovación para la autotraducción y 
+fidelidad para la retraducción son respetadas en el caso de un poema concreto.
+La antología La Memoria Iluminada: Poesía Mapuche Contemporánea (2007) 
+indica en su portada que la “versión en mapuchezungun”6 corresponde a Víctor 
+Cifuentes. Si bien la mayoría de los textos incorporados a la compilación no poseía 
+una versión previa en lengua mapuche, otros, como algunos de los textos de Leo-
+nel Lienlaf y Liliana Ancalao, poetas reconocidos por publicar su obra de formato 
+bilingüe, sí contaban ya con autotraducciones en la edición de sus poemarios indi-
+viduales. Sin embargo, y a pesar de dichos antecedentes, algunas de esas versiones 
+fueron retraducidas por Cifuentes. Uno de tales poemas es el titulado “Chonkitun” 
+de Leonel Lienlaf, perteneciente a su poemario Pewma dungun (2003) que, a con-
+tinuación, confrontaremos en sus distintas versiones para observar las estrategias 
+utilizadas, por un lado en la autotraducción, y, por el otro en la retraducción. En 
+la primera columna presentamos la única versión en español del propio Lienlaf 
+(LLE), luego la versión del autor en mapuzungun (LLM) originalmente publicada 
+junto a la versión castellana y, finalmente, la retraducción del texto autotraducido 
+al mapuzungun por Cifuentes (VCM)7.
+Versión español Lienlaf
+(LLE)
+Versión mapuzungun Lienlaf
+(LLM)
+Versión mapuzungun Cifuentes 
+(VCM)
+Chonkitun
+Es hora 
+en que el fuego comienza a 
+dormitar
+abuela
+y el camino del cielo
+me trae tu voz
+desde las sombras
+es hora de dormir,
+me dices
+mañana otros pasos andare-
+mos
+porque otras son
+las palabras en el día
+(Lienlaf 33)
+Chonkitun
+Dewma
+chongnagtuy kütral
+chuchuy
+chai llümllüm mekey wanglen 
+wenu mapu
+Umagnagaiñ nga
+wüle 
+wüño waichüfkïnoway antu
+kaley nütram
+liwenmew.
+(Lienlaf 32)
+Chonkitun
+Puwi may tañi
+zewmá añütukemum ka kütrál
+chuchú
+fey wenu ñi rüpü
+küpálelenew tami züngún
+minúmapu püle
+puwi ta wümawtuám,
+eypién nga
+wülé ta kaké trekán ta rumeá-
+fiyiñ
+ta kalétulu kay llengá
+tachi antü ñi puke nemül.
+(Huenún La memoria ilumina-
+da 244)
+6	
+Alógrafo del autoglosónimo mapuchedungun. Su uso se adscribe a los hablantes comprendidos 
+entre los ríos Cautín y Malleco. También se emplea en Chubut (Díaz-Fernández 99).
+7	
+Las divergencias identificadas en este análisis no parecen vincularse con diferencias dialectales 
+de base léxica entre el mapuzungun de Cifuentes y el de Lienlaf. Mientras que el autotraductor 
+es originario de Alepue, en la zona cercana a Valdivia, Cifuentes nació en Temuco y reside en 
+Vilcún. Entre ambas regiones no median grandes variantes excepto algunas diferencias en el uso 
+de determinados fonemas y patrones de ritmo y entonación (Croese 23). De acuerdo con distintos 
+estudios dialectológicos, ambas, provincia de Cautín en el caso de Cifuentes y norte costero de 
+la provincia de Valdivia en el caso de Lienlaf, pertenecen a la rama central del mapuzungun en 
+Ngulu Mapu (Croese 38; Lenz XXII; Salas 60-61; Díaz Fernández 24-25). 
+189
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Autotraducción y retraducción en la poesía mapuche...: 181-195
+En principio, el título del poema, que se mantiene en todas las versiones, es 
+la palabra mapuche chonkitun que puede traducirse como “dormitar, estar en el 
+entresueño” (Huisca Melinao en Huenún La palabra es la flor 134). Dicho tér-
+mino permite abarcar sintéticamente la atmósfera central del poema y el estado 
+de duermevela que el sujeto lírico destaca como instancia de comunicación espi-
+ritual con su abuela difunta. Ambas versiones al mapuzungun del poema marcan 
+la exacta filiación de la abuela como materna –cuestión que no se dilucida en la 
+versión en español, por utilizar el vocablo chuchu o chuchuy correspondiente a la 
+madre de la madre. 
+Ya en la primera estrofa podemos encontrar puntos de divergencia en cuan-
+to a la relación de cada versión mapuche con la versión en español (LLE). La 
+retraducción de Cifuentes (VCM) tiende a mostrar mayor fidelidad a la versión 
+en español en el desarrollo de sintagmas verbales correspondientes, que los utili-
+zados por Lienlaf en su autotraducción (LLM). Por ejemplo, Cifuentes traduce 
+la frase: “Es hora/ en que el fuego comienza/ a dormitar” como “Puwi may tañi/ 
+zewmá añütukemum ka /kütrál”. El sintagma “puwi zewmá” o “zew puwi” es 
+traducible como “llegó la hora, es hora”, con lo cual mantiene fidelidad con la 
+expresión en LLE. Por otra parte, el verbo añütun, bajo la forma “añütukemum”, 
+donde el morfema -tu indica iteración, -ke indica continuidad y el morfema mu 
+con la forma verbal no finita -m tienen valor locativo, puede traducirse como 
+“en donde vuelve a descansar”, lo que plantea una mayor cercanía a la frase 
+castellana. Asimismo, Cifuentes se refiere al dormitar del fuego con el verbo 
+añütun asociado al descanso, a irse en un sueño o también a sentarse, es decir, 
+mantiene la personificación del fuego que se encuentra en la versión en español. 
+En cambio, Lienlaf plantea en LLM una estructura sintética en la que toda la 
+idea se expresa solo en tres palabras y la personificación del fuego se reemplaza 
+por un verbo más objetivo: “dewma/ chongnagtuy kütral” puede traducirse como 
+“ya se extinguió o apagó el fuego”. Esta aparente sencillez estructural de LLM, 
+por otra parte, puede emparentarse con las sonoridades que, como bien señala 
+Luis Cárcamo-Huechante en su indagación acústica de la poesía de Lienlaf, el 
+poeta privilegia para producir textos que se mueven en la frontera de la escritura 
+y vuelven a la esfera del canto o ül mapuche (65). En efecto, Lienlaf tiende a 
+cantar las versiones en mapuzungun de sus poemas. 
+Por otra parte, la comunicación del hablante poético con su abuela, cuya 
+voz proviene “desde la sombras” y construye la imagen de un vínculo entre el 
+plano de la vida terrenal y el de las almas de los muertos o ám, tiene un deci-
+dido planteamiento espiritual en la versión al mapuzungun de Cifuentes. El 
+retraductor elige traducir ese dominio de las sombras como “minúmapu püle”, 
+donde minúmapu hace referencia al plano de la “tierra de abajo”, el subsuelo, 
+asociado a las sombras, al mundo mineral y de los muertos. Es de destacar que 
+justamente Lienlaf no traduce esta porción del poema, o bien propone otros 
+versos. LLM se enfoca en acentuar la atmósfera nocturna del poema y propone 
+una imagen que contrasta y complemente la versión en español en una acome-
+190
+Melisa Stocco | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+tida semántica, puesto que estos versos no tienen correspondencia en LLE. La 
+frase “Chai llümllümekey wanglen wenu mapu” es traducible como “hace rato 
+están entrecerradas, parpadeando las estrellas en el cielo”. Esta imagen marca 
+un paralelismo entre las llamas del kütral y la luz de las estrellas: ambas dormi-
+tan, ambos planos reflejan y duplican el estado de chonkitun del sujeto lírico 
+que, en ese entresueño, conecta con el plano de la abuela muerta y se comunica 
+con ella en el umbral del pewma. Cabe destacar que, si bien Lienlaf no refiere 
+al minumapu, sí se refiere al wenu mapu al hablar del espacio de las estrellas o 
+wanglen y esta mención también se vincula al ámbito espiritual, aunque en sus 
+instancias superiores.
+Este contraste de planos marca una diferencia de decisión entre retraduc-
+tor y autotraductor digna de resaltar: mientras VCM hace foco en minumapu/
+abajo, LLM enfatiza en wenumapu/ arriba. Entre la versión de Cifuentes que 
+recupera el inframundo del minumapu y la versión autotraducida de Lienlaf con 
+su paralelismo entre las brasas del fuego, el parpadeo de las estrellas en la noche 
+y la duermevela del hablante lírico, se construye una complementariedad de 
+imágenes autotraducción/retraducción que enriquecen y contrastan la versión 
+en español con elementos culturales mapuche. 
+En la segunda y última estrofa del poema, la traducción de Cifuentes vuelve 
+a marcar fidelidad a la versión en español con una estructura muy similar a “es 
+hora de dormir, me dices” (“puwi ta wümawtuám, eypién nga”), es decir, marca 
+la relación dialógica con la abuela de la segunda estrofa en español. También se 
+mantiene la referencia a los pasos (“trekan”) y las palabras del nuevo día (“tachi 
+antü ñi puke nemül”) presente primigeniamente en LLE. En cambio, Lienlaf 
+vuelve a acometer la equivalencia entre versiones con un planteo divergente en 
+LLM. La frase “es hora de dormir” es reemplazada por una estructura afirmativa 
+en primera persona del plural (umagnagaiñ nga8) que presenta la relación de un 
+“nosotros colectivo” que incluye al hablante y a su abuela sin establecer el plan-
+teo dialógico de la versión en español. Esto es destacable puesto que el mapu-
+zungun permitiría la expresión de un nosotros dual (iñchiu), si tal hubiera sido 
+el foco de las palabras de la abuela. Sin embargo, Lienlaf plantea una primera 
+persona plural que podría abarcar a todos los seres que descansan en la noche. 
+Por otro lado, el día, antü, tiene una centralidad y dimensión diferente con un 
+énfasis especial en lo cíclico. La frase “wüle wüño/ waichüfkinoway antü” de LLE 
+podría traducirse como “mañana el día volverá a rodar”.
+Mientras Cifuentes, por otra parte, traduce “las palabras” con el término 
+nemül (VCM), Lienlaf hace referencia al nütram (LLM), la conversación. “Otra 
+es la conversación del día” (kaley nütram/ liwen mew) plantea el sujeto lírico en 
+mapuzungun y establece así una referencia discursiva concreta, la del nütram 
+8	
+En tanto marcador confirmativo o de foco, nga ha sido también identificado como un marcador 
+rítmico que suele encontrarse en cantos o ül (Malvestitti 214). Su presencia en el poema de 
+Lienlaf parece confirmar el carácter de texto para ser cantado que suelen tener sus versiones en 
+mapuzungun.
+191
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Autotraducción y retraducción en la poesía mapuche...: 181-195
+mapuche: lo que sucedió en el estado de chonkitun, cercano al fuego y al estado 
+onírico fue un diálogo con el espíritu de su difunta abuela, quien se hace pre-
+sente en ese momento del día. En este sentido, la retraducción de Cifuentes se 
+limita a una cierta literalidad mientras que la autotraducción de Lienlaf acomete 
+su propia versión en español y acentúa las coordenadas culturales mapuche al 
+retratar una imagen recurrente en su poesía: la del fogón nocturno como espacio 
+receptivo del sueño y la conexión con los ancestros. 
+	
+Innovación y fidelidad
+El análisis de ambas traducciones, la autógrafa y la alógrafa, permiten obser-
+var instancias de innovación y fidelidad a partir de un parámetro específico: la 
+consideración del texto en español como primigenio. Ahora bien, ¿es tal la cuali-
+dad de la versión española para ambos traductores? Si rastreamos las valoraciones 
+que Leonel Lienlaf ha realizado respecto de su trabajo de escritura y traducción, 
+queda claro que para el autor no existe una jerarquía o verticalidad original/
+traducción entre las versiones de sus poemas: 
+Primero, como digo yo, “rumio” mucho los textos durante mucho rato y eso después 
+cuando se plasma a la escritura es indistinto, cuando uno es bilingüe como que 
+cambia la percepción. A esta altura de mi vida a veces no me doy cuenta si estoy 
+pensando en mapudungun o castellano, se me mezclan las historias. Entonces los 
+poemas nacen… a veces son la misma temática pero versionada, como este diálogo 
+entre estos dos idiomas que ya forman parte de mi vida (Video Leonel Lienlaf- Radio 
+Universidad CALF).
+En su calidad de autor bilingüe, Lienlaf considera su trabajo dentro de lo 
+que podríamos catalogar como autotraducción simultánea (Grutman 17-20), un 
+proceso dialogal, una creación a dos lenguas que se contaminan y modifican mu-
+tuamente, como dos ríos en su punto de confluencia: el traful que perfilamos al 
+comienzo. En este sentido, recuperamos también la comprensión de Cárcamo-
+Huechante de que los poemas bilingües de Lienlaf “no resultan ser operaciones 
+directas de traducción sino espacios gráficos y fonéticos [...] que pueden más 
+bien ser a veces alternos, paralelos, o incluso divergentes, aunque en muchas 
+ocasiones coinciden” (65).
+Por otra parte, el estudio de las correspondencias semánticas de la versión 
+mapuche de Cifuentes con el texto en español del poema de Lienlaf plantean 
+que el punto de referencia para el traductor alógrafo ha sido tal versión y no el 
+texto en mapuzungun de Lienlaf, el cual se aleja en varias instancias, como ya he-
+mos observado, de una traducción “fiel” o “literal”. En este sentido, la propuesta 
+de retraducción de Cifuentes parece sostener la jerarquía lingüística y literaria 
+del texto en español y, por lo tanto, se postula como una retraducción activa en 
+términos de Pym y en relación con la versión autotraducida en mapuzungun. 
+De acuerdo con Dasilva, es posible pensar que la retraducción de Cifuentes se 
+192
+Melisa Stocco | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+ajusta a la idea de que “[l]a versión del traductor alógrafo es […] más literal que 
+la versión del autotraductor” (158).
+Las autotraducción y la retraducción que constituyen las versiones en ma-
+puzungun de Lienlaf y Cifuentes, respectivamente, presentan dos paradigmas 
+divergentes de práctica escritural en lo que llamamos un mapuzungun litera-
+rio contemporáneo. Por un lado, como vemos en las acometidas semánticas de la 
+propuesta de Lienlaf, su escritura plantea la innovación y la libertad expresiva 
+por la cual la paridad es el punto relacional entre las versiones. No hay en LLM 
+interés por generar correspondencias, sino incluso por marcar divergencias entre 
+versiones que manifiestan su calidad de co-creaciones que se complementan y 
+contrastan. Es en esta ruta de análisis que el concepto de traful y las estrategias 
+de autotraducción presentadas, en especial, la de la acometida semántica se pro-
+ponen como operativos para la comprensión de la relación entre las versiones 
+autógrafas del poema como espacio de mutua contaminación. 
+Por su parte, la retraducción, en tanto producto de una traducción alógrafa, 
+más restringida en sus libertades expresivas, manifiesta su supeditación semánti-
+ca al texto en español. Hay aquí un reconocimiento por parte del retraductor de 
+la versión española de Lienlaf (LLE) como texto primigenio, desde el cual partir 
+para la traducción. Esto se evidencia en los diversos momentos que marcan una 
+fidelidad de contenido, una mayor cercanía a la versión española y la no consi-
+deración de las expresiones divergentes y más sintéticas del estilo de la versión 
+original en mapuzungun (LLM). Sin embargo, tal supeditación no supone en 
+absoluto una subordinación expresiva del mapuzungun literario de Cifuentes. 
+Esto quiere decir que, si bien Cifuentes sostiene la referencialidad del texto en 
+español, tal fidelidad no supone una pérdida de autonomía de la lengua mapu-
+che, en tanto y en cuanto las correspondencias halladas no se mantienen por 
+medio de calcos semánticos sino de expresiones propias del uso del mapuzungun 
+e insertas en las coordenadas culturales del mundo mapuche. Es decir que, en la 
+retraducción, hay supeditación semántica al español, pero autonomía expresiva 
+en un mapuzungun auténtico. 
+Conclusiones e interrogantes
+Tras constatar las divergencias entre Lienlaf y Cifuentes para producir sus 
+textos en mapuzungun, uno librado a la co-creación y otro referenciado en la 
+versión española y las consecuentes diferencias semánticas entre ambas propues-
+tas, surgen algunos interrogantes de relevancia. En primer lugar, y pensando 
+en el contexto de una producción literaria en una lengua subalternizada como 
+el mapuzungun, ¿es posible reconocer en la retraducción el mismo objetivo de 
+acentuación de la extranjeridad que reconocía Berman? Este trabajo intenta 
+postular que la retraducción toma otro cariz en el campo literario de la poesía 
+mapuche contemporánea como práctica aportante a los diversos procesos de 
+revitalización y revaloración de la lengua mapuche. Las estrategias de traducción 
+193
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Autotraducción y retraducción en la poesía mapuche...: 181-195
+que Cifuentes despliega, manifiestan la decisión del poeta, artista y traductor de 
+evidenciar la vitalidad del mapuzungun, su riqueza para expresar imágenes que 
+si bien se corresponden con las de la contraparte textual en español, se enmarcan 
+a su vez en las referencias culturales mapuche, lo que revela su autonomía expre-
+siva y potencial creativo. 
+A su vez, el despliegue de expresiones auténticas en la retraducción supo-
+ne también una intencionalidad conservacionista del mapuzungun, capaz de 
+establecer así una diferencia cultural que marca límites a la influencia del espa-
+ñol en la práctica de escritura. Entonces, desde la perspectiva de una segunda 
+traducción que sucede a la del propio autor, la versión mapuche de Cifuentes 
+rivaliza, aunque no en términos de revelar una mayor extranjeridad que el texto 
+de Lienlaf. En este punto, podemos afirmar que ambos textos establecen claras 
+diferencias culturales con la versión en español. Tampoco creemos que la compe-
+tencia entre versiones esté sustentada en un falaz criterio teleológico o evolutivo 
+por el cual una supera a la otra. Sin duda, este tipo de dicotomías supondrían 
+una simplificación de las prácticas traductoras de ambos intérpretes y dejarían, 
+en un segundo plano, los matices de sentido y las divergencias de énfasis que 
+cada versión presenta al lector bilingüe. 
+La “rivalidad” de las versiones, si es que este es el término más adecuado para 
+enmarcar su vínculo, se relaciona con las diferencias de agenciamiento de cada 
+actor –autotraductor y retraductor– y sus motivaciones en la práctica. Por un 
+lado, Lienlaf despliega el elemento creativo, la libertad de decisión en el traslado 
+de imágenes y frases de una lengua a la otra en un movimiento multidireccio-
+nal, que no podemos adivinar más allá de sus propias declaraciones en torno a 
+su práctica traductora. En definitiva, su autotraducción revela la simetría entre 
+versiones, su consideración como co-creaciones en mutua influencia. Por otro 
+lado, Cifuentes, encomendado a la traducción de una antología completa de 
+poesía mapuche del español al mapuzungun, toma como texto primigenio, sin 
+importar si así lo fue para el autor, la versión en español y desde este punto de 
+partida escribe y retraduce lo anteriormente propuesto por Leonel Lienlaf. Es 
+decir que, mientras para Cifuentes el mundo mapuche es la cultura meta, a la 
+cual busca representar en términos lingüísticos con un mapuzungun lo menos 
+influido por el español y lo más autónomo posible, para Lienlaf no hay puntos 
+de llegada o partida entre versiones, sino espacios de circulación entrecruzados y 
+mutuamente influyentes entre el mapuzungun y el español.
+Referencias bibliográficas
+Cárcamo-Huechante, Luis. “Palabras que sueñan y suenan: la poesía de Leonel 
+Lienlaf como resistencia en tiempos de colonialismo acústico”. Afpunmapu/ 
+Fronteras/ Borderlands. Poéticas de los confines: Chile-México. Valparaíso, Edi-
+ciones Universitarias de Valparaíso, 2012, pp. 63-84.
+194
+Melisa Stocco | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+Croese, Robert. “Estudio dialectológico del mapuche”. Estudios Filológicos, n.° 
+15, 1980, pp. 7-38.
+Dasilva, Xosé. “Retraducir el texto autotraducido. El curioso caso de Xente de 
+aquí e de acolá de Álvaro Cunqueiro”. Estudios sobre la autotraducción en el 
+espacio ibérico. Berna, Peter Lang, 2013, pp. 147-159.
+Deane-Cox, Sharon. Retranslation: Translation, Literature and Reinterpretation. 
+Londres/ Nueva York, Bloomsbury, 2014.
+Deleuze, Gilles y Guattari, Félix. Kafka: por una literatura menor. México, Era, 
+1978.
+Díaz-Fernández, Antonio. “Glosónimos aplicados a la lengua mapuche”. An-
+clajes, vol. X, n.° 10, 2006, pp. 95-111.
+_____. Descripción del mapuzungun hablado en las comunidades del Departamen-
+to de Futaleufú, Provincia del Chubut: Lago Rosario-Sierra Colorada y Nahuel-
+pan. Tesis Doctoral. Bahía Blanca, Universidad Nacional del Sur, 2003.
+Grosjean, François. Bilingual Life and Reality. Cambridge, Massachusetts, Har-
+vard University Press, 2010. 
+Grutman, Rainier. “Autotranslation”. Routledge Encyclopedia of Translation Stud-
+ies. Londres, Routledge, 2001, pp. 17-20.
+Huenún, Jaime Luis (editor). La memoria iluminada: poesía mapuche contem-
+poránea. Versiones en mapudungun: Víctor Cifuentes. Málaga, CEDMA, 
+2007.
+_____. (editor). La palabra es la flor. Poesía mapuche para niños. Traducción 
+mapuzungun: Rosendo Huisca Melinao. Concepción, Ministerio de Edu-
+cación, 2011.
+Koskinen, Kaisa y Outi Paloposki. “Retranslation”. Handbook of Translation 
+Studies. Amsterdam y Filadelfia, John Benjamins, 2010, pp. 294-298.
+Lenz, Rodolfo. Estudios araucanos. Santiago de Chile, Cervantes, 1895-1897.
+Leonel Lienlaf- Radio Universidad CALF, Neuquén, 3 jun 2016. YouTube. Sub-
+ido por Abya Yala Internacional, 3 de junio de 2016. https://www.youtube.
+com/watch?v=0PONgozZK2Q
+Lienlaf, Leonel. Pewma dungu/Palabras soñadas. Santiago, LOM, 2003.
+Lohmann, Johannes. Philosophie und Sprachwissentschaft. Berlin, Dunker und 
+Humboldt, 1965.
+Loncón Antileo, Elisa. Wiriaiñ mapudungun. Manual para la lectura y escritura 
+del mapudungun. Temuco, Programa de EIB, Siedes, 2000.
+Malvestitti, Marisa. “Marcadores discursivos en el mapuche de la línea sur”. 
+Temas de lingüística aborigen II. Buenos Aires: Universidad de Buenos 
+195
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Autotraducción y retraducción en la poesía mapuche...: 181-195
+Aires. Facultad de Filosofía y Letras. Instituto de Lingüística, 2002, pp. 
+209-224.
+Popovič, Anton. Dictionary for the Analysis of Literary Translation. Edmon-
+ton, Alberta, Department of Comparative Literature, University of Alberta, 
+1976. 
+Pym, Anthony. Method in Translation History. Manchester, St. Jerome Press, 
+1998.
+Rivera Cusicanqui, Silvia. Ch’ixinakax utxiwa. Una reflexión sobre prácticas y di-
+scursos descolonizadores. Buenos Aires, Tinta Limón, 2010.
+Salas, Adalberto. El Mapuche o Araucano: Fonología, gramática y antología de 
+cuentos. Madrid, Editorial MAPFRE, 1992.
+Stocco, Melisa. La autotraducción como práctica ch’ixi textualizadora de un tercer 
+espacio en la actual literatura originaria latinoamericana: el caso de los poetas 
+mapuche en Argentina y Chile. Tesis Doctoral. Mendoza, Facultad de Filoso-
+fía y Letras, 2018.
+_____. “El amor destructor de la interdicción: una propuesta de análisis de la 
+autotraducción en la poesía mapuche desde el giro afectivo”. Alpha. Revista 
+de Artes, Letras y Filosofía, n.° 47, 2018, pp. 63-73. https://doi.org/10.32735/
+S0718-220120180004700164
+_____. “Traful: una propuesta de estudio de la autotraducción en poesía ma-
+puche”. Literatura: teoría, historia, crítica, vol. 20, n.° 1, 2018, pp. 39-61. 
+https://doi.org/10.15446/lthc.v20n1.67276
+Tahir Gürçağlar, Şehnaz. “Retranslation”. Routledge Encyclopedia of Translation 
+Studies. 2 ed. Londres y Nueva York, Routledge, 2009, pp. 233-236.
+Venuti, Lawrence. “Retranslations. The Creation of Value”. Translation and Cul-
+ture. Lewisburg, Bucknell University Press, 2004, pp. 25-38.
+Zaro Vera, Juan Jesús. “En torno al concepto de retraducción”. Retraducir: una 
+nueva mirada. La retraducción de textos literarios y audiovisuales. Málaga, 
+Miguel Gómez Ediciones, 2007, pp. 21-34.

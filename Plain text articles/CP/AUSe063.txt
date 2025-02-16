@@ -1,0 +1,756 @@
+El héroe Cerbero de Pharsalia 
+Martín M. Vizzotti
+vizzottim@gmail.com
+Facultad de Humanidades y Ciencias de la Educación -
+Universidad Nacional de La Plata , Argentina
+Recepción: 24 Abril 2018 
+Aprobación: 17 Mayo 2020 
+Publicación: 02 Noviembre 2020
+Resumen:  En este trabajo estudiamos las conﬁguraciones
+internas de los tres personajes “principales” de Pharsalia, César,
+Catón y Pompeyo. Ciertas características de cada personaje,
+como la energía demoníaca de César, la virtud inhumana de
+Catón o la amechania de Pompeyo impiden que cualquiera
+de ellos pueda ser considerado el “héroe” del en el sentido
+tradicional; lo mismo sucede con ciertas representaciones y
+acciones que se suceden en el nivel diegético, donde el carácter
+sanguinario de César, la boda fúnebre de Catón o las dudas
+constantes de Pompeyo ofrecen argumentos para cuestionar
+las bases éticas y morales de cada uno. Estas inadecuaciones
+en la estructura profunda de cada personaje se complementan
+unas a otras, subvirtiendo la representación heroica tradicional
+dentro del poema y conformando un nuevo tipo de héroe: un
+monstruoso héroe de tres cabezas más acorde a la naturaleza de
+este poema que canta el ﬁn de una era y el nacimiento de otra,
+nueva y monstruosa.
+Palabras clave: Lucano, Héroe, César, Pompeyo, Catón.
+Abstract:  In this paper we study the internal conﬁguration
+of the three “main” characters of Pharsalia, Caesar, Cato
+and Pompey. Caesar’s demonic energy, Cato’s inhuman virtue
+or Pompey’s amechania forbids them to be considered the
+true “hero” of the poem and the same happens with certain
+actions and certain representations in the diegetical level, where
+Caesar’s bloodthirstiness, Cato’s funeral wedding or Pompey’s
+doubts all provide ground for moral and ethical ambivalences.
+ese inadequacies in the inner structure of each character
+complement each other, subverting the representation of a
+traditional hero within the poem and forming a new kind of
+hero, a monstrous three headed monster more suited to a poem
+than sings the end of an era and proclaims the beginning of an
+atrocious new one.
+Keywords: Lucan, Hero, Caesar, Pompey, Cato.
+Introducción: Los “héroes” de Pharsalia
+     La Pharsalia es un poema particularmente complejo, polisémico y polifacético, quizás sea el único poema 
+de la Antigüedad que busca, más allá de los ambages poéticos y las ambigüedades inherentes a toda 
+producción literaria, de manera explícita y programática la coexistencia de signiﬁcados y signiﬁcantes 
+opuestos, polémicos y simultáneos como elemento central y constitutivo de su poética.1 Esta característica 
+polifacética se ve claramente ya desde el proemio del poema, donde Lucano lleva in extremum la ya 
+innovadora operación virgiliana de desdoblar el objeto poético de su canto: si Homero comienza sus obras
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación 
+Centro de Estudios Latinos
+ARTÍCULOS/ARTICLES
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+Cita sugerida: Vizzotti, M. M. (2020). El héroe Cerbero de 
+Pharsalia. Auster, (25), e063. https://doi.org/10.24215/23468890e063 
+2
+maestras con los acusativos Ménin y Ándra, cada uno concentrando y aglutinando de manera precisa el 
+material poético y el eje alrededor del cual versará su obra,2 e incluso Esquilo inicia su Orestíada con el 
+acusativo eoús, cuestión central de la trilogía, Virgilio, quien siempre fue un paso más allá (paulo maiora) 
+de las convenciones literarias y de las restricciones de los géneros de la Antigüedad, comienza su Eneida 
+cantando arma virumque (Verg. Aen. I.1) fusionando ambas epopeyas y explicitando su ambicioso proyecto 
+de superar la épica homérica.
+Veamos el proemio de Lucano:3
+Bella per Emathios plus quam ciuilia campos
+iusque datum sceleri canimus, populumque potentem
+in sua uictrici conuersum uiscera dextra
+cognatasque acies, et rupto foedere regni
+certatum totis concussi uiribus orbis
+in commune nefas, infestisque obuia signis
+signa, pares aquilas et pila minantia pilis. I. 1-7.
+Guerras más que civiles a través de los campos de Ematia
+y el derecho entregado al crimen cantamos y el pueblo poderoso 
+que volvió su mano victoriosa contra sus propias entrañas
+y las formaciones hermanas y, roto el pacto por el poder,
+el mundo entero sacudido por todas sus fuerzas
+en una impiedad común, enseñas enǆentadas a enseñas enemigas
+las águilas pares y los pilos amenazando pilos.4
+Tenemos nada más y nada menos que ocho objetos directos los cuales, a diferencia de las armas y el hombre
+virgilianos, no reﬁeren cada uno a cuestiones poéticas diferentes ni hacen referencia a dos posibles estructuras
+organizadoras de la obra,5 sino que todos son parte, o diferentes aspectos, de uno en particular: las Bella plus
+quam civilia. Cada uno puede ser entendido como una cara particular de un poliedro poético que concentra
+un aspecto determinado y especíﬁco de este conﬂicto de ribetes cósmicos,6 pero que, por sí solos, no dan
+cuenta de la totalidad del discurso:7 cada uno aporta al carácter fragmentario del poema y a su organización
+como mosaico poético sólo comprensible a través de una operación de lectura que complemente y organice
+cada cara del entramado poético.
+Lo mismo sucede con los personajes centrales o “héroes” de Pharsalia. No tenemos un protagonista claro
+o siquiera un personaje central que acapare la mayor parte de la acción, sino todo lo contrario: Lucano se
+ha cuidado muy bien y a conciencia de no otorgar un papel preponderante a ningún personaje de su obra,
+ni siquiera a los que podríamos considerar como principales:8 César y Pompeyo priman en libro I, con una
+fugaz aunque relevante aparición de Catón en el verso I. 128 mientras que Pompeyo y Catón dominan
+las acciones del libro II. Luego, la ﬁgura de Catón desaparece hasta el libro IX y toman la escena un gran
+número de personajes secundarios aunque no menores, como Curio,9 Vulteyo, Afranio, Petreyo y Esceva
+entre otros;10 cuyas acciones se completan y signiﬁcan al ser leídas en una estructura de mosaico. César y
+Pompeyo reaparecen en el libro VII, Pompeyo domina el libro VIII y Catón el libro IX, mientras qué César
+resurge sobre el ﬁnal del libro IX y ocupa el corto libro X.11 Cabe destacar la aparición de la bruja Ericto en el
+libro VI, personaje puesto a la altura del triunvirato lucaneano por el prof. W. R. Johnson12 pero que, según
+nuestra perspectiva, no cumple un papel central dentro del complejo sistema de interrelaciones dinámicas
+que detectamos en el andamiaje discursivo y diegético de César, Catón y Pompeyo, como veremos un poco
+más adelante.
+La diﬁcultad de identiﬁcar a uno de estos tres generales como el personaje central del poema ha dominado
+las lecturas del Pharsalia.13 Así, hay quienes preferían la energía y decisión de César por sobre la intransigente
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+3
+ética de Catón o quienes forzaban una matriz ﬁlosóﬁca a Pompeyo para convertirlo en un proﬁciens estoico.14
+Afortunadamente, han surgido estudios posteriores de la obra con actitudes menos apriorísticas y se ha
+podido ingresar al poema con perspectivas mucho más abarcadoras y enriquecedoras que se adecuan mucho
+mejor a su naturaleza lábil y polifacética: los trabajos de autores como R. Sklenář (2003), F. Ahl (1976), E.
+Narducci (1979 & 2002), Sh. Bartsch (1997), J. Masters (1992) o P. Esposito & L. Nicastri (1999), inter
+alia, que nos han ofrecido lecturas a veces encontradas, pero siempre profundas y perspicaces.
+Las interrelaciones estructurales, diegéticas y discursivas de los “héroes”
+     Al comienzo del poema César y Pompeyo son presentados como ambiciosos generales que conforman un 
+pacto privado y criminal - tu causa malorum/ facta tribus dominis communis, Roma, nec umquam / in turbam 
+missi feralia foedera regni. (I. 84-86; cf. también 1. 98 y ss.)-, idea que se verá reforzada en el libro II por las 
+palabras de Bruto (II. 246-25 & 2.272-288) y Catón (II. 319-323; cf. también IX. 19-30 & 190 y ss.).15 Los 
+tres generales aparecen entremezclados con las causas de la guerra, las cuales Lucano enumerará un poco más 
+adelante (I. 158 y ss); uno se ampara en dioses paradójicos, inexistentes, irracionales o simplemente malvados 
+mientras que la causa del otro tiene como garante a un hombre, el propio Catón:16
+magno se iudice quisque tuetur;
+uictrix causa deis placuit sed uicta Catoni. I.128-129.
+Cada uno se ampara en un magno juez;
+la causa victoriosa complació a los dioses, pero la vencida a Catón.
+Este dictum es una muestra clara de la genialidad de Lucano y de su capacidad para condensar y comprimir
+complejas cuestiones literarias y ﬁlosóﬁcas en sentencias precisas y subvertirlas radicalmente.17 El narrador
+del poema muestra una clara ambivalencia al tratar a cada personaje, revelando una esquizofrénica relación
+con cada uno: en el caso de César, la representación del general como una fuerza demoníaca destinada a
+asesinar a la República moribunda se contrapone con una cierta admiración difícil de disimular.18
+sed non in Caesare tantum
+nomen erat nec fama ducis, sed nescia uirtus
+stare loco, solusque pudor non uincere bello.
+acer et indomitus, quo spes quoque ira uocasset,
+ferre manum et numquam temerando parcere ferro,
+successus urguere suos, instare fauori
+numinis, inpellens quidquid sibi summa petenti
+obstaret gaudensque uiam fecisse ruina, I. 144-150.
+Pero no había en César nombre
+tan grande ni fama de general, sino una virtud ignorante
+de permanecer quieta, su sola vergüenza no vencer en batalla. 
+Agudo e indomable, a donde la ira o la esperanza lo llamasen 
+Llevaba su mano y nunca se abstenía de manchar el hierro, 
+apremiaba sus victorias y exigía el favor de los númenes 
+empujando todo lo que lo obstaculizaba cuando buscaba la cima 
+y se regodeaba en abrirse camino con la ruina.
+Los versos 147-148 y 150 pueden pensarse como una descripción de la personalidad poética del propio
+autor, que tiene más en común, como poeta, con César que con el rígido, reaccionario y conservador optimate
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+4
+Catón.19 En lo que respecta al andamiaje y a la construcción interna del personaje, destaca el oxímoron nescia
+virtus que, como ya destacamos, subvierte radicalmente el paradigma estoico, pues para estos la virtud jamás
+puede ser ignorante.20 Esta operación de disolución y subversión de los elementos centrales y constitutivos
+del vir Romanus, la pietas, la virtus, la ﬁdes e incluso el amor es pervasiva en toda la Pharsalia,21 y uno de los
+elementos centrales de esta operación literaria está muy presente, como veremos un poco más adelante, en
+la construcción del personaje de Catón.
+Es, sin embargo, en las palabras que César dirige a la imagen temblorosa de la Patria (1.186) donde se
+aglutinan y concentran por primera vez en el texto elementos comunes a los tres personajes en esta operación
+de imbricación discursiva que estamos rastreando:
+Roma, faue coeptis. non te furialibus armis
+persequor: en, adsum uictor terraque marique
+Caesar, ubique tuus (liceat modo, nunc quoque) miles.
+ille erit ille nocens, qui me tibi fecerit hostem.' I. 200-203.
+¡Roma, favorece mis empresas! No te busco con armas 
+enloquecidas; Llego victorioso por tierra y por mar,
+ésar, siempre soldado tuyo (si lo fui antes, también ahora). 
+¡Aquel será culpable, aquel que me convierta en tu enemigo!
+Hay en esta pequeña elocución una gran cantidad de elementos operativos dentro de la construcción de los
+tres generales: Pompeyo resuena en el verso 200, pues proferirá las mismas palabras que César cuando, en el
+nadir de su romanidad,22 intente forjar una alianza con los Parthos (VIII. 322-327); César aparece de manera
+explícita en los versos 201-20223 y Catón, por su parte, dirá conceptos muy similares a los expuestos por
+César en el verso 203 cuando acuse a los propios dioses de hacerlo incluso a él culpable. Luego del discurso de
+Bruto, en el cual, como ya dijimos, se destacan las similitudes entra los generales enemigos y sus ambiciones de
+poder y se eleva nuevamente a Catón como único garante de la legitimidad en este conﬂicto (II. 246-284),24
+el general pronuncia las siguientes palabras:25
+'summum, Brute, nefas ciuilia bella fatemur,
+sed quo fata trahunt uirtus secura sequetur.
+crimen erit superis et me fecisse nocentem. II. 286-288.
+Reconocemos, Bruto, que la guerra civil es la más grande impiedad, 
+Pero a donde los hados la arrastren, la virtud los seguirá segura. 
+Será el crimen de los dioses, el hacerme también a mí culpable.
+No resuena aquí la ﬁgura de Pompeyo, con quien Catón se construirá más por oposición que por
+yuxtaposición, pero si es posible ver cómo ambos generales se posicionan de manera idéntica, declarando
+culpables a sus enemigos o adversarios de manera explícita. En este discurso también se ve confutado, en el
+verso 287 uno de los pilares racionalistas del estoicismo,26 pues la aceptación racional y meditada del hado,
+de acuerdo a la virtus secura del sabio, no puede llevar jamás a éste hacia el crimen absoluto.27 Es más, Lucano
+logra, con solo intercambiar un verbo particular y especíﬁco de la terminología estoica, agregar radicalidad
+y expresividad discursiva a esta operación de subversión del paradigma ﬁlosóﬁco: al utilizar trahunt en vez
+del ducunt Lucano conturba la visión estoica desde sus bases más profundas y radicales, tal como están
+expresadas en la obra del máximo exponente del estoicismo de su época, es decir, la de su propio tío Séneca.28
+En su epístola CVII, 11 dice Séneca “Ducunt volentem fata, nolentem trahunt”, concepto que ya antes había
+expresado en su diálogo De providentia 5.4, donde aﬁrma “boni uiri laborant, inpendunt, inpenduntur, et
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+5
+uolentes quidem; non trahuntur a fortuna, sequuntur illam et aequant gradus; si scissent, antecessissent.” La
+paradoja de un vir bonus arrastrado por el hado y siguiendo el ideal de la virtus directo hacia el crimen más
+alto confuta el paradigma estoico en su totalidad.29
+Esta disolución del entramado ﬁlosóﬁco y del propio universo se extiende, vía sympátheia tôn holôn,30 a
+todos los ideales de la República:
+non ante reuellar
+exanimem quam te conplectar, Roma; tuumque
+nomen, Libertas, et inanem persequar umbram. II.301-303.
+me solum inuadite ferro,
+me ustra leges et inania iura tuentem. II.315-316.
+No me arrancarán de ti antes
+de abrazarte ya muerta, Roma, y tu nombre, 
+Libertad, y tu sombra vacía perseguiré.
+A mí solo atacad con el hierro,
+que en vano deﬁendo las leyes y el derecho vacío.
+Catón, el parens uerus patriae (IX. 601), constantemente se referirá a la libertad, a Roma y a sus leyes
+con el adjetivo inanis,e, y la propia Marcia rogará a su futuro esposo que le otorgue el tantum nomen inane/
+coniubii (II. 342-343). La ceremonia nupcial entre Catón y Marcia es otro claro ejemplo de la inhumanidad
+inherente a la virtud extrema y desmesurada de este último varón romano. Más funeral de la República muerta
+y entierro de los inadecuados mores maiorum, la ceremonia se caracteriza por ser yerma y lúgubre: Marcia se
+presenta visceribus lassis partusque exhausta pidiendo los antiguos foedera inlibata (II. 338-344) vistiendo aún
+los atuendos fúnebres, lo cual está en concordancia con el aspecto de su futuro marido, quien ya está de luto
+por la República (II.365-376).31 En deﬁnitiva la boda es una alegoría donde se muestran la inhumanidad de la
+virtud catoniana y el compromiso del último varón recto y tenaz en su propósito, encarnación de unos valores
+inadecuados en este nuevo orden mundial que se está gestando.32 Los elementos constitutivos de Roma y los
+ideales republicanos se han vuelto nombres inanes y vaciados de contenido: el único camino para los últimos
+romanos es una huida hacía los límites del mundo conocido, a través de las arenas ardientes e infestadas de
+serpientes de Libia:33
+o quibus una salus placuit mea castra secutis
+indomita ceruice mori, conponite mentes
+ad magnum uirtutis opus summosque labores.
+uadimus in campos steriles exustaque mundi,
+qua nimius Titan et rarae in fontibus undae,
+siccaque letiferis squalent serpentibus arua.
+durum iter ad leges patriaeque ruentis amorem. IX. 379-385.
+serpens, sitis, ardor harenae
+dulcia uirtuti; gaudet patientia duris;
+laetius est, quotiens magno sibi constat, honestum.
+sola potest Libye turba praestare malorum
+ut deceat fugisse uiros.' sic ille pauentis
+incendit uirtute animos et amore laborum,
+inreducemque uiam deserto limite carpit;
+et sacrum paruo nomen clausura sepulchro
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+6
+inuasit Libye securi fata Catonis. IX. 402-410.
+O vosotros, a quienes, siguendo mis campamentos, complació
+como única salvación morir con el cuello indómito, preparad las mentes 
+para el magno trabajo de la virtud y los más altos esfuerzos.
+Nos adentramos en los campos estériles y calcinados del mundo 
+donde el Sol es excesivo y rara el agua en las fuentes,
+y los campos áridos están cubiertos de mortíferas serpientes.
+El duro camino a las leyes y al amor por la patria que se desmorona.
+“Serpientes, sed y el ardor de la arena
+son delicias para la virtud ; se regodea la resistencia en la adversidad; 
+más grato es el bien que se compra a una gran precio,
+Sólo Libia puede presentar una acumulación de males
+para que huir sea digno de varones “Así él enciende el ánimo
+a los temerosos con su virtud y su amor por el esfuerzo,
+inicia un camino sini retorno por los límites desiertos;
+y Libia, que abrigará un nombre tan grande en un pequeño sepulcro, 
+entró en el destino del seguro Catón.
+Vale la pena destacar el interesantísimo desplazamiento semántico que se produce con el adjetivo securus,
+a, um: si en el libro II la virtus era secura, ahora es Catón quien recibe esa distinción; este desplazamiento se
+ve reforzado por la inversión entre sujeto y objeto, procedimiento muy caro a Lucano a lo largo de todo el
+poema,34 pues, de la misma manera que en el verso VI.311 Lucano se lamenta de que luego de la guerra civil la
+vida carecerá de Catón,35 No será Catón quien entre en los destinos de Libia, sino viceversa. En este universo
+disoluto, la virtus ha arrastrado al sabio al crimen y ha arrojado a los últimos romanos a las antípodas de Roma
+(IX. 871 y ss.) donde las últimas e impotentes manifestaciones de la virtud tienen lugar.36
+César y Catón, entonces, son ﬁguras supra-humanas, más símbolos que personajes históricos:37 César
+encarna una fuerza cósmica que se revela como la manifestación en el plano diegético de un proceso histórico
+inexorable;38 Catón, por su parte, encarna los inadecuados ideales Republicanos dentro de un universo
+en disolución, cósmica, social e individual,39 pero, de manera no diferente a César, revela una profunda
+inhumanidad que pone de maniﬁesto, del mismo modo que lo hace Séneca en sus tragedias, el costado más
+oscuro y paradójico de la doctrina estoica.40 Tenemos dos personajes en apariencia opuestos y antagónicos,
+pero cuyas estructuras profundas, tanto en el plano semántico como en el diegético, resultan extremadamente
+cercanas: los extremos, en deﬁnitiva, se tocan y no resultan tan diferentes después de todo. Pompeyo funciona
+como un puente entre las ﬁguras de estos dos generales, actuando, como ya dijimos como el ﬁel de una balanza
+en cuyos extremos están estos dos avatares supra-humanos.41
+El color humano de la figura de Pompeyo
+     Hay, en el Pompeyo de Lucano, una profunda humanidad trágica:42 único personaje en la obra que sueña 
+y llora y que se justiﬁca vanamente cuando no logra estar a la altura de los acontecimientos,43 es un 
+personaje demasiado humano situado en el bando equivocado dentro de un proceso histórico inexorable.44 
+Si César es el avatar de la historia y Catón el de los ideales de una república ideal,45 Pompeyo, en cierta 
+medida, representa el estado actual y real de Roma a mediados del siglo I a.C. y quizás también el del I d.C, 
+con su demagogia banal y su magniﬁcencia decadente, pero que resulta, al mismo tiempo un personaje 
+amable y querible.46 Descrito como una vieja y venerable encina (I. 136 y ss), Pompeyo es sólo una magna 
+nominis umbra (I. 135) que comprende el tercer paradigma imperfecto de heroicidad y resulta, quizás, el 
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+7
+más complejo en sus polivalente y multifacética representación.47 Los héroes post homéricos poseen, en 
+mayor o menor medida, ribetes y colores trágicos y Pompeyo es, dentro de poema tan impar como Pharsalia, 
+el personaje que más cercano a estas ﬁguras tradicionales pero carece de la grandeza y la magnanimidad de 
+otros héroes épicos como Eneas.48 El general republicano resulta una ﬁgura paradójica y contradictoria en 
+su patética magniﬁcencia y es descripto como un victorioso general devenido brazo armado del senado y 
+demagogo banal no sólo por César (I. 310-351) y sino también por el propio narrador (I. 131-143).
+Su ﬁgura atraviesa por dos procesos simultáneos e inversos: por un lado la ﬁgura pública del victorioso
+general sufre, al igual que el universo, la sociedad y los individuos, un proceso de desintegración progresiva
+pero, (y es aquí donde quizás podría encontrarse cierto crecimiento personal, que no debe confundirse con un
+progresivo avance hacia un perfeccionamiento ﬁlosóﬁco, como sugieren algunos autores)49 al mismo tiempo
+que su honra pública se desvanece, surge magno el hombre como individuo. Al igual que Edipo quien, cuando
+está en su punto más alto de honra pública siendo rey de Tebas, vive su hora más abyecta y terrible como
+individuo envuelto en una relación incestuosa, sin embargo logra recuperar su dignidad como ser humano
+una vez devenido un mendigo ciego y vagabundo.50 Pompeyo, básicamente, opera dentro de la estructura
+narrativa como elemento de contraste barroco, ﬁgura que, por oposición y chiaroscuro,51 destaca, con su
+humanidad trágica y su color humano, los rasgos in y supra humanos de César y Catón, actuando como la
+cabeza central de esta representación monstruosa de heroicidad.52
+La característica principal de Pompeyo es su amechania53 y su tibieza frente a los eventos que debe
+enfrentar: si Catón se yergue incólume y recto ante cualquier acontecimiento, como el hombre ﬁrme y tenaz
+en su propósito que cantaba Horacio en la Oda 3.3, y César, por su parte, moldea y hasta parece controlar
+los eventos con su voluntad, Pompeyo en realidad resulta moldeado por ellos. La actitud que cada general
+toma frente a sus tropas nos da un claro ejemplo de cada una de estas diferentes actitudes. En primer lugar,
+César, luego de enfrentar un peligroso motín en el libro 5. 300 y ss., subyuga y, literalmente, logra someter
+a los soldados iracundos sólo con su voluntad. Catón, por su parte, muestra la misma decisión que César,
+aunque en vez de reiﬁcar a los hombres intenta elevarlos a su nivel, aunque éste represente un nivel brutal y
+monstruoso de la virtud (IX. 255 y ss).54 Pompeyo, por su parte, cede tímidamente ante los reclamos optimates
+expuestos por Cicerón (VII. 68-85):55
+ingemuit rector sensitque deorum
+esse dolos et fata suae contraria menti.
+'si placet hoc' inquit 'cunctis, si milite Magno,
+non duce tempus eget, nil ultra fata morabor:
+inuoluat populos una fortuna ruina
+sitque hominum magnae lux ista nouissima parti.
+testor, Roma, tamen Magnum quo cuncta perirent
+accepisse diem. VII. 85-92.
+Gimió el general y se dio cuenta que había perﬁdia
+divina y hados contrarios a sus planes.
+“Si esto les complace a todos – dice-, si el tiempo avanza,
+siendo Magno soldado, no general, en nada demoraré los hados; 
+que envuelva la fortuna a todos los pueblos con una sola catástrofe, 
+que sea este día el último parea una enorme parte de los hombres. 
+Sin embargo, Roma, juro que Magno recibió el día
+En que todo murió.
+La actitud de Pompeyo es radicalmente diferente a la de César y Catón, la imagen ﬁnal del general
+entregándose como un peso inerte a los vientos (VII. 123-127) es una clara muestra de esto.56 Cada general
+recibe, por parte del autor/ narrador, distintos matices que, según la perspectiva axiológica con que se los mire,
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+8
+pueden resultar, en principio, positivos o negativos, pero que, debido a las operaciones poéticas extremas a las
+que son sometidos, resultan siempre problemáticas: si Catón es admirado por su intransigencia ética y César
+resulta ser (quizás incluso en contra de la voluntad del narrador diegético) por su energía iconoclasta, lo más
+cercano a Lucano como poeta,57 Pompeyo es el personaje que recibe toda la simpatía del narrador, hasta tal
+punto que ciertas lecturas modernas, particularmente la de la prof. Sh. Bartsch, proclaman al general vencido
+como el héroe del poema, incluso cuando reconocen que Lucano lo representa de maneras poco favorable.58
+La derrota taxativa de Pompeyo en la batalla de Pharsalia, incluso contando con superioridad numérica y
+con una amplia ventaja en el número de jinetes, y su posterior muerte a manos de los corruptos asesores de
+Ptolomeo en las arenas de Egipto hicieron que se convierta, también, más en una ﬁgura simbólica que en un
+personaje histórico: de este modo, el general silano y optimate que buscaba el clamor popular y que inclinaba
+las decisiones del senado conduciendo a sus soldados al Foro,59 quedó en la historia como el último defensor
+de la República y del ius Romanus,60 aun cuando fue consul sine colega (entre muchas otras “irregularidades”
+que caracterizaron la carrera política del Pompeyo)61 y fue quien acumuló, incluso antes que César y Augusto,
+numerosos imperia extraordinaria.62
+Lucano representa a Pompeyo como una general pusilánime que constantemente está intentando retrasar
+lo inexorable, mientras que César empuja los acontecimientos y Catón los enfrenta y sobrelleva. En su
+despedida a Cornelia en el libro V (V. 727-743), Lucano entremezcla magistralmente las dudas muy humanas
+del general con el amor a su esposa, representando a Magno dándole la espalda mientras solloza en silencio
+pues sabe que, terminadas las morae (blandaeque iuuat uentura trahentem/ indulgere morae et tempus
+subducere fatis (V. 732-733)), lo aguardan César y la historia (iam totus adest in proelia Caesar./ cedendum
+est bellis (V.742-743)). Esta atmósfera trágica cierra también el ﬁnal del libro V (V.811-815). La tibieza de
+Pompeyo, luego de ser increpado por Cicerón y forzado a dar batalla, contrasta con la actitud proactiva y
+decidida de César:
+sed mea fata moror, qui uos in tela furentis
+uocibus his teneo. ueniam date bella trahenti:
+spe trepido; haud umquam uidi tam magna daturos
+tam prope me superos; camporum limite paruo
+absumus a uotis. ego sum cui Marte peracto
+quae populi regesque tenent donare licebit. VII. 294-300.
+Pero retraso mis hados; os retengo con estas palabras a vosotros
+que estáis enloquecidos por las armas, Dad este permiso a quien trae la guerra: 
+tiemblo de esperanza; nunca vi a los dioses tan dispuestos
+a darme tanto; nos separa de nuestros votos el pequeño límite
+del campo de batalla. Yo soy quien podrá, terminada las batallas,
+otorgar lo que poseen los pueblos y los reyes.
+El contraste es claro y diáfano, mientras que Pompeyo se entrega a los acontecimientos y se abandona a
+designios externos, César, temblando de esperanza, destroza cualquier morae y se impone incluso a los dioses.
+El contraste con Catón, por su parte, se explicita a través de la tibia devotio que Pompeyo propone, luego
+de constatar que la Fortuna lo ha abandonado:
+prima uelim caput hoc funesti lancea belli,
+si sine momento rerum partisque ruina
+casurum est, feriat; neque enim uictoria Magno
+laetior. aut populis inuisum hac clade peracta
+aut hodie Pompeius erit miserabile nomen:
+omne malum uicti, quod sors feret ultima rerum,
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+9
+omne nefas uictoris erit.' sic fatur et arma
+permittit populis enosque furentibus ira
+laxat et ut uictus uiolento nauita Coro
+dat regimen uentis ignauumque arte relicta
+puppis onus trahitur. VII. 117-127
+“Quisiera que la primera lanza de esta guerra funesta hiera
+mi cabeza, si ha de caer sin sacudir el mundo y sin la ruina
+de mi partido; Y no será más dichosa la victoria
+para Magno. Hoy, concluida la matanza, será Pompeyo un nombre
+odiado por los pueblos, o será Pompeyo un nombre desdichado:
+Toda la desgracia que traerá la última suerte del mundo, será para el vencido, 
+todo crimen para el vencedor.” Así habla y permite las armas a los pueblos
+y la ira da rienda suelta a los enloquecidos, y, como un marinero vencido 
+por el Coro violento entrega sus velas a los vientos, abandonado su arte,
+es llevado como un peso muerto en la popa.
+Resalta este pasaje por su tibieza, sobre todo si es leído junto a la devotio propuesta por Catón:63
+deuotum hostiles Decium pressere cateruae:
+me geminae ﬁgant acies, me barbara telis
+Rheni turba petat, cunctis ego peruius hastis
+excipiam medius totius uolnera belli.
+hic redimat sanguis populos, hac caede luatur
+quidquid Romani meruerunt pendere mores.
+ad iuga cur faciles populi, cur saeua uolentes
+regna pati pereunt? me solum inuadite ferro,
+me ustra leges et inania iura tuentem.
+hic dabit hic pacem iugulus ﬁnemque malorum
+gentibus Hesperiis: post me regnare uolenti
+non opus est bello. quin publica signa ducemque
+Pompeium sequimur? nec, si fortuna fauebit,
+hunc quoque totius sibi ius promittere mundi
+non bene conpertum est: ideo me milite uincat
+ne sibi se uicisse putet. II. 308-323.
+Los ejércitos enemigos aplastaron a Decio, entregado en sacriﬁcio:
+que las formaciones hermanas, que la turba bárbara del Rin
+me ataquen, que yo, en medio de todas las lanzas, muera
+atravesado por las heridas de toda la guerra.
+Que esta sangre redima a los pueblos, que con esta muerte
+se expíe todo lo que merecieron pagar las costumbres romanas.
+¿Por qué mueren los pueblos dispuestos al yugo, por qué mueren 
+queriendo suǆir crueles tiranías? ¡A mí solo atacadme con el hierro,
+a mí que en vano cuido las leyes y las leyes vacías!
+Este cuello, éste entregará la paz y el ﬁn de las desgracias
+a la gente de Italia: luego de mí, no habrá necesidad de hacer la guerra 
+para quien desee reinar. ¿Por qué seguimos las banderas republicanas 
+y a Pompeyo como general? Está bien claro que, si la Fortuna lo favorece, 
+el también se promete el derecho sobre el mundo entero: por lo tanto 
+que venza conmigo como soldado, para que no piense que venció
+para sí mismo.
+Por otro lado, la representación de Pompeyo como un timonel vencido por los vientos opera en paralelo
+con el famoso pasaje de César y la tempestad del libro V (V. 499 y ss; esp. 575 y ss):64
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+10
+dum se desse deis ac non sibi numina credit,
+sponte per incautas audet temptare tenebras
+quod iussi timuere etum, temeraria prono
+expertus cessisse deo, ﬂuctusque uerendos
+classibus exigua sperat superare carina. V. 499-504
+Mientras cree que el le falla a los dioses y no los dioses a él, 
+voluntariamente se atreve a desaﬁar a través de las tinieblas incautas 
+el mar que temieron sus subordinados, sabedor de que la temeridad 
+ha alcanzado el éxito, cuando los dioses son propicios,
+y espera superar las olas temidas por una ﬂota
+en una pequeña barcaza.
+César, plantado en la proa de una pequeña barcaza desafía a los elementos y a los dioses y no es casual
+que él se reﬁera a sí mismo como el onus que defenderá su nave de la tempestad: hanc Caesare pressam/ a
+ﬂuctu defendet onus. (V.585-586). Los elementos en común constitutivos de cada personaje operan por clara
+oposición, Pompeyo es un peso muerto e inerte que retrasa lo inevitable mientras que César es la carga que
+garantiza la ruptura de las demoras y la seguridad de la nave (V.577-587). De igual modo, basta ver cuán
+distintas son, en tono y en sinceridad las devotiones de Pompeyo y Catón (interconectados también al resonar
+el verbo trahitur en VII.127).
+Pompeyo Magno: Cenit y nadir
+    El libro VII nos muestra a Pompeyo en toda su futilidad y amechania como general y como individuo; el 
+libro 8, por su parte, nos muestra el nadir de su romanidad, pero también el cenit de su individualidad. 
+Aunque en el libro VII su huida había sido narrada, cuando menos, de manera digna, el comienzo del libro 
+VIII sorprende mostrándolo temeroso y asustado, espantándose de las ramas movidas por el viento o por la 
+llegada de sus soldados (VIII. 1 y ss.).65 Creemos que este ﬂagrante desajuste es buscado concientemente por 
+Lucano para resaltar y comprimir dentro de un sólo libro las trayectorias opuestas del general, que ya 
+mencionamos anteriormente: comenzando por su derrota absoluta en los campos de Pharsalia y su 
+vergonzosa huida hasta el encuentro con Cornelia tenemos a un Pompeyo derrotado (VIII. 76-85),66 el 
+cual, mientras su ﬁgura pública es desintegrada por la fuerza de la historia, junto con Roma y con el mundo 
+entero (tal como le pasará también a su propio cuerpo, VIII. 663 y ss.), surge magno el individuo luego de 
+perderlo todo: : uiuit post proelia Magnus/ sed fortuna perit. quod deﬂes, illud amasti (VIII.84-85). Aparece 
+nuevamente el juego semántico de la palabra Magnus, que oscila entre las funciones sintácticas de sujeto y 
+predicativo subjetivo, logrando Lucano una ironía trágica exquisita, ya que el propio Pompeyo ignora que, si 
+bien está casi terminado su proceso de desintegración pública, ha comenzado su proceso de redención 
+humana y de reivindicación personal. Si bien
+algunos autores han propuesto a Pompeyo como un proﬁciens,67 cabe destacar que no coincidimos en que
+el crecimiento del general derrotado sea en relación al paradigma estoico, sino que es de orden personal y
+profundamente humano. Pompeyo llora su derrota al mismo tiempo que lo hace su esposa, y sus palabras
+parecen estar dirigidas más así sí mismo que hacia ella – quod deﬂes, illud amasti, pues no concibe ser amado
+si no es admirado.68
+Sin embargo, para llegar a su cenit como individuo, Pompeyo debe alcanzar el nadir de la romanidad en
+su vana propuesta de alianza con el rey parto (VIII. 217- 238). Aﬂora en este discurso los peores aspectos
+del personaje, su banalidad y su vanidad y la particular manera de justiﬁcarse. Repasemos brevemente la
+historia diplomática entre Roma y Partia: Sila fue el primer general romano en realizar un foedus amicitiae
+en el año 96, pacto que fue ratiﬁcado por el Senado al año siguiente.69 Luego Lucullus intenta, en el marco
+de su campaña sobre el Ponto durante los años 69-68 establecer una nueva alianza, pero este intento se ve
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+11
+truncado por diversas intrigas políticas, luego el Senado, receloso de Lucullus, entrega a Pompeyo la campaña
+contra Mithridates prácticamente ya resuelta por Lucullus en el año 66, adquiriendo otro imperium gracias
+a la lex Manilia y renueva oﬁcialmente el tratado de amicitiae con Phraates.70 Luego de empujar y cercar
+a Mithridates a las costas del norte del Mar Negro, deja el ﬁnal de la campaña a sus lugartenientes y dirige
+algunas expediciones punitivas, à la César,71 más allá del Cáucaso hasta las costas del Mar Caspio, pero
+cuidándose muy bien de no penetrar en territorio Parto.72
+Por lo tanto, Pompeyo, en su declamación, no falta necesariamente a la verdad, pero sí da una versión
+exagerada y propagandística de los hechos (VIII. 229-232). Sin embargo, esta versión indulgente y banal
+de sus res gestae se ve opacada por lo que podríamos considerar casi un acto fallido cuando reconoce haber
+operado políticamente luego del desastre de Carrhas, pero peor aún resulta su frase ﬁnal, la cual consideramos
+que lo muestra en el nadir de su romanidad: Pompeio uincite, Parthi,/ uinci Roma uolet. Un poco más
+adelante, Lucano pondrá en boca de Pompeyo, luego de haber explicitado su intención de pactar con el reino
+oriental, las siguientes palabras: Roma, fave coeptis (VIII. 322 & 1. 200): pero si César, al menos, proclama su
+intención de liberar Roma de sus amos, detrahimus dominos urbi seruire paratae (I. 351), Pompeyo propone,
+básicamente, rendir Roma.
+Luego de ser refutado por Lentulo (VIII.331 y ss.) el general se reivindica a sí mismo gracias a la dignidad
+con que enfrenta su ﬁnal en las costas de Faros: es, a pesar de todo, un vir Romanus capaz de marchar a la
+muerte con versos de Sófocles en los labios (VIII. 575-582).73 Pompeyo, ﬁel a sí mismo, enfrenta la muerta
+con una curiosa mezcla de dignidad y banalidad (VIII. 610-630),74 sólo cuando lo ha perdido todo se reclama
+y reivindica para sí mismo (VIII. 630-637):75
+spargant lacerentque licebit,
+sum tamen, o superi, felix, nullique potestas
+hoc auferre deo. mutantur prospera uita,
+non ﬁt morte miser. uidet hanc Cornelia caedem
+Pompeiusque meus: tanto patientius, oro,
+claude, dolor, gemitus: gnatus coniunxque peremptum,
+si mirantur, amant.' talis custodia Magno
+mentis erat, ius hoc animi morientis habebat. VIII. 630-637.
+Aunque me despedacen y me dispersen,
+soy, sin embargo, dioses, dichoso, ningún dios
+me arrebatará esta potestad. La prosperidad cambia en vida,
+no me hace desdichado la muerte. Que vean esta matanza Cornelia 
+y mi Pompeyo; oculta, dolor, con más empeño, te lo ruego,
+mis gemidos: el hijo y la esposa aman al muerto,
+si lo admiran. Tal control de su mente tenía Magno,
+este derecho poseía el alma del moribundo.
+Sus últimas palabras lo muestran en toda su banalidad y humanidad.76 Su cuerpo lacerado y decapitado será
+abandonado en la playa: la añosa y noble encina es ahora un tronco arrojado por el ﬂujo y reﬂujo de las olas.
+Sin embargo el general recibirá no un monumental funeral en Roma, sino uno más acorde con su condición
+personal a esta altura del poema, el humilde y anónimo entierro resulta mucho más honroso y digno y en él
+se destaca lo patético y lo emotivo.77 El pasaje termina con estos versos:
+nautaque ne bustum religato fune moueret
+inscripsit sacrum semusto stipite nomen:
+'hic situs est Magnus'. VIII. 791-793.
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+12
+y para que ningún navegante perturbase el sepulcro, 
+luego de desatar sus cabos, escribió el sacro nombre 
+con un leño semiquemado: “Aquí yace Magno”.
+Cierra nuevamente el pasaje el juego de ambivalencias sintácticas de Magnus (sujeto/ predicativo
+subjetivo) que ya hemos destacado como una constante a lo largo del poema: “Aquí yace (el) Magno”, reza la
+tumba de este hombre que fuera en vida la encarnación de la última república.
+Sigue inmediatamente, al principio del libro IX, el extraño y polémico catasterismo del general, que ha sido
+considerado ya como la conﬁrmación del Pompeyo proﬁciens, o como la escena más ridícula de la obra.78 W. R.
+Johnson acierta, creemos, con su interpretación pero, como suele hacerlo, la lleva in extremum al aﬁrmar que
+este regalo estoico al menos estoico de los hombres resulta ridículo por naturaleza. Particularmente, creemos
+que este episodio (9. 1-18) presenta ciertas características que no han sido destacadas (al menos hasta donde
+hemos podido comprobar) por la crítica. En primer lugar, es un catasterismo fallido: la trayectoria del alma de
+Pompeyo describe una parábola similar a la de un proyectil balístico que roza las esferas ígneas donde habitan
+los semidei manes (IX. 7-9), pero es claro que no permanece allí, sino que, luego de alcanzar este punto, cae
+a tierra (los adverbios illic (IX.11) e hinc (IX.15) nos proporcionan esta información), para asentarse en
+el pecho de Bruto y en la mente de Catón (IX. 17-18). Es cierto que Pompeyo logra una cierta revelación
+al colmarse de la luz verdadera y trasciende las constricciones mortales (IX. 13-14). Pero desde allí (hinc)
+desciende abandonado estas altas esferas y sobrevuela los campos ematios para convertirse en el símbolo de la
+república y el vengador de los crímenes contra ella. Acordamos con el prof. Johnson en que Pompeyo no ha
+mostrado, ni en sus biografías ni en el poema, nada siquiera cercano a esta ignea virtus que templa las almas
+que habitan las esferas del éter,79 de manera similar a las descritas por Cicerón en su Somnium Scipionis,80
+pero es cierto que su alma se libera de la banalidad que lo caracterizó en vida (IX. 13-14) y puede ser, ahora
+sí, el símbolo de la bandera republicana.81
+Conclusiones
+     Ninguno de los personajes “centrales” del poema puede ser considerado como el personaje principal o el 
+“héroe” del mismo ya que cada uno, analizado de manera estanca, presenta aspectos ambivalentes inherentes a 
+los presupuestos poéticos que conﬁguran a Pharsalia como un poema dinámico y lábil. Existen, sin embargo, 
+ciertos elementos inherentes a su conﬁguración discursiva en su andamiaje estructural que complementan la 
+representación de cada uno de los generales y que, al ser yuxtapuestos al modo de “legos” discursivos, encastran 
+a la perfección, ya sea por oposición, complementación o aﬁnidad, y conforman de esta manera un héroe 
+monstruoso, un cerbero de tres cabezas que, además, está en consonancia con la desmesura inherente a la 
+poética del poema en su totalidad que confuta los modelos heroicos tradicionales de una era condenada a 
+desaparecer y más acorde a este nuevo e inexorable proceso histórico.
+Estos elementos discursivos muy relevantes, como la imbricación discursiva entre César y Pompeyo a través
+de la frase Roma, fave coeptis (I. 200 & 8. 322) o la subversión del concepto de virtus en la conﬁguración
+de César y Catón (I. 145 & 2. 287), por ejemplo, ofrecen los elementos de yuxtaposición estructural en la
+representación de los generales, que se ven reforzadas por las distintas interrelaciones diegéticas que hemos
+destacado a lo largo de nuestra argumentación. De este modo, Pompeyo opera como el puente y el claroscuro
+en relación a los otros generales: los modos de enfrentar los acontecimientos de César y Catón revelan las
+deﬁciencias del personaje de Pompeyo y reaﬁrman las aﬁnidades internas de estos dos personajes en apariencia
+antagónicos. Por otro lado, mientras César, con su demoníaca energía y audacia, moldea el curso de los
+acontecimientos prácticamente sólo con su voluntad, por otro, Catón despliega una intransigencia ética
+monstruosa en su inhumanidad que lo arrastra hasta los conﬁnes del mundo. Pompeyo resulta ser la antítesis
+de estos dos personajes desmesurados y suprahumanos: Lucano elije representarlo en su faceta más humana,
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+13
+un victus navita arrastrado por la fuerza de la historia y llevado como un peso muerto en la nave de un estado a
+punto de naufragar. Cada general representa un aspecto inadecuado de Roma: Catón es el avatar de un pasado
+quizás utópico, es el esposo de una República yerma y muerta cuyos ideales has sido desintegrados y vaciados
+de contenidos; Pompeyo es el amante de la Roma decadente y acomodada del siglo I a.C., venerable y cargada
+con viejos triunfos y glorias pero cuyas raíces ya no hacen pie en la historia; César es el futuro monstruoso
+y demoníaco que resultará en la Roma de Nerón y cuyo avance inexorable expulsará del orbe la libertas y la
+virtus y aplastará la decadente e incapaz de defenderse República de Pompeyo y sus senadores.
+En deﬁnitiva, sólo a partir de una operación de lectura que confronte y complemente las estructuras
+discursivas y los desarrollos diegéticos de la representación particular y especíﬁca de cada uno de los generales
+puede lograrse un principio de identidad monstruosa y tripartita que logra balancear los excesos y las falencias
+de los personajes que por sí solos, y por diseño poético del autor, no logran de otro modo un desarrollo ﬁrme
+y estable.
+Notas
+1 Narducci, E., La Provvidenza Crudele. Lucano e la distruzione dei miti augustei, Giardini, 1979, 20 y ss.; Narducci,
+E., “Deconstructing Lucan. Ovvero le nozze (coi ﬁchi secchi) di Ermete Trimegisto e di Filologia”, en Esposito, P. &
+Nicastri, L. (Eds.), Interpretare Lucano. Miscellanea di Studi, Università degli Studi di Salerno, 1999, 38 y ss.; Masters
+J., Poetry and Civil War in Lucan's Bellum Civile, Cambridge University Press, 1992, 2-4; Bartsch Sh., Ideology in Cold
+Blood. A Reading of Lucan’s Civil War, Harvard University Press, 1997, 3-9 & 66; Bartsch, Sh., “Lucan” en: Foley,
+J. (ed.), A Companion to Ancient Epic, Malden, Blackwell, 2005, 495; Johnson W. R., Momentary Monsters. Lucan
+and his Heroes, Cornell University Press, 1987, 1-5 & 14 y ss., cf especialmente x: “e Pharsalia is, in Santayana’s
+words, omnimodal: it has no privileged center except for the energetic, bitter, and witty skepticism that devotes itself to
+demolishing the structures it erects as fast as it erects them."
+2 Getty, R., M. Annaei Lucani De Bello Civili. Liber I, Arno Press, 2001, xxv-xxvi; Conte, G., La ‘Guerra Civile’ di Lucano.
+Studi e prove de commento, Quattroventi, 1988,13-14 & 20-23.
+3 Narducci, E., Lucano. Un’epica contro l’impero, 18-22; Conte, G., La ‘Guerra Civile’ di Lucano, 11 -12 & 16-19. Respecto
+de la antigua polémica sobre la autoría senequiana de las líneas iniciales del poema, ya desestimada, cf. Fantham, E.,
+Lucan, De Bello Civili. Book II, Cambridge University Press, 1992, 7-9 (esp. nota 22).
+4 Todas las traducciones son nuestras.
+5 Galán, L., Virgilio/ Eneida. Una Introducción Crítica, Santiago Arcos ed., 2005, 21-23.
+6 Lapidge M., “Lucan’s Imagery of Cosmic Dissolution”, Hermes, 107, 1979, 360 y ss.; Sklenář R., e Taste for
+Nothingness, e University of Michigan Press, 2003, 1-3.
+7 Henderson, J., “Lucan/ e Word at War” en: Ramus, Vol. 15, N° 1, 1986, passim.
+8 Marti, B., “e Meaning of the Pharsalia”, e American Journal of Philology, Vol. 66, Nº 4, 1945, 352-354; Nutting,
+H., “e Hero of the Pharsalia”, The American Journal of Philology, Vol. 53, Nº 1, 1932, 41.
+9 Ahl, F., Lucan. An Introduction, Cornell University Press, 1976, 88-99; Sklenář R., e Taste for Nothingness, 34 y ss.
+10 Masters, J., Poetry and Civil War, 208-210; Ahl, F., Lucan. An Introduction, 116 y ss.
+11 Ahl, F., Lucan. An Introduction, 150.
+12 Johnson W. R., Momentary Monsters, 19 y ss.; Fantham, E. Fantham, E., Lucan, De Bello Civili. Book II, 9-10.
+13 Para un panorama abarcativo de las distintas posturas de principios del siglo XX sobre esta cuestión cf. Getty, R., M.
+Annaei LucaniDe Bello Civili. Liber I, xxiv-xxix; Marti, B., “e Meaning of the Pharsalia”, 352-353.
+14 Nutting, H., “e Hero of the Pharsalia”, 43; Marti, B., “e Meaning of the Pharsalia”, 352 y ss. Contra cf. Seo, M.
+“Lucan’s Cato and the Poetics of Exemplarity”, en Asso, P. (ed.), Brill’s Companion to Lucan, Brill, 2011, 199.
+15 Narducci, E., Lucano. Un’epica contro l’impero, Laterza, 2002, 370-374; Sklenář R., e Taste for Nothingness, 82-84.
+16 Johnson W. R., Momentary Monsters, 7-9; Fantham, E. Fantham, E., Lucan, De Bello Civili. Book II, 11; Ahl, F., Lucan.
+An Introduction, 231-232; Shoaf, R., “’Certius exemplar sapientis viri’: Rhetorical subversion and subversive Rhetoric
+in Pharsalia 9”, Philological Quarterly, Nº 57, 1978, 151-152; Sklenář R., e Taste for Nothingness, 8-13; Leigh M.,
+“Neronian Literature: Seneca and Lucan” en: Griﬃn, M. (ed.), A Companion to Julius Caesar, Cambridge University
+Press, 2009, 246: “[…] indeed perhaps the greatest proof of the absence or the indiﬀerence of the gods is precisely the
+fact of Caesar’s victory (see esp. Luc. VII, 445-59).”
+17 Quintiliano, aun a pesar de los reproches que le hace a nuestro autor, no podía dejar de reconocerlo como ardens et
+concitatus et sententiis clarissimus (QUINT. Inst. X, 1, 90); cf. También Heitland, W., M. Annaeus Lucano. Pharsalia,
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+14
+Edited with English Notes by C. E. Haskins, Georg Olms Verlag, 1971, lxv-lxvii & Morford, M., e Poet Lucan. Studies
+in Rhetorical Epic, Bloomsbury, 2003, xi.
+18 Johnson W. R., Momentary Monsters, 103; Nutting, H., “e Hero of the Pharsalia”, 46; Chen, H., “Caesar Perpetuus?
+Cyclical Behaviour in Lucan’s Caesar Similes”, Arethusa, N° 47, 2014, 342-343.
+19 Otras referencias a César que podrían aplicarse sin inconvenientes al temperamento poético de Lucano se encuentran
+en Luc. II, 446: concessa pudet ire uia & II, 557 : nil actum credens cum quid superesset agendum. Sklenář R., e Taste for
+Nothingness, 101-102; Johnson W. R., Momentary Monsters, 118-123.
+20 Edwards, P. (Ed.), e Encyclopedia of Philosophy. 8, Collier-MacMillan, 1967, 19 y ss.; Sansoni G., Enciclopedia
+Filosoﬁca. IV, G. C. Sansoni editore, 1967, 186 y ss.; Ferrater Mora, J., Diccionario de Filosofía. Tomo II, Ariel Filosóﬁca,
+1994, 1119 y ss.
+21 Sklenář, R. “Nihilistic cosmology and Catonian ethics in Lucan’s Bellum Civile”, American Journal of Philology, N° 120,
+1999, 281-296 Sklenář R., e Taste for Nothingness, 2 y ss., 34-36, 43 y ss. & 101 y ss.; Lapidge, M., “Lucan’s Imagery
+of Cosmic Dissolution”, 281-296 & 334-370.
+22 Analizamos este episodio ina.
+23 Es interesante destacar la ambigüedad que no por anacrónica deja de ser operativa de adsum … Caesar, donde resuenan
+al mismo tiempo el nombre y el título imperial, cf. La Fico Guzzo M., “Replanteo de la épica en el exordio general del
+Cento Probae: Diálogo intertextual con Lucano, Virgilio y Juvenco”, Quaderni Urbinati di Cultura Classica, Vol. 3, 2012,
+132-133.
+24 Seo, M. “Lucan’s Cato and the Poetics of Exemplarity”, en Asso, P. (ed.), Brill’s Companion to Lucan, Brill, 20112,
+202-203.
+25 antham, E., Fantham, E., Lucan, De Bello Civili. Book II, 132; Narducci, E., Lucano. Un’epica contro l’impero, 384-387.
+26 El mero hecho de que los dioses sean adversarios del sabio es una contradicción irresoluble y paradójica para el estoicismo,
+pues, si bien pueden ponerlo a prueba, los resultados de estas pruebas nunca serán criminales o contrarios a la Naturaleza.
+Cf. Sen. Prov. 1. 5-6 & 2.1-3.1; Sklenář R., e Taste for Nothingness, 5-12. Sobre el personal tratamiento que hace
+Lucano de las ideas estoicas de su época cf. Narducci, E., Lucano. Un’epica contro l’impero, 43 y ss. & 163-164.
+27 Narducci, E., La Provvidenza Crudele, 70; Sklenář, R., “Nihilistic cosmology and Catonian ethics in Lucan’s Bellum
+Civile”, 288-289; Lapidge M., “Lucan’s Imagery of Cosmic Dissolution”, 360-366.
+28 Ahl, F., Lucan. An Introduction, 240; Narducci, E., Lucano. Un’epica contro l’impero, 378-388.
+29 Sklenář, R., “Nihilistic cosmology and Catonian ethics in Lucan’s Bellum Civile”, 290.
+30 Bartsch, Sh., “Lucan”, 497; Lapidge M., “Lucan’s Imagery of Cosmic Dissolution”, 370 & esp. 360-361: “e parallel
+between the destruction of the state and the cosmic dissolution is drawn explicitly by Lucan in the beginning of Book
+I. (I, 72-80). In this passage Lucan has consciously and carefully chosen terminology drawn from and informed by Stoic
+cosmological tradition. Consider conpages which dissolves at ekpýrosis. is word originally meant ‘putting together’ (con
++ pingo) and hence ‘structure’ or ‘framework’ (of a ship, for example). However, in the ﬁrst century A.D. the word was
+used by stoic poets to denote the structure of the universe: Manilius at one point states that the world is restrained or
+reinforced by aetheriis conpagibus (2, 803). Only in Stoic writers is the word conpages used in cosmological contexts;
+for them, apparently, the word carried connotations of the pneumatic or aetherial bonds which maintain the structure
+of the universe. e word presumably carries these connotations for Lucan as well.” Cf. también Sklenář, R., “Nihilistic
+cosmology and Catonian ethics in Lucan’s Bellum Civile”, 282-283.
+31 Sklenář R., e Taste for Nothingness, 72-80; Seo, M. “Lucan’s Cato and the Poetics of Exemplarity”, 202-203.
+32 Salustio recurre también a la imagen de una República yerma, incapaz de dar a luz más varones virtuosos, cuyos últimos
+exponentes fueron, precisamente, Catón y César en Sal. B. Cat. 53.5: “Sed postquam luxu atque desidia civitas corrupta
+est, rursus res publica magnitudine sua imperatorum atque magistratuum vitia sustentabat ac, sicuti eﬀeta parentum ,
+multis tempestatibus haud sane quisquam Romae virtute magnus fuit. 6 Sed memoria mea ingenti virtute, divorsis moribus
+fuere viri duo, M. Cato et C. Caesar.”
+33 Batinski E., “Cato and the Serpents”, Syllecta Classica, 3, 1991, 71-73.; Narducci, E., Lucano. Un’epica contro l’impero,
+416-418; Sklenář, R., e Taste for Nothingness, 85-87; Moretti, G., “Catone a Bavio. Via della Virtù, lotta coi mostri
+e viaggio ai conﬁni del mondo: il modello di Eracle nel IX del Bellum Civile””, en Esposito, P. & Nicastri, L. (Ed.),
+Interpretare Lucano. Miscellanea di Studi, Napoli, 1999, 247-249.
+34 Bartsch Sh., Ideology in Cold Blood, 66: “e collapse of the autonomous individual amid the wreck of linguistic systems
+and subject-object relations, the hopelessness of meaningful narrative in a meaningless world, the impossibility of
+representing the trauma of Romans killing Romans [...] All these are undeniable aspects of Lucan’s epic world, and for
+readers of our times I think they more than undeniable: they ring true with an evocation of particular horrors of the
+twentieth century.”
+35 Luc. 6, 311: nec sancto caruisset uita Catone.
+36 Batinski E., “Cato and the Serpents”, 73: “e paradoxical nature of the Civil War excludes Cato’s participation within
+this epic world. […] Cato bows he will not withdraw from the political scene until he embraces the dead Republic
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+15
+and follows libertas, which has now become a shadow (2. 297-303). […] Now that Pompey is dead so is the sham of
+Republicanism.” Cf. también Sklenář, R., “Nihilistic cosmology and Catonian ethics in Lucan’s Bellum Civile”, passim.
+37 Marti, B., “e Meaning of the Pharsalia”, 358.
+38 Chen, H., “Caesar Perpetuus? Cyclical Beheavior in Lucan’s Caesar Similes”, 344-346 & 348-349.
+39 Bartsch Sh., Ideology in Cold Blood, 10 y ss.; Salemme, C., “Ruina Mundi e funus nel II livro della Pharsalia”, en Esposito,
+P. & Nicastri, L. (Eds.), Interpretare Lucano. Miscellanea di Studi, 1999, 159-162.
+40 Rosenmeyer, ., Senecan Drama and Stoic Cosmology, University of California Press, 1989, 43.
+41 Johnson W. R., Momentary Monsters, x; Ahl 1976, 159-160.
+42 Ahl, F., Lucan. An Introduction, 150 y ss.
+43 Pyplacz, J., “Famae Petitor. Lucan’s Portrayal of Pompey”, Symbolae Philologorum Graecae et Latinae, Vol. XXIV, Nº
+2, 2014, 104.
+44 Ahl, F. Lucan. An Introduction, 157-158.
+45 El propio Cicerón se quejaba, en sus cartas a Ático, que Catón parecía vivir en la más en la República de Platón que en
+las letrinas de Rómulo, Cic. Att. 2.1.8: “nam Catonem nostrum non tu amas plus quam ego; sed tamen ille optimo animo
+utens et summa ﬁde nocet interdum rei publicae; dicit enim tamquam in Platonis politeiai, non tamquam in Romuli faece
+sententiam.“
+46 Pyplacz, J., “Famae Petitor”, 97; Ahl, F., Lucan. An Introduction, 157-158
+47 Ahl, F., Lucan. An Introduction, 157-159.
+48 Ahl, F., Lucan. An Introduction, 153 & 156 y ss.; Pyplacz, J., “Famae Petitor”, 99.
+49 Ahl, F., Lucan. An Introduction, 169-179; Marti, B., “e Meaning of the Pharsalia”, 367.
+50 Liapis V., “Oedipus Tyrannus”, en: Ormand, K (ed.), A Companion to Sophocles, Wiley-Blackwell, 2012, 91-93; Beer,
+J., “Oedipus Tyrannus” en: Markantonatos, A. (ed.), Brill’s Companion to Sophocles, Brill, 2012, 105—106 & 109-110.
+51 Segal, Ch., “Senecan Baroque: e Death of Hippolytus in Seneca, Ovid and Euripides”, TAPhA 114, 1984, 313 &
+320- 321; Tatarkiewicz, W., Historia de la estética I, Akal, 2000, 414; Wölﬄin H., Renacimiento y Barroco, Paidos ed.,
+1968, 31 & 47-49.
+52 Ahl, F., Lucan. An Introduction, 173 y ss.
+53 Ahl, F., Lucan. An Introduction, 156-157.
+54 Ahl, F., Lucan. An Introduction, 254-259; Sklenář R., e Taste for Nothingness, 85-87; Seo, M. “Lucan’s Cato and the
+Poetics of Exemplarity”, 203-204, 206 & 220-221.
+55 Ahl, F., Lucan. An Introduction, 160-162 & 296-297.
+56 La incapacidad, o falta de voluntad, de Pompeyo para enfrentar esta situación contrasta con la otra ﬁgura épica que se
+sabe una situación similar, pero que en ningún momento depone su ímpetu guerrero, la de Turno: ille caput quassans:
+'non me tua fervida terrent/ dicta, ferox; di me terrent et Iuppiter hostis. Verg. Aen. 12. 894-895.
+57 También Ericto es presentada como un posible alter ego del poeta y/o un aspecto constitutivo de la poética de Lucano
+en Masters, J., Poetry and Civil War, 205-207 & 212-213
+58 Bartsch Sh., Ideology in Cold Blood, 75-76 & 78-82; Nutting, H., “e Hero of the Pharsalia”, 48-49
+59 Scullard, H., From the Gracchi to Nero. A History of Rome om 133 b.c. to a.d. 68, Routledge, 1982, 121-122; Pyplacz,
+J., “Famae Petitor”, 108.
+60 Mebane, J., “Pompey’s Head and the Body Politic in Lucan’s De Bello Civili”, TAPA, N° 146, 2016, 204; Masters, J.,
+Poetry and Civil War, 235; Ahl, F. Lucan- An Introduction, 319.
+61 Scullard, H., From the Gracchi to Nero, 78-79 & 85 y ss. El propio Pompeyo, en Pharsalia, sueña, no sin cierta inocencia
+y candidez, estos pequeños “desvíos” del estado de derecho Romano: Luc. VII. 13 y ss. esp. 13-14: plaudente senatu/ sedit
+adhuc Romanus eques.
+62 Boak A., “e Extraordinary Commands from 80 to 48 B.C.: A Study in the Origins of the Principate”, e American
+Historical Review, Vol. 24, N° 1, 1918, passim, pero esp. 21-25; Frank, T. “e Background of the Lex Manilia”, Classical
+Philology, Vol. 9, N° 2, 1914, 191-193; Davidson A., “Cicero and the Lex Gabinia”, e Classical Review, Vol. 44, N° 6,
+1930, 224-225; Scullard, H., From the Gracchi to Nero, 95-104.
+63 Narducci, E., Lucano. Un’epica contro l’impero, 306 & 402-403.
+64 Morford, M., e Poet Lucan. Studies in Rhetorical Epic, 43-44.
+65 Bartsch Sh., Ideology in Cold Blood, 94-95.
+66 La Fico Guzzo M., “Replanteo de la épica en el exordio general del Cento Probae”, 142.
+67 Seo, M. “Lucan’s Cato and the Poetics of Exemplarity”, 216.; Marti, B., “e Meaning of the Pharsalia”, 367-373.
+68 Ahl, F., Lucan. An Introduction, 174. Cf. el apostrofe del narrador para con el general vencido en Luc. VII,726-727: nunc
+tibi uera ﬁdes quaesiti, Magne, fauoris/ contigit ac uctus: felix se nescit amari.
+69 Keaveney A., “Roman Treaties with Parthia circa 95- circa 64 B. C.”, e American Journal of Philology, Vol. 102, N
+° 2, 1981, 197-198.
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+16
+70 Frank, T. “e Background of the Lex Manilia”, 191-192; Keaveney A., “Roman Treaties with Parthia circa 95- circa
+64 B. C.”, 196-197.
+71 Cae. B. G. 6.
+72 Scullard 1982, 102. Es más, sabemos que, ante los avances de Craso, los Partos invocaron los prisca foedera de Pompeyo
+y Sila. Keaveney A., “Roman Treaties with Parthia circa 95- circa 64 B. C.”, 197-198.
+73 Plu. Pomp. 78-79.
+74 Pyplacz, J., “Famae Petitor”, 110-111.
+75 Una visión diferente de este pasaje, donde se asimila la dignidad de Pompeyo en su último instante con una catoniana
+voluntaria mors, puede hallarse en Seo, M. “Lucan’s Cato and the Poetics of Exemplarity”, 213-216.
+76 Johnson W. R., Momentary Monsters, 80-81.
+77 Mebane, J., “Pompey’s Head and the Body Politic in Lucan’s De Bello Civili”, 201-211.
+78 Johnson W. R., Momentary Monsters, 72.
+79 Johnson W. R., Momentary Monsters, 70-71.
+80 Cic. Som. III, 13 y ss.; Pyplacz, J., “Famae Petitor”, 114.
+81 Contra cf. Mebane, J., “Pompey’s Head and the Body Politic in Lucan’s De Bello Civili”, 211: “For the narrator, this
+startling scene of deiﬁcation represents the culmination of Pompey’s transformation into an exemplary ﬁgure.”
+Auster, no. 25, septiembre 2020, e063. ISSN 2346-8890
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica 
+PDF generado a partir de XML-JATS4R

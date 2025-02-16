@@ -1,0 +1,545 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+EL PRONOMBRE PERSONAL GUARANÍ Y EL
+TÉRMINO GRAMATICAL “RELATIVO” EN PABLO
+RESTIVO
+e Guarani personal pronoun and the grammatical term
+“relative” in Pablo Restivo
+Ruiz Castellanos, Antonio
+ Antonio Ruiz Castellanos *
+antonio.ruizcastellanos@uca.es
+Universidad de Cádiz, España
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 21, e2101, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 27/08/22
+Aprobación: 15/03/23
+URL: http://portal.amelica.org/ameli/journal/785/7854257002/
+DOI: https://doi.org//10.30972/clt.0216889
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: El término gramatical “relativo” usado por Restivo
+en su obra Arte de la Lengua Guaraní (1724), tanto para
+los pronombres propiamente relativos (según la terminología
+gramatical de hoy día), como para los pronombres personales,
+reﬂexivos, recíprocos, posesivos, deícticos, anafóricos y para las
+palabras triformes, resulta desconcertante. Para comprender esos
+usos, he estudiado el sentido de “relativo” (utilizado también por
+Anchieta, Aragona y Ruiz de Montoya, los mejores exponentes
+de la Gramática misionera del tupí-guaraní) a partir de la
+terminología gramatical del Renacimiento. Mi trabajo consiste
+en aclarar una por una las funciones que desempeñan los
+“relativos” en esta lengua.
+Palabras clave: Restivo, Arte, pronombres personales, “relativo”
+como correferente.
+Abstract: e grammatical term “relative” used by Restivo in his
+work Arte de la Lengua Guaraní (1724), for the properly relative
+pronouns (according to today’s grammatical terminology), as
+well as for personal, reﬂexive, reciprocal, possessive, deictic,
+anaphoric pronouns and for triform words, is disconcerting.
+To understand such uses, I have studied the meaning of
+“relative” (also used by Anchieta, Aragona and Ruiz de Montoya,
+the best exponents of the missionary Grammar of Tupi-
+Guarani) from the grammatical terminology of the Renaissance.
+is study describes each of the functions performed by the
+previously mentioned "relatives".
+Keywords: Restivo’s Arte, personal pronouns, “relative” as
+correferent.
+Notas de autor
+*
+Antonio Ruiz Castellanos es Doctor en Filología Clásica por la Universidad de Sevilla (US). Se desempeña como Profesor Titular en la Universidad
+de Cádiz (UCA), así como Profesor invitado en varias universidades europeas y americanas. Realizó una estancia pre-doctoral en la Universidad de
+Nápoles (UNINA), y posdoctorales en Sorbona IV (Universidad de París IV) y el Corpus Inscriptionum Latinarum (CIL) de Berlín (Akademie
+der Wissenschaen). Colaboró como coordinador general (junto con Mª Laura Salinas) del Primer y Segundo Congresos Internacionales sobre
+Lenguas y Culturas Indígenas (llevados a cabo los días 22/04/2021 y 16 a 19/06/2022). Publicó “Diego de Alvear, Relación sobre la Provincia de
+Misiones” (en Elianne Deckman, A açâo global da Companhia de Jesus, 2019, OIKOS, pp. 1310-1335) y “La epidemia en las lenguas indígenas” (en
+Susana María Ramírez Martín, La Expedición de Balmis, Madrid, 2022, pp. 120-125). Editó Carta-relación de las Misiones de guaraníes o tapes de la
+Provincia del Paraguay (Joseph Guinet, 2023, IIGHI-CONICET).
+Cuadernos de Literatura, 2023, núm. 21, e2101, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Ca na’aqtac maye ỹecteua’a ca shiỹaxahua nahua guaraní la’aqtaqa qataq dam naigui sona’aqtac relativo huaña ye Pablo
+Restivo (título en qom)
+Tolheyis toj titsepyena guaraní wet anahil toj lhamil ichemyenlhi wet ithatlhi ihi Pablo Restivo (título en wichí)
+Nama>gt; lalamaxaret leenaxat guaraní chaqaina quiyi ỹa>gt;ajnac anamaq gramatical “relativo” en Pablo Restivo
+(título en moqoit)
+Introducción
+Pablo Restivo nació en Mazzarino (Italia) en 1658, ingresó en la Compañía de Jesús en 1677 en Sicilia, donde
+estudió Filosofía y Teología; fue también profesor de Humanidades en Malta. Llegó a Buenos Aires el 6 de
+abril de 1691. Fue destinado como misionero a Candelaria (hoy en Misiones, Argentina), donde practicó la
+lengua guaraní; posteriormente fue destinado a Chiquitos. Fue rector del Colegio de Tarija durante los años
+1701-1705, se trasladó a Salta y de ahí a Asunción. Fue Superior General de Misiones; murió en Candelaria
+en 1740.
+Entre sus obras lingüísticas destacamos por orden cronológico las siguientes:
+- Arte de la lengua guarani por el P. Blas Pretovio de la Compañia de Jesus. En el Vruguay. Año de 1696.
+Manuscrito de la Universidad de Granada, 1696.1
+- Breve Noticia de la Lengua Guarani Sacada de el Arte y Escritos de los P. P. Antonio Ruiz de Montoya y
+Simon Bandini. Misiones del Paraguay, 1718.
+- Vocabulario de la lengua guarani/compuesto por el Padre Antonio Ruiz...; revisto, y augmentado por otro
+Religioso de la misma Compañia (Restivo). Santa María la Mayor, Paraguay, 1722 (edición impresa; un
+ejemplar en la Universidad de Granada, 589 páginas a doble columna).
+- Vocabulario Español-Indiano. University of Manchester (MS español 7). Sin fecha (idéntico texto que el
+anterior con correcciones añadidas y a una sola columna, 1216 páginas).
+- Vocabulario de la lengua guaraní compuesto por el P. Blas Pretovio de la Compañía de Jesús. Berlín,
+Biblioteca Regia, 1728 (252 páginas).
+- Lèxicon hispano-guaranicum. Vocabulario de la lengua guaranì. Inscriptum a R.P. jesuita Pablo Restivo
+(reimpreso por Christians Frederic Seybold). Stuttgart, 1893.
+- Compendio de los vocablos más usados de la lengua Española y Guaraní, sacado del Vocabulario del P. Blas
+Pretovio de la Compaía de Jesús, 1729.
+Para nuestro objetivo tendremos especialmente en cuenta el Arte de la lengua Guaraní, por el P. A. Ruiz
+de Montoya S.J. Con los Escolios, Anotaciones y Apéndices del P. Paulo Restivo, Santa María la Mayor, 1724.
+Seguimos la edición y transcripción de esta obra hecha por Silvio M. Liuzzi2 en 1996.
+Las gramáticas guaraníes de Alonso de Aragona (1585-1629) aproximadamente de 1620 y la de Antonio
+Ruiz de Montoya (1585-1652) del año 1640, que siguen las directrices de Anchieta (1595), constituyen las
+bases de la gramática de Restivo.3 Nosotros, al estudiar los pronombres personales y la noción de “relativo”,
+podemos contar con los antecedentes de Aragona, que ya contiene los mismos conceptos de pronombre
+primitivo, nombres triformes como relativos, y el concepto de “relativo” en el sentido de correferente; e
+incluso podemos remontarnos hasta Anchieta:
+Do pronom relativo & reciproco. (...) E reciproco: suus sua suum se sibi. De qui quae quod se dira abaixo porque ha o mesmo
+que os participios. (...) Do relativo Ç. Os nomes começados por, t. tem pôr relatiuo, ç. com zeura, & preposito o adiestiuo,
+ou genitiuo o mudâo em, r. (Anchieta, 1595, p. 12)
+Se plantean en el Artede Pablo Restivo ([1724] 1996), diversas cuestiones referidas a los pronombres de
+la Lengua Guaraní. Parece confuso y desconcertante el uso que nuestro autor hace del término “relativo”,
+Antonio Ruiz Castellanos. EL PRONOMBRE PERSONAL GUARANÍ Y EL TÉRMINO GRAMATICAL “RELATIVO”
+EN PABL...
+PDF generado a partir de XML-JATS4R
+cuando lo utiliza para los pronombres relativos que hacen de introductores de oraciones relativas, y a la
+vez lo usa con el signiﬁcado de correferencia, bien sea de los pronombres personales, de los deícticos, de los
+anafóricos y ﬁnalmente de las palabras triformes en la Lengua Guaraní. Si logramos aclararlo, no sólo se evitará
+una lectura superﬁcial llena de supuestos equívocos, sino más bien al contrario, se comprenderá la coherencia
+de su pensamiento gramatical.
+El concepto gramatical de “relativo” tiene un uso generalizado en la Gramática latina del Renacimiento,4 la
+única gramática o la predominante en Europa en esa época; y por eso será útil para comprender las categorías
+que las gramáticas misioneras aplican a las lenguas aborígenes. Se habla de la inﬂuencia del latín como
+lengua de referencia para los propios misioneros en su estudio de las lenguas amerindias, tal como dice Breva
+Claramonte (2008, p. 30):
+Los misioneros europeos tenían conocimientos del latín –por ser lengua de cultura, de la ciencia y de la iglesia– y algunos del
+griego; en esa época, el latín era la puerta de entrada al estudio de la gramática, de la retórica y de la lógica. Habían aprendido
+a hablar y a escribir latín a través de las múltiples gramáticas prácticas que circulaban por Europa.
+Pero no debe olvidarse tampoco que lo mismo vale para las gramáticas no misioneras, ya que las primeras
+gramáticas “nacionales” en Europa también tuvieron en la gramática latina el punto de partida y referencia.
+La primera de un idioma europeo fue la Gramática Castellana de A. Nebrija de 1492, que surgió tras el trabajo
+previo sobre la lengua latina y de sus diccionarios latino-castellano y castellano-latino. La segunda gramática
+europea fue la italiana de Giovani Francesco Fortunio de 1516 con el título Regole grammaticali della volgar
+lingua, que, como se ve, tiene como referencia otra gramática, la culta.5
+Las Introductiones Latinæ (1481) de Nebrija, con múltiples reediciones, las Introducciones latinas
+contrapuesto el romance al latín (hacia 1488) y los Diccionarios Latino-castellano y Castellano-latín (1485) de
+este autor, han servido de modelo para las gramáticas y vocabularios de los distintos idiomas americanos y
+asiáticos escritos por los misioneros españoles. Para las misiones portuguesas y especialmente las jesuíticas, se
+postula (Zimmermann, 1997, p. 80; y Zwartjes, 2002, p. 61) la inﬂuencia del jesuita Manuel Álvares (1526–
+1582) y de su obra De Institutione grammatica, cuya primera edición fue en 1572, y que también fue reeditada
+muchas veces ya que fue recomendada por la Ratio studiorum de los jesuitas. Pero la primera gramática tupí, la
+de Anchieta, Arte de grammatica da lingoa mais usada na costa do Brasil, aunque publicada en Lisboa en 1595,
+ya estaba acabada en 1560 en forma de manuscrito (Rodrigues, 1997, pp. 373 y 392), por lo que es anterior
+a la gramática de Álvares.6 En otra zona misional católica, el Canadá francés, se utilizaron los Rudimenta
+(1514) y los Commentarii grammatici (1538) de Johannes Despauterius (hacia 1460-1520).
+1. Términos equívocos
+1.1. Los pronombres personales
+Veamos en primer lugar la doctrina de Restivo respecto a los pronombres personales. En la Parte segunda
+de su Arte ([1724] 1996, p. 16) “Del Pronombre, Capítulo primero §.I. Declinación de los Pronombres”,
+se dice: “Los Pronombres primitivos son: che, ‘yo’; nde, ‘tú’; ore, ‘nosotros’ excluyendo la persona con quien
+habla; ñande, ‘nosotros’, incluyéndola; peẽ, ‘vosotros’, cuya declinación es cual sigue (…)”. En este mismo
+capítulo primero incluye también a ha´e (pronombre de 3ª persona) al que denomina “pronombre relativo”.
+Quizás la separación de ha´e respecto a las dos primeras personas al haberse impreso en la página siguiente,
+pueda inducir a alguien a pensar que Restivo considera pronombres personales y primitivos únicamente
+los de primera y segunda persona, los intervinientes en la conversación. No cabe pensar tal cosa. Ruiz de
+Montoya ([1640] 1876, p. 4-5), incluye en la lista de pronombres tanto los de primera y segunda como los
+de tercera: hic, iste, ille, is, ipse con sus correspondientes pronombres guaraníes, aunque ciertamente no habla
+Cuadernos de Literatura, 2023, núm. 21, e2101, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+de “primitivos”;7Anchieta (1595, pp. 11-13 habla de las dos primeras personas, pero también de Acê como
+“terceira pessoa”, y que de las tres se derivan los posesivos; y seguidamente dentro del mismo capítulo habla
+del “pronome relatiuo & reciproco”: el reﬂexivo, el anafórico y los nombres triformes.8
+Para el latín Nebrija denomina “primitivas” o “primogénitas” las personas de los pronombres personales,
+sin limitarse a las dos primeras personas. En la Gramática Castellana Nebrija dice:
+Las especies del pronombre son dos, como dijimos del nombre, primogénita & derivada. De la especie primogénita son seis:
+yo, tu, si, este, ese, el. De la especie derivada son cinco: mío, tuio, suio, nuestro, vuestro, etc. (…) Las personas del pronombre
+son tres, la primera q(ue) habla de si como ío, nos. La segunda a la cual habla la primera como tu, vos. La tercera de la cual
+habla la primera como el, ellos (…) Todos los otros nombres & pronombres son de la tercera persona.9 (Nebrija, 1492, libro
+III, cap. VIII, del pronombre, edición sin numeración)
+Igualmente Álvares (1572) para el latín, quien pone entre los primitivos, no sólo ego y tu sino también
+sui, hic, iste, ille, etc., mientras que como derivados pone a los posesivos. En efecto, en latín se transﬁeren
+características de las personas intervinientes y no intervinientes a otros pronombres: a los posesivos que
+se reﬁeren a la persona poseedora; a los demostrativos que se distinguen entre sí por la mayor o menor
+proximidad y alejamiento respecto a las personas intervinientes; a los identiﬁcativos, que mantienen la
+referencia e incluso los étimos de los pronombres personales.
+También para el guaraní se utilizan los pronombres personales de primera y segunda personas en función
+de posesivos, aunque para la tercera utilicen índices propios de los posesivos; los demostrativos se distinguen
+por la mayor o menor proximidad y alejamiento a los intervinientes; y los que se denominan ya desde Anchieta
+(1595, p. 12): “pronome relativo & reciproco”, tienen como función la referencia personal. Restivo ([1724]
+1996, p. 103) en el escolio incluye el identiﬁcativo:
+El recíproco en sí mismo de primera, segunda y tercera persona se hace con ae. a'e tekatui &c., ut: cheae aha, ‘yo mismo fui’,
+‘yo fui en persona’; cheae tekatui lo explica más, porque cheae también puede decir ‘yo solo’, como diré en el Tratado de las
+Partículas.
+¿Qué capacidad de referencia tienen los pronombres personales? Los pronombres de primera y segunda
+persona: ego (‘yo’) y tu (‘tú’) hacen referencia (en eso consiste su capacidad de ‘relación’) dentro de la oración a
+los intervinientes en la comunicación, al emisor y al receptor, que no tienen una referencia ﬁja, sino que puede
+ir cambiándose, de suerte que el ego (yo) de ahora puede ser un tu en una secuencia posterior de la interacción.
+Son como los deícticos, pero que no apuntan al espacio ni a una muestra, sino al contexto comunicativo;
+no cabe ambigüedad desde luego para el “yo”, pero tampoco para el “tú”, ni siquiera para el “nosotros” ni el
+“vosotros”, que se reconocen por el contexto. No siempre los pronombres sustituyen a un nombre; a veces los
+pronombres se usan donde ningún nombre cabe; en tibi gratias habeo: “te doy la gracias” (Monteil, 1979, p.
+217), tibi no está sustituyendo a ningún nombre, ya que tan sólo por el contexto, siempre variante, se conoce
+la referencia de tibi. Ego y tu (yo y tú) tienen un comportamiento lingüístico curioso en latín: ignoran el
+género, pero no ignoran el número, aunque su plural no tenga la signiﬁcación habitual de los plurales (e.d.,
+la reiteración de “yo” o de “tú”), sino otros valores: nos ‘nosotros’ es igual a (yo + tú), o bien a (yo + él).
+Vos es igual a (tú + tú) o (tú) o (tú + él). Con lo que de repente en el plural se ven asociadas personas que
+no intervienen en la comunicación, pero sí son aludidas mediante ‘vos(otros)’. Cosa que ocurre también en
+guaraní, que le da a ore (nosotros) el valor de exclusión de la(s) persona(s) con quien(es) se habla, y en cambio
+a ñande (nosotros) le da el valor de inclusión.10
+No se usan los pronombres personales de forma expresa como meros sujetos o tópicos ni en latín clásico
+ni en guaraní. Ego, tu: che, nde, sólo se usan cuando se los quiere subrayar, focalizar, enfatizar.11 Se supone
+que en las desinencias verbales (en latín) y en los preﬁjos verbales personales (en guaraní) se proporciona
+suﬁciente información sobre la persona. En cambio, cuando falta el verbo, es normal que se use en su defecto
+Antonio Ruiz Castellanos. EL PRONOMBRE PERSONAL GUARANÍ Y EL TÉRMINO GRAMATICAL “RELATIVO”
+EN PABL...
+PDF generado a partir de XML-JATS4R
+el pronombre personal sujeto: tu stultus!: ‘¡eres tonto!’: nde viru. Para el guaraní observa Restivo ([1724]
+1996, p. 34-35):
+El otro género es de absolutos o neutros conjugados por los pronombres che, nde, &c. Esta conjugación en todo rigor es de
+nombres que conjugados por pronombres se hacen verbos, los cuales incluyen regularmente el verbo ‘ser’ o ‘tener’, de esta
+suerte: kyse: ‘cuchillo’; che kyse: ‘es mi cuchillo y tengo cuchillo’ ; marãngatu: ‘bueno’; che marãngatu: ‘soy bueno’.
+2. El pronombre de tercera persona ha´e
+Sorprende que inmediatamente después de la descripción de la 1ª y 2ª personas, Restivo ([1724] 1996, p. 20)
+denomine al pronombre personal ha'e, “pronombre relativo”, y al acabar su tratamiento diga: “Del [relativo]
+qui, quae, quod (‘que, el cual, la cual, lo cual’) se hablará después, tratando de los participios”. ¿Cómo es
+que considera Restivo igualmente “relativos” al pronombre de tercera persona y al que introduce oraciones
+relativas? Indudablemente ha de entender el “pronombre relativo”, de forma diferente a como lo entendemos
+hoy día. El editor comenta ibidem: “Los pronombres latinos citados son efectivamente relativos. En cambio el
+título del párrafo (i.e. “pronombre relativo nom. Ha'e”) no corresponde a lo anunciado, puesto que se analiza
+la tercera persona ha'e”.
+En el escolio siguiente dice Restivo: “El pronombre relativo es ha'e, ut: ‘él lo dijo’, ha'e omombe'u; también
+puede decir ‘ese’” ([1724] 1996, p. 21). Y seguidamente trata de los verbos triformes. Lo mismo en Aragona
+([1620] 1979, §1, p. 11), quien da la deﬁnición de “relativo” como sigue: “Ha'e: ‘el’ (sc. él), como en romance
+se [dice ‘e]l, f[u]e el, lo dixo el, lo mando, es del, fue con el, vinose el’; estos romances se llaman relativos porque
+reﬁeren la persona de quе se tr[ata o ha]bla” (la puntuación y cursiva son mías). Esta deﬁnición del término
+“relativo” en Aragona es la que dan las gramáticas del Renacimiento, tanto latinas como griegas. Así en Nebrija
+(1495, p. CIIII), se deﬁne el “relativo” como la capacidad de correferencia que tiene el pronombre con un
+antecedente: De Relatiuis. Relatiuum est quod rem antecedentem refert (...) sunt relativa idcntitatis (...)[et]
+diuersitatis. Relativum est quod refert aliquod antecedens. Antecedens vero est quod refertur ab aliquo relativo
+(‘relativo es cuando se alude a algo precedente, y antecedente es lo referido por algún término relativo’). Y
+Linacre ([1555] 1998, liber I, p. 6, De pronomine): “los cinco pronombres (ego, tu, hic, iste, ille: ‘yo, tú, éste,
+ése’) junto con el compuesto (idem: ‘el mismo’), pasan a ser correferentes (i.e., relativos) en el caso de que algo
+que precedió en la frase, lo vuelvan a referir”; e igualmente Álvares (1572, p. 49).
+Y es que los gramáticos griegos consideraban que los pronombres son fóricos (anafóricos: anaphorikaí) o
+correferentes porque su contenido semántico no es lexemático sino correferencial con los nombres propios
+a los que sustituyen, o con la realidad maniﬁesta a la que se reﬁeren o remiten. No goza el pronombre ni de
+la plenitud semántica ni de las funciones sintácticas del nombre, ya que no pueden ser predicados (Monteil,
+1979, p. 217). Los pronombres está claro que no tienen el contenido semántico de los nombres, sino tan
+sólo la capacidad referencial (para identiﬁcar objetos o personas singulares, presentes o ausentes y aparecidos
+anteriormente), y eso es lo que signiﬁca “relativo” para los gramáticos del Renacimiento.12
+La tercera persona, que no se reﬁere a intervinientes del proceso comunicativo (por lo que bien se la puede
+considerar a veces como “no persona”, Benveniste, 1966, p. 227-236; Ruiz Castellanos, 2002, p. 24), no tiene
+en latín un pronombre especíﬁco (Monteil, 1979, p. 220),13 si no es para los casos oblicuos del reﬂexivo: se,
+sui, sibi, correferentes con un sujeto en tercera persona.14 Se dice que para suplir dicha falta se usa en latín el
+ille demostrativo. Esto mismo parece que pasa en guaraní, ya que la forma ha'e no procede de un pronombre
+personal sino de un demostrativo primitivo (Dietrich, 2009-2010, p. 336). Así es como la tercera persona
+es usada a la vez en función deíctica y anafórica o de correferencia. Y por esa razón Restivo denomina a ha'e
+“relativo”, es decir, como anafórico a pesar de tener un origen demostrativo y sin excluirlo de los pronombres
+personales.
+Cuadernos de Literatura, 2023, núm. 21, e2101, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+3. Los pronombres deícticos
+Es más, en Restivo ([1724] 1996, parte II, cap.II, §.II, p. 19. “De los otros Pronombres de tercera persona”
+se dice: “Ã, ava, akói, aipo, ko demostrativo, ku demostrativo ausente ‘eso, esos’, ut: ku kuarahy, ‘ese sol;
+ma, mava'e, pe’, etc.”. El editor comenta (nota 31): “Título de párrafo una vez más equívoco, puesto que la
+lista que sigue trata de los pronombres demostrativos o deícticos e interrogativos”. Y es que igual que ha'e
+es correferente (“relativo”), los demás demostrativos o deícticos también lo son, y se han de incluir entre los
+“relativos” o anafóricos como hace Restivo: “ko demostrativo, ku demostrativo ausente ‘eso, esos’, etc.”. Estos
+pronombres deícticos pueden usarse como anafóricos.
+Los pronombres “esto, eso, aquello”: ko, pe, aipo, etc., tienen una capacidad de referencia que en principio
+ejercen de la forma más elemental, la deíctica. Ya lo advierte Apolonio (1987, 2.11, p. 162-163): “Los
+deícticos, no es que se empleen en sustitución de nombres, sino donde no pueden usarse nombres”.15 Señalar
+es anterior a denominar o identiﬁcar. Aun así pueden liberarse los deícticos de las constricciones espaciales16
+y referirse a objetos ausentes: ko > ku. A la deixis de objetos tanto presentes como ausentes alude Restivo
+([1724] 1996, p. 21-22): “Ko, kova'e, ‘éste, ésta, esto, éstos’, &c., demostrándolo / Ku, ‘eso, esos’, ut: ku
+kuarahy, ‘ese sol’”.17 Así los deícticos son usados no sólo en una referencia ante oculos, sino también en
+ausencia e incluso aludiendo a algo anterior, lo que incrementa su capacidad de referencia, y es lo que los hace
+“relativos”. Tanto en latín como en guaraní, podemos observar la siguiente línea de abstracción:
+Lo que diferencia en capacidad de referencia a los (ana)fóricos frente a los deícticos es la mayor intensidad
+de estos, debida a la presencia física que tiene el objeto (al que se señala con el gesto o se muestra), frente a
+una presencia solamente mental (mera alusión a una cosa ya conocida o que va a ser presentada enseguida),
+propia de los (ana-) o (cata)fóricos.
+Aragona ([1620] 1979, §.1, p. 11), explicita la capacidad de referencia:
+‘Vinose el’: estos romances se llaman relativos porque reﬁeren la persona de quе se tr[ata o ha]bla”. Y también en §.1: “Aypo,
+Aypobaè, ‘esso’, quе reﬁere cosa de quе tratamos, y no vemos. Ut, ‘esso quiciera yo, esso digo yo, esso me par[ece a] mi, e[sso]
+me passa a mi’.
+Lo mismo ocurre en latín, hic, ille, aunque sean demostrativos, se usan también como anafóricos; que es
+lo que advierte el texto citado de Linacre:
+Quinque vero (ego, tu, hic, iste, ille) cum vno composito (idem) in relativa transeunt, quando scilicet aliquid quod in oratione
+praecessit, repetunt”: ‘los cinco pronombres (ego, tu, hic, iste, ille) junto con el compuesto (ídem), pasan a ser correferentes en
+el caso de que algo que precedió en la frase, lo vuelven a referir’. ([1555] 1998, p. 6)
+4. Los pronombres (ana)fóricos
+En conclusión: los pronombres demostrativos pueden hacer también la función de (ana)fóricos o
+correferentes. Dentro de los deícticos latinos podemos incluso contraponer la distinta capacidad de referencia
+del demostrativo ille a la de hic. Hic se reﬁere al elemento más cercano del texto; ille al más alejado. “Así se
+hace simplemente un trasvase de los criterios de cercanía y lejanía (respecto a las personas intervinientes)
+Antonio Ruiz Castellanos. EL PRONOMBRE PERSONAL GUARANÍ Y EL TÉRMINO GRAMATICAL “RELATIVO”
+EN PABL...
+PDF generado a partir de XML-JATS4R
+desde la realidad a los textos” (Codoñer, [1973] 2020, p. 83). Y de ahí la coincidencia que tiene ille con is,
+que es reconocidamente anafórico. La Cerda (1598, p. 158) aﬁrma: “hic, ille, iste, ipse, is, idem [...], se llaman
+‘relativos’, cuando se reﬁeren a cosa ya passada como Virgilius carmina composuit, idemque ea cecinit: ‘Virgilio
+compuso poemas y el mismo los recitó’”. Nótese el signiﬁcado de la palabra “relativo” como “correferente” o
+“(ana)fórico” y la inclusión de hic, ille, etc., entre los anafóricos.18
+Restivo observa que el pronombre guaraní de tercera persona hace la función de fórico: “El pronombre
+relativo es ha'e, ut: ‘él lo dijo’, ha'e omombe'u; también puede decir ‘ese’ ut: ha'eva'e Tupã voja marangatu
+Simeon ja rako, &c. (Nic.); ‘ese Santo llamado Simeón’, habiéndose primero hecho mención de él” ([1724]
+1996, p. 21). E incluso la función de identiﬁcativo: “ha´eva´e, 1. ha'eva'e kuña, ‘esa india’; pospuesto al
+nombre signiﬁca muchas veces ‘ese mismo’, ut: ava ha'eva'e, ‘ese mismo Indio’” (p. 23).
+Los generativistas (Chomsky, 1982; De Monte, 1983) distinguen tres tipos de referencia: la de los
+reﬂexivos (sí mismo), la de los pronominales (él) y la de las expresiones referenciales (por ejemplo, nombres
+propios: Juan). Los reﬂexivos están ligados (coindizados) por llevar la misma referencia que el antecedente,
+y estar gobernados por él, llevando su mismo género y número, dentro del componente (sintagma, cláusula
+u oración) del que forman parte ininterrumpidamente. Los nombres propios no pueden reiterarse, de lo
+contrario, adquirirían una interpretación disyuntiva /#/; y por la misma razón los pronombres anafóricos
+aparecen, si está bien establecido el tópico, sólo cuando hay que enfatizarlo, cuando se produce un paso nuevo
+en el texto y según Prisciano (1859, XVII, p. 141-143) sobre todo para evitar la interpretación disyuntiva
+del nombre reiterado.
+5. El pronombre relativo de las oraciones relativas
+El pronombre relativo (propiamente dicho; e.d., lo que hoy día entendemos por “relativo”) qui, quae, quod19
+en latín es un anafórico que se remite a su antecedente, con el que concuerda en género y número, pero que
+al mismo tiempo es capaz de romper la concordancia de caso, al iniciar una oración, en la que el pronombre
+relativo cumple una función sintáctica propia y posiblemente diferente de la de su antecedente.
+Trata Restivo de las oraciones de relativo o adjetivas guaraníes cuando habla del participio, al que considera
+un adjetivo equiparable a la oración de relativo. Dice:
+La partícula ‘que’ no es siempre nota de inﬁnito (sc. inﬁnitivo); muchas veces es de participio (…) Cuando se pospone al
+nombre explícito o implícito, es nota de participio, ut: ‘el muchacho que azoté, el que enseña, lo que yo busco’, &c., que en
+la lengua latina se pueden hacer por el relativo qui, quae, quod. ([1724] 1996, p. 79)
+Pero un participio guaraní como t-embi-mbo'e no hay que tomarlo como ‘el alumno al que o a quien yo
+enseño’, sino como un atributo: ‘ese alumno (es) mi enseñado’: che-r-emimbo'e.
+Respecto a los interrogativos, estos parecen usar en latín las mismas formas que el relativo, pero sus
+capacidades de referencia son inversas, por ser inquisitivas en vez de alusivas, i.e., le plantean al destinatario
+la identiﬁcación y una vez hallada la respuesta, se ve la correlación. Los interrogativos tratan de identiﬁcar
+objetos, personas singulares y también circunstancias de modo, lugar, tiempo, etc., siguiendo el proceso
+inverso de la anáfora. En guaraní las partículas interrogativas se asocian a adverbios y pronombres personales
+y demostrativos: “Pi de ordinario se suele juntar con los pronombre che, ko, kova'e, ãng y a la partícula po”;
+“Pako es pregunta de cosa pasada o tal cual vez de presente, ut: mba'e guyra pako oñe'ẽ ra'e: ‘¿qué pájaro fue
+aquel que cantó?’” (Restivo, [1724] 1996, p. 97).20
+Los pronombres indeﬁnidos no son fóricos sino que designan a base de los distintos cuantiﬁcadores:
+universales, particulares, singulares, positivos o negativos: Opavave: todos. Mayma yvypóra: todos los
+humanos; maymáva: todos. Ñavo: cada uno. Avave, avavete: nadie. Mba’eve: nada.
+Cuadernos de Literatura, 2023, núm. 21, e2101, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+6. Los triformes (t, h, r) como relativos a la persona
+Otro uso de la palabra “relativo” es el que describe una característica peculiar de las lenguas de la familia tupí-
+guaraní, que consiste en una triple forma de inicio de ciertos lexemas (nombres, adjetivos, verbos e incluso los
+adverbios) en T-, H-, R-, que alternan según sea la referencia que guardan respecto a otras palabras o preﬁjos.
+Pero de suerte que esa referencia se convierte en referencia personal: tape, hape, rape: ‘el camino’: T- marca la
+falta de relación personal o posesiva y es el tipo absoluto; R- y H- marcan la relación con las personas bien sean
+intervinientes (1ª y 2ª personas: che/nde rera: ‘mi/tu nombre’)21 o bien no intervinientes en la conversación
+(3ª persona): hera ha´e Susána: ‘su nombre es Susana’.
+Se da también esa alternancia (T-, R-, H-) en ciertos verbos siguiendo ‘una indexación de persona’ (person
+indexation): Toma (che/nde)-reka: ‘Tomás me/te busca’ (ejemplos tomados de Gimeno, 2012, p. 49). Como
+indica Estigarribia Fioravanti, 2020, p. 135: “Relational verbs change their preﬁx to H- or R- depending on
+the person preﬁx used before them”.
+Y esa alternancia se da no sólo para los nombres, adjetivos y verbos triformes, sino incluso en algunos
+adverbios; son ejemplos de Restivo ([1724] 1996, p. 154) los siguientes: “rupive, adverbio que signiﬁca
+‘juntamente’, cuyo relativo es hupive, ‘juntamente con él’; recíproco gupive, ‘juntamente consigo’ (…)”.
+A todo ello alude Aragona ([1620] 1979, §.1, p. 11): “Notese bien este Pronombre relativo el qual tiene
+dos [let]ras H, y Y, con las quales hablan siempre los Yndios antepuestas a nombres & verbos, y adverbios
+tambien”. Restivo lo trata con sus reglas y excepciones, y denomina a los triformes “relativos” y “recíprocos”:22
+“Explicación de los Relativos y Recíprocos §.I. En el §.III de la Primera Parte”, hablando de la composición
+de los nombres:
+Dijimos que el nombre que empezare por T- vel H- en composición, esto es cuando precede o se junta con algún nombre
+o pronombre, la mudan en R-, exceptuados algunos que se pusieron en el apendix de dicho Cap. [I]. Tratando ahora de
+los relativos y recíprocos se observe lo siguiente. Todo nombre o verbo que empezare por R- o de cualquiera manera en la
+composición tuviere R-, tiene por Relativo H-, y por Recíproco G-, la cual toma una U por el buen sonido si el nombre no
+lo tuviere. (Restivo, [1724] 1996, p. 154)
+Las inﬂuencias sobre Restivo se remontan, como ya hemos advertido, a Anchieta (1595, p. 13). Sigue en
+esto también Restivo el Arte de A. Ruiz de Montoya:
+Toda parte de oración, que començare por R- ò que reciba R- de qualquiera manera que sea, tiene por relativo H- y por
+reciproco G-, la qual por el buen sonido admite U, si el nombre no lo tiene. De ‘nombre’, téra; cheréra, ‘mi nombre’; héra,
+ejus; güera, suum nomen. (Ruiz de Montoya, [c.1640] 1876, p. 11-12)
+Se da otro tipo más de alternancia (H-, I-) que marca la “relación” con la tercera persona, usándose,
+tanto para tercera persona, como para los atributos cualitativos y para referirse al objeto de tercera persona
+antepuesto a los verbos transitivos: a-i-kuaa ‘lo sé (algo)’, a-i-mo’ã ‘lo pienso (algo determinado)’. (H-, I-)
+están en distribución complementaria sin una función diferenciada, aunque se usa H- para los nombres
+triformes e I- para todo lo demás.
+7. Otras referencias personales
+Los pronombres de 1ª y 2ª personas como objeto directo se anteponen inmediatamente al verbo, son átonos
+y suprimen la característica personal (a, re, etc.); en cambio la 3ª persona no se sitúa inmediata al verbo o
+se pospone a él: Toma o-heka Jose(pe): ‘Tomás busca a José’. Además, cuando la 1ª persona es sujeto y la 2ª
+objeto, ésta se transforma: nde > ro y peê > po; así, che ro/pohecha (‘te/os veo’), ore ro/pohecha (‘te/os vemos’).
+Existe una jerarquía de personas: la 1ª persona es más importante que la 2ª y ésta que la 3ª, y cuando el objeto
+Antonio Ruiz Castellanos. EL PRONOMBRE PERSONAL GUARANÍ Y EL TÉRMINO GRAMATICAL “RELATIVO”
+EN PABL...
+PDF generado a partir de XML-JATS4R
+directo es jerárquicamente más alto que el sujeto, el objeto se marca mediante el preﬁjo de persona no activa
+delante del verbo: che rendu porâpa peê?: ‘¿me oyen ustedes bien?’. O bien peêpa che rendu porâ?
+Por otro lado, los verbos chendales, que son adjetivos o nombres verbalizados: mitâ > che chemitâ: ‘yo soy
+un chaval’, utilizan como preﬁjos che, n(d)e y los demás pronombres personales. Che chejapu: ‘yo soy una
+mentira, soy un mentiroso’. Nótese que no utiliza la marca de persona verbal -a ni -ai, sino la repetición del
+pronombre personal nde ndejapu: ‘eres un mentiroso’. En cambio, la tercera persona de los verbos chendales
+utiliza los índices posesivos: i-mitâ: ‘está hecho un chaval’, ha´e ijapu: ‘él es un mentiroso’.
+Finalmente, en todos los demás verbos la persona está presente ya que van precedidos de un preﬁjo
+personal: a-, re-, o-, etc. en el modo indicativo; en el imperativo propio también van precedidos por el preﬁjo
+e-, te- para la 2ª persona; y en los imperativos impropios, permisivos o exhortativos, se distinguen la 1ª y 2ª
+de la 3ª persona: ta / te / to.
+En conclusión
+He pretendido realizar un trabajo de contraste entre los pronombres personales latinos y los guaraníes y el
+uso del concepto de “relativo” en los gramáticos latinos y los gramáticos misioneros de la lengua tupí-guaraní.
+Hay aspectos en que coinciden ambas lenguas: los pronombres personales son “primitivos” en cuanto que
+se ven reiteradas las diferencias entre personas intervinientes y no intervinientes en los demás pronombres
+(tanto en latín como en guaraní): posesivos, demostrativos, reﬂexivos, identiﬁcativos. Pero hay un momento
+en el que las lenguas tupí-guaraníes diﬁeren de la latina y de las lenguas romances, por una característica
+que les es propia y que se produce, no ya en los pronombres, sino en las categorías lexemáticas (nombres,
+adjetivos, verbos e incluso adverbios) que son triformes, y que comienzan por (T-, R-, H-) y (H-, I-). Estas
+palabras lexemáticas establecen una referencia personal y una contraposición entre personas intervinientes y
+no intervinientes en la conversación. Considero esta omnipresencia de la persona en cierto sentido un rasgo
+tipológico o al menos una característica muy marcada y propia de las lenguas tupí-guaraníes.23
+La noción gramatical de “relativo” como correferencia, propia de la terminología de las gramáticas
+renacentistas, tiene una gran aplicación en la gramática de Restivo y en la gramática misionera del tupí-
+guaraní; explica la capacidad de referencia de los pronombres personales, y desde ellos como “primitivos”, la
+de los pronombres posesivos, reﬂexivos, deícticos, (ana)fóricos, los pronombres que encabezan relativas, pero
+además y ﬁnalmente, la referencia a la persona se sigue dando en las palabras triformes: nombres, adjetivos,
+verbos y adverbios, determinantes/determinados, predicados nominales, etc.
+Referencias bibliográficas
+Álvares, Manuel. (1572). De Institutione grammatica libri tres. Lisboa, Ioannes Barrerius.
+Anchieta, Joseph de. (1595). Arte de grammatica da lingoa mais vsada na costa do Brasil. Biblioteca Brasiliana Guita
+e José Mindlin. https://bit.ly/441G44t
+Apolonio Díscolo. (1987). Sintaxis (Traducción de V. Bécares). Madrid, Gredos.
+Aragona, Alonso de. ([1620] 1979). Breve introducción para aprender la lengua guaraní por el P. Alonso de Aragona
+(Presentación, edición y notas por Bartomeu Melià). Revista de Lingüística Amerindia, 4. https://bit.ly/3JbThzg
+Benveniste, Émile. (1966). Structure des relations de personne dans le verbe. En Problèmes de linguistique générale (pp.
+227-236). París, Gallimard.
+Breva Claramonte, Manuel. (2008). El marco doctrinal de la tradición lingüística europea y los primeros misioneros
+de la Colonia. Bulletin hispanique, 110, 1, 25-59. https://bit.ly/3NcRcoc
+Chomsky, Noam. (1982). Some concepts and consequences of the theory of government and binding. Cambridge, e
+MIT Press.
+Cuadernos de Literatura, 2023, núm. 21, e2101, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Codoñer, Carmen. ([1973] 2020). Introducción al estudio de los demostrativos latinos. Revista Española de
+Lingüística, 3 (1), 81-93. https://bit.ly/43F3zjH
+De la Cerda, Juan. (1598). Aelii Antonii Nebrissensis. De institutione gramaticae libri quinque. Madrid. (Edición
+facsímil)
+De Monte, Violeta. (1983). Principios y representaciones en Sintaxis: la teoría de la rección y el ligamento. Verba, 10,
+5-42. https://bit.ly/3ppSfcv
+Dietrich, Wolf. (2009-2010) Sintaxis del guaraní chaqueño (chiriguano, tupí guaraní): la cláusula y las relaciones
+interclausales. Amerindia, n° 33/34, 333-363.
+Estigarribia Fioravanti, Bruno. (2020). A Grammar of the Paraguayan Guarani. Londres, University College London.
+Gimeno, María Cecilia. (2012). Sistemas de alineamiento en el guaraní de Corrientes (familia tupi guaraní, Argentina)
+[Tesis de maestría en lingüística]. Universidad de Sonora. https://bit.ly/3JkbURN
+Linacre, omas. ([1555] 1998). De emendata structura Laatini sermonis libri VI (Edición de María Luisa Harto
+Trujillo). Universidad de Extremadura. España.
+Melià, Bartomeu. (2011). La lengua guaraní de Montoya como espejo cultural. En Castelnau, Charlotte, et al. (eds.),
+Missions d´evangelisation et circulation des savoirs XVIe-XVIIIe siècles. Madrid, Casa de Velázquez. https://bit.
+ly/3XslAiZ
+Monteil, Pierre. (1979). Elements de phonétique et de morphologie du latin. París, Nathan.
+Nebrija, Antonio de. ([1481] 1981). Introductiones latinae. Salamanca. (Edición facsímil)
+Nebrija, Antonio de. (1492). Gramática de la lengua castellana. (Edición facsímil).
+Nebrija, Antonio de. (1495). Recognitio. Salamanca. (Edición facsímil)
+Prisciano. (1859). Institutionum grammaticarum libri XVIII. En Keil, Heinrich, Grammatici Latini vols. II y III.
+Leipzig, Teubner. https://bit.ly/3NyVJmo
+Restivo, Pablo. (1696). Arte de la lengua guarani por el P. Blas Pretovio de la Compañia de Jesus. En el Vruguay. Año
+de 1696. Manuscrito de la Universidad de Granada.
+Restivo, Pablo. (1718). Breve Noticia de la Lengua Guarani Sacada de el Arte y Escritos de los P. P. Antonio Ruiz de
+Montoya y Simon Bandini. Misiones del Paraguay, Ms. Tubinga.
+Restivo, Pablo. (1722). Vocabulario de la lengua guaraní compvesto por el Padre Antonio Ruiz S.J. revisto, y augmentado
+por el relígioso de la misma Compañía. Santa María la Mayor.
+Restivo, Pablo. (Sin fecha). Vocabulario Español-Indiano. Ms. Manchester, University of Manchester.
+Restivo, Pablo. ([1724] 1996). Arte de la lengua Guaraní, por el P. A. Ruiz de Montoya S.J. Con los Escolios, Anotaciones
+y Apéndices del P. Paulo Restivo. Santa María la Mayor 1724. (Presentación, transcripción y notas por Silvio M.
+Liuzzi). https://bit.ly/3p5cOLc
+Restivo, Pablo. (1728). Vocabulario de la lengua guaraní compuesto por el P. Blas Pretovio de la Compañía de Jesús.
+Berlín, Biblioteca Regia.
+Restivo, Pablo. (1729). Compendio de los vocablos más usados de la lengua Española y Guaraní, sacado del Vocabulario
+del P. Blas Pretovio de la Compaía de Jesús. Buenos Aires.
+Restivo, Pablo. (1893). Lèxicon hispano-guaranicum. Vocabulario de la lengua guaranì. Inscriptum a R.P. jesuita Pablo
+Restivo (Reimpreso por Christians Frederic Seybold). Stuttgard.
+Ringmacher, Manfred. (1989). Los modelos tipológicos y la descripción del Guaraní. Revista de Lingüística Amerindia,
+4, 43-80.
+Rodrigues, Aryon Dall’Igna. (1997). Descripción del tupinambá en el período colonial: el Arte de José de Anchieta. En
+Zimmermann, Klaus (ed.), La descripción de las lenguas amerindias en la época colonial (pp. 371–400). Frankfurt /
+Main-Madrid, Vervuert-Iberoamericana.
+Ruiz Castellanos, Antonio. (2002). Fernando Alonso de Herrera. Sobre la persona gramatical. Universidad de Cádiz.
+https://bit.ly/3NpdWl2
+Ruiz de Montoya, Antonio. 1640 [1876]. Lengua Guaraní o más bien Tupi. Viena-París, 1876
+Antonio Ruiz Castellanos. EL PRONOMBRE PERSONAL GUARANÍ Y EL TÉRMINO GRAMATICAL “RELATIVO”
+EN PABL...
+PDF generado a partir de XML-JATS4R
+Zimmermann, Klaus (ed.). (1997). La descripción de las lenguas amerindias en la época colonial. Frankfurt/Main-
+Madrid, Vervuert-Iberoamericana.
+Zwartjes, Otto. (2002). e Description of the Indigenous Languages of Portuguese America by the Jesuits during the
+Colonial Period and the Impact of the Latin Grammar of Manuel Álvares. Historiographia Linguistica, XXIX,
+1/2, 19-70.
+Notas
+1 He estudiado el pronombre con especial cuidado en este Arte de Pretovio, manuscrito de Granada de 1696, que en su
+parte II habla “Del pronombre” (p. 38-46) para ver si contenía alguna diferencia respecto al Arte de Restivo de 1724.
+En la p. 39 habla de los pronombres primitivos y del pronombre de tercera persona, “relativo”: ha´e, etc. Y dice que del
+relativo qui quae quod, hablará después, p. 41. Y en el cap. 2º habla “De los otros pronombres de 3ª persona” (pp. 43-45).
+Es el mismo texto que el del Arte de Restivo ([1724] 1996), palabra por palabra, ejemplo a ejemplo; quizás Restivo ensaya
+en este manuscrito la publicación posterior de su obra.
+2 Esta edición tiene entre otras la ventaja de su transcripción en una ortografía actual.
+3 Melià (2011, p. 243) aﬁrma: “El Arte de grammatica da lingoa mais vsada na costa do Brasil, compuesta por el padre
+Joseph de Anchieta y publicada en Coimbra en 1595, había llegado al Paraguay y de ella se servía, por ejemplo, el padre
+Francisco de San Martín, ya en 1610”.
+4 El empirismo es la característica distintiva de la Gramática renacentista frente a la medieval modista; fue el producto de
+L. Valla y sus Elegantiae Linguae Latinae, que tuvieron una gran inﬂuencia en Nebrija y Despoterie, los dos brazos de la
+gramática misionera: de la Península Ibérica y de Francia en Canadá. De las gramáticas renacentistas (que le dan toda la
+importancia al uso) han recibido las gramáticas misioneras su actitud empírica (un trabajo casi de campo: “Notese bien
+(…) las quales hablan siempre los Yndios”, dice Aragona, [1620] 1979, §1, p. 11; y Restivo, [1724] 1996, p. 1, apoya su
+trabajo en “indios muy capaces” como Nicolás Yapuguay, lo que les ha permitido captar el contraste entre los idiomas
+indígenas y el latín; aunque también es cierto que solamente se alcanzaría la plena diferenciación posteriormente, gracias
+al comparativismo del s. XIX y a la tipología lingüística actual. También en el Renacimiento ejerció una gran inﬂuencia
+la gramática griega de Apolonio Díscolo (del siglo II p.C., cuya editio princeps es de 1495, en Venecia).
+5 En 1530 John Palsgrave publicó en Inglaterra la primera gramática francesa: L´esclarcissement de la langue ancoyse. La
+primera gramática del alemán es la de Valentin Ickelsamer en 1534. Y la del portugués fue obra de Fernando de Oliveira
+en 1536.
+6 Además, los jesuitas utilizaron la gramática de Álvares (1572) hasta la edición en 1598 de la gramática de Juan Luis de
+la Cerda (1558-1643), comentador y adaptador de Nebrija.
+7 Sí lo hace Aragona ([c.1620] 1979, §1, p. 9): “Los Pronombres primi[tivos] de [pe]rsonas tienen [varias particu]las con
+las quales se declinan assi (…)”.
+8 El capítulo más largo de su Arte, el quinto, trata “De los pronombres” (en total 13 páginas), de los pronombres personales
+(p. 11-12), del “pronombre relativo” y del “pronombre recíproco” (p. 12-17).
+9 Dice siguiendo a Prisciano (1859, XVII, p. 198-199).
+10 Importante y original esta observación que viene ya de Anchieta (1595, p. 12): “Ore, yandê, sáo também adiectiuos,
+noster, a, um, diﬀerem nisto, assaber que Orê, exclue a segunda pessóa com que falamos da quelle acto de q se trata, vt orê
+oroçô: ‘nos ímos, & tu nâo’, orêmba´e: ‘nossas cousas & não tuas’, porem, yande, inclue a segunda pessoa vt yandè yacô:
+‘nos imos, & tu tambem’, yandeemba´e: ‘nossas cousas, & tuas também’”. Para el guaraní recoge la distinción A. Ruiz
+de Montoya (1876 [1640], p. 5), quien diferencia entre el “inclusivo” (ja ante raíces orales / ña ante raíces nasales) y el
+“exclusivo” (ore), que se va a aplicar también a los posesivos. Esta distinción se había hecho para el quechua por Domingo
+de Santo Tomás ya en 1560.
+11 La focalización en latín se refuerza también mediante vocativos, cambios del ordo rectus, antítesis, adverbios aseverativos:
+quidem, vero (...) y mediante adversativas: tu vero.
+12 No estamos hablando ahora de los pronombres que hoy llamamos “relativos”, ni de los interrogativos (erôtêmatikaí), ni
+de los indeﬁnidos (aóristoi).
+13 La 3ª persona, como no persona ya que no participa en el diálogo, tampoco en guaraní cuenta con un pronombre
+originario ancestral.
+14 Se trata de los reﬂexivos y recíprocos mutuos estudiados por Restivo ([1724] 1996, p. 103-106): los pronombres
+reﬂexivos (suus), ipse (enfático) e incluso los identiﬁcativos: idem: En el escolio aﬁrma: “El recíproco en sí mismo de
+primera, segunda y tercera persona se hace con ae. a'e tekatui &c., ut: cheae aha, ‘yo mismo fui’, ‘yo fui en persona’; cheae
+tekatui lo explica más, porque cheae también puede decir ‘yo solo’, como diré en el Tratado de las Partículas” (p. 103).
+Cuadernos de Literatura, 2023, núm. 21, e2101, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Para el tupí, Anchieta (1595, p. 12): “Do pronome relatiuo & reciproco &: Com zeura & j . sâo pronomes relatiuos em
+todos os casos & números, signiﬁcâo is ea id. O. he reciproco, suus, sua, suum, se, sibi”. El término “énfático” es usado
+por Restivo en otro sentido, en el de irónico; así cuando lo aplica a las interrogaciones ([1724] 1996, p. 173).
+15 Y por eso amplía la deﬁnición de pronombre para: “cuando el nombre no puede ser empleado, o bien cuando, dicho ya
+una vez, no puede volver a repetirse” (Apolonio, 1987, 2.11, p. 162-163).
+16 Aunque no a las personales: hic, referido a la primera persona; iste, a la segunda; ille, a la tercera.
+17 Pero de cualquier forma la deixis tiene como eje de referencia el que va del emisor al receptor: este se relaciona con la 1ª
+persona, ese con la 2ª, aquel con la 1ª y 2ª.
+18 Aunque se aﬁrma que Nebrija no ha establecido la diferencia entre los demostrativos (ille, hic) y los anafóricos (is, ipse,
+idem), me parece esa aﬁrmación de Zwartjes (2002, p. 39) gratuita, ya que basta con leer las Introductiones Latinae
+([1481] 1981, p. 2) o el apartado “prima declinatio pronominis” de la Recognitio (1495), para verlo.
+19 Las alusiones de Restivo y otros al “relativo qui quae quod” hay que entenderlas por tanto como un tipo de relativo y no
+como el concepto de “relativo”, más genérico.
+20 Habla también de un uso irónico, esperando una respuesta contraria a la oración interrogativa, que denomina “enfático”
+o “irónico”, construido a base de tamo pa´e, por ejemplo: “ma oútamo pa'e?, ‘¿pues había de venir?’, id est: ‘no
+vino’” (Restivo, [1724] 1996, p. 172). Se usan también “con las oraciones que incluyen el verbo substantivo “ser” o
+“tener”, e.g.: avaétamo pa'e: ¿quién otro había de ser?” (p. 173).
+21 Aunque se da también en la relación parte / todo: tupa retyma: ‘la pata de la mesa’ o la de determinante determinado:
+jasy renyhê:’luna llena’. Ejemplos tomados de Estigarribia Fioravanti (2020, p. 68).
+22 Por recíprocos a secas, no recíprocos mutuos, hay que entender los pronombres reﬂexivos (suus), identiﬁcativos (idem)
+y enfáticos (ipse). Los recíprocos mutuos son los que hoy día llamamos “recíprocos”
+23 Como señala Ringmacher: “La idea subyacente es que, para encontrar por lo menos una respuesta (y no necesariamente
+la respuesta) a la pregunta ¿qué tipo de lengua es ésta?, conviene basarse en la sintaxis. Y en ésta destaca como fenómeno
+fundamental el extraordinario desarrollo de la composición de elementos lexemáticos. Ésta, y la composición con
+elementos pronominales, caracterizan a una Sintaxis” (1989, sin paginación).

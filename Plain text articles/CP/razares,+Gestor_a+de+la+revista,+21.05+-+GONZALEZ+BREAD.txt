@@ -1,0 +1,459 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+SINCRETISMO REFLEXIVO, RECÍPROCO Y
+ANTICAUSATIVO EN MBAYÁ-EYIGUAYEGUI (FLIA.
+GUAYCURÚ)
+Reﬂexive, Reciprocal, and Anticausative Syncretism in Mbayá-
+Eyiguayegui (Guaycuruan family)
+González Breard, Juan Manuel
+ Juan Manuel González Breard *
+gbjm.74@gmail.com
+Universidad Nacional del Nordeste – IIGHI –
+CONICET, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 21, e2105, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 29/06/23
+Aprobación: 04/08/23
+URL: http://portal.amelica.org/ameli/journal/785/7854257003/
+DOI: https://doi.org/10.30972/clt.0216733
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: Este trabajo analiza un sincretismo presente
+en mbayá-eyiguayegui (ﬂia. guaycurú) entre construcciones
+reﬂexivas, recíprocas y anticausativas, derivadas a partir de la
+preﬁjación del morfema modiﬁcador de valencia din-, el cual fue
+documentado por el jesuita José Sánchez Labrador a mediados
+del siglo XVIII. El mbayá-eyiguayegui es considerada una lengua
+extinta y fue registrada por el padre Sánchez Labrador entre
+1760 y 1767, en la época colonial, en la Provincia Jesuítica del
+Paraguay. A su vez, tal variedad lingüística está emparentada
+con el kadiwéu, el cual se habla actualmente en el estado de
+Mato Grosso del Sur, en Brasil. El presente artículo aborda la
+documentación del jesuita Sánchez Labrador sobre el mbayá con
+el ﬁn de examinar los mecanismos de modiﬁcación de la valencia
+verbal identiﬁcados cuando se utiliza el preﬁjo din- con verbos
+transitivos. Además, se expone un proceso de verbalización que
+se observa cuando dicho preﬁjo ocurre con nombres.
+Palabras clave: transitividad, Sánchez Labrador, lingüística
+misionera, mbayá.
+Abstract: is paper analyses a reﬂexive, reciprocal, and
+anticausative syncretism in Mbayá-Eyiguayegui (Guaycuruan
+Family), encoded by the preﬁx din-. e Jesuit José Sánchez
+Labrador documented this language in the mid-18th century.
+Mbayá or Eyiguayegui is considered an extinct language, which
+was spoken in the Gran Chaco Region of South America and
+was registered by the priest Sánchez Labrador between 1760 and
+1767, in colonial times, in the Jesuit province of Paraguay. is
+analysis explores Sánchez Labrador’s documentation about the
+mbayá in order to examine the morphological strategy of valency
+alternation by the preﬁx din- on transitive verbs. In addition, this
+paper describes the use of this preﬁx to derive intransitive verbs
+from nouns.
+Keywords: 
+transitivity, 
+Sánchez 
+Labrador, 
+Missionary
+Linguistic, Mbayá.
+Cuadernos de Literatura, 2023, núm. 21, e2105, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Nam ỹotta’a’t lataxac da na’aqtac ndaxac en mbaya-eyiguayegui (título en qom)
+lhitatweuk toj nitiknejlhi,iwuye,tataylomak ihi mbayá-eyiguayeguí (tolhe guaycuru) (título en wichí)
+Napoonaxanaxa quena deenaxac na>loqojnerta> chaqai anticausativo en mbayá-eyiguayegui (ni>ic guaycurú) (título
+en moqoit)
+1. Introducción
+El jesuita José Sánchez Labrador (1917 [c.1767], p. 131-134) en su gramática del mbayá o eyiguayegui,
+explicita verbos “recíprocos ad se” y “recíprocos mutuos”. Dicho misionero asevera que estos surgen a partir
+de “verbos activos” (transitivos) a los que se les agrega la “partícula” dini- o din- entre las “nota de persona” y
+el verbo. En este trabajo, se analiza si esta derivación por medio del preﬁjo din- constituye una construcción
+anticausativa, además de ser posible de interpretarla como reﬂexiva o recíproca.
+La lengua mbayá fue registrada, entre 1760 y 1767, por el padre Sánchez Labrador, en la Misión Nuestra
+Señora de Belén, ubicada a orillas del río Ypané, hacia el norte de Asunción, en la provincia jesuítica
+del Paraguay (1604-1767). La variedad documentada por el misionero fue la hablada por miembros de la
+parcialidad apacachodegodegui ‘gente de la región de los ñandúes’ (Sánchez Labrador, 1910, p. 257), pero
+este religioso también estuvo en contacto con integrantes de otras parcialidades. Asimismo, el mbayá está
+emparentado directamente con la lengua kadiwéu, hablada actualmente en el estado brasileño de Mato
+Grosso del Sur; ambas, de acuerdo con Viegas Barros (2013a, p. 294; 2013b, p. 14-15), conforman la rama
+septentrional de la familia lingüística guaycurú.
+En primer lugar, en este abordaje de la documentación lingüística de Sánchez Labrador, se presentan
+algunas consideraciones sobre el corpus; en segundo lugar, se expondrán el marco teórico-metodológico
+junto con ejemplos de derivaciones anticausativas y sincretismo reﬂexivo, recíproco y anticausativo en otras
+lenguas del mundo. En tercer lugar, se desarrollará el análisis del corpus, donde se demuestra que ocurre
+un sincretismo entre construcciones reﬂexivas, recíprocas y anticausativas por medio de la preﬁjación del
+morfema modiﬁcador de valencia din-, el cual aparece también con nombres. Por último, se realizarán unas
+breves reﬂexiones ﬁnales sobre este sincretismo identiﬁcado en mbayá y se presentarán líneas de investigación
+a futuro.
+2. Corpus
+Este análisis aborda el “Arte de la Lengua Mbayá o Eyiguayegui” (c.1767), que aparece en el tomo III
+del Paraguay católico del jesuita Sánchez Labrador, editado en 1917 por Samuel Lafone Quevedo. En esta
+gramática misionera la mayoría de los verbos mbayá-eyiguayegui se presentan conjugados en primera persona
+del singular. A su vez, se consultó la sistematización de Branislava Susnik (1971) acerca de algunos verbos
+Notas de autor
+*
+Juan Manuel González Breard es Profesor de Lengua y Literatura y Licenciado en Letras por la Universidad Nacional del Nordeste (UNNE). Cursa
+el Doctorado en Letras en la misma institución. Su tesis doctoral trata acerca de la codiﬁcación del espacio en los registros jesuíticos del toba, abipón
+y mbayá (ﬂia. guaycurú) (Siglos XVI y XVIII). Es becario doctoral del Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas (CONICET)
+con lugar de trabajo en el Instituto de Investigaciones Geohistóricas (IIGHI) y es Auxiliar Docente de Primera Categoría de la cátedra Lingüística
+Textual, de la carrera de Licenciatura en Comunicación Social de la Facultad de Humanidades (UNNE). Fue becario de pregrado de la Secretaría
+General de Ciencia y Técnica (SGCyT) de la UNNE y pasante de investigación del IIGHI. Ha presentado ponencias sobre aspectos morfosintácticos
+en mbayá-eyiguayegui a partir del análisis de la documentación del jesuita José Sánchez Labrador y forma parte el grupo de investigación “Estudios
+lingüísticos, socio-culturales y etnohistóricos sobre pueblos del Gran Chaco sudamericano” (SGCyT-UNNE).
+Juan Manuel González Breard. SINCRETISMO REFLEXIVO, RECÍPROCO Y ANTICAUSATIVO EN MBAYÁ-
+EYIGUAYEGUI...
+PDF generado a partir de XML-JATS4R
+mbayá-eyiguayegui, realizada a partir del “arte verbal” y el vocabulario de Sánchez Labrador. Asimismo, se
+extrajeron ejemplos de la primera parte del vocabulario de la lengua mbayá-eyiguayegui (Sánchez Labrador,
+1971 [c.1767]), obra editada por la etnógrafa.
+3. Marco teórico-metodológico
+Las construcciones anticausativas morfológicas, según Haspelmath (1993, p. 91), son un tipo de alternancia
+de la transitividad que implica la aﬁjación de un morfema, la utilización de un auxiliar o la modiﬁcación
+de la raíz de un verbo causativo de base, para derivar un verbo incoativo o intransitivo. De acuerdo con
+Dixon y Aikhenvald (2000, p. 7-8), en una derivación anticausativa prototípica, el argumento más parecido
+al paciente semántico (O)1 de una cláusula transitiva de base, deviene en el único argumento (S) de la nueva
+cláusula intransitiva, y este debe dar cuenta de un cambio de condición o estado producido por una acción
+espontánea sin la intervención de un agente. Por su parte, Haspelmath (2016, p. 33-34, 36-37) propone una
+“escala de espontaneidad” en la que los verbos intransitivos cuyos signiﬁcados reﬁeren a procesos difíciles de
+interpretar sin la intervención de un agente, es decir, menos espontáneos, son explícitamente marcados como
+anticausativos.
+Por ejemplo, en ibibio, lengua nígerocongoleña (Nigeria), de acuerdo con Anyanwu (2013, p. 109-110),
+se observa un proceso morfofonológico de geminación de la última consonante del verbo causativo de base
+que da cuenta de una derivación anticausativa. En (1b) la última consonante del verbo -bôm ‘romper’ (1a)
+es geminada y, a su vez, esta geminación ocurre junto con la inserción de una vocal de tono alto cuyo valor
+armoniza con el de la vocal ﬁnal del verbo. Entonces, en (1b), a través de este proceso morfofonológico,
+el verbo se intransitiviza, reduce su valencia verbal: el argumento A, en (1a), étim ‘Etim’, el causante, es
+suprimido de la nueva escena, mientras que el argumento (P), èsiò ‘la olla’ (1a), es el único argumento (S) de
+la cláusula intransitiva derivada (1b).2
+El término anticausativización se reﬁere, entonces, a un proceso por el cual, en una relación del tipo
+“causativa-no causativa” establecida entre dos verbos, sólo el verbo intransitivo (no causativo) es marcado y
+donde el argumento (P) (generalmente inanimado) de la cláusula original –encabezada por el verbo causativo
+(transitivo)– ocurre como el único argumento (S) de la cláusula intransitiva derivada (Haspelmath, 1987,
+p. 2-3; Payne, 1997, p. 218; 2006, p. 249; Zúñiga y Kittilä, 2019, p. 41-42). En este sentido, de acuerdo con
+Haspelmath (2016, p. 34, 36-38), los verbos que no pueden pensarse sin la intervención de un agente tienden
+a requerir un marcador especial (anticausativo) para expresar un uso no causal, pues es poco probable que
+tales verbos ocurran espontáneamente.
+Este tipo de estrategia de derivación deﬁne una alternancia transitiva/intransitiva que puede ser
+caracterizada como directa o no directa (Haspelmath, 1993, p. 91-92; 1987, p. 4-5). La alternancia directa
+se especiﬁca en: causativa/incoativa, cuando la base transitiva es marcada y su contraparte intransitiva no;
+y, transitiva/anticausativa, cuando sólo es marcado el miembro intransitivo de la relación. La alternancia no
+directa, por otro lado, puede ser: equipolente, en la que ambas formas son derivadas de una misma raíz, por
+ejemplo, a través de aﬁjos; supletiva, en la cual se usan diferentes raíces verbales para expresar dicha oposición;
+o, lábil, cuando se utiliza un mismo verbo.
+Cuadernos de Literatura, 2023, núm. 21, e2105, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+En wólof, lengua senegambiana (Senegal, Gambia, Guinea, Guinea-Bisáu), Tamba (2009, p. 26-27),
+siguiendo a Haspelmath (1993), identiﬁca una alternancia directa:
+•
+causativa/incoativa (2), en donde la construcción transitiva es marcada por el suﬁjo causativo -al (2a).
+•
+transitiva/anticausativa (3), en donde la contraparte intransitiva es marcada por el morfema -u (3b).
+De igual modo, este autor también da cuenta de una alternancia no directa:
+•
+equipolente (4), en donde en la raíz verbal yëng se utilizan ambos morfemas para derivar tanto su
+forma transitiva: yëngal ‘sacudir/agitar’ (4a), cuanto intransitiva/anticausativa: yëngul ‘sacudirse/
+agitarse’ (4b).
+•
+lábil (5), en donde el verbo damm ‘romper/se’ expresa la oposición causativa/anticausativa, es decir,
+un mismo lexema se emplea para ambas formas (transitiva e intransitiva).
+Por otro lado, en la gramática del wólof elaborada por Church (1981), se puede observar una supleción
+fuerte entre los verbos dee ‘morir’ (6b) y rey ‘matar’ (6a).
+Juan Manuel González Breard. SINCRETISMO REFLEXIVO, RECÍPROCO Y ANTICAUSATIVO EN MBAYÁ-
+EYIGUAYEGUI...
+PDF generado a partir de XML-JATS4R
+A su vez, según Haspelmath (2016, p. 38), cuanto menor sea el sentido no causal de una relación “causal-
+no causal” establecida entre dos verbos, más largo y más analítico será el marcador anticausativo en la forma
+verbal. Por ejemplo, en griego, se puede emplear tanto una estrategia morfológica (7b) cuanto una perifrástica
+(7c) para expresar anticausación, e incluso se puede reforzar esta idea combinando ambas (7b).
+En alemán, en cambio, además de emplearse verbos lábiles tales como zerbrechen ‘quebrar/se’ o rollen
+‘rodar / hacer rodar’, se utiliza el pronombre reﬂexivo sich, para derivar verbos anticausativos (8b).
+Por su parte, Haspelmath (2023, p. 45; 1987, p. 24-25) advierte una conexión entre las construcciones
+reﬂexivas y anticausativas debido a que, en muchas lenguas del mundo, se emplea un mismo aﬁjo para derivar
+tanto verbos reﬂexivos cuanto incoativos o anticausativos. Asimismo, distingue en ruso una derivación
+anticausativa por medio del suﬁjo reﬂexivo -s’ ~ -sja. Como se observa en (9b) la noción de causa del verbo
+slomát’ ‘romper, quebrar’ en (9a) es eliminada por medio de la suﬁjación de este morfema:
+Cuadernos de Literatura, 2023, núm. 21, e2105, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Este suﬁjo verbal aparece también en cláusulas intransitivas encabezadas por nombres animados, dando
+cuenta de su función reﬂexiva. En (10b) Sónja ‘Sonia’ es el único argumento (S) de la cláusula intransitiva
+derivada, por tanto, al hacer referencia a una persona, la acción expresada es efectuada sobre sí misma. En
+(10c) se identiﬁca, por el contrario, una función anticausativa o medio-pasiva de este suﬁjo, en la que el
+argumento (S), posúda ‘los platos’, es un objeto inanimado por lo cual no puede llevar a cabo una acción sobre
+sí.
+De igual modo, el suﬁjo -s’ ~ -sja, se usa para expresar un sentido recíproco. Construcciones recíprocas
+pueden identiﬁcarse cuando este suﬁjo ocurre con ciertos verbos en plural (Knjazev, 2007, p. 674-682).
+En (11), los verbos ljubít’ ‘amar’ y šeptát’ ‘susurrar’ reﬁeren a un argumento animado –por lo general
+humano–, entonces, cuando el suﬁjo -s’ ocurre con estos verbos en plural, la cláusula intransitiva derivada
+se interpreta como recíproca, pues los participantes implicados son tanto agentes cuanto pacientes de los
+eventos codiﬁcados en ambos verbos.
+Bahrt (2021) también identiﬁca un sincretismo entre construcciones reﬂexivas, recíprocas y
+anticausativas.3 Por ejemplo, en yeri, lengua de Papúa Nueva Guinea, dicho autor (2021, p. 125-126) da
+cuenta de este sincretismo a través del preﬁjo intransitivizador d-. Como se observa en (12), los verbos
+derivados se pueden interpretar como reﬂexivos, recíprocos o anticausativos según la noción semántica
+expresada en el verbo transitivo de base.
+Tabla 1. Derivación intransitiva en yeri. Fuente: Wilson (2017) en Bahrt, 2021, p. 126.
+Juan Manuel González Breard. SINCRETISMO REFLEXIVO, RECÍPROCO Y ANTICAUSATIVO EN MBAYÁ-
+EYIGUAYEGUI...
+PDF generado a partir de XML-JATS4R
+Por su parte, Wilson (2017) es quien caracteriza al preﬁjo d- como intransitivizador. En este sentido,
+el ejemplo (15) es tratado por dicha autora como una construcción media; sin embargo, Bahrt (2021),
+la considera anticausativa puesto que la noción de causa del verbo awil ‘colgar (algo)’, es decir, el sentido
+semántico de “hacer que algo esté colgado o suspendido en el aire”, se suprime del verbo intransitivo derivado
+al preﬁjarse el morfema d-.
+Así como Barth (2021) identiﬁca un sincretismo reﬂexivo, recíproco y anticausativo en yeri, Nedjalkov
+(2007, p. 293-294) da cuenta del mismo sincretismo en el quechua de Imbabura, hablado en Ecuador. En
+(16) y (17) es posible observar cómo mediante el suﬁjo -ri se codiﬁcan estas nociones. En quechua chanca
+de Perú, en cambio, dicho suﬁjo únicamente se usa para derivar verbos incoativos o construcciones medias
+(Zariquiey y Córdova, 2008, p. 176).
+Por otro lado, según Payne (2006, p. 241-255; 1997, p. 196-209, 216-219), el fenómeno de la
+anticausativización siempre está relacionado con construcciones pasivas, antipasivas, medias, reﬂexivas y
+recíprocas, las cuales también son mecanismos u operaciones que reducen la valencia verbal. Autores como
+Bahrt (2021, p. 74-84, 124-134, 203-207), Zúñiga y Kittilä (2019, p. 237-241, 245), entre otros, observan
+translingüísticamente un sincretismo entre ellas.
+Por ejemplo, en tepehuano del sur, lengua uto-azteca (México), García Salido (2007) da cuenta de la
+ocurrencia del preﬁjo jum- junto a verbos transitivos, y de acuerdo con la semántica de los mismos, este
+preﬁjo puede derivar construcciones medias, reﬂexivas, recíprocas o anticausativas. Así, en verbos que indican
+movimiento no traslacional como en (18), la cláusula derivada al preﬁjarse jum-, es caracterizada como
+media. En cambio, en (19), el verbo mua ‘matar’ requiere de un agente semántico prototípico, entonces, al
+preﬁjarse jum-, explicita una correferencialidad entre agente y paciente de la acción, por tanto, se identiﬁca
+una construcción reﬂexiva. Por otra parte, en (20) los argumentos de la construcción recíproca (Pedro y Juan)
+Cuadernos de Literatura, 2023, núm. 21, e2105, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+son humanos, mientras que en (21) el único argumento de la cláusula intransitiva (S) es inanimado –no
+humano– (ki’ngod ‘puerta’), lo cual da cuenta de una construcción anticausativa.
+En amhárico, lengua afroasiática (Etiopía, Egipto, Eritrea, Israel), Amberber (2000) identiﬁca el preﬁjo
+t(ә)-, considerándolo como un mecanismo morfológico de reducción de la valencia verbal y, además de servir
+para expresar construcciones medias, reﬂexivas, recíprocas y anticausativas (22-25), se utiliza para codiﬁcar
+construcciones pasivas (26).
+En udmurto, lengua ﬁno-úgrica, el suﬁjo -śk, como observa Bahrt (2021), de la misma manera en que
+acontece en el ruso con el suﬁjo -s’ ~ -sja, funciona como un suﬁjo derivativo verbal y sirve para expresar
+construcciones reﬂexivas (27), recíprocas (28), anticausativas (29), pasivas (30), antipasivas (31) y medias
+(32).
+Juan Manuel González Breard. SINCRETISMO REFLEXIVO, RECÍPROCO Y ANTICAUSATIVO EN MBAYÁ-
+EYIGUAYEGUI...
+PDF generado a partir de XML-JATS4R
+Además, este tipo de morfemas pueden coocurrir con suﬁjos derivativos causativos. Por ejemplo, en
+dulong-rawang, lengua tibetano-birmana, transhimalayana, el suﬁjo reﬂexivo y de media 
+ (33-34), el cual
+puede derivar construcciones anticausativas (35), suele coocurrir con el preﬁjo causativo 
+, tal como se
+observa en (36), dando cuenta de una construcción causativa reﬂexiva o, en este caso, “autocausativa”.
+Cuadernos de Literatura, 2023, núm. 21, e2105, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+En chorote, lengua mataguaya del Gran Chaco sudamericano, el preﬁjo reﬂexivo y recíproco ni- (37a-b), el
+cual también puede derivar construcciones anticausativas4 (38), a veces coocurre con suﬁjos causativos (39)
+para expresar construcciones causativas reﬂexivas.
+4. Análisis de los datos en mbayá
+En este apartado se abordará en mbayá-eyiguayegui, en primer lugar, el sincretismo reﬂexivo-recíproco-
+anticausativo codiﬁcado a través del preﬁjo din- (4.1.), en segundo lugar, su coocurrencia con el suﬁjo
+causativo -geni (4.2.) y, por último, su empleo como verbalizador (4.3.).
+4.1. Sincretismo reﬂexivo-recíproco-anticausativo
+El jesuita Sánchez Labrador5 (1917 [c.1767], p. 131, 226-227) identiﬁca en mbayá la “partícula” dini- ~ din-,
+la cual puede entenderse como un morfema que al preﬁjarse a verbos transitivos los intransitiviza, reduce su
+valencia verbal. En (40), se observan en la primera columna verbos transitivos en primera persona del singular
+y, en la segunda, su contraparte intransitiva que es obtenida por medio de la preﬁjación del morfema din- en
+el segundo slot o tramo funcional.
+Juan Manuel González Breard. SINCRETISMO REFLEXIVO, RECÍPROCO Y ANTICAUSATIVO EN MBAYÁ-
+EYIGUAYEGUI...
+PDF generado a partir de XML-JATS4R
+Tabla 2. Derivación intransitiva en mbayá-eyiguayegui a través del preﬁjo din-.
+Esta derivación morfológica a través de la preﬁjación de din- constituye un mecanismo de reducción de la
+valencia de los verbos transitivos de base de tipo anticausativa y reﬂexiva: anticausativa, debido a que estos son
+verbos que codiﬁcan situaciones difíciles de concebir sin la intervención de un agente al suprimir su noción
+causal; y, reﬂexiva, pues al ocurrir el preﬁjo din- con estos verbos, se expresa una correferencialidad explícita,
+es decir, se da cuenta de que una misma entidad actúa sobre sí, habilitando una lectura reﬂexiva. Esta entidad,
+además, puede identiﬁcarse en el índice pronominal de primera persona y- ~ i- en el verbo derivado, el cual
+da cuenta de un argumento animado o humano.
+En los ejemplos (41b) y (42b) la noción semántica de causación directa, que se identiﬁca tanto en (41a)
+cuanto en (42a), se pierde en favor de una construcción que puede interpretarse, siguiendo a Haspelmath
+(2023, p. 20; 1987, p. 26-28), como reﬂexiva, pues el argumento (S), al cual se lo identiﬁca en estos verbos en el
+índice pronominal de primera persona singular y- tanto en (41b) cuanto en (42b), es un actor afectado por la
+acción que él mismo realiza y se requiere de un marcador especial para expresarla. En (41b) y (42b), se observa,
+entonces, una intransitivización de los verbos -idoni ‘calentar (algo)’ y -aladi ‘arrojar/dejar (algo)’ cuando
+ocurren con el morfema din-. A su vez, en (41c) debido a que se desconoce sobre la animacidad o el rasgo
+humano del argumento (S), el cual está elidido, pero al que se lo identiﬁca en el índice pronominal de tercera
+persona singular Ø-, bien podría dar cuenta también de una construcción anticausativa si el argumento (S)
+es inanimado, no humano.
+Cuadernos de Literatura, 2023, núm. 21, e2105, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+En (43b) ocurre una intransitivización del verbo -aladi ‘arrojar/dejar’, ocasionada por la preﬁjación de
+din-, y se expresa en el verbo derivado la noción de “estar ausente o ausentarse”. Asimismo, el único argumento
+(S) de la nueva cláusula intransitiva derivada está elidido, pero se lo puede identiﬁcar en el índice pronominal
+de segunda persona singular a- en el verbo, el cual hace referencia a un participante animado, humano.
+Por otra parte, el morfema din- ocurre también junto al verbo factitivo -oeni ‘hacer’ (44a). En (44b), el
+argumento (S), identiﬁcado en el índice pronominal de primera persona singular i-, reﬁere a un participante
+afectado tanto por la acción que él mismo realiza cuanto por la noción de causa, lo cual se expresa en una
+correferencialidad propia de construcciones reﬂexivas.
+Ahora bien, cuando en algunos verbos ocurre el preﬁjo din- junto con el índice pronominal de tercera
+persona plural o-, como se ejempliﬁca en (45-47b), estas construcciones pueden interpretarse como
+recíprocas. En los ejemplos (45-47a), el argumento (P) está elidido, pero no por ello estos verbos dejan de
+entenderse como semánticamente transitivos-causativos.
+Juan Manuel González Breard. SINCRETISMO REFLEXIVO, RECÍPROCO Y ANTICAUSATIVO EN MBAYÁ-
+EYIGUAYEGUI...
+PDF generado a partir de XML-JATS4R
+Sánchez Labrador (1917 [c.1767], p. 134) indica que la idea de reciprocidad puede reforzarse mediante el
+suﬁjo pluralizador -tiguayi ~ -tiguagi, como puede observarse en (48-49b). A veces, esta idea se intensiﬁca a
+través de la reduplicación del suﬁjo pluralizador (49b).
+Por otro lado, cuando el argumento (S) reﬁere explícitamente a un participante no humano, como se
+observa en (50b), en donde se expresa elà ‘ﬂor’, la derivación resultante, por medio de la preﬁjación del
+morfema din- (que ocurre con el verbo transitivo -igoya ‘abrir’), puede interpretarse como anticausativa.
+Cuadernos de Literatura, 2023, núm. 21, e2105, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+4.2. Preﬁjo din- más suﬁjo causativo -geni
+A su vez, el preﬁjo din- puede coocurrir con el suﬁjo causativo -geni. En (51c) se puede observar una
+construcción reﬂexiva o recíproca cuando el morfema din- es expresado junto con el verbo otagani ‘hablar’
+en primera persona plural y-...-aga, mientras que en (51d) se identiﬁca una coocurrencia entre el preﬁjo din-
+y el suﬁjo causativo -geni, en el mismo verbo, pero en tercera persona plural Ø-...-aga, lo cual indica una
+construcción recíproca causativa que no admite una lectura reﬂexiva.
+4.3. Preﬁjo din- como verbalizador
+El preﬁjo modiﬁcador de valencia din- también se utiliza para verbalizar nombres.6 Como puede apreciarse
+en (52), los nombres de la primera columna cuando ocurren junto al preﬁjo din-, en la segunda columna,
+son verbos intransitivos.
+Tabla 3. Verbalización en mbayá-eyiguayegui a través del preﬁjo din-.7
+Sánchez Labrador (1917 [c.1767], p. 134-135) da cuenta de esta verbalización denominativa en el
+apartado “Verbos neutros que se forman de los nombres” de su gramática del mbayá. El jesuita advierte
+Juan Manuel González Breard. SINCRETISMO REFLEXIVO, RECÍPROCO Y ANTICAUSATIVO EN MBAYÁ-
+EYIGUAYEGUI...
+PDF generado a partir de XML-JATS4R
+que al ocurrir din- con ciertos nombres esto “los hace” verbos: “neutros” (intransitivos), “recíprocos ad
+se” (reﬂexivos) o “recíprocos mutuos” (recíprocos) (1917 [c.1767], p. 134).
+En (53b) al preﬁjarse din- al nombre payodi ‘pimiento o cosa ácida’, se verbaliza, es decir, da cuenta de la
+noción de que algo “está o se vuelve ácido”, y el argumento (S) es codiﬁcado en la frase nominal plena nudagi
+‘chicha’. En (54b-c), en cambio, el argumento (S), está elidido como frase nominal plena, pero es posible
+identiﬁcarlo en los índices pronominales de tercera persona singular Ø- en (54b) y de tercera plural o-…-
+tiguayi en (54c).
+5. Reflexiones finales
+En los ejemplos en mbayá-eyiguayegui abordados en este análisis, cuando en verbos transitivos ocurre el
+preﬁjo din-, se observa un proceso de intransitivización, es decir, una reducción de su valencia verbal. Esta
+derivación morfológica puede interpretarse como reﬂexiva, recíproca o anticausativa.
+Los factores que posibilitan entenderla como un sincretismo reﬂexivo-recíproco-anticausativo son los
+siguientes:
+1.
+La noción semántica expresada en el verbo puede dar cuenta, cuando se preﬁja din-, de un verbo
+derivado que puede ser reﬂexivo o anticausativo.
+2.
+Si el argumento (S) de la nueva cláusula intransitiva derivada se reﬁere a un participante humano,
+esta puede comprenderse como una construcción reﬂexiva, mientras que, si se reﬁere a un
+participante no humano, entonces, constituye una construcción anticausativa.
+3.
+Si el argumento (S) se reﬁere a un solo participante humano, puede entenderse como una
+construcción reﬂexiva, en cambio, si se reﬁere a varios, es posible caracterizarla también como una
+construcción recíproca.
+Asimismo, se observó una verbalización de nombres por medio de la preﬁjación de este morfema
+modiﬁcador de valencia que también puede coocurrir junto con el suﬁjo causativo -geni. En futuros trabajos,
+se seguirá analizando el preﬁjo din- en mbayá en comparación con los registros jesuíticos de otras lenguas
+guaycurúes.
+Cuadernos de Literatura, 2023, núm. 21, e2105, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Referencias bibliográficas
+Amberber, Mengistu. (2000). Valency-changing and valency-encoding devices in Amharic. En Dixon, Robert
+y Aikhenvald, Alexandra (eds.), Changing valency. Case studies in transitivity (pp. 312-332). Cambridge,
+Cambridge University Press.
+Anyanwu, Ogbonna. (2013). Ibibio Causative and Anti-causative Verb Alternations. En Orie, Ola Orie y Sanders,
+Karen (eds.), Selected Proceedings of the 43rd Annual Conference on Aican Linguistics (pp. 106-114). Somerville,
+Cascadilla Proceedings Project (Cascadilla Press).
+Bahrt, Nicklas. (2021). Voice syncretism. Berlín, Language Science Press.
+Carol, Javier. (2011). Lengua chorote (mataguayo). Estudio descriptivo [Tesis doctoral]. Facultad de Filosofía y Letras
+de la Universidad de Buenos Aires.
+Cole, Peter. (1982). Imbabura Quechua. Ámsterdam, North-Holland.
+Comrie, Bernard. (1978). Ergativity. En Lehmann, Winfred (ed.), Syntactic Typology: Studies in the Phenomenology of
+Language (pp. 329-394). Austin, University of Texas Press.
+Church, Eric. (1981). Le système verbal du wolof. Dakar, Facultad de Letras y Ciencias Humanas de la Universidad
+de Dakar.
+Dixon, Robert y Aikhenvald, Alexandra. (2000). Introduction. En Changing valency. Case studies in transitivity (pp.
+1-29). Cambridge, Cambridge University Press.
+García Salido, Gabriela. (2007). La voz media en tepehuano del sur de Santa María de Ocotán. En Estrada Fernández,
+Zarina; Álvarez González, Albert; Guerrero, Lilián; y, Carpio, María Belén (eds.), Mecanismos de voz y formación
+de palabra (pp. 153-176). Hermosillo, Plaza & Valdés, Editorial de la Universidad de Sonora.
+Griﬃths, Glyn. (2002). Dicionário da língua Kadiwéu: Kadiwéu - Português, Português - Kadiwéu. Cuiabá, Sociedad
+Internacional de Lingüística.
+Gulyás, Nikolett y Speshilova, Yulia. (2014). Impersonals and passives in contemporary Udmurt. Finnisch-Ugrische
+Mitteilungen 38, 59-91.
+Haspelmath, Martin. (1987). Transitivity Alternations of the Anticausative Type. Colonia, Instituto para la Ciencia del
+Lenguaje de la Universidad de Colonia.
+Haspelmath, Martin. (1993). More on the typology of inchoative/causative verb alternations. En Comrie, Bernard
+y Polinsky, Maria (eds.), Causatives and transitivity (pp. 87-120). A#msterdam/Filadelﬁa, John Benjamins
+Publishing Company.
+Haspelmath, Martin. (2016). Universals of causative and anticausative verb formation and the spontaneity scale.
+Lingua Posnaniensis, 58(2), 33-63. https://doi.org/10.1515/linpo-2016-0009
+Haspelmath, Martin. (2023). Comparing reﬂexive constructions in the world’s languages. En Janic, Katarzyna; Puddu,
+Nicoletta y Haspelmath, Martin (eds.), Reﬂexive constructions in the world's languages (pp. 19-62). Berlín,
+Language Science Press.
+Jakobson, Roman. (1984). Russian and Slavic Grammar. Studies 1931-1981. Berlín, Mouton Publishers.
+Knjazev, Jurij. (2007). Reciprocal constructions in Russian. En Nedjalkov, Vladimir (ed.), Reciprocal Constructions II
+(pp. 673-707). A#msterdam/Filadelﬁa, John Benjamins Publishing Company.
+Kozmács, István. (2003). Az -sk- képző az udmurt (votják) igeképzés rendszerében [Tesis doctoral]. Universidad de
+Szeged.
+LaPolla, Randy y Jiangling, Yang. (2005). Reﬂexive and Middle Marking in Dulong-Rawang. Himalayan Linguistics,
+2, 1-13. http://bitly.ws/RyAG
+Nedjalkov, Vladimir. (2007). Polysemy of reciprocal markers. En Reciprocal Constructions I (pp. 231-333).
+A#msterdam/Filadelﬁa, John Benjamins Publishing Company.
+Payne, omas. (1997). Describing morphosyntax. A guide for ﬁeld linguists. Cambridge, Cambridge University Press.
+Payne, omas. (2006). Exploring language structure. A student’s guide. Cambridge, Cambridge University Press.
+Juan Manuel González Breard. SINCRETISMO REFLEXIVO, RECÍPROCO Y ANTICAUSATIVO EN MBAYÁ-
+EYIGUAYEGUI...
+PDF generado a partir de XML-JATS4R
+Sánchez Labrador, José. (1910 [c.1767]). El Paraguay católico I. Buenos Aires, Imprenta de Coni Hermanos.
+Sánchez Labrador, José. (1917 [c.1767]). El Paraguay católico III. Buenos Aires, Compañía Sudamericana de Billetes
+de Banco.
+Sánchez Labrador, José. (1971 [c.1767]). Vocabulario Eyiguayegi. Según el manuscrito del siglo XVIII. Parte 1ra:
+Letras: A-LL. En Susnik, Branislava (ed.), Familia Guaycurú, Lenguas Chaqueñas II (pp. 1-102). Asunción,
+Museo Etnográﬁco Andrés Barbero.
+Schäfer, Florian. (2008). e syntax of (anti-)causatives. External arguments in change of state contexts. Ámsterdam/
+Filadelﬁa, John Benjamins Publishing Company.
+Susnik, Branislava. (1971). Los principales verbos del vocabulario Eyiguayegi-Mbayá. Orden estructural. En Familia
+Guaycurú, Lenguas Chaqueñas II (pp. I-XXXIV). Asunción, Museo Etnográﬁco Andrés Barbero.
+Tamba, Khady. (2009). e morphosyntax of (anti)causatives in Wolof [Tesis de maestría]. Universidad de Kansas.
+Viegas Barros, Pedro. (2013a). La hipótesis de parentesco Guaicurú-Mataguayo: estado actual de la cuestión. Revista
+Brasileira de Linguística Antropológica, 5(2), 293-333. http://bitly.ws/RyCn
+Viegas Barros, Pedro. (2013b). Protoguaicurú. Una reconstrucción fonológica, léxica y morfológica. Múnich, Lincom
+Europa.
+Wilson, Jennifer. (2017). A Grammar of Yeri, a Torricelli language of Papua New Guinea [Tesis doctoral]. Universidad
+Estatal de Nueva York en Búfalo.
+Winkler, Eberhard. (2001). Udmurt. Múnich, Lincom Europa.
+Workneh, Desalegn. (2019). e voice system of Amharic [Tesis doctoral]. Universidad de Tromsø.
+Zariquiey, Roberto y Córdova, Gavina. (2008). Qayna, kunan, paqarin.Una introducción práctica al quechua chanca.
+San Miguel, Estudios Generales Letras - Pontiﬁcia Universidad Católica del Perú.
+Zúñiga, Fernando y Kittilä, Seppo. (2019). Grammatical Voice. Cambridge, Cambridge University Press.
+Notas
+1 En este trabajo se nombrará al argumento (O) –denominado así por Dixon y Aikhenvald (2000)– como (P) siguiendo
+a Comrie (1978, p. 337).
+2 Las abreviaturas utilizadas en este trabajo son: 1=primera persona; 2=segunda persona; 3=tercera
+persona; A=argumento más parecido al agente semántico de una cláusula transitiva; ACUS=acusativo;
+ADV=adverbio; ANI=animado; ANTICAUS=anticausativo; ANTIPASV=antipasivo; ART=artículo; ASP=aspecto;
+CL=clasiﬁcador; CONJ=conjunción; DEF=deﬁnido; DEM=demostrativo; DIR=direccional; DIST=distante;
+F=femenino; FREC=frecuentativo; IMPF=imperfectivo; INA=inanimado; IND=indicativo; INTENS=intensiﬁcador;
+INSTR=instrumental; ITER=iterativo; LOC=locativo; M=masculino; MED=marcador de construcciones medias;
+MEDPASV=mediopasivo; MOM=momentáneo; N=neutro; NOM=nominativo; P=argumento más parecido al
+paciente semántico de una cláusula transitiva; PASD=pasado; PASV=pasivo; PL=plural; PF=perfectivo; POS=posesivo;
+PROX=próximo; RECP=recíproco; REFL=reﬂexivo; S=argumento único de una cláusula intransitiva; SG=singular;
+TOP=topicalizador; VERB=verbalizador.
+3 Haspelmath (2023, p. 44-45) observa este sincretismo pero lo trata, en términos comparativos, como “patrones de
+coexpresión”, los cuales se dan, por ejemplo, cuando en una lengua se utiliza un mismo morfema para expresar diversos
+signiﬁcados o funciones que en otras lenguas se distinguen.
+4 Un único ejemplo de construcción anticausativa (38) es presentado por Carol (2011), quien analiza la variedad argentina
+iyojwa’(a)ja’ de chorote, denominada también “ribereña”.
+5 Se usa SL para referirse a este autor.
+6 En este artículo se opta por la denominación de “nombres” en lugar de “sustantivos”, pues estas expresiones registradas
+por el jesuita Sánchez Labrador son palabras (o formas de palabras) que ocurren como núcleos en frases nominales y
+hacen referencia a tipos de entidades (“nombres comunes”). Asimismo, es preciso observar que Sánchez Labrador (1917
+[c.1767]) adhirió a una distinción –propia del siglo XVIII– entre nombres sustantivos y nombres adjetivos; sin embargo,
+las palabras que este religioso documentó y agrupó como tales, muchas veces, aparecen como núcleos de sintagmas
+nominales en su registro; por tal motivo, es decir, por su función sintáctica, se mantiene, en este trabajo, la noción de
+nombres.
+Cuadernos de Literatura, 2023, núm. 21, e2105, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+7 Notas de Tabla 3
+i
+Griﬃths (2002, p. 29) registra beyagi ‘mal, ruin’ y el verbo intransitivo -beyage ‘estar mal’ en kadiwéu.
+ii Griﬃths (2002, p. 128) registra neladi ‘cosa podrida’ y neladaga ‘pudrición’ en kadiwéu.
+iii Griﬃths (2002, p. 29) registra bayodi ‘pimiento, pimienta o cosa amarga’ en kadiwéu
+iv Griﬃths (2002, p. 48) registra enoale ‘noche’ en kadiwéu.
+v
+Griﬃths (2002, p. 162) registra oxiigodi ‘viejo’ en kadiwéu.

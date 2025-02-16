@@ -1,0 +1,824 @@
+75
+Esta obra está bajo una Licencia Creative Commons Atribución - No Comercial -
+Sin Obra Derivada 4.0 Internacional. http://creativecommons.org/licenses/by-nc-nd/4.0/
+Saracino, Pablo Enrique. “Apuntes para una lectura ideológica de la cronística me­
+dieval: el caso de la Crónica de tres reyes”. Anclajes, vol. XXI, n° 1, enero-abril 2017, 
+pp. 75-93
+DOI: 10.19137/anclajes-2017-2115
+Apuntes para una 
+lectura ideológica de 
+la cronística medieval: 
+el caso de la Crónica de 
+tres reyes
+Remarks for an ideological reading of the medieval 
+historiagraphy: the case of the Crónica de tres reyes
+Pablo Enrique Saracino
+Universidad de Buenos Aires
+Consejo Nacional de Investigaciones Científicas y Técnicas
+pablosaracino@hotmail.com
+Resumen: En el marco teórico en el cual se define el discurso historiográfico como 
+una construcción narrativa y, por consiguiente, ideológica, se aborda el problema de la 
+redacción de la Crónica de tres reyes (texto castellano de mediados del siglo XIV atribui­
+do a Sánchez de Valladolid) desde una perspectiva que busca indagar en los presupues­
+tos ideológicos que habrían influido en el diseño de un discurso diferenciado de sus an­
+tecedentes cronísticos regios y nobiliarios. Al mismo tiempo, se trabaja la problemática 
+de las glosas marginales presentes en la tradición manuscrita en tanto inscripciones de 
+una tensión respecto de la voz narradora autorizada del texto cronístico. 
+Palabras clave: Fernán Sánchez de Valladolid; historia medieval; ideología; siglo 
+XIV 
+Abstract: In the theoretical framework in which historiographical discourse is de­
+fined as a narrative construct and therefore, essentially ideological, the problem of writ­
+ing the Crónica de tres reyes (a mid-14th century Castilian text attributed to Sánchez 
+de Valladolid) is approached from a perspective that seeks to investigate ideological 
+suppositions that may have influenced the design of a discourse different from that of 
+previous royal and noble chronicles. Likewise, the issue concerning the marginal notes 
+present in the handwritten tradition is approached as inscriptions of tension with regard 
+to the authoritative narrative voice of the chronicler’s text.
+Keywords: Fernán Sánchez de 
+Valladolid; medieval history; ideology; 14th century
+76
+Pablo Enrique Saracino | 
+ XXI.1 (enero-abril 2017) ISSN 1851-4669
+las reglas de lectura son reglas de gobierno
+(Eco 77)
+Ideología, historia y narración
+L
+a historiografía medieval española, tanto en lengua romance 
+como en latín, ha sido abordada desde puntos de vista notable­
+mente heterogéneos debido a los diversos presupuestos teóricos 
+que han influido en la constitución de diferentes objetos de estudio en torno 
+a un mismo corpus textual (Funes “Las crónicas” 144). La cronística medie­
+val ha suscitado gran interés, ya sea desde un enfoque de impronta histórico-
+documental, que acepta, niega o relativiza su adecuación al pasado narrado, o 
+desde estudios más relacionados al ámbito de la literatura, como el iniciado por 
+Ramón Menéndez Pidal, quien ha abordado los textos cronísticos en tanto tes­
+timonios secundarios de una épica perdida. En los últimos años ese interés se ha 
+intensificado, lo cual ha dado como resultado una notable cantidad de valiosos 
+estudios sobre el tema. Las zonas más estudiadas de este intrincado laberinto 
+textual siguen siendo las crónicas alfonsíes y sus derivaciones más cercanas, así 
+como también las obras de Pero López de Ayala, verdaderas cumbres de la lla­
+mada “crónica real”.
+El segmento intermedio, cuyo proceso de composición puede ser fechado 
+entre los reinados de Sancho IV y Alfonso XI (es decir, fines del siglo XIII y 
+primera mitad del siglo XIV), ha merecido menos atención por parte de los 
+investigadores especializados, a pesar de que en los últimos años esta tendencia 
+pareciera evidenciar un cambio notoriamente favorable1. Se trata de un perio­
+do en el cual la figura preponderante es la de Fernán Sánchez de Valladolid, 
+Secretario del Sello de la Poridat de la corte de Alfonso XI, a quien se le habría 
+asignado la composición de la Crónica de tres reyes (C3R) (Alfonso X, Sancho 
+IV y Fernando IV, cuyos “fechos [...] non eran puestos en corónica”), así como 
+la del mismo Alfonso XI, principal objetivo de todo el proyecto2. Ya a partir de 
+la Crónica de Fernando III el Santo, compuesta en tiempos de Fernando IV, el 
+modelo historiográfico de la estoria general, de fuerte impronta regalista, se había 
+diversificado a raíz del surgimiento de otros focos de producción cronística de 
+orientación diversa e incluso opuesta a la que había fundado el Rey Sabio. Esta 
+situación dio lugar en el ámbito oficial a la crónica real, la cual toma como eje y 
+límite del relato los fechos del reinado de un determinado monarca, y en el ámbi­
+to de las cortes nobiliarias a un conjunto de textos que, a través de un proceso de 
+1 
+Además de la reciente edición de Crónica de Sancho IV (Saracino Crónica), los aportes de Sara­
+cino (“Algunas observaciones”, “La *Historia”, “La construcción”), deben señalarse los trabajos 
+de Rosende (El texto y “La tradición”) y Benítez Guerrero (“Manuscritos” y La historia) sobre 
+Crónica de Fernando IV. 
+2 
+Nos referimos a Sánchez de Valladolid como autor de C3R de modo convencional. En relación 
+con las diversas instancias de composición de la obra ver Saracino, “Algunas observaciones”.
+77
+ XXI.1 (enero-abril 2017) ISSN 1851-4669 | Apuntes para una lectura ideológica de la cronística medieval...: 75-93
+fragmentarismo paulatino, comienzan primero por reducir la historia general a 
+la historia de Castilla, posteriormente asumen como límite el marco de un deter­
+minado reinado (aunque subrayando el papel de la nobleza), para finalmente, ya 
+en el siglo XV, pasar a convertir en sujeto de la narración a nobles de renombre 
+(Funes “Las variaciones”). 
+La crítica vuelve de manera recurrente sobre el tópico de la supuesta existen­
+cia de diversas ideologías que han atravesado la cronística castellana, desde un 
+providencialismo regalista, ostensible en la producción de época alfonsí, hasta 
+una tendencia fuertemente afiliada a los valores exaltados por la obra de Ximé­
+nez de Rada (Gómez Redondo 968-970) en la crónica de tiempos de Alfonso 
+XI, pasando por textos cuya inclinación política nos resulta problemática, como 
+es el caso de la *Historia hasta 1288 dialogada. Dicho cambio de orientación po­
+dría ser explicado −de hecho así lo hace Fernando Gómez Redondo (856 y ss)− 
+en el contexto del “molinismo”, en el cual la influyente personalidad de la reina 
+María de Molina habría determinado el rumbo de las ideas en torno a las cuales 
+orbitó la producción literaria de fines del siglo XIII y principios del XIV en la 
+corte regia. Estos conceptos, utilizados convencionalmente para dar cuenta de la 
+diversa orientación política de los textos, han sido manejados creemos que con 
+cierta liviandad y falta de precisión, aunque sin duda con la intención de pactar 
+un consenso terminológico más o menos amplio. El principal inconveniente de 
+la utilización del término “ideología” radica en que no considera los principales 
+trabajos en torno al problema de la relación entre la forma de la narrativa y sus 
+implicaciones ideológicas (Geertz, Jameson, White, etc.).
+En primer lugar, resulta necesario deslindar lo que puede ser un hecho ideo­
+lógico de una mera tendencia partidista. Así, se entiende aquel en un sentido 
+abarcador capaz de englobar el fenómeno polifónico que pueda surgir en una 
+sociedad determinada (por ejemplo, los focos de producción nobiliarios), de 
+incluir todos los discursos parciales disidentes bajo un mismo conjunto de pre­
+supuestos que se encargarían de subsumir esas diferencias y de ubicar por encima 
+de ellas una ontología determinada por una estructura formal ideológica. 
+Por supuesto que en este punto es necesario hacer la salvedad de que la crí­
+tica de la ideología aún debe recorrer un largo camino en pos de determinar 
+las características y condiciones de dicho concepto en épocas precapitalistas y 
+premodernas3. Es probable, en este sentido, que el estudio de los textos his­
+toriográficos redactados en estas épocas pueda aportar valiosos elementos para 
+lograr historizar los modos de configuración de la realidad. Es decir, un estudio 
+de los textos cronísticos que pretenda desentrañar el modo en el que se inscribe 
+el universo ideológico del cual el texto forma parte activa, habrá de llevarse a 
+3 
+Abercrombie, Hill y Turner relativizan la necesidad de pensar en una ideología católica medieval 
+para controlar a la población y, en cambio, proponen: “Hubo una «ideología dominante» medieval 
+que fue una curiosa mezcla de cristianismo e ideas seculares del honor feudal, pero esta ideología 
+estuvo dirigida a la clase dominante. Por lo tanto, se puede dar muy poco contenido sociológico a 
+la afirmación de Marx de que durante la Edad Media «imperó» el catolicismo” (105).
+78
+Pablo Enrique Saracino | 
+ XXI.1 (enero-abril 2017) ISSN 1851-4669
+cabo a través de un análisis que no desdeñe lo formal, lo “literario”, y que, por 
+el contrario, base su metodología en el análisis de estos aspectos4. Así, los textos 
+cronísticos se constituirían en los objetos de un estudio que los interrogaría en 
+función, no de su relación con la historia “real” que pretenden reflejar, sino de 
+esa matriz ideológica dentro de la cual los datos caóticos de la experiencia habrán 
+de conformar un orden narrativo coherente.
+En torno a este aspecto Leonardo Funes señala: 
+el universo ideológico medieval [...] es básicamente uniforme, homogéneo 
+y único para el conjunto de los actores sociales, lo que se manifiesta en [...] 
+una conducta signada por la tendencia a subrayar los acuerdos y ocultar las 
+diferencias, de modo que las contradicciones, fricciones y disidencias se dan 
+siempre en el marco de un conjunto de acuerdos básicos globales y se mani­
+fiestan discursivamente apelando a un mismo léxico y a unos mismos recur­
+sos de configuración textual. (“La crónica” 85)
+Si bien este es el procedimiento ideológico por excelencia, independiente­
+mente del contexto histórico que abordemos, no deja de ser interesante, en este 
+sentido, el trabajo que lleva a cabo C3R (sobre todo en los tractados dedicados a 
+Alfonso X y Sancho IV), que consiste en una homogeneización de los materiales 
+que le habrían servido como fuente. Más allá de que la existencia de un conjunto 
+de materiales previos de gran heterogeneidad resulta altamente probable, es ne­
+cesario pensar que también fueron manejadas fuentes cronísticas caracterizadas 
+por un notable fragmentarismo en la narración, ya sea por un ordenamiento 
+episódico de la historia tendiente a resaltar anécdotas, en las cuales el cruce entre 
+el discurso jurídico y la historia permite favorecer el punto de vista nobiliario 
+(Soler Bistué), o bien por la evidente heterogeneidad de discursos que confluyen 
+en un mismo texto. En relación con lo antedicho acerca de la necesidad de la no­
+bleza por legitimar su rol político dentro de una sociedad sobre la que se preten­
+día llevar a cabo una reforma estructural, las palabras de Hayden White −aunque 
+no referidas a esta problemática específica− pueden echar luz sobre el asunto: 
+“[esta] desintegración de la narratividad en una cultura, grupo o clase social es 
+un síntoma de que ha entrado en un estado de crisis” (161)5. En el caso de la cro­
+nística nobiliaria, esto entraría en relación con la necesidad de incluir dentro de 
+un esquema narrativo su personal punto de vista de los acontecimientos, que in­
+4 
+En este sentido, Funes (Investigación 127-146) consigue brindar excelente ejemplo de este tipo 
+de análisis. A partir de una selección de textos pertenecientes a tradiciones de lo más diversas, 
+halla la manera de relacionarlos en función de explicitar cómo, a través de procedimientos cons­
+tructivos fragmentarios, estos tienden a configurar un modo particular de entender la realidad en 
+tiempos de crisis. 
+5 
+En este sentido, Abercrombie, Hill y Turner sintetizan los conflictos dentro de la clase dominante 
+en la Edad Media en los siguientes términos: “La historia política de la Edad Media puede ser 
+interpretada como una lucha en la que los reyes intentaron aplicar el principio teocrático des­
+cendente y los barones intentaron imponer la naturaleza contractual, ascendente y feudal de la 
+monarquía” (89).
+79
+ XXI.1 (enero-abril 2017) ISSN 1851-4669 | Apuntes para una lectura ideológica de la cronística medieval...: 75-93
+cidiría en lo ideológico, y se ajustaría a los parámetros a través de los cuales debe 
+representarse la realidad en aquel contexto. A partir de las reformas estructurales 
+a nivel político que llevó a cabo Alfonso X, la nobleza asume como objetivo im­
+perante impulsar una contraofensiva utilizando las mismas herramientas que le 
+sirven al rey de vehículos eficaces a través de los cuales darles a sus lineamientos 
+políticos una forma narrativa que empalmara formalmente sus contenidos con 
+los de una tradición aceptada como práctica discursiva hegemónica, heredera 
+y difusora a la vez, del sistema de representaciones que constituyen el plano 
+ideológico. Sin embargo, toda intención de distanciamiento habrá de realizarse 
+mediante la utilización de instrumentos que relativicen o justifiquen dicho des­
+lizamiento y que consigan enmascararlo, negarlo, invertir su signo y presentarlo 
+como afirmación del conjunto de representaciones consensuadas por la sociedad 
+toda y sus instituciones. En este sentido, el referente que asume el estamento de 
+la nobleza para llevar a cabo su programa historiográfico, es la obra de Ximénez 
+de Rada, lo cual le permite omitir el “relato” alfonsí y presentarse como una na­
+tural continuación del Toledano (Funes “Historiografía nobiliaria”).
+Este rasgo fragmentario y episódico –que le ha valido a la Estoria del fecho de 
+los godos el mote de “crónica descoyuntada” (Hijano Villegas)– contribuye, a tra­
+vés de un procedimiento que se pone en juego en el plano formal, a generar al­
+teraciones en el contenido (objetivo o propósito) del discurso. Al intervenir en la 
+concepción misma de totalidad (contra un sentido total), presupone y determina 
+una función de lector que necesariamente habrá de concentrarse en lo particular, 
+en los enunciados parciales y en sus leyes. Estas funcionarán eficazmente dentro 
+del microcosmos de acción del cual se desprenden, el que a su vez se constituye 
+como modelo de otras situaciones semejantes factibles de ser sometidas a dicha 
+ley parcial devenida, sin embargo, general a través de este proceso de fragmen­
+tarismo. Northrop Frye, al referirse al discurso discontinuo de los Evangelios, 
+propone conceptos que pueden ayudarnos a pensar este fenómeno: “El efecto de 
+la discontinuidad es sugerir que las aseveraciones son existenciales y que deben 
+ser absorbidas de una en una por la conciencia en lugar de ir unidas entre sí por 
+un razonamiento” (37).
+En este sentido, el fragmentarismo tiende a establecer un nuevo modo de 
+cohesión episódica, en el cual una serie de “totalidades” parciales se encadenan a 
+través de un hilo conductor que solo ha de cumplir con los parámetros formales 
+más elementales de la narrativa, ubicando en primer plano la singularidad de 
+los diferentes “casos” y quitándole relevancia a la coherencia total del texto en 
+su conjunto. Esto no significa en absoluto que esta tipología textual carezca 
+de cohesión, sino que esta pasa a depender de dispositivos que ya no pueden 
+ser rastreados a nivel textual, ya que se sitúan en presupuestos de lectura pre­
+viamente fijados en la función hermenéutica por la tradición discursiva en la 
+cual esta nueva textualidad se inscribe. De esta manera, resulta posible realizar 
+modificaciones formales de fondo eliminando, por obvios, aquellos elementos 
+contra los que pretende reaccionar. Al asumir como principio constructivo la 
+80
+Pablo Enrique Saracino | 
+ XXI.1 (enero-abril 2017) ISSN 1851-4669
+discontinuidad, se da lugar a un texto cuya propia lógica invita a la interven­
+ción, ya que ha sido concebido en sí mismo como una textualidad horadada de 
+elipsis y sostenida a través de episodios anecdóticos (digresiones narrativas, pero 
+a la vez núcleos fuertes de sentido). Este procedimiento desdibuja los elementos 
+que otorgan una imbricación a la narración, condicionando la interpretación 
+en pos de la construcción de un argumento determinado, con una finalidad es­
+pecífica. La fragmentación hace emerger, de un conjunto más o menos informe, 
+bloques significativos que apelan a incidir en un plano simbólico para sugerir 
+una nueva trama y, a través de un cuidadoso proceso de selección, asignar un 
+nuevo sentido a la experiencia temporal. De esta manera, cuando la Estoria 
+del fecho de los godos (en el segmento correspondiente a la *Historia dialogada) 
+interrumpe −abruptamente y quebrando el ritmo de la narración− los hechos 
+del rey Sancho IV en el asesinato del conde Lope Díaz de Haro, dando lugar 
+a una evidente operación de silenciamiento de los acontecimientos ocurridos 
+en los años siguientes, vemos claramente señalados los límites de lo narrable en 
+función de intereses políticos muy específicos: el magnicidio de Alfaro encarna 
+la “culminación” del reinado de Sancho. De esta manera, al interrumpirse en 
+este punto, la narración altera drásticamente su focalización, y de ese modo se 
+cobra relevancia el mayor ataque a la clase noble ocurrida en los últimos años 
+del siglo XIII6. Esta versión de la historia consiste claramente en la narración 
+de los hechos de la nobleza rebelde, la cual, asumiendo en apariencia el para­
+digma establecido por la tradición discursiva de la cronística −respetando, por 
+ejemplo, la organización del relato en función de los diferentes reinados, hecho 
+que formalmente asignaría al rey un lugar central− ubican ostensiblemente al 
+personaje del rey en un lugar subordinado en términos narrativos al de los más 
+importantes representantes de la Nobleza castellana7. La muerte del conde don 
+Lope es narrada con todo dramatismo y detalle, mientras que los últimos años 
+del monarca y la circunstancia de su muerte se reducen en la *Historia dialogada 
+a unas pocas y apresuradas líneas.
+Resulta interesante plantear como hipótesis de lectura que acaso lo que suce­
+da en la Castilla medieval no sea una verdadera lucha ideológica entre nobleza y 
+realeza, sino una contienda de poder entre estas clases que, en el plano que nos 
+ocupa, se libra en el terreno del discurso. La ideología ha de ser entendida en blo­
+que, tal como señala Roland Barthes: “la ideología no puede ser sino dominante” 
+(El placer 53). Esta contienda, que encuentra su correlato en el plano formal, 
+podría ser entendida como el intento de las clases dominantes por apoderarse 
+del “mito de la incumbencia”, aquel “completamente desarrollado, o enciclo­
+pédico [que] encierra todo el conocimiento que es el de mayor incumbencia 
+6 
+Catalán (253) asume que esta fragmentación está indicando de manera contundente la fecha de 
+composición de esta crónica y de ninguna manera su particular jerarquización de los acontecimien­
+tos. Ya se ha presentado un análisis más detenido de dicho episodio (Saracino “La *Historia”).
+7 
+Usamos el concepto de paradigmas que define Ricœur como “tipos de elaboración de una trama 
+surgidos de la sedimentación de la propia práctica narrativa” (483).
+81
+ XXI.1 (enero-abril 2017) ISSN 1851-4669 | Apuntes para una lectura ideológica de la cronística medieval...: 75-93
+para una sociedad” (Frye 33), el cual se ubica en un plano general y ahistórico. 
+Aquí entran en juego, entonces, las técnicas de apropiación de dicho “mito”, o 
+mejor dicho, los procedimientos a través de los cuales este se vuelve funcional 
+a los intereses de determinado grupo: “En toda sociedad estructurada la clase 
+dominante intenta apoderarse del mito de la incumbencia y transformarlo, o al 
+menos transformar una parte esencial del mismo, en una racionalización para 
+justificar su primacía” (Frye 44).
+En lo que se refiere específicamente a la C3R, se puede ver que este procedi­
+miento de fragmentarismo que poseía la fuente nobiliaria utilizada por Sánchez 
+de Valladolid es reordenado en una textualidad que da a cada parte de esta cró­
+nica una apariencia de discurso coherente y exento de contradicciones internas, 
+a través de la utilización de un narrador que −fundamentalmente en las crónicas 
+de Sancho y Fernando− se oculta sistemáticamente detrás de una voz neutra y 
+completamente despersonalizada que ordena objetivamente los hechos del pa­
+sado con un estilo parco y monótono, notablemente distante de la refinada y a 
+la vez sintética claridad retórica de las obras alfonsíes o bien de las tendencias 
+novelizantes de la historiografía de tiempos de Sancho IV (Funes “Las variacio­
+nes” 131). Esta univocidad no tiene como objetivo agregar una versión más de 
+los hechos a un sistema de textos en contienda, sino fundar la versión a través de 
+la utilización de la voz de un narrador objetivo, el cual parece estar redactando 
+la historia ex nihilo, ya que en ningún momento hace referencia alguna a fuentes 
+(práctica ya presente en la historiografía castellana romance y latina anterior) ni 
+tampoco se apoya en auctores para legitimar un texto que busca fundar su auto­
+ridad a través de una aparente autonomía absoluta. 
+En el terreno estético [...] el proceso de “universalización” cultural (que im­
+plica la represión de la voz opositiva y la ilusión de que hay una sola “cultura” 
+genuina) es la forma específica que toma lo que podríamos llamar el proceso 
+de legitimación en el campo de la ideología y de los sistemas conceptuales 
+(Jameson 70).
+La irrupción de esta voz enunciadora, que tiende a efectuar una acción ho­
+mologadora de sentidos y que a la vez es capaz de prescindir completamente 
+de referencias a fuentes, se puede fechar hacia mediados del siglo XIV. Es pre­
+cisamente esta C3R el primer ejemplo en el cual el garante del texto pasa a ser 
+ostensiblemente una entidad colectiva de cronistas anónimos. En este sentido, 
+uno de sus objetivos primordiales es el de fundar una figura autoral que, elimi­
+nando toda referencia a un enunciador, toda marca textual a través de la cual 
+fuera posible reconstruir un garante, encarna la entidad abstracta de la Historia 
+estrechamente relacionada con un mundo ethico “neutro” (Maingueneau) repre­
+sentado por clérigos letrados que, a partir del reinado de Alfonso X, hegemoni­
+zan el control de la práctica discursiva dominante, es decir, la escritura en prosa 
+vernácula de la historia. 
+82
+Pablo Enrique Saracino | 
+ XXI.1 (enero-abril 2017) ISSN 1851-4669
+Según White, quien claramente centra su estudio del género historiográfico 
+en el aspecto formal −ligándolo así al texto narrativo literario− en lugar de hacer 
+foco en el contenido, este procedimiento homogeneizador sería una actividad 
+ideológica propia de la narrativa, la cual en absoluto podría ser entendida como 
+una forma neutra de discurso, sino que, en el caso de la historiografía, cumpliría 
+la función de asignarle al pasado una lógica y una continuidad que por sí mismo 
+no posee, ya que “[la narrativa] dota a los acontecimientos de una coherencia 
+ilusoria y de tipos de características más propias del pensamiento onírico que 
+del pensar despierto” (11). En este sentido, Ricœur −planteando como referente 
+común de la historia y de la ficción la cualidad temporal de la existencia− pro­
+pone que “todo proceso temporal sólo se reconoce como tal en la medida en 
+que pueda narrarse de un modo o de otro” (480) a través de la configuración 
+de “tramas que los documentos permiten o no, pero que en sí mismos nunca 
+contienen” (484). En palabras de Walter Ong, “[l]a naturaleza no ‘enuncia’ he­
+chos: éstos se presentan sólo dentro de los enunciados producidos por los seres 
+humanos para referirse al tejido sin hilos de la realidad que los circunda” (72). 
+Al ser captados por una estructura narrativa, al ser seleccionados y organizados 
+en una trama, los hechos de la realidad necesariamente adoptan una coherencia 
+en la cual entran en relación con los elementos de una fábula, lo cual les asigna 
+una imbricación necesaria para ser asimilados en tanto materia narrable, y por 
+ende, poseedora de alguna verdad. Jaume Aurell explica que, en el abordaje de 
+White, “la historia no queda vaciada de contenido, porque la narración misma 
+forma parte de dicho contenido” (132). En este punto, resulta indispensable 
+recurrir a algunos conceptos de la narratología que pueden echar luz acerca del 
+modo particular a través del cual esta operación se realiza. Mieke Bal plantea que 
+una narración se vuelve accesible ya que responde a una “lógica de los aconteci­
+mientos”, la cual se define como “un desarrollo de acontecimientos que el lector 
+experimenta como natural y en concordancia con el mundo” (20). La clave de 
+la narración histórica como herramienta ideológica radica en presentar la trama 
+como natural, como previa a la configuración narrativa, como una cualidad que 
+los hechos poseen a priori de su narrativización. Así, esta actividad netamente 
+ideológica se define no tanto como una “falsa conciencia” sino más bien como 
+una herramienta necesaria que permite asir la realidad y, en este caso, el pasado, 
+el cual se vuelve inteligible al ser convertido en historia, produciéndose así una 
+“necesaria constitución simbólica de la realidad” (Ariño 137), al ser atravesado y 
+ordenado por una lógica narrativa. Asimismo, en el texto historiográfico, se lleva 
+a cabo una segunda operación, ya señalada por Roland Barthes (“El discurso”), 
+a través de la cual esta narración se propone como espejo del pasado, mostrán­
+dolo en toda su dimensión y complejidad al articular los significantes de los que 
+dicho texto se vale, no con su correspondiente significado, sino directamente 
+con el referente. Es decir, que esta equivalencia semántica se lleva a cabo a través 
+de una homología estructural entre las fábulas de las narraciones y las históricas 
+que vuelve inteligibles a ambas recíprocamente; las fábulas ficcionales se aseme­
+83
+ XXI.1 (enero-abril 2017) ISSN 1851-4669 | Apuntes para una lectura ideológica de la cronística medieval...: 75-93
+jan estructuralmente a las reales, y estas se vuelven significativas al adoptar una 
+forma narrativa que las inserta en la gran matriz que organiza la historia de la 
+humanidad y le otorga un sentido dentro de las denominadas “narrativas maes­
+tras” (fatalismo griego, redentorismo cristiano, progresismo burgués o utopismo 
+marxista) (White 163). 
+Dentro de estos grandes esquemas, cada sociedad “se narrativiza, construyen­
+do una serie de personajes sociales o roles a representar por sus miembros [...]; 
+una trama o curso ideal de desarrollo de las relaciones que presuntamente existen 
+entre sus tipos de personajes reconocidos”. Es decir, la ideología no agrega nada 
+al contenido, sino que lo determina en el plano formal, lo vuelve asequible a una 
+comunidad portadora de la organización narrativa necesaria para decodificar y 
+producir sentido en una cadena de hechos determinada, es decir, para señalar, 
+articular y aclarar la experiencia temporal. Para Aristóteles el término mŷthos re­
+fiere a la “estructuración que requiere que hablemos de «elaboración de la trama» 
+antes que de trama”, por lo tanto, estamos hablando de un proceso de selección y 
+disposición de acontecimientos que hará que la fábula devenga historia (Ricœur 
+480-481) 8.
+La crónica medieval intenta configurar un pasado que sea fundamento, ex­
+plicación y legitimación del presente. Alrededor de 1344 Alfonso XI ha logrado 
+acabar con las pretensiones de la nobleza levantisca que desde tiempos de Alfon­
+so X había mantenido en jaque a la realeza. Por lo tanto, uno de los objetivos de 
+C3R será evidenciar los efectos nocivos que dicho estamento habría causado en 
+el reino de Castilla durante los reinados de sus antepasados, y a la vez otorgar a 
+Alfonso XI un rol de monarca capaz de poner fin al período de incertidumbre. 
+De esta manera, la selección y organización de los acontecimientos narrables, no 
+hace otra cosa que explicar y justificar el presente desde el cual y para el cual se 
+construye la historia. De hecho, otra cuestión que Alfonso XI necesita resolver es 
+la legitimación de su propio linaje, un linaje “maldito” a partir de los conflictos 
+sucesorios acaecidos durante los últimos años de Alfonso X, narrados detallada­
+mente en los últimos capítulos de CAX. Creemos que es necesario señalar, para 
+comprender el rol de estas crónicas en función de una reivindicación linajística, 
+que la mera exaltación de un monarca y sus antepasados no puede ser entendida 
+en sí misma como una cuestión ideológica. Para alcanzar una comprensión más 
+abarcadora de las particularidades que definen a este subgénero cronístico espe­
+cífico, debemos trabajar con un concepto de ideología que la ubique en un plano 
+más general, formal e independiente de las coyunturas sociales, que la considere 
+8 
+Ricœur define trama como “conjunto de combinaciones mediante las cuales los acontecimientos 
+se transforman en una historia o −correlativamente− una historia se extrae de acontecimientos. 
+La trama es la mediadora entre el acontecimiento y la historia. Lo que significa que nada es un 
+acontecimiento si no contribuye al avance de una historia.” (481) Y más adelante: “la trama es la 
+unidad narrativa de base que integra estos ingredientes heterogéneos en una totalidad inteligible” 
+(482). “La trama es esta forma de síntesis de lo heterogéneo” (486).
+84
+Pablo Enrique Saracino | 
+ XXI.1 (enero-abril 2017) ISSN 1851-4669
+una cosmovisión del orden social que necesariamente ha de trascender las épo­
+cas y sus avatares políticos, los cuales, al ser recogidos en un texto de intención 
+historiográfica, habrán de ajustarse al modelo propuesto por la ideología para no 
+contradecir el “sentido” de la Historia, es decir su estructura narrativa. 
+Si, en términos de Louis Althusser (142-143), la ideología es la que interpela 
+al individuo en tanto sujeto, asignándole un sentido y un lugar dentro el orden 
+social, resulta indispensable para estudiar la ideología en un contexto medieval 
+preguntarse acerca del tipo de sujeto que estas crónicas presuponen en el lector 
+en tanto hechos ideológicos. Es decir, qué tipo de lector cumplidor de la ley se 
+diseña en el plano textual a la vez que refleja el imaginario social vigente, ya que 
+−como señala Michel De Certau− en una sociedad en la cual la práctica discur­
+siva hegemónica consiste en un sistema escriturario “el público se ve moldeado 
+por lo escrito [...], se vuelve parecido a lo que recibe, es decir que está impreso 
+por medio del texto y a semejanza del texto que se le impone” (179). 
+Así, la cronística medieval (y la historiografía en general) acaso cumpla una 
+función equivalente a aquella que para Frye desempeñan los contenidos religio­
+sos, función que Jameson amplía al campo de la literatura en tanto acto social­
+mente simbólico.
+Las figuras religiosas se vuelven entonces el espacio simbólico en que la colec­
+tividad se piensa a sí misma y celebra su propia unidad; de tal manera que no 
+parece un paso siguiente demasiado difícil, si, con Frye, vemos a la literatura 
+como una forma más débil de mito o un estado más tardío de ritual, concluir 
+que en ese sentido toda literatura, por débilmente que sea, debe estar infor­
+mada por lo que hemos llamado un inconsciente político, que toda literatura 
+debe leerse como una mediación simbólica sobre el destino de la comunidad. 
+(Jameson 57)
+Esta mediación simbólica es posible a través de un proceso en el cual se ha­
+brán de someter los elementos constitutivos de la experiencia vital a las reglas 
+de la materia narrable. Por ejemplo, con respecto al tipo de lector que la crónica 
+exige, vemos que al tratarse esta de un texto cuya fábula establece una identidad 
+entre el actante sujeto y el personaje rey, el lector necesariamente ha de asumir 
+en la figura regia el eje alrededor del cual se ordenarán todos los demás elementos 
+de la fábula. Contar la historia −haya sido esta gestada en un ámbito oficial o 
+nobiliario− es contar los fechos del rey (es decir, los acontecimientos funcionales 
+relacionados con el sujeto) y de todo lo que se refiera directamente a él. Los 
+únicos hechos y personajes que habrán de ser mencionados serán aquellos que 
+ingresen dentro del “aura” regia. Es decir que lo narrable se halla determina­
+do por los elementos significativos de la fábula y, dentro de este conjunto de 
+acontecimientos, los que cobrarán un mayor relieve serán los relacionados con 
+actividades bélicas, ya sea contra el moro o bien contra la nobleza rebelde. De 
+esta manera, en términos narratológicos, el objeto del sujeto-rey será mantener 
+la paz dentro de las fronteras del reino, así como también luchar contra el moro, 
+85
+ XXI.1 (enero-abril 2017) ISSN 1851-4669 | Apuntes para una lectura ideológica de la cronística medieval...: 75-93
+enemigo político y religioso. Estos objetos serán los que determinen sus accio­
+nes durante todo el período que ocupa la Reconquista, cualquiera sea el texto 
+narrativo historiográfico del que estemos hablando. Es decir que, en este caso, 
+la ideología funciona como límite formal en la frontera de lo relevante, de lo 
+historiable, al imponer a la historia un modelo narrativo básico y dejando fuera 
+versiones antagónicas de los hechos así como todo acontecimiento que no pueda 
+(o no deba) ser relacionado con el campo de acción del rey. En el mismo sentido, 
+la estructura capitular analística del relato (presente en CSIV y, en menor me­
+dida, en Crónica de Fernando IV) establece un calendario en el que la referencia 
+temporal fundamental será el año de reinado en el cual suceden los hechos. De 
+este modo, todo hecho histórico narrado tendrá como marco los fechos de un 
+determinado rey y encontrará una ubicación cronológica precisa en relación con 
+los años de su reinado. 
+La preocupación, manifiesta en el prólogo de C3R, por completar el hueco 
+historiográfico a partir del reinado de Fernando III pone en evidencia hasta qué 
+punto funciona el presupuesto ideológico de la continuidad del linaje real como 
+elemento legitimador de la realidad en el plano del relato. Resulta oportuno 
+considerar, en este punto, la distancia entre actante y personaje, para repensarla 
+en relación con la tesis de Ernst Kantorowicz acerca de la fusión en la institu­
+ción del monarca de “los dos cuerpos del rey”, el humano mortal y el político 
+trascendental. El cuerpo político del rey (la realeza) pasará de un rey particular 
+a otro a través de una línea linajística ininterrumpida y armónica que garantiza 
+la legalidad de dicha investidura. En términos narrativos, encontramos una re­
+lación análoga entre el actante sujeto-rey y los diversos personajes monarcas que 
+van encarnando esa función de una crónica a otra, vínculo que se establece úni­
+camente en tanto no se rompa el lazo sanguíneo que los une. Interesa ver en este 
+punto el modo a través del cual se interpreta lo real a través de procedimientos 
+propios de la narrativa, o al menos análogos a esta. La crónica no hace otra cosa 
+más que reflejar un modo de pensar lo real ya concebido previamente a través de 
+una estructura narrativa. No serán, entonces, simplemente las crónicas de esos 
+reyes las que se redactarán sino las de “su bisabuelo”, “su abuelo” y “su padre”, 
+tal como se explicita en el Prólogo de C3R. Es decir, la necesidad de componer 
+la crónica no solo responde al afán de completar una labor cronística interrum­
+pida, sino que a su vez se relaciona con el imperativo de presentar el proceso 
+sucesorio de la familia real como una continuidad natural sin fisuras a través de 
+fábulas cuyos protagonistas encarnan un mismo sujeto actante. De este modo, la 
+trama se ajusta a ese esquema por medio del cual la ideología ya habría “escrito” 
+los cauces vectores de la historia con anterioridad. Completar esta suerte de “li­
+naje cronístico”, dota a la realidad de una coherencia en el plano simbólico que 
+ubica a la rama familiar de Alfonso XI en el esquema narrativo que sostiene la 
+sucesión del sistema monárquico medieval castellano.
+Ligado indisolublemente a este personaje rey legitimado por una continui­
+dad narrativa, se ubica el rol de la nobleza sosteniendo el poder regio, en una 
+86
+Pablo Enrique Saracino | 
+ XXI.1 (enero-abril 2017) ISSN 1851-4669
+posición tan subordinada como esencial9. En términos narrativos este rol suele 
+asumir la forma del buen consejero, tanto en textos de inspiración regia como no­
+biliaria. En la C3R la nobleza será caracterizada en términos positivos o negati­
+vos en la medida en que se ajuste a ese rol que ideológicamente le corresponde. 
+En este punto entra en juego la representación social del concepto de “no­
+bleza” que se debate tanto en estas crónicas como en las gestadas en un ámbito 
+nobiliario. La representación como cristalización, como condensación de con­
+ceptos, culmina su proceso de instauración en la medida en que se dé lugar a una 
+práctica que refleje dichas representaciones, a la vez que las legitime, quedando 
+naturalizados determinados sentidos, es decir, devenidos necesidades universa­
+les. Tomando elementos de la teoría del signo ideológico de Valentín Voloshinov 
+(31-40), podemos decir que la representación del signo “nobleza” que vemos 
+oscilar en las crónicas refleja y refracta a la vez una particular “vida social del 
+signo verbal”, el cual se halla multiacentuado por, al menos, dos polos de inte­
+reses opuestos en torno al rol de la nobleza, problema en función del cual tanto 
+la nobleza como la realeza intentarán presentar sus versiones como eternas10. La 
+existencia misma de estos dos cauces de la historia, en los cuales se juega prin­
+cipalmente la significación de “nobleza”, nos presenta dicho signo ideológico 
+como una auténtica entidad bifronte que en unos textos y en otros tiende a 
+tensionarse en una dirección o en la contraria, pero que no puede dejar nunca 
+de evidenciar la valoración múltiple (al menos doble) de la que es objeto en el 
+sistema dentro del cual se gestan estas crónicas. Los intereses opuestos en torno 
+a este concepto posibilitan y generan la redacción de versiones antagónicas de la 
+historia, con caracterizaciones diversas de sus personajes y motivaciones diferen­
+tes de los hechos, de manera tal que queda en evidencia la divergencia en torno 
+al concepto de “nobleza” que está organizando, por un lado, la fragmentaria 
+narración de la *Historia dialogada, y por otro la de la C3R. 
+Por lo tanto, en este punto podemos afirmar que lo ideológico está siendo 
+utilizado en función de lo político. Ya sea que se persiga un objetivo de impronta 
+regalista o bien se reaccione contra él, se recurre al esquema narrativo que en sí 
+mismo contiene la representación de la sociedad como herramienta eficaz para 
+defender causas opuestas. Será posible, entonces, hablar en términos de forma y 
+contenido, siendo la forma la matriz ideológica del texto y el contenido los he­
+chos ya seleccionados a partir de un particular objetivo político11.
+9 
+Se ha presentado un estudio de los roles que asume cada personaje de CSIV (Saracino “La cons­
+trucción”). 
+10 Somos concientes de que no resulta posible, en este punto, entender al signo como “arena de la 
+lucha de clases” al no ser pertinente hablar de clase dominante y dominada.
+11 En términos similares a estos, White (110) señala: “el análisis de la representación histórica de 
+Droyzen nos permite hablar del “contenido de la forma” de un discurso histórico [...] El discurso 
+histórico tiene un contenido que podríamos denominar el objetivo o propósito del discurso, algo 
+que no debe confundirse con su objeto o referente”. 
+87
+ XXI.1 (enero-abril 2017) ISSN 1851-4669 | Apuntes para una lectura ideológica de la cronística medieval...: 75-93
+Elisa Ruiz García, refiriéndose a la evolución del género cronístico a lo largo 
+del siglo XV, observa:
+el oficio tiende hacia una especialización del titular y un nuevo enfoque 
+ideológico. En efecto, las personas elegidas en lo sucesivo serán letrados co­
+nocidos y no meros funcionarios. Ello contribuirá a que los textos poco a 
+poco traspasen la frontera del esquematismo diplomático y tiendan hacia una 
+transformación en piezas de carácter literario e intencionalmente comprome­
+tidas con una causa. (285)
+Esta clase de afirmaciones, precisamente, son las que sortean completamente 
+el problema intrínseco que el proceso narrativo conlleva, asumiendo que el “es­
+quematismo diplomático” logra desligarse de toda “causa”, a la vez que acepta 
+que los textos asumen una determinada “ideología” en la medida en que se alejan 
+de un estilo que presupone la aceptación de un indiscutible valor de objetividad 
+y se desplazan hacia zonas más fácilmente identificables con lo que convencio­
+nalmente llamamos “literatura”. 
+En oposición a este tipo de interpretaciones que trabajan con un concepto 
+que podríamos denominar “no problemático” de ideología, consideramos que 
+el lector medieval debió de aceptar necesariamente al menos estos elementales 
+rasgos verosímiles del orden social −instancia que podría ser entendida como 
+la base de una interpelación ideológica− a la vez que debió haber sido capaz de 
+decodificar conceptos tales como los de “nobleza”, “rey”, “vasallos” en función 
+de las representaciones en las cuales se debaten las tensionadas orientaciones que 
+el texto pretende asignarle a la historia. 
+Acaso esa crítica de la ideología en épocas precapitalistas que reclamábamos 
+al principio pueda surgir de un trabajo que ponga de relieve la correlación de 
+los textos con el sistema cultural en el cual circularon originalmente, con sus 
+condiciones de posibilidad, con la realidad particular sobre la cual no pudieron 
+dejar de construir y reflejar alguna idea de verdad. 
+Las glosas, grietas en los márgenes
+Las condiciones concretas de producción y de difusión del texto medieval 
+nos ofrecen interesantes elementos para comprender más de cerca el modo pe­
+culiar en que este “hecho ideológico” del discurso cronístico es percibido por 
+sus contemporáneos o por lectores de épocas posteriores en las cuales todavía 
+el manuscrito sigue siendo un medio eficaz para la transmisión de textos. En 
+el conjunto de testimonios que transmite la CSIV, es posible observar casos en 
+los que las glosas marginales −realizadas en una instancia posterior de lectura, 
+ya que la caligrafía denota una mano diferente a la del copista12− enmiendan el 
+12 Existen casos que contradicen esta afirmación, como el del manuscrito 59-1-19 (Biblioteca Ca­
+pitular y Colombina de Sevilla), el cual, tanto el texto como sus glosas fueron copiadas por 
+88
+Pablo Enrique Saracino | 
+ XXI.1 (enero-abril 2017) ISSN 1851-4669
+texto de la crónica oficial, haciendo referencia muchas veces a otras versiones de 
+la historia que parecieran coincidir con las crónicas de tendencia nobiliaria. Por 
+supuesto, la gran mayoría de las glosas −como suele suceder en los manuscritos 
+medievales− son anotaciones cuyo objetivo resulta meramente indicial: fechar 
+un suceso, rastrear la aparición de algún personaje o de los integrantes de alguna 
+familia, o simplemente subrayar determinado acontecimiento señalándolo en 
+los márgenes para volverlo fácilmente localizable13. Sin embargo, como señalá­
+bamos antes, existe un conjunto de glosas que se torna interesante a la luz de los 
+conceptos analizados anteriormente. 
+Sobre el final del primer capítulo de la CSIV se lee: “llegó mandado al rey 
+don Sancho en cómo el rey Abenyuçaf, señor de Marruecos, pasava aquende la 
+mar et venía a çercar Xerez” (Saracino Crónica 11). En BNM 10.195 (fol. 65r) 
+advertimos que el pasaje se encuentra acompañado de la siguiente glosa escrita 
+en el margen derecho: “que dize en otra corónica / que estava el rey en Valla­
+dolid / quando supo este mandado / que lo oviera por cartas que los de / Xeres 
+l´enbiaron escriptas / con sangre” (Saracino Crónica 13, n. xxx). Es altamente 
+probable que esa “otra corónica” se trate, efectivamente, la *Historia dialogada, 
+ya que esta propone una versión muy cercana de los hechos, en la cual se agrega 
+el significativo detalle de las cartas escritas con sangre, lo cual, lejos de resultar 
+un detalle menor, aporta un fuerte matiz de crítica, de reclamo, respecto de la 
+función protectora que la realeza debería ejercer sobre todas las ciudades que se 
+hallan bajo su dominio: 
+E estando sobre Xeres, corrian sus caualleros toda la tierra, e estauan los de 
+Xeres muy afyncados, e enbiaron sus cartas al rrey don Sancho a Castilla, 
+escritas con sangre, que sy le non acorriese, que la villa era perdida, e ellos 
+todos muertos e captiuos. E quando el rrey don Sancho vio las cartas, ovo 
+muy grand pesar (BNM 9559, fol.185v a)
+La posibilidad de que Salcedo, el glosador de BNM 10.195, conociera en 
+detalle la *Historia dialogada se vuelve muy concreta en la glosa final del códice 
+(Saracino Crónica clvi) donde se hace referencia a “las trobas” de Alfonso X, 
+características de la narración de la guerra contra Sancho en dicha *Historia dia­
+logada, así como también se declara que la versión del asesinato del conde don 
+Lope que transmite dicho manuscrito no se corresponde con el modo en que 
+habrían ocurrido “realmente” los hechos14. 
+el mismo escriba: Florián de Ocampo (Fuentes-Saracino). Todas las glosas correspondientes a 
+CSIV han sido editadas (Saracino Crónica cx-cxvii)
+13 Existen casos curiosos de anotaciones marginales, como el del manuscrito E-6-5373 (Real Aca­
+demia Española), en el cual el conjunto de las glosas consiste en un resumen exhaustivo del 
+contenido del texto (Saracino Crónica xcv-cii).
+14 La referencia a ambos episodios nos hace pensar que Salcedo no se está refiriendo ni a las ver­
+siones del manuscrito M563 de la Biblioteca de Menéndez Pelayo (en las cuales el episodio de la 
+89
+ XXI.1 (enero-abril 2017) ISSN 1851-4669 | Apuntes para una lectura ideológica de la cronística medieval...: 75-93
+Existe otro tipo de enmiendas sobre las que ya no es posible aventurar cuál 
+sería la fuente en la que se basa el glosador. Por ejemplo, en el capítulo primero, 
+al referirse al momento de la coronación de Sancho, la crónica dice: “Et luego 
+fuese para Toledo et fizo se coronar a él et a la reina dona María su muger”. Esta 
+vez el glosador de BNM 10.195 no agrega información, sino que la corrige: 
+“esta coronaçión / fue en Burgos / avía de ser” (fol. 63 v). Pero, por otra parte, el 
+glosador de Esc. N-III-12 (fol. 57r b), tal vez polemizando con su par de BNM 
+10.195, plantea: “Coronose en Toledo este rey así que non es [*verdad] que en 
+Burgos”.
+Este modo de intervenir el texto nos posibilita, en algunos casos, acceder a 
+información que el inevitable proceso de deturpación que estos materiales han 
+sufrido a lo largo de los siglos nos habría vedado. Un ejemplo elocuente se nos 
+presenta en el año quinto de CSIV. El texto narra la conquista, por parte de San­
+cho de una serie de fortificaciones, de gran valor estratégico, en la zona de Álava. 
+Si bien los inconvenientes que se presentan los múltiples topónimos de estos 
+fragmentos son abundantes, podemos señalar uno espacialmente problemático: 
+el manuscrito BNM 829 se refiere al “castillo de Caytay” (Saracino Crónica 96, 
+n. 329), mientras que el resto de la tradición propone una enorme cantidad de 
+variantes (Çartay, Cartay, Çarcayn, Çarayn, Çayray, Cayray, Cayrayn, Çaytar, 
+Caray, Caiticay, Cayatin, Cayary, Cayaty y Caycay). Es precisamente el glosador 
+de la copia más antigua de la tradición (Biblioteca de Menéndez Pelayo M563, 
+fol. LXXXIIra), quien aporta, en el margen, la lección que nos permitirá identifi­
+car el furtivo topónimo con el desaparecido castillo de Zaitegui (“Çaiteguj”)15.
+Como vemos, en algunos ejemplos se advierte a simple vista un interés por 
+explicitar las diferentes versiones de los hechos. Tal como señala Rodríguez Ve­
+lasco −ateniéndose a aspectos relacionados con la codicología y la bibliología− la 
+glosa tiende a entrar en contienda con el texto, tanto a nivel del contenido como 
+en lo que concierne a los espacios de escritura internos del folio. La actividad 
+del glosador asume el rol del pedagogo que acude a echar luz sobre la materia, 
+aunque, en estos casos pueda poner en tela de juicio la veracidad del texto tutor. 
+Sin embargo, más allá de este aspecto −común a toda actividad glosadora−, lo 
+muerte de don Lope no varía significativamente) ni a Esc. M.II.2 (en que los versos “Yo salí de 
+mi tierra” no están presentes), razón por la cual debemos aceptar que está recordando (dice que 
+“de todo esto non ay libros en esta tierra”) pasajes de alguno de los testimonios de la *Historia 
+dialogada, aunque la mención de los testamentos nos obliga a pensar que a su vez se refiere a al­
+gún ejemplar de la C3R, ya que la *Historia dialogada en ningún caso los incluye. Si tuviéramos 
+en cuenta la similitud entre los epígrafes agregados por Salcedo y los que presenta el manuscrito 
+1159 de la Biblioteca Central de la Diputación Provincial de Barcelona, podríamos aventurar que 
+este es la fuente de las enmiendas, pero 1159 no transmite los testamentos, con lo cual tenemos 
+que pensar que el conjunto de correcciones provienen de la *Historia dialogada y de algún ma­
+nuscrito cercano a 1159, que hubiera contenido dichos testamentos del rey Sabio, o bien, en la 
+posibilidad de que Salcedo hubiera manejado una biblioteca aún más amplia y heterogénea.
+15 Se ha presentado un análisis más detallado de este problema en el VI Congreso Internacional de 
+Letras, organizado por el Departamento de Letras de la Facultad de Filosofía y Letras (Univer­
+sidad de Buenos Aires) en noviembre de 2014 (Saracino “Algunos topónimos”).
+90
+Pablo Enrique Saracino | 
+ XXI.1 (enero-abril 2017) ISSN 1851-4669
+que resulta significativo señalar es el hecho de que sea posible advertir, en esta 
+operación concreta de puesta por escrito de una lectura, la tendencia a desandar 
+el proceso de homogeneización llevado a cabo por el autor de C3R. Las glosas, en 
+este caso, subrayan la heterogeneidad, marcan los puntos de disidencia, es decir, 
+rompen la unidad formal ideológica de la crónica, haciendo de ese proceso de 
+lectura, que De Certau describe como un “peregrinar en un sistema impuesto” 
+(181). Esta actividad que tiene en sus manos la posibilidad de interpelar los sen­
+tidos que el texto intenta condicionar y, a la vez, trazar ese camino subterráneo 
+entre los textos (aspecto que también señala Rodríguez Velasco). De tal modo, se 
+abre el panorama de la información y se problematiza su valor y significado. 
+Por lo tanto, si bien el objetivo del sistema de glosas presente en estos ma­
+nuscritos pueda ser acaso partidista, o tal vez solo pretenda, ingenuamente, con 
+una intención que podríamos considerar pedagógica, agregar información a la ya 
+presente en el texto sin intentar contradecirlo, el método −en términos formales, 
+al menos− pone en crisis el procedimiento ideológico por antonomasia: la ho­
+mogeneización del discurso narrativo16. La glosa, aquí, es una voz que interviene 
+el texto haciendo referencia a otra voz, “otra corónica”; conecta textos, pone en 
+superficie una íntima relación intertextual en la cual subsiste una tensión laten­
+te entre sentidos divergentes. En esta clase de actos −no necesariamente en su 
+contenido− es posible advertir los puntos débiles, el síntoma mediante el cual se 
+manifiesta el núcleo irreductible del sistema, su contradicción, su falsedad. 
+Lejos de pretender dar por válidos los postulados en torno al problema de 
+la glosynge que propone John Dagenais, para quien lo marginal pareciera asumir 
+una jerarquía central y el texto pasara a tener una importancia relativa (Funes 
+“Escritura” 193), lo que interesa señalar aquí es que en los márgenes de C3R se 
+funda (se permite vislumbrar en unos pocos casos) lo que puede ser considerado, 
+al menos, un espacio de discusión que evidencia una pluralidad de puntos de 
+vista sobre los tópicos abordados por la crónica. El acto mismo de intervenir un 
+texto con los rastros de una lectura personal autorizada contradice sus pretensio­
+nes de oficialidad y su sentido. Este tipo de glosas “abre” ese espacio donde los 
+textos dialogan, discuten, se silencian, es decir, ponen en escena una contienda 
+dentro de la práctica discursiva detrás de la cual se baten opuestos partidos en 
+una puja por el poder y por sus lugares privilegiados de enunciación. 
+16 El caso antes señalado del autógrafo de Florián de Ocampo (Biblioteca Capitular y Colombina 
+59-1-19) resulta un caso ilustrativo de este tipo de actividad. Se trata de un enorme corpus de 
+glosas realizadas en su gran mayoría por la mano de Ocampo que denota la labor de un verda­
+dero erudito, quien seguramente trabaja con una buena cantidad de material del cual obtiene 
+toda clase de información −desde complejas relaciones genealógicas hasta materia de carácter 
+legendario insertas en digresiones de temática heráldica− que se suma al texto de la crónica sin 
+intentar, aparentemente, contradecirlo o enmendarlo, aunque sí echar luz sobre aspectos que el 
+texto no contempla y que parecen volverse relevantes en el contexto en el cual se realiza esta 
+copia. 
+91
+ XXI.1 (enero-abril 2017) ISSN 1851-4669 | Apuntes para una lectura ideológica de la cronística medieval...: 75-93
+Referencias bibliográficas
+Abercrombie, Nicholas, Stephen Hill y Bryan S. Turner. La tesis de la ideología 
+dominante, trad. de A. Morales. Madrid: Siglo veintiuno, 1987.
+Althusser, Louis. “Ideología y Aparatos Ideológicos de Estado”. Ideología. Un 
+mapa de la cuestión. Comp. Slavoj Žižek. Buenos Aires: Fondo de Cultura 
+Económica, 2003, pp. 115-155.
+Ariño, Antonio. Sociología de la cultura. La constitución simbólica de la sociedad. 
+Barcelona: Ariel, 1998.
+Aurell, Jaume. “Northrop Frye y la revolución historiográfica finisecular”. Rilce, 
+vol. 25, n° 1, 2009, pp. 122-137. 
+Bal, Mieke. Teoría de la narrativa (Una introducción a la Narratología). Madrid: 
+Cátedra, 2001.
+Barthes, Roland. “El discurso de la historia”. Estructuralismo y literatura. Buenos 
+Aires: Nueva Visión, 1970, pp. 37-50.
+___. El placer del texto y Lección inaugural. Nicolás Rosa y Oscar Terán, trad. 
+Buenos Aires: Siglo XXI, 1982.
+Benítez Guerrero, Carmen. “Manuscritos y cronistas: los problemas del trabajo 
+en torno a la Crónica de Fernando IV de Castilla”. Cahiers d´Etudes Hispani­
+ques Médiévales, n° 37, 2014, pp. 77-88.
+___. La historia a través de la historiografía: estudio y edición de la Crónica de 
+Fernando IV. Sevilla: Universidad de Sevilla [Tesis doctoral inédita], 2016.
+Catalán, Diego. La Estoria de España de Alfonso X. Creación y evolución. Valencia: 
+Universidad Autónoma de Madrid, 1992.
+Dagenais, John. The Ethics of Reading in Manuscript Culture. Glossing the Libro 
+de buen amor. New Jersey: Princeton University Press, 1994. 
+de Certau, Michel. La invención de lo cotidiano. I Artes de hacer. México: Insti­
+tuto Tecnológico y de Estudios Superiores de Occidente, 2000.
+Eco, Umberto. Obra abierta. Trad. De Roser Berdagué. Barcelona: Planeta-Ag­
+ostini, 1992.
+Frye, Northorp. El camino crítico: ensayo sobre el contexto social de la crítica liter­
+aria. Trad. Miguel Mac-Veigh. Madrid: Taurus, 1986.
+Fuentes, Juan H. y Pablo E. Saracino. “Autógrafos de Florián de Ocampo en la 
+Biblioteca Capitular y Colombina de Sevilla”. Incipit, n° XXXV, 2015, pp. 
+235-249. 
+Funes, Leonardo. “Las crónicas como objeto de estudio”. Revista de Poética Me­
+dieval, n° 1, 1997, pp. 123-144.
+92
+Pablo Enrique Saracino | 
+ XXI.1 (enero-abril 2017) ISSN 1851-4669
+___. “Escritura y lectura en la textualidad medieval: notas marginales al libro de 
+John Dagenais”. Hispanic Research Journal vol. 1, n° 2, 2000, pp. 185-203, 
+doi: 10.1179/hrj.2000.1.2.185.
+___. “Las variaciones del relato histórico en la Castilla del siglo XIV. El período 
+post-alfonsí”. Estudios sobre la variación textual. Prosa castellana de los siglos 
+XIII a XVI. Germán Orduna et al, comp. Buenos Aires: SECRIT, 2001, pp. 
+111-134. 
+___. “La crónica como hecho ideológico: el caso de la Estoria de España de 
+Alfonso X”. La corónica vol. 32, n° 3, 2004, pp. 69-89, doi: 10.1353/
+cor.2004.0047.
+___. Investigación literaria de textos medievales: objeto y práctica. Buenos Aires: 
+Miño y Dávila, 2009. 
+___. “Historiografía nobiliaria castellana del período post-alfonsí: un ob­
+jeto en debate”. La corónica vol. 32, n° 3, 2015, pp. 5-38, doi: 10.1353/
+cor.2014.0040.
+Geertz, Clifford. “La idelogía como sistema cultural”. La interpretación de las 
+culturas. Alberto L. Bixio, trad. Barcelona: Gedisa, 1990, pp. 171-202. 
+Gómez Redondo, Fernando. Historia de la prosa medieval castellana I. La cre­
+ación del discurso prosístico: el entramado cortesano. Madrid: Cátedra, 1998.
+Jameson, Frederic. Documentos de cultura, documentos de barbarie. Madrid: Vi­
+sor, 1989.
+Hijano Villegas, Manuel. “Narraciones `descoyuntadas´ en la Castilla bajome­
+dieval: la Estoria de los godos”. Teoría y práctica de la historiografía hispánica 
+medieval. Aengus Ward, ed. Birmingham: University, 2000, pp. 32-58.
+Kantorowicz, Ernst H. The King´s Two Bodies. A Study in Mediaeval Political 
+Theology. Princeton University Press, 1957.
+Maingueneau, Dominique. “Problèmes d´ethos”. Pratiques n° 113/114, 2002, 
+pp. 55-67.
+Ong, Walter. Oralidad y escritura. Tecnologías de la palabra. México: Fondo de 
+Cultura Económica, 1987. 
+Ricœur, Paul. “Narratividad, fenomenología y hermenéutica”. Horizontes del re­
+lato. Gabriel Aranzueque, ed. Madrid: Cuaderno Gris, 1997.
+Rodríguez Velasco, Jesús D. “La Bibliotheca y los márgenes. Ensayo teórico sobre 
+la glosa en el ámbito cortesano del siglo XV en Castilla. I: códice, dialéctica 
+y autoridad”. eHumanista n° I, 2001, pp. 119-134. 
+Rosende, Marcelo. El texto en el tiempo. Estudio de la tradición manuscrita de la 
+Crónica de Fernando IV. Buenos Aires: Universidad de Buenos Aires [Tesis 
+doctoral inédita], 2011. 
+93
+ XXI.1 (enero-abril 2017) ISSN 1851-4669 | Apuntes para una lectura ideológica de la cronística medieval...: 75-93
+___. “La tradición manuscrita de la Crónica de Fernando IV”. Romance Philology, 
+n° 66, 2012, pp. 147-164, doi: 10.1484/J.RPH.5.100802.
+Ruiz García, Elisa. “El poder de la escritura y la escritura del poder”. Orígenes 
+de la monarquía hispánica. Propaganda y legitimación (ca. 1400-1520). Nieto 
+Soria, dir. Madrid: Dykinson, 1999, pp. 275-113. 
+Saracino, Pablo E. “Algunas observaciones acerca del problema de la unidad en 
+la Crónica de tres reyes”. Cuadernos de Historia de España, vol. 83, 2009, pp. 
+9-24.
+___. Crónica de Sancho IV. Buenos Aires: SECRIT, 2014.
+___. “La *Historia hasta 1288 dialogada y su relación con la Crónica de tres reyes”. 
+e-Spania, n° 18, 2014, http://e-spania.revues.org/23742.
+___. “La construcción ficcional de personajes históricos en la Crónica de Sancho 
+IV”, Estudios de Historia de España, n° XVI, 2014, pp. 135-172.
+___. “Algunos topónimos en la Crónica de Sancho IV: la ecdótica al rescate del 
+dato histórico”. Actas del VI Congreso Internacional de Letras. Transformaciones 
+culturales: Debates de la teoría, la crítica y la lingüística. Comp. Miguel Vedda 
+y Juan Pablo Moris. Universidad de Buenos Aires, 2014, pp. 1654-1660. 
+Soler Bistué, Maximiliano. “Derecho, narración y racionalidad jurídica. El caso 
+de la fazaña bajomedieval”. Cuadernos Electrónicos de la Filosofía del Derecho, 
+n° 22, 2011, pp. 162-189. 
+Voloshinov, Valentín. El marxismo y la filosofía del lenguaje. Alianza, 1992.
+White, Hayden. El contenido de la forma. Narrativa, discurso y representación 
+histórica. J. Virgil Rubio, trad. Barcelona: Paidós, 1992.
+Fecha de recepción: 28/11/15 / Fecha de aceptación: 18/08/2016

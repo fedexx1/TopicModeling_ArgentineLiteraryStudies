@@ -1,0 +1,592 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+REFLEXIONES EN TORNO A LA METÁFORA DEL
+CUERPO POLÍTICO EN CORIOLANO Y JULIO CÉSAR
+Reﬂecting on the Metaphor of the Body-Politic in Coriolanus
+and Julius Caesar
+Rauber, Romina Victoria
+ Romina Victoria Rauber *
+romina.rauber@unc.edu.ar
+Universidad Nacional de Córdoba, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 22, e2206, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 29/06/23
+Aprobación: 23/10/23
+URL: http://portal.amelica.org/ameli/journal/785/7854634005/
+DOI: https://doi.org/10.30972/clt.227302
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: Partiendo de la propuesta de Eduardo Rinesi (2021;
+2011) sobre la tragedia como un instrumento conceptual útil
+y potente para pensar los problemas de la política, realizamos
+una lectura crítico-literaria atenta de ciertas escenas y personajes
+en dos obras del ciclo romano shakespeariano: Julio César
+y Coriolano (fechadas en 1599 y 1608, respectivamente).
+Estudiamos las pujas de poder entre pueblo, líderes y élites
+para dar cuenta de que existe una reivindicación de la plebe
+frente a la clase senatorial. Asimismo, a partir de la metáfora
+del body politic (es decir, las analogías entre cuerpo y orden
+sociopolítico) encontramos evidencia en las obras del paso de una
+visión anticuada de la jerarquía social propia de la organización
+medieval feudal, a otra que requiere la construcción de nuevos
+consensos en torno a la cosa pública.
+Palabras clave: Shakespeare, Coriolano, Julio César, cuerpo
+político.
+Abstract: From a political and philosophical perspective,
+tragedy is viewed by Eduardo Rinesi (2021; 2011) as a productive
+conceptual framework for reﬂection on political issues. In
+accordance with this perspective, the aim of this paper is to
+present some thoughts resulting from the close literary analysis
+of two plays by William Shakespeare, Coriolanus (c. 1608) and
+Julius Caesar (1599), in connection with the idea of the body
+politic. Not only do we attest for the positive characterization
+of plebeian ﬁgures in contrast with the senatorial class, but
+we also present evidence of the historical change regarding the
+sociopolitical structure taking place in Shakespeare's time: from
+the obsolete, aristocratic, feudal worldview to a new perspective
+that requires the building of social consensus.
+Keywords: Shakespeare, Coriolanus, Julius Caesar, body politic.
+Notas de autor
+*
+Romina Victoria Rauber es Doctora en Letras, Licenciada en Letras Modernas, Correctora Literaria y Bachiller en Ciencias Humanas por la
+Universidad Nacional de Córdoba (UNC). También es Diplomada en Español como Lengua Segunda y Extranjera por la Universidad Tecnológica
+Nacional (UTN) y ha completado la Formación Pedagógica para Graduados No Docentes del Instituto Superior del Profesorado Tecnológico de
+Córdoba (ISPT). Cursa el Profesorado de Lengua Inglesa en la UNC. Actualmente es Profesora Adjunta con dedicación simple de Literatura de
+habla inglesa en la Facultad de Filosofía y Humanidades de la UNC, Profesora a cargo de los módulos Cultura y Pragmática de la Diplomatura en
+ELSE de la Fundación Set Idiomas, y parte del equipo de trabajo del examen CELU para el Consejo Interuniversitario Nacional (CIN). En el ámbito
+Cuadernos de Literatura, 2023, núm. 22, e2206, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+...Graves om which a glorious Phantom may
+Burst, to illumine our tempestuous day.
+Percy Bysshe Shelley
+1. Introducción
+Partiendo de la propuesta de Eduardo Rinesi (2021; 2011) –que la tragedia es un instrumento conceptual
+útil y potente para pensar los problemas de la política por su abordaje del conﬂicto, la reﬂexión sobre
+la precariedad de la vida humana y la puesta en evidencia de las discrepancias entre las intenciones y
+los resultados efectivos de la acción– y la lectura crítico-literaria atenta de ciertas escenas y personajes,
+presentamos algunas reﬂexiones en torno a la metáfora del cuerpo político (body politic) en dos obras del ciclo
+romano shakespeariano: Julio César y Coriolano (fechadas en 1599 y 1608, respectivamente).
+1 ¿Qué nos dan
+que pensar estas tragedias y algunas de sus alusiones político-corporales sobre las pujas de poder entre pueblo,
+líderes y élites? Para ello, no solo indagamos las implicaciones de la utilización de la fábula de Menenio Agripa
+sobre la rebelión de ciertas partes del cuerpo contra el estómago en la primerísima escena de Coriolano, sino
+que también nos detenemos en algunos aspectos de la caracterización de la plebe y los héroes en ambas obras,
+en contraste con la élite senatorial.
+2. La metáfora del cuerpo político
+Con “metáfora del cuerpo político” nos referimos a la conceptualización de la política a partir de analogías
+del conjunto social con la anatomía humana y la medicina, en las que también puede intervenir un
+componente teológico (según el estudio de Kantorowicz, 1985 [1957]). Si bien el clásico estudio de E. M.
+W. Tillyard (1984 [1943]) sobre la cosmovisión isabelina incluye referencias a la cuestión (en el abordaje
+de la correspondencia entre cuerpo político, macrocosmo y microcosmo, especíﬁcamente), no profundiza
+en la historia de la metáfora y su uso en el marco del pensamiento más especíﬁcamente político, razón por
+la cual hemos recurrido al trabajo de Andreas Musolﬀ (2010). Este académico, marcando sus diferencias
+con el campo de historia de las ideas en el que se inscribe el estudio de enfoque literario de Tillyard,
+puntualiza que no se trata de una conceptualización unívoca y ﬁja, sino que hay diferentes tradiciones,
+interpretaciones y reformulaciones que conforman un complejo metafórico dinámico y muy difundido en el
+mundo angloparlante hasta hoy. En general, se trata de una ﬁguración que se remonta a tiempos presocráticos
+y que, en el contexto de gran convulsión religiosa y política que marca el paso del siglo XVI al XVII, presupone
+ideas político-teológicas según las cuales Cristo es la cabeza y su cuerpo todo, la unidad (el corpus mysticum)
+de la iglesia.
+2 Con todo, la analogía entre el cuerpo humano y el Estado, si bien queda enmarcada por una
+visión estructurada y jerárquica de la existencia y el cosmos –la cual combina la perspectiva teológica con la
+secular y fundamenta el orden sociopolítico en un orden natural–, deja de ser el paradigma del concierto
+social que era en el Medioevo. Al mismo tiempo, las alteraciones sociales y políticas, cuando no son percibidas
+como el síntoma de una enfermedad que reclama la acción de un rey o príncipe “sanador” (healer), son
+consideradas monstruosas o antinaturales. Para mediados del siglo XVII es evidente que la perspectiva de la
+jerarquía natural ha empezado a cambiar, como lo patentiza el Leviatán de omas Hobbes, donde aparece
+una visión menos orgánica y más mecanicista, o “artiﬁcial”, del cuerpo político, con un énfasis mayor en
+la idea de “construcción”: la commonwealth (palabra inglesa que se utiliza ya en el siglo XVI para signiﬁcar
+“república” y que, en general, se reﬁere a la idea de bien público) es concebida como un cuerpo artiﬁcial
+de la investigación, ha participado en numerosos proyectos de estudios sobre literatura y publicado varios artículos. De manera independiente, realiza
+traducciones de inglés a español y revisión de textos académicos y cientíﬁcos.
+Romina Victoria Rauber. REFLEXIONES EN TORNO A LA METÁFORA DEL CUERPO POLÍTICO EN
+CORIOLANO Y JULI...
+PDF generado a partir de XML-JATS4R
+producto de un contrato social para librarse del estado de naturaleza, que es el de la guerra de todos contra
+todos. Concomitantemente, las dos tragedias que nos ocupan dan cuenta de ese cambio en la tensión entre
+un orden “natural” (por naturalizado) que busca conservarse y las luchas por transformarlo. Ambas remiten
+a dos momentos de transición en la historia de Roma y se centran en un héroe excepcional cuya muerte
+contribuye al fortalecimiento de la república en un caso y a la aceleración de su desintegración en el otro. Este
+enfoque en el conﬂicto es signiﬁcativo respecto del contexto de producción shakespeariano, época cuando la
+idea de que hay un Orden que preside las vidas individuales y colectivas estalla (Rinesi, 2011, p. 32). Dado
+este marco, empezamos por analizar la caracterización de los plebeyos, grupo social que tiende a representar
+las fuerzas transformadoras en oposición a la élite gobernante, que busca preservar el orden establecido.
+3. La plebe: entre el sujeto colectivo con perspectiva propia y la masa aberrante
+Así como al comienzo de Hamlet el tiempo está desquiciado (“the time is out of joint”, Hamlet, 1.5.189), se
+puede decir que al comienzo de Coriolano lo que está out of joint –o descoyuntado, desarticulado– es el body
+politic. La primera escena del drama alude al peligro de la fragmentación política al presentar un grupo de
+ciudadanos amotinados y armados, en plan de rebelión debido a los elevados precios de los granos.
+Hay indicios de que este pueblo hambreado posee cierta conciencia de clase: se autorreconocen tres
+veces como “el pueblo común” (Cor, 1.1.5-6, 21)
+3 en oposición al patriciado (a quienes, a la vez que
+identiﬁcan como autoridad, señalan como enemigo en el personaje de Cayo Marcio) y reconocen el
+desprecio que despiertan en la élite –“ellos dicen que los peticionantes pobres tienen el aliento fuerte” (Cor,
+1.1.46), donde “aliento fuerte”, asociado con el consumo de ajo y la bebida, expresa repulsión–, así como
+la opresión de que son objeto (“nuestro sufrimiento es para ellos una ganancia”, Cor, 1.1.16-17).
+4 Estos
+plebeyos demuestran, además, capacidad para la deliberación pública: los dos ciudadanos individualizados
+intercambian perspectivas diferentes sobre Cayo Marcio, una fuertemente reprobatoria y otra mucho más
+matizada. Y aunque podría argumentarse que la doble repetición en las respuestas de “Todos” a la arenga
+del Primer ciudadano (“Estamos resueltos, estamos resueltos”; “Sabemos, sabemos”, Cor, 1.1.4, 6) puede
+contribuir a una caracterización negativa, de multitud conducida como rebaño, tales repeticiones también
+pueden leerse como una marca de autodeterminación colectiva para la defensa de sus intereses. En deﬁnitiva,
+se trata de una multitud organizada y dispuesta a luchar con sus picas por razones atendibles (“por hambre
+de pan”, Cor, 1.1.19) y por lo que consideran mínimamente justo: “Lo que le sobra a la autoridad nos
+aliviaría” (Cor, 1.1.13).
+5
+Es habitual contrastar los grupos plebeyos de Coriolano y Julio César como lo hace Agnes Heller (2002),
+para quien en el primer caso se trata de una multitud de rostros individualizados y, en el segundo, de
+una “faceless multitude” (p. 288), es decir, una masa amorfa u homogénea en la cual no se distinguen los
+integrantes. Ahora bien, si atendemos a la primera escena de la pieza de 1599, podemos constatar que también
+allí hay una interesante individualización entre los commoners. Se trata del Ciudadano 2 o zapatero (cobbler),
+cuyos ingeniosos parlamentos están cargados de doble sentido y sirven para dejar a los tribunos Flavio y
+Marulo bastante deslucidos. A diferencia de lo que Heller postula como la labor política sensata de Bruto
+y Sicinio en Coriolano, la ﬁjación de Flavio y Marulo con que los trabajadores se vistan como tales (no con
+sus mejores atuendos) y se queden en el taller –en lugar de “pasearse en un día laborable” (JC, 1.1.4) para
+festejar el retorno de Julio César– pone en evidencia que no reconocen ni aceptan la voluntad popular. Al
+mandarlos a trabajar y tildarlos de haraganes, es evidente que se identiﬁcan más con los intereses del patriciado
+que con aquellos a quienes, se supone, representan. Si consideramos, además, esta escena en paralelo con la
+primera de Coriolano, hay cierta equivalencia de funciones de ambos tribunos con Menenio (posiblemente
+un plebeyo devenido patricio, aunque en Shakespeare no conste ese origen) en la medida que se trata de
+Cuadernos de Literatura, 2023, núm. 22, e2206, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+personajes mediadores conservadores, que buscan que la gente común vuelva a su posición o función habitual
+dentro del cuerpo político tal como lo concibe la élite (volveremos sobre esto más adelante).
+La marcada inseguridad que Flavio y Marulo exhiben respecto del oﬁcio del cobbler (primeramente
+“reparador” en la versión de Vilariño, expresión que logra transmitir la indeterminación inicial que opera en
+los parlamentos del zapatero en inglés) muestra que a estos tribunos les incomoda que los trabajadores no se
+limiten al cumplimiento de sus labores, y más que maniﬁesten por cuenta propia sus simpatías “partidarias”.
+La insistencia boba de Flavio al preguntar por el oﬁcio de su interlocutor choca contra la ﬁna ironía del
+trabajador: “A trade, sir, that I hope I may use with a safe conscience, which is indeed, sir, a mender of
+bad soles” (JC, 1.1.13-14).
+6 ¿Podrían Flavio y Marulo decir lo mismo respecto de la conciencia con que
+realizan su propio trabajo? La paronomasia de “soles” (suelas) y “souls” (almas), en cambio, nos sugiere que
+el zapatero, que lleva “a esos [hombres] por las calles” (JC, 1.1.27) a la manera de un cabecilla, es alguien que
+enseña a pensar y sentir (por cuanto enmienda las almas) tanto como contribuye al buen andar del cuerpo
+(al remendar las suelas). ¿Podría haber aquí elementos que remitan a ese “republicanismo” que Rinesi detecta
+en Shakespeare, respecto del contrapunto u oposición que sus dramas presentan entre un mal y un buen rey
+(2021, p. 58), pero en una clave más amplia? Nos referimos a cierto contrapunto habilitado por la ironía
+dramática (uno de los recursos de composición en los que se funda la maestría del autor inglés), que nos invita
+a sopesar el grado de compromiso con el bien común de aquellos en posiciones de poder más allá del rey (y por
+acotado que ese poder sea), como los tribunos que no hacen lo que predican. Otros personajes, como veremos
+luego, con roles de más peso tanto política como dramáticamente, serán también objeto de la implacable
+ironía shakespeareana. De este modo, el contraste irónico entre la alienación y el servilismo de los tribunos
+por un lado, y el ingenio aﬁlado del humilde zapatero por el otro, permite una visión más particularizante de
+esa multitud a menudo tenida por homogénea cuando no monstruosa.
+La atribución de monstruosidad al pueblo reunido, además de señalar su completo desajuste respecto del
+cuerpo político, se vincula con interpretaciones que resaltan su carácter inconstante, inﬂuenciable, pasional
+y violento, como lo sugieren en Julio César las reacciones a los discursos de Bruto y Marco Antonio (en 3.2)
+y, muy especialmente, la escena en que algunos ciudadanos atacan a Cina el poeta (en 3.3). Heller (2002)
+analiza estos episodios y considera que la multitud plebeya no actúa, sino que reacciona de manera pasional
+para terminar por convertirse en una masa alborotadora, enfurecida e irracional, si bien luego será superada
+por las acciones de los triunviros y la guerra civil. A este respecto quisiéramos plantear algunos reparos.
+Para empezar, es importante advertir que la violencia de matar no la inician ni los plebeyos ni el discurso
+de Marco Antonio (aunque esto no signiﬁca que no estén involucrados en su escalada), sino los conjurados
+cuando apuñalan a traición a César. A este ﬁn parece servir también la breve descripción que hace Artemidoro
+de una horda que incluye a los patricios, imagen sugestiva de la guerra civil en ciernes: “...y el tropel que
+marcha tras los talones de César –pretores, senadores y comunes solicitantes– podría estrujar a un hombre
+débil hasta casi matarlo” (JC, 2.4.35-36). Aquí, el “hombre débil” bien podría ser el César epiléptico y sordo
+de un oído que Casio menosprecia, mientras que también apunta a las víctimas ulteriores del caos social, los
+débiles e indefensos en general.
+Luego, que los plebeyos que escuchan a Bruto se vean fugazmente persuadidos por su retórica (y el “Que
+sea César” del Ciudadano 3 es un indicio irónico de ese efecto efímero) no debe hacer perder de vista que al
+comienzo del primer acto hay un grupo de plebeyos cesaristas cuya caracterización individualizada, como ya
+señalamos, no es negativa ni simplona. Es más, inmediatamente después del atentado, es palpable el temor
+de los conspiradores por la reacción de un pueblo que saben adepto a César, razón por la que Casio le
+recomienda al anciano Publio que se vaya. Más aún, antes que el discurso de Antonio, es el acto mismo de los
+conspiradores lo que horroriza a los plebeyos y enardece sus ánimos: “Niños, mujeres y hombres, espantados,
+se miran, lanzando gritos y corren, como si éste fuera el día del Juicio” (JC, 3.1.86) reporta Trebonio, y
+luego Bruto lo conﬁrma al pedirle paciencia a Antonio hasta que hayan “apaciguado a esta multitud que
+está fuera de sí por el terror” (JC, 3.1.179-180). Por otra parte, antes del discurso de Bruto (al comienzo
+Romina Victoria Rauber. REFLEXIONES EN TORNO A LA METÁFORA DEL CUERPO POLÍTICO EN
+CORIOLANO Y JULI...
+PDF generado a partir de XML-JATS4R
+de 3.2), los ciudadanos demandan explicaciones y se dividen para escuchar al noble romano o a su amigo
+Casio (cuyo discurso se menciona, pero no se incluye en la pieza) con el propósito de: “Después de oírlos
+separadamente comparemos la razones de ambos” (JC, 3.2.9-10). Esto implica que no es el pueblo como
+totalidad el que atiende a los discursos efectivos, sino una parte de él. Considérese que no solo se dividen, sino
+que antes muchos han huido despavoridos. Además, quienes componen esa parte, ese público de los discursos,
+al principio no presentan una conducta homogénea (las citas que siguen son de JC, 2.2, solo indicamos los
+versos en cada caso para no redundar): están los que pretenden entender y analizar (como ya ejempliﬁcamos),
+los distraídos o confundidos (“¿Qué decía de Bruto?”, 57), los que asienten (“Es cierto; es una bendición que
+Roma se haya liberado de él”, 62), los que ordenan (“Eh, ¡a quedarse! Y a escuchar a Antonio”, 64) y los que
+sacan conclusiones (“Y, si lo piensas bien, César fue víctima de una gran injusticia”, 101-102). Asimismo,
+¿pueden ser estos solo cuatro ciudadanos? Es difícil creer que apenas cuatro actores (por la numeración de los
+plebeyos en la pieza) bastarían para representar a una multitud alborotada, y la variada experimentación en las
+puestas teatrales reseñada por Martin Spevack (2004, p. 59-60), atestigua las posibilidades de interpretación
+a que dan pie las escenas 3.2 y 3.3. El número reducido se torna más verosímil en el caso de la patota que
+ataca a Cina el poeta (irónicamente, también los nobles Casio y Bruto maltratan a un poeta que los insta a
+no pelearse en 4.3). Y si bien estas consideraciones no quitan que al ﬁnal del tercer acto sea la horda violenta
+e irracional que describe Heller la que prevalezca como representación de la plebe, no debemos leerla como
+deﬁnición de la condición plebeya en sí, sino como indicio de que la crisis del orden político es completa y ha
+llegado a conmover los cimientos (los pies, en la analogía corporal) de la sociedad, para desde ahí extenderse
+a todo el cuerpo social por medio de la guerra, la máquina suprema de oprimir los cuerpos.
+Cabe considerar, además, la pregunta retórica de Casio, “¿quién es tan ﬁrme que no pueda ser
+seducido?” (JC, 1.2.301), puesto que señala una situación política en que la propia clase dirigente se ve
+dominada más por las pasiones que por las razones. Así, el personaje citado ha seducido a Bruto para que
+este, a su vez, seduzca a otros con el propósito de eliminar a César. Por su parte, Antonio seduce a la plebe
+para que tome venganza. Y antes, César los habría seducido a todos para incrementar su poder de decisión
+sobre los asuntos de Roma. Si la política es, entre otras cosas, el arte de “inducir, mover, obligar a alguien con
+razones a creer o hacer algo” (DRAE, “Persuadir”, énfasis nuestro), en la Roma del 44 a. C. se acerca más bien
+al arte de “persuadir a alguien con argucias o halagos para algo, frecuentemente malo”, o bien, “embargar o
+cautivar el ánimo a alguien”, que son dos de las tres acepciones del verbo “seducir” en el diccionario citado.
+Si esa es la política romana de entonces, ¿por qué habría de sorprendernos que la plebe sea inﬂuenciable?
+En un contexto donde los sentimientos o pasiones del miedo y la envidia (del creciente poder de César), la
+amistad (por la que Casio se deja llevar por las malas decisiones de Bruto) y la admiración (a César, a Bruto)
+cumplen un rol tan importante en los (des)acuerdos para la gestión de la vida en común, ¿por qué adoptar la
+perspectiva altiva de Coriolano y fustigar la mutabilidad de la “hedionda chusma” (Cor, 3.1.67)? ¿Por qué no
+serían válidas sus aspiraciones a medrar y disfrutar de los paseos, quintas y jardines recién hechos a orillas del
+Tíber (JC, 3.2.237-239) cuando quienes están más preparados para liderar (se supone) responden a intereses
+mezquinos o alianzas particulares? ¿Por qué sería repudiable, más allá de las ansias antitiránicas de algunos, la
+aceptación popular de Julio César como líder principal? Es cierto, hay un aspecto conﬂictivo en la veneración
+de César por el pueblo, y es que está correlacionada con una distribución más equitativa de la riqueza producto
+de la expansión imperial. Por consiguiente, si Marco Bruto no puede conservar la nobleza en la ignominia ni
+permanecer honesto mientras se roba indirectamente la vil paga de los campesinos (cf. JC, 4.3.65-82), ¿hasta
+qué punto se puede esperar que la masa plebeya goce de la paz sin ponerse arrogante, parafraseando a Cayo
+Marcio (Cor, 3.1.151-153)? En todo caso, esto constituiría el aspecto trágico del aumento de la opulencia de
+la ciudad de Roma gracias a las conquistas realizadas por César.
+Hemos mencionado a Cayo Marcio. El protagonista de Coriolano supera a Casca en el uso de caliﬁcativos
+peyorativos para referirse al bajo pueblo. Entre ellos, es particularmente interesante el parangón con la Hidra
+de Lerna (cf. Cor, 3.1.91-96), el monstruo de múltiples cabezas al que se enfrentó y venció Hércules. Además
+Cuadernos de Literatura, 2023, núm. 22, e2206, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+de ser una expresión del conﬂicto central que plantea esta tragedia más tardía (la oposición entre los valores
+del héroe excepcional y los de la gente común), la alusión mitológica en boca del hercúleo Coriolano, al
+focalizar en la monstruosidad, revela una perspectiva tanto de clase como particular. Se trata de la mirada
+aterrorizada de alguien cuya aspiración a la máxima individualización va de la mano de una percepción de
+la colectividad como multiplicidad indiferenciada, desordenada y peligrosa. Y potencialmente devoradora.
+De hecho, el texto dramático presenta una densa imaginería en torno a las ideas de hambre, depredación,
+fragmentación y devoramiento (cf. Bliss, 2010), congruente con la esceniﬁcación de una lucha más elemental
+por el alimento. Así lo marca el inicio de la obra con la disputa sobre el precio de los granos, necesarios para
+producir el pan y la cerveza. La naciente Roma republicana aparece de este modo aún poco consolidada: está
+dividida en su cuerpo político, sus partes pugnan por el control de aquellos bienes más básicos de los cuales
+dependen los cuerpos concretos para sobrevivir.
+4. La fábula de Menenio: el patriciado devorador
+En esa primera y larga escena de Coriolano ya referida, en la que se dramatiza la rebelión plebeya de mediados
+de la década de 490 a. C. en Roma, Shakespeare recurre a la fábula de Menenio Agripa, un importante
+componente de la tradición de analogías relativas al cuerpo político. Se sabe que el dramaturgo inglés sigue,
+entre otras, a su principal fuente, la traducción realizada por omas North de las Vidas paralelas de Plutarco,
+pero también, que introduce dos grandes novedades: convierte el relato monológico de Menenio en un
+diálogo entre este y la plebe, y le da al patricio un rol más signiﬁcativo en comparación con Plutarco, quien
+lo hace desaparecer después de contar la fábula (según observa Bliss, 2010). Se trata de un relato al que se
+le imputa en general un sesgo conservador (Musolﬀ, 2010, p. 82), observación que se aplica al uso que de
+él hace Menenio con el ﬁn de inclinar los ánimos de los amotinados en favor de la clase senatorial, para
+que, en lugar de verla como un “remolino… en medio del cuerpo, perezoso, inactivo, almacenando siempre
+las viandas, sin hacer esfuerzos como el resto” (Cor, 1.1.79-88), la consideren “almacén y taller del cuerpo
+entero”, desde la cual cada una de las partes recibe “la ración natural de la que viven” (Cor, 1.1.111-124).
+Ración que, además, es de la mejor calidad frente a las sobras que le quedan al vientre: “De mí obtenéis la
+ﬂor de la harina de todo y no más que el salvado me dejáis” (Cor, 1.1.125-126). Menenio pretende transmitir
+la idea de un vientre=senado alimentariamente altruista y devotamente paternal: los “timones del estado…
+os cuidan como padres” (Cor, 1.1.63) les asegura a los plebeyos. En pos de validar el orden establecido,
+no solo apela a la metáfora del cuerpo político como conjunto de órganos interdependientes (análogos de
+los distintos sectores sociales) con funciones claramente delimitadas por naturaleza (lo cual conlleva que la
+condición social es inalterable) y de cuya armonía depende el bien común, sino que redirige la acusación de
+mal funcionamiento que hacen los rebeldes contra ellos mismos. No es el vientre=senado el que está fallando,
+sino los miembros=plebeyos rebeldes por no hacer su parte (que sería proveer y aguantar las penurias sin
+quejarse). Ante la evidencia concreta de la escasez y el desfallecimiento de hambre que denuncian, Menenio
+esquiva la cuestión de la disfunción del vientre=senado en cuanto a la distribución del alimento y culpa a los
+dioses, para luego instar al pueblo a rezar: “las rodillas ante ellos, no los brazos, ayudan” (Cor, 1.1.60). Queda
+claro, así, que sus argumentos son los propios de una aristocracia medieval que se ampara en la cosmovisión
+cristiana y el pensamiento mágico-religioso para desentenderse de las responsabilidades últimas que le caben
+a la élite gobernante respecto del bien común.
+A pesar de ser recibido por los ciudadanos que lideran la protesta como “el digno Menenio Agripa, alguien
+que siempre ha amado al pueblo” y “alguien suﬁcientemente honesto” (Cor, 1.1.39-41), los argumentos del
+patricio se ven contradichos por el contexto dialógico y factual en que están inmersos. Como detecta Bliss
+(2010), la fábula parece cómicamente mal elegida ya que, efectivamente, el senado no está distribuyendo los
+granos. La ironía se ve incrementada tanto por las reacciones del Segundo ciudadano a medida que Menenio
+cuenta la fábula como por la selección léxica. Ya desde el momento cuando este último anuncia que tiene
+Romina Victoria Rauber. REFLEXIONES EN TORNO A LA METÁFORA DEL CUERPO POLÍTICO EN
+CORIOLANO Y JULI...
+PDF generado a partir de XML-JATS4R
+“un buen cuento” para relatarles, su interlocutor le advierte que no crea “que podréis distraernos de nuestra
+desgracia con un cuento” (Cor, 1.1.77-78). Si bien hay una actitud “infantilizadora” de Menenio hacia la
+plebe, no nos parece que la impaciencia por conocer la respuesta del estómago indique que el Segundo
+ciudadano cae en esa trampa, como sugiere el profesor Michael Delahoyde en su comentario de la primera
+escena (2017).
+7 Al contrario, todo el diálogo a propósito de la fábula pone en evidencia la suspicacia del
+plebeyo, que llega al abierto desafío cuando le enumera burlonamente las analogías habituales de la metáfora
+corporal y lo hace, no en prosa (la forma de expresión lingüística habitual de la gente común en Shakespeare),
+sino en verso (que, en inglés, corresponde a los personajes nobles):
+Segundo ciudadano: ¿La respuesta del vientre?
+¡Bah!, la regia cabeza, y el ojo vigilante,
+El sabio corazón, nuestro soldado el brazo,
+Nuestro corcel la pierna, nuestro clarín la lengua
+Y otros equipamientos y nimios auxiliares
+De nuestra construcción, si ellos todos… (Cor, 1.1.97-107)8
+¿Pero cómo se atreve un mero plebeyo a hablarle de igual a igual a un representante del senado justamente
+después de que este le haya enrostrado que ellos, los patricios, “no son como vosotros” (Cor, 1.1.96-97)?
+Una sociedad monárquica ciertamente no lo toleraría, pero estamos en la República romana. ¿Y cómo no
+va a sorprenderse Menenio?: “A fe mía, este tipo sí que habla” (Cor, 1.1.103). El duelo verbal entre ambos
+transmite la imagen de un pueblo que no es tan ingenuo como para creer el cuentito de que debe soportar
+la adversidad con paciencia cristiana, “algo de eso que tenéis poco” (Cor, 1.1.108-109), según se lamenta
+Menenio. El desafío llega a su punto cúlmine cuando el ciudadano, luego de caliﬁcar al vientre=senado
+de “glotón” y “cloaca”, llega a preguntar explícitamente qué podría responder ese vientre si todo el cuerpo
+se quejara de su trabajo, no solo la plebe, sino también el rey, el ejército… toda la “construcción” (fabric,
+en inglés). Expresión sumamente interesante porque, anticipando la concepción hobbesiana, impugna la
+pretensión naturalizadora que alienta las analogías de referencia y sugiere conciencia respecto del carácter
+manipulado y manipulador de la metáfora que usa Menenio, quien en sus respuestas maniﬁesta una creciente
+exasperación, aunque sin amedrentar al ciudadano. La paciencia que demanda Menenio es posiblemente
+una forma de ganar tiempo para seguir “limando” su narración (Cor, 1.1.76), mientras que el disgusto de su
+interlocutor ante tal morosidad (“La alargáis demasiado”, Cor, 1.1.110) y la actitud inquisitiva constante son
+sugestivas de la gran agudeza intelectual del Segundo ciudadano. Sin embargo, la interrupción del diálogo por
+la llegada de Cayo Marcio, justo después de que Menenio responda “qué aplicación le ve” a la fábula e insulte
+vilmente al plebeyo, puede favorecer una impresión contraria, de que es el patricio quien ha prevalecido.
+Como señala Goddard (1960), Menenio es un personaje que engaña al público. Ni es honesto ni es amigo
+del pueblo. Con su cuentito busca desorientar a los plebeyos respecto de sus legítimos reclamos mientras que,
+bajo presión, solo puede recurrir a los insultos y la denigración de tales interlocutores, propia del patriciado
+(como se observa en su última respuesta al Segundo ciudadano). Este ethos discursivo de la élite, tanto en
+Julio César como en Coriolano, exhibe su prerrogativa de clase superior para dominar la palabra y oprimir
+verbalmente a quienes continuamente tratan como ingenuos infantes o simples brutos. Este predominio
+discursivo de la aristocracia en la tragedia (que es también inevitable por ser un género deﬁnido por la
+imitación de la acción de hombres de elevada condición social) se ve socavado, sin embargo, por la sutil ironía
+dramática de Shakespeare, de la que venimos dando cuenta con la lectura atenta de ciertos pasajes.
+Ironía dramática que Goddard (1960) capta ﬁnamente en su análisis de Menenio, en el que demuestra
+cabalmente la necedad, hipocresía y esnobismo del personaje. De todas las observaciones agudísimas del
+académico estadounidense, quisiéramos destacar una en particular: que la clave del personaje es su estómago
+(p. 226). Así, por ejemplo, tenerlo satisfecho determina para Menenio el éxito de la negociación con el
+renegado Coriolano, según lo detalla en 5.1:
+Cuadernos de Literatura, 2023, núm. 22, e2206, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Menenio: …No lo han hallado bien; aún no había comido;
+Con venas sin llenar, está ía la sangre,
+Miramos mal al día, no estamos en momento
+De dar o perdonar; si en cambio rellenamos
+Esos conductos y esos canales de la sangre
+Con vino y alimento, se hace el alma más dócil
+Que al ayunar como un sacerdote. Por eso
+Veré que haya comido para mi petición,
+Y sólo entonces voy a arremeter. (Cor, 5.1.51-59)
+Este parlamento, considerado en paralelo con las declaraciones y actuación del personaje en la escena 1.1,
+muestra irónicamente que el “sabio” patricio no sigue sus propios consejos a la hora de negociar con una
+multitud hambrienta que, en su comprensible enojo, aún conserva la mentada paciencia cristiana (que ni
+los sacerdotes en ayunas tendrían, según el razonamiento de Menenio en la cita precedente) de no buscar
+alianzas enemigas y lanzarse draconianamente contra su propia ciudad, estando además dispuesta a dialogar
+pacíﬁcamente.
+Heller (2002) está en lo cierto: los patricios salen peor parados que los plebeyos en Coriolano, y a esto
+contribuye la caracterización de Menenio y su uso de la fábula del estómago, una combinación que apunta
+a su sibaritismo y grandilocuencia petulante, y cuyo efecto irónico conﬁrma las conclusiones del Segundo
+ciudadano: “Si no nos devoran las guerras, ellos lo harán; y ese es todo el amor que nos tienen” (Cor,
+1.1.69-70). Es sumamente interesante que ese mismo personaje sea el que deﬁende a Cayo Marcio en 1.1,
+cuando reconoce los servicios a la patria de aquel y niega que sea codicioso. En el fondo, ¿no comparten el
+pueblo y el héroe esa falta de codicia? ¿No están ambos, en deﬁnitiva, siendo “consumidos” por una élite
+egoísta y glotona? ¿No lo sugiere así parte de la escena 2.1 (ciertamente grotesca, como la caliﬁca Bloom,
+2008), en que Menenio y Volumnia, padre putativo y madre natural, se entusiasman con el recuento de las
+cicatrices dejadas por la guerra en su querido Cayo Marcio, así como el hábito de dictarle lo que debe decir
+o hacer, y presionarlo para asumir un rol que claramente rechaza? ¿No estarían personiﬁcando de este modo
+a la “cormorant belly” (Cor, 1.1.104) –expresión con que se alude a un estómago insaciablemente ambicioso
+de poder– en su clara predisposición a sacriﬁcar en el altar de la guerra a su hijo? ¿Qué es, entonces, Roma,
+que requiere tanta sangre sacriﬁcada para mantenerse viva? ¿Esos “ríos de vuestra sangre” (Cor, 1.1.118), por
+los que la ciudad se alimenta, no son acaso literalmente las múltiples y frágiles vidas individuales (incluida la
+de Cayo Marcio) que se desgastan con el trabajo y la guerra? ¿Es Roma esa megamáquina postulada por Lewis
+Mumford, esa “estructura invisible, compuesta de partes humanas vivas pero rígidas, a cada una de las cuales
+se le asignaba su tarea especíﬁca, su trabajo, su función, para realizar todas las inmensas obras y los grandiosos
+designios de tan enorme organización colectiva” (Mumford, 2010, p. 312)? O bien, como pregunta el tribuno
+Sicinio, “¿Qué cosa es la ciudad sino el pueblo?” (Cor, 3.1.200). De las ochenta y ocho veces que se menciona
+la palabra “Roma” en la obra, según Bliss (2010), solo seis lo hacen los tribunos y ninguna los plebeyos. La
+disyuntiva que plantean estos interrogantes expresa la tensión constitutiva de la política (Rinesi, 2011), entre
+su aspecto de maquinaria institucional, por un lado, y el de práctica de oposición y lucha contra esa máquina,
+por otro. En sus manifestaciones excesivas o extremas, ambos aspectos comparten una cualidad monstruosa:
+ya sea como multitud-Hidra antagónica e impredecible; ya sea como orden marcial, opresivo y devorador,
+engendrador de ﬁeros y “solitario[s] dragón[es]” (Cor, 4.1.30) como Coriolano.
+5. Julio César: figura mítica, regia y popular
+Coriolano es un héroe hercúleo, un guerrero excepcional, en las antípodas del héroe popular que es Julio
+César. Si al primero le causa aversión todo contacto con el pueblo, el segundo, en cambio, se entrega a la ciudad
+de cuerpo entero. Mientras Coriolano rechaza mostrarles sus cicatrices de guerra (su desnudez y fragilidad,
+Romina Victoria Rauber. REFLEXIONES EN TORNO A LA METÁFORA DEL CUERPO POLÍTICO EN
+CORIOLANO Y JULI...
+PDF generado a partir de XML-JATS4R
+sin más), la muerte de César se convierte rápidamente en un martirio. De su cadáver monumentalizado en
+3.2, tal como anticipa Decio Bruto, “la gran Roma extraerá una sangre viviﬁcante” (JC, 2.2.88). El propio
+Marco Bruto considera la “acción sangrienta” de “cortar la cabeza” una puriﬁcación y un sacriﬁcio “apto para
+los dioses” (cf. JC, 2.1.162-183). Y si bien la muerte de Coriolano también puede interpretarse como una
+inmolación a favor de Roma, está desprovista de las connotaciones míticas que posee la de Julio César.
+En las metáforas del cuerpo político medievales, la cabeza y el alma se equiparan con el rey, mientras que
+los campesinos y/o trabajadores, con los pies.
+9 Retomando la paronomasia de la escena 1.1 de Julio César,
+el juego con soles y souls (suelas y almas, respectivamente), ¿no hace converger en un signiﬁcante fónico los
+dos extremos del cuerpo político: el rey o líder supremo, y la plebe? Y si consideramos esta convergencia, ¿no
+podría implicar, en la tragedia en cuestión, cierta reverberación de la teología política cristiana medieval, para
+la cual la Iglesia y Cristo, pueblo y líder, conforman un solo cuerpo? En sintonía con ese tipo de analogía,
+el personaje de César presenta atributos cristológicos (míticos, si se preﬁere) en su caracterización. A la
+par que se enfatiza la vulnerabilidad de su cuerpo físico (los ataques epilépticos, la sordera) y el carácter
+olímpicamente constante que no puede evitar la traición, también hay rasgos que lo constituyen en una ﬁgura
+regia e incluso divina, cuyo espíritu perdurable y ambivalente probablemente sea la motivación del título de
+la obra. Así, se puede decir que en esta tragedia hay una exploración del individuo excepcional cuyos atributos
+(y atribuciones) lo convierten en algo más grande que él mismo. Y es que César, si se mantiene la analogía
+teológico-política, es el pueblo. En la medida en que es “ungido” por este, en su cuerpo se proyecta el cuerpo
+político, a la manera como se concebía en el Renacimiento la relación entre un micro y un macrocosmos (cf.
+Elton, 1996).
+10 ¿Pero cómo se efectúa esta identiﬁcación en la pieza shakespeareana?
+Como observa Harold Bloom (2008), el Julio César de Shakespeare se destaca por el afecto que le profesan
+Marco Antonio, el pueblo y el propio Bruto. La primera escena de esta tragedia nos muestra a un grupo de
+plebeyos que espontáneamente, sin la dirección de sus tribunos, lo celebra como líder y con sus gritos hace
+que, en la segunda escena, Bruto tema “que el pueblo elija rey a César” (JC, 1.2.78-79, subrayado nuestro).
+Son los ofrecimientos juguetones de una corona por parte de Antonio y el triple rechazo por parte de César
+los que suscitan el alborozo popular, pero ¿de qué se alegra la plebe?, ¿de que César pueda ser su rey, de la
+modestia exhibida por el rechazo o del rechazo en sí? ¿O acaso están todos simplemente bromeando en el
+contexto de una ﬁesta pública? El reporte claramente sesgado de Casca de “cómo sucedieron las cosas” le
+quita peso al episodio y al símbolo regio:
+Casca: …Fue pura bufonería; no le presté demasiada atención. Vi que Marco Antonio le ofrecía una corona, pero tampoco era
+una corona; era una de esas coronitas y, como dije, la apartó una vez, pero, pese a todo, a mi parecer, le hubiera complacido
+conservarla. (JC, 1.2.233-237, subrayado nuestro)
+Con “coronitas” traduce Vilariño “coronets”, prenda que no distingue necesariamente a la cabeza de un
+reino sino la de un condado (cf. Clark citada por Delahoyde, 2017, párr. 17), y que incluso puede interpretarse
+como elemento de cotillón. Si se toma en cuenta otro reporte de Casca: “los senadores piensan mañana
+nombrar rey a César; y él llevará por tierra y mar, corona, en todas partes, salvo aquí en Italia” (JC, 1.3.87-88,
+subrayado nuestro); es decir, si no es una corona real ni va a ser portada en Roma, ¿se puede concluir
+fehacientemente que el temor y la consecuente acción de los conjurados tengan fundamentos efectivos en el
+marco de la versión shakespeareana de esta historia romana?
+Con toda su ambigüedad, la escena de la pseudocoronación no deja de sugerir una combinación de elección
+y unción, que indica cierta captación de los fuertes cambios que estaban ocurriendo en el contexto histórico de
+producción de la obra, época de transición entre el feudalismo y la modernidad.
+11 En este sentido, la remisión
+simultánea a principios tanto monárquicos como republicanos (todo indica que hay cierto consenso popular
+antes de la conjura respecto de quién debe liderar el Estado romano) está en sintonía con los señalamientos
+de Rinesi (2021) respecto de los sentidos de la palabra “república”. El ﬁlósofo argentino identiﬁca, en el
+Cuadernos de Literatura, 2023, núm. 22, e2206, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+pensamiento político europeo desde el Renacimiento hasta el siglo XIX, un sentido más amplio que el
+aportado por la deﬁnición aristotélica de politeia. Un sentido con arreglo al cual es posible que formas no
+republicanas de gobierno (como la monarquía) presenten rasgos republicanos por su compromiso con la
+justicia, la ley, el bien común. Consideraciones sobre una forma mixta de gobierno en ese sentido habían sido
+planteadas en el contexto inglés por Sir John Fortescue, importante jurista de la corte de Enrique VI que en
+el siglo XV escribió un tratado con recomendaciones de parte de un ministro al príncipe. Entre ellas, la de
+estudiar las leyes civiles inglesas, además de las dadas por Dios, ya que se fundan en costumbres tradicionales
+cuyo conocimiento le permitirían al príncipe gobernar con el consenso de su nación, es decir “políticamente”
+y no solo “monárquicamente” (cf. Musolﬀ, 2010, p. 96-97). Fortescue discurre sobre la metáfora del cuerpo
+político y, si bien reconoce la autoridad de la cabeza para guiar y gobernar, otorga precedencia al corazón
+por ser el órgano que anima el cuerpo haciendo circular la sangre, y lo identiﬁca no con el senado (como Juan
+de Salisbury en el siglo XII), sino con la intención popular.
+12 Volviendo a Shakespeare: como hemos visto,
+en Julio César hay claros indicios de que el líder romano se ha ganado el corazón de una parte importante
+del pueblo, que este confía en él y que es su interés que César (o Roma) acreciente su poder. A diferencia de
+Coriolano, la Roma de César (no la que adviene después), en lugar de devorar, parece nutrir al pueblo.
+Ahora bien, como ya se indicó a propósito de los parlamentos del desdeñoso Casca, que César se convierta
+en rey no sería solamente un interés del pueblo (o de gran parte de este). El dato de que la corona será llevada
+por mar y tierra, “en todas partes, salvo aquí en Italia” (p. 273) acentúa una función exterior y embajadora.
+Esto lleva a preguntarse: ¿comparten una misma idea de “rey” los plebeyos cesaristas, los senadores citados por
+Casca y los conjurados? Siguiendo a Rinesi (2021), los conspiradores, amparándose en el prestigio de aquel
+primer Bruto involucrado en la expulsión de la gens Tarquinia del poder, temen que César lo sea porque, para
+ellos, la prevalencia de uno en el gobierno es lisa y llanamente sinónimo de tiranía, como si no importara “el
+modo en que Tarquino el Soberbio había gobernado Roma” (p. 216). En este sentido, no solo el concepto de
+república requiere determinaciones, sino también el de monarquía.
+En la tragedia de Shakespeare, la razón fundamental por la que César es asesinado no es una razón pública
+como pretende Bruto, sino la corrosiva e inconfesable pasión envidiosa, que asoma paulatinamente en los
+parlamentos del “más noble romano” mientras rezuma en abundancia en los de su seductor, Casio, quien,
+sintetizando, se pregunta: ¿Cómo es posible que un hombre “que no es más que yo”, “igual a mí”, al que “de las
+aguas del Tíber rescaté… se ha[ya] vuelto ahora un dios” y Casio sea “una pobre criatura que ha de doblar su
+cuerpo apenas César le dirige un saludo descuidado” (cf. JC, 1.2.97-118)? El personaje es transparente en su
+pavor a ocupar una posición subalterna, plebeya. Transmite, en deﬁnitiva, ese inveterado temor de las clases
+privilegiadas a ser devoradas por la alianza de líder y pueblo.
+6. Conclusiones
+Las dos tragedias analizadas, en su remisión a dos momentos de transición en la historia de Roma, dan cuenta
+de los cambios en el orden sociopolítico inglés a inicios del siglo XVII a través de la dramatización de la puja
+por el poder entre pueblo, líder y élite gobernante. Si bien no se puede negar que la plebe como sujeto colectivo
+es representada como masa irracional por Shakespeare, sí se ha podido constatar que se trata de un rasgo entre
+otros y que hay suﬁcientes indicios de carácter cómico e irónico que la reivindican frente a sus contrapartes.
+Indicios que suelen aparecer en la primera escena y estar asociados a un personaje secundario ingeniosamente
+desaﬁante, o cuyos parlamentos poseen una importante carga polisémica. En ambas tragedias, además, la plebe
+se identiﬁca de alguna manera con el héroe que da nombre a la pieza. En Julio César, ello se debe sobre todo
+a la índole mítico-cristológica de César y el amor que le profesa el pueblo. En Coriolano, es el aspecto mítico-
+monstruoso el que identiﬁca a los plebeyos con el protagonista. En cambio, no hay verdaderos puntos de
+contacto con la élite senatorial (Menenio, los conjurados en JC), caracterizada en las dos tragedias como
+Romina Victoria Rauber. REFLEXIONES EN TORNO A LA METÁFORA DEL CUERPO POLÍTICO EN
+CORIOLANO Y JULI...
+PDF generado a partir de XML-JATS4R
+codiciosa, mistiﬁcadora y desdeñosa de lo popular, siempre dispuesta al derramamiento de sangre cuando sus
+privilegios se ven amenazados. En este marco, las analogías entre cuerpo y orden sociopolítico dan cuenta
+del paso de una visión anticuada de la jerarquía social propia de la organización medieval feudal, a otra que
+requiere la construcción de nuevos consensos en torno a la cosa pública.
+Referencias bibliográficas
+Bliss, Lee. (2010 [2000]). Introduction. En Shakespeare, William, Coriolanus [EPUB]. New York, Cambridge
+University Press.
+Bloom, Harold. (2008 [1998]). Shakespeare, la invención de lo humano. Traducción de Tomás Segovia. Bogotá, Grupo
+Norma.
+Delahoyde, Michael. (2017). Coriolanus. Julius Caesar. Shakespeare [Washington State University]. https://bit.ly/42
+EFyrV
+Elton, William R. (1996 [1986]). Shakespeare and the thought of his age. En Wells, Stanley W. (ed.), e Cambridge
+Companion to Shakespeare Studies (pp. 17-34). Cambridge, Cambridge University Press.
+Fortescue, John. (1917 [c. 1470]). Chapter XIII. Commendation of the Laws of England. Traducción de Francis Grigor.
+Londres, Sweet and Maxwell, Limited.
+Goddard, Harold. (1960 [1951]). e Meaning of Shakespeare, Vols I & II. Chicago, e University of Chicago Press.
+Heller, Agnes. (2002). Part III: ree Roman Plays. e Time is Out of Joint. Shakespeare as Philosopher of History (pp.
+279-335). Maryland, Rowman & Littleﬁeld Publishers Group.
+Kantorowicz, Ernst H. (1985 [1957]). Introducción, Capítulos I, II y III. Los dos cuerpos del rey. Un estudio de teología
+política medieval (pp. 15-52).Traducción de Susana Aikin Araluce y Rafael Blázquez Godoy. Madrid, Alianza.
+Mumford, Lewis. (2010 [1967]). El mito de la máquina. Traducción de Demetrio Nañez. Buenos Aires, Emecé.
+Musolﬀ, Andreas. (2010). Metaphor, Nation and the Holocaust. e Concept of the Body Politic. Nueva York, Routledge.
+Real Academia Española. (2023). Persuadir. Diccionario de la lengua española, 23.ª ed. [versión 23.6 en línea]. [DRAE]
+https://bitly.ws/YVEW
+Real Academia Española. (2023). Seducir. Diccionario de la lengua española, 23.ª ed. [versión 23.6 en línea]. [DRAE]
+https://bitly.ws/YVFa
+Rinesi, Eduardo. (2011). Política y tragedia. Hamlet, entre Maquiavelo y Hobbes. Buenos Aires, Colihue.
+Rinesi, Eduardo. (2021). ¡Qué cosa, la cosa pública! Apuntes shakespearianos para una república popular. Olivos, Ubu
+Ediciones.
+Shakespeare, William. (2004 [1599]). Julius Caesar. New York, Cambridge University Press.
+Shakespeare, William. (2006). Hamlet. En Stanley Wells y Gary Taylor (eds.), e Oxford Shakespeare. e Complete
+Works. New York, Oxford University Press.
+Shakespeare, William. (2006). Julio César. Traducción de Idea Vilariño. En Obras completas. I Tragedias. Buenos Aires,
+Losada.
+Shakespeare, William. (2006). Coriolano. Traducción de Pablo Ingberg. En Obras completas. I Tragedias. Buenos Aires,
+Losada.
+Shakespeare, William. (2010 [1608]). Coriolanus [EPUB]. New York, Cambridge University Press.
+Spevack, Martin. (2004 [1988]) Introduction. En Shakespeare, William, Julius Caesar. New York, Cambridge
+University Press.
+Spotswood, Jerald W. (2000). “We are undone already”: Disarming the Multitude in Julius Caesar and Coriolanus.
+Texas Studies in Literature and Language, 42(1), 61–78. https://bit.ly/43CJU46
+Tillyard, Eustace Mandeville Wetenhall. (1984 [1943]). La cosmovisión isabelina. Traducción de Juan José Utrella.
+México, FCE.
+Cuadernos de Literatura, 2023, núm. 22, e2206, Octubre-Diciembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Notas
+1 De aquí en adelante citamos las obras shakespeareanas mencionadas como JC y Cor, respectivamente, en lugar del
+apellido del autor.
+2 Particularmente, los textos bíblicos neotestamentarios de las Epístolas paulinas a los Romanos y a los Corintios (cf.
+Musolﬀ, 2010). Las analogías entre cuerpo político y cuerpo místico constituyeron parte integral de la argumentación
+en las disputas entre el papado y los monarcas por la primacía ya desde la Baja Edad Media en Europa.
+3 En inglés: “the people” y “the commonalty”. Todas las traducciones de esta pieza pertenecen a Pablo Ingberg, de la
+edición de Losada. Las citas en inglés de Coriolanus provienen en todos los casos de la edición de e New Cambridge
+Shakespeare a cargo de Lee Bliss (2010).
+4 Para las implicaciones de la referencia al mal aliento de la plebe (“strong breaths”), ver las notas a la edición de Bliss
+(2010). Cabe mencionar también que el carácter repulsivo de la plebe se advierte con más detalle en el relato que Casca
+le hace a Bruto de cómo la gente aclamaba a César cuando Antonio le ofrecía la corona en JC, 1.2.
+5 La última cita remite a los interesantes señalamientos de Jerald Spotswood (2000) acerca de que la mayoría de los
+alzamientos populares en la Inglaterra del siglo XVI y comienzos del XVII eran de talante conservador: intentos por
+reforzar el rol paternalista de la clase terrateniente cuando las fuerzas del mercado habían alterado la relación tradicional
+entre esta y la plebe (p. 63). Por otra parte, las características de revuelta organizada sin llegar a la violencia favorecen
+la relación con un hecho histórico contemporáneo a la producción de Coriolano: la Midland Revolt de 1607 (Cf. Bliss,
+2010, pp. 38-49).
+6 “Un oﬁcio señor, en el que confío que puedo trabajar con la conciencia tranquila, que consiste, señor, en remendar suelas
+enfermas”. Todas las traducciones de Julio César son de Idea Vilariño, de la edición de Losada.
+7 Cabe señalar que en el sitio web institucional del Dr. Michael Delahoyde se atribuye al Primer ciudadano las reacciones
+del Segundo: “e parable works insofar as the First Citizen becomes childlike, asking for the story to continue” (2017,
+párr. 7).
+8 En inglés: “Your belly's answer? What! / e kingly-crowned head, the vigilant eye, / e counsellor heart, the arm our
+soldier, / Our steed the leg, the tongue our trumpeter. / With other muniments and petty helps / In this our fabric,
+if that they–”.
+9 Según expone Musolﬀ (2010), en el Policraticus de Juan de Salisbury, libros V y VI, se desarrolla la noción de la res publica
+en su forma feudal por comparación con el cuerpo humano para enfatizar el ideal de cooperación e interdependencia de
+todos los miembros, en una visión optimista de orden y estabilidad. Musolﬀ destaca que el autor medieval advierte los
+límites de la analogía de los pies y, con el ﬁn de abarcar la diversidad del estrato social más bajo y buscar aplicarla a todos
+los que realizan los deberes más humildes (artesanos, tejedores, sirvientes, peones, entre otros), bromea sobre el cuerpo
+político como si fuera el de un cangrejo de ocho patas o ciempiés (p. 90).
+10 Las referencias a sí mismo en tercera persona marcan esa convergencia como desdoblamiento. Sugieren que el nombre
+“César” designa algo trascendente como la estrella polar, que excede al esposo de Calpurnia o al amigo de Marco Antonio,
+tanto como al hombre particular al que esos roles corresponden.
+11 Como señala Rinesi (2011) a propósito de la célebre frase hamletiana “the time is out joint” (p. 247).
+12 “...In the body politic, the ﬁrst thing which lives and moves is the intention of the people, having in it the blood, that is,
+the prudential care and provision for the public good, which it transmits and communicates to the head, as the principal
+part; and to all the rest of the members of the said body politic, whereby it subsists and is invigorated” (Fortescue, 1917,
+p. 21). [...En el cuerpo político, lo primero que vive es la intención del pueblo, que la tiene en la sangre, es decir, el cuidado
+prudente y provisión al bien público, que transmite y comunica a la cabeza, en cuanto la parte principal; y al resto de los
+miembros de dicho cuerpo político, por lo cual subsiste y se fortalece. Traducción nuestra.] Esta cita plantea una idea
+opuesta a la de la fábula de Menenio Agripa en Coriolano en cuanto a quiénes (la élite o el pueblo) son los principales
+sostenes del cuerpo político.

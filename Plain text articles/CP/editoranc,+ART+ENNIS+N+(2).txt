@@ -1,0 +1,647 @@
+Juan Antonio Ennis I                           XVIII.2 (diciembre 2014) ISSN 1851-4669
+32
+EL USO, LA PROPIEDAD Y EL 
+VALOR EN EL DEBATE DE LA 
+LENGUA AMERICANA
+ 
+Usage, property and value among Latin American linguistic-
+ideological debates
+Juan Antonio Ennis
+Universidad Nacional de La Plata
+Consejo Nacional de Investigaciones Científicas y Técnicas
+juanennis@conicet.gov.ar
+Resumen: El problema del uso constituye una de las fuentes de discusión y 
+división más sostenidas en el estudio de la lengua. En la historia de los debates 
+ideológico-lingüísticos en torno a la lengua española en América, sobre todo en 
+los relacionados tanto con la formación de un discurso especializado en la mate-
+ria como con el contexto general de formación y consolidación de los Estados 
+modernos, el problema del uso se revela indesligable del de la propiedad, posibi-
+litando una lectura de cierta economía política de la lengua cuyas reglas o leyes 
+se encuentran allí en disputa. Se propone así una lectura de un corpus integrado 
+por trabajos de Andrés Bello, Miguel Antonio Caro, Rufino José Cuervo y Rudolf 
+Lenz que permita comenzar a delimitar el problema y determinar los alcances 
+de su estudio.
+Palabras clave: gramática; uso; valor; América Latina; siglo XIX y comienzos 
+del XX.
+Abstract: Language usage is probably one of the most discussed issues in lan-
+guage scholarship, and undoubtedly a frequent cause of division among resear-
+chers on this field. The usage-question is also present in some instances of the 
+language-ideological debates which took place in Latin America and Spain all along 
+the 19th century and deep into the 20th. It reveals itself tightly bound to issues also 
+related to this question in other areas, like property and law, allowing the research 
+on what could be called a linguistic political economy, which rules and laws are 
+being there subjected to debate. This paper proposes to begin the discussion by 
+analyzing some crucial texts of Andrés Bello, Miguel Antonio Caro, Rufino José 
+Cuervo and Rudolf Lenz, which can help to sketch the boundaries and scope of 
+this issue.
+Keywords: Grammar; usage; value; Latin America; 19th and early 20th century.
+I XVIII.2 (diciembre 2014) ISSN 1851-4669 I El uso, la propiedad y el valor en el debate de la lengua...:32-47
+33
+Consuetudo vero certissima loquendi magistra, utendumque plane sermone, 
+ut nummo, cui publica forma est (Quintiliano, Institutio Oratoria I, 6, III).
+[La costumbre es la maestra más certera del hablar, y  hemos de usar de 
+las voces como de la moneda, que sólo es corriente la que tiene el cuño 
+del día, trad. de I. Rodríguez y P
+. Sander, Madrid, 1887]
+Economías de la lengua nacional
+H
+ay un fenómeno propio del lenguaje de la filología histórico-com-
+parativa decimonónica que puede ayudar a explicar la cuestión que 
+pretende circunscribirse en este trabajo, precisamente porque se 
+encuentra en su origen. Se trata de lo que Joseph Errington (2008) ha llamado la 
+“literalización de las metáforas”: imágenes comparativas destinadas a explicar ciertos 
+procesos en el ámbito lingüístico que pasan a convertirse en verdaderos artículos de 
+fe científica. De lo que habla Errington, en este caso, es del organicismo y el darwi-
+nismo en lingüística. Así, por ejemplo, si la comparación no era ajena a los discursos 
+sobre el lenguaje, y en el prólogo a la Gramática de Andrés Bello se encuentra aún la 
+metáfora anatómica como tal (“Una lengua es como un cuerpo viviente: su vitalidad 
+no consiste en la constante identidad de elementos, sino en la regular uniformidad 
+de las funciones que éstos ejercen”,  GC viii1), el lenguaje de la gramática histórico-
+comparativa irá abandonando la metáfora hasta considerar, como August Schleicher, 
+no que las lenguas son como un organismo natural, sino que las lenguas son Natu-
+rorganismen (6).
+La metáfora económica es recurrente en el discurso sobre la lengua, como 
+en la cita de Quintiliano, donde el valor convenido al signo lingüístico aparece 
+como un contrato social análogo al valor nivelador otorgado a la moneda, aun-
+que en algunos contextos adquiere mayor peso que en otros, particularmente 
+cuando el problema enunciado tiene que ver con la regulación y expansión 
+de la lengua como propiedad, herencia, divisa o mercancía. Así, la impronta 
+económica del discurso de la unidad de la lengua desde el siglo XIX hasta la ac-
+tualidad es, en sus diversas inflexiones históricas, uno de los rasgos más visibles 
+de continuidad en las políticas de la lengua (y sobre todo del monolingüismo 
+como política), en un discurso secularizador que no deja de exhibir sus tensio-
+nes con el religioso2. Un buen ejemplo puede encontrarse en el segundo apar-
+tado del  cambiante prólogo a las Apuntaciones críticas sobre el lenguaje bogotano 
+de Rufino José Cuervo, donde la reflexión sobre la patria y la lengua plantea 
+los límites y problemas de regulación interna que afrontaría cualquier vocación 
+panhispanista:
+1	 Para las obras de Andrés Bello citadas en este trabajo se utilizarán las abreviaturas GC (Gramáti-
+ca castellana) y AU (Advertencias sobre el uso de la lengua castellana).
+2	 Una lectura que guarda especial interés en este sentido es la que ofrece el volumen de Joseph 
+Errington.
+Juan Antonio Ennis I                           XVIII.2 (diciembre 2014) ISSN 1851-4669
+34
+De modo pues que, dejando aparte a los que trabajan por conservar la unidad 
+religiosa, aspiración más elevada á formar de todas las razas un solo redil con un 
+solo Pastor, nadie hace tanto por el hermanamiento de las naciones hispano-
+americanas, como los fomentadores de aquellos estudios que tienden á conservar 
+la pureza de su idioma, destruyendo las barreras que las diferencias dialécticas 
+oponen al comercio de las ideas (AC iii)3.
+Este comercio de ideas metaforiza lo que en el prólogo a la Gramática de 
+Bello se denominaba “difusión de las luces”, visto en peligro junto a la ejecución 
+de las leyes y la administración del Estado por la diversificación de las lenguas. 
+Más allá de la contigüidad entre lengua y religión, la necesidad de la uniformi-
+dad para el comercio de ideas es bastante congruente con la representación del 
+mercado de los intercambios lingüísticos de Pierre Bourdieu (1982), donde el bon 
+usage no implica sólo una jerarquía, sino el consenso en torno a una regla y uni-
+dad de valor, la uniformidad necesaria para acordar el valor de cambio otorgado 
+a una unidad de significado. No es así extraño que, para justificar el empleo de 
+las categorías de Pierre Bourdieu, Richard Bauman y Charles Briggs, al comen-
+tar el lugar del trabajo de los hermanos Jacob y Wilhelm Grimm en la cons-
+trucción de una nación y un nacionalismo para Alemania, deban volver sobre 
+esta literalidad de sus metáforas en la formación de la lengua como índice de la 
+nación y la civilización. Así, si bien se preocupan por indicar que la adopción de 
+un léxico economicista y capitalista para el análisis de procesos comunicativos 
+entraña ciertos riesgos, este caso en particular resulta propicio para el empleo 
+de la noción en cuestión, dado que “uno de los efectos de la obra de los Grimm 
+fue el de tomar formas simbólicas que habían sido escasamente integradas en la 
+economía capitalista e insertarlas de manera sólida en un mercado textual domi-
+nado por el capital, infundiéndoles valor en el camino” (Bauman y Briggs 217). 
+Este proceso que hace de la materia prima popular mercancía apta para el mer-
+cado de los bienes simbólicos es descripto por los autores del siguiente modo:
+Al hacer esto, contribuyeron a transformar formas simbólicas que, según su pa-
+recer, habían estado ligadas a ciertos lugares e identidades sociales en particular, 
+de modo tal que pudieran circular en un libre mercado textual. De todos modos, 
+podemos leer este proceso como la extracción de conocimiento de un acervo 
+cultural común y su conversión en capital simbólico que podía ser controlado 
+por ciertas clases en particular, y en mercancías, textos publicados, que podían ser 
+comprados y vendidos en un mercado capitalista (217)4.
+3	 Para las obras de Cuervo se utilizarán las siguientes abreviaturas: AC (Apuntaciones críticas sobre 
+el lenguaje bogotano), DCR (Diccionario de construcción y régimen de la lengua castellana) y 
+CA (El castellano en América)
+4	 En todos los casos en los que la bibliografía indica un texto en lengua extranjera y no hay indica-
+ción específica, la traducción es nuestra.
+I XVIII.2 (diciembre 2014) ISSN 1851-4669 I El uso, la propiedad y el valor en el debate de la lengua...:32-47
+35
+Cuando pocos años después, mediando el siglo y desde el sur de América, 
+Domingo Faustino Sarmiento deplore las trabas puestas a la reforma ortográfica 
+en Chile, señalando sus consecuencias en la industria editorial, su argumento 
+responderá al modelo que Bauman y Briggs leen en los Grimm: en su caso, 
+la llamada “soberanía popular” americanista sobre la lengua llevaba consigo el 
+control de un mercado, el de los libros como commodities cuyo espacio de circu-
+lación se restringe a partir de la ley de la lengua que dicta el Estado5. El lugar del 
+buen uso en Bello, en cambio, el del uso controlado que demarca la primera de 
+las “Nociones preliminares” a la Gramática de 1847, excluye aún del orden de la 
+lengua legítima ese irreductible exterior del Volk: “La gramática de una lengua 
+es el arte de hablarla correctamente, esto es, conforme al buen uso, que es el 
+de la gente educada” (GC 1). La preocupación entre el buen y el mal uso está 
+presente desde temprano en Bello, y casi siempre en relación con la gramática, 
+la propiedad y la autoridad. De ello dan testimonio sus Advertencias sobre el uso 
+de la lengua castellana dirigidas a los padres de familia, profesores de los colegios y 
+maestros de escuela, aparecidas entre diciembre de 1833 y enero de 1834 en el 
+semanario oficial El araucano, de Santiago de Chile:
+En este artículo y en otros que publicaremos sucesivamente, nos proponemos 
+hacer advertir algunas de las impropiedades y defectos que hemos notado en 
+el uso de la lengua castellana en Chile, y que consisten, o en dar a sus vocablos 
+una significación diferente de la que deben tener, o en formarlos o pronunciarlos 
+viciosamente, o en construirlos de un modo irregular (AU17).
+El buen uso no responde a un purismo vacuo que tiene por objeto la mera 
+conservación de la forma heredada por sí misma, sino que la ley de la gramática 
+es el sostén fundamental de la ley del Estado. En el parágrafo 4 de la Gramática 
+dice: 
+Siendo la lengua el medio de que se valen los hombres para comunicarse unos á 
+otros cuanto saben, piensan y sienten, no puede menos de ser grande la utilidad 
+de la Gramática, ya para hablar de manera que se comprenda bien lo que decimos 
+(sea de viva voz o por escrito), ya para fijar con exactitud el sentido de lo que otros 
+han dicho; lo cual abraza nada menos que la acertada enunciación y la genuina 
+interpretación de las leyes, de los contratos, de los testamentos, de los libros, de 
+la correspondencia escrita; objetos en que se interesa cuanto hay de más precioso 
+y más importante en la vida social (1).
+5	 En el mismo año en el cual elogia y recomienda a viva voz la Biblioteca de Autores Ilustres de 
+Rivadeneyra (Velleman 397), advierte sobre la necesidad de proteger un mercado editorial ame-
+ricano aún en ciernes: “En 1847, se ha formado en Madrid la Sociedad de la Publicidad, con dos 
+millones de pesos, y dirigida por el único impresor inteligente con que cuenta la España, Rivade-
+neira, cuya empresa tiene por campo calculado de explotación la América española, pues que los 
+productos de imprenta tan colosal no hallarían colocación en la sola España” (Sarmiento 399).
+Juan Antonio Ennis I                           XVIII.2 (diciembre 2014) ISSN 1851-4669
+36
+La comprensión mutua figura como el primer objetivo que una gramática 
+debería proponerse, aunque de inmediato aparece un segundo afán, que evoca 
+en su estructura el vínculo entre la especialización filológica (“fijar” textos) y la 
+ley como sujeción del orden de los discursos: “fijar con exactitud lo que otros 
+han dicho”. Expresarse de manera apropiada significa aquí que la propiedad 
+del enunciado, en cuanto lo “fija” y ajusta así su debida lectura, corresponde a 
+la gramática. La gramática y la ley se encuentran estrechamente entrelazadas, 
+formando un mismo cuerpo (el cuerpo de la nación que el Estado debía crear): 
+para que la ley funcione, hacen falta ciudadanos capacitados para entenderlas y 
+ponerlas en práctica (Jaksić 186). De acuerdo con Elvira Narvaja de Arnoux, no 
+hay aquí contradicción alguna entre gramática y Estado: ambos están inspirados 
+por la misma lógica (279). 
+La literatura, la norma, la moda y el valor del uso: tensiones entre 
+gramática y filología en Caro y Cuervo 
+Similar preocupación a la de Bello mueve también a Miguel Antonio Caro 
+décadas después, y así dará con una traducción erudita, antigua y prestigiosa de 
+esta misma definición: “Quintiliano, tropezando con la dificultad que presenta 
+la variedad de usos, enseña que por uso ha de entenderse el consentimiento de 
+los eruditos, así como en punto de moralidad no hay otra costumbre respetable 
+que aquella en que convienen los buenos” (URL 8). La alusión de Caro remite 
+al mismo pasaje de las Institutiones arriba citado, que en sus últimas líneas pone 
+límites a la consuetudo, uno de los cuatro parámetros para establecer las reglas 
+del habla, junto a la razón, la autoridad y la etimología. Caro dedicará al pro-
+blema del uso un célebre discurso en la Junta Inaugural de 1881 de la Academia 
+Colombiana. La ocasión no carece de relevancia, dado que la fecha es el 6 de 
+agosto, aniversario de la fundación de Bogotá, traducido por Caro como la cele-
+bración del “recuerdo de aquellos hombres de buena fe y sin miedo que trajeron 
+y establecieron la lengua de Castilla en estas regiones andinas” (URL 3)6. 
+Del uso en sus relaciones con el lenguaje se abre con un deslinde de los antago-
+nistas posibles a una posición que presentará como de mesura epistemológica y 
+política, entre los extremos del materialismo, positivismo, utilitarismo, varian-
+tes del otro usual para la argumentación de Caro, y la elucubración filosófica sin 
+asidero práctico ni empírico. Interesa observar en este caso cómo el argumento 
+de Caro opondrá la inconstancia e inasibilidad del uso a la necesidad de la Ley:
+Paréceme, señores, análoga en algun modo y paralela á semejantes doctrinas, 
+superficiales y contentadizas, aquella que en el órden literario erige al uso en 
+regla suprema del bien decir, en norma única del lenguaje. Uso es sinónimo de 
+6	 Para la mención de los textos de Caro se utilizarán las siguientes abreviaturas: URL (Del uso en 
+sus relaciones con el lenguaje), OE (“Oración de estudios”), AB (“Don Andrés Bello”), IC (“Ig-
+norancias de la ciencia”).
+I XVIII.2 (diciembre 2014) ISSN 1851-4669 I El uso, la propiedad y el valor en el debate de la lengua...:32-47
+37
+costumbre y á las veces de moda: la costumbre, como el interes, como el gusto, es 
+vária, y la moda caprichosa; y modas y costumbres cambian y se diversifican con 
+los lugares y con los tiempos (URL 5).
+La de la volatilidad de la moda es una preocupación central de los moder-
+nismos y por ello recurrente en todo texto de intervención en la cultura. Desde 
+una perspectiva más condescendiente con la noción de uso (y más cercana a la 
+de Quintiliano), Cuervo también incluía en el prólogo a las Apuntaciones esta 
+salvedad:
+Sucede á veces también con el lenguaje como con el vestido: no basta que un 
+vocablo ó giro sea de buena estofa; requiérese además que esté actualmente en 
+uso, pues es ridículo sacar inoportuna é innecesariamente á relucir antiguallas; ni 
+lo es menos acoger luego al punto cuantas extravagancias idea el liviano capricho 
+de la moda (AC ix).
+El peligro que impone el uso a la concepción autoritativa, que podríamos 
+llamar tradicional, del lenguaje es el de aquello que escapa al dominio de la 
+autoridad establecida, al orden o al control. Son precisamente problemas como 
+los de la autoridad, la ley, la propiedad y la herencia los que nos pueden permitir 
+recorrer con cierta coherencia la obra de Caro, quien coincide con Bello en la 
+preocupación común y exitosa por la ley y la lengua, y si este había podido plas-
+marla en una Gramática y un Código civil de profunda y duradera influencia, 
+aquel no sólo se ocupará de disputar ese legado (los textos en torno al centenario 
+de Bello son en este sentido ejemplos extraordinarios de apropiación de una 
+figura y un corpus, donde, por ejemplo, logra situar a Sarmiento nada menos 
+que en el lugar de la barbarie americana) sino que alcanzará similares resultados 
+en la prescripción lingüística y sobre todo en la codificación legal7. El impulso 
+secularizador que lleva a Cuervo del polo de la prescripción gramática a la asep-
+sia del rigor filológico, polo de prestigio científico que será más poderoso desde 
+su instalación en París, encuentra su reverso en la constancia del movimiento de 
+Caro, de la redacción de la gramática latina y la orientación de la crítica literaria, 
+al discurso parlamentario, el periodismo político y, sobre todo, la redacción de 
+la Constitución. Para Ángel Rama, en Las máscaras democráticas del modernismo, 
+Caro aparece asimismo como 
+el más lúcido y coherente expositor del pensamiento conservador de la época. Lo 
+que en otros tratadistas se disfraza con concesiones al espíritu democrático o se 
+7	 Sarmiento pasa en el argumento de Caro al lugar de la barbarie americana que arremete contra la 
+civilización europea, representada por el legado español en Bello, quien recibe el irónico epíteto 
+de “advenedizo” que él mismo aplicaba a los españoles como civilizadores de América. Para 
+hacer más claro el lugar otorgado a Sarmiento, basta con estas líneas, extraídas del argumento 
+mencionado: “la barbarie indígena, para combatir a la civilización forastera, hace uso de armas 
+que no son suyas, sino usurpadas a su gloriosa enemiga, valiéndose de la cátedra y de la imprenta” 
+(Caro AB 110-111). 
+Juan Antonio Ennis I                           XVIII.2 (diciembre 2014) ISSN 1851-4669
+38
+amalgama con tradiciones liberales americanas, en él adquiere un rigor estima-
+ble, una exposición categórica a partir de una adhesión sin fisuras al catolicismo 
+militante de la lucha antipositivista (18-19). 
+En 1886 —como subraya Fernando Vallejo en su última novela, El cuervo 
+blanco (2012)—, mientras Cuervo publica en París el primer volumen de su 
+desmesurado Diccionario de construcción y régimen, Caro publica y pone a fun-
+cionar —por largo tiempo— la obra de su vida, la constitución conservadora de 
+Colombia: “Salió el flamante tomo I de la imprenta de Bourlotton en noviem-
+bre de 1886, año de la Constitución de Colombia que los degenerados de la 
+Regeneración de Núñez, inspirados por Caro, en mala hora emitieron. Yo nací 
+bajo su oscuro manto” (Vallejo 146). Hay en esa coincidencia al mismo tiempo 
+un principio de escisión, por el que la capitalización del uso popular se hará así 
+más próxima en el Cuervo del DCR al modelo de Grimm que al de Caro. Esto 
+no significa que lo “vulgar” devenido “popular” no deje de ocupar un margen 
+residual, de escaso valor y menor influencia para determinarlo frente al control 
+del mercado del uso legítimo, sino que ese margen deja ahora de ser residuo 
+para convertirse en materia prima hasta entonces no explotada, reserva orgánica 
+a la que el experto aporta un plusvalor al descifrar su carácter de expresión in-
+contaminada de la nacionalidad:
+El elemento popular aparece en el Diccionario no sólo como la materia prima del 
+idioma, germen que crece al aliento de la literatura, sino que va representado por 
+una muchedumbre de voces, metáforas, locuciones y refranes que acaso jamás 
+se han estampado en los libros. Ni podrá excluirse tal elemento: el cuerpo de la 
+nación, el pueblo formó la lengua, el pueblo conserva fielmente el depósito tra-
+dicional, lejos de influencias extrañas é inaccesible al incierto vaivén de la moda 
+(Cuervo DCR XXVIII).
+La metáfora económica (la de la materia prima del idioma) va asociada di-
+rectamente a la metáfora orgánica de la nación ligada a la lengua, preservando 
+la prudente distancia ante el amenazante fenómeno de la moda. El uso aparece 
+como un problema en la medida en que la reflexión filológica debe justificar su 
+utilidad. No por casualidad esa materia prima se representa por una muchedum-
+bre de voces. El problema de la muchedumbre o de la masa, cuando circunstan-
+cialmente se relaciona con la historia de la lengua, en el “Prólogo para franceses” 
+que en 1937 escribe José Ortega y Gasset para La rebelión de las masas, recae una 
+vez más en una forma de la comparación con el dinero. Ortega lamenta la co-
+rrupción de la “sabrosa complejidad indoeuropea” en el latín vulgar, suplantada 
+por “un habla plebeya, de mecanismo muy fácil, pero a la vez, o por lo mismo, 
+pesadamente mecánico, como material; gramática balbuciente y perifrástica, 
+de ensayo y rodeo, como la infantil” (63). Lejos de la devoción romántica por 
+el Volk, observa la devaluación de esa forma heredada: “Los vocablos parecen 
+viejas monedas de cobre, mugrientas y sin rotundidad, como hartas de rodar 
+I XVIII.2 (diciembre 2014) ISSN 1851-4669 I El uso, la propiedad y el valor en el debate de la lengua...:32-47
+39
+por las tabernas mediterráneas” (63). 
+En el prólogo de 1886 a la Gramática latina de Caro y Cuervo se lee: “Las 
+gramáticas explican la forma, y requieren el auxilio de los Diccionarios, que 
+ordenan la materia” (xvi), y en este sentido puede verse cómo, a pesar de estas 
+distancias, el discurso de Caro procura apropiarse de la división del trabajo y 
+la distribución del capital simbólico que organiza la escuela filológica moderna 
+para someterla simultáneamente a un orden que él mismo llamaría tradicional. 
+Volviendo a las resonancias posibles de la cita inicial, es la forma publica el ob-
+jeto y fin último de la preocupación lingüística, política y pedagógica de Caro.
+Por eso mismo, Del uso... procura dar con la racionalidad de un sistema que 
+se traduzca en las necesidades prácticas de una razón filológica que se subordine 
+a la razón de Estado, en una Colombia que necesita incorporarse a la lógica del 
+capital global (en ese sentido los Escritos económicos de Caro son de gran inte-
+rés), pero sin dejar de abrazar un tradicionalismo antisecular. Por eso la escisión 
+entre ciencia y política, la separación de las esferas de lo público le resultará 
+potencialmente nociva. Así, “la teoría que principia por fijar el uso como única 
+norma del bien decir, acabará mal que pese á sus sostenedores, si es lógica en sus 
+conclusiones, negando toda norma racional en materia de lenguaje” (Caro URL 
+6). Si el uso es lo variable y la norma equipara racionalidad con permanencia, el 
+tiempo y la persona de esa racionalidad son las del enunciador del discurso. En 
+este sentido, es notable el modo en el cual Caro organiza la distribución del pa-
+trimonio que representa la lengua entre el “pueblo” y “los literatos y eruditos”: 
+el primero sólo es consciente de su lengua cuando la misma se ve amenazada, 
+“[f]uera de estos casos excepcionales, el pueblo habla la lengua que ha recibido 
+por tradición, sin conocer ni sospechar siquiera la clase de tesoro de que dispo-
+ne, y la poetiza ó la aplebeya sin conciencia de sus actos”. Los segundos no pue-
+den excusarse en el uso, dado que son quienes descubren “las leyes del lenguaje”, 
+al que “no sólo […] manejan por mero instinto de imitación”, sino que hacen 
+uso de él, “como un instrumento cuya forma y fines científicamente conocen” 
+(URL 7). Caro, que no desconoce los métodos y teorías de las filologías clásica 
+y moderna, reproduce la ley de la relación entre la materia prima popular y la 
+conversión en mercancía (la ley de la separación, entre el uso y el valor de cam-
+bio, entre la praxis y la codificación científica), se interna en un punto sensible 
+de sus disputas, apartándolo de la lógica que el biologicismo del siglo le había 
+impuesto y ocupándose de revertir el resultado habitual de sus argumentos, 
+el de la condena al prescriptivismo tradicional, al preguntar: “¿Y cómo había 
+de elevarse el estudio de las lenguas á la categoría de ciencia, y entre ciencias 
+excelentísima, si el lenguaje no reconociese más norma que el uso, arbitrario á 
+las veces y siempre variable?” (URL 7). Ni los intentos de desarrollar e imponer 
+una lengua universal, ni aquellas teorías (como las de Johann G. Herder, Jacob 
+Grimm, Heymann Steinthal o Ernst Haeckel) que hacen de la lengua el índice 
+de lo humano podrían resistir la soberanía del uso, pero nadie se habría atrevido 
+a poner en claro esta limitación, los filósofos por considerar los de la lengua 
+Juan Antonio Ennis I                           XVIII.2 (diciembre 2014) ISSN 1851-4669
+40
+problemas menores, los filólogos porque “repiten a coro que el uso es norma del 
+lenguaje” (Caro URL 8).
+La modernización antimoderna de Caro hace de cada discusión una po-
+lítica entre tradición hispano-católica y Modernidad europea. Sus embates se 
+dirigen a los fundamentos de la amenaza en cuyo mundo, sin embargo, cree 
+poder ingresar sin someterse a su retórica: así como al introducir la Gramática 
+latina puede aprovechar el repaso de las escuelas filológicas europeas para poner 
+en cuestión el libre examen protestante8, aprovechará ocasiones como la que 
+le ofrece la discusión sobre la “naturaleza y funciones de la moneda así como 
+su circulación” para impugnar nada menos que a René Descartes y a George 
+Berkeley y, de alguna manera, dar cuenta de su conciliación entre tradición 
+hispano-católica y progreso técnico (Caro IC 6).
+En el cuarto apartado de Del uso..., Caro parte de una definición preliminar 
+del uso como “la forma que toma una lengua y el curso que lleva en boca de las 
+gentes que la hablan, entregada al instinto natural y á la imitación irreflexiva, y 
+libre de la influencia directa de los libros” (URL 22). De allí es, del “uso, recien-
+te o antiguo” que “reciben siempre la materia prima los artífices de la lengua” 
+(24). ¿Quiénes son estos artífices de la lengua? Más adelante se hará explícito: 
+gramáticos y escritores.
+La organización entre materia prima y valor de cambio contribuirá también 
+a dirimir el área de competencia de estos últimos y los filólogos. Ponderando 
+el reciente desarrollo de los estudios históricos sobre las lenguas románicas en 
+su evolución desde el latín, a partir de una tipología de los períodos evoluti-
+vos de la lengua establecida anteriormente —que divide este desarrollo en un 
+periodo “bárbaro o anteclásico; otro literario o clásico; y otro, en fin, crítico 
+o post-clásico” (Caro URL 29)—, encontrará el meollo para incidir en lo que 
+ya era y devendría en grado aún mayor, uno de los puntos más sensibles en las 
+disputas por la lengua nacional y la unidad de la lengua en Hispanoamérica: la 
+razón científica que indicaba la necesaria fractura de la lengua con su imperio. 
+Así como sucedió con el latín, debería suceder con el español, había sido ya el 
+argumento de August Friedrich Pott al leer las Apuntaciones de Cuervo, que éste 
+luego haría propio (cfr. Ennis y Pfänder):
+La influencia de la que fué metrópoli va debilitándose cada día, y fuera de cuatro 
+o cinco autores cuyas obras leemos con gusto y provecho, nuestra vida intelectual 
+se deriva de otras fuentes, y carecemos pues casi por completo de un regulador 
+que garantice la antigua uniformidad (Cuervo CA 26).
+8	 “Curiosa inconsecuencia ofrecen en esta materia las gentes letradas protestantes, de regiones 
+septentrionales, porque al paso que publican sin notas los oscuros libros orientales de la Sagrada 
+Escritura, fundándose en el principio del libre examen, reconocen prácticamente en lo profano la 
+falsedad de semejante teoría, con el laudable empeño que ponen en anotar y explicar los clásicos 
+griegos y latinos” (Caro y Cuervo ix-x).
+I XVIII.2 (diciembre 2014) ISSN 1851-4669 I El uso, la propiedad y el valor en el debate de la lengua...:32-47
+41
+El lugar de publicación es uno marginal para la actividad filológica —y en 
+apariencia también para la literaria— pero en especial relevante, sobre todo en 
+la época en que está escrito: se trata de una carta-prólogo al poema Nastasio, 
+del poco recordado poeta argentino residente en París, Francisco Soto y Calvo. 
+Muy probablemente, este texto debería tener un lugar de privilegio en la lista 
+de aquellos innumerables prólogos finiseculares que, como apunta Julio Ramos 
+en las primeras páginas de su indispensable Desencuentros de la modernidad en 
+América Latina, “revelan la crisis del sistema cultural anterior” (8). La interven-
+ción de Cuervo (que lo conducirá a la conocida polémica con Juan Valera, autor 
+a su vez de una de las cartas-prólogo fundamentales del Modernismo Hispano-
+americano) se manifiesta así como una variante particularmente efectiva de esto 
+que podríamos llamar el “prólogo modernista”, cuya pieza dilecta en el trabajo 
+de Ramos la constituye el de Martí al “Poema del Niágara” de Antonio Pérez 
+Bonalde (como en el caso de Cuervo, un comentario célebre para un poema 
+olvidado), que interviene de manera polémica en la sanción de los aspectos 
+más salientes de la crisis moderna (de modernización) del sistema de valores 
+tradicional, en el cual
+la literatura —modelo, incluso, del ideal de una lengua nacional, racionalmente 
+homogeneizada— había sido el lugar —ficticio, acaso— donde se proyectaban 
+los modelos de comportamiento, las normas necesarias para la invención de la 
+ciudadanía, los límites, las fronteras simbólicas, el mapa imaginario, en fin, de 
+los estados en vías de consolidación” (Ramos 8). 
+El modelo en crisis es aquel que ofrecía Andrés Bello y sostenía Caro, el de 
+la gramática como arte del cuidado de la lengua común, homogénea y hegemó-
+nica, instrumento privilegiado de la difusión de las luces, garante de la fijación 
+y continuidad de las leyes, de la identidad de la palabra. La literatura, en el dato 
+que ofrece la necesidad del glosario en el poema de Soto y Calvo, ya no es el 
+modelo a seguir para reducir la diferencia, sino el lugar de su constatación.
+El uso, sus utilidades y sus límites (sobre la ley y la ciencia)
+En una carta en la que brindaba a Cuervo su apoyo en la disputa con Valera, 
+Rudolf Lenz pone al colombiano del lado de la comprensión científica de la 
+lengua, integrando la polémica en una que él mismo hacía tiempo afrontaba en 
+Chile (Ennis):
+En materia de lingüística es imposible convencer a un literato porque estos no ad-
+mitirán nunca que no comprenden más de lingüística que el arquitecto de geolo-
+gía, aunque el literato use palabras y el arquitecto piedras (Lenz en Romero  19).
+Lenz trabaja, desde la lingüística y la etnografía, y sobre todo desde la dis-
+cusión en torno a qué sea la gramática, en aras de la capción del uso, de su 
+Juan Antonio Ennis I                           XVIII.2 (diciembre 2014) ISSN 1851-4669
+42
+capitalización en un terreno que fomenta su autonomía en el rechazo de la 
+utilidad, de los fines ajenos a sí mismo:
+En jeneral he juzgado inútil comprobar la existencia de una palabra por muchas 
+citas de frases entresacadas de las novelas de costumbres, porque solo relativamen-
+te pocas palabras se podrian demostrar de este modo. Muchísimas de las palabras 
+que rejistro nunca se habrán impreso, muchas quizás nunca se han escrito, pues 
+para las voces que no se encuentran en los léxicos anteriores, fuera de los términos 
+de historia natural, mi principal fuente es el uso oral (Lenz EI 31)9.
+A este uso oral se opone el uso normado, que responde a una definición que 
+se identifica también como a- o pre-científica de la gramática —el “arte de ha-
+blar de acuerdo al buen uso” de Bello—, y que opondrá a la idea de la gramática 
+como ciencia descriptivo-explicativa:
+Pues bien, lo que el naturalista botánico es para el reino vejetal, lo es el lingüista 
+para las lenguas en su totalidad; al jardinero correspondería el literato que se de-
+leita en la armonía de un verso clásico, que estudia las particularidades del estilo 
+de tal o cual autor i establece las reglas para el “correcto uso gramatical” de tal o 
+cual palabra o construccion (Lenz EI 11).
+El valor de la gramática no está ya en su carácter de ciencia orientada a la 
+praxis (recte loquendi scientia, con Quintiliano), sino, sobre todo a partir de las 
+innovaciones aportadas por la filología decimonónica alemana, lo que la hace 
+ciencia es su desinterés: el estudio de la lengua por la lengua misma. El primer 
+historiador de la disciplina, Theodor Benfey, lo formula, precisamente, como 
+una negación del uso, al describir por contraste el estudio no científico de la 
+lengua, cuando se aprenden lenguas “no sólo por su propio interés, sino para su 
+uso”. El uso, en este caso, como uso de una segunda lengua, es decir, como fin 
+práctico [ihres Gebrauchs wegen, dirá], se diferenciará del estudio de las lenguas 
+por sí mismas [um ihrer Selbst Willen] (Benfey 1). Lo que señala Lenz como 
+problema del estadio pre-científico del saber sobre la lengua en Chile tiene que 
+ver tanto con esta aversión por el uso no legítimo como con la equivalente in-
+comprensión de su utilidad, de su valor capitalizable en tanto imagen filológica 
+del pasado (Errington 48-69):
+Como noté luego que la gente culta, sobre todo los profesores de castellano, no 
+tenían ningún interés por el estudio de la “jerigonza corrompida de la plebe”, 
+porque simplemente despreciaban porque no comprendían que el estudio de los 
+dialectos vulgares da los materiales más interesantes para comprender la evolu-
+ción histórica del lenguaje humano (Lenz DH 17).
+9	 Para las obras de Lenz, se utilizarán las siguientes abreviaturas: EI (Los elementos Indios en el 
+castellano de Chile) y DH (“Dialectología hispanoamericana”).
+I XVIII.2 (diciembre 2014) ISSN 1851-4669 I El uso, la propiedad y el valor en el debate de la lengua...:32-47
+43
+La lengua del otro (del indio, del huaso, del negro en el caso del papia-
+mento) ofrece la imagen de un estadio anterior, inferior en la evolución con 
+respecto a la lengua propia (Ennis). Interesa al estudio de la lengua en sí misma, 
+porque en sí misma carece de valor para los fines prácticos: no es capitalizable 
+en el mercado lingüístico, pero sí valiosa, separada del uso, en el campo de la 
+lingüística, y aquí nuevamente definiéndose en relación con el punto de llegada 
+de la lengua prestigiosa.
+Es así el desinterés, el valor científico desprendido del uso político —al me-
+nos en su retórica, al menos del uso político que él pretendía darle— lo que 
+Caro identificaba como amenaza y ponía en la base de su pensamiento pedagó-
+gico. Ejemplo ilustrativo de ello ofrece la alusión a Élisée Reclus en la “Oración 
+de estudios”:
+Jamás, jamás os diré con aquellos que a título de propagar las luces fanatizan la 
+instrucción, que la ciencia, en su más alto grado, ni menos cuando es incompleta 
+y superficial, basta por sí sola a formar buenos ciudadanos. No: el saber no es la 
+virtud, ni engendra la virtud, ni suple la virtud. […] y puede haber un erudito, 
+un sabio, con cuyo nombre deben estar familiarizados entre vosotros cuantos ha-
+yan adelantado en el estudio de las ciencias geográficas, que con la misma mano 
+con la que traza la descripción de la capital de Francia, haya tal vez empuñado la 
+tea comunista para incendiar sus monumentos (OE 97).
+ 
+La intervención mencionada en el debate filológico en torno a la unidad 
+de la lengua residirá en la valoración del aporte de la ciencia para explicar lo 
+documentado, relativizando su valor predictivo10, que por el contrario entra en 
+el terreno de la literatura y la gramática como asuntos de Estado, como apertura 
+a la discusión de la necesidad de la unidad de la lengua en Hispanoamérica. El 
+carácter forzoso de la ley natural hace a la necesidad de una legislación homo-
+génea y efectiva, a una jerarquía clara entre el uso legítimo y el ilegítimo y sus 
+usuarios: “La descomposicion de una lengua entregada al uso, y su multiplica-
+ción en dialectos, es ley natural, cuyo cumplimiento sólo se aplaza o se elude 
+por la accion que ejerce la literatura sobre el lenguaje vulgar. Es la literatura la 
+sal del lenguaje, el único poder que neutraliza é impide la accion disolvente del 
+uso” (Caro URL 47-48).
+El uso lingüístico, que tiene la misma condición que la costumbre o la 
+moda, debe ser como ellas limitado, encaminado por una razón superior a la 
+irracionalidad vulgar. Que el cambio operado por el uso en edades bárbaras 
+10 “Nace de aquí que, si bien de los resultados es permitido ascender, por via de recomposicion, 
+al origen, y confrontados diversos idiomas congéneres se ha ensayado, y ensayarse puede, con 
+buen éxito la reconstrucción de la lengua madre, no de igual manera trazará el filólogo la forma 
+circunstanciada de futuros dialectos. Como en la historia del mundo, en la del lenguaje la ciencia 
+anuncia bienes ó males, prosperidades ó catástrofes, pero en globo; la experiencia recomienda 
+recursos eficaces para remediarse del daño que amenaza, pero sin responder a las contingencias; 
+porque la espontaneidad traviesa, hurtándose al análisis, se encarga de desbaratar los cálculos 
+fundados en el cumplimiento riguroso de leyes naturales” (Caro URL 35).
+Juan Antonio Ennis I                           XVIII.2 (diciembre 2014) ISSN 1851-4669
+44
+tenga la sabiduría de una ley (30), no significa que esta sabiduría sea en sí una 
+ley natural, y por ello había establecido que “concediendo al uso todo el pode-
+río y los privilegios todos que de derecho se le deben, todavía no es el árbitro 
+supremo, única norma del lenguaje” (26). En este sentido, las leyes del uso se 
+asociarán a la arbitrariedad, el capricho y la imprevisibilidad: “la razon en que 
+apoya sus decretos, es aquella sinrazón porque sí de los niños, de los necios y de 
+los tiranos” (32). Es por ello que “Gramáticos y escritores no rompen en lucha 
+abierta con el uso, y aún se ven obligados a contemporizar con muchas de sus 
+exigencias; mas todavía ejercen sobre él indisputable autoridad, lo dirigen, lo 
+depuran, acaudalando y embelleciendo la lengua” (27). Si el pueblo produce la 
+materia prima, es al letrado al que corresponde otorgarle valor: valor de cambio 
+que permite “asimilar lo ajeno sin pérdida de lo propio” (29). Así, la ley natural 
+será el fundamento de una norma jurídica: “Leyes solicito, cualesquiera que 
+sean, porque legalidad es forma de justicia, y justicia realización de derecho; y 
+cuanto mas antigua la ley que descubro, más me satisface, porque por su anti-
+güedad mido la alteza de su origen y lo benéfico de su institución” (33). 
+Cierre
+Así como la gramática, produciendo un hablar sin denotación, ha aislado del dis-
+curso algo así como una lengua, y el derecho, suspendiendo el uso y los hábitos 
+concretos de los individuos, ha podido aislar algo así como una norma, en todo 
+ámbito el  paciente trabajo de la civilización procede separando la praxis humana 
+de su ejercicio concreto (Agamben 78).
+Difícilmente pueda completarse un panorama de la historia de la lengua en 
+América Latina sin tener en cuenta la serie de procesos históricos que instalan 
+el horizonte de la nación monolingüe como proyecto de Estado y el modo en el 
+cual el discurso, las políticas sobre la lengua se ubican en el centro de las estrate-
+gias de las élites dominantes para la construcción de hegemonía, es decir, entre 
+otras cosas, para hacer de ese horizonte un artículo del sentido de lo común. 
+Pero no se trata sencillamente de observar una prehistoria prescriptivista desde 
+la racionalidad descriptiva de una disciplina ya madura, sino antes bien de ver 
+cómo la separación, sea bajo la forma de la exclusión o de la apropiación y ca-
+pitalización, genera el objeto y su ley, y cómo puede observarse ese proceder en 
+la relación con la propiedad y el uso, con la asignación de valor en la economía 
+de la lengua.
+Este trabajo pretende avanzar en un terreno difícil de asir y delimitar como 
+el de la propiedad de la lengua, objeto de largas y renovadas discusiones, desde 
+un enfoque sobre la historia de sus discusiones, que permita observar cuáles son 
+los mecanismos que hacen que una lengua, por definición (cuando se convierte 
+en una lengua), como cualquier otra mercancía, sea apropiable, esto es, ajena11. 
+11	
+ Para una mirada reciente sobre el problema ver Ciapuscio.
+I XVIII.2 (diciembre 2014) ISSN 1851-4669 I El uso, la propiedad y el valor en el debate de la lengua...:32-47
+45
+Una de las principales dificultades que se afrontan en este caso es la de desplegar 
+en un espacio limitado un conjunto representativo de materiales que al mismo 
+tiempo puedan ser articulados críticamente para dar sustento al enfoque teó-
+rico que aquí quiere exponerse. Este se funda en algo que ya sostenía Michel 
+Foucault en el pasaje de Las palabras y las cosas dedicado a la emergencia de la 
+gramática histórico-comparativa, al afirmar que no es una mera modificación 
+en el tratamiento de unos datos a la vez ampliados por el “descubrimiento” del 
+sánscrito y la hipótesis del indoeuropeo lo que hace de los textos fundacionales 
+de la disciplina el umbral de una nueva episteme, sino que fue “todo el modo de 
+ser del lenguaje (y del nuestro) el que se modificó a través de ellos” (275). Más 
+recientemente, Errington ha examinado cómo esa modificación en el ser mismo 
+del lenguaje se opera a nivel global, demostrando que la lingüística moderna 
+sólo puede ser pensada como saber colonial, y de qué modo la expansión cien-
+tífica del saber de la lengua continúa, secularizándola, la labor de los gramáticos 
+misioneros en los primeros siglos de la conquista y colonización de América, 
+labor que se define como apropiación, separación, puesta en valor y devolución 
+de la lengua del otro, ya traducible y comparable en el saber occidental. En 
+suma, de lo que se trata no es sólo de recopilar el anecdotario interno de una 
+disciplina más allá del núcleo duro de su evolución teórica, sino de postular que 
+difícilmente pueda pensarse una historia de la lengua sin una historia de su co-
+dificación, de las formas de apropiación y cristalización de la praxis lingüística. 
+Referencias bibliografícas
+Agamben, Giorgio. Estado de excepción. Homo Sacer II, I. Buenos Aires : Adriana 
+Hidalgo, 2004.
+Bauman, Richard y Charles L. Briggs. Voices of Modernity. Language Ideologies 
+and the Politics of Inequality. Cambridge: Cambridge University Press, 
+2003.
+Bello, Andrés. Gramática de la lengua castellana destinada al uso de los americanos. 
+París: Roger & Chernovitz, 1914. 
+—. Advertencias sobre el uso de la lengua castellana. La Plata: Ministerio de Edu-
+cación de la Provincia de Buenos Aires, 1956.
+Benfey, Theodor. Geschichte der Sprachwissenschaft und orientalischen Philolo-
+gie in Deutschland. München: Literarisch-artistischer Anstalt der J. G. 
+Gotta’schen Buchhandlung, 1866. 
+Bourdieu, Pierre. Ce que parler veut dire. L’économie des échanges linguistiques. 
+París: Fayard, 1982.
+Caro, Miguel Antonio. Del uso en sus relaciones con el lenguaje. Discurso leído ante 
+la Academia Colombiana en la Junta Inaugural del 6 de agosto de 1881. 
+Juan Antonio Ennis I                           XVIII.2 (diciembre 2014) ISSN 1851-4669
+46
+Bogotá: Imprenta de Echeverría Hnos., 1881.
+—. “Oración de estudios”. Obras completas, tomo III. Bogotá: Imprenta Nacio-
+nal, 1921. 96-104.
+—. “Don Andrés Bello”. Obras completas, tomo III. Bogotá: Imprenta Nacional, 
+1921. 105-162.
+—. “Ignorancias de la ciencia”. Escritos sobre cuestiones económicas. Bogotá: Im-
+prenta del Banco de la República, 1943. 3-6.
+Caro, Miguel Antonio y Rufino José Cuervo. Gramática latina para el uso de los 
+que hablan castellano. 1867. Bogotá: Imprenta Nacional, 1915. 
+Ciapuscio, Guiomar. “La lengua, ¿Tiene dueño?”. Ex libris 1 (2013): 406-412. 
+Cuervo, Rufino José. Apuntaciones críticas sobre el lenguaje bogotano. París: Roger 
+et Chernvitz, 1914. 6º edición.
+—. Diccionario de construcción y régimen de la lengua castellana, tomo I. París: 
+Roger & Chernovitz, 1886. Reimpreso Bogotá: Instituto Caro y Cuervo, 
+1953.
+—. El castellano en América. Polémica con Juan Valera. Bogotá: Instituto Caro y 
+Cuervo, 2004.
+Ennis, Juan. “Rudolf Lenz en la encrucijada criolla”. Signo & Seña 22 (2012): 
+181-214. 
+Ennis, Juan y Stefan Pfänder. “La unidad de la lengua y la irrupción de la lingüís-
+tica”. Revista Argentina de Historiografía Lingüística I.2 (2009): 175-194. 
+Errington, Joseph. Linguistics in a Colonial World. A History of Language, Me-
+aning and Power. London & New York: Blackwell, 2008.
+Foucault, Michel. Las palabras y las cosas. Una arqueología de las ciencias huma-
+nas. Buenos Aires: Siglo XXI, 2002.
+Jaksić, Iván. Andrés Bello, la pasión por el orden. Santiago: Editorial Universita-
+ria, 2001.
+Lenz, Rodolfo. Los elementos indios del castellano de Chile. Estudio lingüístico i 
+etnolójico. Primera parte. Diccionario etimolójico de las voces derivadas de 
+lenguas indíjenas americanas. Santiago: Imprenta Cervantes, 1910.
+—. “Dialectología hispanoamericana”.  El español en Chile. Trabajos de Rodolfo 
+Lenz, Andrés Bello y Rodolfo Oroz. Alonso, Amado y Raimundo Lida eds. 
+Buenos Aires: Instituto de Filología, 1940.
+Narvaja de Arnoux, Elvira. Los discursos sobre la nación y el lenguaje en la forma-
+ción del Estado (Chile, 1842-1862). Estudio glotopolítico. Buenos Aires: 
+Santiago Arcos, 2008.
+I XVIII.2 (diciembre 2014) ISSN 1851-4669 I El uso, la propiedad y el valor en el debate de la lengua...:32-47
+47
+Ortega y Gasset, José. La rebelión de las masas. Madrid: Espasa-Calpe, 2006.
+Rama, Ángel. Las máscaras democráticas del modernismo. Montevideo: Funda-
+ción Ángel Rama, 1985.
+Ramos, Julio. Desencuentros de la modernidad en América Latina. México: Fon-
+do de Cultura Económica, 1989.
+Romero, Mario Germán. “Prólogo”. Cuervo, Rufino José. El castellano en Amé-
+rica. Polémica con Juan Valera. Bogotá: Instituto Caro y Cuervo, 2004. 
+15-22.
+Sarmiento, Domingo Faustino. Educación popular. Obras Completas XI. Buenos 
+Aires: Luz del día, 1950.
+Schleicher, August. Die Darwinsche Theorie und die Sprachwissenschaft: Offenes 
+Sendschreiben an Herrn Dr. Ernst Häckel. Weimar: Böhlau, 1863.
+Vallejo, Fernando. El cuervo blanco. Buenos Aires: Alfaguara, 2012.
+Velleman, Barry. “Domingo F. Sarmiento y la función social de la lengua”.  His-
+tory of Linguistics in Spain II. Koerner, E.F.K. Y Niederehe, Hans-Josef 
+eds. Amsterdam y Philadelphia: John Benjamins, 2001. 391-405.
+Fecha de recepción: 29/07/2013 / Fecha de aceptación: 22/10/2013

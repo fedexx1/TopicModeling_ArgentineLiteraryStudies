@@ -1,0 +1,1330 @@
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+LO QUE OCULTA EL SILENCIO: EL PROBLEMA DE 
+LA ISOMORFÍA ENTRE FILLER Y GAP 
+ 
+Carlos Muñoz 
+Universidad de Buenos Aires 
+Consejo Nacional de Investigaciones Científicas y Técnicas 
+cmunozperez@filo.uba.ar / munozperezc@gmail.com 
+ 
+ 
+Resumen: Este artículo discute la 
+similitud léxico-sintáctica que existe 
+entre el filler y el gap de una 
+dependencia de movimiento en el 
+marco de la Teoria de la Huella y de la 
+Teoría de la Copia. Los datos que se 
+presentan parecen mostrar que la 
+isomorfía filler-gap no es un fenómeno 
+que se deba a operaciones de la sintaxis 
+estricta, 
+sino 
+a 
+principios 
+interpretativos de las interfaces. 
+ 
+Palabras clave: teoría de la huella, 
+teoría 
+de 
+la 
+copia, 
+movimiento 
+sintáctico, reconstrucción. 
+ 
+Abstract: This paper discusses the 
+lexico-syntactic similarity between the 
+filler and the gap of a movement 
+dependency under Trace Theory and 
+Copy Theory. The relevant data seems 
+to 
+show 
+that 
+the 
+filler-gap 
+isomorphism is a phenomenon that 
+does not follow from any narrow 
+syntactic 
+operation, 
+but 
+from 
+interpretative 
+principles 
+of 
+the 
+interfaces. 
+ 
+Keywords: trace theory, copy theory, 
+syntactic movement, reconstruction. 
+ 
+ 
+ 
+106 
+ 
+ 
+1. Introducción 
+Una ya tradicional forma de entender el fenómeno de desplazamiento sintáctico es 
+a través de una dependencia entre un sintagma con determinada interpretación 
+temática, i.e., un filler, y la posición que dicho constituyente ocuparía con respecto 
+a un predicado en una estructura canónica no marcada, i.e., un gap. Así, por 
+ejemplo, la oración pasiva de (1a) involucra una dependencia filler-gap entre el 
+sujeto de la oración, i.e., Cosmo, y la posición sintáctica que típicamente 
+corresponde al objeto lógico de arrestar, i.e., a la derecha del verbo; el mismo tipo 
+de relación se observa en la oración interrogativa de (1b), en donde la 
+interpretación temática del sintagma interrogativo se asocia a la posición de 
+complemento de leer. 
+ 
+(1) a. 
+[filler Cosmo] fue arrestado [gap e ] 
+ 
+b. 
+¿[filler Qué libro] leíste [gap e ]? 
+ 
+Un tópico central en teoría gramatical consiste en determinar (i) qué 
+propiedades gramaticales caracterizan a los gaps y (ii) qué relación tienen estos 
+con sus respectivos fillers. El presente artículo pretende servir de introducción a 
+parte de la discusión actual referida a estas cuestiones. En particular, se discuten 
+las propiedades atribuidas a los gaps en dos importantes teorías del 
+desplazamiento sintáctico, la Teoría de la Huella (Chomsky 1973, Fiengo 1977, i.a.) 
+y la Teoría de la Copia (Chomsky 1993, Nunes 1995, i.a.). La evidencia que se 
+presenta refiere a lo que aquí se denomina efectos de isomorfía filler-gap, i.e., 
+situaciones en las que el gap parece tener la misma estructura léxico-sintáctica 
+que el filler. Como se verá, los datos disponibles en la actualidad llevan a concluir 
+que las propiedades de los gaps no pueden derivarse a partir de una única 
+operación de la sintaxis estricta (e.g., Move-α, Copia), sino que parecen obedecer 
+criterios de convergencia en las interfaces (e.g., interpretabilidad semántica). 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+La estructura de este artículo es la siguiente. En §2 se introduce la Teoría de la 
+Huella y el modo en que se lidia en este marco con ciertos efectos de isomorfía 
+filler-gap. La sección §3 discute el paso superador que significó la Teoría de la 
+Copia para dar cuenta de estos y otros fenómenos similares. A lo largo de §4 se 
+discuten datos que muestran que la Teoría de la Copia requiere una 
+reformulación parcial para dar cuenta de cierto conjunto de fenómenos; la 
+sección §5 esboza en qué consiste tal reformulación. 
+ 
+2. Los gaps como elementos atómicos nulos 
+Una de las teorías más extendidas sobre el funcionamiento de las dependencias 
+de desplazamiento sintáctico es la llamada Teoría de la Huella (Chomsky 1973, 
+Fiengo 1977). De acuerdo con esta teoría, una operación transformacional, e.g., 
+Move-α (Chomsky 1981), se encarga de (i) mover un constituyente sintáctico desde 
+una posición a otra en la estructura oracional, (ii) introducir en la posición 
+original un elemento sintácticamente activo y fonológicamente nulo denominado 
+huella, y (iii) asignar índices coincidentes a la huella y al constituyente desplazado1. 
+Estos tres pasos se esquematizan en (2) con respecto a la pasiva en (1a), y en (3) 
+con respecto a la oración interrogativa de (1b). Los pasos derivacionales en (2a) y 
+(3a) corresponden al momento en el que el objeto lógico del verbo ocupa una 
+posición marcada temáticamente por el predicado; en (2b) y (3b) se observa el 
+movimiento de los SSDD y la correspondiente inserción de la huella (i.e., h) en su 
+posición original; finalmente, en (2c) y (3c) se representa la coindexación del 
+elemento movido y su huella. 
+ 
+(2) a. 
+[ST ____ [T’ fue [SV arrestado Cosmo]]]] 
+ 
+b. 
+[ST Cosmo [T’ fue [SV arrestado h ]]]] 
+ 
+c. 
+[ST Cosmoi [T’ fue [SV arrestado hi ]]]] 
+ 
+                                                          
+ 
+1 El algoritmo a partir del cual una categoría vacía se interpreta como una huella de movimiento involucra una 
+serie más compleja de pasos no del todo relevante aquí. Para discusión, véase Chomsky (1982). 
+ 
+108 
+ 
+(3) a. 
+[SC ____ [ST’ leíste [SV V [SD qué libro]]]] 
+ 
+b. 
+[SC [SD qué libro] [ST’ leíste [SV V  h ]]]] 
+ 
+c. 
+[SC [SD qué libro]i [ST’ leíste [SV V  hi ]]]] 
+ 
+La Teoría de la Huella supone que un filler y su gap son objetos sintácticos 
+distintos. El primero es un constituyente sintáctico que obedece los principios de 
+la Teoría X-Barra, mientras que el segundo es un elemento atómico carente de 
+estructura interna que no posee propiedad fonológica alguna. En otras palabras, 
+una huella es poco más que un elemento silente que sirve para marcar la posición 
+desde la que se movió un constituyente. 
+La postulación de las huellas permitió establecer diversos principios 
+interpretativos y formales sobre las dependencias filler-gap. En modelos previos 
+a la postulación de huellas de movimiento (e.g., Chomsky 1970, Hasegawa 1972, 
+Jackendoff 1972), se proponía que la interpretación semántica de una oración se 
+encontraba “distribuida” entre la representación sintáctica previa a las 
+transformaciones de movimiento, i.e., Deep Structure o D-Structure, y la 
+representación producida por dichas operaciones, i.e., Surface Structure o S-
+Structure. Así, por ejemplo, los roles temáticos de la oración (1a) se establecían 
+sobre una estructura similar a (4a), en donde el SD Cosmo se interpreta como el 
+objeto lógico de arrestado por la posición relativa que ocupa con respecto al 
+predicado. Aspectos del significado relativos al ordenamiento de la información y 
+al alcance cuantificacional se computan sobre la estructura derivada de (4b). 
+ 
+(4) a. 
+____ fue arrestado Cosmo 
+ 
+b. 
+Cosmo fue arrestado ____ 
+ 
+Adoptar este tipo de arquitectura gramatical no resulta necesario una vez que 
+se introduce la Teoría de la Huella. En este marco puede asumirse que la 
+interpretación semántica se da con respecto a una única representación sintáctica 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+como (5), en donde el rol-θ correspondiente al objeto lógico de arrestado se asigna 
+a la huella coindizada con el constituyente desplazado. 
+ 
+(5) Cosmoi fue arrestado hi 
+ 
+Además de servir de unidad para la asignación de rol temático, las huellas 
+permiten capturar otro tipo de dependencia semántica. Considérese la oración 
+interrogativa de (6). En este caso, la dependencia filler-gap se interpreta como 
+una relación de operador-variable. En particular, el sintagma interrogativo qué 
+libro funciona como un operador interrogativo (i.e., para qué x, x un libro) que liga 
+a una variable representada por la huella (i.e., x). 
+ 
+(6) ¿[Qué libro]i leíste hi? 
+ 
+Para qué x, x un libro, (vos) leíste x. 
+ 
+Como observa Chomsky (1977), las huellas de movimiento-wh pueden 
+comportarse como variables sólo en caso de que el elemento desplazado sea en sí 
+mismo un operador interrogativo (e.g., quién, cuándo, qué libro). Esto no sucede en 
+una oración como (7). 
+ 
+(7) ¿[SD La portada de qué libro]i leíste hi? 
+ 
+Para que x, x un libro, (vos) leíste [la portada de x]. 
+ 
+Es necesario notar dos cosas con respecto al significado de (7). La primera es 
+que la interpretación del operador interrogativo (i.e., para qué x, x un libro) no se 
+corresponde con todo el sintagma que se desplaza a la periferia izquierda, sino 
+únicamente con el constituyente qué libro. En segundo lugar, el resto del SD 
+desplazado se interpreta en la posición de la huella, como si únicamente se 
+ 
+110 
+ 
+hubiese movido el pronombre interrogativo (i.e., la portada de x). En otras 
+palabras, si bien la huella en (6) se interpreta como una variable ligada, la huella 
+en (7) debe interpretarse como un SD que contiene una variable ligada. 
+Para obtener la representación semántica correcta en oraciones como (7) a 
+partir de la Teoría de la Huella, Chomsky (1977: 84) propone un mecanismo de 
+Forma Lógica (FL) denominado Reconstrucción que se encarga de volver a poner 
+en la posición de la huella el material que se movió junto con el operador 
+interrogativo hacia la periferia izquierda de la oración. Así, si bien la sintaxis 
+mueve todo el SD la portada de qué libro hacia el dominio del complementante, 
+sólo el sintagma interrogativo qué libro se interpreta en dicha ubicación. 
+La operación de Reconstrucción y los llamados efectos de reconstrucción juegan un 
+papel importante en el análisis de diversos patrones de ligamiento, y constituyen 
+además el tipo de efecto de isomorfía filler-gap más representativo. Considérese 
+el par de (8). 
+ 
+(8) a. [Algún profesor]i criticó [a un estudiante suyoi]. 
+      b.*[Un estudiante suyoi] criticó [a algún profesor]i. 
+ 
+Un supuesto estándar para el análisis de este tipo de asimetrías consiste en 
+asumir que la expresión cuantificada debe mandar-c a un pronombre para poder 
+ligarlo (e.g., Büring 2004). Así, por ejemplo, el sujeto cuantificado algún profesor en 
+(8a) puede ligar al pronombre sus dentro del SD que cumple la función de objeto 
+directo justamente porque lo manda-c. 
+ 
+ 
+ 
+ 
+(9) 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+ 
+ 
+En cambio, el sintagma cuantificado algún profesor en (8b) no manda-c al 
+pronombre, por lo que no puede obtenerse la lectura ligada. 
+ 
+(10) 
+ 
+ 
+ 
+Una asimetría similar se observa con respecto a frases interrogativas que se 
+mueven a la periferia izquierda oracional. En (11a), el sujeto cuantificado algún 
+profesor puede ligar al pronombre sus dentro del objeto directo desplazado; pero 
+en (11b), el objeto directo cuantificado no puede ligar al pronombre dentro del 
+sujeto. 
+ 
+(11) 
+a. ¿[A qué estudiante suyoi]j criticó [algún profesor]i hj? 
+ 
+          b. *¿[Qué estudiante suyoi]j hj criticó [a algún profesor]i? 
+ 
+ 
+112 
+ 
+Explicar el par de (11) puede ser problemático porque, como se observa 
+respectivamente en (12) y (13), ambas oraciones contienen pronombres que no 
+están mandados-c por el cuantificador y, sin embargo, la interpretación ligada es 
+posible en (11a). 
+ 
+(12) Estructura correspondiente a (11a) 
+ 
+ 
+ 
+ 
+(13) 
+Estructura correspondiente a (11b) 
+ 
+ 
+ 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+La operación de Reconstrucción permite explicar este patrón de forma simple. 
+La oración de (11a) es aceptable porque el pronombre suyo se reintroduce en la 
+posición correspondiente a la huella, junto a la variable x ligada al operador 
+interrogativo correspondiente a qué estudiante. Ya que el pronombre suyo se 
+encuentra en la posición de complemento del verbo en FL, el sujeto algún profesor 
+puede ligarlo (cf. (14)). 
+ 
+(14) Oración de (11a) luego de aplicar Reconstrucción en FL 
+ 
+ 
+ 
+Bajo los mismos supuestos, la oración de (11b) resulta inaceptable debido a 
+que la operación de Reconstrucción reubica al pronombre suyo en una posición 
+que no está en el dominio de mando-c del sintagma cuantificado a algún profesor. 
+ 
+(15) Oración de (11b) luego de aplicar Reconstrucción en FL 
+ 
+114 
+ 
+ 
+ 
+ 
+El significado de oraciones como (7) y los efectos de ligamiento atestiguados 
+en (11) parecen indicar que los principios de interpretación semántica son 
+sensibles a la presencia de constituyentes que cabría ubicar en el interior de un gap. 
+Esta observación resulta problemática para una teoría del movimiento que 
+caracteriza a los gaps como unidades atómicas sin estructura interna creadas 
+durante la computación sintáctica. Si bien la Teoría de la Huella puede apelar a la 
+operación Reconstrucción para dar cuenta de casos en los que el gap manifiesta 
+isomorfía con el filler, resulta preferible una teoría del movimiento que no 
+requiera apelar a mecanismos adicionales para capturar el fenómeno. 
+ 
+3. Los gaps como copias del filler 
+ 
+De acuerdo con la Teoría de la Copia (Chomsky 1993), el movimiento no 
+existe como una operación sintáctica independiente (i.e., nada se “mueve” 
+realmente). El desplazamiento es entendido como un epifenómeno basado en 
+cómo Forma Fonética (FF) asigna manifestación fonológica a conjuntos de 
+constituyentes indistinguibles. Esto es, se asume que una representación sintáctica 
+puede contener varias versiones del mismo constituyente, pero sólo una puede 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+pronunciarse. Así, por ejemplo, una oración pasiva como (16a) ya no contendría 
+una huella de movimiento en su representación subyacente, sino dos “copias” del 
+SD Cosmo (cf. (16b)), de las cuales una, i.e., Cosmo2, permanece silente.2 
+ 
+(16) 
+a. Cosmo fue arrestado. 
+ 
+          b. [ST Cosmo1 [T’ fue [SV arrestado Cosmo2]]]] 
+ 
+A diferencia de la Teoría de la Huella, en donde la dependencia entre un 
+elemento desplazado y su categoría vacía se crea a partir de una transformación 
+de movimiento que genera las huellas y les asigna índices, no es del todo evidente 
+que la Teoría de la Copia requiera postular operaciones sintácticas de similar 
+poder y naturaleza (i.e., se supone que filler y gap son sintagmas que, en 
+principio, podrían ser generados en sus posiciones base sin necesidad de recurrir 
+a mecanismos transformacionales). Aun así, el supuesto estándar en la 
+bibliografía es que la Teoría de la Copia permite redefinir una transformación 
+sintáctica de movimiento, i.e., la operación Mover, como una secuencia de dos 
+operaciones primitivas: Copia y Ensamble (cf. Nunes 1995, 1999, 2004). A esta 
+concepción del desplazamiento se la denomina de aquí en más Copia+Ensamble. 
+ 
+(17) Copia+Ensamble 
+ 
+Dada una estructura K que contiene un constituyente α, 
+ 
+a. Generar un constituyente α’ idéntico a α (i.e., Copia), y 
+ 
+b. Combinar α’ y K (i.e., Ensamble). 
+ 
+De acuerdo con (17), una oración pasiva como (16a) debe atravesar un paso 
+derivacional como el esbozado en (18a), el cual sólo contiene una versión del SD 
+Cosmo. Una aplicación de la operación de Copia se encarga de generar una nueva 
+                                                          
+ 
+2 Las palabras tachadas representan elementos que no son pronunciados. Los superíndices numéricos en las 
+copias tienen fines puramente ilustrativos. 
+ 
+116 
+ 
+versión de este SD (cf. (18b)), la cual en un paso posterior se ensambla a la 
+estructura principal (cf. (19c)). 
+ 
+(18) a.     K = [ST fue [SV arrestado Cosmo]] 
+ 
+b.    Copiado 
+              K = [ST fue [SV arrestado Cosmo]] 
+ 
+        L = [SD Cosmo] 
+ 
+c.     Ensamble 
+              K = [ST Cosmo [T’ fue [SV arrestado Cosmo]]] 
+ 
+Al asumir que el fenómeno de desplazamiento sintáctico se basa en una 
+operación de copiado de constituyentes, una teoría basada en Copia+Ensamble 
+predice que los gaps deben ser necesariamente idénticos a sus fillers, tanto a nivel 
+estructural como léxico. 
+Adoptar una teoría del desplazamiento sintáctico basada en la no 
+pronunciación de sintagmas “copiados” puede resultar un tanto extraño desde un 
+punto de vista conceptual (i.e., ¿por qué la sintaxis generaría constituyentes que 
+van a ser silenciados de modo sistemático?). Sin embargo, la existencia de objetos 
+de este tipo es, en cierto sentido, esperable a partir de la interacción de 
+fenómenos lingüísticos independientemente observados. En principio, postular 
+operaciones de copiado que reproduzcan cierto tipo de información gramatical es 
+necesario para explicar patrones de reduplicación morfológica como los 
+ejemplificados en (19). Puede asumirse que las copias involucradas en los 
+fenómenos de desplazamiento se basan en mecanismos de similar naturaleza 
+(e.g., Grohmann & Nevins 2004). 
+ 
+(19) 
+ Pingelapés (Rehg 1981) 
+ 
+a.       kɔul (‘cantar’) 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+ 
+          kɔukɔul (‘cantando’) 
+ 
+          kɔukɔukɔul (‘todavía cantando’) 
+       b.      mejr (‘dormir’) 
+ 
+          mejmejr (‘durmiendo’) 
+ 
+          mejmejmejr (‘todavía durmiendo’) 
+ 
+Para explicar la no pronunciación de algunas de las copias en la Cadena de 
+movimiento, puede adoptarse un mecanismo análogo a los utilizados para 
+explicar el fenómeno de la elipsis. De acuerdo con Chomsky (1993), por ejemplo, 
+la no pronunciación de la segunda copia de Cosmo en (16b) sería equiparable a la 
+no pronunciación del ST en el segundo coordinado de (20).3 
+ 
+(20) Jorge [ST fue al cine] y Gerardo también [ST fue al cine]. 
+ 
+Existen diversos argumentos, tanto de carácter conceptual como empírico, que 
+llevan a concluir que los gaps guardan una relación de isomorfía con respecto a 
+su filler, y que, por tanto, una teoría del desplazamiento sintáctico basada en 
+copias indistinguibles es preferible a la clásica teoría basada en huellas. Uno de 
+dichos argumentos se basa en el principio metateórico conocido como Condición 
+de Inclusividad. 
+ 
+(21) Condición de Inclusividad (Chomsky 1995: 228) 
+Cualquier estructura formada por la computación sintáctica debe estar 
+constituida por propiedades ya presentes en los ítems léxicos. Ningún 
+objeto nuevo puede introducirse durante el curso de la computación (en 
+particular, índices, niveles de proyección en el sentido de la Teoría X-
+barra, etc.). 
+                                                          
+ 
+3 Véanse Nunes (2004) y Saab (2008) para discusión. 
+ 
+118 
+ 
+ 
+El principal objetivo de la condición de (21) es evitar que el peso explicativo 
+de la teoría sintáctica recaiga sobre propiedades o representaciones que no 
+puedan ser detectadas a nivel léxico. Se trata de un supuesto motivado por la 
+hipótesis investigativa según la cual la sintaxis (estricta) es un sistema puramente 
+combinatorio, incapaz de enriquecer las representaciones que toma como input 
+(i.e., ítems léxicos) más allá del simple reordenamiento y reasignación de sus 
+rasgos intrínsecos. En este sentido, las categorías vacías propuestas por la Teoría 
+de la Huella no satisfacen la Condición de Inclusividad. Como ya se mencionó, 
+las huellas se crean a partir de una transformación de movimiento. Del mismo 
+modo, los índices asignados al elemento desplazado y a sus respectivas huellas 
+también infringen la condición de (21). Este tipo de violación, sin embargo, no 
+ocurre con la Teoría de la Copia. Las copias son, simplemente, constituyentes, y 
+se basan íntegramente en material tomado del léxico, por lo que no infringen, en 
+principio, la Condición de Inclusividad. 
+Otro argumento a favor de la Teoría de la Copia por sobre la Teoría de la 
+Huella proviene de patrones observados en múltiples lenguas en los que se 
+observa que más de una copia del mismo elemento recibe manifestación 
+fonológica. Esto no parece sorprendente bajo los supuestos recién discutidos. Si 
+se asume que en una representación sintáctica puede haber varias versiones del 
+mismo constituyente y que la mayor parte de estas se silencian, es esperable 
+encontrar casos especiales en donde se pronuncie más de una versión de un 
+elemento. Uno de estos casos involucra el doblado de pronombres interrogativos 
+en alemán, como se ejemplifica en (22). 
+ 
+(22) Alemán (McDaniel 1989: 183) 
+ 
+Wen glaubt Hans wen Jakob gesehen 
+hat? 
+ 
+quién piensa 
+Hans quién Jakob visto  
+ha 
+ 
+‘¿A quién piensa Hans que ha visto Jakob?’ 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+ 
+Una de las ventajas más evidentes de asumir la Teoría de la Copia es que 
+ofrece un abordaje elegante y satisfactorio de los patrones de reconstrucción. 
+Considérese, para empezar, la inaceptabilidad de la oración de (23). 
+ 
+(23) *Éli adora [la pintura de Cosmoi] 
+ 
+De acuerdo a la Condición C de la Teoría de Ligamiento (Chomsky 1981), el 
+sujeto él no puede ser correferencial con el SD Cosmo (i.e., esta oración no puede 
+significar que Cosmo adora su propia pintura), dado que el pronombre manda-c a 
+la expresión-R. 
+ 
+(24) 
+ 
+ 
+ 
+Dicha relación de mando-c no es observable, en principio, si el constituyente 
+que contiene la expresión-R se mueve a la periferia izquierda oracional (cf. (25)). 
+Aun así, la oración resultante es inaceptable. 
+ 
+(25) *¿[Qué pintura de Cosmoi] adora éli? 
+ 
+Un modo de explicar la inaceptabilidad de (26) es a través de la operación de 
+Reconstrucción ya discutida con respecto a los ejemplos de (11). Recuérdese que 
+ 
+120 
+ 
+la Teoría de la Huella permite señalar la posición original de un constituyente 
+movido. 
+ 
+(26) 
+ 
+ 
+ 
+Si se asume que FL puede reconstruir el SP de Cosmo en la posición de la 
+huella, junto con la variable correspondiente el operador interrogativo qué pintura 
+(cf. (27)), la inaceptabilidad de (25) puede explicarse como una violación de 
+Condición C, al igual que la oración de (23). 
+ 
+(27) Oración de (25) luego de aplicar Reconstrucción en FL 
+ 
+ 
+ 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Ahora bien, a pesar de que la operación de Reconstrucción permite dar cuenta 
+de la inaceptabilidad de esta oración, resulta extraño asumir la existencia de un 
+mecanismo semántico que “vuelve atrás” un movimiento. De hecho, debe 
+notarse que el dato de (25), i.e., en el que el efecto de reconstrucción genera una 
+oración inaceptable, es de naturaleza levemente diferente al caso discutido con 
+respecto a (11a). En la oración de (11a), la operación de Reconstrucción permite 
+obtener una configuración necesaria para ligar un pronombre. En (25), en 
+cambio, Reconstrucción genera una representación que viola la Condición C. Por 
+tanto, en este segundo caso no parece haber motivación de carácter semántico 
+para reconstruir el constituyente desplazado en su posición original. 
+De acuerdo con la Teoría de la Copia, una oración interrogativa como (25) 
+involucra dos copias del sintagma qué pintura de Cosmo, una en la posición de 
+especificador del complementante y la otra en el complemento del verbo (cf. 
+(28)). En esta estructura, el pronombre él manda-c a la expresión-R Cosmo, por lo 
+que su interpretación correferencial queda excluida por Condición C. 
+ 
+(28) 
+ 
+ 
+Como se observa, la inaceptabilidad de (25) se predice en este marco sin 
+necesidad de postular una operación de Reconstrucción. Los efectos de 
+ 
+122 
+ 
+reconstrucción se producen por la presencia de múltiples copias indistinguibles 
+de un constituyente en la representación sintáctica. 
+Chomsky (1993) discute otros casos de reconstrucción que permiten distinguir 
+empíricamente entre la Teoría de la Huella y la Teoría de la Copia. Considérese la 
+oración de (29), la cual resulta ambigua con respecto a la referencia de la anáfora 
+sí mismo (i.e., la foto puede ser tanto de Gerardo como de Jorge). 
+ 
+(29) Gerardo se pregunta [qué foto de sí mismo]i vio Jorge hi. 
+ 
+Bajo la Teoría de la Huella, la operación de Reconstrucción debe mover a su 
+posición original el material que el operador interrogativo qué foto arrastra consigo 
+hacia la periferia de la cláusula. Esto se esboza en la representación de (30), en 
+donde la anáfora sí mismo se reconstruye en la posición de complemento del 
+verbo. 
+ 
+(30) Oración de (29) luego de aplicar Reconstrucción en FL 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+ 
+ 
+ 
+Esta representación predice erróneamente que la oración no es ambigua. Ya 
+que la anáfora sí mismo se reconstruye en el dominio de mando-c de Jorge, estos 
+dos elementos deben ser necesariamente correferenciales. En particular, no hay 
+modo en que sí mismo pueda ligar a Gerardo, lo que deja sin explicación una de las 
+posibles interpretaciones de (29). 
+Considérese ahora el análisis de esta oración de acuerdo con la Teoría de la 
+Copia. Bajo este marco, se espera que la representación contenga dos ocurrencias 
+del SD qué foto de sí mismo. 
+ 
+(31) 
+ 
+124 
+ 
+ 
+ 
+ 
+En esta estructura hay dos ocurrencias de la anáfora sí mismo. Una de ellas, la 
+que está dentro del SD1, puede ligar a Gerardo; la otra, la que está dentro del SD2, 
+puede ligar a Jorge. Supóngase que dependencias semánticas como el ligamiento se 
+aplican priorizando alguno de los miembros de una Cadena4. A partir de esto, la 
+ambigüedad de la oración resulta fácil de explicar: si se prioriza SD1, sí mismo liga 
+a Gerardo; si se prioriza SD2, sí mismo liga a Jorge.5 
+Como observa Chomsky, este conjunto de supuestos hace una predicción 
+adicional: priorizar una de las copias para determinar relaciones de ligamiento 
+                                                          
+ 
+4 Chomsky (1993) implementa esta idea a partir de una operación de borrado en FL que elimina alternativamente 
+diferentes partes de las copias en una Cadena. Aquí se sigue la línea sugerida en Brody (1995), de acuerdo con la 
+cual basta con que las relaciones de ligamiento o alcance en la que entran distintos miembros de una Cadena no 
+genere contradicciones. Por ejemplo, se espera que las distintas copias de sí mismo no liguen a Gerardo y Jorge al 
+mismo tiempo, porque esto no sería interpretable. 
+5 Nótese que la idea de “priorizar” una u otra copia para su interpretación en FL aplica solamente para 
+condiciones de carácter positivo. En el caso de (31), por ejemplo, hay dos copias de sí mismo que pueden ligarse 
+respetando la Condición A, i.e., una anáfora debe tener un antecedente local. No resulta posible “no priorizar” o 
+ignorar una copia que infringe una condición negativa, i.e., una prohibición como la Condición C. Lebeaux (2009) 
+propone que esta asimetría se debe a que las condiciones de carácter negativo se aplican a lo largo de toda la 
+derivación sintáctica. 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+debe tener efectos semánticos concomitantes. Considérese la oración de (32), en 
+donde se reemplaza el verbo ver de (29) por el verbo sacar, el cual combinado al 
+nombre foto da lugar a una lectura idiomática sinónima a fotografiar. 
+ 
+(32) Gerardo se pregunta qué foto de sí mismo sacó Jorge. 
+ 
+El significado idiomático de (32) parece compatible únicamente con un 
+escenario en el que Jorge se fotografió a sí mismo. Esto se explica a partir de los 
+principios ya introducidos. La lectura ligada de Jorge y la anáfora sí mismo implica 
+priorizar la interpretación de los constituyentes dentro de la copia SD2, lo que 
+permite que se interprete la ocurrencia del nombre foto que está dentro del 
+dominio de la lectura idiomática, i.e., en el SV. 
+ 
+(33) 
+Dominio de la lectura idiomática 
+ 
+ 
+ 
+126 
+ 
+La lectura ligada de Gerardo y sí mismo no está disponible en esta oración 
+porque esto requeriría priorizar la copia SD1. Se sigue, entonces, que en este caso 
+no se pueda obtener la interpretación idiomática de sacar y que, en consecuencia, 
+se obtenga el significado por defecto del verbo, i.e., extraer. Sin embargo, para que 
+la oración sea aceptable bajo este predicado, es necesario introducir un 
+argumento adicional que se interprete como Fuente (e.g., del cajón). Ya que no hay 
+una Fuente en (32), Gerardo y sí mismo no pueden ser correferenciales. 
+Avala este análisis el par de oraciones en (34), en las cuales se fuerza la 
+interpretación de la copia SD1 al ser imposible el ligamiento de sí mismo desde 
+SD2. Como se observa, se pierde por completo la lectura idiomática de sacar, y se 
+requiere la introducción de una Fuente para que la oración resulte aceptable bajo 
+una lectura no idiomática. 
+ 
+(34) a. *Gerardo se pregunta qué foto de sí mismo sacó Eliana. 
+ 
+ b. Gerardo se pregunta qué foto de sí mismo sacó Eliana del cajón. 
+ 
+Si bien suponer la Teoría de la Copia permite explicar los fenómenos de 
+reconstrucción en forma elegante, también introduce problemas a la hora de 
+explicar el funcionamiento de ciertas dependencias semánticas en las que se 
+espera que filler y gap funcionen de distinto modo. Considérese la oración de 
+(35) a partir de un análisis basado en huellas. Como se discutió con respecto al 
+ejemplo de (6), la Teoría de la Huella permite asumir que el movimiento-wh crea 
+una dependencia en la que el constituyente desplazado funciona como operador y 
+la huella cumple el rol de variable. 
+ 
+(35) ¿[SD Qué libro] leíste hi? 
+ 
+Para qué x, x un libro, Eliana leyó x. 
+ 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Bajo la Teoría de la Huella resulta sencillo decir que filler y gap denotan 
+objetos semánticos distintos: un sintagma interrogativo no es lo mismo que una 
+huella. 
+Considérese la misma oración bajo un análisis basado en copias. Si filler y gap 
+son copias del mismo constituyente, se predice incorrectamente que la oración 
+debería tener dos operadores y ninguna variable a la cual ligar. 
+ 
+(36) ¿[SD Qué libro] leyó Eliana [SD qué libro]? 
+ 
+*Para qué x, x un libro, Eliana leyó para qué x, x un libro. 
+ 
+Por tanto, al adoptar la Teoría de la Copia se vuelve postular una forma 
+explícita en la que la copia no pronunciada de qué libro se interpreta como una 
+variable ligada a su copia superior. 
+El supuesto de que ciertas huellas se interpretan como variables ligadas se basa 
+en la observación empírica de que los pronombres pueden ligarse a operadores 
+cuantificacionales. En el ejemplo de (37), el pronombre él está ligado a todo 
+comediante. 
+ 
+(37) El amigo de [todo comediante]i siempre se aprovecha de éli. 
+ 
+Un fenómeno de ligamiento similar se observa con ciertas descripciones 
+definidas que funcionan anafóricamente. En (38a), por ejemplo, el SD el 
+comediante está ligado anafóricamente al operador cuantificacional todo comediante. 
+Nótese que es posible obtener una lectura anafórica sólo si el nombre dentro del 
+segundo SN es idéntico al del antecedente (cf. (38b)). 
+ 
+(38) a. El amigo de [todo comediante]i siempre se aprovecha [del comediante]i. 
+ 
+ b. *El amigo de [todo comediante]i siempre se aprovecha [del cartero]i. 
+ 
+128 
+ 
+ 
+Como sugieren estos datos, el supuesto necesario para generar dependencias 
+de operador-variable a partir de constituyentes indistinguibles que denotan 
+expresiones cuantificadas es que el determinante cuantificacional en la copia no 
+pronunciada se reemplace en FL por un determinante definido (cf. Rullman & 
+Beck 1998, Sauerland 1998, Fox 1999, 2002, Elbourne 2005, i.a.). Siguiendo la 
+terminología de Fox (2002), dicho mecanismo se denomina Conversión de Huellas. 
+Conversión de Huellas transforma un SD cuantificado (e.g., qué libro) en una 
+expresión definida con valor anafórico (e.g., el libro), de forma tal que se obtiene 
+un constituyente que puede funcionar como variable ligada al igual que el SD el 
+comediante en (38a). 
+ 
+(39) ¿[SD Qué libro] leyó Eliana [SD qué libro]? 
+ 
+Para qué libro x, Eliana leyó [el libro x]. 
+ 
+En resumen, a lo largo de las últimas dos secciones se presentaron numerosos 
+argumentos para sostener que existe una relación de isomorfía entre filler y gap. 
+La Teoría de la Copia no es más que una implementación más o menos directa 
+de esta observación, i.e., si filler y gap son copias indistinguibles, los efectos de 
+isomorfía se explican sin necesidad de adoptar supuestos adicionales. 
+ 
+4. Casos problemáticos para la Teoría de la Copia 
+ 
+Si bien la Teoría de la Copia ofrece una explicación elegante a los fenómenos 
+de reconstrucción hasta aquí discutidos, la propuesta no está exenta de 
+complicaciones. Como observa Chomsky (1993), si el desplazamiento involucra 
+copias isomórficas del mismo constituyente a lo largo de una representación 
+sintáctica, se predice que dicho constituyente debe poder interpretarse en todas 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+esas posiciones. Esta predicción parece ser falsa. Adoptando un término común 
+en la bibliografía, se denomina anti-reconstrucción al fenómeno que involucra la 
+imposibilidad de reconstruir un filler en una posición que se supone ocupa uno 
+de sus gaps. 
+Uno de las instancias clásicas de anti-reconstrucción es el movimiento-A. 
+Como observa Chomsky (1993) con respecto al ejemplo de (40), dado que el SD 
+sujeto asciende hasta el especificador de seems desde el interior de la cláusula 
+subordinada, la correferencialidad entre him y John debería producir una violación 
+de Condición C de modo similar a como se observa en (23).6 
+ 
+(40) Anti-reconstrucción en una Cadena-A (Chomsky 1993: 37) 
+ 
+[SD The claim that Johni was asleep]j seems to himi to be correct hj. 
+ 
+Este tipo de dato lleva a Chomsky (1993, 1995) a concluir que el movimiento-
+A no reconstruye. Posteriormente, Lasnik (1999) postula a partir de un 
+argumento similar que el movimiento-A no deja una copia del constituyente 
+desplazado en su posición de origen. 
+Contra esta generalización, sin embargo, existen numerosos datos que prueban 
+que la reconstrucción en Cadenas-A es posible. Considérese el ejemplo de (41). 
+Se trata de una oración de ascenso en donde el SD un ruso se mueve a la posición 
+de sujeto de parece desde dentro de la cláusula subordinada. Como observa 
+Sportiche (2006), entre otros, este tipo de oración resulta ambigua con respecto al 
+alcance de la cuantificación existencial: en la interpretación en la que el existencial 
+tiene alcance sobre el verbo parece (i.e., un ruso » parece), hay un ruso en particular 
+que parece haber ganado la carrera; en la lectura en que el existencial toma 
+alcance por debajo de parece (i.e., parece » un ruso), la oración resulta verdadera si, 
+                                                          
+ 
+6 Se utilizan a lo largo del capítulo datos del inglés con respecto a efectos de anti-reconstrucción en Cadenas-A 
+referidos a la Condición C. Esto se debe a que este tipo de ejemplos requiere dependencias de ascenso por sobre 
+un experimentante, un tipo de movimiento sintáctico que no es posible en lenguas romances, e.g., Juan parece estar 
+enfermo vs. *Juan me parece estar enfermo. Véase Boeckx (1999), Ausín (2001) y Pujalte & Saab (2011) para discusión 
+relevante. 
+ 
+130 
+ 
+por ejemplo, no se sabe a ciencia cierta quiénes ganaron la carrera, pero al menos 
+uno de los ganadores es de nacionalidad rusa. Particularmente, la interpretación 
+en la que parece tiene alcance por sobre el cuantificador se deriva a partir de 
+reconstruir el SD un ruso en la posición señalada por la huella. 
+ 
+(41) Reconstrucción en una Cadena-A 
+ 
+ [SD Un ruso]i parece hi haber ganado la carrera. 
+       (existencial » parece; parece » existencial) 
+ 
+Otro caso de reconstrucción en Cadenas-A se ejemplifica en (42). En este 
+caso, el SD desplazado se interpreta como sujeto lógico del predicado a real 
+intrusion, lo que implica que dicho SD se generó en la posición que ocupa la huella 
+hk. En particular, el SD debe reconstruirse en el dominio de mando-c del 
+cuantificador every man para que el pronombre posesivo his pueda ligarse, pero no 
+debe haber reconstrucción en el dominio de mando-c del pronombre him, porque 
+esto ocasionaría una violación de Condición C. 
+ 
+(42) Reconstrucción en Cadenas-A (Lebeaux 2009: 47) 
+      [SD Hisi picture of [the president]j]k seemed to [every man]i to be seen by  
+himj hk to be a real intrusion. 
+ 
+La anti-reconstrucción no es un fenómeno exclusivo del movimiento-A. 
+Lebeaux (1988) observa que existe una asimetría entre la posibilidad de 
+reconstruir adjuntos y complementos de sintagmas interrogativos desplazados. 
+Considérense las oraciones de (43). Ambos ejemplos involucran casos de 
+movimiento-wh desde la posición de complemento del verbo hasta Spec,C. En 
+los dos casos, el SD desplazado contiene una expresión-R John que es 
+correferencial con respecto al sujeto pronominal he. Ahora bien, la Teoría de la 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Copia predice que ambas oraciones deberían resultar inaceptables debido a una 
+violación de la Condición C de la Teoría del Ligamiento. Sin embargo, (43a) 
+resulta aceptable. De acuerdo con Lebeaux, la diferencia entre ambas oraciones 
+radica en que la expresión-R que se supone causa la violación de ligamiento se 
+encuentra dentro de un SC adjunto en (43a), mientras que en (43b) el 
+constituyente relevante es un SC complemento. 
+ 
+(43) Anti-reconstrucción de adjuntos dentro de elementos desplazados (Lebeaux 1988) 
+a. [SD Which argument [adjunto that Johni made]]j did hei believe hj? 
+b. *[SD Which argument [complemento that Johni is a genius]]j did hei believe hj? 
+ 
+Si bien este tipo de asimetría adjunto-complemento resulta difícil de replicar en 
+español, es todavía posible construir ejemplos en los que se observa el mismo 
+contraste que en inglés (cf. (44a) vs. (44b)). 
+ 
+(44) Anti-reconstrucción de adjuntos dentro de elementos desplazados 
+a. ¿[SD Qué rumor [adjunto que Juani escuchó ayer]]j proi negó hj   
+rotundamente? 
+          b.*¿[SD Qué rumor [complemento de que Juani es culpable]]j proi negó hj 
+rotundamente? 
+ 
+Las primeras discusiones sobre el fenómeno de anti-reconstrucción se dieron 
+en el marco de la Teoría de la Huella y se enfocaron en pares de movimiento-A’ 
+como los recién ejemplificados en (43) y (44). Dado que en este marco la 
+interpretación de la estructura interna de una huella de movimiento se debe a la 
+operación de FL Reconstrucción, explicar la aceptabilidad de la oración de (43a) 
+equivale a proponer un conjunto de condiciones que exceptúen la aplicación de la 
+operación sobre la expresión-R John. De acuerdo con van Riemsdijk & Williams 
+(1981), el consenso de la época era que ciertos nominales en la estructura de un 
+ 
+132 
+ 
+sintagma-wh desplazado no requieren Reconstrucción. Estos autores proponen a 
+modo de ejemplo un esquema general de dicha restricción de acuerdo a lo que se 
+establece en la regla de (45). 
+ 
+(45) Excepciones a la reconstrucción (van Riemsdijk & Williams 1981: 202) 
+En la estructura 
+... [αi ... [β ... SNj ... [β ... [αi ... [ e ]αi ... 
+Si αi está sujeto a reconstrucción, SNj está exento de reconstrucción si 
+(a) 
+β = O’ 
+(b) 
+β = SP, SN genitivo, ... 
+donde β ≠ αi 
+ 
+De acuerdo con esta regla, un nominal dentro de una oración β en la 
+estructura de un sintagma interrogativo α que se movió a la izquierda de la 
+cláusula no debe reconstruirse. Como observan van Riemsdijk & Williams, la 
+restricción de (43) tiene un carácter bastante ad hoc ya que se limita a estipular una 
+excepción sobre los contextos sintácticos en los que se observa anti-
+reconstrucción. Nótese, además, que el patrón de aceptabilidad de (43) no se 
+deriva de esta regla, i.e., de acuerdo con (45), la expresión-R John debería estar 
+exenta de reconstrucción tanto en (43a) como en (43b). 
+Como se mencionó, el análisis estándar que se sigue hoy en día para los pares 
+de (43) y (44) se debe a Lebeaux (1988), quien propuso derivar el contraste de 
+aceptabilidad entre ambas oraciones a partir de la distinción entre adjuntos y 
+complementos. En líneas generales, la estrategia explicativa de Lebeaux se 
+sintetiza en la generalización que se postula en (46). 
+ 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+(46) Generalización de Lebeaux7 
+Las aparentes violaciones de Condición C se deben a la ausencia del 
+constituyente que contiene la expresión-R relevante en la estructura de los 
+gaps. 
+ 
+De acuerdo con Lebeaux, la anti-reconstrucción de un constituyente SX no se 
+sigue de ninguna excepción particular que se aplique sobre SX; lo que sucede en 
+estos casos es que el constituyente SX no está presente en la estructura de todos 
+los miembros de una Cadena de movimiento. Así, por ejemplo, la oración de 
+(43a) recibe un análisis en términos de la Teoría de la Copia tal y como se esboza 
+en (47). Como se observa, el marcador de frase contiene dos ocurrencias del 
+sintagma interrogativo, i.e., SD1 y SD2, pero la cláusula relativa adjunta that John 
+made sólo forma parte de la estructura de la ocurrencia en Spec,C, i.e., SD1. 
+ 
+ 
+(47) 
+ 
+ 
+                                                          
+ 
+7 Otras versiones de la Generalización de Lebeaux  en la bibliografía (e.g., Speas 1990: 50) se restringen a casos de 
+movimiento-A’ como los de (43) y (44), y hacen referencia explícita a adjuntos y complementos. La versión que se 
+postula en (46) omite tal referencia, por lo que puede extenderse de modo transparente al tratamiento del 
+movimiento-A. 
+ 
+134 
+ 
+Ya que el pronombre he no manda-c a la expresión-R John, ambos elementos 
+pueden ser correferenciales. De este modo, la representación de (13) permite 
+explicar por qué la oración de (43a) no viola la Condición C de la Teoría de 
+Ligamiento. El mismo análisis puede extenderse al ejemplo del español en (44a), 
+i.e., el SC adjunto que Juan escuchó ayer sólo aparece en el interior del constituyente 
+en Spec,C. 
+Por otra parte, la oración inaceptable de (43b) recibe un análisis en el que la 
+cláusula que sirve de complemento al nombre argument está presente en ambas 
+ocurrencias del sintagma interrogativo. 
+ 
+(48) 
+ 
+ 
+Dado que, en este caso, el pronombre he manda-c a la expresión R John, la 
+representación viola la Condición C de la Teoría de Ligamiento. El mismo 
+análisis se extiende al ejemplo del español en (44b), i.e., el SC complemento que 
+Juan es culpable está presente en la ocurrencia baja del sintagma interrogativo, por 
+lo que por lo que la correferencialidad entre el pronombre él y la expresión-R Juan 
+produce una violación de Condición C. 
+Takahashi & Hulsey (2009) aplican la lógica de la Generalización de Lebeaux 
+en (46) a los efectos de anti-reconstrucción en Cadenas-A. De acuerdo con ellos, 
+el complemento SN de un determinante D puede estar ausente en ciertos 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+miembros de una Cadena de movimiento-A. Así, por ejemplo, la oración de (40) 
+recibe el análisis que se esboza en (49). Nótese que el SD sujeto the claim that John 
+was asleep sólo está completo en su posición de Spec,T. Su respectiva ocurrencia 
+dentro de la cláusula sólo contiene al determinante definido the. 
+ 
+(49) 
+ 
+ 
+ 
+Dado que el pronombre him no manda-c a ninguna ocurrencia de la expresión-
+R John, la oración no incurre en una violación de la Condición C de la Teoría de 
+Ligamiento y, por tanto, resulta aceptable. 
+Un análisis similar puede aplicarse al caso de (42). Como se observa en (50), 
+esta oración admite un análisis en el que un determinante desnudo Dmin/max ocupa 
+las posiciones más bajas de la dependencia de movimiento-A. Ya que el 
+pronombre him no manda-c a la expresión-R the president, ambas pueden ser 
+correferenciales sin violar la Condición C. Por otro lado, dado que una 
+ocurrencia del SD completo his picture of the president está en el dominio de mando-
+c de every man, la lectura ligada entre el pronombre posesivo his y la expresión 
+cuantificada está disponible.8 
+                                                          
+ 
+8 Se asume que los pronombres posesivos en inglés ocupan la posición de especificador de un determinante nulo 
+(e.g., Radford 1997, Adger 2003, i.a.). Existen, de hecho, casos en los que dicho determinante recibe 
+manifestación fonológica, e.g., his every idea. 
+ 
+136 
+ 
+ 
+(50) 
+ 
+ 
+Stanton (2016) provee evidencia independiente a favor de la presencia de 
+determinantes desnudos Dmin/max en ciertos gaps de movimiento. Su argumento 
+se basa en una correlación previamente no observada entre las propiedades de 
+subcategorización de una determinada preposición y la posibilidad de dejarla 
+varada a partir de extraer su complemento (ing. Preposition Stranding). 
+Los ejemplos de (51) muestran que la preposición in en su acepción temporal 
+no admite pronombres como complementos. 
+ 
+(51) La preposición temporal  in  rechaza pronombres (Stanton 2016: 90) 
+a. *I will be arriving in a few days, and John will be arriving [SP in them], too. 
+b. *I went swimming in December, and John went swimming [SP in it], too. 
+ 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Al mismo tiempo, esta preposición permite que su SD complemento se 
+extraiga a partir de movimiento-wh (cf. (52a)) y de relativización (cf. (52b)). Sin 
+embargo, la preposición temporal in no admite que su complemento se topicalice 
+(cf. (52c)), ni que se promueva como parte de una though-construction (cf. (52d)), 
+una construcción sintáctica que comparte propiedades con las topicalizaciones. 
+ 
+(52) Extracción desde SSPP encabezados por in temporal (Stanton 2016: 90) 
+a. 
+[SD Which month]i did John go swimming [SP in hi]? 
+b. 
+[SD The month]i that John went swimming [SP in hi] was very cold. 
+c. 
+*[SD December]i, John went swimming [SP in hi]. 
+d. 
+*[SD December]i is tough to swim [SP in hi]. 
+ 
+Compárese este patrón con el funcionamiento de la acepción locativa del 
+pronombre in. Como se observa en (53), este pronombre acepta pronombres 
+como complementos. 
+ 
+ 
+ 
+     (53) La preposición locativa  in  admite pronombres (Stanton 2016: 91) 
+a. Michelle’s cat hid in the cardboard box, and my cat hid [SP in it], too. 
+b. I stored my cereal in the pantry, and Chris stored his cereal [SP in it], 
+too. 
+ 
+Lo que nota Stanton es que la gama de extracciones que permite una 
+preposición que acepta pronombres es más amplia que la de una preposición que 
+rechaza pronombres. Así, si bien ambos tipos de preposición admiten la 
+extracción de sus complementos a partir de movimiento-wh (cf. (54a)) y de 
+movimiento de relativo (cf. (54b)), sólo las preposiciones que aceptan 
+ 
+138 
+ 
+pronombres admiten topicalizar su complemento (cf. (54c)) o promoverlo como 
+parte de una though-construction (cf. (54d)). 
+ 
+(54) Extracción desde SSPP encabezados por  in  locativo (Stanton 2016: 91) 
+a. [SD Which box]i did Michelle’s cat hide [SP in hi]? 
+b. [SD The box]i that Michelle’s cat hid [SP in hi] was made of cardboard. 
+c. [SD That cardboard box], Michelle’s cat hid [SP in hi]. 
+d. [SD Cardboard boxes] are easy for cats to hide [SP in hi]. 
+ 
+La explicación que ofrece Stanton para el contraste entre (52) y (54) se basa en 
+el análisis que Takahashi & Hulsey (2009) ofrecen para oraciones como (40). 
+Esto es, Stanton propone que la topicalización y las though-constructions, entre 
+otras dependencias de desplazamiento, pueden tener como gaps a un núcleo 
+determinante Dmin/max. Dado que un determinante desnudo es estructuralmente 
+similar a un pronombre (cf. Postal 1966, Abney 1987), las preposiciones que 
+rechazan pronombres también rechazan al miembro más bajo de estas Cadenas 
+de movimiento. Así, una topicalización como (52c) recibe el análisis en (55), en 
+donde la inaceptabilidad de la oración radica en que la preposición temporal in 
+rechaza a su complemento D. 
+ 
+(55) 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+ 
+ 
+ 
+ 
+Por el contrario, se espera que la topicalización del complemento de una 
+preposición que acepta pronombres deba resultar aceptable. Esto se verifica con 
+respecto al análisis de la oración de (54c) que se esboza en (56). En este marcador 
+de frase se aprecia que la preposición locativa in acepta como complemento al 
+determinante demostrativo that. 
+ 
+ 
+ 
+ 
+ 
+(56) 
+ 
+140 
+ 
+ 
+ 
+Como evidencia a favor de su análisis, Stanton observa que incluso el 
+movimiento-wh puede generar oraciones inaceptables a partir de preposiciones 
+que rechazan pronombres si el constituyente desplazado es un pronombre 
+interrogativo. Como se aprecia en (57), la preposición locativa on acepta 
+pronombres y, por tanto, admite la extracción tanto de un sintagma-wh (cf. 
+(57b)) como de un pronombre interrogativo (cf. (57c)). 
+ 
+(57) Movimiento-wh y preposición locativa  on  (Stanton 2016: 122) 
+a. My family eats dinner on the green table. John’s family eats dinner [SP on it] 
+too. 
+b. [SD What table] does your family eat dinner [SP on [SD what table]]? 
+c. [SD What] does your family eat dinner [SP on [SD what]]? 
+ 
+Sin embargo, la preposición temporal on rechaza pronombres en su posición 
+de complemento, a la vez que no admite la extracción de what (cf. (58c)). Esto se 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+sigue de la presencia de una copia no pronunciada del pronombre interrogativo a 
+la derecha de la preposición. 
+ 
+(58) Movimiento-wh y preposición temporal  on  (Stanton 2016: 122) 
+a. *My family eats turkey on Thanksgiving. John’s family eats turkey [SP on it], 
+too. 
+b. [SD What holiday] does your family eat turkey [SP on [SD what holiday]]? 
+c. *[SD What] does your family eat turkey [SP on [SD what ]]? 
+ 
+Tanto los efectos de anti-reconstrucción discutidos por Lebeaux (1988) y 
+Takahashi & Hulsey (2009) como la correlación entre preposiciones varadas y 
+anti-pronominalidad observada por Stanton parecen mostrar que los gaps de 
+movimiento relevantes en estos casos no poseen la misma estructura léxico-
+sintáctica que sus respectivos fillers. Este patrón resulta problemático para una 
+teoría del movimiento de acuerdo con la cual fillers y gaps son constituyentes 
+idénticos que se obtienen a partir de una operación sintáctica de Copia. 
+ 
+5. La forma de la solución 
+ 
+Takahashi & Hulsey (2009) postulan que la posibilidad de utilizar 
+determinantes desnudos Dmin/max como gaps de movimiento-A es opcional y se 
+encuentra restringida por principios independientes de la gramática; por su parte, 
+Stanton (2016) propone la existencia de una preferencia por utilizar 
+determinantes desnudos en casos de movimiento-A. Adaptando y extendiendo 
+ideas de estos autores, aquí se postula de modo conjetural que la gramática 
+procura minimizar la estructura de los elementos que funcionan como gaps, y 
+que el uso de constituyentes idénticos al filler constituye una alternativa marcada 
+que se da con el fin de satisfacer requerimientos de interpretabilidad en las 
+interfaces. Esta idea se sintetiza en el principio de (59). 
+ 
+142 
+ 
+ 
+(59) Minimice el silencio 
+Un gap de movimiento tiene el mínimo contenido léxico-sintáctico 
+requerido para su interpretación en las interfaces. 
+ 
+Considérese a modo de ejemplo la oración pasiva de (60). 
+ 
+(60) El vecino fue arrestado. 
+ 
+Existen al menos dos representaciones subyacentes para esta oración a partir 
+de los supuestos hasta aquí presentados. La primera involucra asumir que hay dos 
+copias idénticas del SD el vecino (cf. (61a)). La segunda alternativa es la que se 
+discutió para casos como los de (40) y (42), i.e., el SD el vecino generado en la 
+posición de sujeto funciona como filler de un gap formado por un determinante 
+desnudo Dmin/max (cf. (61b)). 
+ 
+(61) a. [SD El vecino] fue arrestado [SD el vecino]. 
+ 
+ c. [SD El vecino] fue arrestado [SD D ] 
+ 
+El principio de (59) determina que se prefiera la derivación esquematizada en 
+(61b). Esta representación es interpretable dado que el único requisito que debe 
+satisfacer un gap de movimiento-A es poder recibir rol temático, una propiedad 
+que se encuentra codificada en el núcleo D (cf. Longobardi 1994). Dada esta 
+preferencia por utilizar elementos atómicos como gaps de movimiento-A se sigue 
+la generalización de (62). 
+ 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+(62) Los gaps de movimiento-A no violan la Condición C ya que no contienen       
+expresiones-R. 
+ 
+Esta observación captura el comportamiento de los gaps de movimiento en 
+oraciones como las de (40) y (42). Sin embargo, de requerirse que un gap de 
+movimiento-A contenga estructura interna para habilitar una determinada 
+interpretación, es posible “violar” el criterio de preferencia en (59). Esto se 
+observa en la oración de (41), en donde un gap de movimiento-A resulta idéntico 
+a su filler con el fin de permitir la interpretación del existencial un ruso en el 
+dominio del verbo parece. 
+Un criterio similar permite explicar por qué ciertos gaps de movimiento 
+producen violaciones de Condición C (cf. (25)). Como ya se discutió, Fox (2002) 
+propone que los gaps de movimiento-wh se interpretan en FL como expresiones 
+definidas anafóricas. Siguiendo a este autor se adopta para tal fin la operación de 
+Conversión de Huellas. 
+ 
+(63) Conversión de Huellas (Fox 2002: 67) 
+a. Inserción de variable: (Det) Pred → (Det [Pred λy(y=x)] 
+b. Reemplazo de determinante: (Det) [Pred λy(y=x)] → Ddef [Pred 
+λy(y=x)] 
+ 
+Este mecanismo transforma un operador cuantificacional en una descripción 
+definida con valor anafórico. En particular, la subregla en (63a) introduce un 
+predicado <e,t> que funciona como variable y que se interpreta 
+composicionalmente con el SN restrictor, i.e., otra expresión <e,t>, a partir de 
+Modificación de Predicados. 
+ 
+ 
+(64) Modificación de Predicados (Heim & Kratzer 1998: 65) 
+ 
+144 
+ 
+Si un nodo ramificante α domina inmediatamente dos nodos β y γ, y ⟦β⟧ 
+y ⟦γ⟧ son ambos de tipo <e,t>, entonces ⟦α⟧ = λx.⟦β⟧(x) ∧ ⟦γ⟧(x), donde 
+x es un individuo. 
+ 
+De la subregla en (63a) se sigue que sólo un gap que contenga un SN restrictor 
+puede interpretarse como variable a partir de Conversión de Huellas; dicho SN 
+debe ser isomórfico con respecto al SN dentro del filler, tal y como lo requieren 
+las dependencias anafóricas ejemplificadas en (38). Se predice de este modo que 
+los gaps de movimiento-wh no pueden ser determinantes desnudos Dmin/max, sino 
+SSDD completos en los que los núcleos determinantes seleccionan un 
+complemento. 
+La excepción a este mecanismo la constituyen los sintagmas que se adjuntan al 
+SN (cf. (43a)). Al ser elementos no requeridos por el núcleo N, estos 
+constituyentes no modifican el tipo de la proyección SN, i.e., el SN continúa 
+siendo una expresión <e,t> sin importar si recibe o no adjuntos. En 
+consecuencia, los adjuntos no resultan requeridos dentro de la estructura del gap 
+para la aplicación de Conversión de Huellas. 
+Bajo estos supuestos, una oración como (43) recibe el siguiente análisis. En 
+principio, el filler which argument that John made no puede tener como gap un 
+determinante desnudo Dmin/max porque este tipo de elemento no puede 
+interpretarse a partir de Conversión de Huellas; así, la representación en (65c) 
+queda descartada. También debe desecharse la representación en (65a), en donde 
+filler y gap son idénticos, ya que (i) el adjunto that John made no es necesario para 
+la interpretación de la dependencia de movimiento y, por tanto, (ii) su presencia 
+viola el principio de (59). La alternativa adecuada es la de (65b), ya que el material 
+léxico-sintáctico en el gap es el mínimamente requerido para aplicar Conversión 
+de Huellas. 
+ 
+   (65) a. *[SD Which argument [ADJUNTO that Johni made]] did hei believe [SD which 
+argument [ADJUNTO that Johni made]]? 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+ 
+b. [SD Which argument [ADJUNTO that Johni made]] did hei believe [SD which 
+argument]? 
+ 
+c. *[SD Which argument [ADJUNTO that Johni made]] did hei believe [SD D]? 
+ 
+Como se puede apreciar, la relación de isomorfía entre filler y gap en este 
+análisis no se encuentra motivada por mecanismos de la sintaxis estricta (e.g., la 
+operación de Copia), sino por (i) el principio de economía representacional de 
+(59) y (ii) mecanismos interpretativos de la interfaz semántica. Este tipo de 
+solución ofrece un modo flexible de abordar tanto fenómenos de reconstrucción 
+como de anti-reconstrucción, lo que resulta inviable, en principio, bajo un 
+abordaje basado en huellas o copias. 
+ 
+Referencias Bibliográficas 
+Adger, D. (2003). Core Syntax. Oxford: OUP. 
+Ausín, A. (2001). On A-movement. Tesis doctoral, UConn. 
+Boeckx, C. (1999). Conflicting c-command requirements. Studia Linguistica 53, 
+227–250. 
+Brody, M. (1995). Lexico-Logical Form. A Radically Minimalist Theory. 
+Cambridge, MA: MIT Press. 
+Büring, D. (2004). Binding Theory. Cambridge: CUP. 
+Chomsky, N. (1970). Deep Structure, Surface Structure and Semantic Interpretation. En R. 
+Jakobson & S. Kawamoto (eds.), Studies in General and Oriental Linguistics. Tokyo: 
+TEC Corporation for Language Research, 183-216. 
+Chomsky, N. (1973). Conditions on Transformations. En S. Anderson & P. Kiparsky (eds.), 
+A Festschrift for Morris Halle. The Hague: Mouton, 232-286. 
+Chomsky, N. (1977). On Wh-Movement. In P. Culicover, T. Wasow, & A. Akmajian (eds.), 
+Formal Syntax. New York: Academic Press, 71-132. 
+Chomsky, N. (1981). Lectures on Government and Binding. Dordrecht: Foris Publications. 
+Chomsky, N. (1982). Some Concepts and Consequences of the Theory of Government and 
+Binding. Cambridge, MA: The MIT Press. 
+ 
+146 
+ 
+Chomsky, N. (1993). A Minimalist Program for Linguistic Theory. In K. Hale & S. J. 
+Keyser (eds.), The View from Building 20, Cambridge, MA: The MIT Press, 1-52. 
+Chomsky, N. (1995). The Minimalist Program. Cambridge, MA: MIT Press. 
+Fiengo, R. (1977). On trace theory. Linguistic Inquiry 8, 35-61. 
+Fox, D. (2002). Antecedent-contained deletion and the copy theory of movement. 
+Linguistic Inquiry 33, 63-96. 
+Grohmann, K. & Nevins, A. (2004). On the Syntactic Expression of Pejorative 
+Mood. Linguistic Variation Yearbook 4, 137–179. 
+Hasegawa, K. (1972). Transformations and semantic interpretation. Linguistic 
+Inquiry 3, 141-159. 
+Heim, I. & A. Kratzer. (1998). Semantics in Generative Grammar. Oxford: 
+Blackwell. 
+Jackendoff, R. (1972). Semantic interpretation in generative grammar. 
+Cambridge, MA: MIT Press 
+Lebeaux, D. (1988). Language acquisition and the form of the grammar. Tesis 
+doctoral, University of Massachusetts. 
+McDaniel, D., 1989. Partial and Multiple Wh-Movement. Natural Language and 
+Linguistic Theory 7, 565-604 
+Nunes, J. (1995). The copy theory of movement and the linearization of chains in 
+the minimalist program. Tesis doctoral, University of Maryland. 
+Nunes, J. (1999). Linearization of chains and phonetic realization of chain links. En 
+S. Epstein & N. Hornstein (eds.), Working Minimalism. Cambridge, MA: MIT 
+Press, 217–249. 
+Nunes, J. (2004). Linearization of chains and sideward movement. Cambridge, 
+MA: MIT Press. 
+Pujalte, M & Saab, A. (2011). Dativos agregados y movimiento-A: un argumento en 
+favor de la teoría de control por movimiento. Cuadernos de ALFAL 3, 200-215. 
+Radford, A. (1997). Syntactic Theory and the Structure of English. A Minimalist 
+Approach. Cambridge: CUP 
+Rehg, K. (1981). Ponapean reference grammar. Honolulu: The University Press of 
+Hawaii. 
+Carlos Muñoz. Lo que oculta el silencio… 
+ 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+van Riemsdijk, H. & Williams, E. (1981). NP-structure. The Linguistic Review 1, 
+171- 217. 
+Saab, A. (2008). Hacia una teoría de la Identidad Parcial en la Elipsis. Tesis 
+doctoral, Universidad de Buenos Aires. 
+Sauerland, U. (1998). The meaning of chains. Tesis doctoral, MIT. 
+Speas, M.J. (1990). Phrase Structure in Natural Language. Dordrecht: Kluwer. 
+Sportiche, D. (2006). Reconstruction, binding, and scope. En: Everaert, M. & Van 
+Riemsdijk, H. (eds.), The Blackwell Companion To Syntax, Volume III. Malden, 
+CA: Blackwell 
+Stanton, J. (2016). Wholesale Late Merger in Ā-movement: Evidence from 
+Preposition Stranding. Linguistic Inquiry 47, 89-126. 
+Takahashi, S. & Hulsey, S. (2009). Wholesale late merger: Beyond the A/Ā 
+distinction. Linguistic Inquiry 40, 387-426. 

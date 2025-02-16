@@ -1,0 +1,642 @@
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+Introducción: ¿Por qué estudios coloniales latinoamericanos? 
+Tendencias, perspectivas y desafíos actuales de la crítica 
+colonial 
+Introduction: Why Latin American Colonial Studies? Current Trends, 
+Perspectives and Challenges in Colonial Critique 
+ 
+Si nos detenemos a comparar, la crítica colonial ha tenido un rol marcadamente menos 
+visible que el latinoamericanismo, el pensamiento decolonial y los estudios poscoloniales 
+latinoamericanos1 en lo que podríamos llamar la masa crítica y teórica sobre 
+Latinoamérica. No obstante pasar bastante desapercibida y a veces ser ignorada, la 
+crítica colonial no deja de formar parte de la trama discursiva que supone el 
+mencionado conjunto de teorías y críticas latinoamericanistas y de tener una órbita bien 
+definida en esta movediza galaxia. Simplemente, no podemos escapar al hecho de que 
+el periodo y el espacio colonial iberoamericanos, en tanto escenario específico del 
+colonialismo entendido como un sistema de dominación (Martínez-San Miguel, 2008: 
+18)2, ha sido una condición de posibilidad, o al menos un referente insoslayable, para 
+todos estos relatos, aunque no sea necesariamente su objeto de análisis o siquiera de 
+enfoque temporal. Esto no deja de resultar llamativo hoy en día, cuando con tanta 
+frecuencia se pregona la necesidad de forjar lo que Walter Mignolo dio en llamar un 
+paradigma otro (2000), un proceso complejo de descolonización en diferentes niveles 
+que, en parte, supone (re)construir y sostener epistemologías desde la diferencia 
+colonial a través de la creación, la recuperación y la habilitación de espacios para voces, 
+relatos y conocimientos subalternos tanto del presente como del pasado.  
+ 
+Quizás la distancia que parece haber entre las vertientes mencionadas con el periodo y 
+la crítica colonial se deba parcialmente al hecho de que algunos historiadores de este 
+periodo defienden líneas historiográficas hegemonizantes que no son compatibles con la 
+agenda descolonizadora del pensamiento decolonial3, o a cierta persistencia en los 
+estudios literarios de abordar la producción textual colonial desde una perspectiva 
+                                                 
+1 Con todo el bagaje crítico-teórico que cada una de estas vertientes trae bajo el brazo. Ver el 
+ensayo de Fernando Coronil (2008) y el de Alejandro de Oto en este dossier al respecto. 
+2 Jorge Klor de Alva (1995) planteó hace unos años un debate sobre si era adecuado referirse al 
+caso latinoamericano como un ejemplo clásico de colonialismo debido al genocidio de las 
+poblaciones nativas y al mestizaje, que según el crítico creó un sector intermediario 
+(criollos/mestizos) que no puede ser pensado como una fuerza de dominación colonial extranjera. 
+Al respecto Martínez-San Miguel (2008: 18) señala la unificación de tres conceptos diferentes en la 
+argumentación de Klor de Alva, “colonización”, “colonia” y “colonialismo”, y recuerda la distinción 
+de Jürgen Osterhammel, según quien la “colonización” designa un proceso de adquisición 
+territorial, “colonia” un tipo de organización sociopolítica específica y “colonialismo” un sistema de 
+dominación (Osterhammel 1997: 4, mi traducción). 
+3 Desde luego que hay numerosos matices y excepciones, pero el debate es demasiado complejo y 
+amplio como para ser abordado en esta breve introducción.  
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+eurocéntrica y que reproduce en el marco nacional las ya longevas exclusiones 
+originarias de la ciudad letrada4. O tal vez sea por cierta tendencia en la vertiente del 
+pensamiento decolonial de abstraer el periodo colonial a través del despliegue de 
+grandes categorías analíticas como, por ejemplo, “colonialidad” (Quijano, 1993),5 y a no 
+compenetrarse lo suficiente con los estudios de campo o casos específicos, aun cuando 
+se utilizan categorías del pensamiento decolonial o de la crítica colonial (muchas veces, 
+convengamos, de manera algo irreflexiva). En los estudios culturales latinoamericanos, 
+volcados al análisis de artefactos literarios, de arte y música, se despliegan con 
+frecuencia lugares comunes como “mestizaje”, “transculturación” o “hibridismo” para 
+describir los más diversos fenómenos6. Sin embargo, una arqueología de estos 
+conceptos (Catelli, 2010) revela que, desde el siglo diecinueve en adelante, su 
+despliegue ha tenido como efecto subsumir bajo sí procesos de inabarcable 
+complejidad7. Sea por los motivos que sea, los cuales no creo puedan circunscribirse tan 
+                                                 
+4 Me refiero, por supuesto, al clásico estudio de Angel Rama (1984). Para pensar el estado de la 
+cuestión en el escenario argentino, que es el escenario inmediato del dossier, resulta un sugerente 
+punto de partida la siguiente observación de Verdesio en su discusión sobre los estudios 
+subalternos: “Beatriz Sarlo propone una agenda crítica que se enfoque en regresar al estudio de la 
+producción cultural típica de la ciudad letrada— esto es una agenda que propone privilegiar el 
+estudio de la literatura y otras manifestaciones culturales de élite promovidas por narrativas de la 
+nación. Este proyecto crítico (el cual conlleva un absoluto rechazo a los estudios culturales— una 
+labor teórica que hoy Sarlo considera como muy dañina para los estudios latinoamericanos), es 
+definitivamente inaceptable para aquellos de nosotros en el área de los estudios coloniales que 
+adherimos a un proyecto como este libro, porque —entre otros motivos— propone limitar nuestra 
+investigación solo a, precisamente, la producción cultural que borró a los sujetos subalternos u 
+oprimidos del universo de sentido creado por las narrativas nacionales oficiales. Sin embargo, 
+debemos mencionar que hay, en Latinoamérica, otros tipos de proyectos de investigación más 
+cercanos a este libro que el de Sarlo. Me refiero, por ejemplo, al de Zulma Palermo (1997) y 
+Gladys Lopreto (1996), que se enfoca en la búsqueda de narrativas marginales del periodo 
+colonial. La idea de sus respectivas agendas es entender el presente a través del estudio de las 
+historias que han sido borradas por la narrativa argentina oficial” (Verdesio 2002: 10, mi 
+traducción). Más recientemente, en un ensayo sobre la influencia del pensamiento de Fanon en 
+Antonio Cornejo Polar (y también Roberto Fernández Retamar), a través del cual retoma el 
+concepto de “totalidad contradictoria”, Palermo reafirma la idea de que “Por ello la crítica en 
+nuestros días necesita orientarse a la búsqueda de categorías más ajustadas a una lógica de las 
+dinámicas colectivas, propias de las formaciones culturales mediatizadas por los discursos textuales 
+[…] Escuchar y leer otras escrituras, aquellas que —siguiendo el magisterio de Mariátegui— sólo 
+serán auténticas cuando afloren en ellas las voces de los condenados, sin mediaciones” (2011: 
+145-146). 
+5 Verdesio ha articulado objeciones para el uso generalizado de “colonialidad” para Latinoamérica, 
+algunas de las cuales resume en su artículo en este dossier.  
+6 Gruzinski (1999) ha comentado sobre el uso indiscriminado del término “mestizo” en La pensée 
+métisse. 
+7 Antonio Cornejo Polar llegaría incluso a hablar de “riesgos” en el uso de estas metáforas, “Es 
+evidente que categorías como mestizaje e hibridez toman pie en disciplinas ajenas al análisis 
+cultural y literario, básicamente en la biología, con el agravante —en el caso del mestizaje— que se 
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+solo a problemáticas disciplinares, metodológicas o problemas del campo de estudios, 
+sino a fuerzas que operan y provienen de la dimensión menos transparente de la 
+ideología, la política y las relaciones de poder, los estudios coloniales mantienen un 
+perfil secundario y despiertan un interés “casi nulo”, como señala Gustavo Verdesio en 
+su contribución para este dossier, desinterés que tal vez debamos comenzar a pensar 
+como sintomático.  
+ 
+Desde luego que estas observaciones generales no procuran de manera alguna echar 
+por la borda lo que es ya un corpus de producciones de alto nivel que viene siendo 
+sumamente efectivo en realizar intervenciones académicas y críticas que difícilmente 
+podrían pasar desapercibidas y que en los últimos años se ha consolidado 
+notablemente. Pensando en logros a grandes rasgos, puede decirse que se ha podido, 
+por un lado, articular de manera colectiva y sostenida un cuestionamiento de algunos 
+de los presupuestos y categorías centrales del pensamiento moderno occidental y sus 
+relatos, mientras que por otra parte también es innegable que se ha comenzado a 
+reconocer y a promover la producción de conocimientos y relatos no imperiales desde la 
+diferencia colonial (Mignolo, 2000). Hay, de todos modos, mucho camino tanto por 
+andar como por desandar. 
+  
+En este contexto, ¿cuál es el camino que han recorrido los estudios coloniales en los 
+últimos casi treinta años? Desde la llamada “crisis de los estudios coloniales” de los 
+ochenta (Mignolo, 1986), el campo ha pasado por diferentes desarrollos en lo que 
+concierne a la definición de su objeto de estudio y análisis. En el decorrer de estos 
+años, se han problematizado de manera sumamente productiva algunos de los términos 
+teóricos claves, tales como “discurso colonial” (Adorno, 1988; Hulme 1992; Mignolo, 
+1986, 1988; Pastor 1983; Seed, 1991), “discursos de dominación” (Adorno, 1993), 
+“semiosis colonial” (Mignolo, 1995), “sujeto colonial” (Adorno, 1995), así como la propia 
+noción de la aplicabilidad de las categorías “colonial”/“poscolonial” para el caso 
+Latinoamericano (Klor de Alva, 1995; Mazzotti, 2008; Martínez-San Miguel, 2008). 
+Simultáneamente, los estudiosos del periodo colonial, desde diversas disciplinas sociales 
+y humanísticas, han venido estableciendo un diálogo (plagado de desafíos 
+metodológicos y conceptuales, como ha sido señalado en numerosas ocasiones) con los 
+                                                                                                                      
+ 
+trata de un concepto ideologizado en extremo. En lo que toca a hibridez la asociación casi 
+espontánea tiene que ver con la esterilidad de los productos híbridos, objeción tantas veces 
+repetida que hoy día García Canclini tiene una impresionante lista de productos híbridos y 
+fecundos... De cualquier manera esa asociación no es fácil de destruir. De hecho en el diccionario 
+Velázquez inglés-español la palabra híbrido suscita de inmediato una acepción algo brutal: ‘mula’. 
+Por supuesto que reconozco que el empleo de estos préstamos semánticos tiene riesgos 
+inevitables; al mismo tiempo considero que detrás de ellos como que se desplaza una densa capa 
+de significación que engloba y justifica cada concepción de las cosas. Incluso estaría tentado de 
+afirmar que una lectura de ese sustrato de significado es más productiva que la simple declaración 
+de ajenidad e impertinencia de las categorías empleadas para esclarecer un punto concreto” 
+(Cornejo Polar, 1998: 8, mi énfasis). 
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+estudios poscoloniales sudasiáticos (Bhabha, Spivak, Said, Guha, Chatterjee, 
+Chakrabarty), con el grupo modernidad/colonialidad y el pensamiento descolonial 
+(Quijano; Dussel; Castro Gómez; Grosfoguel, Maldonado Torres, De Oto, Palermo, entre 
+otros), que ha incluido a su vez abordajes del pensamiento fronterizo (Anzaldúa) y 
+caribeño (Fanon, Glissant, Césaire), con los estudios subalternos (Beverley, Coronil, 
+Moreiras, Verdesio, entre otros). Esta oleada de cuestionamientos y reflexiones sobre 
+los objetos de estudio y los límites del campo ha provocado no solo la elaboración de 
+nuevas perspectivas críticas, sino también una importante y necesaria —aunque aún 
+insuficiente (Verdesio, 2001)— ampliación del canon colonial, resultando en la 
+incorporación de voces subalternas, textos y artefactos culturales antes desdeñados 
+como menores o simplemente irrelevantes desde la cultura moderna (Mignolo, 1986, 
+1995, 2000).  
+ 
+De modo general, tanto los estudios coloniales como las diferentes vertientes que 
+pueden ser incluidas bajo el rótulo amplio de los estudios poscoloniales, en su vertiente 
+latinoamericanista, se han visto beneficiados por el diálogo crítico y se han iluminado 
+mutuamente. Esta última afirmación no implica, sin embargo, que este diálogo no deba 
+seguir siendo profundizado y que no continúen apareciendo nuevos problemas y 
+preguntas, sobre todo en lo que respecta a las metodologías que empleamos —
+determinadas a su vez por las prácticas disciplinares— y asimismo con relación a las 
+categorías críticas y los conceptos que utilizamos en nuestros análisis. El diálogo crítico 
+interdisciplinar debe ser constantemente estimulado y reactivado. En esa dirección, este 
+dossier presenta un conjunto de artículos que trabajan no solo con aparatos críticos 
+interdisciplinares sino que también buscan explorar preguntas planteadas en otras 
+disciplinas y campos de estudio desde una perspectiva (pos)colonial y/o decolonial que 
+permitan abordar temas que han sido invisibles en los análisis sociales y humanísticos 
+clásicos sobre el periodo colonial, tales como ecología, raza, etnia, clase/casta, género, 
+sexualidad como partes funcionales del entramado discursivo del colonialismo cuyos 
+efectos persisten inclusive hasta hoy.     
+ 
+Ante esa persistencia de la colonialidad del poder, que todos parecemos reconocer, hay 
+que decir que ignorar el pasado colonial en su justa densidad y complejidad es una 
+manera de ser cómplices de dicha colonialidad. El hecho de que muchos aspectos del 
+periodo colonial permanezcan en cierta zona de inaccesibilidad —a causa de la ausencia 
+o escasez de producción letrada o en escritura alfabética por parte de sujetos que no 
+tenían acceso a la misma— no conlleva que no debamos continuar indagando lo más 
+posible ese mundo, los modos en que nos lo han representado y los modos en que 
+nosotros mismos como académicos lo entendemos y lo representamos (éste, podría 
+pensarse, es nuestro legado y nuestro compromiso). El pasado también es un “otro” y 
+en el caso sudamericano el pasado colonial padece de una especial condición de 
+alteridad, a pesar de que en los últimos años se haya venido incorporando y 
+desarrollando cada vez más la línea decolonial. Mi perspectiva es que es éticamente 
+necesario, para mantener la mayor coherencia posible si es que de veras adherimos a 
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+un proyecto de descolonización del saber y de los imaginarios culturales, tener presente 
+el pasado colonial. Un desafío central para quienes estudian hoy el periodo colonial es 
+mantener esta coherencia ideológica, es decir, no reproducir las exclusiones y 
+asimetrías que el colonialismo estableció en las Américas en nuestros marcos 
+socioculturales actuales. Para decirlo con Verdesio, en los estudios coloniales no hay 
+lugar para un pensamiento no posicional (2002: 12).  
+ 
+Entiendo que una de nuestras tareas como críticos provenientes del campo de los 
+estudios coloniales hoy es ser capaces de identificar desafíos metodológicos, 
+disciplinares y pedagógicos específicos para continuar llevando adelante la agenda 
+descolonizadora que ha caracterizado una vertiente de nuestro campo de estudios que 
+comenzó a desarrollarse a partir de la crisis de los ochenta y el llamado “cambio de 
+paradigma”. En este marco, este dossier sobre el estado de la cuestión de los estudios 
+coloniales tiene como objetivo general presentar un conjunto representativo, pero no 
+exhaustivo, de trabajos que articulan algunas de las perspectivas críticas que han 
+surgido del campo en tiempos recientes, y que a mi modo de ver ponen en relieve la 
+presencia de un notable giro interdisciplinario que avanza sobre un amplio campo de 
+discursos, desde la filosofía, los discursos raciales, la traducción, la arqueología, hasta la 
+crítica ecológica. De más está decir que dicho giro no es extensible a la totalidad del 
+campo de estudios, que de muchas maneras continúa estando configurado según lo 
+mapeara Mignolo en “La lengua, la letra y el territorio” (1986), hace casi treinta años. 
+Por otro lado, no deja de ser pertinente para el dossier identificar las reconfiguraciones 
+que puedan ocurrir dentro del campo y atender a algunas de las preguntas y desafíos 
+que nacen de las alteraciones que van ocurriendo.  
+ 
+El recorrido que proponemos comienza con dos artículos que ubican a los lectores en el 
+marco de preocupaciones que han sido centrales para los estudios coloniales, que 
+desde los años ochenta han ido casi siempre de la mano: los criterios de conformación 
+del canon colonial y sus exclusiones y la incorporación de textos escritos en lenguas 
+indígenas al canon a través de la traducción. El artículo de Loreley El Jaber, “Álvar 
+Núñez Cabeza de Vaca. Gustos y olvidos. Legalidad, viaje y escritura” compara los 
+circuitos de lectura de los Naufragios y los Comentarios de Álvar Núñez Cabeza de Vaca 
+e indaga algunos motivos posibles para que los Naufragios hayan ocupado, casi 
+tradicionalmente, un lugar tanto más destacado que los Comentarios. Este artículo 
+sugiere los límites que aún hoy enfrenta el aparato crítico literario ante la textualidad 
+colonial. Interpreto el interés de El Jaber por este problema como una señal de que en 
+Argentina los textos coloniales continúan siendo pensados predominantemente dent ro 
+de un marco literario, marco que en Argentina así como en otros entornos críticos —
+algo también señalado por Verdesio en su artículo—, produce esta y otras exclusiones. 
+El artículo de Laura León Llerena, “José María Arguedas, traductor del Manuscrito de 
+Huarochirí”, plantea el problema de la traducción como práctica y como “concepto 
+articulador de las dinámicas en las zonas de contacto”. León Llerena aborda la 
+traducción de Arguedas mostrando que el autor peruano produce una práctica literaria 
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+desde un lugar decididamente posicional, que pone en evidencia la desvaloración (o 
+“reducción”, como dice León Llerena) de la lengua quechua en el periodo colonial y, 
+desde una perspectiva poscolonial y decolonial, argumenta que Arguedas propone, a 
+través de una traducción “literaria” que expande el sentido del texto original, apuntalar 
+la expansión del quechua en el plano sociocultural en el Perú del siglo XX. Los dos 
+artículos que inauguran el recorrido de este dossier muestran modos diferentes en que 
+las prácticas literarias del marco de la cultura nacional pueden reavivar y hacer propias 
+ciertas problemáticas del colonialismo y del periodo colonial. 
+ 
+En la segunda parte del dossier, los trabajos de Patricia Ferrer Medina, Larissa Brewer 
+García y el mío trabajan desde una vertiente de los estudios coloniales que ha crecido 
+en años recientes, y que explora el desarrollo de la discursividad racial de la conquista y 
+la colonia, principalmente en la cultura escrita y la cultura visual, e interpela las teorías 
+críticas sobre la raza desde la experiencia específica de la colonialidad americana. El 
+artículo de Patricia Ferrer Medina representa claramente una nueva tendencia que 
+analiza la discursividad racial y (proto)etnográfica de la conquista desde un ángulo de 
+obvia relevancia pero que brilla por su ausencia en los estudios coloniales en general, a 
+pesar de que se vincula fuertemente con problemáticas políticas y decididamente 
+actuales y globales. Bajo el título “Nuevas incursiones críticas a los estudios coloniales 
+caribeños: la crítica ecológica”, la colega puertorriqueña nos presenta una síntesis de la 
+crítica ecológica norteamericana, especificando los modos en que la misma ha generado 
+una reconfiguración interdisciplinaria de los estudios literarios, que Ferrer Medina 
+aborda desde un lugar doblemente ignorado (por la ecocrítica y de manera relativa por 
+los estudios coloniales): el Caribe. Ferrer Medina analiza uno de los textos fundacionales 
+del periodo colonial, y sin embargo uno de los menos abordados, el de Ramón Pané, 
+Relación de las antigüedades de los indios, de 1498. Como ejemplo de un análisis 
+ecocrítico nos presenta el concepto de diferencia ecológica como marcador de diferencia 
+dentro del discurso racial a finales del siglo XV y a través del XVI. A través de la 
+discusión se demuestra la utilidad del concepto de diferencia ecológica como cuarta 
+categoría analítica para el análisis de la colonialidad del poder además de aquellas 
+propuestas por Aníbal Quijano, género, raza/etnia y clase.   
+ 
+Como mencioné más arriba, los estudios coloniales se han enfocado en su mayoría en 
+analizar textos por o sobre sujetos españoles y/o criollos y en algunos casos indígenas, 
+en desmedro del acercamiento a un tercer grupo étnico que ha sufrido de una 
+invisibilidad social y cultural de proporciones históricas, fuera de los análisis sobre la 
+esclavitud —como ha señalado el historiador Hermann Bennett (2008)—, como si no 
+existiera una experiencia negra fuera de la esclavitud. El artículo de Brewer García, 
+“Negro, pero blanco de alma: La ambivalencia de la negrura en la Vida prodigiosa de 
+Fray Martín de Porras (1663)” analiza un texto poco conocido de la literatura colonial 
+del siglo XVII sobre el santo afromestizo peruano Martín de Porras, para identificar en el 
+mismo la producción de sentidos cristianos y específicamente americanos sobre la 
+negrura en el Perú. Brewer García identifica distintas características que son atribuidas a 
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+Porras por su condición de afromestizo y sostiene que la representación que se hace de 
+Porras produce una figura ambivalente y conflictiva, en la que el alma de Porras es 
+blanca y está asociada con el poder de la clase española/criolla (blanca), mientras que 
+su cuerpo oscuro es asociado con la servidumbre “natural” de las castas africanas. Mi 
+artículo sobre la pintura de castas se sitúa en el otro gran centro virreinal de las 
+Américas, la Nueva España, en el siglo XVIII, donde analizo la producción de un 
+discurso específicamente criollo (que incluye a veces a los mestizos y a los indígenas de 
+rango) sobre los afromestizos, a través del género visual conocido como la pintura de 
+castas. El concepto de agencias criollas de José Antonio Mazzotti es utilizado para llevar 
+a cabo un análisis del impacto que tuvieron las Reformas Borbónicas en el sector criollo, 
+la fundación de las primeras academias criollas de pintura de la Nueva España, y el 
+desarrollo y el despliegue de un discurso racial criollo y la construcción de estereotipos 
+raciales en la pintura de castas. Este análisis pretende dimensionar la complejidad, el 
+alcance y la dispersión de los discursos raciales internos del espacio colonial y en los 
+imaginarios culturales en formación durante las décadas inmediatamente anteriores a 
+los procesos de independencia criollos, procesos que como mencionamos al principio de 
+la presentación, son casi siempre ignorados o abstraídos de diferentes maneras. 
+ 
+En estos tres artículos se hacen evidentes las resonancias actuales de la discursividad 
+racial dominante en el periodo colonial, y en este sentido creemos que atender a este 
+aspecto peculiar de la colonialidad latinoamericana en los estudios coloniales puede 
+tener un propósito concientizador con respecto al profundo impacto que tuvieron el 
+lenguaje, las imágenes, y sobre todo el marco epistémico moderno-occidental en 
+producir e instalar jerarquías sociales y exclusiones históricas pero absolutamente 
+vigentes en nuestas sociedades. 
+ 
+La última parte del dossier ofrece dos artículos de corte teórico en los cuales Gustavo 
+Verdesio y Alejandro de Oto se ocupan de distintas aproximaciones al colonialismo en el 
+siglo XX. Gustavo Verdesio aborda el legado colonial como problema no solamente 
+académico sino también sociocultural en Uruguay, que nos sirve para pensar algunas 
+cuestiones específicas de la región rioplatense en general, especialmente en lo que 
+concierne a lo que podríamos llamar políticas de la desmemoria con relación al periodo 
+colonial y los temas indígenas. Verdesio se pregunta por qué hay tan poco interés en los 
+estudios coloniales y en los temas indígenas en Uruguay y en la región rioplatense y 
+advierte sobre la vigencia de una discursividad racista contra los pueblos originarios en 
+sectores culturales y académicos hegemónicos que procuran establecer una identidad 
+uruguaya homegénea, blanca y occidental. A partir de estas observaciones, Verdesio 
+también cuestiona el grado real del “cambio de paradigma” de los estudios coloniales. 
+En cierta sintonía con Verdesio, aunque desde otros campos discursivos, Alejandro de 
+Oto propone un recorrido por los puntos de articulación conceptuales y políticos de la 
+crítica poscolonial y el pensamiento descolonial, para destacar el modo en que la 
+descolonización como problema político tal como lo encara Frantz Fanon en el marco de 
+las luchas de liberación de los sesenta, pasa a formar parte del entramado discursivo de 
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+la teoría poscolonial y el pensamiento latinoamericanista y descolonial en el siglo XX. De 
+Oto sostiene que “para pensar la emancipación, o mejor aún, la liberación, primero hay 
+que saber qué se deja de reproducir. Cómo se resuelve esta encrucijada sigue siendo el 
+gran problema político (en términos de su formulación) y práctico. Por tal razón, entre 
+la variedad de tareas a emprender es central revisar los modos de la sujeción y de 
+producción de la existencia social que los procesos históricos del colonialismo y del 
+imperialismo desplegaron”. Esta afirmación advierte la necesidad de establecer una vía 
+de diálogo entre la teoría poscolonial, el pensamiento descolonial, y la crítica colonial. Al 
+mismo tiempo, tanto Verdesio como De Oto, y me sumo, parecen coincidir en que las 
+reflexiones crítico-teóricas sobre el colonialismo y los legados coloniales del presente 
+precisan ser articuladas con prácticas concretas en el plano heterogéneo o plural de lo 
+sociocultural y lo político. 
+ 
+En consonancia con estas últimas observaciones y ante la diversidad de abordajes que 
+presenta el recorrido que hemos construido, es relevante aclarar que este dossier 
+trabaja sobre dos ejes, proponiendo que las reconfiguraciones que señalamos obedecen 
+a la actuación de una red interregional en la que cada uno o una de sus integrantes 
+llega a la mesa de la crítica colonial con un bagaje específico, por un lado, y a los 
+cruces entre disciplinas, por otro (pero también teniendo en cuenta el contexto 
+interregional). En ambos casos, estamos hablando de aparatos y lenguajes críticos que 
+se entrecruzan y muestran el campo de estudios hoy como una especie de “zona de 
+contacto”, para utilizar y evocar el término de Mary Louise Pratt, donde la circulación de 
+saberes no ha funcionado ni funciona simétricamente, circulación que no dejamos de 
+pensar en el marco de la colonialidad del saber. Permanecer atentos ante esas 
+asimetrías es una manera de continuar llevando adelante la agenda descolonizadora de 
+los estudios coloniales que se postulara en los años ochenta. Desde nuestros distintos 
+lugares, experiencias y recorridos personales y profesionales, los colaboradores de este 
+dossier, Loreley El Jaber (Argentina), Laura León Llerena (Perú, Inglaterra, Brasil, 
+Estados Unidos), Larissa Brewer García (Colombia, Estados Unidos), Patricia Ferrer 
+Medina (Puerto Rico, Estados Unidos), Gustavo Verdesio (Uruguay, Argentina, Estados 
+Unidos) y Alejandro de Oto (Argentina, México) y yo Laura Catelli (Argentina, Estados 
+Unidos), estamos al tanto de las asimetrías que aparecen con frecuencia en esta “zona 
+de contacto”. Por eso, uno de los principales objetivos del dossier es dar cuenta de la 
+actual diversidad de lugares de enunciación en la producción crítica del campo, tanto en 
+lo que tiene que ver con la ubicación geográfica de los colaboradores como con sus 
+espacios disciplinarios y académicos, y pensar los interrogantes que plantea cada 
+colaboración en relación con su lugar y condiciones de enunciación específicos. 
+ 
+En este marco de cambios y rediseños, considero relevante insistir en la cuestión de las 
+disciplinas y plantearnos cuál es el rol que su actual disposición juega en este diálogo. 
+En Argentina, como en la mayoría de los países de las excolonias latinas, las disciplinas 
+continúan en general funcionando dentro de sus confines tradicionales, a diferencia de 
+otros países como Estados Unidos, donde la currícula universitaria de las humanidades, 
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+artes y ciencias sociales está diseñada para ser intrínsecamente interdisciplinaria y 
+ofrecer un marco humanístico, las liberal arts, a enfoques disciplinares específicos. Por 
+lo tanto, preguntarse por el problema de las disciplinas en el proceso de descolonización 
+de la producción de conocimiento en el ámbito académico no tendrá el mismo sentido  ni 
+las mismas respuestas dependiendo del locus de enunciación de quien formule este tipo 
+de preguntas.  
+ 
+Por último y específicamente con relación a la vertiente literaria, de donde emerge la 
+crítica colonial que atraviesa la mayoría de los trabajos que presentamos en este 
+dossier, hay al menos dos aportes que a mi modo de ver están surgiendo de la misma, 
+ambos condicionados por el mantenimiento de una modalidad interdisciplinaria, 
+(pos)colonial y decolonial.  
+ 
+El primero tiene que ver con continuar con la tarea de abrir el canon de lo literario y 
+explorar los límites y los puntos ciegos de la producción cultural de la ciudad letrada, 
+tanto en la colonia como en el marco de la nación. Considerando que a partir del 
+“cambio de paradigma” de los ochenta los estudios coloniales abandonan la idea de 
+“literatura colonial” y la distinción entre “literatura” y “documentos históricos”, 
+moviéndose gradualmente hacia la idea de “semiosis colonial”, tanto los estudios 
+literarios como los historiográficos, en la medida en que adopten una modalidad crítica 
+decolonial e interdisciplinaria —tal como ejemplifica el proyecto que viene llevando 
+adelante Zulma Palermo en la Argentina8— aún tienen mucho que contribuir al estudio 
+de situaciones coloniales y poscoloniales (pasadas y presentes). En la medida en que las 
+universidades latinoamericanas continúen teniendo carreras separadas de letras, 
+historia, filosofía, historia del arte, etc., un detalle que los colegas de Estados Unidos no 
+deben olvidar dado que afecta de manera directa nuestros lugares de enunciación y 
+nuestras metodologías (y viceversa), será necesario avivar permanentemente el diálogo 
+en espacios de colaboración que pueden ser congresos, grupos de investigación y 
+estudios, y publicaciones como este dossier.  
+ 
+El segundo es teorizar y poner bajo enfoque crítico aquellas prácticas de poder 
+asociadas con la traducción, tal como sugiere el artículo de Laura León Llerena que 
+presentamos aquí. Este artículo que analiza las críticas dirigidas a la traducción de 
+Arguedas del documento colonial conocido como Manuscrito de Huarochirí desde las 
+                                                 
+8 Ver por ejemplo su libro más reciente, en colaboración con la historiadora Sara Mata, Travesía 
+discursiva: representaciones identitarias en Salta (siglos XVIII-XXI). Como señalan las autoras, los 
+investigadores que forman parte de este proyecto “desde diferentes perspectivas teóricas y 
+disciplinares, se propusieron estudiar las dinámicas de identificación social y política y las 
+representaciones sociodiscursivas que las hicieron posibles, buscando desentrañar las estrategias 
+que consolidaron núcleos duros de la cultura, dando lugar a la concreción de prácticas sociales 
+(religiosas, rituales, políticas, genéricas, literarias, mediáticas, entre otras) que colaboraron en la 
+formación de las subjetividades” (2011, 9). 
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+ciencias sociales cuestiona y desestabiliza el discurso de autoridad de las ciencias 
+sociales y el modo en que los criterios de traducción provenientes de las mismas han 
+servido muchas veces para crear una lingua franca y un relato único que acaban por 
+homogeneizar y reducir lo que son en el fondo situaciones y experiencias socioculturales 
+complejas, atravesadas por conflictos y diferencias. La traducción puede indagarse 
+desde una perspectiva (pos)colonial y enfocarse también en la circulación de conceptos 
+críticos. Esto es central cuando el trabajo interdisciplinario e interregional nos exige 
+diseñar y consolidar una lingua franca que contribuya al enriquecimiento del diálogo y 
+en muchos casos lo haga posible, pero la misma debe evitar reificar las relaciones de 
+poder clásicas por las que los paradigmas epistémicos europeos y norteamericanos se 
+tornan dominantes. Es decir, debemos evitar que todo pensamiento proveniente de 
+América Latina sea traducido y aplanado por la lingua franca que se ha venido 
+desarrollando en los centros e instituciones metropolitanos del saber (sobre todo via 
+Estados Unidos) y pensar en hacer aportes críticos a la misma desde nuestro lugar de 
+enunciación y nuestros también diversos y conflictivos marcos epistémicos específicos. 
+Este tipo de análisis nos hace cuestionar la “aplicación” despreocupada de conceptos y 
+categorías provenientes de los “Postcolonial Studies” al caso latinoamericano 
+(Fernández Bravo, 2009; Klor de Alva, 1993; Martínez-San Miguel, 2010; Mazzotti, 
+2008) y tener en cuenta nuestro contexto específico. No podemos dejar de advertir 
+cierta tendencia a la unidireccionalidad de norte a sur en este intercambio sobre 
+Latinoamérica, una tendencia que no deja de refrescar el debate sobre colonialismo 
+académico y epistémico, y que continúa siendo uno de los mayores desafíos —por 
+cierto no exclusivamente— de los estudios coloniales.  
+ 
+En este sentido, es profundamente relevante la continuación del análisis discursivo de 
+términos claves en la formación de los discursos culturales y críticos en y sobre América 
+Latina que esquive esencialismos y entienda los escenarios nacionales no como una 
+tabula rasa sino como un conjunto de escenarios (pos)coloniales específicamente 
+latinoamericanos, marcados a la vez por insoslayables particularidades locales.9 La 
+crítica colonial puede ayudar a hacer más visibles los términos de estos intercambios, 
+recordándonos desde nuestros propios procesos de formación sociocultural que el 
+diálogo sobre América Latina, por más academicista que sea y aunque a muchos no les 
+“interese”, no puede pensarse al margen del ejercicio del poder, la política, y los 
+procesos coloniales, nuestra violenta condición de posibilidad. 
+ 
+Laura Catelli (coordinadora) – Universidad Nacional de Rosario / CONICET, 
+Argentina 
+                                                 
+9 Sería una sobresimplificación sostener que el colonialismo en Latinoamérica es solo ibérico. Es 
+claro que hay al menos un segundo colonialismo, el británico y francés, y un tercero, el 
+norteamericano, que complican el panorama enormemente e impiden emitir un diagnóstico general 
+aplicable a todo el continente.  
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+Bibliografía 
+ 
+Adorno, Rolena. “Nuevas perspectivas en los 
+estudios literarios coloniales hispanoamericanos”, 
+Revista de crítica literaria latinoamericana, 28, 
+1988: 11-28.  
+ 
+Adorno, 
+Rolena. 
+“Reconsidering 
+colonial 
+discourse for Sixteenth and Seventeenth- Century 
+Spanish America”, Latin American Research 
+Review, 3, 1993: 135-145. 
+ 
+Adorno, Rolena. “Textos imborrables: Posiciones 
+simultáneas y sucesivas del sujeto colonial”, 
+Revista de Crítica Literaria Latinoamericana, 41, 
+1995: 33-49. 
+ 
+Catelli, 
+Laura. 
+Arqueología 
+del 
+mestizje: 
+colonialismo y racialización en Iberoamérica. Ann 
+Arbor, Michigan: ProQuest, 2010. 
+ 
+Cornejo Polar, Antonio. “Mestizaje e hibridez: los 
+riesgos de las metáforas. Apuntes”, Revista de 
+Crítica Literaria Latinoamericana, 24, 47, 1998: 7-
+11.  
+ 
+Coronil, Fernando. “Elephants in the Americas? 
+Latin American Postcolonial Studies and Global 
+Decolonization.” En: Mabel Moraña, Enrique 
+Dussel y Carlos A. Jáuregui (eds.). Coloniality at 
+Large. Latin America and the Postcolonial 
+Debate. Durham, North Carolina: Duke University 
+Press, 2008: 396-416. 
+ 
+Fernández-Bravo, Álvaro. “Partha Chaterjee. La 
+nación en tiempo heterogéneo y otros estudios 
+subalternos”, 
+Prismas: 
+Revista 
+de 
+Historia 
+Intelectual. Bernal: Editorial de la Universidad 
+Nacional de Quilmes, 2009: 309-311. 
+ 
+Gruzinski, Serge. La pensée métisse. Paris: 
+Fayard, 1999. 
+ 
+Hulme, Peter. Colonial Encounters: Europe and 
+the Native Caribbean, 1492-1797. Londres: 
+Routledge, 1992. 
+ 
+Klor de Alva, Jorge. “The Postcolonization of the 
+(Latin)American Experience: A Reconsideration of 
+`Colonialism´, 
+´Postcolonialism´, 
+and 
+´Mestizaje´. En: Gyan-Prakash (ed.). After 
+Colonialism. Imperial Histories and Postcolonial 
+Displacements. Princeton: Princeton University 
+Press, 1995: 241-78. 
+ 
+Lopreto, Gladys. “…que vivo en esta conquista”. 
+Textos del Río de la Plata, Siglo XVI. La Plata: 
+Editorial de la Universidad de la Plata, 1996. 
+ 
+Martínez-San Miguel, Yolanda. From Lack to 
+Excess. “Minor” Readings of Latin American 
+Colonial 
+Discourse. 
+Lewisburg: 
+Bucknell 
+University Press, 2008. 
+ 
+Mazzotti, José Antonio. “Creole Agencies and the 
+(Post)Colonial debate in Spanish America”. En: 
+Mabel Moraña et al (eds.). Coloniality at Large. 
+Latin America and the Postcolonial Debate. 
+Durham, North Carolina: Duke University Press, 
+2008. 
+ 
+Mignolo, Walter. “La lengua, la letra y el territorio 
+(o la crisis de los estudios literarios coloniales).” 
+Dispositio/n: 
+American 
+Journal 
+of 
+Cultural 
+Histories and Theories, n. 28-29, 1986: 137-60. 
+ 
+Mignolo, Walter. “Colonial and Postcolonial 
+Discourse: 
+Cultural 
+Critique 
+or 
+Academic 
+Colonialism?”, Latin American Research Review, 
+28, 3, 1993: 120-134.  
+ 
+Mignolo, Walter. The Darker Side of the 
+Renaissance: 
+Literacy, 
+Territoriality 
+and 
+Colonization. Ann Arbor: The University of 
+Michigan Press, 1995. 
+ 
+Mignolo, Walter. Local Histories/Global Designs. 
+Princeton: Princeton University Press, 2000. 
+ 
+Osterhammel, Jürgen. Colonialism: A Theoretical 
+Overview. 
+Kingston, 
+Jamaica: 
+Ian 
+Randle 
+Publishers, 1997. 
+ 
+Pastor, Beatriz. Discurso narrativo de la conquista 
+de América. La Habana: Ediciones Casas de las 
+Américas, 1983. 
+ 
+Quijano, 
+Aníbal. 
+“Colonialidad 
+del 
+poder, 
+eurocentrismo y América latina”. En: Edgardo 
+Lander (comp.). La colonialidad del saber: 
+eurocentrismo y ciencias sociales. Perspectivas 
+latinoamericanas. Buenos Aires: CLACSO, 1993. 
+http://bibliotecavirtual.clacso.org.ar/ar/libros/land
+er/lander.html Consultado: 13/10/2012. 
+ 
+Rama, Angel. La ciudad letrada. Hanover: 
+Ediciones del Norte, 1984. 
+ 
+Palermo, Zulma. “Semiótica del vacío y de la 
+espera”. 
+Dispositio/n: American 
+Journal 
+of 
+Cultural Histories and Theories, n. 51, 2000: 13-
+26. 
+ 
+ 
+ 
+ 
+ 
+CILHA - a. 13 n. 17 - 2012 - Mendoza (Argentina)  ISSN 1515-6125 
+Palermo Zulma. “El desafío de escribir/inventar 
+´nuestra América´ desde el pensamiento crítico”. 
+En: Alejandro de Oto (comp.) Tiempos de 
+homenajes/tiempos descoloniales: Frantz Fanon. 
+Buenos Aires, Ediciones del Signo, 2011: 123-
+164. 
+ 
+Palermo, 
+Zulma 
+y 
+Mata, 
+Sara. 
+Travesía 
+discursiva: representaciones identitarias en Salta 
+(siglos XVIII-XXI). Rosario: Prohistoria Ediciones, 
+2011. 
+ 
+Sarlo, Beatriz. “Los estudios culturales y la crítica 
+literaria en la encrucijada valorativa”, Revista de 
+Crítica Cultural, 15, 1997: 32-38. 
+Seed, 
+Patricia. 
+“Colonial 
+and 
+Postcolonial 
+Discourse”, Latin American Research Review, 26, 
+3, 1991: 181-200. 
+ 
+Verdesio, Gustavo. “Todo lo que es sólido se 
+disuelve en la academia: sobre los estudios 
+coloniales, la teoría poscolonial, los estudios 
+subalternos y la cultura material”, Revista de 
+Estudios Hispánicos, 35, 2001: 633-658.  
+ 
+Verdesio, Gustavo. “Colonial Latin American 
+Studies in the Light of the Predicament of Latin 
+Americanism”. En: Gustavo Verdesio y Álvaro 
+Félix Bolaños, eds.). Colonialism Past and 
+Present. Albany, NY: State University of New 
+York Press, 2002: 1-18. 
+ 

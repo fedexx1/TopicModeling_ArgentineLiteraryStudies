@@ -1,0 +1,586 @@
+21
+Esta obra está bajo una Licencia Creative Commons Atribución - No Comercial -
+Sin Obra Derivada 4.0 Internacional. http://creativecommons.org/licenses/by-nc-nd/4.0/
+Catalin, Mariana. “Un final/el final: Cuadernos de Pripyat de Carlos Ríos”. Anclajes, vol. 
+XXII, n° 2, mayo-agosto 2018, pp. 21-34
+DOI: 10.19137/anclajes-2018-2222
+Un final/el final: 
+Cuadernos de Pripyat de 
+Carlos Ríos
+An End/The End: Cuadernos de Pripyat by Carlos Ríos
+Mariana Catalin
+Instituto de Estudios Críticos en Humanidades
+Universidad Nacional de Rosario
+Consejo Nacional de Investigaciones Científicas y Técnicas, CONICET
+Argentina
+marianacatalin@gmail.com
+Resumen: En el marco de una investigación más amplia en torno a los imaginarios 
+para después del final en la literatura argentina actual, el presente trabajo se propone 
+abordar los modos en que Cuaderno de Pripyat (2012) de Carlos Ríos narra el después 
+de un hecho histórico identificable, la catástrofe de Chernóbil, tensionándolo entre la 
+crisis específica y la posibilidad de generar un escenario posapocalíptico que ponga en 
+juego un corte radical e inconmensurable. En una primera instancia, se analiza la forma 
+en que esta multiplicación de temporalidades afecta la presentación de los testimonios 
+que el relato dice recolectar. Luego, el trabajo se centra en el collage como posible clave 
+explicativa de la composición del relato a partir de la tensión entre la lógica del resto y 
+la de la sobresaturación referencial.
+Palabras Clave: Carlos Ríos; literatura argentina; crítica literaria; siglo xxi
+Abstract: In the framework of a broader investigation into the imaginaries of the af-
+terworld in present-day Argentine literature, this paper aims at addressing the ways in 
+which Carlos Ríos’s Cuaderno de Pripyat (2012) narrates the afterworld of an identifiable 
+historical event, the Chernobyl disaster, creating further tension between the crisis itself 
+and the possibility of a post-apocalyptic setting that brings a radical and immeasurable 
+interruption into play. First, we analyze the ways in which this multiplication of tempo-
+ralities affects the presentation of the testimonies collected in the story. Next, the paper 
+focuses on the collage as a possible explicative key to the fragmentary composition of 
+the story based on the tension between the rationality of that which remains and that 
+of referential oversaturation.
+Keywords: Carlos Ríos; argentine literature; literary criticism; 21st century
+22
+Mariana Catalin | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+Sentado esperando os beneficios
+da chuva e do ácido, os beneficios
+de ser seu zumbi dentro de um intante
+Carlos Ríos, “Poemas para cobrir a cara”
+ (Poesia Língua Franca, Malha Fina Cartonera) 
+E
+n su estudio After the end. Representations of post-apocalypse, Ja-
+mes Berger destaca desde el comienzo lo oximorónico del sin-
+tagma que titula su libro: después del final solo puede haber 
+nada y, sin embargo, hay algo. Si nos desprendemos del resguardo que supone 
+afirmar que la fórmula es solo una figura retórica, una metáfora, la paradoja se 
+vuelve potente. La misma obliga, entre la radicalidad y la inmanencia, a imaginar 
+el después de un final que ha y no ha tenido lugar. Los epígrafes que encabezan 
+Cuaderno de Pripyat parecen poner en el centro dicha tensión, particularmente, 
+la cita del cuento de Juan José Saer, “Lo visible”. La misma, en sinergia con la 
+de Yuri Andrujovich, nos pone en contacto con la catástrofe concreta que será 
+materia del libro: la explosión del reactor número 4 de la central nuclear de 
+Chernóbil y sus secuelas. Pero, a la vez, por la manera en que se recorta, deja de 
+constreñir el acontecimiento a sus consecuencias inmediatas, abriendo la posibi-
+lidad de un nuevo escenario: un mundo después del final que se sostiene entre la 
+proliferación colateral y la posibilidad de reemplazar al mundo actual.
+Ya en el 2009, Manigua presentaba un futuro distópico en el que la insisten-
+cia en lo devastado y lo derruido condensaban un salto cualitativo. Se construía 
+un territorio, posiblemente situado en África, en el que las lógicas de circulación 
+y asociación habían mutado drásticamente y en el que sus habitantes se hallaban 
+en situación de sobrevivencia. Pero ese futuro no se consolidaba nunca como 
+la temporalidad predominante así como tampoco se aseguraba la existencia de 
+una catástrofe que podría haber instaurado un corte radical. La expectativa de 
+final se desarmaba así a través del énfasis simultáneo en una realidad primitiva 
+anacrónica y en un presente de degradación extrema pero continua. 
+Cuaderno de Pripyat parece proponer el movimiento inverso. El desastre an-
+terior al estado actual que marca la temporalidad de la novela tiene, como dije, 
+un referente preciso. Si bien el trágico suceso es considerado como uno de los 
+desastres medioambientales más importantes de la historia, no deja de ser eso: 
+un hecho puntual, constreñible a un sitio y a un tiempo específicos. Pero la no-
+vela parece expandir la onda radioactiva: pone en juego una diferencia mínima 
+que genera lógicas radicalmente distintas para comprender y narrar el territorio, 
+las subjetividades y formas de vida que retoma el relato. El propósito de este tra-
+bajo es abordar esta producción de Ríos a partir de los modos del final con que 
+ésta entra en contacto. Las preguntas más amplias que orientan esta exploración 
+buscan volver un problema la tensión que el prefijo del término posapocalíptico 
+23
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Un final/el final: Cuadernos de Pripyat de Carlos Ríos: 21-34
+supone y que con frecuencia tiende a ignorarse en función de la hipótesis que 
+sostiene que dicha problematización permite un abordaje singular de ciertas lí-
+neas de la narrativa argentina actual. ¿Qué final habilita un después? ¿El después, 
+por más que omita su explicitación, permite imaginar el final que lo ocasionó? 
+¿Es posible narrar un tiempo de la supervivencia que deje entrever, sin embargo, 
+un final radical? En una primera instancia, entonces, se analiza la forma en que 
+la multiplicación de temporalidades afecta la presentación de los testimonios 
+que Cuaderno de Pripyat dice recolectar. Luego, me centro en el collage como 
+posible clave explicativa de la composición del relato a través de fragmentos. 
+Dicho acercamiento se sostiene en la hipótesis de que la apelación a esa práctica 
+pone en tensión la lógica del resto y la posibilidad de sobresaturación referencial 
+a través de la conversión del resto en dato. 
+En una reseña sobre la novela, Mariano Dubin propone una fórmula para ceñir 
+el impulso político de la obra de Ríos: “nadie puede ser enseñado a vivir el fin de 
+un mundo” (s/p). El reseñista elabora este enunciado en relación con un poema de 
+Juan Gelman que Ríos cita en su perfil de la red social Facebook, “Allí”: 
+Nadie te enseña a ser vaca.
+Nadie te enseña a volar en el espanto.
+Mataron y mataron compañeros y
+nadie te enseña a hacerlos de nuevo. ¿Hay
+que romper la memoria para
+que se vacíe? (Gelman 22).
+El referente claro del poema de Gelman es la última dictadura militar ar-
+gentina. Como lo sostienen Genevieve Fabry, Ilse Logie y Pablo Decock en Los 
+imaginarios apocalípticos en la literatura hispanoamericana contemporánea, el ima-
+ginario apocalíptico (que para los compiladores parece incluir también lo que 
+Berger considera como posapocalíptico) “está presente en tantos textos de la fic-
+ción hispanoamericana posterior a 1970 porque esta tradición parece ser la única 
+que hace justicia a la violencia de la América Latina dictatorial y posdictatorial” 
+(16). Si bien la mención a Gelman y el modo en que la enlaza Dubin con el fin 
+de un mundo podrían sugerir que ciertas producciones de Ríos deberían leerse 
+en función de esa relación, algo que algunos movimientos de sus novelas podrían 
+sustentar (sobre todo la insistencia en el problema de la memoria), a mi enten-
+der, debido a la forma en que se complejiza la relación alegórica y se superponen 
+las temporalidades, la narrativa de Ríos ha dado un salto y se ubica en otro lugar 
+modificando no solo los componentes que se ponen en relación sino también el 
+modo de pensar el movimiento mismo. Las vacas proliferan en todas sus novelas, 
+es cierto, pero no son exactamente idénticas a las de Gelman. Ese “enseña” que 
+se repite en el poema y en la fórmula de Dubin condensa ahora una tensión que 
+tiene como índice la diferencia entre la preposición elegida por el reseñista y la 
+esperable: nadie te enseña a vivir el fin de un mundo; pero tampoco, nadie te 
+enseña a vivir el fin del mundo. 
+24
+Mariana Catalin | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+La parte y el todo
+El título de la novela nos dice, entonces, dónde: Pripyat. Para comenzar a 
+construir esa referencia geográfica como territorio el relato especifica la catás-
+trofe. Presenta el centro urbano vacío y la ciudadela que lo rodea como anillo, 
+explicita la fecha y describe detalladamente el reactor. Diseña incluso un mapa y 
+recupera filmaciones para reconstruir la historia:
+Abril. Sol y viento. La entrada del Ejército y la Cruz Roja. Ómnibus entre-
+lazados. Caras dobladas por el terror. El registro tiene una duración de dos 
+minutos y medio. Las imágenes aparecen recuperadas por una tal Volinova 
+(no es la persona que las filmó) y fueron tomadas el 27 de abril de 1986. El 
+reactor estaba en llamas pero la gente, ese mismo día y el siguiente, siguió 
+haciendo su vida como si nada hubiera pasado (44).
+ 
+Malofienko vuelve a Pripyat justamente para filmar un documental. Para 
+esto, acumula testimonios, la mayoría de ellos atribuidos a personas realmente 
+existentes. Muchas de esas voces, al mismo tiempo que vuelven sobre la tragedia 
+específica relativizan ese anclaje: cuentan historias de migraciones, de persecu-
+ciones, de censura que prescinden del hecho histórico y su singular contexto. 
+Una de ellas, la que se atribuye a Oleg Yarvorsky, parte de la empresa creadora 
+de los videojuegos Shadow of Chernobyl y Stalker: Call of Pripyat, explicita el 
+movimiento: “Los mutantes cazan humanos y el Ejército va tras los turistas que 
+han cambiado su apariencia por efecto de la radiación. Como en cualquier so-
+ciedad del universo hay amor, hambre y cansancio” (56). La novela intensifica 
+el juego de la parte por el todo. Una catástrofe concreta parece adquirir límites 
+inconmensurables, a la vez que puede convertirse en cifra de un mundo que 
+se encuentra todo él en situación de supervivencia. Cuando Berger se detiene 
+sobre la autoridad que, en tanto testigo inviste la figura del sobreviviente, ana-
+liza también cómo esa autoridad parece diluirse en la actualidad en un sentido 
+generalizado del “estar sobreviviendo” cotidiano: 
+the survivors are everywhere, marked with the imprints of catastrophe but 
+without clear knowledge of what exactly catastrophe was. We all were there, 
+are still there, and we insistently re-create in every conceivable cultural form 
+the catastrophes that inhabit us. We are therefore familiar with, or at home 
+with, catastrophe, even as catastrophe is denied, externalized, and enjoy as 
+an aesthetic event. The pervasiveness of disaster “out there” is both a threat 
+and a comfort (49). 
+ 
+Cuaderno de Pripyat se escribe jugando con esa perversidad que en cierto 
+punto parece pesar más que el problema de la verdad de los testimonios que se 
+recogen y que complejiza el simple énfasis en la posibilidad de la parábola (tal 
+como se lee, por ejemplo, en la reseña de Javier Mattio). En este movimiento, el 
+25
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Un final/el final: Cuadernos de Pripyat de Carlos Ríos: 21-34
+testimonio que se le atribuye a Oksana Zabuzhko, escritora ucraniana, es funda-
+mental. En él se narran hechos que refieren a la historia y al presente de Pripyat. 
+Pero, a la vez, el relato se detiene sobre la singular relación entre la propia lengua 
+y aquellas que se han adoptado en el peregrinar por el mundo, sobre la impo-
+sibilidad del regreso a cualquier origen, sobre la construcción del lugar del no 
+integrado y sobre la relación entre arte y vida. “Pero me fui de tema...” (23) dice 
+en un momento Oksana y en esa marca mínima del habla se condensa no sólo el 
+modo en que se estructuran los testimonios sino también el papel que cumplen 
+muchos de estos fragmentos dentro del todo1. 
+Ahora bien, el relato no olvida el contrapunto. El riesgo de expansión no es 
+solo el de la cifra y, a partir de ahí, el de la abstracción, sino también el que de 
+manera singular propone la radiación, un peligro aún latente: 
+En el centro de la ciudadela dormida una enorme caja de concreto sella el 
+edificio donde se originó la tragedia. Las pérdidas de radiación, aunque mo-
+destas, son continuas. Según los exploradores, el mayor peligro es que se hun-
+dan sus estructuras superiores y se libere polvo radioactivo en proporciones 
+incontrolables (32).
+Lo incontrolable de las proporciones es la clave descriptiva de ese universo 
+colateral en el que se constituye Pripyat: un mundo que, a la vez que convive en 
+tanto cifra con el primero, podría ya haberlo puesto en jaque ya que, tal como 
+sugiere el epígrafe de Saer que cité al comienzo, eso que ha empezado a proliferar 
+puede suplantarlo por completo. 
+El desastre es, entonces, puntual y puede ser utilizado alegóricamente2. Pero a 
+la vez sus efectos son inconmensurables, no sólo por la posibilidad de expansión 
+que se comprueba en la forma en que circula por Europa la madera extraída de 
+esa tierra contaminada sino también porque aquello que ha empezado a prolife-
+rar puede no tener un correlato en las formas de vida previas o actuales3. El final 
+ya ha ocurrido, esa posibilidad ya se ha desatado con la explosión del reactor y 
+conocemos sus consecuencias. Pero, a la vez, la linealidad se desarma debido a la 
+radicalidad de los cambios que no parecen condecir con el hecho histórico sobre 
+1	
+Incluso en la “entrevista” a Kalí Kalitá, la más anclada en los personajes y situaciones singulares 
+de Pripyat, el agua contaminada da paso y vuelve central la reflexión sobre el olvido y la me-
+moria. La excepción es, tal vez, la historia de Mariika. Pero, nuevamente, el color verde de su 
+lengua “es visto menos como la secuela de un desastre nuclear que como el orgullo patriótico en 
+el sitio exacto donde la garganta entona el himno de la reconstrucción” (Ríos Cuaderno 50).
+2	
+Para pensar esta relación alegórica apelamos a las maneras en que se ha entendido la lógica 
+proyectiva de la ciencia ficción (Suvin, Gandolfo, Link Escalera al cielo), pero también al modo 
+en que Idelver Avelar ha complejizado los alcances del término en Alegorías de la derrota…, 
+aunque sin constreñirlo a la materia de la que él se ocupa.
+3	
+La utilización que hago del término “formas de vida” sigue la apropiación que de él hace Daniel 
+Link, fundamentalmente en Suturas. Imágenes, escritura, vida pero apelando también a la distin-
+ción central entre clasificación y cualificación que realiza en Fantasmas. Imaginación y sociedad.
+26
+Mariana Catalin | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+el que se insiste como referencia. Cuando en la novela se compara el maxilar 
+desproporcionado de Malofienko con el del caballo y sus guías le advierten que 
+el animal “trae veneno” no es fácil acotar dicha comparación a los efectos de la 
+acromegalia. Como tampoco es sencillo adscribir el modo en que los caballos 
+“hambrientos, rabiosos, fuera de sí por la locura radioactiva” (34) destrozan las 
+lápidas del cementerio simplemente a la desmesura del delirio. 
+En este sentido, las comunidades que pueblan ese territorio supuestamente 
+deshabitado se encuentran entre los cibercomerciantes que menciona Oksana y 
+lógicas que no podrían constreñirse enteramente en ese término. Si un libro como 
+el de la reciente premio Nobel, Svetlana Alexiévich (Voces de Chernóbil), o los 
+múltiples documentales subidos a You Tube sobre las secuelas podrían permitir 
+especificar el horror de las deformaciones corporales a través de la apelación a la 
+radiación, los modos en que se componen las relaciones entre los habitantes del 
+territorio potencian su carácter anómalo en tanto singular4. Leonid y Nikolai, 
+los guías de Malofienko, tendrán a su cargo la primera mención de algunos de 
+sus integrantes: el liquidador y sus hijos, los apropiadores. “Naranja” introducirá 
+luego la descripción de las bandas de saqueadores y de exploradores –las secciones 
+tituladas con nombres de colores son centrales en este sentido. Están también 
+aquellos que volvieron, que ocupan las mismas casas que habitaron sus padres, 
+y que la novela denomina “custodios”, ya que evitan que los residentes saqueen 
+la ciudad. Si bien se sabe que “liquidador” es el nombre que se le dio a cada una 
+de las personas que se encargaron de minimizar las consecuencias del desastre, a 
+partir de esa referencia y mediante la interacción de los diferentes grupos se cons-
+tituye una legalidad extraña y jerarquías que se establecen para ser violadas:
+En forma de anillo, otro tejido urbano rodea la zona de exclusión. Desde 
+allí, y a espaldas del liquidador, bandas de saqueadores ingresan en la ciudad 
+dormida y recuperan herramientas que venden los fines de semanas en el 
+mercado central [...] 
+Todo lo visto, advirtió el liquidador, no puede ser tocado. Sin embargo, cada 
+día desaparece otro artefacto de los edificios centrales (19).
+Los vínculos familiares, al mismo tiempo que se ponen en juego, sobre todo 
+en el plano de la memoria, se subvierten en función de los nuevos lazos. Los 
+modos de intercambio, como es propio de los escenarios que se constituyen des-
+pués de un final radical, son afectados centralmente. En consecuencia, tampoco 
+4	
+En su acercamiento al concepto de “empirismo trascendental”, Gilles Deleuze sostiene lo si-
+guiente: “La vida del individuo le cedió lugar a una vida impersonal, y sin embargo singular, de 
+la que se desprende un puro acontecimiento liberado de los accidentes de la vida interior y exte-
+rior, es decir, de la subjetividad y de la objetividad de lo que pasa [...] Se trata de una hecceidad, 
+que no es una individuación sino una singularización: vida de pura inmanencia, neutra, más allá 
+del bien y del mal, porque sólo el sujeto que la encamaba en el medio de las cosas la volvía buena 
+o mala.” (“La inmanencia: una vida...” en Giorgi, Rodríguez 38) En función de la perspectiva 
+biopolítica que pone en juego el análisis, utilizo, entonces, el término “singular” ligado a anóma-
+lo en oposición a individual y relacionado con el concepto de impersonal. 
+27
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Un final/el final: Cuadernos de Pripyat de Carlos Ríos: 21-34
+queda indemne el modo en que adquieren valor ciertos objetos: las herramientas 
+antes que por su utilidad valen en función de la ayuda que puedan brindar para 
+recuperar la identidad; las figuras con los rostros de los adultos muertos por la 
+radiación se constituyen en elementos intercambiables entre los hijos que se 
+reúnen en la explanada.
+Tal como lo sostienen Gabriel Giorgi y Fermín Rodríguez en el “Prólogo” a 
+Ensayos sobre biopolítica, si hay algo que parece mancomunar aquellos esfuerzos 
+filosóficos contemporáneos que buscan reflexionar sobre “las dificultades de ha-
+blar de la vida como de un ser definido” (15) es que 
+piensan la vida más allá de lo humano, en los límites siempre inestables 
+–siempre políticos, en tanto instancia de dominación y de lucha– entre lo 
+humano y lo animal, lo monstruoso, lo impersonal y a-subjetivo, mostrando 
+cómo se elabora históricamente la frontera porosa que separa el campo de la 
+vida humana de sus ‘otros’ (15).
+ 
+Si la mención de los viedeojuegos que consigné al comienzo introduce el 
+imaginario de lo monstruoso, las comunidades que se constituyen a lo largo de 
+la novela tensionan el límite entre lo humano y lo animal y lo vuelven inestable. 
+Los efectos de la radiación no distinguen cuerpos. No solo el accionar violento 
+de ambas especies se potencia (los jóvenes cuelgan saqueadores en la rueda de 
+la fortuna pero a la vez los lobos pueden trepar y comérselos) sino que se apela 
+también a la animalización literal, que no funciona estrictamente como compa-
+ración sino que parece más cercana a la posibilidad de abrir paso a un devenir 
+(Deleuze Crítica y clínica):
+Cada madrugada, los hijos de estos campesinos se reúnen con los perros en 
+la puerta de la carnicería […] La res contaminada cuelga del gancho y brilla 
+como un amasijo de krill puesto a secar. Es imposible poner orden. Los dos 
+grupos se abalanzan y a dentelladas acaban con la pieza hasta rasparse las 
+mandíbulas en los huesos infectados (54).
+Pero, por otra parte, se registra el armado de una legalidad que constituye a 
+los animales en seres tan importantes para ser controlados como aquellos que se 
+presentan como humanos. Sin duda, esto también puede explicarse en función 
+del peligro de la expansión de la radiación, pero de la misma manera que ocurre 
+con las comunidades humanas, los animales son objeto de una legislación anó-
+mala, cargada de exceso: “La prohibición de convivir con animales nacidos en los 
+edificios es sumamente estricta. Deben sacrificarse previo registro fotográfico y 
+la publicación de un bando para cerciorarse de que el animal ya no será buscado 
+por su dueño” (39). Leyes extrañadas afectan tanto a los humanos como a los 
+animales. Es cierto, en este caso, lo que se restablece es la separación (la prohi-
+bición de convivir), aunque en la distancia que se instituye parece pesar más la 
+diferencia entre infectados y no infectados, el verdadero fondo amenazante de 
+28
+Mariana Catalin | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+los cuerpos, que la distinción de las formas de la vida. Cuando, en otro acer-
+camiento, Giorgi analiza el cambio de lugar del animal en los repertorios de la 
+cultura latinoamericana luego de los años sesenta sostiene lo siguiente: 
+la distinción entre humano y animal [...] se tornará cada vez más precaria, 
+menos sostenibles en sus formas y sus sentidos, y dejará lugar a una forma 
+animal sin forma precisa, contagiosa, que ya no se deja someter a las prescrip-
+ciones de la metáfora y, en general, del lenguaje figurativo, sino que empieza 
+a funcionar como un contínuum orgánico, afectivo, material y político con 
+lo humano (12).
+ 
+Más que la idea de precarización, me interesa de este enfoque la manera 
+en que se analiza la imposibilidad de sometimiento a los límites que supone la 
+metáfora. Antes que homogeneizar o volver indistinguible, Cuaderno de Pripyat 
+sostiene la tensión entre la figura retórica y la literalización para generar el con-
+tinuum. Y, a la vez, experimenta con nuevas distancias y jerarquías al poner en 
+juego la idea de un después del final que solo presenta vidas abandonables. Estas 
+vidas se exponen entre el nombre propio y el funcionamiento como cifra; entre 
+la deformación amenazante pero constreñible al hecho histórico (y a sus deriva-
+ciones en diversas representaciones culturales) y la potencia singular de una vida 
+que, opuesta a la individualidad pero gracias al accidente, ya casi no puede ser 
+aprehendida sino tan solo tocada (Deleuze “La inmanencia”; Nancy Corpus, 58 
+indicios). En la tríada que conforman el destazador de reses (y su contacto sin-
+gular con los animales que mata), Tymoshyuk (que ha sido criado por una perra 
+salvaje, sobre cuyo vientre duerme todas las noches) y la Preobrazhénskaya (que 
+dibuja vacas con espinas en vez de huesos y es declarada, con una corona de 
+moscas, “reina absoluta de todo lo que se ve”); en esa tríada la novela nos 
+dice que se compone “la antesala de una nueva vida” (85).
+Recortes
+En una entrevista realizada con motivo de la aparición de la novela, y jus-
+tamente ante la pregunta por si la historia de amor entre el destazador y 
+Preobrazhénskaya puede leerse como la réplica de la historia de amor entre 
+Malofienko y Fridaka, Ríos sostiene lo siguiente: 
+Pienso que tiene una estructura de muñecas rusas. Serían como versiones de la 
+misma historia. Hay una historia central, que es la de Malofienko, y por otro 
+lado están sus incursiones al centro vacío [...] están las entrevistas que él hace […] 
+y está la historia sentimental entre él y su novia urbanista, que está en Noruega. 
+También aparece un cuaderno, un diario alucinado a partir de los personajes 
+que conoce, que adquieren una dimensión irreal. Un diario busca testimoniar la 
+experiencia, acá Malofienko la ficcionaliza al límite, hace delirar la historia hasta 
+que la historia es otra y los personajes se distorsionan (Gómez s/p).
+29
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Un final/el final: Cuadernos de Pripyat de Carlos Ríos: 21-34
+Los fragmentos pervierten insistentemente los límites que intenta, en un 
+primer movimiento, demarcar Ríos. Es tan difícil cercar el delirio como lo es 
+neutralizar la radiación. Sin embargo, el exotismo que reviste (o con que se re-
+viste) el hecho concreto que se invoca desde el título parece habilitar una lógica 
+de lectura interesada en delimitar los sectores. Encontrar las referencias reales 
+sería una manera de hacerlo, como de hecho lo logra Malofienko al descubrir 
+que Fridaka plagia en una de sus cartas el blog de una anoréxica. La lógica que 
+impone el protagonista para descubrir la verdadera referencia podría utilizarse 
+con los nombres propios que insisten a lo largo del relato; pero también para 
+anclar ciertos aspectos más escurridizos. Por ejemplo, ante el término liquidador 
+se puede explorar en Google su modo de surgimiento y connotaciones. O bien al 
+confrontarnos con entrevista “Entrevista/9” podríamos apelar a los estudios que 
+se han publicado y vuelto auge en internet sobre la flora y la fauna de Pripyat.
+Complejizando aún más esta posibilidad, en Cuaderno de Pripyat se superpo-
+nen diferentes claves que podrían funcionar autorreflexivamente para dar cuenta 
+de estas operaciones, como si se exasperara el procedimiento de la cifra a la 
+vez que la necesidad de demarcar los límites que la contaminación insiste en 
+borrar: la relación entre vida y arte que expone Oksana Zabuzkho en su entre-
+vista, o el interés por ciertas articulaciones del desastre de Grigori N. Chujrái en 
+“Entrevistas/7”. Pero hay una de estas líneas que se torna fundamental no solo 
+por el peso que adquiere en la novela sino por cómo se intersecta con la perspec-
+tiva que propongo. La misma se relaciona con una de las actividades colaterales 
+que realiza el protagonista. Malofienko no es sólo un periodista que adopta la 
+excusa del documental para volver a Pripyat sino que también es un artista: 
+realiza collages. Si tomamos en cuenta que la novela se compone por medio de 
+“recortes”, la actividad que lleva a cabo el protagonista podría utilizarse para dar 
+cuenta de la manera en que se construye el relato. Casi en el íncipit, cuando se 
+narra la llegada de Malofienko a la casa de su infancia, se destacan la multiplici-
+dad de materiales a disposición y una acción posible, organizarlos: “Malofienko 
+rompe en llanto, luego se ríe, desde algún lugar le llega el sonido de un motor, 
+es el eco trastornado de un plac sedicioso: ¿dentaduras? ¿el cierre relámpago de 
+una ametralladora?, ¿un T-84 Yatagan? Algo dibuja el pensamiento, por el mo-
+mento son materiales imposibles de organizar” (13). Si en esta primera instancia 
+la mención queda en el plano abstracto, pudiéndose pensar como una puesta en 
+acto de la tensión entre memoria y recuerdo, luego de la primera incursión y del 
+episodio del caballo los materiales y la práctica se especifican y toman carácter 
+concreto5: “Encuentra unas figuras de caballos en las revistas sustraídas en las 
+salas de espera de Kloten. Recorta y pega en las láminas anexas al cuaderno. En 
+5	
+Utilizo la distinción entre memoria y recuerdo siguiendo la línea que abre Alberto Giordano en su 
+acercamiento a la narrativa de Tununa Mercado. Para el ensayista la retórica de la memoria “busca 
+en lo que ocurrió lo que pueda servir a una estrategia de autofiguración en el presente”, mientras 
+que la escritura de los recuerdos “explora la coexistencia problemática de un pasado que no termina 
+de ocurrir y un presente de inquietud que no alcanza a cerrarse sobre sí mismo” (114).
+30
+Mariana Catalin | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+tinta roja agrega la cita leída en el mural de los caballos del Palacio de las Artes” 
+(28). El primer collage de Malofienko se encuentra en el umbral del cuaderno, 
+eso que Ríos utilizaba para delimitar la operación del delirio, y lo pone en jaque 
+cruzando imagen y palabra. 
+Dentro del relato, el collage adquiere para el protagonista un doble valor. Es 
+a la vez una práctica terapéutica y un arte. Cuando los realiza en Pripyat, los 
+collages son “una receta terapéutica de posguerra que lo ha salvado en más de una 
+ocasión” (45), pero cuando en el aeropuerto, de regreso, los guardias desenrollan 
+las láminas y las examinan entre la risa y la sospecha de espionaje, el protagonista 
+se defiende exclamando: “¡Soy un artista!” (88). Se habilita, en este episodio, una 
+serie de conexiones con la introducción de otras prácticas que, dentro de la obra 
+de Ríos, tensionan las relaciones entre arte y vida/enfermedad. Hacia atrás, se 
+vincula con la performance que pone en escena la enfermedad y la muerte –am-
+bas presentadas como reales– del hermano de Apolon dentro de un museo en 
+Manigua; hacia adelante, con la ópera que el profesorcillo intenta montar en la 
+cárcel de Rebelión en la ópera. Dicho intento, a la vez que apela al procedimiento 
+de mise en abyme al poner en escena aquello que se vive en la prisión y al abrir la 
+posibilidad efectiva de la revolución futura, se muestra como imposible porque 
+debe ser llevado a cabo por aquellos que no tienen voz –no sólo en el sentido 
+metafórico sino también literal− ya que en un proceso de deformación de lo 
+humano las gargantas de los presos están atrofiadas. 
+En este contexto, entre los nombres propios que proliferan en Cuaderno de 
+Pripyat, y que el lector puede elegir o no investigar, se destaca el de Sergie Sviat-
+chenko. Es a través de esa mención que se introduce la discusión sobre jerarquías 
+artísticas. Las mismas parecen querer delimitar la ambivalencia inicial que es-
+grimía el personaje entre práctica terapéutica y arte, dejando el valor de un solo 
+lado: “En la obra de Sviatchenko hay un universo similar, dijo su amigo, mucho 
+antes del viaje a Pripyat. No sé quién es, dijo Malofienko, un poco molesto por-
+que con ese comentario su amigo parecía indicarle, más que una asociación, un 
+régimen de jerarquías inquebrantables” (93). Sin embargo, hay un punto en el 
+que ambos se encuentran. Los collages de Sviatchenko, según lo sostiene el texto 
+curatorial de una de sus exposiciones, confrontan la fragmentación de la vida 
+contemporánea nómade y globalizada y nos obligan a experimentar el proceso al 
+que el consumidor moderno se enfrenta al navegar por la corriente de impresio-
+nes visuales que lo asedian constantemente (Gestalten). Los de Malofienko, por 
+su parte, se constituyen como “Cartografía de predaciones” (45). Entonces, en 
+el marco de lo que el collage supone para ambos artistas, la apelación al mismo 
+podría leerse en relación con el modo en que funcionan las entrevistas expan-
+diendo la tragedia puntual a la degradación general. Pero, a la vez, al singulari-
+zar la práctica en su carácter material se evita que entendamos la superposición 
+simplemente en términos de pastiche posmoderno, uno de los riesgos que se 
+abre al posicionar, como por ejemplo lo hace David Banash (Poynor “Collage 
+Culture”), el collage como clave para comprender el arte del siglo XX.
+31
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Un final/el final: Cuadernos de Pripyat de Carlos Ríos: 21-34
+En el plano metafórico, esta operación también puede utilizarse para com-
+prender el trabajo que se realiza en la novela sobre ciertas imágenes. Uno de 
+los episodios en que el accionar violento de humanos y animales se exacerba es 
+narrado de la siguiente manera: “Si atrapan a un saqueador dentro de la zona 
+de exclusión los jóvenes lo cuelgan en el parque de diversiones. Una nube de 
+pájaros envuelve los cuerpos atados a la rueda de la fortuna. Por la noche los lo-
+bos trepan a las vigas de hierro y se encargan de desmenuzarlos” (38). La novela 
+atrae como fondo la imagen más tradicional de Pripyat (la rueda de la fortuna), 
+la primera que aparece en Google si se investiga sobre el tema, y le superpone los 
+cadáveres que cuelgan, los pájaros acechantes y los lobos que trepan. Convoca 
+así, a la vez, la brutalidad en lo mínimo del gesto y el deslumbrante imaginario 
+de los videojuegos.
+Pero hay otra puerta que se abre al detenernos sobre las imágenes que le 
+interesan a Malofienko: el hombre-molinillo, la mujer-nido, el joven cabeza de 
+perro, el jinete sin cabeza. El protagonista destaca de estas producciones una de 
+las características que suelen resaltarse en el abordaje de la obra de Sviatchenko: 
+cierta modestia, cierta sencillez que, sin embargo, tiene “la capacidad de colo-
+nizar una cabeza hasta aplastarla” (93). Cuando Rick Poynor (“Collage Now”) 
+se ocupa de aquello que vuelve a los collages de Sviatchenko distinguibles del 
+resto (algo en lo que cifra su valor artístico) se centra justamente en las pocas 
+piezas que los componen sosteniéndose sobre un fondo liso y en cómo esta 
+escasez pone el énfasis en el acto de selección, escisión y montaje y en el modo 
+que adquieren los cortes: afilados, agresivos. La puesta en juego de la práctica 
+del collage y de la figura de Sviatchenko potencia así los movimientos que he 
+intentado delinear. Por un lado, debido a su pertenencia ucraniana y al modo 
+en que se liga con la actividad terapéutica/artística de Malofienko, el nombre 
+propio enfatiza las referencias locales que, enlazadas al desastre nuclear, prolife-
+ran y saturan. Pero, al mismo tiempo, en función de aquello que le interesa al 
+protagonista, nos obliga a ponernos en contacto con el vacío y la suspensión que 
+genera el corte. Y, a partir de ahí, se habilitan lógicas diferentes para comprender 
+las figuras que se crean en la novela y que tocan esa vida singular. El delirio al que 
+apela Ríos al definir los límites mediante una jerarquía de grados de realidad de 
+los fragmentos se constituye, es cierto, como una opción de lectura fundamen-
+tal. Pero la centralidad que el collage adquiere en la novela nos permite entrever 
+la necesidad de utilizar otras distinciones. Para Kali Kalita, el problema en ese 
+territorio es otro: “El problema es que no sabemos cómo verificar si se trata de 
+seres anormales o divinos” (42).
+ 
+Entre el resto y el hipervínculo
+Cuaderno de Pripyat potencia sutilmente la hibridación de temporalidades: se 
+sostiene entre la crisis puntual, pero que puede valer como alegoría del desastre 
+de la humanidad entera, y la posibilidad de generar un escenario posapocalípti-
+32
+Mariana Catalin | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+co. Este mundo podría, en tanto proyección y en función de ciertos parámetros 
+de la ciencia ficción, generar una crítica del presente en el que se inscribe. Pero, a 
+la vez, el modo en que lo construye el autor enfatiza la experimentación en torno 
+a formas de lo viviente que, superando los límites de la enfermedad, nos ponen 
+en contacto con una (futura) potencia de variación anómala y singular. En la 
+misma entrevista en que nos proporciona la imagen de las muñecas rusas como 
+posible clave interpretativa, Carlos Ríos se describe a sí mismo como un escritor 
+cartonero: “Digamos que soy un escritor un poco carroñero, cartonero, en Méxi-
+co dirían pepenador. Me gusta trabajar con los restos, con lo que va quedando 
+fuera del circuito social de los relatos” (Gómez s/p). Los fragmentos con que se 
+compone la novela pueden pensarse, entonces, como restos (casi desechos) que 
+se superponen pacientes a la manera del collage para intentar bordear un desastre 
+específico, expandiéndolo, cifrándolo, haciéndolo mutar. 
+Pensar desde el resto supone, si seguimos a George Didi-Huberman en La 
+supervivencia de las luciérnagas, articular la supervivencia con la lógica de lo 
+menor. Para Didi-Humerman, lo contemporáneo se interroga a través de “Len-
+guajes del pueblo, gestos, rostros: todo aquello que la historia no puede explicar 
+en simples términos de evolución o de obsolescencia” (55). En este contexto, 
+observar el titilar de las luciérnagas, en el que se cifra lo errático, la fragilidad, la 
+fugacidad como valores, supone apelar a un tiempo de la destrucción continua: 
+el final de un mundo visto como lo hace Cuaderno de Pripyat desde pequeñas 
+supervivencias.
+Ahora bien, simultáneamente y de manera singular en la narrativa de Ríos, 
+la investigación en torno al hecho histórico que despliega Cuaderno de Pripyat 
+parece reconvertir constantemente los restos en datos concretos. Y cuando el res-
+to se convierte en referencia alienta a generar una lectura con hipervínculos que 
+pone en juego una materia pasible de ser contaminada por otra temporalidad. El 
+titilar de las luces de las luciérnagas se contrapone, en el enfoque de Didi-Hu-
+berman, a la sobreexposición y exhibición de los reflectores del neocapitalismo 
+televisivo, ligados a un modo de la sobrevivencia que implica una discontinui-
+dad no constreñible a la sucesión posterior. Cuaderno de Pripyat se sostiene entre 
+ambos modos de la luz. Es que el desecho como dato nos envuelve en un paisaje 
+de destrucción radical que se ha convertido en nicho de mercado. La catástrofe 
+de Chernóbil ha dado lugar a múltiples películas, videojuegos, éxitos editoriales 
+en los que el accidente parece adquirir dimensiones inconmensurables. La no-
+vela se deja cegar al acumular todo ese material. Así, entre la lluvia y el ácido, la 
+escritura de Ríos subvierte las escalas de valor y disvalor que ambos modos de 
+la luz propugnan –modos que han sido utilizados para intentar dar cuenta del 
+presente de la literatura y el arte contemporáneo pero, en general, privilegiando 
+solo la visión desde lo mínimo ligado al anacronismo– sosteniéndose entre el 
+horizonte y la imagen que lo perfora.
+33
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669 | Un final/el final: Cuadernos de Pripyat de Carlos Ríos: 21-34
+Referencias bibliográficas 
+Alemian, Ezequiel. “Paisaje semidesértico con escritor argentino”, Entropía (las 
+apostillas) Blog de la editorial Entropía, Buenos Aires, Entropía, 2009, http://
+editorial-entropia.blogspot.com.ar/2009/06/paisaje-semidesertico-con-es-
+critor.html 
+Avelar, Idelver. Alegorías de la derrota: la ficción postdictatorial y el trabajo de due-
+lo. Santiago de Chile, Cuarto Propio, 2000. 
+Berger, James. After the end. Representations of post-apocalypse. Minneapolis, Uni-
+versity of Minnesota Press, 1999. 
+Deleuze, Gilles. Crítica y clínica. Barcelona, Anagrama, 1996.
+Didi-Huberman, George. La supervivencia de las luciérnagas. Madrid, Abada 
+Editores, 2012.
+Dubin, Mariano. “En busca del espacio perdido”. Bazar americano, núm. 40, 2013. 
+Edición en línea: www.bazaramericano.com/resenas.php?cod=313&pdf=si. 
+Gandolfo, Elvio. El libro de los géneros. Buenos Aires, Norma, 2007.
+Gelman, Juan. Valer la pena. Madrid, Visor Libros, 2002.
+Gestalten. “For Ligth and Memory”, Gestalten Space, Berlín, 2013, news.ge-
+stalten.com/event/light-and-memory 
+Giordano, Alberto. “Tiempo de exilio y escritura de los recuerdos: En estado 
+de memoria, de Tununa Mercado”. Iberoamericana, vol. I, núm.1, 2001, 
+pp.113-120. DOI: 10.18441/ibam.1.2001.1.113-120
+Giorgi, Gabriel. Formas comunes. Animalidad, cultura y biopolítica. Buenos Ai-
+res, Eterna Cadencia, 2014. 
+Giorgi, Gabriel y Fermín Rodríguez (comps). Ensayos sobre biopolítica. Excesos de 
+vida. Buenos Aires, Paidós, 2007. 
+Gómez, Jonás. “Imaginación, poesía y unas fotos encontradas por azar”, tiempo.
+infonews.com/nota/99028/imaginacion-poesia-y-unas-fotos-encontradas-
+por-azar 
+Link, Daniel. Fantasmas. Imaginación y sociedad. Buenos Aires, Eterna Cadencia, 
+2009. 
+_____. Suturas. Imágenes, escritura, vida. Buenos Aires, Eterna Cadencia, 2015.
+Link, Daniel (comp.). Escalera al cielo. Utopía y ciencia ficción. Buenos Aires, La 
+Marca Editora, 1994.
+Mattio, Javier. “Ciudades de la llanura”, Entropía (las apostillas) Blog de la edito-
+rial Entropía, Buenos Aires, Entropía, 2013, http://editorial-entropia.blogs-
+pot.com.ar/2013/06/ciudades-de-la-llanura.htmleditorial- 
+34
+Mariana Catalin | 
+ XXII.2 (mayo-agosto 2018) ISSN 1851-4669
+Nancy, Jean-Luc. Corpus. Buenos Aires, Arena Libros, 2013. 
+_____. 58 indicios sobre el cuerpo. Extensión del alma. Buenos Aires, Ediciones 
+La Cebra, 2007.
+Poynor, Rick. “Collage Now, Part 1: Sergei Sviatchenko”. Desing Observer, desi-
+gnobserver.com/feature/collage-now-part-1-sergei-sviatchenko/38052/ 
+_____. “Collage Culture: Nostalgia and Critique”. Desing Observer, designob-
+server.com/article.php?id=38187 
+Ríos, Carlos. Cuadernos de Pripyat. Buenos Aires, Entropía, 2012.
+_____. Manigua. Buenos Aires, Entropía, 2009.
+_____. Rebelión en la ópera. La Plata, Club Hem Editores, 2015.
+Saer, Juan José. Cuentos completos. (1957-2000). Buenos Aires, Seix Barral, 
+2001.
+Suvin, Darko. Metamorfosis de la ciencia ficción: sobre la poética y la historia de un 
+género literario. México, Fondo de Cultura Económica, 1984.
+ Fecha de recepción: 25/11/2016 / Fecha de aceptación: 23/10/217

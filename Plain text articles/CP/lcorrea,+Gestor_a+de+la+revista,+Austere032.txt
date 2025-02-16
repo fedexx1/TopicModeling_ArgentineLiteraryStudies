@@ -1,0 +1,683 @@
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+Universidad Nacional de La Plata. 
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios Latinos
+MEMORIA TROYANA E IDENTIDAD ROMANA EN ENEIDA. 
+UNA LECTURA DE LOS DIÁLOGOS ENTRE JÚPITER Y VENUS 
+(I, 223-304) Y ENTRE JÚPITER Y JUNO (XII, 791-842)
+Introducción
+La bibliografía crítica acerca de la identidad romana en  Eneida, tema que ha
+suscitado especial interés en los últimos años1, ha encontrado en el diálogo final entre
+Júpiter y Juno (XII, 791-842) un pasaje fértil para el estudio de la definición de lo romano
+en  el  poema.  El  dios  busca  que  Juno  deponga  su  ira  contra  los  enéadas  para  que,
+finalmente, se pueda dar cumplimiento a lo dispuesto por los hados. La respuesta que
+obtiene es favorable a su pedido (XII,818: nunc cedo), pero Juno establece una serie de
+condiciones referidas al papel que jugarán los troyanos en la futura ciudad (XII, 819-828).
+La diosa pide, en definitiva, que la fundación Roma traiga consigo el olvido total de todo
+aquello vinculado con el pasado troyano. De hecho, la mención de Troya con que se cierra
+su adlocución (XII, 828: occideritque sinas cum nomine Troia) es la última instancia en que
+el nombre de la ciudad aparece en el poema. 
+1 Cf. especialmente los siguientes trabajos: Toll, K., “The Aeneid as an Epic of National Identity: Italiam 
+Laeto Socii Clamore Salutant”, Helios 18, 1991, 3-14; Toll, K., “Making Roman-ness and the Aeneid”, ClAnt 
+16.1, 1997, 34-56; Ando, C., “Vergil’s Italy: Ethnography and Politics in First-Century Rome”, en: Levene, D.
+S. y Nelis, D. P., Clio and the Poets. Augustan Poetry and the Traditions of Ancient Historiography, Leiden-
+Boston-Colonia, 2002, 123-142; Cancik, H., “Ein Volk gründen. Ein myth-historisches Modell in Vergils 
+Aeneis”, en: Bierl, A., Schmitt, A. y Willis, A., Antike Literatur in neuer Deutung, Munich-Leipzig, 2004, 
+307-323; Syed, Y., Vergil’s Aeneid and the Roman Self. Subject and Nation in the Literary Discours, 
+Michigan, 2005; Bettini, M., “Un’identità ‘troppo compiuta’. Troiani, Latini, Romani e Iulii nell’Eneide”, 
+MD 55, 2005, 77-102; Reed, J. D., Virgil’s Gaze. Nation and Poetry in the Aeneid, Princeton-Oxford, 2007; 
+De Santis, G. y Ames, C., “La memoria histórica de la diversidad étnica italiana en Eneida de Virgilio”, Circe
+15, 2011, 41-54; Nakata, S., “Egredere O Quicumque es: Genealogical Opportunism and Trojan Identity in 
+the Aeneid”, Phoenix 66, 2012, 335-363.
+Cita sugerida: Cairo, M. E. (2016). Memoria troyana e identidad romana en Eneida. Una lectura de los diálogos entre 
+Júpiter y Venus (I, 223-304) y entre Júpiter y Juno (XII, 791-842). Auster, (21), e032. Recuperado de: 
+http://www.auster.fahce.unlp.edu.ar/article/view/Aus032 
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+Nuestro  objetivo  en  este  trabajo  es,  en  primer  lugar,  analizar  la  dinámica  de
+memoria y olvido implicada en el pedido de Juno. La identidad no es algo dado sino el
+producto de una constante configuración: un proceso dinámico y activo, en el que los
+miembros de la comunidad participan para definir qué elementos los definen como tales y
+cuáles los diferencian de los otros, es decir, qué es preciso recordar y qué olvidar para
+obtener una definición del “nosotros”2. En el pasaje analizado, Juno elabora una definición
+de los romanos, propuesta que, como ya ha sido señalado repetidamente3, se vincula con el
+contexto histórico de  Eneida, en el que la definición de la identidad romana adquiere
+particular relevancia. 
+En segundo lugar, proponemos examinar la relación entre este pasaje y el diálogo
+entre Júpiter y Venus en I, 223-304, intercambio en el que también se discute la relación
+entre el pasado troyano y el futuro de la ciudad que Eneas fundará. Ambos pasajes ya han
+sido estudiados en conjunto por su carácter de marco divino del poema: el episodio del final
+ofrece, con respecto al del libro I, una serie de paralelismos formales y temáticos –la
+participación de Júpiter y una de las diosas femeninas principales, la localización en el
+Olimpo, el diálogo acerca del futuro de Eneas y de Roma– que permiten hablar de la
+existencia de una composición en anillo entre el principio y la clausura del poema. Si bien
+2 La bibliografía en torno a la identidad romana ha crecido significativamente a partir de la década de los 90. 
+En general, se ha privilegiado el estudio de la época imperial, aunque existen aportes significativos sobre la 
+república tardía, fundamentalmente en virtud del nuevo posicionamiento de Roma en el contexto de la guerra 
+social y de la expansión de sus dominios. Para el análisis de la futura identidad romana planteada en Eneida, 
+tomamos como noción fundamental la idea de “Wir-Identität” postulada por el antropólogo Jan Assmann en 
+Das kulturelle Gedächtnis. Schrift, Erinnerung und politische Identität in frühen Hochkulturen, Munich, 
+2000, 132: “Unter einer ‘kollektiven’ oder ‘Wir-Identität’ verstehen wir das Bild, das eine Gruppe von sich 
+aufbaut und mit dem sich deren Mitglieder identifizieren. Kollektive identität ist eine Frage der 
+‘Identifikation‘ seitens der beteiligten Individuen. Es gibt sich nicht „an sich“, sondern immer nur in dem 
+Maße, wie sich bestimmte Individuen zu ihr bekennen. Sie ist so stark oder so schwach, wie sie im 
+Bewußtsein der Gruppenmitglieder lebendig ist und deren Denken und Handeln zu motivieren vermag”. Se 
+observa aquí el énfasis en el proceso de identificación de los miembros del grupo para con la imagen 
+identitaria, es decir, la identidad no es algo esencial e inamovible, sino una imagen en permanente 
+construcción y negociación. Esta perspectiva estratégica de la identidad puede hallarse también en Díaz-
+Andreu, M., Archaeology of Identity, 2005.
+3 Toll, “Making Roman-ness and the Aeneid”, 34-36; Most, G. W., “Memory and Forgetting in the Aeneid”, 
+Vergilius 47, 2001, 148-170; Ando, “Vergil’s Italy”, 139-140; Bettini, “Un’identità”, 86 y Pogorzelski, R., 
+“The ‘Reassurance of Fratricide’ in the Aeneid”, AJP 130, 2009, 271-272. 
+2
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+algunos  críticos4 han  analizado  estos  pasajes  en  términos  de  oposición,  señalando
+contradicciones irreconciliables entre lo que Júpiter afirma al principio y al final del poema,
+entendemos  que  estas  variaciones  pueden  entenderse  en  el  contexto  del  proceso  de
+negociación, de memoria y de olvido que supone toda propuesta de definición de una
+identidad.
+El diálogo entre Júpiter y Juno en  Eneida  XII y la configuración de la identidad
+romana
+El diálogo entre los dioses en el libro XII comienza cuando Júpiter se aproxima a
+Juno para poner un límite a sus acciones. Le pregunta primero cuándo dará fin a su
+hostilidad (XII, 793) con la frase quae iam finis erit –frase que remite al et iam finis erat de
+I, 223, lo cual refuerza el paralelismo entre ambos pasajes– y luego directamente le prohíbe
+continuar (XII, 803-806): 
+ventum ad supremum est. terris agitare vel undis
+Troianos potuisti, infandum accendere bellum,
+deformare domum et luctu miscere hymenaeos:
+ulterius temptare veto.
+Se ha llegado al extremo. Pudiste agitar a los troyanos por tierra y por mar, suscitar una
+guerra abominable, dañar el palacio y mezclar con desgracia los himeneos: prohíbo que
+intentes algo más5.
+Júpiter subraya el conocimiento de los hados por parte de la diosa –es decir, Juno no actúa
+por desconocimiento– y se presenta la apoteosis de Eneas como síntesis o culminación de
+ese destino6 (XII, 794-795): 
+4 Entre otros, O’Hara, J., Death and the Optimistic Prophecy in Vergil’s Aeneid, Princeton, 1990; Feeney, D. 
+C., The Gods in Epic. Poets and Critics of the Classical Tradition, Oxford, 1991; Morton Braund, S., “Virgil 
+and the cosmos: religious and philosophical ideas”, en: Martindale, C. (comp.), The Cambridge Companion 
+to Virgil, Cambridge, 1997, 204-221.
+5 El texto de Eneida está tomado de Mynors, R., Vergili Maronis Opera, Oxford, 1969. Las traducciones son 
+propias. 
+6 Apunta O’Hara en Death and the Optimistic Prophecy, 114 que la deificación de Eneas es un tema 
+recurrente en el poema, referido al premio de la inmortalidad para el héroe. No obstante, el lamento de Juturna
+3
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+[…] Aenean scis ipsa et scire fateris
+deberi caelo fatisque ad sidera tolli. 
+Tú misma sabes y confiesas saber que Eneas se debe al cielo y que es elevado hacia los
+astros por los hados.
+Júpiter,  como  garante  del  fatum,  establece  que  ya  se  ha  dilatado  demasiado  su
+cumplimiento y que Juno ha tenido una libertad de acción excesiva (XII, 103-105). No se
+debe olvidar, además, que los dioses son hermanos y esposos. Júpiter busca que con este
+acuerdo Juno deponga su ira y que se reestablezca la armonía entre ambos (XII, 800-802): 
+desine iam tandem precibusque inflectere nostris,
+ne te tantus edit tacitam dolor et mihi curae
+saepe tuo dulci tristes ex ore recursent.
+Cesa ya por fin y doblégate ante nuestras plegarias, para que no te consuma, callada, un
+dolor tan grande y para que de tu dulce boca no vuelvan a salir hacia mí una y otra vez
+tristes preocupaciones.
+Se observa que, si bien el objetivo de Júpiter es dar una orden, se dirige a Juno tratándola
+como par7. Presenta sus palabras como un pedido, sonríe (XII, 829) y reconoce su idéntica
+dignidad  por  ser  ambos  hijos  de  Saturno  (XII,  830).  Según  Francis  Cairns8,  esta
+importancia otorgada al lazo fraterno y matrimonial refuerza la idea de concordia inherente
+al prototipo del buen rey; en palabras de Aaron M. Seider9, “it is not that Jupiter cannot
+accomplish his goals without Juno’s cooperation, but that the aftermath will be far more
+pleasant for him if he secures her agreement”.
+En la respuesta de Juno la cuestión central es el papel que jugarán los troyanos en la
+configuración de la identidad de la futura Roma. La diosa hija de Saturno (XII, 807: dea
+unos versos más adelante (12.872-886), revela que para los mortales la apoteosis en ocasiones no supone un 
+beneficio sino, por el contrario, la prolongación indefinida de su dolor. Acerca del lamento de Juturna, véase 
+especialmente Perkell, C., “The Lament of Juturna: Pathos and Interpretation in the Aeneid”, TAPhA 127, 
+1997, 257-286.
+7 Recuérdese que Juno recibe el epíteto de regina deum en I, 9.
+8 Cairns, F., Virgil’s Augustan Epic, Cambridge, 1989, 105.
+9 Seider, A. M., Memory in Vergil’s Aeneid. Creating the Past, Cambridge, 2013, 172.
+4
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+Saturnia10) reclama el olvido de todo elemento troyano y la centralidad del itálico en la
+futura gloria de Roma. Su deseo es que cuando los romanos sean rerum dominos, su fama
+se fundamente exclusivamente en la virtud de los ancestros itálicos (XII, 826-827):
+sit Latium, sint Albani per saecula reges,
+sit Romana potens Itala virtute propago.
+Que exista el Lacio, que por siglos sean reyes los albanos, que por la virtud itálica sea
+poderosa la progenie romana.
+Se comprueba así que, cuando resguarda a Turno, la diosa no protege al héroe en sí, como
+individuo, sino como representante de la tierra itálica que ella defiende en tanto hija de
+Saturno. El objetivo es que Roma no sea una segunda Ilión como quería Venus y, para ello,
+es necesario que todo elemento troyano se borre definitivamente, una especie de damnatio
+memoriae de Troya en pos de una identidad fundamentalmente itálica (XII, 821-825):
+cum iam conubiis pacem felicibus (esto)
+component, cum iam leges et foedera iungent,
+ne vetus indigenas nomen mutare Latinos
+neu Troas fieri iubeas Teucrosque vocari
+aut vocem mutare viros aut vertere vestem.
+Cuando ya acuerden la paz con felices matrimonios (sea), cuando ya los unan leyes y
+pactos, no mandes que los latinos modifiquen su antiguo nombre ni que se transformen en
+troyanos o que sean llamados ‘teucros’ o que estos varones cambien su lengua o muten su
+vestido.
+En su estudio sobre la memoria en Eneida, Seider11 oportunamente señala que Juno está
+caracterizada,  desde  el  comienzo  del  poema,  como  una  divinidad  memoriosa:  los
+vagabundeos  de  Eneas  se  producen  saevae  memorem  Iunonis  ob  iram,  “por  la  ira
+memoriosa de la cruel Juno” (I, 4)12. La memoria, unida inextricablemente a la crueldad
+10 Para un estudio de este epíteto en Eneida, cf. Amerasinghe, C. W., “Saturnia Iuno: its Significance in the 
+Aeneid”, G&R 22.65, 1953, 61-69; MacKay, L. A., “Saturnia Iuno”, en G&R, Second Series 3.1, 1956; 59-60;
+y Johnston, P. A., Vergil’s Agricultural Golden Age. A Study of the Georgics, Leiden, 1980, 88.
+11 Seider, Memory in Vergil’s Aeneid, 66-75 y 171-175.
+12 Seider, Memory in Vergil’s Aeneid, 68-69: “The proximity of the words “Juno” (Iunonis) and 
+“unforgetting” (memorem) calls to mind the goddess’ epithet ‘Moneta’. ‘Moneta’, derived by the Romans 
+5
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+para con los troyanos, es el rasgo que define a la diosa13. Juno persigue a Eneas porque
+recuerda que Paris la ha despreciado en el juicio de la manzana de la discordia, y este enojo
+contra los teucros, anterior al comienzo de la guerra de Troya, persiste a lo largo de la trama
+del poema. Juno, que no es capaz de olvidar a los troyanos por la injuria cometida contra
+ella, pide ahora que Troya sea olvidada por completo. El olvido es sinónimo de destrucción
+y muerte: occiderit (XII, 828).
+En el plano humano, en cambio, la dinámica de memoria y olvido del pasado
+troyano posee otras características. Según David Quint14, este diálogo del libro XII es una
+especie de corolario del esfuerzo por olvidar su tierra natal que realizan Eneas y los suyos a
+lo largo del libro III, aun cuando el viaje tenga como objetivo buscar una nueva ciudad para
+los penates troyanos. Aquel libro ponía de manifiesto cómo el recuerdo constante de Troya
+constituía una amenaza para la fundación de la nueva ciudad. La segunda Troya establecida
+por Héleno y Andrómaca en Butroto era la prueba fehaciente de que el apego al pasado
+impedía el surgimiento de una ciudad nueva. La negociación de los dioses en el final del
+poema, en cambio, coloca el olvido de las identidades previas como requisito para el
+surgimiento de la futura ciudad15: 
+“The Trojans’ need to forget Troy in Book 3 is superseded at the end of the epic by the
+agreement  reached by  Jupiter  and Juno  that the Trojans  and Latins  will forget  their
+differences and merge together until the very Trojan name is no more”.
+from “to remind” (monere), may be loosely taken to mean “the reminder,” and Juno earned the title when she 
+reminded the Romans to guard the Capitoline. Although it is Juno’s anger that the narrator describes as 
+“unforgetting” (memorem), the word’s appearance alongside the goddess’ name recalls her epithet”.
+13 Seider, Memory in Vergil’s Aeneid, 70: “This circle embodies the reciprocal influence between memory 
+and identity. Juno’s memories of wrongs sustain her identity as a bitter enemy of the Trojans, and she 
+remembers these specific injuries because she identifies herself as the Trojans’ foe. Unlike mortals, whose 
+memories are expunged before their rebirth and who strain to pass down their recollections to future 
+generations, Juno can carry her memories and her rage forward for an indefinite time, if she dedicates herself 
+to doing so”.
+14 Quint, D., “Painful Memories: Aeneid 3 and the Problem of the Past”, CJ 78.1, 1982, 32.
+15 Quint, “Painful Memories”, 36.
+6
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+La conciencia de formar parte de un colectivo, es decir, de compartir una  Wir-
+Identität,  encuentra  fundamento,  según  Jan  Assmann16,  en  un  sistema  compartido  de
+símbolos, a los que pertenece en primer lugar la lengua, pero también los rituales, las
+danzas, la vestimenta, las comidas. Lo que Juno propone ante Júpiter es eliminar todo
+símbolo vinculado a la memoria de Troya, de manera tal que se elimine la identidad troyana
+y de que sea el sistema itálico el que defina e identifique la futura Roma17: 
+“When Vergil inserted in the prayer of Juno in Book 12 the wish, 'Let Rome's children be
+powerful through Italian virtue', Vergil suggested, as he did at the close of the laudes Italiae
+and again at the end of Georgics 2, that Rome and Italy were an inseparable unity and that
+Roman virtus was not a native characteristic, but was ultimately derivative from a greater
+Italian set of mores.”
+El lector sabe que esto no será completamente así, en virtud de la intervención del
+narrador extradiegético en el libro V, 596-603, a propósito de los juegos celebrados en
+honor de Anquises: 
+hunc morem cursus atque haec certamina primus 
+Ascanius, Longam muris cum cingeret Albam, 
+rettulit et priscos docuit celebrare Latinos, 
+quo puer ipse modo, secum quo Troia pubes;
+Albani docuere suos; hinc maxima porro
+accepit Roma et patrium servavit honorem; 
+Troiaque nunc pueri, Troianum dicitur agmen.
+Ascanio fue el primero en transmitir esta forma de carrera y estos certámenes cuando ciñó
+con muros Alba Longa, y enseñó a celebrarlos a los antiguos latinos, del mismo modo que
+él mismo aprendió siendo niño, así con él la juventud troyana; los albanos los enseñaron a
+los suyos; desde aquí luego los recibió la máxima Roma y heredó el honor patrio. Los niños
+son llamados ‘Troya’, ‘troyana’ la carrera.
+Si en el presente del poeta se conserva en Roma la costumbre del lusus Troiae, el recuerdo
+de Troya no será abolido por completo18. La razón puede encontrarse en la respuesta de
+16 Assmann, Das kulturelle Gedächtnis, 57 y 139-143.
+17 Ando, “Vergil’s Italy”, 139.
+18 Paratore explica en su comentario (Paratore, E., Eneide. Volume III. Libri V-VI, 1995) que Virgilio alude 
+de manera especial al ludus Troiae porque se trata de un práctica ritual restaurada por Augusto. Esta 
+descripción del libro 5 exhibe similitudes con un vaso etrusco del siglo VII o VI a. C., en el que se ven jinetes 
+y bailarines. Galinsky vincula la reactivación de estos juegos en el período augusteo con la aspiración de 
+7
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+Júpiter que, si bien al principio parece aceptar sin reparos los términos de Juno (XII, 833:
+do quod vis), establece que los futuros romanos surgirán de la mezcla entre troyanos e
+itálicos. Los primeros no desaparecerán, sino que se fusionarán con los nativos  (XII, 834-
+840):
+sermonem Ausonii patrium moresque tenebunt,
+utque est nomen erit; commixti corpore tantum
+subsident Teucri. morem ritusque sacrorum
+adiciam faciamque omnis uno ore Latinos.
+hinc genus Ausonio mixtum quod sanguine surget,
+supra homines, supra ire deos pietate videbis,
+nec gens ulla tuos aeque celebrabit honores.
+Los ausonios mantendrán su idioma patrio y sus costumbres, y su nombre será tal como es;
+los teucros se asentarán mezclados en su multitud. Añadiré la costumbre y el ritual de las
+cosas sagradas y a todos los haré latinos unánimemente. Verás que la descendencia que
+surja de aquí, mezclada con sangre ausonia, marchará por encima de todos los hombres y
+por encima de los dioses debido a su piedad, y ninguna estirpe celebrará tus honores como
+ellos.
+El énfasis en la unión de las etnias (commixti, mixtum) busca subrayar, como apunta
+Syed19, que los romanos serán un pueblo nuevo surgido de troyanos y latinos, no una simple
+continuación de los itálicos.
+Venus genetrix y el lugar de Troya en la profecía de Júpiter
+Se ha señalado previamente que existen razones estructurales y temáticas para
+examinar el pasaje del libro XII en paralelo a la profecía que Júpiter pronuncia ante Venus
+algunas familias de conectar el pasado de sus ancestros con el mito troyano: “The Trojan heritage was kept 
+alive and well as Rome’s noblest families laid claim to Trojan descent and their scions participated in the 
+elaborate equestrian Troy game (lusus Troiae) at the time of Augustus” (Galinsky, K. (ed.), The Cambridge 
+Companion to the Age of Augustus, Cambridge, 2005, 347).
+19 Syed, Vergil’s Aeneid and the Roman Self, 206: “Iupiter promises Juno he will grant her wish not to 
+change the old name of the Latini, but his language suggests that the people who will descend from the 
+intermarriages of Trojans and Latins will not simply be a continuation of the old Latin race, but rather an 
+entirely new people: they will be called Latini, he says (Aen. 12.837: faciam omnis ... Latinos), but he goes on
+to say that from the mingling of Trojans and Latins will rise a nation yet to be born (Aen. 12.838: hinc genus 
+Ausonio mixtum ... sanguine surget) , and he locates the origin of this nation, the proem's genus Latinum, at 
+the joining of the two peoples into one”.
+8
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+en el comienzo del poema. Nos interesa indagar aquí el lugar de la memoria de Troya en la
+configuración de la futura identidad romana.
+Como se recordará, dicho pasaje comienza cuando Venus acude a Júpiter en su
+calidad de madre de Eneas y ancestro de los futuros romanos, al observar que, debido a la
+intervención de Juno, su hijo ha naufragado y ha sido alejado de las costas de Italia.
+En su artículo acerca de Venus y Tetis en su aspecto de diosas madres, Eleanor
+Winsor Leach  subraya que la motivación de Venus en todas sus acciones es el reclamo
+acerca de la dilación en el proceso fundacional de Roma, que constituye su propiedad y su
+herencia20. Es, pues, la herencia material prometida a su estirpe lo que Venus reclama a
+Júpiter, más allá de que obtenerla implique una carga para Eneas. Pese a que esto puede
+resultar inquietante o antipático para el lector moderno21, que podría catalogar a Venus de
+“poco maternal”, Leach subraya que en la estructura social romana de la república la
+función materna consistía, efectivamente, en resguardar y proteger la herencia de los hijos.
+Al comenzar la acción de Eneida Anquises ya ha muerto; Venus interviene entonces para
+proteger al hijo huérfano y para asegurar que reciba la herencia que le corresponde, en un
+accionar  que  responde  a  un  patrón  romano  reconocible22.  La  palabra  que  refleja  el
+sentimiento  maternal  de  Venus  es  cura,  “preocupación”  o  “cuidado”  por  sus
+descendientes23.
+Cuando se presenta ante su padre, la diosa demuestra conocer el diseño general del
+hado: que el destino del viaje es Italia, que de la futura ciudad descenderán los romanos,
+20 Leach, E. W., “Venus, Thetis and the social construction of maternal behavior”, CJ 92.4, 1997, 347-371. 
+Al comparar con la intervención de Tetis, afirma: “Unlike Thetis who goes to Zeus at Achilles' behest, Venus 
+obeys only the prompting of personal anxiety in suddenly seeking Jupiter's presence (Aeneid 1.227-53). […] 
+Venus' entire conversation with Jupiter concerns property and a promised inheritance”.
+21 Feeney, The Gods in Epic, 162.
+22 Leach, “Venus, Thetis and the social construction”, 362: “One must recall that the action of the poem 
+begins after the death of Anchises when Venus is acting in the position of widowed mother to further the 
+enterprises of her son. In her insistence upon his possessing the property and retaining it for the use of his 
+descendants, Venus, I propose, reinforces a very recognizable Roman pattern of maternal behavior with divine
+power. […] Surely Vergil must have been aware of the fact that Roman women derived a certain auctoritas 
+from their license, under certain circumstances, to handle and to bequeath their own family property”.
+23 Cf. Pöschl, V., Die Dichtkunst Virgils. Bild und Symbol in der Äneis, Berlin, 1977, 51 y Leach, “Venus, 
+Thetis and the social construction”, 365-366.
+9
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+que la caída de Troya era un paso necesario para dar lugar a esta misión. No sin ironía,
+pregunta si acaso la causa de que el plan no se cumpla es alguna ofensa contra Júpiter
+cometida por Eneas y los suyos (I, 231-232): 
+quid meus Aeneas in te committere tantum, 
+quid Troes potuere, quibus tot funera passis 
+cunctus ob Italiam terrarum clauditur orbis? 
+¿Qué cosa tan grande pudo cometer Eneas contra ti, qué pudieron hacer los troyanos, a
+quienes, después de haber sufrido tantas muertes, se les cierra frente a Italia el orbe entero
+de la tierra?
+Venus sostiene la legitimidad de su pedido mediante diversos recursos: a) emplea la historia
+de Antenor como ejemplo de un troyano que logró fundar su ciudad en Italia; b) señala que
+Eneas pertenece a su estirpe y, por ende, a la de Júpiter (I, 250: nos, tua progenies); c)
+finalmente, observa que el sufrimiento presente es producido por el enojo de una sola
+divinidad (I, 251: unius ob iram). El discurso de Venus constituye una súplica que es, más
+bien,  una  argumentación,  ya  que  la  presentación  de  evidencias  tiene  la  finalidad  de
+fundamentar en los decretos del fatum la validez de su pedido, mientras que el accionar de
+Juno deriva de sus emociones caprichosas.
+Júpiter asegura que los hados reclamados por Venus siguen en pie (I, 257-258:
+manent immota tuorum / fata tibi): la ciudad prometida será fundada, Eneas triunfará en las
+guerras itálicas y al morir recibirá la dignidad de la apoteosis (I, 258-264): 
+cernes urbem et promissa Lavini
+moenia, sublimemque feres ad sidera caeli
+magnanimum Aenean; neque me sententia vertit.
+hic tibi (fabor enim, quando haec te cura remordet,
+longius et volvens fatorum arcana movebo)
+bellum ingens geret Italia populosque ferocis
+contundet moresque viris et moenia ponet.
+Verás la ciudad y las murallas prometidas de Lavinio y al magnánimo Eneas lo elevarás
+sublime hacia los astros del cielo; no ha cambiado mi sentencia. ninguna opinión me
+cambió. Éste, para ti (lo anunciaré, pues, más largamente, porque esta preocupación te
+10
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+perturba y, haciéndolos girar, pondré en marcha los arcanos de los hados), enfrentará en
+Italia una enorme guerra, abatirá a pueblos arrogantes y establecerá para los hombres
+normas y murallas.
+Asimismo, los descendientes de Ascanio reinarán en Alba Longa durante trescientos años
+(I, 267-273):
+At puer Ascanius [...]
+imperio explebit, regnumque ab sede Lavini
+transferet, et Longam multa vi muniet Albam.
+Hic iam ter centum totos regnabitur annos 
+gente sub Hectorea.
+Entretanto, el niño Ascanio […] llevará el trono de la sede de Lavinio y con mucho poder
+fortalecerá Alba Longa. Aquí se gobernará trescientos años bajo la estirpe de Héctor.
+Finalmente, de Ilia y Marte nacerá Rómulo, el padre de la estirpe romana (I, 276-277):
+Romulus excipiet gentem et Mavortia condet 
+moenia Romanosque suo nomine dicet.
+Rómulo recibirá la estirpe y fundará las murallas de Marte y los llamará “romanos” con su
+nombre.
+Es claro que, por enmarcarse en un consuelo, la profecía resalta especialmente los
+elementos positivos: constituye una característica ya observada por Servio, quien señala,
+entre otras cosas, que es apropiada la frase populos feroces contundet (I, 263-264) puesto
+que pone el foco en el triunfo final y no en el transcurso de la guerra –lo cual no traería
+tranquilidad al oyente sino todo lo contrario24–. Este rasgo ha sido retomado por críticos
+modernos para evaluar cómo está representado el logro del imperio romano –el triunfo
+sobre el  furor–  y cuál es el costo que implica para Eneas y sus descendientes, los
+individuos involucrados en la empresa. 
+R. O. A. M. Lyne señala que la frase  imperium sine fine dedi encubre, con la
+finalidad de consolar a Venus, siglos de lucha y sufrimiento. Las palabras de Júpiter
+24 Ad loc: incongruum fuerat in consolatione bella praedicere: ob hoc ergo etiam victoriam pollicetur.
+11
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+estarían teñidas de un falso optimismo que muestra el desprecio de los dioses por el
+sufrimiento humano25. Resulta fundamental recordar que la lectura de Lyne está teñida de
+una mirada pesimista y por consiguiente tiende a evaluar toda síntesis u omisión en
+términos de ocultamiento. Júpiter no disimula los trabajos que implica el establecimiento
+del imperium; de ser así, no incluiría en su anuncio la mención de las guerras. Desde un
+punto de vista contrario, R. D. Williams considera que la profecía asegura el carácter
+pasajero de la oscuridad y confusión atravesadas por Eneas. El objetivo será alcanzado de
+manera concreta, en la Roma histórica de Virgilio, por lo cual todo el sufrimiento requerido
+será finalmente recompensado26.
+En todo caso, se otorgue la valoración que sea a la relación costo-beneficio entre las
+peripecias de Eneas y el logro romano, lo cierto es que la profecía de Júpiter no consiste en
+una historia de Roma completa y exhaustiva, sino que abarca una selección de episodios
+míticos e históricos27.
+Según Jim O’Hara –quien, como Lyne, se encuadra en los línea de las lecturas
+pesimistas de Eneida–, el hecho de que exista una síntesis de hechos históricos amerita la
+inclusión del discurso en el conjunto de las profecías deceptivas o falsamente optimistas, es
+decir, aquellas que deliberadamente ocultan toda referencia a la muerte o al dolor para
+generar en el oyente la idea de un éxito asegurado y fácil de obtener28. Lo que para Servio
+era adecuar el material al contexto consolatorio, para O’Hara es mentira lisa y llana29: 
+25 Lyne, R. O. A. M., Further Voices in Vergil’s Aeneid, Oxford, 1987, 80-81: “From the vantage point of 
+Vergil’s time, this might seem to have been proved true. But is it not expansive – bland, facile, conveniently 
+omitting to mention the vast amount of blood, sweat, and tears the human recipients of his gift will have to 
+expend (not to mention its enemies)? Convenient, facile: this is a ‘well-packaged’ prophecy!”
+26 Williams, R. D., “The Purpose of the Aeneid”, en: Harrison, S. J. (ed.), Oxford Readings in Virgil’s Aeneid,
+Oxford-New York, 1990, 22-23: “Jupiter’s answer sheds a brilliant and optimistic light over the whole of the 
+gloom and uncertainty, and the long toil which will be necessary to found Rome is seen to be worth whatever 
+it involves”.
+27 Cf. Zetzel, J. E. G., “Rome and its traditions”, en: Martindale, C. (comp.), The Cambridge Companion to 
+Virgil, Cambridge, 1997, 196.
+28  Según O’Hara, Death and the Optimistic Prophecy, 133, este anuncio “makes empire and the final peace 
+under Augustus seem painless and easy”.
+29 O’Hara, Death and the Optimistic Prophecy, 135.
+12
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+“This is an occasion for rhetorical falsehoods, where the content of a prophecy is to be
+determined more by what the character wants or needs to hear rather than by what the truth
+of the situation is”.
+Para este autor, la forma de responder de Júpiter, sonriente ante Venus (I, 254: subridens)
+aunque el narrador acaba de decir que estaba preocupado al observar las desgracias de
+Eneas (I, 227: talis iactantem pectore curas), establece un paralelismo con las palabras del
+propio Eneas ante sus compañeros, que los alienta a pesar de su incertidumbre (I, 209:
+spem vultu simulat, premit altum corde dolorem). Se acentuaría así el carácter engañoso de
+sus palabras. Desde este enfoque, Júpiter oculta el fratricidio de Rómulo, es ambiguo en
+cuanto a la identidad de Caesar30 y, principalmente, exagera la contribución de Troya a la
+futura cultura romana. 
+Ahora bien: si tenemos en cuenta la intervención de Venus en términos de genetrix
+que defiende la herencia prometida, se comprende mejor la importancia otorgada a Troya
+en el pasaje. Como ya en 1975 observaba W. P. Basson, no es del todo adecuado considerar
+que la respuesta de Júpiter constituye una profecía sobre la historia de Roma, puesto que
+esto  conduciría  indefectiblemente  a  notar  sus  omisiones.  Resulta  más  apropiado
+comprender que se trata de una apretada síntesis del papel de la gens Iulia dentro de la
+historia  romana31.  A diferencia  del  desfile  de  héroes  del  libro  6,  no  aparecen  aquí
+representados los personajes ilustres de distintas gentes, sino solamente aquellos que atañen
+a Venus como madre de la estirpe: Eneas, Ascanio, Rómulo,  Caesar  (se denote aquí a
+César, a Augusto o a ambos)32.
+30 Este segundo punto debería, a nuestro entender, distinguirse de los anteriores puesto que su ambigüedad 
+afecta sobre todo al lector de Eneida, que busca un referente histórico y puede debatirse por considerar que se 
+trata de Julio César (como hace Servio o Quinn), de Augusto (siguiendo a Basson, Williams o Zetzel, entre 
+otros) o bien decidir que el pasaje es deliberadamente ambiguo y que ambos personajes –y la compleja 
+relación entre ellos– son referidos aquí (Austin, O’Hara).
+31 Basson, W. P., Pivotal Catalogues in the Aeneid, Amsterdam, 1975, 9: “What he actually gives in Jupiter's 
+forecast,  is  an outline in catalogic form of that specific part  of Roman  history  which  was  the sole 
+contribution of the Julian family”.
+32 Acerca de la identidad de Caesar en esta profecía, cf. Austin, R. G., P. Vergili Maronis Aeneidos Liber 
+Primus, Oxford, 1971, 108-110; O’Hara, Death and the Optimistic Prophecy, 156-159; Kraggerud, E., 
+“Which Julius Caesar? On Aen. 1, 286-296”, SO 67, 1992, 103-112; Dobbin, R. F., “Julius Caesar in Jupiter’s 
+Prophecy, Aeneid, Book 1”, CA 14, 1995, 5-40; Ganiban, R. T., Vergil Aeneid Book 1, Newburyport, 2009, 53.
+13
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+Júpiter  responde  en  los  mismos  términos  que  ha  planteado  Venus,  es  decir,
+explicando de qué manera los sobrevivientes de Troya fundarán la estirpe de los futuros
+romanos. La diosa habla de los Romanos (I, 234) gobernantes del mundo –I, 236: qui mare,
+qui terras omnes dicione tenerent–, descendientes revocato a sanguine Teucri (I, 235)33. La
+futura ciudad se ve como una recompensa luego de la pérdida de Ilión34 y el relato de
+Antenor funciona como antecedente de la Troya rediviva35. 
+La  respuesta  de  Júpiter  de  algún  modo  suscribe  dicha  identificación,  ya  que
+confirma la fuerte presencia del elemento troyano en la futura ciudad. En Alba Longa
+gobernará gente Hectorea (I, 273), César se define como Troianus (I, 286) y la futura Roma
+que conquiste a los  griegos será la  domus  Assaraci vencedora de  Phtiam clarasque
+Mycenas (I, 283-284). Con todo, deja en claro tres cuestiones centrales: 
+a. que la nueva ciudad de Eneas será Lavinio (I, 258-259:  urbem et promissa
+Lavini / moenia), no una segunda Troya36; 
+b.  que  la  denominación  de  “romanos”  derivará  del  nombre  de  Rómulo,
+abandonando toda referencia a Troya (I, 277: Romanosque suo de nomine dicet); 
+c. que esta nueva identidad se verá reflejada en sus costumbres, aludidas aquí
+mediante la forma de vestir: Romanos, rerum dominos gentemque togatam (I, 282).
+Es decir, si bien Júpiter menciona el vínculo entre Troya y la futura ciudad, profetiza
+el surgimiento de una nueva entidad, Roma, que implicará asimismo una nueva identidad. 
+33 Resulta cuanto menos llamativo que Venus diga en I, 235 que los romanos descenderán revocato a 
+sanguine Teucri; en el libro III se verá que es Dárdano, y no Teucro, el antecesor que reivindican los troyanos 
+para fundar su ciudad en Italia. Servio dice Teucrum pro Dardano posuit: Dardanus enim de Italia profectus 
+est, Teucer de Creta pero no aclara si Venus se confunde o si elige ese nombre deliberadamente.
+34 I, 238-239: hoc equidem occasum Troiae tristisque ruinas / solabar fatis contraria fata rependens (“por 
+cierto, con esto mitigaba el ocaso de Troya y sus tristes ruinas, balanceando con otros hados los hados 
+adversos”)
+35 I, 247-249: hic tamen ille urbem Patavi sedesque locavit / Teucrorum et genti nomen dedit armaque fixit / 
+Troia. Véase Ford Wiltshire, S., Public and Private in Vergil’s Aeneid, Amherst, 1989, 67.
+36 Se debe recordar que en el nivel de la historia Eneas ya ha intentado fundar una segunda Troya en Tracia 
+(III, 13-68) y en Creta (III, 135-142) con resultado negativo y ha visto la imitación de la vieja ciudad en el 
+reino de Héleno y Andrómaca.
+14
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+La cuestión que nos ocupa ahora es cómo evaluar la profecía del libro I teniendo en
+cuenta el diálogo del final en el libro XII. Para O’Hara, en el libro 1 Júpiter le oculta a
+Venus este desarrollo posterior y, en el marco del consuelo, presenta el aporte troyano de
+una forma que resulta exagerada a la luz de lo afirmado ante Juno37. La ilusiona, pues, con
+falsas expectativas. Denis Feeney y Susanna Morton Braund, en cambio, opinan que Júpiter
+va acercando su parecer al de Juno de manera progresiva, a lo largo de la acción del poema,
+comprometiendo así su postura absolutamente pro-troyana del comienzo38. 
+En  todo  caso,  estas  lecturas  establecen  un  vínculo  de  oposición  entre  ambos
+discursos de Júpiter, quien parecería o bien mentirle a alguna de las diosas (a Venus
+prometiendo una segunda Troya que nunca existirá, o a Juno simulando un acuerdo que no
+es tal) o bien ir modificando el designio del fatum a su capricho, disponiendo primero una
+cosa y luego otra. En este contexto es que la declaración de neutralidad en el concilio del
+libro  X  –rex  Iuppiter  omnibus  idem.  /  fata  viam  invenient–  resulta  perturbadora  o
+insatisfactoria39. 
+Consideramos que en el diálogo del libro 12 es clave la afirmación de Juno previa a
+su pedido (XII, 819-820): 
+illud te, nulla fati quod lege tenetur,
+pro Latio obtestor, pro maiestate tuorum:
+Por el Lacio, por la majestad de los tuyos, te suplico aquello que no es gobernado por
+ninguna ley del hado.
+37 O’Hara, Death and the Optimistic Prophecy, 132:“‘The Italians will keep their customs.’ This is a key 
+development in the conclusion of the Aeneid, toward which Vergil’s simultaneous explicit championing of the 
+Trojans, and evident love and sympathy for the Italians, have been pointing throughout the second half of the 
+poem. But this development is wholly concealed from Venus” (nuestro subrayado).
+38 Feeney, The Gods in Epic, 145: “Venus wants Aeneas’ foundation to be another Troy (10.60-2), and it 
+might appear from Jupiter’s words in Book 1 that his aim accords with hers; yet the poem’s solution shows 
+Jupiter moving away from that position, towards Juno’s”; Morton Braund, “Virgil and the cosmos”,  
+211:“Jupiter is the only one powerful enough to bring about the conclusion, which he finally achieves 
+(12.829-40) by compromising his pro-Venus, pro-Trojan position in order to accommodate Juno in a partial 
+reconciliation”.
+39 Cf. Matthaei, L. E., “The Fates, the Gods, and the Freedom of Man’s Will in the Aeneid”, CQ 11.1, 1917, 
+16; Bailey, C., Religion in Virgil, Oxford, 1935, 231; Wilson, C. H., “Jupiter and the Fates in the Aeneid”, CQ,
+New Series 29.2, 1979, 364 y Lyne, Further Voices, 89.
+15
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+Juno sabe que Júpiter está en condiciones de acceder a su pedido puesto que, dentro del
+diseño general del fatum, el dios tiene cierto grado de decisión en lo que respecta al modo
+de  su  cumplimiento.  A  lo  largo  del  poema  se  observa  que  interviene  cuando  es
+indispensable hacer regresar la acción al decurso fijado: 
+a. cuando observa que los troyanos desembarcan en las costas de Cartago, envía a
+Mercurio para lograr que Dido los reciba con hospitalidad (I, 297-300); 
+b. al retrasarse Eneas debido al plan urdido por Venus y Juno, nuevamente hace que
+el dios mensajero le recuerde al héroe su misión y urja la partida (IV, 219-237); 
+c. cuando Eneas está preocupado en Sicilia y no sabe qué decisión tomar, el dios
+ordena al espíritu de Anquises que se aparezca a su hijo y lo guíe (V, 719-727); 
+d. ya en Italia, el dios inspira la idea –sic Iuppiter ipse monebat– de colocar la
+comida sobre las tortas de cereal, para que luego los troyanos adviertan que se trata del
+signo indicador del destino del viaje (VII, 107-111). 
+Que Júpiter atienda al cumplimiento de los hados no es sinónimo de que sus
+acciones sean siempre favorables para Eneas y los troyanos: en II, 604-618, por ejemplo,
+Venus  lo  muestra  entre  las  divinidades  destructoras  de  la  ciudad,  algo  que  resulta
+desconcertante si, tras el anuncio del libro I, se conceptualiza a Júpiter como adherente a la
+postura pro-troyana de Venus. Por otra parte, que sus intervenciones en la acción sean
+escasas y que se declare neutral no supone alejamiento del plano humano: Júpiter atiende
+las plegarias que elevan los hombres y envía signos para responderlas. Así sucede cuando
+Anquises le pide que confirme el sentido del fuego sobre Ascanio y el dios hace brillar un
+rayo en el cielo (II, 687-698), cuando Iarbas eleva su ruego acerca de los sucesos en
+Cartago (IV, 203-218), al enviar la lluvia que apaga el fuego de las naves de Eneas (V, 685-
+599) y cuando responde con truenos y rayos tanto el agradecimiento de Eneas por llegar a
+Italia (VII, 135-147) como el pedido de Ascanio de ayudarlo en la batalla (IX, 621-631).
+Desde esta perspectiva, se abre la posibilidad de una lectura que no entienda los
+discursos de Júpiter en I y XII como contrapuestos o mutuamente excluyentes. El diseño
+16
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+del fatum es que los troyanos fundarán en Italia una ciudad que dará lugar a la estirpe de los
+romanos, tal como lo afirma el narrador extradiegético en el proemio del poema: Eneas es
+el virum que navegó ab oris Troiae, llegó a Italia (Lavinia litora, Latio) y fundó una ciudad
+(conderet urbem) de la cual derivaron genus Latinum, Albani patres y altae moenia Romae.
+Queda  confirmado,  pues,  que  el  objetivo  de  Roma  deriva  de  la  conjunción  de  las
+tradiciones de Troya, el Lacio y Alba Longa.
+Conclusión
+El análisis detallado de las intervenciones de Júpiter en I y XII demuestra que no se
+trata de dos discursos incompatibles. Se puede afirmar que en la negociación final Juno
+logra reducir el peso de Troya en la Roma futura, pero esto no significa que su planteo esté
+muy alejado de lo ya profetizado por el dios. Júpiter no había anunciado una segunda Troya
+sino moenia Lavini, no troyanos sino Romanos, gentem togatam. Según el DAGR la toga
+era una prenda de origen etrusco40, con lo cual ya aquí se observa la importancia del
+elemento itálico en la definición de los descendientes de Eneas. Sin embargo, después de
+ver a Eneas atormentado en el libro I por una Juno despiadada y caprichosa, la perspectiva
+del lector está orientada a simpatizar con los troyanos y a aceptar como información
+objetiva la promesa de Júpiter, sin tener en cuenta que el contexto consolatorio tiende a
+resaltar los elementos que interesan a Venus de manera especial.
+La importancia del mito de Eneas para la identidad romana y su compleja relación
+con los elementos itálicos ha sido materia de numerosos estudios. En su tradicional Aeneas,
+Sicily, and Rome (1969), Karl Galinsky explica el porqué de la combinación de elementos
+de Troya y Alba Longa, un rasgo que para algunos críticos resulta objetable por su
+imprecisión41 pero que se debe a la conjunción de distintas leyendas fundacionales. Los
+40 Courby, F., “Toga”, DAGR, tomo 5, vol. I, París, 1877-1919, 348-349. 
+41 O’Hara, Death and the Optimistic Prophecy, 145 y Zetzel, “Rome and its Traditions”, 196 señalan la 
+inexactitud de Júpiter cuando dice que los reyes albanos descenderán de Ascanio, ya que su origen está en el 
+hijo de Eneas y Lavinia. Sin embargo, hablar de imprecisiones surge de considerar sólo una de las versiones 
+del mito.
+17
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+romanos  no  podían  adjudicar  a  Eneas  el  establecimiento  de  su  ciudad  por  motivos
+cronológicos, ya que la caída de Troya se ubicaba en el siglo XII o XIII a. C. y el
+nacimiento de Roma en el VIII. El intervalo que quedó entre ambas fechas fue ocupado por
+la dinastía de los reyes albanos que significó, para Galinsky, “una concesión a la tradición
+latina”42, debido a que Eneas dejó de ser el fundador de Roma para convertirse en el
+ancestro de sus fundadores. Como señala Katharine Toll, Eneas no reemplaza a Rómulo,
+sino que en cierto modo lo supera puesto que se constituye en el ancestro de una entidad
+más amplia que Roma que incluye, también, a los itálicos43:
+“Aeneas is made to function as an ancestor to an entity greater than Rome, an entity
+inclusive of Rome and indeed often focused upon it, but more extensive and congenerous.
+Vergil begins the project of  getting Rome and the Italians to cohere very simply, by
+providing them with a common source.”
+Se coloca a Eneas en el lugar de creador de Lavinio, una especie de contraparte
+troyana de la Alba latina44, cuyos penates eran identificados con los troyanos. Galinsky
+explica este empleo y combinación de las distintas leyendas como una operación política y
+cultural cuyo fin era vincularse al mundo griego a través de una estirpe común. Assmann
+analiza la función de los mitos en la configuración de la identidad cultural y los define
+como formas  narrativas que dan cuenta de la identidad y el lugar en el mundo del
+“nosotros” que constituye el grupo45:
+„Mythen haben es mit Identität zu tun, sie geben Antwort auf die Frage, wer „wir“ sind,
+woher „wir“ kommen und wo im Kosmos „wir“ stehen“.
+Las epopeyas y genealogías ocupan un lugar de relevancia entre los textos formativos
+encargados de consolidar los mitos identitarios. Assmann  cita justamente el mito troyano
+42 Galinsky, K., Aeneas, Sicily and Rome, Princeton, 1969, 142: “Rome gave up her claim to have been 
+founded by Aeneas because of chronological exigencies which, in turn, reflect a concession to the Latin 
+tradition of Rome’s foundation”.
+43 Toll, “Making Roman-ness and the Aeneid”, 42.
+44 Galinsky, Aeneas, Sicily and Rome, 142 explica que esta tradición surgió en la segunda mitad del siglo IV, 
+promovida por historiadores romanos que querían apoyar los reclamos de Lavinio en detrimento de los de 
+Alba.
+45 Assmann, J., Das kulturelle Gedächtnis, 142.
+18
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+en Roma como un ejemplo de mito fundante, aquel relato que, desde el pasado, funciona
+como referencia para el presente y el futuro46. 
+El modo en que se trata la cuestión de la identidad cultural en Eneida da cuenta de
+los cambios en la definición de este concepto durante el siglo I a. C., sobre todo después de
+la guerra social47. La noción fue ampliándose progresivamente y en el poema se plasma esta
+idea de la identidad como algo simbólico48. Yasmin Syed observa que esto es producto de la
+expansión del concepto de romanitas en tiempos de Virgilio: ya Roma era un imperio y por
+ello  la  noción  de  “identidad”  romana  no  se  descansaba  sólo  en  relaciones  de
+descendencia49. Ser romano se postula como una identidad universal, la del imperium sine
+fine, que se extiende progresivamente50. Así, reflexiona Toll, todo extranjero resulta un
+46 Assmann, J., Das kulturelle Gedächtnis, 78-79.
+47 Toll, “Making Roman-ness and the Aeneid”,  35: “One reason to think that the national identity of Roman 
+Italy was new when Vergil was writing  is that the unity of Italy (and of Roman citizens outside Italy) was 
+recent and unsteady: his audience's generation, and their parents' and grandparents', had been torn and tortured
+by increasingly destructive civil wars reaching right back to the 90s B.C.E. Vergil's generation had seen the 
+devastations finally brought to what at least might turn out to be an end, and was now, warily, diffidently, 
+beginning to think about reconstruction”.
+48 Ando se ocupa no sólo de analizar el concepto de lo que se entendía como “romano” (123-124), sino 
+también de estudiar la evolución del término Italia (124-127) y la contribución de Eneida en su 
+configuración: “We would thus be remiss if we did not read his poetry as a contribution to an on-going 
+discourse about the nature of the community that then existed on the Italian peninsula” (Ando, “Vergil’s 
+Italy”, 136).
+49 Syed, Vergil’s Aeneid and the Roman Self,  218-219: “Growing from a face-to-face community to an 
+empire, Romans continually had to change their conception of Roman identity. A face-to-face community can 
+rely on visual familiarity of its members to conceptualize their commonalities. A larger community such as 
+the Greek polis needed other markers such as citizenship determined by descent. In Vergil's time, Roman 
+identity was a far more open category, since citizenship was not dependent on descent alone. In constructing 
+its version of Roman identity, the Aeneid uses the concept of the community of citizens descended from 
+citizens (polis concept), but it also expands it: descent as a symbolic rather than a literal category. This is what
+distinguishes Romanness in the Aeneid from other group identities (Latins, Greeks, Carthaginians). While 
+these are ethnic categories, dependent on descent of its members from other members, Romanness has been 
+cut loose from descent as a necessary condition for membership in the group. In this the concept of Roman 
+identity can best be compared to the modern concept of nationhood”.
+50 El concepto de Roma como “cosmópolis” es objeto del estudio de Edwards, C. y Woolf, G., Rome the 
+Cosmopolis, Cambridge, 2004. En su introducción señalan que esta noción según la cual la ciudad es 
+equivalente al mundo se extiende desde los tiempos de Cicerón en adelante. El crecimiento del imperio estuvo
+acompañado de una búsqueda de los orígenes en mitos cada vez más antiguos: “As the power of Roman 
+people grew so the roots of the City were dug deeper into antiquity, down beneath Romulean Rome and 
+Evander’s settlement, to the scene of Hercules’ battle with the monster Cacus, and ultimately back to Troy” 
+(Edwards y Woolf, Rome the Cosmopolis, 4). 
+19
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+romano en potencia. Puesto que el imperio no tiene límites ni geográficos ni temporales,
+todo externus es susceptible de ser incorporado51. Los pasajes analizados parecen indicar
+que la identidad romana, si bien es abarcativa y fuertemente asimiladora, exige a la vez
+olvido y memoria. Olvido de las múltiples identidades previas, troyana o de cualquier otra
+índole, para ser miembro de una comunidad sostenida por la memoria romana.
+María Emilia Cairo
+Universidad Nacional de La Plata – Conicet
+emiliacairo@conicet.gov.ar
+Resumen:
+En este trabajo proponemos estudiar la dinámica de memoria y olvido implicada en el diálogo entre
+Júpiter y Juno en Eneida XII, 791-842. Examinaremos la definición de los romanos planteada por Juno (y en
+especial su pedido de que Troya caiga en el olvido) teniendo en cuenta que la identidad no es algo dado sino
+el producto de una constante configuración y negociación. En segundo lugar, proponemos examinar los
+elementos en común entre este pasaje y el diálogo entre Júpiter y Venus en I, 223-304, en el que también se
+discute la relación entre el pasado troyano y el futuro de la ciudad que Eneas fundará. Si bien algunos críticos
+han analizado estos pasajes en términos de oposición, señalando contradicciones irreconciliables entre lo que
+Júpiter afirma al principio y al final del poema, entendemos que estas variaciones pueden considerarse en el
+marco del proceso de negociación entre memoria y de olvido que supone toda propuesta de definición de una
+identidad.
+Palabras clave: Eneida – identidad romana – Juno – Júpiter – Venus 
+Abstract:
+In this paper we aim to study the dynamics of memory and forgetting implied in the dialogue
+between Iupiter and Iuno in Aeneid XII, 791-842. We will examine the definition of Romans presented by
+Iuno (and especially her request that Troy must be casted into oblivion) taking into account that identity is not
+a given, but the product of constant configuration and negotiation. Secondly, we propose to examine the
+common traits between this passage and the dialogue between Iupiter and Venus in I, 223-304, in which the
+relationship between the Trojan past and the future of Aeneas’ city is also discussed. Even when some
+scholars have analyzed these passages in terms of opposition, pointing out irreconcilable contradictions in
+what Iupiter states at the beginning and at the end of the poem, we understand that these variations can be
+51 Toll, “Making Roman-ness and the Aeneid”, 48: “Readers have to remember Jupiter’s promise in his 
+opening speech: imperium sine fine dedi (1.279) ("I have given (to the descendants of Aeneas) rule without 
+end"). If this promise were not mere hyperbole but an actual end which Roman Italy might properly pursue 
+and thus adjust to, then Italy's externi were to be externi only transitorily”.
+20
+Auster, nº 21, e032, 2016. ISSN 2346-8890
+considered as part of the process of negotiation between memory and forgetting that every definition of
+identity implies.
+Keywords: Aeneid – Roman identity – Juno – Jupiter - Venus
+RECIBIDO: 30-11-2016 – ACEPTADO: 19-12-2016
+21

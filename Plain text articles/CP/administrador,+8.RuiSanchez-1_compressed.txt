@@ -1,0 +1,665 @@
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+(POBRE) BAUDELAIRE EN MÉXICO 
+ 
+José Ramón Ruisánchez 
+University of Houston 
+jrruisanchez@uh.edu 
+ 
+ 
+ 
+Resumen: Este texto explora la 
+recepción 
+temprana 
+de 
+Charles 
+Baudelaire en México, tanto como 
+figura 
+biográfica 
+y 
+sobre 
+todo 
+legendaria, 
+como 
+la 
+publicación 
+anterior a la Revista Moderna que suele 
+darse como el primer medio en que se 
+da a conocer en México, primero en Le 
+Trait d'Union, en francés y poco a poco 
+en otras 
+publicaciones como 
+El 
+Universal y Revista Azul. 
+Palabras clave: Diario Le Trait 
+d'Union, Charles Baudelaire, Prensa 
+mexicana, "Les bons chiens", Breves 
+poemas en prosa. 
+Abstract: This piece explores the 
+reception of Baudelaire in Mexico, 
+both as the literary character of his 
+own legend and as the author 
+published several times before Revista 
+Moderna, the usual milestone for his 
+circulation in Mexico. I explore the 
+French-language newspaper Le Trait 
+d'Union as well as El Universal and 
+Revista Azul, where his works appeared 
+in Spanish.  
+Keywords: Le Trait d'Union newspaper, 
+Charles Baudelaire, Mexican periodic 
+press, "Les bons chiens", Paris spleen.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+228 
+ 
+En estas páginas exploro algunas escenas de la recepción de 
+Baudelaire en México. No son, como es natural, exhaustivas. 
+Pero muestran sus etapas principales y, sobre todo, creo que 
+tienen el mérito de llenar huecos sobre su momento inicial, del 
+que hay muchas lagunas.  
+Asumo, desde el arranque, que recepción quiere decir 
+siempre reinvención: aparición parcial que implica toda una 
+gama 
+de 
+malentendidos 
+y 
+traiciones, 
+carencias 
+e 
+imposibilidades. Pero el trazado de estas carencias, las líneas 
+encontradas de los malentendidos, los borramientos maliciosos 
+de las traiciones, no dejan nunca de ser aparición, no dejan de 
+mostrarnos aspectos importantes del campo en los que se 
+producen. 
+También, de manera paralela y a través de este caso 
+concreto, pienso diferentes maneras de hacer la historia de las 
+literaturas mundiales, subrayando el plural doble, no sólo por 
+concordancia: sino porque creo que existen precisamente 
+debido a los caminos azarosos por los que, por ejemplo, llega a 
+existir un tal Carlos Baudelaire, que luego irá recomponiéndose 
+en Charles una literatura mundial argentina y una literatura 
+mundial mexicana que son muy distintas a las que se enseñan 
+en los departamentos de inglés de circuito del Atlántico del 
+Norte.  
+Oscilo entre la lectura distante y sus herramientas 
+estadísticas, y la lectura detenida, desde la convicción de que 
+no se debe prescindir de ninguna de las dos porque ambas se 
+necesitan: las preguntas a formular al distant reading, provienen, 
+siempre, inevitablemente de los hallazgos del close reading. 
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+Ngram	
+simple	
+ 
+   Fig.1 Ngram de Baudelaire en el corpus de Google books en español. 
+ 
+La prehistoria de Baudelaire en México 
+ 
+La historia de Baudelaire en México la estableció, como 
+tantas otras cosas, Octavio Paz, quien fija su arranque con la 
+segunda generación modernista. La idea es justa, pues sólo en 
+la Revista Moderna (1898-1903) se publican sus textos en serie y 
+en serio1. Incluso Vittoria Borsò, en su importante artículo 
+reciente, parte de allí para pensar en la recepción 
+latinoamericana de Baudelaire.  
+                                                          
+ 
+1 Las obras que se publican en la Revista Moderna son: "À une femme" (1898); "El 
+extranjero", "La desesperación de la vieja", "El confiteor del artista", "Un chusco", 
+"Hymne à la Beauté"/ "Himno a la belleza", fragmentos de "Letanías a Satán" (1899); 
+"Embriagaos", "Cada uno con su quimera"(1901); fragmentos de "La literatura honesta" 
+(1902). Los títulos indican si se publicaron en francés o traducidos.  
+ 
+230 
+ 
+Después de la Revista Azul (1894-1896) que es el espacio de 
+fundación del modernismo mexicano, la hegemonía del 
+movimiento se produce en la Revista Moderna. Mientras que la 
+primera corresponde a la cima de la trayectoria de Manuel 
+Gutiérrez Nájera, en la segunda cobran importancia José Juan 
+Tablada y Amado Nervo, y las inconfundibles ilustraciones de 
+Julio Ruelas. Ambas han sido rigurosamente estudiadas por 
+Susana Zanetti, Belem Clark de Lara, Serge Zaïteff (por 
+mencionar algunos nombres) y cuentan con ediciones 
+facsimilares modernas.2 Esta accesibilidad y el interés que tuvo 
+el modernismo para los poetas críticos como Paz mismo o 
+como José Emilio Pacheco— tras el desprecio y olvido del que 
+había sido objeto por parte de los miembros de Contemporáneos 
+explican que se haya obviado hasta ahora un segmento 
+importante de la primera recepción: lo que llamo la prehistoria 
+de Baudelaire. 
+Para intentar su primer esbozo, las herramientas de las 
+humanidades digitales resultan extremadamente útiles. Ya una 
+parte muy importante de los fondos de la Hemeroteca 
+Nacional han sido digitalizados y, aún más importante, los 
+programas de OCR (reconocimiento de caracteres) y el motor 
+de búsqueda de su portal hndm.unam.mx han mejorado 
+enormemente en los últimos años. Esto no quiere decir, como 
+insistiré más adelante, que no siga equivocándose.  
+El ejemplo crucial es Le Trait d´Union, el diario donde 
+aparece la primera mención de Baudelaire en México.  Le Trait 
+                                                          
+ 
+2 Mi propia contribución al tema, es “El ethos modernista”. En este artículo discuto la 
+modernidad de estas revistas en términos del pensamiento de Bolívar Echeverría y del 
+interior como lo analizó Walter Benjamin.   
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+d'Union, que llevaba el nada modesto subtítulo de Journal 
+Universel, se publica por primera vez en 1857 y dura hasta 1892, 
+aunque sólo salió de manera ininterrumpida después de 1868, 
+acabada la intentona de Napoleón III (el llamado "imperio" de 
+Maximiliano) y restablecida la presidencia de Benito Juárez.  
+ 
+ 
+Fig. 2 Le Trait d'Union 10-IX-1884. Digitalizado por la HNDM. 
+Se trata de una publicación en francés, con sede en la 
+Ciudad de México, que justamente unía las noticias de Francia 
+(y a veces de la pauvre Belgique) con notas y anuncios sobre 
+México. Así. en un ejemplar podían combinarse una discusión 
+del senado francés, con la noticia de la captura de un enorme 
+ 
+232 
+ 
+cocodrilo en el río Coatzacoalcos; la novela del folletón, por 
+ejemplo de Ponson de Terrail, con los anuncios de abogados, 
+profesores o restaurantes de la Ciudad de México.  
+ 
+Fig. 3 Le Trait d'Union 1-I-1876. Digitalizado por la HNDM. 
+ 
+En el número del 29 de junio de 1876 se publica una 
+pequeña viñeta, protagonizada por Charles Baudelaire. "El 
+poeta de Las flores del mal", dice, poseía un solo sombrero, 
+terriblemente maltratado, que atraía las miradas escandalizadas 
+de quienes lo rodeaban. Llegó el día en que uno de sus amigos 
+no pudo soportar más el escarnio y le exigió que fuese con él, a 
+ver a su sombrerero, implicando que se hará cargo de la 
+cuenta. Baudelaire se niega rotundamente: "Me quedo con mi 
+sombrero".  
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+ 
+Le ruego que me diga por qué. 
+ 
+Porque espanta a los falsos amigos (p. 3). 
+Es muy probable que el relato sea apócrifo, parte de lo que 
+la crítica denomina "baudelaieriana": ese suplemento narrativo 
+pseudobiográfico que intenta habitar el tono y los ambientes 
+de los textos escritos por el poeta.3 El valor de la baudelairiana 
+no radica, desde luego, en su factualidad sino en algo más. 
+Cuarenta años antes de que aparezca la primera versión en 
+español de Las flores del mal (la del catalán Eduardo Marquina), 
+al menos para cierta comunidad mexicana o residente en 
+México, Baudelaire es ya un personaje que habita la textura de 
+su propia leyenda, y desde las reglas de su singularidad se erige 
+como arquetipo de una individualidad. Es capaz de erigir y 
+exigir otro tipo de gestos por encima y más allá del buen gusto, 
+superando la moda como normalidad, aboliendo la tiranía de 
+los modales, sorteando una autorregulación social.  
+Ahora bien, es importante subrayar que seguían siendo 
+aspiracionales en la sociedad mexicana de este tempranísimo 
+Porfiriato. Acaso esto explica por qué, en la prensa en español, 
+                                                          
+ 
+3 Ya muy temprano en la recepción del ámbito español, estos libros que nunca existieron 
+ejercieron una fuerte atracción. Por ejemplo, el incómodo Juan Valera escribió: 
+Dicen que Baudelaire, ya en los últimos años de su vida, trazó el plan de un 
+drama  o novela, El criminal dichoso, que es lástima dejase de escribir, pues con 
+él hubiera acabado de aterrar a los burgueses. El héroe, desechando ridículas 
+preocupaciones y temores y escrúpulos, debía cometer con éxito brillante 
+todas las atrocidades más inauditas: matar a su padre, violar a su madre y a su 
+hermana, deshonrar a su hermano y vender a su patria. Todo ello lo habría de 
+ejecutar con tal destreza que, además de mucho placer, había de 
+proporcionarle la estimación  
+pública y cuantiosos bienes de fortuna con 
+lo cual, retirado en deliciosa quinta, en el país más bello y en el clima más 
+benigno, había de vivir en perpetuo idilio, sin nada más que desear. (OC II 
+680, citado en Aggeler 6) 
+ 
+ 
+234 
+ 
+la baudelairiana, sobre todo la que invoca a un diablo ejemplar, 
+resulta mucho más popular que los textos autógrafos del poeta. 
+Las anécdotas de transgresión logran, de manera muy 
+económica, crear una burguesía que, insisto, apenas existía 
+en germen y escandalizarla. Si uno puede épater le bougeois, 
+también comprueba su existencia. 
+Pero no puedo abandonar aún Le Trait d’Union pues es allí 
+también donde aparece por primera vez un texto del poeta. El 
+4 de julio de 1879 aparece reproducido "Les bons chiens", uno 
+de sus poemas en prosa.  
+En un número reciente de la Yale French Studies dedicado a 
+Baudelaire, Julien Weber explora la genealogía de este texto. 
+En parte, afirma, proviene de la "fisiología", que exploraba de 
+manera humorística a los tipos comunes en la ciudad moderna, 
+y que surge como reacción a las leyes de 1838, que volvieron 
+más severa la censura sobre la prensa, llevando a la publicación 
+de sátiras de índole menos política. Por otra parte (sigo con 
+Weber) Baudelaire renuncia a la distancia del naturalista, 
+prefiriendo la cercanía al animal que aparece de manera 
+ejemplar en el pasaje de Laurence Sterne donde el personaje le 
+da su último macaron a un burro.4 Se produce humor, pero no 
+de la índole de la que practica Voltaire, sino uno mucho más 
+compasivo.  
+                                                          
+ 
+4 El pasaje en cuestión: 
+In saying this, I pull’d out a paper of ’em, which I had just purchased, and 
+gave him one – and at this moment that I am telling it, my heart smites me, 
+that there was more of pleasantry in the conceit, of seeing how an ass would 
+eat a macaroon – than of benevolence in giving him one, which presided in 
+the act. (https://en.wikisource.org/wiki/Tristram_Shandy/Chapter_4) 
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+Me pregunto ya que en la publicación en Le Trait d'Union 
+no hay una marca paratextual que señale "Les bons chiens" como 
+un texto literario, al modo que sucedía de manera clarísima en 
+el folletón— si la firma bastó para activarlo de este modo. Si 
+alguien reconoció que se trataba de uno de los textos (de 
+hecho el que lo cierra) de "El Spleen de París".  
+ 
+ 
+Fig. 4 Le Trait d'Union 4/VII/1879. Digitalizado por la HDNM. 
+ 
+Pienso en la serie de datos que constituyen el contexto para 
+aventurar respuestas a esta pregunta. Ya en fecha muy 
+ 
+236 
+ 
+temprana ¡1857 nada menos! Cecilia Böhl de Faber, mejor 
+conocida como Fernán Caballero usa como epígrafe a su 
+novela Clemencia un fragmento de Baudelaire. El colombiano 
+José María Torres Caicedo lo menciona en su ensayo de 1863 
+sobre Hilario Ascasubi. En un artículo sobre Poe, como 
+sucederá después tantas veces, la Revista Hispano Americana de 
+1867 lo menciona como su traductor. En 1881 aparece el 
+importante artículo de José Martí sobre Baudelaire en su 
+“Sección Constante”. En el ámbito mexicano, en las memorias 
+de Sebastián Lerdo de Tejada (publicadas en 1889, pero 
+seguramente redactadas mucho antes, pues se trata de un libro 
+póstumo) un epígrafe de Baudelaire: Résigne-toi, mon coeur; dors 
+ton sommeil de brute, que copia de "Le goût du néant" partiendo el 
+alejandrino en sus dos hemistiquios. 5  
+Se trata de, digamos pre-lecturas, de testimonios y 
+comentarios de quienes lo conocen y lo manejan (o hacen 
+como si lo manejaran) con soltura. Este contexto va creando 
+un deseo, y finalmente una urgencia que permiten que 
+Baudelaire sea verdaderamente leído. Un caso interesante que 
+nos permite analizar este cambio de momento, insisto, anterior 
+                                                          
+ 
+5 Lerdo de Tejada––conocido por haber ocupado la presidencia durante los cuatro años 
+que mediaron entre la muerte de Benito Juárez (1872) y el triunfo del plan de Tuxtepec 
+(1876) que llevaría a Porfirio Díaz al inicio de su larga dictadura–– nació en la ciudad 
+veracruzana de Xalapa, menos importante que el puerto, en una familia que vivía del 
+pequeño comercio. Más que por sus medios económicos, logró educarse por sus 
+méritos académicos: sus resultados sobresalientes en la escuela elemental, le permitieron 
+asistir a la Palafoxiana en Puebla, una ciudad mucho más importante y próspera que 
+Xalapa, donde se va perfilando hacia la carrera religiosa, pero la interrumpe en 1841, 
+cuando ya había recibido las órdenes menores. Una década después lo ha reclutado una 
+logia masónica y se ha graduado como abogado del Colegio de San Idelfonso.  
+   Por supuesto, esta pequeña novela me parece importante porque dibuja el perfil del 
+joven católico que vira al liberalismo cuando deja la ciudad de provincia: el personaje de 
+de Balzac es el lector ideal de Baudelaire. 
+ 
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+al que marca el lugar común oficial, es el de la revista La 
+República Literaria, publicada en Guadalajara, la segunda ciudad 
+del país. En el número de marzo de 1886, el narrador realista 
+José López Portillo y Rojas escribe: 
+Muy perjudicial ha sido el ejemplo que a este propósito nos 
+han legado algunos genios poéticos de los más 
+renombrados y aplaudidos, comenzando por Byron, el 
+noble y rico lord, cuya extravagancia y relajadas costumbres 
+han sido el objeto de los comentarios de Europa durante 
+medio siglo. Los imitadores y émulos de este hombre 
+extraordinario, siguieron sus pasos en el camino de la 
+corrupción, habiéndose formado a su influjo una escuela 
+cuyo credo ha sido la negación más 
+impía y 
+desconsoladora, y cuya línea de conducta ha consistido en 
+la crápula erigida en sistema. Musset perteneció a ella y 
+vivió encenagado en los vicios y esterilizado en hora 
+temprana por los excesos. Gerardo de Nerval, enloquecido 
+por sus desórdenes, se ahorcó él mismo, en noche oscura, 
+suspendiéndose a la reja  de un sucio callejón de París. 
+Carlos Baudelaire murió loco a causa del uso constante del 
+opio. Edgardo Poe sucumbió ahogado por la bebida o 
+presa del delirium tremens, en la ciudad de Baltimore sobre el 
+embaldosado de la vía pública, sin que nadie presenciara su 
+agonía, en altas horas de la noche (1886, p. 145). 
+ 
+Hasta aquí parecería un poco la misma tónica de los 
+repetidores de la baudelairiana que reciclaba los perennes 
+tópicos del maldito. Pero hay un viraje, una diferenciación que 
+me parece interesante en el párrafo siguiente:  
+Así como Byron formó escuela, los imitadores que ha 
+tenido y que han alcanzado celebridad, la han formado 
+asimismo en las regiones más bajas del mundo literario, y, a 
+ejemplo de los poetas mencionados y de otros muchos de 
+ 
+238 
+ 
+vida  disipada y escandalosa que fuera largo enumerar, ha 
+habido incontables poetillas de tercera y cuarta clase que, 
+juzgando alcanzar renombre por medio del vicio, se han 
+dejado arrastrar por sus pasiones, satisfechos con parecerse 
+a Poe sólo en lo ebrios o a Musset únicamente en el 
+desenfrenado erotismo; habiendo no pocos que han 
+juzgado poner la corona a su renombre, saltándose la tapa 
+de los sesos como Larra (pp. 145-146). 
+ 
+Lo que para mí señala este párrafo es la distinción (y sobre 
+todo la posibilidad de distinguir) entre el gran diablo y el pobre 
+diablo; no es lo mismo el maldito de talento que el maldito 
+epigonal, que imita la vida sin alcanzar la obra. Señala también 
+el alba de un segundo momento en que la bohemia pasa de ser 
+una vida imposible o sólo posible en la metrópolis, a 
+convertirse en una sociabilidad que existía de hecho en las 
+ciudades mexicanas.  
+En el número de septiembre de la misma revista, se traduce 
+un artículo del importante crítico Ferdinand Brunetiére, 
+director de La Revue de Deux Mondes, donde éste traza una 
+distinción importante entre Lamartine (durante mucho tiempo 
+el poeta francés mejor recibido en México, por encima de 
+Victor Hugo, incluso) y otros poetas de la pléyade francesa: "Y 
+en efecto, no es su género el de Carlos Baudelaire ni aun el de 
+Alfredo de Vigny, que se dedicaron casi únicamente a traducir 
+lo que creían encontrar en sí mismos más diferente de sus 
+semejantes" (1886, p.91). Esta distinción, entre el poeta que 
+dice de manera incomparable lo común frente a los que 
+privilegian sus singularidades, aunque no producto de la crítica 
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+mexicana, es una huella de lo que formaba el contexto de 
+recepción de la poesía en la época. 
+Estas coordenadas intermitentes de la constelación de 
+Baudelaire en México cristalizan muy a principios de 1892. El 
+primer domingo del año, el del 3 de enero, se publica en el 
+diario El Universal de Rafael Reyes Spíndola lo que, hasta 
+donde sé es la primera aparición en español en la prensa 
+mexicana. Se trata de una traducción del soneto "Le révenant" 
+que, al ser vertido en octasílabos, convierte sus tercetos en 
+cuartetas. Sin embargo, si uno intenta buscarlo usando el 
+HNDM, no lo encontrará. Porque el entonces muy joven José 
+Juan Tablada, quien después tendría un rol crucial en el paso 
+del modernismo a la vanguardia, lo firma con su propio 
+nombre.  
+ 
+Fig. 5 El Universal 3/I/1892. Digitalizado por la HNDM. 
+ 
+ 
+240 
+ 
+Menos de una semana después, el 8 de enero, en El Partido 
+Liberal le cae un palo. "Cortadillo" ––probablemente José 
+Anacleto Castillón (1860-1940), como me ha señalado Luz 
+América Viveros–– publica en su columna el original en 
+francés y hace una crítica muy filosa no sólo del plagio (El 
+Universal lo ha aclarado casi de inmediato) sino de la versión de 
+"Tabladita":  
+ 
+Véase si hay diferencia entre estos dos pensamientos:  
+ 
+1o Quiero yo reinar en tu vida y en tu juventud por el 
+terror, así como otros reinan por medio de la ternura. 
+ 
+2o Por medio del terror, reinaré en tu lánguida 
+hermosura y me darás tu ternura y tu amor será mío. 
+ 
+Baudelaire, como se ve, conténtase con afirmar que 
+reinará por el terror y sin  afirmar que obtendrá así ternura 
+y amor, porque afirmarlo hubiera sido una barbaridad (p.1). 
+ 
+Esto, por supuesto, muestra que al menos en México la 
+traducción de Baudelaire y la reflexión crítica sobre su 
+posibilidad nacen con apenas días de diferencia. Pero también 
+que para la última década del siglo XIX, el robo que planeaba 
+Tablada era imposible pues había gente que tenía el volumen 
+en sus libreros y lo conocía lo suficientemente bien como para 
+detectar el plagio de inmediato.6 Ha terminado su prehistoria. 
+Al mismo tiempo, pero ya de manera inevitable, la 
+traducción de Baudelaire avanza. En 1895 aparece por primera 
+                                                          
+ 
+6 Desde luego no es el único caso en el ámbito hispánico. Al buscar en Archive.com o 
+en books.google tratando de trazar la diseminación de un fragmento magnífico, "j'ai 
+senti passer sus moi le vent de l'aile de l'imbecillité", que aparece en la sección 86 de sus 
+Fusées, me encuentro con la sorpresa de que Pío Baroja la secuestra sin mayor ceremonia 
+es su cuento "El grito del mar": "El ala de la imbecilidad venía a acariciar dulcemente mi 
+espíritu". 
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+vez mencionado en la Revista Azul (Carlos Díaz Dufoo dice 
+que la juventud que lee a Baudelaire también asiste cada año a 
+ver la representación del Don Juan Tenorio de José Zorrilla); 
+en un artículo sobre música de este mismo año se citan algunos 
+versos suyos que se dejan sin traducir. Además, se vierten "La 
+desesperación de la anciana", "Los paraísos artificiales" y "El 
+haschich". En El Comercio de Morelia se publica, en 1895, "Las 
+ventanas", una traducción decorosa de "Les fenêtres", otro de los 
+breves poemas en prosa. 
+Aquí hay que acelerar un poco para llegar a la época en que 
+finalmente se dan las traducciones de Baudelaire que 
+constituyen su cimiento canónico: las debidas a Balbino 
+Dávalos, Atenor Lescano y  a un Tablada que ya no es 
+Tabladita sino un poeta en plenitud de capacidades literarias; a 
+ellos pero, sobre todo, a Enrique González Martínez, quien en 
+Jardines de Francia publicado como volumen en 1915 entrega lo 
+que los prologuistas de su edición más reciente, Luis Vicente 
+de Aguinaga y Ángel Ortuño llaman "poemario de traductor" 
+(7) (y no un florilegio, pues no se trata de ofrecer un panorama 
+crítico, sino personal, acomodado con el criterio del oído).  
+De este mismo libro dice José Emilio Pacheco, a quien 
+dedicaré la última parte de mi ponencia, que se trata del "mejor 
+libro de versiones poéticas que produjo el modernismo y que 
+en gran parte alimentó la segunda Antología francesa de 
+[Enrique] Díez-Canedo, aparecida póstumamente y terminada 
+ 
+242 
+ 
+por su hijo Joaquín7  y por Guillermo de Torre, aunque sin 
+crédito en la edición" (II 343). 
+Con este párrafo quiero enganchar la generación del 
+modernismo, con el lector que la construye críticamente en 
+México. Primero con la Antología que publica en 1971, en el 
+centenario de Amado Nervo, pero incansablemente a lo largo 
+del resto de su carrera. En este momento se vuelve necesario 
+pensar, o al menos comenzar a pensar, lo que significa para los 
+estudios de Baudelaire (y para prácticamente cada aspecto de la 
+literatura mexicana) la selección en tres tomos (con más de 
+2000 páginas en total) del Inventario, el periodismo cultural de 
+Pacheco. Quien es el primer intelectual mexicano en 
+comprender cabalmente la importancia de Walter Benjamin, 
+tanto en la lectura del siglo XIX europeo como una topología 
+en torno al yo móvil de Baudelaire, como para comprender, 
+desde ese replanteamiento radical, el XIX mexicano (que sólo 
+termina con la tormenta de la Revolución). Dice Pacheco en 
+uno de los textos que le dedicó a Benjamin, originalmente 
+publicado en 1990: 
+El Passagenwerk es una indagación sobre los orígenes de la 
+modernidad y sobre  
+todo 
+una 
+crítica 
+del 
+progresoel mito de la omnipotencia humanaque crea 
+su propia predeterminación. Para ello Benjamin reunió 
+como en un bazar lo más  diverso 
+y 
+trazó 
+las 
+interrelaciones entre la tecnología, los afectos de la 
+industrialización en el arte, la conciencia entre la aparición 
+de las masas y la producción en serie, la flor como 
+emblema del pecado, el río Sena, la moda, el tedio, la 
+                                                          
+ 
+7 El mismo Joaquín Díez-Canedo que hizo, en todos los sentidos, una de las editoriales 
+fundamentales de la década de 1960: Joaquín Mortiz. 
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+destrucción y la reconstrucción de París, la publicidad, los 
+cafés, la invención de la adolescencia, el paseante, la 
+Comuna, el coleccionista, los periódicos, los subterráneos, 
+las catacumbas, las novelas de folletín, los ferrocarriles y 
+sus estaciones, las cloacas, las bohemia, Saint Simon, 
+Baudelaire,  Fourier, 
+Marx, 
+Victor 
+Hugo, 
+Zola, 
+la 
+construcción en hierro, los bulevares, los dioramas, el 
+juego, la prostituta, Daumier, la fotografía, las barricadas, la 
+bolsa de valores, las exposiciones mundiales, las sectas, el 
+interior, los fósiles, los fetiches, las ruinas, el calidoscopio. 
+Este caos que refleja el desorden de la ciudad moderna 
+Benjamin intentó ordenarlo como se disponen las 
+mercancías en una tienda de departamentos (II, p. 604). 
+ 
+Es un précis fiel a las obsesiones que trabajaron a Baudelaire, 
+lo que no es extraño cuando la carpeta más poblada de los 
+ficheros de Benjamin sea la J: dedicada íntegramente al escritor 
+de la vida moderna.  
+Pacheco entendió la cultura de la misma manera compleja. 
+Pero lo que para Benjamin fue el París del medio siglo XIX, 
+para Pacheco fue la Ciudad de México justamente de su final y 
+los inicios del XX: los años que he venido trabajando en estas 
+páginas. Y aunque es generoso con Salvador Novo, con 
+Alfonso Reyes, con José Vasconcelos, con Martín Luis 
+Guzmán, no me cabe ninguna duda de que el protagonista de 
+estas páginas, que son su propio "Proyecto de los pasajes", es 
+Ramón López Velarde, su centro: el escritor en quien todas las 
+tempestades de su tiempo convergen para formar el sustrato 
+de una obra insustituible.  
+Pero, centralmente para lo que aquí interesa, hay que señalar 
+cómo es en López Velarde donde la herencia inicial de 
+ 
+244 
+ 
+Baudelaire, en sus metamorfosis mexicanas, adquiere por fin 
+forma propia. En lo mejor de su poesía, en vez de suspirar por 
+una París en la que la Ciudad de México jamás se 
+transformaría, reinventa Jerez, su pequeña ciudad natal de 
+provincia, de manera entrañable e irónica, no en su gloria 
+presente (insisto, esta gloria en el contexto mexicano es 
+ilusoria) sino como ruina. Pacheco lo pone así: “Como después 
+López Velarde, Laforgue medita en la polis desde su última 
+fase: la necrópolis” (II, p. 328). Pacheco especula si López 
+Velarde leyó a ese brillante discípulo de Baudelaire que fue 
+Jules Laforgue, a quien pudo haber conocido en el original o a 
+través de Lugones. Al final es una de esas especulaciones 
+eruditas, en las que no queda excluida la ficción y que marcan 
+una de las zonas de afinidad entre Pacheco y Borges.  
+Lo importante al final no es el hecho de si López Velarde 
+leyó o no a Laforgue, sino que, a semejanza de éste, se acerca a 
+Baudelaire de manera oblicua, interponiendo una distancia 
+productiva. En vez de tratar de salvar la imposible distancia 
+que lo separa de Baudelaire, López Velarde debe su genio a 
+que sabe incorporar temáticamente esta imposibilidad. Escribe 
+en "El rebozo de seda", uno de los poemas más citados de su 
+Sangre devota (1913): 
+ 
+(En abono de mi sinceridad 
+ 
+séame permitido un alegato: 
+ 
+entonces era yo seminarista 
+ 
+sin Baudelaire, sin rima y sin olfato) 
+ 
+Esta distancia inicial, nunca desaparece en la poesía de 
+López Velarde; habrá leído a Baudelaire con pasión, pero en su 
+José Ramón Ruisánchez. (Pobre) Baudelaire en México 
+ 
+ 
+N° 8. Primer Semestre de 2018 
+flannerie siempre carga con los paseos de la placita pueblerina y 
+su "edén subvertido" y eso es lo que permite una lectura 
+singular de Baudelaire, la posibilidad de partir precisamente de 
+una recepción originalísima y compleja, que modifica al 
+modelo. 
+ 
+ 
+ 
+Referencias Bibliográficas 
+Aggeler, W. F. (1971). Baudelaire Judged by Spanish Critics, 
+1857-1957. Athens, Georgia: U. of Georgia P. 
+Cortadillo. "Peor está que estaba". El Partido Liberal (8/I/1892) 
+http://www.hndm.unam.mx/consulta/resultados/visualizar/
+558a334b7d1ed64f1693450f?resultado=1&tipo=pagina&intP
+agina=1&palabras=Cortadillo 
+Borsò, V. (2007). "Charles Baudelaire et la modernité en 
+Amérique Latine" en WalterBruno Berg y Lisa Block de 
+Behar. France-Amérique Latine: croisements de  lettres 
+et 
+de voies. París: L'Harmattan, pp. 55-80. 
+Brunetière, F. (1886). "La poesía de Lamartine". La República 
+Literaria 
+(IX-1886), 
+pp.89-96. 
+[http://www.hndm.unam.mx/consulta/resultados/visualizar
+/558a32d67d1ed64f168bbbdc?resultado=267&tipo=pagina&i
+ntPagina=90] 
+González Martínez, E. (2014). Jardines de Francia. Prol. Luis 
+Vicente de Aguinaga y Ángel Ortuño. México: UNAM, 2014. 
+López Portillo y Rojas, J. (1886). "Los poetas". La República 
+literaria 
+(III-1886) 
+pp. 
+129-149. 
+[http://www.hndm.unam.mx/consulta/resultados/visualizar
+ 
+246 
+ 
+/558a32d57d1ed64f16
+ 
+8ba6ed?resultado=74&tipo=pagina&intPagina=132] 
+López 
+Velarde, 
+R. 
+La 
+sangre 
+devota. 
+[http://www.cervantesvirtual.com/portales/ramon_lopez_ve
+larde/obra-visor/la- 
+sangre-devota--0/html/000689a8-
+5037-4ef7-8e47-3f0d8577166c_1.html#I_2_] 
+Pacheco, J. E. (2016). Inventario: antología. 3 tomos. Ed. 
+Eduardo Antonio Parra et al.México: ERA, 2016.  
+Ruisánchez Serra, J. R. (2018). "El ethos modernista". Belem 
+Clark de Lara and Ana Laura Zavala (eds.). Literatura 
+mexicana siglo XIX II. México: UNAM, en  prensa. 
+Sterne, L. The Life and Opinion of Tristram Shandy, Gentleman 
+[https://en.wikisource.org/wiki/Tristram_Shandy] 
+Weber, J. (2014). "Jetter sa langue aux chiens: Collective 
+Memory in Baudelaire´s `Les Bons Chiens`". Yale French 
+Studies.  
+ 

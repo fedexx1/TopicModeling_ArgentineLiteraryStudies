@@ -1,0 +1,717 @@
+55
+Esta obra está bajo una Licencia Creative Commons Atribución - No Comercial -
+Sin Obra Derivada 4.0 Internacional. http://creativecommons.org/licenses/by-nc-nd/4.0/
+Lidgett, Esteban. “La propiedad de la lengua: norma y uso en la obra de Ricardo 
+Monner Sans”. Anclajes, vol. XXII, n° 1, enero-abril 2018, pp. 55-71.
+DOI: 10.19137/anclajes-2018-2214
+La propiedad de la 
+lengua: norma y uso 
+en la obra de Ricardo 
+Monner Sans
+The Property of Language: Norm and Usage in the work of 
+Ricardo Monner Sans
+Esteban Lidgett
+Universidad de Buenos Aires
+Consejo Nacional de Investigaciones Científicas y Técnicas
+elidgett@filo.uba.ar
+Resumen: La cuestión de la pureza de la lengua ha sido un tópico largamente abordado 
+en el estudio de los debates ideológico-lingüísticos de la hispanofonía. En este trabajo 
+proponemos un análisis de las distintas conceptualizaciones que sobre la corrección 
+lingüística se observan en la obra de Ricardo Monner Sans, a los efectos de dilucidar 
+los vínculos entre su teoría lingüística-gramatical y su posición política sobre la lengua. 
+Postulamos, en ese sentido, que estas conceptualizaciones son tributarias de una consi-
+deración más general sobre el uso y la pureza de la lengua que pretende una intervención 
+normativa sobre las prácticas lingüísticas de la sociedad, sustentada en el saber filológico. 
+De esta forma, la dimensión del uso se ve dividida entre un uso corriente que corresponde 
+al uso generalizado de la comunidad y un buen uso, que es el que ha sido legislado por el 
+saber filológico y que se constituye, por este motivo, en el criterio de corrección sobre el 
+que se sustenta el ideal de la comunidad lingüística homogénea. 
+Palabras clave: Ricardo Monner Sans; Historiografía Lingüística; Debates ideológico-
+lingüísticos; Siglo XIX y comienzos del XX; Argentina
+Abstract: The question of purity in language has been a common topic in the fields of 
+language ideological debates in the Spanish-speaking world. In this paper, we propose 
+an analysis of the various conceptualizations on linguistic correctness in the work of 
+Ricardo Monner Sans in order to elucidate the links between his linguistic theory and 
+his position on language policy. In that sense, we assume that these conceptualizations 
+should be analyzed as a consequence of a more general consideration about linguistic 
+usage and purity. This consideration seeks a regulatory intervention on the linguistic 
+practices of society based on philological knowledge. Thus, the dimension of usage is di-
+vided into a common usage which corresponds to the widespread use in community, and 
+56
+Esteban Lidgett | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+Monner Sans en los debates
+ideológico-lingüísticos en la Argentina
+L
+os debates que se suscitaron en torno a los distintos proyectos de 
+regulación lingüística en la Argentina hacia fines del siglo XIX y 
+principios del XX implicaron diversas consideraciones acerca del 
+pasado histórico de la nación. La revalorización del pasado colonial que acom-
+pañó al hispanismo dominante en ciertos sectores de la clase dirigente argentina, 
+desde algunos años antes de comenzar el siglo XX, tuvo su propia manifestación 
+en el ámbito de los debates ideológico-lingüísticos, donde el ideal de reimplantar 
+la uniformidad del idioma en el mundo hispánico, según la norma culta penin-
+sular, supo encontrar sus seguidores entre una importante porción de la intelec-
+tualidad local (Del Valle y Gabriel-Stheeman). Diversos factores confluyeron en 
+este hecho y, entre ellos, no es menor la influencia de un sistema educativo uni-
+ficado al amparo de la Ley Nacional de Educación y nutrido por una importante 
+inmigración de docentes y funcionarios educativos españoles que arribaron a la 
+Argentina hacia los años 80 del siglo XIX (Biagini). 
+En efecto, entre 1874 y 1890 fue notorio el incremento de este proceso inmi-
+gratorio particular, así como la velocidad con la que estos ciudadanos españoles 
+lograron consolidar su lugar en instituciones públicas y privadas de enseñanza, en 
+dependencias ministeriales y en la prensa (Moya). Desde esos ámbitos de creciente 
+importancia por su amplia repercusión a nivel masivo, estos intelectuales (docentes 
+o funcionarios) lograron consolidar, con la colaboración de un importante sector 
+de la clase dirigente que se mostró altamente receptivo ante el hispanismo, un mo-
+delo de enseñanza del idioma centrado en la estandarización de la gramática según 
+la norma culta peninsular (Fontanella de Weinberg). En este contexto, la figura de 
+Ricardo Monner Sans destaca particularmente por el grado de popularidad que 
+alcanzó en las escuelas su obra gramatical1, por su colaboración institucional en la 
+elaboración de planes de estudio y, sobre todo, por su intensa participación, a par-
+tir de una vasta obra periodística y de divulgación, en lo que una parte de la crítica 
+ha denominado “la querella de la lengua en la Argentina” (Alfón).
+1	
+Hecho que queda demostrado por la cantidad de ediciones que se registran de esta Gramática 
+Castellana, que fue sucesivamente adaptada a los distintos programas hasta 1926, año en que se 
+publica la decimoctava y última edición de la obra (Monner Sans 1926). 
+correct usage, that which has been legislated by philological knowledge and which is, for 
+this reason, the criteria for linguistic correction on which the ideal of a homogeneous 
+linguistic community is based.
+Keywords: Ricardo Monner Sans; Linguistics historiography; Language-ideological deba-
+tes; 19th and early 20th century; Argentine
+57
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La propiedad de la lengua: norma y uso en la obra de Ricardo Monner Sans: 55-71
+Diversos trabajos han abordado tangencialmente la obra de Monner Sans. 
+Su coetáneo, Arturo Costa Álvarez, se refiere a él como el “campeón del caste-
+llano en la Argentina” y lo ubica en una tercera posición en “la contienda entre 
+criollistas y casticistas” que suscitara la publicación del libro de Abeille (1900) 
+(Costa Álvarez 63). En trabajos más recientes, la figura de Monner Sans ha sido 
+reiteradamente mencionada como ejemplo del nacionalismo de vertiente hispa-
+nizante y conservadora que caracterizó a una porción de la generación del 80 y 
+que se extendió durante las primeras décadas del siglo XX (Blanco 1991, Bertoni 
+2001, Di Tullio 2004, Sardi 2006, Alfón 2011). Por su parte, Ennis (2008) ha 
+analizado la posición de este autor en el campo intelectual de la Argentina del 
+900 en relación con la categoría de philologos, es decir, de aquellos que detentan 
+en una comunidad hablante cierta legitimidad para constituirse en “profesiona-
+les de la lengua”, para enunciar discursos sobre ella e, incluso, para intervenir 
+en “la construcción de una realidad lingüística” (2008: 66). Finalmente, otra 
+serie de estudios han abordado su labor gramatical y pedagógica (Lidgett 2011 y 
+2015) o su obra lexicográfica (Lauria 2010 y 2011).
+No obstante estos antecedentes, la serie de textos en los que Monner Sans 
+desarrolla su postura acerca de lengua en la Argentina no ha sido abordada aún 
+en su conjunto. En ese sentido, proponemos en este artículo un examen de un 
+corpus compuesto por aquellos trabajos en los que el autor articula su posicio-
+namiento respecto de la cuestión de la lengua nacional. Como ha sintetizado 
+Toscano y García (7), las distintas polémicas en torno al idioma nacional en este 
+país se desarrollan, a grandes rasgos, en dos dimensiones interrelacionadas: “en 
+primer lugar se intenta determinar cuáles son los rasgos propios (es decir, no 
+presentes en el español peninsular) de la variedad argentina del español”, lo que 
+supone una tarea de registro de fenómenos fonéticos, léxicos y morfosintácticos; 
+“en segundo lugar, se discute respecto de la legitimidad de esas variantes […] que 
+se detectan”, es decir, si se las considera como fenómenos propios del desarrollo 
+de lengua en la región y, por lo tanto, como expresiones de una identidad na-
+cional; o, por el contrario, como desvíos o incorrecciones que atentan contra el 
+ideal de unidad de los pueblos hispanoamericanos.
+La participación de Monner Sans en estos debates abarca ambas dimensiones y 
+su posicionamiento, según pretendemos demostrar aquí, se sostiene en un discurso 
+sobre la lengua cuyas inflexiones, de manera más acotada, fuimos señalando en 
+trabajos previos sobre su gramática y sus textos sobre la enseñanza del idioma (Lid-
+gett 2011, 2015). En concreto, consideramos que este discurso se sustenta en una 
+jerarquización de la lengua que opera en una doble dirección. La vertiente política 
+de este discurso supone el reconocimiento de que el monolingüismo y la codifi-
+cación lingüística uniforme son valores sociales y políticos indiscutidos. Como 
+corolario de esto, se sigue que existe una lengua de “calidad” cuya codificación 
+gramatical la deposita en un lugar privilegiado respecto de las distintas variedades 
+que solo constituyen desviaciones anárquicas que atentan contra su integridad. La 
+otra vertiente, que podríamos denominar lingüística, apela al argumento de legiti-
+58
+Esteban Lidgett | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+midad para establecer la propiedad de la lengua, lo que conduce a considerarla una 
+herencia ancestral que refleja la identidad hispana y cuya estructura responde a un 
+ordenamiento milenario que no puede ser modificado por el uso cotidiano. 
+A los efectos de analizar las inflexiones de este discurso sobre la lengua, he-
+mos seleccionado entre el vasto corpus que conforma la obra de Monner Sans 
+publicada en la Argentina entre 1889 –cuando llega al país– y 1927 –año de su 
+fallecimiento–, una serie de textos que a nuestro entender permite reconstruir un 
+posicionamiento específico en torno a la cuestión de la lengua. El primero de los 
+textos que componen nuestro corpus es “El lenguaje gauchesco”, publicado en 
+1894 como epílogo de una obra lexicográfica titulada Con motivo del verbo desves-
+tirse. El segundo texto es Notas al castellano en la Argentina (1903), obra publicada 
+en el contexto de la polémica que se desata tras la aparición del libro de Abeille El 
+idioma de los argentinos (Alfón). En ambos casos analizaremos el desarrollo de lo 
+que hemos considerado la vertiente política de su posición sobre la lengua. 
+En los textos restantes que constituyen nuestro corpus (“El neologismo” 
+(1906), “El idioma y la patria” (1910), “El castellano en la Argentina” (1817) y 
+“La gramática rediviva y el nuevo Diccionario” (1926)), analizaremos la com-
+plementación de esa posición política sobre la lengua con una vertiente más 
+propiamente lingüística que apunta esencialmente, como decíamos, a depositar 
+en el saber filológico la legitimidad de la corrección en el lenguaje2.
+La confraternidad hispanoamericana: 
+una justificación del purismo lingüístico
+Nacido en Barcelona en 1853, Monner Sans llega a la Argentina en 1889, 
+luego de desempeñar una extensa y precoz carrera como diplomático en su país 
+natal, tras haber sido designado cónsul general del Reino de Hawái ante España. 
+Una vez arribado a Buenos Aires, inicia su carrera docente en el colegio Lacor-
+daire al tiempo que se desempeña como publicista en el diario La Nación. Entre 
+1892 y 1893, año en que se publica la primera edición de su gramática, dicta 
+clases de castellano en el Colegio Nacional de Buenos Aires, donde retomará 
+sus actividades docentes en 1903 tras un breve pasaje por otros establecimientos 
+educativos. Allí permanecerá hasta marzo de 1922, cuando finalmente se retira 
+de la docencia. Además de su carrera docente, Monner Sans tuvo un activo 
+desempeño como orador, periodista y escritor: entre 1889 y 1927 publica más 
+de un centenar de títulos considerando libros y folletos, entre los cuales hay que 
+contar, además de su Gramática, una serie de trabajos en los que discute sobre el 
+problema de la lengua nacional. 
+2	
+En adelante nos referiremos a las obras de Monner Sans que integran nuestro corpus con la 
+siguiente nomenclatura: ELG (“El lenguaje gauchesco”), NCA (Notas al castellano en la Argen-
+tina), EN (“El neologismo”), IP (“El idioma y la patria”), CA (“El castellano en la Argentina”) y 
+GRND (“La gramática rediviva y el nuevo Diccionario”). 
+59
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La propiedad de la lengua: norma y uso en la obra de Ricardo Monner Sans: 55-71
+El primer trabajo de esta serie textual que analizamos se publica en 1894 con 
+el título “El lenguaje gauchesco”. En este caso, el autor parte de una distinción 
+fundamental entre dos tipos de lengua: “la lengua que se habla aquí”, es decir, 
+esa lengua de Buenos Aires, que considera corrompida por la influencia extran-
+jera, y el “lenguaje gauchesco”, una suerte de dialecto folklórico idealizado que 
+encuentra en la literatura:
+permitidme […] que penetre en el amplio sendero de la literatura, mejor di-
+cho del lenguaje, no del lenguaje que se habla aquí, mezcla de castellano y de 
+francés, de arcaísmo y de voces extranjeras, sino del lenguaje del campo, de 
+ese hermoso lenguaje gauchesco, que tiene todas las delicadezas de corazones 
+tiernos, todos los colores chispeantes de vuestro sol y de vuestras flores, todas 
+las onomatopeyas de esta naturaleza virgen y todas las brillanteces de vuestra 
+rica fantasía y exuberante imaginación (ELG 214). 
+Esta oposición entre lo autóctono y lo extranjero a la que Monner Sans apela 
+para desacreditar el habla de la ciudad no implica, sin embargo, la aceptación de 
+una identidad nacional que se distinga de lo español. En efecto, el autor ve en 
+el lenguaje gauchesco un vínculo notable entre la cultura popular argentina y la 
+de la Península. Este vínculo lo conduce a admitir la hipótesis de que el lenguaje 
+gauchesco posee una genealogía que lo identifica con el andaluz tanto en sus 
+formas lingüísticas como en su “genio” particular. La justificación de esta teoría 
+la aportan numerosas citas en las que se comparan los giros propios de la litera-
+tura folklórica andaluza (en particular menciona a Francisco Rodríguez Marín, 
+Mariano Soriano Fuertes y Tomás Rodríguez Rubí) con los de la literatura gau-
+chesca producida en la Argentina (Estanislao del Campo, Bartolomé Hidalgo e 
+Hilario Ascasubi). Al referirse a la configuración de este lenguaje, no obstante, 
+Monner Sans no considera una diferencia entre el uso oral y el uso literario, 
+lo que le permite generalizar las conclusiones extraídas de su trabajo filológico 
+hacia el habla popular. 
+Esta conceptualización idealizada de la genealogía del gaucho, de su len-
+gua y de las tradiciones patrias parte de la asunción de que, incluso hurgando 
+en el aspecto más atávico de la cultura local, existe un continuidad entre el 
+mundo hispánico y el americano: “estudiemos, pues, con cariño, el lenguaje 
+popular, busquemos empeñosamente el origen de sus cantos, de sus prover-
+bios, de sus cuentos y de sus leyendas, para hacer resaltar cuán hermosa es 
+la savia europea mezclada con la savia indiana” (ELG 237). De esta forma, 
+el mismo lenguaje gauchesco que podía ser considerado una expresión de la 
+lengua nacional por el criollismo, es concebido por Monner Sans como una 
+continuidad del habla popular andaluza3, como un lenguaje heredado tam-
+3	
+Entre los fenómenos lingüísticos comunes, el autor señala la supresión de “la d en los substanti-
+vos, adjetivos y participios pasivos terminados en do” (1980: 216), “el cambio de la h por la j, el 
+de la e por la i y el de la v por la g” (1980: 218) y “el cambio de la ll por la y”, al que considera un 
+vicio “disculpable en la gente no leída”, pero “intolerable en las personas cultas” (1980: 236).
+60
+Esteban Lidgett | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+bién de la Península. No obstante, a diferencia de lo que postularían otros 
+casticistas como Ernesto Quesada, quienes se apoyaban en el argumento del 
+origen andaluz para desacreditar el lenguaje gauchesco como una impostura 
+jergal nada criolla (Alfón), Monner Sans reivindica la procedencia común 
+como rasgo de continuidad cultural y promueve el estudio de este “lenguaje 
+del campo”. 
+Sin embargo, si el lenguaje idealizado del gaucho se presenta como un acervo 
+de voces originales que deben ser registradas, el habla de la ciudad porteña apare-
+ce amenazada por la figura del extranjero, esa alteridad cuya negación constituye 
+el rasgo más característico de lo que Viñas (16) denominó “la crisis de la ciudad 
+señorial”. Esta conceptualización de la amenaza extranjera sobre la lengua apare-
+ce con precisión en el segundo trabajo de nuestra serie textual, Notas al castellano 
+en la Argentina, cuya publicación en 1903 gozará de una amplia repercusión, 
+pues saldrá a la luz en el contexto del debate impulsado por la publicación del 
+libro de Lucien Abeille, Idioma nacional de los argentinos (1900).
+Según el autor manifiesta en escritos posteriores (LBL 1914: 80), Notas al 
+castellano en la Argentina es el resultado de la materialización de una serie de 
+notas “etnográfico-científicas” que tomó durante varios años acerca de los voca-
+blos propios del habla local. El libro consiste en un inventario de algunas voces 
+nuevas y otras “mal usadas” que Monner Sans propone deslindar para que las 
+primeras sean incluidas en el Diccionario de la Academia y las segundas censura-
+das como vicios que deben corregirse. Los dos prólogos con los que cuenta (uno 
+más extenso escrito por Estanislao Zeballos y otro escrito por el autor) se encar-
+gan de otorgarle un marco de referencia a la obra: un contexto social y cultural 
+en el que el idioma estaría sufriendo un peligro de fragmentación producto de 
+las incorrecciones en el uso: 
+El idioma con que trovaron nuestros poetas del siglo de oro, aquel con que 
+avasallaron intelectualmente a Europa prosistas de la valentía de Cervantes y de 
+Quevedo, mostrándose va, por desgracia, enteco y enfermizo en peninsulares y 
+americanos; pues unos y otros padecen en demasía apreturas de hiedra exótica 
+que amenazan interrumpir la circulación de aquella fecundante savia que vida 
+diera al tronco, no por secular amortecido, del habla hispana (NCA 41).
+Del mismo modo que en “El lenguaje gauchesco”, Monner Sans observa 
+aquí que la amenaza fundamental para la lengua castellana en la Argentina es la 
+de los barbarismos y neologismos que, de la mano de una parte de la “inteligen-
+cia nacional”, han encontrado lugar en las páginas de los libros y los periódicos. 
+En ese sentido, la publicación del libro de Abeille aparece como uno de los mo-
+tivos fundamentales por los que Monner Sans, desde su modesto lugar de “mero 
+aficionado a los estudios gramaticales y filológicos”, decide instalarse en el lugar 
+del “flagelador de nuestros vicios lingüísticos”, ante la notable ausencia de una 
+institución reguladora local: 
+61
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La propiedad de la lengua: norma y uso en la obra de Ricardo Monner Sans: 55-71
+Hasta hace poco, y sólo obedeciendo a un exceso de amor patrio, el nativo 
+idioma recibía el nombre de idioma nacional, y hubo quien, con disolvente 
+voluntad, pretendió la formación de un idioma argentino, sin duda para 
+aislar a esta República del resto de Hispano-América o ir preparando un 
+cambio problemático y lejano que, comenzando por la sintaxis y siguiendo 
+luego por el vocablo, reemplace el sin rival romance por la sintética lengua 
+de Corneille (NCA 43). 
+La existencia de un idioma nacional distinto del heredado por España cons-
+tituye para el autor una voluntad “disolvente”, que atenta contra la unidad his-
+panoamericana que tanto se había esforzado por cultivar en sus trabajos previos. 
+Pero, además de quienes sostienen desde la filología esta posición secesionista, 
+existe para el autor un problema todavía más grave: la corrupción del lenguaje 
+que trasciende el ámbito del vulgo y se instala en todas las esferas sociales. En 
+ese sentido, y en misma línea de lo que había propuesto en sus trabajos ante-
+riores, para Monner Sans “el vulgo, más que neólogo es arcaico”, mientras que 
+“el neologismo vituperable, el que recibe el nombre de barbarismo, hijo es de 
+los escritores adocenados, de aquellos que no habiendo hecho acopio de voces 
+castizas inventan las nuevas para encubrir con tal atrevimiento la ignorancia que 
+no se avienen a confesar” (NCA 46). 
+El barbarismo para Monner Sans “no consiste sólo en escribir y pronunciar 
+mal las palabras, sino en dar a las castellanas un significado que no tienen, o em-
+plear vocablos de otros idiomas, reemplazando con ellos los genuinamente espa-
+ñoles”. En la Argentina, observa el autor, se barbariza más que en cualquier parte 
+de América y “fue el vicio en aumento porque a su propagación han contribuido 
+las causas siguientes: la inmigración; la incesante lectura de obras francesas; los 
+malos traductores; y una mal entendida independencia de la autoridad académi-
+ca” (NCA 47). En ese sentido, la cuestión de lo extranjero aparece como un pro-
+blema central para la unidad idiomática y cultural que Monner Sans propugna. 
+La idea de una comunidad lingüística homogénea y monoglósica que el autor 
+defiende como expresión de una unidad panhispánica conlleva necesariamente 
+la estigmatización del inmigrante, que aparece como factor de disolución. 
+En este contexto de corrupción lingüística, no obstante, el autor observa, 
+siguiendo a Andrés Bello (1847), que no es recomendable asumir un purismo 
+extremo en lo referente a cuestiones de lenguaje, porque no se puede abjurar del 
+neologismo sin impedir la natural evolución a la que estaría sometida la lengua: 
+Está el vocablo sujeto a la eterna ley que rige todo lo creado: nace, crece, se 
+reproduce y muere. […] Abominar en absoluto del neologismo equivale a 
+condenar las lenguas a perpetuo estancamiento, y éste no es por fortuna, ni 
+fue en ningún tiempo, el ideal de la Humanidad.
+[…] Son los extremos, viciosos; el purismo refinado, aquel que pone trabas 
+a la libre y espontánea manifestación del pensamiento, digno es de repul-
+62
+Esteban Lidgett | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+sa, como merecedor de censura es quien por ignorancia del propio idioma, 
+afeando va sus escritos con ridículos neologismos (NCA 44-45).
+De esta forma, Monner Sans busca aquí articular una opción intermedia al 
+pretender distanciarse por un lado del purismo extremo, que sería contrario a la 
+evolución del lenguaje, y por el otro, de la situación anárquica, que implicaría la 
+carencia de cualquier regulación lingüística. Esta cuestión será abordada en deta-
+lle en “El neologismo” (1906), artículo que constituye un punto de inflexión en 
+la serie que venimos analizando, puesto que en él se exponen, como veremos, los 
+argumentos indispensables para comprender la compleja relación entre norma 
+y uso, en virtud de la cual sostenemos que puede leerse la posición de Monner 
+Sans como una estrategia de intervención en los debates sobre la lengua. 
+La propiedad en (y de) la lengua: 
+hacia un criterio de corrección lingüística 
+En el tercer trabajo de nuestra serie textual, “El neologismo” (1906), el autor 
+comienza por señalar “el derroche de neologismos” que impera en la Argentina y 
+el problema que ello supone para la comunidad de hablistas y profesores de idioma 
+que no poseen criterios de corrección para decidir la aceptación o no de los nuevos 
+usos. En efecto, Monner Sans señala que la misma Academia española no se había 
+expresado con claridad con referencia a este tema, pues no había establecido hasta 
+entonces, en la definición de “neologismo”, criterios claros para su incorporación. 
+Dicha carencia, sostiene el autor, puede justificarse por la existencia de dos bandos 
+enfrentados en lo que respecta a la cuestión del progreso de las lenguas: por un 
+lado, el de los puristas extremos, como el poeta español Luis Muñoz Rivera o el 
+académico Miguel Mir y Noguera, quienes consideran que el neologismo es un 
+vicio o barbarismo; y por el otro, el de quienes sostienen, como Miguel de Una-
+muno o Ricardo Palma, que en materia de lenguaje el pueblo es el único soberano. 
+Monner Sans rechaza rápidamente la posición extrema, como lo había hecho en su 
+prólogo a las Notas al castellano en la Argentina, argumentando que: “ni el arcaísmo 
+ni el neologismo (sic) son manifestaciones dependientes de la voluntad humana, 
+sino simples fenómenos orgánicos de toda lengua viva” (EN 10-11). 
+Sin embargo, la mayor parte de su trabajo estará dedicada a justificar, en con-
+traposición a la segunda postura, por qué el uso no puede ser criterio para el es-
+tablecimiento de la norma lingüística. En ese sentido, Monner Sans opone a la 
+máxima horaciana según la cual “el uso es supremo juez en materia de lenguaje”4, 
+la idea de Quintiliano5 de que el uso es el consentimiento de los hombres doctos:
+4	
+“Multa renascentur quae iam cecidere, cadentque quae nunc sunt in honore ocabula, si uolet 
+usus, quem penes arbitrium est et ius et norma loquendi” (Hor. Ars. Poet. V. 70).
+5	
+“Nam ut transeam quem ad modum vulgo imperiti loquantur, tota saepe theatra et omnem circi 
+turbam exclamasse barbare scimus. Ergo consuetudinem sermonis vocabo consensum erudito-
+rum, sicut vivendi consensum bonorum” (Quin. Inst Or. I.6.45).
+63
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La propiedad de la lengua: norma y uso en la obra de Ricardo Monner Sans: 55-71
+¿Qué es la autoridad en el lenguaje sino la consagración del buen uso? ¿O se 
+creerá acaso que al uso, venga de donde viniere, sea bueno ó malo, hay que 
+abrirle de par en par las puertas de la heredada hacienda, para que aquí corte, 
+allá raje, más allá tale, y haga riza con el riquísimo patrimonio legado por 
+cien generaciones? 
+El uso, ya lo dijo Quintiliano, es el consentimiento de los hombres doctos; de 
+suerte que las voces no se legitiman porque muchos las empleen; necesitan la 
+aprobación de los buenos escritores (EN 11).
+En este aspecto, el argumento de Monner Sans se remonta también a la for-
+mulación de Bello que hace referencia al criterio de corrección en conformidad 
+con el uso de la “gente educada”. De esta forma, la idea de uso pasa a ser un as-
+pecto central a la hora de definir la propiedad de la lengua. Como ha sostenido 
+Ennis, siguiendo a Jan Blommaert, la noción de propiedad en relación con el 
+lenguaje abarca una doble dimensión interrelacionada: por un lado implica co-
+rrección, elegancia o “bien decir”, lo que constituiría el uso de la “gente educada” 
+según Bello o de los “hombres doctos” de acuerdo con Quintiliano; por otro 
+lado, refiere a la posesión, es decir, a la autoridad a partir de la cual se pretende 
+definir quiénes tienen la capacidad de legislar en materia de lenguaje. En este 
+sentido, Monner Sans traza claramente los límites de la propiedad en el segundo 
+de los sentidos (autoridad/posesión) para establecer los parámetros definitorios 
+de la corrección lingüística: 
+Hay dos usos: uno que crea y perfecciona la lengua; otro que la corrompe y 
+desnaturaliza. 
+[…] Es uso el ejercicio ó práctica general de una cosa, pero así como hay 
+usos buenos y malos, así en materia de lenguaje aún cuando un vocablo ó 
+una frase estén en uso en región más o menos dilatada, de aquí no se infiere 
+que deba dárseles carta de ciudadanía en un idioma, si el vocablo o la frase 
+pugnan con su morfología, su fonética o su sintaxis especiales. Cierto es que 
+las más de las veces el pintoresco lenguaje del pueblo suele inventar vocablos 
+y modos de decir que no se ocurrieron á los sabios; pero para que unos y otros 
+tomen sitio en el léxico común, menester es que vengan apadrinados por los 
+doctos, escritores, oradores, poetas, filólogos (EN 11-12).
+Son estos hombres doctos quienes pueden determinar si un vocablo nuevo 
+responde a una nueva necesidad del lenguaje o si, en cambio, es un mero barba-
+rismo resultante del desconocimiento de la lengua nativa. En otras palabras, es 
+el “buen uso”, el de los hombres doctos, el que da “carta de ciudadanía” a la pa-
+labra en una lengua; esta metáfora que equipara el neologismo con el inmigrante 
+no parece casual si se considera el contexto social vigente en los años en que se 
+publica el artículo, contexto signado por la cuestión inmigratoria y, particular-
+mente, por la reciente aprobación de la ley de residencia (1902). 
+64
+Esteban Lidgett | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+La referencia oblicua a la cuestión legal no se reduce a esta metáfora de la ciu-
+dadanía. Monner Sans también compara la organización jurídica de una nación 
+con el establecimiento de la autoridad en materia lingüística:
+el pueblo en su vida social y política demuestra en no pocas ocasiones que 
+siente la necesidad de determinada ley, pero las leyes las estudian, las redactan 
+y las promulgan los legisladores, y sólo son válidas cuando aparecen con tal 
+sanción. De igual suerte se procede en asuntos de lenguaje (EN 12).
+La codificación legal de un pueblo, sostiene Monner Sans, requiere la 
+intervención del legislador experto así como, paralelamente, la codificación 
+lingüística requiere la participación del “saber especializado” (NCA 57), un 
+saber que es el único fundamento legítimo en el que se sustenta la propie-
+dad/autoridad para definir la propiedad/corrección. De esta forma, no es la 
+autoridad política la que puede legislar en materia de lenguaje, sino el saber 
+filológico. Por ello en Notas al castellano en la Argentina Monner Sans se 
+puede arrogar el derecho de censurar el uso del voseo que, como él mismo se 
+encarga de señalar, el propio presidente de la nación solía utilizar como forma 
+habitual de comunicación oral6. 
+Finalmente, tras exponer esta distinción fundamental entre el uso que 
+“crea y perfecciona” y el que “corrompe y desnaturaliza” y establecer el sa-
+ber filológico como criterio de propiedad, Monner Sans apela a su segunda 
+estrategia argumentativa: presentar la codificación de la lengua como único 
+camino para evitar la desintegración del español y, por extensión, de la co-
+munidad panhispánica. En una digresión al comienzo del artículo, el autor 
+confronta con una idea que propone Baldomero Rivodó en su obra Voces 
+nuevas en la lengua castellana (1889) acerca de la decadencia del castellano. 
+Para Monner Sans la decadencia del idioma no se explica porque “los es-
+pañoles e hispano-americanos no hayan sabido cultivarlo”, como sostiene 
+el venezolano Rivodó. Son cuestiones de índole histórica y política las que 
+explican este fenómeno:
+El castellano, como todo idioma, perdió su importancia en el mercado inte-
+lectual de Europa, el día en que España dejó de dictar leyes al mundo. Ley 
+histórica es que el brillo de las letras camine a la par del brillo de las armas: 
+cuando un pueblo vence o domina a los demás, aun sin querer, impone su 
+lengua, y si no su lengua, el influjo de sus artistas y literatos (EN 6-7).
+6	
+En Notas al castellano en la Argentina (1903: 366-368) el autor dedica una entrada al pronombre 
+Vos. Luego de transcribir una serie de opiniones de filólogos americanos que censuraron el uso de 
+este pronombre en lugar de tú (Bello, Cuervo, Rivodó, Seijas), Monner Sans señala que “lo único 
+que me permitiré hacer notar a mis colegas de profesorado en especial, y a cuantos hojeen este 
+librito, es que si vos es sujeto de la oración, el verbo va en plural, pero los adjetivos y substantivos 
+que con él conciertan quedan en singular. Por ejemplo: Vos, Señora, sois la esperanza”. 
+65
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La propiedad de la lengua: norma y uso en la obra de Ricardo Monner Sans: 55-71
+Este argumento que, como el mismo autor señala, tiene resonancias de 
+Nebrija7, resulta tanto más interesante cuanto que permite observar, en co-
+nexión con la idea de propiedad que expusimos, el vínculo que Monner Sans 
+encuentra entre la comunidad panhispánica proyectada y el esplendor colonial 
+de la España imperial. Si la historia había relegado a España a una posición de 
+debilidad militar frente al mundo –sobre todo a partir de la crisis del 98–, el 
+ideal de la cultura panhispánica que se sustentara en una codificación lingüís-
+tica monoglósica podría devolverle algo de aquel esplendor perdido. Ahora 
+bien, para lograr esa codificación, el uso del pueblo no puede constituirse en 
+propietario del lenguaje; “¿cuál es el pueblo que puede erigirse como soberano 
+del lenguaje?”, se pregunta Monner Sans: “¿El castellano viejo? ¿El mejicano? 
+¿El andaluz? ¿El chileno?” (EN 8). El autor advierte que la soberanía popular 
+con respecto al lenguaje es inconsistente con la idea de una lengua unificada, 
+tratando de demostrar que si el pueblo es soberano con respecto a sus usos, el 
+primer problema que hay que afrontar es la diferencia evidente entre los usos 
+en las distintas poblaciones que hablan la lengua española. De ese modo, el 
+ideal de integración de la comunidad hispánica, entendida a partir de la reafir-
+mación de una cultura homogéneamente monoglósica, solo podría concretarse 
+en colaboración con el saber filológico, propietario indiscutido de la lengua 
+panhispánica.
+En “El idioma y la patria” (1910) el autor retoma esta formulación del pro-
+blema de la lengua que opone a la fragmentación del vulgo la uniformidad de la 
+lengua culta, propiedad de los “hombres doctos”. En este artículo de 1910, año 
+del Centenario de la Revolución de la Mayo, en la misma línea que según vimos 
+desarrolla en su libro de 1894, Monner Sans propone una conceptualización de 
+la patria como expresión de una hermandad cultural con España:
+La patria es […] la comunidad de usos, de costumbres, de leyes, de creencias 
+y aun de supersticiones, y de idioma, sí, de idioma ya que por él y a despecho 
+de humanitarios cosmopolitismos, siempre nos sentiremos más ligados con 
+peruanos, chilenos, mejicanos y españoles que con los que hablen forasteras 
+lenguas (IP 192). 
+De esta forma, en una formulación propia del nacionalismo genealógico que 
+caracteriza el discurso del hispanismo del Centenario (Vázquez Villanueva), la 
+patria es caracterizada como una proyección de valores hispánicos heredados de 
+un pasado común y cuyo elemento más visible es la lengua. No obstante, en este 
+caso, no es la lengua popular, sino la lengua culta la que se proyecta como valor 
+7	
+Recuérdese que en el prólogo a la Gramática de la lengua castellana de Antonio Nebrija (1492) 
+se puede leer una formulación de la constelación lengua-imperio: “Cuando bien comigo pienso, 
+mui esclarecida Reina, i pongo delante los ojos el antigüedad de todas las cosas, que para nuestra 
+recordación y memoria quedaron escriptas, una cosa hállo y: sáco por conclusión mui cierta: que 
+siempre la lengua fue compañera del imperio; y de tal manera lo siguió, que junta mente comen-
+çaron, crecieron y florecieron, y después junta fue la caida de entrambos” ([1492] 1984: 97). 
+66
+Esteban Lidgett | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+unificador. En el otro extremo de esta identidad nacional está el cosmopolitis-
+mo, representado por quienes introducen formas lingüísticas que corrompen la 
+pureza del castellano:
+El hogar puede estar constituido por padres nacionales o extranjeros, cuando 
+no por cónyuges de diferentes nacionalidades, y en estos dos últimos supues-
+tos, el idioma que aprenden los hijos dista mucho, no ya de ser correcto y 
+puro, sino de ser comprensible para quien no se educara en ese diminuto 
+ambiente […].
+Los hijos aprenderán, verdaderos atentados contra la exacta representación 
+de varios vocablos, contra las elementales reglas de la Sintaxis, contra el alma 
+y el espíritu del idioma patrio; alma y espíritu que constituyen su particular 
+fisonomía y contra quienes a nadie le es dado atentar (IP 184). 
+El ideal de la pureza, entonces, es exaltado como un valor patriótico en 
+sí mismo, según esta idea en la que lo nacional es considerado una herencia 
+cultural ancestral que no debe ser impugnada por influencias extrañas. Es aquí 
+donde se tocan las dos inflexiones que mencionábamos en el discurso sobre la 
+lengua de Monner Sans: esta es concebida a la vez como un instrumento de 
+unidad cultural con España, como un símbolo más que evidencia una genea-
+logía común; y, por otro lado, como un fenómeno ancestral que reconoce una 
+fisonomía particular con leyes propias de evolución que no deben ser alteradas 
+por un uso anárquico. La juntura de estos dos argumentos deriva en la pro-
+puesta de una codificación lingüística uniforme en la que el saber filológico 
+(en oposición a la ignorancia del vulgo) debe ser el que regule la paulatina e 
+inevitable evolución de la lengua. 
+Retomando estos argumentos, en los dos últimos textos de nuestra serie, “El 
+castellano en la Argentina” (1917) y “La gramática rediviva y el nuevo Diccio-
+nario” (1926), el autor busca especificar cómo lograr esta codificación lingüís-
+tica en la Argentina y apunta, en ese sentido, a la fundación de una filial local 
+correspondiente de la Academia Española. La relación de Monner Sans con la 
+corporación académica atraviesa distintas etapas a lo largo de su vida. Como 
+vimos, los primeros trabajos lexicográficos fueron elaborados con la intención de 
+aportar sus notas y observaciones a los académicos. En ese sentido, puede decirse 
+que en la labor lingüística de Monner Sans siempre está presente como objetivo 
+ideal la creación de una filial argentina de la Academia, que nuclee a quienes en 
+virtud de sus conocimientos filológicos poseen el derecho de legislar en materia 
+lingüística. No obstante, este objetivo ideal, como veremos, no implica una ali-
+neación automática con la Real Academia.
+En “El castellano en la Argentina”, luego de exponer el esquema general de 
+la corrupción en el idioma de los argentinos, advierte sobre la necesidad de una 
+institución que codifique la lengua y deja entrever una crítica a la labor de la 
+Academia:
+67
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La propiedad de la lengua: norma y uso en la obra de Ricardo Monner Sans: 55-71
+Si las Academias todas dejaran de ser lo que por mal añejo son, centros polí-
+ticos y sociales, para convertirse en verdaderas lonjas de estudiosos: si el pú-
+blico intonso dejase de intervenir con sus imposiciones en el nombramiento 
+de los individuos de tales cónclaves, prefiriendo al silencioso sabio filólogo o 
+lingüista, el brillante orador, el afortunado novelista […] otra sería la suerte 
+de nuestra habla sin rival (CA 14).
+Con similar tono admonitorio, Monner Sans emprende en “La gramática re-
+diviva y el nuevo Diccionario” (1926) contra la publicación de la decimoquinta 
+edición del Diccionario de la Real Academia Española:
+El cónclave madrileño, ansioso de captarse simpatías, ya a fin de demostrar 
+que se avenía a remozar el catálogo oficial de la lengua hoy en circulación, se 
+fue esta vez, como vulgarmente se dice, a la otra banda, al aceptar no pocas 
+palabras innecesarias, unas por tener ya sus equivalentes en castellano, y otras 
+por recogerse de labios indoctos o haber brotado de los puntos de la pluma 
+de escritores anónimos, carentes de toda autoridad (GRND 21).
+Las críticas de Monner Sans recogen en ambos casos el mismo argumento 
+que había expuesto inicialmente en “El neologismo”, a saber, la idea de que la 
+lengua puede y debe evolucionar, pero no sobre la base del desconocimiento de 
+su acervo. Estas diferencias con la Academia, no obstante, no alejan a Monner 
+Sans de su ideal de fundar una academia filial en la Argentina que aporte el mar-
+co normativo necesario para evitar la corrupción lingüística que durante toda su 
+vida denunció. 
+El 8 de enero del 1928, José María Monner Sans, hijo de Ricardo, publica 
+un artículo en El Diario Español de Buenos Aires con el título “Nuestra futura 
+academia de la lengua”. Allí revela un intercambio epistolar que su padre había 
+tenido con el académico José Alemany, en el que este le solicitaba un informe de 
+situación que explicara los motivos por los cuales no se instituía en la Argentina 
+una Academia correspondiente. Ricardo Monner Sans responde que a su juicio 
+“lo que más ha entorpecido el crecimiento de las Academias Americanas” es el 
+hecho de que “los estatutos de la Real Academia dispongan, con el propósito de 
+conceder autonomía a sus correspondientes, que sean éstas las que propongan el 
+nombramiento de los futuros académicos”. Esa situación de relativa autonomía 
+habría desacreditado a las filiales locales y, al mismo tiempo, habría producido 
+la falta de unidad que tanto se criticaba. De acuerdo con la nota de José María 
+Monner Sans, Alemany remite una carta a Ricardo Monner Sans, fechada el 10 
+de marzo de 1927, en la que escribe: “Creo que esta vez se reorganizará esa filial 
+y que ello en parte se deberá a usted cuya cartita leí dos veces en la comisión de 
+gobierno de la Academia” (Monner Sans, J. M. 1929: 347). 
+Tres años más tarde, en 1931, la Academia Argentina de Letras se crearía en 
+Buenos Aires, por decreto del gobierno dictatorial de José Félix Uriburu. Esta 
+corporación contemplará la promoción del estudio de la lengua y de la literatura 
+68
+Esteban Lidgett | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+y se asignará a sí misma en su Acta de Constitución la tarea de velar por la “con-
+servación y pureza” de la lengua, a partir de la fuerte “convicción de que el idio-
+ma es un tesoro que debe ser cuidado y acrecentado para que las formas vivientes 
+de nuestra cultura sean la expresión de una ponderable disciplina” (Academia 
+Argentina de Letras 1931: 10). Los ideales de disciplina, conservación y pureza 
+se condicen en esos inicios con la aspiración de Monner Sans de conformar una 
+comunidad homogéneamente monoglósica.
+Comentario final
+Ralph Ludwig (169) ha considerado que el purismo está muy lejos de ser 
+“una crítica de la lengua desarrollada por un pensador individual o aislado”; an-
+tes bien, sostiene Ludwig, parece ser “un fenómeno que atañe a grandes grupos 
+o sectores de una sociedad” y que “está directamente relacionado con la sensi-
+bilidad lingüística de un pueblo” ya que se plantea como una reacción frente a 
+situaciones problemáticas de contacto lingüístico y cultural. En ese sentido, la 
+cuestión de la pureza de la lengua no constituye necesariamente un debate al 
+interior de las fronteras de la lingüística y, por este motivo, Ludwig (170) la con-
+sidera como un fenómeno que se enmarca en lo que denomina “crítica filológica 
+de la lengua” en oposición a “ciencia de la lengua”.
+El abordaje de los debates ideológicolingüísticos en la hispanofonía supone, 
+de esta forma, al menos un desafío para quienes pretenden una distinción tan 
+clara entre el interior y el exterior de las fronteras disciplinares de la lingüística. 
+Se trata, sin duda, de una discusión epistemológica abierta y de capital impor-
+tancia para quienes abordan la lingüística desde una perspectiva historiográfica. 
+En ese sentido, resulta interesante pensar, como lo hace Ennis, que este tipo de 
+debates, en los que intervienen consideraciones sobre el uso de la lengua o la 
+norma lingüística, pueden constituirse como agentes determinantes no solo de 
+políticas de planificación idiomáticas, sino también de los procesos que impul-
+san el cambio al interior de una lengua. 
+Las fronteras del saber disciplinar se definen a partir de factores socio-históricos 
+que determinan las condiciones de emergencia de esos saberes. Esos factores no 
+pueden permanecer ocultos a los ojos de la propia disciplina a la que dieron origen. 
+En la Argentina, los inicios de la reflexión lingüística están signados por estos deba-
+tes ideológico que se articularon en torno a la definición de la lengua y de la iden-
+tidad cultural y que, de algún modo, dejan su huella en eso que Ludwig denomina 
+la “sensibilidad lingüística de un pueblo” (169). En ese sentido, creemos que en el 
+marco de la historiografía lingüística se hace pertinente una reflexión sobre obras y 
+autores que, aunque parecen permanecer en los márgenes de la disciplina, confor-
+man indudablemente un espacio de transición hacia su institucionalización.
+En esta línea, el presente trabajo ha intentado un análisis de la cuestión del 
+uso y la norma en una serie textual hasta ahora poco o nada explorada de la obra 
+de Monner Sans, figura destacada de ese incipiente campo intelectual previo a la 
+69
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La propiedad de la lengua: norma y uso en la obra de Ricardo Monner Sans: 55-71
+profesionalización de la lingüística en la Argentina. Al respecto, hemos intenta-
+do demostrar que en estos textos se desarrolla una estrategia discursiva tendiente, 
+por un lado, a desacreditar el uso, al que considera factor de disgregación de la 
+lengua; y, por el otro, a consolidar la legitimidad de la norma a partir del saber 
+filológico. Este recurso, si bien asume un estrechamiento de las fronteras del 
+saber disciplinar, en la medida en que se construye como un saber específico con 
+su propio capital simbólico, paradójicamente, le permite al autor consolidar un 
+espacio desde donde sería legítimo intervenir sobre las prácticas sociales concre-
+tas que trascienden el ámbito estrictamente lingüístico. La construcción de ese 
+lugar de enunciación, al que Ennis se ha referido como el lugar del philologos, 
+constituye uno de los rasgos más característicos de los debates sobre la lengua en 
+el mundo hispánico. 
+Referencias bibliográficas
+Abeille, Luciano. Idioma nacional de los argentinos. 1900. Buenos Aires, Colihue, 
+Biblioteca Nacional, 2005. 
+Academia Argentina de Letras. Acta de constitución. 1931. Buenos Aires, Acade-
+mia Argentina de Letras, 2001.
+Alfón, Fernando. La querella de la lengua en Argentina (1828-1928). Tesis doc-
+toral inédita. Universidad Nacional de La Plata, 2011.
+Alonso, Amado. “El problema argentino de la lengua”. Sur, n° 6, 1932, pp. 
+124-178.
+Bello, Andrés. Gramática de la lengua castellana destinada al uso de los americanos. 
+1847. Caracas, Comisión Editora de las obras completas de Andrés Bello. 
+Ministerio de Educación, 1951.
+Bertoni, Lilia Ana. Patriotas, cosmopolitas y nacionalistas. La construcción de la 
+nacionalidad argentina a fines del siglo XIX. Buenos Aires, Fondo de Cultura 
+Económica, 2001.
+Biagini, Hugo Edgardo. Intelectuales y políticos españoles a comienzos de la inmi-
+gración masiva. Buenos Aires, Centro Editor de América Latina, 1995.
+Blanco, Mercedes Isabel. Lenguaje e identidad. Actitudes lingüísticas en la Argenti-
+na 1800-1960. Bahía Blanca, Universidad Nacional del Sur, 1991. 
+Blommaert, Jan. Language Ideological Debates. Berlin, Nueva York, Mouton de 
+Gruyter, 1999.
+Costa Álvarez, Arturo. El castellano en la Argentina. La Plata, Talleres de la Escue-
+la San Vicente de Paul, 1928.
+70
+Esteban Lidgett | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+del Valle, José y Luis Gabriel-Stheeman. The Battle over Spanish between 1800 
+and 2000. Language ideologies and Hispanic intellectuals. Londres, Nueva 
+York, Routledge, 2002. 
+Di Tullio, Ángela. Políticas lingüísticas e inmigración. El caso argentino. Buenos 
+Aires, Eudeba, 2004.
+Ennis, Juan Antonio. Decir la lengua. Debates ideológico-lingüísticos en Argentina 
+desde 1837. Frankfurt am Main, Peter Lang, 2008.
+Fontanella de Weinberg, María Beatriz. El español bonaerense: Cuatro siglos de 
+evolución lingüística (1580-1980). Buenos Aires, Hachette, 1987.
+Horacio, Quinto. Arte poética. Madrid, Aurea, 2000.
+Lauria, Daniela. “Apuntes para una historia de la producción lexicográfica mo-
+nolingüe en la Argentina: etapas del proceso de diccionarización y modalida-
+des diccionarísticas entre 1870 y 1910”. Boletín de Filología de la Universidad 
+de Chile, vol. XLVI, n° 1, 2011, pp. 105-151. 
+___.“Lengua y nación. La producción lexicográfica monolingüe argentina del 
+Centenario”. La regulación política de las prácticas lingüísticas. Compilado 
+por Elvira N. de Arnoux y Roberto Bein. Buenos Aires, Eudeba, 2010, pp. 
+19-44. 
+Lidgett, Esteban. “Gramática escolar y políticas lingüísticas en la Argentina: un 
+análisis de la Gramática de la lengua castellana (1893) de Baldmar Dobra-
+nich y Ricardo Monner Sans”. Revista argentina de historiografía lingüística, 
+vol. III, n° 2, 2011, pp. 109-132.
+___. “Tradiciones gramaticales y discurso sobre la lengua nacional en la obra de 
+Ricardo Monner Sans (1893-1926)”. Tesis doctoral inédita. Universidad de 
+Buenos Aires, 2015.
+Ludwig, Ralph. “Desde el contacto hacia el conflicto lingüístico: el purismo en 
+el español. Concepto, desarrollo histórico y significación actual”. Boletín de 
+Filología de la Universidad de Chile, vol. 38, n° 1, 2000, pp.167-196.
+Monner Sans, José María. La vida y la obra de Ricardo Monner Sans, 1853/1927. 
+Buenos Aires, Librería de A. García Santos, 1929.
+Monner Sans, Ricardo. Gramática de la Lengua Castellana. Buenos Aires, J. Peu-
+ser, 1893.
+___. “El lenguaje gauchesco”. Con motivo del verbo desvestirse. Buenos Aires, 
+Félix Lajouane, 1894, pp. 213-218. 
+___. Notas al castellano a la Argentina. Buenos Aires, Imprenta Carlos Parral, 
+1903.
+___. “El neologismo, Conversación gramatical”. Revista de la Universidad de 
+Buenos Aires, n° VI, 1906, pp. 6-22.
+71
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | La propiedad de la lengua: norma y uso en la obra de Ricardo Monner Sans: 55-71
+___. “El Idioma y la Patria”. De gramática y de lenguaje. Madrid, s/d, 1910, pp. 
+182-196. 
+___. “Las Bellas Letras como vehículo de la confraternidad hispano-argentina”. 
+Labor de confraternidad. Madrid, Imprenta de los Sucesores de Hernando, 
+1914, pp. 74-87.
+___. «El castellano en la Argentina”. El Monitor de la Educación Común, vol. 62, 
+n° 535, 1917, pp. 145-159.
+___. Gramática castellana. Buenos Aires, Ángel Estrada, 1926.
+___. “La gramática rediviva y el nuevo diccionario”. Revista Nosotros, vol. XX, n° 
+201/202, 1926, pp. 25-38.
+Moya, José. Primos y extranjeros: la inmigración española en Buenos Aires, 1850-
+1930. Buenos Aires, Emecé, 2004.
+Nebrija, Antonio de. Gramática de la lengua castellana. 1492. Madrid, Funda-
+ción Antonio de Nebrija, 1980.
+Quintiliano, Marco Fabio. Instituciones oratorias. Salamanca, Universidad Pon-
+tificia Caja Duero, 1999.
+Sardi, Valeria. Historia de la enseñanza de la lengua y la literatura. Buenos Aires, 
+Libros del Zorzal, 2006.
+Toscano y García, Guillermo. Amado Alonso en el debate acerca de la lengua na-
+cional. El papel del Instituto de Filología de la Universidad de Buenos Aires en 
+la redefinición del objeto (1923-1946). Tesis doctoral inédita. Universidad de 
+Buenos Aires, 2011.
+Vázquez Villanueva, Graciana. “Una política lingüística en el callejón: Hacer 
+la nación, unificar la lengua en Argentina (1890-1900)”. Lenguaje, nº 34, 
+2006, pp. 97-123.
+Viñas, David. Crisis de la ciudad señorial. Buenos Aires, Corregidor, 2004.
+Fecha de recepción: 23/09/2016 / Fecha de aceptación: 12/06/2017

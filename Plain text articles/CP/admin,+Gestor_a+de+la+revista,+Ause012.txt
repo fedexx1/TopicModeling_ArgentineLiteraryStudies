@@ -1,0 +1,469 @@
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+Universidad Nacional de La Plata. 
+Facultad de Humanidades y Ciencias de la Educación.
+Centro de Estudios Latinos
+DIDO EN POMPEYO (Phars., VIII, 843-8451): 
+MOTIVACIONES DE LA INTERTEXTUALIDAD
+La Farsalia discurre en torno a la guerra civil que, entre los años 49 y 45 a.C.,
+enfrentó a César con Pompeyo.  Lucano presenta este suceso como el catalizador de la
+decadencia de la República y su baluarte más representativo, la libertad2, y considera que el
+proceso de declive continúa en el momento de redacción, bajo el gobierno de Nerón3. En la
+obra, esta catástrofe se manifiesta en distintos niveles: desde la destrucción de los vínculos
+familiares, en el espacio de las relaciones humanas4, hasta la conflagración universal, en el
+de las leyes cósmicas5. En el presente trabajo nos centramos en un ámbito intermedio
+(aunque no desvinculado de los dos extremos): la ruina de la ciudad de Roma y su estrecha
+conexión con la muerte de Pompeyo6. Esta dependencia se sostiene en un procedimiento
+1 Las citas de la Farsalia provienen de Shackleton Bailey, D.R. (ed.), M. Annaei Lucani. De Bello Civili,
+Stuttgart-Leipzig, Teubner, 1997; las de las obras virgilianas de Mynors, R.A.B. (ed.),  Vergilii Maronis
+Opera, Oxford, Clarendon P., 1969; mientras que las de Catulo, las debemos a Mynors, R.A.B. (ed.), C.
+Valerii Catulli. Carmina, London, Oxford University P., 1958. En relación con los traductores, se recurrió a
+Echave-Sustaeta, J. (trad.), Eneida, Madrid, Gredos, 1992; Holgado Redondo, A. (trad.), Farsalia, Madrid,
+Gredos, 1984; y Ramírez de Verger, A. (trad.), Poesías. Catulo, Madrid, Alianza, 1997.
+2 Ver, por ejemplo,  Phars., VII,  432-436.  Ahl, F.M.,  Lucan: an introduction, Ithaca-London, Cornell
+University P., 1976, 57 explica esta situación: “When Lucan assures us that the battle of Pharsalia is the great
+catastrophe of the republic, he is telling us that this is the moment when constitutional government, or what
+was left of it, fell. From Pharsalia onwards, libertas, the republic, no longer exists at Rome”. Cf. Sullivan,
+J.P., Literature and politics in the age of Nero, London-New York, Cornell University P., 1985, 148; Quint,
+D., Epic and empire: politics and generic form from Virgil to Milton, Princeton, Princeton University P.,
+1993,  133;  La  Fico  Guzzo,  M.L.,  “La  representación  histórico-mítica  de  las  guerras  civiles  y  del
+advenimiento del imperio en la Eneida y en la Farsalia: divergencias y coincidencias”, QUCC 92/2, 2009,
+143-155, 144 y Conte, G.B., “The proem of the Pharsalia”, en: Tesoriero, C. (ed.), Lucan. Oxford readings
+in classical studies, Oxford-New York, Oxford University P., 2010, 46-58, 58.
+3 Siguiendo principalmente a Ahl, Lucan: an introduction, 35-54 y a Sullivan, Literature and politics, 143-
+153, sostenemos que la disconformidad de Lucano con el gobierno de Nerón atraviesa la totalidad de la obra,
+incluido el proemio (vv. 33-66), donde se plasma en una serie de ironías.
+4 Ver, por ejemplo, Phars., I, 504-507.
+5 Vid. Phars., VII, 814-815. Lapidge, M., “Lucan’s imagery of cosmic dissolution”, Hermes 107, 1979, 344-
+370, 360 señala: “… Rome should fall; so too the universe must ultimately dissolve”. Narducci, E., Lucano.
+Un’epica contro l’impero, Bari, Laterza, 2002, 135 se refiere a este procedimiento como una “…proiezione
+degli  eventi  umani  in una sfera  cosmica”.  La  equivalencia  entre  ciudad y cosmos se justifica  en  la
+representación de Roma como caput orbis.
+6 A lo largo de la Farsalia, se remite reiteradamente a la interdependencia establecida entre la suerte de
+Pompeyo y la de Roma. Vid: Phars., I, 519-521; II, 531-533, 562-563, 729-730; V, 9-49. 
+Cita sugerida: Sisul, A. C. (2014). Dido en Pompeyo (Phars., VIII, 843-845): motivaciones de la intertextualidad. 
+Auster, (19), e012. Recuperado de: http://www.auster.fahce.unlp.edu.ar/article /view/Aus012  
+    Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+metonímico  basado  en  creencias  arraigadas  en  el  imaginario  antiguo:  la  suerte  del
+gobernante prefigura la suerte de su ciudad. Dicho tópico posee antecedentes en algunos
+episodios de la  Eneida, que, en tanto subtexto de la  Farsalia, provee a Lucano un
+importante  modelo  para  caracterizar  a  Pompeyo:  la  figura  de  Príamo7,  cuya  muerte
+simboliza la caída de Troya8.
+La hipótesis central de nuestra indagación afirma que existe un segundo personaje
+virgiliano introducido  por Lucano en esta trama intertextual: Dido. A través de una
+relevante referencia léxico-sintáctica y semántica al canto cuarto de la Eneida, la figura de
+Dido y, por ende, también su ciudad son utilizadas como prefiguraciones del destino de
+Pompeyo y de Roma, que así se convierte en un nuevo eslabón de esta larga cadena de
+ciudades que perecen. Este trabajo intenta explicitar los variados vínculos semánticos, que
+fundamentan la elección del subtexto, pues el interés de Lucano por Dido y el canto cuarto
+desborda el ámbito de la alusión casual (simplificación que no se condice con el complejo
+entramado de su obra) para constituir un principio estructurante de la Farsalia9.
+Nuestro planteo implica la adhesión de Lucano a una concepción cíclica de la
+historia, también presente en Virgilio, quien, en el transcurso de la Eneida, oscila entre dos
+visiones temporales contrapuestas. Una de ellas, lineal, es la imagen del Imperio prometido
+por Júpiter:  una carrera  ascendente  sin  límites  temporales10. La  otra,  en  cambio,  se
+manifiesta en los relatos menores que cruzan el argumento de la obra: es la historia cíclica
+de los pueblos que experimentan un apogeo y un declive, la historia de las ciudades que
+perecen11. Las dos perspectivas son desarrolladas por Rossi, Contexts of war…, 36-37:
+7 Algunos autores que notaron los paralelismos entre Pompeyo y Príamo son: Narducci, E., La provvidenza
+crudele. Lucano e la distruzione dei miti augustei, Pisa, Giardini, 1979, 46, Bowie, A.M., “The death of
+Priam: allegory and history in the Aeneid”, CQ 40/2, 1990, 475, Rossi, A., “The Aeneid revisited: the journey
+of Pompey in Lucan’s  Pharsalia”,  AJPh 121/4, 2000, 587; Malamud, M., “Pompey’s head and Cato’s
+snakes”, CPh 98/1, 2003, 35 s.; Joseph, T.A., Tacitus the epic successor. Virgil, Lucan, and the narrative of
+civil war in the Histories, Leiden-Boston, Brill, 2012, 85.
+8 Bowie, “The death of Priam…”, 470 sostiene: “Priam’s death does not have to be contemporaneous with
+the fall, but can be read as symbolic of it: Virgil uses a variety of devices to mark Priam’s death as an end-
+point and, more specifically, as an emblem of the end of the city”.
+9 Nuestro punto de vista se basa en las teorías de la intertextualidad, planteadas por Fowler, D.,  Roman
+constructions. Readings in postmodern latin, Oxford, Oxford University P., 2000, 121: “Traditionally, there
+has been much uncertainty about what the function of allusion was: was it to demonstrate learning, to play
+homage to a predecessor, to acknowledge a debt, to borrow lustre from a classical model? All of these are
+again ‘extras’, things done with texts rather than part of their meaning. In contrast, the focus in recent years
+has  been  on  the  way  in  which  intertextuality  creates  meaning  in  texts  through  a  dialectic  between
+resemblance and difference”.
+10 La promesa se materializa en la frase de Aen., I, 278-9: his ego nec metas rerum nec tempora pono: /
+imperium sine fine dedi… 
+11 Al imperio sin fin prometido por Júpiter se contrapone la finitud de muchas ciudades, como Troya y
+Cartago. En relación con este tema, cf. Labate, M., “Città morte, città future: un tema della poesia augustea”,
+Maia 43/3, 1991, 167-184, 179, Narducci, Lucano. Un’epica contro l’impero, 168s. y Rossi, A., Contexts of
+2
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+In the voices of Jupiter and Aeneas, two competing historical visions emerge and coexist
+contemporaneously in the poem. The former envisions the historical development of Rome
+along a teleological line that spreads from its beginning towards the termination of history
+and the foundation of a new (eternal) era –that of Rome’s unlimited empire (…) From
+Jupiter’s perspective, the history of Rome is an end-directed narrative that finds its perfect
+narrative medium in the epic genre. By contrast, Aeneas’ vision is triggered by a tragic
+dialectic, in which the constant antithesis between rise and fall produces numberless
+beginnings and numberless ends. The tension between these two temporal/historical and
+generic visions (…) becomes key to the interpretation of the poem.
+La segunda visión ya está presente en el primer canto de la Eneida, cuando Eneas
+contempla las imágenes de la guerra de Troya en las puertas del templo de Juno en
+Cartago. La tragicidad de esta representación, intensificada en el posterior relato de los
+hechos en boca del héroe, radica en que la descripción de la Ilioupersis anticipa el posterior
+derrumbe de la poderosa urbe fenicia12, problematizando cualquier pretensión de eternidad:
+aun las ciudades más pujantes pueden perecer.
+La adhesión de Lucano a esta perspectiva cíclica, cuestionadora de la prosperidad
+de las construcciones humanas, fundamenta la elección del canto cuarto de la Eneida como
+subtexto, porque allí se expresa, con incuestionable claridad, la tragedia del cambio de
+fortuna de Dido, cuyo pleno reconocimiento se da en los siguientes términos:
+urbem praeclaram statui, mea moenia uidi,
+ulta uirum poenas inimico a fratre recepi,
+felix, heu nimium felix, si litora tantum
+numquam Dardaniae tetigissent nostra carinae.
+Aen., IV, 655-658
+He fundado una noble ciudad, he visto mis murallas,
+he vengado a mi esposo y le he cobrado el castigo a mi hermano, mi enemigo.
+¡Feliz, ay, demasiado feliz si no hubieran jamás
+naves troyanas arribado a mis playas!
+La exclamación denota la distancia entre la prístina situación de Cartago y el
+desolador  presente,  donde  Dido  sabe  que,  partida  la  flota  de  Eneas,  ella  quedará
+desamparada y, en consecuencia, su ciudad caerá13. En el octavo canto de la  Farsalia,
+Lucano recicla esta imagen virgiliana (la exclamación con el mismo adverbio y dos
+war. Manipulation of genre in virgilian battle narrative, Ann Arbor, The University of Michigan P., 2007,
+40.
+12 Vid. La Fico Guzzo, M.L., Espacios Simbólicos en la Eneida de Virgilio, Bahía Blanca, Ediuns, 2005, 45.
+13 Según lo expresa Ana en Aen., IV, 682-683: exstinxti te meque, soror, populumque patresque / Sidonios
+urbemque tuam…. La interdependencia entre el destino de Dido y Cartago es notada por Putnam, M.J.C.,
+The humanness of heroes. Studies in the conclusion of Virgil’s Aeneid, Amsterdam, Amsterdam University
+P., 2011, 59: “The suicide of Dido anticipates, or better, is the symbolic complement to the ruin of Carthage.
+As so often in ancient literature, ruler and ruled are interdependent. Here the death of one parallels the death
+of the other”.  Cf. Ahl,  Lucan: an introduction, 185-187, Cairns, F.,  Virgil’s augustan epic, Cambridge,
+Cambridge University P., 1989, 45 s. y La Fico Guzzo, Espacios simbólicos, 45 y 105.
+3
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+adjetivos  sinonímicos,  seguida  de  una  cláusula  condicional)14 para  realzar  la  trágica
+peripecia de Pompeyo y, simultáneamente, enlazar los destinos de Cartago y de Roma:
+…satis o nimiumque beatus,
+si mihi contingat manes transferre revulsos
+Ausoniam, si tale ducis violare sepulchrum
+Phars., VIII, 843-845
+…feliz, ay, cumplidamente y hasta el exceso, si tuviera la suerte de trasladar a
+Ausonia los manes arrancados de allí y profanar un sepulcro tan indigno de un
+caudillo!
+En la visión de Lucano, la muerte de Pompeyo acarrea, para Roma, consecuencias
+similares a las que implicó la llegada de la flota de Eneas y el subsiguiente suicidio de
+Dido, en relación con la prosperidad de Cartago.
+A continuación, detallamos cuatro aspectos que justifican la elección del subtexto.
+El recurso de la internalización
+La relación intertextual se funda, en gran medida, en la noción de internalización
+presente en el canto cuarto de la Eneida. Este concepto remite al giro semántico producido
+por un cambio de enfoque en la obra: en el episodio de Dido, ciertos aspectos argumentales
+son desarrollados desde una óptica, que acentúa su composición interna. Esta nueva
+perspectiva tiene importantes repercusiones en el devenir del personaje.
+Si bien la caída de las ciudades es un motivo recurrente en la Eneida, la sucesión de
+eventos conducentes a la destrucción de Cartago no equivale a la que suscita la caída de
+Troya. En el canto cuarto opera un proceso de internalización, que no solo remite a su
+mayor contenido psicológico, sino que funciona en varios niveles, pues es notable el
+desplazamiento entre la representación de la derrota de Troya en los primeros cantos,
+provocada por un agente externo (los pueblos griegos), y la crisis de Cartago, motivada por
+la pasión de la reina. En el episodio de Dido, la causa del derrumbe no se ubica por fuera
+de las murallas; se emplaza en el centro de su ciudad, en el pecho de su gobernante15.
+14 La  intertextualidad no es literal;  por el  contrario, Lucano  prefiere  establecer  paralelismos (léxicos,
+sintácticos y semánticos) entre sus versos y el hipotexto virgiliano. La validez de esta forma intertextual es
+defendida por Davis, G., Parthenope: the interplay of ideas in vergilian bucolic, Leiden-Boston, Brill, 2012,
+7: “…underlying concepts and topoi are not always reproduced in the form of strict verbal adoption; instead,
+similar ideas are often purveyed by alternative, synonymous diction”.  Vid.  también  Von Albrecht, M.,
+Roman epic. An interpretative introduction, Leiden-Boston, Brill, 1999, 236: “The reader of Lucan should
+keep in mind that, in the schools of rhetoric, students were taught to avoid literal borrowings from their
+models and that free paraphrase was an art orators were proud of”.
+15 La pasión amorosa como una fuerza paralizante se delinea en la descripción de las torres cartaginesas a
+medio construir (Aen., IV, 86-89). El carácter destructivo de la pasión, capaz de acabar con ciudades enteras
+aparece en Catul., LI, 13-16: otium, Catulle, tibi molestum est: / otio exsultas nimiumque gestis: / otium et
+reges prius et beatas / perdidit urbes. (El ocio, Catulo, no te conviene, / con el ocio te apasionas y excitas
+4
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+Dado que la obra de Lucano discurre sobre la guerra civil, una disputa intestina, es
+clara la utilidad de esta representación para el poeta, quien, en un movimiento paralelo al
+del canto cuarto de la Eneida, enfatiza el carácter interno de la guerra civil entre César y
+Pompeyo,  al  caracterizarla  como  el  producto  de  la  beligerancia  inherente  al  pueblo
+romano, que conduce finalmente a su autodestrucción16. Además, la representación del
+conflicto civil modela, metonímicamente, episodios puntuales de violencia intrafamiliar17,
+otorgando importancia a los motivos del fratricidio y parricidio, entre otros:
+pectore si fratris gladium iuguloque parentis
+condere me iubeas plenaeque in viscera partu
+coniugis, invita peragam tamen omnia dextra;
+Phars., I, 376-378
+…yo te juro que si me ordenas hundir la espada en el pecho de mi hermano o en la
+garganta de mi padre o en las entrañas de mi esposa encinta, por más que lo rehúse
+mi diestra, todo, sin embargo, lo haré cumplidamente…
+La prioridad de la internalización por encima de otros procedimientos compositivos
+demuestra que la crisis de su época no es atribuible a una guerra contra un enemigo
+externo; por el contrario, la responsabilidad recae en el propio seno de la sociedad. Farsalia
+bellumque sine hoste est (Phars., I, 682).
+Desarraigos fundacionales
+La raigambre de las ciudades, establecida durante la fundación, es un momento de
+gran importancia para Virgilio, como denota su explícita mención en los primeros versos
+demasiado: / el ocio arruinó antes a reyes y / ciudades florecientes.) Virgilio utiliza este esquema para
+componer el canto cuarto de la Eneida. Rivoltella, M., Le forme del morire. La gestualità nelle scene di
+morte dell’ «Eneide», Milano, Vita e Pensiero, 2005, 77 sostiene: “L’antitesi lancinante fra amore e regalità,
+tra ragioni del cuore e ragion di stato, è un carattere tipico del personaggio virgiliano”. Cf. Cairns, Virgil’s
+augustan epic, 45s. y La Fico Guzzo, Espacios simbólicos, 111s.
+16 La Fico Guzzo, M.L., “La disolución de la identidad de Roma representada como una implosión en
+Farsalia IV, 773-787”,  RCCM 50/2, 2008, 341-352, 343  demuestra que la representación de este hecho
+remite al concepto de implosión: “Lucano pone de relieve, de este modo, la responsabilidad de los romanos
+en la conducción del proceso que los lleva a su propia autodestrucción…”. Cf. Narducci, La provvidenza
+crudele, 40.
+17 La guerra civil, representada en sus componentes mínimos, responde a un procedimiento compositivo
+metonímico. Dinter, M., “…und es bewegt sich doch! Der Automatismus des abgehackten Gliedes”, en:
+Hömke, N. - Reitz, C. (eds.),  Lucan’s ‘Bellum Civile’: between epic tradition and aesthetic innovation,
+Göttingen, de Gruyter, 2010, 175-190, 189 observa esta estrategia en otro punto clave de la Farsalia, la
+muerte de Pompeyo: “Da Pompeius hier von einem römischen Soldaten, wenn auch im Dienste der Ägypter
+stehend, ermordet wird, ist sein Tod ein Abbild des Bürgerkrieges en miniature: Ein Römer mordet einen
+Römer”.
+5
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+de la  Eneida18 y en el colofón19, a través del empleo de  condere20. En la concepción
+virgiliana,  la  precariedad  de  este  acto  basal  condena  a  las  urbes  al  fracaso,
+independientemente de su altura. Para prosperar, las ciudades deben cumplir determinados
+ritos fundacionales basados en una serie de procedimientos religiosos infaltables, que
+garantizan un futuro auspicioso. Así, el espacio urbano se delimita mediante rituales
+vinculados con la repetición de la cosmogonía originaria21. Sin embargo, la fundación de
+Cartago presenta una grave adversidad: la ausencia de los Penates, sobre los que se asienta
+la pervivencia próspera de cualquier asentamiento: 
+Anna (fatebor enim) miseri post fata Sychaei
+coniugis et sparsos fraterna caede penatis 
+Aen., IV, 20-21
+Ana, te lo confieso, al cabo de la muerte de Siqueo,
+mi esposo infortunado, una vez que arrasó mi hogar mi criminal hermano…
+La pérdida de los Penates coloca a Cartago en una posición de extrema fragilidad,
+como una urbe sin arraigo en los ritos religiosos fundacionales, carente de la protección de
+sus dioses patrios. Esta es una de las marcas textuales que anticipan su caída, tanto como la
+advertencia sobre el recurrente derrumbe de las ciudades en las puertas del templo de Juno.
+Este tema virgiliano influye en la Farsalia, aunque Lucano no adhiere ciegamente
+al subtexto de la  Eneida, pues, si bien Dido y Pompeyo comparten la condición de
+exiliados, el jefe romano está acompañado por los Penates de su pueblo, atribución que
+busca legitimarlo como figura de autoridad frente a César22:
+…cum coniuge pulsus
+et natis totosque trahens in bella penates 
+vadis adhuc ingens populis comitantibus exul. 
+quaeritur indignae sedes longinqua ruinae. 
+Phars., II, 728-731
+18 Aen., I, 5.
+19 Aen., XII, 950.
+20 Vid.  “Condo”, en:  Oxford Latin Dictionary, Oxford, Clarendon P., 1968, 395: “7b  To plunge, bury (a
+weapon in an opponent’s body) (…) 10 To found, establish (a city or state)”. La plurisemia del verbo habilita
+la lectura pesimista de James, S.L., “Establishing Rome with the sword: condere in the Aeneid”, AJPh 116,
+1995, 623-637, 635s.: “Each time condere  is used of a fatal stabbing, Vergil shows Rome’s founding as
+partly accomplished by and dependent upon the violent death of one of Rome’s ancestors”.
+21 Sostiene Eliade, M., Lo sagrado y lo profano, Madrid, Guadarrama, 1981, 22s.: “Lo que ha de convertirse
+en «nuestro mundo» tiene que haber sido «creado» previamente, y toda creación tiene un modelo ejemplar: la
+Creación del Universo por los dioses (…) al organizar un espacio, se reitera la obra ejemplar de los dioses”.
+22 Narducci,  Lucano. Un’epica contro l’impero, 284 señala que la posesión de los Penates plantea un
+paralelismo entre Pompeyo y Eneas, quien logra salvarlos de la ruina de Troya (Aen., II, 293).  Cf. Ahl,
+Lucan: an introduction, 183s. y Rossi, “The Aeneid revisited”, 174.
+6
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+Expulsado con tu esposa y tus hijos, y arrastrando contigo a la guerra todos los
+penates,  marchas  todavía  grande,  con  una  escolta  de  pueblos,  a  pesar  de  ir
+desterrado. Se te busca un escenario lejano para tu caída que no merecías.
+El desarraigo de Roma está presente en la  Farsalia, pero no se vincula con los
+Penates, sino con la ausencia de otro rito de afincamiento: el entierro de los próceres
+notables en el suelo patrio23. La sepultura egipcia de Pompeyo implica una desventaja para
+Roma, que es privada de dos hombres modélicos del espíritu romano, pues Catón y
+Pompeyo, figuras paradigmáticas de la romanidad, mueren en el extranjero. El alejamiento
+espacial frustra la posibilidad de arraigar sus Manes en su tierra natal (Phars., VIII, 834: tu
+nostros, Aegypte, tenes in pulvere manes), punto que implica un mal augurio para Roma y
+sugiere su vulnerabilidad24.
+El futuro truncado
+A esta perspectiva, que marca la importancia del enterramiento de los próceres en el
+suelo patrio como método de arraigo, se suma otra: la fortaleza de las ciudades se relaciona
+tanto con los hombres del pasado, como con los del futuro, es decir, los descendientes. Una
+ciudad cuya clase gobernante no posee descendencia está condenada a la ruina. Siguiendo
+esta  línea  de  lectura,  no  podemos  desestimar,  en  la  cita  de  Aen.,  IV,  657-658,  la
+adscripción del adjetivo felix (cuyo significado está íntimamente ligado con la fertilidad25)
+a Dido.  En el canto cuarto, la voz autoral se lo adscribe en tres ocasiones, siempre
+negado26, y otras tres veces está puesto en boca de la reina27 (también con valor semántico
+negativo), señalando la endeble situación de la ciudad de Cartago, socavada en sus mismos
+23 Fustel de Coulanges, N.D., La cité antique. Étude sur le culte, le droit, les institutions de la Grèce et de
+Rome, Paris, Hachette, 1924, 168s. consigna sobre el tema: “Les corps étaient enterrés soit dans la ville
+même, soit sur son territoire, et comme, d’après les croyances que nous avons montrées plus haut, l’âme ne
+quittait pas le corps, il en résultait que ses morts divins étaient attachés au sol où leurs ossements étaient
+enterrés. Du fond de leurs tombeaux ils veillaient sur la cité; ils protégeaient le pays, et ils en étaient en
+quelque sorte les chefs et les maîtres (…) Tout homme qui avait rendu un grand service à la cité, depuis celui
+qui l’avait fondée jusqu’à celui qui lui avait donné une victoire ou avait amélioré ses lois, devenait un dieu
+pour cette cité”.
+24 Lucano valora negativamente la tumba extranjera de Pompeyo y, por este motivo, expresa la necesidad de
+recuperar su cuerpo en  Phars., VIII, 835-840.  Al completar los ritos fúnebres de Pompeyo, no sólo se
+cumpliría con las obligaciones debidas a los Manes, sino también a Roma.
+25 Vid. “Felix”, en: Oxford Latin Dictionary, 684, donde se distinguen las ocasiones en que el adjetivo se
+atribuye a vegetales, árboles, terrenos o estaciones: “Fruitful, productive (…) rich, fertile”, de aquellas en que
+se adjunta a personas: “Enjoying good fortune, blessed, fortunate”. En cambio, Bellincioni, M., s.v. “Felix”,
+en: EV II (1988), 486 articula ambas acepciones: “L’uso virgiliano di felix ricopre più o meno tutta la gamma
+semantica del termine, al cui senso originario di «fecondo», «fertile» risalgono in modo più o meno diretto le
+altre accezioni”. Vid. también Boyd, B.W., “Cydonea mala: virgilian word-play and allusion”, HSCP 87,
+1983, 169-174, 171.
+26 Aen., IV, 68, 450-451 y 529.
+27 Aen., IV, 596 y 657-658.
+7
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+cimientos por la ausencia de descendientes. La aludida infertilidad de Dido28 es otra
+manera de representar, mediante una construcción metonímica, la deficiente raigambre de
+Cartago: la falta de un heredero al trono atenta contra la pervivencia del pueblo cartaginés.
+De este modo, los destinos de la ciudad y de su gobernante vuelven a plantearse como
+mutuamente dependientes.
+La similitud con el caso de Marcelo, quien, igual que los hijos nonatos de Dido,
+representa la descendencia en la que debería perpetrarse el Imperio de Augusto29, plantea la
+posibilidad de que Virgilio haya sugerido la sujeción de Roma a la historia cíclica de los
+pueblos. Esta discusión no ha encontrado una opinión unánime entre la crítica, como
+tampoco aquella en torno al ‘optimismo’ o ‘pesimismo’ del autor en relación con el futuro
+de la Roma imperial30. La indeterminación ha repercutido en disenso con respecto a la
+postura de Lucano frente a la Eneida, no en cuanto a la visión lucánea en sí misma, sino en
+tanto no es factible aseverar si la  Farsalia es una “ultraeneida” o una “antieneida” sin
+establecer primero si en la obra de Virgilio prevalece una visión favorable o una visión
+trágica del presente del Imperio31.
+Lucano adapta la figura del gobernante carente de descendencia a las restricciones
+de su obra. Por un lado, al servirse intertextualmente del lamento de Dido, recupera la
+problemática vinculada con la muerte o la ausencia de los hijos. Pero, por otro lado, es
+consciente de la imposibilidad de utilizar el potencial semántico de (in)felix en relación con
+Pompeyo,  dada su paternidad,  y,  por consiguiente,  transforma  el  adjetivo  en  beatus
+(Phars., VIII, 843). En la Farsalia, el tema de las muertes prematuras supera el ámbito
+puntual de un personaje singular, para convertirse en un problema generalizado: la pérdida
+28 Aen., IV, 328-329.
+29 Tracy, S.V., “The Marcellus passage (Aeneid 6.860-886) and Aeneid 9-12”, CJ 70/4, 1975, 37-42, 38: “…
+his death pointedly symbolizes the death of the future, a future presented in glowing terms in the lines just
+preceding. It therefore places a strong note of reservation on the vision of Rome’s future greatness, and
+counterbalances the national pride (…) with an intense note of sadness and personal loss”.
+30 Para  un  sucinto  desarrollo  de  ambas,  remitimos  a  Perkell,  C.  (ed.),  Reading  Vergil’s  Aeneid.  An
+interpretive guide, Oklahoma, Oklahoma University P., 1999, 14-16; particularmente, el apartado “Reception
+of the Aeneid”.
+31 Para un análisis de las dos posturas, vid. Ahl, Lucan: an introduction, 62-81, Von Albrecht, Roman epic,
+236-243 y Gowing, A., Empire and memory. The representation of the roman republic in imperial culture,
+Cambridge, Cambridge University P., 2005, 82-101, 236-243. En una interpretación que se condice con los
+parámetros de este trabajo, opina Narducci, Lucano. Un’epica contro l’impero, 79: “Il rapporto di Lucano col
+suo  (anti)modello  è  molto  più  complesso  e  ambiguo,  e  probabilmente  tiene  conto  di  ambiguità  e
+contraddizioni del testo virgiliano (della sua ‘polifonia’, se vogliamo), che già il lettore antico non poteva
+fare a meno di rilevare”.  Casali, S.,  “The  Bellum Civile  as an anti-Aeneid”,  en: Asso, P. (ed.),  Brill’s
+companion to Lucan, Leiden-Boston, Brill, 2011, 81-109, 108 recupera los términos de este crítico: “Lucan
+wants, perhaps, to attack Virgil with his own words. Otherwise, he wants to say that already the anti-Virgil is
+present in Virgil”. Cf. esta última postura (que enfatiza la presencia de voces disonantes en la Eneida) con
+Quint, Epic and empire, 136.
+8
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+(no ya simbólica, sino real y concreta) del futuro, manifestada en las numerosas referencias
+lucáneas a líneas familiares truncadas por las matanzas de la guerra civil:
+…gentes Mars iste futuras
+obruet et populos aevi venientis in †orbem†
+erepto natale feret. tunc omne Latinum
+fabula nomen erit…
+Phars., VII, 389-392
+Este Marte arruinará también a las gentes futuras, pues se llevará a los pueblos de la
+generación venidera, privándoles de su nacimiento. Entonces toda la raza latina será pura
+leyenda…
+La apertura hacia la historia
+Al seleccionar a Dido y al canto cuarto de la Eneida como subtextos de su obra,
+Lucano repara en otro importante aspecto de este libro: la gradual apertura de la épica
+hacia el terreno de la historia. Este desplazamiento puede apreciarse en la maldición, donde
+la reina augura a Eneas una muerte trágica carente de los honores debidos a un héroe de su
+talla (la sepultura, la compañía de su hijo y de sus compañeros y la prosperidad de una
+ciudad exitosa):
+at bello audacis populi uexatus et armis,
+finibus extorris, complexu auulsus Iuli
+auxilium imploret uideatque indigna suorum
+funera; nec, cum se sub leges pacis iniquae
+tradiderit, regno aut optata luce fruatur,
+sed cadat ante diem mediaque inhumatus harena. 
+Aen., IV, 615-620
+…que a lo menos acosado en la guerra por las armas
+de un pueblo arrollador, fuera de sus fronteras,
+arrancado a los brazos de su Iulo,
+implore ayuda y vea la muerte infortunada de los suyos,
+y después de someterse a paz injusta no consiga gozar de su reinado
+ni de la dulce luz y caiga antes de tiempo
+y yazga su cadáver insepulto en la arena.
+La referencia final a un cuerpo yaciente en la playa32 se aleja de la leyenda
+tradicional de la apoteosis de Eneas (en el terreno del mito), en pos de una variante trágica,
+que enfatiza su cambio de fortuna. Esta versión aproxima a Eneas a la figura de Príamo,
+resaltando la similitud entre el destino de los dos gobernantes:
+…iacet ingens litore truncus,
+auulsumque umeris caput et sine nomine corpus.
+Aen., II, 557-558
+32 En relación con el tema de los cuerpos insepultos en Virgilio y Lucano,  vid.  Ambühl, A., “Lucan’s
+‘Ilioupersis’ – Narrative patterns from the fall of Troy in book 2 of the Bellum Civile”, en: Hömke - Reitz
+(eds.), Lucan’s ‘Bellum Civile’, 17-38, 28s.
+9
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+Tendido en la ribera yace un enorme tronco,
+la cabeza arrancada de los hombros, un cadáver sin nombre.
+A través de la imagen del cuerpo insepulto en la costa, Virgilio establece una
+relación  intratextual  entre  ambos  fragmentos,  pues,  al  construir  su  maldición,  Dido
+recupera un elemento del pasado (la muerte de Príamo), extraído de la narración de Eneas
+en el segundo canto, y actualiza el discurso del héroe. Así, la intratextualidad refuerza los
+patrones cíclicos de la obra. La reiterada aparición de cadáveres sin sepultura en el litoral
+plantea sutilmente la posibilidad de que Roma sea otra ciudad sometida al devenir del
+tiempo, sujeta a un ciclo finito, porque el desplazamiento operado entre el sitio de la
+muerte de Príamo (el palacio en Aen., II, 550-554) y la ubicación final de su cuerpo (la
+costa en  Aen., II, 557-558) permite inferir una velada alusión a la figura histórica de
+Pompeyo en el retrato del rey de Troya33, que después se repite en la imagen de Eneas
+tendido en la costa. Esta estrategia virgiliana funciona como un elemento disruptivo del
+aparente orden imperial y enfrenta al lector con la imposibilidad de escapar de un destino
+que deviene cíclico y se extiende por generaciones, tal como dijo Dido (Aen., IV, 629).
+Lucano percibe el potencial de esta lectura y modela la presentación del cuerpo
+muerto de Pompeyo, a partir de los materiales provistos por Virgilio:
+litora Pompeium feriunt, truncusque vadosis
+huc illuc iactatur aquis…
+Phars., VIII, 698-699
+…a Pompeyo lo golpean las olas del litoral y su cuerpo sin cabeza es sacudido de
+acá para allá por las aguas de los rompientes.
+Una imagen similar aparece también en el primer canto de la  Farsalia, cuando
+Lucano anticipa la suerte de Pompeyo a través de las palabras de una matrona vidente:
+hunc ego, fluminea deformis truncus harena
+qui iacet, agnosco…
+Phars., I, 685-686
+…a ese que yace, tronco desfigurado, en la arena del río, lo reconozco.
+Mediante  estas  referencias  léxico-semánticas  al segundo y cuarto  canto  de la
+Eneida, Lucano acentúa la circularidad de la historia, colocando a Pompeyo como un
+33  Joseph, Tacitus the epic successor, 84 sostiene: “As readers of the poem since Servius have noted, at
+Aeneid 2.556-558 Virgil casts the dead Priam to look like the beheaded Pompey, another superbus regnator
+Asiae, on the Egyptian shore”. Cf. Ahl, Lucan: an introduction, 187.
+10
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+tercer exponente de la nómina de gobernantes golpeados por el cambio de fortuna34 y,
+consecuentemente, a Roma como una ciudad condenada a la destrucción35.
+Conclusión
+El cruce intertextual entre los personajes de Pompeyo y Dido, materializado en los
+versos de Phars., VIII, 843-845, posee una heterogénea serie de fundamentaciones basadas
+en conceptos filosóficos, religiosos e histórico-políticos, que alimentan las dos obras como
+un subsuelo. El objetivo de la operación intertextual es resaltar la fragilidad de la situación
+de Roma en la Farsalia, recurriendo a Dido, parangón de la vulnerabilidad latente aun en
+las ciudades más prósperas. Al servirse de este personaje, Lucano recupera la faceta
+virgiliana más pesimista, relacionada con la debilidad de los hombres y sus construcciones
+materiales y espirituales.
+ 
+Ana Clara Sisul
+Universidad Nacional del Sur – Conicet
+anasisul@hotmail.com.ar
+Resumen:
+Al describir el cadáver de Pompeyo en las arenas egipcias (Phars., VIII, 843-845), Lucano recurre a
+un elemental antecedente virgiliano: Príamo, cuyo destino refleja la suerte del líder romano. Sin embargo,
+existe otro personaje de la Eneida aludido en este fragmento mediante una elaborada relación intertextual,
+que trabaja sobre los niveles léxico, sintáctico y semántico: Dido. La intertextualidad se basa en cuatro
+puntos en común: la técnica de internalización en la composición de los personajes, las primitivas falencias
+fundacionales de sus dos ciudades, la ausencia de descendientes (o la muerte de las generaciones jóvenes) y
+la apertura hacia la historia.
+Palabras clave: Farsalia – Eneida – Intertextualidad – Pompeyo – Dido 
+Abstract:
+34 El recurso estilístico de la peripecia también está presente en la figura de Príamo, que sufre una absoluta
+degradación, como nota Rivoltella, Le forme del morire, 8: “…supplice oltraggiato proprio all’ombra del
+sacrario che doveva essergli asilo, padre in lutto deriso, dominatore prostrato, Priamo è ridotto a povero
+corpo spossessato di dignità, in balia della ferocia del suo aggressore”.
+35 Señala Narducci,  La provvidenza crudele, 46: “Ma nella parabola dei due potenti arrivano a palpabile
+concretezza destini di più vasta portata: come nella fine di Priamo si rispecchia la catastrofe di Troia, così
+nella morte di Pompeo si riflettono il crollo di Roma e la distruzione della sua libertà”. Cf. Ahl, Lucan: an
+introduction,  188,  Hardie, P.,  The epic successors  of Virgil. A study in the dynamics  of a tradition,
+Cambridge, Cambridge University P., 1993, 7 y Rossi, “The Aeneid revisited”, 587. Una reinterpretación de
+este tema puede encontrarse en  Dinter, “…und es bewegt sich doch!”,  190, quien define el mundo de la
+Farsalia  como acéfalo (p. 183s.) y sostiene que la decapitación de Pompeyo  marca la muerte de la
+República: “Das Ende der Republik wird somit vom Verlust führender Köpfe geprägt”.
+11
+Auster, nº 19, e012, 2014. ISSN 2346-8890
+When describing Pompey’s corpse on the Egyptian shore (Phars, VIII, 843-845), Lucan resorts to a
+comprehensible Virgilian precedent: Priam, whose destiny mirrors that of the Roman leader. However, there
+is another character from the Aeneid alluded in these lines through an elaborated intertextual connection,
+which affects the lexical, syntactical, and semantic levels: Dido. The intertextuality depends on four shared
+elements: the internalization technique in both character’s composition, the primeval founding shortcomings
+of their cities, the lack of progeny (or the loss of the younger generation) and the opening towards history.
+Keywords: Pharsalia – Aeneid – Intertextuality – Pompey – Dido
+RECIBIDO: 1-12-2014 – ACEPTADO: 15-7-2015
+12

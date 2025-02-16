@@ -1,0 +1,676 @@
+129
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+DOSSIER
+Snoey Abadías, Christian. “Poética de la mirada: idea del viaje en las crónicas de 
+Martín Caparrós”. Anclajes, vol. XXV, n.° 2, mayo-agosto 2021, pp. 129-144.
+https://doi.org/10.19137/anclajes-2021-2529
+Poética de la mirada: 
+idea del viaje en las 
+crónicas de Martín 
+Caparrós
+Christian Snoey Abadías
+Universidad Autónoma de Barcelona
+España
+christian.snoey@uab.cat
+Orcid: 0000-0002-2563-4865
+Fecha de recepción: 20/04/2020 | Fecha de aceptación: 09/11/2020
+Resumen: La reflexión sobre el viaje ocupa un lugar central en la obra de Martín Capa-
+rrós. En este artículo, analizo cómo se resuelven dos problemas vinculados que afectan 
+al relato del viaje en Larga distancia y El interior, de Martín Caparrós. El primer problema 
+es la aparente paradoja que suponen las teorías sobre la cancelación de la experiencia 
+para el relato del viaje. El segundo problema es el lenguaje con el que se refiere el viaje. 
+En última instancia, pretendo extraer una poética de la mirada a partir de las reflexiones 
+sobre el viaje de Caparrós.
+Palabras clave: Literatura argentina; Martín Caparrós; relato del viaje; crónica.
+Poetics of the Gaze: Idea of the Journey in the 
+chronicles of Martín Caparrós
+Abstract: Contemplating the journey occupies a central role in the work of Martín Ca-
+parrós. In this article, I analyze how two related problems affecting the journey narrative 
+in Larga distancia and El interior, by Martín Caparrós, are solved. The first problem is the 
+apparent paradox assumed in theories about the cancelation of experience in the jour-
+ney narrative. 
+The second is the language used to narrate the journey. Ultimately, I intend 
+to extract a poetics of the gaze from Martín Caparrós’s reflections on the journey.  
+Keywords: Argentine literature; Martín Caparrós; journey narrative; chronicle.
+Poética do olhar: ideia de viagem nas 
+crônicas de Martín Caparrós
+Resumo: A reflexão sobre a viagem ocupa um lugar centra na obra de Martín Capar-
+rós. Neste artigo, analiso como se resolvem dois problemas relacionados que afetam 
+a história da viagem em Larga distancia y El interior, de Martín Caparrós. O primeiro 
+130
+Christian Snoey Abadías | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+problema é o aparente paradoxo que as teorias sobre o cancelamento da experiência 
+supõem para o relato da viagem. O segundo problema é a linguagem no qual escrever a 
+viagem. Finalmente, pretendo extrair uma poética do olhar a partir das reflexões sobre 
+a viagem de Caparrós. 
+Palavras-chave: Literatura argentina; Martín Caparrós; história da viagem; crônica. 
+E
+n Larga distancia (1992), Martín Caparrós reflexiona sobre los 
+problemas de la mirada, en concreto, sobre sus condicionantes: 
+“Pero soy –casi– argentino, y eso significa que no hay formas 
+previstas: que hay que inventar las maneras de la mirada, que hay que mirar solo, 
+sin compañías reales o imaginarias. O con cualquier compañía: armarse todo 
+el tiempo la propia tradición” (Caparrós 31). En este texto, que recuerda a “El 
+escritor argentino y la tradición”, de Borges, Caparrós enuncia un sentimiento 
+de orfandad identitaria –aunque también podríamos llamarlo movilidad identi-
+taria– que se traduce en una libertad o irreverencia de la mirada y que marcará la 
+manera de relacionarse con el mundo en sus crónicas. Lo más interesante de esta 
+cita, sin embargo, es la conciencia de la duda, de la construcción perpetua de la 
+mirada, que parece servir de base a partir de la que se construye la escritura, pues 
+uno de los aspectos centrales de su obra, como se reflexionará a continuación, es 
+el cuestionamiento de los condicionantes de la mirada. 
+El fin de este artículo es pensar sobre dos problemas vinculados que tienen 
+presencia en la obra de Martín Caparrós, en concreto en su producción cronís-
+tica, y que afectan al relato del viaje. El primer problema consiste en que asumir 
+que la mirada está condicionada implica que el lenguaje también lo está. La 
+mirada en Caparrós actúa como un trasunto metafórico del lenguaje y, teniendo 
+en cuenta que uno de los puntos de llegada de su obra es el cuestionamiento del 
+lenguaje esperable o condicionado, surge una pregunta: ¿cómo escribir cuestio-
+nando las categorías que atrapan el lenguaje mediante un lenguaje precisamente 
+atrapado? La tradición de este primer interrogante es bien reconocible: es la crisis 
+del lenguaje, con antecedentes en el Crátilo de Platón; La carta de Lord Chandos, 
+de Hoffmansthal; las Contribuciones a una crítica del lenguaje, de Fritz Mauthner, 
+etc. Por cuestiones de espacio no puedo entrar más a fondo en esta problemática 
+ni trazar una genealogía1, pero sí considero necesario apuntar que se entiende 
+aquí por crisis del lenguaje el reconocimiento, a partir de finales del XIX y prin-
+1 
+Al menos sí considero necesario anotar que se puede percibir un reflote de la reflexión sobre este 
+tema en la narrativa hispanoamericana de las últimas décadas y también en la poesía española 
+actual, sobre todo en la practicada por quienes han nacido en las décadas de 1980 y de 1990. 
+131
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Poética de la mirada: idea del viaje en las crónicas de Martín Caparrós: 129-144
+cipios del XX, de que el lenguaje no es inocente ni solamente una herramienta 
+de comunicación o un instrumento artístico con el que crear belleza. Es decir, 
+esta noción apunta al surgimiento de la conciencia de que el lenguaje trae con-
+sigo unas categorías de pensamiento, ciertas cosmovisiones que nos pre-existen, 
+así como unas determinaciones culturales. Como dice Steiner: 
+Los contratos no sometidos a examen o postulados entre significante y significado 
+(la indistinción clave en Saussurre), entre verbalización y realidad, entre enunciado 
+y comunicabilidad que habían dado seguridad a las mentalidades clásicas desde los 
+presocráticos hasta Kant, Hegel y Schopenhauer, se vienen abajo. (La poesía 209)
+ 
+El segundo problema es la cancelación de la experiencia, una de las nociones 
+centrales del pensamiento de Walter Benjamin, que, si bien atraviesa toda su 
+obra, formula sobre todo en dos ensayos, primero en Experiencia y pobreza y 
+pocos años después en El narrador. Más adelante Giorgio Agamben lo retoma 
+y amplía. 
+Empezaré por el segundo problema. En el inicio de Infancia e historia, Agam-
+ben enuncia:
+En la actualidad, cualquier discurso sobre la experiencia debe partir de la constata-
+ción de que ya no es algo realizable. Pues así como fue privado de su biografía, al 
+hombre contemporáneo se le ha expropiado su experiencia: más bien la capacidad 
+de tener y transmitir experiencias quizás sea uno de los pocos datos ciertos de que 
+dispone sobre sí mismo (7).
+Y, más adelante, precisa: “hoy sabemos que para efectuar la destrucción de la 
+experiencia no se necesita en absoluto de una catástrofe y para ello basta perfec-
+tamente con la pacífica existencia cotidiana en una gran ciudad” (8). Ya Walter 
+Benjamin –de quien Baricco, en el ensayo Los bárbaros, elogia “saber en qué esta-
+ba convirtiéndose el mundo” en lugar de “entender qué era el mundo” (24)– de-
+tecta esta ausencia y lleva su origen a la Primera Guerra Mundial en su opúsculo 
+Experiencia y pobreza, publicado en 1933: 
+La cotización de la historia ha bajado, y ello, además, en una generación que, entre 
+1914 y 1918, ha tenido una de las experiencias más atroces de la historia universal. 
+Lo cual quizá no sea tan extraño como parece. ¿Acaso no se pudo constatar que la 
+gente volvía muda del campo de batalla? No más ricas, sino más pobres en experien-
+cias comunicables. (95)
+El concepto de experiencia (Erfahrung) es una de las bases del pensamiento 
+de Benjamin y a partir de él articula otras nociones. Para delimitar los perfiles 
+de esta idea es conveniente leer de forma conjunta el ensayo Experiencia y pobre-
+za, antes referido, con el titulado El narrador –de hecho en este se reproducen 
+fragmentos del primero–, puesto que en el segundo elabora una teoría sobre 
+132
+Christian Snoey Abadías | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+las diferencias entre narración y novela, según la premisa de que la crisis de la 
+experiencia está vinculada con el fin del arte de contar historias: “Diríase que 
+una facultad que nos parecía consustancial a la naturaleza de lo humano, la más 
+segura entre las seguras, nos está siendo arrebatada: la facultad de intercambiar 
+experiencias” (225).
+El narrador, breve y central ensayo de Benjamin, es famoso sobre todo por su 
+inicio, en el que distingue entre dos grupos interrelacionados de narradores. El 
+primer arquetipo lo forma el “marinero que mercadea cruzando los mares” (226) 
+y el segundo, “el campesino sedentario” (226). El primero está marcado por la 
+experiencia de lo lejano, lo diferente y lo múltiple: “‘Cuando se ha viajado, se 
+tienen cosas que contar’ suele decir la voz popular, imaginando al narrador como 
+alguien que regresa de un viaje lejano” (226). El segundo, en cambio, es el que 
+ha atendido a la tradición cercana, al mundo conocido: “Pero no se escucha con 
+menos placer al que se ganó honradamente el sustento sin abandonar su tierra y 
+conoce bien las tradiciones e historias” (226). No obstante, el modelo ideal de 
+narrador, según el planteamiento de Benjamin, es aquel que aúna características 
+de ambos modelos: “La extensión real del dominio de la narración, en toda su 
+amplitud histórica, no es concebible sin reconocer la íntima compenetración de 
+ambos arquetipos” (227). 
+¿Qué entiende, pues, Benjamin por experiencia? En el inicio del ensayo So-
+bre algunos temas en Baudelaire, ofrece una clave para esbozar los perfiles de la 
+manera en que entiende el concepto de experiencia, a tenor de la relación entre 
+Matèrie et mémoire, de Bergson, y su formulación literaria en À la recherche du 
+temps perdu, de Proust, entendida esta novela, hasta cierto punto, como una 
+concreción literaria de las ideas desarrolladas por Bergson, en la medida en que, 
+como sostiene Benjamin, “se puede considerar la obra de Proust À la recherche 
+du temps perdu como un intento de elaborar la experiencia tal y como la concibió 
+Bergson” (271). A partir del título del ensayo de Bergson, Benjamin hace notar 
+el vínculo entre la memoria y la experiencia, de tal forma que la experiencia se 
+inscribe en el ámbito de la tradición: 
+Su título ya pone de manifiesto cuán decisiva considera la estructura de la memoria 
+para la propia estructuración filosófica de la experiencia. De hecho, tanto en la vida 
+colectiva como en la privada, debe ser considerada asunto de la tradición. Se forma 
+menos de datos rigurosamente fijos en el recuerdo que de aquellos que con frecuencia 
+confluyen y se acumulan en la memoria de un modo inconsciente. (271) 
+La experiencia, por tanto, no está relacionada tanto con el conocimiento 
+científico sino más bien con las vivencias, propias o ajenas, que forman el mag-
+ma de la memoria. En El narrador formula de una manera más precisa esta idea, 
+pues afirma que “la experiencia que se transmite de boca en boca es la fuente de 
+la que han bebido todos los narradores” (226). La experiencia entendida así se 
+concreta, sobre todo, en las formas del consejo, la moraleja o el proverbio, que 
+133
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Poética de la mirada: idea del viaje en las crónicas de Martín Caparrós: 129-144
+coparían la dimensión práctica de la narración. En última instancia, en la distin-
+ción entre “moraleja de la historia”, como fin al que se encamina la narración, 
+y el “sentido de la vida”, como “centro alrededor del cual se mueve la novela” 
+(241) se cifra la oposición entre ambas formas de relato, que suponen, a la par, y 
+sobre todo, dos cosmovisiones distintas, dos maneras diferentes de relacionarse 
+con el mundo.  
+En la medida en que la experiencia se inscribe en la esfera de la tradición, se 
+vincula directamente con dos nociones: la de artesanía y la de sabiduría. En pri-
+mer lugar, Benjamin tiende un paralelismo entre la manera en que la experiencia 
+se elabora en la narración con la manera en que se lega: “el maestro ya estableci-
+do y los aprendices migrantes trabajan juntos en el mismo taller y todo maestro 
+había sido aprendiz migrante antes de poder establecerse en su lugar de origen o 
+lejos de allí” (227). Si Benjamin vincula la artesanía con el modo de transmisión 
+de la experiencia, su punto de llegada, el fin al que se enfocan las narraciones, 
+es la sabiduría: “El arte de narrar se aproxima a su fin porque el cariz épico de la 
+verdad, que no es otro que la sabiduría, se extingue. Pero este es un proceso que 
+viene de muy atrás” (229). En última instancia, el sentimiento de ausencia por 
+una experiencia que impregne la narración, que sea su origen y fin, es también 
+un lamento ante la imposibilidad de alcanzar algún contacto con la verdad. 
+No obstante, hay que tener presente otro elemento en esta composición de la 
+experiencia: el lenguaje o, más concretamente, la sospecha sobre él, en la medida 
+en que este, alejado de la experiencia, parece incapaz de transmitirla. Ya en el 
+ensayo Experiencia y pobreza puede encontrarse esta idea formulada: “¿Acaso no 
+se puede constatar entonces que la gente volvía muda del campo de batalla? No 
+más ricas, sino más pobres en experiencias comunicables” (95). Más adelante, 
+en El narrador, se detiene durante varios epígrafes en esta idea y la amplía. Con-
+cretamente, esboza una visión negativa de la información, así como de su len-
+guaje, que estaría en consonancia con otras críticas de la época, y anteriores, que 
+cuestionan un lenguaje corrompido y vaciado, mientras aspiran a otras formas 
+de la palabra, línea en la que se encontrarían autores como Hofmannsthal, Ernst 
+Mach, Fritz Mauthner, Karl Kraus o formas como la poesía fonética de Dadá 
+(Kovacsics 2008). A este respecto, Benjamin dice: “somos pobres en experiencias 
+memorables. Esto se debe a que ya no nos alcanza ningún acontecimiento que 
+no esté cargado de explicaciones. En otras palabras, casi nada de lo que acontece 
+beneficia a la narración y casi todo, a la información” (231). 
+Si pensamos esta cuestión al respecto de la obra de Caparrós, formada en 
+gran parte por textos cronísticos, puede notarse una tensión por transferir algún 
+tipo de experiencia, por decir ese punto vacío al parecer de Benjamin y Agam-
+ben, desde la asunción de que el lenguaje ya no causa nada, pero con la voluntad 
+de salvar la estrechez a la que el poder lo reduce, resignificándolo. Conviene 
+precisar, no obstante, que si bien podemos sentir que el mundo que analiza 
+Benjamin no dista mucho del nuestro ni del que escribe Caparrós, las coorde-
+nadas no son estrictamente las mismas ni la idea de experiencia se entiende de 
+134
+Christian Snoey Abadías | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+la misma manera en la obra de Benjamin que en la de Caparrós, aunque, por 
+supuesto, el acercamiento a la primera permite articular los posibles sentidos de 
+la segunda. La pregunta por cómo elaborar la experiencia está presente en los 
+textos de Caparrós y en su obra la experiencia se entiende como contacto con el 
+mundo, como un intento de acercamiento a él, que pasa por un alejamiento, en 
+la medida en que se puede notar la voluntad de suspender las ideas preconcebi-
+das y las inercias del pensamiento y del lenguaje. Por tanto, podríamos afirmar 
+que Caparrós efectúa un ejercicio consistente en poner en suspensión la propia 
+cosmovisión. 
+Agamben, avanzado su ensayo, a tenor de Las flores del mal de Baudelaire, 
+poesía en la que “no se funda una nueva experiencia, sino una carencia de ex-
+periencia sin precedentes” (53), sostiene que “el extrañamiento, que le quita su 
+experamentabilidad a los objetos más comunes, se convierte así en el procedi-
+miento ejemplar de un proyecto que apunta a hacer de lo Inexperimentable el 
+nuevo ‘lugar común’, la nueva experiencia de la humanidad” (55). En el caso de 
+la obra de Caparrós, la desautomatización, recurso del que se sirve para eviden-
+ciar la costumbre del lenguaje, responde a la voluntad contraria: es más bien de 
+un intento de transferir algún tipo de experiencia, incluso desde las ruinas de la 
+experiencia, tratando de restituir la capacidad significante del lenguaje.
+Deleuze, en su ensayo “La literatura y la vida”, incluido en Crítica y clínica, 
+sostiene que: 
+Lo que hace la literatura en la lengua es más manifiesto: como dice Proust, traza 
+en ella precisamente una especie de lengua extranjera, que no es otra lengua, ni un 
+habla regional recuperada, sino un devenir-otro de la lengua, una disminución de 
+esa lengua mayor, un delirio que se impone, una línea mágica que escapa del sistema 
+dominante (16). 
+Esa extranjerización de la lengua es, de alguna manera, el punto de llegada 
+tanto de la obra de Martín Caparrós como de la de Piglia, autor que le influye y 
+con el que guarda similitudes respecto de la postura ante el lenguaje2. En parti-
+cular, esta cercanía se puede notar sobre todo en los ensayos en los que Piglia de-
+sarrolla la idea de que la literatura actúa como un reverso de las ficciones o de los 
+lenguajes del poder; por ejemplo, en el opúsculo titulado “Ficción y política en 
+la literatura argentina”, incluido en Crítica y ficción. En este argumenta, a tenor 
+de la obra de Macedonio Fernández, que “la novela mantiene relaciones cifradas 
+con las maquinaciones del poder, las reproduce, usa sus formas, construye su 
+contrafigura utópica” (Piglia 117). La obra de ambos, pues, deriva en un intento 
+de sacar al lenguaje de los usos discursivos impuestos por las capas de poder, que 
+vehiculan determinadas emotividades y también ciertas cosmovisiones. 
+2 
+Para un estudio más detallado de las relaciones entre la obra de Piglia y de Caparrós, puede 
+consultarse “Una lectura pigliana de la obra de Martín Caparrós” (Snoey 2016).
+135
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Poética de la mirada: idea del viaje en las crónicas de Martín Caparrós: 129-144
+Estas teorías sobre la cancelación de la experiencia suponen una paradoja sus-
+tancial para el relato del viaje. El propio Agamben sostiene que la aventura “en la 
+edad moderna se presenta como el último refugio de la experiencia. Pues la aven-
+tura presupone que exista un camino hacia la experiencia y que ese camino pase 
+por lo extraordinario y por lo exótico (contrapuesto a lo familiar y a lo común)” 
+(34). La propia idea de experiencia, tal y como la articula Benjamin vinculada a la 
+narración, presupone el contacto con lo lejano: “Desde antiguo la Erfahrung, viaje 
+y aprendizaje, recorrido por la multiplicidad y memoria de las diferencias, rodeo 
+por lo distante y retorno a casa, ha sido considerada como proceso de formación, 
+matriz de la propia identidad diferenciada y compleja” (Fernández 109). ¿Cómo, 
+entonces, transmitir o vehicular la experiencia? es una pregunta que planea sobre la 
+obra del escritor argentino y en torno a la que volveré al final de este texto.
+En tanto, voy a desviarme un momento para volver en seguida, pues recordar 
+aquí una escena de la novela Austerlitz, de Sebald, puede ampliar estas ideas; en 
+concreto, cuando el personaje de Austerlitz recuerda las clases de historia del 
+profesor Hilary:
+Tratamos de presentar la realidad, pero, cuanto más nos esforzamos, tanto más se nos 
+impone lo que siempre se ha visto en el teatro histórico: el tambor caído, el soldado 
+de infantería que apuñala a otro, el ojo desorbitado de un caballo, el invulnerable 
+emperador, rodeado de sus generales, en medio del fragor congelado de la batalla. 
+Nuestra dedicación a la historia, según la tesis de Hilary, era una dedicación a imáge-
+nes prefabricadas, grabadas ya en el interior de nuestras mentes, a las que no hacemos 
+más que mirar mientras la verdad se encuentra en otra parte, en algún lugar apartado 
+todavía no descubierto por nadie. (75)
+Por tanto, en el momento de conceptualizar y transmitir la historia se recurre 
+a una serie de imágenes tipificadas y dadas de antemano, carentes de algún tipo 
+de experiencia, carentes de verdad, como se dice nostálgicamente en Austerlitz. Si 
+bien en la novela esta reflexión se circunscribe al ámbito de la historia, se puede 
+extender a una reflexión general sobre la narración, en su vínculo con la percep-
+ción de lo real. En cuanto al problema enunciado al principio, que gira en torno 
+al lenguaje en la obra de Caparrós, tanto en sus novelas como en sus crónicas, se 
+aprecia en ella una tensión por sortear las imágenes prefabricadas de las que habla 
+el profesor Hilary en la novela Austerlitz. En esta línea, una puerta de entrada a la 
+cuestión del lenguaje en la obra de Caparrós es su reflexión sobre la mirada, pues 
+en textos como Lacrónica (2015) o Larga distancia (1992) se puede considerar 
+que elabora una poética de la mirada, que el propio Caparrós sitúa en el centro 
+de su escritura cronística. Por poética se entiende aquí una serie de principios que 
+rigen la mirada caparrosiana, es decir, el tipo de contacto con el mundo y con el 
+lenguaje, y que se pueden encontrar articulados a lo largo de su obra, especial-
+mente en Larga distancia, en forma de reflexiones, muchas veces veladamente 
+programáticas. Antes de continuar, no hay que olvidar que la mirada es una cues-
+tión central del género de la crónica, tanto de las de Indias como de la crónica 
+136
+Christian Snoey Abadías | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+actual, vinculada al Nuevo Periodismo. También hay que tener presente que la 
+etimología de la palabra mirar proviene del latín mirari, que significa ‘admirarse’, 
+y que la palabra maravilla, de mirabilia, comparte la misma raíz. La referencia, 
+pues, a la mirada asombrada es constante en las Crónicas de Indias; no obstante, 
+la diferencia entre la practicada entonces y la actual es evidente: la materia en las 
+Crónicas de Indias es lo radicalmente distinto, nuevo, desconocido, aquello con 
+la capacidad de obligar a una reformulación de las coordenadas propias; en la 
+actual, en cambio, el ejercicio más bien consiste en renovar lo conocido, en poner 
+en duda la cosmovisión propia desde la conciencia de la misma. 
+Así, en Lacrónica podemos encontrar reflexiones como “La crónica es una 
+mezcla, en proporciones tornadizas, de mirada y escritura. Mirar es central para 
+el cronista –mirar en el sentido fuerte” (65) o “Mirar es la búsqueda, la acti-
+tud consciente y voluntaria de tratar de aprehender lo que hay alrededor– y de 
+aprender” (65) o también “mirar donde parece que no pasa nada, aprender a 
+mirar de nuevo lo que ya conocemos” (66). “Para eso sirven, entre tantas otras 
+cosas, los relatos: para re-ver, para mirar de otra manera aquello que estamos 
+acostumbrados a mirar” (478) o como dice más adelante: 
+Me he pasado los últimos veinte años diciendo que no hay crónica más difícil que 
+la de la manzana de mi casa: que es fácil ver qué vale la pena de ser contado en el 
+exotismo, en la gran diferencia, y que es difícil encontrarlo en eso que se ve todos 
+los días. Que eso sí requiere aprender a mirar y que por eso llevo tanto tiempo in-
+tentándolo y que todo lo que escribo es, en última instancia, una aproximación a esa 
+dificultad. (483) 
+De estas citas se pueden extraer dos cuestiones esenciales, relacionadas entre 
+sí: la costumbre, por un lado, sintetizada en la frase, “aprender a mirar de nuevo 
+lo que ya conocemos”, y el asombro, cifrado en la sentencia “mirar donde pa-
+rece que no pasa nada”. Sobre esta misma cuestión, Chesterton en Ortodoxia se 
+pregunta: “¿Cómo sorprendernos al mismo tiempo por el mundo y sentirnos 
+en él como en casa?” (10). Resuenan aquí también ecos de Borges, en concreto, 
+del texto “El pudor de la Historia”: “Un prosista chino ha observado que el uni-
+cornio, en razón misma de lo anómalo que es, ha de pasar inadvertido. Los ojos 
+ven lo que están habituados a ver” (Borges 255-256). En una línea semejante, 
+Guzmán Rubio, en torno a Los autonautas de la cosmopista o Un viaje atemporal 
+París-Marsella de Julio Cortázar y Carol Dunlop, sostiene: 
+el libro pretende mostrar que la posibilidad del viaje y de su sucesiva escritura siguen 
+existiendo, sin importar que los lugares desconocidos hayan desaparecido y que el 
+turismo se haya masificado. Cortázar y Dunlop (1983: 56) sugieren que la esencia 
+del viaje se encuentra en la forma de mirar. (Guzmán Rubio 127) 
+Ese es también el eje de la escritura cronística de Caparrós: la forma de mi-
+rar. Por otro lado, Santerbás, atendiendo a la lectura del Diario de viaje a Italia, 
+137
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Poética de la mirada: idea del viaje en las crónicas de Martín Caparrós: 129-144
+parte de la idea de que Montaigne representa el modelo del viajero perfecto. 
+Por supuesto, convendría añadir que existen distintos modelos de viaje y que en 
+cada época este se conceptualiza de distintas maneras; sin embargo, la contrapo-
+sición del modelo que representa Montaigne con el que ensaya Caparrós puede 
+ayudar a pensar algunas cuestiones. Santerbás sustenta su argumentación en los 
+siguientes puntos: por una parte, Montaigne “sentía una curiosidad congénita 
+e insuperable por todo lo desconocido” (17), por otra parte, “aceptaba, por el 
+mero placer de la variedad” (17) la diversidad y “se consideraba cosmopolita, no 
+por creerse ciudadano del mundo, sino por no serlo de ciudad alguna” (17). Si 
+bien en la obra de Caparrós estas cualidades pueden estar también presentes, la 
+cuestión del viaje, no obstante, confluye en el problema de la mirada, en la pro-
+blematización de la concepción misma del viaje y de los elementos que lo com-
+ponen en nuestra estricta contemporaneidad, pues intenta ensayar una mirada 
+metafísica, consistente en sortear la costumbre del lenguaje, es decir, en que este 
+renueve las potencialidades significantes de los objetos. Este proceso pasa por un 
+cuestionamiento de las diversas mediatizaciones que intervienen en el momento 
+de pensar lo real. De hecho, el recorrido que se traza en El interior (2006), una 
+extensa crónica por el interior argentino, puede sintetizarse como un viaje de la 
+costumbre al asombro, que se aprecia en las líneas finales del texto, cuando el 
+narrador regresa a Buenos Aires:
+Llego a aquella autopista del principio. Después de tanto Interior la entrada a Bue-
+nos Aires es impresionante. Las dimensiones, las proporciones son impresionantes. 
+La multitud de autos que se pueden juntar en la autopista, por ejemplo, es muy 
+impresionante. La cantidad de kilómetros que hace que estoy viendo pasar suburbios 
+y suburbios y suburbios. La masa de ruido, de movimientos, de imágenes carteles 
+edificios. Todo eso que me ha parecido normal miles de veces de pronto se me vuelve 
+casi monstruoso: impresionante. Todo está en la mirada, o sea:
+todo está en todos lados
+y en ninguno.
+lo que nunca perdiste, me decía.
+un país. (684)
+Son varios los textos en los que Caparrós reflexiona sobre el viaje; sin em-
+bargo, acaso sea en Larga distancia donde se pueda encontrar la cifra de la idea 
+del viaje en su obra. Este compendio de crónicas apareció inicialmente en 1992, 
+publicado por Planeta, en Argentina, y tuvo impacto en el panorama español 
+cuando en 2017 Malpaso lo recuperó. El volumen está precedido por un prólo-
+go de Tomás Eloy Martínez que asienta varias líneas de fuga que permiten leer 
+la obra de Caparrós. El prólogo concluye con una sentencia frecuentada por 
+la crítica literaria: “Quien haya leído las cuatro ficciones anteriores de Martín 
+Caparrós descubrirá tal vez que, en este libro escrito casi por azar, el autor ha 
+encontrado por fin su voz. Una voz conmovedora, memorable, que no se parece 
+138
+Christian Snoey Abadías | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+a ninguna otra” (8). En efecto, “encontrar la voz” es un sintagma socorrido por la 
+crítica literaria, aunque aquí, escrito por Tomás Eloy Martínez, cuya influencia 
+fue notoria en la formación literaria de Caparrós, y cotejando esta obra con su 
+producción anterior, no se revela como un tópico vacío y publicitario, sino que 
+aporta sentido a la lectura. Larga distancia recoge una serie de crónicas que reco-
+rren distintos lugares –Hong Kong, Lima, Brasil, Haití, Moscú, Madrid, etc.–, 
+pero es sobre todo una reflexión sobre el presente, el viaje, la noción de aventura, 
+sobre la mirada y la otredad, que fluctúan entre el ensayo, la biografía, la crónica 
+e incluso la novela por la intercomunicación que existe entre sus distintas par-
+tes. El viaje se convierte aquí en hilo conductor y también en un horizonte de 
+reflexión en torno al que se desgrana la visión de lo real. 
+Pero de vuelta al texto de Tomás Eloy Martínez que encabeza el libro, el 
+autor de Santa Evita o de La novela de Perón principia su prólogo apelando a 
+la tradición hispanoamericana de la crónica, que no plantea como un género, 
+sino como una matriz creativa que se remonta ya al origen, como un elemento 
+atomizado que puede rastrearse y que se imbrica con el resto de géneros:
+La crónica es, tal vez, el género central de la literatura argentina. La tradición literaria 
+parte de una crónica magistral, el Facundo. Otros libros capitales como Excursión a 
+los indios ranqueles, de Mansilla; Martín Fierro, de Hernández; En viaje, de Cané; La 
+Australia argentina, de Payró; las Aguafuertes, de Arlt; Historia universal de la infamia, 
+de Borges; los dos volúmenes misceláneos de Cortázar (La vuelta al día… y Último 
+round); y los documentos de Rodolfo Walsh son variaciones de un género que, como 
+el país, es híbrido y fronterizo. (7) 
+Que Tomás Eloy Martínez detecte y refiera esta tradición responde a la vo-
+luntad de incardinar la obra de Caparrós en ella, de tal forma que ofrece también 
+unas claves de lectura: 
+Larga distancia ahonda esa tradición y la renueva. Aunque el eje sobre el que se ar-
+ticulan los dieciocho textos (¿o capítulos de novela, o fragmentos de autobiografía?) 
+son los viajes, en cada movimiento hay núcleos de ficción, estaciones de pensamiento 
+donde Caparrós entra en conflicto con los azares de su propia mirada y establece con 
+el lector una relación cómplice, una especie de diálogo subterráneo en los que se jue-
+gan cartas como los mitos cinematográficos, el cine norteamericano de los cincuenta, 
+las iconografías argentinas, el Quijote, el Che, los sueños de la historia. (7)
+En suma, la obra de Caparrós se inserta en esta tradición y le confiere sus 
+propias modulaciones. Como indica Tomás Eloy Martínez, con un argumento 
+que recuerda a los postulados de Hayden White en obras como Metahistoria. 
+La imaginación histórica en la Europa del siglo XIX o El contenido de la forma: 
+“lo mejor de Larga distancia está, sin embargo, en esa zona equívoca donde las 
+crónicas se entretejen con la historia y la historia con la ficción” (Martínez 8). 
+En primera instancia, los textos que componen esta obra fueron artículos perio-
+139
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Poética de la mirada: idea del viaje en las crónicas de Martín Caparrós: 129-144
+dísticos, escritos por encargo, pero en el traslado al formato de libro su estatuto 
+varía y se relaciona con el lector de otra forma: la inmediatez se disipa y pasan 
+a integrarse como obra. Varias de las crónicas que conforman Larga distancia 
+están precedidas por textos breves, de corte reflexivo, ensayístico y programáti-
+co, que actúan a modo de hilo conductor y le confieren unidad al volumen. La 
+cursiva en la que están escritos marca, además, que se trata de otro plano men-
+tal y discursivo. En estos breves interludios es donde se encuentra la reflexión 
+sobre el viaje que articula toda la obra. El primero de estos textos, que abre el 
+volumen y precede a la crónica titulada “Hong Kong. El espíritu del capital”, 
+pivota sobre tres ideas: la de larga distancia, la mirada y la relación entre viaje y 
+relato: “El placer de dejarse contar, de dejarse llevar, de acompañar una mirada 
+claramente arbitraria: el relato de un viaje, el ínfimo fragmento de una vida” 
+(11). Aquí, pues, se desliza una defensa, un alegato de la mirada arbitraria, es 
+decir, capaz de asombrarse, que programáticamente indica la forma de mirar –y 
+pensar– lo real que articula los textos que siguen. De hecho, más adelante, en la 
+crónica titulada “Caparrós o la derrota esperanzada”, se describe a un personaje 
+de la siguiente manera: “La miniatura esmaltada lo muestra con el ceño apreta-
+do, las patillas frondosas, la nariz convexa y afilada, los ojos sin asombro” (210). 
+La fuerte presencia de la mirada, tanto a un nivel reflexivo como descriptivo, 
+indica su centralidad en la configuración del relato en la obra de Caparrós. En 
+este mismo fragmento añade otro componente: “Y el placer, para mí, de hacer 
+de la mirada pretendidamente neutra del reportero un ojo caprichoso” (11). 
+Así, en lugar de ofrecer la versión oficial, esperada, el simulacro pactado de 
+la neutralidad, la mirada se revuelve contra los mitos y las asunciones y busca 
+reelaborar intelectualmente lo aprendido antes de viajar. Además, como pre-
+cisa Jorge Carrión: “El cronista trabaja en contra de la versión oficial, contra 
+el comunicado de prensa, contra la simplicidad de cualquier marca. Genera 
+complejidad porque sabe que, aunque la realidad es múltiple, sus cronistas ofi-
+ciales pretenden que parezca sencilla” (9). Conviene añadir que Carrión guarda 
+vínculos culturales tanto con Italia como con Hispanoamérica; por un lado, le 
+ha dedicado a Italia una de sus mejores crónicas, titulada “Los perros de Capri”, 
+en la que se centra en la figura del escritor Curzio Malaparte. Además, en una 
+de sus obras centrales, el ensayo Librerías, tanto Italia como Hispanoamérica 
+son dos ejes centrales del mapa que traza. Por otro lado, ha desempeñado un 
+papel importante en la recepción en España de autores como Marcelo Cohen 
+–de quien solamente se ha publicado en España el volumen de ensayos, editado 
+y prologado por Carrión, titulado Notas sobre literatura y el sonido de las cosas–, 
+el propio Martín Caparrós o incluso de Ricardo Piglia. El interior, de Caparrós, 
+por ejemplo, se publicó inicialmente en 2006 en la editorial Planeta, aunque no 
+se distribuyó más allá del Cono Sur, hasta que, en 2014, Malpaso la recuperó y 
+la obra pudo entrar en diálogo con los lectores españoles, acompañada por un 
+prólogo de Jordi Carrión en el que pondera la importancia de este texto en la 
+historia reciente del género de la crónica. 
+140
+Christian Snoey Abadías | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+En Larga distancia, pues, esta primera pieza se cierra con una idea semejante 
+a la que esboza Tomás Eloy Martínez en su prólogo sobre el estatuto genérico de 
+la crónica: “Esconderse en un cruce: deslizarse más acá del periodismo, más allá 
+de la literatura, para ocupar un lugar sin espacio: escribir crónicas. Retratos del 
+tiempo” (Caparrós 11). En el segundo de estos breves interludios desarrolla la 
+idea de los condicionantes de la mirada. Este fragmento principia con las ideas 
+anteriores: la mirada y el relato. En esta poética que esboza Caparrós el viaje está 
+unido al relato, “viajar para contarlo”, y esta unión “obliga a una intensidad de 
+la mirada, que me obliga a ver lo que no miraría” (31). No obstante, como se ha 
+apuntado antes, la mirada no es neutra, por ello la reflexión en torno a los condi-
+cionantes de la mirada recorre la obra de Caparrós: una pregunta constante sobre 
+el lugar desde el que mira planea sobre todas las crónicas. Aquí lo denomina 
+“problemas de la mirada” y parte de la nacionalidad como un elemento condi-
+cionante: “Hay películas y guías y novelas americanas que transcurren en todos 
+los lugares posibles: sobre cualquier cosa hay un relato americano. Y, al mismo 
+tiempo, ser americano es un dato fuerte, significa algo, condiciona lo mirado” 
+(31). El punto de llegada de esta reflexión es la asunción, de raíz borgiana, de 
+la orfandad identitaria argentina, que posibilita una irreverencia de la mirada, 
+como se ha referido al principio de este texto. 
+En el tercer interludio cuestiona el lugar común que relaciona el viaje con el 
+conocimiento partiendo del contexto actual: “el viaje actual es una forma chasco 
+del conocimiento, propio del planeta TV. Transportarse hasta un lugar casi vir-
+tual y recorrerlo a través de un circuito cuidadosamente acotado” (59). Resuenan 
+aquí las ideas antes apuntadas sobre la imposibilidad de la experiencia ensaya-
+das por Benjamin y Agamben. Más adelante contrapone dos visiones del viaje: 
+entendido, por un lado, como turismo, es decir, como pasar por un lugar, sin 
+reflexión: “Lo que importa es verse –allí– para creer, mirar para confirmar dos o 
+tres ideas previas, estar para haber estado, para hacer propia una postal” (59-60). 
+Por el otro lado, contrapone el viaje concebido como forma de desvalimiento del 
+otro, aunque tampoco filia su postura en esta visión: 
+Aunque el supuesto contrario tampoco termina de convencerme. ¿Habría que pre-
+tender el objetivo –imposible– de entender, de desvelar lo otro? ¿O pensar que es 
+mejor no intentarlo siquiera, leerlo como extrañeza, como distancia, para que siga 
+manteniendo su condición de existencia, para que no se corra el riesgo de que deje 
+de ser otro? (60) 
+La duda es el procedimiento mental de la obra de Caparrós; el cuestiona-
+miento constante, la interrogación perpetua actúan como motor de la narra-
+ción, como capta Carrión en el prólogo a El interior: “Porque nada más afín a 
+la poética de Martín Caparrós que el cuestionamiento incesante, por momentos 
+impertinente, en perpetuo desafío. Viajar entre signos de interrogación” (5). Por 
+tanto, el escepticismo, que se traduce incluso en el lenguaje, es decir, en las es-
+141
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Poética de la mirada: idea del viaje en las crónicas de Martín Caparrós: 129-144
+tructuras sintácticas que utiliza, es uno de los elementos rectores de la poética de 
+la mirada que ensaya Caparrós. 
+En el siguiente interludio continúa desarrollando los elementos que confor-
+man esta imposibilidad de la experiencia. Por un lado, apunta que el viaje tiene 
+cierto componente ficcional: “En un viaje, en cualquier viaje, todo es gozosamen-
+te falso: ahí está, probablemente, gran parte de la felicidad e inquietud del viaje: 
+vivir, entre paréntesis, una ficción” (83). Por otro lado, reflexiona en torno a la 
+sensación de ajenidad de uno mismo, de interpretarse distinto en otro lugar: 
+El viaje ofrece el alivio de actuar en un teatro ajeno, donde uno se pone en escena con 
+los tiempos acotados de antemano: el placer infinito de suponerse otro, de descansar 
+de sí mismo por un tiempo previsto. Hasta que llega la decepción de descubrirse tras 
+la máscara frágil. (83)
+En el quinto se pueden encontrar apuntados también dos temas. El primero 
+es el tiempo del viaje, entendido en su dimensión de consumo, y la sensación de 
+ansiedad por ocupar todo el tiempo útil: “El viajero es siempre un condenado y 
+el tiempo y su desliz se vuelven aún más angustiosos y aparece –se me aparece– la 
+obligación de aprovechar a ultranza todos los momentos […]. Modelo vergonzoso 
+de aprovechamiento: la rentabilidad” (143). El segundo es la capacidad de asom-
+brarse y aquello que provoca asombro: “Y lo que debe ser disfrutado es, sospecho-
+so, menos lo novedoso que lo irrepetible: el espacio se arma de la calidad más artera 
+del tiempo y se vuelve, también, fugitivo, perdido al encontrarlo” (143). 
+Antes de comentar el último de estos textos fragmentarios, conviene anotar 
+que las ideas aquí apuntadas al respecto de la poética de la mirada se pueden 
+relacionar con el concepto de haecceidad, pues en este movimiento enfocado 
+a cuestionar las distintas mediatizaciones que intervienen en el momento de 
+escribir la realidad se aprecia la voluntad de captar la haecceidad, es decir, el 
+detalle particular, el detalle revelador de una individualidad irreductible a toda 
+generalización, a la manera en que lo entiende Deleuze: 
+Existe un modo de individuación muy diferente del de una persona, un sujeto, una 
+cosa o una sustancia. Nosotros reservamos para él el nombre de haecceidad. Una 
+estación, un invierno, un verano, una hora, una fecha, tienen una individuación 
+perfecta y que no carece de nada, aunque no se confunda con la de una cosa o de un 
+sujeto. Son haecceidades, en el sentido de que en ellas todo es relación de movimiento 
+y reposo entre moléculas o partículas, poder de afectar y de ser afectado. (Deleuze y 
+Guattari 120)
+En esta línea de cuestionamiento de los ejes o lugares comunes en torno a 
+los que tiende a pensarse el viaje y que marca todo el volumen, en el último de 
+los textos, el tono da un giro y se ensaya una propuesta de conceptualización 
+del viaje, un intento de rescatar la experiencia: el texto está compuesto por una 
+larga enumeración de haecceidades, es decir, por una serie de individuaciones 
+142
+Christian Snoey Abadías | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+que cifran algún tipo de sentido o, mejor dicho, con las que se intenta activar 
+algún tipo de experiencia. Este último fragmento se encabeza con la siguiente 
+reflexión: “Pero yo sigo sospechando que los viajes son, en realidad, otra cosa” 
+(233). Tras este inicio se encadenan una serie de detalles que actúan como cajas 
+de resonancia de sentido que se suceden mediante la conjunción disyuntiva “o”, 
+por ejemplo: “O la noche en que jugamos a dígalo con mímica en una playa de 
+Cap Haitien y yo hacía de vaca para representar la Vía Láctea. O dos mujeres 
+extremadamente pobres, flacas, sucias, en esa misma playa, que se compraron un 
+ramito de flores secas” (233). El tono reflexivo y de duda respecto a lo que es el 
+viaje desemboca, pues, en un intento de cifrar la experiencia del viaje. Tras esta 
+extensa enumeración, Larga distancia se cierra con tono escéptico, refiriendo lo 
+que queda fuera del relato: 
+Creo que esto es lo que sé de los viajes. Esto que afortunadamente es obsceno, que 
+no se puede contar. El resto, los relatos, pronto se vuelve desconocido, ajeno: es el 
+discurso que se organiza para sobrevivir, para pagar las deudas: estrategias para alejar 
+las imágenes que alguna vez importarán. (235) 
+Este perfil de la poética de la mirada lo completaría la idea de “hipervia-
+je” que desarrolla en el libro Una luna. Diario de hiperviaje (2009). El propio 
+Caparrós, en Lacrónica, define de la siguiente manera el concepto: “esa forma 
+contemporánea de rebotar en mapas en que el sujeto se duerme en Monrovia y 
+se despierta en Ámsterdam, en que se mueve como quien rebota con clics entre 
+hipervínculos, en que los saltos en el espacio no tienen correlatos en el tiempo” 
+(534). 
+En relación con el segundo problema anunciado antes, retomo la pregunta 
+planteada al inicio: ¿cómo escribir cuestionando las categorías que atrapan el 
+lenguaje mediante un lenguaje precisamente atrapado? Es decir, partiendo de 
+la asunción de que una de las líneas de fuga del proyecto caparrosiano consiste 
+en cuestionar el lenguaje dado, hegemónico, aquellas imágenes prefabricadas 
+de la realidad tomando las palabras de Sebald en Austerlitz, ¿qué alternativa se 
+propone en su obra?  En donde acaso se cifra mejor la postura de Caparrós a este 
+respecto sea en las páginas liminares del ensayo El Hambre (2016), pues allí dice 
+lo siguiente: 
+¿cómo pelear contra la degradación de las palabras? Las palabras «millones-de-perso-
+nas-pasan-hambre» deberían significar algo, causar algo, producir ciertas reacciones. 
+Pero, en general, las palabras ya no hacen esas cosas. Algo pasaría, quizá, si pudiéra-
+mos devolverles sentido a las palabras (13).
+Caparrós aquí parte de la premisa de que el lenguaje está domesticado y de 
+que la finalidad de un ensayo de esta índole sería causar algún efecto, alguna re-
+acción, pero que el lenguaje está atrapado en una serie de categorías tranquiliza-
+doras, tomando el concepto que utiliza Cortázar en Rayuela (138). La propuesta, 
+143
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669 | Poética de la mirada: idea del viaje en las crónicas de Martín Caparrós: 129-144
+entonces, se encuentra en la oración final: “algo pasaría, quizá, si pudiéramos 
+devolverles sentido a las palabras” (Caparrós El Hambre 13). A este respecto, la 
+postura de Caparrós recuerda a la ensayada por David Grossman en Escribir en 
+la oscuridad, pues se inserta en la misma línea de recuperación del lenguaje, en la 
+medida en que muestra la voluntad de detectar este lenguaje que ha perdido su 
+capacidad transformadora y rescatarlo, desatraparlo de esa estrechez. En suma, 
+en su obra se aprecia la voluntad de recuperar el sentido de las palabras para que 
+sean capaces de transferir algún tipo de experiencia. De esta manera, la respuesta 
+de Caparrós se asemeja a estas palabras de Grossman sobre el lenguaje con las 
+que concluye su ensayo: “la [libertad] de expresarse de una forma diferente, nue-
+va, frente a todo lo que amenaza con encadenarle y atarle con las definiciones 
+limitadas y fosilizadas de la arbitrariedad” (Grossman 17).
+En síntesis, los elementos que conforman esta poética de la mirada son la 
+duda, el escepticismo, la reflexión en torno a los condicionantes de la mirada, el 
+asombro, la atención al lenguaje con el que se piensa y refiere el viaje, así como 
+la asunción de la cancelación de la experiencia y la voluntad, pese a ello, de 
+captar algún tipo de experiencia, en virtud, acaso, de una idea nostálgica de este 
+concepto, mediante una escritura consciente del lenguaje, en un intento por re-
+cuperar su valor transformador. Quizá las ideas aquí expuestas se puedan resumir 
+en dos famosos versos de Eliot, que sirven de epígrafe a Respiración artificial, de 
+Piglia: “Hemos adquirido la experiencia, pero extraviamos el sentido / y acercar-
+se al sentido restaura la experiencia” (Eliot 115). En suma, si la cancelación de la 
+experiencia sobre la que ensayan Benjamin y Agamben, intuye Eliot y recupera 
+Piglia supone una paradoja para el relato del viaje, ese interrogante en la obra 
+de Caparrós se traduce en un cuestionamiento de las diversas mediatizaciones 
+que se vehiculan con el lenguaje, bajo la intuición de que desatrapándolo de los 
+condicionantes de la mirada, de las imágenes estereotipadas, acaso se restituya 
+la posibilidad de vehicular algún tipo de experiencia o, al menos, una sensación 
+de experiencia. 
+Referencias bibliográficas
+Agamben, Giorgio. Infancia e historia. Ensayo sobre la destrucción de la experien-
+cia. Buenos Aires, Adriana Hidalgo editora, 2011.
+Baricco, Alessandro. Los bárbaros. Ensayo sobre la mutación. Barcelona, Anagra-
+ma, 2017.
+Benjamin, Walter. “Experiencia y pobreza”, “El narrador. Consideraciones sobre 
+la obra de Nikolái Léskov”. Iluminaciones. Madrid, Taurus, 2018, pp. 95-
+100, 225-252. 
+Borges, Jorge Luis. “El pudor de la historia”. Otras inquisiciones. Madrid, Alian-
+za, 2007.
+144
+Christian Snoey Abadías | 
+ XXV.2 (mayo-agosto 2021) ISSN 1851-4669
+Caparrós, Martín. Lacrónica. Barcelona, Círculo de Tiza, 2015.
+_____. El interior. Barcelona, Malpaso, 2014.  
+_____. El Hambre. Barcelona, Anagrama, 2016. 
+_____. Larga distancia. Barcelona, Malpaso, 2017.
+Carrión, Jorge, editor. Mejor que ficción. Crónicas ejemplares. Barcelona, Anagra-
+ma, 2012.
+Chesterton, G. K. Ortodoxia. Barcelona, Acantilado, 2013.
+Cortázar, Julio. Rayuela. Madrid, Cátedra, 2013. 
+Deleuze, Gilles. Crítica y clínica. Barcelona, Anagrama, 2016.
+Deleuze, Gilles y Félix Guattari. Mil mesetas. Capitalismo y esquizofrenia. Valen-
+cia, Pre-textos, 2010. 
+Eliot, T. S. Cuatro cuartetos. Barcelona, Lumen, 2016. 
+Fernández García, Eugenio. “Walter Benjamin: Experiencia, tiempo a historia”. 
+Anales del seminario de historia de la filosofía, no 12, 1995, pp. 107-130.
+Grossman, David. Escribir en la oscuridad. Barcelona, Debolsillo, 2011. 
+Guzmán Rubio, Federico. “Tipología del relato de viajes en la literatura hispa-
+noamericana: definiciones y desarrollo”. Revista de Literatura, vol. LXXIII, 
+n.o 145, 2011, pp. 111-130. https://doi.org/10.3989/revliteratura.2011.
+v73.i145.254
+Kovacsics, Adan. Guerra y lenguaje. Barcelona, Acantilado, 2008.
+Martínez, Tomás Eloy. “Apogeo de un género”, en Martín Caparrós, Larga dis-
+tancia. Barcelona, Malpaso, 2004, pp. 11-12. 
+Piglia, Ricardo. Crítica y ficción. Barcelona, Debolsillo, 2014.
+Santerbás, Santiago R., editor. “Introducción”, en Michel de Montaigne, Diario 
+de viaje a Italia, Madrid, Cátedra, 2010. 
+Sebald, Winfried Georg. Austerlitz. Barcelona, Anagrama, 2014.
+Snoey Abadías, Christian. “Una lectura pigliana de la obra de Martín Caparrós”. 
+Pensamiento al margen, n.o 5, 2016, pp. 157-166. 
+Steiner, George. La poesía del pensamiento. Del helenismo a Celan. Madrid, Siru-
+ela, 2012. 

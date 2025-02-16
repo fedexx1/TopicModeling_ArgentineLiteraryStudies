@@ -1,0 +1,427 @@
+Imágenes de los dioses en Cicerón: límites y contradicciones de la teología epicúrea
+sobre la imagen divina en De natura deorum I
+Claudia Beltrão
+Universidad Federal del Estado de Río de Janeiro (UNIRIO), Brasil
+claudia.rosa@unirio.br
+Resumen:
+En De natura deorum, Cicerón presenta una crítica contundente a los límites y contradicciones de la teología antropomórﬁca 
+epicúrea. Dirigiéndose especialmente a Epicuro en lo que se reﬁere al tema del deus eﬃgies hominis et imago (Nat. D. I.103), 
+Cicerón solicita a los epicúreos una deﬁnición más rigurosa de las relaciones entre la imagen de culto (una forma histórica de la 
+ﬁguración de lo divino) y los simulacra/imagines emanados directamente de los cuerpos de los dioses, denotando la insuﬁciencia 
+del abordaje epicúreo sobre las imágenes divinas para fundamentar la pietas romana.
+Palabras clave: Estatuas de los dioses, Conocimiento religioso, Teología romana.
+Abstract:
+In De natura deorum, Cicero presents a striking criticism of the limits and contradictions of Epicurean anthropomorphic theology. 
+Especially addressing Epicurus on the theme of deus eﬃgies hominis et imago (Nat. D. I.103), Cicero demands to the Epicureans a 
+more rigorous deﬁnition of the links between the cult image (a historical form of the divine ﬁguration) and the simulacra/imagines 
+directly emanating from the bodies of the gods, denoting the insuﬃciency of the Epicurean approach to the divine images to 
+support Roman pietas.
+Keywords: Statues of the Gods, Religious Knowledge, Roman eology.
+La literatura de la república romana tardía está caracterizada por una serie de obras en las cuales los temas
+religiosos son, de un modo u otro, centrales. Desde por lo menos el siglo II a. C., los autores romanos
+comenzaron a escribir sistemáticamente sobre los orígenes y los signiﬁcados de su religión y, en el siglo I, los
+contenidos y las prácticas de la religio romana fueron sometidos a interpretación y a explicación racionales.
+La existencia de una tradición escrita puede ser determinante para la organización y el éxito de un sistema
+religioso, tanto políticamente – en términos de la deﬁnición y jerarquización de instituciones y poderes –
+como intelectualmente, en lo que concierne a la organización y a la estructuración del conocimiento religioso
+1 . Varrón, Lucrecio y Cicerón no fueron los únicos; existe una serie de nombres, títulos y fragmentos que nos
+permiten entrever una intensa actividad literaria en la república tardía que se ocupaba de temas teológicos
+2 . Esas obras ponen en evidencia un acentuado diálogo entre los temas e imágenes de la retórica y de la
+ﬁlosofía griega clásica y helenística 3 , y surgen como un elemento importante a considerar en el estudio de la
+dinámica cultural religiosa romana, constituyendo una forma de conocimiento religioso per se que interactúa
+con las prácticas y conocimientos del vasto sistema religioso romano y con las corrientes ﬁlosóﬁcas del
+mundo helenístico contemporáneo. En este punto, consideramos fundamentales los estudios de Jörg Rüpke
+4 , que proponen un análisis de lo que denomina “racionalización”de la religión romana, deﬁnida como un
+proceso de abstracción de reglas y principios de la práctica, que se vuelve objeto de un discurso especializado,
+codiﬁcado y rigurosamente elaborado, con reglas de argumentación, espacios especíﬁcos e instituciones que
+guían la conducta político-religiosa y las innovaciones de esas prácticas 5 .
+Auster, no. 23, noviembre 2018, e042. ISSN 2346-8890 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación 
+Centro de Estudios Latinos
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Cita sugerida: Beltrão, C. (2018). Imágenes de los dioses en Cicerón: límites y contradicciones de la teología epicúrea sobre la imagen 
+divina en De natura deorum I. Auster, (23), e042. https://doi.org/10.24215/23468890e042  
+Recepción: 01 junio 2018 | Aprobación: 20 junio 2018 | Publicación: 16 noviembre 2018
+ARTÍCULOS/ARTICLES
+Traducción de: María Emilia Cairo y Roxana Inés Calvo 
+Auster, no. 23, noviembre 2018, e042. ISSN 2346-8890
+2
+Hablamos, pues, de un proceso de construcción y estructuración de los discursos religiosos en un momento
+de grandes cambios políticos y sociales. En este proceso, la obra de Cicerón es de capital importancia.
+Actualmente, estamos desarrollando una investigación sobre el lugar y el papel de las imágenes de los dioses,
+en particular de sus estatuas en el corpus ciceroniano 6 , en busca de una comprensión más precisa de la
+construcción de los discursos teológicos y normativos en la república tardía y, en consecuencia, de la historia
+religiosa e intelectual romana. El estudio de las imágenes de los dioses examina no sólo las propias imágenes,
+sino también especialmente las prácticas que justiﬁcan su uso, y los discursos y respuestas frente a ellas 7 , en los
+que se unen datos mentales, ideológicos y culturales, así como operaciones de racionalización en los discursos
+verbales, literarios, visuales y rituales. Cicerón participó activamente de la creación de un vocabulario latino
+para la designación de las imágenes religiosas 8  desplegando una reﬂexión sobre la relación entre las imágenes
+divinas y la idea de los dioses que se reﬁere a la cuestión de la imagen como soporte del conocimiento de lo
+divino. Nuestra propuesta aquí es analizar, en el libro I de De natura deorum, algunos aspectos de la crítica
+ciceroniana a los límites y contradicciones de la teología antropomórﬁca epicúrea. Cicerón dirige su crítica
+especialmente a Epicuro, pidiendo a los epicúreos una deﬁnición más rigurosa de la distinción entre la imagen
+de culto y los simulacra / imagines epicúreos, directamente emanados de los cuerpos de los dioses, poniendo
+de maniﬁesto la insuﬁciencia del abordaje epicúreo sobre las imágenes divinas para fundamentar la pietas
+romana, al tiempo que delimita un enfoque posible para unir las representaciones tradicionales de los dioses
+y el conocimiento sobre lo divino, fruto de una elaboración intelectual compleja.
+El corpus documental epicúreo es bastante limitado, tanto en relación a las obras de Epicuro como a las
+de sus discípulos más cercanos9. Dicho corpus no es explícito en relación a la teología y, especialmente, a la
+formación de las imagines en la mente humana, y la doctrina de Epicuro es reconocidamente oscura para los
+exégetas modernos 10 . De hecho, tenemos acceso a un material literario producido entre los años 70 y 45
+en el ámbito romano y, rigurosamente hablando, el material más extenso se reduce a las obras de Cicerón,
+de Lucrecio y de Filodemo 11 . El tratado De natura deorum de Cicerón es una de las principales fuentes
+sobre la teología epicúrea, y tiene un interés particular en un momento de grandes debates intelectuales sobre
+los fundamentos de las instituciones y creencias religiosas romanas, ampliados por las contribuciones de la
+ﬁlosofía helenística 12 .
+Este corpus documental pone de maniﬁesto que los epicúreos defendían la idea del deus eﬃgies hominis et
+imago  13 , los dioses a imagen y semejanza de los seres humanos, y el personaje de Cota, el pontíﬁce, pide a
+Veleyo, el epicúreo, un desarrollo más articulado de las tesis sobre las imágenes de los dioses, preguntando
+por la naturaleza de esas representaciones. ¿Serían percibidas? ¿Construidas? Y, si son construidas, ¿cómo?
+Antes de detenernos en la crítica de Cicerón a los límites y contradicciones de las tesis epicúreas sobre las
+imágenes divinas, son importantes algunos datos sobre el estado general de la cuestión de las imágenes de los
+dioses en el debate tardorrepublicano. Para Varrón, el papel de las imágenes de los dioses en el culto no es
+esencial, pues el culto puede ser perfectamente realizado sin ellas. Aún así, las imágenes de los dioses han sido
+documentadas antiguamente, así como los nombres de los dioses, y ambos tienen el valor que la tradición les
+conﬁere 14 . Desde una perspectiva similar, en el extenso pasaje sobre la procesión de (la estatua de) Magna
+Mater 15 , el epicúreo Lucrecio pregunta por el valor de la estatua y de los rituales, subrayando, en la conclusión
+del pasaje, que no se deben negar los nombres o las representaciones de la tradición, pero que sí se trata de
+evitar creencias infundadas 16 . Esa preocupación por respetar los cultos y las imágenes tradicionales también
+está documentada en Filodemo, para quien no solamente es útil participar de los festivales tradicionales, sino
+también, por medio de ellos, avanzar hacia la comprensión de lo divino 17 . Para los epicúreos, la imagen
+antropomórﬁca de los dioses es el medio por el cual la naturaleza hizo que los seres humanos conocieran a
+las divinidades, antes de que hubiesen recibido cualquier enseñanza formal sobre la existencia de los dioses,
+pero de manera inmediata y evidente. Si esta es la doctrina epicúrea sobre la existencia de los dioses o no, las
+Auster, no. 23, noviembre 2018, e042. ISSN 2346-8890
+3
+diﬁcultades provenientes del corpus documental no permiten responderlo, pero esta es, al menos, la fórmula
+declarada por Veleyo en De natura deorum  18 :
+Sobre su forma (forma), al menos, nos da señales la naturaleza, por una parte, y nos instruye la razón por otra. Pues ninguno
+de nosotros –sea del pueblo que sea – deduce de la naturaleza (species) otra apariencia de los dioses que no sea la humana,
+porque ¿qué otra forma se le aparece a uno jamás, tanto si está despierto, como si está dormido? Pero, a ﬁn de no remitirlo
+todo a las concepciones más elementales: eso mismo es lo que pone de maniﬁesto la propia razón. 19
+Asoma una diﬁcultad, que será aprovechada por los adversarios de los epicúreos: si la imagen de culto es una
+de las formas históricas de la representación de lo divino, ¿cómo podría esa imagen manifestar otra cosa más
+allá de las creencias, conocimientos y convicciones de los propios pueblos que las construyeron? Teniendo en
+cuenta la historicidad y la variedad de las imágenes divinas en el mundo humano, ¿cómo aﬁrmar que la imagen
+antropomórﬁca constituye la forma universal o natural de la divinidad? Esas objeciones se repiten muchas
+veces en la crítica de Cota 20 , y remiten a una diﬁcultad epistemológica que puede ser vista en Lucrecio, quien,
+de hecho, no establece lazos precisos entre, por un lado, las imágenes percibidas en sueños que darían a los
+seres humanos la noción de los dioses y que están en el origen de los cultos 21 , y, por otro lado, las imágenes que
+hacen que los seres humanos conozcan a los dioses, fuente y objeto de la “verdadera piedad” 22 . En Lucrecio
+y en el discurso de Veleyo, se trata siempre de imágenes. Los primeros seres humanos habrían visto en sueños
+formas grandes y bellas, a las cuales atribuían poder y eternidad 23 . Esas visiones oníricas se confunden con los
+simulacra, mensajes emanados de los cuerpos de los dioses, que Lucrecio evoca rápidamente en dos pasajes:
+en el libro 5, los primeros humanos vieron facies et formae; en el libro 6, la verdadera piedad consiste en
+recibir con el corazón sereno los simulacra que “anuncian la forma de los dioses” 24 . Nótese que Lucrecio no
+explicita la manera por la cual la creencia en los dioses se desarrolla a partir de las imágenes, lo que contrasta
+con su elaborada descripción de la adquisición del lenguaje verbal por los seres humanos hasta la creación de
+las instituciones 25 .
+Esa discrepancia de rigor entre el tratamiento del tema del desarrollo del lenguaje verbal y del tema de
+las imágenes a las que debe dirigirse la piedad no se limita a Lucrecio. Según Sexto Empírico 26 , Demócrito
+explicaba la creencia en los dioses a partir de las imágenes vistas en sueños, a partir de las cuales se podía
+percibir su carácter benéﬁco o maléﬁco. Cicerón atribuye esta doctrina a Demócrito, pero también a Epicuro,
+según su argumento de que Epicuro no hizo más que copiar equivocadamente a Demócrito 27 . De hecho,
+una de las más importantes estrategias ciceronianas de refutación del epicureísmo es confundir las tesis
+de Demócrito con las de Epicuro, y la importancia de esa confusión radica en una polémica ﬁlosóﬁca
+contemporánea sobre el conocimiento de los dioses: Filodemo asociaba a Demócrito con los soﬁstas, y
+refutaba a todos sobre la base del argumento de que la utilidad social contribuye a crear la concepción de los
+dioses, que es explicada por sus orígenes históricos. Ciertamente, el corpus de Filodemo es fragmentario, pero
+el hecho de que Lucrecio no desarrolle el argumento del origen social de la creencia en los dioses en su breve
+exposición sobre la verdadera piedad puede darnos una pista para comprender la estrategia de refutación de
+Cicerón. De hecho, el Veleyo de Cicerón condena la teología de Demócrito como una forma encubierta de
+ateísmo, inmediatamente después de haber refutado severamente al soﬁsta Protágoras 28 . Del mismo modo,
+Cota enumera en una misma secuencia a Protágoras, Pródico, Evehemero y Demócrito 29 . La estrategia
+ciceroniana puede resumirse así: si la teología epicúrea es limitada, lo es porque evitó adoptar las tesis soﬁstas
+sobre las imágenes divinas, que serían incompatibles con la concepción de la divinidad que defendían. Como
+demuestra Cicerón, el rechazo epicúreo al argumento histórico de la creencia en los dioses y de la forma de
+los dioses los aisló de la reﬂexión ﬁlosóﬁca contemporánea. Y Cota argumenta:
+Pues bien, considera cómo es cada cosa, porque me parece que os estáis agarrando, como por derecho propio, a un argumento
+que no es aceptable en modo alguno.
+Auster, no. 23, noviembre 2018, e042. ISSN 2346-8890
+4
+Pero, antes de nada... ¿Acaso ha habido alguien tan ciego como para no ver, al contemplar las cosas, que esa apariencia
+humana se les asignó a los dioses por una especie de decisión que tomaron los sabios (para que el espíritu de los ignorantes
+pudiera ser conducido con más facilidad, una vez apartado de su depravada vida, hacia el culto divino), o bien por superstición
+(para que hubiese representaciones mediante cuya veneración se creyera acceder a los propios dioses)? Por otra parte, han
+fomentado estas mismas representaciones los poetas, los pintores y los artesanos, porque no resultaba fácil, mediante la
+imitación de otras formas, reﬂejar a los dioses cuando éstos se esforzaban en hacer algo. También ha contribuido a ello, muy
+probablemente, esa creencia en virtud de la cual nada le parece al ser humano más hermoso que el ser humano. ¿Pero es que
+tú no ves, como cientíﬁco que eres, cuán lisonjera mediadora y casi proxeneta de sí misma es la naturaleza? ¿Piensas que hay
+bestia alguna, en tierra o mar, que no se deleite, sobre todo, con una bestia de su propia especie? Si esto no fuese así, ¿por qué
+no iba a refocilarse el toro al acoplarse con la yegua, o el caballo al hacerlo con la vaca? ¿Acaso consideras tú que un águila,
+un león o un delfín antepone ﬁgura alguna a la suya propia? Por tanto, ¿qué pasaría si la naturaleza se lo hubiera prescrito al
+ser humano del mismo modo, de manera que pensase que no existe nada más hermoso que él?, ¿sería extraño que fuera ésta
+la causa por la que consideramos a los dioses similares a los hombres? 30
+Cuando se considera que las imágenes de los dioses fueron promovidas por sabios, construidas por artistas
+y tuvieron su fuerza ampliada por poetas, una tesis del soﬁsta Critias retomada por Cicerón, se aﬁrma que
+la representación antropomórﬁca de los dioses no es un dato natural, sino que tiene un origen histórico. El
+fundamento histórico justiﬁca el mantenimiento de esas representaciones, y la historia asume el papel de
+los mitos fundacionales, justiﬁcando el conjunto del cultus deorum  31 . Las tesis de Critias, por lo tanto, no
+constituyen solamente un argumento contra los epicúreos, sino que son asociadas en De natura deorum al
+nombre de Evehemero 32 , cuya doctrina, diseminada en Roma por la traducción de Enio, se transformó en un
+fundamento sólido para el abordaje histórico de la religión. En esta doctrina, la validez de las representaciones
+de los dioses tiene su fundamento en su raíz histórica, en su remota antigüedad. Para Cota es la historia, y no
+una naturaleza genéricamente dada e inhallable, lo que fundamenta el valor y la verdad de las imágenes de los
+dioses 33 . Para el epicúreo Veleyo, en cambio, el argumento histórico de los soﬁstas sólo sirve para denunciar
+la arbitrariedad y la fabricación de supersticiones que oprimen al ser humano. Como argumenta Lucrecio,
+los adivinos forjaron somnia para mantener su poder sobre los seres humanos 34 .
+Se puede observar que, en la descripción de la “invención de los dioses”, se articulan la decisión del
+sabio y la creación artística, determinadas por las convenciones e ideas reinantes en una sociedad. Teniendo
+en cuenta estas tres causalidades, Cota amplía la perspectiva: reﬂexionar sobre la forma de los dioses
+es considerar históricamente quién la concibió, qué mediaciones artísticas recibió, y en qué medida esas
+elecciones se adecuan al universo (diríamos “simbólico”) de la sociedad. Por un lado, es evidente que el origen
+convencional, y no natural, de las representaciones de los dioses no perjudica su validez. Cicerón se aproxima
+fuertemente a Varrón: es necesario comenzar por el pictor, es decir, por el humano, y no por la tabula, o sea,
+las imágenes instituidas 35 . Por otro lado, si se quisiese identiﬁcar lo que la historia ﬁjó en las mentes humanas,
+se constata que las imágenes de los dioses son determinadas por la concepción que se tenga de su función. Es,
+por lo tanto, la práctica religiosa la que ﬁja los rasgos y las características de las divinidades:
+(...) Y bien, por tanto, ¿estimas que Apis, aquel buey sagrado de los egipcios, les parece a ellos un dios, o no? Tanto, por
+Hércules, como a ti aquella Sóspita vuestra, a la que tú nunca ves -ni siquiera en sueños- salvo con su piel de cabra, su lanza,
+su escudito y sus botitas encorvadas. Mas no es así la Juno de Argos, ni la de Roma, de modo que la apariencia de Juno es
+una para los de Argos y otra para los de Lanuvio. Y, desde luego, una es para nosotros la apariencia de Júpiter Capitolino y
+otra para los africanos la de Júpiter Hamón.
+Por tanto, ¿no es reprobable que un cientíﬁco, esto es, un observador y ojeador de la naturaleza, recabe el testimonio de la
+verdad de unos espíritus que se encuentran imbuidos de tradición? Porque, de ese modo, será lícito decir que Júpiter siempre
+lleva barba, que Apolo está siempre imberbe, que son garzos los ojos de Minerva y cerúleos los de Neptuno. Celebramos,
+además, que esté en Atenas el Vulcano que hizo Alcámenes, en el que, pese a estar de pie y hallarse vestido, aparece sutilmente
+una cojera nada desagradable; tendremos, por tanto, un dios cojo, ya que eso es lo que tenemos entendido acerca de Vulcano.
+Venga, ¿accedemos también a que los dioses reciban esos apelativos con que los nombramos? 36
+Auster, no. 23, noviembre 2018, e042. ISSN 2346-8890
+5
+La representación de la función de la divinidad, aquello que se aprende sobre ella y que es indispensable
+para su reconocimiento, constituye, entonces, el criterio de verdad de las representaciones, y no la belleza,
+sujeta a inﬁnitas variaciones y modos según los diferentes pueblos:
+(...) Cuando yo estaba en Atenas, apenas podía encontrarse alguno que otro, entre montones de efebos (veo por qué te sonríes,
+pero, sin embargo, así es la cosa). Y eso que, a nosotros, que nos deleitamos con los jovencitos tras el precedente de los ﬁlósofos
+antiguos, hasta los defectos nos resultan a menudo gratos. A Alceo 'un lunar en la articulación de un muchacho le deleita';
+mas un lunar es una mancha del cuerpo; a él, sin embargo, le parecía esto un lucero. Quinto Cátulo, padre de ese colega amigo
+nuestro, se encaprichó de tu paisano Roscio, a quien incluso dedica aquello de
+En pie saludaba, en ese instante, a la Aurora que surgía,
+cuando, de pronto, surge por la izquierda Roscio.
+Séame lícito decirlo, celestes, con vuestro permiso:
+un mortal me pareció más hermoso que un dios.
+Era para él más hermoso que un dios, pero tenía los ojos bien tuertos, como hoy... ¿Qué importa, si es eso, precisamente,
+lo que a él le parecía salado y gracioso? Vuelvo con los dioses. ¿Consideramos, acaso, que ellos no son tan estrabones, pero sí
+algo bizcos?, ¿que pueden tener un lunar?, ¿que son chatos, de orejas lacias, de frente ancha, cabezones...? ¿O es que todo lo
+que se da en nosotros se encuentra corregido en ellos? Concédaseos esto... ¿Acaso es también una sola faz la de todos ellos?
+Pues, si hay más de una, por necesidad será una faz más hermosa que otra; por tanto, algún dios habrá que no sea sumamente
+hermoso... Si una sola faz es la de todos, por necesidad ha de ﬂorecer la Academia en el cielo, porque, si no hay diferencia
+alguna entre un dios y otro, no puede existir entre ellos ni conocimiento alguno, ni capacidad para discernir. 37
+Se puede pensar que los epicúreos no podrían responder a la exigencia de Cota precisamente porque sus
+dioses no tenían ningún papel que desempeñar en el mundo y gozaban eternamente del placer de la ataraxia.
+Sin embargo, ¿sería posible concluir que los epicúreos no tenían nada que decir a los romanos sobre la cuestión
+(histórica) de la representación de los dioses? En otras palabras, ¿sería necesario negar la pertinencia de la
+teología epicúrea de las imágenes para los romanos? Es lo que Cicerón parece demostrar con su refutación.
+La teología epicúrea concebía una forma humana desprovista de toda actividad, sin ofrecer nada, según Cota,
+excepto formas diáfanas, indiferenciadas e inactivas. Pero si los dioses epicúreos no tienen características que
+permitan responder a criterios culturales e históricos de la representación de lo divino, ¿qué decir de la teoría
+epicúrea de las imágenes divinas en la mente humana?
+La cuestión del lugar y del papel de las imágenes como soporte del proceso de intelección, una de las
+cuestiones fundamentales sobre la relación entre las imágenes y el pensamiento humano, surge con claridad
+en el libro I de De natura deorum. Un pasaje es signiﬁcativo aquí, cuando Veleyo diserta sobre la visión mental
+de la divinidad, por la cual el ser humano conoce la forma divina:
+Pues, dado que parece lógico que la naturaleza más preeminente -ya por su apacibilidad, ya por su carácter imperecedero-
+sea también la más hermosa, ¿qué distribución de miembros, qué conformación de rasgos, qué ﬁgura, qué apariencia puede
+resultar más hermosa que la humana? Vosotros al menos, Lucilio (pues mi querido Cota tan pronto dice una cosa como otra),
+cuando queréis reﬂejar la maestría constructora propia de la divinidad, soléis describir cuán apropiado resulta todo -tanto
+por su utilidad, como por su belleza- en la ﬁgura humana. Pero, si la ﬁgura humana es superior, en cuanto a su forma, a la de
+todos los seres dotados de espíritu, y si la divinidad, por su parte, es un ser dotado de espíritu, ésta ha de tener, ciertamente, la
+ﬁgura que resulta más hermosa de todas. Y, ya que se aﬁrma que los dioses son sumamente apacibles, pero que, por otra parte,
+no puede haber nadie apacible sin virtud, ni la virtud puede aﬁncarse sin la razón, ni la razón puede albergarse en parte alguna
+que no sea la ﬁgura humana, ha de reconocerse que los dioses son de apariencia humana. Y, sin embargo, esta apariencia no
+es la de un cuerpo, sino la de 'una especie de cuerpo', ni tiene sangre, sino 'una especie de sangre' (...) 38
+El vocabulario ciceroniano usado en la exposición del epicúreo Veleyo sobre la forma de los dioses radica
+en el plano de la representación (species deorum, liniamenta atque formas, ﬁgura, facies etc.), evocando la
+materialidad de la imagen. Cicerón usa términos que reﬁeren directamente a la producción artística de un
+modo que no se percibe, por ejemplo, en Lucrecio 39 . Y Cota refuta:
+Auster, no. 23, noviembre 2018, e042. ISSN 2346-8890
+6
+Veo lo que estás defendiendo: la existencia de una apariencia divina en la que no hay condensación o solidez alguna, ni relieve,
+ni silueta, una apariencia que es pura, ligera y diáfana. Diremos, por tanto, lo mismo que respecto a la Venus de Cos: aquel
+cuerpo no es sino similar a un cuerpo, y aquel rubor difuso y teñido de blancura no es sangre, sino algo similar a la sangre;
+del mismo modo, en la divinidad epicúrea no hay materia, sino similitud con las cosas materiales. Supón que he llegado a
+convencerme de lo que ni siquiera puede entenderse; enséñame los rasgos y la forma que tienen esos dioses en sombra. No
+faltan, a propósito de este tema, abundantes razones mediante las que pretendéis enseñar que la forma de los dioses es la
+humana. En primer lugar, porque así es como se ha conformado y preconcebido en nuestra mente, de manera que al ser
+humano, cuando reﬂexiona acerca de la divinidad, se le ocurre una forma humana; segundo, ya que, como la naturaleza divina
+supera a todos los seres, también deberá tener la forma más hermosa, y no hay forma alguna más hermosa que la humana;
+aducís como tercera razón el hecho de que en ninguna otra ﬁgura puede hallar alojamiento la mente. 40
+Cota le pide: “enséñame los rasgos y la forma que tienen esos dioses en sombra”, lo que le permite articular
+la cuestión conceptual de las imágenes en la mente y en el pensamiento, como la describe el canon epicúreo
+de los eidola  41 . Es así que Cota reclama que se aclare la oscuridad del quasi:
+Hace lo mismo respecto a la naturaleza de los dioses: intentando rehuir la posibilidad de que se agrupen aquellos cuerpos
+indivisibles de los que se componen -para que no se desprenda de ahí que tales cuerpos también pueden disiparse y desaparecer
+- dice que el cuerpo de los dioses no más que a nadie. Aﬁrma que oyó en Samos a un tal Pánﬁlo, es sino 'una especie de cuerpo',
+y que su sangre no es sino 'una especie de sangre'. Parece sorprendente que no se ría un arúspice al ver a otro arúspice, pero
+¿es más sorprendente esta circunstancia que el hecho de que podáis contener la risa entre vosotros? ‘No es un cuerpo, sino
+una especie de cuerpo’: entendería lo que signiﬁca si se tratara de la representación de una ﬁgura en cera o en arcilla; en un
+dios no puedo entender qué es 'una especie de cuerpo' o 'una especie de sangre'. Ni siquiera tú puedes entenderlo, Veleyo,
+pero no quieres reconocerlo. 42
+Los sentidos y el proceso mental del conocimiento de los dioses se articulan, y en la refutación ciceroniana
+de la teología epicúrea se desprende un conocimiento del ﬂujo incesante de imágenes semejantes de un modo
+que recuerda a Aristóteles:
+La facultad intelectiva intelige, por tanto, las formas en las imágenes. Y así como en las sensaciones le aparece delimitado lo que
+ha de ser perseguido o evitado, también se pone en movimiento cuando, al margen de la sensación, se vuelve a las imágenes:
+por ejemplo, cuando uno percibe que la antorcha es fuego y, viendo que se mueve, reconoce por medio del sentido común
+que se trata de un enemigo. Otras veces calcula y delibera comparando el futuro con el presente, como si estuviera viéndolo
+con ayuda de las imágenes o conceptos que están en el alma. Y cuando declara que allí está lo placentero o lo doloroso, al
+punto lo busca o huye de ello: siempre es así tratándose de la acción. En cuanto a lo verdadero y lo falso que nada tienen
+que ver con la acción, pertenecen al mismo género que lo bueno y lo malo; diﬁeren, sin embargo, en que aquéllos lo son
+absolutamente y éstos por relación a alguien. 43
+Más que simplemente refutar in toto la teología epicúrea sobre las imágenes de los dioses, es posible pensar
+que Cicerón estuviese presentando un desafío sutil a los epicúreos. Cicerón demanda una profundización de
+la reﬂexión sobre el modo por el cual las ﬁguras (materiales e históricas) de los dioses y las imágenes divinas en
+la mente interactúan en el pensamiento, poniendo de maniﬁesto que el conocimiento de lo divino pasa por las
+mediaciones artísticas y culturales que prevalecen en la religión romana: la representación de las divinidades.
+Solamente así la teología epicúrea podría fundamentar la pietas romana.
+Notas
+1 Whitehouse, H. y McCauley, R. N. (ed.), Mind and Religion. Psychological and Cognitive Foundations of Religiosity,
+Walnut Creek, Altamira Press, 2005; Whitehouse, H. y Martin, L. H. (ed.), eorizing Religions Past. Archaeology,
+History, and Cognition, Walnut Creek, Altamira Press, 2004. Un buen ejemplo es la importancia de los textos
+sacerdotales romanos, que mantenían el registro de las fórmulas correctas de las plegarias y procedimientos rituales, cf.
+Beltrão, C., “Religião, escrita e sistematização: em torno dos Annales maximi”, Tempo 19.35, 2013.
+2 Cf. Rawson, E., Intellectual Life in the Late Roman Republic, London, Ducksworth, 1985, esp. 289-312.
+3 Moatti (Moatti, C., A raison de Rome. Naissance de l’eprit critique à la ﬁn de la République, París, Éd. du Seuil, 1997) y
+Feeney (Feeney, D., Literature and Religion in Rome. Cultures, Contexts and Beliefs, Cambridge University Press, 1999),
+Auster, no. 23, noviembre 2018, e042. ISSN 2346-8890
+7
+superando los prejuicios helenocéntricos de la mayor parte de los clasicistas, demostraron cómo, a partir del siglo II a.
+C., la religión y la literatura romanas se deﬁnieron mutuamente dialogando con temas y formas helenísticas. Cf. también
+Farrell, J., “Lucretian architecture: the structure and argument of the De rerum natura”, en Gillespie, S.; Hardie, Ph.
+(ed.), e Cambridge Companion to Lucretius, New York, Cambridge University Press, 2010, p. 76-91.
+4 Esp. Rüpke, J., Religion in Republican Rome. Rationalization and Ritual Change, Philadelphia, University of
+Pennsylvania Press, 2012.
+5 En una relectura del concepto weberiano de racionalización, que realiza con visible cautela, Rüpke vuelve útil su modelo
+interpretativo para el análisis que realiza, a partir de dos movimientos: el análisis de lo que llama “racionalización
+instrumental”, y la “racionalización teórica” de la religión romana. Tomando los discursos textuales que explícitamente
+tematizan la religión, como Enio, Cicerón y Varrón, Rüpke postula que la apropiación de la ﬁlosofía helenística permitió
+a estos autores deﬁnir, codiﬁcar y transmitir la tradición religiosa romana, al mismo tiempo que actuaba sobre ella y la
+modiﬁcaba (Rüpke, Religion in Republican Rome, 2012).
+6 Proyecto de Investigación AF60128: Images of the Gods: Cicero’s discourse on cult statues and Late Republican debates
+on Roman Religion (Newton Advanced Fellowship/British Academy). Este proyecto se desarrolla en el marco de un
+convenio entre la UNIRIO y la Newcastle University, y cuento con la inestimable colaboración del Dr. Federico
+Santangelo.
+7 Ver, e.g.: Carey, J.W., Communication as Culture: Essays on Media and Society, Boston, Unwin Hyman, 1989; Freedberg,
+D., e Power of Images: Studies in the History and eory of Response, Chicago, University of Chicago Press, 1989;
+Belting, H., Likeness and Presence: A History of the Image Before the Era of Art, Chicago, University of Chicago Press,
+1994; Cormack, R., Painting the Soul: Icons, Death Masks and Shrouds, London, Reaktion, 1997; Mitchell, W. J. T.,
+“ShowingSeeing: A Critique of Visual Culture”, en Mirzoeﬀ, N. (ed.) e Visual Culture Reader, London, Routledge,
+2002; Rogoﬀ, I., “Studying Visual Culture”, en Mirzoeﬀ, N. (ed.), op. cit.; Ginzburg, C., Wooden Eyes. Nine Reﬂections
+on Distance, London, Verso, 2002. Son referencias importantes para la delimitación de un campo denominado Visual
+Cultures, que contribuye a la comprensión del uso y de la percepción de las imágenes y de su background intelectual y
+emocional en la construcción, mantenimiento o transformación de la realidad humana, conﬁgurando agentes, prácticas,
+concepciones e instituciones en las que las imágenes “actúan”. Sobre cuestiones de la visualidad romana: Elsner, J.,
+Roman Eyes. Visuality and Subjectivity in Art and Text, Princeton University Press, 2007. Sobre la cultura visual y la
+religión romana: Pollini, J. From Republic to Empire. Rhetoric, Religion and Power in the Visual Culture of Ancient Rome,
+University of Oklahoma Press, 2012.
+8 Por ejemplo, el término simulacrum se encuentra documentado por primera vez en una carta de Cicerón a Ático (Att.
+13.28.2). Cf. Stewart, P., Statues in Roman Society. Representation and Response, Oxford, 2004, 24-5.
+9 Sobre la totalidad del corpus epicúreo ver Long, A. A. y Sedley, D., e Hellenistic Philosophers, Cambridge University
+Press, 1987 y Sedley, D., Lucretius and the Transformation of Greek Wisdom, Cambridge University Press, 1998.
+10 Schiesaro, A., Simulacrum et imago. Gli argomenti nel De rerum natura, Pisa, Giardina, 1990.
+11 De la teología del propio Epicuro queda solamente un parágrafo en la Carta a Meneceu, Diog. L. 10.123, y la primera de
+las Máximas Capitales. De Filodemo, me remito a los extractos de De pietate (cf. Obbrink, D. Philodemus On Piety, 1. A
+Critical Text with Commentary, Oxford University Press, 1996), y a De rerum natura de Lucrecio. Cicerón, de hecho,
+es una de las principales fuentes de conocimiento sobre la teología epicúrea.
+12 Cf. Cancik, H. y Cancik-Lindemaier, H., “e Truth of Images: Cicero and Varro on Image Worship”, en Assmann, J.;
+Baumgarten, A.I. (ed.), Representation in Religion. Studies in Honor of Moshe Barash, Leiden, Brill, 2001, 43-61 y Van
+Nuﬀelen, P., Rethinking the Gods. Philosophical Readings of Religion in the Post-Hellenistic Period, Cambridge University
+Press, 2011.
+13 Nat. D. 1.103.
+14 Cf. esp. Cancik y Cancik-Lindemaier, “e Truth of Images”, 2001, Van Nuﬀelen, Rethinking the Gods, 2011, Ando, C.,
+“Praesentia numinis. Part 1: e Visibility of Roman Gods”, Asdiwal 5, 2010, 45-73, y Ando, C., “Praesentia numinis.
+Part 3: Idols in Context (of Use)”, Asdiwal 10, 2015, 61-76. Ver la referencia a Varrón en Agustín CD 4.31.
+15 Lucr. 2.600ss.
+16 Lucr. 2.655-80: ... hic siquis mare Neptunum Cereremque vocare/ constituet uges et Bacchi nomine abuti/ mavolt quam
+laticis proprium proferre vocamen, concedamus ut hic terrarum dictitet orbem/ esse deum matrem, dum vera re tamen ipse/
+religione animum turpi contingere parcat.
+17 Fil. De pietate 26-36.
+18 Las traducciones al español de las citas de Cicerón están tomadas de Escobar, A., Cicerón. Sobre la naturaliza de los dioses,
+Madrid, Gredos, 1999 (N. de la T.).
+19 Nat. D. I.46:  Ac de forma quidem partim natura nos admonet, partim ratio docet. Nam a natura habemus omnes omnium
+gentium speciem nullam aliam nisi humanam deorum; quae enim forma alia occurrit umquam aut vigilanti cuiquam aut
+dormienti? Sed ne omnia revocentur ad primas notiones, ratio hoc idem ipsa declarat.
+20 Esp. en I.78, 81-84, 101.
+Auster, no. 23, noviembre 2018, e042. ISSN 2346-8890
+8
+21 Lucr. III.1161ss.
+22 Lucr. VI.68-78.
+23 Lucr. V.1169-1178.
+24 Simulacra divinae formae nuntia, cf. Schiesaro, Simulacrum et imago, 1990.
+25 Sobre el origen del lenguaje, Lucr. 5.1028-1090. Sobre, e.g., el origen de la justicia, Lucr. V.1136-1150.
+26 Adv. Math. IX.19; cf. también Epicuro, Carta a Heródoto, 37-38, Diog. Laert. X.33.
+27 Nat. D. I.108, 120. Ver también Fin. I.21.
+28 Nat. D. I.29.
+29 Nat. D. I.118-120.
+30 Nat. D. I.77: Primum igitur quidque considera, quale sit; arripere enim mihi videmini quasi vestro iure rem nullo modo
+probabilem. [Primum] omnium quis tam caecus in contemplandis rebus umquam fuit, ut non videret species istas hominum
+conlatas in deos aut consilio quodam sapientium, quo facilius animos imperitorum ad deorum cultum a vitae pravitate
+converterent aut superstitione, ut essent simulacra, quae venerantes deos ipsos se adire crederent. Auxerunt autem haec eadem
+poetae, pictores, opiﬁces; erat enim non facile agentis aliquid et molientes deos in aliarum formarum imitatione servare.
+Accessit etiam ista opinio fortasse, quod homini homine pulchrius nihil videatur. Sed tu hoc, physice, non vides, quam blanda
+conciliatrix et quasi sui sit lena natura? An putas ullam esse terra marique beluam, quae non sui generis belua maxime
+delectetur? Quod ni ita esset, cur non gestiret taurus equae contrectatione, equus vaccae? An tu aquilam aut leonem aut
+delphinum ullam anteferre censes ﬁguram suae? Quid igitur mirum, si hoc eodem modo homini natura praescripsit, ut nihil
+pulchrius quam hominem putaret? * * eam esse causam, cur deos hominum similis putaremus.
+31 En cierto modo, la religión pública romana era exegética; era deﬁnida y explicada por narrativas que permitían diversas
+posibilidades cognitivas e, inclusive, un alto grado de abstracción. Rüpke 2013, 35-51, e.g., habla de “historización” al
+referirse a esta característica de la religión romana en la república tardía.
+32 Nat. D. I.118-19.
+33 Cancik y Cancik-Lindemaier, “e Truth of Images”, 2001.
+34 Lucr. I.102-106.
+35 Cf. Varr = Agost. CD VI.4.
+36 Nat. D. I.82-83: Etenim fana multa spoliata et simulacra deorum de locis sanctissimis ablata videmus a nostris, at vero
+ne fando quidem auditumst crocodilum aut ibin aut faelem violatum ab Aegyptio. Quid igitur censes Apim illum sanctum
+Aegyptiorum bovem nonne deum videri Aegyptiis? Tam, hercle, quam tibi illam vestram Sospitam. Quam tu numquam
+ne in somnis quidem vides nisi cum pelle caprina, cum hasta, cum scutulo, cum calceolis repandis. At non est talis Argia nec
+Romana Iuno. Ergo alia species Iunonis Argivis, alia Lanuinis. Et quidem alia nobis Capitolini, alia Ais Hammonis Iovis.
+Non pudet igitur physicum, id est speculatorem venatoremque naturae, ab animis consuetudine inbutis petere testimonium
+veritatis? Isto enim modo dicere licebit Iovem semper barbatum, Apollinem semper inberbem, caesios oculos Minervae,
+caeruleos esse Neptuni. Et quidem laudamus esse Athenis Volcanum eum, quem fecit Alcamenes, in quo stante atque vestito
+leviter apparet claudicatio non deformis: Claudum igitur habebimus deum, quoniam de Volcano sic accepimus. Age et his
+vocabulis esse deos facimus, quibus a nobis nominantur?
+37 Nat. D. I.79-80: Quotus enim quisque formonsus est, Athenis cum essem, e gregibus epheborum vix singuli reperiebantur
+— video, quid adriseris, sed ita tamen se res habet. Deinde nobis, qui concedentibus philosophis antiquis adulescentulis
+delectamur, etiam vitia saepe iucunda sunt. Naevos in articulo pueri delectat Alcaeum; at est corporis macula naevos; illi
+tamen hoc lumen videbatur. Q. Catulus, huius collegae et familiaris nostri pater, dilexit municipem tuum Roscium, in quem
+etiam illud est eius: “constiteram exorientem Auroram forte salutans/ cum subito a laeva Roscius exoritur./ pace mihi liceat
+caelestes dicere vestra:/mortalis visus pulchrior esse deo." Huic deo pulchrior; at erat, sicuti hodie est, perversissimis oculis:
+Quid refert, si hoc ipsum salsum illi et venustum videbatur? Redeo ad deos. Ecquos si non tam strabones at paetulos esse
+arbitramur, ecquos naevum habere, ecquos silos, ﬂaccos, ontones, capitones, quae sunt in nobis, an omnia emendata in illis?
+Detur id vobis; num etiam una est omnium facies? Nam si plures, aliam esse alia pulchriorem necesse est, igitur aliquis non
+pulcherrimus deus; si una omnium facies est, ﬂorere in caelo Academiam necesse est: si enim nihil inter deum et deum diﬀert,
+nulla est apud deos cognitio, nulla perceptio.
+38 Nat. D. I.47-49: Nam cum praestantissumam naturam, vel quia beata est vel quia sempiterna, convenire videatur eandem
+esse pulcherrimam, quae conpositio membrorum, quae conformatio liniamentorum, quae ﬁgura, quae species humana potest
+esse pulchrior? Vos quidem, Lucili, soletis (nam Cotta meus modo hoc, modo illud), cum artiﬁcium eﬃngitis fabricamque
+divinam, quam sint omnia in hominis ﬁgura non modo ad usum, verum etiam ad venustatem apta, describere; quod si
+omnium animantium formam vincit hominis ﬁgura, deus autem animans est, ea ﬁgura profecto est, quae pulcherrimast
+omnium. Quoniamque deos beatissimos esse constat, beatus autem esse sine virtute nemo potest nec virtus sine ratione constare
+nec ratio usquam inesse nisi in hominis ﬁgura, hominis esse specie deos conﬁtendum est. Nec tamen ea species corpus est, sed
+quasi corpus, nec habet sanguinem, sed quasi sanguinem.
+39 Cf. Schiesaro, Simulacrum et imago, 1990.
+Auster, no. 23, noviembre 2018, e042. ISSN 2346-8890
+9
+40 Nat. D. I.75-76: Illud video pugnare te, species ut quaedam sit deorum, quae nihil concreti habeat, nihil solidi, nihil expressi,
+nihil eminentis, sitque pura, levis, perlucida. Dicemus igitur idem quod in Venere Coa: corpus illud non est, sed simile
+corporis, nec ille fusus et candore mixtus rubor sanguis est, sed quaedam sanguinis similitudo; sic in Epicureo deo non rem,
+sed similitudines esse rerum. Fac id, quod ne intellegi quidem potest, mihi esse persuasum; cedo mihi istorum adumbratorum
+deorum liniamenta atque formas. Non deest hoc loco copia rationum, quibus docere velitis humanas esse formas deorum;
+primum quod ita sit informatum anticipatum[que] mentibus nostris, ut homini, cum de deo cogitet, forma occurrat humana;
+deinde cum, quoniam rebus omnibus excellat natura divina, forma quoque esse pulcherrima debeat, nec esse humana ullam
+pulchriorem; tertiam rationem adfertis, quod nulla in alia ﬁgura domicilium mentis esse possit.
+41 Cf. Diog. Laert. X.33 sobre la noción universal anticipada (o concepto previo) que nos hace ver los typos de hombre
+cuando pronunciamos la palabra “hombre”. Ver también Schiesaro, Simulacrum et imago, 1990.
+42 Nat. D. I.71: Idem facit in natura deorum: dum individuorum corporum concretionem fugit, ne interitus et dissipatio
+consequatur, negat esse corpus deorum, sed tamquam corpus, nec sanguinem, sed tamquam sanguinem. Mirabile videtur
+quod non rideat haruspex, cum haruspicem viderit; hoc mirabilius, quam vos inter vos risum tenere possitis? "Non est corpus,
+sed quasi corpus": hoc intellegerem, quale esset, si in cereis ﬁngeretur aut ﬁctilibus ﬁguris; in deo quid sit quasi corpus aut quid
+sit quasi sanguis, intellegere non possum. Ne tu quidem Vellei, sed non vis fateri.
+43 Arist. De anima, III.7.431b2. La traducción al español está tomada de Calvo Martínez, T., Aristóteles. Acerca del alma,
+Madrid, Gredos, 1978. (N. de la T.)
+44 Profesora Asociada de Historia Antigua de la Universidad Federal del Estado de Río de Janeiro – UNIRIO, Brasil.
+Advanced Fellow de la School of History, Classics and Archaeology, Newcastle University, Gran Bretaña. Miembro
+Asociado a la UMR 8210 ANHIMA – Anthropologie et Histoire des Mondes Antiques, Paris, Francia.
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto

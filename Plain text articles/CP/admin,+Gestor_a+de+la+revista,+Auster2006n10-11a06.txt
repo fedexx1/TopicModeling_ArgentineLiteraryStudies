@@ -1,0 +1,534 @@
+DAFNIS EN LA BUCÓLICA V DE VIRGILIO:
+LA ALUSIÓN COMPLEJA
+Y LOS LÍMITES DE LA IDENTIDAD (*)
+Desde los comienzos de la ciencia filológica se ha discutido la identidad del
+Dafnis de la bucólica V. Varios personajes históricos o literarios fueron propues-
+tos por los críticos modernos -a veces profundizando hipótesis de los comenta-
+ristas antiguos- para resolver este dilema.' La identificación de Dafnis con Julio
+César, anotada por Servio, es entre todas la que ha gozado de mayor consenso
+entre los filólogos. Desde la década del 20 en adelante, un conjunto de estudio-
+sos ha sostenido con diversos argumentos la pertinencia de esa identificación,"
+Al mismo tiempo, otros la han negado o relativizado, proponiendo variadas so-
+luciones no históricas.' A partir de los noventa (y el último testimonio es, según
+creemos, la comunicación de Brian Breed)" el problema parece haber perdido in-
+terés; al menos en el ámbito anglosajón, los trabajos se han orientado a otros
+asuntos como el género, la intertextualidad o las influencias. Charles Martinda-
+* Una primera versión de este trabajo, escrito para los seminarios sobre las Bucólicas dietados por la
+Prof. M. D. Buisel en nuestra universidad durante los años 2003 y 2004, fue presentada en las II
+Jornadas de Estudios Clásicos y Medievales "Hombre, Naturaleza y Cultura", que tuvieron lugar
+en la Universidad Nacional de La Plata del 12 al 14 de abril de 2005.
+1 Para un estado de la cuestión de las diferentes identificaciones, ver Coleiro, Edward. An lniroduc-
+tion to Vergil's Bucolicswith a Critical Edition ofthe Texi, Ámsterdam, 1979, pp. 147-148. A través de
+los años, siguiendo o no a comentaristas antiguos, se ha identificado a Dafnis con varios persona-
+jes históricos o míticos, a saber: Julio César, un supuesto hermano de Virgilio que habría muerto
+prematuramente, Quintilio Varo (posiblemente un pariente de Virgilio al que Horacio le dedicó la
+oda 1, 24), Orfeo, Salonino, hijo de Polión, Cornificio, Marcelo y Catulo. Asimismo, ha sido consi-
+derado un símbolo de la poesía bucólica.
+2 Entre ellos, D.LDrew ("Virgil's Fifth Eclogue: a Defence of the Julius Caesar-Daphnis Theory". CQ
+16,1922, pp. 57-64), P. Grimal ("La Ve églogue et le culte de César", Mélanges Charles Picard, París,
+1949, pp. 406-419), P.Maury ("Le secret de Virgile et l'architecture des bucoliques". en Lettresd'Hu-
+manité 3, 1944, pp. 89-98), B. Otis (Virgil. A Study in Civilized Poetry, Oxford, Oxford University
+Press, 1964, pp. 128-135), F. Klingner (Virgil. Bucolica. Hirtengedichte, Zürích, Deutscher Taschen-
+buch Verlag, 1977, 2a ed., pp. 94-103), J. Perret en su edición de las Bucólicas (Les Bucoliques, París,
+1970, 2a ed. revisada, p. 57), R. Coleman (VergilEclogues, Cambridge, Cambridge University Press,
+1977, pp. 173-174) yA. Salvatore ("Lettura de la quinta bucolica", en Gigante, Marcelo. Lecturae
+Vergilianae, Nápoles, Giannini Editore, 1981, pp. 201-223).
+,
+Es el caso, entre otros, de F.Klingner ("Virgils erste Ekloge". Hermes62, 1927, pp. 129 Yss.), F.Delia
+Corte (Le Bucoliche, Edizioni Scolastiche Mondadori, 1967, 12a ed., p. 82), O. Skutsch ("Zu Vergils
+Eklogen", RhM 99, 1956, pp. 193 ss.), P. Boyancé ("Le sens cosmique de Virgile", REL 32, 1954, p.
+229), E. de Saint-Denis (Bucoliques, París, Les Belles Lettres, 1949, p. 44), J. Perret ("Daphnis pátrc et
+héros: perspectives sur un age dor", REL 60, 1983, pp. 216-233), G. Rohde ("Vergils fünfte Ecloge als
+Hóhepunkt und Abschluss der frühen Eclogen". en Studien und Interpretationen zur antiken Liieraiur,
+Berlín, 1963, pp. 117-139),A. G. Lee ("A Reading of Virgil's Fifth Eclogue", PCPhS 23, 1977, 62-70),
+que no se centra en los cantos sino en los pasajes intermedios, y, más recientemente, W. Clausen (A
+CommentaryofVirgil Eclogues, Oxford, Oxford University Press, 1994, p. 152 -nota 4).
+4
+"The Songs in Eclogue 5: Text, Time and Dialogue", en American Philological Assocation (Annual
+Meeting in Boston), 2005 (referencias de un abstraet publicado en internet).
+89
+AUSTER 10/11 (2006)
+Dafnis en la Buc´
+olica V de Virgilio : La alusi´
+on compleja y los l´
+ımites de la identidad
+MART´
+INEZ ASTORINO Pablo Leandro
+Auster, 2006 (10-11). ISSN 1514-0121.
+http://www.auster.fahce.unlp.edu.ar
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on.
+Centro de Estudios Latinos
+Esta obra est´
+a bajo licencia Creative Commons Atribuci´
+on-NoComercial-SinDerivadas 2.5 Argentina
+1
+DAFNIS EN LA BUCÓLICA V DE VIRGILlO: LA ALUSIÓN COMPLEJA
+Y LOS LÍMITES DE LA IDENTIDAD
+IV, así como al conjunto de la obra de Virgilio.
+Como la crítica del siglo XX,nos hemos preguntado quién es Dafnis: La res-
+puesta compromete distintos planos, el primero de los cuales es el mítico. No es
+nuestra intención resumir aquí lo que dice la bibliografía acerca del Daf:nis pre-
+virgiliano, pero una mirada general a su representación sirve para demostrar
+que el Dafnis de Virgilio poco tiene que ver con las características tradicionales
+de su historia mítica, en la que aparece generalmente como hijo de Hermes y es-
+tá vinculado al ciclo de éste y al de las Ninfas, así como al dios Pan, que lo ha-
+bría instruido en la música." Por lo demás, las causas de su muerte, tal como se
+puede ver en los autores previos y,en especial, en el Idilio I de Teócrito, son amo-
+rosas/o de manera que el conjunto entero no nos ayuda demasiado a esclarecer
+su significado. El poema de Bión de Esmirna y el atribuido a Mosco de Siracusa
+(el Epitafio deAdonis y el Epitafio deBión) han aportado indudablemente a la cons-
+trucción virgiliana del personaje, pero no son decisivos para su comprensión."
+Nos queda entonces el plano literario, el Dafnis que Virgilio representa. En
+primer lugar, Dafnis aparece como un pastor, de acuerdo con el epitafio del final
+del canto de Mopso: formosi pecoris custosformosior ipse(v.44) ('de un rebaño her-
+moso, pastor más hermoso todavía'). Su carácter de músico, aplicable también a
+los dos pastores que cantan sobre él, Mopso y Menalcas, es (en esto coincidimos
+con Perret) posterior al de pastor, pero, de todos modos, innegable." El verso 48
+es una prueba de ello. Allí Menalcas dice de Mopso: neccalamis solumaequiperas,
+sedvoce magistrum('y no sólo con la flauta sino en la voz igualas al maestro'). La
+identificación que propone Lee de magistrumcon Estimicón es improbable." Ese
+pastor-músico, que parece estar vinculado con Apolo (vv. 35 Y 66), ha muerto
+por una crudeli funere (v. 20) y, modificando la influencia teocrítea, aparece ro-
+deado por las Ninfas (Nymphis -v. 21).14 Siguiendo el modelo de Venus en el poe-
+9 vid, Crimal, P., op. cii., 407.
+1lJ Tís TV KaTaTpúXEI: Tívos wyaSE Tóaaov Epaaaat; (Id. 1, 78) ("¿Quién te atormenta? ¿Por quién,
+buen amigo, tan grande es tu amor?") dice Hermes a Dafnis. Las traducciones de los textos de Teó-
+crito pertenecen a la edición de A González Laso (Teócrito, Idilios,Madrid, Aguilar, 1963).
+11 Esto puede aplicarse asimismo a las influencias. No pretendemos negar la de Teócrito y demás au-
+tores bucólicos en el nivel de las evocaciones e incluso en algunos aspectos de la composición vir-
+giliana (de hecho, se han reconocido en el poema ecos de los Idilios1, V, VI, VII YVIII). No obstan-
+te, apoyados en algunos críticos (Salvatore, A, op. cit., pp. 212 Yss; Maury, P., op. cit., 93 Ys.), cree-
+mos que es necesario destacar el valor de lo auténticamente virgiliano en la bucólica a la vez que
+limitar el alcance de ciertas posiciones críticas que, en un exceso de erudición, consideran indis-
+pensable el intertexto teocríteo para la comprensión del poema, olvidando que la poesía se enri-
+quece con las alusiones pero no obligatoriamente se compone en clave alusiva. Por lo demás, el
+sentido de las alusiones no opera desde fuera de los textos, sino en el texto mismo. Es un ejemplo
+de tal actitud el trabajo de Rohde, G. op. cit. p. 117-139.
+12 Perret, L op. cii., 1983, p. 226.
+13 Lee, A G., op. cii., pp. 62 Ys.
+l' En Téocrito las Ninfas no están en el momento en que se produce la muerte de Dafnis: TIa rrox' ap'
+ilaS cfiil:a LláqWIS háKETO, TIa TIOKa Núllcpat (Id. 1, 66). ("¿Dónde estabais cuando Dafnis moría,
+por dónde mis Ninfas?").
+91
+AUSTER 10/11 (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+2
+PabloMartínez Astorino
+ma de Bión, su madre abraza su cuerpo y lo llora (cum complexa suí corpusmíse-
+rabíle natí,/ atque deos atque astra vocat crudelía mater -vv. 22-23) ('cuando habien-
+do abrazado el cuerpo de su desdichado hijo, llama crueles a los dioses y a los
+astros')." Su muerte será llorada también por los animales (vv. 24-28), en una se-
+rie de versos que siguen el canto de Tirsis teocríteo si bien presentados en forma
+más ordenada": será sentida asimismo por los campos, que .se agostan (vv. 34-
+39).17 Dafnis se ha comportado como un héroe civilizador (ínstítuit -v, 30) y es
+arrebatado al cielo en apoteosis (de la que no parece haber precedentes en otros
+autores), a partir de la cual tiene carácter intercesor (sís bonus ofelíxque tuis! -v.
+65). Recibirá un culto particular, conjuntamente con Apolo (vv. 65-73) y habrá
+fiestas en su honor (vv. 74-80).
+Desde aquí en adelante, nos topamos con lo que hemos denominado miste-
+rio o con lo que algún crítico del siglo XX denominó llanamente máscara, supo-
+niendo que el nombre de Dafnis escondía deliberadamente otro." Para develar
+ese misterio se recurrió al plano histórico-político o a un plano espiritual o meta-
+físico. Estos planos pueden servir para la exégesis del poema, pero proponerlos,
+en clave alegórica, como un sentido que desplaza la representación literaria sería
+anti-estético y, por eso mismo, inaceptable. Nos encontramos, pues, en el proble-
+mático umbral en que el desciframiento de la identidad descubre sus límites.
+Es posible que las ideas del teórico alemán Hans-Georg Gadamer nos sean
+útiles en este punto. Gadamer sostiene que los textos literarios son de naturale-
+za diferente respecto de otros tipos. En la mayoría de los textos importa el dato
+que aportan o su contenido, mientras que en los textos literarios, que son textos
+en sentido eminente, el contenido y su forma son indisociables. De la misma ma-
+nera, los textos no-literarios están sometidos a la asignación de las categorías
+verdadero-falso, mientras que los textos literarios siempre afirman una verdad,
+llamada verdad poética, que rechaza esas categorías y, por lo tanto, toda posi-
+ción historicista que no contemple su naturaleza." De acuerdo con esto, la visión
+alegórica, sea con fines historicistas, sea con fines filosófico-religiosos, es inad-
+misible. Esto es, nadie podría decir que Daphnis es una palabra intercambiable
+en el poema por César, la edad de oro o Catulo, porque eso implicaría mutilar el
+plano de la representación en el que, con total seguridad, sólo leemos Daphnis.
+Téngase en cuenta además que esta alegorización nada tiene que ver con las ale-
+15 Bión A. 1,41-44.
+¡r, Maury, P., op. cii., p. 93.
+17 Schmidt (op. cit., p. 206) pone el acento en la relación existente entre Dafnis y el decus de la natu-
+raleza: "Hasta aquí ese mundo bucólico sin Dafnis es, en cuanto carente de decus, un mundo esté-
+ril y profano y, por ende, símbolo de fealdad. Esta afirmación es necesaria para apreciar la impor-
+tancia de las frases que siguen sobre la fealdad y el mandato de embellecimiento."
+18 Se trata de L. Hermann, LesMasques et lesVisages danslesBucoliques de Virgile, Bruselas, Éditions
+de la revue de l'Université de Bruxelles, 1930, pp. 107-117.
+19 Gadamer, H-G., op. cii., pp. 95-109.
+92
+AUSTER 10/11 (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+3
+DAFNIS EN LA Buc6LICA V DE VIRGILIO: LA ALUSI6N COMPLEJA
+y LOS LÍMITES DE LA iDENTIDAD
+gorías literarias medievales," que o van seguidas de una explicación o buscan
+manifiestamente la claridad, y que basta leer al azar cualquier página de Virgi-
+lio para comprobar que, en su caso, estamos muy lejos de este recurso."
+Como hemos dicho, esto no anula la posibilidad de que muchas perspecti-
+vas críticas, si no se consideran en forma alegórica sino más bien como evocacio-
+nes o alusiones, sean valiosas para la lectura del poema. Se trata por cierto de al-
+go que la misma representación de la obra favorece, colocando al lector u oyen-
+te frente a una alusión compleja que enriquece su lectura. En las líneas siguien-
+tes, veremos tres sentidos de la alusión compleja que la representación cierta-
+mente parece desplegar y que han defendido diversos críticos.
+Comencemos por Klingner. Este autor dice que Virgilio, a través de la repre-
+sentación de Dafnis, evoca la idea de un salvador de la humanidad, pero pro-
+mueve en el oyente o el lector un estado de suspenso que no quiere deshacer me-
+diante una interpretación especial." Es claro que el poema acoge esta lectura. La
+muerte de Dafnis ha provocado un lamento en la naturaleza; de igual modo, la
+naturaleza celebrará su apoteosis:
+Ergo alacris silvaset cetera ruravoluptas
+Panaque pastoresque tenet Dryadasque puellas.
+Nec lupus insidias pecori necretia cervis
+ulladolummeditantur (...)
+Ipsi laetitia voces ad sidera iactant
+inionsi montes; ipsae iamcarmina rupes,
+ipsa sonantarbusta: 'deus,deus ille, Menalca'.
+5is bonus ofelixque tuis! (vv. 58-65)
+(por eso, un gozo vivaz domina los bosques y todos los campos,
+y a Pan y a los pastores y a las jóvenes dríadas.
+Ni el lobo maquina emboscadas contra el ganado, ni ninguna red trampa
+para los ciervos.
+20 Pensemos, por ejemplo, en la Introducción a los Milagros de Nuestra Señora de Gonzalo de Berceo.
+21 Para críticas a la visión alegórica en pro de la idea de alusión, considérense, además de Salvatore,
+A., op.cit. p. 222 YPerret, J., op.cti., 1983, p. 221, las conclusiones de Robert Coleman (op. cii., 174):
+"in short there are not adequate grounds for seeing the poem as a detailed allegory. Indeed its dis-
+tinctive quality is that while clearly alludingto contemporary history and revealing unequivocally
+the poet's political syrnpathies, it preserves throughout its pastoral integrity." Asimismo, es im-
+portante el juicio de Clausen, op.cit., p. 221, p. 152 (nota 4): "but Virgil is never so simple, and such
+an indentification, grotesque if insisted upon, would be an inadequate response to the allusiveness
+and complexity of his poem" (destacados nuestros); y el de Roberto Guerrini ("Vos corylitestes.
+Struttura e 'canto' nella V ecloga di Virgilio, en Rendicontidella Classe di Scienze morali, storiche efi-
+lologiche, serie 8, 28, fase. 5-6, 1973, p. 5): "Ma l' allegorismo -almeno come sistema orgánico di in-
+terpretazione- efallito, come dimostra tra I'altro la congerie di ipotessi spesso assurde che ne so-
+no derivare."
+22 Klingner, E, op.cii., 1927, 129 ss. Klingner dirá tiempo después que Virgilio ha insertado el tema
+cesáreo en el ámbito pastoril (op. cii., 1977, pp. 100-103).
+93
+AUSTER 10/11 (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+4
+Pablo Martfnez Astorino
+Los no talados montes lanzan con júbilo a las estrellas
+sus voces. Las propias rocas,
+los arbustos mismos dejan oír: "es un dios, un dios aquél, Menalcas'.
+¡Sé bueno y favorable a los tuyos!)
+El hecho de que estos versos se inicien con la conjunción ergo, que remite a
+la apoteosis, refuerza la visión de Klingner. Pero no se trata meramente de un
+cambio de actitud para celebrar la apoteosis de Dafnis, sino que su apoteosis tie-
+ne efectos directos sobre la humanidad y sobre la naturaleza, independientes de
+la voluntad del hombre o del curso normal de las cosas. El verso 65 (sis bonus o
+felixque tuís!) completa la idea y la imagen, ya que el salvador tiene ahora carác-
+ter intercesor para con los suyos. Rohde ha criticado esta posición, señalando
+que Klingner se sale innecesariamente del ámbito bucólico en su lectura." De to-
+das maneras, la alusión es aceptable en la medida en que la humanidad es, en el
+poema, un espacio bucólico habitado por pastores." Ese espacio bucólico se al-
+tera con la muerte y la apoteosis de Dafnis, a punto tal que hay un antes y un
+después del hecho. Dafnis, el salvador, es un magíster (v. 48) -y el eco lucreciano
+del verso 64 (que vincula a Dafnis con Epicuro) no parece, en este sentido, ca-
+sual-": Dafnis es también aquél de cuyo amor Menalcas se enorgullece (amavit
+nos quoque Daphnis -v, 52 -'también a mí me amó Dafnis'); es, por último, quien
+recibe una celebración a través del canto aparentemente casual, pero esperada,
+que se representa casi con un sentido ritual y litúrgico" (nótese que como dice
+Perret ambos cantos se dan en el presente de la narración)" y que, sugestivamen-
+21 Rohde, G. op. cii., pp. 122 s.
+24 d. Guerrini, R. op.cit. p. 8: "del resto anche nei canti di Mopso e di Menalca, l' abbiamo visto, ope-
+ra quella reductio di tutta la realta alla dimensione pastorale, in cui giil lo Scaligero vedeva la ca-
+ratteristica saliente delle Bucoliche."
+2, Lucr. DRN. V 8: deus il/efuit, deus, inclyte Memni.
+26 El encuentro de Mopso y Menalcas tiene algo de misterio; algunas ideas de A. G. Lee y de F.Kling-
+ner nos han servido para intentar desentrañar algo de él. Lee (op. cit., pp. 65 Y62) ha demostrado
+que el canto de Mopso está basado en el de Menalcas y es posterior a él en cuanto a composición.
+Asimismo, ha visto el poema como una comedia en miniatura. Por su parte, Klingner (op. cit., 1977,
+p. 94) advirtió que el comienzo remite al de los diálogos ciceronianos, caracterizados por una at-
+mósfera de cortesía, y al de los diálogos socráticos en general, en los que es dable apreciar como
+aquí el elogio de los mayores a los jóvenes. Solidaria de estas consideraciones, nuestra idea es que
+Virgilio sugiere que ambos pastores, al encontrarse, tienen ya una expectativa determinada. Si bien
+Mopso parece ser más explícito en sus objetivos, también Menalcas sospecha que en ese encuentro
+se evocará algo eminente y que el tema ha de ser la muerte reciente del Dafnis magister (v. 48), pa-
+ra quien él mismo ha compuesto un canto. Los versos 10-12, en los que Menalcas le propone a Mop-
+so cantar temas pastoriles, parecen entonces deliberadamente convencionales, ya que el ambiente
+cortés que ambos pastores propician excede el tratamiento de esos temas. En un sentido (afín a las
+tesis de Lee), el poema se revela como una representación teatral; en otro, tal vez más pretencioso,
+como la celebración de un personaje que convoca y mueve al canto. Ambos aspectos se ven refor-
+zados por la polisemia de convenire(v. 1), que, además de "encontrarse por casualidad", quiere de-
+cir "llegar juntos" (vid., Blánquez, Diccionario latino-español, español-latino [3 tomos], Barcelona, So-
+pena, 1985, ad loc.). El poema, en fin, juega con la idea de que el encuentro no es del todo casual.
+27 Perret, L op. cii., 1983, p. 231.
+94
+AUSTER 10/11 (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+5
+DAFNIS EN LA BUCÓLICA V DE VIRGILIO: LA ALUSIÓN COMPLEJA
+Y LOS LÍMITES DE LA IDENTIDAD
+te, culmina con el damnabis tu quoque votis (v. 80) ('tú también los [= agricultores]
+obligarás a cumplir sus votos')," con el que se establecerá su culto, que será eter-
+no (vv. 76-80).
+La segunda alusión es próxima a ésta en sentido y se debe a Perret. Este crí-
+tico sostiene que, en la interpretación del personaje Dafnis, son importantes el
+conjunto de evocaciones y no la definición de su identidad." Dafnis evoca otros
+personajes pero sigue siendo él mismo. Puede entenderse -recuerda Perret- co-
+mo el pastor ideal que realiza plenamente la vida bucólica inaugurando una
+edad de oro en términos concretos con su vida (a través de las instituta que en-
+noblecen la vida de los pastores), su muerte y su apoteosis. Esa edad de oro, co-
+mo profundizará Virgilio en el libro II de las Geórgicas (532 y ss.), sólo puede dar-
+se en la vida de una comunidad rural, de la que Dafnis es pastor y guía. Perret
+analiza, además, los versos 29-31:
+Daphnis et Armeniascurru subiungere tigris
+instituit, Daphnis thiasos inducere Bacchi
+etfoliis lentas intexere mollibus hastas.
+('Dafnis también estableció uncir tigres armenios
+a un carro, Dafnis estableció introducir las danzas de Baco
+y entretejer flexibles tirsos con suaves hojas')
+y es en este punto donde sus tesis se debilitan, ya que, habiendo descartado la
+alegoría, afirma que estos versos sólo pueden comprenderse en un sentido ale-
+górico, en tanto símbolo de la violencia que Dafnis enseña a dominar. Temiendo
+que estos versos sirvieran para identificar indefectiblemente a Dafnis con César
+(ya que según Servio César habría introducido el culto de Baco en Roma)" o, co-
+mo pensó Buchheit, para convertirlo en símbolo de la consagración poética dio-
+nisíaca," Perret fuerza sus tesis, que entonces parecen mostrar su costado más
+arbitrario. Sin embargo, el problema no radica en la tesis general, sino en preten-
+der que ésta pueda agotar los posibles sentidos alusivos del texto.
+Los versos citados antes nos colocan frente a la última alusión del poema: la
+que vincula a Dafnis con César. Es cierto que la referencia al Caesaris astrum de
+la bucólica IX, v. 47 parece ser la alusión más recordada; no obstante, muchos au-
+tores se han dedicado a estudiar otros aspectos de esta vinculación, en especial
+Drew, Grimal y Salvatore, cuyos trabajos, a lo largo de seis décadas, se comple-
+28 Condenándolos cuando no los cumplan.
+29 [bid. p. 221.
+JO Servio (ad v. 29) anota: Hocaperte adCaesarem pertinei, quemconstatprimum sacra Liberi pairistrans-
+tulisseRomam. Filargirio añade: 'subiungere tigres': id est inmiiesetJeras gentes,vel sacra i.iberi patris
+lulius duxit deArmeniaad Romam.
+31 Buchheit, v., "Der Dichter als Mistagoge (Vergil, ec!. 5)", en Atti delConvegno virgiliano sul bimille-
+nariodelle Georgiche, Nápoles, 1977, p. 207.
+95
+AUSTER lO/U (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+6
+Pablo Martínez Astarina
+mentan satisfactoriamente. Como en todos los casos, es posible hallar exagera-
+ciones eruditas en el examen de la bucólica, pero la idea general, que concibe la
+posible alusión a César, no es desdeñable. En el canto de Mopso, el verso 20 y
+los versos 21-23, que hablan de una muerte cruel y de una madre (pensamos en
+la figura de Venus, tomada de Bión) que llora abrazada al miserabile corpus de su
+hijo, evocan la muerte de César, más aun si tenemos en cuenta que pueden vin-
+cularse con los versos 466 y ss. del libro 1de las Geórgicas, en los que se dice (con
+un verso similar al de la bucólica) que incluso el sol tuvo piedad por la muerte
+de César y dejó de brillar: illeetiamexstincto miseratus Caesare Romam ('aun él se
+compadeció de la muerte de César")." En el mismo sentido podemos considerar
+las evocaciones de los versos 36-39, que representan el estado de los campos lue-
+go de la muerte de Dafnis:
+grandia saepe quibusmandavimus hordea sulcis,
+infelixloliumet steriles nascuntur avenae;
+promolliviola, propurpureo narcisso
+carduos et spinis surgit paliurus acutis.
+('en los surcos en los que pusimos abundantes cebadas,
+nacen a menudo la infértil cizaña y las estériles avenas;
+en lugar de la suave violeta, en lugar del purpúreo narciso,
+surge el cardo y el paliuro de espinas agudas')
+Según Drew, estos versos se refieren al lamento de un agricultor a causa del
+eclipse que siguió a la muerte de César y que, para Plutarco y otros," tuvo un
+efecto nocivo sobre los cultivos. En esa dirección, Drew considera que la men-
+ción de Apolo del verso 35 (agros ... ipsereliquit ApolIo _"Apolo mismo abandonó
+los campos") debe entenderse como una mera alusión a la desaparición del sol
+y no en forma más compleja."
+Sin embargo, uno de los autores que más contribuyó a este último sentido
+alusivo es Pierre Grimal. Mediante un riguroso estudio del mito, Grimalllega a
+la conclusión de que el Apolo del verso 66 (Phoebo), al que se le consagran, como
+a las divinidades infernales, un número par de altares, se identifica con Veovis,
+un antiguo Apolo infernal romano que era divinidad gentilicia de los julios. En
+la bucólica, este Apolo recibe su culto junto con Dafnis, lo cual podría ser un ar-
+gumento más a favor de esa alusión. Por último, analizando los versos 70-75,
+Grimal distingue, con notable erudición y corrigiendo antiguas representacio-
+nes, cuatro fiestas y cuatro épocas de juegos de marcada significación romana y,
+32 Cf. Salvatore, A., op. cii.,p. 221. Asimismo, la acción de Venus en la apoteosis de César de las Me-
+tamorfosis (XV, 745-851) puede tomarse como una lectura y una interpretación de este pasaje.
+3J Plutarco, [ulius Caesar LXIX.
+34 Drew, D. L., op. cii., p. 62.
+96
+AUSTER 10/11 (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+7
+DAFNIS EN LA BUCÓLICA V DE VIRGILIO: LA ALUSIÓN COMPLEJA
+Y LOS LiMITES DE LA IDENTIDAD
+en la mayoría de los casos, cesariana."
+Estos tres niveles alusivos pueden resultar útiles para leer la bucólica en
+cuestión. Podría decirse entonces que en el poema se sugiere la siguiente cade-
+na de imágenes. Dafnis es el pastor ideal guía de una comunidad rural (como
+paradigma de comunidad ideal) que realiza plenamente la vida bucólica inau-
+gurando una edad de oro, y la consuma en su apoteosis. Su actividad bienhecho-
+ra es causa de la instauración de algo más que mero progreso; se trata de una
+edad de oro de paz, trabajo y armonía. Su apoteosis produce una conmoción en
+el mundo humano y natural, y las conmemoraciones rituales en su honor, de las
+que no pueden escindirse los propios cantos de Mopso y Menalcas, lo presentan
+como un personaje por cuya presencia la humanidad (representada en términos
+bucólicos) fue no sólo beneficiada: hay un antes y un después de la llegada de
+Dafnis, quien con su vida y su intercesión después de la apoteosis muestra cier-
+to carácter salvífica. Por último, una lectura de este pastor-salvador puede remi-
+tir al auténtico guía de Roma muerto recientemente, pero no hay que olvidar que
+su carácter alusivo no se agota en esta última lectura.
+De igual manera, estas alusiones, lo repetimos, no sirven para imponer un
+sentido alegórico definitivo. La visión integral de las bucólicas, recomendada
+entre otros por Otis y Maury", ayuda a contextualizar la afirmación poética vir-
+giliana y, en ese sentido, la lectura de esta bucólica puede ser útil para compren-
+der, por ejemplo, en qué medida actúa la representación del plano histórico en
+las bucólicas 1 y Iy' 37 Como sostiene Heidegger, la poesía no es un adorno o una
+consecuencia de la historia, sino el factor que la sostiene." En las bucólicas men-
+35 Crímal, P op. cii., pp. 408-411;412-417. Del verso 70 (ante focum si frigus erit, si messis, in umbral se
+desprenden dos fiestas (una de invierno y una de verano) que Grimal identifica con el Naialis di-
+vino de César (en las Calendas de enero del 42 a.e. Octavio y Antonio proclamaron la divinidad
+de César) y con su nacimiento y la aparición del cometa que marcó a los ojos del pueblo su deifi-
+cación (durante el mes de julio). Ambas fiestas están vinculadas también con el calendario apolí-
+neo (juegos de Apolo en el primer caso, fiesta de Veovis en el segundo). Por otro lado, los versos
+74 y 75 (haec tibi semper erunt et cum sollemnia vota/ reddemus nymphis et cum lustrabimus agros) se re-
+fieren a dos fiestas, identificadas con las Fontinaiia del 13 de octubre y las Vinalia Priora del 23 de
+abril (sólo la segunda identificación es hallazgo de Grimal). De los versos 72 y 73, Grimal infiere
+los Ludi Apollinares y Caesaris (correspondientes a julio), los Ludi Compitulicii, en los que se rendía
+culto algenius de César (enero), los juegos de Ceres (en abril) y los Ludi Capitclini, durante los Idus
+de Octubre.
+36 Otís, B., op. cit., p. 128: "Scholars and critics of the Bucolics have paid most attention to their chro-
+nological order or dates of composition. This, however, is really a point of minor importance corn-
+pared with their internal relation to each other in the complete Eclogue Book:" Maury, P., op. cii., p.
+73: "des poernes composés ades époques tres différentes ... ont été intégrés dans le recueil auquel
+ils appartiennent ajamais."
+37 El artículo de María Delia Buisel ("Discurso mítico y discurso histórico en la IV égloga de Virgi-
+lio", Auster 4,1999, pp. 41-62), que además resume exhaustivamente las perspectivas anteriores,
+es un valioso aporte a la discusión de este tema.
+J8 Heidegger, M., op. cii., p. 139: "La poesía no es un adorno que acompaña la existencia humana, ni
+sólo una pasajera exaltación ni un acaloramiento y diversión. La poesía es el fundamento que so-
+porta la historia, y por ello no es tampoco una manifestación de la cultura, y menos aun la mera
+'expresión' del 'alma de la cultura'."
+97
+AUSTER 10/11 (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+8
+Pablo Martínez Astorino
+cionadas, las imágenes del iuvenis y del puer no pueden leerse en forma alegóri-
+ca o historicista. Aun cuando no estemos en presencia de nombres propios y es-
+to facilite las cosas para una posible interpretación, es importante tener en cuen-
+ta que Virgilio ha utilizado dos imágenes y que ello obedece a un sentido: la re-
+presentación poética se impone a la celebración de la realidad histórica y la rea-
+lidad histórica, en forma alusiva aunque no excluyente (y la bucólica IV es un
+buen ejemplo para alusiones en otros planos), sólo cobra vida en el sentido emi-
+nente de la poesía.
+Asimismo, continuando con una visión integral, habría que considerar el
+hecho de que la bucólica V está en el centro del poemario. El debate sobre la in-
+cidencia de su carácter central no es nuevo y ha sido planteado por críticos que
+defendían una "arquitectura de las bucólicas"." Guerrini agregó algo a este de-
+bate al sostener que esa arquitectura sólo podía ser formulada a partir de la si-
+metría interna de la bucólica quinta, materializada en su Ringkompostion, en la
+que juega un papel significativo el canto como fuerza evocadora de las cosas."
+Ahora bien, para una visión de conjunto o, incluso, para que sean posibles esas
+simetrías que postulan quienes sostienen una "arquitectura" en el poemario, es
+más apta la alusión compleja que la identificación precisa de Dafnis. Aceptadas
+como indudables, si no una pitagórica arquitectura, ciertas afinidades en el con-
+junto de los poemas, sólo cabe afirmar que una obra de estas características, cu-
+ya representación parece buscar la complejidad y la nota sugerente, sólo podía
+evocar en el centro a César; no hubiera resultado apropiado que se concentrara
+abiertamente en su figura. Virgilio comprendió esto y prefirió la alusión antes
+que el panegírico declarado o una inadecuada alegorización porque con la uni-
+cidad e intraducibilidad de su personaje central podía construir un personaje
+más complejo y capaz de aludir a diversos planos, lo cual era un forma de enri-
+quecer su poesía.
+La referencia a un viejo artículo de R. Pichon es adecuada para concluir." La
+figura de César no aparece demasiado en la última obra de Virgilio, la Eneida, y
+cuando lo hace, es en virtud de su relación con Anquises, Eneas o Augusto. Pi-
+chon cita conocidos y ampliamente comentados pasajes del libro VI en el que no
+queda claro si Virgilio está refiriéndose a César o a Augusto (pero que casi con
+seguridad están subordinados a la alabanza del último)? o, como en el caso del
+escudo de Eneas, donde la referencia a César es inesperadamente mínima." Ter-
+mina con aquella (esta vez clara) referencia a César en el segundo discurso de
+Anquises (En., VI, 826-835), donde es caracterizado como el adversario de Pom-
+" Maury, E, op. cit. y Carcopino, L Virgile et le mustérede laIV Eglogue, París, 1930.
+40 Guerrrini, R, op.cit., pp. 10-11.
+41 Pichon, R, "Virgile et César", REA, 19, 1917, 193-198. Para un análisis más completo y reciente del
+tema, ver White, P., "[ulius Caesar in Augustan Rome", Phoenix, 42, 1988, 334-356.
+42 En. VI, 788-192. En el libro 1 (286-290) hay también un pasaje (en el contexto del discurso de Júpi-
+ter a Venus) que deja dudas sobre si alude a César o a Augusto.
+" En.. VIII, 680-1: cui .../ ... patriumqueaperiturverticesidus.
+98
+AUSTER 10/11 (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+9
+DAFNIS EN LA BUCÓLICA V DE VIRGILIO: lA ALUSIÓN COMPLEJA
+YLOS LiMITES DE LA IDENTIDAD
+peyo en las guerras civiles e instado a abandonar las armas (proice telamanu, san-
+guis meus -v, 835). No es fácil hacer comparaciones temporales, dado que la bu-
+cólica V fue escrita según parece hacia el año 42 a. C, época en que la exaltación
+cesariana, después de la muerte del dictador y en el contexto de la persecución
+de sus asesinos que desembocó en Filipos, era indudable, mientras que ila Enei-
+dafue escrita después del triunfo y durante el apogeo de Augusto. Por lo demás,
+luego de obras como las de Galinsky y Zanker sería reductivo hablar de una im-
+posición por parte de Augusto a opacar la imagen de César como única clave pa-
+ra entender este problema." Lo que parece observarse más bien es un itinerario
+de imágenes que explicaremos. En las Bucólicas, Augusto, si bien no en forma ne-
+cesariamente excluyente, aparece evocado o aludido con las imágenes de puer y
+iuvenis, mientras que en la bucólica V hay una alusión a César. En la Eneida, la fi-
+gura de Augusto, citada a menudo, está subordinada a una imagen literariamen-
+te más predominante que es la de Eneas." La figura de César ya ha perdido im-
+portancia en el nivel de la imaginería, dado que Eneas sólo alude a Augusto -y
+no a César- en el plano histórico; tendrá que esperar, pues, a obras posteriores y,
+significativamente, a un renacer de la épica histórica con Lucano para recobrar
+su carácter literario (aunque, por cierto, su representación será bastante negati-
+va). En la evolución poética virgiliana pudo haber habido, como se ha especula-
+do, un replanteo de la asunción de lo histórico en el plano literario o una invita-
+ción del princeps a celebrar sus hazañas en desmedro de las de su padre adopti-
+vo; lo que parece claro, no obstante, es que en ambas obras la recurrencia al pla-
+no de las imágenes (que se evidencia en las Bucólicas a través de la alusión com-
+pleja, especialmente aplicable a la bucólica V) fue esencial para que siguieran
+siendo estéticamente valiosas una vez perimida su significación cesáreo-augus-
+tea" y, asimismo, para su fertilidad estética en términos de permanencia y de in-
+terpretaciones. Dafnis, el puer,el iuvenis y Eneas son, así, mayores que sus corre-
+latos o alusiones históricas; mayores y más universales.
+Pablo Martínez Astorino
+Universidad Nacional de La Plata-Conicet
+pabloleandromartinez@yahoo.com.ar
+.. Calinsky, F, Augustan Culture: An lnterpretive lntroduction, Princeton, Princeton University Press,
+1996; Zanker, P., Augustus und die Macht der Bilder, Munich, 1987.
+" Como señaló Calinsky ("El drama griego y romano y la Eneida", Auster 8/9, 2004, p. 13 -trad. de
+"Creek and Roman Drama and the Aeneid," en D.Braund and Cl Cill, eds. Myth, History and Cul-
+ture in Republican Rome, Exeter, 2003, pp. 275-94): "En cuanto a Roma, la épica histórica había flo-
+recido y se esperaba, según se presagiaba en el proemio a la Geórgicatercera, que Virgilio escribie-
+ra una Augusteida. Eligió no hacerlo y optó por algo más inclusivo, al tiempo que no sacrificaba
+ninguna relevancia contemporánea de su poema."
+4h Cante, G.B., Latin Literature. A History, Baltimore, 1999, p. 34.
+99
+AUSTER 10/11 (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+10
+Pablo Martínez Astoríno
+RESUMEN
+La mayor parte de la crítica sobre la bucólica V ha partido de la idea de que Dafnis es una
+alegoría de otro personaje o de otra realidad. Sin embargo, nada hay en él que haga posible
+sostener una interpretación alegórica en ningún sentido porque, a diferencia del puerde la bu-
+cólica IV o del iuvenis de la I, Dafnis tiene un nombre preciso. Partiendo de otros postulados
+críticos, la idea de este artículo es que el Dafnis de la bucólica V sugiere distintos planos de
+alusiones (alusión compleja), uno de los cuales es el contemporáneo, que remite a César, pero
+que el carácter literario del texto nos impide admitir la alegorización, basada en posiciones aje-
+nas a la índole de los textos literarios. La reseña de distintas consideraciones críticas hace pen-
+sar que, en cierta manera, esos sentidos están presentes en el poema de Virgilio y no son nece-
+sariamente el resultado de especulaciones posteriores. Por último, puede verse que es la poe-
+sía, en tanto sostén de la historia (y con la materias de la imagen y la alusión), el ente capaz de
+celebrar algún aspecto del ámbito histórico. Esta idea puede extenderse a otros sectores de la
+obra virgiliana.
+PALABRAS CLAVE: Dafnis- César- alegorización- alusión compleja- poesía
+ABSTRACT
+Most of 5th Bucolic's criticism has started from the idea that Daphnis is an allegory of
+another character or of another reality. However, there is nothing in him that makes it possible
+to support an allegorical interpretation in any sense because, unlike the puer of the 4th Bucolic
+or the iuvenis of the 1". Daphnis has a precise name. Taking into account other views, the idea
+of this article is that the 5th Bucolic's Daphnis suggests different planes of allusions (complex
+allusion); one of those is the contemporary plane, that refers to Caesar. Nevertheless, the lite-
+rary nature of the text prevents us to admit allegorization, based on points of view unaware of
+the literary nature of texts. The review of different critical perspectives moves to think that, in
+a way, those meanings are present in Virgil poem and are not necessarily the result of later spe-
+culations. Eventually, we can see that it is poetry, as a support of history (and throughout ima-
+ges and allusions), the entity capable of celebrating sorne aspect of the historical sphere. We
+can extend this idea to other parts of Virgilian work.
+KEYWORDS: Daphnis- Caesar- allegorization- complex allusion- poetry
+100
+AUSTER10/11 (2006)
+Auster, 2006 (10-11). ISSN 1514-0121.
+11

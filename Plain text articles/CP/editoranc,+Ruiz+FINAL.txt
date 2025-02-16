@@ -1,0 +1,883 @@
+73
+  XVII.1 (julio 2013) ISSN 1851-4669 | Barroco: esta obra, aquel concepto, ese período: 73-89
+Barroco: esta obra, aquel 
+concepto, ese período
+Th
+ e Baroque: this work, that concept, that period
+Facundo Ruiz
+Universidad de Buenos Aires
+Consejo Nacional de Investigaciones Científi
+ cas y Técnicas
+[ nofacundosi@gmail.com ]
+Resumen: ¿Tiene sentido preguntarse qué es el barroco? Y en cualquier caso, 
+¿puede deﬁ
+ nírselo? El barroco ha sido a lo largo del siglo XX y, con renovado 
+impulso, en los últimos treinta años, un problema muy estudiado y discutido, e 
+incluso inevitable a la hora de pensar la historia literaria y crítica latinoameri-
+cana. Dos cuestiones han guiado, central pero desigualmente, su interés: una, 
+referente a su concepto; otra, pertinente a su corpus. Y así, es frecuente que la 
+relación entre concepto y corpus, ya por sobreentendida ya por autoevidente, 
+resulte desatendida o permanezca implícita. 
+En este sentido, el presente trabajo se propone: revisar y precisar el con-
+cepto de barroco, atendiendo sus derivas críticas (especialmente literarias y 
+principalmente para América Latina); analizar reﬂ
+ exivamente ciertos pasajes 
+de la obra de sor Juana Inés de la Cruz (México, 1648-1695) y de Juan de Espi-
+nosa Medrano (Perú, ¿1630?-1688) que permitan una relación adecuada entre 
+concepto y corpus; y por último, explicitar dicha relación y sus condiciones 
+críticas de aparición a ﬁ
+ n de pensar una posible distinción entre el barroco del 
+siglo XVII y el (neo)barroco del XX. 
+Palabras claves: Barroco; teoría literaria; siglo XVII; sor Juana Inés de la Cruz; 
+Juan de Espinosa Medrano 
+Abstract: Why should we ask ourselves about Baroque’s meaning? In fact, ¿can 
+we deﬁ
+ ne it? During the 20th century -and specially for the last thirty years- 
+Baroque has been one of the most studied and discussed issues. It remains 
+an inevitable topic when thinking about Latin-American literary and critical 
+history. Two questions have driven, mainly but unequally, its interest: one 
+referred to its concept, the other to its corpus. Thus, the relations between 
+concept and corpus -be they understated or self-evident- remain frequently 
+unattended or implicit.
+This paper aims to reexamine and clarify the concept of Baroque following 
+its critical drifts, specially the literary ones and mostly for Latin America. 
+It also aims to thoughtfully analyze several excerpts from the work of sor 
+Juana Inés de la Cruz (Mexico, 1648-1695) and from Juan de Espinosa Medrano 
+(Peru, ¿1630?-1688) that makes it possible to properly analyze the relationship 
+between concept and corpus. Finally, it aims to clarify this relationship and 
+the critical conditions in which it emerged in order to think a possible distinc-
+tion between the seventeenth Baroque and the twentieth (Neo)Baroque.
+Key words: Baroque; literary theory; seventeenth century; sor Juana; Espinosa 
+Medrano.
+74
+Facundo Ruiz | 
+  XVII.1 (julio 2013) ISSN 1851-4669
+Cada grande obra de arte crea medios propios y peculiares de expresión; 
+aprovecha las experiencias anteriores, pero las rehace porque no es una 
+suma, sino una síntesis, una invención.
+Pedro Henríquez Ureña (La utopía 44)
+D
+efi
+ nir el barroco, americano o europeo, así como 
+escribirlo con mayúscula o situarlo históricamente 
+—sea para delimitar un campo de pertinencia, sea 
+para indicar la nitidez de un brillo o la consolida-
+ción de un trazo— son actividades especulativas e hipotéticas relativamente 
+comprensibles, si bien no igualmente útiles. En cualquier caso, son actividades 
+frecuentes y muchas veces necesarias a la escritura, cuando no exigidas por la 
+propia investigación o estudio.
+De esta manera, la defi
+ nición del barroco ha sido ensayada y cuestionada a 
+partir de criterios muy distintos; y por supuesto, nadie ha dejado de mencionar 
+—antes o después de pronunciarse al respecto— la difi
+ cultad que ello involu-
+craba, o las limitaciones funcionales que volvían estimable —aunque proviso-
+ria— cierta caracterización. A diferencia de otras distinciones convencionales 
+pero sugerentes, como la de Renacimiento (y sus renacimientos: cfr. Panofsky 
+Renacimiento y renacimientos) o la de Edad Media (y la medida de sus edades: 
+cfr. Curtius Literatura europea), con el barroco ocurre que —en principio— hay 
+que adjetivarlo (europeo, americano) para contenerlo o darle continente, y hasta 
+determinar su aspecto gentilicio1; y no pocas veces, volver a rotularlo (barroco, 
+neobarroco, neobarroso, transbarroco, neoborroso2) para descubrirlo; amén de 
+1 Panofsky habla de un Barroco “original, la versión italiana del estilo”, mientras “los otros países 
+de Europa […] tendieron a seguir siendo manieristas dentro del marco del Barroco” (“¿Qué es 
+el barroco?” 54). Sebastián considera el Barroco “un estilo internacional” pero creado en Italia y 
+luego trasplantado —en América— como “expresión regional” (El barroco iberoamericano 32). 
+Hatzfeld sostiene el origen italiano pero históricamente, puesto que ya existía “en España un gusto 
+barroco permanente y eterno” (Estudios 29); eternidad que Carpentier situará en América (Tientos; 
+“Lo barroco”) y que Marzo criticará ideológicamente: “El barroco es a la hispanidad lo que un 
+muñeco a un ventrílocuo” (La memoria 10). Tapié habla de un Renacimiento (siglo XVI) heredero 
+de Italia pero ya “heredero emancipado” (El barroco 36) que existe en toda Europa distintamente 
+y que podría llamarse manierismo (1530-1580), período del que emana el barroquismo (italiano) y 
+el clasicismo (francés) (El barroco 39-40).
+2 Me reﬁ
+ ero al ya conocido “neobarroco”, acuñado en 1955 por Haroldo de Campos (cfr. “Barroco, 
+neobarroco, transbarroco”) y popularizado por Sarduy poco después (cfr. Barroco y neobarroco 
+y Díaz “Severo Sarduy”), y que ya es usado –en 1960– por Macrí, aunque referido a la crítica al 
+barroco de Antonio Machado (expuesta por su heterónimo Juan de Mairena); al “neobarroso” de 
+Néstor Perlongher (Prosa plebeya); al “transbarroco” de De Campos (“Barroco, neobarroco, trans-
+barroco”) y al reciente “neoborroso” de Tamara Kamenszain (cfr. Foffani “La extraña familia”).
+75
+  XVII.1 (julio 2013) ISSN 1851-4669 | Barroco: esta obra, aquel concepto, ese período: 73-89
+graduarlo (de barroco a ultrabarroco3), e incluso, defender o desestimar su deno-
+minación misma (¿Barroco o Manierismo, o nada?4). 
+Sin embargo el problema —a mi entender— no radica allí; ni el barroco 
+pareciera alentar (ni haber alentado) desorbitados desvelos al respecto. En cierta 
+forma, el problema es evidente, ya que la pregunta ¿qué es el barroco? elude una 
+cuestión fundamental (quizás: fundacional) de lo que pretende reconocer y dar 
+a conocer; pero siendo evidente, el problema no es simple, puesto que pregun-
+tar —más atinadamente— ¿de qué es capaz el barroco? no transforma tanto el 
+punto de partida como el plano en el cual va a ubicarse toda la geometría del 
+problema. Una y otra pregunta implican el mundo de maneras completamente 
+distintas (aunque no separadas), y conciben el arte —en la vida de ese mundo— 
+de maneras hasta antagónicas.
+***
+Tentativamente: no hay una respuesta adecuada a ¿qué es el barroco? porque la 
+noción de “ser” reduce las singularidades e individuos a un único género, abstracto 
+o “generalísimo”, que –aquí– llamaríamos “Barroco” y al que pertenecerían los 
+“barrocos” (especies), sin dar razón de dicho cambio. Vale decir: el barroco no es 
+una esencia o una cualidad esencial (de una obra, un período o un continente) 
+sino una potencia y una cantidad potencial (un poder-obrar, poder-periodizar o 
+poder-contener); y por eso, es más pertinente —pero no más simple— preguntar 
+¿de qué es capaz el barroco? Por otra parte, dos cuestiones distintas —pero no 
+separables— concurren a sostener esta primera respuesta tentativa: en primer 
+lugar, el hecho de que la pregunta ¿qué es el barroco? sea un interrogante cuando 
+menos equívoco, puesto que no aclara si se refi
+ ere al arte o a las obras de arte, si 
+3 El término “ultrabarroco” fue acuñado a mediados de 1920 por el Dr. Atl (seudónimo del pintor y 
+escritor mexicano Gerardo Murillo) y aparece en su obra Las Iglesias de México. En 1940-1 es uti-
+lizado por Pedro Henríquez Ureña en sus famosas conferencias de la cátedra Charles Eliot Norton 
+(Las corrientes literarias 95), especialmente para la arquitectura americana, que todavía describe a 
+ﬁ
+ nes de esa década (Historia de la cultura 56); a principios de los ‘50 Méndez Plancarte ya lo uti-
+liza para la literatura (“Introducción” xxiii). En el año 2000, en el Museo de Arte Contemporáneo 
+de San Diego (California, EEUU), se inauguró la exposición Ultrabaroque. Aspects of Post Latin 
+American Art (curada por Elizabeth Amstrong y Víctor Zamudio-Taylor); a esta exposición y sobre 
+el tema, vuelve Mabel Moraña (“Barroco/Neobarroco/Ultrabarroco”).
+4 Para Curtius —quien, a su modo, responde al planteo de Wölfﬂ
+ in (Conceptos)— las corrientes 
+“anticlásicas” son manieristas y no “barroco” (Literatura europea 17-36); idea que Hauser reto-
+mará (Historia social del arte). Para Panofsky la relación es de originales y versiones o de marcos 
+y enmarcados (cfr. nota 1), concepción que renueva la serie habitual (Renacimiento vs. Barroco) 
+pues sería el barroco el que reinstauraría los principios clásicos alterados por el manierismo (“¿Qué 
+es el barroco?” 54). Hansen, considerando que el barroco nunca existió históricamente en el tiempo 
+que el término designa (“Barroco, Neobarroco e outras ruínas” 170), preﬁ
+ ere hablar de representa-
+ciones del siglo XVII. Sobre el uso y sentido de “manera” en el arte del XVI, cfr. Benévolo (Intro-
+ducción 101-106). Este problema, habitualmente, está ligado a perspectivas históricas (separación 
+de períodos o épocas) del arte. Para cierto estado de la cuestión, cfr. Figueroa Sánchez (Barroco y 
+neobarroco 29-45).
+76
+Facundo Ruiz | 
+  XVII.1 (julio 2013) ISSN 1851-4669
+pregunta por un arte barroco (sustancial o sustantivo) o por un rasgo barroco 
+(modal o adjetivo) que permite reconocer ciertas obras, e incluso, agruparlas; y 
+en segundo lugar, el hecho —reiterado— de que los acercamientos al barroco 
+hayan puesto el énfasis en su capacidad, e incluso en sus muy diferentes (criti-
+cables o encomiables) posibilidades. Y así —por ejemplo— se ha hablado de su 
+capacidad de componer un cuerpo de fenómenos culturales no sintéticos sino 
+superpuestos (Picón Salas De la conquista), de ser directriz de una sociedad 
+(Maravall La cultura) o de funcionalizar ideologías contrarias (Moraña Viaje 
+al silencio; “Barroco/Neobarroco/Ultrabarroco”), de administrar la memoria 
+colectiva (Marzo La memoria) o de modelar la subjetividad individual (De la Flor 
+Barroco; Imago), de expresar lo americano e incluso de reconquistarlo (Lezama 
+Lima La expresión americana) o, al menos, de exhibir la excepcionalidad de sus 
+condiciones productivas (Paz Sor Juana); y así también, se ha hablado de que el 
+barroco es capaz de subvertir un orden estipulado (Perlongher Prosa plebeya) o de 
+universalizar un orden sin estipulación fi
+ ja (Carpentier Tientos y diferencias; “Lo 
+barroco y lo real maravilloso”), de repercutir infi
+ nitamente (Sarduy Barroco; El 
+barroco y neobarroco), de distinguir una constante espiritual o metafísica (D’Ors 
+“La querella de lo barroco”), un concepto fundamental del arte (Wölffl
+  in Conceptos 
+fundamentales), una fatalidad estilística inaceptable (Acosta El barroco de Indias) 
+o una persuasiva retórica tan textual como iconográfi
+ ca (Sebastián El barroco 
+iberoamericano), de establecer un procedimiento singular (Deleuze El pliegue), la 
+lógica de ciertos fenómenos (Hofstadter Gödel, Escher, Bach), una imagen crítica 
+y fragmentaria del mundo (Benjamin El origen), entre otros. 
+Llegados a este punto, donde se cruzan tantas líneas y tan distintas, la 
+pregunta —incluso— cambia (complicándose aún más): ¿por qué el barroco 
+parece capaz de cualquier cosa? Pero he aquí que aparece una segunda respuesta 
+tentativa: el hecho de que cualquier cosa sea capaz de devenir barroco implica 
+que el barroco pueda pensarse y defi
+ nirse como una noción común: “Aquello 
+que es común a todas las cosas, y que está igualmente en la parte y en el todo, 
+no constituye la esencia de ninguna cosa singular” (Spinoza Ética II prop. 37). 
+Así, el barroco sería el enunciado de lo que es común a muchas cosas, a muchos 
+cuerpos (corpus); un enunciado —como explica Deleuze (En medio de Spinoza 
+184)— en absoluto abstracto (ni género ni especie le son pertinentes) sino general, 
+puesto que afecta cosas concretas, distintos pero singulares corpus: esta obra, 
+aquel concepto, ese período. Y de esta manera, no hay equivocidad alguna: el 
+barroco, en tanto noción, permite conocer cierta forma a través de la cual el arte 
+se expresa, constituyendo manifestaciones distintas que —a su vez— dan lugar 
+a ciertos modos artísticos expresados por corpus singulares (esta obra, aquel 
+concepto, ese período); y, en tanto común, puede afi
+ rmarse tanto del arte como 
+de las obras de arte, aunque no lo haga de la misma manera en cada uno (en 
+esta obra, en aquel concepto, en ese período). 
+Finalmente ese enunciado de lo que es común a muchas cosas, a cierto corpus 
+—y reuniendo ambas respuestas tentativas—, podría formularse de la siguiente 
+77
+  XVII.1 (julio 2013) ISSN 1851-4669 | Barroco: esta obra, aquel concepto, ese período: 73-89
+manera: el barroco es una noción común que expresa, en el arte, una cantidad 
+potencial singular. 
+***
+Pero —se sabe— no hay enunciado sin condiciones de enunciación, lo que 
+explica –sin ir más lejos– que el barroco se exprese no sólo de cosas singulares, 
+sino singularmente: esta obra, aquel concepto, ese período. Y entonces la pregunta 
+cambia: ¿bajo qué condiciones se expresa el barroco? 
+Antes de tentar una respuesta a esta nueva pregunta, es necesario reconocer 
+que el plano de defi
+ nición ha cambiado (de enunciado a enunciación), pero que 
+el sistema (expresivo) se mantiene, es decir: se trata de planos distintos pero 
+de un mismo sistema (que funciona en cada uno distintamente). Hay, así, un 
+plano de enunciado (plano ciertamente conceptual) donde funciona el sistema 
+virtualmente, con sus propiedades y posibilidades; y hay un plano de enunciación 
+(plano ciertamente afectivo), donde funciona el sistema actualmente (“lo vivo y 
+lo próximo”, como dice Foucault en “Mi cuerpo, ese papel, ese fuego” 360) con 
+sus apropiaciones y condiciones de posibilidad. O lo que es lo mismo: que el 
+barroco pueda enunciarse (conceptualmente, y según se ha dicho líneas antes) 
+como “una noción común que expresa, en el arte, una cantidad potencial sin-
+gular”, implica virtualmente un conjunto de obras (corpus) con sus propiedades 
+y posibilidades; aquí, entonces, “es posible” enunciar que la obra de Cervantes y 
+la de Spinoza, la de sor Juana y la de Arcimboldo, la de Gregorio de Matos y la 
+de Bach, la de Lezama Lima y la de Simon Hantaï, la de Severo Sarduy y la de 
+Escher, entre otras, son barrocas. Pero que puedan serlo (virtualmente) implica 
+que (actualmente) lo sean de maneras distintas: si esas obras acontecen barrocas 
+(noción común), entonces lo hacen distintamente (bajo ciertas condiciones, 
+naturalmente, irrepetibles e incomparables). Es decir: cada obra actualiza (afec-
+tivamente) esa noción común (conceptual) según sus condiciones de posibilidad. 
+Y entonces, no sólo hay dos planos distintos y un mismo sistema, sino dos 
+planos relacionados y en permanente modifi
+ cación, lo que implica que el sis-
+tema (en cada actualización) varíe. O lo que es lo mismo: que la noción común 
+de barroco (su concepto) cambie según la obra en la que se exprese y según las 
+condiciones de posibilidad que afecten la actualidad de la obra (su expresión); 
+pero siempre, y en cada cambio y cada obra (en esta obra, en aquel concepto, en 
+ese período), se mantiene una relación de comunidad nocional (un concepto), lo 
+que explica que ese corpus exprese el barroco (virtualmente) y que la expresión 
+del barroco se encuentre afectada (actualizada) por las condiciones, irrepetibles 
+e incomparables, que hacen posible ese cuerpo (corpus) singular: esta obra, aquel 
+concepto, ese período.
+Y ahora sí: ¿bajo qué condiciones se expresa el barroco? 
+***
+78
+Facundo Ruiz | 
+  XVII.1 (julio 2013) ISSN 1851-4669
+Las condiciones de un sistema expresivo son su “aquí entre estos límites”, 
+como dice —inmejorable— Espinosa Medrano (Apologético 17); es decir, su 
+circunstancia (o las variables que se consideren como tal). Límites, aquí, en 
+un sentido positivo (y hasta existencial): no es lo que obstaculiza, interrumpe, 
+silencia o prohíbe la expresión, sino lo que la circunscribe, lo que la distingue; 
+en fi
+ n, lo que una expresión implica y produce “circunstancialmente”. En térmi-
+nos literarios, un cronotopo (Bajtín “Las formas del tiempo” 408): lo que hace 
+aparecer un sentido en su singularidad expresiva. Los límites, de esta manera, 
+no son defi
+ nitivos aunque permitan defi
+ nir, sino circunstanciales, es decir, más 
+afectivos que conceptuales: actuales, actuantes. Y porque son circunstanciales, 
+los límites se encuentran igualmente en la parte y en el todo, singularizándolos; 
+pero sin constituir la esencia de ninguna cosa singular, sino expresando un modo 
+de articulación, de composición, irrepetible e incomparable. 
+Cuando Juan de Espinosa Medrano se refería, en el prólogo “Al lector” de 
+su Apologético en favor de Don Luis de Góngora (1662), a “aquí entre estos lími-
+tes”, indicaba la “palestra de entendimientos” donde “peléase”, es decir, donde 
+pensaba desarrollar su apologético en favor de Góngora y en contra de Faría y 
+Sousa “sin que pase el desidio a la voluntad” (Apologético 17). No obstante, “aquí 
+entre estos límites” (que murmura aún en el reciente Aquí América Latina de 
+Ludmer) expresa no sólo las condiciones generales de enunciación (conceptuales) 
+sino también condiciones muy singulares (afectivas). Así, y de forma general, el 
+enunciado Apologético se formula bajo la condición de entender (concebir) que el 
+juicio de Faría y Sousa es inadecuado a la poesía de Góngora, y no por el afecto 
+que el Lunarejo tenga por la misma obra. Así también, y de forma singular, el 
+Apologético se manifi
+ esta aquí entre estos límites (americanos, coloniales), que 
+afectan la enunciación tanto espacial (“en tan remoto hemisferio” o “distantes 
+de corazón de la monarquía”, Apologético 16) como temporalmente: “Tarde 
+parece que salgo a esta empresa”, pues “cuando Manuel Faría pronunció su 
+censura, Góngora era muerto y yo no había nacido” (Apologético 17). Porque 
+además, si de desplazamientos (espaciales) y tardanzas (temporales) se trata, el 
+Lunarejo es claro: “¿qué puede haber bueno en las Indias?” (Apologético 17); es 
+decir, ¿qué puede haber nuevo aquí? Y esta circunstancia no sólo es histórica 
+sino literariamente clara o famosa (como la Troiana fabula de Tito Livio): esta 
+andante empresa a la que sale el Apologético, cual caballero impaciente por 
+deshacer agravios, enderezar entuertos y enmendar sinrazones, es aventura que 
+hace –con difunta materia y desde otro mundo– una composición renovada 
+(nuevo mundo), donde peléase.
+Todo lo cual, tratándose del Apologético, es aún más expresivo ya que, bajo 
+condiciones poéticas (la poesía de Góngora, el uso del hipérbaton, entre otras 
+cuestiones), lo que lleva a la palestra del entendimiento Espinosa Medrano es la 
+lengua española en América, su capacidad, puesto que Góngora, “sacándola de 
+los rincones de su hispanismo” (Apologético 46), la hizo adquirir “nuevo ser […] 
+y amaneció entonces nuestra poesía” (Apologético 47). Pero con “nuestra poesía” 
+79
+  XVII.1 (julio 2013) ISSN 1851-4669 | Barroco: esta obra, aquel concepto, ese período: 73-89
+surge un nuevo “aquí entre estos límites”: esa noción común que es la lengua 
+española, ¿expresa la misma cantidad potencial, la misma singularidad, fuera de 
+sus rincones de hispanismo? Es decir (otra vez): ¿bajo qué condiciones se enuncia 
+(es afectado, actualizado) el español fuera de sus rincones de hispanismo? ¿De 
+qué es capaz el español aquí (fuera de España) y entre estos (americanos) límites? 
+Y volviendo —o aquí, entre estos límites: ¿de qué es capaz el barroco?, ¿de qué 
+es capaz el barroco fuera de sus rincones de hispanismo?
+Aquí afuera, aquí adentro. La condición bajo la cual se enuncia o la defi
+ nición 
+de un aquí entre estos límites, que sor Juana no se cansa de exponer (por ejemplo 
+en su Crisis de 1690), no sólo habilita el sentido singular de una noción común 
+(como la de la mayor fi
+ neza de Cristo, según sor Juana y en la Crisis5), sino que 
+es intensamente pertinente al barroco, a su noción común: expresar (explicar, 
+explicitar) las condiciones que afectan su actualidad es un atributo del barroco; 
+es —tentativamente— la condición expresiva bajo la cual tiene sentido la expre-
+sión de su noción común. No hay concepto (enunciado) sin afecto (enunciación); 
+no hay noción común “barroco” sin esta obra, aquel concepto, ese período. La 
+primera condición, así, queda defi
+ nida por su misma noción común: si barroco, 
+en arte, implica y explica cierta potencia (y no una esencia), esto es, una cantidad 
+potencial (y no una cualidad esencial), entonces el barroco se expresa como una 
+intensidad variable, más o menos infi
+ nita pero limitada puesto que —tanto para 
+Spinoza como para Espinosa Medrano— la defi
+ nición no implica el número6. 
+El barroco se expresa, entonces, como intensidad (cierta cantidad potencial) si 
+y sólo si es expresado por un grado (más o menos infi
+ nito o entre estos límites) 
+de intensidad variable en cierto campo: esta obra en este campo artístico, aquel 
+concepto en aquel campo fi
+ losófi
+ co, ese período en ese campo histórico. Y así, 
+por ejemplo: el Quijote de Cervantes es una expresión limitada (a 2 libros, a 
+5 La tesis de sor Juana sobre la mayor ﬁ
+ neza de Cristo (usualmente mal conocida y comprendida 
+como tesis del beneﬁ
+ cio negativo) aparece en la Crisis de un sermón (Puebla, 1690), donde la 
+mexicana cuestiona lo sostenido por el padre portugués Antonio Vieira en uno de sus sermones 
+pascuales (c.1650). No obstante, no sólo Vieira considera una mayor ﬁ
+ neza distinta en otro de 
+sus sermones (c.1645), sino que tampoco sor Juana reﬁ
+ ere la misma “mayor” ﬁ
+ neza (ni de la 
+misma manera) en otros textos, como la “Loa” para el auto El Mártir del Sacramento, San Her-
+menegildo, las Letras de San Bernardo, El Divino Narciso o los Ejercicios de la Encarnación. 
+Todo lo cual (amén de la “curiosa” semejanza entre los interlocutores –portugueses– que sor 
+Juana y el Lunarejo escogen para confrontar sus tesis), enfatiza y advierte sobre la importancia 
+de considerar el “aquí entre estos límites” que cada texto deﬁ
+ ne y dispone deliberadamente. 
+6 Menos sorprendente que muy estrecha, es la relación entre Spinoza y Espinosa Medrano, que 
+aquí reﬁ
+ ere a la concepción epistemológica: “la verdadera deﬁ
+ nición de cada cosa no implica 
+ni expresa nada más que la naturaleza de la cosa deﬁ
+ nida. De lo cual se sigue […] que ninguna 
+deﬁ
+ nición conlleva ni expresa un número determinado de individuos, puesto que no expresa más 
+que la naturaleza de la cosa deﬁ
+ nida”, dice Spinoza (Ética I prop. 8 esc.2); y Espinosa Medrano 
+aﬁ
+ rma que “el número no varía la esencia de la entidad” (Apologético 55). El más o menos 
+inﬁ
+ nito (como el “muy grande número”) de Spinoza es el inﬁ
+ nito concebido como más o menos 
+grande, pero limitado por su esencia; es entonces —teniendo en cuenta que “el número no es 
+sino una manera de imaginar la cantidad”— “un número inatribuible, es decir, una multitud que 
+supera todo número” (Deleuze Spinoza y el problema 172). 
+80
+Facundo Ruiz | 
+  XVII.1 (julio 2013) ISSN 1851-4669
+126 capítulos, a un conjunto de episodios, etc.) que estimula infi
+ nitas lecturas 
+(que, incluso, exceden el campo artístico); por eso, cada lectura singulariza esa 
+limitación y actualiza su infi
+ nitud concreta (la de esta obra). O bien: el “plie-
+gue” de Leibniz es una expresión limitada (monádica, pliegue según pliegue, 
+plica-ex-plica, etc.) que articula infi
+ nitas ideas (que, incluso, exceden el campo 
+fi
+ losófi
+ co); por eso, cada especulación singulariza el “pliegue” y actualiza su 
+infi
+ nitud concreta (la de aquel concepto). Y también: el “barroco histórico” es 
+una expresión limitada (al siglo XVII, a la Contrarreforma, a cierta crisis política, 
+etc.) que complica infi
+ nitas fases (que, incluso, exceden el campo histórico); 
+por eso, cada periodización singulariza ese “período histórico” y actualiza su 
+infi
+ nitud concreta (la de ese período). De esta manera, queda evidenciada una 
+primera condición: no hay idea de barroco (concepto) sin corpus singular que 
+lo exprese (afecto); y no hay corpus singular que exprese el barroco sin que se 
+expliciten las condiciones actuales y actuantes (atributivas) de su expresión. 
+Ahora bien: esta condición es ciertamente refl
+ exiva (lo que hace “natural-
+mente” del espejo un elemento “barroco” tautológico, principio de motivos 
+muy distintos como el disimulo, la simulación, el travestismo, la máscara, el 
+ser-parecer, el sueño-vigilia, etc.)7. Pero aquí, o entre estos límites, esta condi-
+ción expresa menos una propiedad (separable, refl
+ eja, eminente) que un atributo 
+(distintivo, refl
+ exivo, inmanente) de una noción común (la de barroco), dando 
+lugar a ciertos modos de expresión, que evidencian —tentativamente— la 
+operatoria característica del barroco (non opposita sed diversa), que es también 
+una de sus tan comentadas difi
+ cultades: la de distinguir sin separar (ni oponer), 
+lo que implica antes cuestiones de isonomía que de autonomía, cuestiones de 
+independencia antes que de escisión. Recapitulando: la noción común (barroco) 
+se expresa, bajo condición refl
+ exiva, como cierto grado de intensidad (cierta 
+cantidad potencial) que (atribuida a la noción común) es expresada por ciertos 
+modos. O también: la atribución de una cantidad potencial implica distinguir 
+sin separar cierta intensidad (singular) en una noción común; la distinción sin 
+separación modula una noción común en sus diferencias (singulares) que se 
+expresan por modos, y que —fi
+ nalmente— manifi
+ estan distintas relaciones de 
+composición (singulares) de una misma noción común. 
+Y he aquí lo que explica “eso monstruoso” (excesivo, transgresivo) del 
+barroco, de sus “excéntricos” escritores o artistas y de su “pletórica retórica”, 
+tan comentado por la crítica —a mi entender, inadecuadamente—; puesto que 
+lo monstruoso (en el siglo XVII) hace pensar que en la Naturaleza hay forzo-
+7 El espejo, sin embargo, es un “elemento barroco” más evidente que simple, puesto que la rela-
+ción barroco-espejo ha sido leída muchas veces —a lo largo de la historia y a través de corpus 
+diferentes— ya como “identidad” (paralelismo) ya como “reﬂ
+ ejo” (quiasmo), en un sistema de 
+dobles, otros, y signiﬁ
+ cantes, y con una lógica causal emanativa o ejemplar que mantiene (para 
+destruir o consagrar) la causa primera/efecto secundado o el modelo ejemplar/copia; mientras 
+que la reﬂ
+ exión expresa menos una otredad (simbólica o signiﬁ
+ cante) que una distinción (expre-
+siva) de lo mismo, y actúa con un tipo de causa inmanente que opera modalizando, sobre un 
+mismo plano productivo o de sentido común, distinciones atributivas. 
+81
+  XVII.1 (julio 2013) ISSN 1851-4669 | Barroco: esta obra, aquel concepto, ese período: 73-89
+samente composiciones, relaciones de composición: las cosas, los individuos, 
+el mundo son conjuntos de relaciones precisas y fi
+ jas, en permanente combi-
+nación, pues sólo a partir de determinada composición es que una relación se 
+singulariza (esta obra, aquel concepto, ese período) y puede combinar más o 
+menos infi
+ nitas relaciones precisas y fi
+ jas. Y es que este conjunto de relaciones 
+precisas y fi
+ jas de la Naturaleza son sus leyes o principios, que como sucede con 
+cualquier retórica (a la que el barroco es tan afecto) y con cualquier matemática 
+(a la que el barroco es tan atento), no impide nada ni prohíbe cosa alguna, sino 
+que revela, da a conocer, y en cualquier caso, faculta. Lo “monstruoso” del 
+barroco, así, no excede ley alguna, vale decir: su capacidad no es la de negar o 
+transgredir, sino la de afi
+ rmar y comprender según relaciones de composición. 
+Se asiste, en el siglo XVII, a un momento particularmente intenso de lo que 
+Deleuze llamó el “largo error” (Spinoza: Filosofía práctica 35) que confunde ley 
+con mandamiento y mandamiento con obligación moral de comprender, es decir, 
+un límite de potencia con una regla de desarrollo (Spinoza 129): obediencia con 
+conocimiento; o lo que es lo mismo: “el Ser con un fi
+ at” (35). Las relaciones de 
+composición, por “monstruosas” que sean, no transgreden ni prohíben nada 
+sino que revelan y dan a comprender. Y lo que se revela, lo que se da a conocer, 
+es —justamente— cierta composición de una relación: cómo se compone el 
+mundo o los cinco polígonos regulares, la avispa y la orquídea o un diccionario, 
+Europa y América o un soneto petrarquista. 
+Muchas de las ideas y especulaciones que fundaron —para rehabilitar o 
+conjurar— el concepto de barroco (entre fi
+ nes del siglo XIX y principios del 
+XX) han presupuesto que la Naturaleza es, como notaba Baudelaire en 1863, 
+“base, fuente y tipo de todo bien y toda belleza posible” (“El pintor” 59). Esta 
+concepción moral de la Naturaleza explica el carácter “negativo” o “perverso” 
+(encumbrado o despreciado) de ciertas concepciones del barroco, mientras que 
+—éticamente y en el siglo XVII— las muy variadas relaciones de composición 
+y descomposición de la Naturaleza (sus leyes o principios, según sea Newton o 
+Spinoza, Kepler o Leibniz) no expresaban ningún valor (ningún bien, ninguna 
+belleza; tampoco ningún mal, ninguna fealdad: cfr. Spinoza, Ética I Ap. y IV 
+Pref.). Vale decir: las relaciones de composición no signifi
+ caban nada esencial, 
+sino que expresaban (y así daban a conocer) cierta capacidad, una potencia 
+(potentia) que determinaba a existir y a obrar de cierta manera (Spinoza Ética I 
+prop. 29) y de ninguna otra (Spinoza Ética I prop. 33), en tanto se trataba de 
+la sustancia absoluta, es decir, de Dios (Spinoza Ética I prop. 34). Esto, además 
+y como señalara Deleuze (El pliegue), distingue infi
+ nitamente el barroco del 
+XVII del neobarroco del XX: una composición —sea un poema o una catedral, 
+una geometría ética o astronómica— implica y produce principios, es inven-
+ción (hallazgo o abducción) de principios. Ninguna tirada de dados, ninguna 
+martingala ocurre sin producir e implicar principios, multitud de principios. Y 
+cabe recordar que la pasión por los juegos de azar —en el XVII— corría pareja 
+con su razón matemática expresada como ars combinatoria, sobre la que —vía 
+82
+Facundo Ruiz | 
+  XVII.1 (julio 2013) ISSN 1851-4669
+Raimundo Lulio y Atanasio Kircher— Leibniz disertó en 1666 y a la que sor 
+Juana se refi
+ rió, al menos, en dos oportunidades (1681 y 1692)8. Ningún vacío, 
+ningún origen; puro principio. 
+Al fi
+ n y al cabo: qué es un soneto, si no una composición. Y cuál es su relación 
+singular, si no la de 14 versos endecasílabos con rima consonante distribuida 
+de forma desigual en cuartetos y tercetos (o, si el plano de composición es el 
+soneto inglés, distribuida en tres cuartetos o serventesios cerrados por un dístico). 
+Todo lo cual, y sin llegar al Modernismo, tiene a su vez más o menos infi
+ nitas 
+posibilidades de combinación: versos polimétricos, rima asonante, organización 
+de masas expresivas y acentuales, desarrollo de ejes y sub-ejes, utilización o no 
+de estrambote. Porque no se debe perder de vista, a riesgo de desentenderse del 
+singular sentido del humor del siglo XVII (de su risa estética) que un conjunto 
+de reglas de composición, por cerrado o inmutable que parezca o sea, siempre 
+es combinable: acaece naturalmente en combinación. Y en la composición va 
+la invención, y en la invención la vida, y en la vida todas las artes y relaciones 
+combinables.
+Sor Juana, cuya obra (y cuya vida) implica y produce tantas distinciones 
+sin separaciones, y tantas relaciones de composición, lo expresa de la siguiente 
+manera: 
+Estaban en mi presencia dos niñas jugando con un trompo, y apenas vi el 
+movimiento y la fi
+ gura, cuando empecé, con esta mi locura, a considerar el 
+impulso ya impreso e independiente de su causa, pues distante la mano de la 
+niña, que era la causa motiva, bailaba el trompillo; y no contenta con esto, 
+hice traer harina y cernerla para que, en bailando el trompo encima, se cono-
+ciese si eran círculos perfectos o no los que describía con su movimiento; y 
+hallé que no eran sino unas líneas espirales que iban perdiendo lo circular 
+cuanto se iba remitiendo el impulso (Obras completas IV 459). 
+Con esta su locura (afecto), sor Juana refl
+ exiona sobre el movimiento y fi
+ gura 
+(concepto) de un trompo singular (el que utilizan dos niñas para jugar) y con-
+creto (el que gira en su presencia). El interés de sor Juana enseguida distingue, 
+sin separar: le interesa no sólo el movimiento sino su causa motiva, y no sólo 
+su fi
+ gura sino su perfección. Es decir: no sólo la noción común (movimiento, 
+fi
+ gura) sino las condiciones de posibilidad que la actualizan (la causa de ese 
+movimiento, la perfección de esa fi
+ gura) y afectan su expresión (impresión o 
+remisión del impulso): entre estos límites —aclara— puede tener sentido el 
+conocimiento pretendido. O lo que es lo mismo: sólo así el movimiento y su 
+fi
+ gura (enunciado) son capaces de producir conocimiento (enunciación). Sólo 
+de este modo (por relaciones de composición: entre harina y trompo, cálculo y 
+experiencia, el mundo y mi locura) es que una relación (la del movimiento del 
+trompo y su causa motiva, la de las fi
+ guras geométricas y su perfección actual, 
+8 Véase el romance n° 50 y el soneto n° 193 (sor Juana Obras completas I); sobre el tema, cfr. 
+Bénassy-Berling (Humanismo 140-1).
+83
+  XVII.1 (julio 2013) ISSN 1851-4669 | Barroco: esta obra, aquel concepto, ese período: 73-89
+la de ese fenómeno y mi interés) se singulariza y puede expresarse. Este trompo, 
+aquellos conceptos, esa circunstancia: un sistema expresivo. 
+Y lo que es más interesante aún es que sor Juana no buscaba nada pero halla 
+algo: las niñas aparecen, con el trompo, frente a ella, y de ese encuentro (no de 
+búsqueda alguna) surge el conocimiento, el interés, el deseo; así también las 
+líneas espirales (no los círculos esperados) se hallan en la harina cernida. Se 
+trata, entonces, de un sistema de encuentros, no de un método de búsqueda; se 
+trata de saber encontrar (concretamente) de qué es capaz esto o aquello, y no de 
+saber buscar (abstractamente) qué es el movimiento o la fi
+ gura circular; se trata, 
+además y sobre todo, de hacer algo con eso singular (“mi locura”), de componer 
+este trompo, aquellos conceptos, esa circunstancia conmigo: mi inclinación, mi 
+interés, mi deseo9. Se trata, fi
+ nalmente, de mi actualidad: de las relaciones que 
+la componen y del modo en el cual puedo expresarlas, de las circunstancias que 
+la defi
+ nen y de las condiciones bajo las cuales puedo manifestarlas. 
+Y este sistema de encuentros, este sistema refl
+ exivo, también explica distinta 
+e inseparablemente —es decir: a su manera— de qué es capaz no sólo el barroco 
+(noción común) sino el barroco expresado en América, en el siglo XVII, y por 
+sor Juana (condiciones de posibilidad): ese corpus. Como el trompo, su litera-
+tura —y entre estos límites: la literatura del barroco americano— es también un 
+impulso impreso independiente de su causa. Un impulso que —separado de la 
+mano que lo imprime— gira solo, independiente de su causa motiva pero no 
+separado de ella: el movimiento del trompo no es autónomo, es isónomo. La 
+causa sigue siendo la mano (fi
+ nita en su fuerza) y la intención (jugar, hacerlo 
+girar), y por eso el movimiento —si infi
+ nito en sus posibilidades y fi
+ guras, es 
+decir, si virtualmente infi
+ nito— ni será perfecto ni será eterno; pero tendrá —en 
+acto— tanta perfección como su causa y podrá expresarla tanto como sus condi-
+ciones lo afecten. Y sor Juana sabía cuánto (cantidad potencial) y cómo (modo) 
+la afectaban sus circunstancias, todas sus circunstancias; y “barroca ella”, no deja 
+de expresar (explicar, explicitar) las condiciones que afectan la actualidad de su 
+expresión, y de modos distintos expone las relaciones que la componen: no sólo 
+en la “carta” al padre Antonio Núñez de Miranda (1682) o en la Respuesta a sor 
+Filotea de la Cruz (1691), sino en sus poemas amorosos (donde el afecto se hace 
+sistema), en sus obras de teatro (donde se hace presente, como el trompo, un 
+movimiento concreto y sus fi
+ guras singulares), en el Neptuno Alegórico (donde se 
+idean conceptos y se afectan razones para actualizar, entre estos límites, esta su 
+locura: “de leer y más leer, de estudiar y más estudiar”) (Obras completas IV 447). 
+Nuevamente, no es que sor Juana y el barroco se busquen, sino que se encuen-
+tran, componiendo un sistema expresivo, singular y concreto: en esa obra, en 
+aquel concepto, en ese período. Como un trompo, efectivamente la obra de sor 
+9 “Hago discretamente cosas locas; soy el único testigo de mi locura. Lo que el amor desnuda en mí 
+es la energía. Todo lo que hago tiene un sentido (puedo pues vivir, sin quejarme), pero ese sentido 
+es una ﬁ
+ nalidad inasequible: no es más que el sentido de mi fuerza.” (Barthes Fragmentos 38)
+84
+Facundo Ruiz | 
+  XVII.1 (julio 2013) ISSN 1851-4669
+Juana fue un movimiento impreso independiente de su causa motiva, e incluso 
+de ella distante: no sólo los tomos de su obra se publican en España (Madrid, 
+Barcelona, Zaragoza, Sevilla), el primero a instancias de la ex-virreina María 
+Luisa Manrique de Lara y Gonzaga (Inundación castálida en 1689) y el último 
+al cuidado de Juan Ignacio de Castorena y Ursúa (Fama y Obras pósthumas en 
+1700); sino que sus textos sueltos e impresos en México (juegos de villancicos, 
+“Explicación del Arco”, Carta athenagórica), suelen aparecer como “separados” 
+de ella. Eterna y sorjuanina discusión: ¿fue sor Juana quien motivó la publicación 
+de sus textos? La respuesta —según el extenso pasaje citado— es evidente: no, 
+no fue ella quien motivó la publicación; pero no es simple: sí, fue ella la causa 
+motiva de la publicación. 
+Como el trompo y —tentativamente— como la literatura moderna, su obra 
+es un impreso independiente (no separado) de su causa. Y así, la obra de sor 
+Juana es de sor Juana: esa fi
+ gura enclaustrada de escritor, y ese movimiento (esa 
+inclinación) cuyas líneas espirales fueron perdiendo impresión a medida que se 
+iba remitiendo el impulso (vital, pero no sólo). Y sin embargo, la obra de sor 
+Juana (esa fi
+ gura, aquella escritora), ese trompo literario y barroco americano, 
+es independiente de sor Juana (esa mujer, aquella monja): como ella frente al 
+trompo que no impulsó ni buscó, o como el Quijote leyendo el Quijote, su obra 
+gira impulsada por su mano al encuentro de un tercero, que ni la busca ni la ha 
+impulsado, pero que al hallarla ve surgir un interés, un deseo, la posibilidad de 
+un conocimiento distinto. Pero ese deseo que surge, ese conocimiento que se 
+halla en el encuentro, ya no pertenece ni a la obra que gira ni a la mano que la 
+ha hecho girar y ni siquiera a quien la ve girar. Nuevamente, el sistema (refl
+ exivo) 
+produce (distintamente) una nueva noción común que se expresa por relaciones 
+de composición, en un tercer corpus: ese deseo, ese conocimiento, como las 
+líneas espirales, no pertenecen a sor Juana ni a las niñas, tampoco al trompo 
+o a la harina; pero expresan inmejorablemente ese corpus, la composición de 
+relaciones que se ha dado “aquí entre estos límites”. Estas líneas espirales, aquella 
+inclinación sorjuanina, esa literatura barroca, expresa singularmente —según 
+sus condiciones de posibilidad o entre estos límites— una noción común: la 
+de barroco que, una vez expresada en cierto corpus, se actualiza, variando el 
+sentido de su unidad (el sentido de esa noción común: barroco) y su capacidad 
+de expresión (la cantidad potencial singular de esa noción común) a través de 
+un modo simple (composición) de relaciones (complejas).
+***
+Sin embargo, expresar las condiciones que afectan su actualidad —como 
+condición expresivo-refl
+ exiva— y hacerlo de cierto modo —como composición 
+de relaciones— es apenas una interface, el núcleo de articulación entre una noción 
+común de barroco y la singularidad concreta (vital) de esta obra, aquel concepto o 
+ese período barrocos. Esto es: ¿cuántas y cuáles son “las condiciones” que afectan 
+85
+  XVII.1 (julio 2013) ISSN 1851-4669 | Barroco: esta obra, aquel concepto, ese período: 73-89
+la actualidad de una expresión singular (de esta obra, de aquel concepto, de ese 
+período)? Y también: ¿cuántas y cuáles de estas condiciones pueden expresarse 
+(virtual o actualmente) o cuántas y cuáles convienen (circunstancialmente) a 
+la expresión? Como se ve, se trata ya no sólo de preguntarse ¿de qué es capaz el 
+barroco? sino ¿cómo esa obra fue posible? O lo que es lo mismo: se trata ya no sólo 
+—y por ejemplo— de saber ¿de qué es capaz el barroco sorjuanino? sino ¿cómo 
+fue posible la Crisis o el Sueño? Sor Juana expresa ciertas condiciones: “Ser mujer, 
+ni estar ausente / no es de amarte impedimento” (Obras completas I 57); o, ser 
+mujer y estudiar no lo impide San Pablo, sino que lo limita al ámbito privado, 
+mientras que su admonición refi
+ ere a circunstancias concretas (o debería ser 
+leída “entre estos límites”); o también, “profesar letras” —esa negra pero natural 
+(divina) inclinación— y profesarlas por mi gusto y con mi nombre (Sueño) o por 
+ajenas preferencias y sin mi nombre (Ejercicios de la Encarnación), no cae bajo “mi 
+potestad” ni es lo mismo que “mi locura”, etc.; pero ella nunca explicita todo eso 
+junto o del mismo modo; no siempre le “conviene” a su expresión (sea por modo, 
+sea por circunstancia) la manifestación de todas sus condiciones de posibilidad. 
+Y otro tanto ocurre con Espinosa Medrano quien —como se ha dicho— bajo 
+deliberadas condiciones poéticas (discutir con Faría y Sousa acerca de la poesía 
+de Góngora), manifi
+ esta delicados problemas ético-políticos de expresión (¿de 
+qué es capaz la lengua del Imperio cuando la practican sus súbditos?10). 
+Entre ambas preguntas (entre ¿de qué es capaz? y ¿cómo fue posible?), el 
+desplazamiento es ligero, sutil, pero claro, puesto que actúa como principio 
+de individuación; el movimiento es menos secuencial que expresivo, más no-
+correlativo que ordinal: se puede responder cualquier pregunta en cualquier 
+orden; se puede sólo atender una pregunta; y en cualquier caso, ambas respuestas 
+se suponen: son planos que interactúan distintamente en un mismo sistema. No 
+se trata aquí del manido (y maniqueo) pasaje de teoría a práctica, o de conceptos 
+teóricos a análisis crítico. Se trata —justamente— de cómo una teoría, una 
+práctica, una crítica defi
+ ne y entiende un sistema expresivo y la relación entre 
+sus planos, de cómo plantea su “aquí entre estos límites” y expone el modo en 
+el cual esos límites se articulan, afectivamente, como cierto sistema. Se trata, 
+fi
+ nalmente, de cómo todo eso —en el barroco, esa noción común— se supone 
+más o menos infi
+ nitamente. 
+La expresión de condiciones y sus relaciones de composición, naturalmente, 
+son más o menos infi
+ nitas. Pero limitadas: toda noción común ocurre como 
+cierta intensidad y se expresa en esta obra, aquel concepto, ese período; es decir, 
+ocurre y se expresa entre estos límites, de ese modo. Esto permite que existan 
+10 Si “mucho valdría Papagayo, que tanto parlase”, entonces: “harto es, que hablemos” (Espinosa 
+Medrano Apologético 17). Imposible no recordar, sobre este tema de la lengua, los versos de sor 
+Juana: “Error es de la lengua, / que lo que dice imperio / del dueño, en el dominio / parezcan 
+posesiones en el siervo” (Obras completas I 211). Dice Franco: “Este lenguaje, digno de una 
+moderna campaña de publicidad, jugaba con las expectativas de los lectores peninsulares, para 
+los cuales todo lo proveniente del Nuevo Mundo era desproporcionado” (Las conspiradoras 53).
+86
+Facundo Ruiz | 
+  XVII.1 (julio 2013) ISSN 1851-4669
+y puedan conjeturarse ciertos polos potenciales entre los cuales esa intensidad 
+puede ser reconocida, calculada: distinguida. Y quizás aquí se encuentre una de 
+las causas principales de que el barroco del siglo XVII y el neobarroco del siglo 
+XX todavía se confundan improductivamente: no sólo es necesario concebir 
+una noción común, la actualidad de sus condiciones y modos de expresión, 
+sino —en buena medida— plantear ciertos polos potenciales entre los cuales 
+esas condiciones y modos adquieren sentido singular, esto es, sentido para esta 
+obra, aquel concepto, ese período. Así, para el barroco del XVII y del XX sería 
+pertinente considerar la circunstancia histórica y estética incomparable (pero 
+componible) que coloca de un lado el teatro y del otro el cine, de un lado la 
+confesión y del otro el psicoanálisis, de un lado una monarquía crítica y del otro 
+un Estado-Nación trasnacional; y todo esto, sin perder de vista lo que los une 
+indefi
+ nidamente (la ciudad barroca, la ciudad moderna), y lo que hace que ambos 
+“surjan” juntos hic et nunc y en más de una especulación (su noción común). 
+Ya decía Jean Franco que los “valores aristocráticos” presentes en la poesía y el 
+teatro de sor Juana (merecimiento, obsequio, fi
+ neza, acaso, etc.) “son tan ajenos 
+a nosotros como en el siglo XVII hubieran sido los conceptos de rivalidad entre 
+hermanas, el temor a la castración, y la sublimación” (Las conspiradoras 57). 
+Esta ajenidad, menos que separar permite distinguir y componer, adecuar los 
+modos de expresión a sus condiciones expresivas, y atribuir ambos a una noción 
+común, la de barroco.
+Para el barroco del siglo XVII —tradicionalmente— resultan relevantes 
+como polos potenciales o del espectro productivo el cerebral (entendimiento) 
+y el emocional (voluntad). La geometría inhumana y la humanidad excesiva: 
+la ciudad y la literatura, la capacidad del hombre y el sentido de las cosas pare-
+cen volverse —desde el siglo XVII— más que humanos y menos que divinos. 
+Entre estos límites, el arco cerebral-selvático o geométrico-emocional funciona 
+frecuentemente en lecturas críticas y teóricas indicando los polos potenciales 
+entre los que alcanza a percibirse un espectro donde cierta intensidad barroca 
+puede ser efectivamente percibida, graduada, comprendida. No importa ahora 
+cuán acertados o desacreditados estén el conceptismo y el culteranismo11 para 
+descubrir en qué sentido este arco, sea en sus polos, sea en su espectro, ha venido 
+funcionando en la concepción del barroco del siglo XVII. Sin embargo este arco 
+—a mi entender— da mejor cuenta de las especulaciones y expectativas críticas 
+que en el siglo XX se han tejido en torno al barroco que del arte barroco del siglo 
+XVII, pues, ya extremando uno de sus polos ya contraponiéndolos (vitalismo 
+vs. racionalismo), dichas refl
+ exiones han pasado por alto la más que adecuada 
+11 Si bien Picón Salas ya en 1944 (cfr. De la conquista) planteaba el interés relativo, o decidida-
+mente menor, de una distinción como la de conceptismo/culteranismo, y aunque perdure en cierta 
+crítica americana (Márquez Rodríguez Lo barroco 149) y no sólo, como “paradigma creativo” 
+(De la Flor Imago 237), es conocido y fundante el trabajo de Lázaro Carreter (“Sobre la diﬁ
+ cul-
+tad conceptista”) que “desmitiﬁ
+ ca” la oposición irreductible conceptismo-culteranismo.
+87
+  XVII.1 (julio 2013) ISSN 1851-4669 | Barroco: esta obra, aquel concepto, ese período: 73-89
+(y multiforme) relación de composición entre ellos, es decir, entre estos límites, 
+que —como se ha dicho— operaban bajo el lema non opposita sed diversa. 
+Persiste en la expresión “barroco” esa complicación —explicada en los 
+polos, incomparables pero componibles— de un infi
+ nito singular que expresa 
+su “noción común” ya como natural (perla, verruga o barranco), indicando algo 
+irregular, no simétrico, espeso o “profundo”; ya como geométrica (silogismo), 
+señalando algo elaborado, minucioso, extravagante, artifi
+ cial y “superfi
+ cial”. Dis-
+tinguir infi
+ nitamente sin separar nunca, operar por relaciones (infi
+ nitesimales) 
+de composición, puede hacer del barroco (como de las cabezas de Arcimboldo) 
+algo monstruoso; pero no algo excesivo: naturalmente distinto, lógicamente 
+distintivo. Como distinguiera Charles Pierce entre un objeto dinámico y un 
+objeto inmediato (La ciencia 65-6), el barroco absorbe y se escorza como ramo 
+sin lazo, siguiendo la dinámica del huevo, que organiza un corpus mientras 
+pliega uno distinto. 
+Referencias bibliográﬁ
+ cas
+Acosta, Leonardo. El barroco de Indias y otros ensayos. La Habana: Casa de las 
+Américas, 1985. 
+Anceschi, Luciano. La idea del Barroco. Madrid: Tecnos, 1991.
+Bajtín, Mijaíl. “Las formas del tiempo y del cronotopo en la novela. Ensayos de poé-
+tica histórica”. Teoría y estética de la novela. Madrid: Taurus, 1989. 237-409.
+Barthes, Roland. Fragmentos de un discurso amoroso. Buenos Aires: Siglo XXI, 
+2008.
+Baudelaire, Charles. “El pintor de la vida moderna”. Arte y modernidad. Buenos 
+Aires: Prometeo, 2009. 27-71.
+Bénassy-Berling, Marie-Cécile. Humanismo y religión en Sor Juana. México DF: 
+UNAM, 1983.
+Benévolo, Leonardo. Introducción a la arquitectura. Buenos Aires: Tekné, 1967.
+Benjamín, Walter. El origen del “Trauerspiel” alemán. Madrid: ABADA, 2006.
+Carpentier, Alejo. “Lo barroco y lo real maravilloso”. Ensayos selectos. Buenos 
+Aires: Corregidor, 2003. 123-154.
+—. Tientos y Diferencias. Montevideo: Arca, 1967. 
+Curtius, Ernst R. Literatura europea y Edad Media latina. México DF: Fondo de 
+Cultura Económica, 1955.
+De Campos, Haroldo. “Barroco, neobarroco, transbarroco”, en Claudio Daniel 
+(organización, selección y notas). Jardim de Camaleões: a poesia neobarroca 
+na America Latina. São Paulo: Iluminuras, 2004. 13-16.
+De la Flor R., Fernando. Barroco. Madrid: Cátedra, 2002. 
+—. Imago. Madrid: Abada, 2009.
+Deleuze, Gilles. En medio de Spinoza. Buenos Aires: Cactus, 2006.
+—.El pliegue. Barcelona: Paidós, 1989.
+—. Spinoza: Filosofía práctica. Buenos Aires: Tusquets, 2012.
+88
+Facundo Ruiz | 
+  XVII.1 (julio 2013) ISSN 1851-4669
+—. Spinoza y el problema de la expresión. Madrid: Editora Nacional, 2002. 
+Díaz, Valentín. “Severo Sarduy y el método neobarroco”. Conﬂ
+ uenze 1.2 (2010): 
+40-59. 
+D’Ors, Eugenio. “La querella de lo barroco en Pontigny”. Lo barroco. Madrid: 
+Aguilar, 1964. 65-133.
+Espinosa Medrano, Juan de. Apologético. Caracas: Ayacucho, 1982.
+Figueroa Sánchez, Cristo Rafael. Barroco y neobarroco en la narrativa hispa-
+noamericana. Medellín: Pontiﬁ
+ cia Universidad Javeriana/Universidad de 
+Antioquía, 2007.
+Foffani, Enrique. “La extraña familia”. Página 12 Suplemento Radar Libros, 24 
+oct. 2010.
+Foucault, Michel. “Mi cuerpo, ese papel, ese fuego”. Historia de la locura en 
+la época clásica. Vol. 2. Buenos Aires: Fondo de Cultura Económica, 2004. 
+340-372.
+Franco, Jean. Las conspiradoras. La representación de la mujer en México. México 
+DF: El Colegio de México-Fondo de Cultura Económica, 1993.
+Gracián, Baltasar. Agudeza y arte de ingenio. Buenos Aires: Poblet, 1943.
+Hansen, João Adolfo. “Barroco, Neobarroco e outras ruínas”. “Dossier Virreinatos”. 
+Mariel Reynoso y Lillian von der Walde, eds. Destiempos 3.14 (2008): 169-215.
+Hatzfeld, Helmut. Estudios sobre el Barroco. Madrid: Gredos, 1964.
+Hauser, Arnold. Historia social del arte. Vol. 1. Buenos Aires: Debate, 2002.
+Henríquez Ureña, Pedro. Las corrientes literarias en la América Hispánica. México 
+DF: Fondo de Cultura Económica, 1949.
+—. Historia de la cultura en la América Hispánica. México DF: Fondo de Cultura 
+Económica, 1947. 
+—. La utopía de América. Barcelona: Ayacucho, 1989.
+Hobsbawm, Eric. Naciones y nacionalismos desde 1780. Barcelona: Crítica, 1997.
+Hofstadter, Douglas R. Gödel, Escher, Bach. Un eterno y grácil bucle. Barcelona: 
+Tusquets, 2007.
+Lázaro Carreter, Fernando. “Sobre la diﬁ
+ cultad conceptista”. Estilo barroco y 
+personalidad creadora. Madrid: Anaya, 1966. 11-59.
+Lezama Lima, José. La expresión americana. México DF: Fondo de Cultura Eco-
+nómica, 1993. 
+Ludmer, Joseﬁ
+ na. Aquí América Latina. Buenos Aires: Eterna Cadencia, 2010.
+Maravall, José Antonio. La cultura del barroco. Barcelona: Ariel, 1998.
+Macrí, Oreste. “La historiografía del barroco literario español”. Thesaurus 15.1-
+2-3 (1960): 1-70.
+Márquez Rodríguez, Alexis. Lo barroco y lo real-maravilloso en la obra de Alejo 
+Carpentier. México DF: Siglo XXI, 1984.
+Marzo, Jorge Luis. La memoria administrada. El barroco y lo hispano. Madrid: 
+Katz, 2010.
+89
+  XVII.1 (julio 2013) ISSN 1851-4669 | Barroco: esta obra, aquel concepto, ese período: 73-89
+Méndez Plancarte, Alfonso. “Introducción”. Sor Juana Inés de la Cruz. Obras 
+completas I. Lírica personal. México DF: Fondo de Cultura Económica, 2004. 
+vii-lxviii.
+Moraña, Mabel. “Barroco/Neobarroco/Ultrabarroco. De la colonización de los 
+imaginarios a la era postaurática: la disrupción barroca”. La escritura del 
+límite. Madrid: Iberoamericana-Vervuert, 2010. 51-91.
+—. Viaje al silencio. Exploraciones del discurso barroco. México DF: UNAM, 
+1998. 
+Mumford, Lewis. La ciudad en la historia. Buenos Aires: Inﬁ
+ nito, 1966.
+Panofsky, Erwin. La perspectiva como forma simbólica. Barcelona: Tusquets, 2008.
+—. “¿Qué es el barroco?”. Sobre el estilo. Barcelona: Paidós, 2000.
+—.Renacimiento y renacimientos en el arte occidental. Madrid: Alianza, 1988.
+Paz, Octavio. Sor Juana Inés de la Cruz o Las trampas de la Fe. México DF: Fondo 
+de Cultura Económica, 1998.
+Peirce, Charles S. La ciencia de la semiótica. Buenos Aires: Nueva Visión, 1986.
+Perlongher, Néstor. Prosa plebeya. Buenos Aires: Colihue, 1997.
+Picón Salas, Mariano. De la conquista a la independencia. México DF: Fondo de 
+Cultura Económica, 1978.
+Rama, Ángel. La ciudad letrada. Montevideo: Arca, 1998.
+Romero, José Luis. Latinoamérica: las ciudades y las ideas. Buenos Aires: Siglo 
+XXI, 2005.
+—. La ciudad occidental. Buenos Aires: Siglo XXI, 2009.
+Sarduy, Severo. Barroco. Buenos Aires: Sudamericana, 1974.
+—. El barroco y neobarroco. Buenos Aires: El cuenco de plata, 2011. 
+Sebastián, Santiago. El barroco iberoamericano. Mensaje Iconográﬁ
+ co. Madrid: 
+Encuentro, 2007.
+Sor Juana Inés de la Cruz. Obras completas I. Lírica personal. México DF: Fondo 
+de Cultura Económica, 2004a.
+—. Obras completas IV. Comedias, sainetes y prosa. México DF: Fondo de Cultura 
+Económica, 2004b.
+Spinoza, Baruch. Epistolario. Buenos Aires: Colihue, 2007.
+—. Ética demostrada según el orden geométrico. Buenos Aires: Orbis-Hyspa-
+merica, 1984.
+Tapié, Victor-Lucien. El barroco. Buenos Aires: Eudeba, 1965.
+Wölfﬂ
+ in, Heinrich. Conceptos fundamentales de la historia del arte. Madrid: 
+Espasa-Calpe, 2007. 
+Fecha de recepción: 02/05/2012 / Fecha de aceptación: 22/11/12

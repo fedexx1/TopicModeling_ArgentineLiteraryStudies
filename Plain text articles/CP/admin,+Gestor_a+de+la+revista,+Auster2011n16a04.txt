@@ -1,0 +1,663 @@
+Algunas consideraciones sobre la representación de la esfera religiosa en Eneida  
+Guillermina Bogdan 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890  
+http://www.auster.fahce.unlp.edu.ar/ 
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educación. 
+Centro de Estudios Latinos, Instituto de Investigaciones en Humanidades y Ciencias Sociales  
+(IdIHCS UNLP-CONICET). 
+ 
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-SinDerivadas 2.5 Argentina 
+ 
+ARTÍCULO/ARTICLE 
+ 
+ALGUNAS CONSIDERACIONES SOBRE LA REPRESENTACIÓN DE 
+LA ESFERA RELIGIOSA EN ENEIDA* 
+ 
+ Guillermina Bogdan 
+ 
+Universidad Nacional de La Plata - CONICET 
+Argentina 
+guillerminabogdan@conicet.gov.ar 
+ 
+ 
+ 
+ 
+Resumen 
+En este artículo, se establece una aproximación al estudio de la representación de las formas religiosas 
+en la Eneida en relación con la política augustea de una unidad cívica a través de la organización religiosa. Se 
+considera que dos de las características predominantes de dicha política se reflejan intencionalmente en la 
+Eneida: a) la importancia ritual para establecer el orden cívico; b) la justificación de la política religiosa de 
+absorción, hibridación y supremacía sobre los otros pueblos. 
+Palabras clave: Religio- ritual- orden cívico- supremacía. 
+ 
+Abstract 
+ 
+The aim of this article is to provide an approach to the study of representation of religious forms in the 
+Aeneid with reference to Augustan policy of civic unity through religious organization. We consider that two of 
+the main characteristics of this policy are intentionally reflected in the Aeneid: a) the ritual importance to 
+establish civic order; b) the justification of religious policy of absorption, hybridization, and supremacy over 
+other peoples. 
+ 
+ 
+Keywords: Religio- ritual- civic order- supremacy. 
+ 
+ 
+            
+ 
+ 
+ 
+ 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+54
+ 
+La Eneida nace como un poema épico elaborado con el fin de crear un nuevo modelo 
+heroico que no sólo una las diferentes leyendas de la fundación de Roma, sino también que 
+destaque los valores generados a partir de las reformas políticas y sociales hechas por el 
+princeps. Más allá de las controversias que esta afirmación conlleva en cuanto a la 
+satisfacción de dicho mandato por parte de Virgilio1, la pregunta que surge es cómo logró 
+Virgilio escribir un poema épico que mostrara una nueva versión del mito fundacional a la 
+comunidad romana y sirviera también para destacar diferentes características de la 
+época. Conte2 explica que el código épico es el medio por el cual la sociedad toma posesión 
+de su propio pasado y que ese pasado proporciona el valor de una matriz modelo. El código 
+épico es el nivel preliminar de ese desarrollo cuya finalidad es la organización literaria de la 
+negociación colectiva de los valores culturales en forma de narración; del mismo modo, "no 
+hay cultura humana sin un elemento constitutivo de la memoria común. Al recordar, 
+interpretar y representar su pasado, los ciudadanos comprenden su vida actual y desarrollan 
+una perspectiva de futuro sobre sí mismos y sobre su mundo"3. La confección de la obra con 
+un objetivo claro de unidad del pasado común organiza a la comunidad estableciendo sus 
+raíces.  
+El objetivo de este trabajo es establecer una aproximación al estudio de la 
+representación de las formas religiosas en la Eneida. Asimismo, esclarecer su funcionalidad 
+en la obra según la relación comúnmente establecida entre la religión y la organización cívica. 
+Para ello, se tendrá en cuenta la teoría mítico-ritualista que permita unir el objetivo de la 
+política augustea de una unidad cívica a través de la organización religiosa y el objetivo de la 
+épica virgiliana de instaurar un pasado común que destaque las características que forman la 
+                                                 
+* Quiero expresar mi gratitud al Prof. Dr. Jörg Rüpke y a la Prof. Dra. Katherina Waldner (responsable del 
+Kolloquium zur antiken Kultur- und Religionsgeschichte), a cuya gentil invitación debo el haber participado en 
+el Kolloquium zur antiken Kultur- und Religionsgeschichte en la Universität Erfurt en el período 11.10.11- 
+24.2.12. El profesor Rüpke aceptó dirigir mi investigación, lo que constituyó un enorme incentivo para el 
+desarrollo de mis estudios doctorales. Agradezco asimismo al Profesor Dr. Jörg Dunne y a la comisión de 
+evaluación del Doctorado en Letras de la Universidad Nacional de La Plata, quienes iniciaron el convenio entre 
+ambas universidades haciendo posible mi estadía financiada por la Universität Erfurt. Por último, extiendo mi 
+agradecimiento a la Prof. Dra. Lía Galán y al Prof. Dr. Pablo Martínez Astorino, que, en sus roles de directora y 
+codirector de mi doctorado en la UNLP financiado por el Conicet (1.4.10 -31.3.13), avalaron la estadía. 
+1 Un buen resumen de la cuestión en Minson, R. A. "A Century of Extremes: Debunking the Myth of Harvard 
+School Pessimism",  Iris: Journal of the Classical Association of Victoria, Vol. 16-17, 2003-04. 
+2 Conte, Gian Biagio. The Rhetoric of Imitation. Genre and Poetic Memory in Virgil and other Latin Poets. Ed. 
+por Charles Segal, Ítaca y Londres, Cornell University Press, 1986, pp. 142-143. 
+3 Todas las traducciones son nuestras. “There is no human culture without a constitutive element of common 
+memory. By remembering, interpreting, and representing the past peoples understand their present-day life and 
+develop a futures perspective on themselves and their world”. Rüsen, J. “Some theorical approaches to 
+intercultural comparative historiography”. (Citado en Rüpke, J. “Construing ‘religion’ by doing historiography: 
+Historicisation of Religion in the Roman Republic”, s.d.). 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+55
+autoridad religiosa de los fundadores de este pasado. Para fundamentar nuestra teoría, se 
+describen en primer lugar algunas características de la política religiosa de Augusto. 
+Asimismo, para observar su reflejo en Eneida, se retoman los estudios que destacan la pietas 
+del héroe como modelo de ciudadano romano y su  relación con la utilización del concepto de 
+religio en la obra para mostrar que sus significados se corresponden y establecen un 
+paralelismo con el objetivo del imperio. Por último se consideran los aportes de recientes 
+estudios sobre religión en Eneida4 para explicar la movilidad de esta supremacía religiosa 
+destacada por la “absorción” de variadas formas religiosas y representada por los dioses 
+Penates.  
+La religión en los tiempos de Augusto 
+La teoría mítico- ritualista5 define a la religión como una ciencia primitiva que 
+mágicamente manipula el mundo a través del mito y del ritual, que operan juntos y 
+constituyen su  núcleo. Si bien esta teoría postula la existencia de una relación entre el mito y 
+el rito, los autores difieren en cómo se da dicha relación. Según Frazer6 el ritual surge como 
+un medio para controlar las fuerzas de otro modo incontrolables de la naturaleza. Para 
+Durkheim7, el corazón de la religión no es la creencia en el dios o los dioses sino la 
+experiencia divina (experience of god) y esa experiencia ocurre cuando los miembros de la 
+sociedad se reúnen para realizar un ritual. La experiencia divina sirve, además, para estimular 
+a los ciudadanos a obedecer las leyes innumerables de la sociedad que se atribuyen a ese dios 
+y asegurar su obediencia. Según Douglas8, quien sigue la línea de Durkheim, el rito tiene el 
+efecto de organizar la vida individual: cuando se practica en comunidad, organiza a la 
+sociedad.  
+Si relacionamos lo antes expuesto con el contexto augusteo, destacamos la relación 
+entre el orden cívico y la política religiosa del princeps. Galinsky9 explica que la religión 
+                                                 
+4 Barchiesi, A. “Mobilità e religione nell’Eneide (Diaspora, culto, spazio, identità locali)” en: Elm von der 
+Osten, D., Rüpke, J., Waldner, K.  Texte als Medium und Reflexion von Religion im römischen Reich,  Stuttgart, 
+Franz Steiner Verlag, 2006. Cancik, H.. "Götter einführen: ein myth- historisches Modell für die Difusion von 
+Religion in Vergils Aeneis" en: Elm von der Osten, D., Rüpke, J., Waldner, K.  Texte als Medium und Reflexion 
+von Religion im römischen Reich,  Stuttgart, Franz Steiner Verlag, 2006.     
+5 Segal, R.  “The Myth-Ritualist Theory of Religion”, Journal for the Scientific Study of Religion, Vol. 19, No. 
+2, 1980, pp. 173-185. 
+6 Frazer, J. The Golden Bough: A Study in Magic and Religion, Oxford, Oxford University Press, 1998. 2ª ed. 
+7 Durkheim, E. The elementary forms of the religious life, [tr. J. Swain], New York, Macmillan, 1965, p.464. 4ª 
+ed. 
+8 Segal, R. “The Myth-Ritualist Theory of Religion”, Journal for the Scientific Study of Religion, Vol. 19, No. 2., 
+1980, pp. 173-185. 
+9 Galinsky, K. “Continuity and Change: Religion in the Augustan Semi-Century”, en: Rüpke, J. A Companion to 
+Roman Religion, Oxford, Blackwell Publishing Ltd., 2008. 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+56
+romana no era una religión de salvación sino que estaba íntimamente relacionada con el orden 
+civil del Estado. De esta forma,  Augusto a través de la recuperación y de la implementación 
+del espacio ritual proclamó su misión de devolverle a Roma sus antiguas tradiciones morales 
+y religiosas. Así lo destaca en Res Gestae Divi Augusti, VIII: 
+ 
+ Legibus novis me auctore latis multa exempla maiorum exolescentia iam 
+ ex nostro saeculo reduxi et ipse multarum rerum exempla imitanda posteris 
+ tradidi10. 
+ 
+Asimismo, construye un orden simbólico sustentado por el poder de las imágenes, hecho que 
+se verifica en el arte, en los monumentos, en el culto y en los signos semánticos y 
+simbólicos11.  Por un lado, puso especial énfasis en la restauración de los templos de la ciudad 
+que se habían deteriorado en los últimos años a causa de la crisis política, dando una renovada 
+importancia a la religión tradicional12. La reconstrucción, en primer lugar, implicaba mostrar 
+el retorno a la estabilidad después de los trastornos sociales que marcaron el siglo. Por otro 
+lado, dentro de la esfera del orden simbólico, estableció, a través del pedido de la escritura de 
+la Eneida, un pasado común para la sociedad creando lazos entre la esfera divina y sus 
+antepasados. Asimismo, destaca un modelo de ciudadano piadoso, representado por el héroe, 
+quien reúne un conjunto de características, que le otorgan a él, al igual que a sus compañeros 
+troyanos, la autoridad religiosa sobre el resto de los pueblos nombrados. 
+Religión en  Eneida 
+a. Relación  pietas – religio –  esfera ritual y su representación en Eneida 
+ 
+Cicerón13 en De Natura Deorum define la palabra pietas como “est enim pietas 
+adversum deos Iustitia14”. Si se aplica la definición a su representación en Eneida como la 
+principal característica del héroe15, se observa lo destacado por la crítica: Gordon Williams16 
+explica que el adjetivo pius expresa el sentimiento de ser devoto hacia algo que es superior a 
+                                                 
+10 “Aprobadas las nuevas leyes siendo yo el autor, reintroduje muchos ejemplos de los mayores, obsoletos  ya en 
+nuestra época, y yo mismo transmití ejemplos de muchas cosas que han de ser imitadas por la posteridad.”  
+11 Zanker, P. Augustus und die Macht der Bilder, München, C.H. Beck,  1987, passim. 
+12 Para la descripción detallada de la reconstrucción de los templos cf. Augusto, Res Gestae Divi Augusti, XIX – 
+XXII. 
+13 Libro I, 116. 
+14 “La piedad consiste en ser justo para con los dioses”. 
+15 Para un análisis de los pasajes en que el término aparece ver Pease, A. S. Publi Vergili Maronis Aeneidos  
+Liber Quartus, Cambridge, Cambridge Mass., 1935, pp. 333-334. 
+16 “The adjetive pius especially expresses that sense of being devoted to a purpuse that lies outside oneself.” 
+Gordon Williams. Technique and ideas in the Aeneid, Yale, Yale University Press, 1983, p. 10. 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+57
+uno; Otis17 señala que el poema es la historia de la interacción entre el poder cósmico del 
+destino y la responsabilidad humana de lograrlo, razón por la cual no podría haber Roma sin 
+un hombre de suprema pietas como Eneas. Por lo tanto, en dichos estudios se tiene en cuenta 
+la relación del término con el fatum en la medida que representa seguir lo declarado por 
+Júpiter para cumplir el objetivo fundacional. Por su parte, Galinsky18 en su estudio sobre la 
+representación de las diferentes leyendas sobre la fundación de Roma analiza la reelaboración 
+del término por parte del poeta. Postula que la imagen del héroe transportando los sacra es el 
+significado original de la figura del pius Eneas; así, la relación con pietas erga parentem es 
+una extensión de dicho significado. Si bien concluye su análisis afirmando que el poeta 
+adjudica a la pietas muchas más connotaciones que las que tuvo originalmente19, como la 
+antes nombrada, relaciona el aspecto ritual del concepto con la imagen descripta en el centro 
+del Ara Pacis que muestra a Eneas haciendo el correspondiente sacrificio una vez llegado a 
+Italia20. En consecuencia, la connotación del término como comunicación humana con los 
+dioses a través del ritual se corresponde con el interés de Augusto en destacar dicha 
+característica de la pietas del héroe. En coincidencia con esta línea de interpretación, Vassiliki 
+Panousi21 concluye, tras hacer un seguimiento detallado del comportamiento ritual del héroe: 
+ 
+Aeneas’ religiosity is established through his gradual assumption of public authority in a 
+variety of religious settings. Public death rituals showcase his sacral development, since 
+they provide the context within which Aeneas is able to discharge his ritual duties to his 
+immediate family as a rising paterfamilias. Since burial is a rite that is shared by families 
+and community alike, it also facilitates Aeneas’ transition from Trojan noble to father of a 
+new nation. Foundation practices also help solidify the hero’s religious authority as they 
+present unequivocal divine sanction of his mission. Vergil thus shows Aeneas as an 
+eminently qualified leader, displaying religious, political, and military expertise. 
+ 
+De lo antes expuesto se concluye que: a) la pietas establece el ser devoto a los dioses; b) el 
+rito es la forma en la que se representa dicha relación humana y divina; c) resulta intencional 
+el modelo de hombre que establece la comunicación ritual en el contexto augusteo. 
+                                                 
+17 “The Aeneid in fact is the story of the interplay between the cosmic power of fate and human response to it. 
+Rome, we can have no doubt, was in Virgil´s eyes really fated to rule the world. But this fate was not designed to 
+operate without regard to human attitude. There could have been no Rome, as Virgil conceived it, without men 
+like Aeneas, men of supreme pietas” B. Otis. Vergil: a study in Civilized Poetry, Oxford, Oxford University 
+Press, 1964, p. 220.   
+18 Galinsky, K. Aeneas, Sicily and Rome, Princeton, Princeton University Press, 1969. 
+19 “The poet gave this pietas infinitely more connotations than it had originally”. Galinsky, K. Aeneas, Sicily and 
+Rome, Princeton, Princeton University Press, 1969. 
+20 “In the relief of the Augustan altar, however, he is indisputably represented as pius: with veiled head, capite 
+velato, he participates in a sacred action.” Galinsky, K. Aeneas, Sicily and Rome, Princeton, Princeton University 
+Press, 1969, p. 10.  
+21 Panoussi, V.  “Aeneas' Sacral Authority”, en: Farrell, J. y Putnam, M. (eds.) A Companion to Vergil's Aeneid 
+and its Tradition, Blackwell Companions to the Ancient World, 2010.  
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+58
+ En las líneas que siguen, se propone un estudio de la correspondencia entre el término 
+pietas y el término religio para establecer los paralelismos entre el significado del primero 
+recién destacado  y los significados adjudicados al segundo por parte del poeta. Partimos de la 
+afirmación de Rüpke22 quien explica la relación entre religio y pietas para establecer los 
+vínculos entre los dos términos: 
+ 
+The relationship of pietas and religio seems to be rather simple. The first describes the 
+relationship with a human or divine natural superior. Religio, then, is the particular 
+consequence-cult- in the case of the gods. 
+ 
+  
+Si la pietas establece la relación con los dioses, se presenta el término religio como la forma 
+pragmática de ésta. Para justificar nuestra afirmación estudiamos las acepciones del término 
+tanto en el contexto histórico como en la obra en particular.   
+Si se indaga el campo semántico de la palabra religio, puede advertirse que, como es 
+previsible, su significado ha cambiado a través de los siglos. El Dictionnaire étymologique de 
+la langue latine23 considera que el término presenta dos fuentes posibles: a) se propone la 
+derivación de religare ('unir'), tomada por Servio24 en su comentario sobre la Eneida de 
+Virgilio, por San Agustín25 y por Lactancio26, que consideran al término como la unión del 
+hombre con la divinidad; b) se presenta su derivación del verbo relegere ("repetir"), 
+considerado por Cicerón27 en De Natura Deorum; la palabra parece estar relacionada con la 
+"repetición" del cuidado que ejercen los hombres para con los dioses. 
+                                                 
+22 Rüpke, J. “Religious pluralism” en: Barchiesi, A. y Scheidel, W. The Oxford handbook of Roman studies, 
+Oxford, Oxford University Press, 2010.  
+23 Ernout, A. y Meillet, A. Dictionnaire étymologique de la langue latine. Histoire des mots, París, Klincksieck, 
+1959. Artículo religio. 
+24 Religio, id est metus ab eo quod montem religet, dicta religio. Ad. Aeneid 8, 349. 
+25 Retract. 1, 13. 
+26 Divin. Institut. IV, 28. 
+27 El término es utilizado por Cicerón en De Natura deorum y en De Legibus: Cum multae res in philosophia 
+nequaquam satis adhuc explicatae sint, tum perdifficilis, Brute, quod tu minime ignoras, et perobscura quaestio 
+est de natura deorum, quae et ad cognitionem animi pulcherrima est et ad moderandam religionem necessaria. 
+(De N.D. I, 1) (“Como muchas cosas en filosofía que aun no están suficientemente aclaradas, una de las más 
+difíciles y oscuras, Oh Bruto lo que ignoras mínimamente, es la cuestión de la Naturaleza de los Dioses, la cual 
+es bellísima para el conocimiento del alma y es necesaria para moderar la religión”). Religio est, quae superioris 
+cuiusdam naturae, quam divinam vocant, curam caerimoniamque affert. Inventione (2,161) (“Religio es 
+(aquella) que de cierta naturaleza superior, a la que llaman divina, ofrece preocupación y ceremonia ritual”.). 
+Suosque deos aut novos aut alienigenas coli confusionem habet religionum et ignotas caerimonias nos<tris> 
+sacerdotibus. Nam <a> patribus acceptos deos ita placet coli, si huic legi paruerint ipsi patres. (De Leg. II, 25-
+26) (“Adorar sus dioses, sean nuevos o extraños, trae confusión de religiones, ceremonias desconocidas por 
+nuestros sacerdotes. Pues complace adorar a dioses aceptados por nuestros antepasados, si los mismos 
+antepasados obedecieron a esta ley”). Iam ritus familiae patrumque servare, id est, quoniam antiquitas proxume 
+accedit ad deos, a dis quasi traditam religionem tueri. (De Leg. II, 27) (“Ya conservar los ritos de la familia y de 
+los padres, esto es, puesto que la antigüedad se aproxima a los dioses a observar la religión entregada de alguna 
+manera por los dioses”.)  
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+59
+Como Rüpke28 concluye, para su uso en Cicerón "religio no es un sentimiento vago o 
+un miedo vacío como supersititio, sino algo que resulta de la aceptación de los dioses como 
+parte de su orden social, una disposición humana, un hábito, que encuentra su expresión en 
+los rituales correspondientes". Para poder analizar las manifestaciones del término en la obra, 
+resulta conveniente observar qué acepciones son utilizadas por el poeta.  
+El término aparece once veces en la Eneida:  
+A. En el libro II, Príamo le pregunta a Sinón por el origen del caballo: 
+ 
+«quisquis es, amissos hinc iam obliviscere Graios 
+(noster eris) mihique haec edissere vera roganti 
+quo molem hanc immanis equi statuere? quis auctor? 
+quidve petunt? quae religio? aut quae machina belli29?» 
+ 
+ 
+                                                                                 (II, vv. 148-151) 
+ 
+El uso de la palabra incluye el significado de "ofrenda sagrada" relacionado directamente con 
+el ámbito ritual. 
+ 
+B.  A continuación, Sinón  convence al rey de la importancia del regalo: 
+ 
+ 
+hanc pro Palladio moniti, pro numine laeso 
+effigiem statuere, nefas quae triste piaret. 
+hanc tamen immensam Calchas attollere molem 
+roboribus textis caeloque educere iussit, 
+ne recipi portis aut duci in moenia posset, 
+neu populum antiqua sub religione tueri30. 
+ 
+                                                                                (II, vv. 183-190) 
+ 
+"Antiqua sub religione" alude a la idea romana según la cual la deidad ejerce su poder en su 
+templo o estatua. De esta manera, si el caballo estaba fuera de las murallas, los troyanos 
+                                                 
+28 “Religio is not a vague feeling or an “empty fear” like supersititio, but something resulting from the 
+acceptance of the gods as part of one´s social order, a human disposition, a habit, that finds its expression in 
+corresponding rituals”. Rüpke, J. “Religious pluralism” en: Barchiesi, A. y Scheidel, W.  The Oxford handbook 
+of roman studies, Oxford, Oxford University Press, 2010, pp.750-751. 
+29 “Quienquiera que seas, olvida ya a los griegos alejados de aquí (serás nuestro) o responde verdades a mí que 
+las pido. ¿Para qué han levantado esta mole del enorme caballo? ¿Quién es el autor? ¿qué pretenden con él? ¿qué  
+ofrenda ritual? ¿o qué máquina de la guerra?” 
+30 “Aconsejado por él en lugar del Paladio, en lugar de la divinidad ofendida, erigieron esta estatua para que 
+expiara el triste sacrilegio. Entonces Calcas mandó levantar con maderas entretejidas la inmensa mole y elevarla 
+hasta el cielo para que no pudiera ser recibida por las puertas o ser conducida hacia la ciudad, ni pudiera proteger 
+al pueblo bajo su antiguo culto”. 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+60
+perderían la protección de la diosa31. Por lo tanto, puede afirmarse que la palabra incluye 
+también la noción de protección de los dioses. 
+ 
+C. En el marco del incendio de la ciudad: 
+ 
+urbs antiqua ruit multos dominata per annos; 
+plurima perque vias sternuntur inertia passim 
+corpora perque domos et religiosa deorum 
+limina32.  
+                                                       (II, vv. 363- 366) 
+ 
+Este uso es similar al anterior pero, al estar en función atributiva, destaca la cualidad del lugar 
+que está protegido por los dioses. Con este sentido, se encuentra en el libro II, VV. 170-17233, 
+VII, VV. 607 –61034 y VIII, VV. 347- 35435. 
+ 
+D. En el marco de la huida de Troya. Eneas carga a su padre Anquises y le pide a Iulo que 
+permanezca a su lado; asimismo acuerda un punto de encuentro con sus criados:  
+ 
+vos, famuli, quae dicam animis advertite vestris. 
+est urbe egressis tumulus templumque vetustum 
+desertae Cereris, iuxtaque antiqua cupressus 
+religione patrum multos servata per annos; 
+hanc ex diverso sedem veniemus in unam36. 
+ 
+                                                                 (II, vv. 713-716) 
+ 
+                                                 
+31 Cfr. Austin, R. Aeneidos Liber Secundus, Oxford, Clarendon press, 1964, p. 92. 
+32 “La antigua ciudad cayó habiendo dominado por muchos años; numerosos cuerpos inertes están tendidos por 
+doquier a través de las calles y a través de las casas y de los sagrados umbrales de los dioses”. 
+33 Tectum augustum, ingens, centum sublime columnis/urbe fuit summa, Laurentis regia Pici,/ horrendum silvis 
+et religione parentum. (“Hubo un edificio majestuoso, espacioso, elevado por cien columnas en lo alto de la 
+ciudad, el palacio de Pico laurentino, terrorífico por sus bosques y por la religión de sus mayores”).  
+34 Sunt geminae Belli portae (sic nomine dicunt)/religione sacrae et saevi formidine Martis;/ centum aerei 
+claudunt vectes aeternaque ferri/robora, nec custos absistit limine Ianus. (“Son dos las puertas de la guerra, con 
+tal nombre las llaman, sagradas por la religión y por el temor del cruel Marte; cien pasadores de bronce las 
+cierran y eternas barras de hierro y no se aparta Jano como custodio del umbral”). 
+35 Hinc ad Tarpeiam sedem et Capitolia ducit/aurea nunc, olim silvestribus horrida dumis/ iam tum religio 
+pavidos terrebat agrestis/dira loci, iam tum silvam saxumque tremebant/«hoc nemus, hunc» inquit «frondoso 
+vertice collem/(quis deus incertum est) habitat deus; Arcades ipsum/credunt se vidisse Iovem, cum saepe 
+nigrantem/aegida concuteret dextra nimbosque cieret». (“Desde aquí lleva hacia la sede Tarpeya, y al Capitolio, 
+ahora áureo, antes erizado de silvestres breñas. Ya entonces una religión del lugar aterraba a los temerosos 
+campesinos, ya entonces temblaban ante la selva y la roca. «Un dios habita este bosque», dice, «este collado con 
+frondosa cumbre (es incierto qué dios). Los árcades creen que ellos vieron al mismo Júpiter cuando sacudía 
+frecuentemente con la diestra su negra égida y acuciaba las nubes»”). 
+36 “Vosotros, criados, prestad atención a lo que diré. Hay para los prófugos de la ciudad un túmulo y un vetusto 
+templo de la abandonada Ceres y junto a éste un antiguo ciprés conservado durante muchos años por la religión 
+de los padres; allí iremos desde todas partes hacia esta única sede”.  
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+61
+Esta acepción evidencia el comportamiento ritual de los antepasados frente a un objeto 
+considerado sagrado. Con este sentido se puede ver en el libro VIII, vv. 596-59837. 
+ 
+E. En el encuentro de Eneas con Heleno, el héroe le pregunta al adivino si es aconsejable 
+seguir el periplo 
+ 
+«Troiugena, interpres divum, qui numina Phoebi, 
+qui tripodas Clarii et laurus, qui sidera sentis 
+et volucrum linguas et praepetis omina pennae, 
+fare age (namque omnis cursum mihi prospera dixit 
+religio, et cuncti suaserunt numine divi 
+Italiam petere et terras temptare repostas38; 
+ 
+                                                                   (III, VV. 359-364) 
+ 
+  
+Se refiere aquí a “una declaración de la voluntad de los dioses”39. Dicha relación entre dioses 
+y hombres pertenece también a la esfera ritual en tanto se supone una comunicación previa de 
+Eneas con la esfera divina. Con este mismo sentido se encuentra en el libro XII, VV. 175-18240. 
+ 
+F. Enmarcado en la revelación de Heleno: 
+ 
+quin ubi transmissae steterint trans aequora classes 
+et positis aris iam vota in litore solves 
+purpureo velare comas adopertus amictu, 
+ne qua inter sanctos ignis in honore deorum 
+hostilis facies occurrat et omina turbet. 
+hunc socii morem sacrorum, hunc ipse teneto; 
+hac casti maneant in religione nepotes41 
+ 
+                                                 
+37 Est ingens gelidum lucus prope Caeritis amnem,/religione patrum late sacer; undique colles/inclusere cavi et 
+nigra nemus abiete cingunt. (“Existe un inmenso bosque junto al gélido río de Caere, harto sagrado por la 
+religión de los padres, cóncavas colinas lo rodearon por todas partes y ciñen al bosque con negro abeto”).  
+38 “¡Oh nacido en Troya, intérprete de los dioses, que percibes los númenes de Febo, los trípodes y los laureles 
+del Clario, las estrellas y las lenguas de las aves y los presagios de la ligera pluma, di, vamos, (porque toda 
+religión manifestó próspera el viaje y todos los dioses aconsejaron con el numen viajar a Italia y probar tierras 
+apartadas ...)” 
+39“A declaration of the will of the gods by signs” Nettleship, H. Contributions to Latin Lexicography, Oxford, 
+Clarendon Press, 1889. 
+40 «esto nunc Sol testis et haec mihi terra vocanti,/quam propter tantos potui perferre labores,/et pater 
+omnipotens et tu Saturnia coniunx/(iam melior, iam, diva, precor), tuque inclute Mavors,/cuncta tuo qui bella, 
+pater, sub numine torques;/fontisque fluviosque voco, quaeque aetheris alti religio et quae caeruleo sunt numina 
+ponto» (“Sé mi testigo ahora, tú Sol, a quien invoco y esta tierra por la que pude soportar tantos trabajos y, oh 
+Padre omnipotente, y tú, saturnia esposa, (ya más benigna diosa, te  pido) y tú glorioso Marte, que bajo tu numen 
+gobiernas todas las guerras, invoco a las fuentes y a los ríos, y a cualquier religión del alto éter y cualesquiera 
+númenes que existen en el cerúleo ponto”). 
+41 “Y cuando las naves hayan sido trasladadas a través de las aguas e instalados los altares y cumplas los votos 
+en la orilla, cúbrete los cabellos con el velo de tu manto purpúreo para que ningún rostro hostil aparezca entre los 
+santos fuegos en honor de los dioses y turbe los presagios. Mantengan los compañeros esta costumbre de 
+sacrificios y tú mismo tenla; que los nietos permanezcan puros en esta religión”.  
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+62
+                                                                       (III, vv. 402-409) 
+ 
+Los consejos de Heleno se relacionan con el término pius en el sentido de aceptar y cumplir 
+las funciones vinculadas con los dioses que ponen de manifiesto la correspondencia entre 
+religio y pietas.  
+En las acepciones expuestas, se advierten los significados que los romanos 
+comprendían en tiempos de Augusto, que no incluyen el concepto de “creencia” actual 
+relacionado con el de “religión”42. Como se ha visto, en Virgilio la palabra entraña la idea de 
+protección de los dioses y de ritual. Se encuentra entonces dentro del término lo postulado por 
+Durkheim43 sobre experiencia divina (experience of god) tanto en la protección efectuada por 
+ellos como en la comunicación establecida de parte de la esfera humana. De esta forma se 
+comprueba la premisa de considerar a la religio como forma pragmática de la pietas.  
+Como conclusión de esta primera parte afirmamos que en la obra se construye un 
+modelo de ciudadano piadoso en lo referente a la acción ritual, asimismo, esta connotación de 
+la pietas encuentra su paralelo en los significados del término religio expuestos por Virgilio, 
+entendidos como su consecuencia pragmática, por lo tanto, el modelo virgiliano y el objetivo 
+augusteo se asocian e ilustran la idea de Durkheim44 de unión de la comunidad a través del 
+rito. 
+ 
+b. Movilidad cultual en Eneida 
+ 
+En esta sección, se analiza la representación de la transmisión y de la movilidad de la 
+autoridad religiosa de los troyanos en la obra. Partimos de diversos estudios críticos 
+contemporáneos: 
+1. Barchiesi45 explica el concepto de Kulturtransfer en el espacio y en el tiempo en relación 
+con la presencia del culto en la Eneida y en concordancia con el objetivo del Imperio. Así 
+como las prácticas religiosas de Troya se consolidan durante los viajes de Eneas, la religión 
+                                                 
+42 De esta forma retomamos lo expuesto por Feeney, quien relaciona el término “creencia” exclusivamente con 
+la visión cristiana de la religión cuyo eje es la doctrina de resurrección y de redención. Feeney concluye que no 
+es legítimo pensar que todo sistema religioso tiene un trasfondo de creencia. Feeney, D. Literature and Religion 
+at Rome: Cultures, Contexts and Beliefs. Roman literature and its contexts, Cambridge, Cambridge University, 
+1998.   
+43 Durkheim, E. The elementary forms of the religious life,  [tr. J. Swain], New York, Macmillan, 1965. 4ª ed. 
+44 Durkheim, E. The elementary forms of the religious life,  [tr. J. Swain], New York, Macmillan, 1965. 4ª ed. 
+45Barchiesi, A. “Mobilità e religione nell’Eneide (Diaspora, culto, spazio, identità locali)” en: Elm von der 
+Osten, D., Rüpke, J., Waldner, K.  Texte als Medium und Reflexion von Religion im römischen Reich,  Stuttgart, 
+Franz Steiner Verlag, 2006. 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+63
+romana se reforma, después de un momento de crisis, en tiempos de Augusto. Igualmente, los 
+troyanos trascienden su identidad cultural local en el traslado a Italia. El autor sugiere que esta 
+idea puede ser leída como una referencia al proceso de homogeneización cultural que sucede 
+en la propia época de Virgilio.  
+2. H. Cancik46 analiza brevemente el proceso de difusión de la religión de Troya que puede 
+observarse en Virgilio. El autor lo presenta como un modelo mítico para los acontecimientos 
+históricos, caracterizado, por un lado, por el hecho de que los inmigrantes de Troya llevan a 
+sus dioses con ellos y, por otro, por la difusión y la integración de la religión de Troya en los 
+cultos locales en el momento de la fundación de una nueva ciudad.  
+Resulta pertinente retomar lo expuesto por Barchiesi y por Cancik para enriquecer el 
+estudio sobre la representación de la autoridad religiosa ejercida por los Penates. La función 
+del concepto de Kulturtransfer47, entendido como un proceso dinámico, es destacar el 
+intercambio de elementos culturales, lo que permite analizar la obra teniendo en cuenta estos 
+tres componentes que se conectan entre sí:  
+ 1. die Ausgangskultur (la cultura inicial), representada en este caso por Troya 
+ 2. die Vermittlungsinstanz (el mediador), representado por Eneas y los troyanos 
+3. die Zielkultur, (la cultura de destino) representada por los diferentes pueblos que recibirán a 
+los troyanos y participarán, al mismo tiempo, de la formación de lo que será la cultura 
+romana. 
+Según dicha teoría, la cultura es vista como una entidad dinámica en cuyo traslado no sólo se 
+ve la cultura de origen, sino más bien la hibridación de todas las culturas que forman parte del 
+cambio. Esta idea acuerda con lo expuesto por Cancik y por Rüpke en la Introducción a su 
+Companion of Roman religion48: “El modelo dominante romano de religión no fue 
+expansionista, fue más bien absorbente”. Retomamos lo expuesto pero teniendo en cuenta un 
+aspecto importante: Virgilio utiliza como representantes de dicha movilidad religiosa a los 
+Penates, elementos sacros que acompañan al héroe en todas las versiones de la leyenda de 
+                                                 
+46 Cancik. H.. "Götter einführen: ein myth- historisches Modell für die Difusion von Religion in Vergils Aeneis" 
+en: Elm von der Osten, D., Rüpke, J., Waldner, K.  Texte als Medium und Reflexion von Religion im römischen 
+Reich,  Stuttgart, Franz Steiner Verlag, 2006.   
+47 Espagne, M. y Greiling, W. (ed.). Frankreichfreunde. Mittler des französisch-deutschen Kulturtransfers 
+(1750-1850), Leipzig, Universitätsverlag, 1996. 
+48“The dominant Roman model for religion was not expansionist; it was rather absorbing”. Rüpke, J. (ed.) 
+A Companion to Roman Religion, Oxford, Blackwell Companions to the Ancient World, 2011. 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+64
+Eneas.49 La recreación de Virgilio se vería en el libro III, debido a que hace a éstos portadores 
+del mensaje de Apolo: 
+ 
+'quod tibi delato Ortygiam dicturus Apollo est, 
+ hic canit et tua nos en ultro ad limina mittit. 
+nos te Dardania incensa tuaque arma secuti, 
+nos tumidum sub te permensi classibus aequor, 
+idem uenturos tollemus in astra nepotes 
+imperiumque urbi dabimus. tu moenia magnis 
+ magna para longumque fugae ne linque laborem. 
+mutandae sedes. non haec tibi litora suasit 
+Delius aut Cretae iussit considere Apollo. 
+est locus, Hesperiam Grai cognomine dicunt, 
+terra antiqua, potens armis atque ubere glaebae; 
+ Oenotri coluere uiri; nunc fama minores 
+Italiam dixisse ducis de nomine gentem. 
+hae nobis propriae sedes, hinc Dardanus ortus 
+Iasiusque pater, genus a quo principe nostrum. 
+surge age et haec laetus longaeuo dicta parenti 
+haud dubitanda refer: Corythum terrasque requirat 
+Ausonias; Dictaea negat tibi Iuppiter arua50.  
+                                                                (III, VV. 154-171)       
+ 
+Este pasaje generó diversas controversias a través del tiempo en relación a la leyenda que 
+Virgilio estaría siguiendo al hacer a Dárdano originario de Etruria. Según la opinión de varios 
+críticos en la actualidad, este origen itálico de Dárdano no es una invención de Virgilio, como 
+sostenía Buchheit51, sino que debió inspirarse en las propias tradiciones  etruscas con las que 
+el poeta estaba familiarizado52. Lo que nos resulta interesante no es solamente la elección del 
+                                                 
+49 Cf. Galinsky, K. Aeneas, Sicily and Rome, Princeton University Press, 1969; Casali “The Development of the 
+Aeneas Legend” en: Farrell, J. y Putnam, M. (eds.) A Companion to Vergil's Aeneid and its Tradition, Oxford, 
+Blackwell Companions to the Ancient World, 2010; Gruen, E. Culture and National Identity in Republican 
+Rome, Ithaca, Cornell University Press, 1992;  Horsfall, N. “The Aeneas-Legend from Homer to Virgil” en: 
+Horsfall, N. y Bremmer, J. (eds.), Roman Myth and Mythography,  London, Univ. of  London, Inst. of Classical 
+Studies, 1987, pp. 12-24. 
+50“Lo que Apolo te dirá, al llegar a Ortigia, lo revela aquí y nos envía amablemente a tu umbral. Nosotros, 
+incendiada Dardania, te seguimos a ti y a tus armas,  nosotros atravesamos en las naves el inflamado mar bajo tu 
+mando y que nosotros también elevaremos a las estrellas tu futura descendencia y otorgaremos el imperio a la 
+ciudad. Tú prepara grandes muros para un gran pueblo y no abandones el largo trabajo de la fuga. Debe ser 
+cambiada la sede. No te aconsejó Delio estas costas, ni te ordenó Apolo establecerte en Creta. Hay un lugar-que 
+los griegos llaman Hesperia, una tierra antigua, fuerte en armas y en la fertilidad de su suelo, los Enotrios 
+habitaron en ella, ahora se dice que los habitantes más recientes la han llamado Italia por el nombre de su líder. 
+Éste es nuestro verdadero hogar, de ahí surgió Dárdano, y el padre Iasus, el origen de nuestra raza. Anda, 
+levántate, y refiere alegre a tu anciano padre estas palabras que no deben ser dudadas: que busque Corito y las 
+tierras ausonias; Júpiter te niega los campos dicteos”. 
+51 Buchheit, V. Vergil über die Sendung Roms, Heidelberg, Gymnasium Beiheft, 1969. 
+52 La idea de que Virgilio tomó un mito etrusco la encontramos en  Horsfall, N.  “Corythus Re-examined” en: 
+Bremmer, J. y Horsfall, N. (eds.) Roman myth and mythography, London, Univ. of  London, Inst. of Classical 
+Studies, 1987, pp. 89–104; Cairns, F. Virgil's Augustan Epic, Cambridge, Cambridge University Press, 1989, 
+pp.114–18. 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+65
+poeta respecto del origen de Dárdano, que es útil para el objetivo de la obra, sino que los 
+mismos representantes de la movilidad del sistema religioso- destacando que son ellos los que 
+acompañan a Eneas durante su periplo- reconozcan a Italia como su “verdadero hogar”. Si 
+Virgilio ha tomado esta leyenda, la idea de Kulturtransfer se aclara: los Penates originarios de 
+la misma Italia salen desde Troya acompañando al héroe, éstos simbolizan el poder religioso 
+y, al mismo tiempo, “absorben” los diferentes comportamientos religiosos de las culturas que 
+visitaron para volver a la sede que les es propia. Implica este paso una hibridación de la 
+cultura de origen que retorna a su lugar originario una vez transformada. Estableciéndose 
+como “el origen de nuestra raza” se están dando a sí mismos la facultad de “elevar a las 
+estrellas tu futura descendencia y otorgar el imperio a la ciudad”. Son dichas divinidades 
+pacíficas quienes se postulan ellas mismas como base y modelo de organización social de una 
+cultura religiosa híbrida. Teniendo en cuenta las palabras de las propias divinidades, podemos 
+recordar la tesis de Annie Dubourdieu53, quien hizo un minucioso estudio sobre los orígenes y 
+el desenvolvimiento del culto de los Penates en Roma: 
+ 
+nous croyons pouvoir affirmer que le culte des Pénates est au coeur de l’image que les 
+Romains se font de leur maison, et, pour le culte public, de leur patrie. En lui se lisent 
+beaucoup de traits spécifiques de la mentalité romaine: attachament très fort au foyer dans 
+le culte privé, et à la patrie dans le culte public. Mais dans le culte des Penates populi 
+Romani s’exprime également la fascination des maiores et du passé, si reculé soit-il, ainsi 
+que le désir de l’auréoler. Aussi les culte des Pénates public nous apparaît-il, en 
+definitive, comme l’une des expressions les plus significatives de l’image que, 
+entremêlant légende et historie, réalité et mythe, Rome a voulu offrir d’elle au regard 
+d’autrui et à sa propre contemplation. 
+Resulta importante mencionar que los Penates troyanos no son los únicos penates que 
+aparecen en la obra. En el libro VIII, se encuentra: 
+et primum Herculeis sopitas ignibus aras 
+excitat, hesternumque larem paruosque penatis 
+laetus adit54  
+                                   (VIII VV. 542-545) 
+ 
+Virgilio asume que Eneas había cumplido sus deberes hacia los lares y los penates de su 
+anfitrión el día anterior. Encontramos en este extracto dos menciones importantes. Por un 
+lado, la piedad de Eneas hacia las divinidades de Evandro, que retoma la idea de 
+                                                 
+53 Dubourdieu, A. Les Origines et le développement du culte des Penates à Rome, Rome, École Française de 
+Rome, 1989. 
+54“Inmediatamente excita con los  fuegos de Hércules los adormecidos altares y alegre va hacia el lar del día 
+anterior y hacia los pequeños penates”. 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+66
+responsabilidad ritual (pero es preciso recordar que el héroe no participa en ninguna actividad 
+religiosa en Cartago)55. Por otro lado, se destaca que Virgilio califica de “paruos” (pequeños) 
+a los penates de Evandro, escritos en minúscula en todas las ediciones56. Esta circunstancia 
+motiva a una pregunta: ¿son los penates arcadios menos importantes que los traídos de 
+Troya?, ¿tiene esta adjetivación alguna finalidad en especial?  Se considera que, en respuesta 
+al primer interrogante, Virgilio integra a Eneas en las actividades religiosas de los pueblos 
+que sí participarán en la fundación de Roma, como los arcadios, por ejemplo. Sin embargo, no 
+lo hace partícipe de las actividades religiosas de los pueblos que seguirán considerándose 
+extranjeros, como los cartagineses. Esta idea también se puede relacionar con la actitud de 
+Augusto frente a la no legitimación de ciertos rituales extranjeros57. Creemos que Virgilio le 
+está dando autoridad religiosa a los Penates troyanos sobre las divinidades de los otros 
+pueblos previamente al pacto que se realizará en el libro XII58.  
+Conclusión 
+Se considera que dos de las predominantes políticas religiosas de Augusto se reflejan 
+intencionalmente en la Eneida: a) la importancia ritual para establecer el orden cívico; b) la 
+justificación de la política religiosa de absorción, hibridación y supremacía sobre los otros 
+pueblos. 
+a) En la primera parte del trabajo, se aplicó la teoría mítico ritualista a la política religiosa de 
+Augusto. Se ha podido comprobar que en la obra se construye un modelo de ciudadano 
+piadoso en lo referente a la acción ritual y que esta connotación de la pietas encuentra su 
+paralelo en los significados del término religio observados en Virgilio. En consecuencia, se 
+representa un modelo para el ciudadano romano que encontrará en el ritual la forma de 
+relacionarse en comunidad en concordancia con la política augustea. El hecho de que esté 
+representado en una épica nacional que funciona como generadora de un pasado común 
+significa que es aceptado y avalado por la comunidad a la que  representa. 
+                                                 
+55 Cfr. Barchiesi, A. “Mobilità e religione nell’Eneide (Diaspora, culto, spazio, identita` locali)” en: Elm von der 
+Osten, D.,  Rüpke, J., Waldner, K. Texte als Medium und Reflexion von Religion im römischen Reich,  Stuttgart, 
+Franz Steiner Verlag, 2006.   
+56 Debemos tener en cuenta que los “Penates de Troya” están escritos en mayúscula en todas las ediciones. 
+57 Para estudiar la posición de Augusto sobre los rituales extranjeros Cf. Galinsky, K. “Continuity and Change: 
+Religion in the Augustan Semi-Century”, en: Rüpke, J. A Companion to Roman Religion, Oxford, Blackwell 
+Publishing Ltd, 2008. 
+58 En el pacto del libro XII v.192, Eneas afirma que no quiere el poder militar, que quiere las mismas leyes para 
+cada pueblo, pero sí pide el poder religioso (sacra deosque dabo/ socer arma Latinus habeto). 
+Auster, 2011 (16), p. 53-67. ISSN 2346-8890. CEL. IdIHCS (UNLP-CONICET). FaHCE. UNLP 
+ 
+67
+b) En la segunda parte del trabajo, se demostró que si bien la autoridad religiosa en la obra 
+está ejercida por el mismo héroe, está representada por los propios Penates originarios de la 
+misma Italia, símbolos del poder religioso y representantes de la “absorción” de los diferentes 
+comportamientos religiosos de las culturas visitadas. Implica este paso una hibridación de la 
+cultura de origen que retorna a su lugar originario una vez transformada.  Asimismo, se 
+destaca en la obra la supremacía de su autoridad por sobre la de otras divinidades locales y la 
+elección de parte del héroe en la no participación en ciertos rituales que no están en 
+concordancia con la política del Imperio. Si bien en el pacto presente en el libro XII se 
+concede claramente el poder religioso a los troyanos, pensamos que dicho poder se percibe 
+antes de la alianza. 
+Creemos que las nuevas perspectivas que ofrecen los actuales estudios sobre religión y 
+antropología romana pueden ser útiles para analizar más rigurosamente el fenómeno religioso 
+en la Eneida. Este trabajo ha sido sólo una introducción en el examen de aspectos que deben 
+ser analizados más extensamente a lo largo de una investigación más abarcadora59. 
+ 
+ 
+ 
+RECIBIDO: 4-11-2011 – ACEPTADO: 3-3-2012 
+ 
+ 
+ 
+                                                 
+59 Agradezco al evaluador anónimo las sugerencias, que han resultado de gran utilidad. 

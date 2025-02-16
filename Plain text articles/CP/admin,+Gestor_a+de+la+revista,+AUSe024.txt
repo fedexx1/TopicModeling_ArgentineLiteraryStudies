@@ -1,0 +1,591 @@
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+Universidad Nacional de La Plata. 
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios Latinos
+LAS ETIÓPICAS: LOS AMORES DE TEÁGENES (MARCO 
+ANTONIO) Y CARICLEA (CLEOPATRA), CONTADOS A SUS HIJOS, 
+POR HELIODORO
+Introducción
+Horacio nos brinda en su  Sátira  I, 5 la única mención y único testimonio de su 
+tiempo (y, por lo tanto, único dato biográfico que poseemos) de ese Heliodoro que, como ya 
+expusimos en un trabajo anterior,1 debió ser, por los elogiosos términos con que se refiere a 
+él el poeta – rhetor comes Heliodorus, / Græcorum longe doctissimus (Sat. I, 5, 2-3), “el 
+rhetor Heliodoro […], de lejos, el más sabio de los griegos”2 –, el comentarista de Homero 
+citado en el  Lexicon Græcum Iliadis et Odysseæ de Apolonio Sofista (I d.C.),3 y el 
+escoliasta de Aristófanes del  Codex Venetus 474 de la Biblioteca Marciana,4 además de 
+1 Salgado O. N., “Heliodoros/Putifar y el culto solar de Heliópolis (o las Etiópicas, una loa a Augusto)”, en: 
+Auster 18 (2013), 53-76. El presente artículo pretende ser una continuación y un refinamiento de aquél. 
+Debemos agradecer al respecto el inmenso apoyo que nos ha brindado el Centro de Estudios Latinos / 
+IdIHCS, de la Universidad Nacional de La Plata, con su publicación.
+2 El lector podrá observar que no hacemos referencia a la bibliografía reciente sobre este pasaje del Iter 
+Brundisinum, pues no esclarece la figura de Heliodoro. Remitimos, en cambio, al estudio de P. Lejay, 
+Horacio, Satiræ / Satires [Q. Horatii Flacci Opera, F. Plessis y P. Lejay (eds.)], Lipsia, Teubner, 1911, 135ss. 
+Lejay señala correctamente que ese erudito podría ser el que nombra Mario Victorino en su Ars Grammatica, 
+II, 9, y el autor de unos versos sobre las Maravillas de Italia (Ἰταλικὰ Θαύματα) que transmitió Estobeo (Anth. 
+100, 6) (id., 147 n. 2). También podrá observarse que no hablamos aquí de Heliodoro “de Émesa”, como autor 
+de las Etiópicas; v. Salgado “Heliodoros/Putifar”, 73s. Lo de Émesa es una creación del siglo XVII, y, a través 
+de la patrística, tal vez una confusión con Eusebio de Émesa. Su datación en el siglo III d.C, aparte de la 
+leyenda de Sócrates el Escolástico de que Heliodoro era obispo de Tricca (Hist. Eccl. V, 22), es una 
+elaboración de la filología alemana del XIX (RE VIII, 1 (15. Hb), 20-28), que A. Wifstrand (“Emendationen 
+und Interpretationen zu griechischen Prosaikern der Kaiserzeit”, Eikota V, 1945, 26-41) agrava al ubicarlo en 
+el siglo IV d.C.
+3 Apollonii Sophistæ Lexicon Græcum Iliadis et Odysseæ. Primus ex codice manuscripto sangermanensi in 
+lucem uindicauit […], J.-B. G. d'Anssé de Villoison (ed.), París, J. C. Molini, 1773, I, xxiv-xxv; II, 834ss. n. 
+1; v. Salgado, “Heliodoros/Putifar”, 70-72.
+4 Aristófanes, Facsimile of the Codex Venetus Marcianus 474, J. W. White y T. W. Allen (eds.), Londres / 
+Boston, Archaeological Institute of America / Society for the Promotion of Hellenic Studies, 1902; v. Salgado, 
+“Heliodoros/Putifar”, 70-71, y Salgado O. N., “Aristófanes en la Segunda Parte del Quijote”, en: eHumanista 
+Cervantes Volume 4, 2015, A. Cortijo Ocaña y F. Layna Ranz (eds.), Santa Bárbara CA, UCSB, 196-208: 
+http://www.ehumanista.ucsb.edu/cervantes/volumes/4.
+Cita sugerida: Salgado, O. N. (2015). Las Etiópicas: los amores de Teágenes (Marco Antonio) y Cariclea (Cleopatra), 
+contados a sus hijos, por Heliodoro. Auster, (20), e024. Recuperado de: 
+http://www.auster.fahce.unlp.edu.ar/article/view/Aus024
+    Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+autor de las Αἰθιοπικά (Etiópicas o Historia etiópica), épica en prosa, historia de amor y 
+aventuras que alcanzó enorme celebridad en el Renacimiento y proveyó las bases para el 
+surgimiento de la novela moderna,5 sin contar otras obras perdidas que podrían serle 
+atribuidas. Entre ellas, la que cita Plinio en la bibliografía de tres de los libros de su 
+Naturalis  historia,  “de  anathematis  Atheniensium”,  “Sobre  los  votos  de  Atenas”,  de 
+Heliodoro (NH, I, 33, 34, 35),6 llama particularmente nuestra atención, ya que, como 
+veremos,  las  Etiópicas podrían  ser  entendidas  ellas  mismas  como  ἀνάθημα  νεκροῖς 
+(Eurípides, Supp. 983), “ofrenda votiva a los muertos”. Ese tratado de Heliodoro podría 
+haber sido, además, uno de los quince volúmenes Περὶ ἀκροπόλεως (“Sobre la Acrópolis”), 
+de ese autor (Ἡλιόδωρος ὁ Ἀθηναῖος, “Heliodoro Ateniense”), de que habla Ateneo (VI, 
+229e).7
+Según lo expuesto en aquel trabajo, pueden observarse también paralelos temáticos 
+y  de  pensamiento  entre  las  Etiópicas y  la  obra  poética  de  Horacio,  que  surgen 
+espontáneamente de su lectura conjunta y muestran referentes comunes y una coincidencia 
+notable de intereses, y tal vez de objetivos, entre sus autores, lo que parece indicar no sólo 
+su contemporaneidad, o una misma escuela, que podríamos identificar con la de Estrabón 
+(οἱ ἡμέτεροι, “los nuestros” – los estoicos –, Str. I, 2, 3; II, 3, 8), sino también una 
+colaboración intensa entre ambos. Así, del mismo modo en que Horacio celebra los logros 
+militares de Augusto (Carm. IV, 14), donde menciona el Nilo y el Danubio inferior (Ister) – 
+5 Salgado O. N., “Épica en prosa: Cervantes y la «ingeniosa ficción» de Heliodoro”, en: AEC 12, “Cervantes 
+y los géneros literarios”, J. G. Maestro (ed.), 2016, 153-166. Cervantes es el heredero genuino de Heliodoro 
+en las letras modernas y es necesario conocer su obra, así como la de otros autores del llamado “Siglo de Oro” 
+español, Lope, Alemán, Calderón, para poder abordar una lectura inteligente de las Etiópicas.
+6 Lo menciona como autoridad en sus libros sobre metales e historia del arte. Este tratado de Heliodoro debió 
+dejar su huella en Plinio, pues su propia obra sólo vale, dice, en tanto uotum (anathema): multa ualde pretiosa 
+ideo uidentur quia sunt templis dicata (NH, Pref., 19), “muchos objetos se estiman extremadamente preciosos 
+sólo porque son dedicaciones votivas en los templos” (Epístola dedicatoria al emperador [Tito] Vespasiano). 
+Anathema (ἀνάθημα) significa aquí lo que en Eurípides, ἀναθήματα (Supp. 983), “ofrendas votivas”; no es el 
+ἀνάθεμα, “maldición”, de los textos cristianos.
+7 “[...] ὅν φησιν Ἡλιόδωρος ὁ Ἀθηναῖος ἐν τοῖς περὶ ἀκροπόλεως – πεντεκαίδεκα δ'ἐστὶ ταῦτα βιβλία – [...]”, 
+dice Ateneo, a propósito de un comentario de Heliodoro a Aristófanes, Plut. 812ss., sobre los platos de 
+pescado y otros utensilios que, a la vista del dios Pluto, se hacían de plata o de marfil (VI, 229 e-f; Ateneo, 
+The Deipnosophists, C. B. Gulick (ed. y trad.), Londres, Heinemann / Nueva York, Putnam [The Loeb 
+Classical Library], 1929, III, 32-35). No hay razón, que sepamos, para datar a este Heliodoro en el siglo II 
+a.C., como se ha hecho (FGH IV 425). Al respecto, creemos que esta datación expresa un deseo de exaltar la 
+labor del helenismo alejandrino (siglos III-II a.C.), en detrimento de la erudición en Roma en el siglo I a.C.; 
+cf. Estrabón, sobre Aristarco y sus seguidores (Str. I, 2, 27), detractores de Homero (Heliodoro, por el 
+contrario, era un gran homerista, según lo atestigua el Lexicon de Apolonio Sofista, v. supra). Además, el 
+Heliodoro citado por Ateneo comenta precisamente a Aristófanes, como nuestro escoliasta.
+2
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+Nilus[que] et Hister (v. 46) –, aquella obra narrativa podría ser vista como una loa a la 
+conquista de tierras exóticas en los extremos del imperio, la llegada de las tropas romanas a 
+Etiopía.8 En efecto, en 24-23 a.C., el prefecto C. Petronio había comandado una expedición 
+a esa región y capturado a Napata, residencia de la reina etíope Candace (Str. XVII, 1, 54). 
+Los  historiadores,  propiamente  dichos,  pues  Heliodoro  se  considera  también  un 
+“historiador”,9 revelan igualmente un enorme interés por Etiopía. Estrabón cuenta haber 
+navegado en 25-24 a.C. él mismo por el Nilo “hasta Syene y la frontera de Etiopía” con el 
+prefecto Elio Galo, su amigo y compañero (Str. II, 5, 12).10 En todo caso, la exitosa 
+expedición de C. Petronio hacía posible estimar una datación post quam, a partir de esa 
+fecha, para la composición de la obra narrativa de Heliodoro.11
+Las Etiópicas, ¿novela en clave?
+También sugerimos, al final del artículo citado, que, al no ser fácil reconocer un 
+antecedente literario directo para la historia de amor y aventuras de las  Etiópicas, a 
+excepción de Helena de Eurípides, podría Heliodoro estar ofreciéndonos en ella su propia 
+versión, en clave, del romance de Marco Antonio y Cleopatra, “por la ambientación en 
+Egipto, el simbolismo de los segundos nombres de sus hijos mellizos, “Helios” y “Selene”, 
+[y] el nombre de Cariclea, su protagonista, que contiene 'κλέος', “honor”, de Cleopatra, 
+etc..”12 Pero veamos lo que nos dicen las fuentes históricas, como Plutarco: “Dotado de un 
+carácter tal, Antonio halló el colmo de sus males en el amor que concibió por Cleopatra, 
+amor que despertó y desencadenó en él muchas pasiones todavía ocultas y adormecidas, y 
+que extinguió y sofocó lo que podía, a pesar de todo, persistir en él de honesto y de sano. 
+8 Salgado, “Heliodoros/Putifar”, 75-76.
+9 Str. I, 2, 6; v. Salgado, “Épica en prosa”, 158-160. 
+10 Diodoro de Sicilia ofrece en su Bibliotheca unos fascinantes capítulos sobre la región, con comentarios a 
+los pasajes homéricos referidos a ella (D. S. I, 13, 2, sobre la piedad de los etíopes; I, 33, 1-4, sobre Méroe, 
+etc.). Plinio dedica a Etiopía la sección 35 (caps. 179-197) del libro VI de su Naturalis historia y recuerda lo 
+relatado por Estrabón : “[...] en los tiempos de su desaparecida Majestad Augusto, los ejércitos de Roma 
+llegaron a penetrar esas regiones, al frente de Publio Petronio, de la Orden de Caballería, cuando era 
+gobernador de Egipto. […] y saqueó también Napata” (NH, VI, 35, 181). No obstante, Plinio no nombra al 
+historiador y geógrafo entre sus autoridades, y al prefecto Petronio lo llama “Publio”, no “Gaio”. Elio Galo 
+(Ælius Gallus) había comandado una fallida expedición a Arabia Felix, ordenada por Augusto (Str. XVI, 4, 
+23-24; XVII, 1, 53).
+11 Sobre fechas en el Carm. IV, 14, v. Horacio, Tome I. Odes et épodes, F. Villeneuve (ed. y trad.), París, “Les 
+Belles Lettres” [Collection des Universités de France], 1927, 181 n. 4.
+12 Salgado, “Heliodoros/Putifar”, 76 n. 108.
+3
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+Así fue como fue atrapado:13 Cuando él emprendía la guerra contra los partos [41 a.C.], le 
+pidió a Cleopatra que viniera a verlo en Cilicia, para que justificara los rumores de que le 
+había dado mucho dinero a Casio para solventar la guerra. […] Así se arregló ella a la 
+perfección [como Hera para ir a ver Zeus, ἐλθεῖν εἰς Ἴδην [Κιλικίαν] εὖ ἐντύνασαν ἓ αὐτήν 
+(Il. XIV, 162)], […] y fue a visitarlo en el momento en que las mujeres exhiben la belleza 
+más brillante y sus mayores poderes intelectuales.” (Plutarco,  Antonius, XXV, 1-3). Ese 
+retrato de Cleopatra recuerda, sorprendentemente, el de la seductora tracia Rhodopis, en las 
+Etiópicas (Æth. II, 25, 1-4).14
+Y he aquí el argumento de esta obra, “roman d'aventures et d'amour tout à la fois”, 15 
+en grandes líneas y en orden cronológico (que no fue el elegido por Heliodoro, sino el del 
+comienzo  in  medias  res),16 según  Émile  Feuillâtre:  “Au  foyer  des  souverains  noirs 
+d'Éthiopie naît une fille d'une blancheur éclatante. Sa mère, modèle de toutes les vertus, 
+craignant d'être soupçonnée, expose l'enfant, qui est recueillie par un gymnosophiste et 
+confiée par lui, vers sa septième année, à un Grec, voyageant dans le pays. Ce grec est le 
+prêtre d'Apollon à Delphes, Chariclès. La fillette reçoit le nom de Chariclée et grandit dans 
+le voisinage du temple. Adolescente hostile au mariage, elle se fait servante d'Artémis. Un 
+jour, un théore thessalien, nommé Théagène, vient à Delphes. L'amour naît aussitôt entre 
+les jeunes gens: enlèvement, tempête, brigands, combats sanglants, jalousie de la toute-
+puissante épouse du satrape d'Égypte, intrigues, poison, et, pour finir, arrivée à Méroe. Les 
+deux héros sont sur le point d'être sacrifiés, conformément aux lois du pays, quand se 
+13 Pelling advierte la simplicidad de esa expresión: “Ἁλίσκεται δὲ τοῦτον τὸν τρόπον” (Plutarco, Life of 
+Antony, C. B. R. Pelling (ed.), Cambridge, University P., 1988, 185).
+14 La presencia de esta tracia en Egipto, y su nombre, Ῥοδῶπις, pueden explicarse a partir del “Dacus” de 
+Horacio, Carm. III, 6, 14. Los dacios habían habitado Ῥοδόπην (Rhodope), según Dio Cass. LI, 22, 7; cf. 
+lustratam Rhodopen, Carm. III, 25, 12. Rhodope es ampliamente ilustrada en Virgilio (G. III, 351; IV, 461; E. 
+VI, 30) y en Ovidio (M. II, 222; VI, 87ss.; X, 11, 50, 77; Ib. 347).
+15 Feuillâtre É., Études sur les Éthiopiques d'Héliodore. Contribution à la connaissance du roman grec, 
+París, Presses Universitaires de France [Publications de la Faculté des Lettres et Sciences Humaines de 
+Poitiers], 1966, 11.
+16 Horacio, AP 148. Artificio altamente elogiado por los preceptistas del Renacimiento: “Y por cierto la 
+dispo[si]ción es singular, porque comienza en la mitad de la Historia, como hacen los poetas heroicos, lo cual 
+causa, de prima facie, una grande admiración en los lectores [...]” (J. Amyot, proemio a su traducción al 
+francés de las Etiópicas, 1ª ed., 1547, según la versión castellana del anónimo de Amberes (1554), publicada 
+como apéndice en: Heliodoro, Historia etiópica de los amores de Teágenes y Cariclea traducida en romance 
+por Fernando de Mena [1587], F. López Estrada (ed.), Madrid, Aldus [RAE, Biblioteca Selecta de Clásicos 
+Españoles, 2ª Serie, 15], 1954, lxxx-lxxxi.); v. Salgado O. N., “Heliodoros Polyhistor: Para una reevaluación 
+de los datos externos de la Historia etiópica”, en: Philologiæ Flores. Homenaje a Amalia S. Nocito, M. E. 
+Steinberg y P. A. Cavallero (eds.), Buenos Aires, Universidad de Buenos Aires, Facultad de Filosofía y Letras, 
+Instituto de Filología Clásica, 2010, (147-165) 160-161.
+4
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+produit la scène de reconnaissance suivie de l'apothéose finale: mariage des deux héros qui 
+ont su se garder purs au milieu des plus dangereuses tentations; élévation de Chariclée à la 
+prêtrise de Séléné, de Théagène à celle d'Hélios.”17
+Heliodoro y Marco Antonio
+Si nuestro Heliodoro, autor de las Etiópicas, es, como suponemos, el que acompaña 
+a Horacio a Brindis, es posible que, alrededor de esos años (el Iter Brundisinum se data en 
+38-37 a.C.),18 haya podido tener un contacto personal con Marco Antonio, al pertenecer, 
+como Horacio, a los círculos de poder de Roma.19 Si no lo tuvo, poco importa, dada la gran 
+influencia que aquél seguía teniendo en los asuntos del estado, sin estar presente. Desde 42 
+a.C., efectivamente, el triunviro residía en el Este y había vuelto a Italia solamente en dos 
+ocasiones: para la firma del tratado de Brindis en 40 a.C., después del cual permaneció 
+hasta el acuerdo con Sexto Pompeyo en Miseno en 39 a.C., y para renovar el triunvirato en 
+Tarento, en 37 a.C. En cuanto a Heliodoro, pasados esos primeros versos de la Sat. 1. 5, 
+hasta el v. 23 (salida de Roma a pie, noche en un hospedaje modesto en Aricia, caminata al 
+día siguiente hasta Forum Appi, embarque para efectuar la travesía de noche por el canal de 
+la laguna Pontina hasta Feronia), Horacio parece olvidarlo,20 o lo usó y lo abandonó, pues 
+es precisamente en esa travesía cuando el poeta realiza su propio viaje imaginario por la 
+laguna Estigia (Ran. 180-270), con su compañero ideal, el escoliasta del Codex Venetus 474 
+y uno de los editores más importantes, si no el más importante, de Aristófanes en la 
+Antigüedad.21
+17 Feuillâtre, Études, 11. “Le roman d'Héliodore contient en germe le drame bourgeois, comme aussi la 
+comédie larmoyante”, señala Feuillâtre (id., 12).
+18 Horacio, Odes and Epodes, P. Shorey (ed., introducción y notas), P. Shorey y G. J. Laing (rev.), Chicago, 
+Nueva York y Boston, B. H. Sanborn, 1936, xii-xiii.
+19 Esa posibilidad ha sido sugerida respecto de Virgilio, que se unió a esa misma comitiva en Sinuessa, junto 
+con Plotio Tucca y Vario (v. 40): “[...] un'eventuale conoscenza personale e […] rapporti diretti fra V. e A. 
+[…] non fossero impossibili nel periodo in cui il poeta incominciò a essere più vicino a Mecenate e a 
+Ottaviano. A. fu invece prevalentemente lotano dall'Italia” (R. F. Rossi, “Antonio”, en: Enciclopedia 
+Virgiliana, Roma, Istituto della Enciclopedia Italiana, 1984, I, 206-207).
+20 Horacio lo recuerda, no obstante, en Epist. I, 17, 52-54, como un compañero quejoso: Brundisium comes 
+aut Surrentum ductus amœnum / qui queritur […], tal una cortesana que ha perdido su collar o su ajorca, dice 
+(vv. 55-57).
+21 En efecto, en esos primeros versos hay una evocación directa de Ranas: Horacio no come (vv. 7-8), como 
+Diónisos (Ran. 339), mientras sí lo hacen los comites (Xanthias); el agua deterrima (v. 7) anticipa la de la 
+venenosa Estigia, Στυγὸς ὕδωρ, de Arcadia (Str. VIII, 8, 4; Hdt. VI, 74); la travesía de la laguna Pontina, en la 
+noche, con el croar de las ranas y la barca inmóvil (vv. 20-23), se convierte en una κατάβασις. Ese descenso al 
+Hades es funcional, pues allí tendrá lugar el debate entre Esquilo y Eurípides, en la comedia, y entre Marco 
+5
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+Debe  observarse,  no  obstante  –  y  ello  parece  preanunciar  esa  insospechada 
+asociación literaria y simbólica que creemos descubrir en las  Etiópicas entre estas dos 
+personalidades, su autor, el  rhetor comes Heliodorus, y la figura del triunviro y general 
+romano más poderoso en ese momento (prægraui Antonio, Plinio, NH, VII, 45, 148),22 que 
+en ellas sería retratada –, que es en esa Sátira I, 5, donde Horacio nombra por única vez a 
+Heliodoro (v. 2) y por única vez a Marco Antonio (v. 33). A éste lo hace con su nomen, 
+“Antonius” (la gens Antonia no usaba cognomen), al hablar de Fonteio Capito, “hombre 
+excelente” y, como tal, el mejor amigo de aquél – ad unguem / factus homo, Antoni, non ut 
+magis alter, amicus (vv. 32-33), en un pasaje no exento de admiración, respeto y simpatía 
+por el triunviro.
+Horacio y Marco Antonio
+En el  Carm. III, 6, ya en el apogeo de la propaganda imperial, alude Horacio a 
+Marco Antonio como “Dacus”, pæne […] / deleuit urbem Dacus et Æthiops (Carm. III, 6, 
+13-14): “Dacus”, por el apoyo que contaba aquél de las tribus del norte (Δακοί, Dio Cass. 
+LI, 22, 8); “Æthiops”, por la flota egipcia de Cleopatra, “quienes casi destruyeron Roma”. 
+Nótese que es quizás en este verso de Horacio donde Heliodoro encuentra inspiración y el 
+título para sus Etiópicas, pero dándole un matiz ameno: su protagonista femenina es una 
+“verdadera” etíope, Cariclea, mientras que Cleopatra no lo es y se la llama “Æthiops” con 
+sentido despectivo. Su protagonista masculino, Teágenes, es del norte de Grecia, Tesalia – 
+Marco Antonio era cónsul de Macedonia23 –, como Aquiles, además, y, como éste, “hijo de 
+una diosa”. Completa su descripción Horacio en esa oda:  hic classe formidatus, ille / 
+missilibus melior sagittis, “éste con la temida flota; aquél más hábil en arrojar flechas” 
+(Carm. III, 6, 15-16). A Cariclea es a quien encontramos arrojando flechas, como Ártemis – 
+Ἄρτεμις ἰοχέαιρα (Il. V, 53, 447, etc.) –, que representa en esa escena, como una evocación 
+Antonio y Octaviano, una vez llegados a Brindis. El uso de longus y longe en vv. 3, 89, 94 y 104 puede 
+también remitir a Ἀλλ' ὁ πλοῦς πολύς (Ran. 136), “Pero es un largo trayecto [...]”; cf. longum […] iter (vv. 
+94-95); longæ […] viæ (v. 104). Diónisos, además, se expresa δι' αἰνιγμῶν (Ran. 61), “con enigmas”, como la 
+“littérature à dessein” de Horacio y de Heliodoro. No hay que olvidar que Ranas es una pieza fundamental de 
+crítica literaria, y, al utilizarla, Horacio, como Estrabón (Str. II, 3, 8), desafía a Aristóteles (Poet. 1448a) y su 
+escuela, de la que el geógrafo dice “no merece nuestra atención”, hablando de Posidonio (id. ibid.).
+22 “He looked the likely winner until the Actium compaign itself, and it is arguable that military rather than 
+political considerations sealed his downfall” (C. B. R. Pelling, “Antonius (2) Marcus”, en: OCD, 115).
+23 Marco Antonio emite dos denarios con un trofeo entre la proa de un barco y el escudo de Macedonia en el 
+reverso (Crawford 536/2 y 536/3), c. 37 a.C.: http://davy.potdevin.free.fr/Site/crawford6.html.
+6
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+al mismo tiempo de la diosa en el éxodos del  Hipólito de Eurípides, al iniciarse las 
+Etiópicas (Æth. I, 2, 2-5).24
+Los tres primeros libros de las Odas de Horacio habrían sido publicados como una 
+colección en 23 a.C. En el libro IV recuerda Horacio los citados “Dacus et Æthiops”, pero 
+con los nombres de los ríos respectivos, “Nilus [Æthiops] -que et Hister [Dacus]”:  te 
+fontium qui celat origines / Nilusque et Hister […]  (Carm. IV, 14, 45-46), habiendo 
+abandonado el tono pesimista del Carm. III, 6 y celebrando ahora el triunfo de Augusto, 
+pues “la próspera Fortuna, en tres lustros, ha coronado con éxito todas tus campañas, desde 
+que Alejandría abrió para ti su puerto y sus palacios desiertos” (Carm. IV, 14, 34-38) – 
+uacuam […] aulam (Carm. IV, 14, 36) –, ¿palacios desiertos? No totalmente, sino poblados 
+de las ánimas, que continuarían vagando en ellos, de sus dueños, recién muertos de 
+obligada muerte, al no haber conseguido, después de la fuga de Accio, el perdón de 
+Octaviano (Dio Cass. LI, 8, 1; 12, 6-7).25 Horacio había hablado ya del aula, los recintos 
+infernales de Cerbero, en ianitor aulæ / Cerberus […] (Carm. III, 11, 16-17); resonaría allí, 
+en uacuam […] aulam, ese sentido y, con él, el de la “vasta sala de la muerte”, νεκύων ἐς 
+αὐλάν (Alc. 259), de Eurípides, el aula que pueblan las almas de los muertos que han 
+llegado al fin de su vida – βιότοιο τελευτή (Il. VII, 104) – en Alejandría.
+Transcripción literaria, en prosa
+Pero un prosista griego se acerca para devolverles la vida a los manes, irascibles,26 
+de  estos  reyes  que  deambulan  por los  vastos  salones  del  palacio  de  los  Ptolomeos: 
+Heliodoro, quien había sido parte de la comitiva diplomática a Brindis para salvar los 
+diferendos entre los triunviros. Los hará reyes en una lujosa Méroe como la que Plinio 
+imagina para Cefeo y Casiopea, padres de Andrómeda y soberanos de una legendaria 
+Etiopía que debió extender su dominio hasta el Mediterráneo y Siria – clara et potens etiam 
+usque ad Troiana bella (NH, VI, 35, 182), “ilustre y poderosa aún hasta los tiempos de la 
+24 Salgado, “Heliodoros Polyhistor”, 160. También se entretejen en ese pasaje reminiscencias de Andrómeda, 
+Ión y Troyanas de Eurípides, y de Tesmoforias de Aristófanes (Salgado, “Heliodoros/Putifar”, 67-68).
+25 En sus mensajes a Octaviano, Antonio “[...] hacía una defensa de la egipcia y le contaba todas las 
+aventuras amorosas y pasatiempos que había tenido con ella” (LI, 8, 1). Cleopatra le pedía que “[...] ya que 
+moría por él [Marco Antonio], pudiera al menos morar con él en el Hades” (LI, 12, 6-7), es decir, que le 
+permitiera ser enterrada en el mismo mausoleo.
+26 Salgado O. N., “Mῆνις, ὀργή y θυμός, ira divina y humana”, en: VIIº Coloquio Internacional, (Una) 
+nueva visión de la cultura griega antigua en el comienzo del tercer milenio: perspectivas y desafíos, La Plata, 
+23-26 Junio 2015; actas a aparecer en http://www.fahce.unlp.edu.ar/idihcs/ceh.
+7
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+guerra de Troya”. La ambientación será en el siglo V a.C., durante la satrapía persa en 
+Egipto, con la capital en Menfis – Alejandría no existía aún. La acción se inicia, no 
+obstante, en el Delta, donde se levantará, más tarde, en 331 a.C., la portentosa ciudad, 
+capital  desde  312  a.C.  Por  el  momento,  sus  marismas  están  habitadas  por  pastores 
+bandoleros (λῃσταί,  Æth.  I, 1, 6), pero Heliodoro recuerda que es allí cerca (la isla de 
+Faros) donde transcurre el drama de Eurípides Helena; como éste, las Etiópicas serán una 
+historia de amor con un final feliz.27
+Con el suicidio de Marco Antonio y de Cleopatra, y la toma de Alejandría por 
+Augusto en 30 a.C., sus hijos, los mellizos Alejandro Helios y Cleopatra Selene, nacidos en 
+40 a.C., y Ptolomeo Filadelfo, nacido en 36 a.C. son llevados a Roma y criados, junto con 
+los otros hijos del general, por su ex-esposa, la magnánima Octavia, hermana del futuro 
+emperador. Poco o nada se sabe del destino de los hijos varones,28 pero sí de la niña 
+melliza. En efecto, recibe allí también su educación, dentro de ese círculo de la familia 
+imperial, el hijo de Juba I, rey de Mauretania, que, a la muerte de su padre en Thapsus, 
+había sido llevado en triunfo a la capital por César, en 46 a.C., siendo muy pequeño. En 25 
+a.C., Augusto le entrega al joven Juba II el reinado de las dos Mauretanias y en 20 a.C., 29 a 
+Cleopatra Selene como esposa. El hijo de ambos, Ptolomeo, lo sucede a su muerte (23 d.C.) 
+en el reino.30 Dice Plinio de él:  Iuba Ptolemæi pater, qui primus utrique Mauretaniæ 
+imperitauit, studiorum claritate memorabilior etiam quam regno, […] (NH, V, 1, 16), “El 
+padre de Ptolomeo, Juba, quien fue el primero en gobernar las dos Mauretanias, [y] a quien 
+se conoce más como sabio que como rey […].”31
+Juba II, rey y erudito
+27 También cerca está Iope (Ἰόπη; hoy Jaffa), promontorio donde había sido expuesta Andrómeda por su 
+padre Cefeo en la tragedia homónima de Eurípides, evocada en la escena inicial de las Etiópicas (Str. XVI, 2, 
+28).
+28 Salvo que se les perdonó la vida por respeto a Cleopatra Selene y a Juba, según Dión Casio, LI, 15, 6, al 
+contrario de lo que sucedió a Antilo (hijo mayor de Marco Antonio) y a Cesarión (hijo de Cleopatra y Julio 
+César) (Dio Cass. LI, 15, 5).
+29 V. denario conmemorativo, posiblemente de sus bodas, de Juba II y Cleopatra Selene (c. 20-19 a.C.), con 
+el retrato del rey en el anverso y la inscripción: “REX IVBA REGIS IVBAI F[ILIVS[ R[EGNANS] A[NNO] 
+VI”, y de Cleopatra Selene en el reverso, con la inscripción: “ΚΛΕΟΠΑΤΡΑ ΒΑΣΙ[ΛΙΣΣΑ] 
+ΚΛΕΟΠΑ[ΤΡΑΣ] ΣΥΓΑ[ΤΗΡ]”. Bellísimo retrato de la joven reina; denario aún no publicado (Classical 
+Numismatic Group, TRITON XVIII Lote 800: www.cngcoins.com/Coin.aspx?CoinID=272815).
+30 Asesinado por su primo Calígula (Plinio, NH, V, 1, 11), en 40 d.C.
+31 Horacio menciona a Juba II en Carm. I, 22, 15: nec Iubæ tellus generat […], “ni la tierra de Juba genera 
+[...]”, lo que sirve para datar esta oda (Horacio, Odes and Epodes, 207).
+8
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+Juba fue una de las principales autoridades que utilizó Plinio en su  Naturalis 
+historia, según se lee en las listas que incluyó el naturalista en su libro I (índice y 
+bibliografía) – lo nombra en 13 de sus libros –, pero, aparte de sus abundantes citas (y las 
+de Plutarco, de Ateneo y otros autores antiguos), nada se ha conservado de la inmensa obra 
+de Juba.32 Sin embargo, Suidas menciona un tratado suyo basado en una colometría de 
+Heliodoro33 – sin duda la que formaba parte de los scholia de Aristófanes – y ello, si no lo 
+hace alumno del colometrista, es decir, de Heliodoro, indica la anterioridad de la obra de 
+éste,  contra  la  opinión  común.34 También  se  menciona  a  Ireneo  (Minucius  Pacatus), 
+gramático de la época de Augusto, como alumno del “métrico” (“ὁ μετρικός”) Heliodoro, lo 
+que  sin  duda  no  puede  menos  que  señalar  para  éste  esa  misma  época,35 y  darle, 
+naturalmente, la figura y la personalidad del rhetor de la comitiva de Brindis.36
+Juba escribe en griego: Plinio lo enumera, como a Heliodoro, entre los autores 
+extranjeros, “ex auctoribus […] externis” (NH, I, 5, etc.), Su educación, liberal, había sido 
+en esa lengua, lo que induce a pensar que también lo haya sido la de los otros miembros de 
+la familia imperial, en cuyo ámbito se había criado. El griego era además la lengua materna 
+de los hijos de Marco Antonio y Cleopatra VII. Si Juba fue alumno de Heliodoro, también 
+pudo haber sido éste maestro de los otros jóvenes integrantes de la familia imperial, y ello 
+sugiere que, respecto de los fines que llevaron al rhetor a componer la ficción en prosa que 
+llamó “Αἰθιοπικά”, bien pudo haberlo hecho como homenaje a los hijos del general romano 
+vencedor de Filipos y la reina egipcia, y en memoria de éstos – la obra era entonces una 
+32 Juba escribió sobre historia (de Roma, Arabia – obra que dedicó a Gaio Julio César, hijo adoptivo de 
+Augusto –, Asiria y Libia), historia del arte (un tratado comparativo de antigüedades griegas y romanas), 
+botánica, geografía (África y las islas Canarias) y métrica.
+33 Suidas s. v. Εἰρηναῖος (J. W. White, The Scholia on the Aves of Aristophanes [...], Boston y Londres, 
+Ginn, 1914, xlviii n. 4). Pero más importante aún es lo que nos dice, antes, Mario Victorino: “At Iuba noster, 
+qui inter metricos auctoritatem primæ eruditionis obtinuit, insistens Heliodori uestigiis, qui inter Græcos 
+huiusce artis antistes aut primus aut solus est […]” (Ars Gr. II, 9), “Pero nuestro Juba, quien entre los 
+métricos tuvo autoridad por su gran erudición, siguiendo los pasos de Heliodoro, quien entre los griegos en 
+este arte sobresale como el primero y el único […].” Esa aserción de Mario Victorino – inter Græcos huiusce 
+artis antistes – confirma a Heliodoro como el Græcorum longe doctissimus de Horacio (Sat. I, 5, 3).
+34 Contra los que sostienen que el “Heliodoro métrico”, o sea, el escoliasta de Aristófanes, al que no llegaron 
+tampoco a relacionar con el comentarista de Homero, es de mediados del siglo I d.C. (K. J. Dover, 
+“Heliodorus (2)”, en: The Oxford Classical Dictionary [citado en adelante como OCD], S. Hornblower y A. 
+Spawforth (eds.), 3ª ed., Oxford / Nueva York, University P., 1996, 675), por lo cual, ante la evidencia 
+incuestionable de Suidas, crearon un “nuevo” Juba (!) (cf. J. F. Moreland, “Juba (3)”, en: OCD, 799), 
+siguiendo probablemente a O. Hense, Heliodorische Untersuchungen, Lipsia, Teubner, 1870, 17-18.
+35 Citado por Erotiano, del siglo I d.C., autor de un célebre léxico hipocrático; v. J. S. Rusten, “Eirenæus”, 
+en: OCD, 513, y J. T. Vallance, “Erotian”, en: OCD, 557.
+36 Salgado, “Heliodoros/Putifar”, 70ss.
+9
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+ofrenda y dedicación votiva, como los ἀναθήματα νεκροῖς (Supp. 983) de Teseo a los 
+muertos, en Eurípides. Historia de amor, tenía allí Heliodoro la trágica que le brindaban los 
+hechos  recientes,  con  el  fin  de  la  dinastía  de  los  Ptolomeos  en  Egipto  y el  de  las 
+aspiraciones  del  general  más  poderoso  del  Segundo  Triunvirato.  A la  vez,  con  ella, 
+Heliodoro, maestro al fin, les entregaba una rica narrativa en la que recreaba, sin mencionar 
+a sus autores, lo mejor de la literatura épica y dramática disponible en esa lengua.37
+Fin didáctico de la obra: disciplina moral (σωφροσύνη)
+En la obra se elogia y valora, por sobre todo, el control de sí mismo – la σωφροσύνη 
+–, y se predica la castidad, cumpliendo con aquélla el objetivo propuesto por Estrabón.38 El 
+final es feliz porque es el triunfo de esos valores. Se ha discutido ampliamente la didáctica 
+de  las  Etiópicas; ellas  cobran  sentido  sólo  en  ese  contexto  histórico  y  con  esos 
+destinatarios: los jóvenes integrantes de la familia imperial, porque es una novela de 
+aventuras para adolescentes y sus protagonistas son hijos de reyes o de nobles, como ellos. 
+De hecho, dos de ellos – Cleopatra Selene y Juba – se convertirán pronto, si no en los reyes 
+de  la  mítica  Etiopía  de  los  descendientes  de  Cefeo  y  Casiopea,  en  los  de  las  dos 
+Mauretanias, también en el África; serán los soberanos que recobren si no el reino de ella, 
+Cariclea (Cleopatra Selene), el de él, Teágenes (Juba). El nombre de Cariclea (Χαρικλέα), 
+χάρις, “gracia” y κλέος, “honor”, estaba moldeado sobre el de Cleopatra (Κλεοπάτρα), “de 
+padre  famoso”;  el  padre  adoptivo  de  Cariclea  era  el  sacerdote  de  Delfos,  Cariclés 
+(Χαρικλής). En Etiopía, Teágenes será sacerdote de Helios; Cariclea, de Selene.
+Dioses helenos y dioses bárbaros
+La crítica ha puesto un énfasis excesivo en ese culto a Helios y Selene en las 
+Etiópicas, quizás por el juego de palabras sobre el nombre de ese dios (Helios) con el del 
+autor en la suscripción final de la obra. A lo largo de los episodios en que se desenvuelve la 
+acción, sin embargo, es Apolo el dios que guía a los protagonistas, con su oráculo. Helios 
+37 Salgado, “Heliodoros Polyhistor”, 160-161. Como si hubiera querido “[...] faire du roman une sorte de 
+compendium de tous les genres littéraires” (J. Maillon, en: Heliodoro, Les Éthiopiques (Théagène et 
+Chariclée), R. M. Rattenbury y T. W. Lumb (eds.), J. Maillon (trad.), París, “Les Belles Lettres” [Collection 
+des Universités de France], 1935, I, 6 n. 1).
+38 “[...] educar a la juventud mediante la poesía, no como mero entretemiento, sino como disciplina moral – 
+ἀλλὰ σωφρονισμοῦ” (Str. I, 2, 3).
+10
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+aparece sólo al final, en el libro X, asimilado a Apolo, e igualmente Selene, a Ártemis, una 
+vez que aquéllos han llegado a tierras etíopes, pero ese final es cómico.39 Helios y Selene 
+son los dioses de los bárbaros, no de los helenos: de los persas, en Hdt. I, 131; de los 
+egipcios, en Diod. I, 11, 1-4; en Eurípides, de los fenicios, Phœn. 1-3, y de la Cólquide, 
+Med. 1321-1322, y en Aristófanes, de los bárbaros en general, Pax 406-408. Apolo es el 
+dios de los filósofos (Platón,  Leg. I, 632d;  Resp. IV, 427b) y de los sabios; los jóvenes 
+protagonistas son sabios (como los reyes de las dos Mauretanias) – y, llegado el caso, sabio 
+(“doctissimus”) fue el creador mismo de las  Etiópicas. Simultáneamente, Teágenes y 
+Cariclea no dejan de ser en Méroe tan helenos como lo eran en Delfos (Æth. X, 7, 2), antes 
+de que ella supiera que era heredera del trono etíope. No son menos griegos que su autor, 
+que dijo ser “fenicio” – ἀνὴρ Φοῖνιξ –, como el embustero, Φοῖνιξ […] ἀνὴρ ἀπατήλια 
+εἰδώς, de Od. XIV, 288,40 o como el coro femenino que ha venido de Tiro en ofrenda a 
+Φοῖβος en las Fenicias de Eurípides (Phœn. 205, 221, 282).
+Marco Antonio y sus acuñaciones monetarias
+No obstante, y en relación ahora con el padre de nuestra “Cariclea histórica Junior”, 
+Cleopatra Selene, y el culto de Apolo, debemos mencionar un testimonio numismático 
+valioso que podría explicar la incidencia fundamental de ese culto en la obra: la acuñación 
+por parte de Marco Antonio, probablemente en Grecia y a partir de 42 a.C., de denarios con 
+su retrato en el anverso y un sol radiante (Apolo), con una corona de rayos, en el reverso 
+(Crawford 496/2 y 496/3), precedidos por otro, con un templo con un sol (¿Delfos?) en el 
+reverso (Crawford 496/1), pero de mayor crudeza, lo que hace pensar que podría haber sido 
+acuñado antes en Galia.41 Pero algunas fuentes históricas nos revelan que Bruto, en una 
+fiesta de extraordinario esplendor para celebrar su cumpleaños en Caristo, pide para beber 
+una copa más grande y, sin motivo aparente, culpa a Apolo de su suerte, citando las 
+palabras de Patroclo a Héctor antes de morir: ἀλλά με μοῖρ' ὀλοὴ καὶ Λητοῦς ἔκτανεν υἱός 
+39 Lo que no fue notado por los críticos: que Heliodoro, con intención burlesca, convierte a sus protagonistas 
+en sacerdotes de los dioses bárbaros de Pax 406-408. Helios es asimismo el dios que ayuda a la infanticida 
+Medea a escapar de Corinto en su carro dorado (Eurípides, Med. 1321-1322).
+40 Salgado, “Heliodoros/Putifar”, 73-74. Y así engañó a los que, desde Focio, creyeron que era “fenicio”. Lo 
+de “ἐμισηνός” es un juego de palabras sobre 'ἐμέω', “vomitar”. Replica aquí a Cicerón, Fam. XII, 2, 1, 
+omnibus est uisus […] uomere suo more, non dicere, “a todos parece que tiene por costumbre [Marco 
+Antonio] vomitar [...]”.
+41V. ejemplar en el Art Institute of Chicago: http://www.artic.edu/aic/collections/artwork/9911?
+search_no=3&index=0.
+11
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+(Il. XVI, 849), “Pero son el odioso Destino y el hijo de Leto los que me dan muerte” 
+(Plutarco, Brutus, XXIV, 4). Los herederos de César,42 o, mejor dicho, Marco Antonio solo, 
+pues fue él el verdadero triunfador, proclamó entonces haber ganado la batalla de Filipos en 
+nombre de Apolo. Octaviano “se había retirado del campo de batalla por estar enfermo y 
+estuvo escondido tres días en los pantanos […] como cuentan Agripa y Mecenas” – 
+Philippensi prœlio morbidi fuga et triduo in palude ægroti [...] (ut fatentur Agrippa ac 
+Mæcenas) –, según Plinio (NH, VII, 45, 148), y así vemos a aquél conmemorar su victoria 
+en esos denarios con el sol radiante (Apolo) en el reverso, y su retrato con el título “IMP.”, 
+“Imperator” (“vencedor”), en el anverso.
+Si nuestras suposiciones son correctas, el imaginario de las Etiópicas proviene de la 
+iconografía que adopta Marco Antonio como general vencedor de Filipos en sus emisiones 
+monetarias, con Apolo en 42 a.C. y con Fortuna en 41 a.C., en el reverso.43 Posteriormente 
+se le suma la del fasto desplegado en la corte de Alejandría en su asociación con la última 
+representante de la dinastía ptolomea en Egipto. La transferencia de escenarios coincide 
+también, de Grecia a Alejandría; de Delfos a la desembocadura del Delta, Quemmis, Menfis 
+y finalmente Méroe, en la versión literaria. Marco Antonio se radica definitivamente en 
+Alejandría en 37 a.C., cuando, después de la firma del Tratado de Tarento, deja a Octavia, 
+hermana de Octaviano, y su esposa según lo acordado en Brindis en 40 a.C., para regresar 
+solo a Egipto y reanudar su relación con Cleopatra. Al año siguiente nace su hijo menor, 
+Ptolomeo Filadelfo. En 29 a.C., los tres huérfanos de la pareja real llegan en triunfo a Roma 
+con los despojos de Alejandría y una efigie de su madre recostada en su lecho de muerte 
+(Dio Cass. LI, 21, 7-8), después de la toma de Egipto (30 a.C.).
+Los partidarios de Marco Antonio y la dedicación de las Etiópicas
+El discurso de Quinto Fufio Caleno contra Cicerón en el Senado (43 a.C.) (Dio 
+Cass. XLVI, 1, 1-28, 6)44 pone de manifiesto la temprana disconformidad de muchos con el 
+autoritarismo de Octaviano y su simpatía por Marco Antonio, cónsul de Macedonia a cargo 
+42 F. Castagnoli, “Apollo”, en: OCD, 193.
+43 Marco Antonio emite, en 41 a.C., un áureo (Crawford 516/1) y un denario (Crawford 516/2) con la figura 
+de Fortuna con un timón en la mano derecha y una cornucopia en la izquierda, una cigüeña (símbolo de buena 
+suerte) al pie y la inscripción “PIETAS COS.” (su hermano Lucio Antonio “Pietas”, cónsul ese año) en el 
+reverso: http://davy.potdevin.free.fr/Site/crawford6.html.
+44 Caleno y otros defensores de la causa de Marco Antonio habían impedido que Octaviano ocupara Galia;  
+al morir Caleno, Octaviano reduce sus tropas a su propio mando (40 a.C.) (Dio Cass. XLVIII, 20, 3).
+12
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+de las tropas romanas en el Este. Las Etiópicas pueden ser entendidas quizás como el mejor 
+homenaje a la figura de este triunviro y general romano, y un recuerdo de sus desventuras, 
+transformadas en aventuras épicas (y las que en adelante van a conformar el género “greco-
+bizantino”) por la pluma de ese refinado rhetor que fue Heliodoro, y escritas tal vez para 
+sus huérfanos, como dice Horacio, “para formar su corazón con preceptos amables” – 
+pectus præceptis format amicis (Epist. II, 1, 128) –, “narrando acciones bellas y ejemplos 
+ilustres”  –  recte  facta  refert  […]  notis  /  instruit  exemplis (Epist.  II,  1,  130-131)  –, 
+“consolándolos de la pobreza y la pena” – inopem solatur et ægrum  (Epist. II, 1, 131). 
+Quizás también podamos darle por fin un rostro a Teágenes, el de Marco Antonio en los 
+denarios conmemorativos de Filipos, y al de  Cariclea, el de Cleopatra de un tetradracma de 
+plata en que aparece con el general romano (Damasco, c. 36 a.C).45 Pero, ¿a qué facta y a 
+qué  exempla  se  está  refiriendo  Horacio  en  esa  epístola?  La  ficción  ejemplar  de las 
+Etiópicas responde admirablemente a esos facta y esos exempla.
+Marco Antonio, augur
+Un doble coro femenino, como el que invoca la ayuda de los dioses (Epist. II, 1, 
+134ss.),46 está presente en los juegos píticos de Delfos, donde canta un himno a Tetis, Peleo, 
+Aquiles y Neoptólemo (Æth. III, 2, 4), y en las ceremonias en Méroe, salvo que (y aquí 
+muestra su humor Heliodoro) en ellas los jóvenes castos y las muchachas vírgenes son 
+sacrificados al Sol y la Luna, respectivamente, y los que no lo son, a Diónisos: “¡Ah! – 
+susurra Teágenes al oído de Cariclea – ¡Así se premia la virtud en Etiopía!” (Æth. X, 9, 1), 
+pero los  sacrificios  humanos  son finalmente eliminados  (Æth. X, 39, 3). Recibe allí 
+Teágenes las insignias de su sacerdocio y Cariclea las suyas (Æth. X, 41, 2). Por primera 
+vez tiene precedencia el héroe sobre la heroína: como Marco Antonio, recibe Teágenes su 
+lituus de augur,47 las insignias con que aparecía aquél con figura entera en algunos denarios 
+acuñados en Grecia, en 38 a. C. (Crawford 533/2).48 Los títulos que exhibe Marco Antonio 
+en  su  amonedación  son  efectivamente  “III  VIR”,  “Triunviro”;  “COS.”,  “Cónsul”,  y 
+45 Retrato de Marco Antonio en el anverso: “ΑΝΤΩΝΙΟΣ Α
+ΥΤΟΚΡΑΤΩΡ ΤΡΙΤΟΝ. ΤΡΙΩΝ ΑΝΔΡΩΝ” 
+(“Antonio victorioso (“Imperator”) por tercera vez, Triunviro”), y de Cleopatra en el reverso: “ΒΑΣΙΛΙΣΣΑ 
+ΚΛΕΟΠΑΤΡΑ ΘΕΑ ΝΕΩΤΕΡΑ” (“Reina Cleopatra Thea, Junior”); v. Buttrey T. V., “Thea Neotera on coins 
+of Antony and Cleopatra”, American Numismatic Society Museum Notes 6, 1954, 95-109; magnífico ejemplar 
+en el Art Institute de Chicago: http://www.artic.edu/aic/collections/artwork/194522.
+46 Éste es el coro de iniciados de Ranas 354ss.; cf. nota a Carm. III, 1, 2 (Horacio, Odes and Epodes, 312).
+47 De hecho, casi todos los personajes nobles o de cierta nobleza de las Etiópicas cumplen oficios religiosos.
+13
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+“AVG.”, “Augur”. Todos los sacerdotes que pueblan las Etiópicas parecen llevar su lituus 
+en ese mundo imaginario. “Clemencia”, otro de los símbolos que aparecen en los denarios 
+de Marco Antonio, y que ha tomado de Julio César, es la que solicita por carta Oroondatés 
+del rey de Etiopía, Hidaspes (Æth. X, 34, 1-4).
+Diónisos vs. Helios
+En la citada referencia a los sacrificios a Diónisos puede haber una alusión a la vida 
+disipada de Marco Antonio, según el relato de Dión Casio. En Grecia, en 39 a.C., nos dice 
+este historiador, “[…] vivía en esa época en muchos aspectos contra las costumbres de su 
+país, llamándose por ejemplo a sí mismo «el joven Diónisos» (Διόνυσον ἑαυτὸν νέον αὐτός 
+τε ἐκάλει) e insistiendo en que los demás lo llamaran así, hasta que los atenienses, en vista 
+de esto y de su conducta general [...]” (Dio Cass. XLVIII, 39, 2). De Brindis cuenta que, 
+después del tratado, “en sus campamentos se ofrecían entre ellos banquetes, Octaviano, con 
+el uniforme militar romano y Marco Antonio, vestido a la moda asiática y egipcia” (Dio 
+Cass. XLVIII, 30, 1). En cuanto a sus posteriores presentaciones (31 a.C.) como Osiris 
+junto a Cleopatra en la figura de Isis, y poses para pinturas y esculturas, de que da cuenta 
+(Dio Cass. L, 5, 3), no vacila el mismo historiador en identificar a este Osiris con 
+Diónisos.49
+Sin embargo, para Diodoro de Sicilia, Osiris es Helios: “Cuando los egipcios 
+contemplaron el firmamento y se maravillaron de la naturaleza del universo, pensaron que 
+dos dioses eran eternos y los primeros, el Sol y la Luna, a los que llamaron respectivamente 
+«Osiris» e «Isis», nombres que respondían a un cierto significado en ellos – explica –. 
+Traducido al griego, «Osiris» significa «muchos ojos», adecuadamente, pues al enviar sus 
+rayos en todas direcciones vigila con muchos ojos toda la tierra y el mar” (Diod. I, 11, 1-2). 
+“Así las palabras del Poeta [Homero] lo confirman, cuando dice: «El sol, que todo ve y 
+todo oye» – ἡέλιός θ' [Ἡελίου], ὃς πάντ' ἐφορᾷ καὶ παντ' ἐπακούει (Od. XI, 109; XII, 323) 
+–.  Pero  algunos  escritores  antiguos  de  mitología  griega  dan  a  Osiris  el  nombre  de 
+48 Figura de Marco Antonio como augur en el anverso y cabeza de Apolo con corona radiante en el reverso: 
+http://davy.potdevin.free.fr/Site/crawford6.html (British Museum).
+49 Dión Casio sigue quizás una literatura difamatoria de Marco Antonio, a partir de las Filípicas de Cicerón, 
+y la propaganda imperial. Dice: Ἀντώνιος μὲν δὴ καὶ Κλεοπάτρα, πολλῶν μὲν τοῖς Αἰγυπτίοις πολλῶν δὲ καὶ 
+τοῖς Ῥωμαίοις κακῶν αἴτιοι γενόμενοι […] (LI, 15, 1), “Antonio y Cleopatra, quienes causaron tanto daño a 
+los egipcios y a los romanos [...]”; pero cf. Pelling: “His administrative arrangements [de M. Antonio] in the 
+east were clear-sighted, and most were continued by Augustus” (Pelling, “Antonius (2) Marcus”, 115-116).
+14
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+«Diónisos» [...]”, agrega (Diod. I, 11, 2-3). Heliodoro, quien en la composición de su obra 
+sigue muy de cerca a Diodoro de Sicilia, sin duda lo hace también aquí, en todo de acuerdo, 
+además, con Homero. Asimismo, esa significación es evidente en los nombres que han dado 
+Marco Antonio y Cleopatra a sus hijos mellizos, como se lee en: μετὰ τοῦ Ἀλεξάνδρου τοῦ 
+καὶ Ἡλίου, τῆς τε Κλεοπάτρας τῆς καὶ Σελήνης, τῶν τέκνων […] – “con Alejandro Helios y 
+Cleopatra Selene, los hijos […]” (Dio Cass. LI, 21, 8). Esto es significativo: al poner el 
+nombre a sus hijos, en griego, la traducción a esta lengua de “Osiris” fue “Helios”, no 
+“Diónisos”. Entonces, al vestirse de Osiris, Marco Antonio lo hace también de Helios, no 
+de Diónisos. Heliodoro nos ofrece, a través de sus personajes y el argumento de su obra, la 
+interpretación correcta. Su representación de Marco Antonio en la figura de Teágenes es 
+también su rescate y su revaloración histórica.
+Τύχη y un final feliz
+Las Etiópicas es una obra imbuida de religiosidad; si sus protagonistas siguen los 
+preceptos apolíneos, su virtud será coronada y sus aventuras tendrán un final feliz, con la 
+guía del dios de Delfos; ésa es la ejemplaridad. Sisimitrés ha percibido “[...] la luz que 
+ilumina a estos extranjeros y que significa que una divinidad los protege” (Æth. X, 9, 7), y 
+de la multitud que asiste al acto final del reconocimiento de Cariclea, dice el autor: “[...] 
+quizás  habían  sido  ellos  iluminados  por  una  inspiración  de  la  divinidad  que  había 
+maquinado toda esa escena [...]; la risa se mezcló a las lágrimas; el drama más sombrío 
+terminó en fiesta [...]” (Æth. X, 38, 4). La divinidad a que se refiere aquí es la Providencia 
+o Fortuna (Τύχη),50 pero, ¿qué mejor transposición de la realidad histórica a la ficción 
+literaria que ésta?51
+Ofelia Noemí Salgado
+Cambridge
+salgadofelia@hotmail.com
+50 V. tetradracma con la diosa Tyche (Fortuna), c. 80-79 a.C., Art Institute of Chicago: 
+http://www.artic.edu/aic/collections/artwork/9717?search_no=13&index=37.
+51 Ya lo había hecho Heliodoro en el ámbito literario con el relato de Cnemón (Æth. I, 9, 1-18, 1), en que 
+recreaba la historia de Hipólito de Eurípides dándole un final feliz. Teágenes también aparece como herido de 
+muerte, como Hipólito en el éxodos de esa tragedia, frente a Ártemis (Cariclea), en la escena inicial (Æth. I, 2, 
+1-9) – νεκρὸν σῶμα φιλοίη (Æth. I, 2, 7), “[que] ella besa a un muerto”, piensan los bandidos –, pero 
+milagrosamente se salva (Salgado, “Heliodoros Polyhistor”, 160).
+15
+Auster, nº 20, e024, 2015. ISSN 2346-8890
+Resumen
+A pesar de la propaganda negativa en Roma, Heliodoro, autor de las Etiópicas, comentarista de Homero y 
+escoliasta de Aristófanes, pudo haberse inspirado para su obra narrativa en los célebres amores de Marco 
+Antonio y Cleopatra, por la ambientación en Egipto y por haber adoptado la pareja a los dioses Osiris e Isis 
+como símbolo de su realeza. El nombre de la heroína de las Etiópicas es “Cariclea”, una evocación posible 
+del de Cleopatra, y el de su padre – contenido en el de ésta – es “Cariclés”. Heliodoro, a quien podemos 
+identificar además con el rhetor comes de Horacio, Sat. I, 5, 2-3, pertenecía a los círculos de poder de Roma, 
+y pudo haber dedicado esa composición a los hijos de aquéllos, Alejandro Helios, Cleopatra Selene y 
+Ptolomeo Filadelfo, quienes, a la muerte de sus padres, pasaron a formar parte de la familia imperial al 
+cuidado de Octavia, hermana del futuro emperador. La figura de Marco Antonio fue, hasta el revés de Accio, 
+donde, de hecho, le entregó el poder a Octaviano, sobradamente importante como para que ese  rhetor le 
+rindiera homenaje con su innovativa prosa, en la que recreaba lo mejor de la épica y el drama griegos.
+Palabras clave Heliodoro; Aithiopika; Marco Antonio; Cleopatra; Alejandro Helios; Cleopatra Selene
+Abstract
+In spite of the negative Imperial propaganda, Heliodorus, author of the Aithiopika, commentator of Homer 
+and scholiast of Aristophanes, might have been inspired by the famous romantic love of Marc Antony and 
+Cleopatra for his narrative. The action is set in Egypt and the couple had adopted Osiris and Isis as symbols 
+of their royal status. The name of the female protagonist, “Chariclea”, is perhaps an evocation of that of 
+Cleopatra, as it is her father's, “Charicles”. Heliodorus, who can be identified with the  rhetor comes  of 
+Horace, Sat. I, 5, 2-3, belonged to the circles of power at Rome. He could have dedicated his narrative to 
+Marc Antony and Cleopatra's children, Alexander Helios, Cleopatra Selene and Ptolemy Philadelphos, who, 
+at the death of their parents, had become part of the Imperial family under the care of Octavia, the future 
+emperor's sister. Until his downfall at Actium, where he literally gave the power to Octavianus, Marc Antony 
+was important enough at Rome for this rhetor and writer to pay homage to him with his innovative prose, 
+where he has recreated the best of Greek epic and drama.
+Keywords: Heliodorus; Aithiopika; Marc Antony; Cleopatra; Alexandros Helios; Cleopatra Selene
+RECIBIDO: 2-4-2016 – ACEPTADO: 8-6-2016
+16

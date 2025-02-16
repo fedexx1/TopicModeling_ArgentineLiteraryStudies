@@ -1,0 +1,564 @@
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+LA ESTRUCTURA DEL HIMNO AMBROSIANO Y SU RELACIÓN 
+CON LAS FUNCIONES TONALES DE LA ESCALA MUSICAL 
+Liliana Pégolo; Miguel Abecian 
+Universidad de Buenos Aires 
+pegolabe@gmail.com 
+ 
+ 
+1. Algunas consideraciones histórico-compositivas del himno cristiano 
+ 
+No resulta fácil abordar, por las razones que se mencionarán más abajo, el 
+proceso compositivo que culminó con la “realización” del himno cristiano, en particular 
+aquel que Ambrosio, como obispo de Milán, instituyó a fines del siglo IV d. C. con el 
+propósito de hacer frente al avance de diversas heterodoxias, en momentos en que se 
+debatía la definición de la ortodoxia nicena.  
+ 
+El análisis de este género, definido por sus características literario-musicales, 
+obliga llevar a cabo una visualización de múltiples aspectos, ya que es necesario tener 
+en cuenta elementos extra-literarios que nos permitirán reconstruir su “prehistoria”. Es 
+sabido que su existencia en la vida litúrgica de las comunidades cristianas primitivas 
+es reconocible desde épocas muy tempranas cuando la organización cultual tuvo 
+como fuente el modelo judaico-palestino, caracterizado por la elección de un día 
+particular para la realización del oficio, el contenido laudatorio de los carmina que 
+exaltaban la figura divina de Cristo, la alternancia dialéctica de los cantos y el ritmo de 
+la oración.1 
+ 
+El carmen dicere, al que hacía referencia Plinio el Joven y Tertuliano en 
+Apologeticum 2.6,2  estaba vinculado con diversas formas de la salmodia davídica que 
+los cristianos modificaron tempranamente, como puede advertirse en el Apocalipsis 
+joánico en el cual se habla de un canticum novum dedicado a exaltar al “Cordero de 
+Dios” (Agnus Dei).3 Asimismo la multiplicación de tipos genéricos está atestiguada en 
+el epistolario de Pablo, quien afirmaba en Ephesios 5.19 y Colossenses 3.16 que los 
+cristianos entonaban “salmos, himnos y cánticos espirituales” (in psalmis, et hymnis et 
+                                                 
+1 Plinio el Joven, en la Epist. 10.96.7 dirigida a Trajano dio precisiones sobre este tipo de celebraciones 
+dominicales, siendo gobernador de Bitinia en el año 111 ó 112: Quod essent soliti stato die ante lucem 
+convenire carmenque Christo quasi deo dicere secum invicem (“y que se habían acostumbrado una vez 
+levantado el día a reunirse  antes de la luz y consagrar un canto a Cristo como a un dios en forma 
+alternada”). 
+2 El texto de Tertuliano, del año 197, señalaba que los cristianos oficiaban “reuniones antes del alba para 
+cantar a Cristo como a un dios”: coetus antelucanos ad canendum Christo ut deo.  
+3 Cf. Apoc. 5.9; asimismo Quasten, J., Patrología I. Hasta el Concilio de Nicea, Madrid, BAC, 2001, p. 
+161, afirma que en este texto se pueden reconocer breves himnos en 1.4-7 y 1.8-11. 
+La estructura del himno ambrosiano y su relaci´
+on con las funciones tonales de la escala musical
+P´
+EGOLO Liliana, ABECIAN Miguel
+Auster, 2009 (14). ISSN 1514-0121.
+http://www.auster.fahce.unlp.edu.ar
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on.
+Centro de Estudios Latinos
+Esta obra est´
+a bajo licencia Creative Commons Atribuci´
+on-NoComercial-SinDerivadas 2.5 Argentina
+1
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+relación recíproca de regocijo y reconocimiento, procurando producir un “bien” (ktema) 
+y al mismo tiempo dar cumplimiento a la epifanía divina.11 
+ 
+En lo que respecta a la tradición literaria helénica, esta no siempre entendió el 
+himno como un canto religioso laudatorio: por ejemplo en Hesíodo, Theogonia, 98-103  
+es utilizado a modo de consolación; más tarde fue concebido como una plegaria, 
+según Platón, en Nomon  700 B, o bien un poema interpretado por un coro carente 
+de acompañamiento coreográfico, tal como aparece en Píndaro.12 En cuanto a los 
+romanos, fueron concientes de la existencia de himnos o discursos equivalentes en los 
+que se cantaba en honor a un dios: así ocurre con el Carmen Saeculare de Horacio, 
+modelo del lirismo himnódico latino, y en el episodio histórico evocado por Tito Livio, 
+en el cual se encomendó a Livio Andronico la composición de un carmen dedicado a la 
+diosa Juno.13 
+ 
+Con este sentido laudatorio y musical también aparece en los textos bíblicos 
+sin que se precise técnicamente el término, al igual que entre los Padres de la Iglesia 
+griega, quienes, con matices, estimaron el himno como perteneciente a un ámbito 
+sobrenatural, o como una “bendición” (euphemia) por los beneficios recibidos de la 
+divinidad, superando al salmo y a otros tipos de cánticos.14 En la Patrística latina 
+predomina la misma significación laudatoria y de agradecimiento, como puede 
+apreciarse en los tratados de Hilario de Poitiers sobre la salmodia, o en Ambrosio, 
+quien define el himno como una exhalación del corazón destinada a cantar la gloria del 
+Señor.15  
+                                                 
+11 Depew, id. 
+12 Chiarini, G., “Riflessioni in margine a una nuova antologia dell’epica”, en: Rocca, S. (cura), Latina 
+Didaxis XIV. Genova, Compagna dei librai, 1999, p. 46, afirma que los himnos sacros más antiguos (s. 
+VIII a. C. o aún antes) eran “composiciones cantadas por un coro danzante con acompañamiento musical” 
+(composizioni cantate da un coro danzante con accompagnamento musicale). 
+13 Tito Livio, 27.37.6-13. 
+14 Según Clemente de Alejandría, la alabanza a Dios debía hacerse a través de himnos (Paidagogos, L. 
+II); para Orígenes, su discípulo, la celebración del nombre de la divinidad se celebraba con cantos 
+entonados por aquellos que comparten la vida angelical (Selecta in Psalmos, PG XII.2). De manera 
+semejante opinaba Juan Crisóstomo, en Homilía IX, PG 62, III.362.2. Por su parte Gregorio de Nisa, en 
+Tractatus prior in Psalmorum Inscripciones, PG 44, II.3, clasifica los cantos religiosos diferenciando el 
+salmo (psalmos: realización musical acompañada de un instrumento), de la plegaria (proseuche), la 
+alabanza (ainesis) y el himno (hymnos).  
+15 Ambrosio, Enarrat. in psalm. 118.17-19: qui cantat Dei gloriam, hymnum Domino cor eius eructat. 
+Pero fue Agustín, en Enarrat. in psalm. 148.17, quien definió el himno a partir de tres componentes 
+básicos: el canto, la alabanza y su elevación a la divinidad: hymnus scitis quid est? Cantus est cum 
+laude Dei. Si laudas Deum, et non cantas, non dicis hymnum: si cantas, et non laudas Deum, 
+non dicis hymnum: si laudas aliud quod non pertinet ad laudem Dei, etsi cantando laudas, non 
+dicis hymnum. Hymnus ergo tris ista habet, et cantum, et laudem, et Dei. Laus ergo Dei in 
+cantico hymnus dicitur (“¿Sabed qué cosa es un himno? Es un canto con alabanza de Dios. Si alabas a 
+Dios, y no cantas, no dices un himno: si cantas, y no alabas a Dios, no cantas un himno: si alabas otra 
+cosa que no sea pertinente a una alabanza a Dios, aunque alabas cantando, no dices un himno. El himno 
+por lo tanto tiene estas tres cosas, el canto, la alabanza y esta es a Dios. Entonces la alabanza a Dios en un 
+cántico se dice himno.”). 
+Auster, 2009 (14). ISSN 1514-0121.
+2
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+2. Innovaciones ambrosianas en la tradición himnódica 
+: 
+relaciones 
+contextuales 
+A través de la labor litúrgica del obispo de Milán se instituye un tipo estrófico a 
+partir del cual se creyó asistir a la aparición de la poesía rítmica,16 abandonando la 
+alternancia de sílabas largas y breves, característica de la versificación grecolatina. 
+Este aspecto de la composición himnódica será medular en el estudio del género, 
+hasta el punto de considerar la existencia de una línea divisoria que separa la poesía 
+retórico-académica de la que elaboraron los cristianos, inspirados en composiciones 
+de dudoso origen semítico.17  
+No obstante el carácter rítmico que parte de la crítica creyó percibir en la 
+estrofa ambrosiana, constituida por cuatro dímetros yámbicos acatalécticos, esta 
+seguía estando regida por la alternancia regular de la métrica cuantitativa.18 Es 
+probable, entonces, que las novedades más importantes, impuestas por el obispo 
+milanés, no radicaron en lo métrico, sino en los propósitos pragmáticos que lo 
+animaron a utilizar el himno en la celebración litúrgica y en la fusión de estilos poéticos 
+que respondían a registros retóricos diferentes, como el heredado de la tradición 
+académica y el que se visualiza en himnos más antiguos.19 En estos últimos las 
+homofonías anafóricas, la aliteración, las estructuras simétricas y los finales iguales 
+(homoioteleuta) los tornaban semejantes a la lírica religiosa grecolatina y a la prosa 
+retórica. 
+                                                 
+16 El hablar de poesía rítmica se refiere al hecho de utilización de rimas y no al uso del término musical 
+“ritmo”, que es más aplicable al uso de la alternancia de breves y largas. 
+17 Para Raby, op. cit., p. 22, el origen de la rima es oscuro; recuerda a autores como W. Meyer (1922), 
+quien se mostraba sumamente ansioso de probar la procedencia arábiga de la rima que también, 
+ocasionalmente, era utilizada en la poesía religiosa hebrea y siria. 
+18 Ibid., p. 36, Raby reproduce la opinión del citado Meyer sobre el carácter rítmico del verso ambrosiano, 
+aunque es estrictamente cuantitativo: After the second line in each strophe there is usually a ‘sense 
+pause’, and, indeed, in the manuscripts the strophes are written as though composed of two longes lines. 
+There is, of course, a more emphatic pause at the end of each strophe, but, most important of all, after 
+each two strophes there is a sense pause which can only be explained by alternate choirs. (“Después de la 
+segunda línea en cada estrofa hay usualmente una ‘pausa sentida’, y, en efecto, en los manuscritos las 
+estrofas estaban escritas como compuestas por dos largas líneas. Hay, por lo tanto, una pausa más enfática 
+al final de cada estrofa, pero, lo más importante de todo, después de dos estrofas hay una pausa sentida 
+que sólo puede explicarse por el hecho de que los himnos eran compuestos para ser cantados por coros 
+alternados.”) / Cabe recordar que el dímetro yámbico acataléctico fue popularizado, en épocas del 
+emperador Adriano, por Sereno, uno de los llamados poetae novelli. Cf. Cameron, A., “Poetae novelli”, 
+HSCPh, Vol. 84, 1980, pp. 127 ss. 
+19 Para Ch. Mohrmann, op. cit., p. 153, el surgimiento del himno cristiano fue producto de una alliance de 
+forces très anciennes, latentes dans l’esprit romain, avec des éléments spécifiquement chrétiens qui,pour 
+una large part, étaient originaires de l’Orient. (“una alianza de fuerzas muy antiguas, latentes en el 
+espíritu romano, con elementos específicamente cristianos, que, para muchos, eran originarios de 
+Oriente.”).  
+Auster, 2009 (14). ISSN 1514-0121.
+3
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+Por medio de este modelo estrófico y métrico,20 Ambrosio instruyó a los fieles 
+en el credo niceno y consiguió regular las oraciones diarias de los fieles y de aquellos 
+cristianos que, avanzado el siglo IV, se consagraron a la vida monacal.21 La 
+experiencia ambrosiana, de la que dio cuenta Agustín en Confessiones IX.7.15, 
+funcionó como un auxilio afectivo para quienes atravesaban las perturbaciones propias 
+de la conversión y como un procedimiento de efectividad política en medio de la pugna 
+del conflicto arriano: 
+ 
+Non longe coeperat mediolanensis ecclesia genus hoc consolationis et 
+exhortationis celebrare, magno studio fratrum concinentium vocibus et cordibus. 
+Nimurum annus erat, […], cum Iustina, Valentiniani regis pueri mater hominem 
+tuum Ambrosium persequeretur haeresis suae causa, qua fuerat seducta ab 
+arianis. Excubabat pia plebs in ecclesia, mori parata cum episcopo, servo tuo. 
+[…] Tunc hymni et psalmi ut canerentur, secundum morem orientalium partium, 
+ne populus maeroris taedio contabesceret institutum est.22   
+ 
+Este pasaje de Agustín es parte del relato en el que se exponen las 
+circunstancias históricas en las que se instituyó la costumbre de entonar himnos a 
+modo de protección religiosa y como mecanismo de difusión doctrinal, ya que 
+Ambrosio ocupó la sede episcopal milanesa, en las Pascuas del 386, ante las 
+tentativas de la emperatriz Justina de adjudicársela a los arrianos por expreso pedido 
+del obispo de Durostorum. Al canto y la oración de los fieles se sumaron otras 
+celebraciones, como consecuencia del descubrimiento “milagroso” de los cuerpos 
+martirizados de Gervasio y Protasio.23 Este episodio, lejos de aplacar los ánimos de 
+                                                 
+20 Hacemos uso del calificativo “métrico” para aludir al ritmo musical; así J. Bas, en Tratado de la forma 
+musical. Buenos Aires, Ricordi, 1947, p. 5, explica de la siguiente manera una noción sobre el ritmo: “La 
+sucesión de sonidos despierta la sensación de movimiento. Para producirla, es suficiente una sucesión de 
+sonidos de valor igual; mas, para que pueda comprenderse el movimiento, es necesaria, en forma 
+intermitente, la preponderancia de uno de ellos. Mientras los sonidos se suceden sin orden determinado, 
+se les percibe pero sin ello satisfacer nuestro sentido; que, por otra parte, una vez determinado dicho 
+orden, siéntese a su vez satisfecho y reconocemos la existencia del ritmo, que se traduce en movimiento 
+ordenado. 
+21 Según Fontaine, J., Naissance de la poésie dans l’Occident Chrétien. Paris, Études Augustiniennes, 
+1981, p. 132, Ambrosio, en una misma ceremonia, hizo practicar entre sus fieles la salmodia, siendo él un 
+exegeta del texto sálmico, y el canto himnódico propiamente dicho. 
+22 Agustín, Confes. IX.7.15: “No hacía tiempo que la iglesia de Milán había comenzado a celebrar este 
+género de consolación y exhortación, con gran entusiasmo de los hermanos que lo cantaban con sus voces 
+y sus corazones. Ciertamente hacía un año, […], cuando Justina, la madre del pequeño rey Valentiniano, 
+persiguió a tu varón Ambrosio por causa de su herejía, con la que había sido inducida por los arrianos. 
+Permanecía en vigilia la piadosa plebe en la iglesia, preparada a morir con su obispo, tu siervo. […] 
+Entonces se instituyó que se cantaran himnos y salmos según la costumbre de la parte oriental, para que el 
+pueblo no se consumiera por el tedio de la tristeza.”  
+23 Agustín, en Confes. IX.7.16, así se refería al descubrimiento de las reliquias de los mártires: Tunc 
+memorato antistiti tuo per visum aperuisti, quo loco laterent martyrum corpora Protasi et Gervasi, quae 
+per tot annos incorrupta in thesauro secreti tui recondenas, unde opportune promeres ad coercendam 
+rabiem femineam, sed regiam. (“Entonces a través de una visión descubriste a tu famoso obispo en qué 
+lugar se ocultaban los cuerpos de los mártires Protasio y Gervasio, que por tantos años habías escondido 
+Auster, 2009 (14). ISSN 1514-0121.
+4
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+nicenos y arrianos, contribuyó a empeorar las relaciones entre el episcopado milanés y 
+la casa imperial.  
+Ambrosio, por su parte, a partir de esta estrategia avanzó en su lucha contra la 
+herejía, puesto que la costumbre de cantar himnos aptos para cualquier tipo de 
+receptor y adecuados ideológicamente a la doctrina nicena, se convertiría en 
+patrimonio de la iglesia de Milán y después se extendería a otras sedes occidentales. 
+Además de la incorporación del tipo estrófico señalado más arriba, Ambrosio alternó el 
+rezo antifonal con el canto de un himno, cuyos temas abarcaban otros contenidos no 
+derivados, en particular, de los textos sagrados, tales como las festividades diarias, la 
+conmemoración de apóstoles y mártires, las horas del día o las verdades de la fe.  
+Estas innovaciones se tornaron tan populares, que el mismo obispo milanés se 
+asombraba de la facilidad con que se imitaba la forma compositiva fija, simple y 
+breve24 creada por él a partir de la repetición arbitraria del número ocho, ya que son 
+ocho las sílabas del dímetro yámbico y son ocho los grupos estróficos que componen 
+los himnos, sumándose en total treinta y dos versos, los que divididos por el número 
+de dímetros de cada estrofa resulta ocho:25 
+ 
+Hymnorum quoque meorum carminibus deceptum populum ferunt. […] 
+Grande carmen illud, et quo nihil potentius. […] Certatim omnes student fidem 
+fateri. Patrem et Filium et Spiritum sanctum norunt versibus praedicare. Facti 
+sunt igitur omnes magistri, qui vix poterant esse discipuli.26   
+ 
+La arbitrariedad de agrupar las composiciones himnódicas de esta manera 
+resultaba cómoda para los receptores y para los compositores, coincidiendo a su vez 
+con las ideas musicales de los pitagóricos acerca de las órbitas celestiales; entre ellas 
+                                                                                                                                               
+incorruptos en el tesoro de tu misterio, de donde oportunamente los sacaste para reprimir una rabia 
+femenina, pero real.”). 
+24 Fontaine, op. cit. (17), p. 135, señala que en esta forma se estaría fusionando el carácter isosilábico de 
+la tradición semítica y el sistema silábico de la versificación romana. En páginas posteriores, el crítico 
+francés recuerda que el uso del dímetro tiene cierta tradición en la poesía tardoantigua, cuyo ritmo 
+ascendente y jubiloso se iguala a otras experimentaciones religiosas, como la del psalmus responsorius 
+africano, las prosas litánicas de Apuleyo o los cantos trinitarios de Mario Victorino. 
+25 Cabe recordar que la estructura cósmica órfico-pitagórica, como la describe Cicerón en Somnium 
+Scipionis 4, 17 está compuesta por nueve círculos o esferas celestes, una de las cuales, el cielo, rodea a 
+todas las restantes (Novem tibi orbibus vel potius globis conexa sunt omnia, quorum unus est caelestis, 
+extumus, qui reliquos omnes complectitur –‘Para ti todas las cosas fueron conectadas en nueve órbitas o 
+mejor esferas cóncavas, una de las cuales es el cielo, la más elevada, que abraza a todas las restantes’-).  
+Es decir que estamos ante ocho esferas cóncavas que giran alrededor de la Tierra; en consecuencia la 
+persistencia del número ocho está signada por una representación a mayor escala, a la que Ambrosio 
+recurrió para simbolizar la relación entre el canto de los hombres y la ratio universal instituida por la 
+divinidad.  
+26 Ambrosio, Sermo contra Auxentium de basilicis tradendis (“Oración contra Auxencio sobre le traspaso 
+de la basílica”), PL XVI, 34: “Dicen que el pueblo también se sorprendió por el canto de mis himnos. […] 
+Grande aquel poema, y nada más poderoso que él. […] Con empeño todos se aplican en confesar su fe. 
+Saben que el Padre y el Hijo y el Espíritu Santo predican en versos. En consecuencia todos se volvieron 
+maestros, quienes apenas podían ser discípulos.” 
+Auster, 2009 (14). ISSN 1514-0121.
+5
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+se establecen relaciones sonoras armónicas27 que, con el tiempo, llegaron a conformar 
+la escala musical que se utiliza en la música occidental: siete notas más la repetición 
+de la primera para cerrar la escala, es decir, ocho emisiones de sonido. En la longitud 
+de la escala, al producir estos ocho sonidos, se necesita de un reposo intermedio y de 
+esa manera se la divide para su enseñanza en dos tetracordios: uno inferior y otro 
+superior, ambos de igual estructura en la escala mayor natural.28  
+ 
+3. Relaciones estructurales y musicales en la textura del himno ambrosiano 
+Al estructurar los himnos en ocho estrofas de cuatro versos, Ambrosio 
+conformó una idea similar a las funciones tonales de la mencionada escala musical: 
+tónica, supertónica, mediante, subdominante, dominante, superdominante, sensible y 
+nuevamente tónica.29 Cada dos estrofas u ocho versos se representa la secuencia 
+compositiva de los dos tetracordios: el inferior constituido por la sucesión de un 
+enunciado, la ampliación del anterior, un “puente” semántico que exige una conclusión 
+y el verso que cierra la estrofa. Al repetirse esta estructura se sucede el tetracordio 
+superior, que conserva una secuencia similar pero con funciones diferentes: un quinto 
+verso que intensifica lo anterior con un nuevo enunciado, las transiciones 
+representadas por el sexto y el séptimo dímetro, semejantes al segundo y al tercero, y 
+por último el octavo verso que concluye la estrofa con exaltada vehemencia, afectando 
+también a la estrofa anterior.  
+De igual manera se puede reconocer una “macroestructura” como idea 
+compositiva congruente con la analizada en el párrafo anterior, en la cual una a una de 
+las estrofas del himno ocupa el lugar funcional de cada uno de los versos, 
+conformándose así otra serie de ocho que contiene la suma total de los treinta y dos 
+dímetros ambrosianos. Brevemente se ejemplificará esta secuencia en el análisis de 
+Aeterne rerum conditor o Hymnus I:30 
+                                                 
+27 Pitágoras fue uno de los primeros que experimentó la existencia de rationes numéricas entre sonidos 
+consonantes en los intervalos de cuarta, quinta y octava. Cf. Comotti, G., Music Greek anr Rome Culture. 
+Baltimore-London, The J. Hopkins University Press, 1989, p. 76.  
+28 La escala mayor natural quedó entre nosotros como el modo griego más utilizado, el denominado 
+jónico, que mantiene la relación de intervalos conocida de “do a do”. 
+29 Cf. Rimsky-Korsakov, N., Tratado práctico de armonía. Buenos Aires, Ricordi, 1982, p. 24, n. 1. 
+30 La prolífica imitación de esta composición himnódica contribuyó a la variación del número de poemas 
+atribuidos a Ambrosio, de tal manera que sólo se consideraron de autoría propia cuatro frente a un 
+conjunto variado según las interpretaciones de los filólogos que intervinieron en la cuestión (Migne, PL 
+XVI, Ambrosius 3, 1469-1471, habla de la autoría de doce himnos; por otra parte Mara, M. G., 
+“Ambrosio de Milán, Ambrosiáster y Nicetas”, en Patrología Latina III. La edad de oro de la literatura 
+patrística latina. Madrid, BAC, 1986, p. 207, afirma que el número de los poemas ambrosianas oscila 
+entre ocho (Simonetti) y dieciocho (Walpole). Los cuatro himnos que están certificados por las 
+referencias augustinianas son cuatro: Aeterne rerum conditor (“Eterno fundador de las cosas”), Deus 
+creator omnium (“Dios creador de todas las cosas”), Iam surgit hora tertia (“Ya surge la hora tercera”) e 
+Intende qui regis Israel (“Dirige tú que guías a Israel”). 
+Auster, 2009 (14). ISSN 1514-0121.
+6
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+1) Función tónica: En la primera estrofa se caracteriza a la divinidad considerándolo 
+el “fundador” del cosmos (v. 1: Aeterne rerum conditor), el “rector” del tiempo (vv. 2-3: 
+[…] qui regis / […] das tempora) y “auxilio” del hastío mortal (v. 4: ut alleves fastidium).  
+2) Función supertónica: Sobre el esquema anterior la voz lírica saluda la llegada del 
+“anunciador del día” (v. 5: Praeco diei), al que nombra como “vigilante de la profunda 
+noche” (v. 6: noctis profundae pergivil), “luz nocturna” para los hombres que transitan 
+su existencia mortal (v. 7: nocturna lux), quien sabe distinguir “separando” entre la 
+noche temporal de la eterna (v. 8: segregans).31 
+3) Función mediante: La tercera estrofa “soporta” el peso significativo de la anterior 
+con la inestabilidad semántica de la mención de un “excitado Lucifer” (v. 9: excitatus 
+Lucifer), desplegando el tema moral de quienes abandonan los caminos del pecado, 
+representados por el “conjunto de todos los errores” (v. 11: omnis errorum chorus) y 
+“los caminos del daño” (v. 12: vias nocendi) frente al surgimiento de la luz, resultante 
+de la presencia divina. 
+4)  Función subdominante: Con la cuarta estrofa se cierra la primera parte del himno, 
+insistiendo en el auxilio que recibe el hombre mortal de la divinidad, “el navegante une 
+sus fuerzas y se calman los estrechos del mar”  (vv. 13-14: […] nauta vires colligit / 
+pontique mitescunt freta), al tiempo que, inserto en una comunidad de fieles, “cantando 
+diluirá su culpa” (v. 16: canente culpam diluit). Con esta afirmación de principios 
+metapoéticos, Ambrosio declara cuál es el sentido mistérico del himno como 
+instrumento de comunicación supraterrenal y ejercicio expiatorio.32 
+5) Función dominante: Comienza la segunda secuencia con un cambio sustancial en 
+los actos de habla: a través del uso de la primera persona del subjuntivo presente, 
+“levantémonos” (v. 17: surgamus), la voz lírica llama a los oyentes (v. 18: iacentes, v. 
+19: somnolentos, v. 20: negantes) a despertarse del letargo de sus almas. Con la 
+aparición de la figura del gallo se está haciendo referencia a la llegada de la luz, 
+retomando de esta manera el tópico inicial del poema. 
+6) Función superdominante: Por medio del “gallo que canta” (v. 21: Gallo canente), 
+que simboliza la presencia de Cristo preanunciada en la función anterior, “retorna la 
+esperanza” de su venida (v. 21: spes redit), “devuelve la salud a los enfermos” (v. 22: 
+aegris salus refunditur), “se oculta la espada del ladrón” (v. 23: mucro latronis conditur) 
+y “hace retornar la fe a quienes han caído en el error” (v. 24: lapsis fides revertitur). En 
+                                                 
+31 En esta estrofa puede percibirse el uso musical de la variatio anafórica a partir de la acumulación de 
+palabras que repiten la raíz nok-: v. 6, noctis; v. 7, nocturna, v. 8, nocte noctem, con lo cual Ambrosio 
+insiste en la dicotomía “luz-sombras”. 
+32 Esta afirmación de principios metapoéticos alude al hecho de que este “Himno I” es programático, es 
+decir que se trata de “un himno al himno”, por lo cual esta declaración de principios, que está inserta en el 
+texto, puede aplicársela al género himnódico en general. 
+Auster, 2009 (14). ISSN 1514-0121.
+7
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+esta estrofa también se amplían los efectos benéficos sobre los que se hizo mención 
+anteriormente e insiste sobre cuestiones morales y doctrinarias. 
+7) Función sensible: En la séptima estrofa se introduce explícitamente la figura 
+misma de Jesús (v. 25: Iesu), anticipando la mirada rectora que se observará en la 
+conclusión (labantes respice)33; es decir, funciona como una transición moral que 
+reclama el llanto como vía de corrección (vv. 26-28: et nos videndo, corrige; / si 
+respicis, lapsus cadunt, /fletuque culpa solvitur),34 dando cuenta de una inestabilidad 
+más profunda que la expresada en la tercera función, porque habla de la necesidad 
+extrema de los mortales de alejarse de las culpas frente al debilitamiento de la fe.  
+8) Función tónica: Cristo se homologa metafóricamente con la luz que penetra en el 
+aparato perceptivo humano (v. 29: Tu lux refulge sensibus),35 es la luz del día pero ya 
+no en un sentido literal, sino transformada alegóricamente en la representación de la 
+divinidad, al igual que el sueño que se iguala al pecado (v. 30: mentisque somnus 
+discute).36 Con la voz elevada a la divinidad (v. 31: te nostra vox primum sonet),37 se 
+retorna a la exhortación con que se abre la quinta estrofa, ahora intensificada por la 
+liberación y reunión con Dios mismo (v. 32: et ora solvamus tibi).38 
+Esta misma metodología se puede aplicar en el análisis de la “microestructura”, 
+la cual corresponde al conjunto de los ocho versos, repitiéndose en cuatro secuencias 
+menores de dos estrofas cada una. A partir de lo afirmado por Chiarini,39 con respecto 
+a los tres movimientos que se reconocen en la representación coreográfica del himno 
+primitivo (“evolución” o strophe en un sentido contrario al de las agujas del reloj, 
+“contra-evolución” o antistrophe en sentido horario y un “canto adjunto” o epodo 
+realizado ante el altar), se puede elucidar que los tres movimientos mencionados se 
+transformaron en los “pasajes” de la primera estrofa a la segunda, de la segunda a la 
+tercera y de esta a la cuarta, constituyéndose así el tetracordio. Cabe señalar que la 
+sensación de reposo, reconocible en la última estrofa de cada parte, se homologaría al 
+epodo, que simboliza el momento de quietud de la “danza de los astros”. 
+ 
+Para concluir, afirmaremos que no podemos plantear con vehemencia cuáles 
+fueron las influencias que motivaron a Ambrosio a seguir estas estructuras, ni las que 
+el obispo de Milán proyectó hacia la posteridad; no obstante muchas de las danzas y 
+                                                 
+33 V. 25: “vuelve a mirar a los que se deslizan al error”. 
+34 VV. 26-28: “y al mirarnos corrige; / si vuelves a mirar, caen los caídos, / y con el llanto se disuelve la 
+culpa.” 
+35 V. 29: “Tú, luz, refulge en los sentidos”. 
+36 V. 30: “y disipa los sueños de la mente”. 
+37 V. 31: “a ti en primer lugar suene nuestra voz”. 
+38 V. 32: “y disolvamos los rostros para ti”. 
+39 Cf. Chiarini, op. cit., pp. 46-47. 
+Auster, 2009 (14). ISSN 1514-0121.
+8
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+cantos populares, religiosos y profanos, fueron recopilados en grupos de ocho 
+compases o bien en múltiplos de cuatro, además de conservarse en las funciones 
+tonales que Juan S. Bach desarrolló en el carácter retórico de sus obras y que 
+metódicamente se sistematizaron en el Romanticismo a través de los primeros 
+tratados de armonía. De lo que no podemos dudar es del esquema utilizado por 
+Ambrosio que está inserto en la evolución de la cultura occidental, constituyendo un 
+punto de inflexión en el diálogo de diversas tradiciones que nos llevan tanto hacia el 
+pasado como hacia el futuro. 
+ 
+Apéndice: Hymnus I, Aeterne rerum conditor40 
+Aeterne rerum conditor 
+noctem diemque qui regis 
+et temporum das tempora, 
+ut alleves fastidium; 
+ 
+        Praeco diei iam sonat,      5 
+noctis profundae pervigil, 
+nocturna lux viantibus, 
+a nocte noctem segregans. 
+ 
+Hoc excitatus Lucifer 
+Solvit polum caligine,     10 
+Hoc omnis errorum chorus 
+Vias nocendi deserit. 
+ 
+Hoc nauta vires colligit 
+Pontique mitescunt freta. 
+Hoc ipse, petra ecclesiae.     15 
+Canente culpam diluit. 
+ 
+Surgamus ergo strenue, 
+Gallus iacentes excitat 
+Et somnolentos increpat, 
+Gallus negantes arguit.     20 
+ 
+Gallo canente spes redit, 
+Aegris salus refunditur, 
+Mucro latronis conditur, 
+Lapsis fides revertitur. 
+ 
+Iesu, labantes respice     25 
+Et nos videndo corrige; 
+Si respicis, lapsus cadunt, 
+Fletuque culpa solvitur. 
+ 
+Tu lux refulge sensibus 
+Mentisque somnum discute,     30 
+Te nostra vox primum sonet 
+                                                 
+40 La versión utilizada es la que transcribe Raby,  
+Auster, 2009 (14). ISSN 1514-0121.
+9
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+Et ora solvamus tibi. 
+ 
+Bibliografía 
+-Ambrosius, Enarrationes in XII Psalmos davidicos. Patrologia Latina, T. XIV, 963-
+1238. 
+---------------Himni. Ambrosius 3. Patrologia Latina, T. XVI, 1469-1471. 
+---------------Sermo contra Auxentium de basilicis tradendis. Patrologia Latina, T. XVI, 
+1049-1053. 
+-Aurelius Agustinus, Enarrationes in Psalmos. Patrologia Latina, T. XXXVI-XXXVII. 
+------------------------- Obras de San Agustín. II Las confesiones. Texto bilingüe, edición 
+crítica y anotada por Ángel Custodio Vega. Madrid, Biblioteca de Autores Cristianos, 
+MCMLXXIX. 
+-Bas, J., Tratado de la forma musical. Buenos Aires, Ricordi, 1947. 
+-Biblia Vulgata. A. Colunga-L. Turrado, Madrid, Biblioteca de Autores Cristianos, 1946 
+(12º impr, 2005). 
+-Cameron, Al., “Poetae novelli”, Harvard Studies of Classical Philology, Vol. 84, 1980, 
+pp. 127-175. 
+-Cicerone, Somnium Scipionis. Introduzione e commento di Alessandro Ronconi. 
+Florencia, Le Monnier,1967.  
+-Comotti, G., Music in Greek and Roman Culture. Baltimore-London, The Johns 
+Hopkins University Press, 1991. 
+-Chiarini, G., “Riflessioni in margine a una nuova antologia dell’epica”, en: Rocca, S. 
+(cura), Latina Didaxis XIV. Genova, Compagna dei librai, 1999, pp. 41-57. 
+-Depew, Mary & Dirk Obbink (edit.), Matrices of Genre. Authors, Canons, and Society. 
+Cambridge, Massachusetts-London, England, Hardvard University Press, 2000. 
+-Fontaine, J., “L’apport de la tradition poétique romaine a la formation de l´himnode 
+latine chretienne”. Revue des Études Latines, T. LII (1974), París, 1975, pp. 318-355. 
+----------------- Naissence de la poésie dans l’Occident Chrétien. París, 1981. 
+-Gregorio 
+de 
+Nisa, 
+ 
+(“Tractatus prior in Psalmorum Inscripciones”). Patrologia Graeca, T. XLIV. 
+-Gualandri, I., “L’hereditá tardo-antica”. Lo spazio letterario del Medioevo. Vol. II, T. 1. 
+“Il Medioevo Latino”, Roma, Salerno Editrice, 1992, pp. 15-44. 
+-Mara, M. G., “Ambrosio de Milán, Ambrosiáster y Nicetas”, en Patrología Latina III. La 
+edad de oro de la literatura patrística latina. Madrid, Biblioteca de Autores Cristianos, 
+1986, pp. 166-227. 
+Auster, 2009 (14). ISSN 1514-0121.
+10
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+-Mohrmann, C., “La langue et le style de la poésie latine chrétienne”. Revue des 
+Études Latines 25, 1947, pp. 280-297. Reeditado en Études sur le latin des Chrétiens. 
+T. I: “Le latin des Chrétiens”. Roma, Edizioni di Storia e Letteratura, 1961, pp. 151-244.  
+-Pégolo, L.-Cardigni, J., La música de las esferas. Textos de Cicerón, Macrobio, 
+Favonio. Buenos Aires, Secretaría de Cultura de la Nación, 2006. 
+-C. Plinius Caecilius Secundus, Epistulae. C. Plini Caecili Secundi Epistolarum Libri 
+decem. Ed. R. A. B, Mynors, Oxford, 1966. 
+-Quasten, J., Patrología I. Hasta el concilio de Nicea. Madrid, Biblioteca de Autores 
+Cristianos, 2001. 
+-Raby, F. J. E., A History of Christian Latin Poetry from the Beginnings to the Close of 
+the Middle Ages. Oxford, Oxford University Press, 1953. 
+-Rimsky-Korsakov, N., Tratado práctico de armonía. Buenos Aires, Ricordi, 1982. 
+-Tertullien, Apologétique. Texte établi et traduit par P. Waltzing y A. Severyns. Paris, 
+“Les Belles Lettres”,1929. 
+ 
+Resumen 
+ 
+La utilización del himno religioso en Occidente, como una forma de control 
+ideológico frente al avance de las heterodoxias, fue instaurada definitivamente por 
+Ambrosio, obispo de Milán, al conciliar el material himnódico precedente con las 
+necesidades catequísticas que la época le impuso. El episcopus milanés logró 
+concebir un modelo poético, estrófico y rítmico de fácil recepción que funcionaba como 
+instrumento de conversión e instrucción doctrinal y un regulador de las oraciones 
+litúrgicas. 
+ 
+El himno ambrosiano no fue, sin embargo, el primero que se ajustó a los 
+principios del credo niceno en la lucha contra diversas formas de herejía, en particular 
+el arrianismo, pero sí fue el primero que innovó desde lo musical y lo rítmico. Su 
+popularidad, basada en su modo “cantable”, se cimentó a partir de la novedad de su 
+estructura compositiva, en la que se pueden advertir frecuentes correspondencias 
+métricas y acentuales que posibilitaba una más rápida memorización. 
+ 
+A través de esta comunicación se procurará exponer las innovaciones 
+estructurales de la himnodia ambrosiana en materia rítmica, las cuales giran en torno a 
+la repetición arbitraria del número ocho; asimismo el número ocho contiene funciones 
+temático-emotivas comparables con las funciones tonales de la escala musical y, en 
+especial, el modo jónico que es el que llegó hasta hoy como escala mayor natural. 
+ 
+Palabras clave: himno-Ambrosio-liturgia-nicenismo-tonalidad 
+ 
+Auster, 2009 (14). ISSN 1514-0121.
+11
+Auster –  Nro 14, p. 117-128.  Año 2009.  ISSN 1514-0121 
+Versión preprint 
+Abstract 
+ 
+The use of the religious hymn in the West, as a form of ideological control 
+against the advance of the heterodoxies, was finally established by Ambrosius, bishop 
+of Milan, combining the material of the previous hymn with the needs of catechism that 
+the age imposed upon him. The Milanese episcopus succeeded in devising a poetic, 
+strophic and rhythmical model of easy reception that operated as both an instrument of 
+conversion and doctrinal training and the regulator of liturgical prayers. 
+ 
+The Ambrosian hymn was not, however, the first that adjusted to the 
+fundamentals of the Nicean belief in the struggle against different forms of heresy, 
+especially the Arrianism; but it was the first  innovative design in musical and 
+rhythmical aspects. Its popularity, based in its cantabilis modus, was strengthened by 
+the novelty of its composition, in which frequent correspondences between metre and 
+stress, which made a more rapid memorization possible, may be noticed. 
+ 
+This paper will show the structural innovations of the Ambrosian hymnody as 
+regards rhythm, which revolve around the arbitrary repetition of number eight; also the 
+number eight contains thematic-emotive functions, comparable with the tonal functions 
+of the musical scale and, specially, the Ionian mode that has come to this day as major 
+natural scale. 
+ 
+Keywords: hymn-Ambrosius-liturgy-Nicenism-tonality 
+ 
+RECIBIDO: 15-05-2009 – ACEPTADO: 04-07-2009 
+Auster, 2009 (14). ISSN 1514-0121.
+12

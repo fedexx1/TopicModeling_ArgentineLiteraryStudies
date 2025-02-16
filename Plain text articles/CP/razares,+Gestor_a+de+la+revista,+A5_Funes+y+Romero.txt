@@ -1,0 +1,949 @@
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 71 
+CUADERNOS de literatura
+Revista de Estudios Lingüísticos y Literarios
+Cómo citar: Funes, M. S. y Romero, M. C. (2022). Resistencias al lenguaje inclusivo: entre la variación y la normativa. Cuadernos 
+de Literatura. Revista de Estudios Lingüísticos y Literarios, 19, 71-94. Resistencia, Argentina, UNNE. ISSN 2684-0499. 
+DOI: http://dx.doi.org/10.30972/clt.0196210
+RESISTENCIAS AL LENGUAJE INCLUSIVO: ENTRE LA VARIACIÓN Y 
+LA NORMATIVA
+Resistance to inclusive language: between variation and norm
+María Soledad Funes*
+Universidad de Buenos Aires
+solefunes@gmail.com
+Recibido: 30/03/2022 - Aceptado: 13/06/2022
+Resumen
+A partir de la selección de un corpus de la web que parte principalmente 
+de comentarios y posturas sobre el uso del lenguaje inclusivo en grupos 
+públicos de redes sociales, se seleccionan los argumentos utilizados por 
+quienes están en contra del uso de dichas formas y de quienes están a 
+favor, a fin de ser analizados de acuerdo con dos ejes de análisis respecto 
+de la noción de signo lingüístico y de la correspondencia género y sexo 
+en los morfemas del español. Los resultados del análisis intentan reflejar 
+la importancia de un análisis gramatical con un enfoque discursivo para 
+entender el uso del lenguaje inclusivo. El trabajo se enmarca en el modelo 
+gramatical del Enfoque Cognitivo Prototípico (Lakoff, 1987; Langacker, 
+1987, 1991, 2000; Hopper, 1988; Geeraerts y Cuyckens, 2007), que sostiene 
+que la Gramática de una lengua es un sistema de tendencias que refleja la 
+concepción del mundo de una sociedad.
+Abstract
+Based on a particular corpus extracted from the internet, which mainly 
+consists of comments and opinions on the use of inclusive language in 
+public social media groups, a selection of arguments in favour and against 
+inclusive language has been made. Therefore, two lines of analysis have been 
+stablished; one of them referred to the notion of linguistic sign and the other 
+to the correspondence between gender and sex in Spanish morphemes. 
+This research suggests that a discursive grammatical analysis is essential to 
+understand the use of inclusive language. The study is framed within the 
+grammatical model of the Prototypical Cognitive Approach (Lakoff, 1987; 
+Langacker, 1987, 1991, 2000; Hopper, 1988; Geeraerts & Cuyckens, 2007), 
+which states that the grammar of a language is a system of tendencies that 
+reflects the worldview of a society.
+Palabras clave
+Enfoque Cognitivo 
+Prototípico; 
+morfema; 
+lenguaje inclusivo; 
+resistencia
+Keywords
+Cognitive Prototypical 
+Approach; 
+morpheme; 
+inclusive language; 
+resistance
+María Cecilia Romero**    
+Universidad de Buenos Aires
+mcromero@filo.uba.ar
+romeromace@gmail.com
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+72 
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+Introducción
+En el último tiempo, los diversos movimientos feministas, así como los pertenecientes al 
+pensamiento sexo-disidente, desafiaron el sistema social y cultural para construir nuevas formas 
+de pensar las representaciones sobre el género en la sociedad actual. Estas nuevas concepciones 
+presuponen que el género se construye como un medio discursivo y cultural. En este sentido, estos 
+movimientos retomaron la lucha de varias décadas, y se basaron en los postulados fundamentales de 
+Butler (2001[1990]), entre otras autoras. 
+En este marco, la lengua cobra un lugar de gran importancia, ya que es el sistema mediante el que 
+se expresan estas nuevas representaciones. Retomando estos postulados y estas luchas, en el presente 
+artículo se analizará el fenómeno de variación que se produce en la manifestación del género en las 
+construcciones nominales, en especial, las flexionadas en número plural. Allí se alterna entre el plural 
+masculino genérico no marcado y lo que aquí denominamos género inclusivo. La gramaticalización del 
+plural resulta crucial en la representación de la diversidad sexual y, por tanto, se analizará la alternancia 
+entre el uso (innovador) del género inclusivo y el uso normativo del género no marcado. Dicha 
+alternancia refleja la lucha ideológica que existe detrás del uso de la lengua, entre quienes utilizan 
+marcas de género inclusivo y aquellos que se resisten al cambio de manera activa, manifestándose 
+explícitamente en contra del uso de estas estrategias lingüísticas. 
+Se entiende por género inclusivo el significado que establecen las formas @, x, e a partir de lo 
+que también se conoce como el uso del lenguaje inclusivo. El concepto de género inclusivo difiere de 
+la noción de género no marcado señalado, por ejemplo, por la Nueva Gramática de la Lengua Española 
+(NGLE, 2009). En dicha Gramática, se sostiene que el género no marcado es el masculino, mientras 
+que el marcado es el femenino. La expresión no marcado es utilizada para aludir al miembro de una 
+oposición binaria que puede abarcarla en su conjunto y que por lo tanto hace innecesario mencionar 
+el término marcado (2009, §2.2a). Así, la NGLE denomina “uso genérico del masculino” al hecho 
+de usar en plural los sustantivos masculinos de persona para designar todos los individuos de la clase 
+o el grupo que se mencione, sean varones o mujeres (2009, §2.2b). En el presente trabajo, se usa la 
+expresión género inclusivo para designar no sólo a los individuos de sexo masculino y femenino, sino 
+también al resto del espectro genérico (comunidad LGTBIQ+).1 En este sentido, no es equivalente al 
+concepto de género no marcado, ya que se sostiene que no es suficiente el uso del masculino genérico 
+para dar cuenta de todas las identidades de género reconocidas por al menos un sector de la sociedad.
+1. Entendemos la sigla que describe a la comunidad LGTBIQ+ en sentido amplio, incluyendo toda manifestación del 
+género existente en la sociedad: Lesbianas, Gais, Transexuales, Bisexuales, Intersexuales y Queer, y el signo + que permite la 
+apertura hacia nuevas formas. Esta concepción del género trasciende la oposición binaria masculino/femenino y conforma 
+un amplio espectro que abarca a la comunidad trans, entre otras, manifestado en las formas bajo análisis.
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 73 
+El fenómeno del género inclusivo se encuentra en la actualidad en un momento de construcción 
+(ya que no se ha estabilizado una única forma de expresarlo morfológicamente). Es por esto que este 
+momento de transición habilita a que los hablantes reflexionen y cuestionen su uso de una forma más 
+consciente y activa.
+Considerando esta coyuntura, el uso de las formas @, x, e ha despertado en la comunidad de 
+hablantes intensas discusiones que reflejan múltiples aristas, tales como la concepción de normativa, la 
+idea de que existen usos correctos e incorrectos de la lengua, entre otras conceptualizaciones.
+Quienes arremeten en contra del uso del género inclusivo postulan diferentes argumentos 
+que hacen referencia a la historia de la lengua y al análisis desde el punto de vista normativo. En 
+tanto, quienes se postulan a favor del uso de esta nueva estrategia fundan sus argumentos en análisis 
+discursivos que incluyen cuestiones culturales y sociales y, de ese modo, muestran una concepción de 
+gramática separada de la normativa.
+Del debate sobre el uso del género inclusivo surgen las preguntas que funcionan como 
+disparadores del presente artículo:
+1. ¿Pueden convivir estos usos (como variantes en alternancia) en una misma comunidad 
+de hablantes?
+2. ¿Pueden conciliarse en una misma comunidad los usos normativos y los que no son 
+considerados como tales?
+Con el objetivo de responder estos cuestionamientos y echar luz sobre el conflicto 
+lingüístico que presenta el género inclusivo, a partir de la selección de un corpus de la web que parte 
+principalmente de comentarios y posturas sobre el uso del lenguaje inclusivo en grupos públicos,2
+1 
+se analizarán: 
+1. Los argumentos utilizados por quienes están en contra del uso de dichas formas.
+2. Los argumentos utilizados por quienes están a favor.
+Estos argumentos, esgrimidos por los usuarios de la lengua, construyen los siguientes ejes de 
+análisis: a) la concepción de signo lingüístico y b) el problema de la correspondencia género y sexo 
+en los morfemas. 
+La hipótesis de base que sostiene el análisis postula que el uso de las formas @, x, e se perfilan 
+como morfemas (en construcción) de la lengua española bajo el significado de lenguaje no binario y su 
+uso paulatino se construye bajo la forma de género inclusivo (Romero y Funes, 2019; Romero y Funes, 
+2021; Romero et al., 2021 y Troncoso et al., 2022).
+2. Se trata de grupos públicos disponibles en las redes sociales que debaten sobre temas de ortografía y léxico. 
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+74 
+El estudio se enmarca en el modelo gramatical del Enfoque Cognitivo Prototípico (ECP) 
+(Lakoff, 1987; Langacker, 1987, 1991, 2000; Hopper, 1988; Geeraerts y Cuyckens, 2007), que sostiene 
+que la Gramática de una lengua es un sistema de tendencias que refleja la concepción del mundo de 
+una sociedad. La Gramática en este enfoque está motivada y sujeta al cambio, porque usar la lengua 
+es cambiarla en cada uso. Las formas lingüísticas más útiles para la mayor parte de la comunidad 
+hablante serán las que perduren y la gramática emergerá del discurso como un conjunto de rutinas 
+recurrentes más o menos gramaticalizadas constantemente renegociadas en el habla (Hopper, 1988). 
+A continuación, se describirá brevemente el modelo teórico del ECP, se expondrá el estado de 
+la cuestión sobre la categoría morfológica de género, tanto desde las gramáticas hispánicas oracionales 
+como desde la concepción novedosa del ECP, y luego se explicará por qué consideramos al género 
+inclusivo un fenómeno de variación lingüística. Seguidamente, se presentarán la metodología y el 
+corpus y se analizarán los datos. Finalmente, se esbozarán las conclusiones.
+1. Breve descripción del marco teórico
+El Enfoque Cognitivo Prototípico (ECP) sostiene como presupuestos fundamentales la 
+motivación de la sintaxis y la no variación libre entre formas distintas. El valor de uso de las formas 
+se explica a partir de sus contextos de aparición, medidos en forma cualitativa y cuantitativa. En este 
+sentido, el ECP sostiene que la Gramática no constituye un nivel formal de representación autónomo, 
+sino que se encuentra motivada por la semántica y la pragmática. En consonancia con esta afirmación, 
+el lenguaje no se puede separar tajantemente de otras facultades de la cognición humana, por lo 
+que la intención comunicativa y el punto de vista del hablante resultan fundamentales dentro de la 
+metodología de este enfoque. De esto se desprende que la Pragmática forma parte de la Gramática, 
+no constituye una rama separada. En este sentido, la gramática se caracteriza como una Gramática 
+Emergente del discurso (Hopper, 1988). Esto es, las estructuras o regularidades lingüísticas provienen 
+(emergen) de la fijación de rutinas exitosas en el discurso y toman forma a partir de él, en un proceso 
+permanente de construcción de la Gramática. 
+La Gramática de una lengua consiste, por lo tanto, en una colección abierta de formas que están 
+siendo constantemente reestructuradas y resemantizadas en el uso; es el resultado de las elecciones 
+de los hablantes, la gramaticalización de las tendencias lingüísticas más exitosas de un grupo social 
+determinado en un contexto determinado. De este modo, la Gramática es un sistema en constante 
+cambio, por lo que, en esta concepción, pierde sentido pensar en una dicotomía entre sincronía y 
+diacronía. Más bien lo que ocurre es un proceso de gramaticalización: formas que se gramaticalizan 
+según su éxito comunicativo y el consenso social.
+Dentro de este enfoque, se presupone que, si el hablante elige una forma entre otras para lograr 
+su objetivo comunicativo, se espera que toda forma tenga siempre un significado. En este sentido, 
+la división de los niveles de análisis de la gramática (Fonética y Fonología; Morfología; Sintaxis; 
+Semántica; Pragmática) se realiza por fines metodológicos de investigación, y no porque se entienda 
+que son niveles totalmente separados. Los niveles del análisis no son módulos independientes, sino que
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 75 
+están interrelacionados. Ya en la morfología advertimos la necesaria relación con la semántica, la 
+pragmática e incluso con la sintaxis. Aunque la morfología se defina, en principio, como el estudio 
+de la estructura interna de las palabras, no puede ser concebida como un módulo encapsulado de la 
+gramática, como veremos respecto del concepto bajo análisis: la categoría de género.
+Para el ECP, el morfema es un signo, y es motivado. El morfema se define como la unidad 
+mínima y autónoma de significado. Mínima, porque el significado no se puede partir en significados 
+menores o en otros significados. Autónoma, porque el morfema puede combinarse por sí solo con 
+otros morfemas. El objetivo es analizar los signos en los sistemas gramaticales sobre la base de cómo 
+son usados, y de este modo, encontrar la causa o la motivación que conduce al hablante a producir una 
+determinada forma en un contexto determinado.3
+1
+Para entender a qué se denomina signo motivado, podemos valernos de algunos ejemplos de 
+neologismos en los que se marca el género de manera no arbitraria. Por ejemplo, las palabras presidenta4
+2 
+o intendenta presentan morfemas flexivos que señalan el significado de género femenino y que el 
+hablante entiende que es importante distinguir por cuestiones comunicativas específicas. Las palabras 
+asociadas a una profesión son un ejemplo prototípico a la hora de pensar en los cambios de la sociedad 
+que repercuten en la forma de construir la lengua. Dichos cambios son impulsados comúnmente por 
+movimientos que intentan posicionarse dentro de los principales actores sociales. Según Butler, “para 
+la teoría feminista, el desarrollo de un lenguaje que represente de manera adecuada y completa a las 
+mujeres ha sido necesario para promover su visibilidad política” (2001[1990], p. 44). De hecho, los 
+movimientos feministas, por ejemplo, han impulsado con fuerza el uso de la marca flexiva de género 
+femenino en los nombres de las profesiones entre muchos de los cambios que proponen en el lenguaje. 
+Asimismo, la motivación del signo en los ejemplos de presidenta o intendenta asume aún más 
+fuerza si tenemos en cuenta que los sustantivos terminados en -nte no suelen poseer marca morfológica 
+de género (como en estudiante). Sin embargo, los casos como presidenta nos hacen pensar que en la 
+actualidad existen sustantivos con el sufijo -nte que sí presentan esta marca. Y si pensamos en ejemplos 
+como sirvienta o clienta, la flexión en femenino se documenta desde hace bastante tiempo ya.
+3. Como puede advertirse, la definición cognitivista de morfema como unidad mínima de significado se contrapone con 
+otras definiciones que responden a gramáticas formales que analizan la oración descontextualizada, como por ejemplo la 
+definición de Pena: “Unidad mínima del análisis morfológico y gramatical o de la primera articulación” (1999, p. 4318). 
+Unidad mínima gramatical y no semántica, ya que para Pena “no siempre es posible atribuir un significado determinado a 
+las unidades mínimas obtenidas en el análisis formal de la palabra” (1999, p. 4318) y ofrece el ejemplo de los interfijos, como 
+en polvareda. En sus palabras: “al contrastar alameda con polvareda, el análisis permite aislar un segmento -ar, al que no cabe 
+asignar un significado, ni una distinción de significados en la palabra de la que forma parte como constituyente mórfico” 
+(1999, p. 4319). Sin embargo, como se verá más adelante, desde el ECP no existen formas (morfemas) sin significado, 
+por lo que definiciones como la de Pena resultan inaceptables. En el caso de polvareda, se analiza /polbar-/ como un solo 
+significante correspondiente a la raíz con significado {«polvo»}. Es decir, no se segmenta, porque aisladamente, la forma -ar 
+no tiene significado. Se privilegia que la forma tenga significado a que la forma sea idéntica en todos los casos.
+4. Si bien la palabra presidenta figura en el diccionario desde hace bastante tiempo, en la República Argentina encontró 
+mucha resistencia a su uso, en especial desde que Cristina Fernández de Kirchner asumió la presidencia en el año 2007. Fue 
+ella misma quien promovió que la llamaran presidenta, poniendo foco en el alomorfo /a/ de femenino. Inmediatamente, 
+surgieron sectores de fuerte rechazo a este vocablo y explicaciones sobre la falta de flexión en los participios presentes. Por 
+este motivo, incluimos aquí el ejemplo de presidenta como neologismo en nuestra variedad de español.
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+76 
+La explicación para estos ejemplos (y para los morfemas de género inclusivo) se sostiene 
+por una necesidad real del hablante de reflejar determinadas situaciones del comportamiento de la 
+sociedad en el lenguaje. Es decir, el hablante necesita distinguir la marca de género para la ocupación 
+de presidenta, necesita reforzar que se trata de una mujer. En síntesis, hay una motivación concreta del 
+hablante producto de cambios en los roles sociales de nuestra comunidad. Lo mismo puede afirmarse 
+acerca del género inclusivo: los usuarios de la lengua necesitan marcar que el plural se refiere a un 
+espectro genérico que trasciende el binarismo masculino/femenino y, también, necesitan expresar que 
+con la marca de masculino genérico no puede aludirse a dicho espectro (ni siquiera se puede incluir al 
+género femenino, que queda oculto tras la marca meramente masculina del alomorfo o). 
+Considerando esta concepción de la gramática, en el presente trabajo se analizarán las 
+resistencias a las formas de representación del género inclusivo en el español de la Argentina (e, x y 
+@) que se generan en los debates lingüísticos de determinados grupos públicos en las redes sociales.
+2. La categoría morfológica de género
+2.1. El concepto de género desde los estudios gramaticales
+El género como categoría gramatical ha sido entendido desde las gramáticas formales como 
+una categoría que corresponde a una determinada clase de palabra, principalmente a los sustantivos, 
+los adjetivos y ciertos pronombres. 
+En las gramáticas hispánicas, se concibe el género de manera binaria: masculino versus 
+femenino. Por ejemplo, en la Gramática de Alonso y Henríquez Ureña (1938), se define al género 
+como “una clasificación puramente gramatical de los sustantivos en dos grupos: femenino y masculino, 
+según la terminación del adjetivo acompañante” (1938, p. 64). Kovacci (1990) clasifica a los sustantivos 
+en masculinos y femeninos a los efectos de la concordancia con los adjetivos (1990, p. 26). Di Tullio 
+(2005) sostiene que el género es una categoría morfológica que “tiene dos valores básicos: el masculino 
+y el femenino, a los cuales puede sumarse el neutro de ciertos pronombres (ello, aquello, esto)” (2005, p. 
+28). La Nueva Gramática de la Lengua Española (NGLE, 2009), por su parte, insiste en el binarismo 
+del género y destaca que “los sustantivos no pueden tener en español género neutro” (2009, §2.1c), 
+mientras que sí pueden ser neutros los pronombres, los artículos, los demostrativos y los cuantificadores. 
+Sin embargo, “el que los sustantivos no tengan género neutro y el que ningún adjetivo posea formas 
+particulares para concordar de esta manera con los pronombres son factores que llevan a pensar que el 
+neutro no es propiamente un tercer género en español” (2009, §2.1d).
+Alcina Franch y Blecua (1975) incorporan en la definición de género una alusión al aspecto 
+sociocultural de la categoría, al incluir el carácter informativo sobre “el sexo y otros aspectos de la 
+realidad” (1975, §3.2.1). Por su parte, Ambadiang (1999), en la Gramática descriptiva de la lengua 
+española, describe la categoría de género desde la morfología, es decir, a partir de los rasgos flexivos 
+del nombre pero, también, se hace alusión a la referencia, que puede ser extralingüística. Esto es, se 
+entiende que el género puede relacionarse con un referente externo, que debe ser tenido en cuenta en 
+la marca morfológica (1999, p. 4846).
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 77 
+Finalmente, el hecho de que un sustantivo sea femenino o masculino suele ser entendido por 
+las gramáticas y los estudios gramaticales en general bajo el concepto de asignación de género. Dicha 
+asignación puede ser arbitraria, en cuyo caso se asocia al concepto de inherencia, o puede ser motivada 
+por el sexo biológico. 
+El concepto de inherencia en la noción de género supone que los sustantivos y ciertos pronombres 
+presentan la categoría de género como propiedad característica y, en este sentido, el género es algo ya 
+dado, es decir, inherente. Al respecto, Hockett (1971) dice: “lápiz, sustantivo, no es masculino porque 
+esté flexionado para ello, sino porque lo es inevitable e inherentemente” (1971, p. 219). Esto es, el 
+sustantivo lápiz posee género masculino de manera arbitraria y a esto se denomina género inherente 
+en los nombres no sexuados (y que, por lo tanto, no flexionan en masculino y femenino).
+Cuando la asignación de género es motivada, la categoría de género se relaciona estrechamente 
+con la noción de sexo biológico. Así, se asocia sexo femenino a género femenino y sexo masculino a 
+género masculino, relación que se manifiesta claramente en aquellas palabras que designan seres vivos 
+con diferencia de género. Pero el ejemplo dado por Hockett es una muestra de que en una gran parte 
+de palabras en español no se puede hablar de motivación biológica para realizar la asignación.
+Desde la Tipología sintáctica, Corbett (1991) sostiene que la asignación de género depende 
+de dos tipos de información que presentan los sustantivos: la información semántica y la información 
+formal (1991, p. 8). En cuanto a la información semántica, el autor establece distintos criterios, tales 
+como el sexo biológico, los rasgos [animado/inanimado], [humano/no humano], si se trata de macho 
+o hembra, el tamaño (grande o pequeño), si es comestible o si se trata de un insecto (1991, p. 30-31). 
+En cuanto a la forma, se refiere a la información morfológica y fonológica de los sustantivos. Esto 
+significa que el español está entre las lenguas que asignan el género con criterios de sexo, pero esto sólo 
+explica una parte nuclear o un semantic core, en términos de Corbett (1991, p. 57), ya que un número 
+importante de los nombres se asignan con criterios formales. Esto es, el hecho de que sean femeninos 
+o masculinos no se deduce de su significado, sino de aspectos formales, como es el hecho de que 
+tengan una u otra desinencia.
+Desde el enfoque teórico aquí adoptado, el concepto de inherencia resulta problemático, ya que, 
+si el género viene dado o es arbitrario en el sustantivo, entonces no hay posibilidad de cambio o de usar 
+nuevas formas. Además, la categoría morfológica de género pensada en términos binarios opositivos 
+deja afuera el género neutro y a cualquier otra concepción que pudiese aparecer. 
+Además, en la caracterización del género gramatical, ningún autor reseñado tiene en cuenta 
+el criterio pragmático, porque se basan en modelos gramaticales formales. En contraposición, desde 
+el ECP, la Pragmática forma parte de la Gramática, por lo tanto, cuando se describe un fenómeno 
+gramatical, debe hacerse de manera integral, considerando los criterios pragmático, semántico y 
+morfosintáctico al mismo tiempo. Además, la descripción debe hacerse en ese orden (de lo pragmático 
+a lo sintáctico), ya que es el objetivo comunicativo (Pragmática) y el significado que se quiere transmitir 
+(Semántica), los que van a motivar la sintaxis de la forma (Morfosintaxis).
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+78 
+2.2. La categoría de género en el Enfoque Cognitivo Prototípico
+Desde la Escuela de Columbia (rama de la Lingüística Cognitiva), Otheguy y Stern (2000) 
+sostienen que la conceptualización de una palabra como sustantivo o como adjetivo, como masculina, 
+femenina o neutra es “variable y contingente” y depende de fenómenos culturales y de necesidades 
+comunicativas más que de reglas fijas y arbitrarias. Los autores sostienen, además, que las palabras son 
+en sentido estricto acategoriales y que, por tanto, no poseen género inherente. 
+Otheguy y Stern se manifiestan en contra de la asociación arbitraria “un género para cada sustantivo” 
+y en contra de la noción de género “inherente”, ya que argumentan que existen casos en los que un mismo 
+sustantivo recibe más de un género (el/la artista). En el ejemplo, los autores también plantean que la 
+asignación de una palabra como sustantivo o adjetivo depende del contexto discursivo. Esto es, depende 
+de cómo se conceptualiza la construcción en la que dicho sustantivo o adjetivo se encuentra inserto. 
+Esta concepción del género también puede ilustrarse con un ejemplo de uso reciente en el 
+español, que es el fenómeno de variación el/la covid-19, en referencia al nuevo coronavirus SARS-
+CoV-2, responsable de la pandemia que comenzó en el año 2020. A este respecto, en la alternancia 
+del género de la palabra covid, podemos observar un ejemplo de motivación del signo (en términos del 
+Enfoque Cognitivo Prototípico) y de ausencia de género inherente (en palabras de Otheguy y Stern). 
+Veamos los siguientes ejemplos:
+A) La COVID-19 es la enfermedad infecciosa causada por el coronavirus que se ha descubierto 
+más recientemente. Tanto el nuevo virus como la enfermedad eran desconocidos antes de que 
+estallara el brote en Wuhan (China) en diciembre de 2019. (OMS, 2020)
+B) Nuevos virus respiratorios, incluido el COVID-19: métodos de detección, prevención, 
+respuesta y control. (OpenWHO, 2022)
+		
+La motivación de la elección entre el género femenino y el masculino se relaciona con 
+la conceptualización del vocablo covid-19: parecería ser que cuando aparece con un artículo flexionado 
+en femenino, se trata de la enfermedad que ocasiona el coronavirus, mientras que, si se acompaña de un 
+artículo masculino, se entiende que se está hablando estrictamente del virus. Es decir que la flexión en 
+género respondería a la alternancia la enfermedad versus el virus. No habría, entonces, género inherente 
+en la palabra covid-19, sino que estaría motivado por el contexto discursivo y la conceptualización.5
+1
+5. Se hipotetiza que no se trata de un fenómeno de variedades lingüísticas porque se han encontrado casos de alternancia 
+en varios lugares de habla hispana. Ejemplos: a) “Descubren anticuerpos que bloquean infección del Covid-19 en las 
+células. Con este descubrimiento, los científicos confían en que ayude a desarrollar anticuerpos humanos para tratar o 
+prevenir la enfermedad respiratoria Covid-19 causada por el coronavirus SARS-CoV-2” (Perú. Descubren anticuerpos…, 
+2020); b): “un brasileño que gracias a una impresora 3D elabora máscaras para ayudar a quienes luchan contra el Covid-19 
+en la favela donde vive” (Bolivia. Redacción Diario Página Siete, 2020); c) “Mapa del Covid-19 en Madrid: consulta 
+cuántos casos hay” (España. Ley, 2020); d) “Cuba reporta 19 casos positivos a la COVID-19, dos fallecidos y 49 altas 
+médicas” (Cuba. Redacción Cubadebate, 2020); e) “el encuentro tendrá un doble propósito solidario: acompañar a muchas 
+familias que están pasando por un difícil presente, y por otro, ayudar a la cadena de valor que conforma la industria del rock 
+nacional, afectada por la situación que genera el Covid-19” (Argentina. Espósito, 2020).
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 79 
+Respecto del género inclusivo, en un estudio previo (Romero y Funes, 2019) analizamos las 
+formas e, x y @ y la acumulación de morfemas (a/o) como estrategias de inclusión en la marcación de 
+género en un corpus digital. Postulamos que estos morfemas portan el significado de género inclusivo. 
+Establecimos un continuum desde el uso de aquellas estrategias que se acercan más a usos binarios 
+del género a aquellas estrategias que se alejan de la oposición binaria. En un extremo, se encuentra la 
+acumulación de los morfemas a y o separados por barra y el uso de la @ como marca morfológica más 
+cercana a la representación binarista (la/o/s estudiantes, l@s compañer@s), y, en el otro extremo, el uso de 
+x y e como las marcas más innovadoras (lxs trabajadorxs, todes). Sobre el uso de la @, observamos que, 
+por su similitud gráfica tanto con el morfema a como con el morfema o, permite una interpretación 
+de género femenino y masculino a la vez. La inclusión solo alberga a dos géneros, manteniendo una 
+concepción binaria de esta categoría. El uso de la x permite pensar que el hablante incorpora un 
+espectro más amplio vinculado a la identidad de género. Es decir, incluye en su discurso distintas 
+identidades, alejándose de concepciones binaristas. Este uso se ve extendido en redes sociales, páginas 
+pertenecientes a instituciones, sindicatos, partidos políticos, etc. Finalmente, observamos el uso de 
+la e en páginas más informales de la web, sobre todo en redes sociales como Twitter y Facebook. 
+Concluimos que el uso de estas formas devenidas morfemas refleja los cambios relacionados con 
+nuevas concepciones y representaciones del género de un sector de nuestra sociedad.
+En la misma línea y con un enfoque afín, se encuentran los trabajos recientes de Martínez 
+(2019a, 2019b y 2019c). Esta autora parte de la idea de que el género en español consta de dos clases, 
+A y B, a las que pertenecen muchos lexemas: sillón, niño, perro en una clase, silla, niña, perra en la otra. 
+Otros lexemas no tienen marca de género y, por lo tanto, pueden remitir a ambas clases: estudiante, 
+docente, aspirante. Se evidencia que el género gramatical del español, a pesar de denominarse masculino 
+y femenino, no categoriza en forma exhaustiva una sustancia semántica sobre seres sexuados, ya que 
+la mayoría de las palabras son inanimadas y abstractas, y algunas palabras pertenecen a las dos clases: 
+criatura, perdiz, por ejemplo. Sin embargo, hay un grupo de palabras cuyo género sí remite a la especie 
+humana, y ese género se categoriza de forma binaria: los lexemas referidos a hombres pertenecen a 
+la clase A, mientras que los lexemas referidos a las mujeres se adscriben a la clase B. En consonancia 
+con García (1991) y Reid (2019), Martínez advierte que el hecho de que el masculino se seleccione 
+para expresar un uso genérico implica una forma de sexismo cultural. Es así que el paradigma de 
+género binario no alcanza para satisfacer las necesidades comunicativas cuando los referentes son seres 
+humanos. Ese es el motivo por el que empieza a ensayarse un subsistema en el que se añade una nueva 
+categoría de género, necesaria para señalar el género humano: el género inclusivo. En esta última 
+observación, Martínez se alinea con nuestros hallazgos.
+En otro trabajo, la autora hace hincapié en que el cambio lingüístico no siempre ocurre de 
+manera inconsciente en la sociedad, y es por eso por lo que las estrategias para denominar nuevas 
+representaciones de género son formas conscientes de cambio lingüístico, lo cual no invalida que en 
+un futuro puedan gramaticalizarse. En palabras de Martínez: “algunas veces, esa mano invisible que 
+motiva la innovación se visibiliza porque grupos de hablantes sienten la necesidad de producir un 
+cambio en la sociedad y en esa lucha acuden a interpelar al lenguaje” (2019b, p. 2). Considerando la 
+aparición de nuevas formas para expresar el género, Martínez (2019c) propone un nuevo paradigma 
+de género en español, que se ilustra como sigue:
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+80 
+MASCULINO [O(S)] 
+FEMENINO [A(S)] 
+OTRO(S) [O(S)] / [E(S)]. (2019c, p. 11)
+Martínez señala que la motivación de la categoría “otros” surge de la necesidad que sienten 
+los hablantes de explicitar la inclusión de identidades que han sido históricamente solapadas, 
+específicamente, la identidad de género. Y esto, sin dudas, es un gesto político. Un gesto de visibilización 
+de esas comunidades que no pueden ser expresadas por los morfemas de género ya existentes en 
+español. De ahí que en el presente trabajo sostengamos que los cambios sociohistóricos conllevan 
+cambios en la lengua. 
+En el análisis de los ejemplos que reflejan resistencia al género inclusivo, advertiremos cómo 
+los usuarios que opinan en contra de su empleo cuestionan asimismo esta concepción de cambio 
+lingüístico por considerarlo un cambio que se impone y no un cambio inconsciente (el único aceptado). 
+A continuación, se profundizará en la idea de que el género inclusivo constituye un fenómeno de 
+variación lingüística.
+3. El lenguaje inclusivo como un fenómeno de variación
+3.1. El concepto de variación
+Desde el Enfoque Cognitivo Prototípico y su noción de Gramática Emergente del Discurso, la 
+variación se entiende como un fenómeno que se construye en el tiempo. Esto es, la lengua se encuentra 
+en un continuo estado de variación, en el que sincronía y diacronía se funden en un mismo proceso de 
+gramaticalización. La lengua es un proceso de construcción permanente (por eso más que gramática, 
+es gramaticalización).
+El fenómeno de la variación en español desde un enfoque cognitivo y etnopragmático ha 
+sido estudiado ampliamente por Angelita Martínez y su equipo. Se destacan especialmente 
+Martínez (2000), y Martínez y Speranza (2009). La variación, desde un punto de vista cognitivo 
+y etnopragmático, es un fenómeno comunicativamente motivado. Esta postura contrasta con la 
+teoría sociolingüística tradicional, que centraba la oposición de las variantes en sus valores sociales 
+o estilísticos presuponiendo identidad de valor referencial. El hecho de que para nuestro enfoque la 
+variación sea motivada significa que si hay dos formas lingüísticas o dos estructuras sintácticas en 
+variación, es porque responden a distintos objetivos comunicativos. En este sentido, se afirma que son 
+significados diferentes, no totalmente idénticos. La variación se explica por diferentes concepciones de 
+mundo y distintas experiencias de los hablantes.
+En Martínez y Speranza (2009), las autoras refinan el concepto de variación, y aluden a tres 
+posicionamientos de acuerdo con las características de los elementos variables y la evaluación que 
+la comunidad lingüística realiza de tales usos. De este modo, existirían la variación normativa, la 
+variación no normativa y la variación estigmatizada.
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 81 
+La variación normativa es aquella contemplada en las gramáticas. Esto significa que la existencia 
+de determinadas formas alternantes no constituye una “desviación de la norma” ni tampoco un “error”. 
+Esto ocurre, por ejemplo, en la alternancia de las formas en -ra/-se del pretérito imperfecto del modo 
+subjuntivo. El hablante puede seleccionar una u otra forma sin incurrir en un error gramatical.6
+1 
+Por su parte, la variación no normativa es aquella que sucede en el uso de la lengua, pero que no 
+es aceptada por las gramáticas y sin embargo es tolerada por la comunidad lingüística. Por ejemplo, la 
+alternancia entre el pretérito imperfecto del subjuntivo y el presente del subjuntivo en un caso como 
+Le pidió que viniera/Le pidió que venga. 
+Finalmente, la variación estigmatizada es aquella que no es aceptada ni por las gramáticas ni 
+por la comunidad hablante. Son formas que generan un fuerte rechazo en la comunidad lingüística 
+en general o en algún sector social en particular. Estas formas están claramente ligadas a las 
+conceptualizaciones de los hablantes. Martínez y Speranza ejemplifican este subtipo con el fenómeno 
+del dequeísmo. 
+Teniendo en cuenta el concepto de variación y en línea con los planteos de Martínez y Speranza, 
+Giammatteo (2020) entiende al lenguaje inclusivo como:
+(…) una variante que incluye un miembro más para la categoría de género, lo cual, si bien 
+implica adaptaciones en la desinencia de una parte de los nombres, pronombres y adjetivos, 
+deja el resto de la morfología y de la sintaxis de la lengua sin cambio. Puede entonces también 
+equipararse con el voseo ‒tan resistido también en su momento‒ y que constituye una variante 
+de las formas de tratamiento establecidas para la segunda persona. (2020, p. 195)
+En este trabajo, creemos que cabría considerar al lenguaje inclusivo como ejemplo de variación 
+estigmatizada y en este sentido orientaremos el análisis de los ejemplos.
+3.2. Variación versus normativa
+Una vez caracterizada la variación, corresponde recordar qué se entiende por normativa. Borzi 
+(2002) lo explica de manera detallada. Para esta autora, el concepto de normativa puede tener varios 
+aspectos. Por un lado, se entiende la normativa como el conjunto de reglas que determina cómo han de 
+usarse las formas, lo que presupone que hay usos correctos y usos incorrectos o usos más correctos que
+6. Martínez y Speranza señalan que las formas en -ra y -se del pretérito imperfecto del subjuntivo no son enteramente 
+sinónimas. Es probable que un análisis fino del uso de la alternancia nos permitan conocer cuáles son los contextos más 
+apropiados para la selección de cada forma (2009, p. 35). Speranza (2017) analiza específicamente esta alternancia y 
+plantea la hipótesis de que las formas en –ra manifiestan un grado de mayor certeza y posibilidad (“Gloria propuso que 
+jugáramos al póker”) en relación con las formas en -se, que indican un menor nivel de certeza y posibilidad (“ningún 
+ordenamiento puede ser igual a otro, y si en dos de ellos las doscientas cartas estuviesen colocadas en el mismo orden, 
+de todas maneras el ordenamiento no sería el mismo”) (2017, p. 263). De este modo, la alternancia de las dos formas del 
+pretérito imperfecto del subjuntivo expresan la diferente evaluación del sujeto respecto del evento contenido en la emisión. 
+La variación resulta productiva para los usuarios de la lengua a partir del aporte que el significado de las formas brinda al 
+mensaje (2017, p. 267).
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+82 
+otros. Esto nos lleva a preguntarnos qué es “lo correcto”, noción que retoma de autores como Ducrot 
+y Todorov (1976). Lo correcto puede serlo porque es a) lo que concuerda con los hábitos generales de 
+la lengua; b) lo más susceptible de una justificación lógica; c) lo que tiene raíces más profundas en la 
+historia de la lengua (una apelación a la etimología).
+Borzi enlaza el concepto de normativa al de gramática, porque suele hacerse esa asociación de 
+manera implícita. Los usos correctos o adecuados a la norma son los que figuran en las gramáticas. Sin 
+embargo, la autora advierte que los modelos gramaticales son construcciones teóricas, y la lengua “se 
+va sola, por otro lado” (2002, p. 11). 
+	Ahora bien, si la lengua se va por otro lado, ¿qué sucede entonces con la normativa? En este 
+punto, Borzi retoma el ECP como modelo más legítimo para la descripción de la lengua y, por tanto, 
+para entender su “normativa”. La validación del modelo gramatical del ECP es social porque se 
+entiende que las regularidades (ya que no reglas) de la lengua, su gramática, existen solamente en el 
+uso. Los datos están en el corpus (en el propio discurso). En consecuencia, la gramática es la normativa 
+porque representa lo que la lengua es. 
+	Lo que se regulariza son las rutinas cognitivas, que, al repetirse en frecuencia por lograr objetivos 
+comunicativos, se van sedimentando en la mente de los hablantes y van conformando así la gramática 
+(gramaticalización). ¿Y cómo se logran los objetivos comunicativos? Hopper (1988) nos recuerda que 
+la fijación de rutinas exitosas en el discurso depende de la aceptación de la comunidad lingüística y, en 
+este sentido, la gramática es la arena de una lucha de sentidos. Esta lucha es la que presenciamos en la 
+actualidad en torno del uso del género inclusivo, que genera rechazos pero también fuertes adhesiones. 
+Este es un ejemplo de cómo la gramática emerge del discurso, es decir, del propio uso y su discusión. 
+4. Metodología y corpus
+Con el objetivo de relevar una muestra representativa, se seleccionaron quince posteos que 
+datan del año 2021 y que pertenecen a dos grupos públicos de la red social Facebook. Los posteos 
+tienen como tema central el uso del lenguaje inclusivo. Estos grupos7
+1 tienen como propósito general 
+compartir material de enseñanza, opiniones sobre diversos usos de la lengua española y artículos tanto 
+de divulgación como de opinión.
+Una vez seleccionados los posteos, se realizó un relevamiento de los comentarios que allí 
+aparecían y se los reunió en base a los argumentos esgrimidos en torno al uso del lenguaje inclusivo. 
+Esto es, se dividieron los argumentos entre los que se hallaban en contra del inclusivo (resistencias) 
+y los que se pronunciaban a favor. Luego, se analizaron los comentarios considerando los dos ejes 
+presentados en la introducción: por un lado, la concepción de signo lingüístico subyacente y, por otro, 
+el problema de la correspondencia sexo-género. Por último, a partir de lo analizado, reflexionaremos 
+acerca de las preguntas disparadoras propuestas al inicio de este trabajo, esto es, si pueden convivir
+7. Los grupos se denominan “Tips de Ortografía y Léxico” y “Oxígeno Ortográfico”, respectivamente.
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 83 
+ambos usos (la variación inclusiva versus masculino genérico) en una misma comunidad y si se puede 
+conciliar la normativa con estos nuevos usos, considerados un fenómeno de variación estigmatizada.
+En la sección de Análisis, se presentan los datos de la siguiente manera: cada posteo fue 
+transcripto y dividido en dos partes. En la parte I se muestra el posteo original: es el origen del tema 
+y el inicio de la ola de comentarios. En la parte II se agrupan los primeros comentarios y se definen 
+como opiniones a favor o en contra del primer posteo. Los participantes que comentan se distinguen 
+por letras alfabéticas en mayúsculas. La transcripción es copia fiel de lo expuesto en la red social.
+5. Análisis de los datos
+A continuación, se presentan dos ejemplos representativos del corpus seleccionado como 
+muestra del análisis discursivo realizado.
+El ejemplo 1 es un posteo realizado en Facebook en un grupo llamado “Tips de Ortografía y 
+Léxico”. Este grupo tiene como finalidad compartir consejos y recomendaciones sobre el uso normativo 
+de la lengua española. Uno de los participantes de este grupo posteó un artículo sobre la posición de 
+la Real Academia Española (RAE) respecto del uso del lenguaje inclusivo. Debajo de dicho posteo se 
+desató un hilo de comentarios tanto a favor como en contra del inclusivo.
+Ejemplo 1
+Grupo de Facebook “TIPS DE ORTOGRAFÍA Y LÉXICO”
+Publicación: https://bit.ly/3LpFa9A. Fecha de publicación: 2 de agosto de 2020.
+Parte I:
+Posteo del artículo de la RAE
+A: 
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+84 
+Parte II: Transcripción de los primeros comentarios
+B: así debe ser.
+C: las universidades lo aceptan. Es cuestión de tiempo nomás.
+D: excelente.
+E: la libertad que tenemos ahora para escribir que los civilizados hicieron atrocidades irónicamente 
+es gracias a todos esas masacres y saqueos ya que toda revolución científica e industrial avanza 
+con estas situaciones; en cambio sí sería devastador para la educación formal actual cambiar el 
+formato del lenguaje de una manera tan radical porque no es solo unas vocales sino que se busca 
+innecesariamente deconstruir un medio para construirlo otra vez. es como una paradoja del 
+oprimido opresor, no se reclama igualdad, se pretende superioridad.
+F: es tu punto de vista, lo respeto pero no lo comparto. Para mí se trata de una nueva forma de 
+comunicarse, que nace en la gente, ella la elige y si le sirve lo va a seguir haciendo mal que le pese 
+a la RAE y a las mentes obtusas…
+G: pensar está bien, imponer no. Creo en el respeto.
+E: no es mi punto de vista solamente.
+H: Una grande la RAE 
+I: sí, esto hace mucho pasó. Unos locos los que quieren deformar el idioma.
+J: y cuál es el problema? Ignorante el que no acepta que ya es hora de emplear un lenguaje 
+inclusivo y no excluyente!!! La RAE grupo de hombres machistas!!!
+K: hay problemas más importantes con los que lidiar que la falsa opresión que sienten por una 
+letra.
+Desgranando cada parte del posteo y sus comentarios, podemos encontrar ciertas dicotomías 
+que nos permiten agrupar las opiniones de los participantes. En primera instancia, la discusión sobre el 
+uso del lenguaje inclusivo trae a colación el lugar que ocupan las instituciones en las comunidades. En 
+este caso, el artículo publicado, y sobre el cual opinan los participantes, menciona a la Real Academia 
+Española (RAE).8
+1 Es muy probable que esta cita de autoridad le sirva al enunciador de este posteo 
+como respaldo para posicionarse en contra del uso del inclusivo. En esta nota, integrantes de la 
+RAE sostienen que es innecesaria esta innovación, ya que el uso del masculino genérico “incluye” a 
+toda la comunidad. Además, en la nota se menciona que no hay que confundir “la gramática con el 
+machismo”. Lo innecesario del género inclusivo se refleja en el lema de la RAE, “Limpia, fija y da 
+esplendor”, en el que se daba cuenta de la tarea de la Academia de fijar la lengua y limpiarla de errores 
+e innovaciones; pero también se refleja en el nuevo lema, “Unifica, limpia y fija”, que comparte con las 
+demás Academias del mundo hispánico, esto es, la Asociación de Academias de la Lengua Española 
+(ASALE).9
+2 A la idea de fijación de la lengua se le añade la de unificación, es decir, que en todo el territorio 
+hispanoparlante deba usarse la variedad estándar del español. La fijación y la uniformidad de la lengua se
+8. López García (2013 y 2017) ha indagado en forma extensa acerca del rol de las instituciones en las representaciones 
+de la lengua que tienen los usuarios y la concepción que estos tienen sobre los usos correctos o incorrectos. Así, la autora 
+denomina “primordialista” a la perspectiva que vincula la identidad con el territorio, la herencia cultural, la religión, y asigna 
+valor de inmutabilidad al signo lingüístico. Esta visión primordialista que manifiestan algunos usuarios de la lengua se 
+refleja en los comentarios que rechazan el cambio y van en consonancia con los discursos de la RAE.
+9. A propósito de la relación entre el nuevo lema de la RAE y la noción de lengua estándar, véase el artículo de Moreno 
+Montero, en Senz y Alberte (2011).
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 85 
+desprende asimismo de la idea del signo lingüístico inmutable en la sincronía, sólo mutable en la diacronía. 
+Esto es, se acepta el concepto de cambio lingüístico en la historia de la lengua, pero no se advierte 
+que un proceso de cambio puede suceder en sincronía como parece ocurrir con el fenómeno del 
+lenguaje inclusivo. A esto se opone el ECP cuando plantea la idea de la gramaticalización. No hay tal 
+dicotomía sincronía/diacronía sino un proceso permanente de construcción de la gramática. Además, 
+la concepción de signo inmutable se contrapone a la de signo motivado, que estaría encarnado en los 
+nuevos morfemas inclusivos. 
+En el extremo opuesto, quienes se posicionan a favor del uso del inclusivo apuntan que la 
+RAE es una institución conservadora y como tal está integrada por personas “machistas” (dado 
+también el hecho de que la mayoría de sus miembros son hombres). En contraposición con la visión 
+de inmutabilidad del signo, además, entienden que la lengua cambia y que el uso del lenguaje inclusivo 
+puede ser parte del cambio.
+En la discusión que suscita la nota de la RAE se presenta como tema central la cuestión de la 
+imposición y la autoridad. Algunos acusan a quienes usan el inclusivo de imponer este uso, mientras 
+que otros acusan a la RAE de no aceptar los cambios. 
+En los comentarios del post advertimos, entonces, la oposición norma (representada en la RAE 
+y sus adeptos) versus desvío (encarnado en los usuarios adherentes al inclusivo). Esta oposición se 
+refleja en la postura conservadora de la inmutabilidad del signo versus la visión innovadora del signo 
+motivado, que surge de considerar la lengua en uso, y el concepto amplio de cambio lingüístico (que 
+no sólo ocurre en la diacronía sino que también puede atestiguarse en sincronía). Paradójicamente, 
+quienes están a favor de lo que postula la RAE en la nota (organismo que impone las normas), 
+esgrimen como crítica sobre el lenguaje inclusivo que se trata de una innovación “impuesta” por ciertos 
+sectores sociales. Sin embargo, aceptan sin problemas las imposiciones de la RAE. De todos modos, 
+el lenguaje inclusivo no se intenta imponer sino que se trata de un cambio lingüístico consciente, 
+con una agenda de lucha detrás, como bien apuntaba Martínez (2019a, 2019b y 2019c). No existe 
+la imposición del inclusivo sino una lucha consciente contra el patriarcado y cómo se gramaticaliza 
+en la lengua (a través del plural masculino en este caso). A este respecto, el último comentario (“hay 
+problemas más importantes con los que lidiar que la falsa opresión que sienten por una letra”) ignora 
+la lucha simbólica que existe detrás del inclusivo: no se trata de una letra meramente, sino de un 
+morfema, con todo lo que eso implica. Es un signo, con un significado que se presenta como combativo 
+de la invisibilización de los géneros que no son el masculino. El uso del género inclusivo es síntoma 
+de un cambio en ciernes en la sociedad y no a la inversa. Si consideramos que la inclusión del espectro 
+genérico se gramaticaliza en el género inclusivo (es decir, vamos de la Pragmática a la Morfosintaxis, 
+tal como plantea el ECP), lo que el lenguaje refleja es el cambio en la sociedad, y en este sentido, el 
+argumento de la imposición pierde todo su valor.
+En conclusión, podemos decir que en esta discusión está muy presente la concepción de norma 
+como lo correcto, respaldado por autoridades como la RAE, en oposición a lo nuevo, que se asocia a lo 
+incorrecto. Sorteando las discusiones a favor o en contra, observamos cómo la norma es un tema que 
+genera discusión y reconceptualización en los usuarios no especialistas.
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+86 
+El ejemplo 2 (transcripto más abajo) es un posteo realizado en Facebook en un grupo llamado 
+“Oxígeno Ortográfico”. El posteo originado por uno de los integrantes del grupo comienza con un 
+poema que trata de forma parodiada el uso del lenguaje inclusivo. Debajo de dicho poema, el mismo 
+sujeto agrega una imagen opinando negativamente sobre este uso y dando cuenta de lo que debería ser 
+un “buen uso del inclusivo”. Esto desata un hilo de comentarios apoyando en forma positiva el posteo 
+original. Es decir, hay un enunciador con un fin comunicativo concreto: hablar en contra del lenguaje 
+inclusivo. Para ello, utiliza un medio, una red social, y una forma, el poema y la imagen. Transcribimos 
+aquí debajo el posteo completo (Ejemplo 2).
+Ejemplo 2 
+Grupo de Facebook “OXÍGENO ORTOGRÁFICO”
+Publicación: https://bit.ly/3RYNek5. Fecha de la publicación: 22 de septiembre de 2021.
+Parte I: posteo del poema por parte del participante A.
+A: 
+*POR UN IDIOMA SIN “IDIOMO”*
+Se ha extendido una manía
+entre parlantes ladinos
+de acuñarle el femenino
+a quien nunca lo tendría,
+si no tiene “dío” el día,
+y el trigo no tiene “triga”,
+ni existen las “gobernantas”,
+tampoco las “estudiantes”,
+ni “hormigo” entre las hormigas.
+Aunque lo intenten, comprar
+con millones y “millonas”
+un trono no tiene “trona”
+ni “jaguara” has de llamar
+a la hembra del jaguar,
+y aunque el loro tenga Lora,
+y tenga una flor la flora
+mi lógica no se aplaca:
+no tienen “vacos” las vacas
+ni los toros tienen “toras”.
+Aunque las libras existan
+con los libros no emparejan,
+y tampoco se cotejan
+suelos, que de suelas distan,
+por mucho o “mucha” que insistan
+mi mano no tiene “mana”,
+no tiene “rano” la rana
+y foco no va con foca,
+ni utilizando por boca
+al masculino de Ana.
+Roberto Santamaría-Betancourt
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 87 
+Parte II: Argumentos en contra del uso del lenguaje inclusivo
+Parte III: apoyo de los seguidores
+Transcripción de los comentarios:
+B: Excelente
+C: Aaaaa este texto sono a GLORIA!!!. no sé de dónde salió nuestra glorioso madre de la patria 
+Doña Piedad Cordoba con ese experpento del lenguaje incluyente y la siguieron los periodistas, 
+presentadores y cualquiera que quiera seguir con la barrabazada.
+D: solo se deberían quejar los que escriben como si hubieran cursado la primaria.
+D: Se quejan los que peor escriben.
+C: D, gracias, Cuando curse la primaria me enseñaron a no maltratar el idioma con lenguaje 
+absurdo. (...)
+Desglosando cada parte del posteo y sus comentarios, podemos encontrar ciertas recurrencias. 
+En principio, el título del poema funciona como preludio del contenido. Bajo la forma “Por un idioma 
+sin idiomo”, el autor de la poesía juega constantemente con el recurso de la rima para parodiar los usos 
+reales de los morfemas femeninos en ciertas profesiones. Por ejemplo, en los versos “si no tiene dío 
+el día y el trigo no tiene triga”, se juega con las no palabras y de ese modo se iguala el inclusivo a una 
+letra que altera la raíz de modo que no forma una palabra en español. Si la flexión en género inclusivo 
+deforma y convierte en no palabras a las raíces, está claro que no puede usarse porque eso incurriría no 
+solamente en un uso incorrecto de la lengua sino en el uso de formas inexistentes.
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+88 
+Se suma a este juego de rimas, una analogía: “ni existen las gobernantas, tampoco las estudiantas”. 
+El autor compara este uso del femenino en las profesiones que se materializa con el morfema /a/ con 
+el uso del fonema /a/ en la palabra “triga”. Esto es, se despoja de significado al segmento /a/. En 
+esta estrategia, la /a/ sólo se percibe como letra (grafema) y deja de ser morfema (es decir, no porta 
+significado). De ahí que uno de los argumentos de quienes rechazan el lenguaje inclusivo sea reducirlo 
+al sintagma “es sólo una letra” (como se apuntaba en el último comentario del ejemplo 1). 
+En este primer juego de palabras, subyace el problema de la correspondencia entre género y 
+sexo en los morfemas de nuestra lengua. Ya hemos observado en los apartados anteriores las diferentes 
+posiciones al respecto. Entonces cabe señalar que la correspondencia sexo-género en español se 
+utiliza para seres animados y que en los casos establecidos en el poema hay un juego de sonidos 
+para sustantivos no animados tales como “dío”, “triga”, “trona”, “mana”. Se trata de sonidos y no de 
+morfemas porque dada la definición de morfema propuesta desde el ECP, estos casos no presentan 
+significado. Asimismo, aparecen palabras como “día” o “mano”, en las que tampoco puede segmentarse 
+la /a/ y la /o/, dado que no son alomorfos de género sino que forman parte de la raíz. Sin embargo, 
+en las formas “gobernantas” y “estudiantas” se observa el alomorfo /a/ que marca femenino porque 
+podemos reponer su significado. De hecho, si realizamos la separación de los alomorfos de dichas 
+palabras, encontramos un significado para cada morfema. En “gobernantas” encontramos /gobern/ 
+como base, /a/ como sufijo flexivo, /nt/ como sufijo derivativo de participio presente (que en este caso, 
+indica un significado nominal, dado que se trata de un sustantivo), /a/ como morfema de género (sufijo 
+flexivo) y, finalmente, /s/ como sufijo flexivo de número plural. De igual modo en “estudianta”, /estud/ 
+es la base, /ia/ es el alomorfo de la vocal temática de primera conjugación, /nt/ sufijo derivativo de 
+participio presente, /a/ como marca de género femenino (sufijo flexivo).
+El poema menciona otros casos como “rano” y “foco”. En estas no palabras se desestima otra 
+estrategia de la lengua para marcar el género que es el uso de otros lexemas como “macho” y “hembra”. 
+En estos casos, para marcar el género debemos agregar otras palabras: “foca macho” o “hembra” y 
+“rana macho” o “hembra”, ya que “foca” y “rana” son sustantivos epicenos. Los sustantivos epicenos 
+designan con un único género (gramatical) a ambos sexos (esto es, no flexionan en la categoría de 
+género, son invariables). El hablante necesita para estos casos otra palabra que marque el género 
+porque de otro modo no es posible saber de cuál se trata. En el poema, la aparición de formas como 
+“rano” y “foco” lo que provocan es la idea de que cualquier flexión es posible, ya que eso es lo que se 
+desacredita del uso del género inclusivo. Si las nuevas formas (x, @ y e) pueden usarse con libertad, 
+entonces, también, cabría la existencia de vocablos como “rano” y “foco”, aunque sabemos que en estos 
+casos, la manifestación del género es léxica (rana hembra, foca hembra), dado que la /a/ no constituye 
+un alomorfo de género femenino sino que forma parte de la raíz. Sin embargo, la contienda por 
+el inclusivo no se trata de flexionar cualquier palabra sino de visibilizar el espectro genérico en las 
+palabras que sí flexionan.
+Para finalizar el análisis del contenido del poema, podemos decir que la utilización del género 
+lírico puede pensarse como una forma de solapar estos análisis de la lengua; es decir, se deja de lado el 
+debate y se escribe un poema que iguala el inclusivo a un simple recurso lúdico. Un juego de palabras 
+en el que subyace la idea de que no son morfemas (no son signos) sino grafemas.
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 89 
+En relación con la imagen posteada inmediatamente después del poema, observamos otra 
+cuestión que tiene que ver con la definición del adjetivo “inclusivo” que acompaña al sustantivo 
+“lenguaje”. El hablante/enunciador le otorga un sentido a “inclusivo” que se relaciona con las acciones 
+que acompañan al lenguaje: “hablar con respeto, con dulzura, con amor”. En este sentido, la concepción 
+de inclusivo se aleja de la idea de que el lenguaje, o mejor dicho la lengua, tiene la posibilidad de 
+cambiar: “incluir no es cambiar las letras, es cambiar en serio”. De nuevo, se reduce el género inclusivo 
+a una cuestión de grafemas y no de morfemas. Con la idea de incluir como respetar, se refuerza la 
+falsa creencia de que un cambio social no conlleva un cambio lingüístico. Se sabe que la lengua cambia 
+constantemente, y así como hoy en día se acepta decir “la médica” en lugar de “la médico” para marcar 
+la conquista femenina en dicha profesión, lo mismo podríamos advertir del género inclusivo. Se trata 
+de una conquista que gramaticaliza un cambio que se está gestando en la sociedad: la aceptación del 
+espectro genérico como una realidad que merece ser codificada en la lengua.
+En síntesis, la presentación del poema como tal sugiere que leamos su contenido en forma lúdica, 
+parodiada. Esto podría pensarse como un recurso del hablante para matizar ciertas posiciones y análisis 
+de las formas. Esta apreciación se confirma con el posteo de los argumentos sobre la resignificación del 
+término lenguaje inclusivo y su consecuente desacreditación. El género inclusivo queda así reducido 
+a una cuestión caprichosa de “cambio de letras” en lugar de morfemas con significados concretos que 
+visibilizan el espectro genérico.
+6. Conclusiones
+A partir del análisis de los ejemplos, podemos retomar las dos preguntas que motivaron 
+este trabajo respecto de la convivencia de los diferentes usos (inclusivo y género no marcado) en la 
+comunidad de hablantes y su relación con la normativa. 
+Hemos intentado responder estas preguntas en el desarrollo de la parte teórica y en el 
+análisis del corpus. Entendemos que la discusión sobre la corrección o incorrección del uso del 
+género inclusivo se desata si sostenemos una concepción de signo lingüístico arbitrario e inmutable, 
+y si se acompaña esta idea de un concepto de normativa asociada a la gramática como sistema de 
+reglas uniforme en la mente de los hablantes. Estas concepciones se encuentran disociadas de las 
+intenciones comunicativas. 
+En contraposición a estas ideas, en nuestro análisis pretendimos demostrar que si sostenemos 
+una noción de signo motivado como la que propone la Gramática Emergente del Discurso, el género 
+inclusivo sería producto de una necesidad comunicativa que se quiere satisfacer (la visibilización del 
+espectro genérico) y, por lo tanto, constituye un morfema, con significado y significante, que forma 
+parte de la gramática española. Y si la gramática emerge del uso de la lengua, entonces es su normativa. 
+El uso del inclusivo sería parte de la norma, entendida de este modo. Sin embargo, la existencia de 
+un rechazo tan fuerte al uso del inclusivo (reflejado en las resistencias plasmadas en los comentarios 
+de los posts bajo análisis) nos advierte que la comunidad lingüística no acepta esta innovación en 
+forma armoniosa (ocurre entonces una lucha por los sentidos, por los morfemas) y, por lo tanto, lo 
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+90 
+estigmatiza. El género inclusivo constituye, entonces, un fenómeno de variación estigmatizada. La 
+normativa entendida como gramática uniforme se corresponde con la estigmatización de este “desvío” 
+o “uso incorrecto”.
+Respondiendo, entonces, a la primera pregunta: ¿Pueden convivir estos usos (como variantes 
+en alternancia) en una misma comunidad de hablantes? En los ejemplos observamos que sí, se trata 
+de un fenómeno de variación estigmatizada, en el que el masculino genérico es la norma, mientras 
+que el género inclusivo es la alternativa motivada por necesidades comunicativas de un sector de la 
+sociedad, pero rechazada por otro sector social (de ahí la estigmatización) a través de estrategias como 
+la reducción a un juego fónico (considerar letras a los morfemas) o la tergiversación del significado de 
+la palabra “inclusivo”. Conviven los usos, aunque no en armonía.
+Con respecto a la segunda pregunta: ¿Pueden conciliarse en una misma comunidad los usos 
+normativos y los que no son considerados como tales? Entendemos que, al existir un proceso de 
+estigmatización y una reivindicación de la norma entendida como reglas uniformes, no es posible 
+una conciliación, ya que se trata de usos condenados, considerados incorrectos, aún no aceptados por 
+la comunidad entera. Lo que sí podemos conciliar es la idea de normativa en consonancia como una 
+gramática emergente del discurso. Si la lengua es su uso, entonces el género inclusivo es un morfema 
+más del sistema de género en español.
+Recapitulando, a partir del análisis de dos ejemplos ilustrativos del corpus, reconocemos dos 
+estrategias básicas para rechazar el uso del género inclusivo: por un lado, la apelación a la autoridad 
+(representada por la RAE) para defender una gramática asociada a la normativa y, por tanto, desestimar 
+las formas inclusivas como verdaderos morfemas de género; y por otro lado, la idea de que no se trata 
+de morfemas sino de meras letras y, por eso, pueden adjuntarse a cualquier raíz (“idiomo”). Con estas 
+estrategias, se persigue reducir el debate a un juego de palabras que le quita seriedad a la lucha de la 
+comunidad LGTB+ por sus derechos.
+En definitiva, el estudio de estas manifestaciones discursivas nos permite concluir que resulta 
+de vital importancia el papel de la Gramática en los estudios sobre la concepción de la diversidad 
+sexual en la lengua materna, porque solo analizando la gramática como concebida desde el discurso 
+(es decir, desde el uso de la lengua), podremos comprender cabalmente cuáles son los objetivos 
+comunicativos de los grupos que luchan por la aceptación de la diversidad y cuáles son los argumentos 
+de quienes los rechazan con tanta vehemencia. Finalmente, también podremos apropiarnos de estas 
+nuevas representaciones lingüísticas del género, que son consecuencia de nuevas concepciones que ya 
+están instaladas en la sociedad. La lengua solamente es un reflejo de esa nueva forma de pensar y, por 
+tanto, de esa lucha que todavía se está peleando en la arena del discurso. 
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 91 
+Referencias bibliográficas
+Alcina Franch, J. y Blecua, J. M. (1975). Gramática española. Barcelona, Ariel.
+Alonso, A. y Henríquez Ureña, P. (1938). Gramática castellana. Buenos Aires, Losada.
+Ambadiang, T. (1999). La flexión nominal: género y número. En Bosque, I. y Demonte, V. (dirs.), 
+Gramática descriptiva de la lengua española, Vol. 3 (pp. 4843-4914). Madrid, Espasa.
+Borzi, C. (2002). Gramática cognitiva prototípica y normativa. Anales del Instituto de Lingüística, 
+XXII-XXIII, 11-20.
+Butler, J. (2001[1990]). El género en disputa. El feminismo y la subversión de la identidad. Barcelona, Paidós.
+Corbett, G. (1991). Gender. Cambridge, Cambridge University.
+Di Tullio, A. (2005). Manual de gramática del español. Buenos Aires, Isla de la luna. 
+Ducrot, O. y Todorov, T. (1976). Diccionario Enciclopédico de las Ciencias del Lenguaje. Buenos Aires, 
+Siglo XXI.
+Espósito, S. (06 de mayo de 2020). Streaming: el regreso solidario de un clásico festival rockero. La 
+Nación. https://bit.ly/3BPUcT0 
+García, É. (1991). Social bias, communicative needs, and frequency of use as factors in grammatical change. Ms.
+Geeraerts, D. y Cuyckens, H. (eds.). (2007). The Oxford Handbook of Cognitive Linguistics. Oxford, 
+Oxford University Press.
+Gestión. (04 de mayo de 2020). Descubren anticuerpos que bloquean infección del Covid-19 en las 
+células. https://bit.ly/3DsCYfH
+Giammatteo, M. (2020). El género gramatical en español y la disputa por el género inclusivo. Cuarenta 
+Naipes. Revista de Cultura y Literatura, 2(3), 177-198. https://bit.ly/3Lrxjs8
+Hockett, Ch. (1971). Curso de lingüística moderna. Buenos Aires, Eudeba.
+Hopper, P. (1988). Emergent Grammar and the A Priori Grammar Postulate. En Tannen, D. (ed.), 
+Linguistics in Context: Connective Observation and Understanding, N° 5 (pp. 117-134). Ablex, 
+Norwood.
+Kovacci, O. (1990). El comentario gramatical. Vol. I. Madrid, Arco/Libros.
+Lakoff, G. (1987). Women, fire and dangerous things. Chicago, University Press.
+Langacker, R. (1987). Foundations of Cognitive Grammar. Theoretical Prerequisites. Vol. 1. Stanford, 
+Stanford University Press.
+Langacker, R. (1991). Foundations of Cognitive Grammar. Descriptive Applications. Vol. 2. Stanford, 
+Stanford University Press.
+Langacker, R. (2000). Grammar and conceptualization. Berlin/New York, Mouton de Gruyter.
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+92 
+Ley, M. (13 de mayo de 2020). Mapa del Covid-19 en Madrid: comprueba cuántos casos hay en tu 
+barrio. El Mundo. https://bit.ly/3S7qfmH
+López García, M. (2013). La lengua que somos. Encuesta a los hablantes rioplatenses sobre la lengua 
+que hablan. Revista Lenguas Vivas, 10, 30-41. https://bit.ly/3DGtcGK
+López García, M. (2017). Las variedades lingüísticas del español en los libros escolares argentinos: 
+entre las políticas del estado y el mercado. Estudios de Lingüística Aplicada, 65, 157-180. 
+https://bit.ly/3qSHjRC
+Martínez, A. (2000). Lenguaje y cultura. El contexto extralingüístico a la luz de la estructura lingüística. 
+Signo y seña, 11, 199-222. https://bit.ly/3qSVSVA
+Martínez, A. (2019a). El lenguaje inclusivo. La mirada de una lingüista. En Actas del Primer Congreso 
+de Lenguaje Inclusivo. La Plata, Memoria Académica. https://bit.ly/3Bxp6hH
+Martínez, A. (2019b). La cultura como motivadora de sintaxis. El lenguaje inclusivo. Cuadernos de la 
+ALFAL, 11(2), 186-198. https://bit.ly/3UyyqdQ
+Martínez, A. (2019c). Disidencias en la conformación de la gramática: el lenguaje inclusivo. Heterotopías, 
+2(4), 1-16. https://bit.ly/3BrowC4
+Martínez, A. y Speranza, A. (2009). El entramado de los lenguajes. Buenos Aires, La Crujía.
+OpenWHO. (2022). Introducción a la COVID-19: métodos de detección, prevención, respuesta y 
+control. OpenWHO. https://bit.ly/3xAyCiN
+Organización Mundial de la Salud (OMS). (10 de noviembre de 2020). Información básica sobre la 
+COVID-19. WHO. https://bit.ly/3xAmwpE
+Otheguy, R. y Stern, N. (2000). The acategorial Lexicon and the Pairing Strategies. En Contini Morava, 
+E. y Tobin, Y. (eds.), Between Grammar and Lexicon (pp. 123-157). Amsterdam/Philadelphia, John 
+Benjamins.
+Pena, J. (1999). Partes de la morfología. Las unidades del análisis morfológico. En Bosque, I. y Demonte, 
+V. (dirs.), Gramática descriptiva de la lengua española, Vol. 3 (pp. 4306-4366). Madrid, Espasa. 
+Real Academia Española (RAE). (2009). Nueva Gramática de la lengua española. Madrid, Espasa. 
+[NGLE]
+Redacción Cubadebate. (04 de mayo de 2020). Cuba reporta 19 casos positivos a la COVID-19, dos 
+fallecidos y 49 altas médicas. Cubadebate. https://bit.ly/3SdMojo
+Redacción Diario Página Siete. (04 de mayo de 2020). Las máscaras contra Covid-19 creadas en una 
+favela con impresoras de chatarra. Página Siete. https://bit.ly/3LottAc
+Reid, W. (2019). The justification of grammatical categories. En Shin, N. y Erker, D. (eds.), Questioning 
+Theoretical Primitives in Linguistic Inquiry (pp. 91-132). Amsterdam/ Filadelfia, John Benjamins 
+Publishing Company.
+Resistencias al lenguaje inclusivo: entre la variación y la normativa
+DOI: http://dx.doi.org/10.30972/clt.0196210
+María Soledad Funes - María Cecilia Romero
+ 93 
+Rivera, M. [Usuario]. (22 de septiembre de 2021). *POR UN IDIOMA SIN “IDIOMO”* 
+[Publicación]. Facebook. https://bit.ly/3RYNek5
+Romero, M. C. y Funes, M. S. (2019). Nuevas conceptualizaciones de género en el español de la 
+Argentina: un análisis cognitivo prototípico. Revista RASAL, 7-39. https://bit.ly/3ScTh4V
+Romero, M. C. y Funes M. S. (2021). Prácticas de enseñanza de la lengua desde una perspectiva de 
+género. En Torres Fernández, C.; Puig Guisado, J.; Cruz Ortiz, R. y Reyes de las Casas, S. (coords.), 
+Palabras entre la igualdad y la diversidad: replanteamientos sobre sexualidad y género en el ámbito de la 
+Filología y la Didáctica (pp. 193-203). Madrid, Editorial Dykinson.
+Romero, M. C.; Funes, M. S. y Troncoso, M. (2021). La enseñanza de la lengua materna desde una 
+perspectiva de género: el aporte de una gramática discursiva. En Iglesias Redondo, M. R.; Puig 
+Guisado, J. y Torres Fernández, C. (coords.), Análisis y propuestas educativas sobre género y diversidad 
+sexual: sociedades y escrituras en continuas transformaciones (pp. 145-171). Madrid, Editorial Dykinson.
+Saucedo, M. [Usuario]. (02 de agosto de 2020). La RAE rechaza nuevamente el lenguaje 
+inclusivo - National Geographic en Español [Enlace compartido en una publicación]. Facebook. 
+https://bit.ly/3LpFa9A
+Senz, S. y Alberte, M. (eds.). (2011). El dardo en la Academia. Esencia y vigencia de las academias de la 
+lengua española. Santa Cruz de Tenerife, Melusina.
+Speranza, A. (2017). Las formas del imperfecto del subjuntivo en español: una alternancia significativa. 
+En Bein, R.; Bonnin, J. E.; di Stefano, M; Lauría, D. y Pereira, M. C. (coords.), Homenaje a Elvira 
+Arnoux (pp. 255-267). Buenos Aires, Publicaciones de la Facultad de Filosofía y Letras de la 
+Universidad de Buenos Aires.
+Troncoso, M.; Romero, M. C.; Funes, M. S. y Poggio, A. (2022). Los estereotipos genéricos en la 
+elección de las profesiones en los Bachilleres con Orientación Profesional en Lengua y Literatura. 
+En Cocciarini, N. y Malizia, A. (comps.), Trans-formando los saberes desde la experiencia. Actas 
+del VIII Coloquio Interdisciplinario Intrenacional Educación, Sexualidades y Relaciones de Género. II 
+Jornadas de Educación, Género y Sexualidades (pp. 242-250). Rosario, Facultad de Humanidades y 
+Artes Ediciones.
+*María Soledad Funes es Doctora en Lingüística por la Universidad de Buenos Aires (UBA) e 
+Investigadora Asistente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET). 
+Asimismo, se desempeña como Jefa de Trabajos Prácticos en las materias Gramática y Sintaxis (Cátedra 
+Borzi) de la Facultad de Filosofía y Letras de la UBA y como profesora de las materias Pedagogía 
+Léxico Gramatical y Variaciones lingüísticas del español en la Diplomatura de Enseñanza de Español 
+como Lengua Segunda y/o Extranjera, en la Universidad Nacional de San Martín (UNSAM). Ha 
+participado como expositora en varios congresos internacionales y ha publicado artículos en revistas 
+nacionales e internacionales sobre temas de gramática española, siempre desde el Enfoque Cognitivo 
+Prototípico.
+María Soledad Funes - María Cecilia Romero
+CLRELyL 19 (2022): 71-94. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196210
+94 
+**María Cecilia Romero es Profesora y Licenciada en Letras por la Facultad de Filosofía y Letras 
+de la Universidad de Buenos Aires (UBA). Es doctoranda por la misma universidad y se desempeña 
+como ayudante de primera en la Cátedra de Gramática Cognitiva (UBA). Ejerce como profesora 
+de Prácticas del Lenguaje en el nivel medio y en nivel superior. Sus intereses de investigación se 
+centran en las prácticas de escritura en la escuela secundaria y en la enseñanza de la lengua desde una 
+perspectiva de género.

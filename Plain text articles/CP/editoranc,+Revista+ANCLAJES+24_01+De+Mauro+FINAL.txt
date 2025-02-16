@@ -1,0 +1,743 @@
+69
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+De Mauro, Sofía. “La imposibilidad moral de la existencia del drama: notas sobre la 
+controversia del Ollantay”. Anclajes, vol. XXIV, n.° 1, enero-abril 2020, pp. 69-86.
+DOI: 10.19137/anclajes-2020-2415
+La imposibilidad moral 
+de la existencia del 
+drama: notas sobre 
+la controversia del 
+Ollantay 
+Sofía De Mauro
+Centro de Investigaciones “María Saleme de Burnichón”
+Facultad de Filosofía y Humanidades
+Universidad Nacional de Córdoba, CONICET
+Argentina
+ssofiadem@gmail.com
+ORCID: 0000-0002-1767-0954
+Fecha de recepción: 25/06/2019 / Fecha de aceptación: 23/10/2019
+Resumen: A mitad de siglo XIX, a partir de la publicación del drama inca Ollantay, se 
+desata un amplio intercambio sobre literatura indígena en el ámbito americanista. En 
+1881, Bartolomé Mitre se alza como una de las voces disonantes al poner en tensión sus 
+particulares representaciones acerca de la lengua, la literatura y las culturas indígenas y 
+al cuestionar el estatuto de las producciones prehispánicas. Para revisar el debate que 
+se genera, nos acercaremos a la problemática del Ollantay a partir de sus planteos y de 
+la publicación de “Ollantay. Estudio sobre el drama quechua” inserto en la obra póstuma 
+de Mitre, el Catálogo razonado de la sección lenguas americanas (1909-1911). Al seguir 
+el recorrido de estas publicaciones intentaremos mostrar, también, la recepción de la 
+ciencia filológica en el círculo letrado rioplatense. Particularmente, nos adentraremos en 
+los problemas que emergen, en ese momento, como preguntas centrales de las ciencias 
+antropológicas y que fueron sustentados, con distintos enfoques, desde la lingüística 
+indígena americana.
+Palabras clave: Ollantay; Bartolomé Mitre; literatura y lenguas indígenas; siglo XIX.
+The moral impossibility of the existence of drama: 
+notes on the Ollantay controversy 
+Abstract: In the mid-nineteenth century, a broad exchange of thought on indigenous 
+literature in the Americanist context was unleashed following publication of the Incan 
+drama Ollantay. In 1881, Bartolomé Mitre rose as a dissonant voice in the debate by 
+questioning its particular representations of language, literature, and indigenous cultures, 
+70
+Sofía De Mauro | 
+ XIV.1 (enero-abril 2020) ISSN 1851-4669
+while also challenging the status of pre-Hispanic works. In reviewing these discussions, 
+we approach the problem of Ollantay through his theoretical proposals and the publica­
+tion of “Ollantay: Estudio sobre el drama quechua”, inserted into his posthumous work 
+Catálogo razonado de la sección lenguas americanas (1909-1911). Analyzing these works, 
+we also seek to convey philological science’s reception in the River Plate literate circle. 
+In particular, we delve into the problems that emerged at that time as issues in anthro­
+pological science and which were supported, with varying foci, by indigenous American 
+linguistics.
+Keywords: Ollantay; Bartolomé Mitre; indigenous languages and literature; 19th cen­
+tury.
+A impossibilidade moral da existência do drama: 
+notas sobre a controvérsia do Ollantay
+Resumo: Em meados do século XIX, após a publicação do drama incaico Ollantay, inicia-
+se um amplo intercâmbio a respeito da literatura indígena no ámbito americanista. Em 
+1881, Bartolomé Mitre destaca como uma das vozes do período ao tensionar suas re­
+presentações particulares sobre a língua, a literatura e as culturas indígenas, questionan­
+do, com isso, o status das produções pré-hispânicas. Com o intuito de revisar o debate 
+do período, abordaremos a questão do Ollantay a partir das propostas e da publicação 
+de “Ollantay. Estudio sobre el drama quechua”, de Bartolomé Mitre, inserido em seu 
+trabalho póstumo denominado Catálogo razonado de la sección lenguas americanas (1909-
+1911). Seguindo o percurso dessas publicações, nos debruçaremos, também, sobre a 
+recepção da ciência filológica no círculo literário da região do Prata. Aprofundaremos, 
+ainda, em problemas que emergem naquele momento como, por exemplo, questões 
+centrais das ciências antropológicas que foram sustentadas, com diferentes abordagens, 
+a partir da linguística indígena americana.
+Palavras chave: Ollantay; Bartolomé Mitre; literatura e línguas indígenas; século XIX.
+71
+ XIV.1 (enero-abril 2020) ISSN 1851-4669 | La imposibilidad moral de la existencia del drama...: 69-86
+El Ollantay
+nosotros podemos elevarnos hasta cualquier nivel de abstrac­
+ción; los otros, por causa de sus lenguas, están como condena­
+dos a aferrarse a las más pedestres lógicas de lo concreto. 
+Carlos Reynoso, 
+Lenguaje y pensamiento, 2014.
+El drama Ollantay es una de las escasas composiciones lite­
+rarias que nos quedan de la antigua América. Está escrito en 
+quechua, el idioma de los Incas; y aunque lo hacen algunos 
+autores posterior á la conquista del Perú por las armas espa­
+ñolas, dan sobrados motivos para creerlo anterior lo clásico 
+de su lenguaje, la índole de sus versos, la estructura general de 
+la obra, la naturaleza del asunto y el orden de ideas en que la 
+accion se desarrolla. No hay en él nada que revele la manera de 
+pensar ni de sentir de Europa, ni nada que no esté adecuado 
+á las instituciones, á las costumbres y al estado social de aquel 
+vasto Imperio que dominó Pizarro y se extendía de las riberas 
+del Ancasmayu á las del Mauli. Pudo el cura D. Antonio Val­
+déz, á quien algunos lo atribuyen, ser el primero en descubrir­
+lo y recogerlo, no á mi entender escribirlo.1
+Gabino Pacheco Zegarra, 
+Drama en verso quechua del tiempo de los incas, 1886.
+L
+a problemática acerca del origen y datación del drama Ollantay 
+es una discusión que parece no estar cerrada en la crítica literaria 
+y en los estudios quechuistas (Calvo 2006; Itier 2006; Millones 
+1981). Desde la publicación de la obra, por parte de Johann Jakob von Tschudi, 
+en 18532, se formaron tres posturas al respecto: la hispanista, la incanista y la del 
+hibridismo (Calvo)3. A decir verdad, actualmente no es usual encontrar algún 
+planteo que sostenga la pre-hispanidad total del drama; pero, aparte del origen 
+de la leyenda, muchos han coincidido en atribuir su escritura al cura cuzqueño 
+Antonio Valdez, fallecido en 18164. Sin embargo, Valdez anotó que había adqui­
+1	
+Tanto en esta como en todas las citas, respeto la ortografía original.
+2	
+Johann Jakob von Tschudi, de origen suizo, nació en 1818 y falleció en 1889. El título completo 
+de la obra es Die Kechua Sprache. Erste abtheilung Sprachlehre.
+3	
+La tesis hispanista sostiene que la obra fue escrita después de la Conquista; la incanista, que fue 
+escrita por los incas; en cambio, el hibridismo propone una escritura conjunta (esto es, sobre la 
+base de la leyenda incaica, la intervención escrituraria de algún español). 
+4	
+Los manuscritos de Antonio Valdez son encontrados en 1816 por su sobrino, Narciso Cuentas, 
+quien asegura que la autoría de la obra es de su tío (Calvo 2006).
+72
+Sofía De Mauro | 
+ XIV.1 (enero-abril 2020) ISSN 1851-4669
+rido un manuscrito copiado en La Paz con fecha de 1735, aunque nadie conoció 
+el paradero de este documento, además de que suele ser común que haya errores 
+de datación en la época. A su vez, Clements Markham también afirmó poseer 
+un manuscrito de 1707; 5 no obstante, pudo comprobarse que decía “1797”. En 
+todo caso, si ambos –Markham y von Tschudi– se inclinaron por la tesis de la 
+incanidad del drama fue porque no conocían las características del teatro espa­
+ñol del Siglo de Oro ni tampoco que, en la época colonial, se realizaba teatro 
+quechua eclesiástico (Itier). 
+En rasgos generales, el argumento de la obra cuenta la historia de Ollanta, 
+un importante guerrero que se enamora de Cusi Coyllur, hija del rey inca Pacha­
+cútec (1438-1471). Esta unión entre un plebeyo y una princesa era prohibida, 
+por lo que haber solicitado su mano desata el odio del rey, quien no lo perdona 
+y encierra a su hija. A partir de esto, el guerrero se instala en la región del An­
+tisuyo que gobernaba y, desde allí, se origina la “rebelión de Ollantay”, donde 
+se proclama nuevo inca. Pasan varios años, el rey inca muere y le sucede su hijo 
+Túpac Yupanqui, quien decide vengarse en nombre de su padre; pero, final­
+mente, lo perdona. Así, Ollanta no solo logra reencontrarse con su amada, con 
+quien había tenido una hija, sino que, además, es encumbrado con un puesto 
+de importancia. 
+El intercambio de material que se desató durante el transcurso del siglo 
+XIX con el auge coleccionista de obras americanas y, en particular, de la civili­
+zación incaica, pudo haber generado, como dice César Itier, cierta “impostura 
+turística” que haya forzado argumentos a favor de la tesis incanista. Sea como 
+fuere, el impacto de la obra en la época fue notable y produjo gran cantidad de 
+publicaciones en varios idiomas. La cronología de las apariciones es la siguien­
+te: en 1835, se dio noticia del texto en el diario cuzqueño “Museo Erudito” y, 
+en 1851, Martín E. de Rivero y von Tschudi publicaron parcialmente el Ollan­
+tay en el reconocido libro Antigüedades Peruanas; luego, apareció por primera 
+vez en 1853 de manera completa, sin traducir, en la obra de von Tschudi, Die 
+Kechua Sprache. A partir de allí contamos con la edición de José Barranca en 
+1868 en castellano; en 1871 en inglés, a cargo de Markham; en 1873, nue­
+vamente al castellano de la mano de José Fernández Nodal; en 1875, otra vez 
+por von Tschudi; en 1876, también en castellano por Constantino Carrasco; 
+en 1878, al francés por el quechuista Gabino Pacheco Zegarra; en 1890, al 
+alemán por Ernst Middendorf, entre otras. De la crítica a algunas de estas 
+obras nos ocuparemos a continuación, a partir de lo que escribió Bartolomé 
+Mitre sobre ellas en el apartado “Quichua-Aymará” de su Catálogo razonado de 
+la sección lenguas americanas (1909-1911)6.
+5	
+Clements Markham (1830-1916), geógrafo e historiador británico.
+6	
+El Ollantay de Mitre no toma en cuenta la obra de Middendorf, ya que se publica nueve años 
+más tarde. A su vez, no todas estas publicaciones son incorporadas como entradas en el Catálogo 
+razonado.
+73
+ XIV.1 (enero-abril 2020) ISSN 1851-4669 | La imposibilidad moral de la existencia del drama...: 69-86
+Protoplasma de literatura	
+la palabra dicha, luego escrita, luego leída, después meditada y 
+vuelta a pronunciar ha pasado por varios crisoles para salir más 
+pura y resplandeciente. Esta es la marcha de todas las lenguas a 
+medida que las palabras se reproducen, se reproducen también 
+las abstracciones y cuando se piensa en la distancia que media 
+entre los primeros monosílabos y el alfabeto, entre éste y el 
+futuro y el condicional, etc., la imaginación se abisma. La 
+lección más provechosa que sacamos es que el espíritu humano 
+es perfectible hasta el infinito.
+Bartolomé Mitre, 
+Diario de la juventud, [1843] 1936.
+El Catálogo razonado de la sección lenguas americanas salió a la luz póstu­
+mamente y se publicó en formato “catálogo” que, para el círculo de letrados 
+estudiosos de asuntos americanos, era una de las herramientas más útiles para la 
+circulación, difusión y venta del material cada vez más requerido por los colec­
+cionistas del Río de la Plata y del mundo. El Catálogo contiene los comentarios, 
+reseñas y críticas que Mitre realiza a las publicaciones sobre lenguas y lingüística 
+americanas aparecidas hasta el momento (aunque también sobre manuscritos e 
+incunables). Es una obra que se enmarca en el interés creciente del americanismo 
+por un campo de estudios específico referido al léxico y por las lenguas del nuevo 
+continente, inaugurado, según Devoto, en el primer tercio de siglo por Pedro 
+De Angelis (1784-1859). Parafraseando a Luis María Torres (1909) –encargado 
+de la edición y de la Introducción del Catálogo–, Mitre sería el continuador de 
+la línea de De Ángelis, con un catálogo único en su género por la gran canti­
+dad de información que contiene (se publica en tres tomos y abarca alrededor 
+de seiscientas obras; entre las cuales, más de cuatrocientas tratan sobre lenguas 
+americanas).
+El título cuarto del Catálogo razonado (en adelante CR) es la parte más exten­
+sa, en la que se consigna el material sobre lenguas americanas en particular, desde 
+el extremo sur del continente hasta las lenguas del norte. La séptima sección 
+dentro de este apartado se denomina “Quichua-Aymará” y contiene la reseña de 
+sesenta obras7. En este apartado, se ubican las obras de algunos autores referidas 
+al Ollantay y, curiosamente, ninguna de estas entradas tiene algún comentario. 
+Sin embargo, al revisar las fichas manuscritas que sirvieron de base para la pu­
+blicación del CR8, hemos podido comprobar que existió un borrador referido 
+7	
+La séptima sección dentro del capítulo IV es una de las más copiosas. En primer lugar, tenemos 
+la sección “Norte América y Canadá”, con 74 entradas, luego “Guaraní” con 64 entradas y, en 
+tercer lugar, la sección que nos compete. Las obras que la componen se dividen de la siguiente 
+manera: cuatro para “Quichua aymará”, cuarenta y seis para “Quichua” y diez para “Aymará”. 
+8	
+Agradecemos a la Lic. María Ximena Iglesias, responsable del Archivo Histórico del Museo 
+Mitre, por su predisposición en la consulta del material.
+74
+Sofía De Mauro | 
+ XIV.1 (enero-abril 2020) ISSN 1851-4669
+específicamente a la entrada de Markham. Se trata de ocho papeletas que no fue­
+ron incorporadas al CR, pero que coinciden, en líneas generales, con el artículo 
+de Mitre que se incorpora como “Adición” a la sección “Quichua”: “Ollantay, 
+estudio del drama quichua”, publicado con anterioridad en el primer número 
+de la Nueva Revista de Buenos Aires en abril de 18819. Estas papeletas están agru­
+padas con una carátula que reza “Ollantay (Quechua) 26”. Este número indica 
+el orden de la entrada de la obra de Markham en la sección “Quichua-Aymará” 
+del CR.
+“¿Existía en América una literatura cualquiera, antes de la época de su descu­
+brimiento por la Europa?” (Mitre, Ollantay, 3). Con esta pregunta inicia Mitre 
+su ensayo e inaugura, como voz disonante frente a las publicaciones de otros 
+letrados, la controversia sobre la autoría y origen del drama. Introduce su estudio 
+con el comentario acerca de que, hasta el momento, no se había planteado for­
+malmente la existencia de una literatura americana precolombina y que, quienes 
+él denomina “apologistas de lo americano”, se atrevieron como mucho a poner 
+de relieve otro tipo de manifestaciones artísticas. Pero, categórico, Mitre asume 
+que es imposible intentar elevarlas a otro nivel, ya que se trata de agrupaciones 
+humanas “aun en el estado salvaje”. Así, se propone demostrar la imposibilidad 
+de una creación literaria para civilizaciones que no sean las occidentales. Para 
+América, estas manifestaciones podrían ser, en todo caso, el “protoplasma de una 
+literatura” (Mitre, Ollantay, 3). 
+A su vez, la inconsistencia en los planteos de sus contemporáneos está dada 
+por la falta de documentación o de documentación verídica, como también de 
+formas de razonamiento válidas. Ese punto se condice con su particular manera 
+de hacer historia (Devoto y Pagano) y que –como veremos más adelante– es uno 
+de los ejes centrales en su debate con Vicente Fidel López (1815-1903), quien 
+también forma parte de la polémica.
+El argumento de Mitre para desechar las teorías incanistas tiene dos pilares: 
+uno que podríamos denominar sociológico y otro estético, aunque ambos se 
+intersecan. El primero se relaciona con su representación acerca de las comu­
+nidades originarias americanas, que puede apreciarse con mayor profundidad 
+en un escrito de 1879, Las ruinas de Tiahuanaco, a propósito también de la 
+civilización incaica10. Siguiendo a Mitre, se trata de civilizaciones que por poco 
+llegan a la condición de humanas y su “estado sociológico” en el momento 
+de la Conquista no permitía la “posibilidad moral de la existencia del drama” 
+(Mitre 1881: 4). 
+9	
+El primer número de la Nueva Revista –con tirada aparte en la Imprenta Mayo ese mismo año y 
+dirigida por Vicente Quesada– comienza con una sección que se denomina “Los ex-presidentes” 
+y está compuesta por los trabajos de Mitre, Sarmiento y Avellaneda. Tal hecho “afirma los pro­
+pósitos del Programa” de la revista (1881, 9).
+10	 Se trata de un texto que rescribe cuarenta años después de su viaje a las Ruinas en 1836. Hasta el 
+momento no hemos podido hallar la versión de 1879, que tampoco se encuentra en la Biblioteca 
+del Museo Mitre. En cambio, trabajamos con la edición de 1954 (Hachette).
+75
+ XIV.1 (enero-abril 2020) ISSN 1851-4669 | La imposibilidad moral de la existencia del drama...: 69-86
+De acuerdo con su planteo, la falta de cultura –su animalidad– está dada, 
+a su vez, por la ausencia de una de las tecnologías predilectas de las sociedades 
+modernas: la escritura; discurso muy a tono con el carácter grafocéntrico de la 
+lingüística decimonónica y en particular, de la lingüística andina (Noriega). La 
+no-escritura indígena, esto es, el hecho de que no hayan podido evolucionar a 
+ese estadio de complejidad cultural es símbolo de un estado mental inferior, de 
+una “psicología” simple; además, sin capacidad de abstracción, según sostiene 
+Mitre. De esta manera, se explicaría, también, el tipo de lenguaje aglutinante y 
+no flexivo como las lenguas indoeuropeas. Este eje de análisis del que parte su 
+crítica se materializa en el CR con una categoría que parece acuñar él mismo: 
+“ideología lingüística”. 
+En este punto, se articula el aspecto sociológico con el estético: para el análisis 
+de las lenguas lo que le importa es su “ideología idiomática”11, es decir, la forma 
+en que cada pueblo piensa en su lengua. La literatura, entonces, que debe tener 
+como base una lengua evolucionada, sería imposible en civilizaciones cultural­
+mente subdesarrolladas. Siguiendo este razonamiento, el drama, “ya sea como 
+síntesis psicológica por la asociación de ideas, ya sea como espectáculo emocional 
+en que las pasiones intervienen personificadas presentando su faz esterna [sic]” 
+(4), no podría haber existido antes de la llegada de los españoles a América. Así, 
+el drama como representación de las emociones humanas se produce solo con la 
+aptitud del hombre civilizado de alejarse de lo inmediato, lo concreto, la natura­
+leza. Es la competencia de la que carecen los idiomas americanos, “desprovistos 
+de palabras representativas de ideas abstractas y de proyecciones morales [...] 
+porque todo drama escrito tiene que representarse primero en sus componentes, 
+en el alma del pueblo que lo concibe y lo formula” (5).
+Los salvajes, entonces, “que solo ven con los ojos de la carne” (6), el único 
+drama que podían concebir era la danza, entendida como una expresión artística 
+tribal en relación directa con la tierra o la “pantomima”, en la cual ni siquiera 
+interviene la palabra. De hecho, profundiza Mitre, mientras observamos a las 
+comunidades más al sur del continente, esas mismas danzas tienen aún menos 
+vestigios de forma dramática en su estructura. Siguiendo a Noriega, es tam­
+bién típico entre los quechuistas establecer esta íntima relación entre lengua y 
+literatura, que no serían solo “fenómenos culturales hermanados, sino comple­
+mentarios e inseparables” (292). Los quechuistas decimonónicos han emitido 
+comúnmente juicios de valor respecto a la lengua; ya sea para denostarla (como 
+es el caso de Mitre), aduciendo su pobreza e incapacidad de abstracción, o para 
+enaltecerla (esta posición es la que asumirá López, entre otros, para intentar 
+comprobar el origen del quechua en la lengua de los pelasgos). Pero, ambas 
+posturas se sirvieron de la analogía como recurso para sus desarrollos teóricos, es 
+decir, la comparación directa con las lenguas occidentales o, más precisamente, 
+11	 Los términos ideología lingüística, idiomática o filológica son colocados como sinónimos en 
+Mitre.
+76
+Sofía De Mauro | 
+ XIV.1 (enero-abril 2020) ISSN 1851-4669
+con el modelo latino de la lengua. A pesar de que Mitre se encarga en diferentes 
+ocasiones de poner al descubierto el hecho de que algunos estudiosos sigan ese 
+molde, no deja de comparar las “capacidades” de una y otra lengua12.
+La tesis hispanista de Mitre sostiene que el Ollantay fue representado hacia 
+1780, en momentos de la insurrección de Tupac Amaru y fue dirigido por el cura 
+Antonio Valdez, aunque en 1781 fue prohibida a partir de la condena de muerte 
+del último inca. Luego de ser publicados algunos fragmentos por Rivero y von 
+Tschudi en 1851, comienza a expandirse la creencia de que se trataba de “un 
+monumento original de la literatura dramática de la época precolombina, y poco 
+después ya nadie lo ponía en duda” (Mitre, Ollantay, 10). Solo en 1876, el reco­
+nocido quechuista Ricardo Palma, quien se encarga de escribir la introducción 
+del Ollantay del poeta peruano Constantino Carrasco, tímidamente, según Mitre, 
+habla en contra de la originalidad del drama. Aunque, aclara, esta posición es 
+expuesta por él ese mismo año, meses antes, en la Revista Chilena13, con la publi­
+cación de su carta enviada, en 1875, sobre literatura americana a Barros Arana.
+Se inicia, entonces, de la mano de reconocidos quechuistas europeos y locales 
+lo que Mitre da en llamar la “leyenda bibliográfica” en torno al Ollantay que, a 
+partir de “pruebas considerando el drama en su estructura, sus elementos y sus 
+tendencias políticas y morales” (19), intentará derribar. 
+La literatura americana
+El Ollantay como composición dramática, no tiene el mérito 
+literario que se le atribuye, no obstante que su acción tenga 
+unidad y sea bien conducida, con situaciones de bastante efecto 
+teatral. [...] A no haber sido escrito en lengua quechua, nadie se 
+habría ocupado de él, y sólo debe su celebridad á la creencia de 
+ser una producción indígena precolombina.
+Bartolomé Mitre, 
+Ollantay, 1881.
+Según podemos deducir a partir de la lectura de la correspondencia y según 
+sostienen Teresa Mozejko y Ricardo Costa, la década de 1880 es para Mitre, 
+hasta sus últimos días, una etapa dedicada casi exclusivamente a la producción 
+12	 En algunas de las reseñas de Mitre a ciertas obras del CR, critica que ciertos autores analizan las 
+lenguas americanas con los “moldes latinos”, sobre todo, las gramáticas de los misioneros (por 
+ejemplo, el Arte y vocabulario de la Lengua Guaraní de Ruiz de Montoya); aunque tiene presente 
+que los objetivos de unos (religiosos y de adoctrinamiento) en relación con la especificidad de los 
+estudiosos contemporáneos y sus intereses “científicos” son diferentes. La crítica apunta en estos 
+casos a quienes, ya enmarcados en los estudios americanistas, siguen utilizando esos métodos.
+13	 La Revista Chilena es fundada en 1875 por Diego Barros Arana y Miguel Luis Amunátegui y 
+dura solo cinco años hasta 1880. En el primer tomo de la publicación, hablan de “servir de ór­
+gano al movimiento literario de nuestro país” y convocan a quienes se dediquen a los asuntos de 
+“ciencias i de letras” (1875, v).
+77
+ XIV.1 (enero-abril 2020) ISSN 1851-4669 | La imposibilidad moral de la existencia del drama...: 69-86
+intelectual. En estos años, justamente, se concentra gran parte de sus textos so­
+bre arqueología y lingüística americana, muchos de los cuales serán luego incor­
+porados al CR.
+Más arriba nombramos una famosa carta que Mitre le envía a Barros Arana 
+en 1875, publicada meses después en Chile14. En este texto se pueden ver tam­
+bién los comienzos de la polémica historiográfica entre Mitre y López, a partir 
+de la crítica que le hace aquél a Les races aryennes du Pérou (1871)15, primero y, 
+luego, por el reproche acerca del método de López para la escritura de la historia, 
+aunque, como veremos, ambos temas confluyen.
+En la carta, se propone comentar los libros y materiales que Barros Arana le 
+remite anteriormente. Pero, su Tratado de Geografía Física y la Revista Chilena es 
+lo que más le ha llamado la atención y se centrará en esta última. Específicamen­
+te, se detiene en la sección bibliográfica16 que contiene la revista, hecha precisa­
+mente por Barros Arana en diferentes números. Así, hará “ligeras observaciones, 
+que quizás puedan serle de alguna utilidad en sus estudios” (1876, 297). 
+Nos interesa, en esta oportunidad, el análisis a la obra del Abate Charles E. 
+Brasseur de Bourbourg17 (que también aparece en el CR). Mitre se alegra de en­
+contrar en Barros Arana un aliado en relación con sus opiniones sobre el abate, 
+este “pretendido americanista” y hasta un “charlatán ignorante” (307). Critica así 
+la creencia de que el Popol Vuh sea literatura americana prehispánica, lo mismo 
+que el Rabinal Achí, contenido en su Gramática Quichua, que también Mitre se 
+14	 La carta es del 20 de octubre de 1875. En su respuesta, Barros Arana le dice a Mitre de publicar­
+la: “Mi primer propósito fué darla á la prensa, convencido de que su lectura debía ser agradable á 
+los abonados á la Revista Chilena; pero luego medité y comprendí que no convenía dar publici­
+dad á las opiniones desfavorables que usted me da acerca de algunas obras argentinas, sobre todo 
+cuando esas opiniones están revestidas de la crudeza que se usa en una conversación familiar.” 
+(1912: 325). Cuando la carta sale a la luz en la Revista –bajo el título: “Algo sobre literatura 
+americana”, en el tomo IV (1876)–, en una nota al pie aclara que ha sido publicada, pero con 
+algunos recortes de “pasajes puramente familiar[es]” (1876, 477). 
+15	 Respecto a Les races, hemos tenido la posibilidad de acceder a la obra de López que tenía Mitre 
+en su biblioteca personal y nos encontramos con una interesante marginalia que entra en relación 
+directa con la obra que mencionamos sobre las Ruinas de Tiahuanaco y el Ollantay. Se trata de 
+todo un aparato argumentativo que Mitre despliega para rebatir las teorías de López acerca de 
+las civilizaciones del Perú, sobre su lengua y su literatura. Queda por descifrar aún el orden cro­
+nológico de esta escritura, teniendo en cuenta que la obra de López es de 1871, la carta a Barros 
+Arana de 1875, la publicación de Ruinas de 1879, el Ollantay de Mitre de 1881 y la réplica de 
+Markham, con introducción de López de 1883: ¿estas notas son la base para el armado de esas 
+obras o las escribe a la luz de éstas?
+16	 Vale la pena copiar lo que escriben los directores de la revista en el primer tomo cuando se re­
+fieren a la parte de “revista bibliográfica”: “En esta reseña, ajena a todas las pretensiones de la 
+alta crítica literaria, i reducida casi esclusivamente a describir los libros de que se trata, daremos 
+la preferencia a las obras que de algún modo se refieren a la América, ya sean escritas en este 
+continente i por autores americanos, ya en Europa i por autores estranjeros.” (1875, vi). Mitre, 
+al comienzo de su carta, critica fuertemente el carácter poco americano de la Revista Chilena, 
+aunque resalta el valor de esta sección.
+17	 El abate Charles Étienne Brasseur de Bourbourg (1814-1874) publicó varias obras sobre historia 
+y lenguas americanas, especialmente sobre el maya quiché.
+78
+Sofía De Mauro | 
+ XIV.1 (enero-abril 2020) ISSN 1851-4669
+encarga de denostar, por ser, sobre todo, una copia encubierta de la del padre 
+Francisco Ximénez18: 
+supone [Brasseur de Bourbourg] que es un manuscrito «del arte dramático de los 
+antiguos americanos». No es extraño esto, cuando Marckam [sic] y otros sabios euro­
+peos y no europeos, dan por producción original del tiempo de los incas, el drama en 
+quichua Ollanta, cuyo autor se conoce, y que no es sino una traducción ó una imita­
+ción de una comedia española de capa y espada en que ni el gracioso falta. (310)
+Estas consideraciones acerca de la literatura americana, y del Ollantay en par­
+ticular, dan paso a su crítica sobre el aspecto lingüístico de la obra de B. de Bour­
+bourg. Así, los errores en los que incurre son los mismos de Vicente Fidel López, 
+quien lo toma como modelo. Ambos, según Mitre, reaccionan en contra de la 
+escuela filológica alemana, que basa las filiaciones entre las lenguas a partir de 
+la analogía en las formas gramaticales. En cambio, ellos siguen el modelo de la 
+escuela lexicológica (esta crítica también es recurrente en el CR), al poner especial 
+atención en el “sonido aislado de las sílabas radicales” o en el léxico. Este error 
+capital, para Mitre, es sobre todo un error metodológico por no seguir el devenir 
+histórico de las lenguas o el “encadenamiento lógico y geográfico en las palabras” 
+(Mitre, Ollantay, 310).
+El juicio sobre el Vocabulario de raíces de los dialectos guatemaltecos de Bourbourg 
+se convierte también en un reproche a Les races aryennes de López19, obra en la que, 
+afirma Mitre, “se pretende probar que los antiguos peruanos eran nada menos que 
+los descendientes de los griegos”. En la reseña a esta obra en el CR (1910), copia casi 
+exactas las palabras de la carta que le envía a Barros Arana referidas al abate:
+Para fundar esta tesis, el autor reacciona contra la escuela filológica, la que ha estable­
+cido la filiación de las lenguas por las analogías de las formas gramaticales, y no por 
+el sonido aislado de las sílabas radicales, ni aun de las mismas palabras análogas. Con 
+arreglo á esta teoría, sostiene, que aunque la lengua Quichua sea aglutinante, según 
+él mismo lo reconoce, y el ariaco un idioma de flexión, los quichuas se separaron de 
+sus congéneres en su tránsito de aglutinación á la flexión, quedando inmovilizados 
+en esta forma primitiva; por manera que el quichua contendrá en sí el germen de las 
+lenguas indo-europeas. Según esta teoría, desnuda de pruebas históricas y sin enca­
+denamiento geográfico, lo mismo podría probarse, que todas las lenguas americanas 
+tienen un origen ariaco ó semítico. (191)
+18	 Fray Francisco Ximénez (1666-1722), religioso español de la Orden de Santo Domingo. Actuó 
+principalmente en Guatemala y fue reconocido por haber conservado el manuscrito del Popol-Vuh.
+19	 A partir de la teoría que plantea López se entabla, también, una polémica con von Tschudi que, 
+como vimos anteriormente, se posiciona a favor de la tesis incanista del drama, pero discute 
+la filiación lingüística entre quechua y sánscrito que propone López. En la misma sección del 
+CR que venimos analizando, aparece la entrada “45. TSCHUDI-LÓPEZ, Deux lettres à propos 
+d’archéologie péruvienne,– Buenos Aires, 1876. Correspondencia entre el doctor J. J. von Tschu­
+di y el doctor Vicente F. López; refiriéndose á la obra del segundo: Les races aryennes du Pérou” 
+en relación a esto.
+79
+ XIV.1 (enero-abril 2020) ISSN 1851-4669 | La imposibilidad moral de la existencia del drama...: 69-86
+En relación con el debate gramática vs. vocabulario –que definió las co­
+ordenadas de las investigaciones de la lingüística indígena americana en la 
+época–, pareciera que, en realidad, la decisión de López sí es apoyar su análisis 
+en la estructura gramatical, sin dejar de lado las comparaciones léxicas (Qui­
+jada; y Ennis). De hecho, lo dice explícitamente también en otros escritos 
+anteriores20: 
+Lo que se necesita para descubrirlo [al parentesco] es el estudio analitico del meca­
+nismo gramatical con que los pueblos que se trata de conocer, han dado forma á la 
+espresion de sus ideas uniéndolos con las raices que contiene el tema de cada sentido. 
+No basta por consiguiente que sean análogos los sonidos con que se esprese la misma 
+idea, sino que es preciso que esa analogia sea constante, y que esté regida ademas por 
+las leyes gramaticales de la palabra: porque solo la palabra viva y combinada puede 
+demostrar que la accion intelectual que la produjo es igual y paralela entre las lenguas 
+que se comparan: solo ella puede darnos la prueba efectiva del parentezco que en­
+vuelva á dos lenguas diversas con los lazos de la familia haciéndoles miembros de una 
+misma civilizacion, ó si se quiere afluentes del mismo rio. (1869, 482)
+Sin embargo, metodológicamente, según las críticas de Mitre, sigue incu­
+rriendo en ese “error”.
+Más adelante en la carta, aunque Mitre le recomienda a Barros Arana la lec­
+tura de algunos escritos de López, le advierte, categórico:
+Excuso prevenirle que este escritor [Vicente Fidel López] debe tomarse con mucha 
+cautela, porque escribe la historia sin documentos (al menos muy escasos, fuera de 
+los impresos), guiándose por ocurrencias ó ideas preconcebidas, afirmando dogmáti­
+camente, puede decirse, en cada página, lo contrario de lo que dicen los documentos 
+inéditos, que no conoce. (1876, 317)
+ 
+Barros Arana comenta en su respuesta21 que se trata de un tipo de historia 
+“que no puede agradar á los que tenemos la costumbre de estudiar los documen­
+tos, comprobar las fechas, etc., y que, en realidad no enseña nada, absolutamente 
+nada” y que lo “que se llama historia filosófica es el asilo de los que no quieren 
+estudiar la historia, de los que quieren hacer de esta ciencia un conjunto de ge­
+neralidades y declamaciones vagas é inútiles” (326). 
+20	 En este caso, seguimos el orden de apariciones de los escritos sobre el tema. Antes de Les 
+races, López publica unos “fragmento[s] de una obra que está a punto de terminar” (Gutiérrez 
+1865) en la Revista de Buenos Aires, denominados “Estudios filológicos y etnológicos sobre 
+los pueblos y los idiomas que ocupaban el Perú al tiempo de la conquista”. En 1867, “Estudio 
+sobre la colonización del Perú por los Pelasgos en los tiempos prehistóricos, demostrada por 
+el análisis comparativo de las lenguas y de los mitos” y, en 1868, “Sistema astronómico de 
+los antiguos peruanos”. Y, también, dos entregas de “Iniciaciones filolójicas”, título bajo el 
+cual prosigue con el asunto de los “Estudios filológicos” en la misma revista, pero cuatro años 
+después (1869). 
+21	 Respuesta de la carta anterior, con fecha del 5 de diciembre de 1875.
+80
+Sofía De Mauro | 
+ XIV.1 (enero-abril 2020) ISSN 1851-4669
+Poesía, drama, literatura, lingüística
+Si la sociabilidad peruana hubiera contenido alguna vez un 
+principio de desarrollo moral, daria testimonio de ello su 
+lengua, la cual por el contrario nos dice y nos enseña, que 
+no solo no tenia ningun abstracto, ni siquiera para generali­
+zar las cosas materiales; pero que ni aun tenia elementos de 
+acercarse a la abstraccion.
+Bartolomé Mitre. 
+Marginalia en Les races aryennes de López
+la conclusion de que el drama de Ollantay es de orígen incano 
+permanece establecida con más fijeza, y en un terreno más sóli­
+do, desde que ha resistido la crítica del General Mitre. El ataque 
+fallido es una adicion de fuerza. [...] Demasiada erudicion es 
+seguramente cosa peligrosa. 
+Clements Markham, 
+Poesía dramática de los incas.
+El Ollantay de Mitre –publicado en 1881 e insertado como adición en el 
+CR– viene a consolidarse como una respuesta conjunta a las entradas que, en 
+la sección Quichua-Aymará, silenciosamente se refieren al drama inca. Como 
+estuvimos viendo más arriba, coloca en el tapete, “esplicito i terminante” (477), 
+los posicionamientos incanicistas que planteaban los quechuistas decimonóni­
+cos. Esas críticas tienen especial repercusión en Markham y López, materializada 
+en la obra The second part of the Chronicles of Peru (1883) de Pedro de Cieza de 
+León, transcripta y traducida por Markham, quien en la introducción dedica 
+dos capítulos22 a contestar, punto por punto, las críticas que Mitre realizó a su 
+trabajo, pero, sobre todo, para reivindicar el origen genuinamente incaico del 
+drama. Esa cuestión salta a la vista no bien comienza su réplica: “The reference 
+of Cieza de Leon to the songs and recitations at the court of the Yncas suggests 
+the question of the existence among the ancient Peruvians of a drama, or system 
+of representing historical and other events by means of dialogues.” (XXIX) En 
+la traducción al castellano de esos artículos que anteceden a The second part de 
+Markham, publicados como Poesía dramática de los incas. Ollantay (1883), Ló­
+pez escribe una “Carta crítica” que se hace eco también de las críticas de Mitre.
+El artículo comienza haciendo una cronología de las obras que tratan sobre 
+el drama, todas ellas tendientes a proclamar el origen prehispánico del Ollantay 
+y presenta algunos rasgos que comprobarían esa hipótesis, en la que aclara, tam­
+bién, que se ha basado en el manuscrito más fiel. Luego, abre la discusión: “En 
+este caso el «Devil’s Advocate» es nada menos que el general Don Bartolomé 
+Mitre”. Así:
+22	 “Note on the Ancient Ynca Drama” y “Peruvian Love Story”.
+81
+ XIV.1 (enero-abril 2020) ISSN 1851-4669 | La imposibilidad moral de la existencia del drama...: 69-86
+No debe desoirse su opinion, porque es un hombre de vastos estudios que posee un 
+espíritu crítico de primer órden. Pero su conocimiento del idioma quíchua y de los 
+autores españoles en los primeros tiempos de la conquista es limitado [...]. A pesar de 
+ello, el cumplido general y estadista hubiera sin duda probado su tésis si ello hubiera 
+sido posible. Los hechos sin embargo son muy numerosos y se encuentran demasiado 
+conjurados contra él. Su ataque fué bien combinado, y llevado á cabo con gallardía, 
+pero ha sido completamente infructuoso. (20)
+Las páginas que siguen se encargarán de desmentir cada uno de los argu­
+mentos de Mitre. Precisamente, la aparición de la segunda parte de las Crónicas 
+de Cieza de León es una de las piedras de toque: Mitre no las conocía, por con­
+siguiente, no estaba al tanto de lo que allí se dice respecto al drama. A su vez, 
+critica el concepto de “capa y espada”, la famosa frase que será luego citada por 
+diversos especialistas al comentar la postura de Mitre. Markham aduce, enton­
+ces, como vimos en la cita anterior, que Mitre tampoco tenía un buen manejo 
+de la literatura española de la época, ya que este tipo de composición tiene como 
+fin la “galantería”, diferente a lo que sucede en Ollantay que es una “composicion 
+historica en la que actúan personajes reales”. De esta manera, no sólo no se trata 
+de un drama de “capa y espada”, sino que “seria dificil de encontrar dos géneros 
+de composiciones dramáticas más distintos entre sí” (22).
+Si la embestida de Markham está dirigida más a los aspectos literarios, la 
+carta de López pretende enfocarse en la parte lingüística. Como Markham, 
+aduce primeramente que el problema central del artículo de Mitre es haberse 
+basado en una copia y no en un manuscrito original –la obra que Pacheco 
+Zegarra traduce al francés–, sin haberla cuestionado. No hay “examen directo” 
+y sí análisis sobre una traducción. Esta traducción es, para López, demasiado 
+libre, además de que los términos en quechua son inexactos; errores que en 
+otros códices han sido salvados. Así, las “pruebas” con las que sostiene Mitre 
+sus argumentos, son falsas.
+Algunas de las palabras que López toma como fundamentales para su vitupe­
+rio son acheter, offrir, ma petit; ninguna aparece en el texto y, además, se trata de 
+acepciones que los incas no conocían. También encuentra un error cuando Mi­
+tre traduce “dinero” en vez de “plata” (mineral), lo que implica un sentido de la 
+acción relumbrar mi plata bastante diferente: “precisamente este diálogo y estos 
+conceptos, en donde el Sr. Mitre supone un dinero ó sea pesetas que suenan, y que 
+no existe ni en sombra siquiera, es uno de los que caracterizan mejor la evidente 
+antigüedad histórica de esa pieza dramática y de su contextura” (50, con itálicas 
+en el original). Remata, López, vengativo:
+Francamente, seria bueno saber las razones que ha tenido para hacer esta preferencia 
+de un códice sobre el otro, y quisiéramos saber también si al decidirse consultó ó no 
+con el Sr. Barros Arana, que debe saber mucho de esto y de otras cosas á estar á las 
+cartas que sobre la materia ha publicado, ó le han publicado, y en las cuales poco 
+descubre por cierto las bases de su criterio filológico. [...]
+82
+Sofía De Mauro | 
+ XIV.1 (enero-abril 2020) ISSN 1851-4669
+El señor Mitre se ha ocupado de mí en su traduccion y folleto de Ollantay á pesar de 
+que hasta ahora muy poco y muy prudente era lo que yo habia avanzado sobre ese 
+drama. [...] Pero el Sr. Mitre, que en sus cartas privadas y en sus opúsculos parece 
+siempre interesado en mostrar que disiente en todo de mi manera de pensar, ha in­
+sistido muchas veces en hacer aparato del poco valor que dá á mis estudios sobre la 
+antigüedad Pre-Colombiana. Yo lo hago sin embargo, sobre los textos, hasta donde 
+puedo, jamás sobre traducciones libres y malas que nunca acepto lijeramente sin 
+verificar y sin saber verificarlas; y en cuanto á mi libro, en sus mismas pájinas he 
+dicho que aventuraba una tésis: y que la ponia en discusion dando la manera en que 
+la entendia (58-61, con itálicas en el original).
+Este es el tono de la reyerta y, luego de las respuestas de uno y otro lado, 
+silencio. Por lo menos, no hemos encontrado que Mitre conteste los argumentos 
+de Markham y López, pero sí hemos visto que en el CR ninguna de las entradas 
+referidas al Ollantay tienen alguna reseña, solamente Les races aryennes de López. 
+Y, como dijimos más arriba también, la entrada referida a Markham aparece 
+vacía en la edición publicada del CR, pero bien desarrollada en la ficha manu­
+scrita inédita.
+Involucionismo
+¿Cuál es el alcance, entonces, de la voz disruptiva de Mitre en el medio del 
+debate? Si bien Mitre se demoró casi cuarenta años en escribir Las ruinas de 
+Tiahuanaco –ya que el viaje lo había realizado en 1846 y el libro se publica en 
+1879–, hubo en el medio un reconocido esfuerzo por el armado de una Biblio­
+teca Americana de amplias dimensiones. En el camino, planificó proyectos que 
+nunca se concretaron, pero que aspiraban a relatar ciertos vacíos en la historia 
+americana como Historia del descubrimiento, conquista y población del Río de la 
+Plata y El hombre salvaje de la cuenca del Plata (Mitre 1876). Además, en sus 
+últimos veinte años, publicó artículos referidos exclusivamente a asuntos ameri­
+canos y, en particular, sobre lenguas indígenas.
+Ruinas es una obra integral, por momentos un diario autobiográfico, un trat­
+ado arqueológico, un estado de la cuestión de los estudios americanistas. El li­
+bro condensa información variada: ubicación, geografía lingüística, tradiciones, 
+origen, presentación de algunas teorías y sus refutaciones (Alcides D’Orbigny, 
+Léonce Angrand), mezclada con información personal tal como “circunstancias 
+que llevan al autor á visitar las riunas” o “impresiones que despierta el paisaje” 
+(205). Desde las primeras líneas el género diario de viaje se hace presente y, 
+en consecuencia, a veces aparece la pluma en primera persona (de manera ex­
+plícita en el primer y último párrafo). Son reveladores los capítulos en los que 
+se cristaliza la postura de Mitre atravesada por el discurso del spencerismo social 
+(Lightman): Tiahuanaco es, para él, el modelo de lo que no debe ser, el retraso 
+del hombre americano frente al progreso de las sociedades occidentales. En esas 
+páginas, postula la “teoría de la ley del retroceso americano” y la “rotación de 
+83
+ XIV.1 (enero-abril 2020) ISSN 1851-4669 | La imposibilidad moral de la existencia del drama...: 69-86
+los estados sociales de la América en el círculo vicioso” (67). De esta manera, si­
+guiendo el modelo de involución de Spencer y las ideas biologicistas de Darwin, 
+la barbarie no es un fenómeno de estancamiento, sino de regresión. 
+La “ideología lingüística”, en este sentido, le permite explicar, a partir de la 
+división tipológica de las lenguas, cómo algunas lenguas –y, por extensión, los 
+pueblos que las hablan– no son capaces de asimilarse a la cultura occidental. 
+Así, como apunta en su Diario, si bien “el espíritu humano es perfectible hasta 
+el infinito” (15) en relación a la evolución de las culturas, esto no se aplica a las 
+sociedades pre-existentes. En otra oportunidad, pudimos rastrear las primeras y, 
+tal vez, escasas utilizaciones del término “ideología lingüística” por parte de Mi­
+tre (De Mauro) y, si bien aún no podemos precisar a partir de qué otras lecturas 
+específicas Mitre comienza a utilizar la expresión, a modo de hipótesis, arriesga­
+mos que se trata de su propia versión de los postulados de Du Ponceau referidos 
+al polisintetismo como característica general de todas las lenguas americanas, 
+pero desde una perspectiva asentada en notables prejuicios evolucionistas23. En 
+todo caso, siguiendo a Campbell en este punto (1991), “various “ideologic” 
+psychological-typological-evolutionary assumptions are shared by virtually all 
+nineteenth-century theorists of American Indian linguistics”, ya sea sistemática­
+mente o de manera contradictoria (28). Campbell y Poser (2008) reconocen la 
+utilización del término “ideología” en un sentido particular para la lingüística: 
+“‘Ideology’ embraced the various forms, structures, and systems of languages 
+and the means whereby they differently group and expound the ideas of the 
+human mind. It governed the broader evolution of language and thus also had 
+implications, at a more abstract level, for language classification” (226). 
+Mitre sostiene hacia el final de Ruinas lo mismo que, en solitario, dice en 
+relación al Ollantay: las “tribus salvajes de la América” no poseían ni en su orga­
+nización “ni en su cerebro” las posibilidades para la progresión, lo cual explica 
+que “estaban fatalmente destinadas a morir por esterilidad” (191). Estos recuer­
+dos de viaje, su “sueño arqueológico” (203), son una importante guía de lectura 
+para entender todos los trabajos que en los últimos veinte años del siglo XIX Mi­
+tre escribe sobre lingüística americana. Con todo, hemos podido revisar que en 
+los debates que tienen como centro a Mitre y López (la carta a Barros Arana que 
+López nombra, Les races que Mitre anota en consonancia con Ruinas, el Ollantay 
+que es criticado por López y por Markham) se discuten cuestiones relacionadas 
+con el método de historizar –y, en algún punto, de hacer lingüística– y con la 
+posibilidad de acceso a la verdad a través de los documentos. Esta preferencia 
+documental, base y fundamento de la historiografía luego denominada “erudita” 
+son la manera de relacionarse con las sociedades siempre pretéritas que, por otro 
+lado, no pueden formar parte del pasado argentino, según Mitre (Devoto y Pa­
+gano). Entendemos, en este sentido, que revisitar estos debates en sus distintos 
+23	 Para Mitre, el polisintetismo es sinónimo de pobreza, para Du Ponceau, por el contrario, este 
+rasgo que comparten todas las lenguas americanas, es signo de creatividad y originalidad.
+84
+Sofía De Mauro | 
+ XIV.1 (enero-abril 2020) ISSN 1851-4669
+soportes (édito e inédito, artículos de revista, libros, correspondencia, notas de 
+lectura) nos da la posibilidad de indagar acerca de algunas recurrencias, silenci­
+amientos u ocultamientos en la incorporación de ‘lo indígena’ en la agenda de 
+esta lingüística americana. 
+Referencias bibliográficas
+Campbell, Lyle. “The History of American Indian Linguistics.” American indian 
+languages. The Historical Linguistics of Native America. Nueva York: Oxford 
+University Press, 1997, pp. 26-89.
+Campbell, Lyle y William Poser. “The philosophical–psychological– typologi­
+cal–evolutionary approach to language relationships”. Language Classifica­
+tion History and Method. Nueva York: Cambridge University Press, 2008, 
+pp. 224-233.
+Calvo Pérez, Julio. “En busca del manuscrito perdido del Ollantay”. Revista An­
+dina, n.º 43, 2006, pp. 195-213.
+Castro-Klaren, Sara. “Las ruinas del presente: Cuzco, entre Markham y el inca 
+Garcilaso”. INTI, Revista de literatura hispánica, n.º 67-68, 2008, pp. 11-26. 
+Crespo, Horacio. “El erudito coleccionista y los orígenes del americanismo”. 
+Historia de los intelectuales en América Latina. Buenos Aires: Katz editores. 
+Vol. 1. 2008, pp. 290-311. 
+Devoto, Fernando. “La construcción del relato de los orígenes en Argentina, 
+Brasil y Uruguay: las historias nacionales de Varnhagen, Mitre y Bauzá”. His­
+toria de los intelectuales en América Latina. Buenos Aires: Katz editores. Vol. 
+1, 2008, pp. 270-289. 
+Devoto, Fernando y Nora Pagano. Historia de la historiografía argentina. Buenos 
+Aires: Sudamericana, 2009.
+De Mauro, Sofía. “El Catálogo razonado de Bartolomé Mitre y la lingüística 
+indígena americana a fines de siglo XIX en Argentina”. RASAL Lingüística, 
+2018, pp. 67-86.
+Ennis, Juan. “Las novedosas ciencias del lenguaje y la política de sus usos: Vi­
+cente Fidel López en la Revista de Buenos Aires (1863-1869)”. Boletín de la 
+Sociedad Española de Historiografía Lingüística, n.º 12, 2018, pp. 53-74.
+Itier, César. “Ollantaty, Antonio Valdez y la rebelión de Thupa Amaru”. Revista 
+Historica, n.º XXX, 1, 2006, pp. 65-97.
+Lightman, Bernard. “The “History” of Victorian Scientific Naturalism: Huxley, 
+Spencer and the ‘End’ of Natural History”. Studies in History and Philosophy 
+of Biological and Biomedical Sciences, 2015, pp. 1-7.
+85
+ XIV.1 (enero-abril 2020) ISSN 1851-4669 | La imposibilidad moral de la existencia del drama...: 69-86
+López, Vicente Fidel. Les races aryennes du Pérou. Paris: A. Franck, 1871. 
+___. “Estudios filológicos y etnológicos sobre los pueblos y los idiomas que 
+habitaban en el Perú al tiempo de la conquista”. La Revista de Buenos Aires. 
+Historia Americana, literatura y derecho III, 29; pp. 5-13; III, 30; pp.183-
+196; III, 31; pp. 267-289; III, 32, pp. 437-459; III, 33, pp. 23-36, 1865.
+___. “Iniciaciones filolojicas”. La Revista de Buenos Aires. Historia Americana, 
+literatura y derecho VII, 72, pp. 479-491, 1869. 
+Markham, Clements. The second part of the Chronicle of Peru. London: Printed 
+for the Hakluyt Society, 1883.
+Markham, Clements y Vicente Fidel López. Poesía-drama de los Incas: Ollantay. 
+Lima: Imprenta y Librería de Mayo, 1883.
+Millones, Luis, Virgilio Galdo y Anne Marie Dussault. “Reflexiones en torno 
+al romance en la sociedad indígena: Seis relatos de amor”, Revista de Crítica 
+Literaria Latinoamericana, año 7, n.º 14, 1981, pp. 7-28. 
+Mitre, Bartolomé. Las Ruinas de Tiahuanaco. 1879. Buenos Aires, Hachette, 
+1954.
+___. Ollantay. Estudio sobre el drama quechua. Buenos Aires: Imprenta de Mayo, 
+1881. 
+___. “Algo sobre literatura americana”, Revista Chilena, año I, tomo IV, 1876, 
+pp. 477-506. 
+Montoya, Rodrigo. “El teatro quechua como lugar de reflexión sobre la historia 
+y la política”. Revista de Crítica Literaria Latinoamericana, año 19, n.º 37, 
+1993, pp. 223-241. 
+Mozejko, Danuta y Ricardo Costa. “Disputa por el control de la verdad his­
+tórica: La polémica entre Vicente Fidel López y Bartolomé Mitre”. Revista 
+Iberoamericana, vol. VI, n. º 22, 2006, pp. 43-62.
+Museo Mitre. Catálogo razonado de la Sección lenguas americanas. Buenos Aires: 
+Editorial Coni Hnos, 1909-1911.
+___. Correspondencia histórica, política y literaria. Buenos Aires: Imprenta Mayo, 
+1912.
+Noriega, Julio. “Voz y letra en el mundo andino”. Revista de Crítica Literaria 
+Latinoamericana, año 19, n.º 37, 1993, pp. 279-301. 
+Quesada, Vicente. “Prospecto”. Nueva Revista de Buenos Aires, año I, n.º I, 1881, 
+pp. 3-8. 
+___. “Los ex-presidentes”, Nueva Revista de Buenos Aires, año I, n.º I, 1881, pp. 
+9-24.
+___. Diario de Juventud. Buenos Aires: Imprenta de Coni Hermanos, 1936.
+86
+Sofía De Mauro | 
+ XIV.1 (enero-abril 2020) ISSN 1851-4669
+Quijada, Mónica. “Los ‘Incas Arios’: historia, lengua y raza en la construcción 
+nacional hispanoamericana del siglo XIX”. Histórica, vol. XX, n.° 2, 1996, 
+pp. 243-269. 
+Reynoso, Carlos. Lenguaje y pensamiento. Tácticas y estrategias del relativismo lin­
+güístico. Buenos Aires: Editorial Sb, 2014.
+Torres, Luis María. “Introducción”. Catálogo razonado de la sección lenguas ame­
+ricanas. Buenos Aires: Imprenta de Coni Hnos, 1909, pp. VII-XLII.

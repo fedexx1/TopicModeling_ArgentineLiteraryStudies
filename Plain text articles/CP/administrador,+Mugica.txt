@@ -1,0 +1,1331 @@
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+73 
+ 
+LÉXICO Y SINTAXIS EN LOS ADVERBIOS 
+ESPAÑOLES: UN ESTUDIO A PARTIR DE LA 
+PREDICACIÓN SECUNDARIA 
+ 
+Nora Múgica 
+Facultad de Humanidades y Artes 
+María Eugenia Mangialavori Rasia 
+CONICET 
+ 
+Resumen: El presente estudio propone 
+considerar al adverbio como indicador de 
+diferencias estructurales en las categorías 
+complementadas. 
+Una 
+perspectiva 
+construccionista no derivacional, con 
+una articulación estructural en la que el 
+V se desagrega máximamente, permite 
+identificar 
+variables 
+definidas 
+en 
+la 
+formación del verbo, a través de las 
+distintas relaciones predicativas establecidas 
+entre la propiedad designada por la raíz 
+léxica y los argumentos verbales. Se 
+distinguen cuatro clases naturales según la 
+función semántico-sintáctica de Adv, con 
+dos subtipos determinados en relación a 
+la predicación secundaria. Estos casos 
+se definen con respecto a una instancia 
+en la cual Adv no establece una 
+relación semántica equiparable, sea 
+identificando 
+una 
+alternativa 
+de 
+participación sintáctica (aplicativo alto), 
+sea marcando contrastes relativos al nivel 
+eventivo (vP). 
+Las preocupaciones centrales pasan por (i) 
+el aporte semántico de la raíz léxica; (ii) las 
+variables semánticas determinadas por la 
+configuración sintáctica donde se ubica 
+la raíz; (iii) cierta (potencial) restricción 
+extragramatical 
+ 
+Palabras clave: adverbios, predicación 
+secundaria, 
+estructura 
+argumental, 
+sintaxis léxica 
+ 
+ 
+ 
+Abstract: The present study proposes to 
+consider the adverb as indicator of 
+structural differences in the complemented 
+categories. 
+A 
+non-derivational 
+constructionist 
+perspective, 
+with 
+a 
+structural articulation in which the V is 
+disaggregated maximally, allows to identify 
+variables defined in the formation of 
+the 
+verb, 
+through 
+the 
+different 
+predicative 
+relations 
+established 
+between the property designated by the 
+lexical root and the verbal arguments. 
+We distinguish four natural classes 
+according to the semantic-syntactic 
+function of Adv, with two subtypes 
+determined in relation to secondary 
+preaching. These cases are defined with 
+respect to an instance in which Adv 
+does not establish a comparable 
+semantic 
+relationship, 
+either 
+by 
+identifying an alternative of syntactic 
+participation (high application), or by 
+marking relative contrasts to the vP level. 
+Our central concerns are (i) the semantic 
+contribution of the lexical root; (ii) the 
+semantic variables determined by the 
+syntactic configuration where the root 
+is hosted; (iii) certain (potential) extra-
+grammatical restrictions. 
+ 
+Key 
+words: 
+adverbs, 
+secondary 
+predication, argumental structure, L-
+syntax. 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+1. Introducción 
+ 
+El adverbio, como categoría léxico-gramatical, representa un problema de larga 
+data. Si bien su independencia como categoría por lo general se da por 
+descontada en las gramáticas—especialmente en las tradicionales—, tanto su 
+ontología sintáctica y léxica, como su ubicación en las tipologías específicas, está 
+lejos de definirse. De hecho, no parece accidental que en estudios abocados al 
+análisis categorial—donde un punto de gran interés pasa por la paucidad (y 
+unicidad) de las categorías léxicas a través de tantas lenguas naturales—el 
+adverbio quede fuera de la tipología indiscutida (desde Chomsky 1981 et. seq.). 
+Para dar un ejemplo, estudios fundamentales sobre las características 
+estructurales de las categorías léxicas de las lenguas naturales (cf.Hale & Keyser 
+1993, 2002) distinguen justificadamente cuatro configuraciones básicas: cuatro 
+alternativas construccionales permitidas por el sistema léxico sintáctico que, 
+dadas 
+las 
+restricciones 
+y 
+relaciones 
+estructurales 
+relevantes 
+(núcleo-
+complemento/núcleo especificador), dan lugar a lo que, convencionalmente, se 
+define como V(erbo), A(djetivo), P(reposición), N(ombre). El adverbio, si 
+analizado, es considerado una forma no primitiva y, en gran parte de los casos, 
+no es incluido entre las posibles estructuras que dan lugar a las categorías léxicas 
+primitivas. El (supuesto) status no primitivo no le resta, no obstante, relevancia. 
+Entre otras cosas, se señala una característica estructural: un índice cuyo 
+ligamiento es clave para explicar varios fenómenos específicos (“lexical semantic 
+adverbial feature”, Hale & Keyser 2002: 35; “adverbial index” Hale & Keyser 
+2002:250 i.a.). En este trabajo, sirviéndonos de algunos casos españoles, veremos 
+cómo esta noción está teórica y empíricamente motivada. 
+En suma, la situación particular del adverbio lo convierte en un objeto de 
+indagación de especial interés. Tanto su comportamiento, como su ubicación en 
+la configuración sintáctica, comprenden alternativas que dificultan la 
+sistematización de las propiedades relevantes y que ameritan sucesivos estudios, 
+abriendo, a su vez, nuevas preguntas acerca de los criterios que deben ser tenidos 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+75 
+ 
+en cuenta. Al mismo tiempo, surgen características particulares que lo posicionan 
+como herramienta clave para avanzar en el conocimiento de cuestiones centrales 
+de la gramática de las lenguas naturales. 
+El estudio del español no es ajeno a esta problemática, ni al hecho de que la 
+caracterización del Adv resulte conflictiva desde diversos puntos de vista, ya sea 
+en lo relativo a la definición del concepto mismo de adverbio, a la tipología 
+semántica, a su descripción morfológica, o a su sintaxis. Como consecuencia 
+natural de tal diversificación, los estudios gramaticales españoles abren un 
+considerable abanico de propuestas que va desde observaciones tempranas (Bello 
+1847, Gili Gaya 1943) hasta otras mucho más recientes (RAE 2010 [NGRAE]), 
+pero no más concluyentes o definitivas: en general, gran parte de las 
+descripciones del comportamiento adverbial dan muestras de las limitaciones 
+recién planteadas y de la complejidad del problema. Para poner un ejemplo, la 
+variable analítica más frecuente está dada por el análisis semántico, ilustrado en 
+(1). Distinciones de este tipo son, sin dudas, necesarias; especialmente en tanto 
+permiten el desarrollo de tipologías específicas. El problema, no obstante, es que 
+tales 
+análisis 
+definen 
+características 
+tipológicamente 
+relevantes, 
+pero 
+configuracionalmente irrelevantes. Esto es, las clases pueden resultar coherentes 
+en términos puramente semánticos, pero dejan de serlo si tenemos en cuenta el 
+comportamiento sintáctico o las propiedades estructurales que definen tipos 
+suficientemente diferentes. Desde este punto de vista, un objetivo al que la 
+clasificación semántica debería apuntar es a lograr clases consistentes en cuanto al 
+significado, pero que a la vez capaces de captar o reflejar las diferencias trazadas 
+por el comportamiento gramatical. 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+(1) De tiempo: hoy, mañana, mientras, entonces, siempre, recientemente, 
+todavía, ya, etc. 
+De modo: así, bien, etc., y la mayoría de los acabados en -mente 
+De lugar: aquí, allá, lejos, cerca, encima, detrás, etc. 
+De cantidad: mucho, poco, nada, casi, bastante, demasiado, etc. 
+De afirmación: sí, ciertamente, también, naturalmente, evidentemente, etc. 
+De negación: no, tampoco, nada, etc. 
+De duda: quizá(s), acaso, posiblemente, probablemente, seguramente, etc. 
+ 
+Por otro lado, las propiedades sintácticas del Adv están aún lejos de 
+establecerse claramente. De hecho, no es raro que se lo caracterice, más que por 
+su rol e incidencia, por su omisibilidad. Dicho en términos informales, para gran 
+parte de las gramáticas, el adverbio es, simplemente, un constituyente que 
+podemos omitir (para un ejemplo, Alarcos Llorach 1994:130). Ahora bien, que 
+un constituyente pueda ser omitido sin que eso afecte la gramaticalidad de una 
+construcción no nos dice nada acerca de los aspectos en los cuales es relevante, o 
+de las maneras en la que puede contribuir, participar, interactuar y/o incidir en la 
+estructuración del predicado. Más bien, desalentar su estudio en estos términos 
+no nos permite aprovechar los aspectos cruciales en los cuales la presencia del 
+adverbio y su comportamiento pueden ser claves en la detección de cuestiones 
+estructurales importantes.  
+Asimismo, dadas las variantes analíticas, un estudio trazado en términos 
+morfológicos puede ser muy revelador en ámbitos empíricos más amplios. Ahora 
+bien, si consideramos el foco de análisis aquí planteado—los adverbios 
+‘deadjetivales’ en -mente—estaríamos lejos de variables significativas, ya que nos 
+limitamos a un mismo categorizador para un set de bases léxicas que, además, 
+suponen 
+características 
+comunes 
+(raíces 
+que 
+nombran 
+propiedades, 
+alternativamente realizadas como A[djetivo]).  
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+77 
+ 
+Finalmente, nos encontramos con los estudios que deciden indagar la cuestión 
+sintáctica (Barrenechea1979; Kovaci 1999; Rodríguez Ramalle 2003, entre otros). 
+Estas clasificaciones son, tal vez, las más extendidas actualmente, probablemente 
+por los motivos arriba expuestos. Hay, sin embargo, opciones analíticas 
+fundamentales. Una primera alternativa, quizás la más común, responde a la 
+premisa de distinguir clases naturales de adverbios según el constituyente al que 
+‘modifican’—esto es, aquél con el cual establecen una relación semántica 
+directa—dada una partición crucial entre el nivel verbal (en el sentido más 
+tradicional) y el nivel de la predicación en general. Bajo esta perspectiva se 
+establece una diferencia primaria, reflejada en las gramáticas tradicionales, entre 
+adverbios con incidencia sobre la frase verbal [VP], por oposición a los adverbios 
+con alcance más amplio (clausal). Como ejemplo, dentro del primer tipo 
+contaríamos con casos como camina lentamente, lee detalladamente; mientras que el 
+segundo tipo comprendería instancias epistémicas (probablemente, seguramente), 
+enunciativas (sinceramente) o evaluativas (claramente, evidentemente). Ahora, incluso 
+cuando se sugieren diferencias más precisas—por ejemplo, en cuanto a si la 
+denotación del adverbio incide primariamente sobre el significado del verbo o 
+bien sobre circunstancias 'externas al propio significado del verbo´1—, el análisis 
+tradicional, por lo general, no suele progresar más allá de este punto. 
+                                                          
+ 
+1 Por motivos de espacio, pero también de foco empírico, no nos detenemos en debates teóricos más generales. 
+Para resumir, por ejemplo, un primer antecedente en la clasificación de los adverbios surge del contraste entre 
+operadores de predicados y operadores de oraciones (Thomason y Stalnaker, 1973). Esta división corresponde, 
+aproximadamente, a la distinción un poco más familiar entre dominio verbal [VP] y cláusula—lo cual en cierta 
+forma reduce las alternativas de dominio de modificación del adverbio a dos: IP y VP, remontándonos a la 
+propuesta original de Jackendoff (1972) i.a. No es infrecuente encontrar esta alternativa reflejada en los estudios 
+gramaticales españoles, inclusive considerando los más tempranos. 
+Otra cuestión relevante a la perspectiva analítica es de orden configuracional: se refiere a la cuestión de si los 
+adverbios estarían mejor analizados como adjuntos o como especificadores. Si bien la primera alternativa ha sido 
+ampliamente defendida en la literatura (cf. Zubizarreta 1987 sobre variabilidad en la relación argumental entre el 
+adverbio y la categoría sintáctica modificada), el enfoque del adjunto ha sido cuestionado por investigadores (e.g., 
+Alexiadou 2002, Cinque 1999 i.a.) que defienden, en cambio, perspectivas de análisis según las cuales los 
+adverbios ocupan posiciones de especificador de proyecciones funcionales. Estahipótesis no ha quedado libre de 
+cuestionamientos tampoco. De hecho, varios investigadores han intentado revivir el enfoque tradicional del 
+"adjunto" partiendo de una serie de deficiencias de la hipótesis del adverbio en "especificador". Una de las 
+principales objeciones planteadas se refiere a un punto central para el problema que proponemos analizar aquí: el 
+enfoque del "especificador" supone—en términos muy generales—problemas para poder integrar en el análisis la 
+dimensión semántica. Dada la reconocida relevancia del componente semántico en el análisis sintáctico, como 
+ilustrábamos arriba, el estudio podría quedar limitado a un esquema insuficiente para explicar y predecir la 
+distribución adverbial. A esto se suma el problema empírico determinado por el creciente número de datos 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+Ante este panorama, surge una segunda posibilidad: observar al adverbio como 
+indicador de diferencias estructurales en las categorías a las que acompaña (o 
+‘modifica’ en la terminología tradicional). Esta alternativa, dependiendo del 
+marco teórico en el que se inscriba, puede dar lugar a grandes avances en 
+distintas (sub)áreas del estudio léxico-semántico-gramatical. Si la interpretamos 
+en relación, por ejemplo, a la propuesta de Hale & Kayser (recordemos la 
+caracterización del Adv por la presencia de un índice cuyo ligamiento es no 
+trivial) puede ser entendida como un punto teórico de partida de nuestros 
+planteos. 
+Empíricamente, a los fines de poner a prueba esta propuesta, nos centraremos 
+en el llamado adverbio ‘deadjetival’, según la designación tradicional (NGRAE: 
+578). Incluso independientemente de adscribir a ella, tal caracterización propone 
+dos puntos de interés que es necesario refinar. En primer lugar, se plantea la 
+cuestión categorial, es decir, la caracterización de dichos adverbios como 
+“formados a partir de un adjetivo” (énfasis nuestro). Tal status supone, de por sí, 
+un problema técnico y una consecuencia metodológica relevante. La perspectiva 
+derivacional incluye necesariamente la suposición de que una categoría léxica 
+completa—un A propiamente dicho—está comprendida en el interior de otra 
+categoría, la derivada (esto es, Adv). De no proponer una respuesta específica, la 
+propuesta sufrirá de consiguientes problemas teórico-metodológicos serios—
+véase, simplemente, cómo resolver la presencia de una categoría dentro de otra2. 
+Una implicación similar se aprecia en las descripciones semánticas. Vemos, por 
+ejemplo, que “el significado de muchas de estas voces guarda una relación 
+estrecha con el de los adjetivos de los que se derivan” (NGRAE §13). La 
+apreciación empírica que debería fundamentar la generalización tiene, también, 
+implicancias relativas a la función gramatical: “El adverbio espontáneamente, por 
+ejemplo, añade una circunstancia al verbo declarar en declarar espontáneamente de 
+                                                                                                                                                                                 
+observados en distintas lenguas naturales que favorecen la hipótesis del adverbio como complemento de V (cf. 
+Alexiadou, 2002 i.a., para referencias y resumen del debate). 
+2 Problema de amplio abarque si se considera por analogía y con igual criterio, el A en el V (engordar), el N en el 
+V(embaldosar, enjaular) por ejemplo. 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+79 
+ 
+forma similar a como lo haría el adjetivo espontáneo”. ¿Debemos asumir, por caso, 
+que A y Adv son funcionalmente análogos? El paso sucesivo son 
+generalizaciones que probablemente querremos evitar. 
+Otro punto que no se especifica aquí, y que suscita otra pregunta clave, es con 
+qué preciso constituyente del sintagma verbal se da esa relación. Este hecho tiene 
+su importancia: en primer lugar porque la productividad en las posibilidades 
+sintácticas de alcance son una característica distintiva de Adv, como señalamos 
+arriba—esto es, puede ‘modificar’ a cualquier categoría, incluida P. Además, 
+porque este mismo criterio marca una diferencia relevante con una categoría 
+muchas veces comparada como es el A; lo cual en parte introduce una respuesta 
+para el problema planteado en el párrafo anterior. Pero, y por sobre todo, tal 
+intuición se corresponde con el rasgo debidamente ligado que se plantea como 
+característica analíticamente relevante del Adv (Hale & Keyser 2002 i.a., citado 
+más arriba en los análisis más recientes). 
+El mismo ejemplo propuesto por la NGRAE es suficiente para dejar en claro a 
+qué tipo de distinción nos referimos como necesaria. Ante una construcción 
+como declarar espontáneamente, pueden presentarse dos situaciones: primero 
+podemos notar que el carácter espontáneo se relaciona con la forma/tiempo en la 
+que se lleva a cabo la acción (pensemos, por ejemplo, en declaró espontáneamente, 
+tardíamente, súbitamente); pero también es posible pensar que la cualidad denotada 
+se relaciona con un participante de la acción (Juan declaró espontáneamente, 
+atropelladamente, nerviosamente; esto es, Juan≈ espontáneo, atropellado, nervioso). 
+Luego, la función del adverbio plantea alternativas que no podemos apreciar en 
+otras realizaciones gramaticales: notemos por ejemplo que las dos variantes 
+recién planteadas quedan indistintamente capturadas en el (cuasi)equivalente una 
+declaración espontánea. Así, al ofrecer contrastes de interés relativos a la 
+construcción sintáctica, las variables interpretativas habilitadas por Adv podrían 
+aportar una alternativa para la identificación de divergencias estructurales que, de 
+otra manera, como puede ser la complementación adjetival, pasan inadvertidas. 
+Este tipo de apreciación, y su consecuente valor analítico, constituye el centro de 
+este trabajo y es la cuestión que intentamos introducir a modo de cierre de la 
+sección. 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+Por ejemplo, si bien se plantea como carácter fundamental de los adverbios 
+‘deadjetivales’ el que, al igual que los adjetivos, pueden ser elementos predicativos 
+o atributivos, también es claro que esto no supone una situación homogénea. 
+Consideremos la serie de (2), casos consignados normalmente en las gramáticas 
+como miembros de una misma clase. Teniendo en cuenta las variables de análisis 
+recién introducidas, surgen contrastes necesarios entre, primero, una atribución 
+evaluativa sobre el sujeto (tal persona está estupenda) (a); luego, una instancia 
+ambigua entre la atributiva ligada al complemento predicativo interno (considero 
+algo estupendo), y la referida al evento (mi forma de ver es estupenda) (b), a lo cual 
+siguen casos si se quiere más analizados, como el uso modal sobre el evento(c) 
+que, además, encierra un potencial de lectura epistémica (desde mi forma de ver, se ha 
+portado estupendamente). 
+ 
+(2) a. Estás estupendamente. 
+ 
+ 
+ 
+(NGRAE §30.1.2d) 
+b. Te veo estupendamente.  
+c. Se portó estupendamente. 
+ 
+A lo que apuntamos con estas observaciones es a que la complejidad del 
+problema está dada por su naturaleza interficial: en la medida en que el 
+comportamiento sintáctico está determinado por cuestiones de orden semántico 
+y otras relativas al orden léxico (y viceversa), debemos considerar un enfoque 
+capaz de captar las variables relevantes, distinguirlas apropiadamente, y, a su vez, 
+poder dar cuentas de cómo estos componentes—(morfo)sintaxis, semántica, 
+léxico—se relacionan, interactúan y condicionan mutuamente para determinar las 
+diferencias notadas. Pero antes de avanzar agregamos que el hecho de considerar 
+la relación interficial semántica-sintaxis como criterio fundamental de análisis 
+puede ser común a dos perspectivas analíticas que coinciden en primera instancia, 
+pero que, en el fondo, son divergentes; a saber, la que se centra en la premisa de 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+81 
+ 
+que variantes importantes en la situación sintáctica del Adv están justificadas 
+semánticamente (caso de la propuesta de R. Ramalle, citada); como la alternativa  
+que aquí exploraremos, la cual fundamenta con argumentos teóricos y empíricos 
+una perspectiva inversa, esto es, que es la interpretación recibida por el adverbio 
+lo que revela, de forma transparente, su situación sintáctica.  
+Como se ha anticipado, tanto los puntos de continuidad, como las 
+divergencias abiertas en cada caso, constituyen las preocupaciones centrales de 
+este trabajo. La propuesta se enmarca en un proyecto de investigación más 
+amplio que se propone, entre otras cosas, buscar un análisis más sistemático de 
+los aspectos de significado determinados a nivel configuracional, por un lado—
+incluyendo la posibilidad de un homomorfismo transparente entre semántica y 
+sintaxis—, y a nivel de codificación léxica, por el otro. Sobre esta base general, 
+apuntamos a la distinción de características propias de la filiación categorial, de 
+propiedades compartidas con otras realizaciones categoriales de la misma raíz 
+léxica, y de las propiedades no sistemáticas que quedarían contenidas a nivel 
+léxico. La distinción relevante se da : (i) entre las propiedades formales de una 
+base léxica [√], lo que aquí suponen una constante semántica crucial (por 
+ejemplo, el punto común entre estupendo y estupendamente); (ii) las propiedades 
+formales que conlleva la realización gramatical de esa √ como Adv en contraste 
+con otras categorializaciones disponibles; y (iii) la potencial incidencia del 
+dominio enciclopédico (esto es, las cuestiones semánticas externas al sistema 
+léxico-sintáctico que puedan llegar a incidir sobre las distintas formas en las que 
+un adverbio puede ser interpretado).Casos como los ilustrados arriba son uno de 
+los muchos ejemplos de la forma en la que los datos croscategoriales pueden 
+resultar cruciales para el análisis y la comprensión de la situación gramatical del 
+Adv y, sobre todo, su importancia como estrategia de análisis. 
+ 
+2. Casos puntuales 
+Pasemos a las situaciones específicas en las que, proponemos, el adverbio 
+puede marcar contrastes de importancia. 
+Un primer problema empírico que queremos analizar aquí es que ciertos 
+adverbios participan en una predicación equiparable a la predicación secundaria 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+clásica, adscribiendo una propiedad a uno de los participantes en la eventualidad 
+denotada por el verbo. Veamos tres ejemplos que retoman el caso de 
+estupendamente de la introducción ((2) más atrás). 
+ 
+(3) Juan habló {dulcemente/groseramente/claramente} 
+⇒Lectura depictiva con respecto al sujeto 
+≈ Juan fue dulce, grosero, claro cuando habló. 
+ 
+En (3) se dan dos condiciones características de la predicación depictiva: (i) el 
+adverbio se interpreta como designación de una cualidad que aplica 
+verdaderamente a un argumento (externo, Juan); (ii) la aplicación de la propiedad 
+coincide con la duración de la eventividad—esto es, la cualidad dulce/grosero/claro 
+aplica a Juan durante el curso del evento y la relación atributiva cesa fuera de esta 
+instancia (‘conectividad tiempo-participante’ Rothstein 2003: 70; cf. Pylkkänen 
+2008:23). Esta situación gana incluso más interés por contraste; esto es, porque 
+no es una relación automática ni general y, de hecho, no se extiende a otros casos 
+aparentemente similares. Casos como (4) divergen de las condiciones antes 
+observadas, por ejemplo, en tanto que la lectura más prominente no supone la 
+atribución sobre el sujeto; esto es, lo primero que entendemos ante ‘Juan habló 
+hermosamente’ no es que Juan ‘es hermoso’ cuando habla—de hecho, de una 
+construcción como ‘Juan habló hermosamente, pero es muy poco agraciado’ no 
+deriva una contradicción. También en términos intuitivos por el momento, 
+pareciera ser que lo que se designa en estos casos es una propiedad (hermoso, vago) 
+que aplica al resultado o al producto del evento, más que a sus argumentos explícitos, 
+como en (3), o al evento en sí, como veremos (5). Precisamente, estos otros casos 
+parecen apartarse no trivialmente de las dos instancias recién mencionadas. Nos 
+referimos a aquellos adverbios cuya función parece estar ligada a representar 
+gramaticalmente una propiedad (designada por la raíz léxica) relativa al 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+83 
+ 
+modo/frecuencia en la que se desarrolla el evento, independientemente de los 
+participantes del producto de la eventividad. 
+ 
+(4) Juan habló {hermosamente/vagamente/ligeramente/livianamente} 
+! ⇒Lectura depictiva con respecto al sujeto 
+ 
+(! = no disponible) 
+≈ Juan fue #hermoso, #vago, #ligero, #livianocuando habló. 
+ 
+ 
+⇒Lectura resultativa 
+≈ El discurso resultó hermoso, vago, ligero, liviano 
+(5) Juan habló {repetidamente, regularmente, fuertemente} 
+! ⇒Lectura depictiva con respecto al sujeto 
+≈ Juan fue (#repetido/#regular/#fuerte)cuando habló. 
+! ⇒Lectura resultativa 
+≈ El discurso resultó (#repetido/#regular/#fuerte). 
+⇒ Lectura eventiva 
+≈ El evento (el hecho de hablar de parte de Juan) es llevado a cabo en forma 
+insistente/regular/fuerte. 
+ 
+Lo que buscamos destacar es que, a partir de un pareo relativo a la función 
+adverbial, nos encontramos ante la necesidad de poder predecir o explicar (2)-(5). 
+Surge, naturalmente, una serie de preguntas:¿hay aspectos evidentes que puedan 
+dictaminar que la propiedad fuerte de (5)se interprete como relativa al evento; o 
+que liviano en (4)no reciba una lectura depictiva referida al sujeto? Este punto es 
+crucial al definir la estrategia analítica: si bien, por varias cuestiones, algunas 
+enunciadas en la Introducción, el enfoque no derivacional es conveniente, 
+también es necesario adoptar una versión moderada, que permita preservar cierto 
+potencial de incidencia por parte del componente extragramatical. De otra forma, 
+sería difícil explicar que, en cierta manera, las posibilidades de interpretar a 
+livianamente como atribución sobre el sujeto dependen de nuestro conocimiento 
+enciclopédico. Ciertamente, la construcción ‘Juan habló livianamente’ es 
+gramaticalmente posible y, ceteribus paribus, no hay variantes configuracionales que 
+impidan una predicación subjetiva, en caso, por ejemplo, de que lo que estemos 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+tratando de describir es que Juan pesaba poco mientras hablaba. El problema, en 
+todo caso, es que resulta conceptualmente extraño.3La reflexión también supone 
+una interacción relevante: ¿en qué medida dependen estos hechos de las 
+propiedades léxicas del verbo y de aspectos estructurales que se determinan en 
+estricta correlación con la semántica? Otra pregunta, no menos necesaria: ¿qué 
+circunstancias sintácticas corresponden a cada caso? A partir de estas cuestiones, 
+y retomando discusiones introducidas precedentemente, nos planteamos dos 
+cuestiones que importan al abordaje: primero, ¿en qué medida los hechos 
+relativos a la distribución adverbial son predecibles directamente desde la 
+semántica, y hasta qué punto son cuestiones configuracionales las que median la 
+conexión? Segundo, en la medida en que haya variables configuracionales 
+involucradas, ¿cuáles serían estas variables? 
+ 
+3. Tipología preliminar 
+De lo expuesto arriba, se sigue que los adverbios 'deadjetivales' parecen estar 
+asociados a distintos aspectos estructurales de la predicación verbal. Tal situación 
+supone, desde ya, la necesidad de aceptar una cierta complejidad estructural 
+relativa, de acuerdo con la variabilidad en la relación semántica establecida en 
+cada caso por Adv en el entorno gramatical en el que se inserta. Como respuesta, 
+proponemos una tipología (preliminar)que apunte a diferenciar clases de Adv de 
+acuerdo a las relaciones señaladas por la semántica, pero que a la vez resulte 
+coherente con las variables abiertas por la sintaxis en la estructuración gramatical 
+del predicado. 
+De acuerdo con lo observado desde la Introducción (cf. (1)-(3)) una primera 
+división esencial se da entre los adverbios que establecen una relación semántica 
+orientada a los componentes argumentales—ya sea el sujeto (6) del predicado, ya 
+sea el resultado (7)—y los adverbios que operan en forma más amplia, o bien 
+                                                          
+ 
+3 Tomamos ‘conceptual’ en el sentido estándard de la GG (e.g., colourless green ideas sleep furiously’ Chomsky 1957). 
+Dejamos de lado interpretaciones metafóricas o derivadas (e.g., livianamente≈sin compromiso). 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+85 
+ 
+introduciendo el marco en el cual se produce el evento(8), o bien determinando 
+la modalidad del evento (e.g. frecuencia) (9). Como veremos a continuación, 
+mientras los dos últimos casos corresponderían (vagamente) al esquema 
+tradicional del aplicativo alto (e.g. Pylkänen, 2008 i.a.), los dos primeros casos 
+podrían alinearse a una función predicativa secundaria   sensible a la 
+estructuración interna a vP. Nótese que la propuesta preserva la partición más 
+general largamente defendida—y recogida en las gramáticas españolas, incluso las 
+más tradicionales—entre un alcance amplio (clausal/evento) y un alcance estrecho—
+4esto es, dentro del dominio local interno a vP (desde Thomason&Stalnaker, 
+1973).5 
+ 
+(6) Juan habló tristemente, felizmente, abiertamente, claramente, justamente, 
+precisamente, despectivamente, incoherentemente, dulcemente, 
+detalladamente, francamente, proféticamente. 
+⇒Juan fue/estuvo triste/feliz/abierto/claro/justo/preciso/despectivo/ 
+incoherente, /dulce/detallista/franco/ profético {para/al} hablar 
+!⇒El discurso de Juan tuvo lugar en un escenario triste /feliz/abierto/ 
+claro/justo/ despectivo/dulce/detallado/franco... 
+!⇒Juan habló de tal manera que se obtuvo un discurso triste/feliz/abierto 
+/justo/ despectivo/dulce/detallado/franco... 
+(7) Juan habló satisfactoriamente, hermosamente, vagamente, ligeramente, 
+livianamente, oprobiosamente. 
+!⇒ Juan fue satisfactorio/hermoso/liviano/oprobioso {para/al} hablar 
+!⇒El discurso de Juan tuvo lugar en un escenario satisfactorio/hermoso/ 
+liviano/ oprobioso 
+                                                          
+ 
+4 Wider scope / narrow scope(según estudios generales sobre el alcance).  
+5Nótese además que la función predicativa secundaria (resultativa, en (7), subjetiva, en (6)) difiere del adverbio con 
+alcance sobre el evento agentivo (i) y del que alcanza al subevento incoativo/resultativo (e.g. instantáneamente). 
+También se diferencia claramente de los adverbios que introducen una propiedad no asignada a los participantes 
+ni al evento en sí, sino correspondiente al juicio del hablante (evaluativos, epistémicos, etc.) (ii). 
+(i) 
+ Juan habló voluntariamente/intencionalmente. 
+!Juan fue voluntario/intencional cuando habló.  
+! Juan habló de manera que el discurso resultó voluntario/intencional. 
+(ii) 
+ Juan habló, {afortunadamente/probablemente/supuestamente}. 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+⇒Juan habló de tal manera que se obtuvo un discurso 
+satisfactorio/hermoso/liviano /oprobioso 
+(8) Juan habló públicamente, oficialmente, personalmente.6 
+!⇒ Juan fue público/oficial/personal {para/al} hablar 
+⇒El discurso de Juan tuvo lugar en un escenario público/oficial/personal 
+!⇒Juan habló de tal manera que se obtuvo (sucedió) un discurso público/ 
+oficial/ personal 
+ 
+(9) Juan habló insistentemente, frecuentemente, reiteradamente, regularmente, 
+cotidianamente, fuertemente, fácilmente, naturalmente. 
+!⇒Juan fue insistente/ frecuente/ reiterado/ regular/ cotidiano/ fuerte/ 
+fácil/ natural cuando habló. 
+!⇒El discurso de Juan tuvo lugar en un escenario insistente/ frecuente/ 
+reiterado/ regular/ cotidiano/fuerte/fácil/natural 
+!⇒Juan habló de manera que el discurso resultó insistente/ frecuente/ 
+reiterado/ regular/ cotidiano/fuerte/fácil/natural 
+⇒El hecho X ( X= la situación de hablar de parte de Juan) resultó 
+insistente/frecuente/ reiterado / regular/cotidiano/fuerte/fácil/natural 
+ 
+La tipología propuesta se resume en (10). 
+ 
+                                                          
+ 
+6 Dos aclaraciones con respecto a los casos propuestos. Primero, nos abstenemos de potenciales complementos 
+que puedan completar la predicación (e.g. comitativo, locativo) a fin de no distorsionar el pareo relevante. 
+Segundo, los adverbios seleccionados en las series reflejan el índice de productividad cuantitativa/cualitativa 
+real—esto es, los que mayor productividad muestran de acuerdo a las búsquedas específicas en corpus—, a los 
+fines de obtener la debida validación empírica.  
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+87 
+ 
+(10) 
+(6)→ Adv orientado al sujeto (subject-oriented adverbials) 
+ 
+[SOA] 
+(7)→ Adv orientado al resultado (result-oriented adverbials) 
+ 
+[ROA] 
+(8)→ Adv de marco (frame-setting adverbials)7 
+ 
+ 
+ 
+[FSA] 
+(9)→ Adv de evento/frecuencia (event(frequency)-oriented adverbials) 
+[FOA] 
+ 
+Ahora, la pregunta que nos importa es: dada la estructuración (léxico-
+sintáctica) que aloja a la base léxica en cada caso, ¿puede haber diferencias 
+relevantes? ¿Hasta dónde la variable configuracional puede explicar las 
+divergencias semánticas advertidas? 
+ 
+4. Las alternativas de análisis: abordaje derivacional vs raíces sin 
+filiación categorial 
+Antes de proceder, finalmente, a nuestra propuesta de análisis, es necesaria una 
+aclaración referente a la elección analítica. 
+La perspectiva derivacional remite al estatus de la base léxica (esto es, a la 
+ontología asumida para la derivación), bajo la propuesta de una base adjetival.8 
+Ahora bien, si entendemos que la diferencia entre adjetivo y adverbio supone un 
+contraste no léxico sino estructural—asumiendo que las propiedades gramaticales 
+se definen en el ámbito de una estructura específica que da lugar a la categoría 
+léxica,  y que la que la semántica se lee directamente (en el sentido estándar) de 
+esta estructura—, la perspectiva derivacional resulta técnicamente problemática si 
+se tiene en cuenta que la filiación categorial supone una configuración sintáctica 
+específica como punto de partida para la conformación de Adv. Entre otras 
+cosas, la realización categorial como Adj supone una proyección extendida con 
+nodos funcionales que de acuerdo con una premisa central de la sintaxis léxica 
+(desde Hale & Keyser 2005:35), no ocurre en el dominio léxico-sintáctico. Por 
+otra parte, y como consecuencia de lo dicho, en la medida en que la 
+                                                          
+ 
+7Las siglas retoman nociones empleadas en tipologías adverbiales generales consideradas en la literatura(e.g. 
+Maienborn & Schäfer, 2011). No han sido traducidas respetando la notación original.  
+8Existen varias discrepancias puntuales que por motivo de espacio no discutiremos. Por ejemplo, la vinculación de 
+los SOA con un ‘evento’ es difícil de conciliar con la observación de que la combinación con estativos es natural 
+en español (e.g. María ama libremente/apasionadamente/incondicionalmente/intensamente/desinteresadamente 
+/sinceramente a Juan) 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+categorización como Adjetivo ya instala propiedades específicas que difieren de 
+las observadas en (o que no necesariamente se encuentran en) la forma adverbial, 
+resulta difícil sostener las implicancias que acarrearía una derivación semejante en 
+cuanto a cómo se heredarían dichas propiedades (ver Harley 2014 para resumen de 
+la discusión teórica en las últimas décadas). En vista de todo esto, resulta 
+problemático sostener un análisis derivacional por sobre la alternativa más 
+simple—y probablemente más fiel a los datos empíricos—; esto es, una 
+derivación con una raíz común, semánticamente relevante, pero categorialmente 
+neutra (es decir, sin filiación categorial en el léxico). En este sentido, el análisis no 
+derivacional tiene, como ventaja, una apreciación más clara de las propiedades 
+constantes—las compartidas con A, que asumimos, por ende, léxicamente 
+codificadas y/o contenidas en la raíz—, a la vez que preserva la independencia 
+necesaria para captar las variables que responden sistemáticamente a la 
+realización categorial. Lógicamente, las variables no configuracionales (léxicas) 
+serán las que se extiendan croscategorialmente (esto es, independientes de la 
+filiación categorial), mientras que las determinadas por la configuración 
+gramatical serán aquellas que varíen de forma sistemática y predecible, 
+definiendo, por ejemplo, un contraste no mínimo entre A y Adv. 
+De esta manera, el enfoque no derivacional introduce una alternativa analítica 
+a la noción tradicional de que ciertos verbos—o, en este caso, adverbios—tienen 
+como base un adjetivo propiamente dicho, considerada tanto en estudios léxico-
+sintácticos tempranos (Hale & Keyser 1993 et seq.) como semánticos (e.g. Hay, 
+Kennedy&Levin 1999). El enfoque en cuestión requiere una perspectiva 
+construccionista, en la que una unidad largamente considerada como bloque 
+monolítico (e.g. V, N, A, Adv) se desagrega máximamente en una serie de 
+componentes y niveles estructurales cruciales para explicar formación, 
+comportamiento e interpretación. En el presente trabajo, consideramos esta 
+propuesta como fondo de discusión, primero, porque nos habilita para avanzar 
+cuestiones empíricas como el problema planteado arriba—las alternativas abiertas 
+en casos simples como declaró espontáneamente—, especialmente ante la necesidad 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+89 
+ 
+de disponer y, además, porque tiene, como ventaja adicional, que el análisis queda 
+libre de reglas léxicas o de manipulaciones en el léxico, al mismo tiempo que 
+capta fácilmente, como todo análisis construccional, la generalidad del problema 
+de forma sistemática. 
+ 
+5. Propuesta de análisis 
+Resta decir que en el ámbito propio de la interficie semántica/sintaxis se 
+plantean alternativas a partir de la prevalencia conferida al dominio semántico o 
+al sintáctico. Esto significa que, por un lado, se supone que hay principios 
+semánticos que determinan la aparición de ciertos tipos de modificadores 
+adverbiales dentro de ciertos dominios; por el otro, que se asume que lo que 
+determina la interpretación del adverbio es su punto de inserción en la estructura. 
+Cabe suponer, además, que la distribución adverbial estará regulada por la 
+sensibilidad de diferentes tipos de adverbios a rasgos contenidos en la 
+configuración estructural (cf. Travis, 1988 i.a.). Esta es, precisamente, la 
+perspectiva que tomaremos aquí. 
+La presente Sección, y la propuesta de análisis consiguiente que ofrecemos, se 
+centra en la noción de que las diferencias estructurales asociadas con las distintas 
+relaciones semánticas establecidas entre los componentes del predicado y el 
+adverbio predicativo (e.g. (3)-(4) arriba) demandan una estructura verbal más 
+articulada que la asumida en la visión tradicional, esto es, con niveles 
+configuracionales suficientemente desagregados que ofrezcan distintos niveles 
+estructurales donde anclar las distintas relaciones semánticas.  
+La concepción tradicional, según la cual el verbo es analizado como unidad 
+léxica atómica, podría eventualmente mantenerse para las dos instancias con 
+alcance más amplio. Nos referimos a los casos aquí designados como FSA y 
+FOA—esto es, para los que marcan una propiedad del entorno donde se 
+desarrolla el evento, ilustrativamente reunidos en (12), en oposición a (13). Como 
+habíamos anticipado, esta instancia refleja un contraste elemental, recogido 
+incluso en los estudios gramaticales más tempranos, con los casos que no pueden 
+explicarse sin mayores refinamientos y, que, por consiguiente, ocuparán nuestra 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+atención en lo que sigue9. Con todo, también es cierto que ni el contraste ya 
+advertido en estudios relacionados (entre predicación subjetiva y objetiva, 
+simplificando la terminología) que, proponemos, demanda un refinamiento 
+acorde, ni el análisis establecido sobre la noción del verbo como bloque 
+monolítico, permiten un estudio adecuado de los casos donde, precisamente, la 
+propiedad se imputa a un argumento del verbo (tanto al sujeto [SOA] como al 
+resultado [ROA]) (ver el esquema en (11)). La existencia de tal variante—
+planteada en términos semánticos por la viabilidad de la interpretación descripta 
+en (14)—supone una división consecuente: si el adverbio es sensible a los 
+distintos constituyentes involucrados en la estructura interna de vP, entonces el 
+esquema general—comprendiendo la variante semántica presentada arriba—
+todavía requiere ajustes para reflejar las alternativas empíricas ilustradas por (6)-
+(7) más arriba. Puntualmente, lo que se demanda es reflejar la relación local entre 
+el adverbio y el argumento externo en un caso, y entre el adverbio y el resultado 
+de la actividad en el otro. 
+                                                          
+ 
+9 Por motivos de espacio, evitamos reproducir la estructura correspondiente en tanto no difiere del standard ni 
+amerita comentarios adicionales. Como ejemplo, véase Pylkänen (2008: 102). 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+91 
+ 
+(11) 
+Estructura sintáctica habilitando dos posibles niveles de alcance para Adv 
+ 
+         x 
+           vP ← sitio posible de adjunción para Adv (modificador dvP)[FSA/FOA] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VP← sitio posible de adjunción para Adv (modificador de VP) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[SOA/ROA] 
+ 
+ 
+      Vo              DP  
+ 
+ 
+(12){frecuentemente/reiteradamente/regularmente/cotidianamente/fuertemente 
+/fácilmente/naturalmente} Juan trabaja los viernes. 
+(13)a. Juan trabaja {alegremente/diligentemente/prolijamente/ligeramente} los viernes. 
+      b.*{alegremente/diligentemente/prolijamente/ligeramente}Juan trabaja los viernes. 
+(14) [∃ e: trabajar (e) & Agente (Juan, e) &estado (alegremente, e) & (los viernes, e)] 
+ 
+Como primera instancia de análisis, proponemos que las construcciones SOA 
+resultarían de una configuración del tipo de (15). Mediante ai, representamos la 
+variable a ligar—el rasgo léxico semántico adverbial o ‘índice adverbial’ en la 
+bibliografía—que introduce crucialmente Adv. Este índice debe estar ‘ligado’ 
+(por un argumento suscripto con idéntico índice); de otra manera, la estructura 
+fallaría. La configuración que aquí exponemos, en un contexto sintáctico 
+oracional donde el argumento externo está disponible localmente, resultaría bien 
+formada, en tanto {ai} estaría adecuadamente ligado. 
+ 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+(15) 
+ 
+   vP  
+ 
+ 
+ 
+SOA 
+          
+ 
+         VP 
+                 VDO 
+AdvP≈SC 
+ 
+trabajar 
+ 
+ 
+ 
+ 
+Juan{ai} 
+   Adv’ 
+ 
+ 
+ 
+ 
+ 
+ 
+AdvP0 
+ 
+√feliz{ai} 
+ 
+Juan trabaja felizmente 
+ 
+ 
+[ mente] 
+ 
+ 
+ 
+≈Juan es feliz mientras trabaja 
+ 
+ 
+No obstante, para poder explicar la predicación secundaria (≈SC) y las 
+variantes habilitadas mediante tal configuración estructural—ambas cosas, 
+centrales a nuestra propuesta—, es necesario reparar en una característica 
+sintáctica fundamental Adv.  
+Como anticipábamos, en el marco de la sintaxis léxica (Hale & Keyser1993, 
+2002, 2005), adverbios y adjetivos tienen en común el ser analizados como 
+categorías no primitivas. La observación fundamental, desplegada luego en el 
+abordaje de distintos problemas gramaticales (cf. Mateu 2011, Harley 2005, Folli 
+& Harley 2007 entre muchos otros), es que tanto Adv como A comparten con P 
+una propiedad sintáctica fundamental: la introducción de un argumento externo. 
+Esto es, Adv, A y P se diferencian sintácticamente de otras categorías 
+(puntualmente, de V y de N) por proyectar una posición de especificador (Hale & 
+Keyser 2002:13). Tal aspecto marca un contraste relevante con V, que, al sólo 
+seleccionar complemento (y al no proyectar especificador), se vale, por ende, de la 
+combinación con aquellas categorías que sí lo hacen, para, de esta manera, 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+93 
+ 
+introducir al sujeto de la predicación (el cual es licenciadode varias maneras, 
+siendo una de las formas más simple la de ascenso a vP para satisfacer el EPP).10 
+Lo que nos interesa es que, de acuerdo con estos supuestos básicos, los 
+adverbios estarían configuracionalmente caracterizados por ser capaces de oficiar 
+como núcleos de una relación semántico-sintáctica correspondiente a la relación 
+predicativa relevante, determinada como una estructura birrelacional (SC) en (15). 
+Recordemos además que una propiedad sintáctica clave en la interacción con el 
+nivel interpretativo (semántico) está dada por la presencia de un índice que debe 
+ser ligado adecuadamente. Siguiendo la estructuración propuesta, la 
+configuración se corresponde con la relación semántica observada en los datos, 
+presentando las características apropiadas, en tanto que el índice adverbial 
+quedaría ligado internamente. De esta manera, la interpretación SOA se seguiría 
+naturalmente del dominio original de introducción del argumento (marcado 
+ilustrativamente con una línea de puntos en el diagrama). 
+Hasta aquí, hemos asignado índice sólo a constituyentes externos, como si los 
+rasgos asociados externamente fueran necesariamente ligados al argumento más 
+cercano, sin otra alternativa posible. En una situación ideal, éste sería el caso 
+general: la interpretación apropiada del Adv quedaría resuelta dentro de la 
+configuración mínima que encabeza y en la que el argumento externo aparece 
+como especificador del dominio mínimo donde se lo introduce.  
+Sin embargo, ya hemos notado que este no es el único escenario posible. Por 
+el contrario, necesitamos asumir, por lo menos, una diferencia entre la 
+predicación orientada al sujeto (SOA) y una a un potencial objeto (ROA). Para 
+explicar el caso de los ROA, no obstante, precisamos aclarar otro aspecto 
+fundamental del análisis léxico-sintáctico.  
+En el marco teórico de referencia, todos los verbos, incluso los inergativos, 
+son analizados como transitivos encubiertos, generados por incorporación de una 
+                                                          
+ 
+10 Recordemos que en este marco teórico la estructura del verbo léxico con argumento externo—ya sea un 
+inergativo como hablar, ya sea un transitivo propio—supone una configuración compleja, esquemáticamente 
+representada en (i), resultante de la combinación de la configuración que sólo toma complemento (i.e., V, notada 
+como Y en el esquema) con una estructura con especificador (e.g. Adv) asociada (digamos, Y). 
+(i) 
+VP[V0,YP [ Spec,Y*[HeadY*,Z(comp)]]] 
+Seguiremos este análisis, pero no arbitrariamente, sino porque de comprobarse, tal arquitectura permitiría captar 
+relaciones tanto sintácticas como léxico-semánticas cruciales para las observaciones aquí ofrecidas.  
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+base léxica proveniente de la posición de complemento del verbo nulo (cf. Folli 
+et al. 2005, McIntyre 2004, i.a.), como ilustramos esquemáticamente en (16). 
+ 
+(16) 
+ 
+      VP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[VDOo]    √ 
+ 
+ 
+√trabajo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tal noción analítica tiene, además, la ventaja de ser altamente compatible con 
+supuestos generalmente aceptados en estudios con perspectivas diametralmente 
+opuestas. En general, los miembros de este conjunto de verbos 
+(creación/transformación) son caracterizados en las tipologías semánticas por 
+describir la producción o labor creativa cuyo resultado (el objeto creado) se 
+plantea como una especie de cognado (cf. Levin, 1993:177).11 
+Ahora bien, dada la relación semántica relevante en este caso—entre la 
+propiedad nombrada por la base léxica del Adv y el ‘objeto’—es conveniente dar 
+lugar a la observación semántica recién planteada. Pensemos en la intuición 
+adelantada arriba acerca de que es el producto de la acción (creativa) de Juan lo 
+que recibe la propiedad satisfactorio, exitoso, etc. Sobre este supuesto, añadimos la 
+noción de que los verbos bajo consideración suponen una base nominal (√n) que, 
+precisamente, nombra al elemento producido—y que, no fortuitamente, se 
+originaría en posición de complemento interno de un verbo liviano con la 
+semántica hacer (vDOo) (para representaciones comparables, cf. Folli & Harley 
+                                                          
+ 
+11 Luego, este tipo de construcciones sería el resultado de la incorporación de una frase resultativa, con una base 
+léxica introducida por el Adv en route hacia el V en el que se incorpora, dejando una copia que luego puede ser 
+retomada por la estructura resultativa (cf. Mateu 2011:26 y referencias). 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+95 
+ 
+2007 i.a.). Desde este lugar, es no sólo posible sino natural considerar que la 
+relación semántica relevante queda también dentro de un dominio mínimo.  
+ 
+(17)    vP  
+ 
+ 
+ 
+ROA 
+ 
+DP  
+v’ 
+Juan 
+            vCAUS 
+     VP  
+ 
+ 
+ 
+ 
+ 
+ 
+VDOo 
+     SC12 
+ 
+ 
+ 
+ Ø’ 
+ 
+ 
+ 
+ 
+ 
+      trabajo{ai}      Adv’ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Adv0 
+√satisfactori(o){ai} 
+ 
+ 
+ 
+ 
+[ mente] 
+ 
+Juan trabaja satisfactoriamente 
+                                                                        (=Juan hace trabajo satisfactorio) 
+ 
+La estructura relativamente más compleja (17) responde a la necesidad de 
+incluir en la representación a la relación resultativa. Allí, el argumento interno—
+el√n que se incorpora en vo, proveyéndolo de material léxico (semántico)13—se 
+originaría como especificador de una proyección incrustada, previsiblemente 
+introducida por Adv si seguimos las consideraciones presentadas más arriba en 
+cuanto a las alternativas seguidas por V para satisfacción de sus requisitos 
+seleccionales. Así, contamos con un objeto de producción que en realidad seria 
+introducido en la configuración como sujeto de la relación predicativa interna 
+                                                          
+ 
+12 SC= Small Clause (SAdv). En términos generales, el análisis sería compatible con el enfoque de la Cláusula 
+Reducida de las resultativas (Hoekstra 1988). 
+13 La posibilidad de una base nominal originada en [spec, Adv] y la consiguiente conflación en vo crea un 
+problema teórico, dado que la conflación desde especificador no se considera posible (cf. HK 2002). Tenemos, 
+entonces, dos opciones: una, emplear estos datos para argumentar en contra de la infalibilidad de este principio; 
+otra, postular una alternativa como la sugerida arriba.  
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+(SC14), consecuentemente habilitado por el núcleo birrelacional requerido a tal 
+fin, en este caso, Advo (recordemos que Adv es, por sus propiedades 
+estructurales, una de las opciones disponibles para proveer a V con la proyección 
+requerida, junto con A y P). De esta forma, v y Adv establecerían un nuevo 
+dominio mínimo donde los dos elementos léxicos (N y √n) reciben una 
+interpretación adecuada (cf. Kratzer 2004:42 para un análisis comparable) y, 
+donde, además, el índice adverbial{ai} puede ser correspondientemente ligado. 
+De resultar correcta la propuesta, se establecería una relación semántica natural 
+entre estos dos componentes, en la medida en que las dos bases léxicas 
+(√trabaj(o)/√satisfactori(o)) trabajarían conjuntamente para describir más 
+precisamente el resultado de la eventividad (un producto y una propiedad 
+asignada), que es representada gramaticalmente como predicado verbal orientado 
+al objeto (cf. Baker, 2003:222).  
+Así, y si la analogía con la incorporación de otras categorías con especificador 
+(A/P) se sostiene, entonces el especificador en la estructura asociada al Adv 
+aparecerá, en el curso normal de los eventos, como argumento interno de V, tal 
+como sucede en aquellos casos donde la configuración correspondiente se logra 
+por Incorporación (Merge Interno, Mateu 2008; Move Haugen 2008) de A o P 
+(cf. Hale & Keyser 2002). Luego, la combinación con Adv le aportaría a V la 
+configuración estructural correspondiente a una estructura léxicamente diádica, 
+con la consiguiente creación de un dominio mínimo en el cual la raíz léxica (que 
+aporta la propiedad) recibe interpretación como predicado de un argumento de V 
+(el referente de la predicación secundaria). 
+De resultar acertado, este esquema podría dar cuenta del contraste relevante 
+con los SOA representados en (15)15. Nótese, de hecho, el paralelo estructural 
+determinado por la relación semántica relevante, esquemáticamente representada 
+                                                          
+ 
+14 La cláusula reducida de resultado, de acuerdo con el análisis estándar (e.g. Hoekstra 1988i.a.). 
+15Cabe aclarar que si bien el caso de hablar no supone un estatus derivacional (‘denominal’) evidente, el análisis es 
+el mismo—de hecho, hemos tomado el caso de trabajar para ofrecer una ilustración más transparente del 
+fenómeno. 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+97 
+ 
+nuevamente por la línea de puntos. En ambos casos, entonces, la asociación con 
+V permitiría algo crucial: en primer lugar, aportaría la posición de especificador 
+necesaria para el verbo; en segundo lugar, marcaría una relación semántica más 
+que interesante en cuanto al argumento con el cual el Adv se relaciona—el 
+parámetro central a su interpretación. En cualquier caso, de adoptar otro punto 
+de vista teórico, es claro que la articulación más fina del vP es fundamental para 
+reflejar las diferencias relevantes expuestas por la predicación secundaria.16 
+Como corolario, surgen dos cuestiones a desarrollar a futuro. Por un lado, el 
+interesante paralelo con los casos de cognados e hiperónimos con predicación 
+secundaria resultativa (e.g. corrió una carrera extenuante; durmió una siesta reparadora). 
+Por el otro lado, surge también la evidencia de que estas estructuras no 
+necesariamente involucran un cambio hacia una configuración inacusativa. Entre 
+otras cosas, los equivalentes romances en lenguas con diagnósticos más claros 
+confirman el comportamiento inergativo de los equivalentes (e.g. italiano, como 
+vemos en (18), incluso de las construcciones con cognados/hiperónimos (19(a)), 
+lo cual es particularmente relevante dada la conocida alternancia de verbos como 
+correre entre la forma inergativa y la variante inacusativa (cf.(19) b) (Folli & Harley 
+2006 i.a.).  
+ 
+(18)    a. Giovanni{ha/*è} lavorato soddisfacentemente/adeguatamente. 
+               ‘Giovanni haavere/haessere trabajado satisfactoriamente/adecuadamente’  
+b. Giovanni{ha/*è}corsofantasticamente. 
+                 ‘Giovanni haavere/haessere corrido fantásticamente’ 
+ 
+(19)      a. Giovanni{ha/*è}corsouna {corsa/maratona} fantastica. 
+                                                          
+ 
+16En términos generales, la estructuración sugerida acompaña a los estudios semánticos específicos (Ernst 2002) 
+en la observación de que este tipo de adverbios, teniendo alcance sobre el vP (en lugar de sobre la cláusula), 
+requieren una manifestación explícita de una cualidad (incluida en el adverbio) (i). La estructura propuesta arriba 
+permite una lectura donde dicha atribución se contrasta (implícitamente) con otros estados/propiedades 
+relacionados con el mismo participante (ii). 
+(i) 
+ 
+ADV (e) = e [REL manifests] PADJ in Agent 
+ 
+ 
+(Ernst 2002:55) 
+=show properties typical of 
+(ii) 
+Juan habló entusiastamente, pero al rato se mostró abatido. 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+               ‘Giovanni haavere/haessere corrido una carrera/maratón fantástica’ 
+             b. Giovanni {*ha/è}corso a casa. 
+ 
+ 
+‘Giovanni haavere/haessere corrido a casa’  
+ 
+6. Síntesis 
+En primer lugar, los datos observados en esta primera etapa de investigación 
+sugieren que si el análisis arriba delineado describiera de forma general y 
+apropiada la situación, entonces no debería haber diferencias notorias dadas por 
+diferentes configuraciones verbales (vP). No obstante, verbos que difieren en 
+este respecto pueden suponer diferencias relevantes. 
+En este sentido, el adverbio no debería tener distinto alcance de acuerdo a la 
+estructura interna del objeto (teóricamente, un paquete cerrado) que aloja en su 
+especificador. Ahora, visto que en verdad hay diferencias sensibles, y que estas 
+pueden relacionarse fácilmente con asimetrías en la estructura argumental del 
+verbo, entonces algo más debe suceder. Básicamente, nos referimos a que, de 
+tomar un enfoque más articulado (mínimamente, más que (11)), y si retomamos 
+lo sugerido antes en cuanto a la potencial participación de categorías como Adv 
+en la provisión del argumento externo que V no genera (pero que sí debe 
+aparecer de alguna manera por distintos motivos gramaticales) entonces es en 
+cierta forma esperable que exista alguna diferencia entre los distintos 
+componentes de la estructura que pueden relacionarse semántica (y 
+sintácticamente) con el componente léxico semántico introducido por el 
+adverbio. Ahora, si la diferencia se sigue del hecho de que el argumento 
+introducido por Adv dentro de la estructura birrelacional consecuentemente 
+determinada puede eventualmente aparecer en distintas posiciones, de acuerdo 
+con la relativa complejidad de V (sensiblemente mayor, por ejemplo, en una 
+predicación resultativa), entonces el problema parece poder explicarse 
+justificadamente. Desde nuestra perspectiva, lo que es interesante advertir es que 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+99 
+ 
+la relación entre Adv y los argumentos verbales, incluso aquellos no 
+representados gramaticalmente como objetos directos canónicos, provee 
+evidencia adicional para una hipótesis alentada originalmente por Hale & Keyser 
+y poco estudiada en estos casos (puntualmente, el índice semántico adverbial como 
+característica saliente de Adv, introducido más arriba). 
+De hecho, este enfoque permitiría explicar la introducción sintáctica del 
+argumento externo a la vez que se capta eficientemente la relación entre la 
+propiedad denotada por la raíz léxica y realizada como predicado mediante Adv. 
+Una ventaja del esquema propuesto es que esta relación es contenida en el 
+dominio interno del verbo, donde los constituyentes en cuestión reciben la 
+interpretación apropiada (depictiva). En cambio, en los casos donde el adjunto 
+(Adv) no parece presentar una relación semántico-sintáctica estrecha con estos 
+argumentos, definiría situaciones que se diferencian empírica y analíticamente de 
+forma clara y predecible. Lo importante es cómo captar esta relación semántico-
+sintáctica, para lo cual la propuesta haleandkeyseriana que retomamos resulta 
+central. Y, en efecto, no parece accidental que la estructura propuesta coincida 
+con el dominio donde el Adv opera (esto es, no sobre vP sino sobre 
+componentes de la estructuración más fina, crucialmente determinada por 
+asociación con un núcleo birrelacional como es Advo). 
+Finalmente, el análisis de los inergativos como trabajar/hablar como resultado 
+de la incorporación de un objeto permite la posibilidad de considerarlos como 
+una instanciación particular del patrón resultativo débil, es decir, aquel en el que 
+la base léxica del adverbio define, mediante la propiedad designada, el resultado 
+abstracto que ha sido incorporado (es decir, copiado) en el verbo. La 
+incorporación verbal apunta a captar la intuición de que el contenido léxico se 
+corresponde con el tipo de labor creativa, al mismo tiempo que V, con su 
+proyección en la que se desagrega máximamente, define configuracionalmente un 
+dominio válido para el establecimiento de relaciones semánticas de interés—que, 
+además, se extienden a otros dominios no exclusivos de la predicación adverbial, 
+como es el de los distintos modificadores de eventividad. 
+ 
+7. Consideraciones finales 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+Datos adicionales refuerzan las intuiciones aquí defendidas. Por ejemplo, es 
+interesante advertir que el español permite estructuras comparables con la forma 
+predicativa adjetival de ciertas raíces de propiedad. Si bien el fenómeno no 
+generaliza plenamente—considerando que existen huecos importantes en la 
+distribución y productividad17—, encontramos varios puntos de interés.  
+Primero, las construcciones ROA corresponden a instancias de una estructura 
+largamente considerada ausente en las lenguas romances (especialmente en 
+español): la predicación resultativa por incorporación o débil (cf. Mateu 2011 
+para discusión y resumen). En este sentido, datos de este tipo podrían impulsar 
+un refinamiento teórico de importancia; o, al menos, ayudar a limitar 
+generalizaciones excesivas de cara a la empiria. 
+ 
+(20) Juan cocina {salado/rico/seco} 
+       Juan trabaja {barato/prolijo/diferente/liviano/bonito/fenomenal}. 
+ 
+En cuanto a las SOA, la variante adjetival es también empíricamente relevante, 
+en tanto la concordancia marca una diferencia estructural clave con otras 
+construcciones propuestas en este trabajo (21).  
+ 
+(21) María Luisa habló {abierto/ alto/ bajo/ cantadito/ claro/ compulsivo/ directo/ 
+duro/ largo/pausado/recio/sucio/calmada/ confusa/ seria/ temblorosa/ 
+tranquila} 
+cf. María Luisa habló # {abierta/ alta/ baja/ bonita/ cantadita/ clara/ 
+compulsiva/directa/dura/larga/pausada/calmado/confuso/serio/ tembloroso/ 
+tranquilo} 
+                                                          
+ 
+17 Bajo el supuesto, seguido en muchos casos—pero con al que no necesariamente adherimos—, de que los 
+Adjetivos con función comparable a la adverbial no suponen diferencias estructurales (e.g. Juan trabaja 
+*satisfactorio).  
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+101 
+ 
+ 
+Finalmente, desde el punto de vista del análisis teórico, las características 
+comunes de A y Adv explican la correlación—que, de extenderse a P—supondría 
+un correlato estructural crosscategorial coherente con la intuición semántica (e.g. 
+calmadamente ≈‘con calma’).  
+ 
+8. Conclusión 
+En suma, las reflexiones que anteceden, más los datos que las acompañan, 
+sugieren que un abordaje preliminar configuracional del tipo propuesto permitiría 
+explicar lo que los estudios semánticos plantean desde antiguo, sin violar las 
+generalizaciones sobre proyección en la estructura argumental y los esquemas 
+básicos estudiados en el marco de la sintaxis léxica, los cuales han provisto 
+herramientas analíticas fundamentales en la explicación de numerosos patrones 
+intra y croslingüísticos (cf. Mateu 2011, Alexiadou 2002 i.a.). 
+Ahora, siendo ésta sólo una primera aproximación al problema, muchas 
+preguntas quedan por responder, las cuales dejamos para futuras investigaciones. 
+Por ejemplo, una pregunta de peso es por qué ciertas raíces léxicas aparecen en 
+una configuración y no en otra. A este respecto, como advertíamos en la 
+Introducción, la preservación de un enfoque construccionista moderado permite 
+la combinación de restricciones configuracionales con restricciones de origen 
+léxico. No obstante, en todo caso, también es necesario preservar la restricción 
+semántica determinada desde fuera del dominio léxico-gramatical—como se 
+admite incluso en los enfoques construccionistas más radicales—en cuanto al 
+dominio conceptual/enciclopédico. Esto es, hay una última instancia de 
+definición que tiene que ver con determinar en qué caso la propiedad puede o no 
+aplicar a un sujeto, a un evento, un modo, una frecuencia, etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+ 
+ 
+Referencias Bibliográficas 
+(Real) AcademiaEspañola. 2010.Nueva gramática de la lengua española. Manual. 
+Madrid: Espasa Calpe. 
+Alarcos Llorach, E. 1994. Gramática de la lengua española. Madrid: Espasa Calpe. 
+Alexiadou, A. 2002. “State of the art article on the syntax of adverbs”. GLOT 
+International. 6, 33–54. 
+Baker, M. 2003. Lexical categories. Verbs, nouns, and adjectives. Cambridge: CUP. 
+Bello, A. (1847/2002). Gramática de la lengua castellana destinada al uso de los 
+americanos. Valencia: Biblioteca Virtual Miguel de Cervantes.  
+Bosque, I. & J. Gutiérrez-Rexach. 2008. Fundamentos de sintaxis formal. Madrid: 
+Akal. 
+Chomsky, N. 1957. Syntactic Structures. The Hague: Mouton 
+Cinque, G. 1999. Adverbs and Functional Heads: A Coss-Linguistic Perspective. 
+Oxford University Press, Oxford. 
+Ernst, T. 1984. Towards an Integrated Theoryof Adverb Position in English. 
+Indiana: IULC.  
+Folli, R.& H. Harley. 2006. “Flavors of v. Consuming results in Italianand English”, 
+in P. Kempchinsky & R. Slabakova. Aspectual Enquiries, Dordrecht: Springer, 
+95-120. 
+Folli, R. & H. Harley. 2007. “Causation, obligation, and argument structure: on the 
+nature of little v” Linguistic Inquiry 38:2, 197-238 
+Gili Gaya, S (1945/1980). Curso superior de sintaxis española. Barcelona: VOX. 
+Hale, K L.&S. J. Keyser. 2002.Prolegomenon to a theory of argument structure. 
+Cambridge. MA: MIT Press 
+Nora Múgica y María Eugenia Mangialavori Rasia. Léxico y sintaxis en los adverbios españoles… 
+ 
+ 
+103 
+ 
+Hale, K L.&S. J. Keyser. 2005. “Aspect and the Syntax of Argument Structure”. The 
+syntax of aspect, ed. by Nomi Erteschik-Shir and Tova Rapoport. 42-63. Oxford: 
+Oxford University Press. 
+Hale, K L.&S. J. Keyser.1993. “On Argument Structure and the Lexical Expression 
+of Syntactic Relations”. Kenneth Hale and Samuel Jay Keyser (eds.), The View 
+from Building 20. 53-110. Cambridge, MA: MIT Press. 
+Harley, H. 2005. “How do verbs get their names?” The syntax of aspect, ed. by 
+Nomi Erteschik-Shir and Tova Rapoport. 42-63. Oxford: Oxford University 
+Press. 
+Harley, H. 2014. “On the identity of roots”. Theoretical Linguistics, 40(3-4), pp. 
+225-276. 
+Haugen, J. 2008. Morphology at the Interfaces. Amsterdam & Philadelphia: John 
+Benjamins 
+Hay, Jen, Christopher Kennedy, Beth Levin. 1999. “Scale structure underlies 
+telicity in ‘degree achievements’”. Tanya Matthews and Devon Strolovitch (eds.), 
+Semantics and Linguistic Theory 9, 127–144. Ithaca, NY: CLC Publications 
+Hoekstra, Teun. 1988. “Small clause results”. Lingua 74. 101-139 
+Jackendoff, R. 1972. Semantic Interpretation in Generative Grammar. Cambridge: 
+MIT Press. 
+Maienborn, C.& Schäfer, M. 2011. “Adverbs and adverbials”. En Maienborn, C. von 
+Heusinger, K., Portner, P. (eds.). Semantics. An international handbook of 
+natural language meaning; Volume 2. Berlin: de Gruyter, 1390-1420. 
+Mateu, J. 2008. “On the lexical syntax of directionality/resultativity: the case of 
+Germanic preverbs”. InA. Asbury et al. (eds.). Syntax and Semantics of Spatial 
+P. 221-250. Amsterdam & Philadelphia:John Benjamins 
+Mateu, J. 2011. “Types of Resultatives and Linguistic Variation”. Workshop on 
+Verbal Elasticity. Barcelona: UAB.  
+McIntyre, A. 2004. “Event paths, conflation, argument structure, and VP shells”. 
+Linguistics 42(3). 523-57. 
+Pylkkänen, L. 2008. Introducing Arguments. Cambridge, Mass.: MIT Press. 
+ 
+ 
+N° 7. Primer semestre 2017 
+ 
+Ramalle, T. M 2001: “Los adverbios de manera como predicados de los subeventos 
+verbales”, RsEL, 31, 1, pp. 107-143. 
+Thomason, R.&Stalnaker, R. 1973. “A semantic analysis of adverbs”. Linguistic 
+Inquiry 4, 195–220. 
+Travis, L. 1988. “The syntax of adverbs”. McGill Working Papers in Linguistics 
+(Special Issue), pp. 280–310. 
+Zubizarreta, M.L. 1987. Levels of Representation in the Lexicon and in the Syntax. 
+Dordrecht, Foris. 

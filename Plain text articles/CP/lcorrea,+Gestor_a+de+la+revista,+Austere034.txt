@@ -1,0 +1,540 @@
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+Universidad Nacional de La Plata. 
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios Latinos
+La selección del mito en la definición de la memoria de Troya: Eneida II
+En el presente trabajo nos proponemos indagar el tema de la destrucción de Troya,
+narrada en el libro II de la Eneida de Virgilio, siendo ésta la primera fuente completa sobre
+los eventos acerca de la caída de la ciudad1. Analizaremos la especificidad del tratamiento
+del tema desde la perspectiva de un poeta romano, quien, en la selección mítica, pone
+énfasis en los siguientes puntos para definir la perfidia griega y la entrada del caballo a la
+ciudad manifestando la valoración con la que conforma los acontecimientos de un pasado
+mítico  que  en  el  texto  perpetúa  la  memoria:  el  perjurio  de  Sinón,  el  portento  mal
+interpretado de Laocoonte y la voluntad de los hados. Consideramos estos tres mitemas2
+como las claves en las que descansa la intencionalidad de perpetuar la memoria del pasado
+mítico, puesto que, ya desde una primera lectura, confrontando estas representaciones con
+las secuencias míticas tomadas en otras fuentes, notamos una clara diferencia que iremos
+esbozando oportunamente.
+Fuentes literarias sobre el caballo de madera
+El libro II de Eneida se plantea narrativamente como una escena retrospectiva de los
+acontecimientos de la destrucción de Troya. Es el único documento completo sobre la
+1 Austin, R. G., P. Virgili Maronis. Aeneidos. Liber Secvndvs, Oxford, Oxford University P., 1964, x.
+2 Lévi-Strauss (Antropología Estructural, Buenos Aires, Paidós, 1987) define “mitemas”, desarrollando la 
+estructura de los mitos, como las unidades constitutivas del mito. Según explica: “Como toda entidad 
+lingüística, el mito está formado por unidades constitutivas; estas unidades constitutivas implican la presencia 
+de aquellas que normalmente intervienen en la estructura de la lengua, a saber, los fonemas, morfemas y 
+semantemas. Pero ellas tienen con estos últimos la relación que los semantemas guardan con los morfemas y 
+que estos guardan con los fonemas. Cada forma difiere de la precedente por un grado más alto de 
+complejidad. Por esta razón, a los elementos propios del mito (que son los más complejos de todos) los 
+llamaremos: unidades constitutivas mayores o mitemas.”
+Cita sugerida: Bisignano, J. A. (2017). La selección del mito en la definición de la memoria de Toya: Eneida II. Auster, 
+(22), e034. Recuperado de: 
+ http://doi.org/10.24215/23468890e34
+ 
+ 
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+leyenda y sobre el caballo de madera, aunque existen fuentes anteriores en las que el tema
+es representado de manera dispersa.
+Según informa Pausanias, Ilias Parva de Lesches documenta la leyenda de Troya,3 y
+en su descripción de la Acrópolis de Atenas, menciona el legendario caballo. En su
+representación, a pesar del estilo neutral que lo caracteriza, deja traslucir una alusión a la
+ingenuidad de los troyanos, característica probablemente común en la representación hecha
+por los autores griegos:
+καὶ ἄλλα ἐν τῇ Ἀθηναίων ἀκροπόλει θεασάμενος οἶδα, Λυκίου τοῦ Μύρωνος
+ 
+ χα
+  
+λκοῦν παῖδα […]
+ἵππος δὲ ὁ καλούμενος Δούριος ἀνάκειται χαλκοῦς. καὶ ὅτι μὲν τὸ ποίημα τὸ
+  Ἐπ
+ 
+ 
+ειοῦ μηχάνημα ἦν ἐς διάλυσιν τοῦ τείχους, οἶδεν ὅστις μὴ πᾶσαν ἐπιφέρει
+ 
+ τοῖς
+ 
+  
+Φρυξὶν εὐήθειαν: λέγεται δὲ ἔς τε ἐκεῖνον τὸν ἵππον ὡς τῶν Ἑλλήνων
+ 
+ ἔνδον
+ 
+  ἔχο
+ι τοὺς ἀρίστους, καὶ δὴ καὶ τοῦ χαλκοῦ τὸ σχῆμά ἐστι κατὰ ταῦτα: καὶ
+ 
+ Μενεσθεὺ
+ 
+ 
+ς καὶ Τεῦκρος ὑπερκύπτουσιν ἐξ αὐτοῦ, προσέτι δὲ καὶ οἱ παῖδες οἱ
+  Θησέως
+ 
+ 4.     
+“Otras cosas que conseguí ver en la Acrópolis de Atenas: el niño de bronce de Licio hijo de
+Mirón […] Está también el caballo de bronce llamado Durio (de madera); y quien no
+atribuye a los frigios una total ingenuidad, sabe que la obra de Epeo fue un artificio para
+abrir la muralla; pero se dice sobre aquel caballo que albergaba a los mejores de los griegos,
+y sin duda, la forma de este bronce es la misma de aquel; y Menesteo y Teucro se asoman
+desde él y además los hijos de Teseo.”5
+Se destaca al constructor, Epeo, que en  Eneida permanece en el anonimato, y se pone
+énfasis en los hombres que había en su interior: “los mejores de los griegos […] Menesteo
+y Teucro […] los hijos de Teseo”. Virgilio, por el contrario, presenta hombres sin nombre,
+son sombras oscuras y amenazantes esperando en su vientre. El acento está puesto en el
+terror, lo siniestro, la destrucción. Esta imagen de oscuridad contrasta asimismo con la
+representación homérica. En Odisea IV, 265 y ss., Menelao recuerda el episodio del caballo
+3 Sobre el texto perdido Ilias Parva, Pausanias refiere “Macaón, según dice el autor del poema La pequeña 
+Ilíada, fue muerto por Eurípilo, el hijo de Télefo”. Díaz Tejera, A., Pausanias. Descripción de Grecia: Ática y
+Laconia, Biblioteca de Iniciación al Humanismo, Madrid, Aguilar, 1964, 266.
+4 Spiro, F., Pausaniae Graeciae Descriptio, 3 vols. Leipzig, Teubner, 1903.
+5 Díaz Tejera, Pausanias. Descripción de Grecia, 102.
+2
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+para referirse al sufrimiento que sintieron los griegos en el momento de la emboscada
+(οἷον καὶ τόδ᾽ ἔρεξε καὶ ἔτλη καρτερὸς ἀνὴρ/ἵππῳ ἔνι ξεστῷ, ἵν᾽ ἐνήμεθα πάντες ἄριστ
+οι6,  Od. IV,  271-272 –  “¡qué  no hizo  y sufrió  aquel  fuerte  varón  en  el  caballo  de
+pulimentada  madera,  cuyo  interior  ocupábamos  los  mejores  argivos!”7);  lo  menciona
+también en el canto VIII, 492 y ss. aludiendo al suceso en forma imparcial, y en XI, 523 y
+ss. donde vuelve a mencionar los temores y nervios padecidos por ellos; la perspectiva es
+claramente distinta.
+Mencionan  también  el  caballo  el  Iliupersis de  Arctino  conocido  a  través  de
+referencias en Proclo y en Pausanias, así como también el  Iliupersis de Estesícoro; las
+tragedias griegas  Hécuba (905 y ss.) y  Troyanas (9-14 y 511 y ss.) de Eurípides, y
+Agamenón (823 y ss.) de Esquilo. 
+El caballo de madera en Eneida II
+A partir de la narración en voz del troyano se le da una unidad a la historia de la
+destrucción puesto que ésta se centra en una sola persona, en lo que vio y experimentó.
+Desde su perspectiva se construye la historia del pasado mítico de Roma centrándose en el
+pathos, intentando obtener la empatía de su auditorio con el objeto, en un primer momento,
+de que le sean hospitalarios. Recordemos que Eneas había llegado a las costas frigias y este
+relato comienza a pedido de la reina Dido que desea informarse de su procedencia:
+Infandum, regina, iubes renovare dolorem,  En., II. 3 (oh reina, me ordenas renovar un
+odioso dolor8). Destacamos aquí el adjetivo que utiliza para calificar los sucesos de la
+destrucción de Troya, el hecho es doloroso (dolorem) y a su vez es infandum. El término
+6 Murray, A. T., Homer. The Odyssey, Cambridge, MA., Harvard University P.; London, William Heinemann, 
+1919.
+7 Segalá y Estalella, L., Homero. Obras completas, Buenos Aires, El Ateneo, 1965.
+8 Las traducciones del latín son propias.
+3
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+infandum quiere  decir  “que  no  se  debe  pronunciar,  vergonzoso,  abominable”9 en  su
+acepción corriente, pero en su etimología está relacionado con la raíz de fas10 y es en el
+sentido en que está presente en estos versos del libro II, en los que resulta correcto
+interpretar que se trata de una injusticia divina que deberá tener su resarcimiento y lo tiene
+justamente en la construcción de la futura ciudad de Roma. La ciudad se yergue así
+envuelta en un hálito de justicia. 
+Creemos oportuno comentar en este sentido el análisis de Galinsky11 que considera
+Eneida como el aition (“el mito de origen”) del pueblo romano, el establecimiento de un
+nuevo orden, incluyendo la ratificación de los cultos; pues ese pueblo se cimienta sobre las
+bases de una causa divina. Si bien los mitos etiológicos surgen de una larga tradición oral,
+Virgilio plasma en su obra una versión autorizada por el poder dominante en la que
+podemos observar las estrategias discursivas que definen la identidad romana en oposición
+a la alteridad griega. De este modo la secuencia mítica adquiere un grado de historicidad al
+vincularse con los ideales del pueblo romano.
+La historia se presenta, desde el comienzo, de una manera trágica. Tal como lo
+señala Quinn12, la historia del libro II alcanza su clímax cuando Neoptólemo, el hijo de
+Aquiles, irrumpe en el palacio del rey Príamo acompañado de Agamenón y Menelao (En.
+II, 499-502). 
+9 “dont on ne doit pas parler, honteux, abominable […] chose affreuse”. Gaffiot, F. Dictionnaire Latin-
+Française. París, Hachette, 1951.
+10 “Ses participes s'emploient avec le sens passif : fātus, d'où fatum, -ï (v. ce mot), fātārī attesté par Prise.
+III , 
+486, 12 et P. F. 78, 22, fatantur, multa fantur; fondus avec ses contraires infandus (=a)¿lektoj, a)
+¿rretoj, puis a)qe¿mitoj) et nefandus (peut-être plus récent que infandus et influencé par nefas), cf. Catulle 64, 
+406, omnia fanda, nefanda malo permixta furore ; d'où nefandārius (Not. Tir.). Cf. aussi nefāns, employé au 
+pluriel neutre nefantia avec le sens de nefanda par Lucilius et Varron ap. Non. 489, 14 ; de même īnfāns 
+facinus dans Accius”. (Ernout, A. et Meillet, A., Dictionnaire Étymologique de la Langue Latine. Histoire des
+Mots, Paris, Éditions Klincksieck, 2001, 245).
+11 Galinsky, K., “El drama griego y romano y La Eneida”, Auster (8-9), 9-29. 
+12 Quinn, K. Virgil’s Aeneid: A Critical Description, London and Ann Arbor, University of Michigan P., 
+1968.
+4
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+El narrador Eneas, en su discurso, asimismo, tiene como objetivo, no sólo destacar
+las virtudes de su pueblo en general, sino también configurar su propio personaje para
+caracterizarse finalmente como líder, manifestando expresamente que su huida de Troya
+está ordenada por los hados, pues él hubiera querido quedarse defendiendo la ciudad: 
+Iliaci cineres et flamma extrema meorum,
+testor, in occasu vestro nec tela nec ullas
+vitavisse vices Danaum, et, si fata fuissent
+ut caderem, meruisse manu………………. 
+                                              II. 431-434
+oh cenizas de Ilión, oh postreras llamas de los míos, 
+sedme testigos de que en vuestra caída no esquivé 
+ni los dardos de los griegos ni ninguno de los trances de la guerra,
+y, si los hados hubieran designado que yo cayera, lo habría merecido. 
+Quinn observa que el libro II contiene tres principales funciones estructurales: en primer
+lugar, tiene como objetivo relatar el pasado, tanto éste como el libro III narran eventos
+anteriores a modo de historia enmarcada. En segundo lugar, para generar la empatía del
+lector por Eneas. Puesto que en el libro IV su figura no generará simpatía, resulta necesario
+lograr la benevolencia del lector antes13; asimismo, el hincapié puesto en la misión que está
+llevando a cabo el héroe prepara el terreno para comprender su postura que perjudica a la
+reina Dido. Y en tercer lugar, a pesar de que por un lado Eneas obtiene la simpatía del
+lector, en el libro II se describe una serie de ilustraciones de la debilidad humana: su
+inadecuación a la tarea a la que está destinado, antes de que pueda ser el verdadero líder de
+su pueblo, tendrá que aprender, como veremos de nuevo en los libros IV y V, el control de
+sí mismo14. 
+13 Igualmente Gransden (Gransden, K. W., “The Fall of Troy”, G&R 32, 1985, 61) explica que Virgilio,
+detrás de la voz del héroe-narrador, presenta el libro como un paradigma estructural del libro IV.
+14 Quinn, Virgil’s Aeneid, 114.
+5
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+Es interesante notar, siguiendo a Austin15, que las escenas de este libro son similares
+en tamaño y estructura al episodio de Aristeo del libro IV de Geórgicas, y forman parte de
+un patrón de temas entrelazados, cuidadosamente proporcionados. Creemos que, si bien es
+un tema a estudiar en un trabajo aparte y merece un desarrollo en profundidad, una de las
+razones  de  este  paralelismo  consiste  en  la  actitud  de  los  personajes  al  intentar  una
+alternativa a lo establecido por los hados. Un indicio de esto lo sugiere el sustantivo que
+utiliza Virgilio para referirse a la causa de la perdición de los troyanos  y de Orfeo
+respectivamente: furor. En Geórgica IV, Orfeo baja al Averno a rescatar a Eurídice de la
+muerte pero no lo logra porque su furor no le permite acatar la regla que le imponen los Di
+inferi; en Eneida II, los troyanos caeci furore (II, 244) no advierten las señales que indican
+la no recomendación de la entrada del caballo a la ciudad. Ambos sucesos narran un fracaso
+mortal.
+Este episodio condensa cuál es el origen de Roma, y uno de los ejes centrales es la
+definición del romano en oposición al griego y su perfidia. Esta es la imagen que el
+gobierno de Augusto intenta proporcionar. La selección mítica de la descripción de la
+entrada del caballo a la ciudad confluye a forjar la imagen para la memoria de Troya y de
+los  orígenes  de  Roma.  La  estampa  de  Eneas,  Anquises  y  Iulo,  seguidos  de  Creusa
+representa el esquema social y religioso, que son sinónimos para los romanos, en el que se
+apoya el Principado, que busca la validación de su derecho al poder en la gens escogida por
+los dioses y el destino, que es la de Augusto y reivindica el modelo de la sucesión
+genealógica, la supremacía masculina y un conjunto de valores parentales asentados en la
+religiosidad o pietas16.
+15 Austin, R. G., “Virgil and the Wooden Horse”, JRS 49, 1959, 16: “First the Horse appears; then Laocoon 
+gives his warning, Sinon tells his tale, Laocoon and his sons perish; the Horse is taken into Troy, and its 
+menace is fulfilled. The last name in the list of Greeks who come swarming out of it is that of its builder, and 
+the pattern is finished.”
+16 Galán, L. Virgilio. Eneida. Una introducción crítica, Buenos Aires, Santiago Arcos Editor, 2005, 34.
+6
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+El objetivo de la épica romana, como está presente en los estudios de Grimal17,
+Galinsky18 y Galán19, es expresar el período de Augusto, quien necesitaba un poema que
+viniera a justificar la fundación de una dinastía que él mismo estaba continuando. Augusto,
+como parte de su proyecto político, construyó un orden simbólico sustentado en el poder de
+las imágenes y verificado en el arte, los monumentos, el culto y los gestos semántica y
+simbólicamente fuertes.
+Vemos graficado aquí de qué manera en Eneida se propone perpetuar una ideología
+que perdure como memoria y de qué manera entregar a la posteridad una imagen particular
+que  defina  la  identidad  romana.  Podemos  comprenderlo  más  apropiadamente  si  lo
+abordamos teniendo en cuenta el concepto teórico introducido por Williams de “tradición
+selectiva”. Para éste, la tradición es la expresión más evidente de las presiones y límites
+dominantes y hegemónicos. Es el medio de incorporación práctico más poderoso. La
+tradición selectiva es “una versión intencionalmente selectiva de un pasado configurativo y
+de un presente preconfigurado, que resulta entonces poderosamente operativo dentro del
+proceso de definición e identificación cultural y social”20. Ciertos significados y prácticas
+son seleccionados y acentuados y otros son rechazados o excluidos, y esto es lo que ocurre
+en  este  recorte  mítico  enfocado  a  la  definición  de  un  origen,  siempre  con  una
+intencionalidad subyacente. Williams explica que toda tradición constituye un aspecto de la
+organización social y cultural  contemporánea del interés de la dominación de una clase
+específica. Es una versión del pasado que se pretende conectar con el presente y ratificar.
+En la práctica, lo que ofrece la tradición es un sentido de  predispuesta continuidad. El
+establecimiento de una tradición selectiva depende en parte de instituciones identificables
+así como también de  formaciones, con lo cual Williams21 entiende los movimientos y
+tendencias, en la vida intelectual y artística, que tienen una influencia sobre el desarrollo de
+17 Grimal, P., El siglo de Augusto, Editorial Universitaria de Buenos Aires, 1965, 70.
+18 Galinsky, “El drama griego y romano y La Eneida”.
+19 Galán, Virgilio. Eneida, 17.
+20 Williams, R. Marxismo y Literatura, Buenos Aires, 2009, 137.
+21 Williams, Marxismo y Literatura, 138.
+7
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+una cultura. Es en este sentido en el que Augusto logró la identificación de varios factores
+culturales con su proyecto político, entre ellos, Eneida.
+Virgilio  transfiere  y  transforma  referencias  de  todo  tipo  y  construye  nuevas
+combinaciones de ellas al servicio de su visión poética y a su vez al servicio de la ideología
+de la clase dominante. Este método ha sido denominado la “integración virgiliana”22. En
+Eneida II, creemos que la selección mítica se estructura en torno a tres ejes:
+1. Perjurio de Sinón:
+Sobre las fuentes en torno al personaje de Sinón23 se conoce que los troyanos
+torturaron al griego en cuanto lo vieron. Virgilio toma todos los aspectos de las fuentes
+anteriores en las que aparece el personaje pero cuidadosamente no permite que los troyanos
+maltraten  a  Sinón,  excepto  mediante  algunas  burlas  (undique  visendi  studio  Troiana
+iuventus/ circumfusa ruit, certantque inludere capto, II. 63-64 – por todas partes la juventud
+troyana, con el afán de verlo, corre alrededor del cautivo y lo insulta-).
+Clausen24 sostiene que Virgilio omite la tortura de Sinón de parte de los troyanos
+porque es Eneas quien relata lo sucedido; en el texto no hay alusión alguna y el mensaje es
+bien claro: los troyanos no ofenden a los dioses.  
+En algunas versiones de la leyenda, Laocoonte es castigado por las serpientes
+porque, según lo interpretan los troyanos, ha maltratado anteriormente a Sinón. Esta parte,
+en correspondencia con la imagen benévola del pueblo de Troya, es excluida por Virgilio y
+tratada de otra manera: ya que este maltrato no existe, esta explicación no es posible en el
+texto y el único pérfido es el griego, contrastando con el respeto con que lo tratan los
+22 Knight, W. F. J. Vergil’s Troy. Essays on the Second Book of the Aeneid, Oxford, Basil Blackwell,1932, 74.
+23 Quintus Smyrnaeus, The Fall of Troy, Way A. S. (trad.), London: William Heinemann; New York: G.P. 
+Putnam's Sons, 1913. (XII, 243-245: to\n de\ Si¿nwn a)pamei¿beto ku¿dimoj a)nh¿r/ a)¿llwn deidio¿twn: 
+ma¿la ga\r me¿ga e)¿rgon e)¿mellen/ e)ktele¿ein.).  
+24 Clausen, W., Virgil’s Aeneid. Decorum, Allusion and Ideology, München-Leipzig, Saur, 2002, 58-74.
+8
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+troyanos; ante el engañador griego, Príamo desde un primer momento se muestra gentil y
+amigo: 
+His lacrimis vital damus et miserescimus ultra.
+ipse viro primus manicas atque arte levari
+vincla iubet Piamos dictisque ita fatur amicis
+                                                            II. 145-147
+Grandemente compadecidos de sus lágrimas, le concedemos la vida; el mismo
+Príamo manda el primero que le quiten las esposas y los apretados cordeles, y le
+dirige estas amistosas palabras.
+Estas  características  destacadas  en  la  contraposición  de  actitudes  demuestran  la
+intencionalidad de conformar la identidad cultural y social del romano, no sólo apartándose
+de la alteridad griega, sino acentuando el carácter piadoso y respetuoso de los troyanos
+representados con el objetivo de crear una “predispuesta continuidad” con la identidad
+romana contemporánea al poema.
+Sinón, en su discurso, construye un cuadro de su propia pietas. Comienza apelando
+a la ley de la hospitalidad, actitud propia de hombre que cultiva la  virtus, como primer
+recurso falaz para lograr la empatía de los troyanos; al presentarse como víctima de Ulises
+gana tanto credibilidad como simpatía de sus oyentes25: Heu, quae nunc tellus, inquit, quae
+me aequora possunt/ accipere? Aut quid misero mihi denique restat, II. 69-70 (¡Oh!
+Exclama ¿Qué tierra, qué mares podrán recibirme ahora? ¿O qué me queda, finalmente,
+desdichado de mí?), y enseguida se define como un compatriota diciendo  neque apud
+Danaos usquam locus (“ya no tengo ningún lugar entre los dánaos”, II. 71). Eneas, que
+recrea las palabras de Sinón mediante el discurso directo, interrumpe para contar a su
+auditorio que ante esa presentación que hace el griego, ellos cambian su actitud defensiva y
+se disponen a escuchar lo que tiene que decir; en otras palabras, le creen (quo genitu
+conversi animi, compressus et omnis/ impetus, II. 73-74 –“nuestros ánimos se cambian por
+25 Gransden, “The Fall of Troy”, 64.
+9
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+su lamento y todo nuestro ímpetu se apacigua”). Siguen las palabras de Sinón prometiendo
+veracidad, fidelidad: cuncta equidem tibi, Rex, fuerit quodcumque, fatebor/ vera II. 77-78
+(“te confesaré toda la verdad, rey, suceda lo que suceda”). Y luego de contarles su historia
+de enemistad con Ulises, una vez más se muestra en complicidad con la perspectiva troyana
+sobre el pueblo griego como engañador: si omnis uno ordine habetis Achivos,/ idque audire
+sat est? II. 102-103 (“si tienen en un solo concepto a todos los aqueos ¿es suficiente lo que
+oyeron?”). Seguidamente cuenta que él ha huido antes de ser sacrificado para aplacar al
+dios Apolo y pide piedad:
+Quod te per superos et conscia numina veri,
+per si qua est quae restet adhuc mortalibus usquam
+intemerata fides, oro, miserere laborum
+tantorum, miserere animi non digna ferentis  
+                                                            II. 141-144
+Por los dioses y por los númenes que conocen la verdad,
+Por la inmaculada fe si aún permanece alguna entre los mortales 
+Te ruego, apiádate de tantas desventuras,
+Apiádate de mi espíritu que soporta cosas indignas.
+Inmediatamente les explica que han construido el caballo para expiar el robo del Paladio26,
+como parte constitutiva de la religio. Lo conecta con una Minerva ofendida y los troyanos
+deben hacer su parte para no ofenderla ellos también27:
+Hanc pro Palladio moniti, pro numine laeso
+effigiem statuere, nefas quae triste piaret. 
+                                                     II. 183-184
+Advertidos, emplazaron esa estatua en lugar del Paladio,
+en lugar de la diosa ofendida, para expiar el horrible sacrilegio.
+Ante este engaño del griego, los troyanos se apiadan, le creen, puesto que no pueden
+imaginarse semejante ficción que implica una herejía.
+26 Para Austin (“Virgil and the Wooden Horse”, 20), Virgilio omite hablar de toda la tradición sobre el robo 
+del Paladio porque detenerse en la anécdota debilitaría el argumento de Sinón.
+27 Austin, “Virgil and the Wooden Horse”, 20.
+10
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+Virgilio construye una imagen de la etnia griega que se relaciona con la violación de
+la esfera sagrada28. En el discurso de Sinón se establecen varias faltas a la divinidad de
+parte de los griegos: afirmar que es una ofrenda sagrada; utilizar el lenguaje corporal del
+rito y las fórmulas establecidas para argumentar su falso discurso; poner de testigos a varias
+divinidades y objetos de culto al inviolable numen; resaltar otra ofensa sagrada como el
+robo del Paladio, que conlleva otras como la destrucción del templo, y acudir al léxico
+religioso para que al fin los troyanos introduzcan el caballo a la ciudad.
+2. Profecía de Laocoonte:
+La  crítica29 analiza  los  dos  episodios  (el  engaño  y  la  muerte  de  Laocoonte)
+interrelacionados.
+Putnam30 ve a Laocoonte como la primera víctima del sacrificio simbólico de la
+destrucción de la ciudad, y Knox31 lo entiende como una “profecía simbólica” de la caída
+de Troya como un todo. Al respecto observamos que así como varios elementos se trastocan
+en  esta  escena  siniestra,  el  mismo  sacerdote  que  está  comenzando  su  sacrificio,  es
+sacrificado  (Laocoon,  ductus  Neptuno  sorte  sacerdos,/  sollemnis  taurum  ingentem
+mactabat ad aras, II. 201-202 – Laocoonte, designado por la suerte como sacerdote de
+Neptuno/ sacrificaba, solemne, un enorme toro ante los altares). Austin sostiene que este
+28 Bogdan, G., La representación de la religio en Eneida de Virgilio. Tesis de posgrado. Universidad 
+Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educación. En Memoria Académica. 
+Disponible en: http://www.memoria.fahce.unlp.edu.ar/tesis/te.1160/te.1160.pdf, 2015, 199 ss.; Ames, C. y  de 
+Santis, G.  “La construcción de identidades étnicas en el estado augusteo. El ejemplo de la Eneida”, Estudios 
+clásicos 17, 2013, 1-24.
+29 Manuwald, G. “Improvisi aderunt. Zur Sinon-Szene in Vergils Aeneis”, Hermes 113, 1985, 115; Block, E.,
+The Effects of Divine Manifestation on the Reader’s Perspective in Vergil’s Aeneid, Salem, N. H., Ayer 
+Company, 1984, 54; Hardie, P., Virgil’s Aeneid. Cosmos and Imperium, Oxford, Clarendon P., 1986, 56; 
+Smith, R. A., The Primacy of Vision in Virgil’s Aeneid, Austin, University of Texas P., 2005, 50; Putnam, M., 
+The Poetry of the Aeneid: Four Studies in Imaginative Unity and Design, Cambridge, Mass., Harvard 
+University P., 1965, 24.
+30 Putnam, M., The Poetry of the Aeneid, 24.
+31 Knox, B. M. W., “The Serpent and the Flame: The Imagery of the Second Book of the Aeneid”, AJPh 71, 
+1950, 382.
+11
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+evento, no sólo inesperado sino disruptivo de la acción, provoca que una escena de solemne
+ritual religioso se torne un acto de terror32. 
+Sobre el portento de Laocoonte, Grimal33 ofrece una interpretación: la leyenda
+informa que, siendo sacerdote de Apolo, atrajo la cólera del dios, cuando se unió con su
+mujer Antíope ante la estatua consagrada, lo cual constituía un sacrilegio y debía ser
+expiado  o  castigado.  Ante  el  prodigio  de  las  serpientes,  los  troyanos  lo  relacionan
+directamente con que éste se había opuesto a que se introdujese en la ciudad el caballo
+abandonado por los griegos, había aconsejado quemarlo e incluso había disparado contra él
+una jabalina34. Creyeron que la muerte de Laocoonte era un castigo por este acto sacrílego,
+cuando en realidad, aunque ellos no podían saberlo, Apolo vengaba otro sacrilegio: la
+profanación de su templo. 
+Esta interpretación que hace Grimal sobre el castigo de Laocoonte es posible en la
+tradición mítica pero en Eneida Virgilio no toma este aspecto del mito ya que en su versión
+no se remite a su pasado, por lo tanto las lecturas posible del portento sería la que hicieron
+los troyanos o la contraria, que luego de conocer la sucesión de los hechos, sabemos que es
+la correcta: las dos serpientes representan a Agamenón y Menelao destruyendo a los
+troyanos o más genéricamente, a las tropas griegas sobre las troyanas35. El aviso profético
+no es correctamente interpretado. Al respecto, Knox36 analiza el episodio de las serpientes
+como una comparación de la naturaleza feroz y engañadora de los atacantes griegos, y de su
+arma principal, el fuego. Sostiene que la imagen es ambivalente puesto que además de
+sugerir las fuerzas de destrucción, también sugiere el renacimiento, la renovación que la
+32 Austin, “Virgil and the Wooden Horse”, 21.
+33 Grimal, P., Diccionario de mitología griega y romana, Buenos Aires, Paidós, 2001, 304.
+34 La lanza puede tratarse de una invención de Virgilio (Austin, “Virgil and the Wooden Horse”, 18).
+35 Knox analiza la relación, que se construye en clave metafórica en el texto, entre entrada del caballo a la 
+ciudad y las serpientes. El caballo entra moviéndose como una serpiente. “The most striking correspondences 
+are:  gemini  a  Tenedo, of  the  serpents, a  Tenedo, of  the  fleet (203  and 255);  tranquilla per alta,  of  the  
+serpents, tacitae per amica silentia  lunae, of  the  fleet  (203  and  255);  pariter of  the serpents,  instructis 
+navibus, of the fleet (205 and 254); ad litora tendunt,  of  the  serpents,  litora  nota  petens,  of  the  fleet 
+(205and  256). Knox, “The Serpent and the Flame”, 387.
+36 Knox, “The Serpent and the Flame”, 380.
+12
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+tradición poética latina asoció con la desaparición de la vieja piel de la serpiente en
+primavera. Esta connotación de la serpiente es de suma importancia para el segundo libro
+de  Eneida,  ya  que  alude  a  la  promesa  de  resurgimiento  latente  en  la  agonía  de  la
+destrucción, y, siguiendo esta línea de significaciones, en la imagen de la llama (En., II. 684
+y ss.), que el lenguaje alusivo de Virgilio presenta como la manifestación final de la
+metáfora de la serpiente, se manifiesta el presagio del renacimiento de Troya.
+Virgilio omite la falta de Laocoonte previa sobre Apolo, porque para la historia es
+irrelevante37 y además cuenta un acto de sacrilegio por parte del troyano que perjudicaría su
+caracterización. Como es Atenea y no Apolo la que manda las serpientes38, se entiende que
+Virgilio deja de lado en su totalidad la falta cometida anteriormente pues si quisiera dejar
+entrever una parte del mito que no explicita en su texto, hubiera representado al dios como
+el que produce el castigo39, y esta es otra razón por la que no toma el aspecto del mito del
+personaje sacrílego ya que Apolo debería presentarse como vengador y, en esta versión no
+interesa retomar esa característica del dios En la selección mítica se excluye este aspecto
+con la intención de presentar un dios apaciguador, propio del período de Augusto ya que el
+Princeps lo veneraba particularmente y el dios siempre actúa de parte de los troyanos como
+se plantea tradicionalmente desde Ilíada.
+La  figura  de  Laocoonte  que  ni  siquiera  es  mencionada  en  Odisea,  y  lo  es
+superficialmente en otras fuentes, en Eneida aparece como protagonista. Su autoridad para
+definir la entrada o no del caballo dentro de la fortaleza es decisiva puesto que los troyanos
+deciden aceptarlo a causa del portento. El personaje de Casandra, quien en otras versiones
+37 Knight, Vergil’s Troy, 89.
+38 At gemini lapsu delubra ad summa dracones/ effugiunt saevaeque petunt Tritonidis arcem,/ sub 
+pedibusque deae clipeique sub orbe teguntur, II. 225-227 – y las dos serpientes huyen deslizándose hacia el 
+alto santuario, buscan el templo de la cruel tritónida, y se esconden bajo los pies de la diosa y del círculo de su
+escudo-.
+39 Knight, Vergil’s Troy, 90.
+13
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+advierte sobre las consecuencias fatídicas, no tiene cabida en esta escena para no subordinar
+su actuación y hacerlo accionar independientemente de la profetisa40.
+Finalmente creemos que el mitema pone de manifiesto lo siniestro de la situación,
+va preparando una escena oscura que refuerza la imagen de terror causada por el caballo.
+3. El hado
+En el libro II varios  factores confluyen a acentuar y destacar la incidencia y
+presencia del hado; por un lado, a través de las divinidades: los dioses están enunciados en
+todo momento, en un principio Eneas lleva a sus Penates, como dioses compañeros y
+asistenciales, y este gesto reivindica un acto de religiosidad y respeto que marca una
+característica  distintiva  del  troyano  que  continuará  sin  interrupción  generación  tras
+generación hasta los romanos. 
+Los  dioses,  además,  están  presentes  como  anunciadores  del  destino,  ya  sean
+benefactores de los troyanos como por ejemplo Venus, que se presenta para apaciguar a
+Eneas en el momento en que el héroe se encuentra dominado por la ira contra Helena y le
+augura un destino favorable: eripe, nate, fugam finemque impone labori./ nusquam abero et
+tutum patrio te limine sistam, II. 619-620 (“huye, pues, hijo mío, y pon fin a los trabajos.
+En dondequiera me tendrás a tu lado y te dejaré seguro en tus nativos umbrales”); ya sean
+hostiles como Júpiter que infunde aliento a los Dánaos y los favorece41. El “padre de los
+dioses” y los demás dioses adversarios ponen en relieve la idea de que lo sucedido está
+destinado a ocurrir.
+40 Austin sostiene al respecto: “Virgil had his reasons for not introducing Cassandra at this point: a speech 
+from her now could only have blunted the sharpness of the crisis-she was fated never to be believed, but  
+Laocoon could be believed, and Virgil has used all his art to bring him as near winning belief as was humanly 
+possible.” (Austin, “Virgil and the Wooden Horse”, 18).
+41 Ipse pater Danais animos viresque secundas/ sufficit, ipse deos in Dardana suscitat arma, II. 617-618 (El
+mimo padre infunde ánimo y fuerzas favorables a los dánaos, él mismo empuja a los dioses contra las armas
+troyanas.) 
+14
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+Por otro lado, el fatum es anunciado a través de los portentos que se dan de una
+manera continua en todo el libro: Troiae sic fata ferebant (II. 34, así lo tenían dispuesto los
+hados de Troya). Y se representan en varias oportunidades a través de los personajes como
+por ejemplo la aparición de Héctor a Eneas, para asegurarle su éxito luego de la destrucción
+de su pueblo: 
+sacra suosque tibi commendat Troia penatis;
+hos cape fatorum comites, his moenia quiere
+magna, pererrato statues quae denique ponto.
+                                                             II. 293-295
+Troya te confía sus númenes y penates, toma contigo esos compañeros de sus
+futuros hados, y busca para ellos nuevas murallas, que fundarás, grandes por fin,
+después de andar errante mucho tiempo por los mares. 
+El fatum, como sabemos, está ya establecido, por lo tanto los troyanos están inermes
+ante él, no pueden revertir el curso de las cosas. Aunque se les anuncie la ruina, no son
+capaces de interpretar correctamente los avisos:
+……………………….quater ipso in limine portae
+substitit atque utero sonitum Quatre arma dedere;
+instamos tamen immemores caecique furore
+et monstruo infelix sacrata sistimus arce.
+                                                        II. 242-245
+Cuatro veces se paró la enemiga máquina en el mismo umbral de la puerta y cuatro
+veces se oyó resonar en su vientre un crujido de armas. Avanzamos, no obstante,
+desatentados y ciegos en nuestro delirio, y colocamos el fatal monstruo en el
+sagrado alcázar.
+Pareciera que ellos podrían haber evitado el desastre porque existieron advertencias en
+varias ocasiones y las hubieran sabido interpretar de no estar ciegos de locura. Eneas se
+lamenta desde el inicio de su relato de no haber podido advertir los anuncios (Et, si fata
+deum, si mens non laeva fuisset,/ impulerat ferro Argolicas foedare latebras,/ Troiaque,
+15
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+nunc stares, Priamique arx alta, maneres, II. 54-56 –“Y, si los hados de los dioses y nuestro
+ánimo no hubieran sido adversos, nos habría empujado a atacar los escondites argivos, y
+ahora estarías de pie, ¡oh Troya!, y permanecerías, alta torre de Príamo”), pero el destino es
+inexorable  y Virgilio,  como  justificación  de  esta  verdad  irrefutable,  representa  a  sus
+personajes como presos del furor y de una mens laeva, immemores. Recordamos que en
+Geórgica IV con esas mismas palabras describe a Orfeo, immemor (G. IV, 490). Preso del
+furor (G. IV, 494) no logró resucitar a Eurídice, sin embargo su demencia no fue la causa de
+su fracaso sino que en realidad no hay opción para que se produzca la resurrección porque
+Orfeo, como mortal, no puede tener jamás ese poder, los hados priman.   
+La  selección  mítica  respecto  del  fatum, no  solo  reivindica  el  respeto  romano
+religioso y la sumisión ante un poder superior, sino que esta concepción de la posibilidad de
+interpretación de sus señales, enraizada desde los orígenes de la estirpe, sustenta la creencia
+en la adivinación sostenida por Augusto, quien recurría a los portentos e incluso se presentó
+como el único capaz de interpretar lo profetizado por el dios Apolo. Esta creencia, que
+busca la autoridad en el pasado, refuerza claramente una institución política y social vigente
+en el principado: el sistema augural. 
+La función de este episodio, según Quinn42, es sugerir que la destrucción de Troya
+hecha por los dioses no es un acto de malevolencia sin propósito, sino la elaboración de un
+plan divino que es constructivo a su vez que destructivo: cae Troya y surge Roma. En
+realidad,  los  troyanos  no  caen  sino  que  accionan  acarreando  la  empresa  fundadora
+cimentada en los pilares básicos de la identidad troyana que se pretende exhibir como
+fundida con la romana: la  virtus, marcada por contraste con el pérfido griego y por el
+comportamiento honroso de Eneas y de los personajes troyanos desarrollados en este libro
+(ej: Príamo), la  pietas, expresada en el encuentro de Eneas con Helena y el respeto y
+sometimiento a la tutela de los dioses. 
+42 Quinn, K. Virgil’s Aeneid, 118.
+16
+Auster, nº 22, e034, 2017. ISSN 2346-8890
+Todo el libro II, partiendo del tema mítico, se plantea como un capítulo de la
+historia verdadera del pueblo romano43. La versión de la identidad troyana – romana que se
+construye está en marcada oposición al griego y fundada en base a los conceptos de virtus,
+clementia,  iustitia y  pietas, está vinculada directamente con la representación del  mos
+maiorum y el respeto de las tradiciones y coincide con la imagen que de sí mismo pretende
+construir el Princeps. 
+Julia A. Bisignano
+Universidad Nacional de La Plata
+juliabisig@gmail.com
+Resumen:
+Nos proponemos indagar el tema de la destrucción de Troya, narrada en el libro II de la Eneida de
+Virgilio, siendo ésta la primera fuente completa sobre los eventos acerca de la caída de la ciudad. Analizamos
+la especificidad del tratamiento del tema desde la perspectiva de un poeta romano, quien, en la selección
+mítica, pone énfasis en los siguientes puntos para definir la perfidia griega y la entrada del caballo a la ciudad
+manifestando la valoración con la que conforma los acontecimientos de un pasado mítico que en el texto
+perpetúa la memoria: el perjurio de Sinón, el portento mal interpretado de Laocoonte y la voluntad de los
+hados.
+Palabras clave: Eneida II – Sinón – Laocoonte – hados 
+Abstract:
+We propose to examine the subject of the destruction of Troy, as it is told in Aeneid II. This is the
+first complete source about the fall of Troy. We analyze the specific treatment of the subject from the
+perspective of a Roman poet who, in his mythical selection, emphasizes the following elements of the Greek
+perfidy and the entering of the Horse to the city, showing the value of the events of a mythical past which in
+the text perpetuates the memory: Sinon´s perjury, the portent misinterpreted by Laocoon and the will of the
+fate.
+Keywords: Aeneid II – Sinon – Laocoon – fate 
+RECIBIDO: 4-7-2017 – ACEPTADO: 8-10-2017
+43 Austin, “Virgil and the Wooden Horse”, 24.
+17

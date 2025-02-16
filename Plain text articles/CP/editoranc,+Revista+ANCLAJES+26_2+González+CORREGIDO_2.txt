@@ -1,0 +1,774 @@
+49
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+González, Carina. “La casa propia de Fina Warschaver: en los márgenes de la van-
+guardia”. Anclajes, vol.26, n.° 2, mayo-agosto 2022, pp. 49-66.
+https://doi.org/10.19137/anclajes-2022-2624
+La casa propia de 
+Fina Warschaver: en 
+los márgenes de la 
+vanguardia
+Carina González
+Universidad Nacional de San Martín
+Consejo Nacional de Investigaciones Científicas y Técnicas
+Argentina
+cfgonzalez@unsam.edu.ar
+ORCID: 0000-0002-0471-679X
+Fecha de recepción: 14/07/2021  |  Fecha de aceptación: 23/09/2021
+Resumen: La relación entre estética y política tuvo, con las vanguardias históricas, un 
+período de fundamentación y debates que no parece haberse extinguido. En Argentina 
+durante las décadas de 1940 y 1950 se consolida un campo intelectual que, orientado 
+por el carácter módico y poco disruptivo de las vanguardias del veinte (Sarlo 1997), 
+ocultó discusiones más complejas en torno al realismo social y a la experimentación 
+modernista alejada del surrealismo. En esta coyuntura, Fina Warschaver (1910-1989), 
+escritora ligada al partido comunista, se anima a desviarse de la mímesis impuesta por 
+el compromiso en su segunda novela La casa Modesa (1949). Este ensayo analiza las 
+estrategias que Warschaver toma del modernismo de Virginia Woolf (1882-1941) para 
+presentar una estética que cuestiona tanto el lugar de la representación referencial 
+como la naturalización del género que limita el espacio femenino al ámbito doméstico 
+restringiendo el accionar político de la mujer y censurando sus libertades artísticas.   
+Palabras clave: literatura moderna; vanguardias; Fina Warschaver; Virginia Woolf; fe-
+minismo.
+Fina Warschaver’s own home: on the margins of the avant-garde
+Abstract: Aesthetics and politics were intrinsically linked during the emergence of the 
+historical avant-gardes, but the discussion about their goals and interventions remains 
+timely today. The intellectual field that emerged in forties and fifties Argentina, though 
+following a moderate and seldom-disruptive version of the classic avant-garde (Sarlo 
+1997), did advance complex discussions on social realism and experimental forms linked 
+more to modernism than to surrealism. In this period, Fina Warschaver (1910-1989), a 
+writer with affiliations to Communist Party, published the controversial novel La casa 
+Modesa (1949), which was ignored by critics due to its experimental form and its dis-
+tance from the social realism promoted by communist ideology. This essay analyzes 
+the strategies that Warschaver borrows from Virginia Woolf’s modernist approach to 
+50
+Carina González | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+propose a new reading of the text that not only challenges mimesis and referential 
+representation but also questions the naturalization of gender that limits feminine space 
+to the domestic sphere, restricting the political action of women and censoring their 
+artistic freedom.
+Keywords: modern literature; avant garde; Fina Warschaver; Virginia Woolf; feminism 
+A casa de Fina Warschaver: às margens da vanguarda
+Sumário: A relação entre estética e política teve, com as vanguardas históricas, um 
+período de fundamentação e debates que parecem não terem terminado. Na Argentina, 
+durante as décadas de 1940 e 1950, consolidou-se um campo intelectual que, guiado 
+pelo caráter modesto e não disruptivo das vanguardas dos anos vinte (Sarlo 1997), 
+ocultou discussões mais complexas em torno do realismo social e da experimentação 
+modernista afastada do surrealismo. No mesmo período, Fina Warschaver (1910-1989), 
+uma escritora filiada ao Partido Comunista encorajou-se a se desviar da mimese im-
+posta pelo compromisso em seu segundo romance La Casa Modesa (1949). Este ensaio 
+analisa as estratégias que Warschaver toma emprestado da abordagem modernista de 
+Virginia Woolf para apresentar uma nova estética que questiona tanto o lugar da repre-
+sentação referencial –quanto a naturalização do gênero que limita o espaço feminino à 
+esfera doméstica, restringindo a ação política das mulheres e censurando suas liberdades 
+artísticas.
+Palavras-chave: literatura moderna; vanguardas; Fina Warschaver; Virginia Woolf; fe-
+minismo.
+La casa propia de Fina Warschaver: 
+en los márgenes de la vanguardia
+L
+a situación del arte ha atravesado diferentes coordenadas histó-
+ricas que la han ubicado en distintos lugares de poder. Con la 
+irrupción de las vanguardias, ese poder adquiere la violencia de 
+las revoluciones en las que el tiempo se acelera y los espacios se conquistan a par-
+tir de fuertes luchas que producen cambios radicales. Dentro de la vorágine que 
+las vanguardias generan hacia el afuera hay tensiones internas que complejizan la 
+situación del arte en esa condición presente de pensarse a sí misma como parte 
+de la revolución. Las vanguardias clásicas han demostrado su eficacia como ar-
+mas de guerra en el sentido de acompañar los cambios revolucionarios de princi-
+pios de siglo XX pero también han disminuido su poder transformador afectado 
+por la lógica de la industria cultural. Muchos han sentenciado su fracaso o valo-
+rado su legado heroico (Bürger), algunos han reconocido su actualización en el 
+retorno de las neovanguardias (Foster, El retorno de lo real) y otros han apostado 
+por una resistencia que le adjudica el lugar de la conspiración silenciosa (Piglia, 
+Las tres vanguardias; Tabarovsky 2018). Lo cierto es que aún hoy las vanguardias 
+reclaman una revisión que vuelva a pensarlas desde el interior de sus contradic-
+51
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | La casa propia de Fina 
+Warschaver: en los márgenes de la vanguardia: 49-66
+ciones. Porque las vanguardias no fueron únicamente el escándalo de la puesta 
+en escena o la destrucción de las fronteras del arte intervenida por la vida, sino 
+que, como toda fuerza, contienen además otras pulsiones replegadas a la espera 
+de emerger para desestabilizar o reemplazar –quizá con otras estrategias o desde 
+otras modalidades– a sus predecesoras. Con esto, quisiéramos advertir que ese 
+lugar central obtenido a partir de rupturas internas conlleva sus propias zonas 
+de incomodidad que son silenciadas en beneficio de una unidad que, la mayoría 
+de las veces, es solo aparente como indica, por ejemplo, la diversidad de estilos e 
+ideologías incluidas bajo el emblema del surrealismo. 
+Si a este breve panorama teórico le sumamos la perspectiva singular que las 
+vanguardias asumieron en Argentina, la cuestión es todavía más intrincada. 
+Beatriz Sarlo resalta el carácter módico y cautelar de la vanguardia surgida en 
+torno a la revista Martín Fierro que, en el contexto de un campo intelectual 
+reducido y ecléctico, se mostró poco alentada para llevar a cabo una ruptura 
+radical. Siguiendo esta misma línea de análisis Martín Kohan (2021) reafirma 
+la moderación de dicha vanguardia ligada más a la sobrevivencia de una tradi-
+ción que costó mucho construir que a las rupturas radicales propuestas por el 
+surrealismo o el dadaísmo en Europa. Como contrapeso a esa débil marca re-
+volucionaria, hay un interés crítico que aborda ese momento histórico para in-
+terpretar sus relaciones con el modernismo y el realismo inscribiendo el debate 
+en la crisis de representación que afecta a todas las artes. En esa encrucijada, 
+hay una zona poco estudiada en el contexto de las vanguardias locales, aquella 
+que debería establecer cuáles son las repercusiones del modernismo anglosajón 
+en la literatura argentina que tiene en el Adán Buenosayres (1948) su principal 
+intervención pero que llega hasta otras narrativas contemporáneas.  El debate 
+vanguardista de posguerra afectado por el desvío que la revolución rusa lleva a 
+cabo durante el stalinismo produce altercados en el centro mismo de los artis-
+tas suscriptos al compromiso social. La falsa oposición que nuclea a los grupos 
+de Florida y Boedo esconde un debate mucho más profundo que involucra a 
+la industria editorial y a los medios periodísticos fundadores de un mercado 
+que se expande hacia las clases populares. Como señala Sarlo, la vanguardia 
+argentina rechaza la lógica de la literatura como mercancía pero reconoce la 
+necesidad de modelar al incipiente público lector.  Por esta razón, las vanguar-
+dias se abocan a crear canales alternativos para ampliar la difusión de obras 
+pero también se disputan la orientación de la lectura en términos de educar el 
+gusto de las masas. Por un lado, Martín Fierro cuestiona el gusto “filisteo” de 
+la literatura popular; por otro, los escritores procedentes de un amplio sector 
+de la inmigración que defienden la profesionalización del escritor encuentran 
+en la nueva masa de lectores un público dispuesto a identificarse con la movi-
+lización social  y política surgida a partir de 1917. 
+Así se instala la misma lucha ideológica que entablaron las vanguardias eu-
+ropeas en la división que consolidó al realismo social como rector de la insti-
+tución oficial de la revolución en Rusia frente a la defensa de las estéticas más 
+52
+Carina González | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+experimentales nucleadas en torno al modernismo. Quizá por el hecho singular 
+de ser una revolución que triunfa pero que también es traicionada, las normas 
+del realismo social fueron claramente expuestas mientras que aquello que une a 
+James Joyce, Franz Kafka, Samuel Beckett o Virginia Woolf sigue horadando la 
+homogeneidad de una vanguardia que apuesta por la innovación frente a la crisis 
+representativa del lenguaje. Esta confrontación ha sido ampliamente estudiada 
+(Adorno; Huyssen; Jameso). En Argentina, sin embargo, el peso del pensamien-
+to liberal que apostó por lo europeo se reinstaló en el siglo XX en una conti-
+nuidad que consolidó la tradición del vacío y habilitó la perspectiva exterior 
+del cosmopolitismo1. La versión triunfante, creada y sostenida narrativamente 
+por Jorge Luis Borges, consolidó el estudio crítico de esa vanguardia moderada 
+en detrimento de los movimientos estéticos que pensaban el arte dentro de la 
+revolución política, es decir, como parte de la militancia social que albergaba a 
+una gran proporción de la inmigración europea y en particular al partido comu-
+nista que nucleó a los grandes artistas de esa vanguardia “comprometida”. Sin 
+embargo, dentro de esta misma ala hubo intervenciones que silenciaron estéti-
+cas disidentes propensas a tener otro acercamiento al lenguaje. La vanguardia 
+¿puede ser marginal? ¿Cómo interviene la vanguardia antes de ser vanguardia? 
+¿De qué manera se abre camino entre sus mismas líneas para disputar el lugar 
+de autoridad?
+Estos interrogantes atravesaron a Fina Warschaver, una mujer que se destacó 
+como escritora y compositora de música clásica en la época en que las van-
+guardias alcanzan un segundo periodo de posguerra y, en Argentina, las reglas 
+del arte y del mercado cultural se reorganizan en función de la emergencia y 
+consolidación del peronismo. En esa coyuntura Warschaver ocupa el espacio 
+de las minorías: es hija de inmigrantes rumanos procedentes de Tartabur, en 
+ese entonces un pueblo perteneciente a Rusia, viene de una tradición judía que 
+escapa de los pogroms de Europa y milita dentro del Partido Comunista que, si 
+bien tiene una amplia trayectoria construida y afianzada desde inicios del siglo 
+XX, poco a poco va a ir perdiendo fuerza ante los cambios mundiales producidos 
+por los levantamientos europeos. El dilema que atraviesa al artista comprometi-
+do, aquel que le reclama el accionar político siempre en tensión con lo estético, 
+cobra en ella una dimensión mayor porque es la esposa de uno de sus destacados 
+dirigentes, Ernesto Giudici, pero además, como mujer, cuestiona las normas 
+naturalizadas por el sistema patriarcal, es decir, lo femenino limitado al espacio 
+doméstico y al rol reproductivo de la mujer instalando dentro de las banderas 
+1 
+Ricardo Piglia afirma que la literatura argentina elabora su propia identidad a partir de una mira-
+da estrábica que extiende su régimen óptico hasta Europa (Antología Personal 147). El ensayo 
+capital de Borges, “El escritor argentino y la tradición” (1951) habilita el uso irreverente de la 
+tradición europea pero no se aboca solo a la vanguardia por él representada sino que va desde 
+Sarmiento hasta Roberto Arlt pasando por Macedonio Fernández quienes desde las malas traduc-
+ciones, la cita falsa o la memoria extranjera construyen lo nacional desde lo universal.
+53
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | La casa propia de Fina 
+Warschaver: en los márgenes de la vanguardia: 49-66
+del partido la instancia de la opresión de género2. Ese lugar de minoridad señala 
+una serie de limitaciones pero es también una marca que hace visible otros me-
+canismos de exclusión mucho más esquivos. Surcada por los límites del género, 
+de la religión y de la política, Warschaver debe además defender su lugar dentro 
+de las vanguardias que, al concentrar fuerzas distintas que se homogeneízan para 
+sostener su programa revolucionario, ocultan los mecanismos de control sobre el 
+otro y las estrategias que silencian el desacuerdo. Se puede ser marginal dentro de 
+las vanguardias porque como en toda guerra hay un otro, un espía o un traidor. 
+La primera novela de Warschaver, El retorno de la primavera (1945) fue elogiada 
+por los representantes del partido porque se podía incluir dentro de una van-
+guardia que reconocía al realismo social como la estética mejor capacitada para 
+reflejar la ideología de la revolución política. Pero La casa Modesa (1949), una 
+novela experimental en la que la autora propone otras formas de representación, 
+es condenada al silencio. Un tribunal constituido por las autoridades artísticas 
+del partido decide que vanguardia debe ser sinónimo de realismo social, que lo 
+experimental no puede ser entendido por las masas, y que la obra no cumple con 
+los requisitos de mímesis exigidos para transmitir la épica revolucionaria3. Así lo 
+manifiesta Álvaro Yunque en una reseña poco elogiosa de la novela:
+Quisiéramos ver que hubiese insistido en la parte positiva, no negativa de los que 
+sufren el choque de la lucha. Quisiéramos ver en sus cuentos más héroes y menos 
+víctimas […] Esos héroes los hemos conocidos todos, aquí, en Buenos Aires. Nuestra 
+literatura debe apropiárselos como documentos y proyectarlos como arte. (“Apéndi-
+ce” CM 125)
+Esta afirmación es sin duda un reproche a la manera de presentar la pro-
+blemática social planteada desde una mirada que no respeta las normas de esa 
+vanguardia atrapada en la mímesis. La misma Fina Warschaver, años después, 
+expresará su desacuerdo.
+Mi obsesión es documentar las vivencias, las dudas, las contradicciones, de ese ser 
+que no es lineal como se lo presenta en la literatura de propaganda: el revolucionario 
+[…] yo me lancé enseguida hacia otro rumbo, ya en La casa Modesa. Convertir la 
+2 
+Desde el siglo XX, la noción de patriarcado sirve para identificar  las relaciones de poder en 
+torno a la naturalización de las diferencias genéricas. Las primeras obras de Warschaver son 
+contemporáneas  a las ideas esgrimidas por Simone de Beauvoir en El segundo sexo (1949), 
+quien a partir de la concepción de su “devenir mujer” pone en evidencia  la construcción de la 
+identidad de género. En este sentido, será importante el cuestionamiento de las normas culturales 
+que colocan a la mujer en una situación de subordinación con respecto al hombre y que, a partir 
+de la década del 60 y del Movimiento de liberación de la mujer adquiere un sentido político. Ver: 
+Kate Millet 1995.
+3 
+En el apéndice de La Casa Modesa, preparado por Alberto Giudice, se encuentra la carta que le 
+envía Gerardo Pisarello en la que narra la reunión que hizo el Partido para evaluar la novela. A 
+través de su amigo, años después, se entera Warschaver de esa discusión a la que no fue invitada. 
+Fina Warschaver, La casa Modesa. “Apéndice” (159). De aquí en adelante CM.
+54
+Carina González | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+teoría marxista misma en tema artístico. En aquel caso fue la alienación del militante. 
+¿Cómo no iba a escandalizar a algunos puritanos metidos en pontificar sobre el rea-
+lismo? ¿Qué es lo real? ¿Solo lo que está fuera de nosotros o lo que está adentro? Esa 
+es la cuestión. (“Apéndice” CM 138-139)
+Con esta apreciación, Warschaver no se despega de la responsabilidad de 
+representar el compromiso ideológico, sino que critica la forma narrativa de 
+esa representación. De esta manera, se desvía hacia una vanguardia más inno-
+vadora que involucrando lo psicológico construye otra forma de lo real. Este 
+tipo de escritura recala en la materialidad de la palabra y en el ritmo del fluir 
+de la consciencia dejando en claro que el tiempo interior, la lógica perceptiva 
+del pensamiento, se entiende mejor a partir de las estrategias narrativas que los 
+escritores modernistas crearon y ejecutaron al transformar la novela moderna. 
+Estas estrategias ponen de manifiesto un nuevo acercamiento a la realidad que la 
+muestra fragmentaria e incompleta, incapaz de representar el todo sin el esfuerzo 
+de una consciencia que le dé sentido.
+En otra nota sobre La casa Modesa, Warschaver explica el porqué de su impacto 
+estructural: “Se trata de la alienación del hombre como tema central mediante 
+el empleo, en lo formal, de formas surrealistas y subjetivistas” (CM 124). Este 
+segundo adjetivo habilita la filiación con el modernismo europeo: el intento de in-
+corporar una realidad interior que se aloja en lo minúsculo de las cosas cotidianas 
+reflejando esos momentos del ser que Virginia Woolf reconoce como destellos en 
+los que la percepción se vuelve sobre sí misma para comprenderse como sujeto4. 
+Lo que hace Warschaver con su narradora es justamente detenerse en los detalles 
+de percepción que la elevan por encima de las prácticas cotidianas revelándole no 
+sólo el sentido de lo real sino también su verdadera concreción en la expresión, es 
+decir, en el lenguaje. Ese lugar interior construido desde la percepción modifica 
+su escritura y afianza la lógica de lo real impulsada por la vanguardia modernista 
+que reconoce, por un lado, la importancia de lo trivial  y, por otro, la esencia del 
+sujeto en la parcialidad de un todo esquivo, lo que le permite iluminar zonas hasta 
+entonces ignoradas por la problemática social como, por ejemplo, el lugar de la 
+mujer dentro y fuera de la esfera doméstica o la exploración de una intimidad que 
+angustia más allá de la opresión de la lucha de clases. 
+Esta temática ligada a una política de género y el interés por ampliar las téc-
+nicas narrativas la coloca en un territorio que encuentra mayor afinidad con la 
+estética abierta y ecléctica de la revista Sur5.  Si bien Warschaver desestima la po-
+4 
+Federico Sabatini explica esa conjunción como “la ambivalencia constante entre lo que de ver-
+dad existe y lo que solo existe porque lo experimentamos y lo percibimos […] Para escribir uno 
+debe combinar la percepción y la recreación de lo que se ha percibido” (21).
+5 
+Los estudios de género han abordado recientemente la relación entre el feminismo y las vanguar-
+dias.  Debido a la incidencia central de Victoria Ocampo en el campo intelectual de la época se ha 
+estudiado en ella la perspectiva feminista que defiende los derechos civiles de la mujer (En 1936, 
+Ocampo funda la Unión argentina de mujeres). Warschaver se ubica en el feminismo anarquista 
+ 
+de Salvadora Medina Onrubia que inscribe la problemática del género dentro de las diferencias 
+55
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | La casa propia de Fina 
+Warschaver: en los márgenes de la vanguardia: 49-66
+sibilidad de incluir sus producciones en un medio ideológicamente opositor, no 
+rechaza los beneficios de acceder a su amplio catálogo de la cultura occidental6. 
+Como elección, colabora en la revista Claridad fundada por Antonio Zamora, 
+órgano editorial en el que publican los escritores de Boedo, pero reconoce un 
+punto en común que vincula ambos proyectos en la difusión de autores euro-
+peos. Aunque enfrentados en la política, estos dos espacios tienen como objetivo 
+construir una identidad nacional que se apropie de la tradición occidental a 
+partir de una discusión profunda sobre el lugar del arte. Por otros canales, Wars-
+chaver explora una vanguardia ajena al realismo social encausada por lecturas 
+que no necesariamente procedían del mismo núcleo ideológico7.
+La casa de las dos vanguardias
+Sea por la representación poco heroica del revolucionario o por la introduc-
+ción de una mirada psicológica, lo cierto es que la forma narrativa quiebra la 
+mímesis del realismo desvirtuando el sentido unívoco de lo referencial y bus-
+cando en lo fragmentario la verdadera comprensión de lo real. Esta innovación 
+que implanta en Casa Modesa procede de las premisas nucleadas en torno al 
+surrealismo y al modernismo. De la vertiente surrealista ya consolidada en la 
+década del 50 dentro del campo cultural de la vanguardia moderada, toma la 
+exploración del inconsciente entendida como ampliación del significante. Antes 
+que en la escritura, aparece en el desplazamiento temporal y espacial que vincula 
+dos historias distintas: el presente de la militancia política y un pasado que se 
+desplaza hacia la Antigüedad del Imperio romano. A partir de esa conjunción, 
+la persecución de los cristianos primitivos y la de los militantes de izquierda que 
+asumen las consecuencias de la lucha armada, la novela expone las dudas inter-
+nas que socaban el dogma de la revolución. Buenos Aires es el escenario de las lu-
+chas clandestinas, un espacio signado por la violencia en donde un ama de casa, 
+que además es madre y escritora, se arriesga en pos de una transformación social. 
+Mientras, en Roma, los cristianos se organizan en asambleas para impulsar una 
+herejía contra el paganismo pero también contra la opresión del Imperio. La 
+sincronía se da también en esa misma opresión similar a la que sufren los exclui-
+dos en el siglo XX porque en las filas cristianas están los extranjeros y esclavos, 
+los que llegan de Oriente y hablan otras lenguas, y los patricios conversos como 
+de clase. Véase la carta que le escribe a Héctor Botana con motivo de su muerte. https://www.
+finawarschaver.com/obras-de.php?link=diario
+6 
+Para marcar la incidencia que el modernismo tuvo en la obra de Warschaver es importante desta-
+car que Santiago Rueda publica el Ulises en la famosa traducción de Salas Subirat en 1945 y 
+Victoria Ocampo le encarga la traducción de Orlando a Borges en 1937. 
+7 
+Warschaver realiza traducciones para los medios afines, por ejemplo, la del escritor haitiano 
+Jaques Roumain. Pero, al mismo tiempo, escribe notas sobre Borges en las que muestra que la 
+ideología no determina su lectura sino que, por el contrario, es capaz de hacer un análisis estético 
+que involucra sus propias ideas acerca de la representación y la escritura.
+56
+Carina González | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+Flavia que rechazando a los de su clase se integra a la nueva fe. En el presente la 
+mujer también es blanca y de clase media, escribe notas mal pagas pero además 
+recibe el agobio del trabajo doméstico, el lugar invisible de la explotación que se 
+suma a la lucha por la reivindicación de los derechos laborales frente al rigor del 
+capital económico8.
+En las dos historias, la casa es el lugar de la mujer, un espacio contradictorio 
+que muta y se desdobla, que se deja invadir por el afuera pero que a la vez se 
+alimenta de sus propios límites. La casa de Flavia refleja el peso de la tradición 
+patricia, son los resabios de una identidad construida sobre el avasallamiento de 
+los sectores vulnerables que la revolución cristiana ha visibilizado. 
+No estoy acostumbrada, no puedo adaptarme a esta forma de existencia en que lo de-
+finitivo es sólo el hecho presente. Los cimientos de esta casa me sostuvieron siempre; 
+esta casa construida por mi abuelo, regalo de mi padre, ha sido mi punto de apoyo. 
+No sé vagar nómade por los caminos. Admiro a los hermanos que han hecho de la 
+comunidad su propia casa, pero yo no puedo adaptarme a ello. ¿Y cómo podremos 
+llevar nuestra vida cotidiana; educar a los niños, vivir, en una palabra, bajo la perse-
+cución. (Warschaver CM 93)
+El dilema de la militancia que sacrifica lo individual por lo colectivo se suma 
+a la preocupación por la familia, ámbito en que lo femenino concentra su fuerza 
+de trabajo.  Esa imposición del género también es la que registra la mujer de la 
+otra casa pero, en su caso, lo que reclama es su derecho al trabajo intelectual. En 
+la historia del presente, aparecen las formas de opresión típicas del capitalismo 
+tardío que no solo incorpora en sus fábricas la fuerza de trabajo femenino, sino 
+que consolida la lógica de la diferencia sexual imponiéndole además la doble 
+jornada laboral. Aquí, el conflicto político que involucra la revolución se mezcla 
+con el problema del género que está planteado en términos de la labor profe-
+sional. Hay un acuerdo sobre la igualdad de la mujer en el entorno de la causa 
+(igualdad relativa porque se sostiene en el dogma del “hombre nuevo” de la 
+Revolución que sigue sometiendo a la mujer en la abstracción de lo masculino) 
+pero que no se replica en la valorización del trabajo intelectual que la narradora 
+realiza bajo presión, cuando logra quitarle el cuerpo al cuidado de los hijos o de 
+la casa. 
+No puedo dejar de hacer lo imprescindible: vestirme, comer, arreglar la casa, atender 
+a los chicos, ¡Pensar que hay días en que estoy de ánimo para ordenarlo todo, en que 
+8 
+La denuncia sobre la opresión de género está presente en el fragmento “Suicidio por un piso 
+encerado” en el que la narradora defiende su trabajo artístico de las imposiciones surgidas por 
+reducir lo femenino al espacio doméstico. “¿Sabe usted lo que es sentir naufragar el propio yo en 
+medio de un trabajo absurdo, en medio de una condena a trabajos forzados que uno mismo se ha 
+impuesto o por lo menos ha admitido, entre cacerolas y cacharros grasientos?” (66) La metáfora 
+del piso encerado duplica el accionar político del género porque como mujer defiende su derecho 
+a ocupar un puesto (en la escritura) al mismo tiempo que se suma al accionar revolucionario de 
+una militante.   
+57
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | La casa propia de Fina 
+Warschaver: en los márgenes de la vanguardia: 49-66
+siento apego por las tareas domésticas, en que le encuentro gusto hasta el encerado 
+de pisos! En que hago mil cosas y proyecto con optimismo otras mil sin preguntarme 
+“para qué”. (57)
+Lo doméstico se expone ya no como ambiente sino como centro de un te-
+rritorio que impide la escritura y que cuestiona las prácticas autoasumidas en 
+torno a la maternidad, a la heterosexualidad normativa y a la distribución del 
+espacio público atribuido solo al hombre. Género y escritura se alinean para 
+establecer que lo personal es político en el sentido de una política que no olvida 
+la revolución sino que la diversifica al hacer imperativa la necesidad de incluir las 
+diferencias sexuales, de raza, de religión o de culturas más allá de las diferencias 
+de clases9.
+A pesar de que las mujeres han accedido al espacio público de la escritura, 
+no solo como autoras sino como periodistas, la diferencia sexual todavía es una 
+fuerte limitación10. El reclamo que la mujer le hace a su editor por no tener una 
+respuesta ante la nota que pretende publicar da cuenta no solo de la distancia 
+que hay entre los que saben hacerse de un puesto, sino también de la subordi-
+nación de la mujer.
+Trabajo, encero pisos y, para pagarme los estudios, escribo artículos, ese que le he lle-
+vado y otros. Mi mente marcha a todo vapor pero ni esto me está permitido, ni para 
+ello tengo libertad. Mi mente se paraliza horas enteras mientras relato a mi enfermito 
+largos cuentos infantiles. Por lo menos, el encerado de pisos no me impide pensar 
+aunque después esté demasiado cansada para realizar algo. (68)
+La angustia procede de la alienación, de la distancia que la mujer experimen-
+ta al “desconocer” las tareas cotidianas que le fueron asignadas a instancias de la 
+diferencia de género. El proceso de subjetivación de lo femenino se inicia al des-
+naturalizar estas prácticas normativas, hecho que en la narración se superpone al 
+reconocimiento de una nueva forma de escritura que la narradora adopta.  En 
+este sentido, el espacio doméstico se transforma y lo cotidiano adquiere otro va-
+lor. Mediante un extrañamiento de lo familiar, la alienación se resignifica como 
+forma de una expresión estética11.
+9 
+En los relatos de El hilo grabado (1961), Warschaver amplía la mirada de género al plantear la 
+necesidad de que las mujeres se piensen a sí mismas fuera de los roles asignados. No es tanto 
+la denuncia política a la sociedad patriarcal sino la autorepresentación asumida como subordi-
+nación lo que impide que el feminismo se constituya como sujeto desligado del planteo binario 
+de la sociedad patriarcal. Ver: Ducaroff p.37   
+10 Este reclamo de igualdad en la profesionalización de la escritura es denunciado por otras mujeres 
+que intervienen en el campo intelectual de la época principalmente habitado por la impronta 
+masculina. Un ejemplo, es “¿Cómo sufrimos los periodistas”  en la columna “Macaneos” que 
+Sara Gallardo publica en Confirmado.
+11 Más adelante se analizará cómo Warschaver realiza esa apropiación para transformar lo domés-
+tico en escritura.
+58
+Carina González | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+Esa misma alienación es la que provoca el surrealismo invadiendo la estruc-
+tura de la novela ya que la casa se torna permeable a la influencia del afuera. 
+Siguiendo la lógica de las dos historias paralelas, la casa es un pasaje en el que es-
+pacios y tiempos se fusionan para llegar a una síntesis final: “La casa Modesa no 
+existe. Es real como mis sueños” (CM 117), expresión que resume el concepto 
+ficcional de una casa multiplicada como refugio de los perseguidos, un lugar de 
+protección siempre en peligro de ser vulnerado, un espacio que se desplaza todo 
+el tiempo para preservarse.  
+En su primera aparición, la casa Modesa se encuentra enmarcada en el relato 
+de una persecución que aglutina teléfonos pinchados, allanamientos, huidas y 
+estrategias para sobrevivir en el anonimato de la multitud. La escritura se desa-
+rrolla en coordenadas espaciales, dejar una casa, la protección del refugio, para 
+salir a un afuera incierto y peligroso. 
+“Otra vez lo mismo”… Aunque el teléfono esté al lado mío, tengo que salir a otra 
+parte; salir, salir tomando todas las precauciones; todo un proceso meticuloso, toda 
+una escuela, toda una tensión, una penosa tensión. Se está tan bien adentro. Común-
+mente, salir no es nada. Un acto rutinario. Pero la idea de salir ahora, bajo la per-
+secución no es lo mismo. Puede ser que estén afuera. Si no, buscaré algún negocio, 
+cuidaré que nadie esté cerca y entonces, hablaré. (CM 52)
+Sin embargo, los muros que limitan y por ello fortalecen una casa son, en La 
+casa Modesa, menos una construcción sólida que el espacio siempre cambiante 
+de la ficción. Allí, en el afuera donde se describe “la violencia que se desenca-
+dena” (54), la mujer construye la primera imagen de otra casa “¿Qué es la casa 
+Modesa? pienso. ¿Es el título de una película, o de una novela?” (54). Desde esta 
+imagen se funda una nueva territorialidad para esa casa suspendida que ahora 
+se continúa en la calle; la transformación de ese espacio seguro y familiar en 
+algo desconocido que regresa para emerger desde lo siniestro. Porque esa casa 
+se transforma en la “ciudad de la juventud alemana” (52), una plaza implantada 
+sobre un colmenar que exuda sordidez y miedo, una plaza que ya había sido 
+anticipada en la huida: “Salgo. No sabía que la casa daba a una plaza tan grande. 
+Por lo visto, es la primera vez que estoy en este lugar. Es una plaza como todas y 
+sin embargo, tiene algo de siniestro” (52). Esta casa del afuera vuelve a cambiar 
+en otra dislocación temporal, un punto de inflexión, a partir del cual la novela 
+se desdobla y las casas se multiplican. Más adelante, la casa Modesa es otra de las 
+casas patricias que arrasan los centuriones romanos en el incendio del Trastevere 
+y, en el presente, se repite en el grito final de un detenido que alcanza a avisarle 
+a sus compañeros que la casa Modesa fue allanada, una vez más.
+La posibilidad de que la casa sea un territorio mutable establece la conciencia 
+del desplazamiento. En términos de la construcción de una subjetividad feme-
+nina, anticipa las tecnologías del género que contemplan espacios de resistencia 
+desde los cuales se construyen y se revisan permanentemente las normativas del 
+59
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | La casa propia de Fina 
+Warschaver: en los márgenes de la vanguardia: 49-66
+género. A la vez, la casa llega a ser el lugar de la ficción porque Warschaver re-
+curre a lo doméstico para descubrir en ese mismo espacio que condiciona a la 
+mujer, el espacio de la escritura. 
+La forma de lo real
+La imposición de género empieza a denunciarse desde una mirada feminista 
+en textos como los de Virgina Woolf quien en Un cuarto propio (1929) enfatiza la 
+necesidad de independencia económica para poder conquistar el espacio públi-
+co12. Pero lo importante es cómo se traducen esos mismos ámbitos al apropiarse 
+de un espacio de restricciones que se resignifica como parte de la creación estéti-
+ca y de la denuncia política. ¿Es posible que la casa, lo femenino atrapado en los 
+límites interiores, sea parte de una realidad digna de ser contada? Warschaver lo 
+demuestra al transformar el espacio doméstico en material narrativo otorgándole 
+otro sentido a la representación. Al cuestionar la capacidad referencial del len-
+guaje, se acerca al sentido fragmentario de lo real propio de la escritura moderna. 
+El realismo mimético no sólo es amenazado por la impropiedad visual y lúdica 
+del surrealismo (Foster Belleza compulsiva) sino que se transforma a partir de la 
+mirada subjetiva que el modernismo legitima como parte de la percepción activa 
+que construye lo real. Este otro lado de la vanguardia es lo que, en el contexto 
+de publicación de la novela, molestó a los críticos editoriales del partido.  La in-
+novación formal que va enhebrando relatos cortos unidos por pequeños indicios 
+a la trama central de los perseguidos cuestiona la realidad y su representación, 
+introduciendo el elemento subjetivo y los conflictos internos que exceden la 
+opresión de la lucha de clases. En esas historias predominan rasgos de escritura 
+que recalan en la singularidad del lenguaje y producen una narrativa ligada a un 
+realismo interno que en las reseñas ha sido descripto como psicológico. 
+Porque su fuerte –el psicoanálisis– es un arma de dos filos. Para frecuentar los lla-
+mados “territorios nocturnos del alma” y proyectar allí alguna luz se requiere una 
+valentía y una franqueza difícil en el hombre, casi insalvable en la mujer. De lo con-
+trario, se mete uno en un atolladero. No es que se viaje a tientas, pero se viaja con 
+escaso provecho. No siempre la pintura que uno hace de su intimidad corresponde 
+al original (CM 125)13.
+Más allá de su comentario sexista, esta cita expresa que lo subjetivo de la per-
+cepción –ese tiempo interior instalado en la consciencia– conspira contra los inte-
+reses de un realismo que todavía aspira a la verdad, a la contundencia de reproducir 
+algo único y absoluto. Por el contrario, este otro realismo que Virginia Woolf aloja 
+en la interacción de la vida cotidiana con el fluir de la consciencia es el único capaz 
+de traducir la multiplicidad de impresiones que conforman lo real. 
+12 Borges traduce este ensayo para Sur en 1936.
+13 Carta de Elías Castelnuovo, Mayo 18, 1949. 
+60
+Carina González | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+La vida no es una serie de lámparas de calesa dispuestas simétricamente; la vida es un 
+halo luminoso, una envoltura semitransparente que nos recubre desde el principio de 
+la conciencia hasta el final. ¿No es el cometido del novelista transmitir este espíritu 
+cambiante, desconocido e ilimitado, cualquiera que sea la aberración o la comple-
+jidad que pueda mostrar, con tan poca mezcla de lo ajeno y lo externo como sea 
+posible? No estamos simplemente suplicando coraje y sinceridad; estamos sugiriendo 
+que la materia prima adecuada de la narrativa difiere un poco de lo que la costumbre 
+pretende que creamos. (Woolf La narrativa moderna 40)
+La costumbre que señala a la literatura como espejo de la realidad, la norma 
+mimética que prefiere el realismo sin contaminaciones formales es la estructura 
+narrativa que ordena el campo del compromiso social. La novela experimental 
+de Warschaver desoye estos lineamientos pero solo para extender el compromiso 
+político más allá de sus límites estéticos. El psicologismo que Castelnuovo des-
+autoriza por demasiado sentimental se traduce en una forma nueva que imita la 
+narrativa del pensamiento, el fluir de la conciencia surgido o inspirado más en la 
+innovación narrativa de Woolf que en los rebuscados neologismos de Joyce14. La 
+apuesta por lo introspectivo no es solo poner en escena una emoción más real, 
+sino que es la manera en la que percepción y expresión se juntan para crear lo 
+real. Warschaver lo asume como una intención consciente. 
+También creo que, puesto que allí, en lo interior, se forman las ideas, las palabras, 
+todo, y no solo los sentimientos, ese tiempo interior debe ser imagen y semejanza 
+real del universo. Medir ese tiempo nos llevaría a lo absoluto. Es decir, que el “espacio 
+cerebral” del que hablo sería imagen del espacio sideral. (“Apéndice” CM 137-138) 
+Warschaver retoma lo que Woolf propone en defensa de la dinámica interior del 
+pensamiento en el que las cosas cobran presencia porque hay un sujeto que las perci-
+be. Allí, en la soledad de la consciencia, en lo invisible del pensamiento, se consuma 
+la alquimia que le da forma a lo percibido completando el sentido de lo real.
+Tomemos nota de los átomos a medida que caen sobre la mente en el orden en el que 
+caen, tracemos el patrón, por inconexo e incoherente que sea en apariencia, que cada 
+escena o incidente deja grabado en la conciencia. No demos por sentado que la vida 
+existe de un modo más pleno en lo que comúnmente se cree grande que en lo que 
+comúnmente se cree pequeño15. (La narrativa moderna 40)
+14 En las primeras notas que Borges escribe sobre Joyce resalta la escasa eficacia de su destreza 
+verbal y la inmensidad de una escritura que quiere abarcarlo todo. Sin embargo, reconoce la 
+influencia que tienen más las ideas que el estilo de Joyce en algunos de sus relatos como “Funes 
+el memorioso” o “El Aleph”.
+15 El apoyo de Virginia Woolf hacia Joyce procede de su apuesta por ubicar lo real en la conscien-
+cia, por resistirse al materialismo de los objetos y sujetarse a lo que ella llama las honduras de 
+la mente. Sin embargo, no es tan propensa a incluir dentro de esa amplitud la indecencia o la 
+vulgaridad a la que Joyce también se anima. De todas maneras, lo importante es que el interés 
+de la narrativa moderna ya no está en el  materialismo de los objetos sino en la capacidad de la 
+61
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | La casa propia de Fina 
+Warschaver: en los márgenes de la vanguardia: 49-66
+Lo pequeño, que en la afirmación de Woolf alude a la implementación del 
+monólogo interior que se deja atravesar por las cosas nimias o triviales, se despliega 
+también en la narración de Warschaver. La mujer que enfrenta el día a día del ho-
+gar repasa cada una de las tareas en las que se ve envuelta por las imposiciones del 
+género, pero encuentra en ese mismo territorio de lo cotidiano una matriz que le 
+servirá luego en su escritura. Lo trivial se transforma en material narrativo y, al mis-
+mo tiempo, en soporte para la denuncia.  De esta manera Warschaver no renuncia 
+al compromiso sino que lo duplica porque con las estrategias del modernismo re-
+gistra la acción política en el plano de la revolución (lo grande representado desde 
+lo pequeño) y la opresión de género al poner en escena de escritura las reflexiones 
+de un ama de casa que interviene en lo real al pensarse como sujeto.
+La alienación de la lengua
+La casa Modesa es también parte de la vanguardia que desde el futurismo ruso 
+había planteado la renovación del lenguaje poético partiendo de una búsqueda 
+que destruía la confianza en el mimetismo y proponía, por el contrario, un len-
+guaje abierto a las posibilidades del sentido. La obra de arte se transforma en un 
+elemento de lo social no porque esté al servicio de la exposición realista sino por-
+que extrema sus recursos narrativos para desautomatizar la percepción. De esta 
+manera, la literatura logra mostrar lo que antes estaba oculto, el arte es un medio 
+que provoca la toma de consciencia, exhibe los mecanismos que transforman la 
+realidad y amplía las capacidades perceptivas del sujeto para que éste pueda salir 
+de la alienación. Mediante el extrañamiento, la aplicación de estrategias que 
+oscurecen la forma según el argumento del formalismo ruso, el arte recobra su 
+poder de creación, pero también denuncia la incapacidad del lenguaje para dar 
+cuenta de lo real. En este sentido, no apela al reconocimiento de una verdad sino 
+a su cuestionamiento. En La casa Modesa, el extrañamiento se manifiesta en la 
+apreciación de la materialidad del lenguaje que la protagonista descubre en su 
+andar cotidiano. La narradora, atrapada en la opresión de las tareas domésticas, 
+se refugia en el accionar de las palabras y juega con la textura del sonido. Una 
+reflexión que parte de la música y se extiende a la escritura:
+La mayor parte de la música contiene este ¡Prim! Saltito… He aquí un concepto 
+interesante: “El ¡prim! de la música”. “Freilej”. No sé por qué me viene a la mente 
+esta palabra, una de las pocas que conozco en idish. Música “freilej”, con saltito… 
+“Freilej”, se me ocurre una palabra pequeña, ridícula, alegría a saltitos. Sí los judíos 
+son grandes en el dolor, pero con alegría “freilej”. (CM 83)
+mente: “Es muy probable que para los modernos “aquello”, el punto de interés, se encuentre en 
+las partes oscuras de la psicología” (Woolf La narrativa moderna 42). La acusación de psicolo-
+gismo usada para desmerecer La casa Modesa es en realidad el punto de partida de la innovación 
+modernista.
+62
+Carina González | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+Esa revelación sonora genera un salto hacia el significante que enseguida 
+debe ser registrado. Por eso la mujer busca un lápiz para anotar la idea, algo que 
+después convertirá en relato mediante un juego metadiscursivo que le da conti-
+nuidad en el total de la trama. 
+El tema de la percepción que va del objeto al sujeto requiere de una segunda 
+instancia en que la consciencia interviene para darle una expresión. Ese esfuerzo 
+de poner en palabras lo visto habla del trabajo intelectual, de la acción del artista 
+que, en el caso de la mujer, se encuentra limitada por las tareas domésticas y por 
+las presiones que impone la militancia. La dialéctica entre los actos automáticos 
+de la rutina diaria, la limpieza, el encerado de los pisos, el cuidado de los hijos, 
+frente a lo que exige la desarticulación del hábito, el cuestionamiento de lo na-
+tural, el extrañamiento, capaz de maximizar la percepción hasta volverla nueva, 
+impiden la escritura. Esto sucede en la tensión entre acción y pasividad que 
+enmarca la narración –núcleo de la urgencia que también asalta al arte dentro 
+de la militancia– pero también en la reflexión sobre la lengua de la escritura; una 
+lengua que vuelve a pensarse desde la marginalidad del migrante. Se trata más 
+bien de experimentar con las posibilidades del lenguaje sabiendo que la lengua 
+no garantiza la identidad, sino que la construye a partir de elementos que no le 
+son propios. Por esa razón, lo extraño también se adosa a una lengua adquirida 
+que hay que aprender a usar y que incita a la acción.
+El que habla una lengua extranjera tiene consciencia de lo que está haciendo, de un 
+esfuerzo; el que habla la suya propia lo hace mecánicamente, conscientemente, por 
+hábito. Lo que voy a realizar es mi lengua extranjera; el tiempo fluye y resbala sobre 
+mi cuerpo que es mi propia lengua. Y sin embargo, sé que no debo dejar escurrir el 
+tiempo mientras ELLOS estén acechando. Voy a hablar en mi lengua extranjera. Voy 
+a actuar […] Entonces habré logrado lo esencial, habré detenido al sueño, mejor aún, 
+lo habré tomado, lo habré destilado hasta convertirlo en obra: “Suicidio por un piso 
+encerado”. (CM 63)
+La lengua del cuerpo, que es la propia, convoca a esa otra lengua extranjera 
+que es la de la acción y la del esfuerzo. La mujer logra conjurar las horas estériles 
+de ama de casa en una obra que es tanto la diferencia marcada por la acción re-
+volucionaria como la obra que el arte ofrece a la comunidad, una obra de ficción 
+que convierte en relato las diatribas de la mujer del piso encerado. 
+A partir de aquí, la escritura también se desdobla en la lectura metadiscur-
+siva. La mujer narra su acontecer cotidiano en el que aparece cifrada la obra. 
+Una lucha constante por atrapar el momento de la escritura, la aparición del 
+texto que está siempre por concretarse en acción pero que se interrumpe. Hay 
+un título para algún relato, “Suicidio por un piso encerado” (63), que se vuelve 
+argumento contra la explotación silenciosa de la mujer; alegato ante un editor 
+que desoye o ignora la capacidad intelectual femenina. Hay frases que se anotan 
+por su poder sugestivo, para usar en alguna ficción, pero además para reflejar la 
+posición marginal de la mujer que no encuentra su voz: “La voz, mi voz, es como 
+63
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | La casa propia de Fina 
+Warschaver: en los márgenes de la vanguardia: 49-66
+una campana que se mueve llamando pero no tiene badajo. ¡Ja, ja! ¡Qué bueno! 
+Linda frase para anotarla: ‘Mi voz. Campana sin badajo’” (CM 59). Y es donde 
+aparece la reflexión sobre una escritura que abandona el territorio seguro de la 
+mimesis para explorar “los matices de las cosas”  (66). 
+El descubrimiento de la subjetividad dirige la mirada hacia la particulari-
+dad de lo cotidiano, busca restos de esa realidad total que el realismo había 
+impuesto, para construir, con esos fragmentos, lo real. La mujer que narra 
+sus angustias domésticas reconoce un esfuerzo mayor –consciente como el de 
+la lengua extranjera– ligado al desafío de volcar en la escritura otro tipo de 
+representación. En lo cotidiano, la mujer descubre el sentido de lo real y la 
+forma en que debe ser plasmado, una materialidad que parte de lo trivial para 
+convocar lo universal. 
+Había manejado esquemas fáciles, lo que forma parte de objetivos delimitados, pro-
+yectos para una carrera expectable. Entonces descubrí los matices de las cosas. Descubrí 
+en el mundo el color, la luz, la sombra. Todo mi conocimiento anterior no me servía 
+para esta nueva concepción. (CM 66, énfasis mío) 16
+Como señalamos anteriormente, la valoración de lo íntimo tiene que ver con 
+el brillo de lo trivial que Woolf privilegia en su narrativa modernista. Un narra-
+dor introspectivo que se detiene en los matices de las cosas porque allí se concen-
+tra la clave de lo real, no por la meticulosidad escrupulosa del Ulises sino por ese 
+vínculo que Woolf encuentra entre la expresión y el pensamiento.  El monólogo 
+interior busca reproducir lo minúsculo y lo múltiple de lo real que se recrea en 
+el interior del sujeto. Las miríadas de impresiones que la mente recibe en un día 
+ordinario solo pueden ser expresadas en una escritura que copia la estructura del 
+pensamiento, una gramática que para los modernistas es fragmentaria, caótica 
+y arbitrariamente paradigmática. Woolf se concentró en los destellos de la vida 
+elegante de Bloomsbury, Warschaver en los momentos del ser vislumbrados por 
+una mujer trabajadora y militante que, a pesar de las limitaciones políticas y de 
+género, se arriesga a crear una obra que persigue su forma al perseguir también 
+lo real17. 
+16 Esta poética nueva habla de un desvío en su propia estética que se aleja del realismo referencial 
+de El retorno de la Primavera para arriesgarse en una escritura que exige la transformación del 
+lenguaje y de la representación. Los “esquemas fáciles”, los del realismo social y la carrera es-
+perable dentro del partido, son poco a poco cuestionados ante el imperativo del cambio señalado 
+por el modernismo.
+17 La bibliografía crítica que se ocupa del género en la obra de Woolf se concentra en el cambio de 
+sexo en Orlando y en su estética modernista. Sin embargo, la cuestión del feminismo diverso 
+que incluye también diferencias de clase, raza o etnia, no aparece. En Warschaver se plantea este 
+alegato por la reivindicación de los derechos de la mujer desde una consciencia de género que 
+registra también la diferencia contextual de la clase obrera. Elsa Drucaroff destaca el ingreso de 
+lo social claramente articulado en el relato surrealista “El fuego” donde la muerte de un niño 
+sucede porque su madre se encuentra ausente trabajando en una fábrica.  
+64
+Carina González | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+Lo esencial de este nuevo fluir es el ritmo. La conjunción entre la percepción 
+de lo cotidiano y la intimidad del pensamiento encuentra una expresión mate-
+rializada en el lenguaje, en la búsqueda de un ritmo narrativo diferente al de la 
+prosa ordinaria. Woolf lo define a través de una metáfora marina.
+Esto de definir lo que es el ritmo es muy profundo y va más allá de las palabras. Una 
+escena, una emoción, produce una ola en la mente, mucho antes que las palabras 
+aparezcan para interpretarla; y al escribirlas uno puede retomar todo eso y trabajarlo 
+y, entonces cuando la ola rompe y se asienta en la mente, hace que las palabras em-
+piecen a encajar. (The Letters 34)
+Ese ritmo que genera la narración no surge de la expresión –de encontrar la 
+palabra adecuada– sino que se inicia en la percepción de las cosas, recala en el 
+pensamiento y, de ahí se traduce, en algún tipo de representación que, como una 
+partitura musical, moviliza la escritura. En el caso de Warschaver ese ritmo es el 
+de las fábricas y el del trabajo.
+Todo proviene de una bomba de agua… La bomba de agua después del accidente, fue 
+la segunda revelación que debía urgirme a algo definitivo….Funcionaba el motor de la 
+bomba de agua. Ese ritmo era un ritmo absorbente, como el de la marcha de un tren, 
+era el ritmo de la máquina, era el ritmo del trabajo. Descubrí el ritmo de las cosas, des-
+cubrí el sonido de las cosas. ¡Todo tiene un sonido! ¡Oh si yo pudiera reflejar ese sonido 
+de las cosas! Abarcarlo todo: el color y el ritmo del mundo… (CM 66-67) 
+Ambas escrituras exploran una nueva sensibilidad que trasciende las barreras 
+de la referencia y se posa en los objetos, en la mirada subjetiva, en el espacio inte-
+rior de lo doméstico que se convierte en cifra del universo. Según Woolf, “Busco 
+un tipo diferente de belleza, intento lograr una simetría a través de infinitas dis-
+cordancias mostrando todas las huellas del paso de la mente en el mundo, para 
+alcanzar al final una especie de totalidad hecha de fragmentos temblorosos. Para 
+mí es un proceso natural, el vuelo de la mente” (The Letters 17)
+En Warschaver, el descubrimiento de ese interior en el que se registran los 
+matices de las cosas es también una revelación que se relaciona con la capacidad 
+de que lo minúsculo contenga la totalidad. Una filosofía que ella descubre en 
+la concepción orientalista de Borges en la que la parte contiene al todo; en que 
+“una brizna de paja puede abarcar el mundo” (CM 22). Warschaver traslada esta 
+apreciación estética al ámbito político al criticar la visión histórica totalitaria del 
+partido en detrimento de lo individual, de los hechos que considera banales. 
+Nosotros queremos abarcar el tiempo y la historia, es decir, tenemos una visión pano-
+rámica de todo pero ella es, necesariamente, epidérmica. La directriz del movimiento 
+borra de nuestra vista el hecho, la anécdota, y caemos en las generalidades. Basándo-
+nos en lo descubierto por Marx -quien no procedió en nuestra forma sino como todo 
+experimentador, guiándose por la observación-, nuestra concepción del mundo ya no 
+nos permite avanzar, porque fija y detiene nuestro pensamiento. (22) 
+65
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669 | La casa propia de Fina 
+Warschaver: en los márgenes de la vanguardia: 49-66
+El átomo de la percepción registra la matriz que lo contiene y es solo en esa 
+dinámica que los une en la que se puede hallar la conjunción de lo real. En el 
+orden de la escritura, abrir el lenguaje a la fragmentación de la consciencia; en lo 
+político, proceder desde la observación para comprender el espíritu de la histo-
+ria. La dialéctica entre lo universal y lo particular, entre el hecho y su expresión, 
+exhibe la misma duda que asalta a Flavia al participar de la revolución de los 
+cristianos primitivos.
+Para mí la persecución es lo principal. Miro los hechos como una obra de arte. Por 
+eso adopté esta fe; quería hacer de mi vida un arte y eso no puede conseguirse sin 
+acontecimientos imprevistos, sin luchas, sin darse un espectáculo. Pero el fin, en sí 
+mismo, no me preocupa, Quiero saber de cada hermano por qué está aquí y no para 
+qué. No estoy en la acción del movimiento, sino en las intenciones de los individuos. 
+(CM 94)
+Menos cercana a la poética oriental que Borges conoce y practica a la per-
+fección sino más bien buscando los fragmentos temblorosos de Virgina Woolf, 
+Warschaver logra articular lo epidérmico en la causa mostrando la experiencia 
+íntima de la opresión en varias facetas: es la opresión de la mujer que por primera 
+vez denuncia la invisibilidad de su trabajo hogareño pero además la exclusión 
+o marginalidad a la que es sometida dentro del ámbito artístico,  es la tensión 
+entre el arte y la vida, atravesada por las exigencias socioculturales y políticas que 
+recaen sobre la mujer, y es, finalmente, la lucha dentro de la revolución como 
+parte de una rebelión permanente que no se conforma con aceptar el dogma sino 
+que, como en el arte, lo resiste. 
+Referencias bibliográficas
+Adorno, Theodor Teoría estética. Madrid, Akal, 2004.
+Bürger, Peter. Teoría de la vanguardia. Buenos Aires, Las cuarenta, 2009.
+Drucaroff, Elsa. “Presentación”. El hilo grabado, Villa María, Eduvim, 2014.
+Foster, Hall. El retorno de la real. La vanguardia a finales de siglo. Buenos Aires, 
+Akal, 2001.
+Foster, Hall. Belleza compulsiva. Buenos Aires, Adriana Hidalgo, 2008.
+Gallardo, Sara. Macaneos. La columna de Confirmado 1967-1972. Buenos Aires, 
+Winograd, 2016.
+Huyssen, Andrea. Después de la gran división. Modernismo, cultura de masas y 
+posmodernismo. Buenos Aires, Adriana Hidalgo, 2006.
+66
+Carina González | 
+ XXVI.2 (mayo-agosto 2022) ISSN 1851-4669
+Jameson, Frederic. “Debate entre realismo y modernismo. Debate para con-
+cluir”. Revista Youkali, n.° 7, 2007, pp. 189-201, http://www.youkali.net/
+Youkali7-7clasico-FredricJameson.pdf
+Kohan, Martín. La vanguardia permanente. Buenos Aires, Paidós, 2021.
+Millet, Kate. Política sexual. Madrid, Cátedra, 1995.
+Piglia, Ricardo. Las tres vanguardias. Buenos Aires, Eterna cadencia, 2007.
+Piglia, Ricardo. Antología personal. Buenos Aires, Fondo de Cultura Económica, 
+2014.
+Sabatini, Federico. Sobre la escritura de Virginia Woolf. Barcelona, Alba, 2015.
+Sarlo, Beatriz. “Vanguardia y criollismo: la aventura de Martín Fierro”. Ensayos 
+críticos. Buenos Aires, Ariel, 1997.
+Tabarosvky, Damián. Fantasma de la vanguardia. Buenos Aires, Mar Dulce, 
+2018.
+Warschaver, Fina. La casa Modesa. Buenos Aires, Final Abierto, 2019.
+Warschaver, Fina. http://finawarschaver.com/
+Woolf, Virginia. “La narrativa moderna”. El lector común. Buenos Aires, turole-
+ro, ePub.
+Woolf, Virginia. “The letters of Virginia Woolf”. Sobre la escritura de Virginia 
+Woolf. Barcelona, Alba, 2015, pp.31-153.

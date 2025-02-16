@@ -1,0 +1,657 @@
+73
+  XVI.1 (julio 2012) ISSN 0329-3807 | Desde el desierto…: 73-87
+Desde el desierto: 
+las fuerzas erosivas de la ficción en 
+Ciencias morales (Martín Kohan) y 
+La mirada invisible (Diego Lerman)
+From the Desert: the erosive forces of Fiction in Ciencias morales 
+(Martín Kohan) and La mirada invisible (Diego Lerman)
+Lara Segade
+Instituto de Literatura Hispanoamericana
+Universidad de Buenos Aires
+Consejo Nacional de Investigaciones Científicas y Técnicas
+[ larasegade@gmail.com ]
+Resumen: en la novela Ciencias morales (2007), de Martín Kohan, se narra la 
+vida en el Colegio Nacional de Buenos Aires durante la guerra de Malvinas. 
+Un relato minucioso y detallista reproduce la ambición de control total y la 
+atmósfera opresiva del interior del colegio. Sin embargo, una serie de silen­
+cios y ambigüedades revelan la imposibilidad del control total y el carácter 
+ilusorio de su relato. La guerra, sin ser nombrada directamente, atraviesa y 
+estructura la novela. La película La mirada invisible (2010), de Diego Lerman, 
+toma como base la novela de Kohan y reproduce lo esencial de la historia. La 
+acción en la película, no obstante, se ubica en el mes de marzo de 1982, justo 
+antes de la guerra. Este desplazamiento temporal se une a otras transforma­
+ciones que se operan en la película. El objetivo de este trabajo es explorar 
+estas transformaciones y sus significados para pensar en el modo en que la 
+ficción, en el contexto del siglo XXI, narra el pasado reciente: la dictadura, la 
+guerra y el vínculo entre ellas. 
+Palabras clave: Guerra de Malvinas; Kohan; ficción; control; resistencia 
+Abstract: The novel Ciencias Morales (2007), by Martín Kohan, narrates life at 
+Colegio Nacional de Buenos Aires during Malvinas’ War. A meticulous and pre­
+cise story reproduces the ambition of total control and the oppressive atmo­
+sphere inside the school. A series of silences and ambiguities, though, reveal 
+the impossibility of such control and its illusory narration. Even when it’s not 
+named straight, war structures and goes through the whole novel. In this work 
+we analyze the senses that Ciencias morales produces regarding war and the 
+transformations on them that take place in the film La Mirada Invisible (2010), 
+by Diego Lerman. The aim is to research into the way in which some fictions of 
+the 21st century put themselves according to state stories linked to biopower- 
+as defined by Michel Foucault- to narrate the recent past: dictatorship, war 
+and the link between them.
+Keywords: Malvinas’ war; Kohan; fiction; control; resistance
+74
+Lara Segade | 
+  XVI.1 (julio 2012) ISSN 0329-3807
+Teorías de la ficción y ficciones de la teoría: 
+el caso de la guerra de Malvinas
+E
+n 1993, Martín Kohan elabora, junto con Adriana 
+Imperatore y Oscar Blanco, una de las primeras lecturas 
+sobre los relatos de la guerra de Malvinas. A partir de la 
+idea de que toda guerra implica no sólo una confronta­
+ción de cuerpos sino también una confrontación de discursos, se traza allí una 
+distinción entre las versiones triunfalistas y las que se lamentan por la derrota 
+(Blanco et al.). Esta distinción, sin embargo, es menos profunda de lo que 
+parece, ya que ambas se inscriben en la lógica de un “Gran Relato Nacional”. 
+En este contexto, la ficción ocupa un lugar diferente desde el cual consigue 
+deconstruir aquellos valores que los otros relatos sostienen, ya sea realzándolos 
+o lamentando su pérdida. En 1999, Kohan recupera y amplía estas ideas en otro 
+artículo, “El fin de una épica”. A partir de la lectura de la novela Las islas, de 
+Carlos Gamerro, publicada un año antes, Kohan vincula la deconstrucción de 
+los valores nacionales –“épicos”– con la noción de farsa, en tanto esta, observa, 
+incluye también una inflexión dramática. Las islas articula así el drama y la farsa, 
+dos versiones del relato de Malvinas que, hasta entonces, habían permanecido 
+separadas y, al hacerlo, revela que la guerra fue a la vez un drama y una farsa 
+o, en otras palabras, que tanto los cuentos o novelas más farsescos como los 
+testimonios más dramáticos remiten a “un momento de verdad de la guerra de 
+Malvinas” (Kohan “El fin de una épica” 7). De este modo, la función de pura 
+desarticulación que cabía a las ficciones de la guerra en 1993, seis años después se 
+complejiza y es en el cruce del lamento, en el triunfalismo y en la desarticulación 
+farsesca donde los relatos pueden producir para la guerra ese sentido que Kohan 
+denomina “momento de verdad”. Por otra parte, en este nuevo artículo, los 
+relatos testimoniales merecen un lugar destacado; son, sí, versiones del lamento 
+por la derrota, pero se enmarcan en este contexto más complejo de construcción 
+discursiva de la guerra donde la distinción tajante entre ficciones y testimonios 
+comienza a tornarse problemática. Partes de guerra, de Graciela Speranza y 
+Fernando Cittadini, publicado en 1997, se sitúa en esta zona problemática; a su 
+vez, las dos películas ficcionales más relevantes sobre el conflicto, Los chicos de 
+la guerra e Iluminados por el fuego1, se basaron en relatos testimoniales. En ellas, 
+las estrategias de ficcionalización, es decir, aquellas utilizadas para trasponer un 
+relato testimonial en una narración ficcional –y fílmica– revelan su potencial 
+significante. De este modo, comienzan a tornarse evidentes las contribuciones 
+de la ficción a la construcción de un relato de la guerra, en el marco de la con­
+frontación de discursos señalada por Kohan, Blanco e Imperatore. 
+1	 Los chicos de la guerra, de Bebe Kamin, fue estrenada en 1984; Iluminados por el fuego, de 
+Tristán Bauer, en 2005.
+75
+  XVI.1 (julio 2012) ISSN 0329-3807 | Desde el desierto…: 73-87
+Ciencias morales, la novela con la que Martín Kohan gana en 2007 el premio 
+Herralde, se integra en esta confrontación de discursos sobre la guerra desde 
+un lugar peculiar, ya mediada por estas reflexiones teóricas. Tres años después, 
+Diego Lerman basa en ella su película La mirada invisible. Las transformaciones 
+que se operan en el pasaje del libro a la película ponen en escena toda una serie 
+de problemáticas que son, en cierta medida, diferentes a aquellas que surgían 
+del pasaje del testimonio a la ficción; a la vez que la distancia temporal con los 
+acontecimientos es mucho mayor que la de Los chicos de la guerra y un poco 
+mayor que la de Iluminados por el fuego. Ha corrido agua bajo el puente y una 
+de las consecuencias es que ahora la ficción toma como base a la ficción: último 
+corolario de la idea de que la ficción también participa activamente del relato de 
+Malvinas al entrañar, en términos de Kohan, un “momento de verdad”. 
+Narrar el orden
+Si en 1993 a la función deconstructiva de la ficción correspondían unos narra­
+dores de saberes endebles y autoridad socavada, es decir, si lo mismo que ero­
+sionaba los valores épicos del relato erosionaba la autoridad de sus narradores 
+(Blanco et al.), ¿qué narradores corresponden a la paulatina recomposición de 
+la potencialidad constructiva de la ficción que se inicia a fines de los años 90 
+con la publicación de Las islas y Partes de guerra y que reconocen ciertos giros 
+de la crítica literaria? 
+La historia de Ciencias Morales es la de María Teresa, una joven que comienza 
+a trabajar como preceptora en el Colegio Nacional de Buenos Aires en marzo 
+de 1982. La voz que narra no es la suya, sino la de un narrador externo que, sin 
+embargo, la sigue de cerca. Respecto de otra de las novelas de Kohan, Dos veces 
+junio –con la cual es posible trazar una continuidad desde Ciencias morales–, 
+narrada en primera persona, según Miguel Dalmaroni: “quiere mostrarnos 
+que sí es posible narrar literalmente la mera facticidad de la ejecución concreta 
+del secuestro masivo, la tortura, la desaparición y el robo de bebés metódica y 
+cuidadosamente calculados”. Aunque, por otra parte, la novela “va organizando 
+las contigüidades de una figuración del horror artísticamente controlada […] 
+la voluntad constructiva de la escritura, que por encima del nivel del narrador 
+personaje […] enfatiza una línea dominante de sentido” (Dalmaroni 164). 
+Aparece así, en los márgenes de esa voz narradora, la arquitectura deliberada 
+de otra subjetividad desde la cual surge una lectura moral del texto diferente 
+a la esbozada por el narrador-personaje. En Ciencias morales, el hecho de que 
+el narrador no coincida con el personaje principal establece un nivel nuevo de 
+lectura, una moral, por decirlo con palabras de Dalmaroni, distinta a la de los 
+personajes pero distinta también a la del narrador. 
+De este modo, si por un lado el narrador de Ciencias morales se parece al de 
+Dos veces junio en tanto es un narrador metódico, minucioso, que presta su voz a 
+la disciplina y a la vigilancia que estructuran la novela; por otro lado, se diferencia 
+76
+Lara Segade | 
+  XVI.1 (julio 2012) ISSN 0329-3807
+de él ya que no coincide con ninguno de los personajes que ejercen esa disciplina 
+–no es ni María Teresa, ni el jefe de preceptores, ni un militar, ni un subalterno. 
+Es una pura voz que remite, en todo caso, a la omnipresencia del discurso disci­
+plinar o, más bien, a la presencia de la disciplina en el discurso. En una novela 
+que, como veremos, versa sobre los regímenes de la visibilidad en el contexto del 
+final de la dictadura y la guerra de Malvinas –esto es: la ambición panóptica de 
+una mirada que se quiere a la vez total e invisible–, este narrador viene a mostrar 
+los alcances discursivos de esas ambiciones del poder. Tan importante como el 
+control visual es el control sobre el discurso, sobre lo que se puede y no se puede 
+decir. En este sentido, los gestos narrativos son dos, vinculados entre sí: por un 
+lado, el relato avanza por una profusión de detalles que son, en gran medida, 
+los que el ojo vigilante de María Teresa alcanza a percibir y que constituyen una 
+segmentación hasta el infinito del espacio y el tiempo. Estos detalles, puestos 
+así uno a continuación del otro provocan la ilusión de una narración que puede 
+abarcarlo todo, que, como un manto de exhaustividad cubre punto por punto 
+los acontecimientos. Por otro lado, algunas cosas permanecen sin nombre o 
+requieren del eufemismo para ser nombradas. La guerra es, ante todo, el gran 
+vacío de la novela. En el comienzo, se registran “desórdenes” en Plaza de Mayo. 
+Unos días después, suena la sirena del diario La prensa, ubicado en las cercanías 
+del Colegio y las autoridades disponen el uso obligatorio de escarapelas. Es el 
+2 de abril. Más adelante, en una salida programada para asistir a los actos del 
+25 de mayo, una periodista extranjera encara a los alumnos para preguntarles, 
+en francés, qué piensan de la guerra, de modo que su única referencia directa 
+aparece en otro idioma. El hermano de María Teresa está haciendo el servicio 
+militar y el miedo de María Teresa y su madre es que lo envíen al Sur. Así, el 
+Sur, la guerre, la sirena, las escarapelas constituyen los modos en que la guerra de 
+Malvinas ingresa a la novela: pequeñas puntas de lanza que inciden en el muro 
+discursivo construido por el narrador, metonimias y eufemismos que horadan 
+desde adentro el orden del relato. El control discursivo revela sus fallas y lo que 
+no se puede decir –ese desorden que ocurre afuera– comienza a erosionarlo. 
+Vigilar el orden
+El narrador de Ciencias morales acompaña así, desde afuera, el relato de un 
+modo de funcionamiento de la disciplina durante la dictadura en un espacio 
+interno, el del Colegio, que es, ante todo, un espacio de orden y de control, con 
+ambiciones de totalidad. Un espacio cercado, dividido y visible en el que cada 
+elemento se define por el lugar que ocupa y por la distancia que lo separa de los 
+otros. La novela comienza, precisamente, con una de las rutinas vinculadas a 
+esta distribución disciplinaria de los individuos en el espacio: el momento de 
+formar fila y tomar distancia. Durante varias páginas, se describen la compli­
+cación y hasta el sufrimiento que implica ese momento para María Teresa, la 
+preceptora que debe controlar que los alumnos se formen como es debido, ya 
+77
+  XVI.1 (julio 2012) ISSN 0329-3807 | Desde el desierto…: 73-87
+que, para tomar distancia, cada alumno debe apoyar la mano en el hombro del 
+compañero de adelante, es decir, hacer contacto físico con él. Allí se concentran 
+las preocupaciones de María Teresa quien, más de una vez, creerá percibir que 
+la mano de uno de los chicos no sólo se vale del hombro de adelante para tomar 
+distancia, sino que también hace una cosa muy distinta: lo toca, lo envuelve 
+con la mano. El contacto físico, sobre todo entre los hombres y las mujeres, 
+que es potencialmente contacto sexual, amenaza con destruir la separación 
+entre individuos correspondiente al sistema disciplinario. Los mecanismos de 
+control de esa disciplina fundada en la separación de los cuerpos entre sí y del 
+adentro y el afuera están constituidos por toda una maquinaria de la cual los 
+preceptores constituyen el último eslabón. Son el punto de contacto entre los 
+alumnos y las autoridades. En una dirección, deben aplicar las normas; en la 
+otra, deben informar a las autoridades de cualquier anomalía. No son tareas 
+fáciles, ya que la amenaza late especialmente en los mínimos detalles, en una 
+mano excesivamente apoyada en un hombro, en una cabellera que excede en 
+milímetros el largo reglamentario, en una media que respeta el color pero no el 
+material. Por eso es allí donde la vigilancia debe acentuarse. 
+La voluntad de hacer bien el trabajo –ver sin ser vista, descubrir las subver­
+siones del orden que se ubican en el límite de lo visible– lleva a María Teresa a 
+esconderse en el baño de varones para averiguar si hay alumnos fumando. La 
+incursión en el ámbito del cuerpo masculino, de lo abyecto y lo sexual, provoca 
+en María Teresa un cosquilleo que no sabe cómo interpretar y cuyo origen –“la 
+cosa” que los alumnos sacan para hacer pis– tampoco puede nombrar. Al descu­
+brirla en el baño, el señor Biasutto, el jefe de preceptores, terminará por abusar de 
+ella. El peligro que latía ya en la cercanía de los cuerpos, que era potencialmente 
+deseo sexual en la mano que envolvía el hombro, aumenta cuando María Teresa 
+imagina los cuerpos de los alumnos en el baño y, finalmente, hace eclosión con 
+el abuso. La “cosa” que los alumnos sacan para hacer pis y que María Teresa 
+imagina le provoca ahora terror. Se trata de un terror provocado por algo que no 
+se puede nombrar, por otra forma del eufemismo. Las cosas que permanecen sin 
+nombre son, precisamente, las que vienen a producir sus efectos de disrupción en 
+el mundo siempre igual del hábito y la segmentación disciplinar, pues escapan 
+al control sobre las palabras y los cuerpos. 
+Ficciones de la peste
+En Vigilar y castigar, Michel Foucault propone que en el origen de los dispositivos 
+disciplinarios se encuentra la peste o, más bien, el sueño político de control sobre 
+la vida que se deriva de ella. Cuando llega la peste, existe toda una reglamentación 
+para los individuos, que deben encerrarse en sus casas, ordenarse y separarse. Si 
+la mezcla entre los cuerpos es lo que produce el contagio, la peste es leída como 
+desorden y el desorden es muerte. La respuesta es la implementación del más 
+riguroso orden, capilarmente distribuido. El panoptismo, a su vez, constituye 
+78
+Lara Segade | 
+  XVI.1 (julio 2012) ISSN 0329-3807
+el desarrollo máximo de los sistemas disciplinarios y por lo tanto en su origen 
+está, también, la peste. Sostiene Foucault: 
+Ha habido en torno de la peste toda una ficción literaria de la fiesta: las leyes 
+suspendidas, las prohibiciones levantadas, el frenesí del tiempo que pasa, los 
+cuerpos mezclándose sin respeto, los individuos que se desenmascaran […] 
+Pero ha habido también un sueño político de la peste, que era exactamente lo 
+inverso: no la fiesta colectiva sino las particiones estrictas; no las leyes trans­
+gredidas, sino la penetración de reglamento hasta en los más mínimos detalles 
+de la existencia y por intermedio de una jerarquía completa que garantiza el 
+funcionamiento capilar del poder; no las máscaras que se ponen y se quitan 
+sino la asignación a cada uno de su “verdadero” nombre, de su “verdadero” 
+lugar, de su “verdadero” cuerpo y de la “verdadera” enfermedad (Foucault 
+Vigilar 230).
+Lo que surge entonces, en el ámbito francés durante lo que Foucault deno­
+mina la época clásica y luego se hace extensivo al resto de Occidente, es ante 
+todo una nueva metáfora médico-política, según la cual la enfermedad y el 
+desorden se equiparan y se contraponen al orden disciplinario. La ficción se 
+coloca del lado de las fuerzas apestadas del desorden, mientras que a las fuerzas 
+del orden les cabe la asignación de nombres en el terreno de lo “verdadero”. 
+Desde luego, esto no es más que otra ficción. Lo que nace con los regímenes 
+disciplinarios –cuyo surgimiento está a su vez indisolublemente ligado al del 
+Estado moderno– es finalmente un sistema metafórico: un modo de leer la 
+realidad avalado por el poder. 
+Se trata de lo que Ricardo Piglia denominó “ficciones del Estado”. “El Estado 
+no puede funcionar sólo por la pura coerción, necesita lo que [Paul] Valéry 
+llama fuerzas ficticias. Necesita construir consenso, necesita construir historias, 
+hacer creer cierta versión de los hechos” (Piglia). Uno de los ejemplos de estas 
+ficciones estatales es el de la utilización, por parte de la última dictadura militar 
+argentina, de una metáfora médica –quirúrgica– para definir sus funciones. Así, 
+la actualización de lo más literal de los regímenes disciplinarios trae aparejada 
+la actualización de las metáforas de la peste y al Estado le cabe, en esta historia, 
+el rol del médico: sanar el cuerpo enfermo, controlar el contagio y, si hace falta, 
+extirpar. La significación de la metáfora se produce en dos niveles. Si por un 
+lado se atribuye a la subversión un peligro de muerte, por otro lado también 
+“aludían a la sala de operaciones, con cuerpos desnudos, cuerpos ensangrentados, 
+mutilados. Todo lo que estaba en secreto aparecía, en ese relato, desplazado, 
+dicho de otra manera” (Piglia). 
+La metáfora médica o, más precisamente, quirúrgica, es expresada en Cien­
+cias Morales por el señor Biasutto, a quien corresponde la fama de haber sido el 
+responsable, unos años antes, de “confeccionar las listas”: 
+[L]a subversión […] es como un cáncer, un cáncer que primero toma un 
+órgano, supongamos la juventud, y la infecta de violencia y de ideas extra­
+ñas; pero luego ese cáncer hace además sus ramificaciones, que se llaman 
+79
+  XVI.1 (julio 2012) ISSN 0329-3807 | Desde el desierto…: 73-87
+metástasis, y a esas ramificaciones, que parecen menos graves, hay que com­
+batirlas de todas maneras, porque en ellas el germen del cáncer late toda­
+vía, y un cáncer no se acaba hasta tanto se lo extirpa por completo (Kohan 
+Ciencias 48).
+Así, en 1982, lo que viene a subvertir el orden según la ficción del poder 
+son las pequeñísimas ramificaciones del cáncer, imperceptibles para el ojo no 
+atento, cuyas manifestaciones más visibles ya fueron eliminadas por medio de la 
+cirugía mayor de la represión. La función de María Teresa queda aquí definida 
+y justificada. Sin embargo, por otra parte, el relato de Biasutto vuelve a colocar 
+al cuerpo entre los principales peligros. La subversión, como el cáncer, lejos de 
+ser un fenómeno externo, vive en el interior del cuerpo y se nutre de él para 
+expandirse. Es decir, como las metástasis de un cáncer, invisibles a veces, pura 
+potencia simultáneamente de vida y de muerte; algo está minando el orden 
+desde adentro. El control, exacerbado por estos restos imperceptibles, revela su 
+fracaso o, podríamos decir, su carácter ficticio. Y es que no se puede ver todo, de 
+la misma manera que el narrador, en su propia exacerbación detallista, también 
+deja afuera precisamente aquello que, poco menos que un año después, habrá 
+puesto fin al orden dictatorial. 
+La ambición del panoptismo implicada en la noción de la mirada invisible 
+se funda en la idea de que es la visibilidad lo que otorga poder. El panóptico 
+surge del descubrimiento de que la oscuridad, en realidad, protege y de que es 
+la luz, al otorgar visibilidad, lo que permite el control. Sin embargo, el relato 
+de la luz se construye sobre la exclusión de las sombras: el correlato de lo visible 
+es la invisibilidad de los centros clandestinos de detención y el silencio que los 
+recubre. Esta correlación es más evidente en la otra novela de Kohan ya citada, 
+Dos veces junio: de un lado el mundial ‘78, cuyas imágenes son transmitidas al 
+mundo como una suerte de ficción invertida de la fiesta; del otro, la tortura en 
+los centros clandestinos de detención y su corolario más oscuro, la apropiación 
+de bebés. En Ciencias morales lo que permanece en las sombras, en el silencio 
+obstinado del narrador, es la guerra de Malvinas. El vínculo entre ambos even­
+tos –el mundial 78 y la represión ilegal por un lado, Malvinas por el otro– es 
+trazado por el mismo Kohan: esos son los dos junios de su novela. Pero además 
+lo que se recupera del mundial es la única derrota de la selección argentina, 
+luego olvidada en la euforia del relato triunfalista. Dos junios, dos derrotas, dos 
+versiones triunfalistas que a la vez ocultan y delatan precisamente eso que las 
+une: que los campos de detención y Malvinas fueron perpetrados por el mismo 
+poder militar, incluso por los mismos hombres y, sobre todo, que el mundial 
+78 –la fiesta superpuesta a la masacre– y Malvinas, exigieron la creencia de los 
+argentinos, sintonizaron con “nuestra fe, nuestra ilusión, nuestro deseo” (Pauls). 
+Esa “pareja de fabulaciones perfectas: el mundial ‘78 y Malvinas” constituyen 
+por lo tanto, “lo verdaderamente siniestro de la dictadura” (Pauls). 
+Se trata de fabulaciones en tanto constituyen operaciones de construcción 
+ficcional, relatos selectivos que, así como guían la mirada en la dirección de lo 
+80
+Lara Segade | 
+  XVI.1 (julio 2012) ISSN 0329-3807
+que iluminan y nombran, oscurecen o reprimen otras zonas. Pero lo reprimido 
+–el deseo sexual o el deseo de ganar el partido o la guerra– retorna y se erige 
+en un modo de lo siniestro, tal como lo definió Sigmund Freud. El cosquilleo 
+ininteligible de María Teresa en el baño de varones, el abuso de Biasutto, pero 
+también la sirena del diario La prensa –euforia y fiesta– constituyen los eufe­
+mismos en torno al deseo que vuelve como algo ajeno pero a la vez familiar. Lo 
+que el régimen disciplinario y discursivo deja afuera está, en realidad, adentro 
+carcomiendo el cuerpo como un cáncer. O bien, el deseo está ahí, es propio y 
+es un peligro. Precisamente por constituir una forma de eufemismo, la “cosa” 
+del señor Biasutto puede ser “cualquier cosa”: eso, indefinido pero perturbador, 
+que le provoca a María Teresa la mirada de Baragli y que podría ubicarse en el 
+terreno de la represión sexual, pero también los otros modos de represión que 
+atraviesan la novela, en especial, la represión en el ámbito político. A su vez, la 
+“cosa” no designa únicamente los mecanismos de control, sino también aquello 
+que los exacerba y los condena al fracaso. De esta manera, el eufemismo, cuya 
+contracara es la enumeración desbocada de detalles, adquiere relevancia en esta 
+novela en tanto engloba, a la vez, al orden y a lo que lo está destruyendo desde 
+adentro y permite, por lo tanto, establecer una relación, no del todo evidente, 
+entre la dictadura y la guerra.
+En medio de un desierto
+Las ficciones estatales elaboradas en torno a la metáfora biológica son actuali­
+zadas y resignificadas en el marco de la dictadura argentina pero, en realidad, 
+forman parte de un relato mucho más amplio: el del biopoder, indispensable en 
+el desarrollo del capitalismo (Foucault Historia de la sexualidad). El núcleo de 
+este relato es el de un Estado cuyo poder se ejerce sobre la vida en dos sentidos, 
+conectados entre sí: por un lado, en el sentido de las disciplinas del cuerpo, 
+un micropoder sobre el cuerpo en sus detalles biológicos; por otro lado, en el 
+sentido de la regulación de las poblaciones. Es especialmente en este último 
+sentido que la metáfora biológica se entrelaza, a lo largo de la historia de los 
+Estados modernos, con las metáforas territoriales. En el caso argentino, los 
+diversos proyectos para la constitución de una nación esbozados a partir de la 
+independencia tuvieron que incluir soluciones para el problema de las grandes 
+superficies percibidas como vacías, esto es, el problema del desierto. En Una 
+Nación para el desierto argentino, Halperín Donghi describe el modo en que esos 
+proyectos se articularon durante el siglo XIX para dar forma, en torno a 1880, 
+al Estado argentino. Las políticas inmigratorias, por un lado, y la exterminación 
+del indio, por el otro, trazan, a lo largo del siglo XIX argentino, ese vínculo entre 
+lo biológico y lo territorial que es una de las medidas del biopoder: la población 
+se convierte en objeto de la política y, al mismo tiempo, se la piensa como ligada 
+a la ocupación de un territorio.
+81
+  XVI.1 (julio 2012) ISSN 0329-3807 | Desde el desierto…: 73-87
+Sin embargo, ese desierto que funciona como base para el nacimiento local 
+del biopoder, como recipiente vacío para la importación de vida calificada, no 
+define únicamente una cualidad geográfica, remite también a toda una serie de 
+operaciones discursivas que son las que desertifican y vacían el territorio. A estas 
+operaciones se refiere Fermín Rodríguez en Un desierto para la nación, libro que 
+invierte la formulación de Halperín Donghi para señalar que el desierto es, ante 
+todo, una operación de “vaciamiento” del espacio que precede a la formulación 
+de los proyectos que, como la inmigración, vendrán a “llenarlo”: 
+Desierto es entonces el nombre para una ausencia de política, una operación 
+discursiva con el poder de atrapar la imaginación al evocar, en negativo, la 
+plenitud ausente de un estado-nación por venir: donde había virtualmente 
+un desierto –multiplicidades salvajes sin orden ni medida, mundos posibles, 
+pueblos futuros– el estado-nación debía advenir (Rodríguez 15). 
+Así, a lo largo del siglo XIX, no solo los escritos políticos, sino también las 
+obras literarias se articulan en torno a la idea de desierto y, al mismo tiempo, 
+la producen, cargándola de significaciones2. Es ante todo en los textos donde 
+la Pampa se convierte en desierto y el desierto en barbarie a la que la ciudad 
+contrapone sus fuerzas civilizatorias. Entre el desierto y la ciudad, la frontera es 
+la zona permeable y móvil por excelencia donde se dirime el gran combate entre 
+la civilización y la barbarie que configura los relatos de fundación del Estado 
+nacional al mismo tiempo que es configurado por ellos3. El relato de la nación 
+es, por tanto, el de la paulatina conquista de la barbarie por las fuerzas de la 
+civilización. Conquista que se produce simultáneamente en los planos discursivo 
+y territorial, en tanto las ficciones del siglo XIX son correlativas a este “avance 
+civilizatorio”: trazan pares que, sin embargo, lejos de ser dicotómicos, como 
+veremos, se confunden y avanzan unos sobre otros permanentemente. De un 
+lado el desierto, la barbarie, el desorden; del otro, la ciudad, la civilización y sus 
+instituciones de gobierno, el orden, el control, las regulaciones. La vida, la pura 
+potencia animal de lo salvaje –el tigre que persigue a Facundo Quiroga en la 
+anécdota relatada por Sarmiento en Facundo– está, sin embargo, del lado del 
+desierto. Y si bien es cierto que esta vida constituye la materia caótica sobre la 
+cual debe ejercerse el control estatal, también es cierto que estas fuerzas vivas 
+2	 De La cautiva a Martín Fierro, pasando por Facundo, el canon de la literatura nacional se articula 
+en torno a estas ideas. Así como Halperín Donghi recorre los proyectos políticos que delinearon 
+una nación como respuesta al vacío institucional y físico del territorio, la crítica literaria ha encon­
+trado en la literatura del siglo XIX un eje de lectura vinculado con las representaciones del desierto. 
+Por citar solo un ejemplo, en esta línea se ubica el prólogo de Beatriz Sarlo y Carlos Altamirano a 
+la Obra escogida de Esteban Echeverría editada por Biblioteca Ayacucho en 1991. 
+3	 Inseparables de los textos y los estudios sobre el desierto, aparecen los textos que piensan y cons­
+truyen –trazan– las fronteras como zonas a la vez de separación y de choque entre la civilización 
+de la ciudad y la barbarie del “desierto” y los estudios que conciben estos textos también como 
+intervenciones simbólicas, operaciones y prácticas discursivas superpuestas al territorio. Entre 
+estos estudios figura, por ejemplo, el libro Fronteras escritas, compilado por Graciela Batticuore, 
+Loreley El Jaber y Alejandra Laera en 2008.
+82
+Lara Segade | 
+  XVI.1 (julio 2012) ISSN 0329-3807
+revelan que la desertificación de la Pampa es, ante todo, una operación discursiva. 
+Hay vida en el desierto y es por eso que las fronteras son peligrosas, porque hay 
+algo del otro lado, que opone resistencia: 
+Malones, montoneras, deserciones, exilios entre los indios, violencia polí­
+tica, catástrofes naturales, estampidas de animales salvajes, robo de ganado, 
+tráfico de armas y de ganado, son fuerzas turbulentas que vienen del desierto 
+a erosionar las representaciones y a esquivar los saberes (Rodríguez 17). 
+Cuando Sarmiento evocaba la sombra terrible de Facundo para explicar 
+“la vida secreta y las convulsiones internas que desgarran las entrañas” de la 
+Patria, atribuía al conflicto entre la civilización y la barbarie la fuerza de un 
+relato fundacional y sobre todo, explicativo (Sarmiento 35). Había un enigma 
+a resolver y de allí provendrían las respuestas. Muchos años después, sobre el 
+final de la dictadura y en los comienzos de la democracia, una nueva búsqueda 
+de explicaciones se adueñaría de la literatura. Como sostiene Beatriz Sarlo en 
+“Sujetos y tecnologías. La novela después de la historia”, antes que la Historia, 
+será la ficción la que se vuelva al pasado para descubrir allí los orígenes de la 
+violencia reciente. Respiración artificial, de Ricardo Piglia se constituye en el 
+ejemplo principal de este momento. A partir de la figura de Juan Manuel de 
+Rosas se establece un vínculo, opaco y complejo pero productivo, entre diversas 
+temporalidades de la violencia. 
+Ciencias Morales se sitúa doblemente en esta línea que brevemente referimos. 
+Por un lado, a pesar del tiempo transcurrido, sigue respondiendo, en alguna 
+medida, a esa búsqueda de explicaciones para el enigma de la violencia que 
+plantea la dictadura; por otro lado, la historia no casualmente transcurre en 
+un colegio de larga tradición al que concurrieron muchos de los hombres de 
+la política desde el siglo XIX; esos hombres que con sus acciones y sus escritos 
+pensaron y produjeron un desierto y una nación. María Teresa, preocupada por 
+los peligros de la proximidad entre hombres y mujeres, añora aquella época, 
+en que el colegio era sólo de varones. Aunque reconoce que entonces también 
+existían conflictos, sostiene: “Que los porteños se pelearan con los provincianos 
+no dejaba de expresar, al fin de cuentas, una verdad profunda de la historia 
+argentina” (Kohan Ciencias 10). El colegio, así, es resumen de la nación y ambas 
+historias se entrelazan indisolublemente. O, más bien, el colegio es resumen de 
+las fuerzas civilizatorias de la nación y, como tal, participa de los enfrentamientos 
+y su historia es también una historia sangrienta. Si el poder dictatorial –repre­
+sentado aquí por las autoridades del colegio– elabora para sí un relato de raíces 
+históricas, lo hace ubicándose del lado de las fuerzas de la civilización que vienen 
+a reorganizar un país dominado por el caos. El caos es la subversión, el cáncer, la 
+barbarie. La dictadura de Rosas es “la mayor tragedia de la historia argentina en 
+todo el siglo XIX”, que “había interrumpido las actividades de enseñanza en el 
+colegio, y nada semejante debía volver a ocurrir, ni siquiera por un día.” (Kohan 
+Ciencias 54). La historia de Ciencias morales es, en gran medida, la historia 
+83
+  XVI.1 (julio 2012) ISSN 0329-3807 | Desde el desierto…: 73-87
+del colegio cerrándose sobre sí mismo, resistiendo a las fuerzas subversivas del 
+desorden que, se pretende, provienen de afuera. El sonido de la sirena inquieta, 
+pero no produce consecuencias. El colegio no debe volver a suspender sus acti­
+vidades porque eso implicaría una claudicación del orden frente a las fuerzas 
+del caos. Sin embargo, el desierto o su otro nombre, el Sur, extraen su fuerza de 
+las ambigüedades con que han sido representados a lo largo de la historia. En el 
+desierto hay vida y, sobre todo, el desierto no está afuera. Como el cáncer, avanza 
+y erosiona el cuerpo desde adentro, revela algo más que la permeabilidad de las 
+fronteras: “las jornadas de clase transcurren como si el edificio del colegio no 
+estuviese en pleno centro de la ciudad, sino en medio de un desierto.” (Kohan 
+Ciencia 53). O, dicho de otra manera, la manzana de las luces en la que se ubica 
+el edificio está surcada por túneles subterráneos, contracara oscura de la historia 
+de la civilización y su relato oficial. De ese desierto en que la escuela se ubica sin 
+reconocerlo, del Sur, en que transcurre una guerra que no se nombra, provienen 
+las fuerzas silenciosas de la erosión de un régimen. 
+Se pretende no hablar de la guerra, situarla lejos –en el Sur–, no nombrarla. 
+Pero son los hermanos los que se están desplazando hacia allá. Se silencian 
+sobre todo los túneles, las zonas oscuras, las catacumbas trágicas de la historia. 
+Pero están ahí, bajo los propios pies, atravesando los discursos como venas. Si 
+en Ciencias morales el narrador es a la vez víctima y cómplice de un poder dic­
+tatorial que se ejerce también sobre y desde el discurso, entonces la erosión del 
+orden toma la forma de una desertificación: lenta y silenciosa. Quiero decir que 
+no hay en la novela formas explícitas de resistencia. María Teresa no encuentra 
+a nadie fumando en el baño. 
+La mirada invisible
+La película de Diego Lerman es en gran medida “fiel” al libro, a sus acciones, a 
+sus personajes y a lo que dicen, a la atmósfera opresiva del control disciplinario. 
+Sin embargo, también introduce una serie de variaciones que resultan relevantes 
+para recuperar la pregunta del comienzo sobre lo que ocurre cuando la ficción 
+toma como base a la ficción para referirse a un momento histórico. En primer 
+lugar, La mirada invisible no transcurre durante la guerra de Malvinas sino justo 
+antes, en marzo de 1982. María Teresa no tiene hermano, no hay acto del 25 de 
+mayo, no hay periodista extranjera que pregunte por la guerre. Si bien el contexto 
+sigue siendo el final de la dictadura militar, esto es, su exacerbación y su ocaso, 
+el desplazamiento temporal sitúa la mirada sobre otros factores de erosión. Apa­
+recen aquí los compañeros de María Teresa, otros preceptores que son jóvenes 
+y que escuchan rock, hacen fiestas, se emborrachan, se desean: representan un 
+cierto clima de época. Un poco por lástima, invitan a María Teresa a una de 
+sus fiestas; ella asiste pero sólo encuentra exclusión y burlas. La escena recorta 
+a María Teresa sobre el fondo de una juventud que es vida, potencia, futuro y 
+promesa de cambio y la convierte en excepción. Y no sólo los preceptores en la 
+84
+Lara Segade | 
+  XVI.1 (julio 2012) ISSN 0329-3807
+fiesta introducen la dimensión del deseo sexual, también en el colegio, adentro 
+del colegio, María Teresa encuentra a dos alumnos besándose. Esta escena remite 
+a una del libro, pero la transforma: en Ciencias morales era una alumna que, 
+le parece a María Teresa, se apoya levemente sobre un compañero a la salida 
+del colegio, es decir, afuera. En efecto, las insinuaciones de carácter sexual que 
+atravesaban la novela de Kohan –que la mirada obsesiva de la preceptora creía 
+descubrir en todas partes– son extremadas en La mirada invisible. El abuso de 
+Biasutto en el baño se convierte en violación. Y no se habla de “la cosa” como 
+un peligro, pues la imagen explicita el terror consumado. 
+Las primeras reflexiones de Foucault sobre el nacimiento del biopoder 
+aparecen en Historia de la sexualidad, en tanto el poder que regula la vida es 
+también y ante todo poder que regula la sexualidad en los dos ejes que lo defi­
+nen: regulación de las disciplinas del cuerpo y regulación de las poblaciones. 
+En este sentido, el sexo se sitúa en el centro del juego político. Esto quiere decir 
+no sólo que es objeto de las regulaciones sino también que es terreno de formas 
+de resistencia, ya que 
+contra este poder aún nuevo en el siglo XIX las fuerzas que resisten se apoya­
+ron en lo mismo que aquel invadía, es decir, en la vida del hombre en tanto 
+que ser viviente. Tenemos ahí un proceso de lucha muy real; la vida como 
+objeto político fue en cierto modo tomada al pie de la letra y vuelta contra el 
+sistema que pretendía controlarla (Foucault Historia de la sexualidad 175). 
+En este sentido resulta relevante la acentuación de las escenas sexuales que 
+realiza Lerman. La represión de María Teresa se torna aquí más claramente 
+sexual y es este conflicto interno el que la guía en su afán de control. Incluso, la 
+ambigüedad de la mirada de Baragli en Ciencias morales adquiere en la película 
+un claro contenido sexual y de esa forma la interpreta la preceptora, quien en 
+un momento dado se atreve a rozar la mano del alumno, lo cual constituye 
+una verdadera transgresión en su universo. Junto con la fuerte presencia de la 
+juventud que la encarna, la sexualidad se intuye en La mirada invisible como 
+una forma de resistencia. No una resistencia abierta, pero sí algo que sucede 
+efectivamente por fuera del control, que se opone a él y que representa, como 
+dijimos, las fuerzas del cambio. La libertad, tímidamente, comienza a aparecer 
+en la potencia de la vida que escapa al control de la muerte. Se trata, aquí, de 
+formas más explícitas de resistencia que ocurren en el nivel de la historia y que, 
+en el final, darán forma a la mayor variación de la película respecto del libro: 
+María Teresa asesina a Biasutto, se venga de la violación y escapa, dando forma 
+aquí sí a un modo abierto de resistencia al abuso de poder que en la novela de 
+Kohan está por completo ausente. Se trataba, en Ciencias morales, de un avance 
+imperceptible que se colaba como polvo por los intersticios del relato, sin decirse 
+nunca, sin formar realmente parte de lo narrado.
+En su reflexión sobre las ficciones del Estado, Ricardo Piglia alude también a lo 
+que serían los contrarrelatos: “historias de resistencia y oposición […] otros relatos 
+85
+  XVI.1 (julio 2012) ISSN 0329-3807 | Desde el desierto…: 73-87
+que circulan en la sociedad. Un contrarrumor, diría yo, de pequeñas historias, 
+ficciones anónimas, microrrelatos, testimonios que se intercambian y circulan” 
+(Piglia). Y como ejemplo cita una suerte de rumor que corrió entre 1978 y 1979, en 
+los años de la posibilidad de un conflicto con Chile, según el cual se había visto un 
+tren con féretros que iba hacia el Sur. Si por un lado, este relato anticipa la guerra 
+de Malvinas –el Sur–, “donde los soldados iban a morir y donde iban a tener que 
+ser enterrados”; por el otro, remite “a los desaparecidos, a los cuerpos sin sepultura” 
+(Piglia). Es decir, este microrrelato condensa también el vínculo que se establecería, 
+unos pocos años más tarde, entre la dictadura y la guerra, entre ambas formas de 
+muerte sin sepultura, entre ambas heridas abiertas y también, entre las jóvenes 
+víctimas de una y de otra. En el contexto de la guerra de Malvinas, el rumor es 
+también, efectivamente, un modo privilegiado de circulación de relatos por fuera 
+de los relatos oficiales –los de los comunicados militares, los discursos políticos y 
+la prensa que rezaban que Argentina iba ganando cuando, en realidad, iba per­
+diendo. Historias como la de un chocolate comprado en un kiosco del Sur que 
+traía adentro la carta de un niño a un soldado circularon de boca en boca durante 
+los días del conflicto y constituyeron los primeros modos de relatar una guerra 
+distinta a la que se veía por televisión. Estas historias inverosímiles, subterráneas, 
+tristes, pasarían a integrar, una vez terminada la guerra y llegada la democracia, un 
+nuevo relato oficial –estatal, en términos de Piglia– sobre el conflicto, que Martín 
+Kohan por su parte llamará “versión del lamento” y relacionará con las versiones 
+triunfalistas a las que antes se oponían. En este sentido, cabe pensar que, aunque 
+no ahonda en ellas, La mirada invisible permite intuir estas historias al mostrar 
+el mundo en que circulan. Y es que, como sostiene también Piglia, la literatura 
+constituye el contexto mayor de estos contrarrelatos porque tiene la posibilidad no 
+sólo de decir, sino también de mostrar. Cabe preguntarse, entonces, qué muestra 
+Ciencias morales, o más precisamente, qué muestra ese narrador víctima y cómplice 
+del relato estatal, de sus modalidades y sus falencias. 
+Epílogos 
+En el último capítulo de Ciencias morales ya ha terminado la guerra y de un día 
+para el otro las autoridades del Colegio Nacional fueron removidas y reemplazadas. 
+El narrador también desaparece y es sustituido por otro diferente, que llama a las 
+cosas por su nombre. Habla de la guerra, de la dictadura; el hermano de María 
+Teresa se llama ahora Francisco Cornejo. Es el después de la historia, una suerte de 
+epílogo que corresponde ya casi a la llegada de la democracia. La mirada invisible 
+también tiene un epílogo, separado por los títulos del resto de la película y que 
+constituye un después de la historia. Pero el desplazamiento temporal provoca que 
+este después sea el de Malvinas. Y también aquí hay una suerte de “aumento”: si en 
+la novela de Kohan el nuevo narrador llevaba a pensar en un nuevo modo de relatar, 
+con más palabras y menos silencios, un modo, si se quiere, más cercano al informe 
+que al relato ficcional; en la película, lo que aparece es una imagen documental, de 
+86
+Lara Segade | 
+  XVI.1 (julio 2012) ISSN 0329-3807
+archivo. Es la de Galtieri hablando en Plaza de Mayo el 2 de abril de 1982. Una 
+imagen emblemática, que constituye un núcleo central de los relatos de la guerra 
+y que casi cualquier argentino conoce, que incluso fue interpretada posteriormente 
+como uno de los motivos del enfrentamiento armado. Una imagen, por lo tanto, 
+cargada de significado. “Si quieren venir que vengan, les presentaremos batalla”, 
+dice Galtieri y la multitud en la plaza aplaude. 
+La ficción, sobre el final, se hace a un lado y el relato queda a cargo de otros 
+registros, informativos y hasta documentales. ¿Qué decir, sobre este retraimiento 
+de la ficción y cómo pensarlo en relación con las transformaciones que la película 
+opera sobre el libro? Resulta significativo que sea Malvinas el objeto de este 
+nuevo modo de relato en La mirada invisible. Desplazada del rol que le cabía en 
+Ciencias morales, la guerra parece convertirse en algo ajeno al relato, que guarda 
+una relación puramente secuencial con él. Tal vez sea por fidelidad a la novela 
+que se incluye esta última escena y la elección de la imagen documental esté 
+motivada por el potencial sintético que ofrece. No hay que decir nada, ya se sabe 
+lo que sigue: después vino Malvinas. Pero esto, lejos de constituir una forma 
+de fidelidad, en realidad constituye el punto de mayor distancia de la película 
+respecto del libro. Pues en el libro, el narrador cuenta la historia sin nombrar 
+Malvinas y, al hacerlo, muestra que la guerra y la dictadura estuvieron ligadas, 
+en sus actores, en sus modalidades y sobre todo en sus destinos. Los dos narra­
+dores de Ciencias morales implican dos modos de narrar que, en su contraste, 
+explicitan una propuesta narrativa para la experiencia traumática de la dictadura 
+que se vincula con la propuesta teórica de Kohan que citábamos al comienzo. La 
+película, y esto constituye el mayor alejamiento, no posee una propuesta narra­
+tiva semejante. Se cuenta una historia que es, ante todo, una historia individual 
+–la de María Teresa, sus represiones y sus obsesiones, su rebelión final– y cuyo 
+trasfondo es el del final de la dictadura. La opresión, la disciplina, el personaje 
+mismo de Biasutto configuran un contexto en el que se integra, también, al final, 
+la guerra de Malvinas. Las formas de resistencia que mencionábamos son más 
+explícitas precisamente por esto, porque deben ocupar su lugar en una trama 
+argumental más simple, más lineal. Si hay un abuso, ciertas formas consolidadas 
+del relato requieren una venganza, independientemente de cuál sea el contexto 
+mayor en que el abuso se produce. La posibilidad de presentar una visión del 
+pasado reciente distinta a la de los relatos consolidados queda obturada por el 
+gesto que sujeta la historia de Kohan a otra historia estandarizada, conocida, 
+una historia de venganza parecida a las demás. 
+En Ciencias morales, en cambio, si a las fuerzas del orden corresponde la 
+ambición de la mirada total, la narración se sitúa de su lado para mostrar que esa 
+mirada es, sobre todo en 1982, imposible y así señala que los relatos del poder 
+son tan ficcionales como cualquier otro. De este modo, revoca la potestad de 
+esos relatos de asignar nombres en el terreno de lo “verdadero” y apuesta por la 
+ficción en el marco de la necesidad de construir un relato otro sobre el pasado 
+87
+  XVI.1 (julio 2012) ISSN 0329-3807 | Desde el desierto…: 73-87
+reciente y la guerra de Malvinas. Y esto constituye una forma menos evidente, 
+pero por eso mismo más poderosa, de resistencia. 
+Referencias bibliográficas
+Altamirano, Carlos y Beatriz Sarlo. “Prólogo”. Esteban Echeverría. Obra escogida. 
+Caracas: Biblioteca Ayacucho, 1991. IX-LVI.
+Batticuore, Graciela et al. (Comps). Fronteras escritas. Rosario: Beatriz Viterbo, 
+2008.
+Blanco, Oscar et al. “Transhumantes de neblina, no las hemos de encontrar”. 
+Espacios de crítica y producción 13 (1993): 82-86.
+Cittadini, Fernando y Graciela Speranza. Partes de guerra. Buenos Aires: Edhasa, 
+2007.
+Dalmaroni, Miguel. La palabra justa: literatura, crítica y memoria en la Argentina, 
+1960-2002. Santiago de Chile: Melusina, 2004.
+Foucault, Michel. Historia de la sexualidad 1. La voluntad de saber. Buenos Aires: 
+Siglo XXI, 2005.
+—. Vigilar y castigar. Buenos Aires: Siglo XXI, 2009.
+Freud, Sigmund. Lo siniestro. Buenos Aires: Ediciones Noé, 1973.
+Gamerro, Carlos. Las islas. Buenos Aires: Simurg, 1998.
+Halperín Donghi, Tulio. Una Nación para el Desierto Argentino. Buenos Aires: 
+Prometeo, 2005.
+Iluminados por el fuego. Dir. Tristán Bauer. Act. Gastón Pauls, Juan Leyrado, 
+Virginia Innocenti y Juan Palomino. Mediapro / INCAA, 2005. Fílmico.
+Kohan, Martín. “El fin de una épica”. Punto de vista 64 (1999): 6-11.
+—. Dos veces junio. Buenos Aires: Sudamericana, 2005.
+—. Ciencias Morales. Buenos Aires: Anagrama, 2007.
+La mirada invisible. Dir. Diego Lerman. Act. Julieta Zylberberg y Osmar Núñez. 
+El Campo Cine, 2010. Fílmico. 
+Los chicos de la guerra. Dir. Bebe Kamin. Act. Gustavo Belatti, Héctor Alterio, 
+Tina Serrano y Emilia Mazer. Cinemagroup, 1984. Fílmico. 
+Pauls, Alan. “Malvinas’ 78”. Radar, suplemento cultural de Página 12. 1 de junio 
+2008. 
+Piglia, Ricardo. “Tres propuestas para el próximo milenio”. Radar, suplemento 
+cultural de Página 12. 23 de diciembre 2001.
+Rodríguez, Fermín. Un desierto para la nación. Buenos Aires: Eterna cadencia, 
+2010. 
+Sarlo, Beatriz. “Sujetos y tecnologías. La novela después de la historia”. Punto 
+de vista 74 (2006): 1-6.
+Sarmiento, Domingo. Facundo. Buenos Aires: Cántaro, 2003. 
+Fecha de recepción: 05/04/2011 / Fecha de aceptación: 13/06/2011

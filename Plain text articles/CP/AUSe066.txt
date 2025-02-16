@@ -1,0 +1,609 @@
+Est (…) virtuti etiam in lectulo locus: una nueva forma de 
+ejemplaridad en Sen., Ep. LXXVII Y LXXVIII 
+Soledad Correa
+soledad.correa@conicet.gov.ar
+Universidad de Buenos Aires – CONICET, Argentina
+Recepción: 30 Octubre 2020
+Aprobación: 06 Noviembre 2020
+Publicación: 01 Septiembre 2021
+Resumen:  El presente artículo sostiene que en las Ep. LXXVII
+y LXXVIII Séneca utiliza el discurso ejemplar críticamente con
+el objetivo de mostrar que la evaluación moral de una acción
+no es unívoca, lo cual habilita vías alternativas para convertirse
+en un héroe ejemplar. En particular, la Ep. LXXVIII enfatiza
+cómo la capacidad de superar las molestias físicas y psicológicas
+de una enfermedad crónica puede permitirle al proﬁciens estoico
+alcanzar un estatus ejemplar. La narratio autobiográﬁca situada
+al comienzo de esta carta guía la atención del lector hacia el
+ego epistolar en tanto exemplum viviente de lo que la epistula
+deﬁende.
+Palabras clave: Séneca, Ep. LXXVII y LXXVIII, Ejemplaridad.
+Abstract:  This paper argues that in Ep. LXXVII and LXXVIII
+Seneca intends to use exemplary discourse critically in order to
+show that the moral evaluation of an action is not univocal,
+which leaves the door open for the possibility to conceive
+alternative ways of becoming an exemplary hero. Ep. LXXVIII
+places particular emphasis on how the capacity to overcome the
+physical and psychological inconveniences of a chronic illness
+can help the Stoic proﬁciens to achieve exemplary status. The
+autobiographical narratio situated at the beginning of this letter
+guides the reader’s attention to the epistolary ego as a living
+exemplum of what the epistula defends.
+Keywords: Seneca, Ep. LXXVII and LXXVIII, Exemplarity.
+1. Introducción
+A lo largo de su colección epistolar, Séneca1 muestra cómo el miedo a la muerte2 proyecta sobre la vida
+humana una terrible sombra. La reﬂexión sobre la propia ﬁnitud se convierte, entonces, en la lección
+más difícil, pero también la más importante, que debe asumir todo aquel que busque la felicidad de la
+calma ﬁlosóﬁca. En particular, el tratamiento recurrente del tema del suicidio3, especialmente en las cartas,
+constituye un aspecto de los textos senecanos que ha despertado el interés de los estudiosos4. Las descripciones
+de suicidios presentes en las Epistulae invitan al lector a visualizar a sus protagonistas envueltos en un acto
+ﬁnal de autopresentación5. Ahora bien, a pesar del énfasis que estas cartas colocan en el tema del suicidio,
+en la Ep. LXXVIII Séneca ilustra con su propio exemplum cómo, bajo determinadas circunstancias, no
+quitarse la vida puede también ser considerado como una acción valerosa. En este trabajo centraremos nuestra
+atención en ella con el objetivo de poner a prueba dos hipótesis: en primer lugar, dado que en la carta anterior
+(Ep. LXXVII) se presenta el exemplum de Marcelino, quien decide quitarse la vida por estar enfermo (Ep.
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación 
+Centro de Estudios Latinos
+ARTÍCULOS/ARTICLES
+Cita sugerida: Correa, S. (2021). Est (…) virtuti etiam in lectulo 
+locus: una nueva forma de ejemplaridad en Sen., Ep. LXXVII Y 
+LXXVIII. Auster, (26), e066. https://doi.org/10.24215/23468890e066 
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+LXXVII, 5), y en la carta que nos ocupa esta situación se invierte, intentaremos mostrar cómo Séneca utiliza
+críticamente el discurso ejemplar para llevar a sus destinatarios a reﬂexionar no sólo sobre el problema de
+que la evaluación moral de una acción, en tanto no es unívoca, no puede hacerse de una manera apresurada
+que desestime la importancia de la motivación, sino también sobre la posibilidad de concebir nuevas maneras
+para el ejercicio de un comportamiento heroico y ejemplar6. En segundo lugar, procuraremos demostrar que
+Séneca consigue, a partir de la narratio autobiográﬁca que ocupa el comienzo de la carta, dirigir la atención
+del lector hacia su propia condición de exemplum viviente, lo que conﬁere especial auctoritas al discurso
+parenético que ocupa el resto de la epistula.
+2. La narratio del suicidio de Marcelino en la Ep. LXXVII
+Antes de proceder con el análisis de la Ep. LXXVIII, resultará de suma utilidad detenerse en algunos pasajes
+de la carta precedente, la Ep. LXXVII, que arrojarán luz sobre la lectura que aquí propondremos. Esta carta
+comienza por presentar una imagen de Séneca totalmente desinteresado de sus asuntos ﬁnancieros, que
+aﬁrma no experimentar ningún deseo de conocer el estado de sus cuentas en Egipto, una vez constatada la
+posibilidad de vivir con poco (§3). El desinterés por los vaivenes de la fortuna da pie para introducir la idea
+de que la vida no es un camino que necesite ser recorrido hasta el ﬁnal (§3). Esta aﬁrmación es ilustrada
+con la narración de una fabella sobre la muerte voluntaria (§7) de Tulio Marcelino7 (§§5-10). Vale la pena
+demorarse en el empleo del término fabella (subrayado en tanto se repite dos veces en §10), derivado de
+fabula, que también ocurre hacia el ﬁnal de la carta (§20). Si bien uno de sus sentidos posibles se reﬁere a un
+relato breve con ﬁnalidad moralizante8, lo que aquí queremos enfatizar es el valor primigenio del término en
+tanto diminutivo9. De esta manera, en una primera lectura podríamos pensar que nos encontramos frente
+al uso habitual del diminutivo para expresar pequeñez, de acuerdo con lo cual fabella sería entonces una
+“narración breve” que ocupa solo una pequeña porción de la carta. Con todo, podría tratarse también de
+un empleo del diminutivo para indicar defecto, es decir, para marcar una carencia del derivado frente a la
+base con un claro valor peyorativo10. Para la lectura que proponemos, será útil, no obstante, mantener activo
+el sentido de “relato breve con ﬁnalidad moralizante”, en tanto, a nuestro juicio, el empleo de este término
+constituirá una pista falsa que exigirá que el lector agudice su capacidad de dilucidar críticamente si lo que
+aquí se le propone es o no efectivamente una historia ejemplar.
+Con todo, no solo el empleo del diminutivo con posible valor peyorativo guía nuestra interpretación
+en este sentido, sino que hay varios otros elementos en esta fabella que se encuentran en la misma línea y
+que parecen sugerir que el estatuto ejemplar de la narratio sobre la muerte de Marcelino es, por lo menos,
+ambiguo. En primer lugar, se trata de un suicidio poco justiﬁcado racionalmente, en tanto el joven se
+encuentra aquejado por una enfermedad curable (non insanabili), aunque “larga, molesta y que demanda
+mucha atención” (§5). Asimismo, los amici que lo rodean no son verdaderos amici sino serviles aduladores
+(§5). Por otra parte, un personaje prominente en esta carta, el Stoicus amicus, quien se desempeña como
+una suerte de director de facto de la puesta en acto de la voluntaria mors de Marcelino, dirige el suicidio
+argumentando que el deseo de morir no solo puede afectar al prudente, al valeroso, o al desdichado, sino
+también al hastiado de la vida (§6). Este último parece ser el caso de Marcelino, quien aparentemente decide
+poner ﬁn a su vida por la imposibilidad de soportar las molestias propias de su enfermedad. Por añadidura,
+a diferencia del modo en que Séneca se presenta en el inicio de esta carta (§3), Marcelino no se muestra
+precisamente desprendido en sus momentos ﬁnales y necesita que el Stoicus amicus le aconseje (admonuit,
+§8) cómo proceder con su fortuna. Y cuando ﬁnalmente la distribuye hace entrega de minutas…summulas
+(§8) a sus siervos.
+Esta carta, que Séneca cierra con un alegato a favor del suicidio como libertatis via11 (§§11-20), concluye
+con una analogía entre vita y fabula:
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+2
+Quomodo fabula, sic vita: non quam diu, sed quam bene acta sit, refert. Nihil ad rem pertinet quo loco desinas. Quocumque
+voles desine: tantum bonam clausulam inpone (LXXVII, 20)12.
+“Como una obra de teatro, así es la vida: no importa cuánto dura, sino cuán bien representada ha sido. No atañe a la cuestión
+en qué lugar termines. Termina donde quieras, tan solo prepara un buen ﬁnal”.
+Este ﬁnal sugiere, a nuestro juicio, que la historia de Marcelino no alcanza el estatuto de fabula y que su
+fabella no tuvo una bona clausula, es decir, no tuvo un cierre apropiado desde un punto de vista ético, pues
+su voluntaria mors no constituyó una partida racional de la vida13, sino una huida de las molestias de una
+enfermedad que, en última instancia, era curable14. Consideramos que el texto habilita la posibilidad de esta
+lectura que, en un principio, puede parecer contraintuitiva, ya que una narratio en la que un estoico alienta al
+suicidio nos predispone a pensar que estamos ante un exemplum de signo positivo, dado que, si es la muerte lo
+que inspira el terror de los hombres, lo valeroso es hacerle frente y despreciar la vida. De hecho, en numerosas
+cartas el suicidio es celebrado como la demostración suprema de que el miedo a la muerte ha sido vencido. En
+esto Séneca se muestra de acuerdo con la ética estoica, que valida y, en algunos casos, incluso alienta, que el
+proﬁciens se dé muerte a sí mismo, en la medida en que, como ya indicamos, la muerte se asocia estrechamente
+con libertas, concebida como una “total independencia de la persona de todas las pasiones y de todos los deseos
+equivocados”15. Más aun, obstinarse en sobrevivir en medio de las peores dolencias físicas es considerado
+como un deseo torpe e innoble16. Con todo, esta carta, a partir del empleo del término fabella, deja abierta la
+posibilidad de que estemos ante un exemplum de nulo valor moral17, cuya presentación, no obstante, resultará
+clave no solo para la recepción del exemplum que tiene como protagonista al joven Séneca en la carta siguiente,
+sino también para propiciar una profunda reﬂexión sobre la índole misma de la ejemplaridad.
+3. El fallido suicidio de Séneca en la Ep. LXXVIII
+La Ep. LXXVIII comienza de manera poco ﬁlosóﬁca, con una referencia al estado de salud de Lucilio.
+Debemos tener presente, con todo, que estamos ante el artiﬁcio del narrador, quien no nos está narrando una
+historia, sino presentándonos un drama de relevancia ﬁlosóﬁca:
+Vexari te destillationibus crebris ac febriculis, quae longas destillationes et in consuetudinem adductas sequuntur, eo
+molestius mihi est quia expertus sum hoc genus valetudinis, quod inter initia contempsi –poterat adhuc adulescentia iniurias
+ferre et se adversus morbos contumaciter gerere– deinde succubui et eo perductus sum ut ipse destilaren, ad summam maciem
+deductus (LXXVIII, 1).
+“Los frecuentes catarros y febrículas que padeces, resultado de los catarros prolongados devenidos crónicos, me producen
+un disgusto tanto mayor cuanto que yo tengo experiencia en esta clase de enfermedad, de la que al principio no hice caso:
+todavía mi juventud podía soportar sus rigores, y conducirse con altivez frente a las enfermedades. Luego sucumbí y llegué
+a tal extremo que me caía a pedazos llegando a una delgadez extrema”.
+Como podemos ver, lo que le ocurre al tu se convierte en el puntapié inicial para narrar lo que en otro
+tiempo le ocurrió al ego18. Aquí, al igual que en la Ep. LIV, cuya anécdota autobiográﬁca inicial tiene por tema
+una de las frecuentes crisis de ahogo padecidas por Séneca, que también da pie a la reﬂexión moral posterior,
+la enfermedad y la muerte no son solo objeto de meditación, sino experiencia vivida19. El comienzo de esta
+narratio tiene como protagonista central al joven Séneca, como ya adelantamos, quien se conﬁgura en perfecta
+sintonía con el estoicismo más ortodoxo, que, al concebir al cuerpo entre los indiﬀerentia20, considera que la
+capacidad de elevarse por encima del dolor es propia de los individuos altamente virtuosos21. En efecto, no
+obstante su juventud, Séneca desestima inicialmente los embates de la enfermedad y quiere hacerles frente,
+pero sucumbe ante su virulencia:
+3
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+Saepe impetum cepi abrumpendae vitae: patris me indulgentissimi senectus retinuit. Cogitavi enim non quam fortiter ego
+mori possem, sed quam ille fortiter desiderare non posset. Itaque imperavi mihi ut viverem; aliquando enim et vivere fortiter
+facere est (LXXVIII, 2).
+“A menudo sentí el impulso de arrancarme la vida: fue la vejez de mi benignísimo padre la que me contuvo. En efecto, pensé
+no en la entereza que yo tendría para morir, sino en la que a él le faltaría para soportar mi separación. Por consiguiente, me
+ordené seguir viviendo, porque a veces incluso vivir supone obrar con valentía”.
+Hay aquí una sutil jactancia de parte de Séneca que involucra su capacidad para enfrentar la muerte con
+entereza, aun cuando asegura a sus lectores, a partir de una disposición en quiasmo, que su propia fortaleza
+no fue su consideración principal22. Según advertimos, a diferencia de Marcelino, Séneca, ante la misma
+situación, ha sustentado su decisión en un cálculo racional (cogitavi) que le ha permitido no solo resistir
+los embates de una virulenta enfermedad a nivel físico y psíquico, sino también ignorar el repetido impulso
+irreﬂexivo que lo incitaba a abandonar la vida. De esta manera, el joven Séneca que se proyecta en esta carta
+adquiere una dimensión ejemplar, pues, a partir de una consideración propia de un vir fortis et sapiens, se
+muestra capaz de resistir la libido moriendi23. Esta dimensión se ve realzada por el hecho de que, aunque aquí
+Séneca se presenta como alieni iuris (su padre aún está vivo), la orden de permanecer con vida proviene de sí
+mismo, lo que suma un elemento más a la hora de encarecer su propia y precoz ejemplaridad en tanto, como
+aﬁrmará más adelante en las cartas, el dominio (imperium) de sí mismo es el máximo dominio24.
+A continuación, Séneca procede a mostrar los consuelos (solacia, §3) que tuvo durante este difícil trance
+vital y señala que no solo lo alejó del suicidio la consideración de su padre, sino que la ﬁlosofía tuvo un papel
+clave a la hora de salvarle la vida:
+Studia mihi nostra saluti fuerunt; philosophiae acceptum fero quod surrexi, quod convalui; illi vitam debeo et nihil illi minus
+debeo (LXXVIII, 3).
+“Nuestros estudios fueron los que me salvaron. Pongo en el haber de la ﬁlosofía el hecho de que me salvé, que me curé. A
+ella le debo nada menos que la vida”.
+No es la primera vez en el epistolario que Séneca enfatiza el efecto transformador que el encuentro con
+la ﬁlosofía ha tenido sobre su vida25, hecho que ocurre cuando ésta no es tomada como doctrina sino como
+método de vida, como habitus animi26, algo que, por lo demás, es propio de la ﬁlosofía del período helenístico.
+La ﬁlosofía toma entonces el lugar de su padre biológico, como inspiración y causa de su recuperación; es
+decir, el considerar la debilidad de su anciano padre impide que muera, pero es la ﬁlosofía la que, de hecho,
+lo inspira a seguir viviendo. Vemos entonces que en el joven Séneca conﬂuyen los roles tanto de Marcelino
+como del Stoicus amicus o, dicho de otra manera, Séneca, a diferencia de Marcelino, ha abrazado la ﬁlosofía
+en primera persona y es, por lo tanto, a la vez actor y director de su propia fabula. De esta manera, es su propio
+cálculo racional lo que le permite arribar a la decisión de permanecer con vida, mientras que Marcelino parece
+seguir un protocolo que le es dictado desde afuera por el Stoicus amicus.
+Seguidamente, como ocurre a menudo en la prosa senecana, la narratio toma otro giro, en tanto se
+aﬁrma que no fue solo la abstracción de la ﬁlosofía la que lo mantuvo con vida, sino que sus amici, con sus
+exhortaciones, vigilancia y conversación (adhortationibus, vigiliis, sermonibus, §4), contribuyeron en gran
+medida a su recuperación (mihi contulerunt ad bonam valetudinem ‹et› amici, §4), pues
+Nihil aeque, Lucili, virorum optime, aegrum reﬁcit atque adiuvat quam amicorum adfectus, nihil aeque expectationem
+mortis ac metum subripit (…) (LXXVIII, 4).
+“Nada, Lucilio, el más perfecto entre todos los varones, repone al enfermo y lo ayuda tanto como el afecto de los amigos;
+nada sustrae tanto la expectativa y el temor a la muerte”.
+Nótese que, a diferencia de lo que ocurre en la fabella de Marcelino, aquí los amici desempeñan un papel
+central en tanto sostén afectivo. Por otra parte, esta insistencia en el papel de los amici no parece casual, en
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+4
+tanto en la Ep. LXX, 9 se aﬁrma que también Sócrates pospuso su muerte por consideración a sus amigos27.
+Es decir, esta mención suma un elemento más a la presentación ejemplar que Séneca hace de sí mismo. Ahora
+bien, aunque el comienzo de la carta oscila entre tres razones muy diferentes que impulsaron al joven Séneca a
+permanecer con vida (i.e., su padre, la ﬁlosofía, sus amici), la ﬁlosofía, concebida como medicina del espíritu28,
+vuelve al ﬁnal como el principal motivo, en tanto se indica que la mejor prescripción que puede darse a un
+enfermo es el desprecio de la muerte (§5).
+La anécdota autobiográﬁca con la que se inicia esta carta tiene entonces varios puntos en común con la
+fabella presentada en la epistula precedente: en ambos casos hay una enfermedad que lleva a quien la padece a
+contemplar la posibilidad del suicidio, que posee un matiz social y teatral en tanto hay intentos de disuasión,
+amici, consolationes. Asimismo, la ﬁlosofía ﬁgura de manera prominente en ambas escenas, que exhiben todos
+los lugares comunes presentes en los relatos de suicidios en época imperial29. Con todo, en la Ep. LXXVIII
+hay una inversión del papel que se le asigna a la ﬁlosofía, pues, si en la carta anterior, a través del Stoicus amicus,
+suministra a Marcelino una serie de argumentos y una suerte de protocolo para abandonar la vida30, aquí
+convoca a Séneca a seguir viviendo. Esto bien puede tener que ver con el hecho de que la posición senecana
+respecto del suicidio incluye siempre una oposición parcial al mismo31. En efecto, en todo momento el foco
+está puesto en el suicidio como resultado de una decisión o cálculo racional32, ya que, con respecto al problema
+de si la muerte debe ser anticipada o esperada, en caso de que una violencia externa nos conmine a ella, no
+es posible decidir de forma general33, sino que siempre se necesita una consideración cuidadosa y este es el
+ejercicio ﬁlosóﬁco más importante que el proﬁciens puede asumir. Apresurarse a huir de las diﬁcultades de
+la vida puede indicar cobardía, pues cada uno debe conﬁar en su propio juicio para darse cuenta cuándo es
+conveniente retirarse honorablemente de la escena. Con todo, esta diferencia que advertimos entre ambas
+cartas también puede indicar que Séneca buscar promover la reﬂexión sobre el hecho de que la virtus se ha
+vuelto más contextual, más ﬂexible, en tanto puede manifestarse de manera muy diferente en circunstancias
+diferentes y un comportamiento que es adecuado en un determinado momento puede no ser correcto en
+otro. A partir de esto, consideramos que la yuxtaposición de ambas cartas evidencia un uso crítico del discurso
+ejemplar y produce como efecto de lectura la necesidad de atender al hecho de que la evaluación moral
+de una acción no puede hacerse de manera unívoca, sino que hay que contemplar que la ﬂexibilidad o
+variabilidad situacional es una característica central del uso de exempla. Esta sensibilidad situacional involucra
+la capacidad de juzgar cuáles son los requerimientos especíﬁcos de la propia situación cuando se está tomando
+una decisión moral, es decir, sintonizar el propio comportamiento con las exigencias del momento34.
+Además de subrayar la diversidad situacional, otra consecuencia de la yuxtaposición de estas cartas es que
+la misma permite concebir nuevas e inusitadas maneras para el ejercicio de un comportamiento heroico
+y ejemplar, es decir, una voluntaria mors no es necesariamente la única o la mejor forma de ofrecerse
+como exemplum, pues, frente a una experiencia que parece amenazar la existencia y anular la posibilidad de
+elección, optar por seguir viviendo y enfrentar heroicamente las molestias propias de una enfermedad crónica
+puede ser igualmente ejemplar35. Dicho de otra manera, una aparente y, en principio, poco espectacular
+inacción también puede ofrecer ocasión para la ejemplaridad. En esta carta asistimos entonces a una suerte
+de deconstrucción o puesta en entredicho de lo aﬁrmado en la carta precedente, en la que, en su exhortación,
+el Stoicus amicus –utilizando la metáfora a la manera senecana36, es decir, como un instrumento para ayudar a
+Marcelino a alcanzar la visión correcta de las cosas a ﬁn de traducirlas y verlas como en realidad son– sostiene
+que estar vivo es algo que compartimos con criaturas de baja condición y que la muerte no es algo negativo,
+sino una oportunidad para alcanzar la gloria (Ep. LXXVII, 6).
+A continuación, veremos cómo esta anécdota inicial (§§1-4) funcionará como catalizadora de la reﬂexión
+ﬁlosóﬁca posterior (§§5-29), cuyo énfasis estará puesto en la idea de que la enfermedad puede concebirse
+como una nueva arena para el ejercicio de una virtus de valencias ya no marciales sino éticas. Una vez
+ﬁnalizada la narratio, Séneca, que se construye en el texto como peritus en el tema (más adelante se referirá
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+5
+a sus adversarii como inperiti, §10), procede a detallar los motivos de aﬂicción en la enfermedad: miedo a
+la muerte, dolor corporal e interrupción de los placeres. Con respecto al primer temor, vemos que utiliza
+un modo de argumentar que presenta puntos en común con el del Stoicus amicus de la Ep. LXXVII y, así,
+advertimos su empeño por que el destinatario logre rectiﬁcar un juicio errado y alcance una visión correcta
+de las cosas37. Con agudeza epigramática expresa entonces que lo que produce la muerte, paradójicamente,
+no es la enfermedad sino el hecho de estar vivo:
+Morieris, non quia aegrotas, sed quia vivis. Ista te res et sanatum manet; cum convalueris, non mortem sed valetudinem
+eﬀugeris (LXXVIII, 6).
+“Morirás no por estar enfermo, sino porque estás vivo. Esto es lo que te espera, incluso si estás sano: una vez que te hayas
+recuperado, habrás escapado no de la muerte, sino de la enfermedad”.
+Mayor espacio se dedica a contrarrestar el segundo motivo de preocupación que causa la enfermedad, esto
+es, el dolor físico (§§7-21). Si bien se sugiere una serie de estrategias para enfrentarlo, nos centraremos en
+aquellas que se relacionan más directamente con el tema que nos ocupa. Como puede verse, hay todo un
+despliegue de recursos terapéuticos (argumentos, exempla, solacia) que remiten a la conocida trayectoria de
+Séneca como consolator38. Al igual que en la Ep. LIV, esta consolatio dirigida a sí mismo39 resultará de utilidad
+tanto para Lucilio como para futuros lectores. La primera estrategia consolatoria consiste en considerar que
+la intensidad máxima del dolor determina su ﬁn (nótese el módulo típico del esquema demostrativo necesse
+est), pues nadie puede sentir grandes dolores por largo tiempo40. De esta manera, el dolor puede encuadrarse
+dentro de una tipología, según la cual es o bien soportable, o bien breve (§7):
+Hoc itaque solacium vasti doloris est, quod necesse est desinas illum sentire si nimis senseris. Illud autem est quod inperitos
+in vexatione corporis male habet: non adsueverunt animo esse contenti; multum illis cum corpore fuit. Ideo vir magnus ac
+prudens animum diducit a corpore et multum cum meliore ac divina parte versatur, cum hac querula et fragili quantum
+necesse est (LXXVIII, 10).
+“Por consiguiente, este es el consuelo de un dolor intenso: que es necesario que dejes de sentirlo si lo sientes demasiado. En
+cambio, esto es lo que pone mal a los ignorantes cuando sufren corporalmente: no haberse acostumbrado a estar satisfechos
+en su espíritu; se ocuparon mucho de su cuerpo. Por eso el varón noble y prudente separa el espíritu del cuerpo y se dedica
+a su parte mejor y divina, a esta quejosa y frágil solo lo necesario”.
+Como ya señalamos, el estoicismo considera que el cuerpo y aquello que puede afectarlo se encuentra entre
+los indiﬀerentia, es decir, aquellas cosas que no afectan nuestra capacidad para vivir una buena vida, cuya única
+condición es la posesión de la virtus. Sin embargo, según veremos, la virtus puede desplegarse especialmente
+en el enfrentamiento con estos indiﬀerentia (enfermedad, dolor, pobreza, exilio, muerte)41. De acuerdo con
+Edwards42, esto produce una tensión, que los textos senecanos no resuelven, entre una exploración obsesiva
+y detallada de la realidad del dolor corporal43 y la aﬁrmación de que el proﬁciens debería intentar mantenerse
+alejado de los placeres y dolores del cuerpo dedicándose a su parte superior y divina44.
+Otra de las estrategias consolatorias que esta carta presenta para hacer frente al dolor tiene que ver con la
+consideración del mismo como un mal de opinión. De acuerdo con esto, cada uno es tan desgraciado como
+imagina serlo:
+Noli mala tua facere tibi ipse graviora et te querelis onerare: levis est dolor si nihil illi opinio adiecerit. Contra si exhortari te
+coeperis ac dicere 'nihil est aut certe exiguum est; duremus; iam desinet', levem illum, dum putas, facies. Omnia ex opinione
+suspensa sunt; non ambitio tantum ad illam respicit et luxuria et avaritia: ad opinionem dolemus (LXXVIII, 13).
+“No vayas tú mismo a agravarte los males y a cargarte de quejas; es leve el dolor si la opinión no le agrega nada. Al contrario,
+si comienzas a estimularte y a decirte: ‘No es nada, o, al menos, es insigniﬁcante; soportémoslo, ya pasará’, lo harás leve,
+mientras así lo consideres. Todo depende de la opinión. No solo la ambición, la sensualidad y la avaricia la tienen en cuenta:
+sufrimos de acuerdo con la opinión”.
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+6
+Esta concepción abre una posibilidad terapéutica, pues se trata entonces de rectiﬁcar una opinio errada o,
+en todo caso, de no estimularla con pensamientos que la aumenten. Por supuesto, todo esto contribuye a
+reforzar la imagen de peritus en este tema que Séneca construye para sí.
+Cerca de la conclusión, la carta aborda el último de los temores que produce la enfermedad, a saber, la
+interrupción de los placeres (§§22-24), frente a lo cual se aconseja el cultivo de placeres minimalistas. Una vez
+más, el destinatario es conducido a alcanzar una visión correcta de las cosas, de tal suerte que la enfermedad
+se convierte en una oportunidad para sanarse:
+'O infelicem aegrum!' Edet quantum concoquat; non iacebit in conspectu aper ut vilis caro a mensa relegatus, nec in
+repositorio eius pectora avium (totas enim videre fastidium est) congesta ponentur. Quid tibi mali factum est? cenabis
+tamquam aeger, immo aliquando tamquam sanus (LXXVIII, 24).
+“ ‘¡Oh desdichado del enfermo!’ Comerá cuanto pueda digerir. No yacerá ante su vista un jabalí desterrado de la mesa como
+vil manjar, ni se colocará en su bandeja un montón de pechugas de aves (pues ver las aves enteras produce náuseas). ¿Qué mal
+se te ha ocasionado? Comerás como un enfermo o mejor, por una vez, como un hombre sano”.
+Ahora bien, nos interesa detenernos en la tercera estrategia para hacer frente al dolor que Séneca presenta
+en esta carta, pues involucra el concebirlo no sólo como una oportunidad para alcanzar la virtus, sino también
+como una manera de ofrecer un exemplum que pueda ser útil a otros45. Según Edwards (“The Suﬀering Body:
+Philosophy and Pain in Seneca’s Letters”), el énfasis que las Ep. colocan en el dolor como un aspecto central
+de la condición humana –énfasis que, por otra parte, es característico del estoicismo romano– tiene que ver
+con el papel que el dolor como espectáculo desempeña en la cultura romana46. De acuerdo con esto y en vista
+de que la teatralidad era el modo dominante de su tiempo47, Séneca convertirá la escritura de esta carta en
+una arena virtual donde ofrecer como spectaculum la lucha de un nuevo tipo de héroe por alcanzar un nuevo
+tipo de virtus48:
+Athletae quantum plagarum ore, quantum toto corpore excipiunt! ferunt tamen omne tormentum gloriae cupiditate nec
+tantum quia pugnant ista patiuntur, sed ut pugnent: exercitatio ipsa tormentum est. Nos quoque evincamus omnia, quorum
+praemium non corona nec palma est nec tubicen praedicationi nominis nostri silentium faciens, sed virtus et ﬁrmitas animi
+et pax in ceterum parta, si semel in aliquo certamine debellata fortuna est (LXXVIII, 16).
+“¡Cuántos golpes reciben los atletas en el rostro, cuántos en todo el cuerpo! Sin embargo, soportan toda clase de tormentos
+por el deseo de gloria; y no los sufren solo porque combaten, sino para combatir: su mismo entrenamiento es un tormento.
+Venzamos nosotros también todo obstáculo; el premio que nos espera no es la corona ni la palma, tampoco el tañido del
+heraldo que impone silencio antes de proclamar nuestro nombre, sino la virtud, la ﬁrmeza del alma y la paz conseguida para
+el futuro, si alguna vez, en algún combate, hemos derrotado a la fortuna”.
+Como podemos ver, aquí la arena funciona como metáfora de la condición humana y el proﬁciens estoico
+como una especie de gladiador49, es decir, este marco de referencia conocido y público permite otorgarles valor
+y sentido a los sufrimientos privados del enfermo50. Si el entrenamiento del atleta es una tortura, entonces
+los tormentos que sufre un enfermo también pueden concebirse como una suerte de training ascético. La
+virtus es la gloria del sapiens. Ahora bien, aunque, considerada en sí misma, la virtus contiene su propia gloria
+y, por lo tanto, no necesita del reconocimiento externo, veremos seguidamente que las acciones del individuo
+adquieren signiﬁcado en la medida en que son observadas y se convierten en objeto de espectáculo (Edwards,
+Death in Ancient Rome, 152), en tanto el logro del agente solitario, desprovisto de la aprobación de los otros,
+pierde todo valor51.
+A continuación, de acuerdo con uno de los procedimientos típicos del género diatríbico, el interlocutor
+ﬁcticio presenta la última de las objeciones sobre el tema en cuestión:
+'Sed nihil' inquit 'agere sinit morbus, qui me omnibus abduxit oﬃciis.' Corpus tuum valetudo tenet, non et animum. Itaque
+cursoris moratur pedes, sutoris aut fabri manus inpedit: si animus tibi esse in usu solet, suadebis docebis, audies disces, quaeres
+recordaberis. Quid porro? nihil agere te credis si temperans aeger sis? ostendes morbum posse superari vel certe sustineri. Est,
+7
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+mihi crede, virtuti etiam in lectulo locus. Non tantum arma et acies dant argumenta alacris animi indomitique terroribus:
+et in vestimentis vir fortis apparet. Habes quod agas: bene luctare cum morbo. Si nihil te coegerit, si nihil exoraverit, insigne
+prodis exemplum. O quam magna erat gloriae materia, si spectaremur aegri! ipse te specta, ipse te lauda (LXXVIII, 20-21).
+“ ‘Pero, dice, estar enfermo no me permite hacer nada, me tiene alejado de todos mis deberes’. La mala salud afecta a tu
+cuerpo, no a tu alma. Por consiguiente, demora el pie del corredor, entorpece la mano del zapatero o del artesano; pero si
+sueles tener tu alma activa, aconsejarás, enseñarás, escucharás, aprenderás, indagarás, recordarás. Pues, ¿qué más? ¿Crees que
+no haces nada si eres un enfermo temperante? Mostrarás que la enfermedad puede superarse o, por lo menos, soportarse.
+Créeme, existe lugar para la virtud también en el lecho. No solo las armas y el campo de batalla muestran un alma valerosa
+e inaccesible al temor: el varón fuerte también se revela entre las cobijas. Tienes de qué ocuparte: combatir como se debe
+contra la enfermedad. Si no consigue nada de ti por la fuerza ni por las súplicas, ofreces un admirable ejemplo. ¡Oh, qué gran
+ocasión de gloria tendríamos, si nos contemplaran en nuestra enfermedad! Contémplate tú mismo, alábate tú mismo”.
+Como puede verse, Séneca advierte que en la enfermedad la inacción es solo aparente, en la medida en
+que esta afecta únicamente al cuerpo. Estar enfermos, por lo tanto, no nos condena a un ocio inactivo
+(iners otium, §26): no sólo ofrece amplias posibilidades para el ejercicio de habilidades espirituales, sino
+que, al mismo tiempo, brinda la oportunidad de mostrar un exemplum de virtus. Roller52 ha estudiado muy
+bien cómo Séneca lleva a cabo una selección y reinterpretación del canon de exempla virtutis, que va de
+la mano de una explícita redeﬁnición de virtus tendiente a darle a esta categoría una orientación estoica.
+En efecto, tal como aquí advertimos, esta noción involucra en sus textos una disposición mental que nada
+tiene que ver con el despliegue de fuerza física en el campo de batalla53. A lo largo de esta carta hemos visto
+cómo Séneca, no obstante su crónica enfermedad, al presentarse como peritus en dolores, se ha mostrado
+capaz de ejercer cada una de las habilidades espirituales antes enumeradas y así ha convertido su dolor en
+un discurso moral beneﬁcioso para otros. La gloria del sapiens está ligada, entonces, a una responsabilidad
+social, que tiene que ver con ofrecerse como exemplum y ser imitado, es decir, reconocido y aprobado, por
+otros54. Ahora bien, aunque aquí se presenta la posibilidad de que el enfermo pueda ser contemplado en
+su enfermedad como una situación irreal (nótese el empleo del subjuntivo spectaremur) y se ofrece como
+solución el desdoblamiento del ego en observador y observado, la escritura de esta carta ha logrado visibilizar,
+convirtiéndolo en spectaculum55, el enorme esfuerzo involucrado en trascender los avatares de la corporalidad
+a partir de hacer frente a una enfermedad crónica. Si bien Edwards (“The Suﬀering Body: Philosophy and
+Pain in Seneca’s Letters”, 263) sugiere que hay algo de anticlímax en la imagen que esta carta nos propone de
+un vir fortis envuelto en ropas de cama, a nuestro juicio la mención de este detalle constituye un elemento que
+contribuye a enfatizar la novedad de la ejemplaridad senecana, en tanto muestra que la virtus puede ejercerse
+incluso desde un locus que se encuentra en las antípodas del campo de batalla56, esto es, desde el lecho, sitio
+culturalmente dispuesto para el reposo57
+4. Conclusiones
+Esperamos que nuestro análisis haya iluminado cómo Séneca muestra una vez más su gran capacidad
+para invocar y orquestar una multiplicidad de voces58, habilidad que en las cartas examinadas promueve
+una profunda reﬂexión sobre la naturaleza misma de la ejemplaridad, es decir, sobre el hecho de que la
+indeterminación y la falta de univocidad, al igual que la importancia de la motivación y la sensibilidad al
+contexto, son elementos constitutivos en la evaluación moral de una acción. Asimismo, consideramos haber
+demostrado que en esta carta Séneca habilita la posibilidad de concebir nuevas maneras para ejercer la virtus
+y ofrecerse como exemplum. Según hemos visto, aquí el énfasis está puesto en la heroicidad que reside en
+la capacidad para superar las dolencias propias de una enfermedad crónica. La ﬁlosofía asumida en primera
+persona tiene, por supuesto, un papel central a la hora de ejercitar esta capacidad. En esta carta asistimos
+entonces a la conﬁguración de un nuevo tipo de virtus que resulta accesible a todos, pues cualquiera que
+se muestre capaz de soportar de manera temperante el dolor físico puede convertirse en exemplum. Vimos
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+8
+también cómo, si bien la Ep. LXXVIII nos presenta una nueva forma para el ejercicio de la ejemplaridad, esta
+nueva forma viene contenida en un molde conocido, que impone su lógica. Si bien la imagen de sí que Séneca
+proyecta en las Ep. se distingue por su voluntad expresa de apartarse del mundo, la lógica de la ejemplaridad,
+que conlleva de manera intrínseca, según vimos, la necesidad de ser observado y evaluado por otros, lo obliga
+a volver, aunque de un modo diferente, a la dimensión espectacular que inicialmente rechaza. Por último, la
+nueva virtus presentada en la Ep. LXXVIII queda perfectamente ilustrada en la narratio autobiográﬁca con
+la que se abre esta carta, a partir de la cual Séneca consigue no sólo dotar de auctoritas al discurso parenético
+que ocupa buena parte de la carta, sino también dirigir la atención del lector hacia su propia ejemplaridad.
+Agradecimientos
+Agradezco especialmente a la Dra. Bianca-Jeanette Schröder (Ludwig-Maximilians-Universität, Munich)
+por sus valiosos comentarios y sugerencias, y por la generosidad con la que discutió conmigo una versión
+anterior del presente artículo.
+Notas
+1 Nos referimos, por supuesto, al 'ego epistolar', es decir, al sujeto lingüístico que se construye en primera persona en el
+texto de la carta. Se trata de una conﬁguración discursiva y, como tal, no se confunde con el individuo psicofísico ‘Lucio
+Anneo Séneca’.
+2 La muerte es un tema profusamente tratado en las cartas. Vid., e.g., Sen., Ep. I, 2; IV, 3; V, 7-9; XII, 6; XXII, 14-15;
+XXIV, 4, 6, 10-11, 14-15, 18-24; XXVI, 5-8, 10; XXVII, 2; XXX, 3-12, 15-18; XXXII, 3; XXXVI, 8-10, 12; XLIX,
+9-10; LIV, 2, 4-5, 7; LVIII, 23, 27, 34, 36; LX, 4; LXI, 2, 4; LXV, 24; LXVI, 42; LXVII, 9; LXVIII,12; LXIX, 6; LXXI,
+14-16, 37; LXXIV, 3, 21, 30; LXXV, 17; LXXVIII, 4, 6, 25, 27; LXXX, 5; LXXXII, 4, 7-17, 23-24; LXXXV, 26; XCI,
+16, 19, 21; XCIII, 1, 10; XCIV, 7; XCVIII, 16-18; XCIX, 8-9, 11, 30; CI, 1, 6, 10; CII, 30; CIV, 10, 24-25; CVIII, 20;
+CXIV, 27; CXVII, 22-24; CXX, 18; CXXI, 18; CXXIII, 10, 16.
+3 De acuerdo con Griﬃn, M.T. (“Philosophy, Cato, and Roman Suicide: I”, “Philosophy, Cato, and Roman Suicide: II”,
+G&R 33, 1986, 64-77, 192-202), los romanos empleaban la frase voluntaria mors para dar cuenta de esta práctica, que,
+para ellos, poseía una índole teatral y social. Vid., asimismo, Grisé, Y. (Le suicide dans la Rome antique, Paris-Montréal,
+Les Belles Lettres, 1982), Griﬃn, M.T. (Seneca: A Philosopher in Politics, Oxford, Clarendon Press, 21992), Hill, T.D.
+(Ambitiosa Mors. Suicide and Self in Roman ought and Literature, New York-London, Routledge, 2004), Ker, J. (e
+Deaths of Seneca, Oxford, Oxford University Press, 2009), Evenepoel, W. (“The Philosopher Seneca on suicide”, Ancient
+Society 34, 2004, 217-243).
+4 En las cartas, el tema del suicidio ﬁgura de manera prominente y es tratado detalladamente en la Ep. LXX (2, 5, 8-9,
+11-13, 19, 21-22, 24-28). A propósito de esta carta, vid. Scarpat, G. (Lucio Anneo Seneca. Anticipare la morte o attenderla.
+La lettera 70 a Lucilio, Brescia, Paideia, 2007). Para otros pasajes epistolares en los que se discute este tema, vid., e.g.,
+Sen., Ep. XII, 10; XVII, 9; XXIV, 22, 24, 26; XXVI, 10; XXX, 2; LI, 9; LVIII, 34; LIX, 6; LXV, 22; LXXII, 5-10,
+14-15; XCVIII, 15-16; CIV, 3-4. La insistencia con la que Séneca vuelve una y otra vez sobre este asunto ha llevado a
+algunos autores a considerarlo como un apóstol del suicidio. Por otra parte, el énfasis con que se reﬁere a este tema ha sido
+explicado muchas veces en clave biográﬁca, en virtud de su persistente mala salud, hipocondría, y de las circunstancias
+en las que su posición política y clase social lo colocaron a lo largo de su vida. Con todo, resulta más exacto aﬁrmar que
+Séneca, más que en el suicidio per se, está interesado en erradicar el temor a la muerte. En este sentido, todos los exempla
+y retratos de suicidas que desﬁlan en sus textos apuntan a proveer herramientas para conquistar dicho temor.
+5 Vid., e.g., Sen., Ep. XXIV, 6-8. Vid., asimismo, Edwards, C. (Death in Ancient Rome, New Haven-London, Yale
+University Press, 2007) y Ker (e Deaths of Seneca, 78-85). Para los aristócratas romanos, a quienes el principado
+impedía adquirir fama cívica o gloria militar, la muerte ofrecía amplias posibilidades para el ejercicio de una virtus cuasi
+marcial. Recordemos que, como apunta Habinek, T. (“Seneca’s Renown: ‘Gloria, Claritudo’, and the Replication of the
+Roman Elite”, ClAnt 19/2, 2000, 264-303), bajo el inﬂujo de la ﬁlosofía helenística, las connotaciones militares de virtus
+comenzaron a diluirse, al tiempo que se acentuaron sus valencias éticas.
+6 Langlands, R. (Exemplary Ethics in Ancient Rome, Cambridge, Cambridge University Press, 2018, 215) advierte que, en
+la transición del régimen republicano al imperial, resulta evidente el gradual declive del tono patriótico que satura los
+exempla tradicionales de época republicana. En este nuevo tipo de ejemplaridad la comunidad retrocede a un segundo
+9
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+plano y el foco se dirige a los cuerpos individuales y a su capacidad para soportar el dolor, considerada, de aquí en más,
+como una virtud admirable en sí misma.
+7 Se trata de un personaje desconocido.
+8 Vid., e.g., Sen., ad Polyb.VIII, 3.
+9 Vid. LL, s.v. ‘fabella’ (6.1.6.60).
+10 Vid., e.g., Hanssen, J. S. Th. (Latin Diminutives: A Semantic Study, Bergen, Haverling, 1951).
+11 Así se caracteriza al suicido, por ejemplo, en la Ep. LXX, 14.
+12 Sigo el texto latino de Reynolds, L.D. (L. Annaei Senecae ad Lucilium Epistulae Morales, Oxford, Clarendon Press,
+1965), y las traducciones son mías.
+13 Vid. Boella, U. (Lettere a Lucilio, Turín, UTET, 1975, 180, n. 23) identiﬁca al Marcelino de esta carta con el que ﬁgura
+en la Ep. XXIX, 1-8. De ser así, estaríamos ante un personaje difícil, dotado de gran inteligencia (magna in illo ingeni
+vis), pero inclinado hacia el mal (in pravum, Ep. XXIX, 4).
+14 Vid., en este sentido, Sen., Ep. LVIII, 36: Morbum morte non fugiam, dumtaxat sanabilem nec oﬃcientem animo. Non
+aﬀeram mihi manus propter dolorem: sic mori vinci est. Hunc tamen si sciero perpetuo mihi esse patiendum, exibo, non
+propter ipsum, sed quia impedimento mihi futurus est ad omne propter quod vivitur; imbecillus est et ignavus qui propter
+dolorem moritur, stultus qui doloris causa vivit (“No rehuiré con la muerte la enfermedad, en tanto sea curable y no
+perjudicial para el alma. No me haré violencia con las manos a causa del sufrimiento: morir de esta manera supone ser
+vencido. Con todo, si supiera que debo sufrir constantemente el dolor, me iré, no por él, sino porque me va a poner
+obstáculos para todo lo que motiva la vida. Débil y cobarde es quien muere a causa del dolor, necio quien vive para sufrir”).
+15 Vid. Bobzien, S., Determinism and Freedom in Stoic Philosophy, Oxford, Oxford University Press, 1998, 339.
+16 Vid., e.g., Ep. CI, 10-15, con particular referencia a Mecenas.
+17 Para un análisis diferente del que aquí proponemos, vid. Correa, S. (“Tantum bonam clausulam inpone: Suicidio,
+escritura y (auto)ejemplaridad en Sen., Epist.77”, Circe, de clásicos y modernos, 22/2, 2018, 97-112).
+18 Como indica Mazzoli, G. (“Eﬀetti di cornice nell’epistolario di Seneca a Lucilio”, en: Setaioli, A. (ed.), Seneca e la cultura,
+Napoli, Edizione Scientiﬁche Italiane, 1991, 82), “Il rapporto epistolare è in realtà un gioco di specchi in cui (…) le
+identità dei due correspondent si fondono e si confondono (…).”
+19 Para un excelente y pormenorizado análisis de esta carta, vid. Berno, F.R. (L.A. Seneca, Lettere a Lucilio Libro VI: le
+lettere 53-57, Bologna, Pàtron Editore, 2006, 113-157).
+20 Para el tema del dolor como indiﬀerens, vid. Ep. LXXXII, 10. A propósito de los indiﬀerentia, vid. Sellars, J. (Stoicism,
+Berkeley-Los Angeles, University of California Press, 2006, 111).
+21 Para estudios sobre el dolor en la obra de Séneca, vid. Borgo, A. (Lessico morale di Seneca, Nápoles, Loﬀredo, 1998,
+60-67); Edwards, C. (“The Suﬀering Body: Philosophy and Pain in Seneca’s Letters”, en: Porter, J. I. (ed.), Constructions
+of the Classical Body, Ann Arbor, Michigan University Press, 1999, 252–68); Armisen-Marchetti, M. (“Le dolor
+physique dans les Lettres à Lucilius de Sénèque”, en: Laurence, P. - Guillaumont , F. (edd.), Les écritures de la
+douleur dans l’épistolaire, Actes du Colloque de Tours (26-28 novembre 2008), Tours, 2010, 91-112); Courtil, J.C.,
+“Valetudinarius Seneca. Sénèque le Philosophe était-il un malade imaginaire?”, Pallas 88, 2012, 83-102; Courtil, J.C.
+(Sapientia contemptrix doloris: Le corps souﬀrant dans l'œuvre philosophique de Sénèque, Bruxelles, Latomus, 2015);
+Courtil, J.C., “Le fonctionnement de la douleur chez Sénèque: entre physiologie et éthique stoïcienne”, en: Petey-Girard,
+B.- Séverac, P. (edd.), Représentations de la souﬀrance, “Recontres” 365, Garnier, 2018, 151-164; Malaspina, E. (“Dolor
+in Seneca: dai presupposti teoretici alle pratiche consolatorie ed alle passioni in scena’, Antiquorum Philosophia 9, 2015,
+41-54).
+22 Reydams-Schils, G. (e Roman Stoics. Self, Responsibility, and Aﬀection, Chicago & London, The University of Chicago
+Press, 2005, 47-50) compara esta carta, en la que Séneca declina la opción del suicidio por consideración a su padre,
+con la Ep. CIV, 1-2, en la que lo hace por su esposa Paulina, y muestra el énfasis que el ﬁlósofo coloca en el peso que el
+compromiso con los otros debe tener en la decisión respecto del suicidio. A la hora de pensar cómo Séneca conﬁgura su
+ethos discursivo de manera ejemplar resulta interesante, asimismo, lo que apunta Wilson, E. (e Greatest Empire: A Life
+of Seneca, Oxford, Oxford University Press, 2014, 191), “In youth, Seneca stayed alive for the sake of his father; in old
+age, he stays alive for the sake of his devoted wife. Life is forced upon him by his family; it is not what the death-driven
+philosopher would have chosen”. En este sentido, vale la pena recordar el famoso paralelo entre la Ep. LXXVIII.1-4 y el
+ﬁnal de la tragedia senecana Hercules Furens: en efecto, existe una enorme diferencia entre la consideración que Séneca
+muestra por su padre y la actitud indiferente de Hércules hacia el suyo.
+23 Vid. Sen., Ep. XXIV, 25: Vir fortis ac sapiens non fugere debet e vita sed exire; et ante omnia ille quoque vitetur aﬀectus qui
+multos occupavit, libido moriendi (“El varón fuerte y sabio no debe huir de la vida, sino salir de ella; y ante todo que evite
+aquella pasión que afecta a muchos: el deseo de morir”).
+24 Vid. Sen., Ep. CXIII, 30: O quam magnis homines tenentur erroribus qui ius dominandi trans maria cupiunt permittere
+felicissimosque se iudicant si multas [pro] milite provincias obtinent et novas veteribus adiungunt, ignari quod sit illud ingens
+parque dis regnum: imperare sibi maximum imperium est (“¡Oh qué grandes errores aprisionan a los hombres que desean
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+10
+extender sus derechos de dominio más allá de los mares y se consideran muy felices si ocupan con sus tropas muchas
+provincias y agregan a las antiguas otras nuevas, mientras ignoran cuál es aquel noble dominio que los hace semejantes
+a los dioses: el dominio de sí mismo es el máximo dominio”).
+25 A propósito del autoexamen y la autotransformación, vid. Edwards, C. (“Self-Scrutiny and Self-Transformation in
+Seneca’s Letters”, G&R 44, 1997, 23-38) y Dressler, A. (“‘You must change your life’: theory and practice, metaphor
+and exemplum in Seneca’s prose”, Helios 39, 2012, 145-192).
+26 Vid. Sen., Ep. VI, 3: Intellego, Lucili, non emendari me tantum sed transﬁgurari (…) (“Me doy cuenta, Lucilio, no solo de
+que mejoro, sino de que me transformo”). Vid. Scarpat, G. (Lettere a Lucilio. Libro primo (epp.I-XII). Testo, introduzione,
+versione e commento, Brescia, Paideia, 1975, 77-78).
+27 Vid. Sen., Ep. LXX, 9: Socrates potuit abstinentia ﬁnire vitam et inedia potius quam veneno mori; triginta tamen dies in
+carcere et in exspectatione mortis exegit, non hoc animo tamquam omnia ﬁeri possent, tamquam multas spes tam longum
+tempus reciperet, sed ut praeberet se legibus, ut uendum amicis extremum Socraten daret (“Sócrates pudo acabar con su
+vida dejando de comer y morir por inanición antes que por envenenamiento; sin embargo, pasó treinta días en la cárcel a
+la espera de la muerte, no porque pensase que todo era posible y que un tiempo tan largo daba lugar a muchas esperanzas,
+sino para someterse a las leyes, para dar a sus amigos la posibilidad de disfrutar del Sócrates de los últimos momentos”).
+28 La analogía entre la ﬁlosofía y la medicina tiene una larga tradición en la Antigüedad y es característica de las ﬁlosofías
+helenísticas, lo que da cuenta de la preocupación de estas escuelas ﬁlosóﬁcas por los problemas de este mundo. Vid.
+Nussbaum, M.C. (e erapy of Desire. eory and Practice in Hellenistic Ethics, Princeton, Princeton University Press,
+1994).
+29 Vid. Griﬃn (“Philosophy, Cato, and Roman Suicide: I”, 65-66).
+30 Vid. Sen., Ep. LXXVII, 6: Amicus noster Stoicus, homo egregius et, ut verbis illum quibus laudari dignus est laudem, vir
+fortis ac strenuus, videtur mihi optime illum cohortatus. Sic enim coepit: 'noli, mi Marcelline, torqueri tamquam de re magna
+deliberes. Non est res magna vivere: omnes servi tui vivunt, omnia animalia: magnum est honeste mori, prudenter, fortiter.
+Cogita quamdiu iam idem facias: cibus, somnus, libido - per hunc circulum curritur; mori velle non tantum prudens aut
+fortis aut miser, etiam fastidiosus potest' (“Un estoico, amigo nuestro, hombre egregio y, para alabarle de la forma en que lo
+merece, esforzado y diligente, fue, a mi modo de ver, quien mejor lo exhortó. Así, en efecto, comenzó: ‘No te atormentes,
+querido Marcelino, como quien delibera sobre un asunto de gran importancia. No es gran cosa estar vivo; todos tus
+esclavos, todos los animales están vivos. Lo grande es morir con honestidad, con prudencia, con fortaleza. Piensa cuánto
+tiempo ya llevas haciendo las mismas cosas: la comida, el sueño, el placer sexual; nos movemos en este círculo. Puede
+desear morir no solo el prudente, el valeroso o el desdichado, sino también el que está harto de la vida’”).
+31 Vid. Ker (e Deaths of Seneca, 247).
+32 En la Ep. LVIII, 34-35 Séneca se presenta realizando este tipo de cálculo, considerando si vale la pena seguir viviendo
+frente a las dolencias físicas y mentales de la vejez. El término ratio en el sentido de “cálculo” es recurrente toda vez que
+Séneca discute cuándo es el momento apropiado para morir. Vid., por ejemplo, Sen., Ep. XIV, 2; XXIV, 24; XCVIII, 16.
+33 Vid. Sen., Ep. LXX, 11.
+34 Vid., en este sentido, Langlands (Exemplary Ethics in Ancient Rome, 151), quien sostiene el carácter fundamentalmente
+indeterminado de los exempla, es decir, “(…) the absolutely central issue that an act is not in itself inherently morally
+good or right, but is only morally good in relation to a particular context. That context includes the reason for which
+it is performed”.
+35 En Sen., Ep. XXX Baso es presentado como un enfermo ejemplar.
+36 Vid., asimismo, Sen., Ep. LXXVII, 15, donde la vida es traducida como esclavitud y la muerte como la única forma
+asequible de libertas. Para un estudio de los usos pedagógicos de la metáfora en Séneca, vid. Bartsch, S. (“Senecan
+metaphor and Stoic self-instruction”, en: Bartsch, S. & Wray, D. (eds.), Seneca and the Self, Cambridge, Cambridge
+University Press, 2009, 188-217). Para los vínculos entre metáfora y exemplum, vid. Dressler ((“‘You must change your
+life’: theory and practice, metaphor and exemplum in Seneca’s prose”).
+37 Vid. Sen., Ep. LXXVII, 6.
+38 Recordemos la sustancial contribución de Séneca al corpus de la literatura consolatoria, en tanto al menos cinco de
+sus textos son convencionalmente considerados dentro de este ámbito (consolatio ad Helviam matrem, ad Marciam,
+ad Polybium; Ep. LXIII y Ep. XCIX). A propósito de este tema, vid. Manning, C.E. (“The Consolatory Tradition and
+Seneca’s Attitude to the Emotions”, G&R 21, 1974, 71-81); Ker (e Deaths of Seneca, 87-112); Wilson, M. (“Seneca
+the Consoler? A New Reading of his Consolatory Writings”, en: Baltussen, H. (ed.), Greek and Roman Consolations.
+Eight Studies of a Tradition and Its Aerlife, Swansea, The Classical Press of Wales, 2013).
+39 Vid. Scarpat, G. (La lettera 65 di Seneca, Brescia, Paideia, 1970, 283).
+40 Esta idea es de inspiración epicúrea, vid. Usener, H. (Epicurea, Leipzig, Teubner, 1887, fr. 446). A propósito de la vexata
+quaestio de las relaciones que el pensamiento de Séneca mantiene con el de Epicuro, remitimos a la excelente síntesis
+de Graver, M.R. (“The Emotional Intelligence of Epicureans: Doctrinalism and Adaptation in Seneca’s Epistles”, en:
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+11
+Williams, D. – Volk, K. (eds.), Roman Reﬂections. Studies in Latin Philosophy, New York, Oxford University Press,
+2016, 192-210).
+41 De hecho, Séneca describe la vida sin desafíos como desgraciada en de providentia IV, 3.
+42 Vid. Edwards (“The Suﬀering Body: Philosophy and Pain in Seneca’s Letters”, 254-255).
+43 Por ejemplo, más adelante en esta misma carta (§19). Una cuestión interesante que señala Edwards (“The Suﬀering Body:
+Philosophy and Pain in Seneca’s Letters”, 258) en relación con estas representaciones del dolor físico en la escritura de
+Séneca es el hecho de que el lector es conducido a colocarse siempre en el lugar de la víctima y no del agente.
+44 El alma humana es concebida como un dios que mora en el cuerpo del hombre. Esta idea se repite en Sen., Ep. XLI, 1-5;
+CXVI, 13; CXX, 14.
+45 De hecho, en LXXVIII, 18 señala que los exempla pueden ayudarnos a alejarnos del dolor (avertere…discedere),
+despertando en nosotros el deseo de emulación.
+46 Recordemos que si bien en la Ep. VII, 2 se aﬁrma el carácter nocivo de los spectacula para el animus, esta misma carta
+sugiere la idea de que “ver” no es una acción inocente, sino que es, en realidad, una actividad ética.
+47 Se ha señalado el hecho de que Nerón no solo subió a escena como actor, sino que también obligó a quienes lo rodeaban
+(con la notable excepción de Trasea Peto) a convertirse en “actors in the audience” (Bartsch, S., Actors in the Audience,
+Cambridge, MA, Harvard University Press, 1994), es decir, a actuar como espectadores.
+48 Tengamos presente aquí lo que Mazzoli (“Eﬀetti di cornice nell’epistolario di Seneca a Lucilio”, 81) considera que es la
+“lección antropológica” de la Ep. XVIII, 4, en tanto deﬁne la relación cultural que Séneca mantiene con la sociedad de
+su tiempo: eadem sed non eodem modo facere (“hacer las mismas cosas, pero no del mismo modo). A propósito de virtus y
+sapientia como spectaculum, vid. Aygon, P. (Ut scaena sic vita. Mise en scène et dévoilement dans les œuvres philosophiques
+et dramatiques de Sénèque, París, Éditions de Boccard, 2016).
+49 Para imágenes de la enfermedad y de la lucha, vid. Armisen-Marchetti, M. (Sapientiae facies. Étude sur les images de
+Sénèque, París, Les Belles Lettres, 1989, 95-96 y 133).
+50 Como apunta Gunderson, E. (e Sublime Seneca. Ethics, literature, metaphysics, Cambridge, Cambridge University
+Press, 2015, 76), “Seneca translates from the material world and its ephemeral shows into an abstract world wherein the
+mind can contemplate an eternal spectacle of virtue”.
+51 Vid. Rosenmeyer, T.G. (Senecan Drama and Stoic Cosmology, Berkeley-Los Angeles-Oxford, University of California
+Press, 1989, 52).
+52 Vid. Roller, M. (Constructing Autocracy. Aristocrats and Emperors in Julio-Claudian Rome, Princeton, Princeton
+University Press, 2001, 97-108)
+53 Berrendonner, C. lo describe como la transición de la virtus ejemplar ciceroniana, que siempre está al servicio de la
+República, hacia la perfecta virtus senecana, desplegada en el terreno ﬁlosóﬁco: “Chez Cicéron, le grand homme doit
+incarner un comportement moral exemplaire, mais cet état n’est que le préalable nécessaire à l’exercice de grandes actions
+au service de la République. Chez Sénèque, le grand homme se déﬁnit par le possession de la perfecta virtus; qui se
+compose de la bonté, la mesure, la patience, la prudence, l’eﬀort et la constance. La vertu n’a plus désormais ni contenu
+ni ﬁnalité civique, elle ne se déploie plus que dans le domaine philosophique, donc privé’ (“Un homme nouveau peut-
+il être un grand homme?”, en: Coudry, M. – Späth, T. (eds.), L’Invention des grands hommes de la Rome antique, De
+Boccard, 2001, 108–109).
+54 Vid. Newman, R.J. (“In umbra virtutis: Gloria in the Thought of Seneca the Philosopher”, en: Fitch, J.G. (ed.), Oxford
+Readings in Classical Studies. Seneca, Oxford, Oxford University Press, 2008, 316-334).
+55 Como indica Edwards (Death in Ancient Rome, 151), “The challenge of conforming oneself to nature demanded, for
+the serious Stoic, ceaseless self-scrutiny. This might seem far removed from the world of the stage, so focused on external
+appearances, on persuasive eﬀect. Yet while the advanced Stoic may not require a numerous audience, even so an
+audience is still necessary.” En la misma línea, Bartsch, S. (e Mirror of the Self. Sexuality, Self-Knowledge and the Gaze
+in the Early Roman Empire, Chicago, The University of Chicago Press, 2006, 209) llama la atención sobre las paradojas
+de conﬁgurar un teatro de la virtus: “(…) the presence of an audience, even when it is internalized, can corrupt the
+behavior of the subject under observation. And yet, for Seneca, self-knowledge and self-improvement involve precisely
+such observation. In other words, one paradox of Seneca’s identity is the ambiguous status of the subject under view as
+the site of authenticity: to act before an assessing gaze is often precisely that – to act, to put on a show – and yet this
+assessing gaze is crucial to the development of a better self”.
+56 En este sentido, apunta Dressler (“‘You must change your life’: theory and practice, metaphor and exemplum in Seneca’s
+prose”, 171): “The Senecan exemplum entails an alteration of authority, a pointing up of its collaborative rather than
+coercive aspects, and therefore a break with the traditions of the closed, masculine, conservative, and militarized society
+of Roman social and political thought”.
+57 Grant, M. (“Humour in Seneca’s ‘Letters to Lucilius’”, Ancient Society 30, 2000, 321) considera este pasaje como un
+ejemplo de humor o, en todo caso, de autoironía en las Ep.
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+12
+58 Vid. Edwards (“Self-Scrutiny and Self-Transformation in Seneca’s Letters”, 34-35): “Seneca’s Letters direct attention to
+the self but they also serve to problematize the self in profound ways. The Senecan self is multiple, fragmented, and riven
+with conﬂict. Dramas are enacted within the self, new roles assumed at every moment. The self of Seneca’s Letters, then,
+is only apparently revealed to the reader; ultimately it proves quite elusive”.
+13
+Auster, no. 26, septiembre 2021, e066. ISSN 2346-8890
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica 
+PDF generado a partir de XML-JATS4R

@@ -1,0 +1,741 @@
+María Virginia Bruzzo
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+2 
+CUADERNOS de literatura
+Revista de Estudios Lingüísticos y Literarios
+LA ADQUISICIÓN DEL ESPAÑOL L2/E COMO PROCESO DE 
+SUBJETIV
+ACIÓN. UNA PROPUESTA DESDE EL INTERACCIONISMO 
+ESTRUCTURAL
+The acquisition of Spanish as S/FL as a subjectivazing process. A proposal from 
+structural interactionism
+María Virginia Bruzzo*
+Universidad Nacional del Nordeste
+virginiabruzzo@gmail.com
+Resumen
+En este artículo presentamos los primeros resultados de una investigación exploratoria-
+descriptiva, en la que estudiamos la adquisición del español en cinco estudiantes de 
+intercambio, procedentes de Brasil, Dinamarca, Francia y Bélgica, en dos cursos de 
+español como lengua extranjera (ELE), uno en la Facultad de Humanidades de 
+la UNNE y otro en un instituto privado de idiomas, en Resistencia y Corrientes 
+(Argentina), respectivamente. Sostenemos, acorde con nuestro marco, el interaccionismo 
+estructural (Lemos, 2000a, 2000b, 2002; Desinano, 2009, 2018), que el sujeto pasa, al 
+igual que el niño, por un proceso de subjetivación en la lengua extranjera, que consiste en 
+la captura del sujeto por el lenguaje, a través del habla del Otro –docente, compañeros 
+u otras personas–, entendida como instanciaciones de la lengua. En este proceso de 
+subjetivación el sujeto establece relaciones con el lenguaje que se traducen en posiciones 
+estructurales, no superables, con un polo dominante. En la primera posición el polo 
+dominante es el Otro, retornan en el habla del alumno fragmentos del habla del Otro; 
+en la segunda posición, es la lengua, emergen en el discurso estructuras latentes del 
+español; y en la tercera, es el sujeto, que se hace consciente de su propia habla, se escucha, 
+se corrige y reformula.
+Abstract
+This article presents the first results of an exploratory-descriptive research, in which 
+it is studied the acquisition of Spanish by five exchange students, from Brazil, 
+Denmark, France and Belgium, in two courses of Spanish as a foreign language 
+(SFL): in the Faculty of Humanities, UNNE, and in a private language institute, 
+in Resistencia and Corrientes (Argentina), respectively. It is argued, according to 
+the framework of structural interactionism (Lemos, 2000a, 2000b, 2002; Desinano, 
+2009, 2018), that the subject, like the child, undergoes a subjectivizing process in 
+the foreign language, which consists of the capture of the subject by le langage, 
+through the parole of the Other –teacher, classmates or other people–, considered 
+as instantiations of la langue. In this subjectivazing process, the subject establishes 
+relations with le langage that are considered structural positions that cannot be 
+overcome, with a dominant pole. In the first position the dominant pole is the 
+Other, fragments of the Other’s parole return in the student’s parole; in the second 
+position, it is the langue, latent structures of Spanish emerge in the discourse; and 
+in the third position, it is the subject, who becomes aware of his own parole, listens 
+to it, corrects and reformulates it.
+Palabras clave
+adquisición de segundas 
+lenguas;
+ELE; 
+proceso de subjetivación; 
+interacción; 
+interaccionismo 
+estructural
+Cómo citar: Bruzzo, M. V. (2020). La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el 
+interaccionismo estructural. Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios, 15, 2-18. Resistencia, Argentina, 
+UNNE. ISSN 2684-0499.  DOI: http://dx.doi.org/10.30972/clt.0154703
+Keywords
+second language 
+acquisition; 
+SFL; 
+subjectivazing process; 
+interaction; 
+structural interactionism
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+María Virginia Bruzzo
+ 3 
+1. Consideraciones iniciales: el campo de la adquisición de segundas lenguas (ASL)
+Con apenas sesenta años de historia, la adquisición de segundas lenguas (ASL) –denominación 
+que incluye las lenguas extranjeras o, simplemente, adicionales– es un campo relativamente reciente 
+pero aun así altamente productivo. Su breve historia, no siempre libre de disputas internas, estuvo 
+marcada por varias etapas caracterizadas por diferentes corrientes o enfoques teóricos que intentaron 
+dar respuesta al fenómeno de la adquisición de segundas lenguas. Especialmente en los últimos 
+treinta años, hubo un florecimiento de múltiples estudios en este campo interdisciplinar, influido por 
+teorías de otras disciplinas, como la lingüística, la psicología, la antropología, la psicolingüística, la 
+sociolingüística y los estudios sobre la adquisición de lenguas primeras, entre otras (Ellis, 2020).
+Ellis (2020) realizó una breve presentación de las etapas y teorías propias de esta disciplina. 
+Los inicios en los 60 y 70 estuvieron marcados por estudios sobre aprendientes en contextos naturales 
+que ponían en cuestionamiento las perspectivas conductistas de enseñanza y el método audiolingual. 
+La segunda etapa, en los años 80, se caracterizó por una expansión de las teorías: desde las centradas 
+en las hipótesis de transferencias lingüística y pragmática, la influencia de la gramática universal y las 
+primeras teorías centradas en el input y la interacción (Krashen, 1985; Long, 1983; y Swain, 1985 en 
+Ellis, 2020). En los 90 se desarrollaron las siguientes etapas: la tercera, con mayor preeminencia de 
+las teorías cognitivistas (Schmidt, 1990; Tomlin y Villa, 1994, Ellis, 1994 y DeKeyser, 1998 en Ellis, 
+2020); y la cuarta, con el giro hacia los estudios centrados en los aspectos sociales (Firth y Wagner, 
+1997; Block, 2003; y Norton, 2000 en Ellis, 2020) y los estudios socioculturales (Lantolf, 2000 y Swain, 
+2006 en Ellis, 2020). Finalmente, arribaron en la quinta etapa, los recientes desarrollos de la teoría de 
+los sistemas dinámicos complejos de Larsen-Freeman y los estudios centrados en el multilingüismo (Cook, 
+1992; May, 2013 y Ortega, 2009, 2019 en Ellis, 2020). 
+Estos sesenta años parecen estar marcados por el debate entre la necesidad de buscar una teoría 
+fuerte y “única” que explique el fenómeno para hacer de la ASL una disciplina pura, y la continuidad 
+del carácter aplicado de esta área de estudio en las aulas de enseñanza de lenguas extranjeras, lo que 
+implica la continuación del desarrollo de la convivencia de variadas teorías, relacionadas con distintos 
+aspectos en la enseñanza de L2/E (Ellis, 2020). Sin entrar en este debate, y con el fin de contribuir 
+al campo en estudio, presentaremos aquí los primeros resultados de una investigación de alcance 
+exploratorio-descriptivo en la que nos propusimos estudiar el fenómeno de la adquisición de una 
+L2/E en el marco del interaccionismo estructural de Claudia de Lemos (1986, 2000a, 2000b, 2002). 
+El estudio se centra en la adquisición del español como lengua extranjera de cinco estudiantes de 
+español de distintas nacionalidades en dos centros de estudios, en la Facultad de Humanidades de la 
+Universidad Nacional del Nordeste (UNNE) y en un instituto privado de idiomas, en las ciudades 
+de Resistencia y Corrientes (Argentina). Finalmente, en cuanto a los resultados de esta investigación, 
+esperamos que constituyan un aporte a la enseñanza de E/LE y que puedan ser aplicados en el futuro 
+a estudios sobre la adquisición de otras lenguas.
+María Virginia Bruzzo
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+4 
+2. Motivaciones y búsqueda de posibles respuestas: el interaccionismo estructural
+La motivación del estudio de la adquisición de segundas lenguas se fundamenta en la idea de 
+que, conociendo mejor los procesos internos y externos de adquirir una lengua extranjera, se pueden 
+desarrollar modos de enseñanza más efectivos –sean en contextos áulicos alejados de los lugares en 
+los que la L2 se habla o en inmersión–. Es por ello que, movidos por la necesidad de investigaciones 
+en ELE por la inclusión de la UNNE en el Consorcio ELSE para ser sede del examen CELU,1 y 
+por nuestra experiencia en el aula, cada vez más demandante por el creciente número de alumnos de 
+intercambio –provenientes de Brasil, especialmente, y de otros países no hispanohablantes–, es que 
+nos propusimos realizar un estudio sobre la adquisición del español como lengua segunda o extranjera.
+A diferencia, quizá, de lo que se esperaría habiendo tantas corrientes teóricas activas en el área 
+de la ASL, decidimos realizar un estudio exploratorio sobre la adquisición del español de nuestros 
+alumnos de intercambio, teniendo como base la teoría sobre adquisición del interaccionismo estructural 
+desarrollada en Brasil por Claudia de Lemos (1986, 2000a, 2000b, 2002). Tomamos esta decisión 
+debido a que los estudios que se estaban llevando a cabo en nuestra institución, en relación a las 
+prácticas letradas de los alumnos ingresantes de la Facultad de Humanidades, tenían en cuenta como 
+marco teórico las investigaciones de Norma Desinano (2009, 2018), continuadoras del interaccionismo 
+estructural. Conjeturamos, por tanto, considerando la experiencia en el aula de ELE, que los conceptos 
+de esta teoría sobre las relaciones entre el sujeto y el lenguaje, en el proceso de adquisición de lengua 
+materna, podrían explicar también el proceso de adquisición del ELE.
+Claudia de Lemos (2000a, 2000b, 2002) inicia los estudios que originarían su teoría 
+interaccionista estructural, a partir de la crítica que realiza sobre (a) las teorías interaccionistas que no 
+logran explicar cómo la interacción modifica y amplía los recursos iniciales del niño (Lemos, 1986) y (b) 
+la concepción de lenguaje como un objeto divisible en partes que pueden ser aprendidas y dominadas 
+como una herramienta, habiendo suficientes muestras de lo contrario, considerando la heterogeneidad 
+y la imprevisibilidad de los errores durante el proceso de adquisición (Lemos, 1986, 2000a). Es así 
+como, en sus investigaciones, habiendo encontrado un posible marco en el psicoanálisis lacaniano y 
+la lingüística saussureana, busca describir cómo la interacción modifica y amplía los recursos iniciales 
+del niño (Lemos, 1995, 2000a, 2000b, 2002). En esta teoría propone que el niño pasa por un proceso 
+de subjetivación, que consiste en la captura del niño por el lenguaje, a través del habla de la madre, 
+entendida como instanciaciones de la lengua, hasta la constitución del sujeto en el lenguaje (Lemos, 
+2000, 2002). Más precisamente, el niño pasa por distintas posiciones estructurales no superables en 
+las que hay un polo dominante, determinado por las relaciones que el niño establece con el lenguaje. 
+En la primera posición, el polo dominante es el habla del Otro, madre-cuidador, el niño imita el habla 
+del Otro recogiendo fragmentos de ella. En la segunda, el polo dominante es la lengua, ya que en el 
+habla emergen estructuras latentes de la lengua –y no simples fragmentos– con una fluctuación de usos 
+correctos e incorrectos. En la tercera, el polo dominante es el sujeto, el niño se vuelve consciente de 
+su propia habla, es por ello que aparece la escucha que le permite corregirse y reformularse (Lemos, 
+1. El Certificado de Español Lengua y Uso (CELU) es el examen de proficiencia del español ofrecido por la República 
+Argentina a través del Consorcio ELSE, compuesto por universidades nacionales argentinas.
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+María Virginia Bruzzo
+ 5 
+2000a, 2000b, 2002). De ese modo, no se llega a un conocimiento omnipotente sobre la lengua, ni a 
+una subjetividad producto de las identificaciones del habla de la madre; el sujeto funciona en y por el 
+lenguaje (Lemos, 2000a).
+Esta teoría fue retomada por Norma Desinano (2009) quien observó que sus estudiantes 
+universitarios establecían las mismas relaciones con el discurso académico que el niño con la lengua 
+materna. En este sentido, postuló que el estudiante universitario pasa por un proceso de subjetivación 
+al enfrentarse por primera vez a los discursos académico-científicos (Desinano, 2009); proceso que 
+se concibe como una constante en la vida del sujeto ante cada nueva instancia en la que se enfrenta 
+con discursos desconocidos (Desinano, 2009, 2018). La autora propuso, retomando las posiciones 
+lemosianas, dos polos situados en un continuum, el polo de la fragmentariedad y el polo de continuidad, 
+que señalan las relaciones que el estudiante establece con el discurso académico-científico en sus 
+producciones escritas. En el polo de la fragmentariedad, los textos se caracterizan por rupturas que 
+fragmentan la escritura, se trata de fallos, errores, lapsus y hápax. En un primer momento, el estudiante, 
+como el niño en la primera posición, retoma fragmentos de discursos otros, de los textos de referencias 
+y/o de los profesores, a manera de una amalgama; el docente debe reconstruir estos fragmentos para 
+darles sentido (Desinano, 2009). En un segundo momento, en los textos emergen cadenas latentes 
+de los discursos otros que deben ser repuestos por el docente, es por ello que hay un anclaje, una 
+dependencia, en las fuentes, aunque ya no se trata de una simple amalgama de fragmentos (Desinano, 
+2009). Finalmente, más cercanos al polo de la continuidad, un polo ideal sin errores, se ubican los 
+escritos en los que se percibe la escucha en el estudiante, esto se debe a que este se vuelve consciente de 
+su propio discurso, lo que le permite corregirse y reformularse; los textos son versiones propias de las 
+teorías presentadas en los textos de referencias y por el profesor en el aula (Desinano, 2009).
+Como señalamos, en nuestra investigación, en la que exploramos otros conceptos que nos den 
+respuestas a los fenómenos que observábamos en nuestros estudiantes, retomamos esta propuesta 
+teórica. Según lo analizado hasta ahora, propusimos que la adquisición del ELE se da como un proceso 
+de subjetivación, en el que el estudiante es capturado por el español, o, en otros términos, el estudiante 
+es alienado (Desinano, 2009) por la lengua, en el sentido de que se constituye como sujeto en el 
+español (Wingeyer y Bruzzo, 2019; Wingeyer, Bruzzo y Angelina, 2019; Bruzzo y Wingeyer, 2019). 
+Según notamos, los estudiantes de ELE establecen las mismas relaciones con el español que el niño 
+con su lengua materna y que el estudiante universitario con los discursos académicos. En este artículo 
+nos proponemos presentar los primeros resultados sobre el proceso de subjetivación y la función de la 
+interacción en el mismo.
+3. La puesta en marcha: métodos y herramientas
+3.1. Sujetos en estudio
+Para esta parte de nuestra investigación, observamos dos cursos de ELE durante los años 2019 
+y 2020:
+María Virginia Bruzzo
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+6 
+(i)	 Uno,  dictado durante septiembre y noviembre de 2019 en la Facultad de Humanidades 
+de la UNNE (Resistencia), a K de 24 años, estudiante avanzada de Ingeniería 
+Mecánica, y a J de 26 años. Al finalizar el curso, las dos estudiantes brasileñas del 
+programa de intercambio ESCALA rindieron el examen CELU –con un resultado 
+de un Avanzado Bueno para K y de un Intermedio Muy Bueno para J–. 
+(ii)	 Otro, dictado en un instituto privado (Corrientes) a los siguientes estudiantes: N, 
+danesa de 16/17 años, quien había finalizado el folkeskole del sistema de educación 
+danés; T, francés de 17/18 años, quien había finalizado el lycée del sistema de su país; 
+y E, belga de 17/18 años, estudiante del equivalente al nivel secundario en su país. 
+Este último curso duró de fines septiembre a principios de diciembre de 2019. Por 
+otra parte, N tomó clases particulares presenciales de español hasta julio de 2020, y 
+desde abril de 2020, luego de su retorno a Dinamarca, clases virtuales.
+3.2. Recolección de datos
+Para la recolección de datos se recurrió, en primer lugar, a la observación participante, la 
+docente-investigadora observó y registró, en un cuaderno de campo y mediante grabaciones de audio, 
+las interacciones entre los estudiantes y la docente en clases, en ambos cursos. Estas grabaciones fueron 
+luego transcriptas siguiendo el sistema de transcripción utilizado por la cátedra de Lingüística II de la 
+carrera de Fonoaudiología de la Universidad Nacional del Rosario.2 Además, se recogieron 50 muestras 
+de producciones escritas, realizadas en distintos momentos del período de cursado, correspondientes a 
+las resoluciones de actividades presentadas a través de artefactos pedagógicos (Camblong, Di Módica y 
+Alarcón, 2012), que sirvieron también para la recolección de datos.
+3.3. Método de análisis 
+En esta investigación exploratoria analizamos las instancias de adquisición en las clases de 
+ELE y en las producciones escritas de alumnos extranjeros. Para la descripción y análisis de los corpus 
+oral y escrito, procesos que siguen en desarrollo, recurrimos al análisis del discurso de la línea francesa-
+brasilera (Lemos, 2000a, 2000b, 2002; Desinano, 2009). Identificamos en las producciones fenómenos 
+lingüísticos-discursivos (Lemos, 2000a, 2000b, 2002; Desinano, 2009) que indicarían la transición por 
+las posiciones en la subjetivación del estudiante y cómo la interacción modificó y amplió sus recursos.
+4. El proceso de subjetivación en español como lengua extranjera: primeros resultados
+En las siguientes secciones presentamos los resultados de la observación, descripción y análisis 
+de los corpus oral y escrito antes mencionados. Como se verá, definimos las mismas posiciones del proceso 
+de subjetivación del interaccionismo estructural, aunque identificamos algunas situaciones específicas 
+dentro de la segunda y tercera posición que no corresponden de modo directo con lo descripto por 
+2. Para detalles sobre este sistema de transcripción, véase Báez, M. (2000).
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+María Virginia Bruzzo
+ 7 
+Lemos o Desinano en las posiciones, pero indudablemente hay un paralelismo entre lo que describimos 
+y lo desarrollado por ambas autoras.
+4.1. Primera posición
+En la primera posición, el polo dominante es el habla del Otro. Al igual que en el niño (Lemos, 
+2000a, 2002), retornan en el habla del estudiante fragmentos del habla del Otro, sean el docente, 
+compañeros u otras personas con las que haya interactuado. Se podría decir que se trata de un proceso 
+de metonimia (Lemos, 2000a, 2002). El habla es fragmentaria en los niveles fonológico, morfológico 
+y sintáctico. 
+Diferenciamos, al igual que Lemos (2002), dos momentos específicos. En un primer momento, 
+los fragmentos que retornan en el habla del estudiante son altamente fragmentarios, mientras que, en 
+un segundo momento, los fragmentos son estructuralmente más complejos. 
+En esta primera posición, el Otro, el docente o determinados compañeros, toma el rol de intérprete 
+(Lemos, 2000a, 2002) que “restringe las indeterminaciones”3 (Lemos, 2000a, p. 171) del discurso del 
+alumno. El docente o los compañeros reconstruyen los fragmentos y devuelven el significante (o las cadenas 
+de significantes) al estudiante, quien al reconocerlo como propio hace que la interacción avance. Esta 
+interpretación pareciera ser crucial para el movimiento a la siguiente posición. El cuerpo del aprendiente 
+entendido como corps pulsionnel, al igual que el del niño, demanda interpretación constante.
+4.1.1. Primer momento
+En este primer momento la fragmentariedad en el habla de los estudiantes es mayor. Se observa, 
+como fue indicado antes, que hay un “retorno en el habla” (Lemos, 2002, p. 58) del alumno “de parte 
+de los enunciados usados” (Lemos, 2002, p. 58) por el Otro –profesor, compañero u otras personas– en 
+instancias de interacción anteriores; situaciones que son reconocibles por el estudiante. El Otro toma 
+el rol de interpretar al alumno y de significarlo.
+El fragmento I que aquí reproducimos corresponde a una clase del 14 de octubre de 2019 en 
+el instituto privado, en la que estaban presentes N y E. En este momento de la clase, las alumnas 
+habían hecho algunas preguntas sobre cómo expresar en español ciertas emociones. N específicamente 
+consultó sobre cómo decir “I am excited”, y retornan en su habla fragmentos de habla de un Otro, 
+de una situación de interacción similar a la que se dio en la clase: conversar sobre cómo expresar 
+en español ciertas emociones. Sin embargo, debido al nivel de fragmentación a nivel fonológico de 
+estos fragmentos de habla, la profesora no reconoció inmediatamente las cadenas de significantes a las 
+que remitía. Se dio así una situación de interpretación para restringir “las indeterminaciones” (Lemos, 
+2000a, p. 171).
+N: How do you say that (?) I always say estoy [ɪməʊʃonadə]4 It doesn’t mean I’m nervous it means 
+that I’m looking forward right (?)
+3.  Todas las traducciones del inglés y portugués son propias.
+4. En este caso tuvimos que recurrir al alfabeto fonético internacional para intentar mostrar de manera más fiel el habla 
+de la aprendiente.
+María Virginia Bruzzo
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+8 
+E: ah excited (!)
+N: how do you say excited (?)
+Profesora: entusiasmada –lo escribió en el pizarrón–
+N: what (?) oh but when I say estoy [imoʃonadə] I say that I’m nervous (?)
+Profesora: no I don’t understand what (?)
+E: nervous
+Profesora: yeah
+N: [ɪməʊʃonadə] because when I’m like
+E: [imozionada] it means that you’re really like emotional
+Profesora: AH emocionada
+N: no no what I want to say
+E: ella quiere [dezer] que ella está [nervioza]
+Profesora: sí que ella
+N: no I don’t want to say that I want to say that I’m excited like when I find something really 
+interesting it’s like estoy /ɪməʊʒonadə/
+E: +++
+Profesora: imaginado (?)
+N: yeah (?)
+Profesora: em 
+N: it seems I said something weird
+Profesora: imagi
+N: no no ee [eməʊʃonada]
+Profesora: mm
+N: I’m e /
+Profesora: emocionada emocionada –lo escribió en el pizarrón– e mo cio na da
+N: e mo cio na da is that something that you use (?)
+Profesora: sí es un sinónimo de esta palabra –señaló entusiasmada–
+(Fragmento I - 14102019)
+Como se observa, la profesora, con ayuda de E, interpreta los enunciados de N, quien hasta 
+no reconocer en el habla de la profesora las cadenas de significantes que retornan fragmentariamente 
+en su habla, la interacción no avanza. Además, como se ve, N muestra una aparente incredulidad 
+ante el hecho de que “emocionada” sea equivalente a “excited” debido a su similitud con la palabra 
+“emotional”,  que tiene un sentido diferente en inglés. Se observa así en N un choque entre significantes, 
+en su subjetivación en el inglés, su L2, y las del español, concebido como una alteridad, a la que, 
+justamente por ello, presenta una cierta resistencia. Es así que ocurre en principio una confusión entre 
+los significantes que retornan en su habla, “estoy emocionada”, los significantes que la simbolizan, “I’m 
+excited”, y los enunciados de la profesora “estoy entusiasmada”. No fue hasta que la profesora dijo 
+“emocionada”, dos veces a un ritmo “normal” de habla y otra vez más marcando cada sílaba, y anotó el 
+significante en el pizarrón, que N pudo reconocer(se) en el habla del Otro. El avance en la interacción 
+se puede identificar en la pregunta “is that something that you use?”, que denota esta incredulidad 
+de la que hablábamos y que muestra una resistencia a este singificante. A través de esta pregunta N 
+intentaba dar sentido a esta palabra como un posible equivalente de la emoción que intentaba expresar.
+Finalmente, en lo que respecta a la presencia de la L2 de la alumna en su discurso, observamos 
+que la imposibilidad de hacerse sujeto en esta lengua desconocida lleva a la estudiante a recurrir a 
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+María Virginia Bruzzo
+ 9 
+una lengua en la que sí se ha constituido como tal, en particular, en estas cadenas de significantes que 
+le eran en ese momento totalmente ajenas y no así con otras situaciones en las que había una mayor 
+predominancia de fragmentos de habla otra en sus enunciados.5 En este sentido, conjeturamos que, 
+como sostienen otros enfoques como el multilingual (Ortega, 2009) –aunque desde otra perspectiva–, 
+recurrir a las lenguas en las que se constituyeron (o están en proceso de constituirse) como sujetos 
+puede ser verdaderamente útil para el proceso de captura, ya que es en este constante devenir de 
+relaciones de diferenciación, resistencia y alienación que el sujeto se constituye en el lenguaje.
+4.1.2. Segundo momento
+Por su parte, el segundo momento se caracteriza por una “mayor extensión y complejidad de 
+los fragmentos que migran” (Lemos, 2002, p. 58) del Otro al estudiante. En este caso presentamos el 
+fragmento II que corresponde a la clase del 16 de diciembre en el instituto privado en la que estaban N 
+y T. En este caso, estaban trabajando sobre el verbo soler en pretérito imperfecto, como N no recordaba 
+su significado, entre T y la profesora intentaron explicárselo. Luego de que la profesora expusiera en 
+líneas generales el uso del verbo y escribiera su conjugación en presente, sucedió la siguiente situación:
+Profesora: ejemplo / solemos ir a la costanera / entendés (?)
+N: –con cara pensativa– sí 
+Profesora: me podés dar un ejemplo (?)
+N: sí / por ejemplo / solemos ir al shopping con mis amigas yo pregunto a mi mamá
+T: y qué signífica?
+N: que yo pido permiso
+Profesora: ah / no / no es una pregunta / es para un hábito / una rutina / suelo ir al gimnasio 
+todos los días quiere decir que es algo que normalmente hago todos los días / suelo comer chipa­
+citos en la merienda
+T: es algo que haces siempre
+N: ah (!) entiendo / yo suelo comer helado / siempre
+Profesora: yo suelo / vos solés / tú sueles / él suele / es una rutina
+N: ah –anot–a yo sue / lo / vos sóles / él sole 
+Profesora: él suele
+N: él suele / nosotros / solemos (?) / ellos suelen
+Profesora: ellos ellas ustedes suelen / sí
+N: ujum
+T: entiendes (?) es algo que hacés siempre
+N: sí una rutina
+Profesora: un hábito
+T: sí / por ejemplo / vos sales el fin de semana puede decir
+Profesora: podés o puedes decir
+T: puede decir / yo suelo el fin de semanaa / salgoo / con T
+N: ujum
+Profesora: salir
+T: a salir
+5.  Ver Bruzzo, M. V. y Wingeyer, H. (2020a; 2020b). 
+María Virginia Bruzzo
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+10 
+Profesora: no no / suelo salir
+T: ah ah (!) suelo salir suelo salir
+N: um / qué es la palabra en inglés o / no hay (?)
+Profesora: eeh sí se puede decir 
+N: can we (?)
+Profesora: no no // no es exactamente lo mismo pero es similar / we are used to go out on the 
+weekends /
+N: mmm
+T: pero depende / puede decir suelo / sa-lir / con T el fin de semana 
+N: ah (!) entonces no es una pregunta
+T: eso es every every weekend you go out
+Profesora: no no no / no es una pregunta 
+N: ah
+Profesora: es una afirmación / yo suelo salir los fines de semana con T
+N: ah (!) ok ok / then it’s ++ / suelo / suelo comer una pizza en la costanera después escuela
+T: y qué significa (?)
+N: I use to /
+T: –miró a la profesora–
+Profesora: –risas– lo va a traducir
+N: –confundida–
+Profesora: decilo de otra manera
+N: +++ ah / siempre estoy después de escuela
+T: estás en una pizzería
+N: –asintió–
+(Fragmento II - 16122019)
+En este caso lo destacable de la interacción es que, por una parte, las intervenciones de T trajeron 
+situaciones reconocibles por N, lo que ayudó a la asociación del significante con estas situaciones 
+(Bruzzo y Wingeyer, 2020a y 2020b). Por otra parte, destacamos las construcciones metonímicas 
+de los enunciados de N en relación con los enunciados de la profesora (Bruzzo y Wingeyer, 2020a y 
+2020b), así cuando la profesora dijo “suelo salir a la costanera”, N dijo “suelo salir al shopping”; y cuando 
+la primera dijo “suelo comer chipacitos”, la alumna, “suelo comer helado”. Como señalábamos más arriba 
+esta metonimia es constitutiva de la primera posición, lo que diferencia este momento con el anterior, 
+sin embargo, es la complejidad de los fragmentos que retornan.
+4.2. Segunda posición
+En la segunda posición el polo dominante es la lengua ya que emergen en el habla del estudiante 
+estructuras latentes del sistema del español. A diferencia de la posición anterior, lo que caracteriza 
+a esta no es la metonimia sino la metáfora: los procesos metafóricos (Lemos, 2002) se refieren a los 
+procedimientos por los cuales en el habla del estudiante emergen las regularidades de la lengua, ya 
+que construyen enunciados por similitud. Justamente por esto y al no tener una consciencia sobre su 
+propia habla, hay una fluctuación entre enunciados correctos e incorrectos (por ejemplo, al emerger 
+las regularidades del tiempo verbal, pueden no reconocer las irregularidades en ella). Al igual que para 
+Lemos, el error caracteriza a esta posición. Esto se debe a que la relación de interacción es entre el 
+sujeto y su lengua. Es por ello, además, que no escucha la diferencia entre su discurso y el del Otro, por 
+lo que, aunque este restrinja las indeterminaciones de los enunciados incorrectos y señale la diferencia, 
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+María Virginia Bruzzo
+ 11 
+el sujeto es impermeable a la diferencia entre su discurso y el del Otro. Como resultado, el estudiante 
+puede (i) no darse por aludido ante el señalamiento; (ii) volver a repetir el “error” luego de que se 
+lo corrija; o (iii) corregir momentáneamente su discurso para luego, volver a producir enunciados 
+“incorrectos”.
+En esta posición no identificamos momentos diferenciables, pero sí situaciones que consideramos 
+características de esta posición. Una se trata de la emergencia de estructuras latentes, es decir, situaciones 
+en las que aparecen en el discurso del estudiante estructuras reconocibles del español descoladas –de 
+fragmentos de habla procedentes de situaciones conocibles– y resignificadas en nuevas instanciaciones. 
+La otra se trata de situaciones de inconsistencias entre usos correctos e incorrectos, en las que en una sola 
+sesión se produce la alternancia de enunciados correctos e incorrectos de una misma estructura.
+4.2.1. Emergencia de estructuras latentes
+El caso del fragmento III, se trata de una situación en la que J y K estaban revisando junto a 
+la profesora una actividad que consistía en el rellenado de huecos con la conjugación en pretérito 
+imperfecto o indefinido del verbo indicado,  según correspondía. Consideramos que esta es una muestra 
+de la emergencia de estructuras latentes ya que da señales de regularidades de las estructuras en el habla 
+de estas estudiantes. Además, es de notar que las mismas aprendientes señalan la no consciencia sobre 
+estas estructuras, como si se aprendieran, según sus propias palabras, por “osmosis” [sic].
+J: cuando entramos tenía que esperar porque la recepcionista no estaba (?)
+Profesora: teníamos (J: Sí) el tiempo está bien pero tiene que ir en plural.
+K: yo puse tuvimos existe eso (?) –risas–
+Profesora: – risas– Sí de existir existe. / También puede ser esa opción
++++
+J: y después de unos minutos nos / dijo ++ y lo peor de todo es que no tenía más habitaciones 
+disponibles –risas–
+K y Profesora: –risas–
+K: puede ser tenían (?)
+Profesora: puede ser ambos tenia o tenían / tenían es como más impersonal / bueno en realidad 
+ambos / sí ambos se pueden usar de igual manera
+K: mm
+J: ella llamó a varios hoteles de la ciudad hasta que con / …
+Profesora: consiguió
+K: consiguió
+J: escribí cierto pero no
+Profesora: sin la tilde (?)
+J: no no pensaba que era correcto
+[…]
+Profesora: bien (!) bastante bien
+J: sí pero bastante instinto instintivo porque yo escribí consiguió y fui pero ni sé porqué
+–risas–
+++
+K: por osmosis
+–risas–
+ (Fragmento III - 29102019)
+María Virginia Bruzzo
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+12 
+4.2.2. Inconsistencias entre usos correctos e incorrectos
+El fragmento IV corresponde a una clase particular de N. Este fragmento es constitutivo 
+de la segunda posición ya que como vemos se observan cadenas de significantes que se descolocan y 
+resignifican en nuevas instanciaciones, y no ya simples fragmentos del habla del Otro. Notamos la 
+inconsistencia entre usos correctos e incorrectos en la utilización de los verbos “ser” y “estar”. Vemos 
+una corrección momentánea luego de que la profesora le indicara la forma correcta del enunciado 
+emitido, en “era bien” / “estaba bien”, sin embargo, esta corrección no se debe a una consciencia sobre el 
+error ya que inmediatamente después vuelve a utilizar el verbo “ser” en un caso en el que debía emplear 
+“estar” (“fui mejor”).
+N: Igual / Igual como creo que / cuando ee vive en el país ee sin mucho inglés / comoo y eee 
+escuche ee escucho (?)
+[…]
+Profesora: o vos / ee en este caso ee / se escucha (!) se escucha el 
+N: se escucha
+Profesora: el inglés eso querías decir (?)
+N: sí sí- se escucha se escucha / no / el español español todo el tiempo en el televisor ooo
+Profesora: sí
+N: en ee –miró hacia la ventana–
+Profesora: en la calle
+N: en la calle sí / ee se lee lea / to read
+Profesora: se lee
+N: sí se lee / y la radio
+Profesora: sí
+N: sí es imposible no aprender algo
+Profesora: sí mejoraste mucho
+N: sí / también en en Brasil
+Profesora: ujum
+N: tenía un bien amigo de México /
+Profesora: un buen amigo
+N: un buen amigo de México que no habla
+Profesora: ujum
+N: habla (!) en inglés pero no muy bien entonces / hablábamos / en en español
+Profesora: ujum súper
+N: ee / pero –risa– también su español era muy difícil
+Profesora: –risa–
+N: pero también porque hablaba muy rápido / pero / era bien
+Profesora: estaba bien
+N: estaba bien para mi español
+Profesora: súper (!)
+N: ujum –sonríe– / pero él me dijo que en el comenso o al comenso (?) en el viaje
+Profesora: en el principio o al comienzo
+N: en el príncipo del viaje fui mejor que en el fin del viaje porque en (!) el fin del viaje
+Profesora: ah claro
+N: porque en el fin hacía un mes que estaba en Argentina
+(Fragmento IV - 20022020)
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+María Virginia Bruzzo
+ 13 
+4.3. Tercera posición
+En la tercera posición el polo dominante es el sujeto, lo que caracteriza a esta posición es la 
+consciencia del propio discurso. El estudiante escucha su propia habla, ya que como sostiene Lemos 
+(2002) en relación al niño, retomando a Freud, el sujeto que habla y el que escucha son distintos. 
+A diferencia de la posición anterior, el estudiante construye sus enunciados siendo consciente de la 
+diferencia, lo que le permite escuchar los enunciados erróneos y corregirlos. Además, dada la consciencia 
+en el propio discurso, también el sujeto es capaz de reconocer sutilezas de la lengua como juegos de 
+palabras, ironías, chistes, etc.
+En la interacción con el Otro, docente o compañero, es el desconcierto del estudiante, frente a 
+los cuestionamientos o preguntas sobre el discurso, lo que lleva a estimular el extrañamiento ante su 
+propio discurso, es decir, a escucharse, hasta llegar a situaciones de escucha sin intervención del Otro.
+Al igual que en la posición anterior, identificamos distintas situaciones que van de un 
+señalamiento directo del error por parte del Otro a una escucha sin que otro lo indique. Por último, 
+mostramos una situación de reconocimiento de un juego de palabras en la interacción.
+4.3.1. Corrección con indicación directa del Otro del error y la forma correcta 
+El fragmento V corresponde a una clase en octubre en el curso en la UNNE, K y la profesora 
+estaban leyendo la producción escrita que aquella había realizado. A continuación, un fragmento del 
+texto y la muestra de diálogo:
+Imagen 1. K fragmento de escritura
+En este caso, mientras avanzaba en la lectura, la profesora corregía el trabajo, correcciones que 
+K reconoció, produciéndose un proceso de extrañeza ante cada error (Bruzzo y Wingeyer, 2020b).
+Profesora: –leía– […] pudiendo accesar acceder / en español es acceder
+K: ah sí (!) cierto
+[…]
+Profesora: de hecho con h
+María Virginia Bruzzo
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+14 
+K: ah (!) no sé qué pasó ahí –risas–
+[…]
+Profesora: acá / ofretar es
+K: ofreee
+Profesora: ofrecer
+K: ah sí (!)
+(Fragmento V - 29102019)
+Pareciera que la lectura del Otro motiva la extrañeza ante la diferencia entre la forma “incorrecta” 
+y la “correcta”, escucha que no había logrado en su lectura propia antes de entregar el trabajo. Este 
+reconocimiento de la diferencia es lo que nos hace pensar que esta es una muestra de la transición de 
+la segunda a la tercera posición. Como veremos más adelante, esta escucha y corrección pasan a ser 
+completamente autónomas.
+4.3.2. Corrección del propio discurso motivado por el discurso de un Otro que señala la incorrección
+El fragmento VI corresponde a una clase particular de N en mayo de 2020. En este fragmento 
+la estudiante leía la producción escrita que había realizado como tarea. Reproducimos un fragmento 
+de dicho texto:
+Imagen 2. N fragmento de escritura
+La profesora anotaba los “errores” mientras N leía. Luego de la lectura, la profesora señaló el 
+uso de determinada forma verbal, “hace menos monumentos históricos”, a lo que devino la siguiente 
+situación:
+N: mmm (?) / dónde (?)
+Profesora: al principio dijiste algo de en las playas hace menos monumentos
+N: –completamente confundida buscó en su texto esa frase y leyó– en las playas me parece que 
+hace menos monumentos históricos / mmm (?) ah no tiene sentido
+Profesora: ajá
+N: mmm quería decir / que no está (?) monumentos
+Profesora: hay 
+N: hay (!) por supuesto
+(Fragmento VI - 04052020)
+Cuando la profesora repite, vemos que se produce un extrañamiento en N; al volver a leerlo, el 
+extrañamiento se refuerza y se produce la escucha (Bruzzo y Wingeyer, 2020a y 2020b). Tal como apunta 
+Lemos (2002), retomando a Freud, el sujeto que habla y el que escucha son dos distintos, así N pudo 
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+María Virginia Bruzzo
+ 15 
+escucharse y reformular su discurso. Aunque la estudiante no dio con la forma correcta, sí reformuló la 
+parte problemática, el verbo “hacer” fue modificado por “estar”. Lo que hace a esta situación, entonces, 
+de la tercera posición es el hecho de que reconoció la diferencia entre la expresión sustituida y la que 
+la sustituyó, frente a las similitudes entre ellas; a esto Lemos lo considera como “efecto contrario a 
+los procesos metafóricos” (2002, p. 62), procesos metafóricos que eran característicos de la posición 
+anterior.
+4.3.3. Corrección con indicación indirecta del Otro
+El fragmento VII corresponde a una clase particular de N en junio de 2020, en la que se estaba 
+desarrollando una actividad oral: mediante preguntas abiertas personales, se motivaba a la aprendiente 
+a recurrir a estructuras del subjuntivo.
+N: si pudiera cambiar algo de lo que pasó hoy (?) mm / proteger mis piernas de la pintura / tiene 
+sentido eso (?)
+V: mm sí el contenido está bien pero la parte gramatical tiene algo raro
+N: AH sí vuelvo a intentarlo / si pudiera cambiar algo de lo que pasó hoy hubiera protegido mis 
+piernas de la pintura
+(Fragmento VII - 11062020)
+Lo que hace que esta muestra breve sea considerada como de la tercera posición es el hecho de 
+que, en primer lugar, la alumna al preguntar “tiene sentido eso (?)” ya da indicios de una escucha y, en 
+segundo lugar, cuando la profesora le indica que había algo para corregir desde lo estructural, N puede 
+corregir exitosamente su enunciado: “proteger mis piernas” pasa a “hubiera protegido mis piernas”.
+4.3.4. Corrección del propio discurso motivado por su propia escucha
+Los fragmentos VIII y IX corresponden a situaciones en las que el sujeto se corrige a sí mismo sin 
+necesidad de intervención del Otro. En ambos casos, K, en el fragmento VIII, y N, en el fragmento IX, 
+fueron arrastradas por el devenir del discurso –al igual que algunos casos que Desinano (2009) señala 
+en la escritura del estudiante universitario– y emergen cadenas de significantes que no concuerdan con 
+las estructuras correspondientes en español, y ambas se escuchan en el momento y se corrigen.
+El fragmento VIII fue extraído de una clase en noviembre del curso en la UNNE en la que K 
+comentaba una anécdota de un examen en la Facultad de Ingeniería de la UNNE:
+K: cuando yo hice la parcial / eeeh yo estaba así esperando más hojas
+Profesora: ah eso sí no
++++
+K: + nosotros que tenemos que sacar así yo pensé eso es muy bueno para quien / cola (?) / cómo 
+/ cómo es cola (?)
+J: aam quien copia (?)
+K: tipo alguien que hace así tipo hace una consulta un apunte y saca sus hojas y yo aaah (!)6
+(Fragmento VIII - 07112019)
+6. Cabe destacar que el lenguaje no verbal cumplía una función importante en la construcción de sentido en esta situación, 
+ya que a través de gestos K construyó la situación que estaba explicando.
+María Virginia Bruzzo
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+16 
+K se escucha en dos ocasiones: en la primera nota que “cola” no pertenece al español, pide a 
+su compañera la traducción y, aun habiéndole su compañera indicado lo requerido, explica, tanto 
+verbalmente como a través del lenguaje no verbal, la situación de “copia” a la que se estaba refiriendo. 
+La segunda situación se da cuando dice “consulta” que la reemplaza por “apunte”.
+El fragmento IX pertenece a una clase en julio, N estaba comentando las actividades de tarea 
+que realizó y las que no.
+N: Como / sentía que también tenía otra tarea pero no podría podía buscar la otra otro ejercicio 
+que el tres y el cuatro / el tres y / el buscando justicia y leí un poquito del texto
+V: bien sí era el tres el que dice completá con
+N: sí lo hech lo he hecho
+(Fragmento IX - 07072020)
+Este caso es especialmente característico del arrastre por el devenir del discurso. Las estructuras 
+reemplazadas son sumamente similares: (i) “podría” y “podía”, y “lo hecho” y “lo he hecho” por sus cercanías 
+fonéticas y (ii) “otra” y “otro” por ser el mismo lexema con variación morfológica de género. En todos los 
+casos, N se pudo corregir acertadamente debido a la escucha de la diferencia frente a la similitud.
+4.3.5. Reconocimiento de la ironía, el chiste, el doble sentido, los juegos de palabras
+El fragmento X fue extraído de una clase durante junio de 2020, en la que N y la profesora 
+estaban hablando sobre frases hechas para expresar sorpresa. La profesora le comentó algunas frases 
+ya que N no recordaba otras, a lo que se dio la siguiente situación:
+Profesora: no lo puedo creer (!)
+N: mmm
+Profesora: en serio (?)
+N: en serio (?) / –risas–
+Profesora: y después tenemos esas palabras que les decimos malas palabras / están las argentinas 
+como qué mierda (?!)
+N: qué mierda sí (!) / qué caja (!) en la casa de papel dicen todo el tiempo qué caja
+Profesora: qué caja (?)
+N: sííí
+Profesora: ah mirá nunca lo escuché
+N: –risas– no (?) / caja / viste la casa de papel (?)
+Profesora: No / no vi la caja eh (!) la casa de papel –risas–
+N: –risas– la caja de papel (!) –risas–
+(Fragmento X - 23062020)
+El reconocimiento del juego de palabras se da en dos ocasiones, en primer lugar, cuando N 
+ríe al notar que cuando dijo “en serio (?)” dio la impresión de que se sorprendió por el hecho de que 
+la expresión “¿en serio?” funciona para manifestar sorpresa, cuando en realidad la repetía, como solía 
+hacerlo, como método mnemotécnico de frases, palabras o conceptos. En segundo lugar, en cuanto a 
+la palabra “caja”, N notó fácilmente el juego de palabras producido por la semejanza fonética entre esa 
+palabra y la palabra “casa”.
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+María Virginia Bruzzo
+ 17 
+5. A manera de cierre: continuaciones, profundización y aplicaciones en el ámbito 
+de enseñanza
+Como venimos observando en los resultados que surgen de esta investigación, el fenómeno de la 
+adquisición de una lengua extranjera, en nuestro caso, del español, puede muy bien ser entendido como 
+un proceso de subjetivación. Esto significaría un modo de comprender la heterogeneidad en el proceso 
+de adquisición diferente a los de los enfoques vigentes, ya que serían constitutivos de las relaciones que 
+el sujeto establece con el lenguaje, el español como lengua extranjera en esta investigación; lengua que 
+nunca llegará a dominar, sino más bien en la que se constituirá subjetivamente.
+Para cerrar, cabe destacar que estos son los primeros resultados sobre las funciones de la 
+interacción en el proceso de subjetivación. Queda para próximos trabajos analizar en mayor detalle 
+estas situaciones tanto para determinar sus funciones como para precisar mayores detalles sobre cada 
+posición y los momentos que las caracterizan. 
+Por último, consideramos que los resultados de esta investigación pueden ser útiles para 
+el desarrollo de futuras propuestas para la enseñanza-aprendizaje de ELE, debido al cambio de 
+perspectiva sobre el proceso de adquisición. Es por ello que, también nos proponemos a futuro 
+observar y determinar, con mayor precisión, prácticas y estrategias de los docentes que en la interacción 
+estimulen el proceso de subjetivación.
+Referencias bibliográficas
+Báez, M. (2000). Reflexión acerca de los rasgos lingüísticos de la interacción en la producción dialógica: 
+nuevas perspectivas acerca del lenguaje oral. Trabajo Final de Seminario La pragmática comunicativa: 
+análisis de textos conversacionales. Manuscrito no publicado.
+Bruzzo, M. V. y Wingeyer, H. R. (2019).  Análisis de expresiones escritas de dos estudiantes extranjeros 
+en la UNNE: la constitución del sujeto en el discurso académico en ELE. X Congreso Nacional de 
+Didáctica de la Lengua y la Literatura, San Martín, Argentina. Manuscrito no publicado.
+Bruzzo, M. V. y Wingeyer, H. R. (2020a). La adquisición del español como lengua extranjera como 
+proceso de subjetivación: una cuestión de captura. En Anais do XI Congresso Brasileiro de Hispanistas 
+(pp. 1-15), Campina Grande, Realize Editora. https://bit.ly/3p0MBIm.
+Bruzzo, M. V. y Wingeyer, H. R. (2020b). Adquisición del español como lengua extranjera como 
+proceso de subjetivación. Estudio de caso. Contextos, 47, 1-27. https://bit.ly/3sHtdT2.
+Camblong, A. M., Alarcón, R. y Di Módica, R. (2012). Alfabetización semiótica en las fronteras. Posadas, 
+EDUNAM.
+Desinano, N. (2009). Los alumnos universitarios y la escritura académica. Análisis de un problema. Rosario, 
+Homo Sapiens.
+María Virginia Bruzzo
+La adquisición del español L2/E como proceso de subjetivación. Una propuesta desde el interaccionismo estructural
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 15 (2020). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0154703
+18 
+Desinano, N. (2018). La condición precaria del sujeto como hablante y la fragilidad del sistema de la 
+lengua. Ponencia presentada en 21° InPLA Intercambio de Pesquisas em Lingüística Aplicada. https://
+bit.ly/2YH2lo4.
+Ellis, R. (2020). A short history of ASL: Where have we come from and where are we going? Language 
+Teaching, First View, 1-16.
+Lemos, C. de (1986). Interacionismo e Aquisição de Linguagem. DELTA, 2 (2), 231-248.
+Lemos, C. de (2000a). Questioning the notion of development: the case of language acquisition. 
+Culture & Psychology, 6 (2), 169-182. https://bit.ly/3idkUcv.
+Lemos, C. de (2000b). Desenvolvimento da linguagem e processo de subjetivação. Interações, 5 (10), 
+53-72. https://bit.ly/2G9RP37.
+Lemos, C. de (2002). Das vicissitudes da fala da criança e de sua investigação. Cadernos de Estudos 
+Lingüísticos, 42, 41-69.
+Ortega, L. (2009). Understanding Second Language Acquisition. London, Routledge.
+Wingeyer, H. R., Bruzzo, M. V. y Angelina, A. (2019). Expresiones escritas de estudiantes extranjeros 
+de la UNNE. El proceso de constitución en sujeto del discurso académico. En Barroso, S. y 
+Dandrea, F. (comps.),  Actas X Coloquio CELU (pp. 101-114). Río Cuarto, Universidad Nacional 
+de Río Cuarto.
+Wingeyer, H. R. y Bruzzo, M. V. (2019). La escritura de estudiantes extranjeros de la Universidad 
+Nacional del Nordeste (UNNE). Fragmentariedad y distorsiones enunciativas. Itinerarios 
+Educativos, 12, 35-50. https://bit.ly/38oQKg6.
+*María Virginia Bruzzo es Licenciada en Letras por la Universidad Nacional del Nordeste. Es 
+Becaria de Iniciación (Secretaría General de Ciencia y Técnica de la UNNE) con funciones en el 
+Instituto de Letras. Además, es Auxiliar Docente en Taller de Comprensión y Producción de Textos en la 
+Facultad de Humanidades de la misma universidad. Su investigación se centra en la adquisición del 
+español como lengua extranjera.
+Recibido: 1/12/2020
+Aceptado: 29/12/2020

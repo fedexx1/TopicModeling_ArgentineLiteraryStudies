@@ -1,0 +1,749 @@
+Alexis E. Robledo - Nicolás Russo
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+240 
+DE LOS OJOS DE ROMA A LAS VOCES DE LXS JÓVENXS: UNA 
+VÍA PARA PRESENTAR LAS LETRAS CLÁSICAS A TRAVÉS DE LA 
+EXTENSIÓN UNIVERSITARIA
+From the eyes of Rome to the voices of young people: a way to present Classics 
+through a University Extensionist approach
+Alexis Emanuel Robledo*
+Universidad de Buenos Aires
+alexiserobledo@gmail.com
+Resumen
+El presente artículo analiza una experiencia didáctica de Extensión Universitaria 
+del área de Letras Clásicas orientada a la comunidad académica de Nivel Medio 
+y desarrollada virtualmente durante los meses de agosto y septiembre de 2020. La 
+experiencia, titulada “Los otros en los ojos de Roma”, abordó durante cinco clases 
+las representaciones de cuatro alteridades contraculturales en la sociedad romana 
+–el monstruo político, la bruja, el bárbaro y el enfermo–, mediante el análisis de 
+textos latinos de los períodos republicano e imperial. Esta actividad, en el marco 
+del Programa “Filo y Secundarios” coordinado por la Secretaría de Extensión 
+Universitaria y Bienestar Estudiantil (SEUBE) de la Facultad de Filosofía y Letras 
+de la Universidad de Buenos Aires, buscó un doble objetivo. Por un lado, presentar 
+a lxs jóvenxs cursantxs las herramientas de trabajo del método filológico y mediante 
+ellas, introducirlxs al área de estudio de las Letras Clásicas; por otro, favorecer el 
+intercambio dialógico, la construcción colectiva de conocimiento y la apropiación 
+de los textos clásicos por parte de lxs jóvenxs estudiantxs de Nivel Medio.  A partir 
+de ello, este trabajo presenta las secuencias didácticas, las reflexiones teóricas y los 
+aportes de una novedosa experiencia de Extensión para los Estudios Clásicos.
+Abstract 
+This article analyses a didactic experience of University Extension in Classics, 
+which was oriented to the academic community of Secondary School Level and 
+taught virtually during the months of August and September 2020. This experience 
+entitled “The others in the eyes of Rome” focused on the representations of four 
+countercultural otherness in Roman society –the political monster, the witch, the 
+barbarian, and the sick–, through the analysis of Latin texts from the Republican 
+and Imperial periods. This activity, within the framework of the “Filo y Secundarios” 
+Programme coordinated by the Secretariat of University Extension and Student 
+Welfare (SEUBE) of the Faculty of Philosophy and Literature of the University 
+of Buenos Aires, pursued a double objective. On the one hand, to introduce young 
+students to the working tools of the Philological method and, in consequence, to 
+draw them into Classics; on the other hand, to encourage the dialogical exchange, 
+the collective construction of knowledge and the appropriation of classical texts by 
+young Middle-Level students. Hence, this article presents the didactic sequences, 
+the theoretical discussions and the contributions of a new experience of Extension 
+for Classical Studies.
+CUADERNOS de literatura
+Revista de Estudios Lingüísticos y Literarios
+Cómo citar: Robledo,  A. E. y Russo, N. (2021). De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras 
+Clásicas a través de la Extensión Universitaria. Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios, 16,  240-256. 
+Resistencia, Argentina, UNNE. ISSN 2684-0499. DOI: http://dx.doi.org/10.30972/clt.0165431
+Palabras clave
+Extensión Universitaria; 
+Estudios Clásicos; 
+Didáctica del Latín;
+Lengua y Literatura
+Keywords
+University Extension; 
+Classics; 
+Didactics of Latin; 
+Language and Literature
+Nicolás Russo**
+UBA-CONICET
+nicolasrusso.917@gmail.com
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+Alexis E. Robledo - Nicolás Russo
+ 241 
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras 
+Clásicas a través de la Extensión Universitaria
+1. Introducción
+En el imaginario colectivo es frecuente la representación de la universidad como un espacio 
+abstraído de las problemáticas cotidianas, cuyo acceso y tránsito está reservado para unos pocos 
+iniciados que han accedido a una práctica tan iluminadora cuanto deliberadamente difícil de dominar: 
+la ciencia. Lejos de ser solo una “creencia popular”, la visión de la investigación científica como una 
+tarea necesariamente ajena a las demandas e intereses del conjunto de la sociedad, y de esta institución 
+como un ámbito educativo separado de la praxis cotidiana, exclusivo y cerrado, continúa vigente como 
+discurso dominante entre gran parte de la comunidad académica. Esta conceptualización, que descansa 
+en una remota etimología de la palabra ciencia,1 soslaya una concepción de la investigación científica 
+que reconoce el carácter dialógico y colectivo de la construcción del saber. En ella, la universidad es un 
+actor fundamental, tal como postula Rinesi (2015, p. 136), a la hora de disponer
+sus dispositivos de investigación y crítica al servicio del desnudamiento de los mecanismos 
+ideológicos que operan por detrás de los mensajes que recibe toda la ciudadanía de los medios de 
+comunicación más poderosos, la de contribuir a que esa misma ciudadanía pueda ser, ella misma, 
+sujeto activo de esos procesos de comunicación masiva, manejando con destreza técnica y profesional 
+las herramientas que le permitan hacer oír una voz propia, autónoma y distinta de esas que le llegan 
+de esos medios tan grandes e influyentes (...) [y a la vez] siendo ella misma protagonista de procesos 
+de comunicación masiva. 
+Desde esta perspectiva, la relación entre universidad y sociedad, pensada tradicionalmente a 
+partir de la separación y de la incomunicación, cobra un nuevo valor como interacción entre dos 
+polos de un mismo fenómeno discursivo: la institución universitaria forma parte de la sociedad, y la 
+investigación científica se ve atravesada por los actores sociales, en tanto “se vuelve necesario comprender 
+los problemas sociales concretos con los sujetos que los viven, en vez de ‘transferirles’ conocimientos ya 
+producidos” (Kaplún, 2013, p. 48). En este sentido, la construcción de un diálogo sostenido y crítico 
+entre investigadores y sociedad se entronca con la tarea de extensión universitaria, uno de los tres pilares 
+de la experiencia universitaria consagrado desde la pionera Reforma Universitaria de 1918,2 tarea que 
+entendemos no como una mera transposición expositiva al público de las prácticas epistemológicas 
+institucionalizadas en los círculos académicos de una determinada disciplina, sino como:
+el conjunto de actividades de colaboración entre actores universitarios y no universitarios, en formas 
+tales que todos los actores involucrados aportan sus respectivos saberes y aprenden en un proceso 
+interactivo orientado a la expansión de la cultura y a la utilización socialmente valiosa del conocimiento 
+1. El vocablo latino scientia  “conocimiento, ciencia, ejercicio de la inteligencia” (Gaffiot,  s.v.) deriva de la raíz protoindoeuropea 
+*skH1-i- “cortar, separar” presente en el verbo scio “saber” (De Vaan, 2009, p. 545).
+2. El 21 de junio de 1918 en la ciudad de Córdoba, en el marco del Primer Congreso Nacional de Estudiantes, se incluye 
+en el documento del proyecto reformista la promoción de la labor extensionista como una de las diez bases necesarias para 
+la Reforma de la educación universitaria (cfr. Bascuñán Valdés, 1963, p. 29).
+Alexis E. Robledo - Nicolás Russo
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+242 
+con prioridad a los sectores más postergados. Desde todas las disciplinas y tradiciones académicas se 
+puede contribuir a impulsar formas de la extensión con tales características, y estrechamente vinculadas 
+tanto con la enseñanza activa como con la auténtica creación de conocimientos. (Arocena, 2011, p. 12)
+A partir de este enfoque, la extensión universitaria es vista no como un hecho aislado y 
+circunstancial sin impacto en la trayectoria educativa y académica de la comunidad, sino como el 
+tercer elemento que completa, problematiza, y expande en el contexto social las tareas de docencia y 
+de investigación características de la institución universitaria. Con todo, lx universitarix resignifica su 
+rol de docente-investigadorx en la tarea extensionista, en la cual es central una relación dialógica de 
+intercambio y reconocimiento mutuo entre las diferentes alteridades que componen la sociedad. En 
+este sentido, el estudio y la reflexión sobre la codificación de las diversas alteridades y, especialmente, 
+de aquellas consideradas disidentes con respecto de la norma social, adquieren especial relevancia en 
+la tarea de la extensión universitaria, como herramientas para repensar la injerencia de los discursos 
+académicos y el efecto que los mismos producen en los saberes que circulan en la comunidad. 
+	En línea con las propuestas teóricas anteriormente presentadas, el presente artículo se centra 
+en el análisis integral de una experiencia de extensión universitaria propia del Área de los Estudios 
+Clásicos, específicamente focalizada en la representación de la alteridad en la Literatura Latina de los 
+siglos I a.C.-I d.C. Dicha experiencia, titulada “Los otros en los ojos de Roma”, fue ideada y coordinada 
+por los autores de este artículo durante los meses de septiembre y octubre de 2020 en el marco del 
+Programa “Filo y Secundarios”, dependiente de la Secretaría de Extensión Universitaria y Bienestar 
+Estudiantil (SEUBE) de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires,3 siendo 
+lxs destinatarixs principales de la experiencia alumnxs de Nivel Medio.4 La propuesta se centra en este 
+grupo educativo, con el fin de visibilizar la orientación en Letras Clásicas, y dar a conocer las puertas 
+que abre el estudio de los textos antiguos y su vigencia.5 Puesto que nuestro artículo no pretende 
+ser simplemente una relatoría, sino ofrecer un aporte crítico que contribuya al creciente campo de 
+investigaciones sobre la Didáctica de las Lenguas y las Literaturas Clásicas mediante el abordaje de 
+una experiencia de Extensión novedosa, analizaremos la importancia de esta a través de tres aspectos. 
+3. El programa “Filo y Secundarios”, aprobado por Resolución del Consejo Directivo Nº 1175/2018, es el primer Proyecto 
+de Extensión pedagógica de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires (FFyL-UBA) que apunta 
+a fortalecer el vínculo entre dicha unidad académica y las escuelas secundarias, mediante la difusión de información de las 
+carreras que se estudian en la facultad, generando información accesible para los estudiantes de Nivel Medio. En vistas de 
+este objetivo, el Programa Filo y Secundarios comprende tres líneas de trabajo: 1) la oferta de cursos cortos para estudiantes 
+de los últimos años del secundario, 2) la realización de actividades y eventos de difusión científico-cultural organizados por 
+cada carrera de la facultad y 3) visitas guiadas a la sede. Vigente desde 2019, en su primer año, este programa ofreció, en la 
+sede Puan de la FFyL-UBA, cursos cortos presenciales introductorios a cada una de las carreras de la Facultad. Durante el 
+año 2020, debido a la situación de distanciamiento social producto de la pandemia de COVID-19, los cursos se realizaron 
+bajo modalidad virtual.
+4. En su mayoría, lxs concurrentxs residían en la zona de AMBA. sin embargo, gratamente y gracias a la virtualidad, 
+pudieron asistir personas de diferentes regiones del país. 
+5. Agradecemos el continuo apoyo institucional de la Secretaría de Extensión Universitaria y Bienestar Estudiantil de 
+la Facultad de Filosofía y Letras de la Universidad de Buenos Aires, y especialmente, la generosidad, profesionalismo y 
+apertura de la Licenciada Lara Gorfinkiel, coordinadora del Programa “Filo y Secundarios”.
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+Alexis E. Robledo - Nicolás Russo
+ 243 
+	En una primera instancia,  abordaremos algunos lineamientos teóricos acerca de la representación 
+de las alteridades en la literatura latina, y la vigencia de sus representaciones en los discursos actuales 
+sobre la otredad, razón por la cual se eligió este eje transversal para abordar el curso. 
+En un segundo apartado, desarrollaremos la necesidad de generar debates en la escuela Media 
+sobre estas representaciones. Esto se debe a la central importancia de la tradición clásica en la enseñanza 
+de la literatura en nuestro país, aun cuando la referencia directa a textos clásicos en la currícula es 
+escasa, lateral y descontextualizada. Asimismo, no es menor el comprobado interés de lxs adolescentxs 
+y jóvenxs por el mundo clásico a partir de la amplia presencia del universo grecolatino en la industria 
+cultural contemporánea. En simultáneo, analizaremos concretamente la experiencia pedagógica de 
+Extensión en relación con lo postulado en los apartados anteriores a la luz del intercambio con lxs 
+concurrentxs, retomando, incluso, algunas de las líneas de pensamiento que han surgido a través 
+del intercambio. En esta experiencia consideramos de vital importancia producir espacios para que 
+lxs futurxs jóvenxs universitarixs encuentren la posibilidad de expresarse y enriquecerse a partir del 
+intercambio colectivo, siendo este uno de los principales objetivos de nuestro taller.
+En las líneas finales, ofreceremos algunas conclusiones que se desprenden de la experiencia 
+pedagógica de Extensión. Consideramos fundamental compartir en el presente trabajo un proceso 
+que ha sido sumamente enriquecedor a partir de una construcción dialógica del conocimiento, tanto 
+para lxs concurrentxs como para nosotros en carácter de docentes-investigadores. Asimismo, nos 
+interesa destacar la dimensión humana que conlleva interpelar y ser interpeladx por el estudio de 
+los textos clásicos, en tanto producto sociocultural. En este sentido, presentaremos a lo largo de estas 
+páginas una propuesta innovadora frente a otras experiencias didácticas que vinculan la Universidad 
+con otros niveles educativos. Con todo, nuestro propósito no es “llevar la Universidad a la escuela, o 
+la secundaria a la Universidad”, sino hacer un trabajo de territorialización socioeducativo, donde se 
+imbrican ambos espacios. A partir de esta experiencia, esperamos iniciar nuevas vías de difusión de los 
+Estudios Clásicos para las juventudes.
+2. Las otredades en Roma: una breve introducción 
+	En los últimos cincuenta años, los Estudios Clásicos han incorporado una gran cantidad de 
+nuevas herramientas conceptuales y aportes teóricos provenientes de otras disciplinas humanas. Esto, 
+lejos de soslayar la tradicional labor filológica, ha renovado y ampliado las líneas de investigación 
+sobre los textos grecolatinos. La aplicación de enfoques teóricos tales como el Análisis del Discurso,6 
+la Estilística7 o la Estética de la Recepción8 a las fuentes clásicas permitió resignificar su estudio 
+más allá de su textura9 interna, al develar nuevas conexiones entre los textos clásicos y su recepción 
+6. Cfr. Conte, 1974; Van Dijk, 1997. 
+7. Cfr. Dangel, 1998.
+8. Cfr. Fowler, 2000; Papanghelis, 2013.
+9. Recuperamos la definición de textura provista por el enfoque sistémico-funcional de Halliday & Hasan (1976), en tanto 
+propiedad que distingue a un texto como un tejido de redes semánticas que funciona como una unidad respecto de su 
+entorno.
+Alexis E. Robledo - Nicolás Russo
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+244 
+comunitaria, en tanto prácticas discursivas que modelan sistemáticamente los objetos de los que 
+hablan (Foucault, 1970, p. 81). A partir de dicha renovación, una de las áreas que cobró mayor 
+impulso, especialmente en los estudios sobre la literatura latina, fue el abordaje de la representación 
+de las otredades/alteridades10 a la norma identitaria romana. Estudios señeros sobre los modelos de 
+femineidad (Pomeroy, 1975), los extranjeros (Balsdon, 1979), la identidad cultural (Laurence y Berry, 
+2001), la visión y el cuerpo (Fredrik, 2002; Gale, 2018), la etnicidad (Derks y Roymans, 2009), y 
+más recientemente, la monstruosidad (Lowe, 2015) coinciden en destacar el íntimo vínculo de la 
+cultura romana con lo espectacular,11 concepto a partir del cual la alteridad se reconoce por sus rasgos 
+exteriores y diferenciadores. Por lo tanto, los ojos y la mirada han sido cruciales para identificar las 
+otredades, es decir, quienes no responden al modelo del civis (“ciudadano”), mediante estereotipos y 
+caracterizaciones construidas a lo largo de la historia de Roma. En este orden de cosas, la literatura 
+funcionó como medio que codificó, orientó y reprodujo esta “mirada romana” (Bartsch, 2006, p. 115-
+164), especialmente sobre tres figuras que simbolizan la otredad en el imaginario de la cultura romana: 
+los monstruos –por la hibridez de sus cuerpos–, las brujas –por apartarse del modelo esperable para la 
+mujer romana– y los bárbaros –por representar universos culturales y geográficos alternativos a Roma. 
+Las concepciones de estos parámetros para entender y observar la otredad no han quedado truncas 
+en la cultura romana, sino que han tenido una fuerte persistencia hasta nuestros tiempos y es posible 
+verlas en los debates de la sociedad actual. Roma, entendida de esta manera, es tanto patrón como 
+fuente cultural de muchas estructuras sociales aún vigentes. De allí la importancia de revisar estas 
+fuentes literarias seleccionadas –heterogéneas en cuestiones de géneros literarios– para observar con 
+detenimiento la realidad. Debido a que en el corpus seleccionado para esta experiencia de Extensión se 
+tematizan estas alteridades, abordaremos brevemente en las siguientes líneas algunos conceptos sobre 
+las otredades, que nos permitirán delimitar sus estereotipaciones.
+	Desde su origen, el término monstrum (“monstruo”) en la cultura romana se vincula íntimamente 
+con el vocabulario religioso, puesto que se trata de un prodigio que advierte acerca de la voluntad de 
+los dioses (Benveniste, 1983, p. 391-396). No obstante ello, los romanos reinventaron los monstruos 
+de la mitología griega –centauros, quimeras, gigantes, entre otros– y, a través de sus cuerpos, le dieron 
+carnadura a la atracción y al peligro de la novedad, oscilando entre la continua referencia textual a los 
+valores sociales y la innovación artística. De esta manera, el significado de los monstruos, entendidos 
+como proyecciones y constructos culturales de la sociedad (Lowe, 2015. p. 6), se ha ampliado con el 
+10. El vocablo “alteridad” posee en su raíz al adjetivo alter, -a, -um, que representa un “otro” que está en segundo lugar (cfr. 
+OLD s.v. alter1) y con el que se puede dialogar (cfr. De Vaan s.v. alter). Sin embargo, el latín posee otras dos formas para 
+llamar a lo “otro”: 1) a través de uter, -tra, -trum, un “otro entre dos” (cfr. OLD s.v. uter3) con un significado distributivo, 
+y, en consecuencia, representa a un otro semejante (cfr. De Vaan s.v. uter); 2) por último, alius, -a, -ud es un otro diferente 
+en su identidad, distinto cuantitativamente (cfr. OLD s.v. alius1), en definitiva, es una otredad ajena e inabordable. Las 
+diferentes representaciones de alteridad que se abordaron en este curso se encuentran atravesadas por el concepto de alius, 
+propio de la epistemología romana. Cabe destacar que en el presente trabajo emplearemos tanto el concepto de alteridad 
+como el de otredad de manera indistinta, ya que ambos vocablos carecen en su etimología de la raíz alius, que designa al 
+tipo de “otros” abordados a lo largo del curso de Extensión (cfr. Balsdon, 1979). 
+11. El término “espectacular” se relaciona con el verbo latino specto, cuyo significado es contemplar con admiración, 
+observar con detenimiento en una dirección definida. De aquí que un espectáculo es una performance concebida para el 
+entretenimiento donde la mirada aguda ocupa un rol protagónico al posarse sobre una serie de acontecimientos dignos 
+de ser contemplados. Por lo tanto, lo espectacular adquiere un valor público de suma importancia en la cultura romana.
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+Alexis E. Robledo - Nicolás Russo
+ 245 
+propósito de representar a la misma literatura y de construir a los enemigos políticos. Para tal fin, 
+seleccionamos la Catilinaria I de Cicerón que da carnadura al monstrum en un sentido político. 
+	Si el enemigo político representado como monstrum corporiza la novedad y la desviación 
+peligrosa del juego del poder a nivel ciudadano, el cual debe contenerse dentro de los límites de la ley, 
+el cuerpo femenino era concebido como un contenedor reconfortante para el esperma del hombre y 
+un mero instrumento que debía garantizar la perpetuación del ciudadano romano a través de un acto 
+privado con resonancias públicas (Berrino, 2006, p. 5). Por otra parte, la mujer romana, confinada 
+al espacio cerrado de la casa, encuentra su lugar en el interior de la sociedad. Asimismo, la mujer, 
+sometida primero a la autoridad del progenitor y luego a la del marido, debía dedicarse al cuidado de 
+la progenie. Medea, en oposición a estas expectativas, se convierte en una mujer fuera del sistema para 
+el imaginario romano: filicida y bruja. Previo al asesinato de sus dos hijos, Ovidio en Metamorfosis 
+(VII.179-289) retrata a Medea como el prototipo de mujer hechicera que transgrede la interioridad 
+del hogar para abrirse al espacio de lo indómito en los bosques, donde, bajo la protección de la noche, 
+puede trastocar las leyes de la naturaleza con ayuda de la magia. 
+	Si Medea representa la transgresión de los límites del espacio civilizado desde el interior, el 
+bárbaro, habitante errante por fuera de la urbs, constituye para el imaginario romano lo primitivo, el 
+desorden, la pulsión erótica, la vida silvestre. Todas estas imágenes están tradicionalmente ligadas a 
+la vida por fuera de la sofisticación política. La presencia de extranjeros en la literatura del Mundo 
+Antiguo es constante: el bárbaro no solo ‘balbucea’ una lengua incomprensible, sino que también 
+representa un cuerpo, una cultura, una geografía diferente (Woolf, 2011, p. 33). Si para los griegos esta 
+diferencia era, en gran medida, exótica y sinónimo de degradación, para la cultura romana, debido a su 
+expansión fuera del Mediterráneo, significó principalmente peligro. En este sentido, Roma transforma 
+al bárbaro en un hostis, un enemigo externo que se opone cultural y militarmente al modelo romano 
+de dominación del espacio. A su vez, el bárbaro es reservorio de un pasado remoto previo a la vida 
+en comunidad, y, aunque carente de adelantos tecnológicos e instituciones políticas complejas, está 
+libre de los vicios y corrupciones de la refinada vida social romana. Por ello, el bárbaro funciona 
+simultáneamente como representación de lo ajeno a Roma y de reflejo de los problemas internos de 
+la sociedad latina (O’Gorman, 1993, p. 137-140). En este sentido, Germania de Tácito condensa esta 
+doble visión del bárbaro, presentando una etnografía de un espacio periférico y misterioso para el 
+imaginario romano (Rives, 2011). A partir de la focalización en el territorio extranjero, Tácito resalta 
+las estereotipaciones comunes de diferentes pueblos bárbaros, aunque también sus particularidades, a 
+la luz de la autorreflexión sobre la moral y la política romanas que ellos suscitan.
+	Ante la contundencia y la estabilidad de estos estereotipos delimitados por la mirada 
+romana, brota inesperadamente una otredad caracterizada por síntomas fisiológicos: lx enfermx. La 
+singularidad de este estereotipo es la fluidez con la que ocupa indistintamente los cuerpos y los espacios 
+tanto normativos como disidentes. En este sentido, lx enfermx se configura como una alteridad que 
+cuestiona la capacidad epistemológica romana para diferenciar la mismidad de la otredad. En épocas de 
+COVID-19, la creciente inestabilidad y cuestionamiento de los órdenes sociales establecidos producto 
+de la crisis sanitaria mundial reflota con inusitada actualidad viejos interrogantes del Mundo Antiguo. 
+Realidades tan cotidianas y complejas como “pandemia”, “contagio”, “morbilidad”, “cuarentena” ya se 
+Alexis E. Robledo - Nicolás Russo
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+246 
+encuentran presentes en la representación que Lucrecio realiza de lxs enfermxs en el episodio de la 
+peste de Atenas (De rerum natura, VI.1136-1286). 
+3. Voces de una experiencia: jóvenes en diálogo con las otredades de Roma
+	A partir de una anterior experiencia de Extensión en el marco del Programa 
+“Filo  y  Secundarios”,12 
+advertimos la existencia de un público juvenil consumidor de la “cultura clásica” en diversos formatos 
+(videojuegos, animé, cómics, series). Aun cuando estxs jóvenxs reconocen un imaginario cultural 
+definido propio del Mundo Antiguo, se encuentran con escasas herramientas y espacios para abordar 
+la cultura grecorromana de modo crítico y contextualizado. Debido al insuficiente abordaje de la 
+literatura clásica en el nivel secundario por diferentes motivos, fue necesario generar un diálogo entre 
+las fuentes clásicas y el campo de conocimiento que poseen lxs jóvenxs sobre este universo. A partir 
+de este escenario, y en continuidad con la grata experiencia de nuestra labor extensionista durante 
+2019 en el marco del Programa “Filo y Secundarios”, creímos oportuno construir un nuevo espacio 
+de reflexión y debate desde la Universidad de Buenos Aires para la comunidad educativa, aportando 
+herramientas de análisis propias del área de Letras Clásicas. 
+En este sentido, nuestros objetivos fueron los siguientes. En primer lugar, reflexionar 
+críticamente en torno a la persistencia de las estructuras discursivas de la Antigua Roma en la 
+actualidad, para examinar las propias representaciones de la otredad que se dan ante los ojos de lxs 
+espectadorxs contemporánexs. Para ello, partimos de una dinámica que privilegiara la “polifonía”13 
+en el intercambio, en tanto que lxs jóvenxs pudieran forjar y nutrir relaciones discursivas entre Roma 
+y el presente en torno de las otredades mediante sus miradas contemporáneas. En vistas de ello, la 
+presentación de cada uno de los encuentros tuvo como segundo objetivo acercar la metodología de las 
+clases universitarias de la Universidad de Buenos Aires con el carácter de una clase teórico-práctica. 
+Asimismo, en otra instancia se presentó el acercamiento y la introducción al plan de estudios y las 
+herramientas de la carrera de Letras y, en particular, a la orientación de Letras Clásicas. Junto con ello, 
+buscamos demostrar el método de trabajo propio de la Filología Clásica. Para ello, en consecuencia, se 
+hizo hincapié, por una parte, en el conocimiento de la lengua latina de primera mano a lo largo de la 
+carrera (junto con el griego, como materias troncales de la orientación) y, por otra parte, en el trabajo 
+interdisciplinario que conlleva abordar los diversos textos literarios producidos por las civilizaciones 
+de Grecia Clásica y Roma Antigua. Por consiguiente, bajo la premisa de que la literatura debe ser 
+abordada en línea con su contexto de producción, procuramos que cada encuentro tuviera siempre 
+un apoyo histórico y cultural para una mayor profundidad en el abordaje de los textos. Asimismo, al 
+reconstruir el universo cultural y la ideología específica que representan las fuentes, se buscó generar 
+12. Durante los meses de agosto y septiembre de 2019, en la sede de la Facultad de Filosofía y Letras de la Universidad de 
+Buenos Aires, se desarrolló el curso de Extensión “Ser un Héroe es un Mito”. Esta experiencia, la primera en dicha unidad 
+académica destinada exclusivamente a alumnos del Ciclo Superior de Nivel Medio, presentó durante cinco encuentros 
+presenciales un acercamiento a la labor filológica mediante la reflexión sobre la figura del héroe y su relación con el mito 
+en fuentes literarias grecolatinas.
+13. Cfr. Bajtín, 1989.
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+Alexis E. Robledo - Nicolás Russo
+ 247 
+en lxs jóvenxs una conciencia crítica en el acto de lectura, sin descuidar el placer y el goce que le son 
+propios a la tarea de reflexión literaria. En consecuencia, puesto que durante el curso consideramos 
+necesario que lxs jóvenxs se apropien de los textos, en la medida en que cada unx de ellxs se convierta 
+en “el lector del texto en el momento en que toma su placer” (Barthes, 2008, p. 12), promovimos que 
+los textos no solo confirmen una experiencia propia de cada lectorx, sino que puedan producir en lxs 
+jóvenxs un goce en tanto lxs desestabilice, lxs movilice, lxs perturbe y les genere interrogantes. En este 
+sentido, el curso desarrolló sus secuencias didácticas a partir de una práctica de lectura de los clásicos 
+que conjugara en el texto su doble valencia: 
+Texto de placer: el que contenta, colma, da euforia; proviene de la cultura, no rompe con ella y 
+está ligado a una práctica confortable de la lectura. Texto de goce: el que pone en estado de pérdida, 
+desacomoda (tal vez incluso hasta una forma de aburrimiento), hace vacilar los fundamentos 
+históricos, culturales, psicológicos del lector, la congruencia de sus gustos, de sus valores y de sus 
+recuerdos, pone en crisis su relación con el lenguaje. Aquel que mantiene los dos textos en su campo 
+y en su mano las riendas del placer y del goce (...) goza simultáneamente de la consistencia de su yo 
+(es su placer) y de la búsqueda de su pérdida (es su goce). (Barthes, 2008, p. 22)
+	Si bien la Escuela Media incluye en la currícula de la materia Prácticas del Lenguaje del Ciclo 
+Básico14 contenidos de literatura grecolatina, estos se abordan didácticamente en tanto “textos de 
+placer”, puesto que, por un lado, son leídos según la tradición crítica como las voces originarias de la 
+cultura occidental, mientras que, por otro lado, se les asigna un carácter diacrónica y sincrónicamente 
+inmutable. En consecuencia, la Escuela Media realiza una lectura unilateral y uniforme de los textos 
+grecolatinos soslayando su plasticidad y dinamismo intrínsecos (Conte-Barchiesi, 1993; Moatti, 2006), 
+lo que provoca una estereotipación de los textos griegos y romanos como temporalmente remotos y, por 
+ende, inaccesibles. A partir de ello, se obtura la posibilidad de debatir críticamente las representaciones 
+socioculturales e ideológicas de estos textos y su vigencia en los discursos actuales, y, en consecuencia, 
+se genera un área de vacancia que oculta la posibilidad de estudiar Letras Clásicas en la Universidad. 
+En este sentido, cada encuentro del curso de Extensión tenía por protagonista el diálogo entre: a) la 
+presentación de los textos en su contexto histórico-cultural; b) la metodología de trabajo literario que 
+se anclaba en la labor filológica, propia de la disciplina de las Letras Clásicas; c) y, sobre todo, las voces 
+de quienes decidieron compartir las dos horas semanales del curso. 
+Debido a estas insoslayables demandas de lxs jóvenxs, planteamos para el año 2020 como 
+parte del Programa “Filo y Secundarios” el curso “Los otros en los ojos de Roma: monstruos, brujas 
+y bárbaros”. Ante las nuevas disposiciones como consecuencia de la pandemia, la presencialidad 
+del curso quedó desplazada a la pura y exclusiva virtualidad. De aquí que pensáramos un cambio 
+definitivo a la hora de cómo abordar este grupo de jóvenes que se disponía a cursar durante cinco 
+encuentros semanales de dos horas reloj de duración.15 A su vez, la virtualidad, cabe destacar, nos 
+14. La antigua materia “Castellano” se denomina, en la mayoría de las jurisdicciones, o bien “Prácticas del Lenguaje”, o 
+bien, en la Ciudad Autónoma de Buenos Aires, “Lengua y Literatura”. Por “Ciclo Básico” nos referimos, dentro de la 
+escolaridad media, ya a los tres primeros años (en los trayectos curriculares de seis años), ya a los dos primeros años de 
+cursada (en los trayectos curriculares de cinco años).
+15. Este curso se desarrolló entre el 23 de septiembre y el 21 de octubre del citado año.
+Alexis E. Robledo - Nicolás Russo
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+248 
+permitió hacer uso de soportes didácticos que en la presencialidad muchas veces quedan desplazados 
+por diferentes razones. A fin de volver más convocante cada encuentro, decidimos hacer énfasis en el 
+uso de soportes que enriquecieran la experiencia pedagógica de la lectura de los textos; el elemento 
+principal de exposición, al no contar con un pizarrón, fue el power point que nos permitió incorporar 
+mapas, representaciones plásticas y audiovisuales, junto con diversas redes conceptuales y definiciones 
+teóricas que facilitaron su incorporación. Todo ello nos permitió ampliar la mirada reflexiva sobre las 
+otredades romanas y su vigencia en los medios gráficos, literarios y culturales actuales, a la vez que 
+fomentábamos la intervención de quienes presenciaban el curso. Luego de cada encuentro virtual, 
+se subía este material creado por nosotros a una carpeta de Drive para que quedara a disposición 
+de lxs asistentxs, permitiéndoles su apropiación y la reflexión crítica de lo trabajado a lo largo del 
+encuentro. Asimismo, el uso del power point nos permitió lograr un acercamiento a los textos en su 
+lengua originaria, el latín. Puesto que no se esperaba que lxs destinatarixs conocieran la lengua de las 
+fuentes, se pusieron a su disposición versiones en español de los textos. Abordamos el trabajo con la 
+lengua latina desde una perspectiva semántico-cultural sobre los vocablos relevantes a la temática de 
+nuestro curso, de modo tal que se pudiera reflexionar sobre su etimología y sus continuidades en el 
+español. Debido a que nuestra labor como filólogxs requiere un trabajo sobre los textos que refleje la 
+unión indisoluble entre la lengua y su contexto histórico-cultural, de allí la necesidad de proporcionar 
+como material didáctico traducciones al español realizadas por nosotros. Para cada encuentro se 
+realizaba una selección del corpus que lxs concursantxs leían con anticipación y que era acompañada 
+por una guía de lectura. Esta pretendía orientar el horizonte de expectativas poniendo el foco en las 
+otredades correspondientes a abordar en cada encuentro. Esta guía tenía por fin adelantar a priori 
+los ejes teóricos que se discutirían, para que luego, desde su propia experiencia y expertise, lxs jóvenxs 
+pudieran intervenir durante los cinco encuentros virtuales con las reflexiones que habían elaborado 
+previamente o bien que se les manifestaban en el momento.
+	En el primer encuentro, decidimos presentar el marco teórico sobre el concepto de alteridad/
+otredad a partir de imágenes sobre estereotipos contemporáneos de lxs otrxs. Estos se representan 
+mediante el prejuicio, la oposición y la negatividad, de modo que se construyen como una amenaza 
+contraria a la identidad. De allí, iniciamos el debate con el interrogante de por qué es importante 
+conocer los modelos de alteridad del pasado, teniendo en cuenta que las civilizaciones de Roma 
+y Grecia Antigua son la base de nuestra sociedad actual. Entre las distintas reflexiones a las que 
+arribaron lxs concursantxs, destacan la continuidad en nuestra época de la cultura grecolatina y, 
+especialmente, sus maneras de representar el mundo, sus miedos y prejuicios sobre las otredades que 
+lxs rodeaban. Una vez presentado el concepto de “alteridad”, consideramos oportuno introducir el 
+método filológico a partir de la triple semántica de la alteridad en latín16 en relación con el contexto 
+sociocultural e histórico de Roma. En este sentido, expusimos brevemente el sistema de valores 
+(virtus, fides, pietas) que comprende el concepto de vir como identidad hegemónica en la cultura 
+latina y su contextualización. Para ello, realizamos una breve síntesis de la evolución histórica de 
+Roma desde el período tardorrepublicano, pasando por el Principado hasta llegar al Alto Imperio, 
+épocas de producción de las obras literarias a abordar durante el curso, las cuales presentamos de 
+16. Cfr. nota 10.
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+Alexis E. Robledo - Nicolás Russo
+ 249 
+modo sucinto. Numerosxs concursantxs intervinieron ampliando esta síntesis histórica y cultural con 
+atinados comentarios y un gran interés por las temáticas presentadas.
+	En nuestro segundo encuentro, titulado “El monstruo político: el caso de Catilina”, iniciamos 
+el debate acerca de la concepción actual que lxs concursantxs poseían sobre el concepto de “monstruo”. 
+Entre sus distintas intervenciones, surgieron como definición del monstrum la composición híbrida 
+de su físico y la imposibilidad epistemológica de abordarlo o de entenderlo. Este último punto es de 
+especial interés, ya que teóricos, como es el caso de Lowe (2015), plantean esto mismo como marca 
+para la identificación de la monstruosidad. Posteriormente, avanzamos hacia la reflexión histórico-
+cultural de los términos monstrum y portentum, puesto que ambos vocablos se relacionan de manera 
+estrecha con el ámbito religioso. A partir de ello, establecimos que el concepto se desplazó hasta abrazar 
+“entidades monstruosas reales”: criaturas y razas exóticas (animales poco conocidos por la cultura 
+romana), individuos con deformidades (libres o esclavos) y “monstruos” morales (desplazamiento 
+metafórico hacia los criminales). En consecuencia, lxs estudiantxs concluyeron que el vocablo monstrum 
+se extendió a aquellos cuerpos que fueran exóticos o que excedieran la norma física y moral vigente 
+en Roma. A continuación, presentamos los primeros personajes que se representaron en la literatura 
+romana como puramente malvados, bestiales y destructivos: Catilina y Cleopatra. Especialmente, la 
+figura de Cleopatra suscitó gran interés entre lxs concursantxs, debido a su trascendencia histórica 
+y los numerosos discursos contemporáneos que la retoman en el arte audiovisual y en el imaginario 
+popular. Ello resultó sumamente productivo para la dinámica de este encuentro, ya que ellxs mismxs 
+comenzaron a desentrañar la figura de Cleopatra como monstruo moral, a partir de los conceptos 
+teóricos discutidos en el encuentro. En relación con esto, presentamos el desarrollo que tuvo la 
+invectiva romana como una retórica de la monstruosidad a fin de configurar los retratos de los sujetos 
+que representaban una otredad, en definitiva, una amenaza. De allí que lxs concursantxs asociaron el 
+carácter negativo, de insulto, que posee el término “monstruo” en nuestro uso actual, o bien, su valor 
+positivo para denominar a alguien que posee habilidades extraordinarias. En última instancia, luego 
+de presentar el contexto histórico de producción de la invectiva de Cicerón a Catilina, comenzamos a 
+analizar diferentes pasajes donde la figura de Catilina es construida a través del discurso ciceroniano 
+como un monstrum. Entre las marcas que lxs participantxs señalaron de la Catilinaria encontramos 
+las siguientes: Catilina no tiene la posibilidad de refrenar sus deseos sexuales; quiebra todas las 
+expectativas propias de un ciudadano varón romano (vir) a la vez que rompe con las estructuras 
+del comportamiento social; es colocado fuera de toda dimensión humana; y posee capacidades que 
+sobrepasan lo humanamente posible, entre otras. 
+El tercer encuentro tuvo por protagonista a las entidades femeninas, de las cuales se destacó 
+la bruja. De aquí que pensamos el título “Contramodelo en torno a lo femenino: la bruja Medea en 
+Metamorfosis de Ovidio”. Para comenzar, planteamos los elementos estructurantes de las mujeres en la 
+literatura latina y repusimos la importancia de la verecundia (en su relación con la constante prohibición 
+para la mujer de asumir un rol activo en el contexto público), la pudicitia (en tanto que designa la 
+condición de inviolabilidad del cuerpo de las mujeres de nacimiento libre), la rapacitas (concebidas 
+como seres depredadores) y la mendacitas (la capacidad de manipular a través de la mentira). Esto nos 
+llevó a cuestionar la supuesta concepción de inferioridad de la mujer, pero sustentada a partir de una 
+Alexis E. Robledo - Nicolás Russo
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+250 
+paraetimología17 propia de la cultura romana a la vez que recordamos los valores positivos que posee 
+todo vir en tanto ciudadano, tematizados en el primer encuentro. En consecuencia, la debilidad del 
+sexo femenino deviene de su “blandura”, es decir, de su debilidad física y psicológica (imbecillitas), de 
+su debilidad moral (impotentia) por no ser capaz de moderar sus propias pasiones e impulsos, y su 
+debilidad jurídica (infirmitas) y, por lo tanto, dependencia legal de un varón. Estas actitudes, junto 
+con otras como la imposibilidad de soportar (impatientia) y la frivolidad (levitas), excluyen a la mujer 
+históricamente del espacio público.18 De este modo, la segregación de género impone una segregación 
+del espacio civil; he aquí que el espacio de la domus es el espacio tradicional competente de la mujer, 
+mientras que el forum representa el territorio de exclusiva injerencia masculina. Este último punto fue 
+de vital importancia ya que hizo reflexionar entre lxs integrantxs del curso cuál es el espacio de acción 
+de las denominadas brujas, en la medida en que acceden a espacios liminales por fuera de la domus, 
+transgrediendo los límites de lo esperable a los ojos de los ciudadanos romanos. Sin embargo, con 
+el fin siempre de contextualizar los temas abordados, presentamos las características estereotipantes 
+que construyeron en el imaginario de la literatura romana la figura de las brujas. Entre ellas, nos 
+interesó particularmente la figura de Medea en tanto la representación forjada de ella en la tradición 
+literaria es la de una bárbara (no respeta el espacio de la civitas), una filicida (viola el principio de 
+maternidad tras asesinar a sus propios hijos) y una hechicera (contradice los ritos oficiales romanos). 
+A partir de ello, abordamos Metamorfosis de Ovidio y profundizamos la lectura del poema a partir 
+de tres notas características: la animalización del personaje (puesto que Medea abandona la civitas y 
+la vestimenta que la vuelve un sujeto civilizado); la manipulación de los elementos del reino animal, 
+vegetal y cósmico; y, por último, la demiurgia, al desarmar y recomponer el cuerpo de suegro. El 
+intercambio con lxs concursantxs fue sumamente enriquecedor, puesto que habían podido detectar 
+estos elementos señalados a partir de haber realizado una lectura detallada del texto fuente y de pensar 
+la guía de lectura elaborada para este encuentro. 
+	En el cuarto encuentro del curso, nos centramos en una de las otredades más extremas 
+representadas por la literatura latina: el bárbaro. Dado que los pueblos allende la frontera representaban 
+para la identidad romana su complemento opositivo y negativo por antonomasia, titulamos este 
+encuentro “Los bárbaros somos (nos)otros: Roma y sus vecinos en la frontera de la comprensión”. 
+Comenzamos presentando el origen helénico del concepto de “barbarie” como espacio opuesto a la 
+civilización y caracterizado por la carencia de ley, moral y discurso, rasgos propios de la pólis. La falta 
+de un discurso elocuente como marca del “bárbaro” disparó la reflexión de una concurrente, quien 
+intervino recordando el significado griego del étimo βάρβαρος con la acción de balbucear. A partir 
+de ello, introdujimos la caracterización del bárbaro como una identidad liminal, dado que la ausencia 
+de rasgos físicos y simbólicos de humanidad lo colocan en la periferia territorial y epistemológica con 
+respecto del centro mediterráneo. En este punto, resultó sumamente enriquecedora la intervención de 
+unx de lxs jóvenxs, quien apuntó la marcada caracterización del bárbaro como una otredad definible 
+17. Lact. Opif. 12.17: De este modo, “mujer” (mulier), como Varrón interpreta, [proviene] de “blandura” (mollities), palabra 
+tomada y sin cambios, como “si se volviese muelle” (mollier).
+18. A medida que avanzábamos con estas características, la figura que volvía de manera recurrente entre lxs asistentxs era 
+de la Cleopatra, ya no entendida solamente como un monstruo, sino que se planteaba desde un lugar diferente: como una 
+mujer extranjera que no respetaba su doble condición para los ojos del vir Romanus.
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+Alexis E. Robledo - Nicolás Russo
+ 251 
+por el concepto de alius.19 Dicha reflexión nos llevó a presentar la intrínseca relación existente en el 
+mundo grecolatino entre la representación geográfica y la caracterización socio-conductual de los 
+grupos humanos, específicamente sustentada en la Antigüedad grecolatina por la división de la Tierra 
+en zonas climáticas de habitabilidad propuesta por Eratóstenes y reforzada por la teoría etiológica de 
+Hipócrates. A fin de reflexionar sobre la ubicación geográfica periférica de los bárbaros como producto 
+de una mirada grecorromana totalizadora del espacio (corocentrista) y de la sociedad (etnocentrista), 
+incluimos en las diapositivas numerosas imágenes de mapas e itineraria de la época,20 las cuales 
+produjeron un intenso debate entre lxs concurrentxs sobre los prejuicios que acarrea la cartografía en 
+las poblaciones representadas. En esta línea, el intercambio produjo la puesta en común de algunas 
+consecuencias fundamentales en la relación del mundo grecolatino con las otredades, tales como: la 
+idea de superioridad cultural, moral y física en la mente grecolatina, sustentada en una explicación 
+de carácter racional del entorno geográfico y el comportamiento humano; el determinismo de las 
+condiciones ambientales en el desarrollo técnico y artístico de una sociedad; y la aparición de una 
+«jerarquía de pueblos y regiones», con griegos y romanos como centro y periferias cada vez más 
+bárbaras conforme se viaja hacia los márgenes. Estas ideas nos permitieron retomar la importancia 
+de la mirada en la cultura romana como dispositivo discursivo que crea representaciones ideológicas 
+estandarizadas de la otredad, y abrir el análisis a su presencia textual en la literatura del período 
+imperial, más precisamente, de época flavia. A partir de ello, trabajamos sobre pasajes de Germania de 
+Tácito, centrándonos en la representación estereotipada del bárbaro a través de las siguientes “etiquetas” 
+geográficas, físicas, culturales, y etiológicas: la relación centro-periferia entre Roma y Germania, que 
+propone Italia como centro geográfico que subordina las tierras al norte del Imperio (Germ., c.1); la 
+desmesura corporal y conductual de los germanos ligada a la hostilidad climática de su tierra (c.2); la 
+presencia de Interpretatio Romana en la transposición de los modelos culturales romanos a dioses e 
+instituciones bárbaras (c.3-4); y la comparación negativa que contrasta la carencia bárbara frente a la 
+plenitud romana (c.6-9), procedimiento que funciona como un discurso que reafirma la identidad de 
+la propia cultura al describir al otro (c.33-37). Al analizar estos pasajes en conjunto, lxs concursantxs 
+aportaron relaciones de comparación sumamente interesantes entre la estereotipación antigua de los 
+bárbaros y las actitudes etnocentristas y racistas modernas de los países centrales hacia los migrantes del 
+Tercer Mundo. En consonancia con estas reflexiones, presentamos material de historietas argentinas 
+(Bárbara y Nippur de Lagash) y norteamericanas (Conan el Cimerio) cuyos protagonistas bárbaros 
+reflejan en su corporalidad y etiología la mirada etnográfica romana representada por Tácito en 
+Germania, lo cual produjo en lxs concursantxs interesantes proyecciones de este mecanismo discursivo 
+romano a la cultura popular audiovisual contemporánea.
+En nuestro último encuentro, “De la peste de Atenas en el ayer a la pandemia de hoy: el 
+enfermo y el outsider”,  a partir del poema didáctico-filosófico De rerum natura de Lucrecio ampliamos la 
+interdisciplinariedad del trabajo; en la medida que presentamos la literatura inmersa en su contexto de 
+producción, también debimos reponer el contenido filosófico del sistema epicúreo. Literatura, historia 
+19. Cfr. nota 10.
+20. Reprodujimos el Mapa de Claudio Ptolomeo, la Tabella Peutingeriana, el Mapa de las cinco zonas de la Tierra según 
+Macrobio y un esquema cosmográfico de la ecúmene según Eratóstenes.
+Alexis E. Robledo - Nicolás Russo
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+252 
+y filosofía convergieron en nuestro último encuentro con el fin de ir buscando en las reflexiones de los 
+antiguos y, así, entender nuestra compleja realidad sanitaria. El último contenido teórico reflexiona 
+acerca de los miedos, tabúes y estereotipos sobre la peste presentes en el mundo romano a través 
+de la peste de Atenas y su continuidad en nuestra sociedad. Entre las interesantes reflexiones que 
+surgieron en esta última instancia, cabe destacar, por ejemplo, la manera en la que un concursante 
+entendió la enfermedad que asola con la comunidad ateniense. Este joven entendió la enfermedad 
+como la imposibilidad de los ciudadanos para alcanzar la ataraxia –concepto fundamental en la 
+filosofía epicúrea que representa la imperturbabilidad solo alcanzada por el sabio y, en consecuencia, 
+la felicidad. A su vez, este mal que se manifiesta en el interior de lxs ciudadanxs no solo lxs desgarra 
+internamente de manera individual, sino que lxs desgarra en su tejido social, entendiendo al “Estado” 
+como un cuerpo.21 Son lxs mismxs ciudadanxs lxs que afuera pelean con enemigxs externxs, pero 
+en el interior de la ciudad pelean por sobrevivir al enemigo interno, la peste. Por otra parte, con el 
+propósito de reflexionar sobre nuestros días, Lucrecio mediante, se ha decidido también abordar el 
+arte cinematográfico a través de la película Joker (2019) para revisar diversas cuestiones en torno a los 
+outsiders –sujetos que han quedado fuera del sistema– y retomar algunos temas abordados a lo largo del 
+curso: los monstruos contemporáneos, la caracterización femenina de la hechicería y la estereotipación 
+del bárbaro. Este último encuentro ha sido sumamente movilizador, puesto que lxs integrantxs, a 
+través de sus intervenciones, dieron cuenta de las herramientas teóricas adquiridas a lo largo del curso 
+de Extensión no solo para reflexionar sobre la peste de Atenas en el poema de Lucrecio o en la película 
+Joker, sino también para escudriñar y analizar nuestro complejo presente.
+4. Extender la mirada del texto al contexto: reflexiones finales sobre la experiencia 
+Resulta innegable que el mundo romano ha permeado innumerables capas de nuestra cultura 
+y sociedad contemporáneas. A menudo de modo inconsciente, Roma y su civilización perviven en 
+lo cotidiano a través de nuestra lengua, el sistema jurídico, la construcción política o la organización 
+urbana. Sin desconocer dicha influencia, uno de los aportes más duraderos del mundo romano en 
+nuestra vida diaria son sus textos, y las múltiples representaciones culturales, religiosas, geográficas e 
+identitarias que ellos construyen. En vistas de ello, el recorrido de “Los otros en los ojos de Roma” se 
+propuso desde un primer momento deconstruir la mirada romana sobre la propia identidad y las diversas 
+alteridades que la complementaban mediante el diálogo entre las herramientas de análisis propias de 
+la Filología Clásica y los preconceptos, saberes y aportes de jóvenxs estudiantxs de Nivel Medio. Si 
+bien la incertidumbre del contexto actual de pandemia nos suscitó no pocas inquietudes y temores 
+ante la organización y difusión de la propuesta, la readaptación a la virtualidad de secuencias didácticas 
+y la recreación de una atmósfera de intercambio fluido y debate en un contexto de distanciamiento 
+social, “Los otros en los ojos de Roma” se convirtió, integralmente, en una experiencia profundamente 
+enriquecedora e iluminadora para todxs aquellxs que formamos parte de ella durante su realización. 
+21. El modo de ver el Estado como cuerpo recuperó el contenido del encuentro sobre monstruosidad, donde reflexionamos 
+acerca de la representación de Catilina como monstrum en la medida en que era un agente que infectaba el cuerpo de la 
+República. 
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+Alexis E. Robledo - Nicolás Russo
+ 253 
+En estas líneas finales, compartiremos algunas de las impresiones y reflexiones que nos produjo este 
+grato recorrido.
+En primer lugar, todas aquellas dificultades técnicas, administrativas y operativas que a priori 
+temíamos fueron salvadas por la organización y seriedad del trabajo extensionista de la Secretaría de 
+Extensión y Bienestar Estudiantil de la Facultad de Filosofía y Letras de la Universidad de Buenos 
+Aires, quienes pusieron a nuestra entera disposición sus canales de difusión y sus recursos tecnológicos. 
+En consonancia con ello, la realización de la propuesta mediante salas de reunión virtuales amplió con 
+creces la difusión del curso, puesto que permitió la participación regular de más de setenta jóvenxs 
+alumnxs de Nivel Medio de distintas partes del país, interesadxs tanto por la carrera de Letras como 
+de Historia. Asimismo, a partir de la inscripción realizada mediante un formulario digital abierto, 
+detectamos con sorpresa la concurrencia de docentxs de las áreas mencionadas, quienes manifestaron 
+su interés en la experiencia debido tanto al carácter interdisciplinario de la propuesta, como a la falta 
+de nuevas herramientas didácticas para abordar la literatura clásica en las clases de Nivel Medio. Esta 
+última situación, aunque inesperada, resultó sumamente fructífera, ya que sumó nuevas voces que 
+enriquecieron el diálogo con los textos latinos abordados durante el curso, a partir de la diversidad 
+de sus experiencias, trayectorias, edades y procedencias. La dinámica de estos intercambios, que 
+excedieron el espacio de los encuentros virtuales,22 evidenció el enorme interés y vigencia que provoca 
+la cultura latina entre lxs jóvenxs contemporánexs a partir de su consumo de la industria cultural 
+actual y sus discursos. Asimismo, resultó muy interesante el impacto que causó en lxs presentxs 
+descubrir las continuidades discursivas –frecuentemente de modo subliminal– de la cultura romana 
+en nuestra contemporaneidad, y la profundidad de los análisis y relaciones críticas que establecían 
+lxs concurrentxs entre las alteridades romanas y los estereotipos sociales de la disidencia en nuestra 
+sociedad contemporánea. En este sentido, resultó movilizante el tercer encuentro sobre disidencias 
+femeninas, a través de cuyos debates lxs jóvenxs hicieron manifiestas las diversas representaciones 
+históricas de la mujer y su relación con las problemáticas de género que atraviesan transversalmente 
+nuestra sociedad. En consecuencia, la potencia de las figuras femeninas de la Antigüedad Clásica en la 
+reflexión crítica sobre las temáticas de género y sexualidad, reconocida y debatida por lxs participantxs 
+de nuestra experiencia, nos permite pensar en una continuidad del curso en torno a la figura de mujer 
+en el mundo grecorromano. 
+22. Luego de cada encuentro, se ampliaban las discusiones abordadas con los numerosos reflexiones y análisis que lxs 
+jóvenxs nos acercaban a la dirección de correo electrónico que habilitamos oportunamente para consultas. De entre estos 
+aportes sumamente criteriosos, recuperamos textualmente dos correos, remitidos por Rocío P., una joven estudiante, ambos 
+en respuesta al tercer encuentro:
+1º correo: “Hola! Primero que nada quería agradecer por el tiempo que le dedican al curso, que está muy bueno y se aprende 
+mucho. Por otro lado, no sé si verán el mensaje pero no quería extender tanto la clase con mi pregunta y, sin embargo, me 
+quedé con ganas de hacerla. A mí Medea, y en especial las pinturas que mostraron, me hicieron acordar mucho a Wonder 
+Woman (Diana Prince) y las amazonas en su isla, Themyscira. Sé que hay algo de mitología por ahí, así que tal vez podrían 
+decir algo más acerca de ella. Bah, no sé, pero es una asociación que se me ocurrió y que me gusta mucho.”
+2º correo: “Hola! Muchas gracias por responder y no, no me abrumaste, me encanta aprender un poco más. Conozco 
+mucho más de cómics que de mitología y si bien me encanta, acuerdo en que es un poco difícil ver a Wonder Woman en 
+ese mundo. Es más, me hiciste recordar un fragmento y un comentario que leí hace poco de su historia, y te dejo las fotos 
+más abajo para que los leas, aunque teniendo en cuenta la época y la biografía del autor está bastante bien. Sin embargo, 
+ahí está otra vez la voz de la mujer que surge a partir del hombre.”
+Alexis E. Robledo - Nicolás Russo
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+254 
+En segundo lugar, el entusiasmo y la predisposición a la reflexión y construcción colectiva de 
+conocimiento de lxs jóvenxs estudiantxs y docentxs que participaron del curso de Extensión “Los otros 
+en los ojos de Roma” nos interpelan directamente en nuestra tarea como docentxs e investigadorxs. Por 
+un lado, pudimos confirmar que la práctica de lectura y discusión colectiva de los textos antiguos, tan 
+propia de las scholae de gramática imperiales durante el Tardoantiguo, puede revitalizarse y renovarse a 
+partir de las nuevas miradas de las juventudes actuales en relación con nuestra moderna reapropiación 
+de los clásicos como lectores del siglo XXI. Por otro lado, el diálogo entre la Universidad y la Escuela 
+Media, amplía nuestras lecturas y perspectivas sobre los textos latinos, puesto que enriquece y extiende 
+nuestra mirada en el encuentro con esxs “otrxs lectorxs” hacia un espacio que se nos devela a lxs jóvenxs 
+y también a nosotrxs mismxs, simultáneamente, tanto objeto de estudio como fuente de goce: el texto 
+clásico. 
+A modo de cierre del presente trabajo (y como puntapié a nuevas discusiones e intercambios), 
+nos interesa dejar abierto a debate la visión tradicional de los “clásicos” como textos “inmutables”, 
+“perennes” o “solemnes”, a partir de nuestra adhesión a la singular mirada de Jorge Luis Borges sobre 
+los textos clásicos (Otras Inquisiciones, “Sobre los clásicos”, 1952):
+Las emociones que la literatura suscita son quizá eternas, pero los medios deben constantemente 
+variar, siquiera de un modo levísimo, para no perder su virtud. Se gastan a medida que los reconoce el 
+lector. De ahí el peligro de afirmar que existen obras clásicas y que lo serán para siempre. (...) Clásico 
+no es un libro que necesariamente posee tales o cuales méritos; es un libro que las generaciones de los 
+hombres, urgidas por diversas razones, leen con previo fervor y con una misteriosa lealtad.
+Referencias bibliográficas
+Arocena, R. (2011). Curricularización de la extensión: ¿por qué, cuál, cómo? En Arocena, R. et al. 
+(eds.), Integralidad: tensiones y perspectivas. Cuadernos de Extensión n.º 1 (pp. 9-18), Montevideo, 
+Universidad de la República.
+Balsdon, D. (1979). Romans and Aliens. Raleigh, University of North Carolina Press.
+Barthes, R. (2008). El placer del texto y lección inaugural. De la cátedra de Semiología Literaria del Collège 
+de France. Buenos Aires, Siglo XXI. 
+Bartsch, J. (2006). The Mirror of the Self: Sexuality, Self-Knowledge, and the Gaze in the Early Roman 
+Empire. Chicago, IL.
+Bascuñán Valdés, A. (1963). Universidad. Cinco ensayos para una teoría de la universidad latinoamericana. 
+Santiago de Chile, Andrés Bello. 
+Benveniste, E. (1983). Vocabulario de las instituciones indoeuropeas. Madrid, Taurus.
+Berrino, N. F. (2006). Mulier potens. Realtà femminili nel mondo antico. Lecce, Galatina.
+Conte, G. B. y Barchiesi, A. (1993). Imitazione ed arte allusiva. Modi e funzioni dell‘intertestualità. Lo 
+spazio letterario di Roma antica, 1, 81-114.
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+Alexis E. Robledo - Nicolás Russo
+ 255 
+Conte, G. B. (1974). Memoria dei poeti e sistema letterario. Torino, Sellerio Editore.
+Dangel, J. (1998). Oratio uincta: linguistique et métalinguistique d’une poétique du sens. En Nieto 
+Ballester, E. et al. (eds.), Estudios de lingüística latina: actas del IX Coloquio Internacional de Lingüística 
+Latina. Universidad Autónoma de Madrid, 14-18 de abril de 1997 (pp. 1101-1114), Madrid, UAM.
+De Vaan, M. (2008). Etymological Dictionary of Latin and the Other Italic Languages. Leiden, Brill.
+Derks, T. y Roymans, N. (eds.) (2009). Ethnic Constructs in Antiquity. Amsterdam, Amsterdam 
+University Press.
+Foucault, M. (1970). La arqueología del saber. México, Siglo XXI.
+Fowler, D. (2000). Roman Constructions. Readings in Postmodern Latin. Oxford, Oxford University 
+Press.
+Fredrick, D. (ed.) (2002). The Roman Gaze: Vision, Power, and the Body. Baltimore, Johns Hopkins.
+Gale, M. R. y Scourfield, J. H. D. (eds.) (2018). Texts and Violence in the Roman World. Cambridge, 
+Cambridge University Press.
+Glare, P. G. W. (ed.) (1985). Oxford Latin Dictionary. Oxford, Clarendon Press.
+Kaplún, G. (2013). La integralidad como movimiento instituyente en la universidad. InterCambios. 
+Dilemas y transiciones de la Educación Superior, 1, 1, 44-51.
+Laurence, R. y Berry, J. (2001). Cultural Identity in the Roman Empire. London, Routledge.
+Lowe, D. (2015). Monsters and Monstrosity in Augustan Poetry. Ann Arbor, University of Michigan 
+Press.
+Moatti, C. (2006). Translation, Migration, and Communication in the Roman Empire: Three Aspects 
+of Movement in History. Classical Antiquity, 25, 1, 109-140.
+O’Gorman, E. (1993). No Place like Rome: Identity and Difference in The Germania of Tacitus. 
+Ramus, 22, 2, 135-154.
+Papanghelis, T. D.; Harrison, S. J. y Frangoulidis, S. (eds.) (2013). Generic Interfaces in Latin Literature: 
+Encounters, Interactions and Transformations. Trends in Classics 20. Berlin-Boston, De Gruyter.
+Pomeroy, S. (1975). Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity. London, Pimlico.
+Rinesi, E. (2015). Filosofía (y) política de la Universidad. Buenos Aires, UNGS.
+Rives, J. B. (2011). Roman Translation: Tacitus and Ethnographic Interpretation. En Harland, Ph. 
+(ed.), Travel and Religion in Antiquity (pp. 165-186), Ottawa, WLUP.
+Van Dijk, T. (1997). Discourse Studies. A Multidisciplinary Introduction (vol. 1 y 2). London, Sage.
+Woolf, G. (2001). Tales of the Barbarians: Ethnography and Empire in the Roman West. London, Wiley-
+Blackwell.
+Alexis E. Robledo - Nicolás Russo
+De los ojos de Roma a las voces de lxs jóvenxs: una vía para presentar las Letras Clásicas a través de la Extensión Universitaria
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 16 (2021). ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0165431
+256 
+*Alexis Emanuel Robledo es Licenciado en Letras con orientación en Lenguas y Literaturas Clásicas 
+(Universidad de Buenos Aires, Facultad de Filosofía y Letras, 2020), se desempeña como Ayudante 
+de Segunda de Lengua y Cultura Latina de dicha Casa de Estudios. Ha participado como Adscripto 
+y se desempeña como investigador de proyectos UBACyT y GICP. Ha participado en encuentros 
+académicos nacionales y ha publicado artículos sobre la especialidad en el país y en el exterior. En los 
+últimos años, conformó parte del equipo que tradujo y editó De Rerum Natura, de Lucrecio para la 
+Editorial “Las Cuarenta” (2020).
+**Nicolás Russo es Profesor en Letras con orientación en Lenguas y Literaturas Clásicas (Universidad 
+de Buenos Aires, Facultad de Filosofía y Letras, 2016), es Auxiliar Docente de Lengua y Cultura 
+Latina de la citada Casa de Estudios. Es Becario Interno Doctoral de CONICET desde 2018. Forma 
+parte de proyectos de investigación (UBACyT, PICT, SECYT) sobre las transformaciones genéricas 
+en la literatura latina, asistió a numerosos congresos del área y cuenta con publicaciones especializadas. 
+Ha participado en la traducción y edición de De Rerum Natura, de Lucrecio para la Editorial “Las 
+Cuarenta” (2020).
+Recibido: 01/04/2021
+Aceptado: 28/05/2021

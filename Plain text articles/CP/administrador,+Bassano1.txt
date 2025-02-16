@@ -1,0 +1,1226 @@
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+INTERFACES 
+Y 
+LENGUAJE: 
+NUEVAS 
+CONSIDERACIONES EN TORNO A LA INTERFAZ 
+CONCEPTUAL-INTENCIONAL 
+  
+ 
+Marcela Bassano 
+Universidad Nacional de Rosario 
+marcelabassano@hotmail.com 
+ 
+ 
+ 
+Resumen: 
+En 
+el 
+marco 
+del 
+Minimalismo Biolingüístico, tanto la 
+naturaleza como el contenido y el lugar 
+en el diseño del lenguaje de la interfaz 
+conceptual-intencional han suscitado 
+una serie de reformulaciones que no 
+solo han impactado en las relaciones 
+entre el lenguaje y el pensamiento sino, 
+fundamentalmente, en la pregunta 
+acerca de qué es el lenguaje. En este 
+trabajo no proponemos abordar el 
+devenir de esos distintos estadios de la 
+formulación de dicha interfaz en 
+relación a la interfaz sensorio-motora, 
+por un lado, y los aspectos evolutivos 
+del lenguaje humano por el otro. En 
+relación a esto trabajaremos los desarrollos 
+del propio Chomsky como así también la 
+manera en la que han impactado los 
+argumentos 
+de 
+Hinzen 
+en 
+la 
+determinación del estatuto de la 
+interfaz conceptual-intencional y en las 
+últimas especulaciones chomskianas en 
+su trabajo escrito conjuntamente con 
+Berwick en el 2016.  
+ 
+Palabras 
+claves: 
+interfaces 
+– 
+biolingüismo – evolución - lenguaje 
+ 
+ 
+Abstract: Within the framework of 
+Biolinguistic 
+Minimalism, 
+the 
+conceptual-intentional 
+interface’s 
+nature, content and place within 
+language design have raised a series of 
+reformulations which have made an 
+impact not only on the relations 
+between language and thought but 
+esentially on the question regarding 
+what language is as well. In this paper, 
+we 
+attempt 
+to 
+deal 
+with 
+the 
+development of the different stages in 
+the formulation of the conceptual-
+intentional interface in relation to the 
+sesorimotor interface on the one hand 
+and the evolutionary aspects of human 
+language on the other. With regard to 
+this, we not only tackle Chomsky’s 
+developments but also the way in 
+which Hinzen’s arguments have had an 
+effect in the determination of the 
+conceptual-intentional interface’s statue 
+and in the latest Chomskian reflections 
+in his co-written work with Berwick in 
+2016. 
+ 
+Keywords: interfaces – biolinguism – 
+evolution - language 
+ 
+    
+ 
+ 
+222 
+ 
+1. Introducción 
+ 
+A partir de los años 90, resuelto el problema de encontrar en 
+la GU un formato universal que permitiera explicar la 
+adquisición del lenguaje, el programa chomskiano, se formula 
+una pregunta que inaugurará la etapa Minimalista y 
+Biolingüística y consecuentemente, que es lo que aquí nos 
+interesará trabajar, la teorización en torno a las interfaces del 
+lenguaje. La pregunta podríamos reducirla en una primera 
+instancia, a lo siguiente: ¿hasta qué punto los principios de la 
+facultad de lenguaje pueden reducirse a propiedades más 
+profundas y naturales de la computación? La pregunta es ¿por 
+qué elige ahora este cauce? La respuesta, es lo que 
+intentaremos desarrollar en este trabajo. 
+ Cuáles son esas propiedades “profundas” y “naturales” de 
+la computación es lo que conduce a pensar a la facultad de 
+lenguaje dependiente de otros sistemas que también están en la 
+cabeza pero que no forman parte del sistema lingüístico, esto 
+es, el sistema de pensamiento o interfaz conceptual-intencional 
+(CI) y el sistema de sonido, o interfaz sensorio-motora o 
+articulatorio-perceptual (AP). Lo que se supone desde este 
+cambio en el papel de la facultad de lenguaje, es que la misma 
+procesa datos encaminados a servir a los sistemas de actuación 
+relacionados con el pensamiento simbólico y la activación 
+motriz de los órganos vocales. 
+  Para el programa chomskiano siempre fue menos 
+complicado determinar qué es lo que tenemos en la cabeza en 
+términos fonético-fonológicos, de aquí que sobre la interfaz 
+AP las cosas hayan estado más claras; de hecho, es un sistema 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+que externaliza la producción y construcción de las expresiones 
+a partir de los datos sensoriomotores de la percepción.  
+ En cambio, la misma situación no se repite para los 
+aspectos involucrados en la interfaz relacionada con los 
+aspectos del significado. Así, a pesar de que se ha escrito 
+mucho en torno, fundamentalmente, a la interfaz CI no es 
+tanto lo que ha dicho concretamente el Biolingüismo sobre 
+qué es y qué contiene, razón por la cual, la determinación de su 
+estatuto desde siempre se ha tornado, al menos, vaga. Qué es 
+lo que realmente tenemos en la cabeza a nivel conceptual 
+pareciera ser que constituye un misterio dado que no surge del 
+mismo Chomsky una caracterización precisa en términos 
+sistemáticos. A lo largo de sus escritos, ni ubica al sistema de 
+pensamiento en el mismo lugar ni tampoco atribuye a ambas 
+interfaces el mismo estatuto salvo al principio de su 
+formulación (Chomsky, 1995). Luego, en Chomsky (2002, 
+2005 2007, 2016) atribuye a ambas interfaces, y a la misma 
+interfaz CI distintas ubicaciones en el diseño de la arquitectura 
+del lenguaje y asimetrías en el orden de aparición, en términos 
+evolutivos y también en cuanto al papel que cumplen en el 
+lenguaje. ¿Cuáles son las razones de estas diferencias?  
+ La fundamental, es que en el Biolingüismo la preocupación 
+chomskiana reside en ver a las interfaces en relación a cómo ha 
+evolucionado el lenguaje, cuáles son las propiedades distintivas 
+del lenguaje humano y cómo puede explicarse, en definitiva, 
+por qué somos solo los seres humanos los que tenemos 
+lenguaje. La tercera de las cuestiones es lo que ocupa al 
+Chomsky del 2016 en su libro escrito en colaboración con 
+Berwick. Pero antes de llegar a lo que piensa en el 2016 acerca 
+ 
+224 
+ 
+de estas cuestiones, es necesario, repasar cómo y por qué llega 
+a reconsiderar el origen y el estatuto de las interfaces. 
+  En el acercamiento Biolingüistico, uno de los interrogantes 
+fundamentales es investigar al lenguaje como un objeto natural, 
+es decir, como cualquier otro sistema biológico, en la medida 
+en que cree que las respuestas a estas cuestiones son 
+fundamentales no solo para comprender la naturaleza y el 
+funcionamiento de los organismos y sus subsistemas sino 
+también para investigar su crecimiento y evolución. Dentro de 
+esta preocupación se encuentra otra, la de determinar cuáles y 
+cómo son las relaciones entre lenguaje y pensamiento. Esta 
+discusión a su vez se enmarca en el estatuto de la interfaz 
+conceptual – intencional que dispara la cuestión acerca de si el 
+sistema de pensamiento o interfaz conceptual-intencional es o 
+no una parte intrínseca del lenguaje, más precisamente de la 
+facultad de lenguaje en sentido estrecho. (FLE). 
+De este modo, la Facultad de Lenguaje está a la par de otros 
+sistemas biológicos de los organismos y es por esto que puede 
+estudiarse como parte del mundo natural. Si lo anterior es 
+plausible, en la búsqueda de esos principios más profundos de 
+la computación, es posible homologar los factores que la 
+Biología Moderna cree que entran en juego en el desarrollo y la 
+evolución de los organismos y los implicados en el origen, 
+evolución y desarrollo del sistema cognitivo lingüístico u 
+“órgano del lenguaje” en los seres humanos. Los componentes 
+que propone el generativismo en cuanto a la adquisición del 
+lenguaje (la GU, la experiencia lingüística, es decir, los datos y 
+las condiciones externas) podrían corresponderse con los tres 
+factores que intervienen en la evolución de las especies: a) la 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+información genética, b) la selección natural (la adaptación al 
+ambiente) y c) las restricciones estructurales que limitan la 
+variedad y la forma de los organismos y los sistemas 
+complejos. Así, Chomsky (2005) homologando a la biología, 
+piensa en tres factores que entran en el diseño y 
+funcionamiento del lenguaje humano:  
+Asumiendo que la facultad del lenguaje tiene las 
+propiedades generales de otros sistemas biológicos, 
+podríamos, por lo tanto, explorar tres factores que entran 
+en el crecimiento del lenguaje en el individuo: 
+1. 
+El Bagaje Genético, aparentemente uniforme en 
+todas las especies, que interpreta parte del entorno como 
+experiencia lingüística, una tarea no trivial que el niño 
+desarrolla reflexivamente y que determina el curso general 
+del desarrollo de la facultad de lenguaje. Entre los 
+elementos genéticos, algunos pueden imponer limitaciones 
+computacionales que desaparecen de un modo regular a 
+través de la maduración genéticamente transcurrida. (…) 
+2. 
+La Experiencia, que conduce a la variación, dentro de 
+un rango bastante ajustado, como en el caso de otros 
+subsistemas de la capacidad humana y el organismo. 
+3. 
+Principios no específicos de la facultad de lenguaje. 
+ 
+El tercer factor entra dentro de varios subtipos: (a) 
+principios de análisis de datos que podrían usarse en la 
+adquisición del lenguaje y otros dominios; (b) principios de 
+la arquitectura estructural y restricciones de desarrollo que 
+entran dentro de la canalización, la forma orgánica y la 
+acción por sobre un rango amplio, incluyendo principios de 
+eficiencia computacional de los que podría esperarse que 
+tengan una significación particular para los sistemas 
+computacionales tales como el lenguaje. Es la segunda de 
+estas subcategorías que debería ser de particular 
+ 
+226 
+ 
+importancia en la determinación de los estados alcanzados 
+(p.6). 
+ 
+El Biolingüismo considera entonces que los tipos de 
+principios del tercer factor que pueden ayudarnos a explicar las 
+propiedades de la facultad del lenguaje son dos: por un lado, 
+principios de arquitectura estructural y, por el otro, 
+condiciones de economía o eficiencia computacional. 
+Formulados 
+estos 
+tres 
+factores, 
+el 
+Minimalismo 
+Biolingüístico formula la Tesis Minimalista Fuerte (TMF): 
+dado que en este diseño se supone que el lenguaje es casi 
+perfecto en tanto no redundante, económico y simple, las 
+expresiones lingüísticas deben ser la realización óptima de las 
+condiciones de interfaz. 
+Según la TMF el diseño óptimo de la Facultad de Lenguaje 
+será el que satisfaga las condiciones impuestas por la interfaz 
+A.P y C.I respectivamente. Si las expresiones de una lengua 
+satisfacen la TMF serán ‘visibles’ a la interfaz. Dicho de otra 
+manera, para que una expresión sea visible debe estar bien 
+formada de acuerdo a los requerimientos de los sistemas A.P y 
+C.I: Por ejemplo, en español una expresión como *El estudiante 
+leyó cuaderno el no es visible a la interfaz porque nosotros no 
+armamos así las oraciones dado que los nombres no 
+determinan a los artículos. La expresión visible a la interfaz 
+será, por tanto: El estudiante leyó el cuaderno. De este modo, dicho 
+reposicionamiento, implica que ahora Chomsky no solamente 
+“mira” al lenguaje desde las interfaces sino que es a partir de la 
+teorización en torno a ellas que vuelve  pensar sus modelos de 
+lenguaje  Esto significa que la manera en la que el lenguaje 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+funciona no es ni más ni menos que al solo efecto de satisfacer 
+las demandas de la interfaz o la TMF; nada más que eso se 
+necesita en el diseño de una teoría lingüística que intente 
+explicar qué es lo que tenemos dentro de nuestra cabeza que 
+hace que entendamos una lengua. Por lo tanto, se someterá a 
+prueba esta idea, se empeñará en comprobar hasta qué punto 
+esta Tesis es cierta y se tratará de determinar qué propiedades 
+de la facultad del lenguaje encuentran su explicación en 
+condiciones del tercer factor y cuáles no.  
+ 
+2. La determinación del estatuto de las Interfaces. 
+Estado del Arte 
+¿Qué es lo que ha dicho Chomsky en torno a las interfaces y 
+en especial en relación a CI hasta el momento de la publicación 
+de Why only us? (2016). 
+En “Notas en torno a la interfaz” (Bassano, 2016 b), hemos 
+analizado detalladamente qué estatuto le otorga Chomsky 
+(2002, 2005 y 2007) a las interfaces y en particular a la interfaz 
+CI. Podemos resumir los aspectos más salientes de lo allí 
+trabajado en los siguientes puntos: 
+1) Tanto en los artículos del 2002 como en los del 2005, 
+escritos con Hauser y Fitch, Chomsky ubica al sistema de 
+pensamiento, la interfaz CI, en la Facultad de Lenguaje en 
+sentido amplio (FLA) ya que la misma contiene a la Facultad 
+de Lenguaje en sentido estricto (FLE), e incluye además, al 
+sistema CI y al sistema AP internos al cerebro implicados en 
+el pensamiento y en el uso del lenguaje.  
+ 
+228 
+ 
+2) En esos mismos artículos define a la FLE como un 
+subcomponente de la FLA que solo está compuesta por 
+propiedades específicas del lenguaje y específicas de la 
+especie. Es el sistema computacional lingüístico abstracto 
+solo, independiente de los otros sistemas con el cual 
+interactúa y entra en interfaz. El componente medular de la 
+FLE, como ya sabemos, es el mecanismo computacional de 
+la recursividad a través de la operación de Ensamble, sin 
+límites, por la propiedad distintiva del lenguaje de infinitud 
+discreta. Recordemos además que una característica de 
+Ensamble (tanto externo como interno) es que es la sintaxis 
+estricta del lenguaje y por lo tanto un sistema estructurado 
+jerárquica y no linealmente. Esta distinciónjerárquico/lineal 
+tendrá importantes consecuencias para la reformulación de 
+las interfaces en tanto constituirá la base empírica de tales 
+reconsideraciones en torno a qué es el lenguaje en términos 
+evolutivos en Chomsky (2016c) 
+3) Junto con la recursividad también forma parte de la 
+FLE, que genera representaciones internas, la proyección a 
+las interfaces de esas representaciones, dada por la Tesis 
+Minimalista Fuerte. 
+4) Así, cada una de las expresiones se transmite a CI y a AP 
+que procesan esa información a los efectos del uso del 
+lenguaje. De manera tal, y queremos remarcar esto, hasta 
+este momento se concibe que una expresión es una 
+combinación de sonido-significado. 
+5) La recursividad es la propiedad distintiva de la FLE y 
+por lo tanto es exclusiva de la especie humana. 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+ 
+ Como dijimos antes, en el 2007, Chomsky no dice lo 
+mismo acerca de la interfaz CI, ¿por qué? Hipotetizamos que 
+lo que media entre estas dos posturas es la lectura que hace 
+Chomsky de Hinzen (2006, 2007) y ese es justamente el 
+disparador que hace que repiense estas cuestiones. Pero no 
+solamente es la lectura de los escritos del 2006 y 2007 sino 
+también el Hinzen (2014) el que también resuena en las 
+especulaciones chomskianas del 2016.  
+ 
+3.  El Lugar de la Interfaz Conceptual Intencional en el 
+primer Hinzen 
+   Para que se entienda entonces el sentido de las 
+afirmaciones del 2007, repasemos algunos puntos medulares 
+de Hinzen (2006 y 2007). Un desarrollo más exhaustivo 
+también se encontrará en Bassano (2016b): 
+1) La sintaxis no está trivialmente determinada por las 
+condiciones semánticas impuestas sobre ella una vez que se 
+ha añadido Ensamble. Fuera del sistema lingüístico, fuera de 
+las derivaciones sintácticas, no hay nada como un sistema de 
+pensamiento separado de lo que produce la derivación. El 
+pensamiento no existe por sí solo a modo de un sistema CI 
+sino que se construye en la derivación sintáctica. los 
+pensamientos no pueden concebirse independientemente de 
+la sintaxis que los origina. 
+2) Solo las oraciones pueden expresar pensamientos 
+proposicionales, y dado que son objetos sintácticos 
+ 
+230 
+ 
+obtenidos en el curso de la derivación y no pueden pensarse 
+aparte o independientemente del lenguaje, no es plausible 
+proponer un sistema de pensamiento anterior al lenguaje. 
+Así, los pensamientos humanos dependen de lo que la sintaxis 
+hace, es decir, de los formatos sintácticos específicos que 
+están disponibles en las interfaces. 
+3) La hipótesis central de Hinzen es que la mente es una 
+suerte de ingenio generativo que produce creativamente 
+pensamientos 
+con 
+determinadas 
+estructuras, 
+y 
+las 
+propiedades intencionales que tienen esas estructuras se 
+deben enteramente a ellas. Así, las propiedades empíricas de 
+los contenidos de pensamiento derivan de las estructuras que 
+la F.L genera (i.e los objetos sintácticos obtenidos en el 
+curso de la derivación, que le dan forma a estos 
+pensamientos). 
+4)    A partir de lo anterior, propone reconceptualizar el 
+estatuto de CI: las expresiones generadas por el sistema 
+computacional no deben encontrar demandas semánticas 
+pre-dadas ni tampoco encuentran condiciones de sistemas 
+externos ricamente estructurados, sino que solo sean 
+parcialmente usables. Lo conceptualmente necesario es que 
+el lenguaje es “usado”, no que exista una ‘interfaz’ CI como 
+que se impone sobre el sistema linguistico. 
+   
+Hinzen (2009) es aún más extremo; sostiene que si los 
+sistemas de interfaz existieran deberían ser lo suficientemente 
+ricos para poder usar la información contenida en las 
+representaciones que la sintaxis construye. Es por esto que se 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+inclina por una opción más radical: postular que la interfaz CI 
+no existe. Esta arquitectura es muy diferente a la propuesta por 
+Chomsky; en palabras del mismo Hinzen (2009):  
+ 
+… ahora no existe un componente semántico, no existe un 
+sistema generativo independiente de ‘pensamiento’, no 
+existe una ‘proyección’ de la sintaxis a tal sistema dado que 
+no existe una ‘interfaz’ semántica. Existe un sistema 
+computacional (la sintaxis) que construye derivaciones, 
+luego, periódicamente, después de cada ‘fase’ de una 
+computación la estructura generada se envía al sistema 
+sensoriomotor de modo tal que no hay representaciones 
+semánticas estructuradas más allá de las que la sintaxis está 
+inherentemente diseñada para construir (p.128).1  
+ 
+En suma, para Hinzen (2011) el origen de la propiedad de la 
+recursividad está en el lenguaje, no en el pensamiento. En su 
+opinión, las representaciones semánticas estructuradas se 
+conforman, en concreto, como resultado de la aplicación de la 
+operación sintáctica de ensamble a unidades con significado y 
+de la creación por medio de procedimientos también 
+gramaticales de la ontología universal del lenguaje, “el conjunto 
+distintivo de categorías básicas en cuyos términos pensamos, 
+como las de objeto, evento, estado, cada una de las cuales se 
+corresponde con raíces léxicas insertas en determinadas 
+configuraciones sintácticas” (p.513).  
+La conclusión a la que llega Hinzen (2009) es, por tanto que, 
+“fuera de las formas posibles que provee el sistema 
+                                                          
+ 
+1 La traducción es mía. 
+ 
+232 
+ 
+computacional lingüístico, no existen pensamientos que uno 
+pueda pensar” (p.130). Si está en lo cierto entonces, ninguna 
+propiedad del sistema cognitivo lingüístico podría explicarse a 
+partir de su interacción con el sistema del pensamiento. Se 
+debilitaría así, en parte, la Tesis Minimista Fuerte y habría que 
+suponer que la FLE (la GU) tiene más contenido del que el 
+PM quisiera atribuirle. Y además, Ensamble aparecería, de 
+hecho, como una operación mucho más enriquecida. 
+ 
+4. Lectura e impacto en Chomsky (2007) 
+Como señalamos en el apartado anterior, los escritos de 
+Hinzen, impactan en Chomsky (2007), al punto de que él 
+mismo lo cita en su argumentación en relación al lugar de la 
+interfaz CI. Reconoce entonces sus intuiciones, y a partir de 
+eso la piensa formando parte del sistema cognitivo lingüístico, 
+de la FLE, si bien no se inclina a eliminarla del todo: 
+ 
+Una concepción más radical de la relación FL- Interfaz CI, 
+desarrollada por Hinzen, es que ‘ciertas propiedades 
+empíricas de contenidos de pensamiento’ se derivan de 
+estructuras generadas de un modo óptimo por la FL: por 
+ejemplo, estamos conducidos a postular proposiciones 
+como ‘entidades intermediarias entre lo que está en la 
+cabeza y lo que está fuera en el universo físico’. Así, 
+diseñada de un modo óptimo, la FL, ‘provee formas que 
+pueden tener un significado estructurado posible humano 
+dejando un residuo de significados no estructurados 
+(conceptos), una suma sustantiva de lo que compartimos 
+con otros animales que carecen de sintaxis’. Estas formas 
+son objetos naturales ‘que podemos estudiar como tales, 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+aun cuando los veamos, quizá milagrosamente, como 
+propiedades sistemáticamente condicionadas de significado 
+lingüístico que podemos comprobar empíricamente’, un 
+acercamiento novedoso de lo que ha sido denominado 
+‘naturalización del significado’. (…)// 
+ 
+Desde esta perspectiva, las proposiciones y otras entidades 
+postuladas de pensamiento corren el camino de la 
+referencia, eliminada de la teoría de la mente y del lenguaje. 
+Así, la primacía de la interfaz CI se reduce, si bien la 
+satisfacción de las condiciones CI no pueden ser 
+eliminadas: la interfaz CI debe tener un rango de recursos 
+que puedan explotar las propiedades de las expresiones 
+generadas junto con todo lo que esté involucrado en el uso 
+del lenguaje para razonar, referir, buscar comunicarse de un 
+modo perspicaz y //otros actos mentales. La Tesis 
+Minimalista Fuerte y el concepto de explicación 
+fundamentada se simplificará en correspondencia con esto 
+último (pp.15-6). 
+ 
+     Por su parte, Hinzen (2007) replica: 
+ 
+No veo a priori razón para asumir, como lo hace Chomsky, 
+que la elección preferida de la dirección explicativa (de los 
+sistemas externos a la organización interna del sistema 
+computacional) sea de alguna manera primaria. Parece 
+enteramente posible en este estadio, que tengamos que 
+reconceptualizar hoy la visión sostenida comúnmente sobre 
+las interfaces e imponer una demanda más débil sobre la 
+arquitectura del sistema: no que sus expresiones generadas 
+deban encontrar demandas semánticas pre-dadas ni que 
+encuentren condiciones de sistemas externos ricamente 
+estructurados, 
+sino 
+que, 
+más 
+modestamente, 
+sean 
+parcialmente usables. Esto es bueno para una “teoría del 
+ 
+234 
+ 
+uso del significado” Lo conceptualmente necesario es que 
+el lenguaje es “usado”, no que exista una ‘interfaz’ del tipo 
+que la corriente principal del Minimalismo impone sobre el 
+sistema linguistico” (p.47). 
+ 
+ Es así como el rol de las condiciones de interfaz no consiste 
+en imponer condiciones expresivas sobre el sistema 
+computacional del lenguaje, sino solamente restringir su poder 
+generativo. Esto es, el sistema C.I no explica la maquinaria de 
+la sintaxis puesto que la sintaxis no puede estar motivada por 
+las condiciones de la interfaz semántica sino que solo puede 
+estar restringida por ella. Si la sintaxis crea algo nuevo son 
+sintagmas, a través de Ensamble, si son ítems tomados del 
+léxico, hablamos de ‘Ensamble Externo’; si vienen del 
+marcador de frase generado, hablamos de “Ensamble 
+Interno”. Lo correcto, según Hinzen, es estudiar el lenguaje 
+por sí mismo y no verlo como una expresión directa del 
+‘pensamiento’ y leer la interpretación semántica estrictamente a 
+partir de las estructuras que la sintaxis provee. 
+ En cambio, la tesis de Chomsky (2007) básicamente afirma 
+que la Facultad del Lenguaje consistiría en dos estratos 
+diferenciables por la antigüedad que cabe conceder a cada uno 
+de ellos como rasgo de especie humano. El componente 
+ancestral de la Facultad del Lenguaje sería un sistema de 
+representación conceptual estrictamente interno, con una alta 
+capacidad computacional de relativa antigüedad. Sería útil a los 
+efectos de la planificación individual del comportamiento. De 
+acuerdo con Chomsky, este sistema de representación ya 
+contendría el elemento formal mínimamente requerido para 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+poder categorizarlo como una Facultad del Lenguaje en 
+sentido 
+estricto: 
+es 
+decir, 
+la 
+infinitud 
+discreta: 
+un 
+procedimiento combinatorio aplicable de manera reiterativa e 
+ilimitada sobre primitivos conceptuales finitos. En palabras del 
+propio Chomsky (2007): 
+ 
+Si la primacía de la interfaz semántica es correcta, entonces 
+la generación de expresiones para satisfacerla produce un 
+“lenguaje de pensamiento”. Si el supuesto de la asimetría es 
+correcto, el estadio más temprano del lenguaje podría haber 
+sido sólo esto: un lenguaje del pensamiento usado 
+internamente. 
+Estas consideraciones proveen una tesis muy simple sobre 
+una parte nuclear de la evolución del lenguaje. Alguna 
+reprogramación cerebral, presumiblemente una mutación 
+pequeña, proveyó Ensamble y rasgos arista no delibles 
+(Ensamble ilimitado) produciendo un infinito rango de 
+expresiones 
+constituidas 
+por 
+ítems 
+léxicos 
+(quizá 
+disponibles como átomos conceptuales de sistemas C-I) 
+que permitió un crecimiento explosivo de las capacidades 
+de pensamiento, previamente restringidos a esquemas 
+elementales pero ahora abiertos a una elaboración sin 
+límites: quizá esquemas que permiten la interpretación de 
+eventos en términos de categorización a través de alguna 
+propiedad (la predicación una vez que Ensamble está 
+disponible), esquemas actor-acción y unos poco más que 
+podrían haber tenido los orígenes de los primates. Tales 
+cambios tienen lugar no grupalmente sino en los 
+individuos. El individuo así dotado tiene la habilidad para 
+pensar, planificar, interpretar, y demás, transmitidas a toda 
+su descendencia. En la medida en que operen las 
+condiciones del tercer factor, la GU se  optimizará en 
+relación a la interface C-I. y las proyecciones a la interfaz 
+ 
+236 
+ 
+SM serán el modo “mejor posible” de satisfacer las 
+condiciones de externalización. (…)// 
+La proyección a la interfaz C-I es común a todas las 
+lenguas, aparte de las elecciones paramétricas y léxicas; 
+mientras que la fonología y la morfología y todo aquello 
+involucrado en la externalización podría ser variable y 
+compleja (pp.14-5). 
+ 
+Lo que se hipotetiza aquí es diferente a lo postulado en los 
+escritos en colaboración, puesto que sostiene  que el 
+pensamiento es el ámbito natural y el punto de partida 
+evolutivo del sistema de computación del que se beneficia el 
+lenguaje, y con el objetivo de dar preeminencia a la operación 
+Ensamble 
+(recordemos, 
+en 
+el 
+marco 
+de 
+una 
+GU 
+infraespecificada y de sostener que es la recursividad, a través 
+de Ensamble, la que caracteriza a FLE) parece inclinarse por la 
+idea de que el sistema en que se basa la combinatoria 
+lingüística (es decir, Ensamble) no es otro que el que han 
+evolucionado y propiciado los sistemas de pensamiento, 
+planteando de este modo una asimetría, y esto es lo que nos 
+interesa resaltar,  entre los sistemas de interfaz en tanto AP y 
+CI no se relacionan del mismo modo con la facultad de 
+lenguaje. La interfaz CI se encontraría inherentemente 
+implicada en la Facultad de lenguaje (el lenguaje sería entonces 
+una forma del pensamiento) y AP tendría un valor 
+instrumental en tanto existe sólo a los efectos de la 
+externalización. Pero no es aquí en donde Chomsky demuestra 
+esta hipótesis sino en el 2016, en su libro escrito junto con 
+Berwick. 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Así, en el 2007 Chomsky le otorga otro estatuto a CI, ya no 
+forma más parte de las interfaces en tanto nos invita a 
+considerar al lenguaje, en sentido estricto, como un sistema de 
+representación interna de pensamiento, ampliado en tiempos 
+relativamente recientes a través de una interfaz que lo conecta 
+con sistemas sensoriomotores hábiles para la exteriorización, 
+intercambio e interiorización de aquellas representaciones. Tal 
+punto de vista choca con el desarrollado en sus artículos en 
+colaboración con Hauser y Fitch, de acuerdo con el cual el 
+lenguaje, en sentido estricto, es un sistema de computación que 
+se amplía conectándose, de modo simétrico, con ciertos 
+sistemas de pensamiento y ciertos sistemas sensomotrices, 
+sirviendo así para la manipulación de los símbolos propios de 
+cada uno de estos. 
+ De este modo, en el 2007, la interfaz CI se ubica dentro de 
+la FLE, conjuntamente con el Léxico y el Sistema 
+Computacional puesto que el lenguaje es primariamente 
+pensamiento manipulado 
+y 
+representado 
+internamente, 
+esencialmente 
+uniforme 
+para 
+toda 
+la 
+especie 
+y, 
+secundariamente, exteriorización de ese pensamiento. Con lo 
+cual, tendría un estatuto lingüístico. Mientras que la interfaz 
+AP se ubicaría en la FLA. En la medida en que operen las 
+condiciones del tercer factor, la GU se optimizará en relación a 
+la interfaz C-I. y las proyecciones a la interfaz SM serán el 
+modo “mejor posible” de satisfacer las condiciones de 
+externalización. 
+ 
+ 
+ 
+238 
+ 
+5. El Un-Cartesianismo de Hinzen 
+Nos interesa particularmente la profundización de los 
+trabajos del 2006 y 2007 de Hinzen en su trabajo del 2014, el 
+Programa Un-Cartesiano, dado que hipotetizamos que quizás 
+ese trabajo también haya tenido efectos en Chomsky (2016). 
+En el Programa Un-Cartesiano, del cual nosotros solo 
+desarrollaremos aquellos aspectos que interesan a nuestra 
+temática, Hinzen (2014) reelabora y profundiza su postura en 
+términos evolutivos en tanto y en cuanto su interés está en 
+repensar la naturaleza de la gramática preguntándose cuál es su 
+papel en el pensamiento del sapiens cuya cognición está 
+motivada por la organización gramatical y léxica determinando 
+un fenotipo lingüístico y son estas afirmaciones las que 
+pensamos que tiene resonancias en Chomsky (2016). 
+ 
+La sugerencia Un-cartesiana es que el lenguaje se convierte 
+en un principio de organización cognitiva y no es necesaria 
+ninguna teoría separada del pensamiento humano 
+específico. La naturalización de la gramática como un 
+dominio científico, bajo este punto de vista, no procede de 
+desemantizar la gramática en un dominio puramente formal 
+de 'sintaxis', sino por re-describirla como un principio 
+cognitivo dentro del cual caen la dimensión principal del 
+pensamiento humano específico — referencia, predicación 
+y contenido de verdad-condicional. (…) 
+El programa Un-Cartesiano pretende hacer plausible 
+que la gramática produce — en lugar de que 'expresa' 
+(óptimamente) — una forma de significado que no existiría 
+sin ella, no hay ninguna 'interfaz' entre el lenguaje y (un 
+sapiens-modo específico de) pensamiento: los principios 
+organizativos de la gramática son los que definen un 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+sistema único de pensamiento en nuestra especie, 
+explicando su ausencia aparente en especies que no pueden 
+entender la gramática. (…)…los principios organizativos de 
+la gramática son universales y específicos del pensamiento 
+del sapiens (p.228).  
+ 
+El pensamiento como una variedad específica de los 
+humanos anatómicamente modernos y el lenguaje están tan 
+integrados que concebir el lenguaje sin pensamiento no sólo 
+sería una parodia sino que no podría ser considerado 
+pensamiento; ambos mecanismos cognitivos, los que generan 
+el pensamiento humano y los que generan el lenguaje deberían 
+ser los mismos, y esta es su tesis principal. Es por tal motivo 
+que la gramática se re describe aquí como un principio de 
+organización cognitiva no separada del pensamiento humano.  
+Desde este punto de vista, el lenguaje, remarcamos, no está 
+separado del pensamiento por una interfaz, sino que 
+óptimamente el pensamiento es expresado por el lenguaje. La 
+idea es que la gramática es mucho más que sintaxis en el 
+sentido de que no es un producto de la sintaxis que subyace al 
+sistema computacional, sino que es un tipo cognitivo porque 
+produce una forma de significado que no existiría sin ella dado 
+que son los principios organizativos de la gramática los que 
+definen un sistema de pensamiento único en la especie humana 
+moderna. La idea de Hinzen (2014), que insistimos, resonará 
+en Chomsky (2016) es que los significados son entidades no-
+lingüísticas y argumenta esta afirmación tomando como punto 
+de partida al léxico concebido como el origen de la 
+composicionalidad semántica. El significado de las palabras 
+está en los conceptos que forman parte de nuestros 
+ 
+240 
+ 
+pensamientos, por lo tanto, preexiste al lenguaje y es 
+independiente de él. Y en esta argumentación es clave el rol 
+que le otorga al sonido: 
+ 
+El significado de las palabras ('lengua') reside en conceptos 
+('mente', 'pensamiento'), y el significado preexiste al 
+lenguaje y es independiente de él. Sin embargo, conceptos 
+como PERRO u HOMBRE identifican palabras como 
+perro u hombre, y una palabra en cualquier lengua 
+determinada es un lexema solo cuando se ve junto a un 
+determinado significado o concepto que codifica. Si esto es 
+así, PERRO no es otra cosa que la palabra inglesa perro, 
+vista junto con su significado, pero abstrayéndola de su 
+sonido (que a diferencia del significado raramente es 
+considerado como una propiedad inherente de los 
+conceptos por los teóricos del concepto) ¿De qué 
+podríamos entonces estar hablando si hablamos sobre 
+conceptos y no significamos palabras? (…) Para todos los 
+conceptos que sabemos o tenemos, hay una palabra que 
+identifica a este concepto y que se identifica con él. Si no 
+existiera ninguna palabra o frase a identificar, ¿cómo 
+sabríamos que un concepto existió y cuál fue ese concepto? 
+(p.231) 
+ 
+ Esos significados que están en nuestros pensamientos 
+conforman una red semántica que se organizan en relaciones 
+gramaticales. 
+ A juicio de Hinzen, la opción del Minimalismo de estudiar 
+al lenguaje abstrayéndolo de su papel en el pensamiento no es 
+estudiarlo como un objeto de la naturaleza; no es estudiar la 
+forma como un objeto de la naturaleza:  
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+No hay ninguna 'forma' en la naturaleza además del 
+'contenido', y se necesita una teoría para conectarlos. No 
+obstante, en la práctica, la gramática generativa no solo ha 
+postulado principios del lenguaje descriptos formalmente, 
+sino principios formales: principios que no de cualquier 
+manera parecen iluminar la estructura racional de 
+pensamiento o de significado y en este sentido parecen 
+arbitrarios. En el mejor de los casos, son instancias de una 
+ley natural, incluyendo los principios de economía que el 
+Minimalismo ha trasladado a la vanguardia de la 
+investigación. El presente marco sugiere una investigación 
+parcialmente diferente: racionalizar los principios de la 
+gramática al considerarlos como principios de un tipo 
+cognitivo racional que es parte de un evento de especiación 
+en el género Homo (p.243). 
+ 
+ No existe entonces una distinción entre Gramática y 
+Pensamiento ya que el pensamiento de uno mismo se 
+estructura gramaticalmente en un espacio deíctico triangular en 
+el que cada ángulo corresponde a una persona gramatical y 
+esto es lo que significa pensar. 
+ 
+Los ítems léxicos o los conceptos como unidades de la 
+memoria semántica son impersonales, ninguna persona 
+puede reclamar la propiedad de cualquier concepto léxico, 
+y se nos da a nosotros desde recién nacidos en forma de un 
+esquema existente y compartido. Por el contrario, la 
+referencia solo es promulgada en ocasiones particulares de 
+uso de la lengua, en un espacio deíctico en la cual una 
+primera persona gramatical refiere para una persona 
+gramatical segunda a un objeto (3 era persona gramatical o 
+tácita), que es independiente del hablante y el oyente. Toda 
+la referencia humana es triangular en este sentido, con la 
+ 
+242 
+ 
+1ra, 2da y 3era. persona gramaticales etiquetadas en las 
+esquinas del triángulo. Una criatura que habita este marco 
+deíctico es racional y esta infraestructura triangular de la 
+racionalidad es la estructura del pensamiento: nada tiene 
+que agregar a lo que califica como tal (p.245). 
+ 
+Hinzen concluye finalmente que el proyecto Un-Cartesiano 
+intenta explicar la transición del homínido a nuestra especie 
+humana moderna a través de la organización gramatical; es esta 
+la que refleja el modo específico de cognición del sapiens 
+moderno. 
+ 
+6. ¿Por qué solo nosotros tenemos lenguaje? 
+En su libro del 2016 escrito en colaboración con Berwick, 
+Chomsky, como dijimos al principio, vuelve a pensar su 
+proyecto exclusivamente en términos evolutivos y, es claro que 
+esto tiene efectos sobre sus especulaciones en torno a ambas 
+interfaces. 
+Comienza haciendo algunas consideraciones en torno a la 
+facultad de lenguaje; el hecho de concebir una GU 
+infraespecificada en el Biolingüismo produjo importantes 
+cuestiones biológicas, como por ejemplo, cuál es la naturaleza 
+del lenguaje, cómo funciona, cómo evoluciona. Entre esas 
+cuestiones, la primera es la que tiene una respuesta distinta a 
+todo lo dicho hasta el momento ya que esa naturaleza radicaría 
+en pensar a la interfaz CI de otro modo. 
+ La primera operación para llevar lo anterior adelante es 
+distinguir evolución de cambio. Así, afirma que es necesario tener 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+en claro es que no es el lenguaje lo que ha evolucionado sino la 
+capacidad de lenguaje, es decir, la GU. En este sentido puede 
+decirse que las lenguas cambian, pero no evolucionan. 
+La segunda operación consiste en ubicar al sistema sensorio 
+motor de la externalización a un lado para concentrarse en 
+propiedades más centrales del lenguaje que están representadas 
+por una sintaxis simple; simpleza que radica ahora en 
+considerarla fenotípicamente en la medida en que cuanto 
+menor esté definido el fenotipo menor será el espacio entre 
+nosotros y otras especies que carecen de lenguaje. En esta línea 
+rastrea las huellas de esta preocupación por la evolución del 
+lenguaje que desde sus comienzos tuvo la Gramática 
+Generativa y revisa los distintos modelos chomskianos en 
+términos de “limitaciones que restringen el fenotipo lenguaje” 
+(Chomsky 2016:4), buscando el fenotipo de lenguaje más 
+reducido, esto es, como intentos de reducir cada vez más el 
+fenotipo de lenguaje. 
+Ese fenotipo más estrecho se encuentra en el hecho de que 
+la estructura sintáctica del lenguaje humano tiene tres 
+propiedades claves: 
+ (1) la sintaxis del lenguaje humano es jerárquica y es ciega a 
+consideraciones de orden lineal; las restricciones sobre dicho orden 
+se reservan a la externalización. No es la distancia lineal la que 
+cuenta en la sintaxis humana, sólo la distancia estructural (y es por 
+esto que se necesita apelar a restricciones jerárquicas o a una noción 
+de recursión).  
+(2) las estructuras jerárquicas particulares asociadas con las 
+oraciones afectan su interpretación y determinan por lo tanto el 
+significado 
+ 
+244 
+ 
+ (3) no existe un límite superior a la profundidad de la estructura 
+jerárquica relevante. Si estas propiedades son verdaderas, entonces 
+la observación. 
+Así, cualquier explicación del origen del lenguaje debe 
+comprender qué es lo que ha evolucionado. En este marco 
+tripartito esto se resuelve en los tres componentes del lenguaje 
+humano: (1) el operador combinatorio Ensamble que es 
+aproximadamente como la CPU de la sintaxis del lenguaje 
+humano, (2) la interfaz AP que es parte del sistema de 
+externalización del lenguaje y (3) la interfaz conceptual 
+intencional, para el pensamiento. 
+      En la búsqueda de indagar en los aspectos evolutivos del 
+lenguaje es que se pregunta primero, ¿por qué existen lenguas 
+exclusivas del linaje humano? segundo, ¿por qué hay tantas 
+lenguas?: 
+ 
+Aproximadamente 200.000 años atrás la primera cuestión 
+no había surgido dado que no existían lenguas. Alrededor 
+de 60.000 años atrás, las respuestas a ambas cuestiones se 
+establecieron: nuestros ancestros comenzaron su último 
+éxodo desde África expandiéndose sobre el mundo entero 
+y, hasta donde se sabe, la facultad de lenguaje ha 
+permanecido esencialmente igual. (…) Esta uniformidad 
+mundial en la capacidad para el lenguaje en nuestras 
+especies –la ‘facultad de lenguaje’- sugiere fuertemente que 
+es un rasgo en los humanos anatómicamente modernos 
+que debe ya haber aparecido antes de que nuestros 
+ancestros africanos comenzaran su éxodo y su dispersión 
+por el mundo (p.55). 
+ 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Estamos, por lo tanto, interesados en un curioso objeto 
+natural, el lenguaje, que ha aparecido sobre la Tierra 
+bastante recientemente. Es una propiedad de la especia 
+humana, un bagaje común sin variación significativa y 
+central en la vida humana desde su emergencia (p.55) (…) 
+ 
+Con respecto entonces a este curioso órgano mental, el 
+lenguaje, surgen dos cuestiones obvias. Una es: ¿por qué es 
+único a nuestra especie? Segundo: ¿por qué hay más de una 
+lengua? (p.57). 
+ 
+Y aquí es en donde la primacía de la interfaz CI comienza a 
+hacerse más evidente en tanto afirma que la evolución del 
+lenguaje es más probable que haya sido para la construcción de 
+‘un mundo real’, como una herramienta para el pensamiento 
+siendo el sistema AP sólo un efecto de la externalización. ¿Y 
+por qué esto es así? 
+Para explicarlo Chomsky recala nuevamente en la propiedad 
+distintiva del lenguaje humano, la infinitud discreta que se 
+patentiza en Ensamble, el procedimiento recursivo por 
+excelencia y que ha emergido de un modo bastante repentino 
+en términos evolutivos; el papel del sistema AP se reduce a 
+externalizar la computación interna y no juega ningún rol en la 
+sintaxis y semántica nuclear.  
+ 
+Proporcionado por los átomos conceptuales del lexicón, la 
+operación Ensamble, iterada sin límites, produce una 
+infinidad de expresiones jerárquicamente estructuradas. Si 
+estas 
+expresiones 
+pueden 
+ser 
+sistemáticamente 
+interpretadas en la interfaz con el sistema conceptual, 
+ 
+246 
+ 
+significa que este provee un ‘lenguaje de pensamiento’ 
+interno (p.58). 
+ 
+Y afirma que en la medida que la TMF sea correcta, la 
+evolución del lenguaje se reducirá a la emergencia de 
+Ensamble, la evolución de los átomos conceptuales del léxico, 
+el enlace con los sistemas conceptuales, y el modo de 
+externalización. 
+De aquí en más, Chomsky encuentra una serie de evidencias 
+para explicar la asimetría de las interfaces y el hecho de que el 
+lenguaje sea solo CI, es decir, significado. Una de ellas, la 
+Propiedad de Desplazamiento, otra, la comparación del 
+lenguaje articulado con la lengua de señas y otra, el gen 
+FOXP2:  
+ 
+La propiedad de desplazamiento se sigue de principios 
+elementales de eficiencia computacional. Para externalizar la 
+expresión generada internamente what John is eating what, 
+sería necesario pronunciar what dos veces y esto produce 
+una considerable carga computacional. En cambio, con un 
+solo what dicha carga se reduce enormemente. La única 
+ocurrencia que se pronuncia es la más prominente, la última 
+creada por Ensamble Interno: de otra manera, no existirá 
+indicación de que la operación se ha aplicado para producir 
+la interpretación correcta. Parece entonces que la facultad de 
+lenguaje recluta un principio general de eficiencia 
+computacional para el proceso de externalización (…) 
+La supresión de una de las ocurrencias del elemento 
+desplazado es computacionalmente eficiente, pero impone 
+una carga significativa sobre la interpretación, por 
+consiguiente sobre la comunicación. La persona que escucha 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+la oración tiene que descubrir la posición del lugar vacío 
+donde el elemento desplazado debe ser interpretado. Esto 
+provoca un conflicto entre la computación eficiente y la 
+eficiencia interpretativa-comunicativa. Universalmente, las 
+lenguas resuelven este conflicto a favor de la eficiencia 
+computacional. Estos hechos sugieren además deque el 
+lenguaje evolucionó como un instrumento del pensamiento 
+interno con la externalización como un proceso secundario 
+(…) 
+Existen también razones independientes para la conclusión 
+de que la externalización es un proceso secundario. Uno es 
+que la externalización parece ser independiente de la 
+modalidad como nos lo enseñan los estudios sobre el 
+lenguaje de señas. Las propiedades estructurales del lenguaje 
+hablado y por señas son remarcadamente similares. La 
+adquisición sigue el mismo curso en ambos y la localización 
+neural parece ser similar también. Esto refuerza la 
+conclusión de que el lenguaje es optimizado para el sistema 
+de pensamiento y la externalización es secundaria. También 
+conducen a esta conclusión las investigaciones biológicas y 
+evolutivas. Las investigaciones en torno al gen regulatorio 
+FOXP2 demuestran que es bastante plausible pensar que 
+este gen no es parte del blueprint de la sintaxis interna, la 
+facultad de lenguaje en sentido estricto y tampoco es un 
+hipotético ‘gen del lenguaje’ (como tampoco existen genes 
+únicos para el color de ojo o el autismo) sino más bien parte 
+de 
+la 
+maquinaria 
+regulatoria 
+relacionada 
+con 
+la 
+externalización. FOXP2 ayuda en el desarrollo en el 
+desarrollo del control de la motricidad fina, orofacial y 
+demás. Esto es, FOXP2 no forma parte en la evolución de 
+los componentes nucleares de la facultad de lenguaje: la 
+sintaxis y la proyección a la interfaz ‘semántica’ (conceptual-
+intencional) sino que es extrínseca y sólo interviene en la 
+externalización (pp. 75-77).  
+ 
+ 
+248 
+ 
+Si esto es plausible, el hecho de que haya tantas lenguas se 
+explicaría por el lado de la externalización. No hay ninguna 
+razón para suponer que la solución al problema de la 
+externalización requiere un cambio evolutivo, esto es un 
+cambio genómico: 
+ 
+Existe a veces una tendencia desafortunada a confundir 
+cambio genómico con cambio histórico. Como ya hemos 
+notado, desde el éxodo desde Africa hace 60.000 años no 
+ha habido una evolución relevante de la facultad de 
+lenguaje si bien ha habido un gran tráfico de cambios, 
+inclusive de modos de externalización (como el lenguaje de 
+señas, por ejemplo). Así, hay que distinguir la evolución de 
+los organismos que usan el lenguaje y cambio en los modos 
+en los que lo usan. La emergencia de la facultad de lenguaje 
+implicó evolución mientras que el cambio histórico, no. Se 
+sigue de esto que la externalización no evolucionó, más 
+bien fue un problema; ha sido un proceso de resolver 
+problemas usando las capacidades cognitivas que se 
+encontraron que existen en otros animales. La evolución en 
+sentido biológico se restringe a los cambios que produjeron 
+Ensamble y la Propiedad Básica junto con cualquier 
+residuo que resista la explicación en términos de la TMF y 
+cualquier restricción específica del lenguaje que podría 
+existir en la solución del problema cognitivo de la 
+externalización. 
+De 
+acuerdo 
+con 
+esto, 
+cualquier 
+acercamiento a la ‘evolución del lenguaje que focalice en la 
+comunicación, o en el sistema sensoriomotor o en las 
+propiedades estadísticas del lenguaje hablado o similar, 
+puede ser equivocada (p.83). 
+ 
+     Todas estas reflexiones evolutivas y reconsideraciones 
+producen fuertes novedades con respecto a las interfaces y 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+sobre todo, en definitiva, a la pregunta acerca de qué es el 
+lenguaje. Las conclusiones, que venían preanunciándose 
+terminan de tomar forma ahora en el 2016 y la suposición más 
+plausible es que de una manera bastante misteriosa nuestros 
+ancestros desarrollaron conceptos humanos y unos 80.000 
+años atrás, en Africa, donde se produjo el último éxodo, un 
+grupo de homínidos experimentó un cambio biológico que 
+produjo Ensamble. Luego, en un estado posterior, ese lenguaje 
+interno de pensamiento se conectó al sistema sensoriomotor, 
+una tarea que probablemente se haya producido y resuelto de 
+diferentes maneras y en tiempo diferentes. Sin embargo, a 
+pesar de esto existe una unidad que refleja el hecho de que los 
+humanos son idénticos en sus aspectos fundamentales, de 
+modo tal que se podría concluir que existe solo una lengua con 
+variaciones dialectales mínimas, y que quizás esto se deba 
+enteramente a los modos de externalización: 
+ 
+…el lenguaje evolucionó por el pensamiento y la 
+interpretación: es fundamentalmente un sistema de 
+pensamiento. Así, el dictum aristotélico clásico de que el 
+lenguaje es sonido con significado debería ser revertido. El 
+lenguaje es significado con sonido (o alguna otra 
+externalización, o nada); y el concepto con es sumamente 
+significativo.//  
+La externalización a nivel sensoriomotor es un proceso 
+ancilar que refleja propiedades de la modalidad sensoria 
+usada con organizaciones diferentes para el habla y la seña. 
+Se seguiría que la doctrina moderna de que la 
+comunicación es de algún modo la ‘función’ del lenguaje es 
+un error y el concepto tradicional del lenguaje como un 
+instrumento de pensamiento es más correcto (pp. 101-2). 
+ 
+250 
+ 
+ 
+7. Conclusiones 
+Las consideraciones anteriores llevan entonces a concluir 
+que no solamente es otro el papel de la interfaz CI en el 
+Chomsky 2016, sino que también los argumentos allí 
+desarrollados conducen a una nueva forma de entender a las 
+expresiones mismas ya no como un par [FON, SEM], es decir, 
+sonido-significado, sino como solo significado. De este modo 
+el lenguaje sería solo significado, puro sistema de pensamiento. 
+El sistema AP ya estaba en su lugar mucho antes de que el 
+lenguaje emergiera y parece tener poco que ver, en esta nueva 
+mirada, con el lenguaje, al punto de que no desempeña ningún 
+papel en el lenguaje; tesis esta que derriba las especulaciones 
+aristotélicas e inaugura entonces, como recién decíamos, un 
+nuevo modo de concebir en definitiva qué es una expresión. 
+¿Por qué los humanos tenemos lenguaje entonces? Desde 
+estas especulaciones del 2016, todo se resume o subsume bajo 
+el título del lenguaje como una herramienta mental interna, la 
+interfaz conceptual-intencional.  
+ 
+Referencias Bibliográficas 
+ 
+Bassano, M. (2014). Polémica sobre la Facultad de Lenguaje. 
+Serie 
+Estudios 
+del 
+Lenguaje. 
+Cuadernos 
+de 
+Cátedra 
+“Lingüística y Discursividad Social”. Facultad de Psicología. 
+UNR. 
+ 
+Bassano, M. (2016a). “Las relaciones entre la interfaz conceptual 
+y el significado: modos de codificación” capítulo de libro 
+Bassano.M (et al) (2016). En torno a las interfaces del 
+lenguaje en la lingüística generativa. Múgica, N (edit). 
+Marcela Bassano. Interfaces y lenguaje 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Volumen Temático Nro 16. SAL. Bahía Blanca: Editorial de la 
+Universidad Nacional del Sur. Sociedad Argentina de 
+Lingüística. Libro Digital PDF. ISBN: 978-987-655-099-4. 
+Serie Extensión – Colección de Estudios Sociales y 
+Humanidades. 
+ 
+Bassano, M. (2016b): “Notas en torno al estatuto de la interfaz 
+conceptual intencional en el Minimalismo Biolingüístico”. 
+Ponencia presentada en el Coloquio “Estado actual de los 
+estudios en torno a las interfaces lingüísticas”. XV Congreso 
+de la Sociedad Argentina de Lingüística, organizado por el 
+Departamento de Humanidades de la Universidad Nacional 
+del Sur y realizado en Bahía Blanca del 11 al 14 de mayo de 
+2016. (en prensa en Volúmenes Temáticos SAL). 
+ 
+Berwick, R-Chomsky, N. (2016). Why only us. Language and 
+Evolution. Cambridge, MA. MIT Press. 
+ 
+Chomsky, N. (1995). The Minimalist Program. Cambridge: The 
+MIT Press. 
+ 
+Chomsky, N.  (2000a). New Horizons in the Study of Language 
+and Mind. Nueva York: Cambridge University Press. 
+ 
+Chomsky, N. (2005).” Three factors in language design”. 
+Linguistic Inquiry, vol. 36.1, 1-22. 
+ 
+Chomsky, N.  (2007). Approaching UG from below. En U. 
+Sauerland y H.  M. Gärtner (eds.), Interfaces+recursion = 
+language? Chomsky’s minimalism and the view from 
+syntax-semantics (pp. 1-30). Nueva York: Mouton de 
+Gruyter. 
+ 
+Davidson, D. 2004. Problems of Rationality. Oxford: Oxford 
+University Press. 
+ 
+Fitch, W. Tecumseh, Hauser, Marc D. y Chomsky, Noam. 
+(2002). “The Faculty of Language: What Is It, Who Has It, 
+ 
+252 
+ 
+and How Did It Evolve?” Revista Science – Vol. 298. 1569-
+1579. 
+ 
+Fitch, W. Tecumseh, Hauser, Marc D. y Chomsky, Noam. 
+(2005). “The evolution of the language faculty. Clarifications 
+and implications”. Cognition, 97, 179-210. 
+ 
+ Hinzen, W. (2006). Mind Design and minimal Syntax. 
+Oxford:Oxford University Press. 
+ 
+Hinzen, W. (2007). An Essay on Names and Truth.  Oxford: Oxford 
+University Press. 
+ 
+Hinzen, W.  (2009). “Hierarchy, Merge, and truth”. En M. Piattelli-
+Palmarini, J. Uriagereka y P. Salaburu (eds.), On minds and 
+language. A dialogue with Noam Chomsky in the Basque Country 
+(pp. 123-141). Oxford: Oxford University Press. 
+ 
+Hinzen, W. (2014): “What is Un-Cartesian Lingüistics”. Biolingüistics. 
+8:226-257. ISNN: 1450-3417. 
+Jackendoff, Ray y Pinker, Steven. (2005). “The nature of the 
+language faculty and its implications for evolution of 
+language”. Cognition, 97, 211-225. 

@@ -1,0 +1,1097 @@
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+ 
+Recibido: 13/V/2014       Aceptado: 11/VII/2014             Cuadernos del CILHA - a. 15 n. 21 – 2014 (38-58) 
+ 
+POÉTICAS DEL DINERO FALSO EN LA 
+LITERATURA ARGENTINA1 
+Poetics of False Money in Argentine Literature 
+ 
+Ana Gallego Cuiñas 
+Universidad de Granada 
+anag@ugr.es 
+España 
+ 
+Resumen: Este artículo parte de la idea de que las nuevas formas de producción y simbolización 
+económica vienen siempre acompañadas de nuevas formas de representación y cambio del sentido 
+literario, cuyo valor es contingente en ambos casos. Ciertas ficciones argentinas de Arlt, Borges, 
+Piglia y Aira presentan el dinero falso como motor y como metáfora de la construcción de una 
+ficción (económica y literaria) que va cambiando de enunciación desde la pasada centuria hasta 
+hoy; en relación a la representación de “lo real”, los modos de producción y el mercado. La 
+falsificación no es siempre la misma, sino que difiere en el tiempo, y en esa diferencia radica su 
+valor. Estas poéticas del dinero falso en la literatura argentina se entienden así como modos de 
+resistencia al sistema económico general y al mercado en particular. 
+ 
+Palabras clave: Dinero falso; Mercado; Representación; Crítica literaria económica. 
+ 
+Abstract: This paper suggests new forms of production and economic symbolization come always 
+accompanied from new metaphoric form that change the literary textual sense. Arlt, Borges, Piglia 
+and Aira fictions present false money as agent and metaphor of the literary work: representation of 
+"reality", modes of production and market. The falsification is not always the same one, but it 
+differs in time. These poetics of false money in argentine literature are understood as ways of 
+resistance to economic system and to market. 
+ 
+Keywords: False money; Market; Representation; Economic literary criticism. 
+ 
+Para esos autores, la cosa no implica diferencias, 
+porque los objetos sólo se perciben al distinguirse 
+de lo que es invisible. Suprima lo que no ve,  
+y suprimirá también lo que sí ve.  
+Entonces se crea un gran deslumbramiento ciego, 
+una extinción de las cosas vistas. 
+                                                        
+1 Este trabajo −junto con la introducción y la organización de este monográfico− forma parte de 
+un proyecto más amplio que comenzó en una estancia de investigación auspiciada por el Council 
+on Latin American and Iberian Studies of the McMillan Center de la Universidad de Yale −durante 
+el otoño de 2012− sobre poéticas del dinero en la narrativa latinoamericana del siglo XX. Sus 
+resultados aparecerán en el libro Contar el dinero. Literatura y economía en América Latina.  
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+Michel de Certeau 
+ 
+La categoría de lo verdadero/falso (V/F) tiene la evidencia  
+de una nave metida en una botella. La transparencia que la circunda  
+encierra el delicado trabajo de su construcción.  
+Para extraerla, nosotros intentaremos algún movimiento  
+vacilante sin proponernos seguir su despliegue conceptual,  
+y lo haremos con la advertencia de que el vidrio  
+se rompe y se desmenuza (casi) a la velocidad del sonido. 
+Paolo Fabbri 
+ 
+Contar el dinero 
+ 
+En primer lugar distingamos lo que a priori es “invisible” −la economía2− y contemos la 
+historia del dinero para señalar las prístinas coordenadas en que se inscribe nuestro 
+objeto de estudio en aras de “crear” un “deslumbramiento ciego” en el análisis de las 
+poéticas del dinero falso en la literatura argentina, aunque este sea parcial. Nos 
+remontamos entonces a los orígenes del dinero y recordamos que se trata de un 
+vocablo que procede de „denario‟, moneda romana asociada a la diosa de la fertilidad 
+Juno, en cuyo templo se acuñaban las monetas, denotando de esta forma su raíz 
+sagrada y política. Pero también esta palabra se vincula con Mnsemosyne, diosa griega 
+de la memoria y madre de todas las musas. Contamos pues con cuatro nociones en las 
+que se incardina el alumbramiento del dinero: lo sagrado, lo político, la memoria y la 
+inspiración.  
+ 
+En cuanto a la historia del objeto propiamente “dicho”, hay que mencionar que las 
+primeras monedas que se conocen proceden de Lidia y datan del siglo VII A.C. A partir 
+de ese momento se fue monetizando la economía paulatinamente, hasta que en siglo 
+XVIII empieza a circular el papel moneda respaldado por el oro en una relación 
+igualitaria: X moneda vale X oro. Ese fue el patrón que se usó hasta la Primera Guerra 
+Mundial, “controlado”3 por el Estado, pese a que la correspondencia entre dinero y oro 
+se iba haciendo con el tiempo cada vez menor4. Es decir: la mayoría del dinero que 
+circulaba era fiduciario porque no representaba parte del valor material del oro. A raíz 
+del “crack” financiero de 1929 esa equivalencia con el estándar del oro se disuelve de 
+manera abrupta: se minimiza el respaldo áureo y el valor fiduciario del dólar (el 
+paradigma del dinero) se convierte en valor ficticio. Ese paralelismo se quiebra 
+definitivamente en 1971, fecha en la que el dólar ya no tiene ningún respaldo en oro. El 
+dinero sólo representa deuda: su valor ya no es presente, sino futuro. Pura 
+postergación, pura ficción.  
+                                                        
+2 Frente al mercado, que sería lo “visible”. 
+3 Cualquier persona podía cambiar el papel moneda por una determinada cantidad de oro en la 
+Reserva Federal. 
+4 Por ejemplo: se movían 9 dólares artificiales por uno 1 real, es decir, de “oro”. 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+ 
+Huelga decir que la historia del dinero ha sido contada de una miríada de formas. 
+Temas, metáforas, tropos, teorías económicas y relaciones de intercambio proliferan en 
+la historia de la literatura, y su estudio ha llamado la atención de críticos y teóricos 
+hasta estructurar una “crítica literaria económica” (véase Woodmansee y Osteen, 1999) 
+que se encarga de abordar estos asuntos y contarlos desde distintos puntos de vista. 
+Así lo que pretendo en este trabajo es pensar cómo la literatura (re)produce y responde 
+a las distintas reformulaciones de la naturaleza de la representación en paralelo a las 
+transformaciones que se han dado en la concepción y circulación del dinero en el 
+sistema económico general y en su concreción nacional, que habrían de tener una 
+plasmación específica en cada campo geopolítico, social y cultural.  
+ 
+Economía, lenguaje y literatura 
+ 
+El dinero es el “objeto” que más utilizamos, de la misma manera que la palabra es el 
+“instrumento” humano más común. No es baladí que el origen y desarrollo de la 
+escritura hayan seguido los mismos cauces que la evolución del dinero: ambos nacen de 
+la imprenta y de la posibilidad de la reproducción5. Como el lenguaje, el dinero es fruto 
+de una convención −el valor específico que se asigna al papel moneda− y representa el 
+acceso a las cosas −valor de cambio− en una comunidad dada. El primero en equiparar 
+estos signos, dinero y lenguaje, fue Saussure desde la lingüística estructural6. Para el 
+francés, este binomio −en principio− se constituye en la relación ambivalente y 
+arbitraria entre significante / significado;  moneda / oro. En lo que concierne al 
+lenguaje, la arbitrariedad no es un fenómeno histórico, sino su cualidad intrínseca, 
+contraria a cualquier tipo de jerarquía lingüística: todas las palabras habrían de 
+compartir un mismo estatus7. En cuanto al dinero, sucedería lo mismo: la moneda 
+(significante) tendría que valer sempiternamente su peso en oro (significado). Pero 
+como hemos visto, esto no ha sido así. Tampoco en el caso del lenguaje. Saussure se 
+                                                        
+5 En rigor, como explica Marc Shell “Las monedas fueron las primeras publicaciones o impresiones, 
+en toda la historia, de gran circulación […] La escritura sobre monedas –“verbales monumentos de 
+la Antigüedad”- aludía con frecuencia a los funcionarios, a los líderes políticos, a las ciudades, a las 
+casad de monedas a las denominaciones; daba la fecha y el lugar de acuñación, y el nombre de los 
+escultores de troqueles” (1981: 130-131). La impresión de una moneda es como una palabra, 
+como el arte.  
+6 Más tarde participarán de esta misma reflexión sobre lenguaje y dinero marcada por Saussure 
+otros teóricos del postestructuralismo. Desde Shklovsky  que habla de economía literaria y 
+cuestiona la palabra como símbolo abstrancto fiduciario a Lacan, que pondrá el énfasis en su 
+famoso ensayo sobre “La carta robada de Poe” en el dinero: el significante más destructivo. De 
+otra parte, Foucault tratará esta ligazón en Las palabras y las cosas; Deleuze en sus 
+investigaciones sobre capitalismo y esquizofrenia, Derridá considerará el dinero como la 
+encarnación paradójica del movimiento deconstructivista y Baudrillard hará hincapié en la irrealidad 
+del dinero (véase Hörisch, 2000: 59-63). 
+7 La abolición de la aristocracia lingüística nos advierte en primera instancia que la etimología de 
+una palabra no otorga valor. 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+acaba dando cuenta de esta problemática y constata que la conexión entre el 
+significante y el significado lingüístico es móvil, frágil, incierta, sujeta a las vicisitudes 
+del tiempo y de la historia (véase Barthes, 1994: 154). En rigor, esta ligazón no es ni 
+natural ni eterna sino contingente. El maestro francés, inmerso en el contexto de crisis 
+económica de finales del siglo XIX, tiene que asumir que el sistema lingüístico y 
+monetario dependen del comportamiento de sus respectivos significantes a lo largo de 
+la historia: la palabra (y no la “cosa” significada), la moneda (y no el “oro” significado). 
+Es más, como señala Barthes en The semiotic Challenger (2004), el lenguaje se asimila 
+al sistema económico cuando se comienza a abandonar el estándar del oro. ¿Por qué? 
+Porque se da una analogía histórica entre el funcionamiento de las palabras y el dinero 
+en la democracia8. Antes, en la Edad Media, la relación entre el rey y sus súbditos era 
+arbitraria, aunque se haya vivido de modo natural como la del lenguaje (significante / 
+significado) o la del dinero (moneda/oro)9. La moneda hecha puramente de oro era “la 
+verdadera” (real) así como el discurso “verdadero” (real) era el de Dios y el Estado. 
+Pero con el advenimiento de la democracia y la constitución del sujeto10 se pone en 
+crisis el derecho divino de los monarcas; se rompe con el patrón oro y aparece el 
+crédito fiduciario: el Estado dice −arbitrariamente− que el significante (la moneda, o el 
+billete) vale X. La totalidad de las riquezas movilizadas es menor a la totalidad de 
+riquezas existentes repartidas entre una población mundial cada vez mayor, por lo que 
+la correspondencia “real” entre la moneda y el oro se desequilibra. Y lo mismo sucede 
+con el lenguaje en la modernidad: la palabra “verdadera” deja de ser reflejo “real” de 
+Dios y del Estado, y se vuelve democrática. Entonces, la tensión entre lenguaje 
+funcional y lenguaje poético se hace más evidente, se rompe la analogía y la 
+arbitrariedad sacralizadas y cambia el valor de las palabras. El oro del significado es 
+reemplazado por el oro del significante; es decir, por el valor del sonido del lenguaje en 
+literatura. Este valor también es arbitrario, pero ya no es igualitario, sino que deviene 
+en fiduciario, dependiente de la “tradición”, del “canon” (véase Schávelzon, 2009). 
+Como el dinero depende de la Reserva Federal11.  
+ 
+A tenor de lo expuesto, deducimos que el signo lingüístico no es neutral aunque lo 
+parezca, ya que reproduce las estructuras de cada época, su ideología, su tradición. Es, 
+                                                        
+8 Sin pasar por alto que la obra literaria −su aparición en el ámbito de lo público a través de la 
+industria editorial− entra en el terreno del comercio y la mercadotecnia. El libro es uno de los 
+instrumentos más importantes de intercambio como la moneda es el instrumento más importante 
+de intercomunicación (véase Shell, 1981: 24).  
+9 Pienso en este punto en las ideas de Pierre Klossowski vertidas en su ensayo La monnaie vivante: 
+“L‟or, sa valeur arbitraire, son inutilité propre qui en quelque sorte demeure la métaphore de toute 
+émotion procurée au sein des richesses −du fait de son régime universal est aussi inhumain que 
+pratique” (1997: 72). 
+10 Hay que tener además en cuenta la tesis de Sohn-Rethel, según la cual el origen de la 
+subjetividad es inseparable del desarrollo del dinero como forma de valor (Véase Hörisch, 2000: 
+251). 
+11 Cuando la moneda se convierte en fiduciara representa un valor que intrínsicamente no tiene.  
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+como el dinero, un registro de la historia y representa sus valores mutables, 
+contingentes. Porque la palabra y la economía son los indicadores más sensibles de las 
+transformaciones sociales (véase Ávila, 2007: 26-27). La ideología es signo (palabra) y 
+el signo es expresión material de la ideología (clase, etnia, género), según el 
+presupuesto marxista. Si hacemos un breve repaso −sin ánimo de exhaustividad− por la 
+teoría del dinero, y nos retrotraemos a El capital de Marx encontramos el célebre aserto 
+de que el fetichismo del dinero en el capitalismo se corresponde con el fetichismo de la 
+mercancía: el valor de uso deviene en valor de cambio. Simmel, en esa misma estela, 
+determina que el capitalismo conduce al utilitarismo y a la destrucción total de los 
+significados. Talcott Parsons lo secunda cuando sostiene que el dinero constituye un 
+lenguaje simbólico: no sólo es mercancía sino un significante carente de valor de uso. 
+Por eso Baudrillard advierte más tarde que el sujeto queda atrapado en el fetichismo del 
+significante en aras de una sistematicidad vacía que posibilita la permanente sustitución 
+del objeto de deseo12 (véase Ávila, 2007: 70-73). Esto es: el dinero es una metáfora “de 
+todo lo que se puede comprar; pero también metáfora abstracta del valor en sí” 
+(Garcés, 2010: 39): puro significante.  
+ 
+Y si en la contemporaneidad muta el signo del dinero en significante absoluto, también 
+habría de cambiar el signo de la literatura, como vaticina Saussure y apostilla Barthes. 
+Según John Vernon, a medida que el dinero se va trocando más ficcional, la ficción se 
+hace más representativa, más realista (en Hörisch, 2000: 71). Sin embargo, Jean-
+Joseph Goux en su espléndido ensayo The Coiners of Language (1994) establece una 
+correlación socio-histórica opuesta entre literatura y dinero: hay una semejanza entre la 
+estética literaria no figurativa y un tipo de circulación económica en la que el dinero se 
+reduce a un símbolo que carece de valor per se. O mejor: la literatura realista se 
+equipara a la circulación del oro cristalizado en una moneda que lo significa, hasta que 
+irrumpe la crisis económica que convierte al dinero en significante: “In one way or 
+another, the bankruptcy of a circulation of values base on Gold Money becomes a 
+metaphor for the failure of the realistic or representacional system of language” (Goux, 
+1994: 13). La crisis de la representación de “lo real” en el lenguaje literario se hace 
+palpable en el primer tercio del siglo XX cuando, debido a las grandes transformaciones 
+políticas y económicas, se toma conciencia del nuevo orden de las cosas. La novela 
+ejemplar en este sentido, a decir de Goux, es Los monederos falsos (1926) de André 
+Gide. Aquí el dinero falso es la metáfora de la narrativa moderna (Goux, 1994: 8). La 
+transición al sistema capitalista moderno queda registrada en la literatura cuando el 
+género de la novela se intenta “suicidar” amén de una visión constructiva de la 
+narrativa y no representativa (véase Goux, 1994: 59-66). ¿A qué me refiero? A que se 
+narran los modos de enunciación del texto: el protagonista de la novela ya no es un 
+personaje central, sino la novela misma que uno de los personajes está intentando 
+escribir y no puede. Hagamos memoria: Edouard, el protagonista de Gide, se siente 
+                                                        
+12 “El dinero va dejando de tener cuerpo propio para ser sólo lo que es en esencia: un signo vacío, 
+ahora mediatizado por los sistemas tecnológicos” (Ávila, 2007: 17). 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+fracasado como escritor y sólo puede pensar en categorías económicas y conceptos 
+monetarios que frustran el proceso de escritura13. La novela ya no cuenta nada, sólo su 
+imposibilidad de contar. A la manera de la moneda de oro falsa que se encuentra 
+Edouard, desgastada, Gide produce una novela “falsa” con la promesa de una escritura 
+novelística que no se cumple14. Se rompe el antiguo pacto con el lector y se garantiza 
+algo, pero de manera incompleta: se posterga la narración, la novela, tal y como se 
+pospone el respaldo del oro en la economía de la época15. Porque en esos años −de la 
+vanguardia histórica y la problemática del artista que encarnan Kafka, Joyce y Thomas 
+Mann− la única forma de representar el mundo a través de un lenguaje que ya no 
+“cuenta” con el oro del significado es postergando esa misma representación. Autor y 
+personaje producen sendas novelas falsas, incompletas, que sólo describen la 
+imposibilidad de narrar desde el paradigma representacional −realista− decimonónico. 
+La literatura, como el dinero, está en el futuro, cifrada en una novela incompleta, sin 
+final, que no puede consumirse porque no ha terminado de producirse. Mediante este 
+mecanismo de postergación además se exhiben los modos de producción de la novela, 
+puesto que lo que confiere valor a la literatura es lo que está detrás: el trabajo del 
+escritor. Y exponer los modos de producción es un claro gesto político, ya que las 
+fuentes materiales de elaboración son orilladas por el mercado capitalista. Se olvida 
+cómo fue creada la obra en pos de un consumo positivista de resultados acabados. A la 
+vista de este panorama,  algunos autores empiezan a despojar a la novela de cualquier 
+filiación con el realismo “total” para vender únicamente ficción: lenguaje, significante, 
+crédito fiduciario. Se configura así −con Gide a la cabeza− una genealogía de novelas 
+que repiten las operaciones formales del dinero falso, cuando éste se inserta en las 
+convenciones del intercambio. Novelas que no son novelas pero que circulan como 
+tales. Narrativas que funcionan como “La moneda falsa” de Baudelaire, ese minúsculo 
+texto que Derridá despieza al detalle en su libro Dar (el) tiempo. La moneda falsa. El 
+valor real de la moneda falsa es que puede circular como moneda verdadera16, ya que 
+existe la posibilidad de que no haya diferencia entre una y otra. Por consiguiente, el 
+dinero falso es el ataque más feroz al Estado y a la economía. De la misma forma que 
+una novela falsa dinamita el estrecho marco consumista del mercado editorial: no entra 
+                                                        
+13Goux precisa: “Economic ideas are usurping the roles of the characters. A tendency Howard the 
+abstract –not any abstraction whatover, but the abstract Concepts of political economy (change, 
+devaluation, inflation)− gnaws at the naive certainty of novelistic representation” (1994: 6). 
+14 Esto es: “the novel is like a false coin, which shines and jingles like a genuine coin, so 
+convincingly that one would swear it was truly golg- whereas this gold is really no more then a 
+superficial layer covering a crystalline substance, destined to be worn transparent with use” (Goux, 
+1994: 8). 
+15 Nótese que esta novela se publica tres años antes de la crisis financiera de 1929. 
+16 Escribe Derridá: “La moneda falsa debe ser tomada por una moneda verdadera y, para eso, 
+debe darse como una moneda que tiene un título que la acredita convenientemente” (1995: 86). 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+“dentro”, entra “mal”17 o si entra como “verdadera” acaba estallando en su propia 
+falfisicación. 
+ 
+El dinero falso en la literatura argentina 
+ 
+Hablar de dinero es para nosotros, ciudadanos de una sociedad capitalista ultraliberal, 
+un tabú. Aunque todos creamos en él como en un Dios: “In God We Trust”18. Pero 
+nadie habla de su historia, de cuánta plata atesora ni de su origen. Hablar de literatura 
+y dinero es quizás también uno de los mayores tabúes de la crítica académica19, la cual 
+sigue pensando en las bellas letras −por herencia del romanticismo− como una suerte 
+de república autónoma al margen de la economía. Algo sorprendente, porque la 
+literatura occidental en su devenir histórico ha narrado el dinero desde El Quijote 
+−primera novela moderna−, al que se han sumado numerosos nombres canónicos: 
+Shakespeare, Goethe, Stendhal, Dickens, Twain, Flaubert, Dostoievski, Balzac, Thomas 
+Mann, Faulkner, Scott Fitzgerald, etc. Pero es en la modernidad y la posmodernidad, 
+cuando el lenguaje literario ya no tiene ningún respaldo “en oro”, que la novela 
+occidental aborda copiosamente la problemática de la economía; de ahí que la ficción 
+desde el siglo XX tenga como uno de sus grandes temas y problemas narrativos al 
+dinero. En la literatura latinoamericana sin embargo no ha sido un motivo tan prolífico, 
+y cuando este ha asomado lo ha hecho por la vía de la desconfianza (véase Garcés, 
+2010). Ahora bien: la Argentina ha sido el país que −dentro del campo hispanista− más 
+páginas literarias le ha dedicado al dinero, desde el Martín Fierro. Tal vez avocado por 
+su raíz toponímica, signada precisamente por el vocablo argentum: plata.  
+ 
+O porque es un campo cultural que ha tomado conciencia, al albur de las apreciaciones 
+de Patricia Ávila, de que “Dinero y Nación participan del mismo tipo de naturaleza: son 
+invenciones. Manifestaciones de la creatividad de imaginarios sociales a la vez que 
+instrumentos configuradores de formas sociales y culturales” (2007: 39). Las monedas, 
+como las palabras, circulan estandarizadas en el marco de los espacios nacionales20 
+desde hace más de un siglo. Con este horizonte, la moneda ha ido atesorando en su 
+                                                        
+17 Del mismo modo que Joyce y su novela intraducible no entra al mercado. Pero en este caso no 
+se hablaría de una moneda falsa, sino de una  moneda inconvertible. 
+18 Este es el lema que reza en los billetes de dólar desde hace más de media centuria. 
+19 Principalmente la hispanista, porque la crítica literaria anglosajona y alemana (v.g., Heizelman, 
+Shell, McClosky, Woodmansee, Hörisch, etc.) viene atendiendo a esta cuestión desde los años 
+setenta. No obstante, han tratado la conexión entre literatura y dinero en el ámbito del español, de 
+un modo u otro, Luis Cárcamo Huechante, Álvaro Fernández Bravo, Gonzalo Garcés, David Kelman, 
+Andrea Valenzuela o Álvaro Enrigue. La revista Nueva Sociedad sacó a la luz un número 
+monográfico en 2010 sobre literatura y dinero; al igual que revista belga Aleph. En el rubro 
+argentino, se han dedicado a su estudio en autores específicos (sobre todo Arlt y Borges): Ricardo 
+Piglia, Alejandra Laera, Elsa Drucraroff, Sandra Contreras, Iván Almeida o Jorge Fornet entre otros.   
+20 O continental, en el caso de Europa; cuestión que redunda en la actualidad en la pérdida gradual 
+de la identidad nacional a favor de una economía y una cultura globalizadas, homogenizadas. 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+materialidad la memoria (Mnemosyne) de una nación. Junto a la cifra numérica, el 
+papel moneda reproduce los signos nacionales mediante signos discursivos que 
+combinan texto e imagen21 para producir identidad22. En correspondencia con la 
+palabra, la moneda está sujeta al desgaste material y la inflación (véase Garcés, 2010: 
+39); que en algunos países, como la Argentina, es especialmente acuciada y 
+dependiente del colonialismo del dólar americano: el valor “verdadero”23. El valor del 
+peso argentino fluctúa en función de una variable supranacional que lo ha llevado en la 
+contemporaneidad a manejar una doble economía paralela: dólar / peso argentino; y 
+dólar oficial / dólar “blue”24; cuya cotización varía según el mercado “black”. Esta doble 
+lógica −paranoica y complotada− de lo “verdadero” y lo “falso” ha atravesado desde los 
+inicios del S. XX la economía argentina25; enfrascada en la búsqueda ilícita de 
+subterfugios para adulterar el dinero −estafar al Estado− y sobrevivir. Porque “En el 
+dinero como expresión del valor económico, hay una transferencia de valor del sujeto al 
+objeto producto de sacrificio” (Ávila, 2007: 50). Por eso no nos extraña que el sujeto 
+escritor argentino haya “transferido” a la ficción el modo en que se concibe, se produce 
+y circula el dinero en su país (como en todos, en una u otra medida): desde la 
+falsificación. Tal y como enuncia Ricardo Piglia: “La novela mantiene relaciones cifradas 
+con las maquinaciones del poder. Las reproduce, usa sus formas. La literatura trabaja la 
+política como conspiración, como guerra; la política como gran máquina paranoica y 
+ficcional” (1989: 61). A lo que yo añado: la literatura argentina trabaja la economía (“lo 
+invisible”) y el mercado (“lo visible”) como fraude, como moneda falsa, como la gran 
+máquina falsificadora. 
+ 
+Por un lado, la tradición argentina ha pensado y piensa la ficción en términos de política 
+económica: no sólo como representación temática del dinero, sino del trabajo del 
+artista, la invención, la producción de valor: la motivación de la narración. De otro lado, 
+                                                        
+21 A este respecto véase el magnífico libro de Patricia Ávila Y tú también te vas. Argentina y el 
+dinero. Es interesante observar cómo el dinero necesita de autoridades “extra” económicas para su 
+circulación, porque “Las imágenes inscriptas en los billetes nos abren una constelación de 
+significaciones y su análisis es un intento por describir la impronta que en ellos dejaron los que 
+imaginaron el poder” (2007: 39). 
+22 La identidad también es una impostura, de tal forma que podemos aplicar a las políticas 
+culturales de identidad la lógica de la falsificación (véase Germana, 2009: 299). 
+23 Hay recordar en este punto la excelente parodia que hace Tato Bores en un monólogo de los 
+años sesenta sobre la devaluación del peso argentino −el “dolarazo”− y la locura de la compra-
+venta de dólares en el país.  
+24 Esta nomenclatura eufemística comenzó a utilizarse en Argentina a partir de 2011, cuando el 
+Estado impuso fuertes restricciones para la adquisición del dólar oficial. Se manejan tres posibles 
+razones por las que se pudo acuñar esta denominación: “blue” como oscuro, “blue chip” (pago al 
+contado), o “blue” como el color de la fibra que pasan a los billetes para detectar si son falsos. 
+También se le llama “dólar Messi” en honor al jugador cuyo número de camiseta es el 10 en la 
+selección nacional argentina y en el F.C Barcelona. Y es que  el cambio en el mercado negro del 
+dólar americano rozó los 10 pesos argentinos. 
+25 “Cuánto dinero es menos importante que qué dinero” (Zelizer, 2011: 38). 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+hallamos en esta literatura dos cualidades del dinero que aparecen en primer plano, 
+como dos caras de la misma moneda: su posibilidad de duplicación (la copia) y la 
+falsificación (el fraude). Pareciera que el dinero en la Argentina, desde las primeras 
+décadas del siglo XX estuviera asociado al simulacro, a su irrealidad e irracionalidad 
+latente generadora de desigualdad social e injusticia, razón por la cual el tipo de dinero 
+que destaca en los relatos de los grandes escritores argentinos que hemos seleccionado 
+es “falso” (metáfora del doble mecanismo de la copia y el fraude), que se contrapone al 
+Estado (al dinero “legal”, “verdadero”), y se produce desde el “margen”. No hay que 
+olvidar que es la confianza, y no la similitud, lo que hace posible que la moneda falsa 
+circule. Tanto el lenguaje como el dinero viven del crédito, de la fe del lector, del 
+consumidor. Por ello −como habría de exponer Goux (1994)− si se pierde la fe en el 
+dinero “verdadero” (capitalista) a causa de un Estado fraudulento, se pierde la fe en el 
+lenguaje, en la literatura “verdadera” (que representa “lo real”) a favor de una narrativa 
+falsificada, que no viene a ser sino el reflejo de una sociedad “organizada con un  alto 
+nivel de ficción” (Píriz, 2002: 464). Y es que el discurso hegemónico de la autenticidad 
+(lo “verdadero”) se relaciona con la formación de la identidad nacional (ligada a la clase 
+social, la etnia y el género), que en el caso argentino no se da como “natural”, sino 
+como “construcción”, ficción, falsificación. Así podemos observar la influencia de la 
+política monetaria (véase Cortés Conde, 2005) en la política cultural de la identidad y de 
+la tradición, articuladas ambas en el campo literario y en su mercado. Las nuevas 
+formas de producción y simbolización económica vienen siempre acompañadas de 
+nuevas formas de metaforización y cambio del sentido literario, cuyo valor es 
+contingente en sendos ámbitos26. Se transforma el dinero (economía), luego la 
+ideología (política), luego la epistemología (literatura) (Germana, 2009: 300). De ahí 
+que la falsificación se presente en la literatura argentina como agente (motor) y como 
+metáfora de la construcción de una ficción (económica, política e identitaria) que va 
+cambiando de forma desde la pasada centuria hasta hoy. La falsificación no es siempre 
+la misma, sino que difiere en el tiempo, y en esa diferencia radica su valor. Al abrigo de 
+esto, podemos decir que las poéticas del dinero falso en la literatura argentina son 
+modos de resistencia al sistema económico general y al mercado en particular. También 
+pueden ser leídas como una respuesta-especular a un horizonte político-económico 
+hiperinflado y endeudado que se ha ido vaciando de contenido (significado) desde que 
+la Buenos Aires colonial era una sociedad con una clase política fraudulenta que llegó a 
+ser la élite social y económica del país (Píriz, 2002: 463). Al cabo, como sostiene Piglia, 
+la función del dinero lleva “grabada la historia de una adquisición basada en el delito y 
+en la transgresión” (1974: 25).  
+ 
+Asimismo toda poética trata de la producción: “No puede haber un análisis de la forma 
+o del contenido de la producción sin una teoría del trabajo” y de la memoria (Shell, 
+1981: 25). En el caso de la literatura argentina, inserta en una economía nacional que 
+ha (re)conocido el fraude (como la mayoría), las poéticas del dinero falso ponen 
+                                                        
+26 Para Woodmansee hay una epistemología compartida entre el valor literario y el valor monetario. 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+simultáneamente sobre el tapete los modos de producción de la ficción, de su 
+enunciación, del trabajo literario y de la economía del país. El dinero “verdadero” (de 
+curso legal) sirve para el intercambio de productos equivalentes. La narración del dinero 
+“falso” rompe esa gran metáfora de la circulación pareja y hace “visible” el intercambio 
+desigual en esos tres niveles: en la forma de producir (representar/enunciar) “lo real”, 
+en el “falso” valor de cambio que impone el mercado al trabajo del artista, y en una 
+lógica económica fraudulenta. En virtud de lo descrito, este artículo considera la relación 
+entre literatura argentina y economía a partir de cuatro textos elaborados a tenor de 
+dos grandes crisis económicas: la del crack de 1929 (Arlt y Borges) y la nacional de 
+2001 (Aira27 y Piglia). Todos tienen como motivación de la narración −como dispositivo 
+coagular que dispara la ficción− el dinero falso, y se erigen como discursos literarios 
+“verdaderos” o “falsos” en función de sus formas de representación −enunciación−, de 
+producción y de su consumo en el mercado. En primer lugar, acometo esta tarea 
+ubicando la falsificación del dinero dentro de sus especificidades históricas, económicas 
+y culturales. En segundo lugar, abordo esta cuestión partiendo de la discusión moderna 
+acerca de la relación de la literatura con la realidad en cuanto a referente28, que dio 
+lugar a clasificaciones como la del género fantástico, realista, surrealista, maravilloso, 
+ciencia-ficción, etc. Asimismo me apoyo en las premisas de Paolo Fabbri29 sobre “lo 
+verdadero y lo falso” como una hipótesis de lectura de las formas literarias30 y su 
+inserción en una economía de mercado, al mismo tiempo que retomo la idea 
+saussauriana de la ligazón entre el mundo verbal y el económico. Es decir, el dinero 
+como signo que también articula la relación entre significado y significante del lenguaje 
+sobre la base de su contrapartida material (real) y simbólica (ficcional). Si seguimos la 
+teoría de Barthes en el ensayo citado más arriba, “una narración puede establecer su 
+propio intercambio (falso o auténtico) de valores, así como el valor de la literatura en 
+general. Así pues, las obras literarias se componen, sin excepción, de pequeños y 
+grandes intercambios de tropos” (en Shell, 1981: 21). Entonces, ¿a qué alude lo 
+“verdadero” y lo “falso” si toda literatura es falsificación de algo? ¿Cómo zafarse de esa 
+tautología y añadirle “otro” valor? La cuestión del valor de lo “verdadero” y lo “falso” en 
+las letras parece antediluviana, pero conviene reformularla al socaire de las ideas de 
+Goux (1994). Por un lado, se puede entender la literatura realista31 como “verdadera” 
+                                                        
+27 La novela se terminó de escribir en 1999 y fue publicada en Anagrama en 2002. 
+28 Las teorías representacionistas parten de la idea de que el lenguaje “representa” al mundo. En 
+cambio, las teorías antirrepresentacionalistas hacen hincapié en el carácter transformador, creador, 
+del lenguaje.  
+29 Agradezco a Ezequiel de Rosso la recomendación de esta lectura, que ha resultado muy 
+provechosa para mi estudio. Aclaro en este sentido que dejo de lado la extensa discusión de siglos 
+sobre la “verdad” y la “mentira”, lo es “verdad” o lo que lo parece. El eje de análisis de este trabajo 
+es otro: la representación de “lo real”.  
+30 Para algunos teóricos como Holdheim el tema general de la novela es la falsificación.  
+31 Las polémicas sobre el realismo, la distancia entre la “realidad” y su representación literaria, han 
+producido discusiones críticas apasionantes (verbigracia, como representación orgánica o como 
+representación fragmentaria, ya que “lo real” no se puede aprehender en su totalidad). Es claro 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+en tanto que imita la condición de “lo real”: lo “verdadero” sería una suerte de 
+“argumentación figurativa”, “una narración de la imagen y de los signos sensitivos” 
+(Fabbri, 1995: 126). Al tratarse de una imitación conlleva implícitamente un proceso de 
+“falsificación” del “original”, que sería “lo real”. No obstante, esa literatura se hace 
+pasar por “verdadera” en el sentido de que representa de forma figurada “lo real”, y así 
+es leída y consumida en el mercado: ese es su “valor” de intercambio estético. En este 
+rubro de “lo verdadero”, pongo el énfasis en el valor de cambio más que en el de uso; 
+en el valor del libro en el mercado editorial y en el lector (que da crédito, que confía) 
+como consumidor. Shell afirma, cuestionando el pensamiento de Rushkin: “Si la 
+literatura tiene algún valor, entonces debe tener buen crédito. El lector espera que el 
+libro le dé sabiduría, así como el dueño de un billete de banco espera que se lo cambien 
+por oro” (1981: 272). Rushkin defiende un valor de uso que otorga “saber” y que habría 
+de fusionarse con el valor de cambio. El problema de esta teoría, como subraya Shell, 
+es que no presta suficiente atención a la lectura, como sí lo hace Goux (1994). El lugar 
+de enunciación que aquí propongo, en cambio, se sitúa no sólo en los modos de 
+producción de la obra literaria y su ligazón con “lo real”, sino en los modos de lectura 
+como formas de consumo orientadas a un mercado. Id est: no tanto en la capacidad de 
+interpretación del lector para hallar la “verdad”32 (el significado) en las falacias 
+(significantes) de la literatura, sino en cómo esta se vende y se consume. 
+ 
+De otra parte, una literatura “falsa” −que para Goux tal vez sería la que narra el dinero 
+falso como metáfora de la modernidad− vendría a definirse como aquella que no imita 
+la realidad, revela su falsificación, sus mecanismos de construcción (sus modos de 
+producción), o posterga la representación. No concluye, o bien evidencia la “falsedad” 
+de “lo real”, o ni si quiera lo representa. Esta suerte de literatura “falsa” habría de tener 
+a su vez otro “valor” de intercambio en el mercado: se lee y se consume por sus formas 
+de falsificación, por su grado de invención. Es un producto que no representa, 
+incompleto −como afirmaba Goux (1994)− ni se inserta con facilidad en el mercado de 
+consumo capitalista en tanto que no está acabado33 e implica el (re)conocimiento de lo 
+falso y engañoso por parte del lector / consumidor, lo que supone asimismo un esfuerzo 
+de interpretación: un tiempo que es oro (el lector paga doblemente: por el libro y por el 
+trabajo que supone la lectura). El discurso literario arma pues diferentes “circuitos de 
+credibilidad” que apelan a la confianza del lector que presupone la representación de “lo 
+real” como “continuidad y permanencia” −en términos de Deleuze− y “lo imaginario” 
+                                                                                                                                      
+ 
+que la lógica discursiva y la lógica de “lo real” se repelen más que se acercan, pero el debate en 
+torno a ambas no se ha agotado ni mucho menos. Y por eso lo revisamos en este ensayo para 
+abordarlo en relación a la esfera económica.   
+32 La “hermenéutica heideggeriana (hasta Gadamer o hasta Derrida) entiende la verdad como 
+“invención” “(y para el diccionario falsear es “inventar en detrimento de la verdad)”. Y la 
+epistemología (de Popper a Lakatos) entiende lo verdadero como “algo construido y lo falso es 
+falsificación” (Fabbri, 1995: 122). 
+33 Una literatura sin final es una literatura sin sentido, que se resiste al consumo capitalista: en el 
+final se cifra la “verdad”, el lector busca una literatura “acabada”, con un sentido “final”.   
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+como “discontinuidad y capricho” (en Fabbri, 1995: 124). Es claro que la continuidad se 
+aviene a la comodidad −a una inversión de menor tiempo de lectura− y que lo 
+discontinuo “vende” menos en la bolsa de valores del mercado literario porque el lector 
+invierte más tiempo en la descodificación, más trabajo en la narración. Esto es: “lo 
+falso” habría de entenderse por tanto no sólo como un concepto literario, sino una 
+forma cultural y económica. 
+ 
+Es obvio que el primer gran narrador del dinero en la Argentina fue Roberto Arlt34. Y lo 
+hace desde el paradigma literario de la representación realista que revela la “falsedad” 
+de las relaciones económicas, políticas, amorosas y sexuales en la sociedad capitalista y 
+en la clase burguesa de la época. En sus textos el dinero es “una máquina de producir 
+ficciones, o mejor, es la ficción misma porque siempre desrealiza el mundo: primero 
+porque para poder tenerlo hay que inventar, falsificar, estafar, “hacer ficción” y a la vez 
+porque enriquecerse es siempre la ilusión” (Piglia: 1974: 25). Y aquí reside el meollo de 
+la poética de Arlt: sus personajes se definen a través de su relación con el dinero; no se 
+mueven en el mundo burgués donde se gana dinero “legal” con un trabajo remunerado, 
+sino que lo hacen desde la “ilegalidad”, lo fabrican (véase Drucaroff, 2000): el dinero 
+falso el productivo, el que genera ficción35. En consecuencia, el dinero en su literatura 
+está asociado a la mentira, a la falsificación y a la estafa. El dinero es falso como su 
+ficción, que aunque figurativa −“verdadera”− es también “falsa” porque está “plagiada”, 
+mal escrita y mal valorada en el mercado burgués. El texto por antonomasia que 
+ejemplifica esta poética es, en mi opinión, no tanto Los sietes locos o El juguete rabioso 
+como ha establecido la crítica, sino su pieza teatral Prueba de amor. En ella, Guinter 
+quema su dinero para probar si es “verdadero” el amor que le profesa su prometida, 
+Frida. Los personajes femeninos, en la producción de Roberto Arlt, cristalizan las 
+transacciones sexuales y económicas que impone el mercado del “amor” −del 
+matrimonio− en el mundo burgués36 que se asimila al fraude. Pero al final de la obra se 
+descubre que el amor “falso” es el de Guinter −no el de Frida, que lo sigue amando 
+cuando quema la plata− porque el dinero que ha incendiado no era “verdadero” sino 
+fabricado ex profeso: falsificado. Tanto el lenguaje económico como el imaginario 
+financiero son usados en esta pieza teatral para fijar el valor de unos personajes que 
+hablan el lenguaje burgués del dinero falso que les rodea (véase McCormack, 1990) y la 
+hipocresía ética que lo acompaña. Pero en una segunda lectura, en una vuelta de 
+tuerca, nos damos cuenta de que si Guinter ha sido capaz de “fabricar” dinero falso en 
+una imprenta, su fortuna también podría ser falsa. De esta manera, el amor de Frida 
+                                                        
+34 Como le sucede a Henry James, “the same economic sign Systems are operative in the same 
+patterns of signification in his life and his fiction” (McCormack, 1990: 34). 
+35 Arlt entiende que hay diferentes “clases” de dinero (en función de su significado cultural), como 
+demuestra Viviana Zelizer en el libro citado (2011): no es lo mismo el dinero que se gana de una 
+lotería, el del salario, el primer sueldo, el de una herencia, etc.  
+36 Las relaciones matrimoniales están controladas por la lógica económica capitalista: el valor de 
+uso (la mujer, la virginidad) y el valor de cambio (el hombre, el trabajo). Recordemos el cuento 
+“Noche terrible” de Arlt donde esta problemática aparece nítidamente.  
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+que creíamos “verdadero”, finalmente tampoco lo es −responde a la lógica burguesa del 
+interés económico− ya que habría de abandonarle porque descubre que su riqueza es 
+“falsa”: 
+ 
+Frida: ¿Cómo te procuraste ese dinero falso? 
+Guinter: Lo hice fabricar para mí. La imprenta que lo hizo sabía ya el destino que tenía. 
+Pero, ¿por qué me preguntás eso? 
+Frida: (con el pensamiento ostensiblemente ausente de las palabras que pronuncia): ¿Y 
+hay gente que se atreve a hacer esas cosas? 
+Guinter: Pagándole, la gente se atreve a todo (Arlt, 2004: 133-134). 
+ 
+La literatura es concebida por Arlt no sólo como forma de ganar plata, sino como 
+metáfora de que esa plata −como el amor / matrimonio burgués− aunque “verdadera” 
+(legal) también es “falsa” (fraudulenta) como la literatura (plagiada). En definitiva: esta 
+obra se asemeja a la ficción de Baudelaire analizada por Derridá, donde el efecto de 
+una moneda falsa comparte la misma capacidad generadora de la ficción, haciéndose 
+pasar por “verdadera” (1995: 95). Se trataría pues de una “falsa” literatura 
+“verdadera”37.  
+ 
+La segunda magna poética argentina del dinero es la de Borges, que rompe el pacto 
+con la representación de “lo real” amén de propugnar una literatura “falsa”, fantástica, 
+con una causalidad mágica. En este sentido “El Zahir” es el ejemplo más ilustre38. Para 
+el autor de El Aleph, el dinero -“tiempo futuro”- es una suerte de “moneda ficticia”39, 
+mágica, (con un único anverso imposible de olvidar), como la literatura es siempre 
+ficción -significante, copia- no respaldada por el oro del significado de “lo real”, como 
+sostenía Goux (1994). El zahir toma en la Buenos Aires de los años cuarenta la 
+materialidad de “una moneda común de veinte centavos”40 con la fecha de 1929 
+grabada en una de sus caras. La alusión es obvia: el crack financiero; así como la 
+obsesión del mundo capitalista por la economía, que es pura ficción. Por eso en ese 
+periodo el Zahir se convierte en la materia más representativa: una moneda (véase 
+Laera, 2007: 38) que es todas las monedas, como la palabra no se gasta y es todas las 
+palabras: copia infinita. Una moneda que no circula, sin valor de cambio (ni intercambio 
+comercial), metáfora extrema de la desvalorización del dólar y su ficcionalización. Esta 
+                                                        
+37 Daniel Schávelzon desarrolla el concepto de “falsos auténticos”, aplicado al negocio de cuadros 
+bien copiados, “que hacen público lo que son” (2009: 22). 
+38 Aunque como indica Iván Almeida las monedas están presentes en toda su obra, y el dinero 
+también: verbigracia, en el relato “El otro” de El libro de arena. 
+39 No es lo mismo que una “moneda falsa” que tiene su razón de ser en pasar como “verdadera”. 
+La moneda de Borges es ficción, magia.  
+40 La moneda tiene “marcas de navaja o de cortaplumas” que “rayan las letras NT  y el número 
+dos”. Es claro: si quitamos el 2, queda el 0. El no valor. La NT puede referirse tanto a Arge(nt)ina 
+como a ce(nt)avos.  
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+moneda que sólo tiene valor de uso habría de estar en consonancia con la poética 
+fantástica borgiana:   
+ 
+Hasta fines de julio me distrajo la idea de componer un relato fantástico. Este encierra dos 
+o tres perífrasis enigmáticas –en lugar de sangre pone agua de la espada; en lugar de oro, 
+lecho de la serpiente− y está escrito en primera persona. El narrador es un asceta que ha 
+renunciado al trato de los hombres y vive en una suerte de páramo” (2004: 62). 
+ 
+Borges explicita –al igual que Gide– los modos de producción de su literatura fantástica 
+y convierte esta problemática en anécdota narrativa, otorgándole el poder de hacer 
+olvidar el Zahir, que reemplaza a Teodelina y simboliza la economía: “lo real”41 invisible. 
+En esta parte del relato, Borges deja manifiesta su concepción de la ficción como juego 
+y artificio, como copia de lo ya escrito –puro significante–, construida fuera -autónoma- 
+de la representación de “lo real” (el significado) que libera a la literatura de su 
+intercambio comercial: las obras realistas, “legibles” para la cultura de masas y las 
+instituciones que tanto atacó. Porque la narración en el autor de El aleph ocurre cuando 
+el dinero no existe, como sugiere Alejandra Laera (2007: 41): en el sueño (lo único que 
+escapa a la lógica del capital y del consumo masivo), en la fantasía, en un universo 
+literario autónomo que se aviene al consumo “ilegible” de la alta cultura: un lector 
+privilegiado, diestro en el arte del intercambio infinito de significantes que son difíciles 
+de consumir. En términos de Adorno, Borges apunta a “la profunda vocación de la obra 
+de arte en una sociedad mercantil; no ser una mercancía, no ser consumida, ser 
+desagradable en el sentido mercantil y utilitario” (en Shell, 1981: 221). Nuestro autor, 
+en un contexto de crisis económica mundial donde el dinero se vuelve más ficcional y el 
+sujeto queda atrapado en el fetichismo del significante (como sugiera Baudrillard), 
+produce una literatura deliberadamente “falsa”, en el sentido que apuntaba Goux 
+(1994).   
+ 
+En tercer lugar, habría que situar a Piglia que cifra su ficción del dinero en una moneda 
+antigua que habría de ser falsa porque no es legal: no circula, no tiene valor de cambio 
+en el mercado actual. Refiere a una literatura “falsa” que se vende en “otro mercado”: 
+el de los anacrónicos lectores de literatura. Obviamente aludo al prólogo de El último 
+lector que es una de las grandes ficciones económicas de Ricardo Piglia, junto con 
+“Homenaje a Roberto Arlt” y Plata quemada. En dicho prólogo, la “máquina sinóptica” 
+del fotógrafo Russell, réplica de Buenos Aires –una suerte de Aleph42– es como una 
+“moneda griega” que posee la “condición del arte, se desgasta, no envejece, ha sido 
+                                                        
+41 Borges invierte la causalidad narrativa (igual que en “El arte narrativo y la magia): el Zahir (la 
+economía) y el trabajo literario que precipita el olvido de la moneda, que a su vez conlleva el olvido 
+de Teodelina. 
+42 La intertextualidad es evidente: “Vi una puerta y vi un catre, vi un Cristo en la pared del fondo y 
+en el centro del cuarto, distante y cercana, vi la ciudad y lo que vi era más real que la realidad, 
+más indefinido y más puro” (Piglia, 2005: 16). Asimismo, la “máquina sinóptica” se halla al final de 
+una “escalera” pero esta vez no en un sótano, sino en un “altillo”. 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+hecha como un objeto precioso que rige el intercambio y la riqueza” (2005: 13). El 
+objeto literario funciona así como una mercancía que se intercambia con los parámetros 
+de “otra” economía: “el fotógrafo reproduce, en la contemplación de la ciudad, el acto 
+de leer. El que la contempla es un lector y por lo tanto debe estar solo. Esa aspiración a 
+la intimidad y al asilamiento explica el secreto que ha rodeado su proyecto hasta hoy” 
+(2005: 12). A la literatura se accede con una moneda antigua -el dracma- que sobre 
+todo tiene valor de uso, símbolo de una economía perdida, de una tradición olvidada, 
+de un “secreto” que únicamente son capaces de valorar -sólo circula entre- los lectores: 
+el valor de cambio es “otro”. Pero tras el acto de ver / leer la ciudad, el dinero es 
+devuelto al espectador /lector, es decir: el valor de uso -de nuevo- se hace manifiesto y 
+el “consumidor” es retribuido con capital simbólico: 
+ 
+−¿La hizo usted?− Me miró con un gesto de complicidad. Si es falsa, entonces es perfecta 
+−dijo y luego con la lupa estudió las líneas sutiles y las nervaduras del metal−. No es falsa, 
+¿ve? –Se veían leves marchas hechas con un cuchillo o con una piedra−. Y aquí –me dijo− 
+alguien  ha mordido la moneda para probar que era legítima. Una campesino, quizá, o un 
+soldado (Piglia, 2005: 15). 
+   
+“Lo falso” aquí tiene un eco arltiano, y se pergeña como lo “fabricado”, lo que crea la 
+ficción, el trabajo del artista que tiene otro “valor” y otra “circulación”. Al igual que 
+sucede en su novela Plata quemada, escrita contra la sacralización del dinero en el 
+sistema neoliberal, al que confronta con el fraude, la falsificación, y el robo. Pero ya no 
+se trata de un dinero falso que circula como verdadero −en contra de la lógica 
+capitalista− como en Arlt, sino de su cruce con Borges: dinero falso (ficticio) que 
+procede de una economía falsa (fraudulenta). El dinero es robado al banco que roba, y 
+finalmente, quemado, como en Prueba de amor. Un dinero que es dinero falso, ilegal, 
+que a su vez es copia del original (el dracma): todo es “falso” en una economía 
+capitalista “falsa” que desde 1971 no tiene respaldo en oro: es ficticia. Sin embargo, en 
+Arlt se quema el dinero falso, ilegal, pero sigue existiendo un dinero “verdadero”, legal, 
+con oro: el de la burguesía. En Piglia todo es ficción; y esto es trasladado a la literatura 
+−a la construcción narrativa− que entiende el lenguaje como utopía máxima y se forja 
+desde la impostura de la oralidad escrita o la copia: plagio del plagio, significante del 
+significante que se quema (como la palabra) para dar paso a la tradición oral, la única 
+literatura “verdadera” que puede circular al margen del mercado y que depende de la 
+“memoria” que se repite como se recuerda (Piglia, 2005: 12): 
+ 
+Y después de todos esos interminables minutos en los que vieron arder los billetes como 
+pájaros de fuego quedó una pila de ceniza, una pila funeraria de los valores de la sociedad 
+(declaró en la televisión uno de los testigos), una columna bellísima de cenizas azules que 
+cayeron desde la ventana como la llovizna de los restos calcinados de los muertos que se 
+esparcen en el océano o sobre los montes y los bosques pero nunca sobre las calles sucias 
+de la ciudad, nunca a las cenizas deben flotar sobre las piedras de la selva de cemento 
+(2000: 174-175). 
+ 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+Pero el citado prólogo también nos remite a Borges y a la tradición de la literatura 
+fantástica rioplatense (menciona incluso a Felisberto y a Onetti), en concreto a “El 
+Zahir”, que como el dracma tiene “marcas de navaja o de cortaplumas” (Borges, 2004: 
+59) y es una moneda “mágica” que no se “olvida”. De nuevo el cruce con la memoria 
+que “representa”: “Lo real no es el objeto de representación sino el espacio donde un 
+mundo fantástico tiene lugar” (Piglia, 2005: 12). Lo real es la ficción: una “verdadera” 
+literatura “falsa”. La única posibilidad de representación es la de “lo falso” que ahora es 
+“verdadero”. Y es que en este relato se cifra el lenguaje económico que entraña la 
+poética de Ricardo Piglia como valor de uso que altera las relaciones de representación 
+y de (re)producción: “Lo real no es el objeto de la representación sino el espacio donde 
+un mundo fantástico tiene lugar” (2005: 12). Como sugiere Marc Shell:    
+ 
+El estudio de las monedas como ejemplos de arte visual y literario en una época de 
+reproducción mecánica indica la necesidad de reflexionar tanto en la representación y 
+producción económicas como en la reproducción o imitación estética […] En este sentido, 
+la numismática no sólo cuenta las monedas, sino que también da cuenta de la importancia 
+de los signos económicos y estéticos, así como de su relación (1981: 178).  
+ 
+Estas líneas nos invitan a pensar en Benjamin, por supuesto, pero también en la doble 
+operación representacional que lleva a cabo Ricardo Piglia cuando pone como 
+protagonista del texto a un fotógrafo que “representa” una moneda que “representa”: 
+“una fotografía de una moneda es la reproducción mecánica de una reproducción 
+mecánica; lo que altera la concepción popular de la moneda y destruye su “aura”” 
+(Shell, 1981: 178). La fotografía reproduce un original (como la acuñación, como la 
+literatura) que es “falso” en tanto que simboliza lo que se ha perdido: la tradición 
+griega, la “auténtica”43, la economía con significado, con oro. Así para Ricardo Piglia 
+toda literatura es falsa porque es copia (todo dinero es ficticio); toda vez que la 
+tradición argentina es falsa porque es plagio (el dinero nacional es siempre 
+fraudulento). Ficción cruzada por Arlt y Borges. Dos caras de la misma moneda pigliana.  
+ 
+Y como último ejemplo de estas poéticas del dinero en la literatura argentina (que no se 
+agotan ni mucho menos en los nombres que he mencionado) usaré la ficción de César 
+Aira, que supone un salto abisal en esta genealogía textual, ya que opera en otro eje: 
+una economía donde el dinero es totalmente ficcional, la literatura se vuelve 
+“verdadera” representando el absurdo (la falsedad) de lo “real”. Volvemos entonces a la 
+tesis de Vernon (1984) que Goux (1994) había descartado: cuanto más ficcional es la 
+economía más realista es la literatura. En Varamo de César Aira el dinero falso 
+representa un crédito que genera deuda en la vida del escritor, inmerso en un mercado 
+                                                        
+43 Daniel Schávelzon consigna: “Así es como podemos movernos hacia el concepto mismo de 
+autenticidad, para nosotros surgido en Grecia, trasladado a Roma con sus copias de originales 
+griegos y considerados a su vez más tarde como originales, ya que sus fuentes, si las hubieron, se 
+han perdido, aunque no por ello son obras de arte menos extraordinarias −buen ejemplo del 
+mercado de las copias− (2009: 49). 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+“falso” que deviene en el centro de la “sociedad de lo imaginario” (Schávelzon, 2009: 
+24) o la “sociedad del simulacro”, como la definiera Baudrillard. Me explico: la 
+superproducción de transacciones financieras actuales se hacen en virtud del nombre, 
+de la firma: “yo soy mi dinero” (significante vacío). Y, tal y como he anunciado, si 
+cambia la forma del dinero, cambia la literatura. En la actualidad sólo el 5% del dinero 
+que circula es dinero real (papel moneda creado por el Banco Central con respaldo 
+estatal y sin oro), el resto es ficticio (devaluado y creado por lo bancos privados). 
+Vivimos el tiempo de la declinación del soporte material de la unidad monetaria en favor 
+de las tarjetas de crédito: el dinero bancario es un signo vacío mediatizado por los 
+sistemas tecnológicos. Un dinero que evidencia a todas luces su devaluación, lo que 
+implica una arbitrariedad absoluta, puesto que no es subsidiario del Estado (como en 
+Arlt o en Piglia) sino de la banca privada. La ficción de Aira actúa conforme a la misma 
+lógica: no existe literatura sin mercado editorial (al igual que no existe dinero sin 
+banco); no existe texto sin autor (al igual que no hay dinero sin nombre) y el valor de 
+ambos es arbitrario porque no son más que “signo vacío” –el dinero para Aira “es la 
+abstracción” (2002: 67)−, subordinado al crédito del capital (editorial, bancario). A la 
+postre, Aira socava los fundamentos de la autenticidad: la literatura, como el banco, 
+está desprovista de sentido, de valor intrínseco. La ficción es disparate, “mala” 
+superproducción, una obra inconclusa, un proyecto depositado a plazos. No hay 
+moneda: sólo crédito. No hay obra: sólo mercado. O mejor: no hay obra sin mercado, 
+no hay dinero sin banco. Al compás del dinero que se transforma en vacío dependiente 
+de la banca, la literatura se hace vacua, disparatada, neto proceso dependiente del 
+mercado, del crédito que ostentan el autor y la editorial. De este modo, lo fundamental 
+para Aira es la acción de la escritura44, publicar, no el resultado final del texto ni el 
+sentido “estético” acabado45. Porque en la actualidad los contornos de “lo literario” se 
+han diluido y cualquiera, arbitrariamente, puede ser escritor y publicar literatura si 
+dispone de “crédito”. Cualquier cosa puede ser literatura, por más disparatada que sea 
+(por poco sentido que tenga) como ilustra la Varamo. Aquí su protagonista homónimo 
+recibe en el pago de su sueldo ministerial dos billetes falsos. No intenta hacerlos circular 
+como verdaderos, no los devuelve, ni los hace desaparecer (no los quema): únicamente 
+los guarda46. Más adelante, recuperará este dinero perdido porque se encontrará con 
+                                                        
+44 Especifica Sandra Contreras: “la literatura de Aira no es sólo proliferación del relato; es también 
+acción, performance. Y por eso la publicación […] es parte central de la obra como acto artístico, 
+como acción” (en Fernández Bravo, 2007: 73). 
+45 Que por otro lado se puede entender como un gesto anticapitalista, en contra del mercado 
+editorial del consumo mayoritario de obras totales.  
+46 También se puede hacer una lectura en clave de la gran circulación monetaria de menor valor 
+que correspondería con la de una literatura “menor”. Varamo no encuentra “cambio”, no tiene 
+billetes menores por culpa de “la autoridad monetaria, que no imprimía lo suficiente y había 
+llevado al público a la aberración de apreciar más las unidades fiduciarias cuanto más baja fuera su 
+denominación” (Aira, 2002: 20). 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+los dueños de una editorial filibustera47 que le convencen −aunque no haya escrito 
+literatura en toda su vida− de componer El Canto del Niño Virgen, que emergerá como 
+la obra maestra de la poesía modernista latinoamericana y lo hará ganar el dinero 
+perdido:  
+ 
+el contenido de la ansiedad de Varamo en las horas que precedieron a la escritura fue el 
+dinero48, y el método que nosotros adoptamos para transmitir su estado de ánimo fue el 
+indirecto libre… y hay una identidad profunda, que nadie podría negar, entre dinero e 
+indirecto libre. Así como éste es la razón que mueve y explica cada paso del discurso, así el 
+dinero mueve al mundo como razón última, tanto en lo profundo de la psiquis como en la 
+superficie (Aira, 2002: 67). 
+ 
+Recapitulando: la literatura se ha devaluado en el marco de un mercado editorial 
+superproducido49; y se desmitifican la autenticidad del autor (el trabajo50) y la de la 
+obra (su valor) (véase Contreras, en Fernández Bravo, 2007: 69). La publicación de un 
+libro es fruto del azar editorial, la fama de la arbitrariedad, y a causa de esto la ficción 
+termina siendo mero disparate, representación de una vida “disparatada”. Un 
+experimento51: “nos contuvimos porque el proyecto era hacer un volumen muy breve, 
+ya que es un experimento (un experimento en crítica literaria); y los experimentos 
+deben ser breves para ser convincentes; una vez que se demostró la hipótesis inicial, no 
+tiene sentido seguir.” (Aira, 2002: 64). La literatura, como el mercado y la vida, 
+funciona de manera similar a la “moneda falsa” de Baudelaire que circula como 
+“verdadera” (igual que en Arlt), pero que es leída como “falsa” (igual que en Borges) 
+puesto que revela su “falsificación”. En Aira no hay postergación de la representación 
+sino pacto con lo real: se representa “lo verdadero” que parece “falso”, (no tiene 
+significado ni sentido) pero no lo es. Estamos pues ante una “falsa” literatura “falsa” 
+                                                        
+47 Hay también otro paralelismo entre las “prensas oficiales” que imprimen billetes y la imprenta 
+editorial (Aira, 2002: 20-21). El mercado pirata, negro, es el mercado de lo “falso” que constituye 
+un universo “paralelo” (véase Schávelzon, 2009: 48). 
+48 Si el protagonista de Gide, Edouard, no podía escribir porque pensaba en dinero, Varamo no 
+para de escribir por dinero.  
+49 Leemos:  
+ 
+¿Tiene algo que hacer esta noche? ¿No? Llenar una página no puede llevarle más de tres o cuatro 
+minutos, sin o se distrae. Eso da unas veinte páginas por hora. En cuatro o cinco horas puede tener 
+listo un decente librito. Mañana hay asueto administrativo, así que puede dormir hasta tarde. ¡Y tiene 
+doscientos pesos en el bolsillo! (Aira, 2002: 113-114). 
+ 
+50 Hablando de la “esencia del improvisar”, escribe Aira:  
+ 
+no disponía de la vida entera, ni de un fragmento de ésta, sino de un átomo de tiempo, una 
+desaparición de tiempo. El alimento de las decisiones, es decir de las elecciones, y de las intenciones, 
+era el tiempo, pero las premisas de la improvisación devoraban todo el tiempo disponible, antes de 
+empezar (2002: 59). 
+ 
+51 Varamo se dedica en sus ratos libres a embalsamar. 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+que va más allá de André Gide: no se trata únicamente de la falsificación en la 
+construcción literaria (toda escritura es falsa), sino también en el mercado, en el lector. 
+Articula pues una doble operación de falsificación: de la construcción del texto (falso 
+escritor) y la de su circulación (falso mercado). Y es que, como advierte Derridá: “Las 
+escrituras aparentemente más directas, las más directamente concretas, personales, 
+supuestamente en contacto directo con la “cosa misma”, son “a crédito”: están sujetas 
+a la autoridad de un comentario o de una reedición que ellas mismas son, incluso, 
+incapaces de leer” (1995: 101-102). Pero eso es otro cantar. U otro contar. Nunca 
+mejor dicho.  
+ 
+César Aira pone de manifiesto en esta novela que “La disolución de la reverenda 
+categoría V/F no se caracteriza sólo por el fin de lo verdadero sino también por el fin de 
+la mentira” (Fabbri, 1995: 125). Porque lo falso también es verdadero. En la sociedad 
+actual hiperimaginaria, hiperreal e hipercomunicada “lo verdadero y lo falso son 
+simulacros sin posible dialéctica” (Fabbri, 1995: 125): dos universos superpuestos, 
+indisolubles y efímeros. Hasta el punto que podemos sugerir que estamos en un periodo 
+que ha opacado la dialéctica de “lo verdadero” y de “lo falso”, equiparable al cristal 
+negro en que ha devenido el barquito en la botella del que hablaba Fabbri en la cita que 
+servía de antesala a este trabajo. El cristal habría de simbolizar conjuntamente al 
+mercado, al crédito que otorga el lector, y a la deuda que contrae el escritor, los cuales 
+convierten en efímero -en extremo contingente- el valor del objeto literario. Aunque no 
+hay pruebas suficientes de que “la falsificación preceda o sea consecuencia del 
+mercado” (Schávelzon, 2009: 111) está claro que entra en juego cuando la economía -
+comercio / consumo- se va desarrollando in abstracto. También hemos comprobado a lo 
+largo de este artículo que cada época histórica enuncia lo “verdadero” (la 
+representación de “lo real”) de una determinada forma para defender la economía 
+capitalista y concebir su expresión literaria en el mercado: “con normas de verdad o de 
+mentira diferentes a las precedentes, y con nuevos mecanismos para demostrar la 
+validez de cada una” (Schávelzon, 2009: 68). A su vez cada campo cultural encuentra 
+un “valor” distinto en lo “falso”, que en el caso argentino habría de cristalizarse en una 
+genealogía de ficciones que a través de diversos personajes -Guinter, Borges, Russell, 
+Varamo- ilustran su relación con el dinero, con “lo real”, con la literatura y con el 
+mercado: fraudulenta, falsificada, ficticia, falsa. Estos autores pergeñan así poéticas del 
+dinero falso sobre la base de una “falsa” literatura “verdadera” (Arlt); de una literatura 
+“falsa” (Borges); de una “verdadera” literatura “falsa” (Piglia); y de una “falsa” literatura 
+“falsa” (Aira). Aunque esto no es más que una hipótesis de lectura, una hipoteca más.  
+ 
+BIBLIOGRAFÍA 
+ 
+Aira, César. Varamo. Barcelona: Anagrama, 
+2002. 
+ 
+Almeida, Iván. “La moneda de Borges: de la 
+degradación al desgaste –rudimentos de 
+semiótica borgesiana”, Variaciones Borges, 
+n. 13, 2002: 57-77. 
+ 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+Arlt, Roberto. El fabricante de fantasmas. 
+Prueba de amor. Buenos Aires: Losada, 
+2004. 
+ 
+Ávila, Patricia. Y tú también te vas. 
+Argentina y el dinero. Buenos Aires: Adriana 
+Hidalgo Editora, 2007. 
+ 
+Barthes, Roland. The semiotic challenge. 
+Los Ángeles: University of Californis Press, 
+2004. 
+ 
+Baudrillard, Jean. Crítica de la economía 
+política del signo. Madrid: Siglo XXI editores, 
+2009. 
+ 
+Borges, Jorge Luis. Obras completas I. 
+Barcelona: Emecé, 2004.  
+ 
+Bourdie, Pierre. Las reglas del arte. Génesis 
+y estructura del campo literario. Barcelona: 
+Anagrama, 2002. 
+ 
+Cárcamo-Huechante, 
+Luis 
+E.; 
+Álvaro 
+Fernández 
+Bravo 
+y 
+Alejandra 
+Laera 
+(comps.). El valor de la cultura. Arte, 
+literatura y mercado en América Latina. 
+Rosario: Beatriz Viterbo Editora, 2007. 
+ 
+Cortés Conde, Roberto. La economía política 
+de la argentina del siglo XX. Buenos Aires: 
+Gedisa, 2005. 
+ 
+De Certeau, Michel. La debilidad de creer. 
+Buenos Aires: Katz Ediciones, 2006. 
+ 
+Deleuze, Gilles y Félix Guattari. Mil mesetas: 
+capitalismo y esquizofrenia. Valencia: Pre-
+textos, 1994. 
+ 
+Derridá, Jacques. Dar (el) tiempo. I. La 
+moneda falsa. Barcelona: Paidós, 1995.  
+Drucaroff, Elsa. “Lucro soñante. Mercancía, 
+sueños y dinero en el teatro de Arlt”, 
+Cuadernos del GETEA, n. 12, 2000: 57-67. 
+ 
+Enrigue, Álvaro. Valiente clase media. 
+Dinero, 
+letras 
+y 
+cursilería. 
+Barcelona. 
+Anagrama, 2013. 
+ 
+Fabbri, Paolo. Tácticas de los signos. 
+Ensayos de semiótica. Barcelona: Gedisa, 
+1995. 
+ 
+Fornet, Jorge. El escritor y la tradición. 
+Ricardo Piglia y la literatura argentina. 
+Buenos 
+Aires: 
+Fondo 
+de 
+la 
+Cultura 
+Económica, 2007. 
+ 
+Foucault, Michel. Las palabras y las cosas. 
+Un arqueología de las ciencias humanas. 
+Madrid: Siglo XXI, 1997.  
+ 
+Garcés, Gonzalo. “Una pasión gastada”, 
+Nueva sociedad, 230, 2010: 38-48. 
+ 
+Germana, Michael. “Counterfeiters and Con 
+Artists: Money, Literature, and Subjectivity”, 
+American Literary History, n. 21, 2009: 292-
+305. 
+ 
+Gide, 
+André. 
+Los 
+monederos 
+falsos. 
+Barcelona: Editorial Poseidón, 1980. 
+ 
+Goux, Jean-Joseph. Symbolic economies. 
+After Marx and Freud. Ithaka: Cornell 
+University Press, 1990. 
+ 
+Goux, 
+Jean-Joseph. 
+The 
+Coiners 
+of 
+Language. Norman: University of Oklahoma 
+Press, 1994. 
+ 
+Hörisch, Jochen. Heads or Tails. The Poetics 
+of Money. Detroit: Wayne State University 
+Press, 2000. 
+ 
+Kelman, David. Counterfeit Politics: The 
+Conspirancy Narrative in Twentieth-Century 
+U. S and Argentine Literature. Emory: 
+Emory University [Tesis Doctoral], 2007. 
+ 
+Klossoski, Pierre. La monnaie vivante. Paris: 
+Éditions Payot & Rivages, 1997. 
+ 
+Lacan, 
+Jacques. 
+Escritos 
+1. 
+Madrid: 
+Biblioteca Nueva, 2013. 
+ 
+Cuadernos del CILHA - a. 15 n. 21 - 2014 - ISSN 1515-6125  
+v. 15 n. 2 – 2014 - EISSN 1852-9615  
+ 
+Laera, Alejandra. “De la periferia al imperio: 
+inflexiones de la relación entre ficciónn y 
+dinero en „El zahir‟ y „El otro‟”, Variaciones 
+Borges, n. 23, 2007: 37-49. 
+ 
+Marx, Karl. El capital (Obra completa). 
+Crítica de la economía política. Barcelona: 
+Akal, 2000. 
+ 
+McCormack, Peggy. The Rule of Money. 
+Gender, Class, and Exchange Economics in 
+the Fiction of Henry James. Ann Arbor: UMI 
+Research Press, 1990. 
+Parsons, Talcott. El sistema social. Madrid: 
+Alianza, 1999. 
+ 
+Piglia, Ricardo. “Roberto Arlt: la ficción del 
+dinero”, Hispamérica, n. 7. 1974: 25-27. 
+ 
+Piglia, Ricardo. “Ficción y política en la 
+literatura argentina”, Hispamérica, n. 52, 
+1989: 59-62. 
+ 
+Piglia, Ricardo. Plata quemada. Barcelona: 
+Anagrama, 2000. 
+ 
+Piglia, Ricardo. Nombre falso. Barcelona: 
+Anagrama, 2002.  
+ 
+Piglia, Ricardo. El último lector. Barcelona: 
+Anagrama, 2005. 
+ 
+Píriz, Pedro. “¿Qué pasó en la Argentina
+? 
+Algunas piezas de un rompecabezas para 
+intentar entender”, Estudios sociológicos, n. 
+59, 2002: 455-467. 
+ 
+Saussure, Ferdinand de. Curso de lingüística 
+general. Madrid: Akal, 1991.   
+ 
+Shell, Marc. La economía de la literatura. 
+México: Fondo de Cultura Económica, 1981. 
+ 
+Shell, Marc. Money, Language and Thought. 
+London: The John Hopkins University Press, 
+1982. 
+ 
+Svhávelzon, Daniel. Arte y falsificación en 
+América Latina. Buenos Aires: Fondo de 
+Cultura Económica, 2009. 
+ 
+Simmel, Georg. The Philosophy of Money. 
+New York: Routledge, 2008. 
+ 
+Vernon, John. Money and Fiction. Literary 
+Realism in the Nineteenth and Early 
+Twentieth 
+Centuries. 
+Ithaca: 
+Cornell 
+University Press, 1984. 
+ 
+Woodmansee, Martha y Marc Osteen. The 
+new economic criticism. Studies at the 
+intersection of literature and economics. 
+London: Routledge, 1999. 
+ 
+Zelizer, Viviana A. El significado social del 
+dinero. Buenos Aires: Fondo de Cultura 
+Económica, 2011. 

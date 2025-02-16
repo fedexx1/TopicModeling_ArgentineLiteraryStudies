@@ -1,0 +1,637 @@
+79
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | “Furor poético”: creación y preceptiva en los sonetos…: 79-94
+“Furor poético”: 
+creación y preceptiva en los sonetos 
+de Lope de Vega
+Marisa Eugenia Elizalde
+Universidad Nacional de la Pampa
+[ melizalde@cpenet.com.ar ]
+Resumen: La poesía barroca en España refleja las huellas de la oposición 
+tradicionalismo/petrarquismo, y se erige en un espacio textual donde se 
+manifiestan las tensiones y las búsquedas de nuevos modos de expresión. El 
+soneto, como forma textual, constituyó un escenario privilegiado para estas 
+indagaciones.
+En ese sentido, para este trabajo se considerarán algunos sonetos de Lope 
+de Vega, en una doble línea de análisis: por un lado, la concentración en 
+la figura de Lope de la idea de autor/creador/preceptista, y por otro, el 
+particular diseño formal del soneto que le permite condensar y combinar los 
+signos de la lengua, logrando así una apertura semántica y connotativa en 
+la que el lector también sea partícipe. Ambos, lenguaje y lector, serán los 
+vértices de una profunda transformación del discurso literario, en la que se 
+articularán modelos existentes con otros redefinidos.
+Palabras clave: Literatura del Siglo de Oro - Lope de Vega (Lope) - Sonetos 
+- Retórica.
+L
+os estudios sobre el Barroco dejan entrever la com-
+pleja trama de tensiones condensadas en las produc-
+ciones culturales, y en particular, en la literatura. En 
+un momento en el que se hacía de la búsqueda y la 
+experimentación una nueva estética, los conceptos tradicionales sobre los que 
+se erigía la retórica literaria también sufrieron redefiniciones.
+En el ámbito de la poesía, estas modificaciones fueron significativas y 
+produjeron desplazamientos y reformulaciones del repertorio genérico. La 
+poesía barroca en España refleja las huellas de la oposición tradicionalismo / 
+petrarquismo, y esta contraposición genera moldes o formatos a través de los 
+cuales expresar las nuevas concepciones. Tanto en el plano de la métrica como 
+en el de los géneros se evidencia una búsqueda, un afán de experimentación, 
+80
+Marisa Eugenia Elizalde | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+que concluye con la creación de modelos genéricos, la consolidación de algunas 
+formas y el rediseño de otras.
+Este rasgo de la poesía barroca, es decir, su carácter de espacio textual 
+en el que se liberan las luchas por alcanzar una simbiosis entre lo nuevo y lo 
+heredado, entre convención e intuición, se disemina en las formas líricas del 
+momento. 
+En este trabajo nos acotaremos a un formato que, si bien ya tenía una tra-
+yectoria rica en España, alcanza durante el Barroco un desarrollo significativo 
+y, quizá, por su profusión y cristalización, nunca superado: el soneto. La mirada 
+que aquí se propone intenta indagar cómo el soneto, en cuanto estructura 
+métrica y estrófica definida, constituyó durante el Barroco un escenario pri-
+vilegiado para expresar las tensiones y exploraciones lingüísticas. 
+Como se ha señalado, un primer acercamiento al universo de las produccio-
+nes de sonetos en la época muestra una superabundancia de textos, de diversa 
+valía, que evidencia esta tendencia a la desmesura y multiplicación propias de 
+un periodo en el que el horror vacui propiciaba la acumulación y la dilatación 
+discursivas. En ese sentido, para este trabajo sólo se considerarán algunos 
+sonetos de Lope de Vega, lo que no implica una mirada descalificadora de 
+otros autores de sonetos contemporáneos, sino porque Lope reúne en su figura 
+muchos de los aspectos que se han planteado respecto de la idea de autor/creador 
+/preceptista y el valor de dichas disquisiciones en este contexto.
+Escribir con el arte: creación literaria en Lope de Vega
+Para iniciar un acercamiento a la producción literaria de Lope de Vega, 
+resulta necesario un doble movimiento; por una parte, revisar los discursos 
+literarios que circulaban en la época y que conformaban los saberes compar-
+tidos desde los cuales se producían y leían los textos, y por otra, detenerse 
+brevemente en ciertas ideas sobre la creación literaria que están presentes en 
+los propios textos de Lope. De este modo se puede establecer un contrapunto 
+entre las ideas literarias vigentes y las concepciones que el propio autor fue 
+esparciendo en sus obras. 
+Respecto de las principales ideas vinculadas con la creación poética del 
+Barroco, los estudios coinciden en el lugar privilegiado que ocupaba la poesía en 
+este contexto; según Aurora Egido: “poesía era, o pretendía ser, casi todo” (1987: 
+	 Respecto de la función de la métrica como mecanismo retórico y como teoría estética, resultan 
+significativas las lecturas de E. Rodríguez (2002) y de B. López Bueno (1992). Ambas autoras 
+analizan los modos en que las reformas métricas provocaron transformaciones en la configura-
+ción de los géneros.
+81
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | “Furor poético”: creación y preceptiva en los sonetos…: 79-94
+79). Esta ubicación particular de la poesía, entendida en sentido amplio, ya que 
+incluía al teatro y a todas las formas en verso, le otorga un rango diferencial y 
+sobre ella giran las cuestiones referidas al arte. Sin detenernos en un recorrido 
+minucioso, podemos referir algunas ideas básicas vinculadas con la poesía. 
+En primer lugar, la premisa aceptada y respetada en la época es la de que 
+no hay poesía sin el arte; existe un afán por explorar y revisar los preceptos, 
+pero lo que cambia es el lugar desde donde emanan estos preceptos. Ya no 
+serán los preceptistas o teóricos quienes desarrollarán las ars poéticas, sino los 
+propios escritores, pero esto no implica una negación de las reglas, sino una 
+reformulación.
+En este marco, uno de los principios clave tiene que ver con la relación y 
+correspondencia lógicas inseparables del “decir poético”; no hay en la poesía, 
+aún bajo la apariencia de lo exorbitado o inusual, contradicción con el orden 
+lógico. La poesía busca ser “entendida”, más allá de los modos en que se arti-
+culaba la superficie del verso. Es decir, los límites impuestos a los mecanismos 
+retóricos se relacionan con la capacidad de los lectores de aprehender los sen-
+tidos, aún cuando se llegara a algunos extremos de oscuridad gongorina. 
+Desde esta perspectiva adquiere otro signo la conocida preferencia de los 
+autores barrocos por el artificio, el ornato y la proliferación de figuras, cada 
+vez más audaces. Se trata de explotar al máximo las posibilidades que ofrece 
+la lengua, pero con la regulación que implica la presencia en el horizonte del 
+público lector. 
+En este juego de transgresiones y regulaciones con el lenguaje, se percibe 
+en los autores de este periodo una predilección por algunas figuras retóricas 
+que expresan con mayor nitidez esta búsqueda de equilibrio entre forma y 
+sentido, entre expresión e idea. Entre ellas se destaca la “metáfora”, ya que, por 
+su misma esencia, ofrece una clara relación lógica entre ambos planos, forma 
+y contenido. Esta inclinación hacia el uso de metáforas se relaciona con otra 
+idea cara a los autores barrocos: el “concepto”, enunciado por Gracián en su 
+Agudeza, en el que el acento está en la posibilidad de hallar correspondencia 
+entre los objetos (citado por Lázaro Carreter 1966). Así la metáfora deviene 
+en el molde adecuado para exprimir las posibilidades de correlación semántica 
+entre las ideas, en el ámbito de una poesía centrada en el “decir” y no en la 
+vacuidad lingüística o en el mero juego de prestidigitador. 
+Hasta aquí la presentación de algunas ideas que sustentan la poética barroca; 
+excedería el objetivo de este trabajo desarrollarlas por extenso; se trata de acotar 
+algunos aspectos que resulten productivos para analizar su funcionamiento en 
+los sonetos seleccionados de Lope de Vega.
+82
+Marisa Eugenia Elizalde | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+Las ideas literarias de Lope establecen un diálogo particular con estas 
+concepciones poéticas, según se desprende de sus propios escritos2. A lo largo 
+de sus obras, literarias o no, Lope inserta reflexiones o sentencias respecto de 
+la creación literaria, tal como lo hicieran Cervantes o Tasso. Dichos conceptos 
+provienen de dos vertientes distintas; por un lado, el repertorio de juicios, 
+definiciones y máximas consolidados por la tradición clásica, que eran moneda 
+corriente en la época y formaban parte de los saberes validados por las aucto-
+ritates, y por otro, no menos importante, de su propia práctica de escritura, de 
+la autoridad dada por la capacidad creativa y creadora. Según se ha señalado, 
+a veces estas nociones entran en contradicción, lo cual expresa la persistencia 
+durante este periodo de saberes tradicionales y la irrupción de nuevas tendencias 
+teóricas, de corte más pragmático.
+Una idea constante que se destaca en Lope es su preocupación por la lengua, 
+en tanto portadora de pensamiento; de allí su inclinación hacia la claridad y 
+la limpieza de la expresión. A la búsqueda de la belleza y la agudeza e ingenio 
+del verso le equipara la pureza del estilo. En este sentido, tiene en cuenta al 
+lector como destinatario necesario y “cómplice” en este juego retórico, haciendo 
+suyas las palabras del doctor Garay, quien había afirmado: “que la poesía había 
+de costar grande esfuerzo al que la escribiese, y poco al que la leyese” (citado 
+por Blecua 1981: 54). Varios fragmentos de los textos de Lope retoman estas 
+ideas de privilegiar la claridad por sobre el artificio excesivo, que, desde su 
+perspectiva, no hace sino ocultar y opacar los sentidos. Es conocida su polémica 
+con Góngora al respecto y su reafirmación a lo largo de diversos textos de sus 
+desavenencias con el “nuevo decir” o “la nueva poesía”, expresiones con las que 
+se refería al estilo de los seguidores de Góngora. Según la crítica ha afirmado, la 
+relación de Lope con el poeta cordobés integraba admiración y rechazo por lo 
+que él consideraba vanos artificios. Lope privilegiaba el concepto, la sentencia 
+por sobre el ornato o artificio retórico. Así se desprende de alguno de sus textos 
+donde reflexiona sobre los modos de escribir: 
+Si estuviera la dificultad en la lengua (como ahora se usa), confieso que se 
+quejaran con causa, pero estando en la sentencia, no sé por qué razón no 
+ha de tener verdad lo que no alcanzan… [escribe] para el desengaño de los 
+que se apasionan de los términos nuevos del decir, aunque sean bárbaros, y 
+no reparan en el alma de los conceptos (escrito a Franciso López de Agui-
+lar, Blecua 1981: 41).
+	 Al respecto hay numerosos estudios dedicados al análisis de estas ideas; aquí recuperaremos 
+sólo aquéllas que resulten acordes con los propósitos enunciados. 
+	 Esta falta de consistencia entre ciertas reflexiones teóricas de Lope en diferentes momentos de 
+su producción literaria ha sido analizada por X. Tubau (2006).
+83
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | “Furor poético”: creación y preceptiva en los sonetos…: 79-94
+A muchos ha llevado la novedad a este género de poesía, y no se han enga-
+ñado, pues en el estilo antiguo en su vida llegaran a ser poetas, y en el 
+moderno lo son en el mismo día: porque con aquellas transposiciones, cuatro 
+preceptos y seis voces latinas, o frases enfáticas, se hallan levantados adonde 
+ellos mismos no se conocen, ni aún sé si se entienden… (1981: 53).
+Disquisiciones de similar tenor aparecen a lo largo de sus escritos, muchos 
+de ellos intercalados como cartas en las ediciones de sus obras; allí podrían 
+rastrearse otras ideas semejantes, que parecen tener ciertos elementos en 
+común: una mirada crítica respecto del nuevo modo de decir, vinculada con la 
+oscuridad y la dificultad en el plano de la expresión y una preocupación por la 
+capacidad de ser comprendidos. Para Lope esto es fundamental; no concibe el 
+escribir como un alarde de rebuscamiento retórico, sino como un instrumento 
+para expresar conceptos, en el sentido de composición lógica, y en ello el lector 
+ocupa un lugar significativo. 
+También los prólogos o dedicatorias, es decir, el aparato paratextual que 
+enmarca a las obras –y que durante el Siglo de Oro reviste suma relevancia, 
+ya que permite reconstruir las marcas del locus enunciativo, la compleja red de 
+relaciones simbólicas y culturales, además de reservorio de reflexiones sobre 
+la creación literaria–, son espacios aprovechados para presentar cuestiones 
+sobre la composición poética. Los escritores, además de recurrir al repertorio 
+más o menos establecido de lugares comunes de la época, deslizan sus propias 
+concepciones respecto no sólo de la obra en sí, sino de aspectos de la teoría 
+literaria. En este punto se imbrica la mirada de las preceptivas vigentes con la 
+del autor, que legitima el propio paradigma conceptual en su producción, y 
+en el caso particular de Lope, en la recepción que sus obras tiene en el público 
+(lector o espectador).
+El breve corpus de sonetos presentados en este trabajo pertenece a distintas 
+obras de Lope. En él se incluyen el soneto-prólogo “Versos de amor, conceptos 
+esparcidos”, el soneto 20 “Si culpa, el concebir; nacer tormento”, el soneto 61 
+“Ir y quedarse, y con quedar, partirse”, el soneto 75 “No me quejara yo de larga 
+ausencia” y el soneto 137 “Noche, fabricadora de embelecos”, correspondientes 
+a las Rimas de 16094; el soneto 20 “La lengua del amor, a quien no sabe”, de las 
+Rimas Sacras de 1614 y finalmente el soneto “Letras del alma, espejo cristalino”, 
+incluido en Los pastores de Belén, de 1612. Este recorte, como una mise en abîme, 
+	 La primera edición de las Rimas es de 1602, cuando se publicaron conjuntamente con otras 
+dos obras de Lope. Luego el autor decidió independizar esta colección de poemas y los publicó 
+en Sevilla en 1604. En la edición de 1609, aquí citada, se le agrega el Arte Nuevo de hacer 
+comedias en este tiempo, manifiesto poético de su creación dramática.
+84
+Marisa Eugenia Elizalde | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+permitirá indagar los modos en que Lope resuelve las tensiones entre forma y 
+contenido, a la vez que evidencie algunos rasgos de su estilo.
+La edición de las Rimas de 1609 incluye, como parte de la composición de 
+la obra, los requerimientos formales (Suma de privilegio, Tasa, Aprobación y 
+Erratas), las Dedicatorias (en este caso a Juan de Arguijo), y la salva de poemas 
+escritos por otras figuras saludando la aparición del libro (tópico habitual de la 
+época, que en muchos casos formaba parte de las convenciones literarias y era 
+compuesto por los propios autores). Luego de la Dedicatoria, Lope inserta su 
+“Prólogo” que, aunque breve, resulta interesante para recuperar algunas ideas 
+referidas al contenido y la valoración sobre los textos. Está dirigido, como 
+también era convención, al Lector y allí, además de enumerar los poemas que 
+incluye, se detiene a reflexionar en especial sobre el romance, composición 
+española por excelencia, y a la cual Lope tiene particular afición y a la que 
+reivindica como “digno de toda estimación”.
+Resulta significativo que, en este prólogo, Lope se demore más exhausti-
+vamente en discurrir sobre el romance, dado que sólo declara que incluye dos 
+en esta edición y apenas se detenga en comentar sobre los sonetos, de los que 
+declara presentar “dos centurias”, es decir, un número harto relevante, junto con 
+la rimas. No deja el lector de estar presente en este juego de interpretaciones: 
+Recibe mi deseo. Lee si entiendes, y enmienda si sabes. Mas ¿quién piensa 
+que no sabes? 
+Lector intérprete (“lee si entiendes”) y lector artífice (“enmienda si sabes”); 
+la literatura como acto mancomunado, como pacto entre el autor y los lectores, 
+entre los cuales se establece un puente de significados compartidos.
+Esta premisa recorre los poemas que conforman esta obra, un repertorio 
+de textos que incluye la mayoría de los temas, tópicos y construcciones del 
+barroco hispánico. Rico, variado, complejo, este conjunto de poesías encierra 
+y exhibe los mecanismos propios de una estética. En esta línea de análisis 
+recorreremos algunos de sus sonetos para indagar de qué manera se imbrica lo 
+conceptual y lo expresivo y de qué modo se resuelven los desafíos conceptuales 
+en la superficie de los textos.
+	 Los sonetos citados están tomados de la edición de José M. Blecua (1981) y se sigue la nume-
+ración allí indicada.
+	 Cabe señalar al respecto el uso paródico que hará Cervantes de este recurso en la presentación 
+de El ingenioso hidalgo Don Quijote de La Mancha, en 1605, lo que da cuenta de lo artificioso 
+y ritual del procedimiento.
+	 Las referencias a los textos preliminares de la edición de las Rimas están tomadas de la Edición 
+digital a partir de Lope de Vega (Vega y Carpio, Lope de 2003).
+85
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | “Furor poético”: creación y preceptiva en los sonetos…: 79-94
+Versos de amor, conceptos esparcidos…
+Este verso abre el soneto inicial de las Rimas de 1609, que funciona como 
+umbral de ingreso a ellas y como síntesis del origen y destino probable de su 
+poesía. En esta ocasión, nos interesa detenernos en la segunda construcción, 
+que inmediatamente después de presentar el tema (“Versos de amor”), se refiere 
+a ellos como “conceptos esparcidos”. He ahí la clave que signará su escritura; 
+la posibilidad de que la lengua sea capaz de construir una constelación de 
+relaciones entre los objetos, un abanico de ideas cuyo centro sea el concepto. 
+La inclusión de un soneto-prólogo reconoce una trayectoria paralela a la 
+incorporación de esta forma genérica al campo literario español; fue Boscán 
+quien inauguró esta práctica, cuyos antecedentes se remiten al Canzoniere, de 
+Petrarca. Al respecto, Juan Manuel Rozas (1964) traza un recorrido por los 
+sonetos-prólogo más significativos del Siglo de Oro español, estableciendo 
+líneas de contacto y diferencias. En su análisis del soneto que abre la edición 
+de las Rimas de Lope, Rozas señala que el rasgo distintivo de este texto es la 
+construcción del destinatario: ya no son los lectores, sino los propios versos, 
+a quien se dirige la voz lírica. En este punto, Lope se aparta de la tradición 
+petrarquista al vincular la escritura a su propia experiencia, no se trata de una 
+reflexión de índole moral, sino que se instala de lleno en el campo de lo lite-
+rario. Según esta lectura, Lope, junto con Quevedo y Góngora “acaban con 
+el petrarquismo” (68). A su vez, el reconocimiento explícito de la paternidad 
+de los versos y de la voluntad del poeta de darlos a la imprenta, conjugan una 
+nueva configuración: la del poeta profesional. Esta intervención del escritor 
+para darle unidad a los “versos esparcidos”, cuyo entramado amoroso le otorga 
+consistencia, forma parte de una estrategia editorial y, al mismo tiempo, ofrece 
+un modo de analizar la compleja relación entre autor y lector y la búsqueda de 
+la conformación de un público. Sobre este aspecto afirma Cabranes-Grant: 
+Las misceláneas son conglomerados hermenéuticos: nos rinden un informe 
+de los valores que orientan las lecturas de un público determinado. Cada 
+tomo de las Rimas nos presenta una visión distinta de Lope como poeta. Este 
+reciclaje editorial nos va tejiendo una historia literaria (2004: 215).
+El soneto como formato textual ofrece una construcción particular, que 
+enlaza y combina íntimamente la disposición métrica y el contenido semán-
+tico. Esta imbricación temática y estructural ha sido objeto de exhaustivos 
+estudios, en particular en el marco de la Lingüística Textual (García Berrio 
+1978 y 1981). Este abordaje posibilitó la confección de una tipología de los 
+textos líricos, basada en sus componentes sintácticos y semánticos, que da 
+cuenta de una relación entre los rasgos de contenido semántico (tema) con los 
+86
+Marisa Eugenia Elizalde | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+rasgos macroestructurales sintácticos (estructura). Por su configuración, el 
+soneto es básicamente unitemático, aunque pueden presentarse casos en que 
+haya coexistencia de temas, lo que determinará la jerarquización temática en el 
+interior del soneto. Además de la jerarquización, otro aspecto relevante en esta 
+perspectiva, es la ubicación del tema en la distribución del poema. Al respecto, 
+García Berrio señala que en el Barroco se produce un desplazamiento del centro 
+temático del primer terceto –propio de los esquemas renacentistas– hacia el 
+final del soneto, inclusive al último verso (1981: 151-152).
+Esta fórmula expresiva, incorporada en España a comienzos del siglo 
+XVI, alcanzará durante el Barroco uno de sus puntos máximos de capacidad 
+creadora. Lope no escapará al hechizo de una forma que permite desafiar al 
+lenguaje para que despliegue los conceptos, en el breve cerco de catorce versos 
+endecasílabos; esto se evidencia en la cantidad de sonetos que escribió, no sólo 
+en los libros de rimas, sino esparcidos en sus múltiples comedias. 
+Además de la privilegiada disposición contenido/forma, la estructura interna 
+del soneto trabaja con predilección la contradicción entre opuestos como matriz 
+semántica. Así, es frecuente observar en los sonetos una estructura contrapuesta, 
+ya sea entre los cuartetos y los tercetos, o en los versos mismos, donde una 
+idea puede ser negada o rebatida o sometida a diversas operaciones retóricas. 
+La forma interna del soneto y su distribución semántica constituye uno de los 
+aspectos centrales de los estudios del género. Al respecto, Gary Brown (1978) 
+postula la coexistencia de dos esquemas básicos de composición interna de los 
+sonetos: el de la división bipartita entre los dos cuartetos y los dos tercetos, y 
+el de desarrollo lineal o soneto epigramático. Las diferencias entre estas dos 
+formas de estructuración se basan, además, en las construcciones sintácticas 
+que adopta cada modelo; esto da cuenta de una estrecha vinculación entre 
+forma y retórica, ya que cada modo de composición utiliza recursos retóricos 
+particulares. Brown destaca la relación entre los principios retóricos manejados 
+por los poetas y la distribución interna del contenido del poema, lo que le otorga 
+a cada forma de organización rasgos distintivos. Así, los poetas reflejan con 
+las técnicas retóricas y composicionales, los principios retóricos propios de la 
+época y las concepciones sobre el amor que expresan los sonetos (38).
+Estos elementos constitutivos del soneto están presentes en las producciones 
+de Lope; si bien la mayoría de ellos giran en torno al tema amoroso, tal como 
+lo expresara en el soneto de apertura, otras nociones vinculadas con el espíritu 
+barroco no estarán ausentes: el desengaño, la fatalidad, el desconcierto, el 
+desencanto, lo efímero y la fugacidad son algunas de las más frecuentes.
+87
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | “Furor poético”: creación y preceptiva en los sonetos…: 79-94
+“Que más quiero ser entendido que defendido”
+Así se expresa en la dedicatoria a Juan de Arguijo, que precede a las Rimas; 
+una declaración que encierra un estética y una poética, centradas en el enten-
+dimiento del lector, lo cual resalta la permanente preocupación por resolver los 
+desafíos conceptuales. Tampoco están ausentes de las disquisiciones poéticas 
+las complejas relaciones entre la voz y la escritura; a lo largo de sus poemas, 
+Lope establece un diálogo entre creación y escritura. Las metáforas referidas 
+al acto de escribir recorren sus textos y constituyen uno de los tópicos más 
+frecuentes de su producción.
+Las Rimas se inscriben en la línea petrarquista, aunque Lope exprese en 
+sus composiciones algunos rasgos particulares que definen su poética: la vin-
+culación entre el concepto y su expresión poética. En su conjunto, las Rimas 
+constituirían, en la expresión de Antonio Carreño, “la alegoría de una ausencia 
+que nunca se recupera y su retórica la obsesión por confesar tal recobro y nueva 
+pérdida” (1984: 74). 
+El tópico amoroso es determinante en la composición de los sonetos inclui-
+dos en las Rimas; Lope sigue la línea de la retórica petrarquista, pero, en él se 
+combinan de manera especial los elementos provenientes de la tradición con 
+la experiencia personal. De este modo, lo que le otorga un sesgo distintivo a 
+la obra es el carácter innovador de esta unión entre tradición y experiencia 
+(Pedraza Jiménez 1993). 
+Comenzaremos nuestro análisis con uno de los más representativos de la 
+producción de Lope, en cuanto construcción conceptual: el soneto 20. Por su 
+temática, correspondería incluirlo no en los sonetos de corte amoroso, sino en 
+los de reflexión moral, en este caso, sobre la futilidad de las glorias humanas. 
+En él, la estructura de los dos cuartetos adopta la forma de una extensa oración 
+condicional, encabezada por la forma si, dentro de la cual se enumera una 
+serie de conceptos, construidos por medio de elipsis verbal, lo que refuerza su 
+contundencia: 
+Si culpa, el concebir; nacer, tormento; 
+guerra, vivir; la muerte, fin humano; 
+si después de hombre, tierra y vil gusano, 
+y después de gusano, polvo y viento; 
+	 Para la particular relación entre oralidad y escritura en Lope, véase Egido (2003), donde ana-
+liza las variadas relaciones entre la retórica de la oralidad y la cristalización de la escritura en 
+el Siglo de Oro español.
+	 Un análisis de la poética de Lope en este texto lo ofrece Antonio Carreño (1984) en la “Intro-
+ducción” a la edición de Poesía Selecta.
+88
+Marisa Eugenia Elizalde | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+si viento, nada, y nada el fundamento; 
+flor, la hermosura; la ambición tirano; 
+la fama y gloria, pensamiento vano,
+y vano, en cuanto piensa, el pensamiento,
+Junto con el recurso de la condensación, aparece la gradación, que abarca el 
+derrotero de la vida humana, desde el nacimiento hasta la muerte y descompo-
+sición, vinculados con los tópicos tradicionales de la vacuidad de ciertos bienes 
+humanos (hermosura, fama, gloria). La línea del razonamiento se recupera en 
+los dos tercetos, configurados como preguntas retóricas, que retoman las pre-
+misas enunciadas en los cuartetos. En ellas, la referencia al sujeto se enmascara 
+bajo la forma de infinitivos en se, lo que universaliza la condición humana a 
+la vez que cuestiona el accionar del hombre que se sabe finito y temporal. En 
+esta elaboración conceptual adquiere relevancia la utilización de oposiciones 
+que consolidan esta idea:
+¿quién anda en este mar para anegarse?
+¿De qué sirve en quimeras consumirse
+ni pensar otra cosa que salvarse?
+¿De qué sirve estimarse y preferirse,
+buscar memoria habiendo de olvidarse,
+y edificar habiendo de partirse?
+Con este juego de contradicciones, el desarrollo conceptual se recorta 
+nítido y la voz lírica involucra al lector a partir de la presencia de sustantivos 
+que apuntan a lo concreto y de la extensión lograda por el uso de infinitivos 
+con valor universal y atemporal. Así, los lectores, más allá de las épocas, somos 
+interpelados por esta argumentación poética.
+La enumeración de conceptos es un recurso habitual en los sonetos de Lope; 
+con esta estrategia logra enhebrar en los versos los conceptos, como cuentas 
+que forman un collar de sentidos. Es el caso del soneto 61: 
+Ir y quedarse, y con quedar, partirse,
+partir sin alma, e ir con alma ajena, 
+oír la dulce voz de una sirena,
+y no poder del árbol desasirse; 
+arder como la vela y consumirse
+haciendo torres sobre tierna arena;
+caer de un cielo, y ser demonio en pena, 
+y de serlo jamás arrepentirse; 
+hablar entre las mudas soledades,
+pedir prestada, sobre fe, paciencia,
+y lo que es temporal llamar eterno,
+89
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | “Furor poético”: creación y preceptiva en los sonetos…: 79-94
+creer sospechas y negar verdades,
+es lo que llaman en el mundo ausencia,
+fuego en el alma y en la vida infierno.
+El develamiento de la idea que estructura el poema recién aparece en el 
+anteúltimo verso; este mecanismo es reiterado en otros sonetos y se vincula con 
+la idea de un lector partícipe, que acompañe este movimiento de asociación y 
+de multiplicación de ideas y que llegue, junto con la voz lírica al final del texto, 
+al descubrimiento; descubrimiento que obliga a releer el poema para detenerse 
+en cada una de las construcciones que lo componen y así admirar(se) de su 
+factura10. No se amilana el yo lírico ante el desafío de que una sola oración 
+soporte el peso de todo el poema; los sentidos se irradian y convergen en el 
+final, como en una vertiginosa espiral. A esto se suman los contrastes y el uso 
+de infinitivos; dos recursos que revelan una de las preocupaciones estéticas del 
+Barroco: la exploración de las posibilidades expresivas de la lengua, unida a 
+una conciencia de crisis y ruptura. A esta combinación de recursos estéticos y 
+lógicos se une un ritmo poético vivo y sostenido, que le otorga mayor carácter 
+personal, de propia subjetividad.
+En el soneto anterior, la definición de la “ausencia” se realiza desde un punto 
+de vista de corte filosófico e intelectual; en otros casos, se manifiesta a través 
+de un desgarro más humano, donde la voz lírica se representa en el “yo” que 
+es sujeto sufriente. Veamos el soneto 75: 
+No me quejara yo de larga ausencia,
+si, como todos dicen, fuera muerte; 
+mas pues la siento, y es dolor tan fuerte,
+quejarme puedo sin pedir licencia.
+En nada del morir tiene apariencia, 
+que si el sueño es su imagen y divierte
+la vida del dolor, tal es mi suerte, 
+que aún durmiendo no he visto su presencia.
+Con más razón la llamarán locura,
+Afeto de la causa y accidente, 
+si el no dormir es el mayor testigo.
+¡Oh ausencia peligrosa y mal segura, 
+valiente con rendidos, que un ausente
+en sí vuelve la espada a su enemigo!
+10	 De una estructura similar es el famoso soneto 126: “Desmayarse, atreverse, estar furioso…” en 
+el que define al amor, ya estudiado profusamente por la crítica y erigido como modelo de este 
+tipo de composición conceptista.
+90
+Marisa Eugenia Elizalde | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+Comienza el yo por desechar el decir general y refutar la equiparación 
+de la ausencia a la muerte. A partir de este gesto inicial de rechazo, elabora 
+la comparación con otras ideas análogas: el sueño y la locura, ideas por otro 
+lado muy recurrentes en la época. La invocación final a la ausencia cierra el 
+poema y remite nuevamente al sufrimiento. En este caso el conocimiento está 
+basado en la propia experiencia; el yo ha experimentado el sentimiento de la 
+falta y desde ese espacio textual lo configura. La oposición en este caso se pos-
+tula entre el saber consagrado, el “de los otros”, y la propia experiencia como 
+fuente de conocimiento. Este desgarro afectivo del sujeto evoca el desgarro de 
+la percepción barroca de la existencia: la de un sujeto escindido.
+No se detiene el furor poético de Lope ante temas muy trabajados y explo-
+rados de la literatura; esta pulsión a la búsqueda de nuevas formas de decir, 
+aun sobre lo ya dicho profusamente, lo lleva al desafío de elegir a la “noche” 
+como eje del soneto 137:
+Noche, fabricadora de embelecos,
+loca, imaginativa, quimerista,
+que muestras al que en ti su bien conquista
+los montes llanos y los mares secos.
+Habitadora de cerebros huecos, 
+mecánica, filósofa, alquimista, 
+encubridora vil, lince sin vista,
+espantadiza de tus mismos ecos:
+la sombra, el miedo, el mal se te atribuya,
+solícita, poeta, enferma , fría,
+manos del bravo y pies del fugitivo.
+Que vele o duerma, media vida es tuya,
+si velo, te lo pago con el día, 
+y si duermo, no siento lo que vivo.
+En este soneto opta por la personificación como estrategia para caracterizar 
+a la noche; en el primer cuarteto, la construcción “fabricadora de embelecos” 
+comparte rasgos semánticos con la capacidad creadora, con la imaginación, 
+lo que se acentúa en la utilización de adjetivos que remiten a esta idea: “loca, 
+imaginativa, quimerista”, y a su vez a la posibilidad de invertir, trastocar el 
+orden de lo posible: mostrar “los montes llanos y los mares secos”. Retoma 
+y profundiza esta construcción en el segundo cuarteto, donde los adjetivos 
+refieren a lo sombrío y misterioso, lo oculto y tenebroso. La acumulación de 
+adjetivos permite la proliferación de asociaciones semánticas y pone en juego 
+las capacidades expresivas, como un espejo multiplicador. Esta caracteriza-
+ción de la noche se desplaza cada vez más hacia el campo de las tinieblas, en 
+91
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | “Furor poético”: creación y preceptiva en los sonetos…: 79-94
+analogía con ciertas fuerzas del mal. Se proyecta así una imagen de la noche 
+que no responde a la serenidad del repertorio renacentista; es, en palabras 
+de Pedraza Jiménez “una noche urbana en la que se juntan los rumores, el 
+misterio, el miedo, el frío húmedo y enfermizo, la delincuencia, las ilusiones 
+y las imágenes absurdas de los sueños” (1993: 92); se trata de una noche que 
+anticipa las noches literarias del siglo XIX. Cierra el poema con el cambio de 
+foco del sujeto: el yo lírico ocupa el centro y la noche es su oponente poderoso, 
+dueña de la mitad de su vida. En este giro final el poeta ofrece una revisión 
+de la noche; desde su condición de “fabricadora de embelecos”, al igual que 
+la imaginación, se apodera de su vida. Aparece, entonces, la idea del sujeto 
+arrebatado, cautivo de fuerzas superiores a él, sometido al “furor poético”, que 
+tanto se asemeja a la locura. 
+Para cerrar este apartado referido a los modos en que Lope resolvió los 
+desafíos que su época y su propia concepción poética, centrada básicamente 
+en el lugar que ocupa la expresión límpida, liberada de artificios que opriman 
+los conceptos, le ofrecían, presentamos el soneto 20, de las Rimas sacras (1614), 
+obra cuyos temas giran en torno al amor divino y no al humano. En este 
+caso, el soneto centra su construcción en torno a la relación entre lenguaje 
+y experiencia. Como le ocurriera a los místicos una generación anterior, la 
+búsqueda de un lenguaje que exprese lo divino, la inefable experiencia del 
+contacto con Dios, se enfrenta con los límites de la lengua. En un recorrido 
+por las formas de expresión que pudieran enunciar esa experiencia, el único 
+molde que permite, por su propia configuración, representarla, es el lenguaje 
+amoroso. Así, dos extremos del amor: el erótico y el divino, se funden en un 
+modelo expresivo semejante: un mismo lenguaje, un mismo modo retórico, 
+una correspondencia semántica.
+La lengua del amor, a quien no sabe,
+lo que es amor, ¡qué bárbara parece!;
+pues como por instantes enmudece,
+tiene pausas de música suave.
+Tal vez suspensa, tal aguda y grave,
+rotos conceptos al amante ofrece;
+aguarda los compases que padece,
+porque la causa su destreza alabe.
+¡Oh dulcísimo bien, que al bien me guía!,
+¿con qué lengua os diré mis sentimiento, 
+ya que tengo de hablaros osadía?
+Mas si es de los conceptos instrumento, 
+¿qué importa que calléis, oh lengua mía,
+pues que vos penetráis mi pensamiento?
+92
+Marisa Eugenia Elizalde | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+Resulta difícil dejar de evocar a San Juan de la Cruz en sus poesías, donde se 
+encarna la palabra poética como único modo de expresión posible para mani-
+festar el ascenso del alma. Pero ese lenguaje es siempre insuficiente, apenas un 
+resplandor de la experiencia en sí. En su minucioso análisis del lenguaje de San 
+Juan de la Cruz, Jorge Guillén resume esta relación entre experiencia y lenguaje: 
+“Si la experiencia mística se sitúa más allá de la razón y la imaginación, a lo 
+incomprensible divino ha de seguir la insuficiencia de la voz humana” (1962: 
+111). Esta conciencia de la insuficiencia del lenguaje atraviesa también este 
+soneto de Lope, y coloca en un primer plano la oposición entre la posibilidad 
+de expresar los conceptos y los conceptos mismos. “Rotos conceptos”, en esta 
+construcción se cifra ese hiato entre la idea y su instrumento, que siempre 
+devendrá incompleto, ineficaz. En esta contradicción, ante esta imposibilidad, 
+la respuesta del poeta expresa una toma de postura: la voz se acalla y sólo queda 
+el contacto directo entre el amante y el amado11.
+“Letras del alma, espejo cristalino…”
+Como cierre para este análisis de las obras de Lope recurrimos nuevamente 
+al análisis del soneto 84 “A las letras”, perteneciente a Los pastores de Belén, 
+de 1612, que retoma y concentra esta presencia constante en los discursos de 
+Lope de una reflexión sobre los modos de expresión12. En la multiplicidad de 
+formas que el escritor eligió para manifestar una prolífica capacidad creadora, 
+que aunó de manera enriquecedora tradición e innovación, aparece reflejada 
+esta problematización del lenguaje. Durante el Barroco, el ámbito de la lengua 
+será escenario de las fuerzas contradictorias que marcaron el periodo: los textos 
+serán el campo donde se librarán las batallas por la novedad, la experimentación, 
+la indagación por las potencialidades expresivas de una lengua sometida a un 
+proceso de expansión inédito.
+Junto con el lenguaje, la reconfiguración de la figura del lector intensifica 
+la búsqueda; se apuesta a un lector que comparta el asombro de un hallazgo, 
+que se deleite en la perfección de un concepto. Ambos, lenguaje y lector, serán 
+los vértices de una profunda transformación del discurso literario, en la que 
+se articularán modelos existentes con otros redefinidos. Entre ellos, la figura 
+del escritor, que asume la condición de creador a la vez que reflexiona sobre 
+la creación, en un juego dialéctico que evidencia la necesidad de revisar los 
+11	 Las formas de clausurar los sonetos, a fin de darles el cierre buscado, constituye una de las 
+preocupaciones de la retórica del Siglo de Oro. El caso particular de la poesía de Lope ha sido 
+abordado por G. J. Brown (1978), en el cual lo asimila a la retórica del epigrama.
+12	 Al igual que en los textos anteriores, se cita el poema según la edición de Blecua (1981). 
+93
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807 | “Furor poético”: creación y preceptiva en los sonetos…: 79-94
+conceptos en los cuales ésta se sustenta. En este marco, la producción literaria 
+de Lope de Vega constituye un espacio fértil; sus textos son atravesados por las 
+preocupaciones estéticas y retóricas de la época, y, en especial, por la claridad 
+y la limpidez de los conceptos. Allí se cifran sus esfuerzos, en la superficie de 
+los versos, donde los conceptos son tensados hasta el límite.
+Tal vez uno de los formatos textuales que mejor evidencien estas tensiones 
+entre el ansia de exploración y los límites formales sea el soneto. Su particu-
+lar construcción métrica y estrófica otorgan un espacio textual definido e 
+infranqueable; sin embargo, pocas formas han desarrollado mayor variedad y 
+diversidad de temas y estilos. Este diseño permitió condensar y combinar los 
+signos de la lengua, logrando así una apertura semántica y connotativa. La 
+relación entre forma y contenido del soneto ofrece una disposición novedosa 
+y siempre renovada, rasgo que los autores del Barroco supieron aprovechar y 
+que, más allá de los vaivenes estéticos de las diferentes corrientes literarias, aún 
+en nuestros días le permite al soneto seguir siendo un lugar privilegiado del 
+“decir” poético. Lope entrevió estas posibilidades discursivas: esto se manifiesta 
+en la gran cantidad de sonetos que constituyen su obra.
+En el soneto mencionado al comienzo de este apartado, la voz lírica aporta 
+su visión a la antigua disputa entre las armas y las letras. Una vez más, el debate 
+entre concepto y expresión se hace presente y en él, las letras resultan victoriosas, 
+ya que permiten la síntesis siempre buscada por Lope: la unión entre la idea y 
+una palabra que no la encarcele en el juego retórico, sino que la vivifique. 
+Referencias bibliográficas
+Blecua, J. “Introducción”. Lope de Vega y Carpio. Lírica. Madrid: Castalia, 
+1981: 7-54.
+Brown, G. J. “Lope de Vega`s epigrammatic poetic for the sonnet”. Modern 
+Language Notes 93 (1978): 218-232.
+Cabranes-Grant, Leo. “Del Cancionero a la miscelánea: Lope de Vega y sus 
+Rerum Vulgarium fragmenta”. Humanista, Vol. 4 (2004).
+Carreño, A. “Introducción” y “La trayectoria poética de Lope de Vega”. Lope de 
+Vega y Carpio. Poesía selecta. Madrid: Cátedra, 1984.
+Egido, Aurora. “La Hidra bocal. Sobre la palabra poética en el Barroco”. Edad 
+de Oro VI (1987): 79-113.
+—— “Lope al pie de la letra”. La voz de las letras en el Siglo de Oro. Madrid: 
+Abada, 2003.
+Guillén, J. “Lenguaje insuficiente. San Juan de la Cruz y lo inefable místico”. 
+Lenguaje y poesía. Algunos casos españoles. Madrid: Revista de Occidente, 
+1962.
+94
+Marisa Eugenia Elizalde | 
+ XI-XII.11-12 (noviembre 2008) ISSN 0329-3807
+Lázaro Carreter, F. “Sobre la dificultad conceptista”. Estilo barroco y perso-
+nalidad creadora. Góngora, Quevedo, Lope de Vega. Salamanca: Anaya, 
+1966.
+López Bueno, Begonia. “La implicación género –estrofa en el sistema poético 
+del siglo XVI–”. Edad de Oro XI (1992): 99-111.
+Maravall, José A. La cultura del Barroco. Análisis de una estructura histórica. 
+Barcelona: Ariel, 1980.
+Pedraza Jiménez, F. “Introducción”. Lope de Vega y Carpio. Rimas I [Doscientos 
+sonetos]. Universidad de Castilla La Mancha: Servicio de Publicaciones, 
+1993.
+Rodríguez, Evangelina. “Los versos fuerzan la materia: algunas notas sobre 
+métrica y rítmica en el Siglo de Oro”. Edad de Oro IV (1985): 117-137.
+Rodríguez de la Flor, F. “Prólogo” e “Introducción: el eón barroco hispano 1580-
+1680: giro hacia una cultura propia”. Barroco. Representación e ideología 
+en el mundo hispánico (1580-1680). Madrid: Cátedra, 2002.
+Rozas, Juan Manuel. “Petrarca y Ausías March en los sonetos-prólogo amorosos 
+del Siglo de Oro”. Homenajes. Estudios de Filología Española I (1964): 
+57-75.
+Tubau, Xavier. “Las ideas literarias de Lope de Vega”. Anthony Close. Ed. Actas 
+del VII Congreso de la AISO. Madrid: Iberoamericana-Vervuert (2006): 
+617-621.
+Vega y Carpio, Lope de. Lírica. José M. Blecua. Ed. Madrid: Castalia, 1981.
+—— Poesía selecta. A. Carreño. Ed. Madrid: Cátedra, 1984.
+—— Rimas I [Doscientos sonetos]. F. Pedraza Jiménez. Ed. Universidad de 
+Castilla La Mancha: Servicio de Publicaciones, 1993.
+—— Obras Completas. Poesía II. A. Carreño. Ed. y Prólogo. Madrid: Funda-
+ción José Antonio de Castro-Biblioteca Virtual Miguel de Cervantes, 2003: 
+1-241.
+Fecha de recepción: 02/08/07 / Fecha de aprobación: 12/11/07

@@ -1,0 +1,1721 @@
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+LAS 
+CATEGORÍAS 
+TIPOS 
+DE 
+DISCURSOS 
+Y 
+SECUENCIAS TEXTUALES EN EL GÉNERO DE 
+TEXTO 
+DEBATE: 
+DESARROLLO 
+DE 
+UN 
+RAZONAMIENTO LÓGICO-ARGUMENTATIVO EN 
+UN DIÁLOGO MONOLOGAL ARTIFICIAL 
+ 
+Paula Navarro 
+Universidad Nacional de Rosario 
+Universidad Nacional del Litoral 
+Instituto de Educación Superior Nº 28 
+paulanavarro@sinectis.com.ar 
+ 
+ 
+Resumen: El objetivo de este artículo 
+es 
+caracterizar 
+la 
+composición 
+discursiva del género de texto debate a 
+partir de relevar la distribución de los 
+tipos de discursos y de las secuencias 
+textuales en un corpus de debates 
+auténticos 
+conformado 
+por 
+las 
+intervenciones de los participantes del 
+programa televisivo “El Debate en la 
+Televisión 
+Pública” 
+y 
+por 
+las 
+textualizaciones orales de estudiantes 
+de tercer año de la escuela secundaria 
+“Superior de Comercio Libertador 
+General San Martín” de Rosario. 
+Nuestro análisis demostró que la 
+infraestructura general de este género 
+oral institucionalizado combina los 
+tipos de discursos del orden del exponer 
+(teórico, interactivo y mixto) con las 
+secuencias 
+textuales 
+dialogal 
+y 
+argumentativa según las restricciones 
+que detentan los roles sociales y 
+finalidades de los participantes que co-
+gestionan la producción del debate 
+(moderador 
+y 
+argumentadores). 
+Específicamente, los participantes que 
+argumentan despliegan un razonamien-
+to lógico-argumentativo, en combina-
+ción con uno interactivo-dialogal, en el 
+marco de una configuración artificial de 
+interacción dialógica o diálogo monologal 
+que es regulado por un moderador. 
+Palabras clave: Debate, Tipos de 
+discursos, 
+Secuencias 
+textuales, 
+Diálogo monologal artificial, Razona-
+miento lógico-argumentativo. 
+ 
+Abstract: The aim of this article is to 
+characterize the discursive composition 
+of the text debate genre based on the 
+distribution of the types of discourses 
+and of the textual sequences in a 
+corpus of authentic debates conformed 
+by the interventions of the participants 
+of the television program "El Debate 
+en la Televisión Pública" and by the 
+oral textualizations of third year 
+students of the secondary school 
+"Superior de Comercio Libertador 
+General San Martín" of Rosario. Our 
+analysis showed that the general 
+infrastructure of this institutionalized 
+oral gender combines the types of 
+ 
+98 
+ 
+discourses of the order of exposition 
+(theoretical, interactive and mixed) with 
+the textual and argumentative textual 
+sequences according to the restrictions 
+that they hold the social roles of the 
+participants 
+that 
+co-manage 
+the 
+production of the debate (moderator 
+and argumentators). Specifically, the 
+participants who argue deploy logical-
+argumentative 
+reasoning, 
+in 
+combination 
+with 
+an 
+interactive-
+dialogical one, in the framework of an 
+artificial configuration of dialogical 
+interaction or monologal dialogue that is 
+regulated by a moderator. 
+Keywords: Debate, Types of 
+discourses, Textual sequences, Artificial 
+monologal dialogue, Logical-
+argumentative reasoning.
+ 
+1. Introducción 
+ 
+La noción de género presenta una relevancia indudable en 
+distintas corrientes contemporáneas de las Ciencias del 
+lenguaje que privilegian el estudio del texto, su funcionamiento 
+y organización. A partir del siglo XX, esta categoría se aplicó 
+no solo a los géneros literarios y retóricos (Ducrot y Todorov, 
+2003) sino al conjunto de producciones verbales organizadas 
+escritas y orales (Bajtín, 1984). Sin embargo, el énfasis se ha 
+puesto en el estudio de los géneros escritos y, en menor 
+medida, en géneros orales como el debate, la exposición oral, la 
+entrevista, la conversación, el examen oral, la ponencia, la clase 
+magistral, entre otros.  
+Por otro lado, la investigación se ha especializado en 
+géneros orales cotidianos como la conversación, entendida 
+como la forma fundamental y prototípica de la interacción oral. 
+En efecto, los estudios específicos sobre oralidad que incluyen 
+géneros de textos orales institucionalizados o estandarizados 
+han ingresado tardíamente en los estudios lingüísticos.  
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+Así, en los últimos años en la Argentina han cobrado mayor 
+impulso los trabajos, desde distintas perspectivas teóricas, 
+sobre géneros académico-científicos orales como, por ejemplo, 
+los exámenes finales orales de estudiantes universitarios 
+(Cárdenas, 2005; García Negroni y Hall, 2010, 2011), la 
+conferencia de divulgación científica (Ciapuscio, 2005) y el 
+coloquio de defensa de tesis (Cubo de Severino, 2012). En 
+nuestro caso, el objeto de investigación es un género de texto 
+oral institucionalizado -el debate- que se ha constituido en 
+objeto de enseñanza de los niveles primario y secundario desde 
+la recuperación de la democracia. 
+En la literatura crítica consultada (Dolz & Schneuwly, 1997) 
+las características de este género se conceptualizan en torno a 
+aspectos funcionales/praxeológicos y, en menor medida, 
+discursivos y epistémicos/lingüísticos. En relación con los 
+aspectos discursivos, se enfatiza su composición secuencial 
+homogénea de tipo argumentativo. En sintonía con este 
+enfoque, el marco regulatorio vigente para la enseñanza de la 
+lengua en Argentina refiere a la organización argumentativa del 
+debate, género que se constituye en objeto de enseñanza desde 
+segundo año del ciclo básico, y cuyo tratamiento se profundiza 
+en tercer año y en el ciclo orientado (cuarto y quinto año) del 
+nivel secundario (Núcleos de Aprendizajes Prioritarios, 2011, 2012). 
+A diferencia de otras perspectivas de las Ciencias del 
+lenguaje que definen la composición de los textos según la 
+combinación de distintos tipos de secuencias textuales (Adam, 
+1992, 1995, 1999), el Interaccionismo socio-discursivo (ISD) 
+(Bronckart, 2004, 2007, 2013) considera que los tipos de 
+ 
+100 
+ 
+discursos, conjuntamente con las secuencias textuales, 
+componen la infraestructura general de los textos.  
+En este marco, nos proponemos aportar a la caracterización 
+de un género oral socialmente significativo, el estudio de su 
+organización discursiva ampliando la descripción de la 
+composición secuencial (Adam, 1992, 1995, 1999; Bronckart, 
+2004) propuesta por la literatura crítica, a los tipos de discursos 
+(Bronckart, 2004, 2007, 2013) en un corpus de debates 
+auténticos conformado por las intervenciones de los 
+participantes del programa televisivo  
+“El Debate en la 
+Televisión Pública” (2011) y por las textualizaciones orales en 
+el género debate de estudiantes de tercer año de la escuela 
+secundaria “Superior de Comercio Libertador General San 
+Martín” de Rosario (2013 y  2015.)  
+ 
+2. Marco teórico 
+2.1. La perspectiva del Interaccionismo socio-
+discursivo 
+ 
+El enfoque contemporáneo del ISD concibe el lenguaje 
+“como una actividad articulada a un marco social y como una 
+actividad que se realiza en textos, textos que se inscriben en un 
+género y que se construyen con los recursos de una lengua natural 
+dada” (Bronckart, 2013: 39). 
+Para esta perspectiva, el texto, definido como toda 
+producción verbal situada (oral o escrita), es interdependiente 
+del contexto en que se desarrolla y constituye una unidad 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+comunicativa 
+determinada 
+por 
+aspectos 
+funcionales/praxeológicos (el texto como unidad comunicativa 
+vinculada con el contexto comunicativo), además de 
+epistémicos/lingüísticos (la lengua como sistema semiótico 
+autónomo). 
+Como los textos son productos de la actividad humana y se 
+articulan con las necesidades, intereses y condiciones de 
+funcionamiento sociales en las cuales se producen, se 
+caracterizan por su gran diversidad. En efecto, Bronckart 
+(2004) retoma a Bajtín, luego a Voloshinov (Bronckart, 2007, 
+2013), quien plantea que los signos se realizan en enunciados 
+en la interacción verbal y asumen formas variadas, es decir, 
+constituyen distintos géneros de la palabra (2009, p. 43). 
+Para identificar las diferencias entre los distintos géneros se 
+procede a un análisis más preciso de la organización interna de 
+los textos que se sistematiza en el modelo de la arquitectura 
+textual conceptualizado en tres niveles interactivos: la 
+infraestructura general que se vincula con la planificación de 
+los textos (selección de los tipos de discursos y secuencias 
+textuales); los mecanismos de textualización (gestión de 
+conectores y relaciones anafóricas) y los mecanismos de 
+posición enunciativa (administración de voces y modalización) 
+(Bronckart, 2004, 2013). 
+El nivel de la infraestructura general -que es el que nos 
+interesa en este artículo- estructura el contenido temático del 
+texto. Está constituido por el plan general del texto, por los 
+tipos de discursos que este plan combina, por la modalidad de 
+articulación de esos tipos de discursos y por las secuencias 
+ 
+102 
+ 
+textuales que eventualmente aparecen en él, como por formas 
+menores de planificación.  
+ 
+2.2. Las categorías tipos de discursos y secuencias 
+textuales: su aporte al desarrollo humano 
+ 
+Para el ISD, la actividad verbal, por su naturaleza semiótica, 
+es creadora de mundos virtuales (o mundos discursivos) que 
+son sistemas de coordenadas formales, distintos de los 
+sistemas de coordenadas de los mundos en los que se 
+desarrollan las acciones de los agentes humanos (o mundo 
+ordinario). 
+Según este enfoque, el proceso de semiotización del actuar 
+verbal en el marco de una lengua natural (el discurso) se realiza 
+según dos operaciones que se expresan en determinadas 
+formas lingüísticas. Por un lado, por la relación de 
+disyunción/conjunción entre las coordenadas que construyen 
+el mundo discursivo de un texto y las coordenadas generales 
+del mundo ordinario en el que se desarrolla la acción verbal. Si 
+esta relación es de distancia se da como resultado un orden del 
+contar cuya validez es independiente de las circunstancias 
+específicas del acto de producción que lleva a cabo el agente 
+productor y si, en cambio, el contenido temático del mundo 
+discursivo creado en el texto se interpreta de acuerdo con los 
+criterios de validez del mundo ordinario (relación conjunta o 
+ligada), se produce el orden del exponer en el cual los hechos se 
+exponen. 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+Por otro, por la relación de implicación/autonomía entre las 
+instancias de agentividad del texto en relación con los 
+parámetros físicos de la acción verbal -agente productor, 
+interlocutor, y situación de ambos en el espacio-tiempo-. Así, 
+un texto puede explicitar una relación implicada del agente con 
+los parámetros de la acción verbal en forma de deícticos por lo 
+que se requiere acceder a las condiciones de producción; o 
+puede proponer que la instancia de agentividad del texto 
+mantenga una relación de independencia respecto de los 
+parámetros de la acción en curso (agente no implicado o 
+autónomo), por lo tanto, no se requiere un conocimiento de 
+las condiciones de producción. Esta operación permite 
+diferenciar el exponer y el contar autónomos del exponer y el contar 
+implicados. 
+Ambos tipos de relaciones solo pueden inferirse por las 
+unidades lingüísticas que las semiotizan en una lengua natural 
+dada, por eso difieren de una lengua a otra, aunque las 
+operaciones que constituyen los mundos discursivos son 
+generales a todas las lenguas. Como las unidades lingüísticas 
+que traducen los mundos discursivos creados en la acción 
+verbal son relativamente estables, el ISD adopta el término 
+tipos de discursos y clasifica cuatro tipos fundamentales: 
+discurso interactivo (exponer implicado), discurso teórico 
+(exponer autónomo), relato interactivo (contar implicado) y 
+narración (contar autónomo) (Bronckart, 2004, 2007). Se 
+especifica, sin embargo, que existen tipos mixtos y variaciones 
+internas de los tipos puros. 
+Además, se estipula que 
+hay 
+textos 
+homogéneos 
+compuestos por un solo tipo y textos heterogéneos que se 
+ 
+104 
+ 
+componen de tipos diferentes. Los textos heterogéneos -que 
+son la mayoría- presentan un tipo mayor o dominante y uno o 
+varios tipos menores o subordinados. La inserción de un tipo 
+menor en uno mayor se da según dos modalidades: la inserción 
+o encaje (los tipos de discursos permanecen delimitados) y la 
+fusión (el tipo menor se integra al mayor). 
+Por su parte, las secuencias textuales conforman la 
+organización secuencial o lineal del contenido temático de un 
+texto (Bronckart, 2004). El concepto de secuencia que adopta 
+el ISD corresponde a Adam (1992, 1995, 1999), quien propuso 
+desde la lingüística textual una teorización de la organización 
+de los textos en base a la noción de secuencia. 
+Este lingüista francés define las secuencias como esquemas 
+secuenciales prototípicos debido a que son modelos abstractos 
+identificables por la naturaleza de las fases que comportan y 
+por las modalidades de su articulación. Bronckart (2004), en 
+cambio, no cree que los prototipos sean modelos cognitivos 
+que preexistan a las secuencias efectivas, sino que son 
+constructos teóricos elaborados a partir del examen de las 
+secuencias observables en los textos. 
+Por otro lado, para el enfoque del ISD, los tipos de 
+discursos son los que definen la infraestructura general dado 
+que todo texto está compuesto por tipos de discursos, 
+sustentados en las operaciones que construyen los mundos 
+discursivos. En cambio, las secuencias son formas de 
+planificación local que aparecen en el texto de manera 
+accidental, 
+como 
+manifestaciones 
+de 
+operaciones 
+suplementarias que se superponen localmente a las operaciones 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+constitutivas de los mundos discursivos con los cuales se 
+articulan. Por lo tanto, se polemiza respecto del estatuto 
+condicionante de las secuencias textuales en la composición de 
+los textos (Bronckart, 2004).  
+En consonancia con este planteo, el ISD establece que 
+algunos segmentos de textos se organizan en formas menores 
+de planificación, a las que se denomina scripts (o guiones) y 
+esquematizaciones, que constituyen el grado cero de la 
+planificación de los segmentos del orden del contar y del exponer 
+respectivamente. 
+Con relación a la articulación entre las secuencias textuales y 
+los tipos de discursos, el ISD considera que la distribución de 
+las secuencias se encuentra determinada por los tipos de 
+discursos, que son los segmentos subtextuales que guían la 
+construcción del texto. Así, las distintas dimensiones del nivel 
+de la planificación textual se presentan bajo la forma de una 
+disposición de inclusión jerarquizada (situación de acción y 
+género de texto en interacción, tipo de discurso, tipo de 
+secuencia textual).  
+Por último, el ISD sostiene que la persona humana se 
+configura en la interiorización de las propiedades de los 
+géneros y de los tipos de discursos. Sin embargo, Bronckart 
+(2007) destaca que, pese a que la práctica de los géneros es un 
+lugar importante de aprendizaje social, no es en ese nivel en el 
+que se dan los procesos de mediación que contribuyen al 
+desarrollo de las principales propiedades de las personas 
+(construcción de la identidad, inserción en el tiempo, dominio 
+de los razonamientos).  
+ 
+106 
+ 
+Los 
+géneros 
+combinan 
+formas 
+de 
+estructuración 
+heterogéneas por lo cual nunca pueden ser definidos por 
+unidades y reglas lingüísticas. Estas operaciones y reglas solo 
+existen en niveles infraordenados respecto de la unidad-texto a 
+los cuales el ISD les otorga un rol más importante: los tipos de 
+discursos que conforman los géneros. 
+En este sentido, la práctica de los tipos de discursos 
+favorece el desarrollo de componentes esenciales de la 
+persona: se desarrollan los procesos mentales y verbales de los 
+razonamientos: los razonamientos prácticos o de sentido 
+común de los discursos interactivos, los razonamientos 
+causales-lógicos de las narraciones y los razonamientos de 
+orden lógico de los discursos teóricos (Bronckart, 2007). 
+ 
+3. Corpus y metodología 
+3.1. Corpus 
+ 
+Los textos auténticos que conforman el corpus objeto de 
+estudio corresponden a dos esferas de la actividad humana: la 
+esfera pública y la esfera escolar. Los debates de la esfera 
+pública se llevaron a cabo en el programa “El debate en la TV 
+pública”, 
+conducido 
+por 
+Adrián 
+Paenza 
+y 
+emitido 
+semanalmente durante los meses de julio y agosto de 2011 en 
+la televisión pública argentina. 
+Los temas debatidos en el marco del programa fueron: ¿Hay 
+que despenalizar el aborto? (17/07/2011) ¿Es viable la minería 
+a cielo abierto? (24/07/2011) ¿Debe despenalizarse el 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+consumo de drogas? (31/07/2011) ¿Hay que despenalizar la 
+eutanasia? (07/08/2011) ¿Es el hombre responsable del 
+cambio climático? (21/08/2011) ¿Son necesarias las religiones? 
+(28/08/2011). En este artículo, se recuperan principalmente 
+enunciados de los debates sobre la despenalización del 
+consumo de drogas y la despenalización de la eutanasia. 
+Los 
+debates 
+implicaban 
+la 
+participación 
+de 
+dos 
+argumentadores, profesionales especializados en la temática 
+que defendían sus posiciones. A su vez, había dos invitados 
+que tenían la responsabilidad de formular preguntas a los 
+argumentadores como representantes de la ciudadanía1. El 
+moderador presentaba el tema, introducía un video sobre la 
+temática, presentaba a los argumentadores y a los 
+observadores, daba cuenta de la dinámica de la interacción 
+(distribución del tiempo y del orden de los turnos de habla) y 
+gestionaba los turnos de habla de todos los participantes según 
+el esquema del programa.  
+Los cuatro debates de la esfera escolar se realizaron en 2013 
+y 2015 en cursos de tercer año de la escuela secundaria pública 
+“Superior de Comercio Libertador General San Martín” de la 
+ciudad de Rosario (Santa Fe, Argentina), dependiente de la 
+Universidad Nacional de Rosario. Las producciones orales de 
+los estudiantes respondieron a una consigna de textualización 
+oral en el género debate en el marco de la enseñanza de la 
+argumentación. Los temas debatidos fueron: la tenencia legal 
+de armas de fuego (13/09/2013), la reelección presidencial 
+ 
+1 Como su participación no se registra en los debates de la esfera escolar no serán 
+considerados en el análisis. Sin embargo, sus intervenciones se ajustan a los tipos y 
+prototipos identificados en las intervenciones de los argumentadores.  
+ 
+108 
+ 
+indefinida (13/09/2013), la legalización de la marihuana 
+(26/06/2015) 
+y 
+la 
+despenalización 
+de 
+la 
+eutanasia 
+(26/06/2015). En este artículo se dará cuenta principalmente 
+del debate sobre la tenencia legal de armas de fuego, pero 
+también se incluirán fragmentos de los otros debates que 
+conforman el corpus objeto de análisis. 
+En todos los debates participaron un moderador y seis 
+argumentadores con posturas diferentes (tres a favor y tres en 
+contra). Sin embargo, las intervenciones se plantearon como 
+participaciones individuales, es decir, cada argumentador 
+defendía su punto de vista. No siempre la postura defendida 
+coincidía con la posición del estudiante debido a que se debía 
+conformar una discusión pareja en términos numéricos, 
+además de que se planteaba como parte del aprendizaje el 
+desafío de argumentar a favor de una postura que no era 
+compartida cabalmente. 
+ 
+3.2. Metodología 
+ 
+Los debates auténticos que componen nuestro corpus 
+responden a situaciones ecológicas (intervenciones en el 
+programa televisivo “El Debate en la Televisión Pública”) y a 
+situaciones experimentales (producciones orales de estudiantes 
+de tercer año que responden a una consigna). En todos los 
+casos se contó con un registro audiovisual de los debates, de 
+los cuales se transcribieron textualmente las intervenciones de 
+cada uno de los participantes. 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+El análisis del corpus adopta una metodología descendente 
+que considera las situaciones de producción para determinar 
+las características de los textos, en consonancia con el método 
+que el ISD retoma de Voloshinov (2009) en el cual se articula 
+lo verbal con lo no verbal. Específicamente, a partir del 
+modelo 
+de 
+análisis 
+de 
+la 
+arquitectura 
+textual 
+del 
+Interaccionismo socio-discursivo se analiza la distribución de 
+los tipos de discursos (Bronckart, 2004, 2007, 2013) y las 
+secuencias textuales (Adam, 1992, 1995, 1999; Bronckart, 
+2004) en las intervenciones de los moderadores y 
+argumentadores de los debates de ambas esferas de la actividad 
+humana.  
+En relación con la categoría tipos de discursos la discusión gira 
+en torno a si el debate organiza su infraestructura general en un 
+tipo de discurso puro o por la combinación de distintos tipos 
+del orden del exponer2. Por ello, nos proponemos identificar el 
+o los tipos de discursos que componen los debates auténticos 
+seleccionados y en el caso de que su composición sea 
+heterogénea, daremos cuenta de los modos en que los tipos se 
+articulan entre sí. Para ello relevaremos en los distintos 
+segmentos de textos subconjuntos de unidades lingüísticas3 
+que presentan un carácter discriminativo (carácter exclusivo o 
+estadísticamente significativo de una unidad).  
+ 
+2 De acuerdo con la caracterización del debate propuesta por la literatura crítica, 
+entendemos que el contenido temático de este género está organizado en un mundo 
+discursivo cuyas coordenadas no están separadas de las del mundo común debido a que 
+tanto los argumentadores como el moderador crean un mundo discursivo cuya 
+evaluación depende del mundo ordinario. Por lo tanto, el género debate se inscribiría en 
+el orden del exponer. 
+3 El análisis tendrá como obra de referencia el Manual de la Nueva gramática de la lengua 
+española publicado por la Real Academia Española en 2010 (Buenos Aires: Espasa). 
+ 
+110 
+ 
+Por un lado, las unidades que indican conjunción o 
+disyunción entre el mundo discursivo creado y el mundo de la 
+situación de producción, principalmente los tiempos verbales 
+predominantes. Por otro, las unidades que indican implicación 
+o autonomía de las instancias de agentividad del texto respecto 
+de los parámetros de la situación de producción, como el uso 
+de deícticos espaciales, temporales y personales, la presencia 
+frecuente o no de oraciones no declarativas (interrogativas, 
+exclamativas e imperativas) y el valor (deíctico o genérico) que 
+asumen las formas temporales. 
+Para distinguir el subconjunto de unidades o marcas 
+lingüísticas de cada tipo de discurso se destacarán en cursiva 
+las del tipo interactivo y se subrayarán las del discurso teórico. 
+Según su combinación se definirá si algunos segmentos 
+estructuran su contenido temático en torno a un tipo mixto 
+que se distingue por la presencia simultánea de unidades 
+lingüísticas de ambos tipos de discursos (Bronckart ,2004). 
+En relación con el plano secuencial de la infraestructura 
+general, se determinará si los debates conforman textos 
+homogéneos o heterogéneos y, si son heterogéneos, qué tipos 
+de secuencias textuales organizan su contenido temático y de 
+qué modo se articulan. Específicamente, si como señala la 
+literatura crítica, el prototipo secuencial dominante es la 
+secuencia argumentativa y si esta presenta en los textos del 
+corpus todas sus fases (premisa, argumentos, contra-
+argumentos y conclusión o nueva tesis) o alguna/s resulta/n 
+elíptica/s (Adam, 1995).  
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+A su vez, como el debate es descripto por la literatura crítica 
+como un género oral de producción polilogal (gestionado por 
+más de dos agentes productores: el moderador y los 
+argumentadores), el cual se organiza en turnos de habla 
+sucesivos (Avendaño, 2006); indagaremos si la secuencia 
+dialogal estructura también el contenido temático de los textos 
+auténticos que conforman nuestro corpus.  
+Este prototipo secuencial se organiza en tres fases (apertura, 
+transacción y cierre) (Adam, 1992, 1999), cada una de las cuales 
+puede descomponerse en unidades dialogales o intercambios 
+(un intercambio puede ser binario, dos turnos de habla; 
+ternario, tres turnos de habla, etc.). En este último sentido, 
+Bronckart (2004) considera que el prototipo secuencial dialogal 
+puede actualizarse de maneras diversas según la complejidad de 
+las inserciones jerarquizadas que puedan darse en él.  
+Por último, nos detendremos en los modos de articulación 
+de los tipos de discursos y las secuencias textuales. Por 
+ejemplo, para el ISD “los segmentos de diálogo solo son 
+observables en el tipo de discurso interactivo, y por norma están 
+organizados según la secuencia dialogal […] [cuya] estructura 
+es, ante todo, un calco de la estructura de intercambio en la 
+que el texto se inscribe” (Bronckart, 2004, p. 149). Por eso, 
+este enfoque postula que la distinción del plano textual entre 
+segmentos de monólogos y de diálogos se encuentra en 
+interacción con la distribución de los tipos de discursos.  
+ 
+4. Análisis 
+4.1. Tipos de discursos 
+ 
+112 
+ 
+ 
+Según nuestro análisis, la infraestructura general de los 
+textos auténticos correspondientes a ambas esferas de la 
+actividad humana se configura por la combinación de distintos 
+tipos de discursos del orden del exponer cuya distribución 
+diferenciada de forma sistemática responde al rol social y a las 
+finalidades de los distintos participantes, como se esquematiza 
+en la tabla 1.   
+ 
+Roles sociales de los 
+agentes productores 
+Tipos de discursos del 
+orden del exponer 
+Unidades lingüísticas 
+ 
+Moderador 
+Interactivo puro 
+Exponer implicado 
+Presente del modo indicativo con 
+valor deíctico de simultaneidad. 
+Deixis ostensiva, deícticos 
+temporales y espaciales, deixis 
+personal (flexión verbal y 
+pronombres de 1° y 2° persona). 
+Formas no declarativas. 
+Argumentadores 
+Mixto interactivo-
+teórico 
+Exponer parcialmente 
+autónomo 
+(Interactivo en la 
+instancia de discusión 
+de los debates 
+escolares) 
+Presente del modo indicativo con 
+valor deíctico pero también genérico. 
+Deixis personal referida al agente 
+productor (pronombres personales 
+de 1° persona con uso deíctico y 
+flexión verbal). Ausencia absoluta de 
+frases no declarativas (preguntas 
+retóricas). 
+Organizadores con valor lógico-
+argumentativo. Estructuras pasivas 
+con se. Modalizaciones lógicas. 
+Tabla 1: Configuración de los tipos de discursos según los roles 
+sociales de los participantes. 
+ 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+Del estudio de las unidades lingüísticas de las intervenciones 
+de cada uno de los agentes involucrados en la textualización de 
+los debates se desprende que los hechos no son contados sino 
+que se exponen y evalúan según los criterios de “validación de 
+los conocimientos en el mundo común” (Bronckart, 2004, p. 
+96), pero con diverso grado de implicación respecto de los 
+parámetros materiales de la acción verbal en curso según el rol 
+social del participante.  
+En el caso del moderador, la descripción de un discurso en 
+situación es exacta debido a que se registraron las marcas 
+lingüísticas con valor discriminativo del tipo de discurso 
+interactivo puro que dan cuenta de un exponer implicado. En el 
+segmento de texto que incluimos a continuación (1) relevamos 
+unidades que refieren al momento de la interacción verbal en 
+forma de deícticos temporales (los adverbios de tiempo ahora y 
+hoy) y otros que aluden al espacio de la interacción (el adverbio 
+de lugar aquí); además de elementos que reenvían a los 
+protagonistas de la acción verbal (la flexión verbal quiero y los 
+pronombres dativo les y acusativo los). 
+Del mismo modo, verificamos que en los textos de los 
+moderadores predomina el presente del modo indicativo con 
+valor deíctico de simultaneidad el cual expresa “la coincidencia 
+de la situación designada con el momento del habla” (RAE, 
+2010, p. 436). Por ejemplo, empezamos y quiero, además de 
+perífrasis verbales ‘estar más gerundio’ que presentan una 
+acción presente en desarrollo (estamos invitando); aunque 
+también identificamos formas del tiempo futuro (el futuro 
+perifrástico formado por “ir + a + infinitivo” (voy a presentar) 
+con valor de posterioridad). 
+ 
+114 
+ 
+(1) “Buenas noches, empezamos aquí otro capítulo de “El 
+debate en la TV pública”, aquí en Canal 7. Para aquellos 
+que no vieron los programas anteriores, quiero contarles qué 
+es lo que nos proponemos con este ciclo. Hubo pocas veces 
+en la historia, en la historia argentina, en que este país se 
+anime a discutir temas profundos que atraviesan a la 
+sociedad. Y esto es independiente de las preferencias 
+políticas. Es un gran momento para meterse en temas 
+complejos, esos que durante décadas consideramos que o 
+eran bien inabordables o eran temas tabú. Por eso, los 
+estamos invitando a discutir, a pensar, a dudar para aprender 
+quiénes somos, cómo pensamos y sobre todo qué es lo que 
+queremos ser. Ahora les voy a presentar el tema de hoy aquí “El 
+debate” por Canal 7, la televisión pública” [primera 
+intervención del moderador en el debate público “¿Hay que 
+despenalizar la eutanasia?”]. 
+En otros segmentos registramos formas no declarativas (2): 
+(2) “Quedaban treinta segundos. ¿Los quiere usar?” 
+[dirigiéndose a un argumentador durante la fase de 
+transacción en el debate público ¿Debe despenalizarse el 
+consumo de drogas?]. 
+A causa del estatuto deíctico de las unidades destacadas en 
+cursiva en (1) y (2) la interpretación de ambos segmentos de 
+discurso interactivo exige un conocimiento de los parámetros 
+de la situación de acción verbal que está teniendo lugar. 
+En cambio, en las intervenciones de los argumentadores el 
+grado de autonomía parcial respecto de los parámetros 
+materiales de la situación de acción verbal determina que sus 
+intervenciones no se correspondan con un discurso interactivo. 
+Tampoco con un discurso teórico precisamente porque este 
+tipo se caracteriza por no presentar unidades lingüísticas que 
+implican los parámetros de la situación de producción. Se 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+construye entonces un discurso en situación en correlación con un 
+discurso teórico, es decir, un tipo mixto. 
+Las unidades lingüísticas del segmento correspondiente a un 
+argumentador de los debates escolares (3) constituyen un 
+exponer parcialmente autónomo con enunciados que precisan 
+del conocimiento de los parámetros de la situación de acción 
+para ser comprendidos y otros que no lo requieren: por un 
+lado, identificamos unidades lingüísticas que refieren al agente 
+productor (la flexión verbal en estoy y podemos), al momento (los 
+valores temporales en los verbos estoy, podemos) y al lugar de la 
+interacción (en Argentina), en consonancia con el tipo de 
+discurso interactivo.  
+Pero, por otro, registramos una frecuencia elevada de 
+unidades del tipo de discurso teórico como, por ejemplo, la 
+ausencia de formas no declarativas, la presencia de numerosas 
+construcciones pasivas con se (se utilizan) y el valor genérico de 
+las formas verbales (aumenta, se dan, revela, se utiliza, mata, es) que 
+supera a las formas verbales con valor deíctico de 
+simultaneidad (estoy y podemos). Cabe destacar que, como la 
+mayoría de las intervenciones de los argumentadores en los 
+debates de la esfera pública, en este segmento no registramos 
+unidades deícticas que refieren al interlocutor: 
+(3) “Estoy totalmente en contra de la tenencia de armas eh 
+por parte de los civiles eh en Argentina y en muchas partes 
+del mundo la tenencia de armas aumenta los índices de 
+violencia yyy también aumenta el número de muertes por 
+asesinatos eh homicidios y ya sean suicidios. Datos 
+estadísticos de la Encuesta Nacional de Formadores de 
+Riesgo en Argentina revela que el 54 por ciento de los 
+homicidios que se dan en Argentina se utilizan armas de 
+ 
+116 
+ 
+fuego eh y en este porcentaje de homicidios solo el 36 por 
+ciento se da en situaciones de robo, lo que quiere decir que 
+la mayoría de los casos de los homicidios no es un ladrón 
+que mata a una persona sino un civil que mata a otro civil 
+ya sea por una discusión o por un conflicto familiar, etc. / 
+eh en estas estadísticas podemos ver que darle un arma al civil 
+es darle un problema a la sociedad” [introducción de un 
+argumentador en el debate escolar sobre la tenencia legal de 
+armas]. 
+Por lo tanto, en los debates de ambas esferas de la actividad 
+humana, los segmentos a cargo del moderador son los que 
+configuran un exponer implicado; en cambio, en aquellos 
+segmentos a cargo de los argumentadores, la planificación 
+textual se organiza en torno a un exponer parcialmente 
+autónomo. De acuerdo con esta caracterización, el discurso 
+interactivo que reconocemos en las intervenciones del 
+moderador -que es quien abre y cierra el debate- funcionaría 
+como marco de todo el texto (tipo mayor o englobante) en el 
+cual se insertan los segmentos del tipo de discurso mixto 
+interactivo-teórico a cargo de los argumentadores (tipo 
+menor). La superposición entre ambos tipos del orden del 
+exponer se delimita formalmente por el cambio de turno de 
+habla entre los agentes productores que intervienen. 
+Sin embargo, registramos una variación de los tipos de 
+semiotización durante el momento de la discusión de los 
+debates escolares cuyas intervenciones configuran un tipo 
+interactivo puro, el cual a su vez funciona como marco de 
+enunciados de los tipos mixto interactivo-teórico y teórico. 
+En efecto, en el siguiente fragmento (4), en casi la totalidad 
+de los enunciados se lee un discurso en situación debido a que 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+identificamos numerosas unidades lingüísticas que remiten 
+explícitamente a los distintos parámetros materiales de la 
+situación de interacción: pronombres de primera yo, me y 
+segunda persona vos, te que refieren a los argumentadores que 
+interactúan, adverbios demostrativos como acá que remiten al 
+lugar de la interacción y la presencia de formas no declarativas 
+(mayormente interrogaciones directas ¿Esa encuesta fue hace 10 
+años? y algunas indirectas cómo te pensás que la consigue). 
+Además, el uso de los tiempos verbales presente y pasado 
+asume mayormente los valores de simultaneidad (creo, hablás) y 
+anterioridad (centré, dije, mencionaron) respecto del tiempo de la 
+interacción. Del mismo modo, las perífrasis verbales ‘estar más 
+gerundio’ presentan una acción presente en desarrollo (estamos 
+hablando). 
+(4) “Argumentador 1: Bien, quería comenzar el debate 
+preguntando eh, y creo que los tres mencionaron lo de los fines 
+defensivos, eh vos M. mencionaste lo de hacer mención y solo 
+mostrar el arma. Yo quería preguntarte cómo podés explicar 
+que haya tantas muertes siendo tus estadísticas eh que 
+demuestran que solo se hace mención o solo se muestra el 
+arma. ¿Cómo se explican tantas muertes por abuso de tenencia de 
+armas?  
+ 
+Argumentador 4:  Eh, yo me centré en casos de robos y 
+a veces se disparan. 
+ 
+Argumentador 1: Claro, bien, los casos de robo 
+representan el 25 % del abuso de armas, eso lo dije en la 
+postura, lo dijo C. (argumentador 2), por la Dirección 
+Nacional de Política Habilitante. El 75 %, que es la 
+mayoría, se da en situaciones pocas esclarecidas de 
+enfrentamientos interpersonales, de barras, de pandillas, 
+venganzas, mafias. Eh entonces, de cada cuatro personas 
+ 
+118 
+ 
+que mueren por tenencia de armas, eh por abuso de 
+tenencia de armas, solo una es en situación de robo. 
+ 
+Argumentador 6: Eh, te quiero decir que cuando vos 
+hablás de mafia ahí pertenece al tráfico ilegal de armas, y el 
+tráfico ilegal es mundial, no depende de Argentina si va a 
+probarse acá.    
+ 
+Argumentador 1: No, es solamente tráfico ilegal de 
+armas. 
+ 
+Argumentador 6: Sí, una mafia cómo te pensás que la 
+consigue, no la va a tener declarada. 
+ 
+Argumentador 1: Bien, según el Global Fi Defts del 
+año 2000 y 2005 eh esta institución tomó 112 países de los 
+cuales mueren mayor cantidad de personas por eh armas de 
+fuego. Argentina está en el puesto 12, vienen los traficantes 
+ilegales de armas, estamos arriba de Estados Unidos, los 
+traficantes ilegales de armas, Colombia, Venezuela, Brasil y 
+venimos nosotros, ¿cómo se explica? 
+ 
+Argumentador 6: ¿Del tráfico? 
+ 
+Argumentador 1: No, no, no, de las muertes, ningún 
+tráfico. 
+ 
+Argumentador 6: Y bueno, por eso está, el tema de la 
+tenencia de armas es para defenderse justamente. 
+ 
+Argumentador 2: Estamos hablando de que el 25 % de 
+esa encuesta las personas mueren, ¿y el otro 75%? 
+ 
+Argumentador 4: ¿Esa encuesta fue hace 10 años? 
+[fragmento de los primeros minutos de la etapa de 
+discusión del debate sobre la tenencia legal de armas]. 
+El único aspecto funcional/praxeológico que varía en el 
+debate escolar remite al modo que asume la toma de la palabra. 
+Así, en la introducción y conclusión las intervenciones de los 
+argumentadores se realizan en un turno de habla reglado, sin 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+interrupción y con un tiempo preestablecido y regulado por el 
+moderador. Por el contrario, en la etapa de discusión el 
+intercambio no presenta turnos fijos, los argumentadores se 
+pueden interrumpir y el tiempo estipulado es sobre la totalidad 
+del momento de la discusión (entre 10 y 15 minutos) pero no 
+sobre la toma de la palabra individual. Por otro lado, el 
+moderador 
+solo 
+interviene 
+para 
+evitar 
+solapamientos 
+prolongados y para que se respeten las pautas del debate: 
+“Chicos, bajen la voz” [debate sobre la reelección presidencial]. 
+ 
+4.2. Secuencias textuales  
+ 
+En los debates de ambas esferas de la actividad humana, el 
+contenido temático de las intervenciones de los moderadores 
+se organiza en una secuencia dialogal, en tanto que, en el caso 
+de los argumentadores, el contenido temático se realiza en una 
+secuencia argumentativa. Según este esquema de alternancia, el 
+debate es un género composicionalmente heterogéneo cuyo 
+contenido temático se estructura en la articulación de las 
+secuencias dialogal y argumentativa que se combinan por 
+inserción 
+(Adam, 
+1992, 
+1995, 
+1999). 
+La 
+secuencia 
+argumentativa (secuencia insertada) se incrusta en la fase de 
+transacción de la secuencia dialogal (secuencia insertante): [sec. 
+dialogal [sec. argumentativa] sec. dialogal]. 
+Para el Interaccionismo socio-discursivo la secuencia 
+dialogal puede actualizarse de diversas maneras según la 
+complejidad de las inserciones jerarquizadas que en ella se 
+materialicen (Bronckart, 2004). Así, en el corpus estudiado la 
+ 
+120 
+ 
+fase de transacción de la secuencia dialogal se superpone con 
+operaciones destinadas a convencer ante un objeto discursivo 
+cuestionable por parte de los argumentadores cuyas 
+intervenciones se estructuran en una secuencia argumentativa. 
+Por otro lado, las fases de apertura y cierre de dicho 
+prototipo secuencial no conforman una unidad de intercambio 
+prototípica en los textos auténticos estudiados, sino que 
+presentan un intercambio que comprende un único turno de 
+habla a cargo del moderador, quien presenta la dinámica del 
+debate y a los participantes con los cuales no entra en contacto 
+de modo directo, como supone el prototipo secuencial 
+dialogal. En cambio, en sus intervenciones restantes -inscriptas 
+en la fase transaccional de la secuencia dialogal- este alterna su 
+participación con los argumentadores en distintas unidades de 
+intercambio en las cuales se co-construye el contenido 
+temático de la interacción verbal (cfr. infra 6). 
+La alternancia entre ambas secuencias se marca formalmente 
+por los cambios de turnos de habla de los interlocutores. Así, 
+el cambio de turno entre el moderador y el primer 
+argumentador que se anticipa al final de la fase de apertura de 
+la secuencia dialogal (subrayado en (5)) no solo señala el 
+cambio de fase de dicha secuencia -se inicia la fase de 
+transacción- sino que habilita la inserción de la secuencia 
+argumentativa a cargo del primer argumentador que hablará a 
+continuación (Gonzalo A.). 
+(5) “Hoy vamos a hacer un debate sobre la legalización de 
+la marihuana. Tenemos expositores a favor y en contra. 
+Los expositores a favor, están Gonzalo A., Martina M. y 
+Agustín A. y en contra Enzo A., Jeremías B. y Julieta R. La 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+metodología del debate es un minuto de introducción, diez 
+o quinces minutos de debate y un minuto de conclusión. 
+Hay reglas a seguir: respeto al oponente, no levantar el 
+tono de voz, no superponerse al que está hablando y no 
+levantarse de la mesa o escritorio. Antes de empezar la 
+introducción quiero saber quién está a favor de la 
+legalización de la marihuana [se dirige al público auditorio, 
+anota quién levanta la mano en cada caso], ¿en contra? y los 
+que no saben su postura. Listo. Bueno eh, daremos 
+comienzo inicio a la introducción. Va a empezar el señor 
+Gonzalo A.” [primera intervención del moderador en el 
+debate escolar acerca de la legalización de la marihuana]  
+La estructura del género tipificada por la literatura crítica 
+(presentación, discusión, conclusión y cierre) resulta coherente 
+con la combinación por inserción de ambos prototipos 
+secuenciales. La presentación, a cargo del moderador, se 
+organiza en torno a la fase de apertura de la secuencia dialogal, 
+según los usos y ritos del género debate. Por su parte, la 
+discusión y conclusión se estructuran en la fase transaccional 
+de la secuencia dialogal, en la cual se inserta la secuencia 
+argumentativa sin fases silentes. Por último, el cierre del debate 
+a cargo del moderador, coincide con la fase de cierre de la 
+secuencia dialogal que pone fin a la interacción, de acuerdo 
+con los usos y ritos de este género, es decir, sin contacto 
+directo o interacción con los demás participantes. 
+Los intercambios binarios de (6) entre el moderador y un 
+argumentador dejan en claro que el moderador es quien 
+coordina el debate y regula la interacción en una secuencia 
+dialogal, en correlación con el tipo de discurso interactivo; y el 
+argumentador busca convencer frente a un objeto discursivo 
+ 
+122 
+ 
+cuestionable en una secuencia argumentativa, en superposición 
+con el tipo de discurso mixto interactivo-teórico: 
+(6) TRANSACCIÓN Intercambio 3.      
+          -Moderador: -“Ahora en todo caso, la  Dra. Cuñarro 
+va a exponer su primera presentación”. 
+-Dra. Mónica Cuñarro: “Bueno, eh, la fórmula de 
+legalizar las drogas que está planteada en el programa no 
+puede ser factible porque para eso todos los estados de 
+naciones unidas deberían ponerse de acuerdo en la 
+legalización de las drogas, por lo tanto, es una pregunta 
+formulada al público que es imposible de contestar. Lo que 
+se está discutiendo es otra cosa, eh complicada. ¿Por qué? 
+Porque en Argentina desde el año 26’ solamente se ha abordado 
+el tema de las drogas, y su consumo, desde el derecho 
+penal, insisto, desde el derecho penal. Desde el año 26’, a 
+excepción de un quinquenio que es del 68’ al 70’ y pico, 
+hasta nuestros días con la ley vigente desde hace más de 20 años, 
+el abordaje eh sobre un fenómeno complejo que tiene 
+elementos culturales, antropológicos, educativos, de moral, 
+de derecho y económicos, solo han recibido de parte del 
+estado una respuesta y esa respuesta ha sido que la persona 
+que tiene un contacto ocasional, o abusa o es adicto es un 
+delincuente. Durante la dictadura militar, la corte dijo que era 
+un subversivo y ponía en juicio a la seguridad del estado 
+quien consumía pequeñas cantidades para consumo personal, 
+sin afectarse ni a sí mismo ni a terceros. Este fallo luego es 
+retomado por la corte durante la década del 90’ siguiendo 
+fallos de las cámaras criminales de los años 30’ y 68’ en 
+idéntica 
+medida. 
+El 
+binominio 
+siempre 
+fue 
+adicto/delincuente, adicto igual a traficante, adicto igual a 
+subversivo. La única excepción fue durante el gobierno del 
+Doctor Alfonsín, con los fallos Basterrica y Capalbo y con 
+el fallo de la corte actual que ordena adecuar la legislación en 
+ese punto, atento el fracaso porque no se ha logrado detener 
+el consumo, porque no hay un sistema sociosanitario que 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+atienda la problemática en su diversidad, porque no hay 
+campañas de prevención, porque no hay campañas de 
+inclusión y porque la gente que tiene mayores 
+padecimientos sea de sustancias legales e ilegales, y en 
+primer lugar van las legales, no tiene forma de que el estado 
+se haya ocupado de ellas porque en el medio se metió el 
+derecho penal desde hace 75 años” [intervención de la Dra. 
+Cuñarro en el debate público ¿Debe despenalizarse el 
+consumo de drogas? ]. 
+De esta manera, las propiedades de la acción verbal y del 
+género objeto de análisis influyen no solo en la distribución de 
+los tipos de discursos, sino también de las secuencias textuales. 
+En (6), el turno de habla a cargo del moderador -inserto en la 
+fase de transacción de la secuencia dialogal- presenta unidades 
+lingüísticas propias de un exponer implicado respecto de las 
+instancias de la situación de producción. En cambio, el turno 
+de habla de la argumentadora -inserto en la secuencia dialogal 
+que estructura este momento del debate, pero organizado en 
+las fases de premisa y argumentos de la secuencia 
+argumentativa- registra unidades prototípicas de un exponer 
+parcialmente autónomo. Es decir, la distribución entre 
+secuencias textuales y tipos de discursos depende de quién sea 
+el agente productor que interviene. 
+Ahora bien, como señalamos anteriormente, durante la 
+discusión de los debates escolares, los argumentadores tienen 
+que negociar la toma y posesión de la palabra con escasa 
+intervención del moderador, por lo tanto, sus enunciados se 
+inscriben en la fase de transacción de la secuencia dialogal, en 
+correlación con el tipo de discurso interactivo. Pero, al mismo 
+tiempo que regulan la interacción, buscan convencer ante un 
+ 
+124 
+ 
+objeto 
+cuestionable, 
+específicamente 
+refutan 
+a 
+sus 
+contrincantes, por ende, el contenido temático de sus 
+intervenciones se estructura en las fases de contra-argumentos 
+y refutación de la secuencia argumentativa, en interacción con 
+los tipos de semiotización mixto o teórico (cfr. en (4) la 
+segunda y cuarta intervención del argumentador 1). 
+En los debates de la esfera pública la toma de la palabra por 
+parte de los argumentadores no se superpone a una función de 
+auto-regulación en ningún momento; como consecuencia, la 
+secuencia argumentativa se inserta en una de las fases de la 
+secuencia dialogal. En cambio, en los debates escolares el 
+esquema de alternancia entre ambas secuencias es más 
+complejo debido a que se realiza por inserción, pero también 
+por fusión durante la instancia de discusión del debate (tabla 
+2). 
+ 
+Agentes productores Plano secuencial 
+Fases 
+ 
+Tipo de articulación 
+y de alternancia 
+Moderador 
+Secuencia dialogal 
+Apertura (1 turno de 
+habla) 
+Transacción 
+(unidades de 
+intercambio) 
+Cierre (1 turno de 
+habla) 
+ 
+Por inserción 
+(secuencia insertante) 
+Cambio de turno de 
+habla 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+Argumentadores 
+Secuencia 
+argumentativa 
+ 
+Secuencia dialogal 
+(transacción en la 
+discusión de los 
+debates escolares) 
+Premisa 
+Argumentos 
+Contra-argumentos 
+Refutación / 
+Transacción en la 
+discusión de los 
+debates escolares 
+Conclusión 
+Por inserción 
+(secuencia insertada) 
+Cambio de turno de 
+habla 
+ 
+Por fusión en la 
+etapa de discusión de 
+los debates escolares 
+Tabla 2: Configuración de los prototipos secuenciales según 
+los roles de los participantes. 
+ 
+En suma, el análisis del corpus de debates de ambas esferas 
+de la actividad humana revela que su infraestructura general se 
+conforma de modo heterogéneo y complejo por las 
+características funcionales/praxeológicas de este género oral 
+institucionalizado que determina la distribución sistemática de 
+los tipos de discursos y secuencias textuales según los roles de 
+los agentes involucrados -moderador y argumentadores-, 
+asociados cada uno a distintas finalidades (tabla 3). 
+ 
+Roles sociales de los 
+agentes productores 
+ 
+Tipos de discursos 
+del orden del exponer 
+Secuencias textuales 
+Moderador 
+ 
+Interactivo puro 
+Exponer implicado 
+Dialogal 
+ 
+126 
+ 
+Argumentadores 
+ 
+Mixto interactivo-teórico 
+Exponer parcialmente autónomo 
+(Interactivo en la instancia 
+de discusión de los debates 
+escolares) 
+Argumentativa 
+ 
+(Fase transaccional de la 
+secuencia dialogal en la 
+discusión de los debates 
+escolares) 
+Tabla 3: Composición discursiva de los debates según el rol 
+social y la finalidad de los participantes. 
+ 
+4.3. Razonamiento lógico-argumentativo en un diálogo 
+monologal artificial 
+ 
+La identificación del prototipo dialogal como secuencia 
+insertante del prototipo argumentativo -secuencia insertada- en 
+los debates estudiados coincide con la conceptualización de 
+parte de la literatura crítica, según la cual el debate es un 
+género oral de producción polilogal que se organiza en turnos 
+de habla sucesivos. 
+Según esta descripción, y de acuerdo con el enfoque del 
+ISD, el debate conformaría un exponer dialogado y se 
+caracterizaría “por la implicación de los parámetros físicos de 
+la acción verbal en curso” (Bronckart, 2004, p. 99). Por lo 
+tanto, su infraestructura general debiera configurarse en un 
+tipo de discurso interactivo puro, en correlación con la 
+organización dialogal de su contenido temático. 
+Sin embargo, según nuestro análisis, los segmentos de los 
+moderadores se inscriben en este tipo de discurso, pero en la 
+mayoría de las intervenciones de los argumentadores se 
+fusionan los tipos de discursos interactivo y teórico en un tipo 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+mixto. A su vez, para el ISD el tipo de discurso teórico -que en 
+el tipo mixto se fusiona con el interactivo- es mayormente 
+monologal y escrito -aunque puede ser oral- (Bronckart, 2004) 
+y el debate es un género oral que se organiza en turnos de 
+habla sucesivos entre el moderador y dos o más 
+argumentadores y, por lo tanto, asumiría forma de polílogo. 
+En este punto consideramos que las condiciones 
+particulares de la situación de comunicación y las restricciones 
+que el género debate establece respecto de la toma de la 
+palabra determinan, por un lado, una configuración de diálogo 
+y no de polílogo, pese a que participan más de dos agentes, 
+debido a que la dinámica de sucesión de los turnos de habla 
+implica que el moderador intervenga en los intercambios para 
+asignar la palabra y los argumentadores no interactúen de 
+modo directo entre sí (con excepción de la discusión de los 
+debates escolares). 
+Por otro, aunque en los debates estudiados se produce una 
+interacción entre distintos participantes que alternan su 
+palabra, la caracterización de sus intervenciones como textos 
+con forma de diálogo debiera precisarse. Principalmente 
+respecto del modo como se efectúa dicha sucesividad porque 
+entendemos que el estatuto obligado y reglado de los turnos de 
+habla asemeja la mayoría de los enunciados a un monólogo en 
+el sentido de que no se presentan interrupciones, enunciados 
+inconclusos, solapamientos, propios del diálogo en su forma 
+natural o extrema (Jakubinskij, 2015). Por lo tanto, aunque la 
+estructura global es dialógica porque un turno de habla sigue a 
+otro (sucesividad), la realización de cada turno de habla es 
+continuada (forma de monólogo) (Bronckart, 2004). 
+ 
+128 
+ 
+Así, en (7), la Dra. Cuñarro expone su punto de vista; sin 
+embargo, no alterna su turno de habla directamente con el Dr. 
+Granero (el otro argumentador), sino mediada por el 
+moderador. Por otro lado, aunque se registran intercambios 
+rápidos y breves entre el moderador y un argumentador (el Dr. 
+Granero), las extensas intervenciones en las cuales los 
+argumentadores defienden su posición respecto del tema que 
+es objeto de discusión son las que constituyen la dinámica 
+principal del género. 
+(7) -Moderador: “Esa fue, le quedaban tres segundos”. 
+ 
+-Dr. Granero: “Está bien”. 
+ 
+-Moderador: “Se los concedo después”. 
+ 
+-Dr. Granero: “No, está bien”. 
+ 
+-Moderador: “Ahora en todo caso, la Dra. Cuñarro va 
+a exponer su primera presentación”. 
+ 
+-Dra. Mónica Cuñarro: “Bueno, eh, la fórmula de 
+legalizar las drogas que está planteada en el programa no 
+puede ser factible porque para eso todos los estados de 
+naciones unidas deberían ponerse de acuerdo en la 
+legalización de las drogas, por lo tanto, es una pregunta 
+formulada al público que es imposible de contestar. Lo que 
+se está discutiendo es otra cosa, eh complicada. ¿Por qué? 
+Porque en Argentina desde el año 26’ solamente se ha 
+abordado el tema de las drogas, y su consumo, desde el 
+derecho penal, insisto, desde el derecho penal. Desde el 
+año 26’, a excepción de un quinquenio que es del 68’ al 70’ 
+y pico, hasta nuestros días con la ley vigente desde hace 
+más de 20 años, el abordaje eh sobre un fenómeno 
+complejo que tiene elementos culturales, antropológicos, 
+educativos, de moral, de derecho y económicos, solo han 
+recibido de parte del estado una respuesta y esa respuesta 
+ha sido que la persona que tiene un contacto ocasional, o 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+abusa o es adicto es un delincuente. Durante la dictadura 
+militar, la corte dijo que era un subversivo y ponía en juicio 
+a la seguridad del estado quien consumía pequeñas 
+cantidades para consumo personal, sin afectarse ni a sí 
+mismo ni a terceros. Este fallo luego es retomado por la 
+corte durante la década del 90’ siguiendo fallos de las 
+cámaras criminales de los años 30’ y 68’ en idéntica medida. 
+El binominio siempre fue adicto/delincuente, adicto igual a 
+traficante, adicto igual a subversivo. La única excepción fue 
+durante el gobierno del Doctor Alfonsín, con los fallos 
+Basterrica y Capalbo y con el fallo de la corte actual que 
+ordena adecuar la legislación en ese punto, atento el fracaso 
+porque no se ha logrado detener el consumo, porque no 
+hay un sistema sociosanitario que atienda la problemática 
+en su diversidad, porque no hay campañas de prevención, 
+porque no hay campañas de inclusión y porque la gente que 
+tiene mayores padecimientos sea de sustancias legales e 
+ilegales, y en primer lugar van las legales, no tiene forma de 
+que el estado se haya ocupado de ellas porque en el medio 
+se metió el derecho penal desde hace 75 años” 
+[intervención de dos minutos y medio]. 
+-Moderador: “Quedaban treinta segundos. ¿Los quiere 
+usar?”. 
+-Dra. Cuñarro: “No”. [...]. [intervenciones del debate de la 
+esfera pública ¿Debe despenalizarse el consumo de 
+drogas?].  
+A su vez, los enunciados de la Dra. Cuñarro en (7) no 
+pueden tipificarse como una reacción espontánea sin reflexión 
+previa y, por lo tanto, tampoco conforman un acto voluntario 
+simple, fuera del control de la conciencia y de la atención. En 
+suma, la dinámica de interacción que identificamos en los 
+debates de nuestro corpus no se adecua al automatismo del 
+habla dialogal en su forma natural o extrema sino que componen 
+ 
+130 
+ 
+lo que Jakubinskij (2015) tipifica como diálogo monologal, es 
+decir, un intercambio de monólogos.  
+En trabajos anteriores (Navarro, 2018) hemos señalado que 
+la elección del término monologal para identificar una forma 
+dialógica no extrema subraya su estatuto artificial (o no natural) el 
+cual  
+se caracteriza por su extensión, por una construcción compleja de la 
+secuencia verbal, por el carácter unilateral de la enunciación, que no 
+espera una réplica inmediata, como por la presencia de una finalidad y 
+de una reflexión previa (Jakubinskij, 2015, pp. 64-65)4.  
+En este sentido, la forma verbal diálogo monologal concebida 
+por Jakubinskij (2015) se identifica con lo que Schneuwly 
+denomina diálogo artificial o “formas complejas y reguladas de 
+diálogo” que “implican la escucha, la no interrupción, la 
+planificación de lo que se va a decir y la anticipación de sus 
+efectos” (1997, p. 95). 
+Para Jakubinskij (2015), las situaciones que despliegan un 
+diálogo monologal precisan de factores externos que determinen 
+el desplazamiento de las condiciones de comunicación 
+habituales del diálogo en su forma extrema: un presidente de 
+sesión que organiza la asignación de los turnos de habla y 
+regula, por lo tanto, la escucha. Conceptualiza estos rasgos 
+como señales del modo artificial de la forma verbal.  
+En nuestro caso, el carácter ordenado y metódico de la 
+interacción dirigida por un moderador (Avendaño, 2006) que 
+estipula la sucesión de los turnos de habla por alternancia, y no 
+por interrupción, sumado el parámetro físico ‘tiempo’ cuya 
+ 
+4 La traducción es nuestra. 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+limitación -y posibilidad- se ejerce sobre la palabra de los 
+participantes que argumentan, además de la restricción general 
+sobre la duración total de los debates, asemeja la mayoría de 
+los enunciados a un monólogo. 
+Cabe destacar que en la etapa de discusión de los debates 
+escolares (8) identificamos algunas características del diálogo 
+en su forma extrema como interrupciones (en cursiva) y 
+enunciados inconclusos o inacabados (subrayados) debido a 
+que la toma de la palabra por parte de los argumentadores se 
+ve condicionada por la función de auto-regulación que deben 
+ejercer, como por la negociación libre de los turnos de habla: 
+(8) Argumentador 4: La Fundación un mundo sin droga, el 
+último estudio eh científico en los Ángeles, lo tengo 
+también, en Estados Unidos, de la Sociedad Americana, o 
+sea [inconcluso]. 
+ 
+Argumentador 1: También hay un estudio que dice 
+que más del 99% de la gente que consume que es adicta a la 
+cocaína antes probó la marihuana así que ahí te dice todo. 
+ 
+Argumentador 3: Bueno, yo tengo estudios de la 
+Universidad de Yale que fue una investigación hecha en 
+2007 que dice que la mayoría de las personas, eh por 
+consumo de marihuana no prueba otras drogas. Eso lo dice 
+la Universidad de Yale, yo no lo digo. 
+ 
+Argumentador 4: Está bien, yo te dije que tengo unos 
+estudios más, está bien, o sea, eso lo dicen los estudios, 
+pero [inconcluso]. 
+ 
+Argumentador 2: Bueno, yo creo que el alcohol y el 
+tabaco que son productos eh que hoy están totalmente 
+legalizados sin ninguna crítica eh, aunque hay otras personas 
+que están en contra del tabaco y el alcohol, son tres veces 
+más perjudiciales a la salud que la consumición de 
+ 
+132 
+ 
+marihuana. En Argentina hay un promedio de 111 muertes eh a 
+causa del tabaco por día, y el alcohol es responsable de 2 punto 3 
+millones de muertes a causa de cirrosis hepática por año en todo el 
+mundo eh [lo interrumpen]. 
+ 
+Argumentador 4: Perdón, no, pero si estamos hablando 
+de esto que el alcohol y el tabaco ya le hacen un problema 
+gigante a la sociedad, ¿para qué le vamos a agregar a eso la 
+lesión de la marihuana? Estamos hablando de un problema 
+también, no estamos restando, estamos sumando [continúa 
+la etapa de discusión]. [discusión en el debate escolar sobre 
+la tenencia legal de armas]. 
+La conformación de un diálogo más semejante a su forma 
+verbal extrema en esta etapa de los debates escolares resulta 
+coincidente con el tipo de discurso interactivo que organiza el 
+contenido temático de sus enunciados, en correlación con la 
+fusión de las fases de transacción de la secuencia dialogal y de 
+refutación de la secuencia argumentativa (cfr. supra 4.1. y 4.2.) 
+En la tabla 4 sistematizamos la correlación entre los tipos de 
+discursos, su distribución con los prototipos secuenciales, y las 
+formas verbales categorizadas por Jakubinskij (2015) de 
+acuerdo con el modo en que los argumentadores asumen la 
+toma y posesión de la palabra en los debates de las esferas 
+pública y escolar.  
+Esferas de los 
+debates 
+auténticos 
+Tipos de 
+discursos 
+Secuencias 
+textuales 
+Gestión de la 
+toma de la 
+palabra 
+Formas verbales 
+Pública 
+Mixto 
+Argumentativa 
+Turno de habla 
+reglado, sin 
+interrupción y 
+con un tiempo 
+establecido 
+Diálogo 
+monologal 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+Escolar 
+Mixto e 
+Interactivo en la 
+discusión 
+Argumentativa y 
+dialogal en la 
+discusión 
+Turno reglado 
+Turnos libres en 
+la discusión 
+Turno reglado 
+Diálogo 
+monologal 
+Diálogo más 
+natural o  extremo 
+en la discusión 
+Diálogo 
+monologal 
+Tabla 4: Composición discursiva de los debates en correlación 
+con las formas verbales registradas. 
+ 
+5. Discusión y conclusiones  
+ 
+En consonancia con la hipótesis jerárquica de determinación 
+de los procesos verbales de arriba (social) hacia abajo 
+(lingüístico) del Interaccionismo socio-discursivo (Bronckart, 
+2004, 2007, 2013), concluimos que las regularidades relevadas 
+en nuestro corpus indican que la organización discursiva de 
+este género oral poligestionado combina los tipos de discursos 
+del orden del exponer (teórico, interactivo y mixto) en 
+distribución con las secuencias dialogal y argumentativa, como 
+consecuencia del género de texto en uso, como de las 
+condiciones de la situación de acción con la cual este se 
+articula. 
+En efecto, vinculamos el rol social del moderador con la 
+finalidad de la secuencia dialogal, en correlación con el tipo de 
+discurso interactivo; y el rol social de los argumentadores con 
+la orientación dialógica de la secuencia argumentativa, en 
+combinación con el tipo mixto interactivo-teórico. De esa 
+manera, las propiedades de estructuración secuencial del 
+ 
+134 
+ 
+género debate no se conciben disociadas de su estatuto de 
+práctica social (Bronckart, 2004). 
+Por eso, aunque coincidimos con el ISD en que existen 
+formas menores de planificación textual -que en este caso no 
+son relevantes-, entendemos que la consideración de los 
+prototipos 
+secuenciales 
+como 
+“accidentales” 
+en 
+la 
+composición textual se refiere a la categoría `texto´ en 
+términos generales, pero se redefine según cada género en 
+particular. Así, en los debates de ambas esferas de la actividad 
+humana, son las secuencias dialogal y argumentativa, con su 
+respectiva orientación dialógica, las que guían la producción e 
+interpretación del texto y organizan linealmente la mayor parte 
+de su contenido temático. 
+En este marco, interpretamos que la variación que 
+registramos en la etapa de discusión de los debates escolares 
+constituye una modalidad particular de adaptación de los 
+modelos sociales ‘tipos de discursos’ y ‘secuencias textuales’ 
+según la representación que los estudiantes que argumentan se 
+hacen respecto de la situación de acción que les exige la 
+consecución de una doble operación de regulación y 
+fundamentación, por lo que deben atender de forma 
+simultánea a mantener la toma de la palabra y a exponer 
+informaciones verdaderas. 
+Nos interesa destacar que la organización textual 
+diferenciada de forma sistemática en un mismo género de 
+texto, de acuerdo con el rol social del agente que interviene, 
+evidencia 
+que 
+el 
+plano 
+contextual 
+de 
+la 
+variante 
+diálogo/monólogo no puede desestimarse y suponer que todos 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+los textos son monogestionados (cfr. Bronckart, 2004, p. 114) 
+porque en este caso hay un correlato entre la organización de 
+la infraestructura general y la variante de producción polilogal. 
+De modo semejante, la forma que asume el diálogo en el 
+corpus estudiado exigiría revisar la relación entre los planos 
+contextual y textual de dicha variante porque nuestro análisis 
+refleja que no toda situación de interacción gestionada por más 
+de un agente productor (plano contextual) configura textos 
+con forma de diálogo auténtico (Bronckart, 2004, p. 118) o 
+natural, extremo (Jakubinskij, 2015) (plano textual). Como 
+consecuencia, la naturaleza poligestionada de géneros orales 
+como el debate, la conversación, la entrevista, entre otros, no 
+prefiguraría propiedades textuales semejantes en las formas de 
+construcción y estructuración del diálogo, sino que su 
+conformación depende de cada género en particular.  
+En esta instancia, postulamos que la caracterización binaria 
+del plano textual de la variante diálogo/monólogo (Bronckart, 
+2004) podría especificarse a partir de la diversidad funcional 
+del 
+habla 
+que 
+sistematiza 
+Jakubinskij 
+(2015) 
+cuya 
+categorización explica que en el género debate, el diálogo -
+regulado por un moderador- asume una forma artificial 
+monologal que permite el despliegue, por parte de los 
+argumentadores, de un razonamiento lógico-argumentativo, en 
+combinación con uno interactivo-dialógico, en enunciados 
+sucesivos pero con forma de monólogo.  
+En la misma línea de análisis, entendemos que la variación 
+registrada en la toma de la palabra durante la discusión de los 
+debates escolares, sumada a la doble función que en ella 
+ 
+136 
+ 
+cumplen los argumentadores, repercute en la composición 
+discursiva diferenciada del resto de sus intervenciones. Cabe 
+destacar, sin embargo, que en esta etapa identificamos 
+enunciados de los argumentadores que se inscriben en los tipos 
+teórico y mixto los cuales, de acuerdo con Bronckart (2004), 
+no se encuentran en distribución con la forma dialogal de 
+interacción o, como sostenemos en este trabajo, con la forma 
+dialogal natural, extrema o auténtica.  
+De hecho, pensamos que los enunciados de la discusión de 
+los debates escolares en los cuales se registra el tipo interactivo 
+puro no desarrollan un razonamiento práctico o de sentido 
+común (Bronckart, 2004) precisamente porque forman parte 
+de una situación de acción formal y planificada. Por eso, en 
+futuros trabajos consideraremos las formas verbales diálogo 
+natural o extremo y diálogo monologal como dispositivos de 
+análisis para determinar la distribución entre el plano textual de 
+la variante diálogo/monólogo y los tipos de discursos en 
+géneros de textos poligestionados como el debate debido a que 
+es la forma verbal diálogo monologal (Jakubinskij, 2015) la que 
+resulta coincidente con la composición heterogénea de los 
+textos auténticos analizados. 
+En este sentido, la caracterización del género por parte de la 
+literatura crítica y los documentos curriculares consultados -
+que hacen hincapié en el prototipo argumentativo- contrasta 
+con la importancia que reviste la forma verbal diálogo monologal 
+en el corpus de debates estudiado, cuya finalidad no puede 
+realizarse sin una dinámica regulada por el moderador. 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+Por otro lado, la descripción de la organización del 
+contenido temático en los textos analizados sistematiza el 
+modo particular en que se realizan los prototipos dialogal y 
+argumentativo en este género de texto. Por su parte, la 
+identificación de los tipos de discursos visibiliza los tipos de 
+razonamientos que la práctica del debate desarrollaría. 
+Por último, nos interesa subrayar que la sistematización de 
+las unidades lingüísticas que distinguen a los tipos de discursos 
+-que también desempeñan un papel en la marcación de las 
+secuencias textuales (Bronckart, 2004)- amplía particularmente 
+la descripción del plano lingüístico-epistémico del género, pero 
+en interacción con los planos praxeológico y discursivo. Ahora 
+bien, nuestro trabajo no pretendió proponer una clasificación y 
+modelización fija del debate, sino profundizar, desde el marco 
+teórico-metodológico del ISD, la organización discursiva de un 
+género de texto oral socialmente significativo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+138 
+ 
+Referencias Bibliográficas 
+Adam, J-M. (1992). Les textes: Types et prototypes. París: 
+Nathan. 
+—. (1995). “Hacia una definición de la secuencia argumentativa”. 
+Comunicación, Lenguaje y Educación, 25, 9-22. 
+—.(1999). Linguistique textuelle. Des genres de discours aux 
+textes. Paris: Nathan.  
+Avendaño, F. (2006). “Comprensión y producción de textos 
+orales en el aula”. Fernando Avendaño y Norma Desinano 
+(Eds.) Didáctica de las Ciencias del Lenguaje. Rosario: 
+HomoSapiens, 15‐44 
+Bajtín, M. (2008). “El problema de los géneros discursivos”. 
+Estética de la creación verbal. Buenos Aires: Siglo XXI, 245-
+290. 
+Bronckart, J-P. (2004). Actividad verbal, textos y discursos.  
+Madrid: Fundación Infancia y Aprendizaje. 
+—. (2007). Desarrollo del lenguaje y didáctica de las lenguas. 
+Buenos Aires: Miño y Dávila. 
+—. (2013). “En las fronteras del interaccionismo socio-
+discursivo: aspectos lingüísticos, didácticos y psicológicos”. 
+Dora Riestra, Stella Maris Tapia y Ma. Victoria Goicochea 
+(Comps.). 
+Terceras 
+Jornadas 
+Internacionales 
+de 
+Investigación y Prácticas en Didáctica de las lenguas y las 
+literaturas. Bariloche: Ediciones GEISE, 39-59.  
+Cárdenas, V. (2005).  “Hablar y calcular. (Im)posibilidades”. 
+Tópicos del Seminario, 14. México: Benemérita Universidad 
+Autónoma de Puebla, 181-214. 
+Ciapuscio, G. (2005). “Esquemas calificadores modales y 
+recursos léxico-gramaticales en la conferencia de divulgación 
+científica”. Boletín de la Academia Argentina de Letras, 70 
+(279-280), 373-392. 
+Paula Navarro. Las categorías tipos de discursos y secuencias textuales en el género de texto debate... 
+ 
+ 
+N° 14. Primer Semestre de 2021. 
+ 
+Cubo de Severino, L. (2012). “Organización del discurso e 
+inferencias prospectivas y retrospectivas. Marcadores de 
+ordenación versus marcadores de reformulación en el 
+coloquio de la defensa de tesis en español”. María Marta 
+García Negroni (Coord.). Actas del II Coloquio Internacional 
+Marcadores del discurso en lenguas románicas: un enfoque 
+contrastivo. 
+http://il.institutos.filo.uba.ar/sites/il.institutos.filo.uba.ar/fil
+es/MARCADORES%202012.pdf 
+Dolz, J. y Schneuwly, B. (1997). “Géneros y progresión en 
+expresión oral y escrita”. Textos de Didáctica de la Lengua y 
+de la Literatura, 11, 77-98. 
+Ducrot, O. y Todorov, T. (2003). Diccionario enciclopédico de 
+las ciencias del lenguaje. Buenos Aires: Siglo XXI. 
+Instituto Cervantes (2008). Saber hablar. Buenos Aires: 
+Aguilar. 
+Jakubinskij, L. (2015). Sobre a fala dialogal. Editado por Sériot 
+e Ivanova. São Paulo: Parábola Editorial. 
+García Negroni, M. M. y Hall, B. (2010). “Descripción e 
+interpretación de prácticas discursivas orales en estudiantes 
+universitarios. Estudio de casos”. Víctor Castel y Liliana Cubo 
+de Severino (Eds.). La renovación de la palabra en el 
+bicentenario de la Argentina. Los colores de la mirada 
+lingüística. Mendoza: Editorial FFyL, 933-940. 
+—. (2011). “Prácticas discursivas escritas y orales en contexto 
+universitario. Fragmentariedad y distorsiones enunciativas”. 
+María Marta García Negroni y otros (Coords.) Los discursos 
+del saber. Prácticas discursivas y enunciación académica. 
+Buenos Aires: Editoras del Calderón, 191-221. 
+Navarro, P. (2018). “Los aportes de la caracterización del 
+diálogo de Lev Jakubinskij al estudio de los géneros orales 
+institucionalizados. El caso del debate”. Eutomia, 21, 48-75.  
+ 
+140 
+ 
+Real Academia Española. (2010). Nueva gramática de la lengua 
+española. Manual. Buenos Aires: Espasa. 
+Schneuwly, B. (1995). “Diversificación y progresión en DFLM: el 
+aporte de las tipologías”. Articles de Didáctica de la Llengua i 
+de la Literatura, 4, 7-15. 
+Voloshinov, V. (2009). Marxismo y filosofía del lenguaje. 
+Buenos Aires: Godot.  
+ 
+Documentos curriculares nacionales: 
+Ministerio de Educación, Ciencia y Tecnología y Consejo Federal 
+de Educación. (2006). Núcleos de Aprendizajes Prioritarios 
+(NAP). Lengua. EGB. Nivel Medio 8o/1o y 9o/2o años. 
+República Argentina. 
+Ministerio de Cultura y Educación de la Nación. (2011). Núcleos 
+de 
+Aprendizajes 
+Prioritarios. 
+Lengua. 
+Ciclo 
+Básico. 
+Educación secundaria. 1° y 2° / 2° y 3°. República Argentina 
+ 
+ 
+  

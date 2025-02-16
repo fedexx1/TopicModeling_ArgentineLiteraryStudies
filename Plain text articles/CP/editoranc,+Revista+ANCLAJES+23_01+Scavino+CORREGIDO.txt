@@ -1,0 +1,606 @@
+61
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+Scavino, Dardo. “Fluctuaciones de la Independencia en la Carta de Viscardo y Guz­
+mán”. Anclajes, vol. XXIII, n.° 1, enero-abril 2019, pp. 61-74.
+DOI: 10.19137/anclajes-2019-2314
+Fluctuaciones de la 
+Independencia en la 
+Carta de Viscardo y 
+Gusmán
+Dardo Scavino
+Université de Pau et des Pays de l’Adour
+Francia
+dardo.scavino@orange.fr
+ORCID: 0000-0003-3518-6717
+Fecha de recepción: 14/02/2018 | Fecha de aceptación: 31/08/2018
+Resumen: en Carta a los españoles americanos Juan Pablo Viscardo y Gusmán entiende 
+la Independencia como renuncia a un pacto y como emancipación de una tutela. La fluc­
+tuación entre ambas interpretaciones corresponde a la referencia a dos tradiciones –la 
+neo-escolástica española y el pensamiento ilustrado–, pero también a dos narraciones 
+diferentes de la propia independencia.
+Palabras clave: Viscardo y Gusmán; Independencia; emancipación; criollos; Ilustración. 
+Fluctuations of Independence in the Letter of Viscardo and Gusmán
+Abstract: in Letter to the Spanish Americans, Juan Pablo 
+Viscardo y Gusmán understands 
+Independence as a renunciation of a covenant and as emancipation of a guardianship. 
+The 
+fluctuation between both interpretations corresponds to the reference to two tradi­
+tions –Spanish Neo-Scholasticism and Enlightenment thought–, but also to two different 
+narratives of independence itself.
+Keywords: Viscardo y Guzmán; Independence; emancipation; creole; Illustration. 
+Oscilações da Independência na Carta de Viscardo y Gusmán
+Resumo: em Carta a los españoles americanos Juan Pablo Viscardo y Gusmán entende 
+a Independência como renúncia a um pacto e como emancipação de uma tutela. A 
+oscilação entre ambas as interpretações corresponde à referência a duas tradições – a 
+neoescolástica espanhola e o pensamento iluminista –, mas também a duas narrações 
+diferentes da própria independência.
+Palavras-chave: Viscardo y Gusmán; Independência; emancipação; criollos; Iluminismo.
+62
+Dardo Scavino | 
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669
+Introducción
+D
+esde la publicación de Las doctrinas populistas en la Indepen­
+dencia Hispano-americana de Manuel Giménez Fernández, 
+los historiadores no están de acuerdo acerca de las teorías 
+políticas más influyentes. Si en el siglo XIX se habían privilegiado las lecturas 
+ilustradas de los próceres de la Independencia, a partir de 1947 un buen número 
+de historiadores destacaría el influjo de las doctrinas “pactistas” de Francisco de 
+Vitoria y Francisco Suárez (Dawyd 74; Stoetzer 48), sugiriendo que esta filiación 
+neoescolástica y preabsolutista habría tenido más peso sobre aquellos antiguos 
+estudiantes de las universidades jesuíticas y dominicas que las contemporáneas 
+teorías de Jean-Jacques Rousseau, Denis Diderot o Guillaume-Thomas Raynal. 
+Tulio Halperín Donghi, en cambio, recordaría en Tradición política española e 
+ideología revolucionaria de Mayo que esas revoluciones supusieron también una 
+interpretación revolucionaria de la política (157), novedad que Manuel Gimé­
+nez Fernández soslayaba con su referencia al populismo suareciano.
+Sin pretender zanjar este debate, nos proponemos abordar la lectura de una 
+de las primeras proclamas de la Independencia: Carta dirigida a los españoles 
+americanos de Juan Pablo Viscardo y Guzmán (en adelante, Viscardo). Pero, en 
+lugar de preguntarnos qué ideas influyeron en su autor, partimos de un interro­
+gante más elemental: “¿qué significaba, en este texto, independencia?”. Interro­
+garse acerca de la significación de un vocablo supone buscar, en un texto, los 
+significantes intercambiables con él. Y un discurso es, en buena medida, eso: un 
+sistema de equivalencias o permutaciones de significantes. La Carta fluctúa entre 
+dos respuestas divergentes: independizarse es, por un lado, renunciar a un pacto; 
+por el otro, emanciparse de una tutela. La primera equivalencia constituye una 
+prueba contundente de la impronta del “populismo” de Suárez; la segunda, pa­
+reciera una perogrullada. Pero la sinonimia entre independencia y emancipación 
+estaba lejos de resultar evidente a finales del siglo XVIII. Son precisamente auto­
+res como Viscardo o Francisco de Miranda quienes terminarían imponiéndola. 
+Y como intentaremos probarlo, esta sinonimia inscribe la Carta en el proyecto 
+ilustrado mucho más que cualquier presunta referencia al contractualismo. No 
+se trata, entonces, de conciliar las posiciones de los historiadores acerca de esta 
+cuestión, ni de ceder a la facilidad de evocar la hibridación o la mezcla, sino de 
+mostrar por qué la Carta fluctúa entre ambas acepciones de la independencia. 
+Renunciar al pacto
+Carta dirigida a los españoles americanos fue escrita por Viscardo en español a 
+mediados de 1791. Él mismo la tradujo al francés en septiembre de ese año para 
+enviársela a Sir James Burges (16). El embajador estadounidense en Londres, 
+Rufus King, poseía una copia que le había transmitido a Francisco de Miranda; 
+él se encargaría de publicarla en la capital británica, aunque con un pie de página 
+63
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669 | Fluctuaciones de la Independencia en la Carta de 
+Viscardo y Gusmán: 61-74
+de Filadelfia, destinado a disimular la complicidad del jesuita y de él mismo, 
+con el gobierno de William Pitt. A falta de la versión original de Viscardo, la 
+traduciría de nuevo al español para divulgarla entre los criollos a partir de 1801. 
+Viscardo había muerto tres años antes, después de proponerle en vano a Burges 
+un plan para que una flota inglesa ocupara un puerto sudamericano y promovie­
+ra, desde allí, la revolución de independencia. 
+Es cierto que desde finales del siglo XVI un conjunto de documentos testi­
+monian el conflicto entre españoles americanos y europeos y que este conflicto 
+había ido agravándose, como lo subraya Viscardo, con las medidas de discri­
+minación administrativa y de monopolio comercial tomadas por los Borbones. 
+Y es cierto también, que las insurrecciones de Túpac Amaru en Perú y de los 
+Comuneros en Santa Fe, a las que el jesuita arequipeño no deja de referirse, eran 
+un síntoma palmario del clima de descontento que reinaba en los territorios 
+americanos bajo dominación de los Borbones. Pero aquellas algaradas no tenían, 
+necesariamente, el objetivo de independizar Hispanoamérica (Guerra 137), del 
+mismo modo que hoy una sublevación, y hasta una insurrección armada, no 
+buscan siempre constituir un país independiente. El propio Viscardo temía que 
+si España lograba “ganarse el afecto de los colonos”, suprimiendo las medidas 
+que los perjudicaban, “la Independencia en sí no sería un gran anzuelo para 
+ellos” (Obra Completa 1 57). Por eso, le aconsejaba al gobierno de Pitt apresurar­
+se a invadir las colonias españolas y “declararlas independientes” (Obra Completa 
+1 21) antes de que Madrid volviera a granjearse la simpatía de sus súbditos. 
+Podría decirse incluso que, a finales del siglo XVIII los españoles americanos 
+no sabían cuál era la unidad que debía desprenderse de aquella otra, mayor: el 
+Imperio. Los criollos, después de todo, se consideraban españoles por la sangre 
+y descendientes de conquistadores. A pesar de esto, el jesuita debía convertir 
+la diferencia entre españoles americanos y no-americanos en un antagonismo 
+inconciliable, muchísimo más importante que la distinción entre americanos 
+españoles y no-españoles (Scavino Narraciones de la independencia 57), a pesar 
+de que él mismo recordaba en una misiva anterior que, si los criollos no habían 
+apoyado masivamente la rebelión de Túpac Amaru, se debía a que “despreciando 
+soberanamente a los indios, no estaban dispuestos a aceptar a uno de ellos por 
+amo” (Obra Completa 1 260). 
+José María Portillo Valdés sostenía en un artículo reciente que la noción de 
+independencia se encuentra en el Derecho de gentes de Emer de Vattel, publi­
+cado en Suiza diez años antes de la expulsión de Viscardo (141). “Del mismo 
+modo que las naciones están compuestas de hombres naturalmente libres e 
+independientes”, explicaba este jurista, “las Naciones o los Estados soberanos 
+deben ser considerados como personas libres que viven entre ellas en estado 
+de naturaleza”. Es decir, sin subordinarse a las leyes civiles de alguno de ellos 
+o limitándose a respetar la ley natural, este pensador helvético explica por qué 
+el ius gentium no era sino una variante del derecho natural (Vattel 77). Pero la 
+independencia de Vattel se adecuaba bastante mal a la estrategia de Viscardo 
+64
+Dardo Scavino | 
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669
+para defender a los criollos. Los virreinatos españoles no eran naciones diferen­
+tes de España, de modo que la Corona no estaba violando el derecho de gentes 
+por el hecho de ejercer su soberanía sobre sus propios territorios. El argumento 
+de la independencia hubiera servido para llevar a cabo una crítica del derecho 
+de conquista, crítica que dos siglos antes había formulado el fundador del ius 
+gentium moderno, Francisco de Vitoria, y que sería retomada a inicios del siglo 
+XIX por varios revolucionarios. Pero criticar el derecho de conquista signifi­
+caba, para Viscardo, debilitar el fundamento mismo de su alegato en favor de 
+quienes, invocando su condición de descendientes de los conquistadores, re­
+clamaban el cumplimiento de las capitulaciones que los reyes españoles habían 
+firmado con sus ancestros.
+San Agustín había asegurado que “obedecer a sus reyes es un pacto general 
+de la sociedad humana”. Francisco Suárez infería de esta cita que “el poder de 
+los reyes y la obediencia que se les debe, tiene su fundamento en un pacto de la 
+sociedad humana”, lo que significaba “que no tiene su origen en la inmediata 
+institución divina, pues el pacto humano se contrae por voluntad de los hom­
+bres” (Suárez 26). A través de ese pacto, el pueblo –depositario de la soberanía–, 
+le “traslada” a un monarca “la carga y obligación” de gobernarlo y “administrar 
+justicia” (26). A este pacto, Suárez lo denomina también “contrato o cuasicon­
+trato” (30); pero no se trata de un pactum societatis, como en Rousseau, sino de 
+un pactum subjectionem. No son los individuos quienes suscriben entre sí un 
+contrato para constituir una sociedad, sino la sociedad la que suscribe uno con 
+el príncipe. El teólogo jesuita estima, es cierto, que una vez “entregado” el poder, 
+el pueblo ya no puede reclamar su restitución, a menos que “el rey cambiara en 
+tiranía su legítimo poder, abusando de él para ruina manifiesta del Estado” por­
+que el pueblo “nunca ha renunciado a este derecho” (35). 
+Citando al historiador zaragozano Jerónimo Blancas, Viscardo recordaba que 
+en la Constitución de Aragón “si el rey violaba los derechos y privilegios del 
+pueblo, el pueblo podía legítimamente extrañarlo [le méconnoître] y, en su lugar, 
+nombrar otro, aunque fuese de religión pagana” (Carta 83; Obras Completas 2 
+336). Las capitulaciones les habían dado a los reyes de España “el imperio del 
+Nuevo Mundo, bajo condiciones estrictamente estipuladas” (79), y estas condi­
+ciones eran los “derechos y privilegios” (83) que los conquistadores y sus des­
+cendientes obtenían a cambio. Como la Corona no cumplió con su parte del 
+convenio, los criollos podían “renunciar” a él: “renunciemos al ridículo sistema 
+de unión y de igualdad con nuestros amos y tiranos; renunciemos a un gobierno, 
+cuya lejanía tan enorme no puede procurarnos, aun en parte, la ventaja que todo 
+hombre debe esperar de la sociedad de que es miembro” (89). Porque “renun­
+ciar a un pacto”, o incluso “renunciar un pacto”, significaba por aquel entonces 
+“apartarse de él”, y esa expresión se empleaba, sobre todo, para aludir al pacto 
+con el demonio: Pactum daemonis renunciare (RAE Diccionario de Autoridades).
+Esta interpretación de la independencia comportaba, aun así, dos dificulta­
+des. Renunciando al pacto, los criollos renunciaban también a aquellos “dere­
+65
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669 | Fluctuaciones de la Independencia en la Carta de 
+Viscardo y Gusmán: 61-74
+chos y privilegios”, entre los cuales se encontraban los “empleos que en rigor nos 
+pertenecen exclusivamente” (79) por constituir la recompensa “a los que habían 
+contribuido a extender los dominios de la nación” (74). Renunciando al pacto, 
+los criollos también renunciaban a las preeminencias en cuyo nombre lo rom­
+pían. Y, por eso, hasta último momento, los representantes criollos en la Junta 
+de Sevilla o en las Cortes de Cádiz tratarían de obtener una restitución de esas 
+prerrogativas sin llegar a la ruptura con España. Pero emprender una revolución 
+contra España en nombre de esta restitución significaba, además, dejar afuera a 
+la mayoría de la población, los indios, o convocarlos a participar en un proceso 
+que se saldaría por el restablecimiento de la supremacía criolla. Viscardo tenía 
+que encontrar un argumento que, por un lado, conservara el legado de los con­
+quistadores y, por otro, permitiera una alianza con los indios. 
+Emanciparse de una tutela
+Hacia la mitad de Carta Viscardo sustituye la equivalencia entre independen­
+cia y renuncia por una equivalencia entre independencia y emancipación. Pero 
+ya no puede ampararse en ninguna autoridad del derecho político. Debe limitar­
+se a invocar una norma del ius privatum y proceder por semejanza: “Semejante 
+a un tutor malévolo [tuteur pervers] que se ha acostumbrado a vivir en el fasto y 
+opulencia a expensas de su pupilo”, escribe, “la España con el más grande terror 
+ve llegar el momento que la naturaleza, la razón y la justicia han prescrito para 
+emanciparnos de una tutela tan tiránica” (Carta 82; Obras Completas 2 334). 
+La frase resulta ambigua en español porque podríamos entenderla como si la 
+naturaleza, la razón y la justicia hubieran prescripto el momento “para que nos 
+emancipemos” de esa tutela, lo que significaría que el sujeto del verbo coincide 
+con el objeto directo: “que nosotros, los criollos, nos emancipemos”. Pero, cuan­
+do leemos la versión francesa, esta ambigüedad se despeja: “…le moment que 
+la nature, la raison, la justice ont prescrit pour nous émanciper d’une tutelle aussi 
+tyrannique” (Obras Completas 2 334). No son los criollos quienes se emancipan 
+a sí mismos, sino la naturaleza, la razón y la justicia quienes los emancipan en el 
+momento en que ellas prescribieron. Cuando el verbo emancipar aparece por se­
+gunda vez en la traducción de Miranda, la ambigüedad se repite. El venezolano 
+traduce un pasaje en que Viscardo está hablando de la relación de filiación entre 
+España y los criollos y sostiene, a propósito de la enorme distancia que separa al 
+padre de su vástago, que “el hijo está emancipado por el derecho natural” (Carta 
+90). El verbo estar nos autorizaría a interpretar la frase como si Viscardo estuvie­
+ra diciendo que el hijo se encuentra emancipado si se tiene en cuenta el derecho 
+natural. Pero la frase francesa vuelve a despejar las dudas: “Le fils est émancipé par 
+le droit naturel” (Obras Completas 2 348), de modo que se trata de una voz pa­
+siva en que el derecho natural es el agente. En el manuscrito original, de hecho, 
+Viscardo había escrito la proposición en voz activa: “Le droit naturel émancipe en 
+tel cas le fils” (Obras Completas 2 429). 
+66
+Dardo Scavino | 
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669
+El Diccionario de la Academia explicaba en 1789 que “emancipar” era una 
+“voz forense” que significaba “sacar el padre al hijo de su poder, dimitirle de su 
+mano y ponerle en libertad, para que él por sí obre, dirija y gobierne sus cosas” 
+(RAE Nuevo Tesoro Lexicográfico). Hasta finales del siglo XIX los diccionarios 
+de la lengua castellana propondrían una definición similar que parecía excluir 
+la forma reflexiva, emanciparse a sí mismo, desde el momento en que el emanci­
+pador no era ni el hijo ni el esclavo, sino el pater familias (o, en su defecto, un 
+magistrado). La emancipación era el momento en que los hijos, los pupilos o los 
+servidores se veían liberados del mancipium de un tutor y pasaban de la condi­
+ción de menores alieni iuris, al estatuto de mayores sui iuris. Es, en ese preciso 
+momento, que los jóvenes estaban en condiciones de recibir la herencia de sus 
+padres sin depender de la administración de un tutor. Un grupo de hermanos 
+hubiese podido decir, por aquel entonces: “Nuestro padre decidió emancipar­
+nos”. Pero la primera persona del plural parecía excluir, en estos casos, a los 
+miembros de un pueblo o una clase, a menos que se los imaginara como hijos de 
+un mismo padre: el rey de España. 
+Habrá que esperar a 1895 para que el Diccionario enciclopédico de la lengua 
+castellana de Elías Zerolo defina el verbo emancipar como “liberar de la patria 
+potestad, de la tutela o de la servidumbre”; pero también, y “por extensión”, 
+como “liberar a un Estado, nación, agrupación o individuo de la tutela o yugo de 
+un poder absorbente” (RAE Nuevo Tesoro Lexicográfico). Para ilustrar esta acep­
+ción Zerolo cita una frase de Mariano José de Larra, escrita en 1836: “Aquellos 
+trastornos políticos parciales acabaron de emancipar el pueblo” (Nuevo Tesoro 
+Lexicográfico). Aunque estos “trastornos políticos” hubieran sido provocados por 
+el pueblo emancipado, Larra no lo identifica aún con el sujeto de la frase. Pero 
+antes de que el Fígaro español escribiera esa sentencia, Francisco de Miranda 
+le había explicado a Pitt en una carta de 1791 que las insurrecciones de Túpac 
+Amaru en Lima y de los Comuneros en Santa Fe mostraban “claramente cuán 
+madura estaba la masa general del pueblo para la emancipación, si los delicados 
+puntos de religión e independencia se les explicaban y aseguraban apropiada­
+mente” (112). La alusión a la “madurez” del pueblo hispanoamericano nos per­
+mite presumir que el venezolano empleaba todavía el sustantivo emancipación 
+por analogía con la institución jurídica: del mismo modo que, llegados a la ma­
+yoría de edad, los jóvenes se encuentran listos para emanciparse de los padres o 
+tutores, los españoles americanos podían liberarse de la tutela colonial de España 
+y gobernarse a sí mismos.
+En su edición de 1787 el Dictionnaire critique de la langue française entendía 
+que émanciper (Féraud 49) significaba, literalmente, “mettre un fils ou une fille 
+hors de la puissance paternelle, et mettre un mineur en état de jouir de ses revenus” 
+(poner a un hijo o una hija fuera de la potestad paterna, y poner a un menor 
+en estado de gozar de su sucesión). Por ejemplo: “Son père l’a émancipé” (Su 
+padre lo ha emancipado). La acepción política de este vocablo tampoco se en­
+cuentra en las muy exhaustivas ediciones de 1755 y de 1772 de la Encyclopédie 
+67
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669 | Fluctuaciones de la Independencia en la Carta de 
+Viscardo y Gusmán: 61-74
+de D’Alembert y Diderot (Dictionnaire raisonné des sciences, des arts et des mé­
+tiers). Antoine-Garpard Boucher d’Argis había escrito aquí ocho artículos sobre 
+la noción de émancipation: emancipación de los menores, anastasiana, antigua, 
+contracta fiducia, de la mujer, del hijo, justinianea y tácita. Todos, sin excepción, 
+se inscriben explícitamente en la rúbrica de la ciencia jurídica y los derechos 
+familiares.
+Ni el verbo inglés emancipate ni el sustantivo emancipation figuraban en la 
+Declaración de Independencia de Boston, y hasta 1777 los founding fathers em­
+pleaban por lo general estos vocablos para intervenir en el debate sobre la aboli­
+ción de la esclavitud, aunque se tratara de una decisión política que concernía a 
+la mayoría de los afroamericanos, su consecuencia habría sido la emancipación 
+de los individuos, y no la liberación de un pueblo en su conjunto, sin contar con 
+que esta emancipación tampoco situaba a los esclavos en la posición de sujetos 
+–ni políticos, ni gramaticales–, lo que descartaba la posibilidad de un emancipate 
+themselves y, sobre todo, de un emancipate ourselves. En una carta de 1777 John 
+Adams le explicó a su hijo Quincy que las Provincias Unidas de los Países Bajos 
+“emancipates themselves from the Domination of Spain” (289), y, como lo haría 
+Viscardo, erigía esta confederación en ejemplo para los Estados Unidos (Quijada 
+61). Apenas un año después George Washington le envió un mensaje al britá­
+nico John Jay para referirse a la “emancipation of Canada” (Washington 404) y 
+a la conveniencia de que este país adhiriese a la flamante Unión independiente. 
+El propio Jay le escribiría en 1784 al gobernador de Carolina del Norte que “it 
+evidently is our interest to emancipate ourselves, with the utmost expedition, from a 
+dependence that is both injurious and disgraceful to us” (Washington 219).
+Un fenómeno similar, de hecho, puede verificarse en una expresión estrecha­
+mente vinculada con la emancipación, self-government, traducción del latín sui 
+iuris o emancipatus (Scavino “Colonialidad del poder ” 141). En los escritos de 
+Benjamin Franklin o de John Adams anteriores a la independencia, este término 
+tenía una significación jurídica y moral, y concernía, como consecuencia, a las 
+personas individuales, no a los pueblos. En 1756, por ejemplo, Adams hace el 
+elogio de los hábitos de “Temperance, Recollection and self Government” ( The 
+Adams Papers, Diary and Autobiography 23) de las personas honradas. En 1763 
+vuelve a referirse a sus disposiciones de “Virtue, Self Government and Piety” (40). 
+Habrá que esperar a 1772 para que Franklin le recuerde a James Bowdoin que 
+el parlamento de las colonias puritanas tenía un “self-government” (The Papers 
+of Benjamin Franklin 19 11) limitado por la corona británica. La expresión re­
+aparece en 1776 cuando el Congreso envía una comisión para persuadir a los 
+canadienses de integrar la nueva Unión e instruirlos “in American ways of self-
+government” (The Papers of Benjamin Franklin 22 382). Pero el principal promo­
+tor del self-government en Estados Unidos, Thomas Jefferson, seguiría apelando 
+durante años a la comparación entre los individuos y los pueblos. A propósito 
+de la emancipación o la autodeterminación en 1790 escribía: “Every man, and 
+every body of men on earth, possesses the right of self-government” (Jefferson 196); 
+68
+Dardo Scavino | 
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669
+resumiendo en una fórmula sencilla la analogía entre lo jurídico y lo político, 
+entre “cada hombre” y “cada cuerpo de hombres”, aunque este derecho al self-
+government individual no se extendiera, por entonces, ni a los niños, ni a los 
+locos, ni a las mujeres, ni a los esclavos afroamericanos.
+Todo pareciera indicar entonces que Viscardo se inspira en los revoluciona­
+rios estadounidenses cuando compara a la independencia con la emancipación. 
+Y, como si hubiera sabido que sus destinatarios –los criollos– no estaban muy 
+“familiarizados” con esta inusual acepción del vocablo, sigue proponiendo una 
+analogía entre el orden jurídico y político, entre el sujeto individual (“hijo”, 
+“esclavo”) y el colectivo (“nosotros”, “pueblo”), entre el “tutor malévolo” y la 
+“tiranía”, entre la “minoridad” y las “cadenas”, hasta llegar a ironizar, como cuan­
+do habla de “la vigilancia paternal del gobierno por nuestra prosperidad (cuyas 
+dulzuras nos hecho gustar hasta aquí)” (CEA 88). Este pasaje del paradigma con­
+tractual al “paradigma tutelar” (Scavino Las fuentes de la juventud 29) le permite 
+resolver algunos problemas. Por empezar, la emancipación supondría un cambio 
+en el régimen político: ya no se trata de pasar de una tutela a otra o de una mo­
+narquía a otra, sino de un régimen alieni iuris a un régimen sui iuris, esto es: de 
+vivir bajo las leyes dictadas por otro, a vivir bajo las leyes dictadas por el propio 
+pueblo, algo que la teoría del pactum subjectionis no preveía. La equivalencia en­
+tre independencia y emancipación permitía entender también por qué el hecho 
+de que los criollos fueran descendientes de los españoles no los obligaba a perma­
+necer para siempre bajo la tutela de la madre patria. Podían emanciparse porque, 
+además, el joven emancipado recibe la herencia de sus padres y los españoles 
+americanos eran los únicos herederos legítimos de los conquistadores españoles, 
+de modo que deberían percibir aquella herencia que los reyes castellanos les 
+habían prometido a sus ancestros cuando firmaron las capitulaciones y que los 
+sucesivos “tutores malévolos” se habían apropiado indebidamente. El derecho 
+romano estipulaba que un magistrado debía nombrar a un tutor que administra­
+ra los bienes del niño huérfano hasta que llegara a la mayoría de edad y pudiera 
+gozar de su herencia. Este administrador, como lo recordó Francisco de Vitoria, 
+no podía dilapidar los bienes de su pupilo ni emplearlos para beneficio propio. 
+Viscardo no cesa de denunciar, entonces, esta violación de los principios más 
+elementales de la tutela: lejos de preservar los bienes de los españoles americanos, 
+la Corte de España hizo uso y abuso de ellos para beneficio propio y en detri­
+mento de su legítimo “dueño”. Por eso la emancipación no era, para el jesuita, 
+como para muchos autores independentistas, la inversión de la conquista, sino 
+su confirmación: los criollos recuperarían gracias a la independencia el lugar que 
+les correspondía en la administración de esos territorios, lugar de donde habían 
+sido apartados por las tutelas sucesivas de los Austrias y los Borbones. 
+Pero el argumento del “tutor malévolo” también comportaba una dificul­
+tad, dado que la tutela colonial solo concernía a los indios (Vitoria 49) y, en 
+modo alguno, a los criollos. Por su condición de colonos y descendientes de 
+conquistadores, los criollos no formaban parte de los pupilos, sino de los tutores. 
+69
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669 | Fluctuaciones de la Independencia en la Carta de 
+Viscardo y Gusmán: 61-74
+Esto explica por qué Viscardo está obligado a efectuar una de las operaciones 
+retóricas más complejas de su Carta. Para denunciar al “tutor malévolo”, que 
+bajo la forma de los funcionarios venales y de “pícaros imbéciles” llegados de la 
+metrópoli se enriquecen con la “ruina” de los colonos, el jesuita los compara con 
+los conquistadores que se enriquecieron con la explotación salvaje de los indios. 
+Y propone esta comparación, aun cuando esté reivindicando, por otra parte, la 
+conquista y el pacto solemne que los propios conquistadores suscribieron con 
+los reyes. El resultado es la frase más tortuosa de su Carta: “Renovando todos 
+los días aquellas escenas de horrores que hicieron desaparecer a pueblos enteros, 
+cuyo único delito fue su flaqueza, convierten el resplandor de la más grande 
+conquista, en una mancha ignominiosa para el nombre español” (Carta 78). La 
+“cruel” tutela de los indios termina siendo semejante a la tutela “malévola” de 
+los criollos, y así es como los colonos pueden emanciparse del reino de donde 
+provienen, como si hubieran sido ellos los colonizados. 
+Sapere aude!
+El argumento del “tutor malévolo” le sirve finalmente a Viscardo para denun­
+ciar la principal arma de dominación española. Los españoles americanos podían 
+compararse también con niños, porque las autoridades peninsulares fundaban su 
+dominación “sobre la ignorancia que procura alimentar y entretener, sobre todo 
+acerca de los derechos inalienables del hombre, y de los deberes indispensables 
+de todo gobierno” (82). El gobierno español, efectivamente, había “conseguido 
+persuadir al vulgo que es un delito el razonar sobre los asuntos que importan 
+más a cada individuo” y, por consiguiente, “que es una obligación continua la 
+de extinguir la preciosa antorcha que nos dio el creador para alumbrarnos y 
+conducirnos” (82). Apoyándose en ese mismo tribunal inquisitorial que conde­
+naría algunos años más tarde la propia Carta de Viscardo, la monarquía española 
+sustituía aquella “antorcha” natural, la razón, por su autoridad y sus decretos. La 
+emancipación significa abandonar “nuestra minoridad” y recurrir a la “antorcha” 
+de la razón para “alumbrarnos y conducirnos” (82). 
+Esta concepción gnoseológica de la minoridad había sido presentada por 
+Kant en su célebre respuesta de 1784 a la pregunta hecha por el periódico Ber­
+linische Monatschrift: ¿Qué es la Ilustración? Y aunque el prusiano no emplee en 
+ningún momento el vocablo alemán Emanzipation, toda su argumentación gira 
+en torno a este concepto jurídico. Por analogía con la institución tutelar, Kant 
+había definido la Aufklärung como “la salida del hombre de su minoría de edad”, 
+minoría que consistía, como explicaba, en la “incapacidad para servirse de su 
+entendimiento sin la dirección de otro” (Ausgewählte kleine Schriften145). Pero 
+esta “incapacidad” no provenía de la inmadurez mental de las personas, sino de 
+su “falta de decisión y coraje”. Y, por eso, Kant exhorta a sus lectores: sapere aude! 
+A diferencia del niño, el adulto era plenamente responsable de su condición de 
+menor: “La pereza y la cobardía son las causas que explican por qué un número 
+70
+Dardo Scavino | 
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669
+tan grande de hombres, incluso cuando la naturaleza los liberó de cualquier 
+dirección ajena” –o cuando alcanzaron ya desde hace tiempo su madurez fisio­
+lógica–, “permanece voluntariamente durante toda su vida en su condición de 
+menores” (146). De modo que, para Kant, este menor no tiene que esperar a que 
+el tutor lo emancipe: tiene que emanciparse a sí mismo. Y la Aufklärung sería, 
+finalmente, eso: la emancipación del hombre por el hombre. 
+Kant evitó cuidadosamente la dimensión política de esta autodeterminación 
+en su respuesta a la gaceta berlinesa, y limitó esta emancipación al uso privado 
+de la razón (privacidad que no se oponía, para él, a la publicidad de esos pensa­
+mientos, sino a su extensión al dominio de la política: había que obedecer, en 
+última instancia, al príncipe). El filósofo había desarrollado la dimensión políti­
+ca de esta autodeterminación en relación con el poder legislativo en Doctrina del 
+derecho. Al gobierno preocupado por la felicidad de los súbditos Kant lo deno­
+minaba, precisamente, vaeterliche o paternale, porque los individuos, decía, eran 
+tratados como miembros de una gran familia, es decir, como menores. A este 
+régimen paternalista, Kant le opone un gobierno vaeterlaendische o patrioticum 
+en donde sus miembros son tratados “como ciudadanos, es decir, de acuerdo con 
+las leyes que emanan de su propia voluntad” (Metaphysische Anfangsgründe des 
+Rechtlehre 132). Porque el patriotismo –Kant se inspira aquí en Rousseau– es la 
+defensa de los derechos emanados de la “voluntad común”: la celosa salvaguar­
+dia de la emancipación popular. Los individuos o los pueblos que se dirigen a sí 
+mismos son individuos o pueblos emancipados de cualquier autoridad. Eman­
+ciparse significaba ilustrarse y, podemos decir, la Ilustración es el movimiento 
+que extiende el viejo principio romano del individuo sui iuris a las diferentes 
+dimensiones de la humanidad: autodeterminación gnoseológica, moral, política 
+e incluso estética. 
+No sería extraño que el prusiano hubiese leído Histoire philosophique et poli­
+tique des établissements et du commerce des européens dans les deux Indes del francés 
+Guillaume Raynal, porque este abate frecuentaba la corte ilustrada de Federico 
+II y sostenía que la política se asemeja, “en sus fines y su objeto”, “a la educación 
+de la juventud”, dado que ambas se dirigen “a formar a los hombres”. Los “pue­
+blos salvajes”, argumentaba, “son como niños […] incapaces de gobernarse a sí 
+mismos” y, por eso, el gobierno “debe guiarlos con la autoridad hasta la edad de 
+las luces”. Esto explicaba, a su entender, por qué se habían puesto “los pueblos 
+bárbaros bajo tutela y dominio del despotismo hasta que se les hayan enseñado 
+los progresos de la sociedad a conducirse por sus intereses” (259). Raynal pensa­
+ba que los colonos de las dos Américas se hallaban en condiciones de acceder a 
+la emancipación, y este diagnóstico le valió las simpatías de Jefferson y Miranda, 
+pero también la de Viscardo. 
+Viscardo, Jefferson y Miranda se basaban en las mismas fuentes para referirse 
+a la América española: en la Histoire de Raynal, por empezar, pero también en 
+Noticias de América de Antonio de Ulloa y en History of America del escocés 
+William Robertson. Jefferson, de hecho, recurre muy a menudo a los vocablos 
+71
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669 | Fluctuaciones de la Independencia en la Carta de 
+Viscardo y Gusmán: 61-74
+emancipation y self-government para referirse a la independencia hispanoame­
+ricana. El tercer presidente de la Unión confiaba en que sus vecinos del sur 
+terminarían emancipándose, y todo pareciera indicar que respaldó la expedición 
+de Miranda que zarpó en 1806 del puerto de Nueva York con el propósito de 
+impulsar la revolución en el sur del continente. A pesar de esto, Jefferson no 
+ocultaba sus reservas acerca de la posible emancipación de aquellos pueblos de­
+bido, sobre todo, a la influencia de la Iglesia católica y su temible Inquisición. En 
+un mensaje de abril de 1811 a Tadeusz Kosciusko, Jefferson le anunciaba que los 
+revolucionarios criollos habían logrado derrocar a los representantes de la corona 
+en algunos virreinatos y, aunque abrigaba la esperanza de que el “common sense” 
+de los rebeldes les permitiría superar “el fanatismo y las supercherías” de las au­
+toridades españolas, temía que “los crueles artilugios de sus opresores hubieran 
+encadenado sus mentes, los hubieran mantenido en la ignorancia de los niños, 
+de modo que, como los niños, tampoco fueran capaces del self-government” (The 
+Papers of Thomas Jefferson 3 566). Los hispanoamericanos seguían siendo como 
+niños porque no habían recibido la educación necesaria para emanciparse, es 
+decir, autogobernarse a la manera de un “mayor”. 
+Aunque refute las observaciones de Robertson acerca de los efectos del clima 
+sobre los cerebros criollos, Viscardo también lo cita en Esbozo político sobre la 
+situación actual de la América española: “By the enervating influence of a sulfury 
+climate the vigour of their minds is so entirely broken, that a great part of them waste 
+life in luxurious, indulgences, mingled with an iliberal superstition still more deba­
+sing” (Obras Completas 1 72). Viscardo solo se atreve a defender en este punto a 
+los criollos señalando que estas supersticiones provienen del “sistema de Religión 
+que han heredado de Europa” (72). Y, aunque en este escrito considere que estas 
+supersticiones no “degradan” siempre a las naciones, en su programa sobre La 
+paz y la dicha del nuevo siglo sostiene que “el monstruo de la Superstición ha per­
+vertido desde siempre y en todas partes la inocencia natural de la moral primitiva 
+de los hombres”, haciéndola irreconocible y “sustituyéndole un Fanatismo ciego 
+por principio, armado de discordia y de hierro, que en nombre del Creador y del 
+Padre Universal de todos los hombres, los ha separado, degradado, embrutecido, 
+desnaturalizado” (Obras Completas 1 179). 
+Conclusión
+Para explicarle a los criollos qué era la independencia, Viscardo disponía de 
+dos analogías jurídicas: o bien se trata de la revocación de un pactum subjectionis 
+debida a la traición del monarca; o bien se trata de la abolición de una tutela 
+debida a la perversión del tutor. Pero ambas posiciones eran incompatibles entre 
+sí, dado que el pacto suponía la decisión libre entre personas mayores; mientras 
+que la tutela, una subordinación del menor al mayor que el primero no elegía. 
+En ambos casos, no obstante, la culpable era la Corte de España. Las víctimas, 
+sin embargo, no eran necesariamente idénticas. En el primer relato, se trataba 
+72
+Dardo Scavino | 
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669
+de los españoles americanos; en el segundo, de los americanos españoles, en el 
+sentido de todos los habitantes de las colonias hispanas de las Indias.
+Pero, si la narración del pacto original ya tenía varios siglos, el relato de la 
+emancipación estaba constituyéndose en ese momento. A partir de las revolu­
+ciones de independencia de Estados Unidos e Hispanoamérica, la modernidad 
+concebiría la intriga histórica como la progresiva emancipación del hombre por 
+el hombre: el paulatino pasaje de vivir y pensar bajo la dirección de otro, a vivir 
+y pensar bajo su propia dirección. 
+Podríamos decir que el relato histórico moderno comienza cuando un sujeto 
+colectivo –pueblo, clase, minoría– se convierte en sujeto del verbo emanciparnos 
+y en sujeto de la historia. Como Jefferson o Miranda, Viscardo había politizado 
+el concepto de emancipación, pero todavía no había convertido a los criollos en 
+los sujetos gramaticales y políticos de su propia emancipación. La Carta se queda 
+en el umbral de la modernidad. La idea de un sujeto político que se emancipa 
+a sí mismo resultaba tan novedosa que en 1843 Marx tendría que explicitarla: 
+“Tenemos que emanciparnos a nosotros mismos [uns selbst emanzipieren] antes 
+que emancipar a los demás”, escribiría parafraseando a Bruno Bauer. Y todavía 
+sería una novedad en el inicio del Estatuto de la Asociación Internacional de Tra­
+bajadores: “La emancipación de la clase obrera debe ser la obra de los propios 
+trabajadores”. Solo que, a diferencia de Viscardo, Miranda o Jefferson, Marx ya 
+no precisaba recurrir en 1864 a la analogía con el niño y el tutor para hablarle a 
+los obreros de su situación alieni iuris y mostrarles que el presunto contrato libre 
+entre capitalista y trabajador disimulaba una tutela malévola del primero.
+Quienes aseguran que el relato moderno de la emancipación es una variante 
+secularizada del relato judeo-cristiano de la redención, no se equivocan. Vitoria, 
+de hecho, se basó en un pasaje de la Epístola a los Gálatas (Gl 4, 1-5) en el que 
+Pablo de Tarso compara a los esclavos con los niños y a la emancipación con la 
+redención –o la compra de un esclavo– con el propósito de autorizar bíblica­
+mente su teoría de la tutela colonial (Vitoria 49). Como era todavía corriente en­
+tre los juristas del siglo XVI, Vitoria apela a la diferencia entre judíos y cristianos 
+para establecer una oposición entre menores y mayores, entre indios y españoles 
+(Scavino “Colonialidad del poder” 147). No cabía duda, para él, que los misio­
+neros venían a salvar a los indios, del mismo modo que los cristianos habían ido 
+a salvar a los gálatas, y el Mesías, a la humanidad en su conjunto, pagando ese 
+rescate con su propio sacrificio. La salvación equivalía, para Pablo, a la emanci­
+pación: cuando “se cumple el plazo” (Gl 4, 1-5) el joven puede recibir por fin la 
+herencia prometida por el Padre. Viscardo, que conocía a Vitoria, y que conocía 
+sobre todo la Epístola a los Gálatas, no podía ignorar la analogía. 
+73
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669 | Fluctuaciones de la Independencia en la Carta de 
+Viscardo y Gusmán: 61-74
+Referencias bibliográficas
+Adams, John. The Adams Papers, Diary and Autobiography. 1755–1770, vol. 1, 
+Harvard University Press, 1961.
+___. The Adams Papers, Adams Family Correspondence. June 1776 
+– 
+March 1778, 
+vol. 2, editado por Lyman H. Butterfield. Cambridge, Harvard University 
+Press, 1963.
+D’Alembert, Jean y Denis Diderot (editores). Dictionnaire raisonné des sciences, 
+des arts et des métiers (1751-1772). http://enccre.academie-sciences.fr/ency­
+clopedie/
+Dawyd, Darío. “El populismo en las independencias hispanoamericanas”. Cam­
+bios y Permanencias, n° 2, 2011, pp. 74-103.
+Féraud, Jean-François. Dictionnaire critique de la langue française. Tome Second. 
+Marsella, Jean Mossy, 1787.
+Franklin, Benjamin. The Papers of Benjamin Franklin 19. New Haven y Londres, 
+Yale University Press, 1975.
+___. The Papers of Benjamin Franklin 22. New Haven y Londres, Yale University 
+Press, 1982.
+Giménez Fernández, Manuel. Las doctrinas populistas en la Independencia de His­
+pano-américa. Sevilla, Escuela de Estudios Hispanoamericanos, 1947.
+Guerra, François-Xavier. Modernidad e independencias: ensayos sobre las revolucio­
+nes hispánicas. México, Fondo de Cultura Económica, 1993.
+Halperín Donghi, Tulio. Tradición política española e ideología revolucionaria de 
+Mayo. Buenos Aires, Prometeo, 2010.
+Jefferson, Thomas. The Papers of Thomas Jefferson 17. Princeton, Princeton Uni­
+versity Press, 1965.
+___. The Papers of Thomas Jefferson 3. Princeton, Princeton University Press, 
+2006.
+Kant, Immanuel. “Was ist Aufklärung?”. Ausgewählte kleine Schriften. Hambur­
+go, Meiner, 1999, pp. 20-27.
+___. Metaphysische Anfangsgründe des Rechtlehre. ���������������������������
+Hamburgo�������������������
+, Felix Meiner Ver­
+lag, 2009.
+Miranda, Francisco de. América espera. Caracas, Biblioteca Ayacucho, 1982.
+Portillo Valdés, José María. “Emancipación sin revolución. El pensamiento 
+conservador y la crisis del Imperio atlántico español”. Primas. Revista de His­
+toria Intelectual, n.° 20, 2016, pp. 139-152.
+Quijada Mauriño, Mónica. “Las ‘dos tradiciones’. Soberanía popular e imagina­
+rios compartidos en el mundo hispánico en la época de las grandes revolu­
+74
+Dardo Scavino | 
+ XXIII.1 (enero-abril 2019) ISSN 1851-4669
+ciones atlánticas”. Revolución, independencia y las nuevas naciones de América, 
+editado por Jaime Rodríguez. Madrid, MAPFRE, 2005, pp. 61-83.
+Raynal. Guillaume. Histoire philosophique et politique des établissements et du 
+commerce des européens dans les deux Indes, vol. II. Amsterdam, s/e, 1774.
+Real Academia Española. Corpus Diacrónico del Español. http://corpus.rae.es/
+cordenet.html
+___. Diccionario de Autoridades (1726-1739). http://web.frl.es/DA.html
+___. Nuevo Tesoro Lexicográfico. http://ntlle.rae.es/ntlle/SrvltGUILoginNtlle
+Scavino, Dardo. Narraciones de la independencia. Buenos Aires, Eterna Caden­
+cia, 2010.
+___. Las fuentes de la juventud. Buenos Aires, Eterna Cadencia, 2015.
+___. “Colonialidad del poder: una invención jurídica de la conquista”. Intersti­
+cios de la política y la cultura, n.° 10, 2016, pp. 141-178.
+Stoetzer, Carlos. Las raíces escolásticas de la emancipación de la América española. 
+Madrid, Centro de Estudios Constitucionales, 1982.
+Suárez, Francisco. Defensa Fidei III. Principatus politicus o la soberanía popular. 
+Madrid, Consejo Superior de Investigaciones Científicas, 1965.
+Vattel, Emmerich de. Droit des gens ou principes de la loi naturelle. París, Gui­
+llaumin, 1863.
+Viscardo y Gusmán, Juan Pablo. Carta dirigida a los españoles americanos. Intro­
+ducción de David Brading. México, Fondo de Cultura Económica, 2004.
+___. Obra completa 1 y 2. Lima, Ediciones del Congreso de Perú, 1998.
+Vitoria, Francisco. Relección de indios y del derecho de guerra. Madrid, Espasa 
+Calpe, 1928.
+Washington, Georges. The Papers of George Washington 2. Charlottesville, Uni­
+versity of Virginia Press, 1992.
+___. The Papers of George Washington 18. Charlottesville, University of Virginia 
+Press, 2008. 

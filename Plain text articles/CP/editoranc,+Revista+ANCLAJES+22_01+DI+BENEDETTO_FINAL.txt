@@ -1,0 +1,773 @@
+19
+Esta obra está bajo una Licencia Creative Commons Atribución - No Comercial -
+Sin Obra Derivada 4.0 Internacional. http://creativecommons.org/licenses/by-nc-nd/4.0/
+Di Benedetto, Matías. 
+“El cuerpo, (des)hecho de utopía. Un comentario acerca de El 
+Autómata de Xavier Abril”. Anclajes, vol. XXII, n° 1, enero-abril 2018, pp. 19-36.
+DOI: 10.19137/anclajes-2018-2212
+El cuerpo, (des)hecho de 
+utopía. Un comentario 
+acerca de El autómata de 
+Xavier Abril
+The body, cast(out) of utopia. A commentary on The 
+Automaton, by Xavier Abril
+Matías Di Benedetto 
+Instituto de Investigaciones en Humanidades y Ciencias Sociales (IdIHCS) 
+Universidad Nacional de La Plata
+Consejo Nacional de Investigaciones Científicas y Técnicas
+matias.n.dibenedetto@gmail.com
+Resumen: La nouvelle vanguardista de Xavier Abril El autómata (1931) expone en su 
+desarrollo una toma de distancia con respecto a la narrativa indigenista peruana. En 
+este sentido, puede destacarse a partir del análisis de algunos de sus procedimientos 
+narrativos más rupturistas, como el montaje y la fragmentación, o incluso mediante la 
+revisión de paratextos previos a la publicación, la puesta en crisis tanto de un concepto 
+de novela así como de sujeto. Este último se redefine mediante su conceptualización 
+como autómata, pieza fundamental de un esquema económico-social capitalista, y en 
+consecuencia su correspondiente formato narrativo, la novela, cuya caracterización se 
+torna vehículo de dicha crítica.
+Palabras claves: Xavier Abril; literatura peruana; crítica literaria; siglo XX, Perú.
+	
+Abstract: Xavier Abril’s avant-garde nouvelle, 
+The Automaton (1931), exhibits a distancing 
+from the Peruvian indigenous narrative. In this regard, based on analysis of its most 
+groundbreaking techniques, such as montage and fragmentation, or even through a re-
+view of paratexts prior to publication, one notices a challenge to both the concept of 
+novel as well as that of subject. The latter is redefined by means of its conceptualization 
+as automaton, a fundamental piece of a capitalist socioeconomic structure, and conse-
+quently its corresponding narrative form, the novel, whose characterization becomes a 
+vehicle of said criticism. 
+Keywords: Xavier Abril; Peruvian literature; literary criticism; twentieth century; Perú.
+20
+Matías Di Benedetto | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+El pesimismo como vitalidad
+“Fue necesario que Colón zarpara en compañía de
+ locos para que se descubriese América. Y ver cómo
+ esa locura ha ido tomando cuerpo y ha perdurado.”
+Primer Manifiesto Surrealista, p. 21
+“También lo colectivo es corpóreo.”
+Walter Benjamin, 
+El surrealismo, la última instantánea 
+de la inteligencia europea, p. 56
+E
+l autómata (1931) de Xavier Abril pertenece a una serie de textos 
+que la crítica literaria ha descripto como parte de un corpus cono-
+cido como “narrativa de vanguardia”, el cual según Hugo Achugar 
+puede ser “definido históricamente por la década que va de 1922 a 1932 y por 
+aquellos textos que […] propusieron un nuevo modelo imaginario de entender 
+y representar la vida cotidiana, tanto a nivel individual como social, a la vez que 
+explotaron (¿o explosionaron?) los fundamentos estéticos y artísticos heredados” 
+(16). Asimismo, la crítica especializada, de la que el comentario de Achugar es 
+solo un ejemplo, no deja de destacar que en esta “compleja entidad discursiva” 
+el componente histórico es muy importante ya que estas producciones estable-
+cen relaciones puntuales con dinámicas culturales específicas del período en que 
+emergen. En particular, destacamos la consideración crítica del estatuto genérico 
+de estas producciones, razón por la cual se señala la elección del término “narra-
+tiva” para referirse a este tipo de escritura vanguardista, ya que “consistió en una 
+suerte de cataclismo que conmovió, más o menos según los casos, las premisas 
+genéricas heredadas” (Achugar 22). A propósito de esta cuestión, Rose Corral 
+ha sabido señalar atinadamente el carácter marginal de estas narrativas, a pesar 
+de su originalidad rupturista: “Pese a su modernidad fundadora, esta narrativa 
+rebelde e innovadora, escrita en los años veinte y treinta del siglo pasado […] 
+ha empezado sólo en los últimos años a recibir la atención crítica que merece” 
+(9). Agrega, además, y en esto coincide con el texto de Achugar antes citado, la 
+ausencia de una reflexión crítica sobre las vanguardias históricas que incluya no 
+sólo a la poesía sino también a otros géneros, como la narrativa y el teatro. En 
+este sentido, Corral ofrece un relevamiento de los momentos más importantes 
+de esta tradición narrativa soterrada, estableciendo para ello una suerte de ge-
+nealogía construida sobre “el mapa cambiante de las letras hispanoamericanas”1. 
+1	
+Así y todo, el intento arqueológico, en el sentido foucaultiano, de excavar en esa tradición narra-
+tiva, lleva a Corral a implementar la noción de “linaje” con la intención de formalizar las “posi-
+bles prolongaciones” que inauguran los experimentos vanguardistas. Sin embargo, su hipótesis 
+no se desarrolla y deriva en consideraciones de otro orden como las referidas a las relaciones 
+entre vanguardia y modernidad como contexto de aparición de los fenómenos narrativos de rup-
+tura que pugnamos por analizar a partir de este trabajo.
+21
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | El cuerpo, (des)hecho de utopía. Un comentario acerca de El autómata...: 19-36
+De esta manera, al recurrir a los abordajes historiográficos de Ángel Rama a 
+propósito de la novela en Latinoamérica, la autora hace hincapié en la falta de 
+visibilización de estos “raros y outsiders” en virtud de la obliteración que les pro-
+pugna la emergencia y consolidación de una novela regionalista.
+Ante la ausencia, por parte de la crítica, de comentarios acerca de este grupo 
+de autores eclipsados por las narrativas de la historia literaria, se mencionan dos 
+excepciones en el libro de Corral. Por un lado, se cita la Historia de la novela his-
+panoamericana de Cedomil Goic, quien apunta a la polarización de dos sistemas 
+narrativos como argumento central: la existencia de una estética realista que llega 
+hasta comienzos de la década del veinte del siglo pasado, enfrentada a una “gene-
+ración superrealista de 1927” (1972: 124) que se opone a sus postulados. En ese 
+período es cuando “una fractura en la historia literaria” deja entrever un nuevo 
+modo de representar lo real, descripta como “asistemática, errática, arbitraria, 
+de trabazón floja o musical” (177). Por otro lado, Corral se refiere a La novela 
+hispanoamericana del siglo XX. Una vista panorámica de Jerome Brushwood; en 
+dicho texto se muestra un notorio interés por la novela vanguardista, haciendo 
+énfasis en autores como Arqueles Vela, Salvador Novo y Gilberto Owen, Martín 
+Adán, Pablo Neruda.
+A través de esta nouvelle de Abril buscamos dar cuenta de, en principio, el 
+“polo cosmopolita” de la literatura latinoamericana al decir de Ángel Rama en su 
+conocido Transculturación narrativa (1982); escritores que apelan a un conjunto 
+de prácticas y recursos narrativos que innovan drásticamente, en este caso, el 
+campo cultural peruano, como lo son la fragmentación del discurso, la disolu-
+ción de las categorías de personaje, de tiempo y espacio, el uso cinematográfico 
+del punto de vista, la puesta en funcionamiento del montaje y del fluir de la 
+conciencia. Nos parece importante hacer énfasis también en el impacto moder-
+nizador que propicia la incorporación de dichas técnicas narrativas, gesto que re-
+presenta las consecuencias de un uso de la tecnología absorbido por las estéticas 
+de vanguardia peruanas. Por lo cual, sostenemos que uno de los procedimientos 
+narrativos más destacados a propósito de esta incorporación de recursos ruptu-
+ristas resulta ser el mecanismo del montaje, a través del cual buscamos leer la 
+fascinación de estos autores por los avances tecnológicos que influyen en las ma-
+neras de narrar heredadas del Realismo, procedimientos capaces de desmantelar 
+la hegemonía de lo mimético y de las narraciones teleológicas de la Historia.
+Pero incluso tendremos que detenernos en otro elemento común a esta serie 
+de narraciones. La totalidad de estos textos ostentan la fragmentación como ele-
+mento rector de sus procedimientos; es decir, el conjunto de mecanismos narra-
+tológicos que ponen en funcionamiento se encuentra supeditado al régimen del 
+fragmento. Este los ordena, los administra. Desde César Vallejo a Abril, pasando 
+por Martín Adán, Mario Chabes o, incluso, el tan en boga Gamaliel Churata, 
+sus textos recurren a esta llamativa forma de organizar esos conglomerados tex-
+tuales, sus materiales disímiles, exponiendo así un régimen de la “plasticidad 
+cultural” al decir de Rama: absorben las novedades y generan, dentro de la mis-
+22
+Matías Di Benedetto | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+ma estructura cultural, respuestas originales a los embates de esa modernización 
+estética producto del fenómeno vanguardista. Ese cuerpo textual es el espacio en 
+el cual una serie de tensiones, tanto estéticas como políticas, tienen asidero.
+Con la intención de plasmar una descripción lo más afín posible a los pre-
+supuestos estéticos enarbolados por el propio Abril en esta nouvelle, nos parece 
+pertinente traer a colación dos frases aparecidas en el ensayo de Walter Benjamin 
+titulado “El surrealismo, la última instantánea de la inteligencia europea” de 
+1929, en virtud de la relación que se establece entre el mencionado movimiento 
+artístico europeo y su difusión en el panorama cultural peruano a través de una 
+figura como la de Abril2. En Perú el surrealismo es recibido de manera cele-
+bratoria por autores como el mismo Abril, César Moro y Adolfo Westphalen, 
+pero también consigue críticas como las de Vallejo en su artículo “Autopsia del 
+superrealismo”. Las revistas Variedades y Amauta saltan a la vista como publi-
+caciones dedicadas a la transmisión de sus postulados estéticos; en las páginas 
+de ambas revistas aparecen artículos de José Carlos Mariátegui como “El grupo 
+superrealista y Clarté”, “Balance del Suprarrealismo” y la reseña “Nadja de André 
+Breton”. Así también, desde la dirección de su revista, el intelectual peruano se 
+dedica a promocionar a los poetas afiliados a dicha estética vanguardista, gesto 
+editorial que puede leerse como una operación de lectura destinada a poner en 
+relación los reclamos políticos y su posible asidero en las formas literarias de la 
+época, abordando al surrealismo ya no “como moda artística” sino más bien 
+como “protesta del espíritu”, repercusión directa de su propio itinerario “del 
+campo artístico al campo político” (“El grupo surrealista” 79).
+En dicho ensayo, Benjamin se encarga de explayarse acerca del derrotero 
+estético del movimiento surrealista, de sus puntos de inflexión más determi-
+nantes y además de su reciente viraje hacia un pensamiento más comprometido 
+políticamente. Allí pueden destacarse, en primer lugar, la expansión en el plano 
+literario de ese “organizar el pesimismo” al que se hace referencia casi al final. Ya 
+que si “Organizar el pesimismo no es otra cosa que transportar fuera de la polí-
+tica a la metáfora moral y descubrir en el ámbito de la acción política el ámbito 
+de las imágenes de pura cepa. Ámbito de imágenes que no se pueden ya medir 
+contemplativamente” (“El surrealismo” 54), veremos la manera en que se mate-
+rializa esta descripción cuasi metódica en el texto abrileano. Claramente desde el 
+uso de la yuxtaposición de imágenes del cuerpo destrozado del autómata Sergio 
+en la nouvelle hasta incluso las pavorosas descripciones de su agonía y posterior 
+muerte, el proceso de escritura despliega un abanico de procedimientos destina-
+dos a socavar el régimen mimético de representación, elementos que hacen de El 
+2	
+Varios especialistas de la obra de Abril consideran su relación con el surrealismo como una de 
+las más exclusivas del campo literario peruano. Por citar sólo a dos estudiosos de su obra, López 
+Lenci sostiene que se trata del “primer poeta que tiene contacto directo con el surrealismo fran-
+cés, entre 1925 y 1927, y [es] uno de los iniciadores de las resonancias de este movimiento en 
+el Perú” (101-102); por su parte Kishimoto sostiene que se vuelve “una suerte de puente entre el 
+ismo galo y la vanguardia peruana” (157).
+23
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | El cuerpo, (des)hecho de utopía. Un comentario acerca de El autómata...: 19-36
+autómata una obra que postula en el centro neurálgico de su discurso un pesi-
+mismo activo. Con el correr de las páginas, incluso, se hace asequible un proceso 
+de desmantelamiento del cuerpo del protagonista, metáfora, como intentaremos 
+demostrar en breve, de la reformulación del ya averiado y maltratado cuerpo de 
+la novela realista durante la década de 1920 en Perú.
+De esta forma, y en segundo lugar, la reflexión final del texto de Benjamin 
+también nos es útil en lo que concierne al abordaje del texto de Abril: “Cuando 
+cuerpo e imagen se interpenetran tan hondamente, que toda tensión revolucio-
+naria se hace excitación corporal colectiva, y todas las excitaciones corporales de 
+lo colectivo se hacen descarga revolucionaria, entonces, y sólo entonces, se habrá 
+superado la realidad” (“El surrealismo” 61). A través de estas palabras buscamos 
+leer la inclusión de un gesto denuncialista en la prosa vanguardista de Abril, la 
+cual se formaliza mediante la referencia, más o menos velada, a las derivaciones 
+nocivas, tóxicas, que trae aparejado el proceso económico capitalista en el Perú 
+de la década del veinte, un régimen de entronización del capital cuya efectiviza-
+ción se hace cuerpo en la transformación del sujeto en mero autómata3.
+Si la novela es, lugar común ya clásico de la crítica literaria, el género exclusivo 
+de la burguesía, El autómata de Xavier Abril pone en evidencia la convergencia de 
+las ideas señaladas a propósito del ensayo benjaminiano: la automatización de ese 
+organismo, su mecanización de lo vital, funciona como el síntoma más palpable 
+del ejercicio de construcción de una forma novelesca lo más crítica posible del 
+sujeto burgués capitalista. Extraer un proyecto literario que registre críticamente 
+los avatares de ese “dogma” capitalista, como puede leerse en “El capitalismo como 
+religión”, que describa incluso en sí mismo la instalación de la desesperanza como 
+“condición religiosa del mundo” (Benjamin “El capitalismo” 187) a través de la 
+violencia desplegada sobre lo corporal –cuerpo que no deja de ser colectivo–  es el 
+resultado de la potencia redentora del espesor pesimista de la nouvelle.
+En este sentido, la búsqueda estética de Abril se sostiene indefectiblemente, 
+como veremos, en un proceso de “politización del arte”4, cuyas instancias de 
+3	
+Para una certera contextualización histórica del período en cuestión, debemos remitirnos al panora-
+ma estrictamente histórico-social de la época; el llamado período de la “Patria Nueva” se inicia en 
+1919 con el “Oncenio” de Augusto Leguía: un gobierno de marcado signo autoritario y populista 
+que promulgó una serie de medidas económicas y sociales de vital importancia para la modifica-
+ción de un escenario de supuesto atraso en el que estaba inmerso el país. En lo económico se dio 
+una apertura excesiva al capital extranjero, especialmente el estadounidense. Se llevó adelante una 
+política de fortalecimiento del Estado, así como también se inició la modernización del país y se 
+emprendió un vasto plan de obras públicas, financiadas mediante empréstitos y cuyo fin inmediato 
+fue festejar apoteósicamente el Centenario de la Independencia del Perú en 1921 (Funes). 
+4	
+De la cantera de las reflexiones benjaminianas podemos extraer otra de las herramientas críticas 
+cuya expansión dentro del texto de Abril puede servirnos de plataforma desde la cual condensar 
+una de las dualidades fundamentales de El autómata. En su famoso ensayo “La obra de arte en la 
+época de su reproductibilidad técnica” hallamos dos expresiones contrapuestas: la “politización 
+del arte” que lleva adelante el comunismo frente a la “estetización de la política” en manos del 
+fascismo. Si nos centramos en el texto de Abril, veremos la manera en la cual la destrucción de 
+la escritura mimética que apuntaba a la novela se define como una desaprobación evidente del 
+régimen artístico en tanto que programa de configuración de lo dado, formalización de una vida 
+24
+Matías Di Benedetto | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+expansión le deben mucho a la ruina del cuerpo de la novela; o mejor, para 
+decirlo con palabras del propio Benjamin, a su inherente “carácter destructivo” 
+(“El carácter destructivo” 160). El sujeto burgués devenido hombre-estuche 
+ve demolerse no sólo sus fundamentos artísticos, el género literario en el cual 
+se ha guarecido de la intemperie del discurrir de la Historia, sino que también 
+su propio cuerpo se halla atravesado por un proceso de tecnificación, el cual 
+funciona como materialización de los efectos de la burocratización y del cálculo 
+definidos como los rasgos preponderantes de la sociedad capitalista; consecuen-
+cias de lo que Max Weber denominó la “jaula de hierro”, la conocida stahlhar-
+tes Gehäuse5, aunque también como puesta en escena de las flexiones políticas 
+inherentes a la vanguardia, en la búsqueda de la conjunción del arte y la praxis 
+vital (Bürger).
+Si, en todo caso, el mecanismo que funciona como eje de estos procesos es-
+téticos rupturistas puede encontrarse en las “formas sacrificiales e iconoclastas de 
+la pasión de lo real” que adquieren su espesor intrínseco mediante “la correlación 
+entre destrucción y sustracción” (Badiou 168), con la finalidad de “terminar con 
+los retoños de la estética de Kant”, la noción de vanguardia, según Bürger, tiene 
+su núcleo en el ataque a la categoría de obra de arte “orgánica” y su estatuto 
+autónomo en el seno de la sociedad burguesa. Es decir, inscribe en su desplie-
+gue demoledor un cúmulo de procedimientos que tienen como horizonte un 
+“estadio de autocrítica” (58). De tal forma, la filiación surrealista de la nouvelle 
+de Abril se apoya en recursos narrativos tales como el uso de la automatización 
+de las imágenes, el flujo de la conciencia, la dislocación de la causalidad y de la 
+sintaxis, la discontinuidad como matriz narrativa, los tópicos de la locura y el 
+sueño, hasta incluso ejes temáticos enraizados más visiblemente en el plano de lo 
+ideológico como la crítica de la razón burguesa.
+A propósito de esta descripción de los fenómenos artísticos de vanguardia en 
+nuestro continente, uno de los rasgos que concentra una mayor potencia eman-
+cipatoria es la específica maniobra de reunión de las demandas políticas y las de-
+rivaciones estéticas. La redefinición del vínculo original con las vanguardias his-
+tóricas europeas motiva en las manifestaciones latinoamericanas un crecimiento 
+articulado con las vanguardias políticas. Es decir, el proceso de recepción mismo 
+de las corrientes estéticas importadas se da en un marco “que toma distancia de 
+la situación histórica que condicionó su germinación europea”, como afirma 
+de autómata. Lo que domina en el proyecto de Abril es la necesidad de superar una forma litera-
+ria obsoleta, permutándola entonces por una de carácter medianamente revolucionario. 
+5	
+Dice Löwy al hacer referencia al análisis de este sistema económico y de sus prácticas por parte 
+del autor de La ética protestante y el espíritu del capitalismo: “El orden económico moderno/ca-
+pitalista, con sus condiciones técnicas de producción mecánicas y maquinal, determina el estilo 
+de vida de todos los individuos nacidos en su seno, no sólo aquellos directamente involucrados 
+en ganar su sustento. Weber compara esta constricción con una suerte de prisión, o una “jaula 
+de hierro” donde el sistema de producción racional encierra al individuo […] parece describir, 
+en la Ética Protestante, las estructuras reificadas de la economía capitalista, como una suerte de 
+prisión dura-como-el-acero, rígida, fría y despiadada” (“Anticapitalist” 3). 
+25
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | El cuerpo, (des)hecho de utopía. Un comentario acerca de El autómata...: 19-36
+Ana Pizarro (20). De esta manera, se sabe que el factor de cosmopolitismo no 
+logra desarrollarse en tanto que concepción de mundo en nuestro continente. El 
+contexto histórico específico, es decir, un estado oligárquico-liberal, gobiernos 
+dictatoriales, un modelo económico agroexportador y basado en la dependencia 
+económica, rasgos que se actualizan en la década del veinte peruana, origina un 
+“cambio de función” de los movimientos estéticos; se trata de aspectos históricos 
+que modulan al interior de sus propuestas una serie de reclamos de orden políti-
+co en sintonía con el panorama de la lucha política entre posiciones nacionalis-
+tas, antiimperialistas y democráticas. 
+De todas maneras, la descripción de los tópicos del debate político debe des-
+echarse en lo referido específicamente a una explicación facilista de su concep-
+tualización, basada en el error de considerar a la vanguardia “mero reflejo pasivo 
+del marco histórico”. Ante la posibilidad de una interpretación equivocada de la 
+original superposición de estética y política, señala Pizarro: “se trata de una arti-
+culación real en donde por una parte el fenómeno de vanguardia surge a partir de 
+un condicionamiento histórico de dependencia cultural y por otra asume, en su 
+carácter reivindicativo, las coordenadas de su momento histórico y político” (27).
+Es decir, si el cuerpo de la novela decimonónica es lo que debe ser desmonta-
+do y vuelto a compaginar, el mismo sujeto burgués automatizado es quien tam-
+bién debe ser llevado a una instancia de reflexión acerca del estado de cosas en 
+que se encuentra la incipiente modernización de la nación peruana. Y nada me-
+jor para ello, para narrar dicha performance, que el establecimiento de una forma 
+novelesca capaz de superar las propuestas telúricas y de raigambre hispánicas tan 
+en boga en Perú. Se alcanza, de esta manera, una plataforma de transformación 
+que hace del compromiso político, de la “descarga revolucionaria” que se extrae 
+de las “excitaciones corporales”, un llamado a lo colectivo. La propuesta, enton-
+ces, emerge no de una “estetización del arte”, como diría Benjamin (“La obra de 
+arte” 74), sino más bien de un desmantelamiento de los cuerpos literarios bien 
+contorneados, mecánicamente armoniosos.
+Biologicismo poético
+En el número doce de la revista española Bolívar de julio de 1930, editada 
+por su hermano Pablo Abril de Vivero, Xavier Abril publica un artículo titulado 
+“Palabras para asegurar una posición dudosa” en donde se lee: 
+Lo que hay ahora son autómatas de la realidad burguesa. Donde se pone el 
+ojo se da uno con estos autómatas. Ya en la organización capitalista: en los 
+bancos, clubs, hoteles, teatros, asilos o prostíbulos. La burguesía y sus vicios 
+han tornado a sus seres en autómatas de la especie. El orden maquinístico 
+está también en manos de autómatas. […] El verdadero panorama de la cul-
+tura burguesa –agónica– es terrible. De esta agonía ha nacido y se ha salvado 
+una clase, que es el surréalisme; una clase, y no simple y solamente una escuela 
+26
+Matías Di Benedetto | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+literaria como creen algunos confucionistas anárquicos. Yo creo que al rea-
+lismo burgués tendrá que sobrevenir el mundo, la cultura del subconsciente, 
+lo que ya es ahora una anunciación con el surréalisme. […] está naciendo un 
+nuevo cuerpo humano y maravilloso. Le está naciendo al mundo su verda-
+dero cuerpo […] Es justo que se le devuelva al mundo el ser con todas sus 
+pertenencias de paraíso, sin los gases asfixiantes que creó el capitalismo (Van-
+guardia Latinoamericana. Historia, crítica y documentos: 219-220).
+Sin necesidad de ahondar demasiado, la cita precedente, si bien extensa, ex-
+pone en su superficie la certera articulación entre los tres elementos que hemos 
+venido subrayando, fundamentales para la estética abrileana. Vemos así la ma-
+nera en que se proyecta, primero, una serie de sentidos alrededor del concepto 
+de “autómata”, rasgos que se tornan pertinentes al aludir, en segundo lugar, a la 
+automatización del sujeto burgués, y finalmente, alojadas por ello en un contex-
+to de incipiente emergencia del régimen capitalista. Son escenas que se suman 
+al aparente gesto de resistencia crítica a dicho estado de cosas mediante la gene-
+ración de un “verdadero cuerpo”, capaz de erigirse como la punta de lanza del 
+tono de denuncia del artículo.
+Un cuerpo que, podemos agregar, adquiere tonicidad, hace de su volumen 
+específico la presentación de una estrategia capaz de modificar la gramática de 
+lo existente. Es decir, en ese panorama de individuos oprimidos por el cercena-
+miento de su lucidez al que Abril hace referencia, veremos cómo en una serie de 
+prefacios publicados por Abril en distintas instancias, se hace de la carnalidad, de 
+la valoración del organismo y de una especie de biologicismo poético el cimiento 
+de la textualidad de Abril en varios de sus textos, hasta llegar a su exposición más 
+fehaciente con El autómata.
+En Hollywood (1931), una compilación de poemas y textos en prosa, en don-
+de encontramos un paratexto autoral que lleva el título de “Notice”, o también 
+en “Autobiografía o invención”, lo que se va delineando es la doble valencia de 
+lo corporal: por un lado, la coerción del sistema capitalista se hace carne en los 
+mismos sujetos, es la misma que lacera sus subjetividades tornándolos simples 
+autómatas homogeneizados, esperpentos instrumentalizados bajo el régimen del 
+capital y sus derivaciones, a la intemperie frente a la diseminación sin parangón 
+del fetichismo de la mercancía. 
+A su vez, por otro lado, Abril sostiene que se ve inmerso en una nueva corpora-
+lidad, la cual ha desechado luego de un largo periplo. Nuestra intención es sostener 
+que en ese gesto se devela la clave de bóveda de la estética de El autómata: el nuevo 
+organismo que yace disponible y que ofrece un nacimiento en tanto que ruptura 
+de lo dado. Ruptura de eso que puede definirse como lo catastrófico en sí mismo 
+pues no hay escenario más calamitoso para Abril que el de una vida sin exabruptos, 
+peculiaridad que redunda en la emergencia de la corporalidad socialista. La misma 
+es llevada a ese presente de la enunciación como resonancia política mediante, al 
+mismo tiempo, el cuerpo rejuvenecido de la novela vanguardista:
+27
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | El cuerpo, (des)hecho de utopía. Un comentario acerca de El autómata...: 19-36
+existe un nuevo cuerpo, una nueva forma en la Cultura […] no es una conti-
+nuación espiritual del cuerpo antiguo, como lo entienden los reaccionarios, 
+sino una revolución, un nacimiento. La Revolución Rusa es, por ejemplo, un 
+nacimiento de la historia. Existe verdaderamente –y esto es una felicidad– un 
+cuerpo nuevo, sin bacilos, sin los vestigios de la diabetes de la cultura antigua. 
+Todos sabemos que la diabetes es una enfermedad específicamente burguesa 
+(“Nota” 70; el subrayado es nuestro).
+El cuerpo enfermo, diabético, se anuda con uno de los hechos históricos más 
+destacados de esa década del veinte, episodio que conforma la base de sustenta-
+ción del proyecto de hombre nuevo abrileano, en el cual se pasa de los despojos 
+de la Gran Guerra al reacomodamiento histórico que promete la revolución 
+rusa. Si el siglo XX, entonces, “se obsesiona con la idea de cambiar al hombre, 
+de crear un hombre nuevo”, como acota Alain Badiou (20), Abril, en su propio 
+diagrama de figura autoral que va conformando en estos paratextos, pugna por 
+generar las condiciones de posibilidad de semejante “proyecto prometeico” a 
+nivel material; en este caso, específicamente literario. 
+En un artículo incluido en Amauta, titulado “Nota a la muerte de la novela” 
+(1929), Xavier Abril describe el proceso de emergencia de esta nueva variante 
+de dicho género burgués en cuestión: “En la crítica a la Muerte de la Novela, 
+se precisa aunque un poco tarde la defunción, la denuncia social realizada por 
+un nuevo organismo viviente. La novela –dicen sus impugnadores– “presents a 
+rigid, exhausted formula”. Lo que ha muerto en la novela es la técnica, su fun-
+cionamiento cardíaco, debido al choque con un nuevo estilo de vida. […] la 
+constatación del nacimiento de un nuevo cuerpo sensible” (“Nota” 70). En el 
+deterioro progresivo de las formas de narrar decimonónicas que enarbola esta 
+prosa de vanguardia se hace visible una batería de técnicas literarias puestas a 
+funcionar como dispositivos que buscan “darle muerte”, parafraseando a Abril, 
+a dichas técnicas narrativas. Por lo tanto, la protesta contra la “actitud realista”, 
+eje de la mayoría de las novelas abocadas a un régimen de lo mimético ya caduco 
+para esta narrativa de vanguardia, como bien puede leerse en el Primer Manifies-
+to Surrealista (1924), se hace eco en la toma de posición de Abril con respecto a 
+la necesidad de los cambios en su “técnica”.
+Para proseguir, entonces, en la estela de las opiniones de Mariátegui, es el 
+mismo autor de El autómata quien confiesa la influencia directa del fundador de 
+Amauta en la conversión de sus ideas políticas: 
+Después de mis primeros ensayos y experimentos literarios (1923: 25), hice 
+un viaje a Europa. Asistí al debate del Surrealisme; pero a mi vuelta al Perú 
+(1928) me ganó la revolución, el marxismo, en la prédica de Mariátegui. Y 
+mi vida y mis esperanzas son el proletariado […] Mariátegui ha creado una 
+conciencia, un nuevo nacimiento de América. Mi conocimiento y revelación 
+del mundo político están vinculados a su agonía” (Vanguardia Latinoameri-
+cana. Historia, crítica y documentos 223). 
+28
+Matías Di Benedetto | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+Resulta llamativa la manera en la cual esa anatomía del cuerpo humano y de 
+sus alteraciones utilizadas para hacer referencia a las modificaciones estéticas por 
+las que atraviesa la novela, se torna el elemento predilecto en la descripción de su 
+viraje hacia una vanguardia más politizada. El cuerpo de Mariátegui fenece y ese 
+mismo proceso de descomposición habilita a pensar en los cambios que propicia 
+su prédica incansable, su ponerle el cuerpo, a la utopía latinoamericana. Para 
+Abril, la enseñanza mariateguiana, su compromiso político, debe verse reflejado 
+en la forma de la novela.
+El cuerpo mecanizado: reducto 
+de lo siniestro, germen de la utopía
+Distanciado de otros textos latinoamericanos en los cuales se ofrece un vasto 
+catálogo de invenciones siniestras, representativas en sus diferencias de la misma 
+problemática de la mecanización de lo corporal y por ende de los peligros del 
+avance de la ciencia como, por ejemplo, “La leyenda de Pigmalión” de Ventura 
+García Calderón u “Horacio Kalibang o los autómatas” del argentino Eduardo 
+Ladislao Holmberg, “Kábala práctica” de Leopoldo Lugones o “XYZ” de Cle-
+mente Palma, Xavier Abril se dedica enfáticamente en las páginas de El autómata 
+a abrevar de la potencialidad crítica que las sucesivas intervenciones de dicha 
+figura le deparan a la esfera de lo social, en este caso mediante la referencia a 
+determinados espacios urbanos.
+Si tuviéramos que reconstruir el linaje estético de este protagonista, tampoco 
+podríamos dejar de lado “El jugador de ajedrez de Maelzel”. Las diferentes signi-
+ficaciones que evoca este supuesto “pura máquina”, como lo llama Edgar Allan 
+Poe, a lo largo de la historia, fluctúan entre la descripción de una invención que 
+se asemejaba a un organismo humano hasta llegar a un uso basado en lo metafó-
+rico. Es decir, la hipótesis mecánica es posible en un contexto histórico y social 
+en el cual los autómatas, las máquinas con fuente de poder autónoma, comen-
+zaron a ser populares. Esto era ya evidente a inicios del siglo XVII, cuando las 
+fuentes, molinos, relojes, bombas de agua y una gran variedad de máquinas de 
+guerra habían llegado a ser perfeccionadas de tal modo que su funcionamiento 
+podría ocurrir sin que fuera evidente la intervención de una fuerza ajena. Al 
+respecto, podemos traer a colación, como dice Willy Thayer en Tecnologías de 
+la crítica (2010), a la “virtualidad de las fuerzas productivas” concentradas en la 
+proliferación maquínica de, como señala Marx, la implementación de la famosa 
+“Jenny”: 
+La Jenny, como cuerpo mecánico, ya había sido ensoñada en el siglo XVII 
+por Descartes, en su Tratado del mundo, uno de cuyos capítulos está dedica-
+do al Tratado del hombre fingido. Descartes indagó la posibilidad médica del 
+cuerpo-máquina inmortal, a través del trasplante de piezas. Teorizó la po-
+sibilidad de un cuerpo-máquina-mathesis de composición, descomposición 
+29
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | El cuerpo, (des)hecho de utopía. Un comentario acerca de El autómata...: 19-36
+y recomposición infinita, no sólo de sus piezas y su mecánica, sino, sobre 
+todo, de sus elementos y principios. Una máquina soberana, máquina-genio-
+maligno (102). 
+Inmersos en esta apelación al entramado constitutivo entre tecnología y tra-
+bajo, no debemos olvidar la necesaria mención de la permutación de sentidos a 
+la que se somete al concepto de autómata. Andreas Huyssen, en su lúcido análi-
+sis de Metrópolis (1927) de Fritz Lang, aborda esta cuestión, haciendo referencia, 
+en primer lugar, a las teorías materialistas que durante el siglo XVIII condujeron 
+a una noción de máquina más o menos universal, cuyos fundamentos residían 
+en la concepción del cuerpo humano como “un mecanismo de relojería, sujeto 
+como el resto de la materia a las leyes de la mecánica”, así como también a la con-
+cepción de una “ciega máquina universal”, la cual venía a explicar la degradación 
+de la conciencia y la subjetividad individual a “meras funciones de un mecanis-
+mo global” (130). Coincidentemente, en esa misma época, explica Huyssen, se 
+desarrollaron los proyectos científicos enfrascados en la recreación mecánica de 
+un cuerpo capaz de representar una autonomía de movimientos medianamente 
+regular. Tal es así que, con la incorporación de las máquinas al mundo de traba-
+jo, “la cultura de los androides decayó”, promoviendo, si se quiere, un cambio de 
+paradigma, momento en el cual “la literatura se apropia del tema y lo transforma 
+drásticamente”: 
+“El androide deja de ser visto como un testimonio genial de la invención 
+mecánica. Es ahora una pesadilla, una amenaza para la vida humana. Los 
+escritores empiezan a descubrir en el hombre-máquina rasgos aterradores que 
+lo vuelven parecido a las personas verdaderas. Su tema no está tanto en el au-
+tómata construido mecánicamente sino más bien en la amenaza que supone 
+para los seres humanos” (131).
+El autómata Sergio, nos interesa destacar, actualiza algunos de estos ras-
+gos. Se trata de la representación metafórica de un individuo a través del cual 
+lo mortuorio se exhibe sin atenuaciones, circulando por los recovecos de su 
+cuerpo, desarreglándolo, instalando en la ficción el régimen de lo siniestro. En 
+su intento de lograr asir lo que el denomina “el inconciente del surrealismo”, 
+Hal Foster traza un atinado paralelismo entre la noción de lo siniestro, the 
+uncanny, y el surrealismo en tanto categoría que, desde su propia historicidad, 
+le provee de herramientas útiles a la hora de explicar las distintas facetas por las 
+que pasó este movimiento de vanguardia. Sin embargo, no considera lo sinies-
+tro como una simple puerta de acceso al museo iconográfico del surrealismo, 
+sino que más bien busca leer en los objetos y textos producidos por este grupo 
+de artistas y escritores la circulación misma del torrente surrealista, como si 
+fuera “extraído desde abajo” (24). Luego de revisar la fascinación de los autó-
+matas por parte de los surrealistas, Foster establece esa “dimensión histórica de 
+lo siniestro surrealista” al hacer énfasis en la misma reconfiguración del cuerpo 
+30
+Matías Di Benedetto | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+como máquina que se traduce en crítica direccionada a las formas de circula-
+ción del capital en la era moderna. La “confusión siniestra entre la vida y la 
+muerte” se torna la obsesión de estos artistas, ya que perciben, nos dice Foster, 
+en ese proceso de reificación del ser humano su duplicación mecánica; se ven 
+reflejados en la cosa misma.
+En estricta consonancia con lo planteado por Abril en sus paratextos, se ob-
+serva cómo, al decir de Foster, ese cuerpo mecanizado resulta ser un ente repre-
+sentativo de los denominados “autómatas de la sociedad burguesa”, los cuales 
+tienen como ámbito predilecto de aparición los “bancos, clubs, hoteles, teatros, 
+prostíbulos”, espacios que, no podemos dejar de subrayar, establecen una rela-
+ción evidente entre dicha mención a los ámbitos de sociabilidad predilectos del 
+burgués y uno de los elementos que mejor caracteriza a este culto capitalista 
+como lo son los Banknoten, los billetes de banco en los que se configura un 
+mínimo atisbo de la, como dice el propio Benjamin en Calle de dirección única 
+(1928), “arquitectura de fachada del infierno” (113).
+En tanto que edificación sagrada, obra en construcción en donde las mo-
+chetas y bajorrelieves reúnen en su expresión más cabal la caracterización de 
+una religión capitalista, la gran ciudad moderna, sus “bancos, clubs, hoteles” 
+y demás sitios de interacción burguesa, deviene templo de las transferencias 
+monetarias, espacio de circulación de esos billetes como “imágenes sagradas”. 
+Dice Norbert Bolz a propósito de los mismos: “Los billetes, en tanto expre-
+sión pura del valor de cambio, representan al mismo tiempo alegorías […] El 
+ornamento del dinero, el sistema de emblemas de los billetes es la forma pura 
+de la glorificación del valor de cambio; se desplaza como pantalla de la fan-
+tasmagoría ante el umbral de ese reino en el cual […] debe abandonarse toda 
+esperanza” (“El capitalismo” 9).
+Definida significativamente como “corazón de la técnica”, reducto en don-
+de se ejecutan la mayoría de las operaciones económicas, la metrópoli según 
+Georg Simmel despliega en su haber una serie de actitudes endémicas de la 
+cultura del dinero, como por ejemplo la representación de una “existencia flo-
+tante […] sin raíces y anónima” (107) como lo es la descripta por el itinerario 
+vital de Sergio, el autómata protagonista. En la última estampa de la nouvelle 
+titulada “La ciudad y el manicomio” observamos algunos elementos que ca-
+racterizan a la dinámica urbana y la configuración misma de sus ciudadanos 
+como elementos ignorados, carentes de sustancia e incluso visibilidad. “Vive 
+la ciudad del manicomio”, escribe Abril, y pasa acto seguido a describir esa 
+provisionalidad identitaria en la que se asienta el trato social, motivo central 
+que define al anonimato urbano: 
+Cuando los hombres vuelven de los asilos ya son otros, desfigurados, cambia-
+dos. El que se llamaba Juan ya se llama Pedro. Y así todo. Las almas se truecan 
+en otras; muchas veces desconocidas, extrañas, penitentes […] Sergio ya no 
+pasa precisamente por la calle […] Su vida de ciudadano no ha dejado huellas 
+31
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | El cuerpo, (des)hecho de utopía. Un comentario acerca de El autómata...: 19-36
+ni señas. Se le siente vivir ausente, lejos, sin latitud, en una extraña imagen 
+propia y geográfica, con su color, pero sin sonido, en un silencio de flora e 
+insectos (“El autómata” 203).
+De esta manera, no sólo el manicomio resplandece en tanto que institución 
+que moldea subjetividades, sino que también se hace mención del hospital como 
+otro de los ámbitos en los cuales el individuo sufre la pérdida de su autonomía a 
+través del desmantelamiento de su corporalidad. Desde el primer fragmento de 
+la nouvelle en el cual leemos como “Aquel hombre idiota, alcohólico, que entra al 
+restaurante” tiene “un hijo en el manicomio”(165), el discurrir interrumpido de 
+lo narrado se asienta en un esquema que va, como se insinúa en la cita anterior, 
+de la decadencia a la atenuación del estado corporal del autómata Sergio. Como 
+corolario de dicho proceso se presenta entonces la escena final de la germinación, 
+un acontecimiento que establece a grandes rasgos una estrecha relación con la 
+naturaleza e incluso con la idea de un cuerpo nuevo, atisbo del mensaje redentor 
+de la nouvelle.
+El autómata, si bien presenta imágenes de degradación, pesimistas, es también 
+una disidencia activa y constructiva, donde apreciamos el talante surrealista del 
+autor, la mencionada potencialidad de un pesimismo activo. Recordemos si no lo 
+dicho por Mariátegui: “Proponiendo a la literatura los caminos de la imaginación 
+y del sueño, los suprarrealistas no la invitan verdaderamente sino al descubrimien-
+to; a la re-creación de la realidad” (“Grupo superrealista” 27). Esta recreación no se 
+plantea en El autómata ingenuamente sino que lleva la impronta del inconformis-
+mo, de la recuperación de un concepto de lo mimético que encuentre una solución 
+de continuidad entre el panorama socio-histórico de un país atravesado por los 
+avatares de la modernidad y las formas representacionales disponibles.
+En este sentido, el montaje como técnica literaria vanguardista emerge 
+como potencialidad creativa dedicada a poner en crisis los postulados realistas. 
+La nouvelle consta de ocho fragmentos titulados: “El padre y el hijo loco”, “El 
+sueño”, “El silencio”, “Origen y presencia del hombre”, “Lucha y pérdida del 
+mundo”, “Muerte del autómata”, “Metamorfosis de Sergio” y finalmente “La 
+ciudad y el manicomio”. Vemos así cómo se cifra la tarea primordial de dicho 
+procedimiento a lo largo de los fragmentos, ese llevar adelante el “mostrar por 
+montaje” que George Didi-Huberman describe como particularísimo elemento 
+de una generación de pensadores: Simmel, Sigmund Freud, Aby Warburg, Ernst 
+Bloch, Serguéi Eisenstein. En ellos “El montaje sería un método de conocimien-
+to y un procedimiento formal nacido de la guerra, que toma acta del “desorden 
+del mundo”. Firmaría nuestra percepción del tiempo desde los primeros con-
+flictos del siglo XX: se habría convertido en el método moderno por excelencia” 
+(Cuando las imágenes 98). Por consiguiente, no resulta llamativo el comentario 
+que realiza Bloch al texto ya citado de Benjamin Calle de dirección única, en 
+donde se traduce dicho procedimiento como el de la “forma de la revista”, la cual 
+se presenta como “una improvisación pensada, un escombro de la coherencia agrie-
+32
+Matías Di Benedetto | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+tada, una sucesión de sueños, aforismos, de consignas entre las que, en el mejor 
+de los casos, una afinidad electiva espera instaurarse transversalmente” (99-100; 
+el subrayado es nuestro). Las interrelaciones que el montaje suscita, confeccio-
+nando un modelo de legibilidad basado en lo heterogéneo, tienen como objetivo 
+el relevamiento de las obturaciones que sufre el aparato sinestésico en el seno de 
+la ciudad moderna, ese que nos convierte en autómatas de la percepción. Abril 
+busca, en este sentido, desarmar las maneras de narrar anquilosadas para desde 
+ahí desautomatizar formas de leer heredadas. 	
+Dicha conceptualización del fragmento, común como ya anticipamos a la 
+mayoría de estas narraciones vanguardistas, se reconoce en la genealogía cine-
+matográfica del desgarro del tiempo, que tiene en el mecanismo del montaje a 
+su máximo exponente6. Y es este desgarramiento, esta ausencia de sutura que 
+hace visible el hiato entre los planos narrativos, lo que inocula en la secuencia un 
+corte, una interrupción. De esta manera, el montaje que organiza la totalidad de 
+lo narrado opera a partir de una administración ostensible de la discontinuidad. 
+Las frases de Abril se van acumulando unas sobre otras, generando no sólo una 
+ruptura de la linealidad argumental, sino que incluso promueven la difícil tarea 
+de hurgar por continuidades de sentido entre los fragmentos que conforman el 
+texto. En un intento de reponer la peripecia, reconocemos la presencia de un 
+padre automatizado que decide internar a su hijo, quien sufre gran cantidad de 
+maltratos, en instituciones como el manicomio y el hospital, para finalmente 
+también tornarse un autómata, aunque rebelándose a través de una metamor-
+fosis que lo lleva a entremezclarse con la naturaleza, punto final de la narración 
+sobre el cual enseguida volveremos.
+En contra de las “metáforas benéficas” que buscan representar el carácter 
+autosuficiente, incluso su aspecto de objeto cerrado, del “Libro”, como sostiene 
+Roland Barthes7, vemos en la prosa de Abril la posibilidad de encontrar en la 
+6	
+A propósito, como señala David Oubiña al hacer referencia a una serie de películas en las cuales 
+se escenifica la contraposición entre un tipo de discurso fílmico excesivamente estructurado y los 
+clásicos fantasmas de la representación alternativa (la improvisación, lo inorgánico, la narración 
+desordenada), en el uso de la fragmentación estos filmes: […] introduce[n] el corte dentro de un 
+mismo plano para generar un cortocircuito allí donde la imagen habría discurrido como un conti-
+nuo de manera natural. El mismo encuadre, el mismo espacio y el mismo personaje pero realizando 
+una acción distinta: a diferencia del fundido encadenado que permitiría mostrar el paso del tiempo 
+como un flujo continuo, aquí es una aceleración brusca que empuja al plano en un salto hacia ade-
+lante. No captura el tiempo sino que lo desgarra.” (157, el subrayado es nuestro).
+7	
+En su artículo “Literatura y discontinuidad”, Roland Barthes propone los posibles actos terro-
+ristas que una novela de Butor proyecta por sobre el cuerpo impoluto del Libro (así, con ma-
+yúsculas) y, por ende, sobre la institución literaria, argumentos que se reproducen, salvando las 
+distancias, en El autómata. Primero, un atentado, una sacudida a las normas tipográficas clásicas, 
+pues la impresión que sigue los parámetros de la normalidad discursiva protege la idea de lo 
+literario; y en segundo lugar un acercamiento al vacío al ignorar esas figuras retóricas en las que 
+se sustenta el credo de la continuidad: “Las metáforas benéficas del Libro son la tela que se teje, 
+el agua que fluye, la harina que se muele, el camino que se sigue, la cortina que desvela, etc.; las 
+metáforas antipáticas son todas las de un objeto que se fabrica, es decir, que se elabora a partir 
+de materiales discontinuos” (244).
+33
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | El cuerpo, (des)hecho de utopía. Un comentario acerca de El autómata...: 19-36
+interrupción una forma, en el fragmento una coherencia fundamental que des-
+cansa en el sentido que provee la ruptura. Vemos ahí, de manera más o menos 
+velada, la puntual consideración de los fulgores de sentido, que permean por 
+sobre cada fragmento visto entonces también como “destello”, “esencia fractal”, 
+según los postulados de Jean Luc Nancy en El sentido del mundo8.
+Así y todo, con antelación a la puesta en escena de dichas instituciones oficia-
+les en las que es ingresado el protagonista, el autómata está “muerto como guan-
+te sin dedos, olvidado. Sin alma, sólo cielo, señal vacía del que ha sido y ya no es 
+y podría ser […] pesada anatomía de madera carcomida y abierta” (191), aunque 
+sin embargo “Él tampoco es lo que se puede llamar un muerto. Esta palabra no 
+tiene concordancia con su estado” (203). En el capítulo “Sueño” la visión de la 
+enfermedad de Abril se vuelve la representación de la automatización de la vida 
+que quiebra la salud del hombre. Se lleva a cabo la constitución de un cuadro 
+clínico mediante aceleraciones o golpes internos, que vuelven al dolor principio 
+estético que guía la trama. Sergio se transforma en puro cuerpo sufriente; su 
+carne, asidero de descripciones patéticas desligadas de la precisión de un lenguaje 
+científico objetivo, una narración que hace mella en la merma de movilidad así 
+como también en la inercia casi total del cuerpo, inclusive en la incapacidad de 
+tomar la palabra, como instancias centrales del relato: “ojos y vidrio; sueño y 
+vidrio. Caída en todo el esqueleto; entre la cal, óseo el dolor. Hueso con hueso. 
+Sin movimiento, nulo, sábana el cuerpo. Gritan las interioridades del intestino 
+igual que cañerías. El enfermo incorpórase y no orina. Musgo en el riñón em-
+blanquecido, hongos en el riñón” (171-172). 
+ Pero detengámonos un momento en esta última imagen, en la que podemos 
+extraer del dolor extremo, la proliferación, mínima aunque potencialmente deci-
+siva, de una utopía. De la misma manera que los surrealistas reconocen en el as-
+pecto siniestro de la máquina los resultados nocivos que le deparan al individuo 
+los efectos de las leyes de la mercantilización bajo el capitalismo, consecuencia 
+directa del impacto de un utilitarismo voraz, se hace presente en el interior de 
+dicha corporalidad mecanizada el resurgimiento de un elemento que se liga, en 
+su renacer, con el mundo de la naturaleza y la idea utópica del socialismo y del 
+hombre nuevo. 
+La terrenalidad de la utopía socialista abrileana se acentúa en la posibilidad 
+de permanecer en la naturaleza; la clave radica en que Sergio se corporice de otra 
+manera, que vuelva y se regenere, no que persista en estado amorfo, supeditando 
+por lo tanto la concreción de esta utopía: no se origina al margen de la realidad 
+sino en ese presente desde el que se narra. Sergio nos descubre a través de su 
+8	
+Agrega Nancy al respecto de este establecimiento de lo fragmentario como nuevo eje del arte: 
+“Lo que ha sido fragmentado –una cierta configuración del arte y la obra, una cierta cosmética de 
+lo ‘bello’ y de lo sublime– tampoco ha desaparecido simplemente entre sus destellos. Antes que 
+nada deberíamos saber qué es lo que queda en los destellos: ¿dónde está lo bello en los destellos 
+de lo bello?, ¿cómo prorrumpe en destellos?” O bien, y suponiendo que no quede nada, “habría 
+que preguntarse, suponiendo que la fragmentación haya propiamente dislocado la esencia a la 
+cual a sobrevenido, si esta esencia […] debería llamarse ‘esencia fractal’” (181).
+34
+Matías Di Benedetto | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+padecimiento cómo se instaura la organicidad de lo utópico en lo histórico. Si el 
+programa de vida burguesa redunda en la concepción del hombre como engra-
+naje, la idea utópica, sea esta de carácter comunista o surrealista, libera y ofrece 
+transformar el cuerpo del autómata, volviéndolo parte de un proceso germinal 
+que liga lo colectivo con la naturaleza. Puede leerse al final de la nouvelle: “El 
+mundo natural rueda a las lindes de Sergio. El mundo material donde él tiene 
+puestos los oídos, el tímpano musical y la laringe humanos, de otra época, ya 
+que es una forma vasta de la naturaleza obsesionante y alucinada. Se le puede 
+hallar en los vegetales o en los minerales abruptos. Tiene que ser esta una labor 
+de descubrimiento” (67).
+Lo mortuorio como exceso del discurso encuentra su culminación con este 
+último párrafo de la nouvelle, el cual insta al lector a embarcarse en esa “labor de 
+descubrimiento” del proyecto de hombre nuevo que se inmiscuye con lo natural, 
+entendido como sostén de dicho proceso de permutación. Del cuerpo meca-
+nizado a la ilusión de la utopía colectiva, El autómata se lee a sí mismo como 
+la búsqueda de la potencia vital que va en detrimento no sólo de la “regresión 
+casi autista” (Foster 176) a la que tanto le temían los surrealistas, consecuencia 
+directa del régimen económico capitalista, sino que también asume la tarea de 
+desestimar las limitaciones de un modelo narrativo, definido ahora como es-
+pacio capaz de generar una tentativa rupturista, y por qué no romántica, de 
+reencantamiento del mundo, de retorno a siluetas corporales, a narraciones un 
+tanto extravagantes.
+Referencias bibliográficas 
+Abril, Xavier. “El autómata”. Documentos de literatura 2/3, selección, prólogo y 
+notas de Jorge Kishimoto Yoshimura. Lima, Más Ideas, 1994, pp. 156-204.
+___. “Nota a la muerte de la novela”. Amauta, núm. 27, 1929, pp. 69-70, edi-
+ción facsimilar. Lima, Pontificia Universidad Católica del Perú, 1976.
+Achugar, Hugo. “El museo de la vanguardia” Narrativa vanguardista hispano-
+americana, editado por Hugo. J. Verani. México, UNAM-Ediciones del 
+Equilibrista, 1996, pp. 7-40.
+Badiou, Alain. El siglo. Buenos Aires, Manantial, 2005.
+Barthes, Roland. “Literatura y discontinuidad”. Ensayos críticos. Buenos Aires, 
+Seix Barral, 2003, pp. 241-257.
+Benjamin, Walter. “El surrealismo: la última instantánea de la inteligencia euro-
+pea”. Poesía y capitalismo. Iluminaciones II. Madrid, Taurus, 1999, pp. 41-63.
+___. “La obra de arte en la época de la reproductibilidad técnica”. Buenos Aires, 
+Godot ediciones, 2011, pp. 27-74.
+35
+ XXII.1 (enero-abril 2018) ISSN 1851-4669 | El cuerpo, (des)hecho de utopía. Un comentario acerca de El autómata...: 19-36
+___. “El carácter destructivo”. En Discursos interrumpidos I. Madrid, Taurus, 
+1987, pp. 157-161.
+___. Calle de mano única. Edición y prólogo a cargo de Jorge Monteleone. Bue-
+nos Aires, El cuenco de plata, 2014.
+___. “El capitalismo, ¿una invención de los teólogos?”. En Kapitalismus als 
+Religion, editado por Baecker Dick. Kulturverlag, Kadmos, 2003, pp. 
+187-207.
+Brushwood, Jerome. La novela hispanoamericana del siglo XX. Una vista panorá-
+mica, Barcelona, F.C.E, 1999.
+Bürger, Peter. Teoría de la vanguardia. Buenos Aires, Las cuarenta, 2010.
+Corral, Rose. Ficciones limítrofes. Seis estudios sobre narrativa hispanoamericana de 
+vanguardia. México, El Colegio de México, 2006.
+Didi-Huberman, Georges. Cuando las imágenes toman posición. Madrid, Anto-
+nio Machado Libros, 2008. 
+Foster, Hal. Belleza compulsiva. Buenos Aires, Adriana Hidalgo, 2008.
+Funes, Patricia. Salvar la nación. Intelectuales, cultura y política en los años veinte 
+latinoamericanos. Buenos Aires, Prometeo, 2006.
+Goic, Cedomil. Historia de la novela hispanoamericana. Valparaíso, Ediciones 
+Universitarias, 1972.
+Huyssen, Andreas. Después de la gran división. Modernismo, cultura de masas, 
+posmodernismo. Buenos Aires, Adriana Hidalgo, 2006.
+Kishimoto Yoshimura, Jorge. “Narrativa peruana de vanguardia”. En Documen-
+tos de Literatura 2/3, Lima, Más Ideas, 1994, pp. 9-18.
+López Lenci, Yasmín. El laboratorio de la vanguardia en el Perú. Lima, Horizon-
+te, 1999.
+Löwy, Michael. “Anticapitalist readings of Weber´s Protestant Ethic: Ernst 
+Bloch, Walter Benjamin, György Lukacs, Erich Fromm”, Logos. A Journal of 
+Modern Society and Culture, vol. 9/1, 2010. www.logosjournal.com
+Mariátegui, José Carlos. “El grupo superrealista y Clarté”, “Balance del Supra-
+rrealismo”, “Nadja de André Breton”. Ensayos literarios. Sobre Joyce, Breton y 
+las vanguardias europeas. Buenos Aires: Mardulce, 2012, pp. 79-85 y 27-33.
+Müller Bergh, Klaus y Mendonca Teles, Gilberto. Vanguardia Latinoamericana. 
+Historia, crítica y documentos. Tomo IV, Sudamérica: Ecuador, Perú y Bolivia. 
+Madrid; Frankfurt, Iberoamericana;Vervuert, 2005. 
+Nancy, Jean-Luc. El sentido del mundo. Buenos Aires, La marca, 2003.
+Oubiña, David. El silencio y sus bordes. Modos de lo extremo en la literatura y el 
+cine. Buenos Aires, Fondo de Cultura Económica, 2011.
+36
+Matías Di Benedetto | 
+ XXII.1 (enero-abril 2018) ISSN 1851-4669
+Pizarro, Ana. “Vanguardismo literario y vanguardia política en América Latina”. 
+Araucaria de Chile, núm. 13, 1981, pp. 81-96.
+Poe, Edgar Allan. Ensayos y críticas. Madrid, Alianza, 1991. 
+Simmel, George. “El individuo y la libertad. Ensayo de crítica de la cultura. Las 
+grandes urbes y la vida del espíritu”, Revista de Estudios Sociales, núm. 10, 
+octubre 2001, pp. 107-109. 
+Thayer, Willy. Tecnologías de la crítica. Entre Walter Benjamin y Gilles Deleuze. 
+Santiago de Chile, Metales pesados, 2010.
+Vallejo, César. “Autopsia del superrealismo”, en Schwartz, Jorge. Las vanguardias 
+latinoamericanas. Textos programáticos y críticos. México, Fondo de Cultura 
+Económica, 2006, pp. 465-470.
+Fecha de recepción: 20/09/2016 / Fecha de aceptación: 10/07/2017

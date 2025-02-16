@@ -1,0 +1,855 @@
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+2 
+CUADERNOS de literatura
+Revista de Estudios Lingüísticos y Literarios
+Cómo citar: Barrera Linares, L. (2022). Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo. 
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios, 19, 2-22. Resistencia, Argentina, UNNE. ISSN 2684-0499. 
+ 
+DOI: http://dx.doi.org/10.30972/clt.0196206
+LENGUAJE INCLUYENTE Y ACADEMIAS: EL MASCULINO GENÉRICO 
+Y LAS ESTRATEGIAS PARA SUSTITUIRLO
+Inclusive language and academies: the generic masculine and the strategies to 
+replace it in Spanish
+Luis Barrera Linares * 
+Universidad Católica Silva Henríquez 
+lbarrera@ucsh.cl
+Recibido: 14/08/2022 - Aceptado: 14/10/2022
+Resumen
+Este artículo propone una discusión acerca del lenguaje incluyente (LI) 
+con base en cuatro tópicos: la participación de las academias de la lengua 
+española en la discusión sobre el masculino genérico gramatical (MG), la 
+problemática relacionada con las estrategias sustitutivas (ES) que se han 
+propuesto para reemplazar dicha norma, la dificultad relacionada con usos 
+fallidos de algunas ES y las prohibiciones o autorizaciones oficiales para 
+aplicación de fórmulas lingüísticas inclusivas. Entre las conclusiones más 
+relevantes se destaca que no corresponde a las academias dictar normas 
+que regulen los usos del idioma, puesto que solo los registran, y que el MG 
+convive en el discurso contemporáneo con algunas de las ES que buscan 
+evitar su ambigüedad. Se añade a esto, la existencia de cierta anarquía en el 
+uso de ES, condición que no favorece el avance de opciones inclusivas y más 
+bien contribuye con actos de habla paródicos o humorísticos. También las 
+prohibiciones o “legalizaciones” de uso del LI restringen su difusión. 
+Abstract
+This article examines four topics related to inclusive language: the 
+participation of language academies in the discussion about Spanish generic 
+masculine, the problem related to substitutive strategies that have been 
+proposed to replace that norm, the difficulty referred to unsuccessful uses 
+of such strategies, and the prohibitions or official authorizations for the 
+application of inclusive formulas. Among the most relevant conclusions are 
+that is no up to academies to dictate norms which regulate language uses, 
+since they only register them; on the other hand, the generic masculine 
+coexists in contemporary Spanish discourse with some of the substitutive 
+strategies that seek to avoid ambiguity. Moreover, there is a certain anarchy 
+in the application of substitutive strategies that, far from favoring the 
+advance of inclusive linguistic options, contributes to parodic or humorous 
+speech acts. Finally, sometimes, prohibitions or “legalization” of the use of 
+inclusive language could restrict its dissemination. 
+Palabras clave
+lenguaje inclusivo; 
+academias; 
+masculino genérico; 
+estrategias sustitutivas; 
+usos erráticos del 
+lenguaje incluyente
+Keywords
+inclusive language; 
+academies; 
+generic masculine; 
+(un)successful 
+strategies; 
+erratic uses of 
+inclusive language
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 3 
+Lenguaje incluyente y academias: el masculino genérico y las estrategias 
+para sustituirlo
+1. Antecedentes y ubicación del tema
+Se ha repetido múltiples veces, hasta el punto de convertirla en lugar común, una expresión 
+del filósofo francés Michel Foucault, según la cual todo lo que se vuelve normal termina tornándose 
+invisible. Podría parafrasearse esto argumentando que no somos conscientes de la presencia y la 
+necesidad del aire en nuestras vidas, debido a que estamos siempre inmersos en él. Lo habitual, lo 
+cotidiano, lo que está usualmente frente a nosotros, y que nunca vimos de otro modo, pasa a convertirse 
+en algo que nos resulta natural; se integra a nuestras rutinas y así lo aceptamos. 
+Hay quienes plantean una situación similar relacionada con el uso que gramaticalmente rige 
+el llamado masculino genérico (MG), definido en la Nueva Gramática de la Lengua Española del 
+siguiente modo:
+Es habitual en las lenguas románicas, y también en las de otras familias lingüísticas, usar en 
+plural los sustantivos masculinos de persona para designar todos los individuos de la clase o el 
+grupo que se mencione, sean varones o mujeres. Así pues, el llamado USO GENÉRICO del 
+masculino es consecuencia del carácter no marcado de este género. (RAE y ASALE, 2009, § 
+2.2b, mayúsculas en el original)
+Se añade a esto que, cuando alude a seres sexuados, el carácter de no marcado le otorga al 
+masculino gramatical la posibilidad de abarcar en su significado dos referentes, (hombre y mujer, en 
+el caso de los humanos). Formalmente, se habla de “asimetría”, por cuanto no ocurre lo mismo con el 
+femenino (v. Escandell-Vidal, 2020, p. 3). De modo que, si decimos, por ejemplo, el hombre es mortal, 
+no implica que semánticamente nos estemos refiriendo solo a personas del sexo masculino. Por otra 
+parte, el MG constituye una regla instaurada en nuestra competencia, aparte de que no es atinente 
+solo al español como lengua (Escandell-Vidal, 2020) y de allí que su uso nos resulte más que cotidiano, 
+invisibilizándose. Eso permite creer que se trata de un recurso normalizado. Existe desde que el español 
+es español (Grijelmo, 2019) y, en apariencia, no tendríamos por qué cuestionar dicha asimetría. No 
+obstante, en múltiples ocasiones lo hemos puesto en práctica, sin llegar a pensar que, al decir, por 
+ejemplo, los carpinteros, los taxistas o los fontaneros, podríamos estar excluyendo a las mujeres que también 
+ejercen esos oficios. Pocas veces nos preguntamos si ha sido así para quienes nos escuchan o leen.
+Por distintas razones relativas al habitus (Bourdieu, 1991), se trata de una costumbre cultural 
+y lingüística, posicionada en la memoria semántica de cualquier hispanohablante. No por azar, el 
+mismo Bourdieu equipara el concepto de habitus con la noción de estructura profunda chosmkiana. 
+El masculino inclusivo es, entonces, parte de la norma estándar o axiológica (Ramírez Gelvis y 
+Gelormini-Lezama, 2021) y está no solo férreamente instaurado en nuestra conciencia lingüística, 
+sino que también ha sido avalado por una tradición lingüística que lo respalda y que no implica 
+necesariamente la intención de ocultar a nadie. Eso es lo que se plantea, desde una mirada basada
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+4 
+estrictamente en la gramática (Bosque, 2012; Grijelmo, 2019; RAE, 2020). Visto desde la perspectiva 
+de quienes lo justifican, siempre ha estado allí y no habría motivos ni para censurarlo ni para 
+sustituirlo por otro(s) recurso(s) que facilite(n) romper con el carácter ocultador que podría adquirir 
+en determinados contextos. 
+Uno de los argumentos más potentes para ratificar ese postulado radica en que, si fuera una 
+norma invisibilizadora de las mujeres, no es la preceptiva gramatical la responsable de tal situación. 
+La Real Academia Española (RAE), la Asociación de Academias de la Lengua Española (ASALE) 
+y algunos investigadores han intentado dejar claro que, de haber ocultamiento, el mismo tendría 
+su origen en un motivo más discursivo que gramatical (v. Escandell-Vidal, 2020; Grijelmo, 2018, 
+2019; Mendívil Giró, 2020; RAE, 2020); se relacionaría más con la actuación que con la competencia 
+(Moreno Cabrera, 2012). Sin embargo, desde otra mirada que busca confrontar esta aseveración, 
+podríamos citar los planteamientos de Márquez Guerrero (2016): 
+La interpretación general del masculino como específico en enunciados potencialmente 
+universales pone seriamente en duda el concepto de genérico. Por esta ambigüedad, el masculino 
+genérico se revela como insuficiente e impreciso, ya que no solo no designa con transparencia la 
+realidad, sino que incluso nos impide percibir o imaginar cambios… (p. 11) 
+En el mismo sentido, Martín (2019) manifiesta que “Nos han enseñado a creer que es lo 
+natural” (p. 27). Si deseamos ser imparciales y dejamos de lado el apasionamiento hacia una u otra 
+posición, podríamos apreciar el tema desde una óptica que aparte los prejuicios e indague acerca de las 
+posibles causas para el cuestionamiento hacia el MG. En esa posición nos ubicaremos para desarrollar 
+el presente ensayo.   
+Una vez marcados los límites de lo que ha sido una inevitable polarización acerca de lo (in)
+inadecuado del MG (Barrera Linares, 2019; Bolívar, 2019; Escandell-Vidal, 2020; Kalinowski, 2020; 
+Márquez, 2013), lo expresado en el párrafo anterior conduce hacia las metas que aquí nos hemos 
+propuesto. Son las siguientes: (1) discutir la participación de las academias de la lengua en torno del 
+tema del MG; (2), ofrecer un recuento de las posibilidades reales para que el uso de algunas estrategias 
+sustitutivas (ES) del MG se hayan venido imponiendo, tanto en el discurso público general como en 
+los medios académicos; (3) referir un conjunto de malentendidos y usos inadecuados de algunas ES 
+propuestas para suplir lo que algunas veces se oculta con el MG, a veces sin que exista en ello una 
+intención premeditada para hacerlo, y (4), plantear las dificultades que podrían generarse a partir de 
+imposiciones legales o prohibiciones del uso de otros recursos atinentes al LI. 
+Por ES entenderemos cualquier procedimiento léxico, morfológico, grafemático, fonológico o 
+(morfo)sintáctico mediante el cual se busque reemplazar la opción gramatical del MG ortodoxo, con 
+la finalidad de visibilizar discursivamente la existencia de otros géneros sociales diferentes.
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 5 
+2. Las academias de la lengua
+(…) de las epidemias, de horribles blasfemias
+de las academias,
+¡líbranos, Señor!
+Rubén Darío
+Los versos que encabezan este apartado podrían haber sido firmados en contra de quienes, a 
+veces sin demasiado fundamento, consideran que las academias de la lengua constituyen santuarios 
+o emporios desde los cuales se decide la vida, el curso y la evolución del idioma. No es así, pero 
+ya sabemos que el criterio de autoridad con el que las personas y los medios de comunicación 
+han revestido a dichas instituciones tiene mucho peso en la opinión pública y los conglomerados 
+hispanohablantes, principalmente focalizados en el prestigio, su condición de árbitras y el radio de 
+influencia de publicaciones como el Diccionario de la lengua española (DLE, RAE y ASALE, 2021), 
+el Diccionario Panhispánico de dudas (DPD, RAE y ASALE, 2005) y el Libro de estilo de la lengua 
+española (RAE y ASALE, 2018) (v. Del Valle, 2014; Fajardo Aguirre, 2011; Jacinto García, 2013). 
+Hay, además, muchos motivos históricos, geopolíticos, ideológicos y lingüísticos para que, debido a su 
+antigüedad e influencia de más de tres siglos, se piense que la mayor responsabilidad en la justificación 
+del MG recae en la RAE. “Si lo dice la RAE, es palabra santa”,1 pareciera pensar mucha gente. 
+Eso mismo ha colocado a la ASALE en el seno de una discusión sobre el lenguaje inclusivo en la 
+cual se le atribuyen incluso postulados que no emergieron de ella o, de haber ocurrido así, han sido 
+malinterpretados. No obstante, no significa esto que dicha institución no haya ofrecido argumentos 
+en el momento de explicar aspectos relativos al carácter no discriminatorio del MG. Hay evidencia 
+documental suficiente que da testimonio de ello (v. Bosque, 2012; RAE, 2020; RAE y ASALE, 
+2018), como también existe la contraparte, desde la cual se ofrecen argumentos en contrario (Escaja, 
+2021; Márquez, 2013, 2016; Martín, 2019; Prunes, 2021) y, en no pocas ocasiones, se apuntan todas 
+las contradicciones hacia la RAE (cf. Cabeza Pereiro y Rodríguez Barcia, 2013; López, Rodríguez 
+Barcia y Cabeza Pereiro, 2020; Raiter, 2020).
+A esto habría que agregar la participación individual de académicos, para ampliar explicaciones 
+formales respecto de ello, principalmente desde enfoques netamente gramaticales; es decir, ajenos 
+a lo sociológico o lo político (v. Álvarez de Miranda, 2012; Company, 2020, 2021 –en Paul, 2020 
+y Gutiérrez Alcalá, 2021, respectivamente–; Fernández Ordóñez, 2011; Gutiérrez Ordóñez, 2018a, 
+2018b). Adicionalmente, otros relevantes hablantes públicos se han alineado con esta misma tendencia, 
+a fin de ampliar o asumir puntos de vista personales sobre el fenómeno (Escandell-Vidal, 2020; 
+Grijelmo, 2018, 2019; Sarlo, 2018; Sarlo y Kalinowski, 2019).
+1. Aunque referido solo a la aceptación de algunas voces que refieren a profesiones femeninas (médica, fiscala, por ejemplo), 
+respecto de la consideración de la RAE como máximo tribunal, merece la pena mencionar una declaración de Javier 
+Lascuráin, coordinador general de la Fundéu en la que se refiere a “las bendiciones de la Real Academia Española”, 
+refiriéndose a la incorporación de nuevas voces en el DLE (v. González Moreno, 2018, párr. 22).
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+6 
+Frente a lo expresado con anterioridad, nos interesa ahora abordar algunas aclaraciones 
+importantes, relacionadas con los temas sobre el lenguaje incluyente y su vínculo con las políticas de 
+las instituciones agrupadas en la ASALE. 
+Primero, la discusión sobre algunas reservas y observaciones hacia el uso de ES para el MG no 
+es un asunto que compete exclusivamente a la RAE, como suelen reflejarlo buena parte de los medios 
+y también algunos especialistas, principalmente en declaraciones públicas o artículos académicos. 
+Atribuir exclusivamente a la RAE actitudes conservadoras sobre el tema simplifica en exceso una 
+polémica en la que ha tenido participación muy importante la ASALE en pleno, es decir, 23 academias. 
+Cuando hablamos, por ejemplo, del muy citado “informe Bosque (2012)”, a veces se olvida que dicho 
+autor actuaba solo como ponente designado por su Corporación (Moreno Cabrera, 2012, Barrera 
+Linares, 2019) y, además, que el documento referido contiene en su parte final una muy importante 
+aclaratoria que es la siguiente: “Este informe, redactado por Ignacio Bosque, ha sido suscrito por 
+todos los académicos numerarios y correspondientes que asistieron al pleno de la Real Academia Española 
+celebrado en Madrid el jueves, 1 de marzo de 2012” (p. 18, cursivas añadidas). Seguidamente se indica 
+que representa el acuerdo de 26 numerarios de la RAE (entre ellos, tres mujeres) más siete miembros 
+correspondientes (incluidos Humberto López Morales, para ese momento, secretario general de la 
+ASALE y dos académicas de Argentina y El Salvador). 
+En consecuencia, el documento reflejaba la visión corporativa de la ASALE, de la cual la RAE 
+es en realidad la más relevante de sus miembros (debido a su antigüedad y a su poder de aglutinación e 
+irradiación panhispánica), mas no la única. Todo lo que se ha planteado en los informes 2012 y 2020 
+(segunda parte) se relaciona con criterios institucionales de la ASALE, lo que se ratifica en varios de los 
+textos incluidos en Escaja y Prunes (2021). La publicación por la ANLE de este último volumen referido 
+es un importante indicio de que hay academias preocupadas por discutir el tema y reflexionar sobre 
+postulados relativos a los desajustes discursivos que genera el MG en algunos contextos. Con una postura 
+que apunta hacia la discusión y el equilibrio, podría mencionarse, además, lo planteado por la Academia 
+Chilena de la Lengua (2020) en el volumen Sexo, género y gramática. Frente a esto, no puede obviarse 
+un libro previo de la Academia Dominicana de la Lengua, cuyo título evidencia un enfoque bastante 
+radical: Sexismo lingüístico y doble género. La plaga del lenguaje contemporáneo (Rosario Candelier, 2012).
+En segundo lugar, ni la discusión sobre la pertinencia del MG es exclusiva de hombres ni 
+las propuestas para sustituirlo y evitar la ambigüedad conciernen solo a mujeres o a personas no 
+binarias. Aunque ya sabemos que es de más antigua data, principalmente en lo referido a profesiones 
+femeninas (v. García Meseguer, 1976; Sancha Vásquez, 2022; Simón-Alegre, 2021), la polémica ha 
+tomado mucho más cuerpo desde la publicación del texto firmado por Bosque (2012). Ha devenido en 
+un tópico de interés público que, en varios casos, ha concernido incluso a gobiernos y Estados.2
+1 Es un
+2. En el ámbito hispano, son ejemplos emblemáticos los de Venezuela y Argentina. En el primer caso se ha propuesto 
+una Ley del lenguaje con conciencia de género, en proceso de aprobación por parte de la Asamblea Nacional de dicho país 
+(v. Prensa AN, 2021). En cuanto a Argentina, habría que mencionar, primero, el documento oficial del actual Gobierno 
+Nacional intitulado (Re)nombrar. Guía para una comunicación con perspectiva de género (Ministerio de las Mujeres, Género y 
+Diversidad, 2020), cuyo propósito fundamental es orientar el uso del LI. Segundo, aunque no sea extensiva a todo el país, 
+en la vía opuesta, podría mencionarse la resolución del Gobierno de la Ciudad Autónoma de Buenos Aires, que busca 
+prohibir el uso del lenguaje inclusivo en la escuela (v. Centenera, 2022).
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 7 
+tema de discusión atinente a cualquier sociedad contemporánea, panhispánico e incluso translingüístico, 
+sin distingos sexuales. Así como hay propuestas de ES de parte de organizaciones de mujeres y hombres, 
+también existen colectivos femeninos propensos a la “defensa” del MG. Sobre este aspecto, y aunque 
+concierne a otro idioma romance (el catalán), con rasgos acerca del género gramatical muy similares a 
+los del español, merece la pena recordar la publicación del libro compilado por la profesora española 
+Maria Carme Junyent (2021), contentivo de breves artículos de setenta mujeres que se manifiestan 
+en contra de las propuestas del lenguaje incluyente. Sobre algunos de los contenidos relacionados con 
+los temas de dicho volumen y sus implicaciones lingüísticas, sociales e ideológicas, remitimos a Sen 
+(2022). La siguiente cita textual habla por sí sola (comillas en el original):
+Posesivos oligárquicos
+“Decir que el género en una lengua –ironiza la profesora [M. Carme] Junyent– es obra del 
+patriarcado es como decir que los posesivos los ha inventado la oligarquía terrateniente”. Sonrío, 
+pero al evocar cierto activismo me veo obligado a añadir con menos ironía: “No les dé ideas”. Y es 
+que acongoja comprobar cómo un gesto activista ignorante de la razón lingüística acaba convertido 
+en norma impuesta por administraciones gestionadas por políticos más temerosos de ser tachados 
+de machistas que de ignorantes de la gramática. La paradoja es que ese lenguaje inclusivo acaba 
+siendo excluyente para las niñas que han crecido con él y que hoy al escuchar “los niños”, en vez 
+de sentirse incluidas, se sienten excluidas si no se añade “y las niñas”. Por favor, no busquen votos 
+torturando la lengua de todos y déjennos hablar como queramos. (v. Amiguet, 2022, párr. 1)
+Tercero, una perspectiva que evite la polarización acerca del tema del LI permitiría verificar 
+en la realidad lingüística del español actual una convivencia del MG con varias de las alternativas que 
+se han venido proponiendo para reemplazarlo, algunas más exitosas que otras, como, por ejemplo, el 
+desdoblamiento (v. Barrera Linares, 2019; Barrera Linares, 2022; Barrera Linares y Sánchez Lara, 
+2021) y los intentos para recurrir a la -e u otras opciones morfológicas o grafémicas similares (por 
+ejemplo, -x, -@), como posibles neomorfemas con significado de “indistinto” o “sin género” (v. datos 
+en Gil, 2020; Martín Meléndez, 2020; Salas Ayala, 2021, INSOD, 2020). Aunque no es partidaria 
+del uso del LI, la académica mexicana Concepción Company habla incluso de una supuesta relación 
+de “diglosia”: dos normas, una muy antigua y otra emergente, compartiendo un mismo contexto (v. 
+Gutiérrez Alcalá, 2021, párr. 2). Aunque es evidente la convivencia de fórmulas de lenguaje incluyente 
+con opciones del MG (Barrera Linares y Sánchez Lara, 2021), no compartimos el planteamiento de 
+una situación lingüística diglósica, en la cual una lengua o una variedad arropa a otra, bajo condición 
+de mayor valoración social y prestigio en determinados registros formales (Ferguson, 1959). Las ES y 
+el MG aparecen en actos de habla en diversas situaciones y registros, tanto informales como formales, 
+sin que una opción resulte más o menos prestigiosa que la otra. Puede ocurrir también que ambas 
+alternativas gocen de prestigio en determinados sociolectos o niveles diafásicos.3
+1
+En cuanto al desdoblamiento, Gutiérrez Ordóñez (2018b) y Albitre Lamata (2021) predicen 
+la posibilidad de que su uso desaparezca, debido a sus implicancias para el llamado principio de la 
+economía, afirmación similar que ya hacía García Meseguer (2001):
+3. Otro autor que también alude a una posible relación diglósica es Martín Meléndez (2020), solo que este la plantea 
+exclusivamente relacionada con el uso de la -x, en relación con su uso como ES en la oralidad, distinta ante la posibilidad 
+de la escritura. Tampoco en este caso podría establecer una vinculación relacionada con el prestigio.
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+8 
+...considero poco probable que la solución de futuro sea la duplicación de género, que no 
+pocos hablantes rechazan por reiterativa. El principio de economía lingüística está firmemente 
+arraigado en todos los hablantes y por ello, cuesta trabajo pensar que tal solución continuará 
+vigente el día, hoy lejano, en que la sociedad sea por fin igualitaria. (p. 32)
+A más de dos décadas de tal afirmación, la situación actual pareciera mostrar la fortaleza que 
+dicho recurso ha venido ganando con el tiempo, tanto en la oralidad como en la escritura, principalmente 
+en publicaciones académicas, ambientes relacionados con la educación, medios de comunicación y 
+redes sociales (v. Kalinowski, 2020). Quizás se reformulen a futuro algunos mecanismos referentes a 
+este, principalmente cuando acarreen la posibilidad de perjudicar la fluidez en determinados actos de 
+habla (su repetición recurrente, por ejemplo), sin que ello signifique su desaparición. En sus distintas 
+variantes (ver Tabla 1, más adelante), ha demostrado ser bastante útil para quienes defienden las 
+alternativas del lenguaje incluyente. La mejor prueba de ello es que buena parte de las guías lo 
+recomiendan y ni siquiera la propia RAE (2020) lo descarta como adecuado en el momento de evitar 
+ambigüedades; en el último informe de dicha institución, se señala positivamente el hecho de que no 
+es “agramatical” y a veces su uso implica que “el riesgo de ambigüedad real es mínimo” (RAE, 2020, 
+p. 55). En este tiempo, no es extraño encontrarlo en documentos académicos diversos y en registros 
+orales formales, aunque no podríamos decir lo mismo de la influencia que pudiera haber tenido en 
+registros coloquiales (tengo cinco hijos e hijas / niños y niñas, hoy saldrán de paseo con papá, v. Álvarez 
+de Miranda, 2012, Escandell-Vidal, 2020; González, 2020) o en expresiones con semas negativos 
+(ladrones y ladronas, estafadores y estafadoras, las y los corruptos / los/as bandidos/as; los y las imbéciles; 
+alumnos(as) reprobados y reprobadas) (v. ADN40Mx, 2019).
+Independientemente de que satisfaga o no nuestras expectativas o de la posición individual o 
+institucional que asumamos, investigadores, docentes y comunicadores debemos tomar en cuenta los 
+desdobles como parte del perfil lingüístico de la sociedad actual, sin que ello implique que debamos 
+necesariamente plegarnos de modo acrítico a todas las propuestas, a veces incluso por encima de 
+nuestra competencia lingüística. Están presentes en el discurso contemporáneo y dejarlos de lado no 
+es la mejor salida ni para la lingüística ni para la educación. Hay que discutir sus ventajas y desventajas 
+comunicacionales. Ignorarlos o solo combatirlos, con argumentos harto repetidos y en muchas 
+ocasiones desacertados, es ignorar que la investigación lingüística está obligada a tomar en cuenta 
+cualquier fenómeno inherente a la comunicación, independientemente de que afecte nuestro confort 
+comunicacional. Las alternativas o ES para suplir lo que a veces oculta el MG son parte del español 
+actual y, aunque de momento desconozcamos su futuro, algún efecto habrán de tener en nuestros 
+hábitos lingüísticos. Albergan la posibilidad de un cambio lingüístico, o al menos un reajuste, dentro 
+del sistema morfosintáctico que, constituido todavía por un esquema dual, vigente desde hace mucho 
+tiempo (2G: masculino/femenino), pasaría a ser triple (3G: masculino/femenino/otro) (v. Menegotto, 
+2020; Moreno Cabrera, 2012; Radi y Spada, 2020; Ramírez Gelvis y Gelormani-Lezama, 2020).4
+1 
+4. Menegotto (2020) contiene interesantes explicaciones para la posible emergencia de un esquema morfológico que 
+ofrecería tres posibilidades (3G): masculino/femenino/otro.
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 9 
+Finalmente, otro factor que hipotéticamente podría relacionarse con esto es la vinculación de 
+propuestas de lenguaje incluyente con determinados gobiernos o movimientos de izquierda.5
+1Aunque 
+no se trate de un tema exclusivo de esta ideología, sino de toda la sociedad, sobreviven algunos 
+prejuicios que insisten en dicha asociación y también eso podría estar contribuyendo con el poco o 
+muy lento avance de algunas feminizaciones (bachillera, abogada, psicóloga, ingeniera y, por supuesto, 
+médica, entre muchas otras, v. Barrera Linares, 2021, 2022). En mayor o menor medida, el tema del 
+lenguaje incluyente ha venido ocupando espacios en todas partes, independientemente de la inclinación 
+ideológica de personas, instituciones y gobiernos.
+3. El recurso de las ES para evitar la invisibilidad implícita en el MG
+Sin que haya sido rigurosamente respaldado por propuestas sistémicas, la discusión acerca de 
+ES para el MG ha sido documentada en diferentes aproximaciones desde hace bastante tiempo. Según 
+reporta, por ejemplo, Simón-Alegre (2021, p. 113), en cuanto a los femeninos para las profesiones, hay 
+recomendaciones que, desde finales del siglo XIX, se remontan incluso a filólogos como Vicente Salvá 
+y Andrés Bello. Otro caso relevante mencionado por la autora es el del académico correspondiente 
+de la RAE Juan Moneva y Puyol (1871-1951), quien, según ella cita (p. 115), señalaba que “el 
+lenguaje ha de someterse a la realidad y expresarla como es; precisa ya decir estudianta, examinanda, 
+graduanda, candidata, licenciada, archivera, bibliotecaria, anticuaria, arqueóloga, catedrática y consejera” 
+(cursivas añadidas). En cuanto a recursos morfológicos, si bien es cierto que los usos de ES gráficas o 
+grafemáticas como la -@-, la -x-, el signo = y el asterisco, en cuanto que potenciales neomorfemas o 
+neografemas que impliquen inclusión, son de más recientes fechas, la propuesta de la -e, proviene de la 
+década de los setenta del siglo pasado, a partir de un artículo de García Meseguer (1976). Para tenerlo 
+siempre pendiente, hay que citar sus palabras in extenso (comillas en el original):
+Como las desinencias en o y en a son, en la mayoría de los casos, las propias del masculino y el 
+femenino, una solución sencilla consiste en asignar la desinencia en e al género común, es decir, 
+a la persona.
+Así, cuando une se dirija a un grupo en una conferencia, en una carta circular, etc., podrá comenzar 
+diciendo “querides amigues”. Les trabajadores podrán escribir en sus pancartas reivindicativas 
+“estamos hartes de ser explotades”. Les polítiques podrán llamar compañeres a sus partidaries. 
+Les progenitores podrán educar a sus hijes más fácilmente en forma no sexista. En los periódicos, 
+los anuncios por palabras solicitarán une cocinere, une abogade o une secretarie. (1976, párr. 6-7)
+ 
+Otro detalle importante relacionado con esto es que fue el mismo García Meseguer (2001, p. 
+24) quien hablara de “sexismo del oyente”, aludiendo a que el problema no radica en el MG, sino en 
+la persona que excluye cuando recibe el mensaje. Considerando también al hablante, esto se conocerá 
+después como sexismo discursivo (v. Bolívar, 2019; Grijelmo, 2019; Mendívil Giró, 2020; RAE, 2020).
+5. La asociación del lenguaje inclusivo con los movimientos de izquierda suele vincularse a su auspicio oficial por parte de 
+países hispanoamericanos como Argentina, Bolivia, Chile, Cuba, México, Nicaragua y Venezuela, todos actualmente bajo 
+gobiernos de izquierda, aunque con matices diferentes (v. Tortolero, 2021). En el caso de Europa, habría que añadir España 
+y su actual gobierno de corte socialista (v. Villanueva, 2018).
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+10 
+Para este tiempo, existe una diversidad de propuestas que ya sobrepasan las dos ES aparentemente 
+más populares (el desdoblamiento y los neomorfemas o neografemas). Como no es sencillo referirse, con 
+precisión, a la amplia documentación existente (guías, manuales, folletos, etc.), podemos recordar que hay 
+propuestas que, principalmente, cubren los ámbitos léxico, morfológico y morfosintáctico. Un sucinto 
+recuento de lo pesquisado hasta ahora en parte de la bibliografía sobre el tema aparece en la Tabla 1. 
+No todas las ES tienen la misma relevancia ni tampoco han sido totalmente exitosas en 
+conjunto. Tampoco todas satisfacen los requerimientos de la escritura y la oralidad. Mucho se ha 
+repetido, por ejemplo, que buena parte de las propuestas morfológicas (asterisco, signo de igual, -x, -@) 
+son impronunciables y, en consecuencia, no serían realmente una solución sistémica.
+Tabla 1
+Algunas ES para suplir el MG
+ES léxicas
+Asignación del femenino a voces de género 
+común. 
+Portavoz/a, miembro/a, testigo/a, 
+piloto/a.
+Femenino genérico.
+Consejo de apoderadas (ellas + 
+ellos).
+Colectivos, genéricos, abstractos o epicenos.
+Profesorado, vecindario, titulación, 
+jefatura, humanidad, persona.
+ES morfológicas y 
+fonológico-silábicas
+-@-, -x-, *, =, _, -e-, -i-, /.
+Amig@s, doctorxs, niñx, políti*s, 
+médic=s, alumn_s, chiques, 
+traducteres, compañeris, l/s.
+Xadres, mapadres, pamadre.
+ES morfosintácticas Desdoblamiento en sus distintas versiones 
+(duplicación léxica con o sin determinantes, 
+barra oblicua, coma, paréntesis).
+Esquema 2G.
+Científicos y científicas; los afiliados 
+y las afiliadas; las y los científicos y 
+científicas; 
+Las y los abogados; ellos/as; los/as 
+inscritos e inscritas; apoderados, as; 
+niñas(os).
+Triplicación léxica o pronominal.
+Esquema 3G.
+Alumnos, alumnas y alumnes.
+El, ella, elle.
+Uso de pronombres.
+Cada cual, quien(es), alguien, 
+cualquiera.
+Aposición explicativa.
+Los choferes, mujeres y hombres.
+Omisión de SN recuperable.
+Así lo enseñamos los maestros en la 
+escuela
+Así lo enseñaban ∅ en la escuela.
+Complemento adjunto restrictivo.
+Profesionales de ambos sexos.
+Fuente: elaboración propia, ampliada y reajustada, con base en Barrera Linares (2019) y Barrera Linares y 
+Sánchez Lara (2021).
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 11 
+Con excepción del femenino genérico, que solo se ajusta a contextos específicos, las opciones 
+léxicas no generan ningún inconveniente gramatical ni semántico. Tienen su base en el sistema 
+lingüístico. Los sustantivos colectivos, genéricos, abstractos y epicenos son parte del repertorio léxico 
+del idioma. La conversión de sustantivos de género común en otros de género flexivo no hace más 
+que atenerse al mismo proceso ya efectuado con otras voces anteriores: si el/la presidente derivó en 
+el presidente /la presidenta; en este momento podrá verse como una excentricidad, pero, si el uso la 
+respalda, nada extraño será que el/la testigo derive en el testigo/la testiga. 
+En cuanto a los recursos morfosintácticos, ocurren también, aunque se perciben menos. 
+Posiblemente, una de sus desventajas sea el mayor nivel de exigencia cognitiva para su aplicación en la 
+oralidad, principalmente en alocuciones extensas. Por lo demás, el desdoblamiento y la triplicación 
+referencial han sido bastante exitosos, tanto en contextos formales como informales, tal vez con 
+excepción de la prensa convencional, donde parece ser menos utilizado, “posiblemente debido a… 
+la dificultad de lectura que ocasiona” (Andión Linares, 2020, p. 29). Independientemente de que 
+a veces podría extender en exceso el discurso y desviar la atención del enunciatario, los dobletes 
+y tripletes están bien presentes en el discurso contemporáneo, en variados contextos. También 
+hay certeza en cuanto que buena parte de la comunidad hispanohablante ha asimilado su uso con 
+mucha facilidad, independientemente de que las personas recurran a su uso o no. Ya es habitual 
+percibirlo incluso en los medios académicos y las redes sociales. Se dice que podría perjudicar la 
+comunicación, sobre todo, si se exagera su uso, pero no necesariamente son siempre redundantes ni 
+tienen nada de inadecuado; no son agramaticales, ya que aluden a referentes distintos (masculino 
+/ femenino / no binario). 
+De las estrategias sustitutivas morfológicas, hasta ahora, la más exitosa en América Latina ha 
+sido la propuesta de inserción de la -e (v. Kan, Maulbeck y Wallace, 2018), aunque tampoco ha estado 
+exenta de polémica. Es verdad que en muchas ocasiones serviría para romper el esquema 2G (hombre/
+mujer). No obstante, no hay acuerdo sobre si valerse de ella obviando el desdoblamiento (chiques, 
+inclusivo de hombres, mujeres, no binarios y fluidos) o acudiendo a la triplicación para visibilizar a 
+estos últimos (ellas, ellos y elles). Hay aquí un dilema, por cuanto la última opción implicaría cierta 
+antieconomía lingüística, en tanto el solo uso de la -e resultaría totalmente inclusivo de todes. Aparte de 
+eso, si bien la -x-, ha tenido cierto auge en la escritura, es obvio que, como contraparte, la -e se adapta 
+a diversos registros orales y escritos e implica algunas otras ventajas (validez ecológica, neutralidad 
+fonetológica, entre otras, v. Barrera Linares, 2019) y, por supuesto, dado su carácter perturbador del 
+sistema y de la relación lengua/pensamiento, no está exenta de desventajas (v. Gil, 2020); podría decirse 
+que todavía no tiene realidad sicológica.
+Una de las posibles desventajas de la -e radica en su carácter supletorio, debido a que implica 
+la intervención exprofeso de un subsistema bastante difícil de penetrar y modificar, como lo es el 
+morfológico. Sin embargo, no hay factores lingüísticos de ninguna naturaleza que impliquen que 
+las lenguas no pueden cambiar, incluso mediante intervenciones explícitas que logren generalizarse 
+en algún momento (Cabeza Pereiro y Rodríguez Barcia, 2013). Todo lo contrario, una lengua es un 
+cuerpo en permanente ebullición (Lorenzo, 1971) y nada puede predecirse ni prejuzgarse acerca de 
+sus futuras modificaciones. Es obvio también que los cambios no ocurren de súbito como muchas 
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+12 
+personas quisieran.6
+1 Lo que no está claro, hasta el presente, es cuáles serían realmente los recursos 
+inclusivos más idóneos. 
+Otro escollo considerable es que, como hemos visto, las propuestas de ES son diversas, sin que 
+exista hasta el momento un plan orgánico que facilite su uso por igual para personas e instituciones. 
+Por una parte, las distintas opciones han venido surgiendo y operando en un contexto no exento de 
+anarquía. No existe acuerdo formal, coherente, sobre qué resultará más conveniente y pedagógico, i.e., 
+de más fácil implementación. Por la otra, se carece todavía de un proceso de alfabetización que, una 
+vez que se llegue a un consenso sobre cuáles son las ES más productivas y acordes con la economía 
+lingüística, la eficacia discursiva y el contexto, contribuya a enseñar debidamente su uso y adecuación 
+a los diferentes actos de habla. Esto no lo ponen en práctica ni siquiera las organizaciones que han 
+diseñado manuales y guías. Cada institución propone las ES que considera pertinentes, pero no 
+son siempre las mismas para otros organismos. Es posible que, mientras no se cumplan estos dos 
+requerimientos, sigan surgiendo propuestas nuevas y diversas que anarquicen más la situación. Este 
+ha sido precisamente uno de los factores que parece haber incidido en usos inadecuados de ES, como 
+veremos en el apartado siguiente. En esto, llevan ventaja quienes están a favor de la pertinencia del MG, 
+ya que operan colectivamente con criterios muy similares a los que han esgrimido la RAE y la ASALE. 
+3. Riesgo de usos erráticos de ES
+Carecemos hasta ahora de un corpus adecuado acerca del fenómeno que ha conducido a usos 
+erráticos de ES. Los datos disponibles tampoco son demasiados, pero constituyen una alerta necesaria 
+que, a su vez, se relaciona con lo que hemos planteado en el aparte precedente. Algunos provienen 
+de ciertos hablantes públicos que buscan hacer humor y convierten en parodia el mecanismo de las 
+ES. Aunque no sea esa la intención, las ocurrencias de humoristas podrían tener alguna repercusión 
+en quienes se las tomaren en serio o las asimilen subliminalmente. Hay múltiples ejemplos, pero nos 
+referiremos a uno en particular. Se trata de un video, recuperable en Internet (Acosta, 2022), en el que 
+el humorista argentino Raúl Acosta, conocido como Bigote, se mofa del lenguaje inclusivo. Bajo el 
+título Aprendamos a entender la inclusividad, se divierte versionando sendos poemas del poeta español 
+Gustavo Adolfo Bécquer y el chileno Pablo Neruda. Solo referiremos los inicios, para no abundar:
+(a) Volverán les oscures golondrines / en tu balcón sus nides a colgar / y otra vez con el ala a sus 
+cristales / jugande llamarén / pero aquellas que el vuele refrenaben / tu hermosure y mi diche a 
+contemplar / aquellas que aprendieron nuestres nombres / esas no volverén… (Bécquer).
+(b) Puedo escribir les verses más tristes este noche / escribir, por ejemple, le noche esté estrellade 
+/ y tiriten azules les astres a le lejes... (Neruda).
+6. “Hay tiempos distintos y los de la gramática son normalmente muy largos, particularmente en un componente tan 
+cristalizado y tan relevante para la estructuración de las frases como el género gramatical” (Soto Vergara, 2020, p. 49).
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 13 
+No podemos afirmar que la intención jocosa implique burlarse de lo que otras personas hacen 
+muy seriamente. Sin embargo, nótese en el caso de Bécquer las improcedencias del propio Bigote: 
+utiliza la -e en algunos sustantivos, adjetivos, verbos conjugados y verboides (oscures golondrines, 
+nides, jugande llamarén/ verses, ejemple, estrellade, tiriten, astres, lejes…), aunque no siempre 
+(volverán, balcón, ala, contemplar/puedo). Por otra parte, aplica el recurso a voces a las cuales no les 
+correspondería, debido a que no hacen referencia al MG ni a persona (golondrines, nides, jugande, 
+llamarén, les verses, esté estrellade, lejes, etc.).
+No es extraño ni recriminable, porque lo hace desde el humor. Sin embargo, el ejemplo sirve 
+para evidenciar que se dan casos similares en la realidad discursiva actual, con propósitos formales, no 
+paródicos. Aquí aportamos una breve muestra de ejemplos adicionales, todos recuperados de Internet, 
+con aclaración previa del contexto en que ha ocurrido el acto de habla (cursivas añadidas). 
+1. [Mediante mensaje de correo electrónico colectivo, decanato de universidad chilena recuerda 
+la programación de un evento: incidencia inadecuada de inclusividad en el verbo]. 
+“Profesores/as
+Los y las esperamos/as”.
+2. [Ministro de Educación de Chile anuncia públicamente una medida educativa: incidencia 
+inadecuada en sustantivo común inanimado].
+“…canal para llegar directamente en apoyo a las y los establecimientos…”
+3. [Subsecretario de salud de Chile declara a la prensa sobre política pública chilena: incidencia 
+inadecuada en sustantivo común inanimado].
+“…avanzamos sobre todo en la idea del derecho a la salud pública, en el cual los y las medicamentos 
+son fundamentales para poder garantizar el acceso a la salud”.
+4. [Mensaje de WhatsApp recibido por paciente de clínica para confirmarle citas agendadas: 
+ídem].
+“Hola, soy ZZZZ XXXX. La Dra. a cargo me pidió que confirmara sus dos exámenes (…). El 
+primer procedimiento es un(a) colonoscopía larga, a las 8:30. Su segundo procedimiento (…) es 
+un(a) endoscopía, a las 9:30”.
+5. [Diario estadounidense, en español, reproduce la declaración de una alcaldesa sobre un 
+incendio ocurrido en su jurisdicción: incidencia inadecuada en adjetivo de una sola terminación 
+desdoblado].
+“Muchas gracias a nuestros valientes y valientas trabajadores y bomberos”.
+6. [Cartel colocado en el escaparate de un local comercial: incidencia inadecuada en adjetivo].
+“Se solicita personal femenino(a). Informarse adentro”. 
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+14 
+La mayoría de los ejemplos de esta breve muestra podría generar hilaridad. Sin embargo, no 
+ha sido su objetivo bromear. Algunos de ellos constituyen hipercorrecciones manifestadas con toda 
+la formalidad del caso; evidencian una situación de la cual no tendríamos por qué responsabilizar a 
+quienes emitieron tales enunciados. Son parte del desajuste cognitivo motivado por la transgresión de 
+una norma gramatical que está en nuestra competencia y que estamos intentando modificar exprofeso. 
+Dichos fenómenos tienen su origen en lapsus (así lo calificó en posterior aclaración el ministro que 
+aludió a las y los establecimientos, ejemplo 2), pequeñas “traiciones” de nuestro inconsciente, que lucha 
+por preservar lo que ha sido natural hasta ahora y se conmociona ante la emergencia de nuevas 
+formas a las que no estamos habituados. No son situaciones censurables; sencillamente, evidencian un 
+fenómeno en plena transición. Como ensayos transicionales generan dificultades cognitivas en cuanto 
+a lo preexistente y lo emergente. No siempre se trata de desaciertos ni tampoco de desconocimiento. 
+Aunque a veces fallidas, tienen la misión explícita de ajustar cuentas con una norma gramatical 
+androcéntrica, más allá de que su origen tenga plena justificación histórica, como apunta Grijelmo 
+(2019). Por convicción propia o por otros motivos, quienes emitieron dichos textos están intentando 
+ingresar en la onda de la inclusividad; solo que a veces los resultados son erráticos y, cuando se trata 
+de hablantes públicos relevantes, aunque sea sin premeditación, podrían contribuir también con la 
+normalización de los desaciertos. Una razón más para abogar por un acuerdo colectivo sobre cuándo 
+acudir o no a ES y qué es lo realmente implícito en el uso, a veces ambiguo, del MG: cómo incide 
+en la referencia a personas y cuándo es pertinente (o no) su reemplazo. Sin embargo, tampoco la 
+permisividad abierta o la prohibición taxativa del uso de ES parecen las mejores rutas, tema que 
+resumiremos a continuación.
+4. Prohibir o decretar el uso del lenguaje incluyente
+En noviembre de 2018 un juez chileno fijó en su despacho el siguiente cartel:
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 15 
+Más claro, imposible. El juez deseaba “poner orden” y de esa manera reglamentaba en su 
+despacho el uso de alternativas para el masculino genérico. Parece un hecho cómico, pero no lo es. El 
+dictamen era formal. Se apelaba a un documento legal para sustentar la decisión: el Código Orgánico 
+de Tribunales. El hecho se volvió noticia de primera plana y causó conmoción en todo Chile. No 
+obstante, el juez parecía desconocer que, “…desde el año 2009 la Corte entrega el título de ‘abogada’”, 
+según consta en el Manual para el uso del lenguaje no sexista en el poder judicial de Chile (2021, p. 38).
+En 2015, se había emitido, además, un acuerdo del Tribunal Pleno cuyo título era el siguiente: 
+“Instructivo para la tramitación de expedientes de juramento de abogadas y abogados” (cursivas 
+añadidas). El doblete se reproduce a lo largo de todo el documento. En realidad, nunca más se supo 
+de la prohibición del juez. En 2021 aparece el Manual… ya referido, documento que podría haber 
+servido para zanjar la situación, puesto que, aparentemente, deja clara la posibilidad de que, desde 
+una supuesta legalidad, se dictamine acerca de usos lingüísticos. Sin embargo, las disposiciones de 
+este documento parecen ir en una dirección distinta a la imposición de normas. Establece que “…no 
+pretendemos imponer, sino guiar en el uso del lenguaje inclusivo y ayudar a que el Poder Judicial y 
+sus integrantes lo utilicen eficazmente” (p. 33). Aporta, además, un importante número de reflexiones 
+teóricas acerca de la pertinencia de la inclusión lingüística y especifica que la noción de “lenguaje 
+claro” no está reñida con la de “lenguaje inclusivo” (p. 31), para, finalmente, ofrecer una serie de 
+recomendaciones de uso. 
+En ese último aparte mencionado aparece lo más relevante para nuestro propósito. La sugerencia 
+más general es hacer uso de formas lingüísticas inclusivas, pero acudiendo a “…palabras existentes 
+y reconocidas en el léxico castellano…” (p. 34), es decir, sin transgredir las normas idiomáticas ni 
+atentar contra la “economía del lenguaje” (p. 34). Con esto, adquiere límites el avance mostrado en 
+las disquisiciones teóricas previas expresadas en el documento. Se aduce, por ejemplo, la dificultad 
+del uso de la -e y de otros recursos (-@-, -x-, barra oblicua). De manera que el Manual… apuesta 
+por aquellas ES que no atenten contra normas gramaticales o generen confusiones de cualquier 
+naturaleza. Aunque se trata de un documento orientador para promover la inclusión, es evidente su 
+alineamiento con la normativa de la ASALE: incluir sin que las reglas gramaticales ni el principio 
+de la economía se vean afectados, lo que parece una posición que busca equilibrar y romper el 
+maniqueísmo y la polarización; o sea, aceptar los cambios y ponerlos en práctica una vez que hayan 
+tenido la “aprobación” de las academias.
+En este punto, hay que detenerse en el tópico de las imposiciones y prohibiciones relacionadas 
+con la recomendación de uso (o rechazo) de fórmulas de lenguaje incluyente. Ninguna de las dos 
+opciones parece adecuada, por cuanto ambas suelen generar un efecto contrario al que se busca: el 
+rechazo de quienes adversen la opción propuesta. Y aquí entra en juego la interrogante sobre si se puede 
+legislar o no en torno de esa propiedad colectiva que es el idioma. En lingüística, la respuesta es no. Así, 
+podría hipotetizarse que los siguientes intentos (en uno u otro sentido) estarían condenados al fracaso, 
+en tanto no provienen de decisiones colectivas, nacidas espontánea y libremente del conglomerado 
+hablante, ni son ajenas a intentos burocráticos que buscan reglamentar el idioma, olvidando que el 
+código lingüístico no es un código civil:
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+16 
+1. Ley de promoción del lenguaje inclusivo en el territorio nacional (Argentina, 9-4-2019).
+2. Prohibición francesa del lenguaje inclusivo en la escuela (Francia, 6-5-2021).
+3. Proyecto de enmienda constitucional que prohíbe el uso del lenguaje inclusivo en parvularia, 
+básica y media (Chile, 26-05-2021).
+4. Ley para promoción y uso del lenguaje con enfoque de género (Venezuela, 06-07-2021).
+5. Resolución 2020-103- -INSSJP-DE#INSSJP que decreta instruir al personal del PAMI para 
+que la documentación normativa se redacte en lenguaje inclusivo de género (Argentina, 10-01-2020).
+6. Decreto de la Gobernación de Buenos Aires que prohíbe el uso del lenguaje inclusivo en los 
+colegios (Argentina, 09-06-2022).
+En la misma orientación, podríamos referir iniciativas dirigidas a adaptar los contenidos de 
+publicaciones tradicionales, a fin de ajustar sus textos a los requerimientos lingüísticos de inclusividad. 
+Tales son los casos de la Biblia (editorial Desclée de Brouwer, España, 2022), El principito (Argentina, 
+editorial Ethos, 2020, trocado en La principesa), sin olvidar algunas propuestas para libros escolares, 
+como el de Geografía e Historia, para 2.º de Educación Secundaria Obligatoria, comunidad autónoma 
+de Andalucía (España, editorial Vicens Vives, 2021). Por supuesto, cada editorial o institución está 
+en libertad de auspiciar opciones como esas, pero ello no obsta para que se las perciba como políticas 
+intervencionistas que buscan imponer su orientación, desconociendo las preferencias reales de las 
+personas que pudieran tener acceso a estas publicaciones. 
+Es natural que una alternativa o la otra generen discrepancias o solidaridades, y también lo es 
+que ello pueda contribuir a fortalecer la polarización y generar, en consecuencia, más animadversión 
+hacia el uso de recursos lingüísticos de inclusividad. Más recomendable pareciera que, una vez que se 
+acuerde cuáles son las más convenientes, las propuestas circulen libremente, que vayan fluyendo de modo 
+espontáneo entre la comunidad de hablantes e incorporándose al uso cotidiano –público, académico, 
+formal, informal–, sin camisas de fuerza. Imponer la inclusión, sin que medie el autoconvencimiento 
+de hablantes y oyentes, pudiera incluso ocasionar dificultades que, antes que estimular, auspicien el 
+rechazo, incluso de las propuestas menos polémicas y más viables. Esto, sin decir nada sobre maneras 
+de coartar la libertad lingüística, que también es un derecho.
+5. Conclusiones
+Una vez que hemos desarrollado y explicado los temas propuestos en este ensayo, es preciso 
+sintetizar nuestros planteamientos a partir de unas muy breves conclusiones.
+Primero, por mucha influencia que pueda generarse desde las 23 academias de la ASALE, 
+y no solo desde la RAE, queda claro que a dichas instituciones no les corresponde (ni pretenden) 
+dictaminar postulados que regulen o censuren el uso de normas gramaticales. Su misión es llevar 
+registro notarial de lo que la comunidad hablante va aportando. Los avances del idioma dependen de sus
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 17 
+condóminos. Sin que sea todavía un consenso, estas corporaciones han venido aceptando que sí hay 
+actos de habla en los cuales se percibe la invisibilidad de algunos referentes, cuando se acude al MG; 
+prueba de ello son el informe de la RAE (2020) y publicaciones de academias en las cuales se discute 
+el problema (v. Academia Chilena de la Lengua, 2020 y Escaja y Prunes, 2021).
+Segundo, más allá de posturas individuales o corporativas, el MG convive en el discurso 
+contemporáneo con algunas ES que buscan evitar el carácter ocultador que adquiere en ciertos contextos, 
+dejando fuera la posibilidad de visibilizar a mujeres y personas de sexo no binario o fluido. Eso implica 
+la necesidad de estudiar este fenómeno de coexistencia sin apasionamientos ni extremismos, ya que 
+podríamos estar ante un cambio lingüístico en gestación.
+Tercero, reina una cierta condición de anarquía en el uso de recursos para suplantar el MG. 
+No hay todavía consenso acerca de cuáles serían más convenientes y efectivos, aquellos que menos 
+interfieran en la comunicación eficaz. Dicha situación requiere un acuerdo sobre ello, a lo que habría 
+que sumar la necesidad de un futuro proceso de alfabetización que aminore los fallos de uso en fórmulas 
+inclusivas, contribuyendo a no propiciar espacios para la burla, la parodia y la chanza.
+Cuarto, provengan de instituciones gubernamentales o privadas, sean explícitas o implícitas, las 
+imposiciones de cualquier naturaleza no favorecen el avance del lenguaje incluyente. Por el contrario, 
+contribuyen con el fortalecimiento de la polarización, la difusión y el refuerzo de los prejuicios.
+Referencias bibliográficas 
+Academia Chilena de la Lengua. (2020). Sexo, género y gramática. Ideas sobre el lenguaje inclusivo. 
+Santiago de Chile, Catalonia.
+Acosta, R. (2022). Aprendamos a entender la inclusividad [Video]. BigoteAcosta.com. 
+https://bit.ly/3NtchKA
+ADN40Mx. (28 de noviembre de 2019). Historia de la lengua y el lenguaje incluyente [Video]. Youtube. 
+https://bit.ly/3FzXw6Q
+Albitre Lamata, P. (2021). La lengua ante una nueva realidad social de la mujer: construcción del 
+género en portavoza y árbitra. Revista de Filología y Lingüística de la Universidad de Costa Rica, 
+47 (2), s. p. https://bit.ly/3tyocxM
+Álvarez de Miranda, P. (7 de marzo de 2012). El género no marcado. El País. https://bit.ly/3sR1uRc
+Amiguet, L. (31 de enero de 2022). Imponer el lenguaje inclusivo atenta contra la lógica lingüística. 
+La Vanguardia. https://bit.ly/3DuUhuM
+Andión Linares, M. (2020). El lenguaje inclusivo: estudio de uso a partir de los editoriales de dos periódicos 
+de tirada nacional [Tesis de grado]. Universidade da Coruña.
+Barrera Linares, L. (2019). Relación género/sexo y masculino inclusivo plural en español. Literatura y 
+Lingüística, (40), 297-324. https://bit.ly/3SW6iz5
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+18 
+Barrera Linares, L. (2021). ¿Quién quiere ser bachillera? Enunciación, 26 (2), 255-268. 
+https://bit.ly/3sPfVoL
+Barrera Linares, L. (2022). Lenguaje de género (inclusivo) en titulaciones e información sobre carreras 
+en cuatro universidades chilenas. En López Andrada, C. y Ortiz, E. (eds.), Escritura, memorias e 
+identidades. Diálogos del presente para la práctica educativa (pp. 147-184). Santiago de Chile, CELEI. 
+https://bit.ly/3zz8GF0
+Barrera Linares, L. y Sánchez Lara, R. (2021). Masculino inclusivo en español y opciones para 
+sustituirlo en las Bases Curriculares. 7.º básico a 2.º medio del Ministerio de Educación de Chile. 
+Boletín de Filología, I (anejo 3), 123-141. https://bit.ly/3fjFCuE
+Bolívar, A. (2019). Una introducción al análisis crítico del ‘lenguaje inclusivo’. Literatura y Lingüística, 
+(40), 355-375. https://bit.ly/3SXK67P
+Bourdieu, P. (1991). El sentido práctico. Madrid, Taurus.
+Bosque, I. (2012). Sexismo lingüístico y visibilidad de la mujer. Boletín de Información Lingüística de la 
+Real Academia Española, (1), 1-18. https://bit.ly/3sOlsvH
+Cabeza Pereiro, M. del C. y Rodríguez Barcia, S. (2013). Aspectos ideológicos, gramaticales y léxicos 
+del sexismo lingüístico. Estudios Filológicos, (52), 7-27. http://bit.ly/3Xn0Jx5
+Centenera, M. (10 de junio de 2022). La ciudad de Buenos Aires prohíbe el lenguaje inclusivo en las 
+escuelas. El País. https://bit.ly/3DtpgYl
+Del Valle, J. (2014). Lo político del lenguaje y los límites de la política lingüística panhispánica. Boletín 
+de Filología, XLIX (2), 87-112. https://bit.ly/3NpjgnM
+Escaja, T. y Prunes, M. N. (eds.). (2021). Por un lenguaje inclusivo. Estudios y reflexiones por un lenguaje 
+no sexista en la lengua española. Nueva York, ANLE.
+Escaja, T. (2021). Sexismo lingüístico. Genealogía de un debate y disquisiciones a favor de un lenguaje 
+inclusivo. En Escaja, T. y Prunes, M. N. (eds.), Por un lenguaje inclusivo. Estudios y reflexiones por un 
+lenguaje no sexista en la lengua española (pp. 15-21). Nueva York, ANLE.
+Escandell-Vidal, V. (2020). En torno al género inclusivo. DesigualdadES, 2 (2), 223-249. 
+https://bit.ly/3UcUCJo
+Fajardo Aguirre, A. (2011). La norma lingüística del español desde una perspectiva lexicográfica: 
+norma nacional versus norma panhispánica. Normas. Revista de Estudios Hispánicos, (1), 53-70. 
+https://bit.ly/3SXbPW2
+Ferguson, C. (1959). Diglossia. Word, (15), 325-340.
+Fernández Ordóñez, I. (20 de febrero de 2011). Es inapropiado pretender solucionar problemas sociales 
+por la vía del lenguaje. Entrevistada por Iker Seisdedos. El País Semanal. https://bit.ly/3SW7Glh
+García Meseguer, Á. (2001). ¿Es sexista la lengua española? Panacea, 2 (3), 19-34.
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 19 
+García Meseguer, Á. (11 de noviembre de 1976).  Sexismo y lenguaje. Cambio16, (260). 
+https://bit.ly/3TXucLX
+Gil, J. M. (2020). Las paradojas excluyentes del “lenguaje inclusivo”: sobre el uso planificado del 
+morfema flexivo -e. Revista Española de Lingüística, 50 (1), 65-83. https://bit.ly/3NotAMQ
+González Moreno, P. (10 de abril de 2018). Se puede y debe decir la médica, con “a”. EFE Salud. 
+https://bit.ly/3Dvf8Ou
+González, C. (2020). Género gramatical y sexismo lingüístico. En Academia Chilena de la Lengua, 
+Sexo, género y gramática. Ideas sobre el lenguaje inclusivo (pp. 29-40). Santiago de Chile, Catalonia.
+Grijelmo, Á. (2 de diciembre de 2018). ¿Invisibiliza nuestra lengua a la mujer? El País. 
+https://bit.ly/3SQDqYZ
+Grijelmo, Á. (2019). Propuesta de acuerdo sobre el lenguaje inclusivo. Madrid, Taurus. 
+Gutiérrez Alcalá, R. (28 de julio de 2021). ¿El lenguaje expresa qué tan machista es una cultura? 
+Opiniones sobre lenguaje inclusivo. Gaceta UNAM. https://bit.ly/3sM7iLA
+Gutiérrez Ordóñez, S. (10 de febrero de 2018a). Sobre 'pilota', 'portavoza', 'miembra' y otros femeninos. 
+El Mundo. https://bit.ly/3UiHUsq
+Gutiérrez Ordóñez, S. (3 de noviembre de 2018b). “Lo de ‘todos y todas’ es imposible de mantener”. 
+Entrevistado por Darío Prieto. El Mundo. http://bit.ly/3UDgQor 
+INSOD. 
+(2020). 
+Informe: lenguaje inclusivo. 
+Universidad 
+Argentina 
+de 
+la 
+Empresa. 
+https://bit.ly/3gRyK7W
+Jacinto García, J. E. (2013). El principio de autoridad en los diccionarios generales del español (siglos XVIII-
+XX) [Tesis de doctorado]. Repositorio Institucional de la Universidad Complutense de Madrid. 
+https://bit.ly/3TWB9wV
+Junyent, M. C. (ed.). (2021). Som dones, som lingüistes, som moltes i diem prou: Prou textos incoherents i 
+confusos. Canviem el món i canviarà la lengua. Barcelona, Eumos.
+Kalinowski, S. (2020). Lenguaje inclusivo en usuarios de Twitter en Argentina: un estudio de corpus. 
+Cuarenta Naipes. Revista de Cultura y Literatura, 2 (3), 233-259. https://bit.ly/3sNBOVl
+Kan, L. M.; Maulbeck, B. F. y Wallace, A. (2018). 2015-2016. Informe de Recursos Globales. Funders 
+for LGBTQ Issues y Global Philanthropy Project. https://bit.ly/3Dvv0Ra
+López, A.; Rodríguez Barcia, S. y Cabeza Pereiro, M. del C. (2020). Visibilizar o interpretar: respuesta 
+al Informe de la Real Academia Española sobre el lenguaje inclusivo y cuestiones conexas. Anuario 
+de Glotopolítica. https://bit.ly/3FAWQxZ
+Lorenzo, E. (1971). El español de hoy, lengua en ebullición. Madrid, Gredos.
+Márquez, M. (2013). Género gramatical y discurso sexista. Madrid, Síntesis.
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+20 
+Márquez Guerrero, M. (2016). Bases epistemológicas del debate sobre sexismo lingüístico. Arbor. 
+Ciencia, pensamiento y cultura, 192 (778), 1-15. https://bit.ly/3gRaKBQ
+Martín, M. (2019). Ni por favor ni por favora. Cómo hablar con lenguaje inclusivo sin que se note demasiado. 
+Madrid, Catarata.
+Martín Meléndez, S. (2020). Sobre cómo el lenguaje construye la realidad: el uso de la grafía “x” en el 
+denominado “lenguaje inclusivo”. Cuarenta Naipes. Revista de Cultura y Literatura, 2 (3), 260-274. 
+https://bit.ly/3DswJXA
+Mendívil Giró, J. L. (2020). El masculino inclusivo en español. Revista Española de Lingüística, 50 (1), 
+35-64. https://bit.ly/3NsnZoX
+Menegotto, A. C. (2020). Español 2G y español 3G: propiedades morfosintácticas y semánticas 
+del lenguaje inclusivo. Cuarenta Naipes. Revista de Cultura y Literatura, 2 (3), 207-232. 
+https://bit.ly/3zXGNaf
+Ministerio de las Mujeres, Género y Diversidad. (2020). (Re)nombrar. Guía para una comunicación con 
+perspectiva de género. Argentina. https://bit.ly/3SWqrFa
+Moreno Cabrera, J. C. (2012). Acerca de la discriminación de la mujer y de los lingüistas en la sociedad. 
+Reflexiones críticas. Madrid, Universidad Autónoma de Madrid. https://bit.ly/3Dvlspt
+Paul, C. (11 de marzo de 2020). Lenguaje inclusivo opaca la lucha por la equidad: Concepción 
+Company. La Jornada. https://bit.ly/3U9h8TG
+Poder Judicial de Chile. (2021). Manual para el uso de lenguaje no sexista en el Poder Judicial de Chile. 
+Secretaría Técnica de Igualdad de Género y No Discriminación. https://bit.ly/3DlmSCE
+Prensa AN. (2021). Aprobada en primera discusión Ley del Lenguaje con Conciencia de Género. 
+Asamblea Nacional. Venezuela. https://bit.ly/3DyfJz0
+Prunes, M. N. (2021). La base política del lenguaje inclusivo. En Escaja, T. y Prunes, M. N. (eds.), Por 
+un lenguaje inclusivo. Estudios y reflexiones por un lenguaje no sexista en la lengua española (pp. 23-34). 
+Nueva York, ANLE.
+Radi, B. y Spada, M. (2020). Lenguaje inclusivo, cambio lingüístico y cambio social. En Janoario, R. 
+y Peluso L. (eds.), Diferencia y reconocimiento. Apuntes para deconstruir la ideología de la normalidad 
+(pp. 51-59), Montevideo, Universidad de la República.
+RAE. (2020). Informe de la Real Academia Española sobre el lenguaje inclusivo y cuestiones conexas. 
+Madrid. https://bit.ly/3fti7zd
+RAE y ASALE. (2005). Género. Diccionario panhispánico de dudas. Madrid, Santillana. 
+https://bit.ly/3TYyWAW
+RAE y ASALE. (2009). Nueva gramática de la lengua española. Madrid, Espasa-Calpe.
+RAE y ASALE. (2018). Libro de estilo de la lengua española según la norma panhispánica.. Madrid, 
+Espasa Libros S. L.
+Lenguaje incluyente y academias: el masculino genérico y las estrategias para sustituirlo
+DOI: http://dx.doi.org/10.30972/clt.0196206
+Luis Barrera Linares 
+ 21 
+RAE y ASALE. (2021). Actualización 2021. Diccionario de la lengua española. https://bit.ly/3FC25xI
+Raiter, A. (2020). Variación lingüística e identidad. Cuarenta Naipes. Revista de Cultura y Literatura, 2 
+(3), 275-294. https://bit.ly/3sRGSs2
+Ramírez Gelvis, S. y Gelormini-Lezama, C. (2020). Del voseo al lenguaje inclusivo. Estandarización, 
+prescripción y cambio lingüístico. Lenguas V;vas, (16), 31-40. https://bit.ly/3DpN92V
+Rosario Candelier, B. (comp.). (2012). Sexismo lingüístico y doble género: la plaga del lenguaje 
+contemporáneo. Santo Domingo, Academia Dominicana de la Lengua.
+Salas Ayala, G. (2021). Análisis lingüístico del uso no sexista e inclusivo del lenguaje en el contenido digital 
+creado en redes sociales [Trabajo de Licenciatura en Lingüística Aplicada]. Universidad Pontificia 
+Católica del Ecuador.
+Sancha Vásquez, J. (2022). Ideas e ideologías en torno a una historia de femeninos invisibilizados en la 
+opinión pública de los siglos XVIII y XIX. Lexis, XLVI (1), 59-102. https://bit.ly/3Dlp6Sw
+Sarlo, B. (12 de octubre de 2018). Alumnos, alumnas y ‘alumnes’. El País (suplemento Babelia). 
+https://bit.ly/3gQqu8b
+Sarlo, B. y Kalinowski, S. (2019). La lengua en disputa. Un debate sobre el lenguaje inclusivo. Buenos 
+Aires, Ediciones Godot.
+Sen, C. (8 de enero de 2022). Ni chicos y chicas, ni todes, ni fiscalas. El debate de la igualdad. La 
+Vanguardia. https://bit.ly/3NpXmRk
+Simón-Alegre, A. I. (2021). Algo más que palabras: investigar y enseñar siguiendo la senda del lenguaje 
+inclusivo. En Escaja, T. y Prunes, M. N. (eds.), Por un lenguaje inclusivo. Estudios y reflexiones por un 
+lenguaje no sexista en la lengua española (pp. 95-126). Nueva York, ANLE.
+Soto Vergara, G. (2020). Género gramatical, sexo y género social. En Academia Chilena de la Lengua, 
+Género, sexo y gramática (pp. 43-56). Santiago de Chile, Catalonia.
+Tortolero, R. (2021). El “lenguaje inclusivo”: el globalismo socialista controla nuestra forma de hablar. 
+Panan Post. https://bit.ly/3No8i24
+Villanueva, J. (2018). La izquierda insta a incorporar el lenguaje inclusivo en los textos jurídicos. El 
+País. https://bit.ly/3DsW0B1
+*Luis Barrera Linares es escritor y Doctor en Letras por la Universidad Simón Bolívar (USB, 
+Venezuela), numerario de la Academia Venezolana de la Lengua (AVL) y miembro correspondiente 
+de la Real Academia Española (RAE). Es profesor jubilado de la USB y actual docente e investigador 
+independiente de la Universidad Católica Silva Henríquez (UCSH, Chile), donde desarrolla la línea 
+de investigación sobre las implicaciones comunicacionales de las propuestas de lenguaje incluyente. 
+Recientes publicaciones sobre el tema: Relación género/sexo y masculino inclusivo plural en español (2019), 
+Masculino inclusivo en español y opciones para sustituirlo en las Bases Curriculares (7.º básico a 2.º medio)
+Luis Barrera Linares 
+CLRELyL 19 (2022): 2-22. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0196206
+22 
+del Ministerio de Educación de Chile (2021, con Ricardo Sánchez Lara), Lenguaje inclusivo y 
+lexicografía académica: ¿quién quiere ser bachillera? (2021), Lenguaje de género (inclusivo) en titulaciones 
+e información sobre carreras en cuatro universidades chilenas (2021), Lenguaje inclusivo y lexicografía 
+académica: médicas que desean seguir siendo “médicos” (en prensa). Para más información, visitar: https://
+luisbarreralinares.blogspot.com

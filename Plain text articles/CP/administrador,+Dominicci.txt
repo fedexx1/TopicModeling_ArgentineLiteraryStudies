@@ -1,0 +1,1399 @@
+ 
+148 
+ 
+LAS INTUICIONES Y LA ACEPTABILIDAD EN LA 
+INTERFAZ SEMÁNTICA-PRAGMÁTICA 
+ 
+Eduardo Dominiccini  
+Instituto Caro y Cuervo 
+eduardo.dominiccini@caroycuervo.gov.co 
+ 
+ 
+ 
+Resumen: En este trabajo se presenta 
+una revisión del lugar de las intuiciones 
+y la noción de aceptabilidad de las 
+expresiones lingüísticas en el ámbito de 
+la interfaz semántica-pragmática. La 
+discusión 
+se 
+plantea 
+como 
+una 
+reflexión metalingüística. Aunque se 
+defiende el rol de las intuiciones en la 
+labor investigativa, se sostiene que los 
+juicios 
+sobre 
+la 
+aceptabilidad 
+(i) 
+dependen 
+del 
+compromiso 
+epistemológico que se tiene sobre el 
+objeto de la semántica y la pragmática y 
+que (ii) no son independientes de las 
+relaciones de interfaz, lo cual se ha 
+ignorado en la mayoría de los debates 
+hasta la fecha. 
+Palabras 
+clave: 
+intuición, 
+aceptabilidad, 
+interfaz, 
+semántica, 
+pragmática. 
+ 
+Abstract: This paper presents a review 
+of the place of intuitions and the 
+notion of acceptability of linguistic 
+expressions within the scope of the 
+semantics-pragmatics interface. The 
+discussion is set out in the style of a 
+metalinguistic consideration. Although 
+the role of intuitions in linguistic 
+research 
+is 
+supported, 
+the 
+argumentation holds that acceptability 
+judgements 
+(i) 
+depend 
+on 
+the 
+epistemological commitment towards 
+the object of study in semantics and 
+pragmatics, and (ii) they are not 
+independent from interface relations, 
+which has been widely ignored in most 
+debates to date. 
+Keywords: 
+intuition, 
+acceptability, 
+interface, semantics, pragmatics  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+1. Introducción 
+La última década ha presenciado un resurgimiento del 
+debate sobre el lugar de las intuiciones de los hablantes acerca 
+de las expresiones lingüísticas dentro de la metodología de la 
+investigación. En general, es posible identificar dos problemas 
+que se debaten con respecto a las intuiciones en la disciplina, 
+que corresponden a dos preguntas básicas: qué son las 
+intuiciones y cuál es su utilidad o su nivel de confiabilidad en el 
+estudio del lenguaje y las lenguas. Cuando se tiene la 
+oportunidad de preguntar a un grupo de lingüistas sobre las 
+intuiciones, 
+hay 
+quienes 
+creen 
+que 
+son 
+elementos 
+indispensables del estudio del lenguaje y las lenguas. Otros, por 
+el contrario, rechazan completamente el uso de las intuiciones 
+como evidencia para la confirmación o refutación de teorías 
+lingüísticas. El panorama de la disciplina se ha mantenido 
+dividido con respecto a este punto durante mucho tiempo. 
+Esta división se manifiesta de forma paralela con las 
+diferencias que se pueden establecer entre las aproximaciones 
+científicas dominantes, ya sea que se entiendan como 
+paradigmas en el sentido de Kuhn (1996), o como “visiones” 
+comunes acerca del quehacer lingüístico, su objeto y sus 
+métodos. En el ámbito de la gramática generativa, la diferencia 
+entre competencia y actuación lingüística ha determinado la 
+actividad científica desde que Chomsky (1957, 1965) 
+estableciera las bases de su modelo de análisis para la sintaxis. 
+Hasta el día de hoy, gran parte de la metodología en esa 
+corriente de corte generativista se ha basado en las tareas de 
+recolección y evaluación de juicios acerca de la gramaticalidad 
+o la aceptabilidad de expresiones lingüísticas. Gracias, en parte, 
+ 
+150 
+ 
+a los avances tecnológicos que han impulsado una gran 
+cantidad de estudios experimentales, la discusión sobre la 
+metodología tradicional y el alcance de la investigación teórica 
+se ha intensificado, y en la última década más que nunca antes 
+(Sprouse, 2015; Sprouse & Almeida, 2013; Stolterfoht & 
+Featherston, 2012).  
+Un panorama distinto es el que se puede entrever al revisar 
+la bibliografía semántica y pragmática. Las discusiones sobre 
+este tema son escasas y se suelen limitar comentarios de pasada 
+en libros de texto sobre aspectos metodológicos del estudio del 
+significado lingüístico. En el contexto descrito, el presente 
+trabajo ofrece una revisión del debate en cuestión y plantea 
+una manera de abordarlo con base en la perspectiva de la 
+interfaz semántica-pragmática. Es claro que la bibliografía 
+relacionada en este trabajo es apenas una selección menor en 
+comparación con la que hay disponible al respecto. Además, 
+inevitablemente refleja una cierta orientación de la discusión 
+que por razones de espacio y tiempo excluye otras maneras de 
+abordarla. No obstante, la propuesta puede entenderse como 
+una revisión crítica y actualizada de algunos de los puntos 
+centrales del debate, así como un llamado a la comunidad 
+académica ante la necesidad de aportar dentro de la lingüística 
+hispánica.  
+El trabajo está organizado de la siguiente manera. En la 
+sección 2 se presenta una breve revisión del problema de las 
+intuiciones en la metodología de la lingüística teórica en 
+general. La sección 3 replantea la discusión estableciendo un 
+contexto epistemológico basado en dos puntos de reflexión: 
+los objetos de estudio de las teorías sobre el significado y los 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+métodos que se emplean para caracterizar dichos objetos. La 
+sección 4 se enfoca en las áreas de la semántica y la pragmática 
+y en la forma en la que una teoría integral del significado en las 
+lenguas puede dar cuenta de las intuiciones. Por último, en la 
+sección 5 se presentan las conclusiones y las perspectivas 
+futuras de investigación dentro de la interfaz semántica-
+pragmática.  
+ 
+2. El lugar de las intuiciones en los estudios del 
+lenguaje 
+Para caracterizar el lugar de las intuiciones en la lingüística, 
+en esta sección se presenta una revisión de la discusión 
+teniendo en cuenta el estatus del debate y la reflexión sobre el 
+concepto en sí mismo. Con respecto al primer punto, el 
+problema principal estriba en la falta de espacios de discusión, 
+por parte de lingüistas, de aspectos metateóricos de la 
+disciplina. Esta situación se agudiza porque la mayoría de 
+quienes hacen investigación en una u otra rama de la lingüística 
+o bien asumen como obvio el uso de la intuición o bien lo 
+rechazan sin justificación alguna. A pesar de estas dos posturas 
+que poco contribuyen a la disciplina, es justo reconocer que en 
+la última década la situación ha venido mejorando y cada vez 
+más se atiende al tema en discusiones sobre teoría y 
+metodología en lingüística. Sin embargo, esto es más usual en 
+la lingüística anglosajona que en la hispánica, pues en general la 
+bibliografía especializada sobre la disciplina misma y sus 
+métodos es poco frecuente. Al respecto, López Serena (2009a) 
+cita a Coseriu (1977) en una de sus grandes obras, recordando 
+ 
+152 
+ 
+que el lingüista rumano criticaba duramente a la investigación 
+de la región: “la lingüística iberoamericana es, en general, una 
+lingüística que no aspira a la originalidad, que no tiene 
+ambiciones teóricas y metodológicas”; y del mismo modo 
+“también las discusiones teóricas y críticas son relativamente 
+raras en Iberoamérica: se discuten hechos y opiniones, desde el 
+punto de vista de teorías ya dadas, pero no se suelen discutir 
+las teorías mismas y sus fundamentos epistemológicos 
+[versalitas en el original]” (p. 3). No es seguro que la situación 
+haya cambiado mucho; en cualquier caso, es claro que la 
+lingüística anglosajona tiene una gran ventaja sobre la hispánica 
+en cuanto a las discusiones metateóricas. En efecto, es un 
+hecho innegable que la lengua inglesa domina la investigación y 
+la publicación científica, con lo cual artículos y libros sobre (y 
+en) lenguas menos estudiadas se adaptan a las perspectivas 
+principales (formalismo y funcionalismo) de una u otra 
+manera.1 
+El otro gran problema al que se enfrenta la investigación 
+metateórica es la definición misma de la noción de intuición. 
+Aunque tratar de explicar qué cosas son las intuiciones parece 
+ser una tarea más para la filosofía que para la lingüística, rara 
+vez se tienen en cuenta los aportes de la primera a la segunda. 
+Una aproximación informal nos diría que, al hablar de 
+intuiciones, se suele pensar en cierto tipo de juicios sobre la 
+gramaticalidad de las expresiones lingüísticas, principalmente 
+dentro del contexto del generativismo. Sin embargo, atribuirle 
+                                                          
+ 
+1 Sobre la relación entre la lengua inglesa como objeto e instrumento de investigación, 
+autores como Linzen & Oseki (2015) sostienen que los estudios y publicaciones que 
+pasan por procesos de revisión por pares pueden generar dudas cuando se basan en las 
+intuiciones de unos pocos hablantes de lenguas minoritarias. 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+una metodología basada en intuiciones solo a la lingüística 
+generativa es simplificar la discusión de manera desacertada, 
+puesto que en todos los modelos se recurre a informantes que 
+dan respuestas espontáneas o controladas en cuestionarios o 
+situaciones experimentales, y de algún modo esto supone 
+apelar a los juicios del investigador o de sus informantes. El 
+problema es que cuando se apela al conocimiento del hablante, 
+con frecuencia tenemos una falta de claridad sobre cuáles son 
+o como se determinan las propiedades relevantes con respecto 
+a las expresiones de la lengua que se evalúan.  
+ 
+2.1. El concepto de intuición en lingüística 
+A pesar de lo complejo y variado del panorama descrito, es 
+posible apreciarlo con una mirada más sistemática y 
+caracterizar algunas posturas básicas. En el campo de la 
+filosofía, las intuiciones han sido un tema clásico, en tanto que 
+han definido gran parte de la historia del quehacer filosófico 
+(perspectivas recientes se encuentran en Cappelen, 2012; 
+Chapman, Ellis, Hanna, Hildebrand & Pickord, 2013, entre 
+otros). En el terreno de la lingüística se ha abordado la noción 
+de intuición por razones ontológicas y metodológicas, 
+principalmente 
+con 
+respecto 
+a 
+conceptos 
+como 
+la 
+gramaticalidad y la aceptabilidad (véase más adelante), o en 
+relación con discusiones sobre datos y evidencia en 
+metodología de la investigación en paradigmas como el 
+generativo (Sprouse & Almeida, 2013) o el cognitivo (Willems, 
+2012).  
+ 
+154 
+ 
+De acuerdo con Willems (2012), intuición e introspección son 
+nociones originadas en la filosofía y la psicología, 
+respectivamente, pero que los lingüistas anglo-americanos y los 
+europeos no suelen distinguir. Ambas, añade Willems, son 
+facultades de la mente, y la diferencia radicaría en que mientras 
+la introspección es “la habilidad y la actividad (‘metacognición’) 
+de examinar y describir los estados y procesos internos 
+psicológicos propios”, la intuición, en cuanto a la lingüística se 
+refiere, abarcaría “el conocimiento tácito del lenguaje y la 
+capacidad técnica para actualizarlo” (p. 672). Willems 
+complementa esta idea de la siguiente manera: 
+Si el conocimiento del lenguaje se entiende, como muchos 
+lingüistas están de acuerdo, en términos del conocimiento 
+dinámico de un sistema complejo de procedimientos en 
+varios niveles de abstracción y convencionalización, 
+entonces cualquier procedimiento del lenguaje (fonológico, 
+sintáctico, semántico, discursivo, etc.) debe estar arraigado 
+en la intuición (2012, p. 672). 
+ 
+En la última década, la literatura ha profundizado su 
+reflexión sobre este asunto. Autores como Allan (2003) 
+admiten las intuiciones como parte de la ciencia lingüística, 
+pero no llegan a describirlas: “Son las intuiciones del lingüista 
+sobre los datos del lenguaje (los fenómenos éticos) lo que 
+las/los lleva a crear los constructos (émicos) hipotéticos 
+correspondientes. Puede no haber forma de asegurar que las 
+intuiciones del lingüista son buenas, porque no se sabe muy 
+bien qué es la intuición” (p. 557). Sin embargo, aunque para 
+Allan no sea claro el concepto, sí es claro que las intuiciones 
+son muy importantes en lingüística: “[una teoría del lenguaje 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+debe] ser explicativa en el sentido de que el significado y la 
+descripción estructural que asigna a cualquier expresión de la 
+lengua objeto debe corresponder con las intuiciones de un 
+hablante nativo acerca de lo razonable de tal adscripción” (p. 
+552). 
+Quizás el autor que más ha tratado el tema en la última 
+década es Michael Devitt (2006a, 2006b, 2008, 2010b, 2010a, 
+2012a, 2012b, 2013, 2014). Para este autor, las intuiciones son 
+la “voz de la competencia”. Para este autor, la perspectiva 
+generalmente aceptada entre filósofos de la lingüística es que 
+las intuiciones sobre la gramaticalidad de las expresiones 
+lingüísticas son producto del conocimiento sobre la gramática 
+que tienen los hablantes competentes en su lengua (Textor, 
+2009). Devitt critica esta perspectiva común, argumentando 
+que “la competencia no proporciona el contenido informacional 
+[cursivas en el original] de la intuición” (2014), sino que 
+provienen del conocimiento (no tácito) aprendido de la 
+gramática o la “educación lingüística”, (Textor, 2009). Una 
+revisión detallada de este y otros debates está por fuera del 
+alcance del presente trabajo, pero basta señalar que los 
+distintos factores involucrados en las discusiones sobre las 
+intuiciones, por un lado, resultan de una complicada visión 
+filosófica de la lingüística y, por otra parte, se suelen analizar 
+con base en los límites de una sola área y no teniendo en 
+cuenta una perspectiva de interfaz. En este trabajo se propone 
+una discusión que supera estos dos inconvenientes. 
+En la literatura sobre intuiciones también encontramos 
+trabajos como los de Borsley (2005), Culbertson & Gross 
+(2009), Fitzgerald (2010), Gross & Culbertson (2011), López 
+ 
+156 
+ 
+(2009b), Riemer (2009), Schütze (2016), Schütze & Sprouse 
+(2013), Sprouse (2015), Sprouse & Almeida (2010, 2012), 
+Wasow & Arnold (2005), Willems (2012), entre otros. En 
+ocasiones la discusión se plantea en términos casi exclusivos de 
+la investigación en sintaxis (y las diferentes versiones de la 
+gramaticalidad), pero es claro que dentro de la semántica 
+(Stokhof, 2011) y la pragmática (Devitt, 2013) también se trata 
+el problema, aunque la literatura metateórica sobre este aspecto 
+en las subdisciplinas que tratan el significado es muy escasa. 
+Esta literatura incluye posturas tanto a favor como en contra 
+del uso de las intuiciones en lingüística. Lo que complica la 
+revisión de esta bibliografía es que cada trabajo aborda las 
+intuiciones con objetivos distintos. En algunos casos se trata 
+de discusiones sobre la naturaleza de la intuición y su rol en la 
+lingüística. En otros, el debate gira en torno a las críticas que se 
+hacen a la investigación en sintaxis y su confianza (excesiva 
+para algunos) en los juicios sobre la gramaticalidad de las 
+expresiones lingüísticas. Otros trabajos se enfocan en los 
+diversos métodos de recolección de datos y abordan el 
+problema según una perspectiva puramente experimental. En 
+este intrincado paisaje, sobresale un problema básico que 
+concierne directamente a la lingüística y se trata de los 
+conceptos de gramaticalidad y aceptabilidad. Ellos están 
+estrechamente relacionados con la intuición en la medida en 
+que el contenido de las intuiciones se entiende como un juicio 
+acerca de lo gramatical o lo aceptable de las expresiones 
+lingüísticas, por lo cual es preciso revisar estas nociones.  
+ 
+ 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+2.2. Intuiciones, gramaticalidad y aceptabilidad 
+Aunque a menudo se usan indistintamente, la diferencia 
+entre gramaticalidad y aceptabilidad parece haber estado 
+marcada por sus asociaciones con la sintaxis y la semántica. Es 
+así que el adjetivo denominal “gramatical”, en el sentido 
+específico, es aquello que procede de la gramática aplicado al 
+resultado de los procesos que rigen la combinación de 
+unidades 
+simples 
+para 
+formar 
+expresiones 
+complejas 
+(sintagmas y oraciones) en una lengua. En algunas versiones de 
+la discusión, la gramaticalidad se entiende como una propiedad 
+binaria (presente o ausente), mientras que en otras se ve como 
+una cuestión de grado. La idea original de Chomsky (1957) con 
+respecto a lo gramatical la caracterizaba como una propiedad 
+del sistema sin relación alguna al significado. Su famosa 
+oración, traducida como “Verdes ideas incoloras duermen 
+furiosamente”, ha sido considerada como el ejemplo clásico de 
+la independencia entre la sintaxis y la semántica. Por otra parte, 
+Chomsky (1980) advertía que “gramática” puede ser un 
+término ambiguo entre el sistema de reglas en la mente de un 
+hablante y la teoría explícita de un lingüista sobre dicho 
+sistema. Esta distinción es importante en la presente discusión 
+ya que nos obliga a pensar acerca de qué propiedad estamos 
+hablando cuando decimos que la intuición puede ser un juicio 
+sobre la gramaticalidad. Sobre este aspecto, la crítica de Devitt 
+que se mencionaba antes con respecto a la “voz de la 
+competencia” parece no ser muy fuerte. La idea es que Devitt 
+cuestiona una versión ortodoxa del generativismo con respecto 
+al papel de la competencia lingüística argumentando que los 
+hablantes no tienen acceso “cartesiano” a las propiedades 
+ 
+158 
+ 
+gramaticales del sistema. En consecuencia, afirma Devitt, las 
+intuiciones no pueden ser sobre dichas propiedades a menos 
+que estén “cargadas de teoría”, es decir, que sean juicios 
+basados en el conocimiento teórico de la lingüística. Al 
+respecto, Fitzgerald (2010) ha respondido que, si bien Devitt 
+está en lo cierto sobre nuestra incapacidad de acceder de 
+manera consciente al sistema de la competencia (y por tanto 
+ella no tiene “voz”), podemos hacer inferencias teóricas con 
+base en las intuiciones de los hablantes, teniendo en cuenta que 
+la gramaticalidad no es la única propiedad en juego y que tales 
+intuiciones son limitadas: 
+No sabemos cómo se derivan los juicios conscientes, o los 
+mecanismos del rol que desempeñan los sistemas 
+lingüísticos en emitir estos juicios. Los lingüistas infieren 
+que un sistema gramatical estructurado moldea estas 
+intuiciones, pero ellos saben muy bien que las intuiciones 
+lingüísticas no son un reflejo de la competencia subyacente 
+que esté exento de problemas (p. 144).   
+ 
+En cuanto a la relación entre gramaticalidad y aceptabilidad, 
+Fitzgerald propone separar estas nociones (y también la de la 
+interpretabilidad). Los hablantes, afirma este autor, no tienen 
+intuiciones sobre lo que una gramática (en el sentido teórico) 
+dicta. La idea de lo “aceptable”, por otra parte, estaría 
+conectada con los sistemas adicionales a la gramática que 
+sirven en la producción lingüística (factores semánticos y 
+pragmáticos, conocimiento del mundo, etc.), y por esta razón 
+las intuiciones sobre la aceptabilidad no podrían ser explicadas 
+completamente por una teoría lingüística (p. 130).  Esta última 
+idea de Fitzgerald es bastante controversial, en la medida en 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+que limita las posibilidades teóricas de la lingüística con 
+respecto a las intuiciones. Al respecto, hay varias posturas. 
+Devitt (2010a), por ejemplo, ha sostenido que sus críticos 
+llevan demasiado lejos la distinción entre juicios de 
+gramaticalidad y juicios de aceptabilidad. Para este autor, esta 
+división se basa en al menos tres supuestos que él rechaza. El 
+primero es el de que los hablantes no tienen intuiciones sobre 
+la gramaticalidad (debido a la imposibilidad de acceder al 
+sistema). El segundo supuesto es que las intuiciones que se 
+refieren a si las expresiones son aceptables, suenan bien, etc., 
+no son intuiciones sobre la gramaticalidad. Y el tercer supuesto 
+es que los lingüistas no se interesan realmente por las 
+intuiciones sobre la gramaticalidad, aunque con frecuencia 
+usen ese término. Años antes, Devitt (2006a) había expresado 
+que apelar al concepto de aceptabilidad parecía resolver la 
+tensión entre las nociones en cuestión, pero que en realidad no 
+lo hacía porque, según él, las intuiciones sobre la aceptabilidad 
+también tienen un peso evidencial dentro de la lingüística, pero 
+deben entenderse de manera aislada de los posibles 
+significados de lo aceptable en la sociedad, lo cortés, lo 
+razonable, etc. (p. 102). 
+ 
+ 
+3. Hacia una nueva epistemología de las intuiciones en 
+lingüística 
+En esta sección se discuten dos cuestiones específicas que se 
+enmarcan en la reflexión metalingüística. La primera es una 
+pregunta ontológica acerca de cuáles son los objetos de estudio 
+que adoptan los lingüistas interesados en el estudio del 
+ 
+160 
+ 
+significado; la segunda es una pregunta epistemológica sobre 
+cómo podemos acceder al conocimiento de esos objetos. 
+Aceptar una u otra respuesta de cada una de estas preguntas, 
+por supuesto, es una prerrogativa de cada lingüista. Sin 
+embargo, lo que muestra la discusión sobre la disciplina y sus 
+métodos es que con frecuencia no hay una declaración 
+explícita de tales respuestas, o que la práctica investigativa 
+asume ciertos principios no justificados que pueden ser incluso 
+contradictorios. Esta situación se da en todo el espectro que 
+abracan las ciencias del lenguaje, pero es particularmente 
+esencial en áreas como la sintaxis y la semántica. Para mostrar 
+esto, podemos empezar con una mirada general del problema. 
+Toda ciencia necesita revisar constantemente sus propias 
+teorías, sus métodos y su alcance, y la lingüística no es la 
+excepción. Quizás en el ámbito académico parece común ver o 
+suponer que los filósofos expertos en el estudio del 
+conocimiento científico son quienes se dedican a este tipo de 
+revisiones. Sin embargo, también es válido y deseable que los 
+científicos mismos, al ser quienes viven el día a día de la 
+(re)formulación de teorías, el análisis de datos y la consecución 
+de resultados teóricos y empíricos, sean quienes reflexionen 
+dentro de un marco epistemológico. En esta dirección, el 
+término “metalingüista” resulta, para el sentido propuesto, más 
+apropiado que el de “filósofo de la lingüística”. De manera 
+análoga, la “metalingüística” (y la metafonología, la 
+metasintaxis, la metasemántica, etc.) podría considerarse como 
+el ejercicio de reflexión epistemología volcada sobre el estudio 
+del lenguaje y las lenguas desde la perspectiva del lingüista.  
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Más allá de las diferencias específicas que separan a quienes 
+se dedican a la investigación, la reflexión metalingüística nos 
+une en el propósito de someter nuestra disciplina a un “control 
+de calidad”. La literatura que se puede encontrar al respecto es 
+muy extensa (véase Kempson, Fernando, & Asher, 2012 para 
+una compilación reciente de temas y bibliografía). Dicho 
+examen involucra un análisis de cuestiones fundacionales que 
+suele reflejar, entre otras cosas, las bases de las distinciones 
+entre las diversas corrientes de investigación. Por ejemplo, 
+Scholz, Pelletier, & Pullum (2015) han planteado que para 
+responder a preguntas generales de la lingüística (v. g., de qué 
+trata, cuáles son sus objetivos, cómo se deben formular sus 
+teorías y qué cuenta como datos), es posible dividir el espectro 
+de la investigación entre tres aproximaciones, a saber, 
+esencialismo, externalismo y emergentismo. Los autores 
+aclaran que estas son simples etiquetas y no descripciones, 
+pero es posible caracterizar a grandes rasgos, cada una de las 
+corrientes. El esencialismo se asocia con la perspectiva que se 
+enfoca en la sintaxis desde la tradición generativista (hoy en día 
+minimalista), pero también con las perspectivas formales de la 
+lingüística en general. Por su parte, el externalismo deriva de la 
+tradición estructuralista americana y sobrevive en las 
+perspectivas computacionales y de análisis de corpus. El 
+emergentismo, a su vez, se relaciona con orientaciones 
+cognitivas y funcionalistas de la lingüística. Para profundizar en 
+los detalles y comparar análisis paradigmáticos de cada 
+aproximación, el lector puede remitirse al texto de Scholz et al. 
+(2015). 
+ 
+162 
+ 
+Está claro que muchos investigadores combinan elementos 
+de los tres enfoques. Al respecto, Scholz et al. mencionan que 
+estas tendencias teóricas no se presentan como programas de 
+investigación desarrollados, sino como inclinaciones de 
+trasfondo que orientan el quehacer de los lingüistas, sin que 
+esto signifique limitaciones lógicas para adoptarlas de manera 
+ecléctica: 
+Por ejemplo, si los emergentistas tienen que explicar la 
+estructura sintáctica de las expresiones apelando a hechos 
+sobre la naturaleza del uso de símbolos en la comunicación 
+humana, entonces pueden presuponer una gran cantidad de 
+trabajo externalista en la descripción de patrones 
+lingüísticos, y aquellos externalistas que trabajan en 
+sistemas de análisis computacional con frecuencia usan (al 
+menos como punto de partida) sistemas de reglas y 
+patrones ‘estructurales’ deducidos por esencialistas (2015, 
+párr. 12).2 
+  
+Sin embargo, las diferencias entre estas tres aproximaciones 
+con frecuencia limitan la colaboración entre ellas, lo cual se 
+manifiesta en profundas divisiones teóricas y metodológicas, 
+incluso al interior de cada enfoque. Por ejemplo, ante la 
+pregunta de qué es lo que hace parte del estudio del lenguaje, 
+autores como Chomsky (como se citó en Scholz et al.) han 
+hecho énfasis en que la semántica y la pragmática no deberían 
+incluirse en la lingüística. Esto no es generalmente aceptado 
+por los partidarios de las aproximaciones emergentistas y 
+externalistas, y ni siquiera por muchos esencialistas que 
+trabajan en los enfoques formales de las interfaces sintaxis–
+                                                          
+ 
+2 Esta y todas las traducciones de textos citados en inglés son mías. 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+semántica (Hackl, 2013) y semántica–pragmática (Schlenker, 
+2016). 
+Otro de los aspectos que separan las aproximaciones 
+mencionadas es el que tiene que ver con el conjunto de 
+fenómenos en los que se debe enfocar la lingüística. De 
+acuerdo con Scholz et al., una diferencia general entre 
+externalistas, emergentistas y esencialistas es que los primeros 
+privilegian las expresiones lingüísticas proferidas por hablantes; 
+los segundos se concentran en hechos de la cognición social y 
+la comunicación; y los últimos dirigen esfuerzos hacia el 
+estudio de “intuiciones sobre la gramaticalidad y significado 
+literal”. Aunque es justo reiterar la advertencia de los autores 
+sobre el hecho de que esta caracterización no pretende ser una 
+descripción tajante de las aproximaciones, las diferencias que 
+ellos presentadas resultan ser problemáticas por al menos dos 
+razones. La primera es que Scholz et al. parecen dividir 
+apresuradamente el ámbito de la investigación entre quienes se 
+dedican a estudiar fenómenos lingüísticos como las 
+proferencias (utterances) de los hablantes y fenómenos de los 
+cuales se puede cuestionar su carácter netamente lingüístico 
+como los hechos de la cognición o las prácticas y 
+comportamientos sociales. La segunda razón es que una 
+división entre perspectivas puede suponer una división entre 
+metodologías, ya que no todos los fenómenos lingüísticos 
+pueden analizarse de la misma manera; en sí mismo, esto no es 
+un problema, pero podría serlo en la medida en que el 
+enfrentamiento entre paradigmas se convierta, por extensión, 
+en una rivalidad entre métodos que solo conduce a aumentar la 
+brecha entre orientaciones teóricas y empíricas. Para 
+ 
+164 
+ 
+profundizar más en estas cuestiones, veamos cada una por 
+separado. 
+ 
+3.1. La cuestión ontológica: el objeto de estudio 
+La primera cuestión problemática al respecto de la 
+distinción entre aproximaciones propuesta por Scholz et al. 
+tiene que ver, en última instancia, con una pregunta clásica 
+para la filosofía de la lingüística, la que busca determinar qué 
+tipo de fenómenos de la experiencia humana son en realidad 
+fenómenos del lenguaje. En el contexto de esta discusión, la 
+pregunta es relevante porque, como lo afirma Allan (2003), 
+citando a Fodor, una disciplina debe tener claro qué cuenta en 
+ella como datos para la confirmación de sus teorías (p. 536). 
+Por supuesto, la lingüística como ciencia se fundamenta en el 
+análisis de datos lingüísticos, pero establecer qué cuenta como 
+datos lingüísticos depende de qué se entiende por “lenguaje”. 
+Al respecto, Allan sostiene que la respuesta a la pregunta de 
+cuál es el objeto de la indagación lingüística es la que determina 
+el tipo de teoría que se adopta. Este autor distingue entre 
+cuatro posibles respuestas: (A) el lenguaje como entidad física; 
+(B) el conocimiento del lenguaje interno (lenguaje–i); (C) el 
+lenguaje como objeto abstracto; (D) el lenguaje como 
+comportamiento social. Para Allan, estas respuestas a la 
+pregunta ontológica están representadas por diversos 
+paradigmas de investigación claramente distinguibles en la 
+lingüística del siglo XX: el estructuralismo norteamericano, el 
+conceptualismo, el realismo y el sistemicismo, respectivamente 
+(p. 573). Estas distinciones, aunque simplificaciones (admite 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Allan), capturan las características principales que permiten 
+identificar gran parte de (si no todas, en alguna medida) las 
+orientaciones investigativas de la lingüística actual. 
+Las perspectivas descritas por Allan se pueden equiparar 
+con las presentadas por Scholz et al., lo cual sugiere que el 
+estado actual de la cuestión sobre la epistemología de la 
+lingüística se refleja claramente en estas divisiones. Mientras 
+que para Scholz et al., en principio, no hay nada que impida a 
+los lingüistas hacer uso de aspectos provenientes de las tres 
+aproximaciones, para Allan es claro que una buena teoría del 
+lenguaje (en el sentido más amplio) debe poder dar cuenta de 
+las cuatro concepciones representadas en sus correspondientes 
+perspectivas lingüísticas. Es en este sentido en el que la 
+pregunta ontológica sobre qué es lo lingüístico para la 
+lingüística cobra importancia: ¿deben los lingüistas centrarse en 
+las formas materiales, en sus significados y usos o en los 
+comportamientos asociados a ellas? La respuesta de Allan sería 
+que los investigadores deben ocuparse de todas ellas, pero en 
+la práctica, una teoría integral del lenguaje y las lenguas debe 
+estar compartimentada. La razón más obvia es que el lenguaje 
+como objeto de estudio y las lenguas como sus 
+manifestaciones concretas no son entidades unidimensionales, 
+sino que pueden exhibir características físicas, biológicas, 
+psicológicas, 
+sociales, 
+etc. 
+Esta 
+naturaleza 
+ontológica 
+multidimensional del lenguaje y de las lenguas es la que 
+determina que la ciencia que los estudia, la lingüística, deba ser 
+por definición, una ciencia de subdisciplinas. 
+Aunque esto no es un problema nuevo, es interesante 
+observar que la ontología del objeto de la lingüística sigue 
+ 
+166 
+ 
+siendo el fundamento latente de las tensiones entre 
+perspectivas. Incluso en ocasiones, agregan Scholz et al., los 
+enfoques “se desarrollan en posturas ideológicas o programas 
+polémicos, 
+o 
+conducen 
+a 
+bifurcaciones 
+de 
+nuevas 
+especialidades con revistas separadas. En la opinión de Phillips 
+(2010), ‘el diálogo entre adeptos de aproximaciones diferentes 
+es alarmantemente raro’” (2015, párr. 8), lo cual contrasta con 
+la necesidad de reducir la brecha científica mencionada antes. 
+Si se acepta que la naturaleza del objeto de estudio es 
+multidimensional, no deja de ser sorprendente y hasta 
+contradictorio que las aproximaciones básicas se presenten 
+como adversarias, defendiendo sus supuestos y atacando los de 
+las otras. 
+En esta mezcla de prácticas eclécticas y reduccionismos que 
+configuran el complejo panorama de la lingüística actual, 
+muchos lingüistas parecen olvidar que el objeto de la lingüística 
+es de naturaleza dual: el lenguaje como facultad y las lenguas 
+como manifestaciones concretas de ella. El estructuralismo 
+lingüístico, por ejemplo, tenía como axioma fundamental que 
+la lengua es un conjunto de asociaciones sistemáticas entre 
+formas y significados; el problema ha sido que las formas son 
+la dimensión material de la lengua, mientras que los 
+significados constituyen la dimensión abstracta (Krifka, 2011). 
+Esta realidad configura de manera categórica la investigación 
+lingüística, y es por ello que la decisión no es trivial, pero 
+tampoco controversial. Por ejemplo, Allan (2003) parece 
+inclinarse por una teoría lingüística que tenga, entre otras 
+cosas, constructos ontológicamente determinados (expresión 
+que Allan retoma del lingüista R. P. Botha). La idea es 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+explicada con respecto a una crítica de Allan al mentalismo que 
+caracteriza a las teorías de la gramática generativa. Para este 
+lingüista, el lenguaje y sus constructos son objetos abstractos 
+en el sentido de “abstraídos de manifestaciones físicas, 
+psicológicas y sociales espacio-temporalmente localizadas”, 
+pero con esto Allan no sugiere (sino que, de hecho, él rechaza) 
+que una teoría lingüística deba ser una teoría de la 
+mente/cerebro (p. 554). 
+ 
+3.2. La cuestión epistemológica: la metodología y los 
+métodos 
+La reflexión metalingüística planteada hasta este punto se ha 
+centrado en la naturaleza ontológica del objeto de estudio. Una 
+conclusión preliminar a la que se llegó fue la de que esta 
+naturaleza es esencial e innegablemente dual. Por un lado, el 
+lenguaje se manifiesta como abstracción de fenómenos propios 
+de la experiencia humana; por otro, como un conjunto de 
+entidades concretas que podemos analizar en virtud de sus 
+propiedades físicas. Ahora estamos en la capacidad de dirigir 
+nuestra atención a la naturaleza epistémica del objeto, es decir, 
+a la que trata de responder a la pregunta de cómo podemos 
+acceder al conocimiento del objeto. En esta reflexión 
+epistemológica se presupone que dicha pregunta implica 
+comprender la metodología y los métodos de la lingüística. La 
+primera se entiende como un tipo de estudio acerca de la 
+investigación científica, mientras que los segundos son las 
+técnicas específicas usadas en la investigación (Kothari, 2004). 
+ 
+168 
+ 
+La 
+reflexión 
+epistemológica suele 
+reconocer 
+varias 
+distinciones en cuanto a la investigación. Las que acá nos 
+interesan son las que existen entre metodologías teóricas y 
+empíricas, por un lado, y entre métodos cualitativos y 
+cuantitativos, por otro. Estas distinciones son cruciales para 
+poder comprender el lugar de las intuiciones, la aceptabilidad y 
+los tipos de datos que se usan en la investigación lingüística 
+actual, tema central del trabajo. Uno de los problemas más 
+recurrentes a la hora de analizar el quehacer del lingüista con 
+respecto a su objeto es el tipo de decisiones metodológicas que 
+debe tomar frente a tal objeto. Es muy común que la 
+lingüística sea objeto de críticas por parte de investigadores 
+(sobre todo del campo de la psicología experimental) que 
+afirman que los métodos usados para estudiar fenómenos del 
+lenguaje deben ser aquellos que rigen las prácticas de cualquier 
+otra ciencia. Tal exigencia tiene como consecuencia un fuerte 
+rechazo a muchos trabajos en lingüística que no contemplan 
+metodologías empíricas ni métodos cuantitativos. Por ejemplo, 
+Wasow & Arnold (2005) cuestionan todo tipo de investigación 
+dentro de la gramática generativa que se basa en “intuiciones 
+introspectivas sobre la buena formación [de las expresiones] 
+como fuente primaria de datos” (p. 1481). 
+La crítica claramente va dirigida a la posibilidad de hacer 
+investigación lingüística teórica sin apelar a métodos empíricos. 
+Para autores como Wason & Arnold (y más recientemente 
+Gibson & Fedorenko, 2013), la gramática generativa en general 
+no tiene en cuenta los principios básicos de la psicología 
+experimental: número 
+de 
+muestras que 
+garantice 
+la 
+significancia estadística, orden aleatorio de estímulos, sujetos 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+sin conocimiento de las hipótesis bajo prueba, y análisis 
+estadístico de los datos obtenidos. La afirmación de Wason & 
+Arnold en este sentido es que se trata de “precauciones básicas 
+[que] son casi inauditas en la gramática generativa” (p. 1484). 
+Es difícil aceptar que la situación fuera la descrita por Wason 
+& Arnold, dado que tales requisitos han sido efectivamente 
+cumplidos por muchos trabajos en lingüística durante los 
+últimos veinte años (cf. Schütze, 2016; Sprouse, 2015). 
+Quizás es preciso aclarar que no se está evadiendo la crítica, 
+como lo mencionan estos autores, sino que se resalta el hecho 
+de que hay propuestas tanto teóricas como empíricas y que 
+ambas son válidas, según como se entiendan sus presupuestos 
+ontológicos y metodológicos. Además, también conviene 
+aclarar que la presente discusión no pretende defender a la 
+gramática generativa de tales ataques, sino mostrar que las 
+críticas van dirigidas a la lingüística teórica en general, pero que 
+son críticas sin fundamento o en el mejor de los casos, solo 
+parcialmente justificadas y de limitada repercusión en la 
+disciplina. 
+Una 
+de 
+las 
+respuestas 
+más 
+contundentes 
+a 
+los 
+cuestionamientos plasmados en trabajos como los de Wason & 
+Arnold (y otros) nos la ofrecen Sprouse & Almeida (2010). 
+Según estos autores, las críticas a la lingüística teórica 
+tradicional se basan en la escasa confiabilidad que tendrían los 
+datos cuando son recolectados sin tener en cuenta los 
+parámetros formales de la metodología experimental. Sprouse 
+& Almeida citan varios trabajos que han respondido 
+ampliamente a este tipo de críticas, pero su propio 
+acercamiento al problema es bastante original. Ellos presentan 
+ 
+170 
+ 
+evidencia cuantitativa que sugiere que la metodología 
+tradicional (informal, teórica, no empírica, sin análisis de 
+significancia estadística, etc.) no debe considerarse como poco 
+fiable. El trabajo de estos autores se enfoca en mostrar que hay 
+varias razones por las que los datos presentados en 
+investigaciones tradicionales son efectivamente confiables. Por 
+ejemplo, en algunas investigaciones los críticos han 
+malinterpretado los resultados; en otras, el supuesto sesgo 
+cognitivo de los lingüistas hacia la confirmación de sus propias 
+hipótesis de hecho puede resultar ser un sesgo en contra de sus 
+mismas conclusiones. Este tipo de evaluación, que se puede 
+aplicar a cientos de casos de investigaciones para comprobar la 
+confiabilidad de los métodos de la lingüística, demuestra que 
+los estudios informales casi siempre superan las pruebas de 
+formalización empírica (Sprouse & Almeida solo encontraron 
+un caso en el que esto no fue así, de manera que la supuesta 
+“epidemia de poca confianza” en los datos y en la 
+investigación lingüística es una crítica bastante débil). 
+Hasta el momento hemos visto un algunas de los 
+argumentos disponibles en la literatura que permiten entender 
+aspectos centrales de la discusión. Por un lado, tenemos una 
+reflexión epistemológica sobre el objeto de la lingüística, la cual 
+necesariamente debe replicarse en cada área de la disciplina. 
+Por otro lado, tenemos un conjunto de ideas sobre la 
+metodología de la investigación lingüística, que apuntan a 
+cuestionar los métodos informales de recolección de datos y la 
+falta de análisis estadísticos. Frente a tales críticas, hay 
+discusiones teóricas y pruebas empíricas que refutan la idea de 
+que la investigación lingüística está en el camino equivocado 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+del desarrollo científico. Si se aceptan estos contraargumentos, 
+es posible dar el siguiente paso en la reflexión, el cual se basa 
+en la posibilidad de recurrir a juicios intuitivos (propios y 
+ajenos) con respecto a las expresiones lingüísticas. De acuerdo 
+con lo dicho anteriormente, no creo que este sea el caso ni que 
+debamos dejar de lado la discusión. Y por fortuna no ha sido 
+así. El reconocido lingüista Geoffrey Sampson sostuvo en 
+1975 que “si la lingüística de hecho se basaba en la intuición, 
+entonces no era una ciencia” (como se cita en Borsley, 2005, p. 
+1476). Lo que demuestran las discusiones al respecto es que, 
+incluso más de cuarenta años después de la sentencia de 
+Sampson, las intuiciones siguen siendo parte de la actividad 
+científica de quienes estudian el lenguaje y las lenguas. 
+ 
+4. Las intuiciones en los estudios del significado 
+lingüístico 
+Como ya se ha mencionado antes, el problema de la 
+intuición en lingüística no es tanto de naturaleza ontológica 
+sino epistemológica. Esta actitud parece más sensata si uno 
+revisa la historia de la semántica y la pragmática. En particular, 
+las discusiones sobre qué es el significado han tenido mucho 
+impacto en el desarrollo de las dos áreas pero paradójicamente 
+no han tenido mucho éxito. En lugar de adoptar una u otra 
+definición específica de lo que sería el significado, es más 
+productivo tratar de caracterizar el comportamiento lingüístico 
+de los hablantes con respecto al contenido. De igual manera, se 
+debe tener claro qué tipo investigación se prefiere. Por 
+ejemplo, en semántica uno puede adoptar una perspectiva 
+ 
+172 
+ 
+formal, representacional y cognitiva, sin que esto sea 
+necesariamente una contradicción. En pragmática, del mismo 
+modo, se puede optar por una perspectiva formal-cognitiva. 
+Estas decisiones previas a la investigación son tan válidas 
+como las que se enmarcan dentro de corrientes funcionalistas, 
+socioculturales o de otra naturaleza, solo que apuntan a 
+objetivos distintos. 
+El siguiente paso es tomar posición sobre el lugar de las 
+intuiciones dentro de nuestra metodología personal. Esto no 
+resulta difícil si se entiende como un paso adicional en el 
+proceso que empieza con la toma de decisiones frente a las 
+perspectivas más generales en lingüística. Al hacerlo, se 
+necesita tener claro que si asociamos intuición con 
+gramaticalidad, debemos responder a las críticas que se le 
+hacen a esta noción y defender o rechazar los argumentos con 
+respecto a una propiedad que se dice es parte del conocimiento 
+de los hablantes. Por supuesto, rechazar de entrada no la 
+premisa sino la discusión completa nos deja son poder dialogar 
+sobre el objeto de la disciplina.  
+La sintaxis, sea cual fuere la orientación que se adopte, es un 
+área de la lingüística en la que la investigación descansa en un 
+acumulado de datos sin paralelo. En efecto, el conjunto de 
+datos de la sintaxis es justamente el conjunto potencialmente 
+infinito de oraciones que un hablante puede expresar en su 
+lengua. En el otro lado del mapa, semantistas o pragmatistas se 
+encuentran ante el mismo conjunto de datos, pero con 
+intereses diferentes. Lo que queremos ahora es tratar de 
+mostrar este tipo de diferencias y por qué son relevantes en 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+relación con el debate acerca de las intuiciones que se está 
+evaluando. 
+La lingüística es una disciplina formada sobre la base de una 
+dualidad entre lo concreto de las expresiones y lo abstracto del 
+significado. Es claro que la dimensión más concreta de esta 
+dualidad ha sido la más estudiada. Sin embargo, también es 
+justo preguntarnos si las intuiciones sobre la buena formación 
+de oraciones son independientes de las intuiciones sobre su 
+significado y sobre su uso. Es posible que las críticas a la 
+noción misma de intuición sean válidas o que si aceptamos una 
+definición de trabajo para el concepto, igualmente nos veamos 
+ante la necesidad de distinguir propiedades sintácticas, 
+semánticas y pragmáticas para decir si una expresión es 
+aceptable o no dentro de nuestra lengua. Hacer esto es parte 
+tanto de nuestra experiencia cotidiana al comunicarnos como 
+de nuestra actividad académica al analizar expresiones 
+lingüísticas. En todo caso, no se trata de que las intuiciones de 
+lingüistas sean mejores que las del hablante no lingüista. Para 
+ver este punto, es preciso retomar una discusión de Culbertson 
+& Gross (2009) al respecto. Estos autores plantean que ser 
+lingüista no hace a nadie mejor informante en tareas de juicios 
+sobre aceptabilidad, co-referencia, ambigüedad, etc. La clave, 
+según ellos, está en la familiaridad que tenga una persona con 
+las tareas de valoración de expresiones, lo cual puede variar o 
+manipularse en un determinado experimento. Hay que decir 
+que parece difícil afirmar con certeza que los hablantes logran 
+lo que estos autores piden en su experimento, a saber, ignorar 
+toda regla gramatical que le hayan enseñado y decir si las 
+expresiones les “suenan bien” o no. En todo caso, el punto es 
+ 
+174 
+ 
+la distinción entre lingüistas y no lingüistas como sujetos 
+informantes acerca de la aceptabilidad no nos lleva muy lejos, 
+puesto que no es posible caracterizar con certeza los límites del 
+conocimiento lingüístico, sea que se entienda como 
+conocimiento teórico sobre la gramática o como conocimiento 
+empírico sobre la lengua.  
+Una línea de discusión más prometedora es la confiabilidad 
+de los datos, si aceptamos que una oración declarada como 
+aceptable lo es en virtud de un juicio intuitivo. De particular 
+interés para la presente reflexión es el hecho de que los juicios 
+sobre las expresiones lingüísticas superan las pruebas empíricas 
+de confiabilidad. Al respecto, Sprouse & Almeida (2012) 
+pusieron a prueba las 469 unidades de datos de un clásico libro 
+de texto de sintaxis. Para estas expresiones del inglés 
+americano, 440 participantes se sometieron a dos tipos de 
+pruebas (estimación de magnitud y respuestas sí/no). Los 
+datos obtenidos se analizaron mediante tres tipos de pruebas 
+estadísticas diferentes y los resultados sugieren que las 
+oraciones del libro de texto son datos tan confiables como 
+cualquier expresión lingüística usada en investigaciones 
+experimentales. La tasa de replicabilidad de los datos obtenida 
+por Sprouse & Almeida con respecto a los ejemplos del libro 
+de texto fue de 98%. Este tipo de pruebas se pueden 
+interpretar como una respuesta directa a las críticas que 
+rechazan los métodos informales de recolección de datos sobre 
+juicios lingüísticos, y en general, a la idea de que los datos poco 
+confiables de la lingüística suponen teorías lingüísticas poco 
+confiables. Adicionalmente, Sprouse & Almeida sostienen que 
+la mayoría de teorías sintácticas, si bien son diferentes, tratan 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+de explicar el mismo conjunto de datos, solo que lo hacen a 
+través de diferentes mecanismos. Si las diferencias no se basan 
+en los datos sino en los mecanismos que explican los 
+fenómenos de la sintaxis, entonces los problemas en la 
+disciplina son de naturaleza teórica, no empírica (2012, p. 631).  
+Con respecto a la interfaz semántica-pragmática, lo que 
+tenemos es un campo de estudio de las propiedades del 
+significado que se basa en datos provenientes de la separación 
+abstracta entre expresión y contenido.3 Retomando una 
+discusión de la sección anterior, es preciso decir que, en 
+ocasiones, el problema se ha mostrado como un asunto de 
+gramaticalidad frente a aceptabilidad como propiedades de la 
+sintaxis y de la semántica-pragmática, respectivamente (aunque 
+también se habla de “felicitousness” para la pragmática). Al 
+respecto, hay muchas propuestas. Por ejemplo, la idea de que 
+la gramaticalidad sea una propiedad del sistema y que la 
+aceptabilidad no lo sea, o al menos no por completo, está 
+insinuada en una discusión de Larson & Segal (1995). En ella, 
+estos autores sostienen que “lo que explica el significado [de 
+una expresión] yace profundamente enterrado en nuestras 
+mentes, no emerge en momentos de reflexión, y ciertamente es 
+muy probable que no podamos acceder a ello mediante alguna 
+forma de introspección” (p. 15). La cita hace referencia de 
+manera explícita al significado, pero la idea se extiende hasta 
+                                                          
+ 
+3 En este trabajo sumo una postura favorable a la distinción entre semántica y 
+pragmática que, por supuesto, valida la existencia de una interfaz teórica entre ambas. La 
+interpretación de una expresión lingüística debe explicarse dentro del marco de una 
+teoría que caracterice adecuadamente las propiedades del contenido y del uso. Sobre este 
+tipo de teoría del significado, pueden consultarse los trabajos de autores como 
+Depraetere & Salkie (2017), Jaszczolt (2012), McNally (2013), Schlenker (2016), entre 
+otros. 
+ 
+176 
+ 
+abarcar el tema de la gramaticalidad y la aceptabilidad en 
+sintaxis. En efecto, Larson & Segal señalan que los juicios de 
+los hablantes que asignan el carácter de aceptable a una 
+expresión son parte del dominio preteórico de la sintaxis, 
+mientras que asignar el carácter de gramatical a una expresión 
+es algo que se hace como “consecuencia explícita de una teoría 
+sintáctica” (p. 560, n. 17). Para explicar el punto, Larson & 
+Segal presentan como ejemplo la oración “La rata que el gato 
+que el perro molestó persiguió se comió el queso” (The rat the 
+cat the dog worried chased ate the cheese). De acuerdo con los 
+autores, hay buenas razones para querer que una gramática nos 
+permita decir que oraciones como la mencionada son 
+expresiones bien formadas sintácticamente. Sin embargo, los 
+hablantes, de manera casi unánime, rechazan este tipo de 
+combinaciones (calificándolas como no aceptables). De 
+acuerdo con Larson & Segal, es allí donde radica la gran 
+discrepancia entre lo gramatical y lo aceptable, discrepancia 
+que para ellos no es sorprendente sino todo lo contrario, 
+esperable. La razón sería que la brecha entre la competencia y 
+la actuación lingüística es producto de factores o efectos que 
+tienen limitan el procesamiento en la interpretación de 
+expresiones complejas.4 
+Así pues, volvemos a una pregunta central de la reflexión: 
+¿de qué debe tratar una teoría lingüística sobre el significado? 
+Me parece que la respuesta a esta pregunta es relativa a la 
+dimensión del objeto de estudio que se analiza; además 
+                                                          
+ 
+4 El argumento de Larson & Segal es similar al presentado por Fitzgerald (2010) 
+mencionado antes, aunque queda para un trabajo posterior determinar si las 
+conclusiones de ambos autores son compatibles. 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+sostengo que esta respuesta (y no debería ser controversial que 
+haya varias) determina el compromiso epistemológico de cada 
+lingüista con las intuiciones sobre las formas y los contenidos 
+de las expresiones de las lenguas humanas. Consideremos un 
+caso concreto: la semántica formal. Ella es una metodología 
+que echa mano de herramientas lógico–matemáticas para 
+analizar el significado de las expresiones complejas de la lengua 
+natural. Surge una pregunta inmediata: ¿qué es lo que 
+representan 
+las 
+representaciones 
+postuladas 
+por 
+los 
+semantistas? Al respecto, Gärdenfors (1999) sostiene que hay 
+dos aproximaciones básicas, una realista y una cognitivista. La 
+primera afirma que las representaciones semánticas dadas en 
+un modelo son representaciones de realidades del mundo (los 
+significados son entidades externas al sujeto); la segunda 
+defiende la idea de que los significados son entidades 
+mentales.5 Esta misma división entre lo físico y lo mental o lo 
+externo y lo interno, extrapolada al resto de la investigación 
+lingüística, es a su vez la raíz de la división más general entre 
+las perspectivas comentadas, las cuales les otorgan diferente 
+valor a las dimensiones del objeto de estudio y resultan 
+delimitando (pero, en principio, no aislando) las orientaciones 
+dentro de la disciplina.  
+ 
+5. Conclusiones 
+A lo largo de las secciones anteriores se ha subrayado la 
+importancia que los problemas metalingüísicos continúan 
+                                                          
+ 
+5 Hamm, Kamp, & Lambalgen (2006) defienden, convincentemente a mi modo de ver, 
+la idea de que las perspectivas formal y cognitiva de la semántica no son incompatibles 
+sino complementarias. 
+ 
+178 
+ 
+teniendo para muchos investigadores, a pesar tratarse de 
+reflexiones con décadas de historia y literatura especializada. 
+En términos generales, el panorama es relativamente claro: las 
+diferencias dentro de la lingüística pueden describirse con base 
+en los presupuestos teóricos y metodológicos de tres 
+aproximaciones, el esencialismo, el emergentismo y el 
+externalismo (Scholz et al., 2015). Estas diferencias son más 
+claras cuando se miran a la luz de dos preguntas básicas, una 
+ontológica que busca establecer la naturaleza del objeto de 
+estudio de la lingüística, y otra epistemológica que indaga sobre 
+las maneras que las que podemos obtener un conocimiento 
+científico de ese objeto. La interdependencia de estas 
+preguntas nos condujo a un punto de convergencia: el 
+concepto de intuición en lingüística. Al respecto, se estableció 
+que la necesidad de caracterizar con más detalle esta noción es 
+parte de la filosofía, y que para la lingüística lo más importante 
+es tomar postura sobre su rol dentro de la metodología de la 
+investigación, un objetivo fundamental para la elaboración de 
+teorías más adecuadas en términos descriptivos y explicativos. 
+Para el caso de la interfaz semántica-pragmática, el problema 
+de las intuiciones radica en si se acepta que el significado puede 
+describirse por un lado acudiendo al conocimiento de los 
+hablantes 
+y 
+por 
+otro, 
+estableciendo 
+un 
+principio 
+epistemológico representacionalista o no representacionalista 
+sobre los contenidos lingüísticos.  
+En tanto que las intuiciones se han descrito como juicios 
+acerca de la gramaticalidad o de la aceptabilidad de las 
+expresiones lingüísticas, fue preciso revisar algunos problemas 
+con respecto a estas dos propiedades. A pesar de la 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+complejidad del asunto, dichos problemas se pueden resumir 
+en dos aspectos: la dificultad de tener acceso directo al sistema 
+de la competencia que constituye el conjunto de propiedades 
+lingüísticas centrales y la relación entre la aceptabilidad y los 
+factores externos al sistema lingüístico (memoria, semántica, 
+conocimiento del mundo, etc.). Estas dificultades surgen en 
+virtud de un hecho más general en ciencias cognitivas, el 
+llamado “problema de la caja negra” (Schütze & Sprouse, 
+2013), en el sentido de que las intuiciones son manifestaciones 
+concretas de un comportamiento lingüístico observable, pero 
+dependen de operaciones mentales no observables. 
+En la misma línea, Schütze & Sprouse (2013) han defendido 
+que los juicios de aceptabilidad son parte necesaria de la 
+investigación lingüística, pueden analizarse de manera empírica 
+(aunque indirecta), tienen un carácter evidencial y, por tanto, 
+deben tener el estatus de datos dentro de la ciencia. Por 
+supuesto, esta defensa necesita una base sólida, la cual Schütze 
+& Sprouse presentan como una relación en tándem entre 
+teorías gramaticales y métodos empíricos. En este sentido, la 
+lingüística está llamada a no ignorar la discusión metalingüística 
+y a conseguir resultados concretos tanto en el nivel teórico 
+como el práctico. 
+En última instancia, el lugar de las intuiciones en la 
+lingüística moderna depende, en gran medida, de si una teoría 
+integral del lenguaje es capaz de establecer una sólida base que 
+permita identificar su naturaleza ontológica, determinar la 
+mejor forma de cumplir sus exigencias metodológicas, y 
+establecer un diálogo constructivo entre perspectivas teóricas y 
+métodos experimentales. El primer requisito necesita de ayuda 
+ 
+180 
+ 
+por parte de la filosofía, mientras que los otros dos son entera 
+responsabilidad de la lingüística. Esta meta no se circunscribe a 
+ninguna subdisciplina en particular, sino que debe buscarse en 
+todas las interfaces de la lingüística, dado que el objeto de 
+nuestra ciencia tiene un innegable carácter multidimensional. 
+Al delimitar el objeto de una u otra manera, al establecer 
+principios epistemológicos y al escoger entre los métodos 
+disponibles, lo que debe guiar el quehacer de cada lingüista es 
+buscar la mejor manera de estudiar cada una de esas 
+dimensiones que componen el objeto, lo que de una u otra 
+forma exige que las perspectivas que concurren en el escenario 
+actual de la investigación lingüística hagan contribuciones 
+distintas más no incompatibles. 
+ 
+Referencias Bibliográficas 
+ 
+Allan, K. (2003). Linguistic metatheory. Language Sciences, 25, 
+533–560. 
+ 
+Borsley, R. D. (2005). Introduction. Lingua, 115, 1475-1480. 
+ 
+Culbertson, J. & Gross, S. (2009). Are linguists better subjects? 
+The British Journal for the Philosophy of Science, 60, 721-
+736. 
+ 
+Cappelen, H. (2012). Philosophy without intuitions. Oxford: 
+Oxford University Press. 
+ 
+Chapman, A., Ellis, A., Hanna, R., Hildebrand, T. & Pickford, H. 
+W. (2013). In Defense of Intuitions: A New Rationalist 
+Manifesto. Basingstoke: Palgrave Macmillan. 
+ 
+Chomsky, N. (1957). Syntactic Structures. La Haya: Mouton.  
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+Chomsky, N. (1965). Aspects of the theory of syntax. Cambridge, 
+MA: MIT Press. 
+ 
+Chomsky, N. (1980). Rules and Representations. Nueva York: 
+Columbia University Press.  
+ 
+Depraetere, I. & Salkie, R. (Eds.). (2017). Semantics and 
+Pragmatics: Drawing a Line. Ámsterdam: Springer.  
+ 
+Devitt, M. (2006a). Ignorance of language. Clarendon Press.  
+Devitt, M. (2006b). Intuitions in linguistics. The British Journal 
+for the Philosophy of Science, 57, 481-513. 
+ 
+Devitt, M. (2008). Methodology in the Philosophy of Linguistics. 
+Australasian Journal of Philosophy, 86 (4), 671-684. 
+ 
+Devitt, M. (2010a). Linguistic intuitions revisited. The British 
+Journal for the Philosophy of Science, 61, 833-865. 
+ 
+Devitt, M. (2010b). What “Intuitions” are Linguistic Evidence. 
+Erkenntnis, 73 (2), 251-264. 
+ 
+Devitt, M. (2012a). Intuitions. Revista Română de Filosofie 
+Analitică, 6 (1), 23-36. 
+ 
+Devitt, M. (2012b). The role of intuitions. En G. Russel & D. G. 
+Fara (Eds.), The Routledge Companion to Philosophy of 
+Language (pp. 554-565). Nueva York: Routledge. 
+ 
+Devitt, M. (2013). What Makes a Property “Semantic”? En A. 
+Capone, F. Lo Piparo & M. Carapezza (Eds.), Perspectives on 
+Pragmatics 
+and 
+Philosophy 
+(pp. 
+87-112). 
+Dordrecht: 
+Springer.  
+ 
+Devitt, 
+M. 
+(2014). 
+Linguistic 
+intuitions 
+and 
+cognitive 
+penetrability. 
+The 
+Baltic 
+International 
+Yearbook 
+of 
+Cognition, Logic and Communication, 9, 1-14. 
+ 
+ 
+182 
+ 
+Fitzgerald, G. (2010). Linguistic Intuitions. The British Journal 
+for the Philosophy of Science, 61, 123-160. 
+ 
+Gibson, E. & Fedorenko, E. (2013). The need for quantitative 
+methods in syntax and semantics research. Language and 
+Cognitive Processes, 28 (1/2), 88-124. 
+ 
+Gross, S. & Culbertson, J. (2011). Revisited linguistic intuitions. 
+The British Journal for the Philosophy of Science, 62, 639-
+656. 
+ 
+Hackl, M. (2013). The syntax-semantics interface. Lingua, 130, 
+66-87. 
+ 
+Jaszczolt, K. M. (2012). Semantics/pragmatics boundary 
+disputes. En C. Maienborn, K. von Heusinger & P. Portner 
+(Eds.), Semantics: An International Handbook of Natural 
+Language Meaning (Vol. 3, pp. 2333-2360). Berlín/Boston: 
+De Gruyter Mouton. 
+ 
+Kempson, R., Fernando, T. & Asher, N. (Eds.). (2012). 
+Philosophy of linguistics. Oxford: Elsevier. 
+ 
+Kothari, C. R. (2004). Research Methodology: Methods and 
+Techniques. Nueva Delhi: New Age International. 
+ 
+Krifka, M. (2011). Varieties of semantic evidence. En C. 
+Maienborn, K. von Heusinger & P. Portner (Eds.), Semantics: 
+An International Handbook of Natural Language Meaning 
+(Vol. 1, pp. 242-268). Berlín/Boston: De Gruyter Mouton. 
+ 
+Kuhn, T. S. (1996). The Structure of Scientific Revolutions (3.a 
+ed.). Chicago: University of Chicago Press. 
+ 
+Linzen, T. & Oseki, Y. (2015). The reliability of acceptability 
+judgments 
+across 
+languages. 
+Disponible 
+en 
+http://ling.auf.net/lingbuzz/002854. 
+ 
+Eduardo Dominiccini. Las instituciones y la aceptabilidad… 
+ 
+ 
+N° 7. Primer Semestre de 2017 
+ 
+López, A. (2009a). Eugenio Coseriu y Esa Itkonen: Lecciones de 
+filosofía de la lingüística. Energeia, 1, 1-49. 
+ 
+López, A. (2009b). Intuition, acceptability and grammaticality: a 
+reply to Riemer. Language Sciences, 31, 634-648. 
+ 
+McNally, 
+L. 
+(2013). 
+Semantics 
+and 
+Pragmatics. 
+Wiley 
+Interdisciplinary Reviews: Cognitive Science, 4, 285-297. 
+ 
+Riemer, N. (2009). Grammaticality as evidence and as prediction in a 
+Galilean linguistics. Language Sciences, 31, 612-633. 
+ 
+Schlenker, P. (2016). The Semantics-Pragmatics Interface. En M. 
+Aloni & P. Dekker (Eds.), The Cambridge Handbook of Formal 
+Semantics (pp. 664-727). Cambridge: Cambridge University 
+Press. 
+ 
+Scholz, B. C., Pelletier, F. J. & Pullum, G. K. (2015). Philosophy of 
+linguistics. En E. N. Zalta (Ed.), The Stanford Encyclopedia of 
+Philosophy. Disponible en http://plato.stanford.edu/archives/ 
+fall2015/entries/linguistics/.  
+ 
+Schütze, 
+C. 
+T. 
+(2016). 
+The 
+empirical 
+base 
+of 
+linguistics: 
+Grammaticality judgments and linguistic methodology. Berlín: 
+Language Science Press.  
+ 
+Schütze, C. T. & Sprouse, J. (2013). Judgment data. En R. J. 
+Podesva & D. Sharma (Eds.), Research methods in linguistics 
+(pp. 27-50). Cambridge: Cambridge University Press.  
+ 
+Sprouse, J. (2015). Three Open Questions in Experimental Syntax. 
+Linguistics 
+Vanguard, 
+1 
+(1), 
+89-100. 
+Disponible 
+en 
+https://www.degruyter.com/downloadpdf/j/lingvan.2015.1.issue- 
+1/lingvan-2014-1012/lingvan-2014-1012.xml. 
+ 
+Sprouse, J. & Almeida, D. (2010). A quantitative defense of linguistic 
+methodology. Disponible en http://ling.auf.net/lingbuzz/001075. 
+ 
+Sprouse, J. & Almeida, D. (2012). Assessing the reliability of 
+textbook data in syntax: Adger’s Core Syntax. Journal of 
+Linguistics, 48 (3), 609-652. 
+ 
+184 
+ 
+ 
+Sprouse, J. & Almeida, D. (2013). The role of experimental 
+syntax in an integrated cognitive science of language. En C. 
+Boeckx & K. K. Grohmann (Eds.), The Cambridge Handbook 
+of Biolinguistics (pp. 181-202). Cambridge University Press. 
+ 
+Stokhof, M. (2011). Intuitions and competence in formal semantics. 
+The Baltic International Yearbook of Cognition, Logic and 
+Communication, 6, 1-23.  
+ 
+Stolterfoht, B. & Featherston, S. (Eds.). (2012). Empirical Approaches 
+to Linguistic Theory, Berlín/Boston: De Gruyter Mouton.  
+ 
+Textor, M. (2009). Devitt on the Epistemic Authority of 
+Linguistic Intuitions. Erkenn, 71, 395-405.  
+ 
+Larson, R. K. & Segal, G. (1995). Knowledge of Meaning: An 
+Introduction to Semantic Theory. Cambridge, MA: MIT 
+Press. 
+ 
+Wasow, T. & Arnold, J. (2005). Intuitions in linguistic 
+argumentation. Lingua, 115, 1481-1496. 
+Willems, K. (2012). Intuition, introspection and observation in 
+linguistic inquiry. Language Sciences, 34, 665-681. 

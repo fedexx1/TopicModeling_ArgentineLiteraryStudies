@@ -1,0 +1,1436 @@
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+LA ESTRUCTURA LÓGICA DEL LLAMADO “SE 
+ASPECTUAL” 
+DESDE 
+EL 
+ENFOQUE 
+DE 
+LA 
+GRAMÁTICA DEL PAPEL Y LA REFERENCIA  
+ 
+José María Oliver 
+Universidad Nacional de La Plata 
+Universidad de Buenos Aires 
+Consejo Nacional de Investigaciones Científicas y Técnicas 
+oliverjosemaria@gmail.com 
+ 
+ 
+Resumen: Abordamos el llamado se 
+aspectual del español con el verbo de 
+consumición comer. A partir de una 
+caracterización de estas construcciones, 
+avanzamos una hipótesis para explicar 
+la contribución del se. Adoptamos 
+como marco el enfoque de la gramática 
+del papel y la referencia. En particular, 
+retomamos 
+la 
+clasificación 
+de 
+predicados de Van Valin (2005), la 
+distinción 
+entre 
+realizaciones 
+y 
+realizaciones activas, y el análisis de 
+Van Valin y LaPolla (1997) sobre los 
+clíticos 
+reflexivos 
+del 
+italiano. 
+Proponemos 
+posibles 
+estructuras 
+lógicas para comer y clítico aspectual y 
+adoptamos un análisis que implica 
+pensar estas construcciones como 
+resultado de una estructura subyacente 
+que se corresponde con la realización 
+activa 
+y, 
+además, 
+contiene 
+la 
+información que legitima la presencia 
+del clítico. 
+Palabras clave: Se aspectual, Gramática 
+del papel y la referencia, Estructura 
+lógica. 
+Summary: We address the so-called 
+Spanish 
+aspectual 
+se 
+with 
+the 
+consumption verb comer. From a 
+characterization of these constructions, 
+we put forward a hypothesis to explain 
+the contribution of se. We adopt as a 
+framework the approach of Role and 
+Reference Grammar. In particular, we 
+follow Van Valin's (2005) classification 
+of predicates, the distinction between 
+accomplishments 
+and 
+active 
+accomplishments, and Van Valin and 
+LaPolla's (1997) analysis of Italian 
+reflexive clitics. We propose possible 
+logical structures for comer and the 
+aspectual clitic and adopt an analysis 
+that 
+implies 
+thinking 
+these 
+constructions as the result of an 
+underlying structure that corresponds 
+to the active accomplishment and, in 
+addition, contains the information that 
+licenses the presence of the clitic.  
+Keywords: Aspectual se, Role and 
+Reference Grammar, Logical structure. 
+ 
+ 
+2 
+ 
+1. Introducción 
+ 
+En este trabajo, abordamos el llamado se aspectual del 
+español, que aparece en oraciones como las consignadas 
+debajo (1). Nos concentraremos en casos como (1a), en los 
+que este tipo de clítico aparece con el verbo de consumición 
+comer. 
+ 
+(1)  
+ 
+a. Juan se comió la pizza. 
+ 
+ 
+b. Me leí el libro en una semana. 
+ 
+ 
+c. Te fuiste de casa a las 3. 
+ 
+El clítico que participa de estas oraciones es ocasionalmente 
+denominado opcional o estilístico (Di Tullio, 2014), ya que en la 
+mayoría de los casos no es obligatorio1 y no modifica 
+sustancialmente el sentido de la oración (Sánchez López, 
+2002). Sin embargo, la denominación más frecuente es la de se 
+o clítico aspectual, dado que su contribución se ha relacionado 
+de distintas maneras con la aspectualidad del predicado que lo 
+contiene.  
+Este trabajo tiene dos objetivos centrales: (i) realizar una 
+caracterización general de las oraciones con se aspectual; (ii) 
+proponer una hipótesis que permita explicar la contribución 
+ 
+1 Una excepción es el caso de las construcciones con el verbo ir y un complemento de 
+origen, en donde el clítico sería obligatorio: *(Se) fue de la casa (García Fernández, 2015; 
+Martín Zorraquino, 1979, 1993; Sánchez López, 2002). En este trabajo nos limitaremos 
+a los casos transitivos y, en particular, a los que se formulan con el verbo comer. 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+del clítico en la estructura lógica del predicado bajo el enfoque 
+de la gramática del papel y la referencia (de aquí en adelante 
+RRG por el nombre en inglés: Role and Reference Grammar), a 
+partir de observaciones ofrecidas por Van Valin (2005) y Van 
+Valin y LaPolla (1997). 
+La organización es la siguiente. En primer lugar, 
+presentamos las características más salientes de las oraciones 
+con se aspectual. Luego reseñamos el marco teórico ofrecido por 
+Van Valin (2005) para la clasificación de los predicados, que 
+permite distinguir entre realizaciones y realizaciones activas, y 
+retomamos de Van Valin y LaPolla (1997) el análisis de los 
+clíticos reflexivos del italiano. A continuación, proponemos 
+posibles hipótesis sobre la estructura lógica del predicado con 
+comer y clítico aspectual en virtud del marco teórico adoptado. 
+Finalmente, planteamos conclusiones y líneas futuras de 
+trabajo. 
+ 
+2. Las oraciones con se aspectual 
+ 
+Mientras que algunos usos del se, como el se pasivo, el se 
+impersonal y el se anticausativo, han mostrado puntos de consenso 
+en la bibliografía a lo largo de los años (Alcina y Blecua, 1975; 
+Gómez Torrego, 1992; Martín Zorraquino, 1979; Sánchez 
+López, 2002), los análisis sobre el llamado se o clítico aspectual 
+muestran que hay muchos menos acuerdos respecto de sus 
+propiedades y de su contribución al predicado que lo contiene 
+(Rodríguez Ramalle, 2005; Benito Moreno, 2021). Este clítico 
+es generalmente considerado una marca de aspecto opcional, 
+ 
+4 
+ 
+es decir, presenta un uso facultativo (Sánchez López, 2002) 
+que no altera de manera sustancial las propiedades 
+morfosintácticas de la oración. Sin embargo, algunos autores 
+sostienen que este tipo de clítico permite enfatizar “el carácter 
+perfectivo del predicado” (Di Tullio, 2014, p. 181). Rodríguez 
+Ramalle (2005) señala que “su presencia no afecta ni a los 
+rasgos formales de concordancia de objeto ni a los de sujeto; 
+en cambio, parece estar relacionado con la clase de acción 
+verbal o evento” (Rodríguez Ramalle, 2005, p. 459). Por su 
+parte, Maldonado (2008) analiza el se desde el enfoque de la 
+gramática cognitiva como un marcador de voz media (middle 
+se) 
+cuya 
+función 
+central 
+es 
+focalizar 
+la afectación 
+experimentada por el sujeto. 
+Una de las propiedades de las construcciones con se aspectual 
+es que el clítico puede manifestarse en combinación con 
+distintos verbos. Estos pueden ser verbos intransitivos o 
+transitivos.2 Dentro de este último grupo, puede tratarse de 
+verbos de consumición física (comerse, fumarse y tomarse) o 
+psicológica (leerse y escucharse) (Zagona, 1996). En este trabajo, 
+nos ocuparemos de los casos con verbos de consumición 
+física, fundamentalmente con el verbo comer. Sin embargo, 
+existen otros tipos de verbos que admiten la presencia del 
+clítico, como los verbos de creación (escribirse o construirse) y los 
+verbos en combinación con objetos cognados (correrse una 
+ 
+2 Sin embargo, García Fernández (2011) sostiene que no se trata exactamente del mismo 
+tipo de clítico en todos los casos. En su visión, a partir del uso del se con verbos 
+transitivos como comer, se ha asociado este valor a una serie de verbos intransitivos 
+(morir, dormir, caer y otros). A partir del análisis de algunos verbos estativos, García 
+Fernández sostiene que solo algunos de estos predicados son asimilables al se aspectual 
+de los casos transitivos. 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+maratón). Levin (1999) señala que estos verbos tienen en común 
+la propiedad de admitir objetos que pueden fácilmente omitirse 
+(non-core transitive verbs), como se ve en (2a); pero resulta 
+interesante que la omisión del objeto no es posible en las 
+oraciones con se aspectual (cf. 2b-2c). Es decir, la presencia del 
+clítico con estos verbos transitivos está asociada con la 
+presencia obligatoria del objeto. 
+ 
+(2)  
+a. Juan comió (la manzana). 
+ 
+b. Juan (se) comió la manzana. 
+ 
+c. *Juan se comió. (agramatical con lectura de se 
+aspectual) 
+ 
+Una de las características centrales de este clítico es ser un 
+elemento “reflexivo” concordante: debe concordar en persona 
+y número con el sujeto, como observamos en (3).3 
+ 
+(3)  
+[Me comí / Te comiste / Nos comimos / Se comió] la 
+manzana. 
+ 
+La denominación de se o clítico “aspectual” se encuentra 
+motivada por asociaciones que la bibliografía ha establecido 
+entre la presencia de este clítico y ciertas propiedades de los 
+objetos y los sujetos.  
+ 
+3 A pesar de esta propiedad, y al igual que en otras construcciones, la denominación 
+del fenómeno suele recurrir a la 
+forma con se del paradigma: se aspectual. 
+ 
+6 
+ 
+Con respecto al objeto, se ha observado (Sánchez López, 
+2002, basándose en trabajos previos) que la presencia de este 
+clítico impone un requisito semántico, ya que los argumentos 
+internos deben ser delimitados, como se ve en (4). Distintas 
+nociones relacionadas con la delimitación se han propuesto 
+para definir la propiedad de los objetos que aparecen con este 
+tipo de se: definitud (Arce-Arenales, 1989), referencialidad 
+(Nishida, 1994) y especificidad (Rigau, 1994).4 
+ 
+(4)  
+Juan se comió *(la) torta. 
+ 
+La delimitación no es la única restricción que se ha 
+propuesto respecto de los objetos que participan de los 
+predicados con se aspectual. A partir del trabajo de Dowty 
+(1979), se ha observado que el tipo de objeto (argumento tema) 
+debe ser un tema incremental: el progreso temporal de la acción 
+denotada en el evento se corresponde con el incremento en el 
+grado de afectación del argumento interno. En otras palabras, 
+se entabla una relación de homomorfismo entre el evento y el 
+objeto. Para (4), el progreso de la acción de comer se combina 
+con un argumento (la torta) hasta el incremento final, que 
+marca el límite temporal del evento, es decir, se interpreta 
+ 
+4 Romero y Teomiro (2012) señalan que es posible la interacción entre el se aspectual y 
+objetos no delimitados, como plurales desnudos/escuetos o sustantivos de masa. 
+Algunos ejemplos son Sócrates se tomó veneno y Juan se cree mentiras. Sin embargo, como 
+señala MacDonald (2017), la aceptabilidad de estos casos exhibe un alto grado de 
+variación y, además, no puede extenderse a otras oraciones: *Juan se tomó leche. Por su 
+parte, Barra Jover (1996) señala que los plurales desnudos son posibles en combinación 
+con este clítico cuando se induce una interpretación repetitiva o iterativa: Juan se comió 
+bocadillos (uno tras otro). 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+“comer la totalidad de la (porción de) torta”. Generalmente, 
+los argumentos internos de los verbos de consumo que 
+aparecen en las construcciones con se aspectual son temas 
+incrementales.5  
+Con respecto al sujeto, la presencia del se aspectual ha sido 
+asociada con una interpretación agentiva (Aaron y Torres 
+Cacoullos, 2005; Armstrong, 2013, entre otros), como observa 
+Di Tullio (2012) a partir de casos como (5): 
+ 
+(5)  
+Carlos III (*se) construyó (*él solo ∼ personalmente) 
+la Puerta de Alcalá.  
+ 
+A partir de todas estas propiedades, se ha asumido que la 
+presencia de este tipo de clítico es un fenómeno restringido a 
+predicados con ciertas particularidades aspectuales. Sin 
+embargo, al no tratarse de un elemento obligatorio, no ha 
+habido acuerdos con respecto a la contribución del clítico y se 
+han 
+presentado 
+diversas 
+nociones 
+para 
+explicar 
+su 
+comportamiento semántico-sintáctico. Para algunos (Sanz y 
+Laka, 2002) es la telicidad del predicado lo que licencia la 
+presencia del se aspectual, mientras que otros (De Miguel y 
+Fernández Lagunilla, 2000) señalan que el clítico marca la 
+ 
+5 Sin embargo, la incrementalidad no es la única propiedad que caracteriza a estos 
+objetos. Se ha observado que el tema incremental de las construcciones con se aspectual 
+debe ser a su vez cuantizado; es decir, debe designar una cantidad específica de materia, 
+de modo tal que no exista ninguna subparte de esa materia que contenga dicha cantidad 
+(Krifka 1989, 1992, 1998; Dowty 1991). En el caso de (4), esto supone que “la torta” 
+designa una cantidad específica (“la totalidad de la [porción de] torta”), de modo que 
+una subparte de esa entidad no designa la misma cantidad. 
+ 
+8 
+ 
+culminación del evento. También hay quienes señalan que el 
+clítico es un indicador de la delimitación del objeto (Nishida, 
+1994).  
+Las propuestas de análisis generalmente comparten la 
+predicción de que solo ciertos predicados aceptan la presencia 
+de este se, especialmente los de la clase de las realizaciones 
+(Vendler, 1957) y, en particular, las que constituyen eventos 
+télicos, dinámicos y durativos. Como veremos en la siguiente 
+sección, los predicados que contienen este clítico son de hecho 
+realizaciones “activas” (active accomplishments, Van Valin, 2005). 
+Una de las definiciones que se ha señalado (Sánchez López, 
+2002) es que el clítico aspectual interviene directamente en el 
+tipo de predicado, de modo que afectaría la telicidad o el modo 
+de acción de la oración. Sin embargo, pares como (6a)-(6b) 
+muestran que la clase de predicado no resulta afectada. 
+ 
+(6)  
+a. Juan comió la torta.  
+ 
+realización (activa) 
+ 
+b. Juan se comió la torta.  
+realización (activa) 
+ 
+Estos casos muestran que el clítico que se llama “aspectual” 
+no interviene directamente en la interpretación de la 
+aspectualidad del predicado, ya que su presencia no altera el 
+modo de acción. Dicho de otra manera, el clítico no es un 
+elemento telicitador, a diferencia de lo que sostiene parte de la 
+bibliografía generativa sobre el tema (fundamentalmente Sanz, 
+2000; Sanz y Laka, 2002). Lo que parece ocurrir es que el se 
+pone de manifiesto las consecuencias del modo de acción de la 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+realización activa; es decir, por medio del clítico se vincula de 
+alguna manera al objeto y al sujeto en una relación particular. 
+A eso se refiere Di Tullio (2014) cuando señala que el carácter 
+del predicado resulta enfatizado cuando aparece el se aspectual. 
+Ahora bien, la bibliografía no ha logrado definir cuál es la 
+contribución específica de este clítico o en qué consiste este 
+tipo de énfasis. 
+En modelos generativos recientes, Armstrong (2013) y 
+MacDonald (2017) han explicado la contribución de este 
+clítico a partir de relaciones que se establecen entre los objetos 
+y los sujetos y que se asocian con la agentividad, el 
+involucramiento del sujeto y la volición. Sin embargo, las 
+explicaciones asumen la existencia de una estructura sintáctica 
+altamente compleja (por ejemplo, sintagmas preposicionales 
+nulos en el modelo de MacDonald) que no se desprende de 
+manera directa de los datos empíricos. 
+Desde la gramática cognitiva, Maldonado (2008) ha señalado 
+que este se es un marcador que resalta la afectación e 
+involucramiento del sujeto en relación con un objeto 
+“alienable”, como se ve en la Figura 1. 
+ 
+Figura 1. Uso del clítico con objetos directos (DO, direct object) 
+alienables en relación con el dominio del sujeto (S) (tomado de 
+Maldonado 2008, p. 171) 
+ 
+ 
+ 
+ 
+10 
+ 
+Para Maldonado (2008), el se aspectual es un clítico de voz 
+media de “explotación total” (full exploitation middle); es decir, se 
+trata de una construcción en la que el sujeto explota en su 
+totalidad el objeto en un tiempo generalmente corto 
+(Maldonado, 2000).6 El clítico resalta que el objeto es 
+consumido en su totalidad. La construcción sin se sigue siendo 
+una realización (activa), pero neutral respecto de la afectación 
+total del objeto y de la eficiencia temporal del evento en 
+cuestión. La diferencia es que la construcción de explotación 
+total supone o pone de manifiesto un involucramiento mayor 
+del sujeto. Como señala Maldonado, en algunas variedades del 
+español americano, este tipo de involucramiento total se ha 
+extendido a otros tipos de verbos, como los verbos de acción 
+que aparecen en (7): 
+ 
+(7)  
+a. Se echó una cena exquisita.  
+b. Ella se bailó una rumba inolvidable. 
+ 
+Maldonado (2008) considera que, en los casos de (7), el 
+marcador medio no solo resalta la calidad del objeto (una cena 
+exquisita y una rumba inolvidable), sino también que el sujeto está 
+muy involucrado en la acción de “hacer la cena” en (7a), y que 
+es un sujeto muy expresivo en la acción de “bailar” en (7b). 
+ 
+6 Como menciona Maldonado, el contraste que se observa en oraciones con la ausencia 
+o presencia del clítico es equivalente a la diferencia léxica que se ve en inglés en un 
+verbo de actividad como drink y su contrapartida drink up, donde la partícula codifica la 
+explotación total. 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+Desde un enfoque semántico, Romero y Teomiro (2012) 
+proponen una formalización de la relación entre el sujeto y el 
+objeto que da cuenta de las observaciones realizadas por 
+distintos autores. Para ellos, la contribución del se es temática 
+en vez de aspectual, por lo que rechazan la noción de que este 
+tipo de clítico tenga un carácter telicitador. De Miguel y 
+Fernández Lagunilla (200) recuperan la idea de que los 
+predicados con se aspectual son eventos complejos, pero 
+apuntan que las nociones de aspectualidad (delimitación, telicidad, 
+culminación, resultatividad, etc.) que se han asociado al clítico son 
+“simplemente consecuencias de otra propiedad del evento que 
+no está relacionada con su naturaleza aspectual sino con su 
+especificación temática” (Romero y Teomiro, 2012, p. 235). 
+Los eventos complejos se componen de dos subeventos y el 
+clítico sería el argumento de uno de ellos, que constituye un 
+cambio de estado. Para explicar esta ampliación en la cantidad 
+de eventos, Romero y Teomiro sostienen la idea de que el se 
+surge como resultado de una operación léxica que expande la 
+grilla temática del verbo (causativización, desarrollada en 
+Horvath y Siloni, 2011).  
+Si bien esta propuesta semántica es reflejo de observaciones 
+respecto del involucramiento del participante y de los tipos de 
+verbos que aparecen en estas construcciones, el grado de 
+formalización del modelo no necesariamente se desprende de 
+los datos que ofrecen los autores. Además, no queda claro de 
+qué depende la operación léxica de causativización, por qué se 
+aplica a la grilla temática de ciertos verbos, pero no de otros, ni 
+ 
+12 
+ 
+queda explicado cuál es el estado resultante al que hacen 
+referencia.7  
+A partir de la caracterización realizada en esta sección, a 
+continuación, presentamos el marco teórico adoptado en este 
+trabajo. Creemos que la explicación de lo que ocurre con el se 
+aspectual puede enmarcarse en el enfoque de RRG, que 
+permitiría dar cuenta de las propiedades que hemos reseñado 
+por medio de la descomposición de los predicados en 
+estructuras lógicas. 
+ 
+3. Marco teórico 
+ 
+En esta sección, reseñamos el marco teórico de Van Valin 
+(2005) sobre los tipos de predicados y las estructuras lógicas 
+subyacentes. Luego, desarrollamos brevemente la propuesta de 
+Van Valin y LaPolla (1997) sobre clíticos reflexivos. 
+ 
+3.1. La clasificación de los predicados y sus estructuras 
+lógicas 
+ 
+Según Van Valin (2005), las clases verbales pueden 
+caracterizarse a partir de cuatro rasgos: [± estático], [± 
+ 
+7 Entendemos que, por cambio de estado, Romero y Teomiro se refieren a los efectos 
+de la explotación total del objeto, como señala Maldonado. Sin embargo, no queda del 
+todo claro que eso también represente verdaderamente un cambio de estado sobre el 
+sujeto. 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+dinámico], [± télico] y [± puntual]. Estos rasgos permiten 
+distinguir seis clases de predicados, que detallamos en la Tabla 
+1. 
+ 
+Tabla 1. Clases de predicados 
+Estado 
+[+ estático] 
+[- dinámico] 
+[- télico] 
+[- puntual] 
+Actividad 
+[- estático] 
+[+ dinámico] 
+[- télico] 
+[- puntual] 
+Logro 
+[- estático] 
+[- dinámico] 
+[+ télico] [+ puntual] 
+Semelfactivo 
+[- estático] 
+[± dinámico] 
+[- télico] 
+[+ puntual] 
+Realización 
+[- estático] 
+[- dinámico] 
+[+ télico] [- puntual] 
+Realización activa 
+[- estático] 
+[+ dinámico] 
+[+ télico] [- puntual] 
+ 
+Resulta de interés la distinción novedosa que aporta Van 
+Valin (2005) entre realización, que se observa con verbos 
+como melt en inglés (the ice melted: el hielo se derritió) o aprender 
+(Juan aprendió francés), y realización activa. Este último tipo de 
+predicado es el uso télico de verbos de actividad, y se observa 
+en verbos de movimiento (correr), verbos de consumición 
+(comer) y de creación (pintar).  
+Es importante señalar que los mismos verbos pueden 
+asociarse con interpretaciones diferentes según los contextos 
+sintácticos en los que participan. Una alternancia muy 
+frecuente entre las clases de la Tabla 1 se da entre actividades y 
+realizaciones. De esta manera, caminar por el parque durante diez 
+ 
+14 
+ 
+minutos es una actividad, mientras que caminar hasta el parque en 
+diez minutos es una realización. En cuanto a los verbos de 
+consumición como comer, resulta interesante notar que la 
+alternancia entre actividad y realización depende de los tipos 
+de objetos. En casos como comió una porción de torta en diez 
+minutos, el predicado en el que participa el verbo comer es una 
+realización activa. Sin embargo, al modificar el grado de 
+delimitación del objeto (comió tortas), se convierte al predicado 
+en [-télico], es decir, en una actividad. Como mencionamos 
+previamente, lo que ocurre es que la delimitación de objetos 
+como una torta o la torta proporciona también la delimitación 
+del evento (homomorfismo), de modo que el punto terminal del 
+evento se alcanza cuando se ha consumido la totalidad de la 
+cantidad del objeto. En resumen, algunos verbos, básicamente 
+los de consumición y creación, se comportan como actividades 
+si tienen un objeto inespecífico, indefinido, genérico o 
+sustantivos de masa, pero como realizaciones activas si se 
+combinan con un objeto delimitado, generalmente específico y 
+cuantificado.8  
+Tomemos el predicado que nos interesa en este trabajo: 
+comer en su uso télico con objetos directos delimitados o 
+definidos, como el de (8). 
+ 
+(8)  
+Juan comió la torta. 
+ 
+ 
+8 Los objetos cognados también pueden cumplir esta función, por ejemplo: cantar una 
+canción, beber una bebida.  
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+Un aspecto interesante que surge de la Tabla 1 es la 
+distinción entre realización y realización activa (uso télico de 
+verbo de actividad), la cual radica en el rasgo de la dinamicidad. 
+Mientras que las realizaciones no constituyen eventos 
+dinámicos, las realizaciones activas son dinámicas, dado que 
+provienen de usos particulares de verbos de actividad, que son 
+siempre [+ dinámicos]. De esta manera, al aplicar las pruebas 
+que ofrece Van Valin (2005) para distinguir las clases de 
+predicados, observamos que se establece un contraste entre 
+casos como el hielo se derritió (realización) y casos como (8) Juan 
+comió la torta (realización activa). Ilustramos la diferencia 
+respecto del rasgo pertinente en la Tabla 2.9 
+ 
+Tabla 2. Distinción entre realizaciones y realizaciones activas en la 
+prueba de la dinamicidad 
+Prueba 
+Realización activa 
+“comer la torta” 
+Realización 
+“derretirse” 
+ 
+9 Lo mismo ocurre con otras realizaciones, como Juan aprendió francés. En este caso, si se 
+agregan 
+adverbios 
+de 
+dinamicidad 
+(Juan 
+aprendió 
+francés 
+vorazmente/enérgicamente/activamente), el resultado no es tan inaceptable, pero esto ocurre 
+por una coerción semántica; lo que interpretamos con el adverbio es que existe un 
+predicado de actividad (v.g. estudiar) previo a la realización “aprender francés”. En otras 
+palabras, no se interpreta que el evento de “aprender francés” haya sido dinámico, sino 
+que un evento previo necesario, como estudiar, lo fue. 
+ 
+16 
+ 
+Uso de 
+expresiones 
+para 
+determinar el 
+rasgo 
+ 
+[± dinámico] 
+ 
+Juan comió la torta  
+vorazmente/con ganas, etc. 
+ 
+> 
+ 
+Las realizaciones activas 
+son 
+dinámicas 
+porque 
+admiten adverbios como 
+vorazmente y expresiones 
+que resaltan la acción. 
+*El hielo se derritió  
+vorazmente/con ganas, etc. 
+ 
+> 
+ 
+Las realizaciones no son 
+dinámicas 
+porque 
+no 
+admiten adverbios como 
+vorazmente o expresiones 
+que resalten la acción. 
+ 
+ 
+A partir de la aplicación de este tipo de pruebas, 
+asumiremos en línea con Van Valin (2005) que predicados 
+como (8) son realizaciones activas. 
+Desde el punto de vista de su estructura, RRG descompone 
+las clases de predicados en términos léxicos por medio de un 
+sistema en el cual los predicados de estado y de actividad 
+ofrecen las estructuras básicas de las cuales se derivan los 
+demás. En las estructuras lógicas, el metalenguaje utilizado es 
+el inglés, que permite realizar una comparación interlingüística, 
+y se recurre a la negrita para indicar constantes, como los 
+predicados, mientras que los términos en mayúsculas 
+representan componentes, operadores o modificadores de los 
+predicados. Las variables se completan con los ítems léxicos 
+del caso en estudio.  
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+La estructura lógica de las realizaciones activas que nos 
+interesan en este trabajo (casos como (8)) se componen de un 
+predicado de actividad y de un predicado de cambio de estado, 
+representado por el componente INGR. Este componente de 
+la estructura tiene la función de convertir la actividad en un 
+predicado télico.10 En el caso de los verbos de consumición, el 
+cambio de estado se relaciona con el predicado de consumo de 
+la entidad representada en el objeto.11 De esta manera, la 
+estructura lógica de una realización activa involucra tanto una 
+actividad como un estado resultante o cambio de estado sobre 
+argumentos (x, y, z), como representamos en (9). 
+ 
+(9) Estructura lógica de una realización activa 
+ 
+   do’ (x, [predicate1’ (x, (y)])  &  INGR predicate2’ (z, x) or (y) 
+            actividad                              cambio de estado 
+ 
+En el caso de predicados con el verbo comer, puede tratarse 
+de oraciones en las que solo está presente una actividad, como 
+se observa en la estructura lógica de (10), o casos en los que se 
+trata de realizaciones activas (11), en donde la actividad se 
+ 
+10 Dado que las realizaciones activas se componen de una actividad y una terminación 
+con estado resultante, se podrían denominar “logros activos” más que “realizaciones 
+activas”. Sin embargo, al igual que Van Valin (2005), seguiremos refiriéndonos a estas 
+oraciones como realizaciones activas. 
+11 Si se trata de verbos de movimiento, el cambio de estado se manifiesta como un 
+cambio de locación. En el caso de los verbos de creación, el cambio de estado es la 
+creación misma o existencia del objeto. 
+ 
+18 
+ 
+combina con un cambio de estado representado por INGR, 
+cuya función es la de señalar que la entidad ha sido 
+(totalmente) consumida por medio del predicado consumed’. 
+ 
+(10)  Juan comió tortas   
+ 
+ 
+(actividad) 
+do’ (Juan, [eat’ (Juan, (torta)]) 
+ 
+(11)  Juan comió la torta  
+ 
+ 
+ 
+(realización activa) 
+do’ (Juan, [eat’ (Juan, (torta)]) & INGR consumed’ 
+(torta) 
+ 
+Este tipo de alternancia plantea el interrogante de si verbos 
+como comer son en esencia verbos de actividad o de realización 
+activa. Como señalan Van Valin y LaPolla (1997), con verbos 
+como correr, comer y escribir, el verbo de actividad da nombre a la 
+sustancia semántica principal de la estructura lógica. En el caso 
+de los verbos de consumo, la interpretación de la estructura 
+depende del contenido semántico de la parte de actividad, es 
+decir, el significado léxico primario está en el evento de 
+actividad. Esto parece indicar que verbos como comer son 
+básicamente actividades que pueden usarse como realizaciones 
+activas.  
+Una prueba de que comer es en esencia una actividad 
+proviene de la interpretación de este tipo de verbos cuando se 
+utilizan con objetos plurales sin determinante o sustantivos de 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+masa. Cuando se combinan con estos objetos (comer manzanas, 
+tomar café), la interpretación del predicado puede ser iterativa o 
+no. Para Van Valin y LaPolla, esto es así porque comer no es un 
+verbo intrínsecamente télico, sino una actividad, de naturaleza 
+atélica. Esto permite establecer una diferencia con verbos 
+verdaderamente 
+télicos, 
+como 
+romper 
+o 
+matar, 
+que 
+necesariamente dan lugar a lecturas iterativas con los mismos 
+tipos de objetos (romper ventanas). 
+Las estructuras lógicas constituyen la base de la entrada 
+léxica del predicado y corresponden a las relaciones temáticas 
+que se establecen entre los verbos y los argumentos. En RRG, 
+no hay una lista de papeles temáticos asociados de forma 
+estática a la entrada léxica de un verbo, sino que las relaciones 
+se definen en términos de las posiciones y funciones de los 
+argumentos en las representaciones de la estructura 
+subyacente. De esta manera, la estructura básica de un verbo 
+de actividad como comer, representada en (12a), puede contener 
+uno o dos argumentos, que se interpretan como “consumidor” 
+(actor) y “consumido” (undergoer). En la realización activa (12b), 
+dentro del componente INGR aparece nuevamente el 
+argumento que experimenta el cambio de estado en el 
+predicado de consumición. 
+ 
+(12)  a. do’ (x, [eat’ (x, (y)]) 
+ 
+b. do’ (x, [eat’ (x, (y)]) & INGR consumed’ (y) 
+x = consumidor (actor) 
+y = consumido (undergoer) 
+ 
+20 
+ 
+ 
+Los papeles específicos que le corresponden a los 
+argumentos de los predicados verbales pueden entenderse 
+como subgrupos de relaciones en un continuo que se extiende a 
+los macro-roles de actor y undergoer, como se ve en la Figura 2.  
+ 
+Figura 2. Continuo de roles semánticos específicos a relaciones 
+gramaticales 
+(tomado de Van Valin, 2005, p. 54) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Los macro-roles actor y undergoer constituyen los dos 
+argumentos principales de una predicación transitiva, y 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+cualquiera de ellos puede ser el único argumento de un verbo 
+intransitivo. Se denominan “macro-roles” porque cada uno de 
+ellos engloba una serie de relaciones temáticas específicas. 
+Corresponden a lo que se denomina “sujeto lógico” y “objeto 
+lógico”, pero estas etiquetas no suelen utilizarse en RRG 
+porque “sujeto” y “objeto” se usan para referirse a relaciones 
+sintácticas en vez de semánticas. En general, el actor es el 
+argumento más parecido a un agente, mientras que el undergoer es 
+el más parecido a un paciente. Los macro-roles están motivados 
+por el hecho de que en las construcciones gramaticales los 
+grupos de relaciones temáticas se tratan por igual. 
+Ahora bien, ¿qué ocurre en casos como (11) en los que, 
+además, es posible agregar el clítico se? Como mencionamos, la 
+participación del clítico no se vincula con una alteración del 
+criterio semántico para clasificar predicados. 
+ 
+(13)  a. Juan comió la torta. (realización activa) 
+Estructura lógica: do’ (Juan, [eat’ (Juan, (torta)]) & 
+INGR consumed’ (torta) 
+ 
+b. Juan se comió la torta. (realización activa) 
+¿Estructura lógica? 
+ 
+Tanto (13a) como (13b) son realizaciones activas. Sin 
+embargo, en el segundo caso el predicado contiene, además, un 
+elemento reflexivo, concordante con los rasgos del sujeto, que 
+da lugar a las consecuencias interpretativas desarrolladas en la 
+ 
+22 
+ 
+sección 2. Para explicar lo que ocurre y proponer un análisis de 
+estos casos, presentamos en la siguiente subsección un modo 
+de abordar los clíticos reflexivos en el marco de RRG.12 
+ 
+3.2. Los clíticos reflexivos 
+ 
+Van Valin y LaPolla (1997) ofrecen un análisis de tres tipos 
+de construcciones reflexivas: los reflexivos léxicos, los 
+reflexivos de correferencia y los clíticos reflexivos. Aquí 
+retomamos su abordaje de los clíticos reflexivos, que codifican 
+diversos valores y pueden encontrarse en distintas lenguas. Los 
+autores parten de datos como (14), tomados del italiano. 
+ 
+(14) María si è tagliata. 
+        Maria REFL ser.3sg.pr cortar.pasado.fem.sg. 
+ 
+‘María se ha cortado’ 
+ 
+En (14), el reflexivo si es un clítico cuya interpretación surge 
+de manera inferencial (Van Valin, 1990): el clítico indica que el 
+ 
+12 González Vergara (2006) lleva adelante una propuesta de análisis de las 
+construcciones no reflexivas con se desde la gramática del papel y la referencia. Sin 
+embargo, para este autor, no hay diferencias en términos de las estructuras lógicas entre 
+oraciones como Pedro comió una pizza y Pedro se comió una pizza. La diferencia radicaría en 
+la estructura informativa: mientras que la oración sin se presenta una estructura 
+informativa de foco predicativo, la oración con el clítico tiene un esquema 
+construccional aspectual que marca la presencia obligatoria del argumento de menor 
+jerarquía y da lugar a la presencia del morfema se. Si bien este análisis es posible, 
+creemos que existen suficientes diferencias semánticas entre ambos tipos de oraciones 
+para sostener la existencia de estructuras lógicas diferentes. 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+argumento más prominente en la estructura lógica ha sido 
+suprimido, de manera que el argumento con un papel de 
+undergoer aparecerá como argumento sintáctico. Sin embargo, la 
+oración está en voz activa, lo que indica que el sujeto 
+gramatical es un actor y, además, es una entidad animada, 
+propiedad prototípica de este macro-rol. Esta aparente 
+paradoja se resuelve interpretando el argumento María como 
+actor y undergoer simultáneamente, es decir, dándole una 
+interpretación completamente reflexiva.  
+Sin embargo, el análisis se complejiza cuando se observan 
+otros usos de los clíticos reflexivos en italiano. Van Valin y 
+LaPolla (1997) toman el caso de si con valor benefactivo, como 
+en (15).  
+ 
+(15)  María si è comprata gli libri. 
+ 
+‘María se ha comprado los libros’ 
+ 
+Como señalan los autores, el italiano aquí se diferencia de 
+otras lenguas que también tienen clíticos reflexivos, como el 
+croata, en las que la interpretación benefactiva no puede darse 
+de forma reflexiva por medio de un clítico, sino por medio de 
+formas tónicas o sintagmas completos.  
+Por otro lado, a diferencia de (14), oraciones como (15) 
+contienen dos argumentos claros: María y los libros, además del 
+clítico reflexivo. En el análisis que proponen Van Valin y 
+LaPolla (1997), este uso del clítico es el resultado de una 
+estructura lógica más compleja en la que el predicado de 
+ 
+24 
+ 
+realización está especificado para un componente PURP.13 
+Para este tipo de casos, Van Valin (2005) propone la estructura 
+de (16). 
+ 
+(16)  [do’ (Maria , [buy’ (Maria, libro)])] PURP [BECOME 
+have’ (Maria, libro)]  
+Estructura lógica: [do’ (xi, [buy’ (xi, y)])] PURP 
+[BECOME have’ (zi, y)]  
+ 
+La necesidad del componente PURP surge de los 
+argumentos que participan en la oración. A diferencia de (14), 
+María aquí no puede ser al mismo tiempo actor y undergoer, ya 
+que este último papel está manifestado en el objeto los libros. 
+Entonces, la interpretación del clítico con valor benefactivo 
+surge de la siguiente manera: el clítico señala que un argumento 
+ha sido suprimido, sin embargo, María no puede ser, a 
+diferencia de (14), tanto actor como undergoer, ya que hay otro 
+argumento (los libros) con este macro-rol. La paradoja, en este 
+caso, se resuelve planteando un componente adicional (PURP) 
+que permita interpretar al actor como argumento por medio del 
+clítico reflexivo. Al igual que en las otras construcciones 
+reflexivas clíticas, este argumento se identifica con el 
+argumento de mayor rango no especificado, en este caso el 
+“comprador”, lo que da lugar a la interpretación benefactiva. 
+ 
+13 Como señala Van Valin (2005), PURP es una abreviatura para referirse a una 
+estructura lógica de propósito (purpose). 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+El componente de propósito que los autores incluyen para 
+este tipo de construcciones se observa en otros fenómenos, 
+por ejemplo en ciertos usos de la preposición inglesa for. Jolly 
+(1991, 1993) analiza el valor básico de esta preposición en 
+términos de propósito. Resulta de interés el uso de for cuando 
+se asocia con un argumento-adjunto beneficiario, según la 
+clasificación de Van Valin y LaPolla (1997), por ejemplo, en 
+(17). 
+ 
+(17)  Robin baked a cake for Sandy 
+   [[do’ (Robin, 0)] CAUSE [BECOME baked’ (cake)]] 
+PURP [BECOME have’ (Sandy, cake)]  
+ 
+Como señalan Van Valin y LaPolla (1997), la relación 
+particular que se establece con el componente PURP en este 
+tipo de casos, conocida como “benefactiva” o de 
+“beneficiario”, no es parte de la estructura lógica de verbos 
+como bake en sí mismos, sino que surge de expresiones 
+lingüísticas que dan lugar a esa lectura, por ejemplo, for en 
+inglés o el clítico reflexivo con valor benefactivo del italiano. 
+ 
+4. Las oraciones con se aspectual:  
+realizaciones activas con operadores de propósito 
+ 
+A partir de lo desarrollado, creemos que las oraciones con se 
+aspectual pueden abordarse de manera cabal desde el enfoque 
+de la RRG. En línea con las observaciones mencionadas en la 
+ 
+26 
+ 
+sección 2, asumimos que: 
+(i) 
+el se no es un elemento estrictamente aspectual, si 
+entendemos por aspectual que su presencia afecta la clase 
+del predicado; 
+(ii) sin embargo, la presencia opcional del clítico está 
+restringida a predicados con ciertas propiedades 
+aspectuales, fundamentalmente eventos télicos como 
+realizaciones activas;  
+(iii) la contribución del clítico se vincula con una relación 
+particular que se establece entre el sujeto y el objeto de la 
+realización activa y se asocia con el involucramiento del 
+sujeto y la explotación del objeto. 
+Teniendo en cuenta estos puntos de partida, entendemos 
+que las diversas nociones que se han propuesto para explicar la 
+contribución de este tipo de se son reflejo de una estructura 
+lógica que combina las propiedades de una realización activa 
+con el valor particular de un clítico reflexivo.  
+Como mencionamos anteriormente, la presencia del clítico 
+no altera la clasificación verbal. De esta manera, tanto Juan 
+comió la torta como Juan se comió la torta son realizaciones activas 
+que comparten la estructura lógica subyacente, como se indica 
+en (18). 
+ 
+(18)  Juan comió la torta.  
+(realización activa) 
+Estructura lógica: do’ (Juan, [eat’ (Juan, (torta)]) & 
+INGR consumed’ (torta) 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+ 
+La presencia del clítico, entonces, no debería alterar esta 
+estructura lógica, sino que impone una modificación sobre ella. 
+En concreto, lo que ocurre parece ser similar a lo que señalan 
+Van Valin y LaPolla (1997) respecto del clítico italiano si con 
+valor benefactivo: el clítico se que puede aparecer 
+opcionalmente en oraciones como (18) –conocido como se 
+aspectual– pone de manifiesto la presencia de un componente 
+adicional de propósito (PURP).  
+En esta línea, los roles asociados a los argumentos Juan y la 
+torta se corresponden con los argumentos que se desprenden 
+de la estructura lógica de la realización activa: actor y undergoer, 
+respectivamente. Tal como ocurría con el clítico benefactivo 
+del italiano, la presencia del se puede resolverse si se asume 
+que, además de la estructura de una realización activa, nos 
+encontramos ante un predicado que contiene un operador 
+particular, cuya función es establecer una relación argumental 
+entre actor y el undergoer. La interpretación del clítico surge de 
+manera equivalente a lo que ocurre con el si benefactivo. Juan 
+no puede ser tanto actor como undergoer, ya que hay otro 
+argumento (la torta) con este macro-rol en la estructura de la 
+realización activa. Por lo tanto, la presencia del clítico queda 
+legitimada si se plantea la presencia de un componente (PURP) 
+que permita interpretar al clítico de forma reflexiva sobre el 
+actor. 
+Ahora bien, el modo en que se manifiesta este operador en 
+la estructura lógica debe responder no solo a la naturaleza del 
+clítico, sino también al hecho de que se trata de un elemento 
+ 
+28 
+ 
+reflexivo. Además, deberían desprenderse de la estructura 
+propuesta las interpretaciones relacionadas con las oraciones 
+con se aspectual. 
+Para formalizar la propuesta de que existe un componente 
+PURP en estos casos, evaluamos a continuación tres posibles 
+hipótesis de análisis. 
+Propuesta A: la primera posibilidad que evaluamos es agregar 
+el componente PURP con un predicado have’ a la realización 
+activa, como se ve en (19). Esta estructura sería la más 
+equivalente a las que observamos para el clítico del italiano y el 
+uso benefactivo de la preposición for en (16) y (17). 
+ 
+(19)  Juan se comió la torta. (realización activa) 
+do’ (Juan, [eat’ (Juan, (torta)]) & INGR consumed’ (torta) 
+componente de la realización activa 
+&  PURP [BECOME have’ (Juan, torta)] 
+contribución del clítico 
+ 
+Si bien esta estructura lograría poner de manifiesto la 
+contribución del clítico en la estructura lógica, creemos que 
+tiene ciertas desventajas. Por un lado, no queda justificada la 
+presencia del predicado have’: no hay manera evidente de 
+mostrar que el actor llega a poseer al undergoer, a diferencia de 
+ciertas lecturas que pueden darse en casos como (17). Esta idea 
+de posesión, que algunos autores (Campanini y Schäfer, 2011) 
+han mencionado como una propiedad de las oraciones con se 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+aspectual, está en realidad implícita en la noción misma de 
+consumo que aparece en el predicado consumed’ de la 
+realización activa.  
+Por otro lado, al agregar el componente PURP de este 
+modo, la contribución del clítico parecería no estar vinculada 
+con la realización activa. Creemos que esto sería un error de 
+análisis, ya que la presencia del clítico (si bien es opcional) 
+puede ocurrir en casos en los que el predicado es a priori una 
+realización activa.14 Así, sea cual sea la formalización del clítico 
+y del componente PURP, creemos que este debe estar incluido 
+dentro de la estructura de la realización activa y no por fuera 
+de ella. 
+Propuesta B: la siguiente posibilidad que consideramos es que 
+el componente PURP actúe como modificador de la parte de 
+cambio de estado dentro de la estructura de la realización 
+activa, como se ve en (20). 
+ 
+(20)  Juan se comió la torta.  
+ 
+(realización activa) 
+do’ (Juan, [eat’ (Juan, (torta)])  &  PURP  [INGR consumed’ (torta)] 
+        
+              contribución del clítico 
+realización activa 
+ 
+Esta opción es superadora respecto de A, en tanto simplifica 
+ 
+14 Como observamos, Juan se comió tortas resulta menos feliz que Juan se comió la torta 
+porque en el primer caso se trata de una actividad, dada la naturaleza no delimitada del 
+sustantivo plural escueto. 
+ 
+30 
+ 
+la estructura lógica y permite apreciar la totalidad del 
+predicado, que pertenece a la clase de las realizaciones activas. 
+La desventaja de esta propuesta es que no logra dar cuenta de 
+la presencia de un argumento que debe ser reflexivo con el 
+actor (Juan) en relación con este nuevo componente. Dicho de 
+otra manera, el predicado consumed’ solamente señala el 
+cambio de estado que sufre el undergoer (la torta). Resulta 
+necesario, entonces, que el predicado no solo esté dentro del 
+componente PURP, sino que también permita relacionar el 
+cambio de estado con los dos argumentos, de manera similar a 
+lo que ocurre con el predicado have’ de la propuesta A. 
+Propuesta C: esta es la hipótesis que defendemos aquí. 
+Tomando como partida las propuestas anteriores, entendemos 
+que la contribución del clítico no está por fuera de la 
+realización activa, sino como operador sobre el cambio de 
+estado INGR, de manera similar a lo que observamos en B. 
+Sin embargo, a diferencia de la última propuesta, el predicado 
+de cambio de estado no es consumed’, que selecciona un 
+único 
+argumento 
+(torta), 
+sino 
+un 
+predicado 
+que 
+preliminarmente 
+podemos 
+caracterizar 
+como 
+consumed’/have’.15 Esto permite dar cuenta de que hay un 
+cambio de estado de explotación total (consumo) del 
+argumento torta, cuyo macro-rol es el de undergoer, y que, a su 
+vez, ese cambio de estado se relaciona con el involucramiento 
+del argumento Juan, con el macro-rol de actor y manifestado 
+ 
+15 Esta terminología es, sin embargo, subjetiva, y no parece responder a un predicado 
+transparente. La denominación consumed’/have’ se adopta aquí solo con el objetivo 
+de plasmar tanto el sentido de consumición como el de “explotación total” del objeto. 
+Alternativamente, se podría proponer otra etiqueta para este predicado, o incluso una 
+variante de have’, que admite dos argumentos. 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+por medio del clítico reflexivo. Esta propuesta queda 
+formalizada en la representación de (21). 
+ 
+(21)  Juan se comió la torta. (realización activa) 
+do’ (Juan, [eat’ (Juani, (torta)]) & PURP [INGR consumed/have’ (sei , torta)] 
+        
+                          
+ 
+                     clítico 
+realización activa 
+ 
+Si bien esta estructura no está descripta por Van Valin 
+(2005), es equivalente en gran medida a casos como (16). Las 
+únicas diferencias radican en que: (i) el cambio de estado no es 
+BECOME sino INGR, dado que se trata de una realización 
+activa con un verbo de consumición; (ii) por lo tanto, el 
+predicado es consumed’, pero se diferencia de la realización 
+sin se (Juan comió la torta) en que aquí el predicado específico 
+debe admitir dos argumentos: el undergoer (la torta) y el actor, que 
+será externalizado en la forma del clítico reflexivo (Juan > se). 
+Por este último motivo hemos optado por la etiqueta 
+consumed’/have’. Esta propuesta puede resultar extraña, ya 
+que se presentan dos etiquetas para el predicado, pero no es en 
+esencia diferente a lo que ocurre con otras realizaciones 
+activas. La idea de que el predicado dentro del cambio de 
+estado INGR tenga dos argumentos es ilustrada por Van Valin 
+(2005) para algunos verbos de movimiento, por ejemplo, con 
+el predicado be-at’ en casos como (22), con los argumentos 
+ 
+32 
+ 
+park y soldiers.16 
+ 
+(22)  The soldiers marched to the park. (realización activa) 
+do’ (soldiers, [march’ (soldiers)]) & INGR be-at’ (park, soldiers) 
+ 
+Las ventajas de la propuesta desarrollada son varias. Por un 
+lado, 
+permite 
+explicar 
+de 
+qué 
+manera 
+surgen 
+las 
+interpretaciones asociadas al clítico. Las inferencias que se 
+obtienen cuando está presente el se aspectual en predicados de 
+consumición son el resultado de un operador particular que 
+vincula al sujeto con el objeto. De esta manera, la propuesta 
+logra formalizar la intuición de Maldonado (2008) de que el se 
+es un marcador que pone de manifiesto la explotación total del 
+objeto (por medio del cambio de estado manifestado en INGR 
+y el predicado consumed’/have’ con el argumento 
+correspondiente al undergoer) y a su vez el involucramiento del 
+sujeto (por medio del componente PURP y el argumento 
+correspondiente al actor dentro del mismo predicado). Por otro 
+lado, la opcionalidad del clítico surge del hecho de que la 
+presencia del componente PURP no es obligatoria en la 
+ 
+16 Una posible objeción a la hipótesis que defendemos es que el componente PURP 
+parece no ser obligatorio: solo sería necesario modificar el tipo de predicado 
+consumed’ a consumed’/have’ para que puedan legitimarse los dos argumentos. Si 
+bien esto podría ser teóricamente posible, sería extraño que se propongan dos tipos de 
+predicados sin una motivación semántica que se desprenda de la estructura lógica. En 
+definitiva, la propuesta de base es que el predicado “especial” de las oraciones con se 
+aspectual (consumed’/have’) surge como resultado de la interacción entre PURP y 
+INGR. Otra justificación de que en estas oraciones hay un componente de propósito 
+surge de las interpretaciones resultantes respecto del involucramiento y la agentividad 
+del sujeto en estos predicados. 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+estructura lógica, por lo que la oración sin se es perfectamente 
+gramatical. En otras palabras, la presencia de PURP no 
+modifica el hecho de que la estructura total sigue 
+correspondiéndose con una realización activa. 
+Por último, proponer que en estos casos opera un 
+componente relacionado con el propósito está en línea con 
+observaciones que realizan otros autores desde distintos 
+enfoques. Por ejemplo, desde la gramática generativa, 
+Armstrong (2013) señala que el clítico puede tener naturaleza 
+agentiva y dar lugar a lecturas de propósito en las que se resalta 
+que el sujeto está involucrado en la acción, de modo similar a 
+lo que describe Maldonado (2008). Una manera de demostrar 
+esta propiedad es que las construcciones con este tipo de 
+clítico resultan menos frecuentes en combinación con 
+expresiones que cancelen o contradigan la idea de que el sujeto 
+actuó “con sus propias manos”, como se ve en (23). Además, 
+la agentividad del sujeto puede verse reforzada por medio de 
+pronombres enfáticos o de adjetivos que resalten su 
+involucramiento, como en (24). 
+ 
+(23)  Juan se comió la torta ?pero no tenía ganas. 
+(24)  Juan se comió la torta solito. 
+ 
+A partir de estos datos, Armstrong (2013) considera que la 
+agentividad que se asocia al clítico da lugar a una implicatura 
+convencional relacionada con la noción de volición: estas 
+construcciones contienen sujetos que “tienen la intención” de 
+ 
+34 
+ 
+participar en esos eventos, por lo que es poco frecuente su 
+combinación con expresiones que cancelen dicha implicatura.17 
+Todas estas observaciones quedan contenidas en la propuesta 
+desarrollada aquí. 
+ 
+5. Conclusiones 
+ 
+En este trabajo abordamos el llamado se aspectual en casos en 
+los que el clítico aparece con el verbo transitivo de 
+consumición comer, como en Juan se comió la torta. En primer 
+lugar, realizamos una caracterización general de las oraciones 
+con este tipo de se y observamos que su presencia se ha 
+asociado con ciertas propiedades del objeto y del sujeto. La 
+contribución particular del clítico estaría relacionada con la 
+explotación total del tema, con la explicitación de la 
+culminación del evento y el involucramiento del agente.  
+Para dar cuenta de estas propiedades, retomamos el marco 
+teórico de RRG. A partir de la tipología ofrecida por Van Valin 
+(2005), observamos que las oraciones que contienen el clítico 
+aspectual con un verbo de consumición son realizaciones 
+activas, es decir, usos télicos de verbos de actividad con 
+objetos delimitados. Estos predicados se caracterizan por tener 
+ 
+17 Sin embargo, Armstrong menciona que algunas construcciones con comer, beber, tomar, 
+fumar y leer pueden ser ambiguas y no necesariamente dar lugar a la noción de 
+agentividad. Por ejemplo, en Juan se comió las espinacas, la construcción puede ser agentiva 
+si ocurriera en un contexto en el que se percibe que Juan come las espinacas con ganas. 
+Sin embargo, la misma oración puede emitirse sin ningún efecto de volición sobre el 
+sujeto, por ejemplo, en el contexto en el que su papá obligó a Juan a comerse las 
+espinacas. 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+una estructura lógica compleja que combina una actividad con 
+un cambio de estado (INGR) que contiene al predicado 
+consumed’. Esta estructura da cuenta de casos como Juan 
+comió la torta, pero por sí sola no logra explicar la presencia 
+opcional del clítico ni determinar su contribución. Por ello, 
+entendemos que resulta necesario revisar la estructura lógica de 
+la realización activa para poder incluir al clítico aspectual. En 
+ese sentido, retomamos de Van Valin y LaPolla (1997) su 
+estudio sobre los clíticos reflexivos del italiano, en especial, 
+aquellos con valor benefactivo en los que el predicado 
+contiene argumentos para los macro-roles de actor y undergoer, 
+además del clítico. 
+Con todo, consideramos entonces: (i) las propiedades y la 
+contribución del se aspectual reseñadas en la sección 2; (ii) la 
+clasificación de predicados, sus estructuras lógicas y el análisis 
+de clíticos reflexivos en RRG de la sección 3. A partir de esas 
+premisas, hemos presentado una propuesta preliminar de 
+análisis. Esta consiste en comprender que oraciones como Juan 
+se comió la torta son el resultado de una estructura lógica 
+subyacente que no solo se corresponde con la estructura de 
+una realización activa, sino que también codifica la 
+información necesaria que legitima la presencia del clítico 
+reflexivo y da cuenta de su contribución. Hemos evaluado tres 
+posibles estructuras lógicas y concluimos que la mejor forma 
+de descomponer el predicado con se aspectual es asumir la 
+presencia de un componente adicional en la realización activa 
+(PURP) que tiene alcance sobre el cambio de estado (INGR), 
+de modo que el predicado de consumo admite la presencia de 
+dos argumentos, algo que caracterizamos de manera 
+ 
+36 
+ 
+relativamente arbitraria como consumed’/have’, pero que no 
+es necesariamente diferente a lo que ocurre con otros tipos de 
+predicados ilustrados por Van Valin (2005), en los que el 
+cambio de estado dentro de la realización activa contiene un 
+predicado con dos argumentos. Si bien la estructura propuesta 
+es aún una hipótesis de trabajo, ofrece ciertas ventajas, en 
+tanto permite explicar la opcionalidad del clítico y las 
+interpretaciones que surgen como consecuencia de su 
+presencia en las realizaciones activas en las que aparece. 
+Quedan diversos aspectos que deben profundizarse. En 
+primer lugar, es necesario refinar la hipótesis propuesta y 
+determinar claramente cuál es la estructura lógica de las 
+oraciones que contienen clítico aspectual. Para ello se debe 
+fundamentar cuál es el predicado de la realización activa que 
+admite la presencia del clítico. Además, es necesario demostrar 
+la presencia del componente PURP. Creemos que lo que 
+ocurre con el clítico si del italiano ofrece un punto de 
+comparación, pero se deben recabar mayores datos 
+provenientes de distintas lenguas para llegar a sostener de 
+manera cabal que existe un componente de propósito en estas 
+estructuras. En este sentido, las lenguas romances ofrecen un 
+marco interesante, ya que parece que otras lenguas contienen 
+clíticos similares al se aspectual. Finalmente, dado que aquí se 
+trabajó fundamentalmente con el verbo de consumición comer, 
+sería necesario expandir el análisis a otras oraciones que 
+admiten se aspectual con distintos tipos de verbos con el objeto 
+de evaluar la factibilidad de la hipótesis y llegar a un análisis 
+más uniforme y acabado del fenómeno. 
+ 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+Referencias bibliográficas 
+Aaron, J. y Torres Cacoullos, R. (2005). “Quantitative measures 
+of subjectification: A variationist study of Spanish salir(se)”. 
+Cognitive Linguistics, 16 (4), 607-633.  
+Alcina Franch, J. y Blecua, J. (1975). Gramática española. 
+Barcelona: Ariel.  
+Arce-Arenales, M. (1989). “Semantic structure and syntactic 
+function: The case of Spanish SE”. Tesis de doctorado. 
+University of Colorado.  
+Armstrong, G. (2013). “Agentive reflexive clitics and transitive se 
+constructions in Spanish”. Borealis, 2 (2), 81-128. 
+Barra Jover, M. (1996). “Dativo de interés, dativo aspectual y las 
+marcas de aspecto perfectivo en español”. Verba, 23, 121-146.  
+Benito Moreno, C. de (2021). “Is there really an aspectual se in 
+Spanish?”. Folia Linguistica, 55 (1), 195-230. 
+Campanini, C. y Schäfer, F. (2011). “Optional SI/SE- 
+constructions in Romance: A low- applicative analysis”. 
+Trabajo presentado en Going Romance 24, Leiden University, 
+Países Bajos. 
+De Miguel, E. y Lagunilla Fernández, M. (2000). “El operador 
+aspectual se”. Revista Española de Lingüística, 30, 13-44. 
+Di Tullio, A. (2012). “La construcción de la lectura agentiva del 
+se no argumental”. Valeriano Bellosta von Colbe; Marco 
+García García (Eds.) La construcción de la Aspectualidad-
+Transitividad-Referencialidad. Las lenguas románicas en 
+contraste. (Studia Romanica et Linguistica 36), Frankfurt: 
+Peter Lang, 69-85. 
+Di Tullio, A. (2014). Manual de Gramática del Español. Buenos 
+Aires: Waldhuter. 
+Dowty, D. (1979). Word meaning and Montague grammar. 
+Dordrecht: Kluwer Academic Publishers. 
+ 
+38 
+ 
+Dowty, D. (1991). “Thematic Proto-roles and Argument 
+Selection”. Language, 67, 547-619.  
+García Fernández, L. (2011). “Algunas observaciones sobre se 
+aspectual”. J. Cuartero Otal; L. García Fernández; C. Sinner 
+(Coords.) Estudios sobre perífrasis y aspecto. Peniope, 43-71. 
+García Fernández, L. (2015). “Some reflections on verbs with 
+clitic increase: Verbs of motion”. Elisa Barrajón López; José 
+Luis Cifuentes Honrubia; Susana Rodríguez Rosique (Eds.) 
+Verb classes and aspects. Amsterdam: John Benjamins, 264-
+287. 
+Gómez Torrego, L. (1992). Valores gramaticales de se. Madrid: 
+Arco/Libros.  
+González Vergara, C. (2006). “Las construcciones no reflexivas 
+con «se». Una propuesta desde la Gramática del Papel y la 
+Referencia”. Tesis de doctorado. Universidad Complutense de 
+Madrid. 
+Horvath, J. y Siloni, T. (2011). “Causatives across Components”. 
+Natural Language and Linguistic Theory, 29 (3), 657-704.  
+Jolly, J. (1991). Prepositional analysis within the framework of 
+Role and Reference Grammar. New York: Peter Lang. 
+Jolly, J. (1993). “Preposition assignment in English”. Robert Van 
+Valin (Ed.). Advances in Role and Reference Grammar. 
+Amsterdam and Philadelphia: John Benjamins, 275-310.  
+Krifka, M. (1989). “Nominal reference, temporan constituion in 
+event semantics”. R. Bartsch; J. van Benthem y P. van Emde 
+Boas 
+(Eds.). 
+Semantics 
+and 
+Contextual 
+Expression. 
+Dordrecht: Foris Publications, 75-115. 
+Krifka, M. (1992). “Thematic relations as links between nominal 
+reference and temporal constitution”. I. Sag y A. Szabolsci 
+(Eds.). Lexical Matters. Stanford: CSLI Publications, 29-53. 
+José María Oliver. Estructura lógica del llamado “se aspectual”...  
+N° 17. Primer Semestre de 2023 
+ 
+Krifka, M. (1998). “The origins of telicity”. Susan Rothstein 
+(Ed.). Events and Grammar. Dordrecht: Kluwer Academic 
+Press, 197-235. 
+Levin, B. (1999). “Objecthood: An Event Structure Perspective”. 
+Proceedings of CLS 35, volume 1: The Main Session, Chicago 
+Linguistic Society, University of Chicago, Chicago, IL, 223-
+247. 
+MacDonald, J. (2017). “Spanish aspectual se as an indirect 
+object reflexive: The import of atelicity, bare nouns, and leísta 
+PCC repairs”. Probus, 29 (1), 73-117.  
+Maldonado, R. (2000). “Conceptual distance and transitivity 
+increase in Spanish reflexives”. Zygmunt Frajzyngier (Ed.) 
+Reflexives Form and Function. Amsterdam: Benjamins.  
+Maldonado, R. (2008). “Spanish middle syntax: A usage-based 
+proposal for grammar teaching”. S. De Knop y T. De Rycker 
+(Eds.). Cognitive Approaches to Pedagogical Grammar. 
+Berlín y Nueva York: Mouton de Gruyter, 155-196. 
+Martín 
+Zorraquino, 
+M. 
+A. 
+(1979). 
+Las 
+construcciones 
+pronominales: paradigma y desviaciones. Madrid: Gredos. 
+Martín Zorraquino, M. A. (1993). “‘Ir’ e ‘irse’ en el Cantar de 
+Mío Cid”. Aragón en la Edad Media, 10–11, 575–578. 
+Nishida, C. (1994). “The Spanish reflexive clitic se as an 
+aspectual class marker”. Linguistics, 32, 425–458. 
+Rigau, G. (1994). “Les propietats dels verbs pronominals”. Els 
+marges, 50, 29-41. 
+Rodríguez Ramalle, T. M. (2005). Manual de sintaxis del 
+español. España: Castalia.  
+Romero Pascual, C. y Teomiro García, I. (2012). “La relación 
+entre estructura eventiva y papeles temáticos: el se aspectual 
+del español”. Revista de Filología Románica, 29 (2), 233-243. 
+ 
+40 
+ 
+Sánchez López, C. (2002). Las construcciones con se. Madrid: 
+Visor Libros. 
+Sanz, M. (2000). Events and Predication: A new approach to 
+syntactic processing in English and Spanish. Amsterdam: 
+Benjamins.  
+Sanz, M. & Laka, I. (2002). “Oraciones transitivas con se: el 
+modo de acción en la sintaxis”. Cristina Sánchez López (Ed.). 
+Las construcciones con se. Madrid: Visor Libros, 309-338. 
+Van 
+Valin, 
+R. 
+(1990). 
+“Semantic 
+parameters 
+of 
+split 
+intransitivity”. Language, 66 (2), 221-60. 
+Van Valin, R. (2005). Exploring the syntax-semantics interface. 
+Cambridge: CUP.  
+Van Valin, R. y LaPolla, R. (1997). Syntax. Structure, meaning 
+and function. Cambridge: CUP.  
+Vendler, Z. (1957). “Verbs and Times”. The Philosophical 
+Review, 66 (2), 143-160.  
+Zagona, K. (1996). “Compositionality of aspect: Evidence from 
+Spanish aspectual SE”. Claudia Parodi (Ed.). Aspects of 
+Romance linguistics. Selected papers from the LSRL XXIV 
+1994. Washington: Georgetown University Press, 475-488. 
+ 
+ 
+Fecha de recepción: 29/10/22 
+Fecha de aceptación: 10/03/2023 
+ 
+ 

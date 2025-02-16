@@ -1,0 +1,594 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+PROCESOS DE LEXICALIZACIÓN EN ANGAITÉ
+(ENLHET-ENENLHET)
+Lexicalization Processes in Angaité (Enlhet-Enenlhet)
+Brid, Nicolás
+ Nicolás Brid *
+bridnicolas@gmail.com
+Universidad de Buenos Aires, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 21, e2107, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 30/06/23
+Aprobación: 31/07/23
+URL: http://portal.amelica.org/ameli/journal/785/7854257008/
+DOI: https://doi.org/10.30972/clt.0216892
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: En este artículo se examinan procesos de
+lexicalización en angaité (familia enlhet-enenlhet), entendidos
+como procesos de cambio lingüístico que dan como resultado
+lexemas nuevos con pérdida de composicionalidad y de
+transparencia. El objetivo primario es descriptivo, aunque se
+pretende también aportar datos para una comparación con las
+demás lenguas de la familia enlhet-enenlhet y con otras lenguas
+del Gran Chaco. Los procesos de lexicalización observados
+incluyen derivación y composición. Los primeros consisten
+en nominalizaciones deverbales, sustantivos derivados de otros
+sustantivos, y verbos derivados de otros verbos. Los segundos
+incluyen composición por medio de frases posesivas, frases
+atributivas, sintagmas lexicalizados y univerbación.
+Palabras clave: angaité, 
+enlhet-enenlhet, 
+lexicalización,
+gramaticalización, formación de palabras.
+Abstract: is article examines lexicalization processes in
+Angaité (Enlhet-Enenlhet family), understood as processes
+of language change that result in new lexemes with loss
+of compositionality and transparency. e primary objective
+is descriptive, although it is also intended to provide data
+for a comparison with the other languages of the Enlhet-
+Enenlhet linguistic family and with other languages of the Gran
+Chaco. Observed lexicalization processes include derivation
+and composition. Derivation processes consist of deverbal
+nominalizations, derivation of nouns by means of preﬁxes
+and suﬃxes, and lexicalization of verb conjugation paradigms.
+Composition processes include possessive phrases, attributive
+phrases, lexicalized phrases, and univerbation.
+Keywords: 
+Angaité, 
+Enlhet-Enenlhet, 
+lexicalization,
+grammaticalization, word formation.
+Notas de autor
+*
+Nicolás Brid es Licenciado en Letras y estudiante del Doctorado en Lingüística por la Universidad de Buenos Aires (UBA), dirigido por la
+Dra. Cristina Messineo. Becario doctoral de ANPCyT-FONCyT. Participa en diversos proyectos de investigación PICT, PIP, UBACYT sobre
+morfosintaxis, léxico, estructura de la información, multilingüismo y arte verbal en lenguas indígenas sudamericanas, con foco en la región chaqueña,
+y en el proyecto CALC (Computer-Assisted Language Comparison) del Max Planck Institute for Evolutionary Anthropology, dirigido por el Dr.
+Johann-Mattis List. Entre otras, cuenta con publicaciones anteriores sobre comparación de patrones léxico-semánticos en lenguas chaqueñas. Como
+parte del doctorado, actualmente se encuentra realizando una descripción léxica y gramatical de la lengua angaité, para lo cual lleva a cabo trabajo
+de campo en distintas aldeas del Chaco paraguayo. El foco de la descripción está puesto en procesos de lexicalización y gramaticalización en angaité
+desde una perspectiva diacrónica.
+Cuadernos de Literatura, 2023, núm. 21, e2107, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Dam llec da qaichegui na na’aqtacpi en angaité (título en qom)
+Toy'ayte anahil toj ihi angaité (enlhet-enelhet) (título en wichí)
+Nqo>naxac na> na>qaatqa quena angaite (enlhet-enenlhet) (título en moqoit)
+1. Introducción
+La familia enlhet-enenlhet, también conocida como mascoy,1 es una de las familias lingüísticas originarias del
+Gran Chaco, y abarca seis lenguas: enlhet, énxet, enenlhet, guaná, sanapaná y angaité. El objetivo principal
+de este artículo es describir los procesos de lexicalización en angaité, entendidos como procesos de cambio
+semántico que dan como resultado lexemas nuevos con pérdida de composicionalidad y de transparencia
+(Brinton y Traugott, 2005). Además de ello, se busca echar luz sobre esos mismos procesos en las otras
+lenguas enlhet-enenlhet, con el ﬁn de sumar datos para estudios futuros sobre el desarrollo diacrónico de la
+familia, y también mostrar ciertos patrones semánticos compartidos del angaité con lenguas chaqueñas de
+otras familias.
+Los datos aquí presentados corresponden a la variedad de angaité hablada en la comunidad La Patria,
+ubicada en el departamento de Presidente Hayes, en el Chaco paraguayo, por una parcialidad que se identiﬁca
+como kovahlok2 y que mayormente utiliza el guaraní como primera o segunda lengua. Fueron recopilados
+durante mi trabajo de campo3 realizado en La Patria entre 2021 y 2023 mediante cuestionarios y elicitación
+de oraciones. Otros datos provienen también de Wheeler (2020), de la compilación de relatos de Franco
+Domaniczky e Imaz (2006) y de los estudios etnográﬁcos de Villagra Carrón (2010; 2014). Asimismo, con el
+ﬁn de comparar los procesos de lexicalización en distintas lenguas de la familia, se consultaron los diccionarios
+de enlhet (Unruh y Kalisch, 1997), enenlhet (Unruh, Kalisch y Romero, 2003), guaná (Kalisch, 2023) y
+énxet (Rojas y Curtis, 2017).
+2. Marco teórico
+Esta investigación se enmarca principalmente en las perspectivas sobre lexicalización y cambio lingüístico
+desarrolladas en Brinton y Traugott (2005). Según estas autoras, lexicalización es un término usado para
+deﬁnir y analizar dos fenómenos diferentes. Desde una perspectiva sincrónica, se trata de mecanismos u
+operaciones comunes de formación de palabras. Diacrónicamente, por otro lado, se la entiende como
+el cambio por medio del cual en ciertos contextos lingüísticos los hablantes usan una construcción sintáctica o una formación
+de palabras como una nueva forma con contenido y con propiedades formales y semánticas que no son completamente
+derivables o predecibles a partir de los constituyentes de la construcción o del patrón de formación léxica. (2005, p. 96)
+Las autoras preﬁeren referirse al primer fenómeno como formación de palabras y al segundo como
+lexicalización propiamente dicha.
+En este trabajo se analiza la lexicalización en angaité desde una perspectiva diacrónica, con foco en procesos
+por los cuales expresiones sintácticas relativamente libres se convierten en elementos léxicos al volverse opacas
+e institucionalizadas, es decir, al perder composicionalidad. Este proceso involucra a menudo fusión, es
+decir, el borramiento de límites morfológicos o de frase, así como coalescencia, la reducción de secuencias
+fonológicas. La adopción de una perspectiva diacrónica sobre la lexicalización permite distinguirla de dos
+fenómenos con los que se la suele confundir y con los que está estrechamente relacionada: la ya mencionada
+formación de palabras y la gramaticalización.
+Nicolás Brid. PROCESOS DE LEXICALIZACIÓN EN ANGAITÉ (ENLHET-ENENLHET)
+PDF generado a partir de XML-JATS4R
+Por un lado, las autoras entienden la formación de palabras como los procesos sincrónicos regulares
+por los que una lengua produce lexemas nuevos con contenido semántico transparente y relativamente
+predecible, y la lexicalización como un cambio diacrónico que produce formas opacas y relativamente
+impredecibles. Siguiendo a Jackendoﬀ (2002), a diferencia de la formación léxica, la lexicalización involucra
+que la información quede “guardada” en la memoria a largo plazo, es decir, que se amplíe el inventario léxico
+de una lengua. En otras palabras, las combinaciones sintácticas son aprendidas, guardadas y seleccionadas
+como unidades conceptuales (Mithun, 1991).
+Como proceso sincrónico, la formación de palabras es normalmente el fenómeno que precede a la
+lexicalización. Por ese motivo, los casos de lexicalización en angaité serán clasiﬁcados de acuerdo con los
+mecanismos de formación de palabras de los que provienen. Brinton y Traugott (2005) mencionan los
+siguientes mecanismos: derivación, composición, conversión, elipsis, fusión y calcos. En este trabajo solo se
+tomarán en cuenta los casos de derivación y composición, ya que no se encuentra conversión, ni elipsis, ni
+fusión, y no se conoce la direccionalidad de los posibles calcos.
+La derivación ocurre cuando se forma un lexema nuevo a partir de la unión de un lexema base y un aﬁjo
+derivativo. Entre otros factores, un aﬁjo derivativo se diferencia de los aﬁjos ﬂexivos por el hecho de que
+puede cambiar la clase léxica de la palabra resultante, como ocurre en español con anclaje, derivado de anclar.
+En contraste, la composición ocurre cuando un lexema se forma a partir de dos o más raíces léxicas. Esto
+puede ocurrir en la forma de un sintagma, como en español ojo de buey, o en una sola palabra. Cuando un
+sintagma o construcción se uniﬁca en una sola palabra (como en español abrelatas o correveidile), se habla
+de univerbación.
+Por otro lado, la gramaticalización es entendida por las autoras como “el cambio por el cual en ciertos
+contextos lingüísticos los hablantes utilizan partes de una construcción con una función gramatical” (Brinton
+y Traugott, 2005, p. 99). Para comprender estos procesos es clave tener en cuenta el continuum que se
+desenvuelve entre el polo léxico y el polo gramatical en el inventario de una lengua. El polo léxico se relaciona
+con categorías más abiertas y amplias, sintaxis más libre, una semántica más ligada al contenido y una
+morfología menos productiva, mientras que el polo gramatical se conecta con categorías menores y más
+cerradas, sintaxis más restringida, una semántica más ligada a la función y una morfología más productiva. Se
+entiende la productividad como la “habilidad que tienen los elementos que forman el léxico de ser utilizados
+para formar nuevas expresiones lingüísticas” (Bussmann, 1996, p. 949). En consecuencia, lexicalización y
+gramaticalización son dos subtipos de cambio lingüístico, y mientras que la primera implica un cambio desde
+el polo más gramatical hacia el más léxico, la segunda implica el cambio desde el polo más léxico hacia el más
+gramatical.
+3. Rasgos morfosintácticos relevantes
+Los sustantivos en angaité pueden ser de tres clases: sustantivos de posesión inalienable, nominalizaciones
+deverbales, y sustantivos absolutos o de posesión alienable. Los dos primeros llevan obligatoriamente un
+preﬁjo posesivo, aunque se diferencian por el paradigma que utilizan, mientras que el tercer tipo no lleva
+preﬁjo posesivo, y solo puede expresar la posesión por medio de una construcción con la marca de posesión
+alienable -ankok. El primer grupo está ejempliﬁcado en (1a) con la raíz -yama ‘abuela’, el segundo en (1b) con
+la nominalización -tahanma ‘silla’ de -tan- ‘sentarse’, y el tercero en (1c) con el sustantivo absoluto temma
+‘casa’.
+Cuadernos de Literatura, 2023, núm. 21, e2107, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+El orden más común en una frase posesiva es poseedor-poseído. Sin embargo, se observan también casos
+de poseído-poseedor, sobre todo con sustantivos de posesión alienable. Como se observa en (2), el poseído
+lleva las marcas de posesión, de acuerdo con una tipología head-marking.
+Como en otras lenguas de la familia, los verbos en angaité se componen de un preﬁjo de persona, una
+base léxica, y un suﬁjo gramatical que señala si el verbo está usado en modo declarativo (no futuro), irrealis,
+imperativo o en alguna de las formas de nominalización disponibles en la lengua. Hay dos suﬁjos distintos
+para el modo declarativo, según la posición sintáctica del verbo, y tres nominalizaciones. En su descripción
+del énxet, Elliott (2021) las denomina nominalización perfectiva, oblicua e imperfectiva, mientras que en su
+descripción del enenlhet Unruh, Kalisch y Romero (2003) las llaman inﬁnitivo, especiﬁcativo y subjuntivo,
+respectivamente. Aquí las llamaremos nominalización I, II y III. En total hay siete posibles suﬁjos gramaticales
+para cada verbo, que se muestran en el siguiente cuadro aplicados a la raíz -ten- ‘dormir’ con preﬁjo de
+femenino. Los suﬁjos gramaticales están en bastardilla. Se incluyen las nominalizaciones porque pueden
+tomar toda la morfología de los verbos no nominalizados, incluidos inﬁjos direccionales, causativos y de voz
+pasiva, y además intervienen en relaciones interclausales.
+Tabla 1. Conjugación del verbo nenteyanma ‘dormir’ en femenino.
+Una base verbal puede estar acompañada de otros morfemas que aportan signiﬁcados diversos, a
+menudo relacionados con categorías direccionales o aspectuales. Unruh, Kalisch y Romero (2003) se
+Nicolás Brid. PROCESOS DE LEXICALIZACIÓN EN ANGAITÉ (ENLHET-ENENLHET)
+PDF generado a partir de XML-JATS4R
+reﬁeren a los signiﬁcados de estos morfemas como categorías. Los nombres de las categorías varían en la
+literatura sobre otras lenguas enlhet-enenlhet. Unruh, Kalisch y Romero (2003) y Elliott (2021) coinciden
+terminológicamente con las categorías de intensivo y de complexivo. Sin embargo, los primeros llaman
+ventivo, repetitivo, aproximativo y extensivo a las categorías que el segundo llama cislocative, duplicative,
+terminative y ambulative, respectivamente. En este trabajo se sigue la terminología de Unruh, Kalisch y
+Romero (2003), con la excepción del aproximativo, en cuyo caso preferimos llamarlo terminativo.
+Muchos de esos morfemas se amalgaman con los suﬁjos gramaticales de maneras que no son transparentes.
+Por ejemplo, el complexivo se caracteriza en la mayoría de las formas por la presencia de la secuencia -nk-.
+Sin embargo, la forma de nominalización I correspondiente al complexivo no es la suma de -nk- y -ma
+sino el morfo amalgama -ekamok. Es por eso que aquí se preﬁere hablar de paradigmas de conjugación. Por
+ejemplo, el verbo nenteyanma ‘dormir’ usa el paradigma de conjugación básico o neutro, mientras que el
+verbo nenyasekamok‘saber’ usa el paradigma de conjugación del complexivo. Los paradigmas de terminativo,
+complexivo y extensivo muestran un alto grado de amalgama y lexicalización, y serán analizados en detalle
+en 4.3 junto con el intensivo.
+4. Derivación
+A continuación se analizarán detalladamente los mecanismos de lexicalización del angaité basados en
+procesos de formación de palabras por medio de la derivación. Estos están clasiﬁcados según las clases de
+palabras: de verbo a nombre, de nombre a nombre, y de verbo a verbo.
+4.1. De verbo a nombre
+Como vimos en la sección anterior, en angaité hay tres formas de nominalización deverbal de tipo léxico en
+el sentido de Shibatani (2009), que consisten en una sola palabra. Solo las nominalizaciones I y II intervienen
+en procesos de formación de palabras y de lexicalización. La nominalización III se utiliza con funciones
+sintácticas similares a las que en español cumplen los inﬁnitivos, los gerundios o las subordinadas adverbiales.
+4.1.1. Nominalización I
+La nominalización I puede expresar participante, en cuyo caso su función es similar a la de un participio o una
+cláusula relativa, o puede constituir una nominalización eventiva, en cuyo caso su función es similar a la de
+un inﬁnitivo. La primera función la vemos en (3), donde kelaqhema ‘al que mataron’ se reﬁere al participante
+kemhava ‘tigre’, y la segunda la vemos en (4), donde nengvetai’a se reﬁere al evento verbal ‘ver/encontrar’ que
+el hablante aﬁrma que terminó.
+La nominalización I es un mecanismo regular de formación de palabras en angaité. A menudo en la
+forma resultante se cristaliza solo uno de los sentidos posibles, y en ese caso hablamos de lexicalización. Por
+Cuadernos de Literatura, 2023, núm. 21, e2107, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+ejemplo, mientras que en su función productivamente gramatical la nominalización I de la raíz verbal -tahln-
+‘entrar’ se puede entender aproximadamente como ‘entrar’ o ‘quien entra’, como forma lexicalizada tiene el
+signiﬁcado especíﬁco de ‘camisa’ o ‘remera’. A continuación vemos una lista de formas lexicalizadas a partir
+de la nominalización I. La raíz verbal se muestra entre guiones y la nominalización separada por morfemas
+y glosada al costado. Como es costumbre en la literatura sobre lenguas enlhet-enenlhet, los nombres se
+enuncian con el preﬁjo de primera persona plural nen-/nem-, excepto los que no se pueden poseer (como
+aktahlnaam), que se enuncian con su respectivo preﬁjo de género.
+Como se puede observar, otras lenguas enlhet-enenlhet no solo usan esta nominalización para crear
+lexemas nuevos, sino que además muchas veces estos son cognados, lo cual sugiere que algunas de estas
+formas pueden estar lexicalizadas desde estadios más antiguos en la evolución de la familia. El caso de (5a) se
+observa además en el nivaclé uijatshiy ‘camisa’ > ui ‘entrar’ (Fabre, 2016) y en el maká wihitxii ‘camisa’ > wi
+‘entrar’ (Gerzenstein, 1999), dos lenguas chaqueñas de la familia mataguaya, habladas en regiones aledañas
+a las de los pueblos enlhet-enenlhet.
+4.1.2. Nominalización II
+La otra forma verbal productiva en la formación de palabras es la nominalización II. Cuando cumple su
+función gramatical productiva, expresa el lugar (7), el tiempo (8) o la manera de realización del evento
+designado por la base del verbo. En el paradigma neutro se expresa por medio del suﬁjo -akha.
+Nuevamente, cuando se lexicaliza una forma a partir de esta nominalización, lo hace con un signiﬁcado
+especíﬁco de entre los signiﬁcados posibles. A continuación vemos una lista de palabras formadas a partir de
+esta nominalización.
+Nicolás Brid. PROCESOS DE LEXICALIZACIÓN EN ANGAITÉ (ENLHET-ENENLHET)
+PDF generado a partir de XML-JATS4R
+En estos ejemplos, (9a-b) llevan el preﬁjo de posesión femenino porque concuerdan con aknem ‘sol’, que
+es femenino. Como ocurre con la nominalización I, vemos en este caso muchas coincidencias formales con
+las otras lenguas enlhet-enenlhet, lo cual sugiere que son lexicalizaciones de larga data en la familia.
+4.2. De nombre a nombre
+En esta sección se van a presentar casos en los que un nombre o sustantivo deriva de otro por medio de
+ciertos aﬁjos. En primer lugar se muestran los preﬁjos ko- ‘gentilicio’, yama-/yeta- ‘similativo’, na- ‘colectivo/
+locativo’. Luego se presentan unos aﬁjos de difícil clasiﬁcación y de uso menos productivo: el preﬁjo so- y los
+suﬁjos -hlma y -ato. Finalmente se mencionan algunos casos de más difícil clasiﬁcación y muy poca frecuencia.
+4.2.1. Gentilicio ko-
+En primer lugar, mencionamos la derivación por medio del preﬁjo gentilicio ko-. Este sirve principalmente
+para la formación de palabras referidas a parcialidades angaité y del complejo enlhet-enenlhet, como se puede
+ver en los ejemplos de (10).
+Este preﬁjo podría haber sido originalmente una preposición. Sin embargo, al menos en angaité se lo ve
+actualmente usado solo en estos nombres de parcialidades, y no interviene en construcciones sintácticas.
+Cognados de este preﬁjo se puede observar en muchos nombres para parcialidades énxet y del conjunto
+enlhet-enenlhet (Elliott, 2021): Chánanáwa (los del quebracho blanco, parcialidad enlhet), Chánawátsam
+(los del río Paraguay, parcialidad énxet), Chánapyeyam (los del sur, parcialidad énxet), y los cognados énxet de
+las parcialidades angaité descritas arriba Chówáxok (los angaité koahlvok) y Chátewes (los angaité koeteves).
+Si bien interviene en lexicalizaciones no composicionales como los nombres de bandas y parcialidades
+mostrados en (10), también se lo ha visto utilizado a veces de manera semi-productiva en otras lenguas de
+Cuadernos de Literatura, 2023, núm. 21, e2107, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+la familia. En la biblia enenlhet, por ejemplo, se lo utiliza en la frase enenlhet’avok ko Jerusalén ‘hombres de
+Jerusalén’.
+4.2.2. Similativo yama-/yeta-
+El preﬁjo yama- y en menor medida el preﬁjo yeta- intervienen en la formación de nuevos lexemas cuyo
+signiﬁcado no es composicional ni predecible. Los cognados de estos preﬁjos en otras lenguas enlhet-enenlhet
+(iama- y ieta- en enenlhet, yaa- y yeta- en guaná, yaam- y yaat- en enlhet, yám- y yát- en énxet) también son
+frecuentes y forman lexemas con signiﬁcados similares o iguales a los que forman en angaité.
+Estos preﬁjos expresan que la entidad referida es similar a la entidad mentada por el lexema original. Elliott
+(2021) llama a esta categoría simulative. Sin embargo, dado que el signiﬁcado de esta forma es más cercano a
+‘ser similar a X’ que a ‘simular ser X’, preferimos llamarlo similativo en consonancia con Jacques (2023). Esta
+categoría encuentra eco en otras lenguas chaqueñas, como el nivaclé -taj que Fabre (2016) llama conativo, el
+wichí -taq (Suárez, 2010), o el maká -taX(Tacconi, 2015), entre otras (Brid, List y Messineo, 2022).
+Aplicado a colores, el preﬁjo yama- indica un color más claro o más oscuro que el color prototípico.
+Aplicado a un término de parentesco como ‘padre’ da como resultado un término con un signiﬁcado similar
+pero menos prototípico como ‘padrastro’. También es muy frecuente en el léxico etnobiológico. Una lista
+de ejemplos se puede ver en (11).
+Los lexemas con el preﬁjo yeta- en angaité que surgieron hasta el momento parecen tener el mismo
+signiﬁcado similativo que yama-. Sin embargo, aquel solo aparece aplicado a sustantivos masculinos como
+los de (12) y hasta ahora los hablantes nunca lo usaron de manera productiva ni lo tradujeron por medio de
+una secuencia especíﬁca, a diferencia de yama- que traducen normalmente con el guaranismo lénto (falso,
+parecido).
+Elliott (2021) considera que en énxet yám- y yáta- son ambos preﬁjos similativos, uno femenino y otro
+masculino, y que los sustantivos derivados por medio de ellos signiﬁcan “cosa que es como X”. Sin embargo,
+en angaité se puede observar una diferencia con respecto al énxet. Si bien los sustantivos derivados por medio
+de yeta- son masculinos y provienen de otros sustantivos masculinos, el preﬁjo yama- parece mucho más
+productivo y se lo ha visto aplicado a sustantivos femeninos y masculinos (yapong ‘padre’ > yamapyapong
+‘padrastro’) y de manera creativa para describir nociones ad hoc.
+Nicolás Brid. PROCESOS DE LEXICALIZACIÓN EN ANGAITÉ (ENLHET-ENENLHET)
+PDF generado a partir de XML-JATS4R
+4.2.3. Locativo na-
+El preﬁjo na- se observa en casos diversos. Rojas y Curtis (2017) lo deﬁnen en énxet como ‘en, entre’. Por su
+parte, Elliott (2021) lo glosa como locative, y aﬁrma que en esa lengua signiﬁca ‘lugar donde hay x’. Menciona
+además que no observa alta productividad del preﬁjo, y que a veces se adhiere a la raíz en singular y a veces en
+plural. A continuación se muestran las ocurrencias de este preﬁjo en angaité:
+Como se puede observar, de este sentido de locación se deriva una interpretación de este morfema como
+sustantivo colectivo. Es decir, nataita’a es tanto ‘un lugar donde hay vinales’ (sentido locativo) como ‘un
+conjunto de vinales’ (sentido colectivo). Asimismo, en (13c-d) se ve una interpretación del locativo para
+expresar medio de locomoción, de manera análoga a como en español se dice ‘fuimos por tierra’ o ‘fuimos
+en avión’. Esto parece conﬁrmar la hipótesis de Elliott (2021) de que este preﬁjo tiene un sentido central de
+locativo.9 Por otro lado, la colexiﬁcación entre ‘oreja’ y ‘jarro’ o ‘manija’ se observa también en otras lenguas
+chaqueñas como el abipón (Najlis, 1966), el chamacoco (Ulrich y Ulrich, 2000), y el tapiete (González,
+2005).
+4.2.4. Aﬁjos de difícil clasiﬁcación
+El angaité comparte también con las otras lenguas enlhet-enenlhet la presencia de ciertos aﬁjos que derivan
+nombres a partir de otros nombres y cuyo signiﬁcado no es tan transparente como el de los aﬁjos descritos
+en las secciones anteriores. Estos aﬁjos son el preﬁjo so- y los suﬁjos -hlma y -ato.
+El preﬁjo so- también se observa en enlhet y énxet, al menos. En angaité se observa en las palabras en (14).
+El morfema -l- entre el preﬁjo y la raíz corresponde al distributivo, una de las categorías pluralizadoras de las
+lenguas enlhet-enenlhet.
+Una explicación posible es que este preﬁjo esté relacionado con kasek ‘cosa’, cuyo cognado es aqsok en énxet
+y a’soc en enlhet. Una alternancia entre /e/ y /o/ es observable al menos en angaité (Wheeler, 2020). Esto
+puede sugerir que las palabras con el preﬁjo so- son préstamos de otras lenguas de la familia, o que provienen
+de un estadio anterior de la lengua. En enlhet se encuentra también en formas como sookhalheem ‘anzuelo’ <
+akhalheem ‘curvo, encorvar’,10soopya’le’ ‘cuchara’ < cf. énxet yalqe’, enenlhet iallehe’ y angaité lalehe ‘caracol,
+concha, cuchara’, sooya'angca ‘ﬂecha’ < ya’angca ‘ﬂecha’. En énxet aparece también en lexemas como sokpayhe
+Cuadernos de Literatura, 2023, núm. 21, e2107, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+‘plato’ (lit. ‘cosa plana’) y sokpeyseyam ‘vidrio’ (lit. ‘cosa negra/sucia’), entre otros. De hecho, en lugar de kasek
+payhema ‘plato’, algunos hablantes de angaité usan la forma sokpayhe ‘plato’, que por la forma del suﬁjo de
+nominalización I es claramente un préstamo énxet, etnia con la que los angaité conviven en muchas aldeas
+de La Patria.
+Otro morfema que aparece en lexicalizaciones en angaité es el suﬁjo -hlma. Elliott (2021) lo deﬁne como
+ambient environment en énxet. En angaité se observa hasta ahora en palabras como ak-yavakha-hlma ‘terreno,
+país, afuera’ (FEM-totalidad-hlma), m-en-ias-ekamo-hlma ‘locura’ (NEG-MASC-saber-NMLZ.I-hlma),
+apyeyhemahlma ‘loco’ (MASC-bailar-hlma) y atsa-ehlma ‘alba’ (amanecer-hlma). El sentido permanece
+opaco, aunque los ejemplos parecen conﬁrmar la idea de Elliott de que tiene un signiﬁcado cercano a la idea
+de lugar, espacio, ambiente o situación en la que ocurre o se desenvuelve un evento.
+Elliott (2021) menciona también el suﬁjo -ato en énxet, que caracteriza como suﬀerer, ya que designa que
+una persona sufre a causa de la entidad referida por el lexema base. Los casos en que aparece este morfema
+en lenguas de la familia son muy escasos, y en todos deriva un nombre a partir de otro nombre. En angaité
+aparece en la forma anmenato ‘borracho’ < anmen ‘alcohol’ y en ten’ato ‘somnoliento’ < teyen ‘sueño’.
+Finalmente, queda por seguir investigando otras posibles derivaciones visibles en angaité y en otras lenguas
+de la familia. Por ejemplo, el preﬁjo ne- en Nepyayaam ‘Asunción’ > ap-yayaam ‘viento sur’, la conexión
+entre yotaqla ‘camión, tractor’ y la raíz -taqla ‘nalga’, y la relación entre noseyaneng ‘alambrado’ y seyaneng
+‘sanguijuela’. Sin embargo, no se encuentran ni en angaité ni en las otras lenguas de la familia otras instancias
+de estos morfemas.
+4.3. De verbo a verbo
+Como se describió en la sección 3, las raíces verbales en angaité pueden estar conjugadas en distintos
+paradigmas. Algunos de estos son altamente productivos para expresar nociones direccionales y aspectuales,
+en especial aquellos que Unruh, Kalisch y Romero (2003) llaman ventivo y repetitivo en su descripción
+del enenlhet. Sin embargo, los paradigmas de terminativo, complexivo, extensivo, y en menor medida el
+intensivo, muestran un comportamiento altamente lexicalizado, al menos en angaité, en el sentido de que:
+a) su función en la morfología del verbo no corresponde a una función semántica fácilmente reconocible
+(al menos desde la perspectiva del español); y principalmente porque b) ciertos verbos solo pueden ser
+conjugados en ese paradigma. Una forma de entenderlo es por analogía con ciertos preﬁjos verbales latinos
+que perdieron productividad en las lenguas romances. Por ejemplo, el español producir viene del latín
+producere, formado a partir del preﬁjo verbal pro-, que indica movimiento hacia adelante, y el verbo ducere
+‘llevar, transportar’. La forma en español está totalmente lexicalizada, y ni el preﬁjo pro- es ya productivo ni
+existe un verbo *ducir que se pueda conjugar solo. A continuación, veremos casos de lexicalización de cada
+uno de estos paradigmas.
+En primer lugar está el terminativo, que normalmente aparece con la secuencia -(k)m- y en la
+nominalización I con el suﬁjo -yaam. Unruh, Kalisch y Romero (2003) lo llaman aproximativo en enenlhet y
+consideran que expresa dirección no intencionada hacia el hablante, mientras que Elliott (2021), que lo llama
+terminative, sostiene que en énxet expresa el logro o compleción de un ﬁn o estado particular. En angaité, se
+puede ver su uso en ciertas formas para expresar la compleción de un cambio de estado, como en (15).
+Nicolás Brid. PROCESOS DE LEXICALIZACIÓN EN ANGAITÉ (ENLHET-ENENLHET)
+PDF generado a partir de XML-JATS4R
+Sin embargo, también aparece lexicalizado en verbos como nenteayaam ‘caer’, nerehleayaam ‘venir’,
+apyayaam ‘(soplar) viento sur’, ahlkayaam ‘(soplar) viento norte’, nelvankayaam ‘olvidar’ y akpaiseyaam ‘ser
+negro’. Estos verbos no se conjugan regularmente con otros paradigmas.
+En segundo lugar, mencionamos el complexivo. En verbos en modo declarativo se expresa con el suﬁjo
+-enkok y en nominalización I con el suﬁjo -ekamok. Según Elliott (2021) el complexivo en énxet tiene las
+funciones de pluralizador y de expresar movimiento a lo largo de un camino físico. El autor aﬁrma que muchos
+de los casos en los que se encuentra este paradigma son altamente idiosincrásicos y no se pueden simplemente
+deducir de una combinación semántica entre la raíz y el suﬁjo. En términos de movimiento, además de
+sus usos como marcador de un ‘estado de cosas complejo’, Unruh, Kalisch y Romero (2003) sostienen que
+el complexivo en enenlhet indica que ‘un estado de cosas (...) se extiende’ o que ‘se desenvuelve durante
+un movimiento’. En angaité también ocurre en muchos verbos expresando pluralidad o movimiento, pero
+ciertos verbos solo pueden ser conjugados con complexivo, como nenyasekamok ‘saber’ o nemmaikamok‘ir’.
+En tercer lugar, el extensivo se expresa con el suﬁjo -emaha en declarativo I y con -ekamaha en
+nominalización I. Según Elliott (2021), su función productiva primaria consiste en indicar que el evento
+mentado por la raíz verbal ocurre múltiples veces y típicamente en lugares múltiples y en ocasiones separadas.
+Aﬁrma también, empero, que a menudo su valor semántico es léxicamente especíﬁco. De modo similar,
+Unruh, Kalisch y Romero (2003, p. 176) aﬁrman que el extensivo en enenlhet posee signiﬁcados direccionales
+y aspectuales. En términos aspectuales, ‘expresa un estado de cosas caracterizado por fases de diferente
+intensidad’. En términos direccionales, ‘indica un movimiento con dirección indeﬁnida’. En angaité, aparece
+en casos como neniaihekamaha ‘caminar, andar, ir’ o nentaikamaha ‘trabajar’. Sin embargo, estos verbos solo
+pueden ser conjugados en extensivo, por lo que consideramos que están lexicalizados.
+Finalmente, el intensivo es otro de los paradigmas de conjugación verbal en angaité y en lenguas enlhet-
+enenlhet. Se expresa con el suﬁjo -avoe en declarativo I y con -aoho en nominalización I. Su función básica
+es indicar intensidad, o que un evento no se realizó intencionalmente, así como indicar aspecto habitual,
+entre otros signiﬁcados posibles (Unruh, Kalisch y Romero, 2003; Elliott, 2021). Por ejemplo, en angaité el
+intensivo de akhanaktema ‘verde/azul’ es anhankavoe ‘es muy verde’. Una característica del intensivo es que
+aparece también en la lexicalización de ciertos adverbios, como en (16). En caso de aplicarse a adverbios, se
+expresa con el suﬁjo -oe.
+En síntesis, vemos que al menos cuatro paradigmas de conjugación del angaité muestran un alto grado
+de lexicalización. Asimismo, cabe aclarar también que estas formas muestran también un alto grado de
+amalgamiento y coalescencia fonológica. Es decir, son justamente las formas menos segmentables. En
+comparación, las categorías de ventivo y repetitivo son semánticamente mucho más productivas para expresar
+direccionalidad, y por ende muestran menor o nula lexicalización, y sus formas son claramente segmentables
+en el template morfológico del verbo, como se observa en (17a) y (17b).
+Cuadernos de Literatura, 2023, núm. 21, e2107, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+5. Composición
+5.1. Compuestos de frase posesiva
+Como se deﬁnió anteriormente, la composición ocurre cuando más de un lexema interviene en la generación
+de una forma nueva. Uno de los tipos de composición nominal observados en angaité es la frase posesiva, que
+interviene en la formación de léxico perteneciente a varios campos semánticos. Como se dijo en 3, cuando
+el poseído es inalienable o una nominalización, lleva el preﬁjo de posesión que concuerda en género con el
+poseído. Cuando el poseído es alienable, o bien hay yuxtaposición de sustantivos, o se marca la posesión en
+el poseído con el lexema inalienable -ankok.
+Uno de los campos semánticos en los que ocurre esto es el del léxico etnobiológico. Es común la formación
+de nombres de especies de plantas en referencia a otra entidad, a menudo un animal, usando como segundo
+término el lexema yaamet ‘árbol’. También ocurre que el segundo constituyente sea ak/ap-toma ‘su comida’.
+En todos los casos se trata de lexicalizaciones ya que el signiﬁcado de la frase posesiva no se desprende de sus
+componentes. A continuación vemos una lista de compuestos léxicos formados con este mecanismo.
+Otro campo semántico en el que se observa la frase posesiva como mecanismo de lexicalización es en
+términos para partes del cuerpo, pero en este caso el orden es generalmente poseído-poseedor. En estos casos,
+se observa que el poseído lleva la marca de posesión que concuerda con el género del poseedor, mientras que
+el poseedor dentro de la frase nominal lleva la marca de posesión que se reﬁere al poseedor de la entidad total.
+A menudo, la nominalización I se lexicaliza como parte de una frase. En ese caso, el argumento del verbo
+(sujeto, objeto u oblicuo) al que se reﬁere la nominalización va en segundo lugar. También puede ocurrir
+Nicolás Brid. PROCESOS DE LEXICALIZACIÓN EN ANGAITÉ (ENLHET-ENENLHET)
+PDF generado a partir de XML-JATS4R
+que los dos constituyentes de una frase sean nominalizaciones deverbales. Este tipo de compuesto sintético
+nominal expresa como una relación posesiva la relación que tiene un verbo con su dependiente, de un modo
+similar a como ocurre en español ‘acelera las partículas’ > ‘acelerador de partículas’.
+La forma -tkok ‘joven’ se ve utilizada en angaité y diversas lenguas de la familia con signiﬁcado
+de diminutivo. Como lexema signiﬁca ‘joven, niño’, por lo cual se trata de un lexema en proceso de
+gramaticalización. El uso de una forma que signiﬁca ‘niño’ o ‘hijo’ para expresar signiﬁcado diminutivo es
+observable no solo en otras lenguas chaqueñas como el maká (Tacconi, 2015) y el toba (Cúneo, 2013 y
+2014), sino también en diversas lenguas del mundo (Matisoﬀ, 1991; Heine y Kuteva, 2002). Este diminutivo,
+resultado de un proceso de gramaticalización (18a, 18b) forma derivados que se encuentran lexicalizados,
+como en (18c).
+El ejemplo aatong-atkok en (18) se observa también en énxet átog étkok, en enlhet aatong-yetcoc, y en
+lenguas del Chaco que no pertenecen a la familia enlhet-enenlhet como el maká exi as y el chorote kay-las,
+entre otras (Brid, List y Messineo, 2022).
+Otro lexema que suele componer frases posesivas lexicalizadas es el sustantivo inalienable -hlankok ‘casa,
+lugar, espacio’. Se lo ve en formaciones como:
+5.2. Compuestos de frase atributiva
+No son solo las frases posesivas las que se lexicalizan en angaité. Otra forma de composición lo constituyen
+las frases atributivas, en las que un lexema es un verbo descriptivo y el otro lexema es el sujeto del verbo
+descriptivo. Estos verbos expresan propiedades que en español suelen expresar los adjetivos, como color y
+dimensión. En todos los casos el verbo descriptivo está nominalizado, dado que utiliza el paradigma de preﬁjos
+pronominales propio de las nominalizaciones. Sin embargo, en muchos casos se observa una reducción de
+Cuadernos de Literatura, 2023, núm. 21, e2107, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+secuencias fonológicas producto de la lexicalización (23b-e). También puede haber un numeral en el lugar
+del verbo descriptivo (23f).
+Ejemplos de esta construcción son:
+5.3. Compuestos de sintagmas verbo + argumento
+En algunos casos, el sintagma que se lexicaliza no es una frase posesiva ni una frase atributiva, sino una frase
+con un verbo y su argumento. Algunos de estos casos involucran los lexemas -vahlvok ‘estómago, vientre’ y -
+nenyek ‘pecho’, que funcionan como loci de emociones y pensamientos en lenguas enlhet-enenlhet. En (24a-
+c), el verbo está conjugado en femenino porque concuerda con los sujetos femeninos enenyek, evahlvok y
+maye(k), respectivamente. En (24d-e) hay un sujeto tácito masculino, mientras que anya’a y yemmen (que
+son femeninos) funcionan como objetos de los verbos akvankek y apmek, respectivamente.
+Nicolás Brid. PROCESOS DE LEXICALIZACIÓN EN ANGAITÉ (ENLHET-ENENLHET)
+PDF generado a partir de XML-JATS4R
+5.4. Univerbación
+Vimos que la composición en angaité puede realizarse por medio de dos lexemas unidos en una frase posesiva.
+También se encuentran casos en los que en un lexema es reconocible la composición a partir de otros dos,
+pero que funcionan como una palabra fonológica y en los que se observa fusión morfológica y coalescencia
+fonológica. Tal es el caso de términos como:
+Por último, hay numerosos casos en los que se puede sospechar una composición, pero al día de hoy solo
+uno de los componentes es transparente. Por ejemplo, es claro que yantakmoomek ‘barco’ se compone al
+menos de yanta’a ‘madera, árboles’, pero no queda claro aún el resto de la forma. También yantehlkapak
+‘año, verano, estación cálida’ parece componerse de esa raíz, lo que tendría sentido ya que es un momento
+caracterizado por la ﬂoración del algarrobo. Un caso llamativo es vakahak ‘libro’, con cognados bastante
+transparentes en otras lenguas de la familia, y que parece estar compuesto del préstamo vaka ‘vaca’. Solo se
+encontró una otra lengua en la que hay una colexiﬁcación entre estos conceptos, y es el nivaclé, en el que
+aclojeshch’e es ‘libro’ y ‘última de las cuatro cavidades del estómago de los rumiantes’.
+6. Conclusiones
+A lo largo de estas páginas se mostraron y clasiﬁcaron lexemas y sintagmas en angaité cuyo signiﬁcado no se
+deduce de la suma de sus partes, lo que se deﬁnió en el marco teórico como lexicalización. Dichos lexemas
+y sintagmas se clasiﬁcaron como casos de derivación y de composición. A su vez, se realizó una clasiﬁcación
+más ﬁna dentro de esos dos grupos.
+Los casos de derivación fueron clasiﬁcados de acuerdo con la clase semántica del lexema fuente y la del
+lexema resultante. En consecuencia, se mostraron casos de nominalización deverbal, en los que las formas
+resultantes seleccionaron un signiﬁcado particular de entre los signiﬁcados posibles; casos de lexicalización
+de paradigmas verbales, en los que ciertos verbos utilizan de manera obligatoria morfología que en otros
+verbos se usa de manera productiva y opcional para expresar signiﬁcados direccionales y aspectuales; y casos
+de derivación de nombres a partir de otros nombres por medio de aﬁjos de uso poco productivo.
+Los casos de composición fueron clasiﬁcados en frases lexicalizadas y lexemas compuestos de más de
+una raíz léxica a través de un proceso de univerbación. Las frases lexicalizadas fueron clasiﬁcadas en frases
+posesivas, atributivas y en frases compuestas de un predicado y un argumento. Los casos de univerbación
+muestran restos de una estructura de frase.
+En todos los casos en los que fue posible, se mostró que esos procesos de lexicalización no aparecen
+solamente en angaité, sino también en las demás lenguas de la familia enlhet-enenlhet. Particularmente
+llamativos resultaron los casos de lexicalización en términos que designan animales y objetos que se supone
+que fueron introducidos en la vida de los pueblos enlhet-enenlhet a partir del contacto con la sociedad
+envolvente, ya sea que se trate del contacto con los españoles o directamente con la sociedad paraguaya.
+Estos términos, tales como pataktek ‘arroz’, yavaikok ‘burro’, o naatahlkapok ‘ﬁdeos’, muestran formaciones
+Cuadernos de Literatura, 2023, núm. 21, e2107, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+muy similares en enlhet, énxet, enenlhet, guaná y angaité. Esto puede sugerir un bajo grado de separación
+de algunas lenguas enlhet-enenlhet en tiempos de la conquista, o bien un alto grado de contacto areal. Sin
+embargo, se trata solo de conjeturas.
+Cuando fue posible se mostró también la coincidencia de ciertos patrones léxico-semánticos con lenguas
+del Gran Chaco con las que el angaité no está emparentado. La presencia de estas coincidencias, en particular
+de las menos composicionales y más idiosincrásicas (como la derivación del término para ‘camisa’ a partir de la
+raíz para ‘entrar’) pueden arrojar luz a la comprensión de procesos de contacto interétnico en el Gran Chaco.
+Queda como tarea profundizar en la comprensión de las cuestiones planteadas en este trabajo. En
+particular, queda pendiente la interpretación de aﬁjos particularmente opacos como na-, so- y -hlma. Se debe
+profundizar también en la cuestión de la productividad del preﬁjo yama- y su diferencia con yeta-. Asimismo,
+hay un largo camino por recorrer en el estudio comparativo, no solo de las lenguas enlhet-enenlhet, sino
+de las lenguas del Gran Chaco en general. En estudios futuros se tendrá que realizar una comparación del
+vocabulario de las lenguas de esta familia y de esta región, tanto del vocabulario básico como de aquel formado
+por derivación y composición.
+Referencias bibliográficas
+Brid, Nicolás; List, Johann-Mattis y Messineo, Cristina. (2022). Patrones léxicos compartidos en el dominio
+etnobiológico de las lenguas del Chaco: Análisis preliminar de patrones léxicos compartidos en el dominio
+etnobiológico. LIAMES: Línguas Indígenas Americanas, 22, e022005. https://doi.org/10.20396/liames.v22i0
+0.8669038
+Brinton, Laurel y Traugott, Elizabeth. (2005). Lexicalization and language change. Cambridge, Cambridge University
+Press.
+Bussmann, Hadumod. (1996). Routledge Dictionary of Language and Linguistics. Editado por Gregory Trauth y
+Kerstin Kazzazi. London, Routledge.
+Cúneo, Paola. (2013). Léxico y clasiﬁcación nominal. El dominio etnobiológico en toba. Munich, LINCOM Studies in
+Native American Linguistics.
+Cúneo, Paola. (2014). La madre de las clasiﬁcaciones: términos de parentesco en la categorización nominal en toba
+(guaycurú). Revista Brasileira de Linguística Antropológica, 6 (1), 217-237. https://bitly.ws/TisM
+Franco Domaniczky, Mariana e Imaz, Gladyz. (2006). Angaité Koahlvok: las voces de un pueblo (Vol. 54). Asunción,
+CEADUC.
+Elliott, Jonh. (2021). A grammar of Enxet Sur [Tesis de doctorado]. ScholarSpace, University of Hawai'i. https://b
+itly.ws/Tivb
+Fabre, Alain. (2016). Gramática de la lengua nivaclé. Munich, Lincom.
+Gerzenstein, Ana. (1999). Diccionario etnolingüístico maká-español (DELME). Buenos Aires, Universidad de Buenos
+Aires.
+González, Hebe Alicia. (2005). A grammar of Tapiete (Tupi-guarani) [Tesis de doctorado]. University of Pittsburgh.
+https://bit.ly/3YZbkjb
+Heine, Bernd y Kuteva, Tania. (2002). World Lexicon of Grammaticalization. Cambridge, Cambridge University
+Press.
+Jackendoﬀ, Ray. (2002). Foundations of Language: Brain, Meaning, Grammar, Evolution. Oxford, Oxford University
+Press.
+Jacques, Guillaume. (2023). Simulative derivations in crosslinguistic perspective and their diachronic sources. Studies
+in Language, 47(4), 957-988. https://bitly.ws/TixF
+Kalisch, Hannes. (2023). Alhpeema vana. Las palabras de los guaná. Diccionario básico de la lengua guaná con
+traducciones al guaraní y al castellano. Ya’alve-Saanga/Asunción, Nengvaanemkeskama Nempayvaam Enlhet y
+Secretaría de Políticas Lingüísticas. https://bitly.ws/TiyR
+Nicolás Brid. PROCESOS DE LEXICALIZACIÓN EN ANGAITÉ (ENLHET-ENENLHET)
+PDF generado a partir de XML-JATS4R
+Matisoﬀ, James. (1991). e mother of all morphemes: Augmentatives and diminutives in areal and universal
+perspective. En Ratliﬀ, Marthe y Schille, Eric (eds.), Papers om the ﬁrst annual meeting of the Southeast Asian
+Linguistics Society (pp. 293-349). Tempe, AZ.
+Mithun, Marianne. (1991). Active/agentive Case Marking and Its Motivations. Language, 67(3), 510-546. https://
+doi.org/10.2307/415036
+Najlis, Elena. (1966). Lengua abipona: léxico abipón-castellano (Vol. 1). Universidad de Buenos Aires, Centro de
+Estudios Linguísticos
+Rojas, Asunción y Curtis, Timothy. (2017). Diccionario énxet sur. Río Verde, Equipo de traducción énxet sur.
+Shibatani, Masayoshi. (2009). Elements of complex structures, where recursion isn't. e case or relativization.
+En Givón, Talmy y Shibatani Masayoshi. (eds.), Syntactic complexity. Diachrony, acquisition, neuro-cognition,
+evolution (pp. 163-198). Amsterdam/Philadelphia, John Benjamins.
+Suárez, María Eugenia. (2010). Fitonimia wichí de especies arbóreas y arbustivas del Chaco Semiárido salteño. En
+Messineo, Cristina; Scarpa, Gustavo y Tola, Florencia (comps.), Léxico, clasiﬁcación nominal y categorización
+etnobiológica en el Gran Chaco (pp. 199-224). Santa Rosa, Editorial de la Universidad Nacional de La Pampa.
+Tacconi, Temis. (2015). Formación de palabras en maká (mataguayo) [Tesis de doctorado]. Universidad de Buenos
+Aires.
+Ulrich, Matthew y Ulrich, Rosemary. (2000). Diccionario #sh#ro (Chamacoco)-Español / Español-#sh#ro (Chamacoco).
+Asunción, New Tribes Mission.
+Unruh, Ernesto y Kalisch, Hannes. (1997). Moya'ansaeclha'nengelpayvaam nengeltomha enlhet. Ya’alve-Saanga,
+Comunidad Enlhet. https://bitly.ws/TiQX
+Unruh, Ernesto y Kalisch, Hannes. (2003). Enlhet-Enenlhet. Una familia lingüística chaqueña. ule, Rivista italiana
+di studi americanistici, 14(15), 207-231. https://bitly.ws/TiNJ
+Unruh, Ernesto; Kalisch, Hannes y Romero, Manolo. (2003). Enenlhet apaivoma: nentengiai'a nengiangveiakmoho
+neliatekamaha enenlhet apaivoma. Guía para el aprendizaje del idioma materno toba. Ya'alve-Saanga,
+Nengvaanemkeskama Nempayvaam Enlhet. https://bitly.ws/TiQB
+Villagra Carron, Rodrigo. (2010). e two shamans and the owner of the cattle: alterity, storytelling and shamanism
+amongst the Angaité of the Paraguayan Chaco [Tesis de doctorado]. University of St. Andrews. https://bitly.w
+s/TiRF
+Villagra Carron, Rodrigo. (2014). Meike makha valayo: no habían paraguayos: reﬂexiones etnográﬁcas en torno a los
+angaité del Chaco. Centro de Estudios Antropológicos de la Universidad Católica Nuestra Señora de la Asunción,
+CEADUC.
+Wheeler, Paige Erin. (2020). Consonants and syllable structure in angaité (enlhet-enenlhet) [Tesis de doctorado].
+University of Texas Library, University of Texas at Austin. https://bitly.ws/TiS5
+Notas
+1 A lo largo de la literatura, este exónimo ha aparecido bajo formas diversas, como maskoy, maskoi, lenguas mascoyanas,
+mascoyan, etc. A partir de Unruh y Kalisch (2003) se la ha renombrado como enlhet-enenlhet, nombre que se compone
+de las dos palabras que signiﬁcan persona en las lenguas de esta familia.
+2 Dada la alternancia que hay entre /w/ y /o/ en algunos contextos fonológicos, este etnónimo ﬁgura con diferentes grafías:
+koahlok, kovahlok, koahlvok, kovahlvok.
+3 Este trabajo se llevó a cabo en el marco de la beca PICT 2016-4044, del proyecto UBACYT “Lenguas indígenas del
+Gran Chaco: estudios descriptivos, tipológico-comparativos y sociolingüísticos (continuación)” y del proyecto CALC
+(Computer-assisted language comparison) del Max Planck Institut für Evolutionäre Anthropologie. Para el trabajo de
+campo fue de crucial importancia la ayuda de los organismos Tierraviva a los Pueblos Indígenas del Chaco y Grupo Sunu
+de Acción Intercultural, y de mis consultantes angaité, principalmente los hermanos Navarro: María, Gregorio, Víctor,
+Cristina y Félix, y Damasio Flores. Los errores que puedan surgir en el análisis son exclusivamente míos.
+4 Si bien aún no hay un criterio ortográﬁco uniﬁcado para la transcripción del angaité, aquí se siguen las convenciones
+ortográﬁcas más aceptadas en reuniones de maestros de la lengua y utilizadas en Franco Domaniczky e Imaz (2006):
+Cuadernos de Literatura, 2023, núm. 21, e2107, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+y representa la aproximante palatal sonora /j/; el apóstrofe ’ representa la oclusiva glotal sorda / /; v representa la
+aproximante labiovelar sonora /w/ o la aproximante labiodental sonora / /; kh representa la oclusiva velar sorda /k/
+seguida de una aspiración; hl representa la fricativa lateral alveolar sorda / /; q representa la oclusiva uvular sorda /q/; ng
+representa la consonante nasal velar sonora /ŋ/; y ny representa la consonante nasal palatal sonora / /. Las otras lenguas
+enlhet-enenlhet se representan con sus ortografías oﬁciales. Para el caso es relevante tener en cuenta que la fricativa lateral
+alveolar sorda / / se representa como x en énxet y como lh en enlhet, enenlhet y guaná; la aproximante palatal sonora /j/
+se representa como i en enenlhet; la oclusiva velar sorda /k/ se representa como c o como qu en enlhet; y la consonante
+nasal velar sonora /ŋ/ se representa como g en énxet.
+5 Las abreviaturas usadas para las glosas en este texto son: CAUS: causativo; DECL.I: declarativo I; DECL.II: declarativo
+II; DEM: demostrativo; DIST: distributivo; EP: vocal epentética; FEM: preﬁjo nominal de posesión femenino o preﬁjo
+verbal de agente femenino; IMP: imperativo; IMPRS: impersonal; IRR: irrealis; MASC: preﬁjo nominal de posesión
+masculino o preﬁjo verbal de agente masculino; NEG: negación; NMLZ.I: nominalización I; NMLZ.II: nominalización
+II; NMLZ.III: nominalización III; 1PL: preﬁjo de primera persona plural activa; TERM: terminativo; TI: temporal
+indeﬁnido; 1POS: preﬁjo de posesión inalienable de primera persona singular; 1SG: preﬁjo de primera persona singular
+activa.
+6 Para los ejemplos propios, no se indica la referencia entre paréntesis.
+7 El suﬁjo -(y)aam corresponde a la nominalización I en el paradigma terminativo.
+8 El suﬁjo -anhla corresponde a la nominalización II para el paradigma terminativo, el mismo que detallamos en la nota
+anterior.
+9 Agradezco a unx revisorx anónimx por facilitarme esta interpretación.
+10 El enunciado de los verbos en lenguas enhlet-enenlhet se realiza con la nominalización I (inﬁnitivo o nominalización
+perfectiva, según las terminologías descritas anteriormente) en primera persona plural o en femenino si se trata de un
+verbo prototípicamente no humano, y se traduce al español como inﬁnitivo.

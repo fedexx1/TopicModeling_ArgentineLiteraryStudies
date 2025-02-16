@@ -1,0 +1,524 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+PREDICADOS ATRIBUTIVOS EN TOBA DEL OESTE
+DE FORMOSA (GUAYCURÚ, ARGENTINA)
+Attributive predicates in Toba of Western Formosa
+(Guaicuruan, Argentina)
+Schaller, Florencia Belén
+ Florencia Belén Schaller *
+schaller.ﬂor@gmail.com
+Universidad Nacional del Nordeste, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 21, e2110, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 30/06/23
+Aprobación: 07/08/23
+URL: http://portal.amelica.org/ameli/journal/785/7854257015/
+DOI: https://doi.org/10.30972/clt.0216899
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: Los predicados atributivos corresponden a una clase
+de predicación no verbal en la que el predicado expresa la
+atribución de un concepto (cualidad, atributo, propiedad) a un
+argumento. En este trabajo se describe y analiza el uso de los
+predicados atributivos en toba del oeste de Formosa (guaycurú,
+Argentina). Los datos analizados muestran que una de las
+estrategias utilizadas para identiﬁcar este tipo de predicados
+es el orden de palabras. Este mecanismo permite diferenciar
+los predicados atributivos de los predicados nominales que
+presentan una estructura formal similar, pero expresan relaciones
+semánticas de otro tipo. El objetivo de este estudio es contribuir
+al conocimiento sobre la predicación no-verbal en la variedad
+toba hablada en el oeste de Formosa.
+Palabras clave: predicación no-verbal, tipos de predicados no-
+verbales, relaciones semánticas, orden de palabras, qomlé’k.
+Abstract: Attributive predicates are a class of non-verbal
+predication in which the predicate expresses a concept
+attribution (quality, attribute, property) to an argument. is
+paper describes and analyzes attributive predicates in Toba of
+Western Formosa (guaicuruan, Argentina). e data analyzed
+shows that one the main strategies used to identify this
+type of predicates is word order. is mechanism allows the
+attributive predicates to diﬀerentiate from nominal predicates
+that present a similar formal structure, but express diﬀerent
+semantic relations. e main goal of this study is to contribute
+to the knowledge of non-verbal predication in Toba of Western
+Formosa.
+Keywords: non-verbal predication, types of non-verbal
+predicates, semantic relations, word order, qomlé’k.
+Notas de autor
+*
+Florencia Belén Schaller es estudiante avanzada de las carreras Profesorado y Licenciatura en Letras de la Universidad Nacional del Nordeste
+(UNNE). Sus intereses se centran en el análisis morfosintáctico de las lenguas desde una perspectiva tipológico-funcional. Durante su formación
+de grado realizó trabajos de investigación con becas y pasantías en las que indagó la relación sintáctico-pragmática de las construcciones antipasivas,
+pasivas y las construcciones no-verbales en la lengua hablada por los grupos tobas del oeste de Formosa (ﬂia. guaycurú). Actualmente se encuentra
+realizando una Beca de Pregrado otorgada por UNNE cuyo tema principal es el análisis y la descripción de los distintos tipos de construcciones no-
+verbales en toba del oeste de Formosa.
+Cuadernos de Literatura, 2023, núm. 21, e2110, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Na qanqottenaxatpi maye qaihuen nahua toba del oeste la’aqtaqa (título en qom)
+Ihioj yonwetho ihi Toba del oeste Formosa (guaycuru, Argentina) (título en wichí)
+Lalamaxaret anama toba lauashiguim le>ec queda Formosa (guaycurú, Argentina) (título en moqoit)
+1. Introducción
+En el presente estudio se analizan los predicados atributivos en toba del oeste de Formosa (guaycurú,
+Argentina). Se describen las construcciones predicativas que se utilizan, preponderantemente, para codiﬁcar
+situaciones en las que se expresa un atributo o cualidad de un determinado participante. Se presta especial
+atención al orden de palabras que exhiben estas construcciones. Se considera que un análisis enfocado en el
+comportamiento morfosintáctico de los predicados atributivos constituye un gran aporte para la descripción
+de la predicación no-verbal en esta lengua.
+El análisis de los predicados atributivos es abordado a partir de dos conceptos: por un lado, se trabaja sobre
+la noción de predicación no-verbal de Hengeveld (1992). En términos generales, se entiende por predicación
+no-verbal a todas aquellas construcciones conformadas por un argumento y un predicado que pueden
+estar mediados por una cópula. Desde una mirada tipológica, Hengeveld (1992) clasiﬁca distintos tipos de
+predicados no-verbales de acuerdo a los rasgos semánticos y morfosintácticos que presenta el predicado de la
+construcción. Dentro de dicha clasiﬁcación se encuentran los predicados atributivos. Por otro lado, con el ﬁn
+de examinar el vínculo entre los predicados atributivos y el orden de palabras, se adopta el concepto de sistema
+de partes del discurso (parts of speech system) propuesto por Hengeveld et al. (2004), quienes sostienen que
+el sistema de partes del discurso determina, en cierta medida, el orden de palabras de una lengua.
+El corpus de análisis se encuentra conformado por narrativas libres de hablantes de la comunidad Vaca
+Perdida (Bermejo, Formosa) que fueron recolectados en trabajo de campo por la Dra. María Belén Carpio
+desde el año 2007. Así como también, se extraen algunos ejemplos de fragmentos seleccionados del texto Los
+Hechos de los Apóstoles (1942). Se trata de un texto bilingüe toba-español que se encuentra en circulación
+dentro del culto religioso de la comunidad.
+El presente artículo se estructura de la siguiente manera: en la sección (2) se presenta una breve
+caracterización de la variedad toba estudiada, en la sección (3) se exhiben algunos antecedentes previos entre
+los que se destacan estudios del toba hablado en el Chaco, el toba del oeste de Formosa, y algunos trabajos
+relacionados con la temática del artículo. En la sección (4) se desarrollan aquellos aspectos del marco teórico-
+metodológico en el que se inserta la descripción de los predicados atributivos, seguidamente se procederá con
+el análisis de datos en torno a los predicados atributivos en la sección (5) y, ﬁnalmente, en la sección (6) se
+presentan algunas reﬂexiones ﬁnales y perspectivas de investigaciones a futuro.
+2. Algunos rasgos del toba del oeste de Formosa
+La variedad toba del oeste de Formosa es hablada por grupos tobas que habitan en las comunidades ubicadas
+sobre la ribera del río Pilcomayo. Otra parte de la población habita en el Barrio Toba que se encuentra ubicado
+en las periferias de la localidad Ingeniero G. N. Juárez en la provincia de Formosa, Argentina. Se trata de un
+grupo de 1800 personas aproximadamente, se autodenominan qomlé’k y se consideran a sí mismos tobas.
+Esta lengua presenta una tendencia a la aglutinación y la polisíntesis. El verbo posee marcas que permiten
+codiﬁcar persona y número de los argumentos y de los predicados, alternancias de la transitividad (pasiva,
+antipasiva, causativa, reﬂexiva y recíproca), dirección y aspecto gramatical.
+Presenta seis raíces demostrativas que se anteponen al nombre que modiﬁcan y pueden expresar rasgos
+estáticos (parado, acostado, sentado, ausente, próximo al centro deíctico) y dinámicos (alejándose del centro
+Florencia Belén Schaller. PREDICADOS ATRIBUTIVOS EN TOBA DEL OESTE DE FORMOSA (GUAYCURÚ,
+ARGENTINA...
+PDF generado a partir de XML-JATS4R
+deíctico y acercándose al centro deíctico) de los referentes nominales. Estas raíces demostrativas también
+presentan suﬁjos que codiﬁcan la distinción entre exofórico y endofórico, reciben ﬂexión de género y número,
+así como pueden funcionar adnominal y pronominalmente.
+Además de los demostrativos, el nombre también se ve modiﬁcado por marcas de número, género y
+poseedor que se indexan morfológicamente. De acuerdo con Carpio (2012), el sistema de clases de palabras
+de toba del oeste de Formosa no cuenta con una categoría deﬁnida de adjetivo, debido a que las formas léxicas
+que reﬁeren a cualidades, atributos o características de una entidad comparten propiedades morfosintácticas
+con los nombres. Asimismo, aquellas palabras que tradicionalmente serían consideradas como “adjetivos”
+son tratadas como nombres en Carpio (2012, p. 176-77). Por otra parte, al igual que en muchas lenguas areal
+y genéticamente emparentadas, esta lengua no requiere de una cópula para expresar predicados atributivos,
+sino que estas construcciones son codiﬁcadas mediante la yuxtaposición sintáctica.
+3. Antecedentes
+La lengua toba hablada en Argentina ha sido ampliamente estudiada por autores como González (2015),
+Cúneo (2013), Carpio (2007, 2012), Messineo (2003), Censabella (2002), Buckwalter (1980), entre otros.
+Particularmente, la variedad toba hablada en el oeste de Formosa es estudiada por Carpio (2012).
+Los estudios vinculados a lo que aquí se denomina como predicados atributivos en otras lenguas areal y
+genéticamente emparentadas enfocan la discusión sobre la presencia de la categoría léxica de “adjetivo” en el
+sistema de clasiﬁcación de clases de palabras. Cúneo et al. (2009) estudian las categorías adjetivo y adverbios
+de manera, a partir de un análisis tipológico sobre el toba hablado en la provincia del Chaco (guaycurú)
+y el maká (mataguaya). En lo que respecta al adjetivo, las autoras sostienen que para expresar atributo,
+cualidad o propiedad de un determinado participante, ambas lenguas recurren a formas léxicas cuyos rasgos
+morfológicos y sintácticos no se diferencian de los nombres y los verbos. Por otra parte, se presenta un análisis
+de los mecanismos utilizados en el toba del Chaco y en maká para codiﬁcar las clases léxicas de adjetivo y
+adverbio de manera. Las autoras indican que aquellos lexemas que se forman mediante procesos de derivación,
+con los morfemas -(d)ay(k) en toba y -naX y -tsaX en maká, los cuales se suﬁjan tanto a bases nominales
+como a bases verbales, constituyen un mecanismo para codiﬁcar clases léxicas de adjetivos. Así como también
+son analizados aquellos grupos de lexemas que expresan cualidades de los referentes y comparten rasgos
+prototípicos de los verbos. Cabe mencionar además que, siguiendo a Cúneo et al. (2009), las formas léxicas
+que expresan atributo, cualidad o propiedad de un participante pueden cumplir función de modiﬁcador de
+nombre dentro de un SN, así como función predicativa que se codiﬁca mediante la yuxtaposición sintáctica.
+En Rabasedas (2022) se analiza la presencia de la categoría de adjetivo en la lengua mocoví (guaycurú).
+La autora señala que la categoría “adjetivo” puede ser reconocida en la gramática del mocoví y se abordan
+aquellas problemáticas asociadas al comportamiento de dicha categoría en la lengua y su delimitación como
+categoría sintáctica. Entre la diversidad de aportes, se mencionan de manera breve algunos de ellos. En
+cuanto al comportamiento morfológico, la autora señala que esta categoría puede alojar morfemas de género
+y número en función de concordar con el nombre, y reconoce diferentes suﬁjos adjetivales que permiten
+derivar adjetivos caliﬁcativos (-ai(k), -saG, -lek) y adjetivos relacionales (-lek y -se). Se describen, además, dos
+de las funciones básicas del adjetivo en mocoví: la de modiﬁcador directo de los nombres dentro de un SD,
+y el de predicado intransitivo. En relación a esta última función la autora señala que, en base a las categorías
+propuestas por Roy (2013), los adjetivos denotan situaciones caracterizadoras, en contraste con los nombres
+predicativos y los verbos que introducen descriptivas.
+Los estudios mencionados constituyen aportes para la presente investigación en la medida en que implican
+la discusión sobre el modo de codiﬁcación de lo que aquí se conoce como predicados atributivos, y serán
+retomados a lo largo del trabajo. No obstante, cabe aclarar que el principal objetivo de este análisis no es el
+de indagar sobre el estatuto categorial de las formas léxicas que expresan atributo o cualidad de una entidad.
+Cuadernos de Literatura, 2023, núm. 21, e2110, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Sobre este aspecto, se procederá con lo propuesto por la gramática descriptiva de la lengua (Carpio, 2012). El
+foco de análisis de este trabajo está puesto sobre la predicación no-verbal, y en cómo un análisis descriptivo de
+los predicados atributivos permite tener una mirada más completa de las características del dominio funcional
+de la predicación no-verbal.
+4. Marco teórico-metodológico
+El concepto de predicación no-verbal (Hengeveld, 1992) es comúnmente utilizado para designar aquellas
+construcciones conformadas por un argumento y un predicado que no posee un verbo prototípico. Son
+conocidas también como “cláusulas copulares”, “predicación intransitiva” (Stassen, 1997) y “construcciones
+de cláusulas no-verbales” (Haspelmath, 2022). Si bien la deﬁnición de Hengeveld (1992) contempla aquellas
+construcciones que exhiben una cópula, el autor sostiene que la presencia de esta categoría no es requisito
+necesario para deﬁnir o identiﬁcar una predicación no-verbal. Esto se debe a que existen lenguas, entre las
+que se encuentra el toba del oeste de Formosa, que no precisan de una cópula para expresar signiﬁcados
+predicativos.
+Desde una mirada tipológica, Hengeveld (1992) propone una clasiﬁcación de distintas clases de predicados
+no-verbales que se deﬁnen de acuerdo a los siguientes criterios: (i) tipo de predicado, (ii) tipo de argumento,
+(iii) función pragmática del primer argumento, (iv) función semántica del primer argumento. Estos criterios
+no se aplican de la misma forma a todos los elementos. El tipo de predicado constituye un parámetro primario,
+mientras que el tipo de argumento es un parámetro secundario. Los otros dos criterios son relevantes solo
+para algunos tipos de predicados no-verbales (Hengeveld, 1992, p. 123). A nivel semántico, el autor emplea
+el término de relación semántica para dar cuenta del vínculo que el predicado ostenta con el argumento.
+Esto quiere decir que el predicado de la construcción puede designar propiedad o atributo, identiﬁcación,
+estatus, clasiﬁcación, posesión, locación, entre otros, del argumento. La clasiﬁcación tipológica propuesta por
+Hengeveld (1992) para la predicación no-verbal se ilustra en la tabla 1:
+Florencia Belén Schaller. PREDICADOS ATRIBUTIVOS EN TOBA DEL OESTE DE FORMOSA (GUAYCURÚ,
+ARGENTINA...
+PDF generado a partir de XML-JATS4R
+Tabla 1. Clasiﬁcación de la predicación no-verbal. Fuente:Hengeveld (1992, p. 73-126).
+En este análisis se prestará especial atención a los predicados que expresan propiedad del argumento.
+Además, dado que en este trabajo partimos del supuesto de que, en toba del oeste de Formosa, el llamado
+“predicado adjetival” en la clasiﬁcación propuesta por Hengeveld (1992) no es expresado por una categoría
+deﬁnida de adjetivo y se codiﬁca mediante la yuxtaposición nominal (Carpio, 2012), preferimos referirnos
+a este tipo de predicados como “atributivos”.
+En relación con esto último, este análisis se realiza siguiendo a Hengeveld et al. (2004). A partir de un
+análisis tipológico sobre una muestra que reúne 50 lenguas, los autores aﬁrman que las distintas posibilidades
+de orden de palabras se ven en parte determinadas por el sistema de partes del discurso. Este sistema
+está basado principalmente en la sintaxis, y consiste en que las categorías léxicas se deﬁnen de acuerdo al
+lugar sintáctico que ocupan dentro de la construcción. Una construcción prototípica posee cuatro espacios
+sintácticos: el núcleo y el modiﬁcador de una frase referencial (frase nominal); y el núcleo y modiﬁcador de
+una frase predicativa. Sobre este aspecto, los autores señalan que los núcleos son lugares obligatorios, mientras
+que los modiﬁcadores son opcionales. Asimismo, se deﬁnen cuatro categorías léxicas básicas: el verbo (núcleo
+de la frase predicativa), el nombre (núcleo de la frase referencial), adjetivo (modiﬁcador de la frase referencial)
+y, por último, el adverbio de manera (modiﬁcador de la frase predicativa).
+Los autores organizan las lenguas en tres grupos de acuerdo al tipo de categoría léxica que presentan:
+(i) aquellas lenguas que poseen categorías léxicas diferenciadas, (ii) las que presentan categorías léxicas
+rígidas y (iii) lenguas con categorías léxicas ﬂexibles. Las lenguas diferenciadas son aquellas que cuentan con
+categorías léxicas especializadas para cada posición sintáctica. Las lenguas rígidas carecen de una o más clases
+léxicas especializadas y, para ocupar cada una de las posiciones sintácticas, necesitan recurrir a estrategias
+Cuadernos de Literatura, 2023, núm. 21, e2110, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+morfológicas y/o sintácticas. Por su parte, las lenguas ﬂexibles son aquellas en las que una categoría léxica
+puede ocupar más de una posición. La hipótesis general de estos autores consiste en que mientras más
+especializada sea la clase léxica, es decir, que se encuentra unida a un único espacio dentro de la construcción,
+menos necesario será marcar, sintáctica y/o morfológicamente, el espacio (o slot) sintáctico en el que ocurre.
+Por el contrario, mientras más ﬂexible sea la categoría léxica en una lengua, más necesario será marcar,
+sintáctica y/o morfológicamente, la posición sintáctica que ocupa dicho lexema en la frase en la que ocurre.
+Las lenguas que poseen categorías léxicas menos especializadas tienden a exhibir restricciones en el orden de
+palabras, para evitar la ambigüedad funcional.
+Hengeveld et. al (2004) indican que la ausencia de un verbo que ocupe el lugar de núcleo de una frase
+predicativa, diﬁculta la posibilidad de identiﬁcar a la frase nominal (argumentos) de la frase predicativa
+(predicados) dentro de una construcción. Es por esto que los autores sugieren que, cuando la lengua no
+cuenta con un espacio para el núcleo de la frase predicativa (un verbo), se debe prestar particular atención a la
+posición del predicado. En estas circunstancias, el predicado debe ocupar una posición única e identiﬁcable
+y el orden posible de esas construcciones es de: predicado inicial o predicado ﬁnal.
+5. Análisis de los datos
+En este apartado se presentan los datos obtenidos a partir del material lingüístico analizado. En la primera
+sección, se describe el modo en que se codiﬁcan los predicados atributivos en el corpus analizado, y se delinea la
+forma estructural que presentan los predicados atributivos. En la segunda sección, los predicados atributivos
+son contrapuestos a otros predicados que expresan otro tipo de relaciones semánticas, como el de estatus,
+pertenencia o identidad. A estos predicados se los denomina como “predicados nominales”. Seguidamente,
+a partir de lo propuesto por Hengeveld et al. (2004), se señala el rol que cumple el orden de palabras en la
+distinción entre predicados atributivos y predicados nominales.
+5.1. Predicados atributivos
+La relación semántica expresada en la predicación no-verbal basada en predicados adjetivales simples es,
+en términos generales, la de asignación de propiedad (Hengeveld, 1992, p. 76). Como fue mencionado
+anteriormente, en esta oportunidad preferimos el uso del término “predicados atributivos” para tratar lo que
+Hengeveld (1992) denomina como predicados adjetivales.
+En qomlé’k, las construcciones predicativas en las que se expresa que una determinada entidad posee una
+propiedad no requieren la presencia de una cópula y son codiﬁcadas mediante la yuxtaposición sintáctica. En
+(1) se presenta un ejemplo de construcción predicativa en la que se expresa asignación de propiedad:1
+En (1) el nombre qayáhegemek ‘alto’ predica la cualidad de “ser alto” de epáq ‘árbol’. En medio de
+ambos elementos se encuentra el demostrativo hadá . Se considera que dicho demostrativo opera como
+indicador del estatus no-predicativo del nombre al cual antecede. Esto se debe, por un lado, a que uno de los
+rasgos propios de la lengua es que el demostrativo siempre antecede al nombre al cual modiﬁca. En (1), el
+demostrativo hadá selecciona y modiﬁca al nombre epáq, lo cual logra dar cuenta de su estatus de argumento
+dentro de la construcción. Por ende, el ítem restante corresponde al predicado.
+Florencia Belén Schaller. PREDICADOS ATRIBUTIVOS EN TOBA DEL OESTE DE FORMOSA (GUAYCURÚ,
+ARGENTINA...
+PDF generado a partir de XML-JATS4R
+En deﬁnitiva, podría decirse que en (1)qayáhegemek es un nombre que expresa un concepto de propiedad,
+el cual ocupa el lugar del predicado de la construcción, mientras que epáq es el argumento, acompañado por
+el demostrativo hadá .
+En cuanto a la composición sintáctica es posible observar que el nombre que expresa el concepto de
+propiedad, el predicado, se ubica del lado izquierdo. Por su parte, el argumento se posiciona del lado derecho,
+al ﬁnal de la construcción. De esta manera, siguiendo la organización propuesta por Hengeveld et al. (2004),
+se considera que el predicado atributivo presente en (1) exhibe una estructura de tipo predicado inicial
+(predicado-argumento).
+En (2)-(3) se presentan otras construcciones en las que dos entidades expresan entre sí una relación
+de asignación de propiedad. En (2) piyódayaqa ‘gordos’ predica la propiedad de “ser gordo” de wachigéts
+‘surubíes’. Este último se encuentra precedido por el demostrativo náa , lo cual da cuenta de su estatus de
+argumento dentro de la construcción. Por lo tanto, la función predicativa le corresponde a piyódayaqa. Cabe
+mencionar que este nombre, que expresa un concepto de propiedad, posee marcación morfológica que es
+propia de los nombres en esta lengua, en tanto acarrea el suﬁjo -k~-q de masculino, y concuerda en número
+con el argumento de la construcción mediante el suﬁjo plural -a. Nuevamente, es posible observar que el
+predicado antecede al argumento. De modo que se presenta una construcción de tipo predicado inicial.
+En (3) el lexema lañaGáyk ‘fuerte’ expresa la propiedad o atributo de Yakinót, el cual reﬁere a un nombre
+propio de hombre, y concuerda en género masculino con éste mediante el suﬁjo -k. Este ejemplo constituye el
+único caso observado en el corpus en donde se presenta una construcción que posee una lectura predicativa
+atributiva y, no obstante, no cuenta con un demostrativo que anteceda al argumento. De modo que las
+funciones de predicado y argumento se determinan, en principio, a partir de propiedades semánticas, es decir,
+qué entidad denotada por el nombre posee la propiedad y qué entidad predica dicha propiedad. Por último,
+cabe destacar que presenta la misma estructura que en (1) y (2) de predicado inicial o predicado-argumento.
+A raíz de lo descripto en los ejemplos (1), (2) y (3), es posible reconocer que en las construcciones con
+predicados que expresan una relación semántica de asignación de propiedad, el predicado tiende a ubicarse
+del lado izquierdo o al inicio de la construcción, presentando así un orden de tipo predicado-argumento
+o predicado inicial.3 Asimismo, es posible observar una tendencia a que el nombre que ocupa el lugar de
+argumento se encuentre precedido por un demostrativo, lo cual demuestra su estatus no-predicativo dentro
+de la construcción. Por su parte, los nombres que expresan conceptos de propiedad presentan ﬂexión para
+número (suﬁjo de plural -a) y género (suﬁjo masculino -k~-q).4
+Se registra una tendencia entre las construcciones de predicación atributiva a que el nombre en función de
+argumento lleve marca morfológica de posesión, mientras que el de predicado no,5 como puede observarse en
+(4), (5) y (6). Estos tres ejemplos comparten dos rasgos en común: por un lado, se trata de una construcción
+con un predicado atributivo que antecede al argumento, por otro, el argumento no solo se encuentra al ﬁnal
+de la construcción, sino que además el nombre acarrea el morfema de posesión l- que indica tercera persona
+singular inalienable. En (4)-(5) el argumento se encuentra precedido por el demostrativo ga , y en (6) el
+nombre que expresa atributo posee el suﬁjo -k de género masculino.
+Cuadernos de Literatura, 2023, núm. 21, e2110, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+No obstante, se observan instancias de predicación atributiva en las que tanto el argumento como
+el predicado presentan ﬂexión de posesión. En (7)-(8) el nombre lohowí ‘valor’ aparece predicando una
+propiedad de otro nombre presente en la construcción: en (7) el argumento neki yáGat ‘mercadería’ va
+acompañado del preﬁjo n- que indica tercera persona singular posesivo alienable, y es precedido por el
+demostrativo hénme. En (8) aparece el verbo qademenék ‘vender’ nominalizado mediante el suﬁjo -ek,
+y acompañado del preﬁjo de primera persona del plural posesivo inalienable qad- y es precedido por el
+demostrativo ga .
+Por otra parte, cabe señalar que dentro de una misma construcción, el argumento y el predicado presentan
+distintos preﬁjos de posesión. De este modo, mientras los argumentos presentan los preﬁjos n- en (7) y qad-
+en (8), el nombre que expresa atributo aloja el preﬁjo de tercera persona inalienable l-. Asimismo, el nombre
+atributivo continúa ocupando el espacio del predicado principal de la construcción y se ubica en posición
+inicial respecto del argumento (predicado-argumento).
+Cabe señalar, además, que en (7) el predicado atributivo aparece precedido por el morfema de negación
+ha . De acuerdo con Carpio (en prensa) ha  es un clítico de negación que ocurre junto a los nombres y
+verbos a los cuales modiﬁca. En el corpus analizado fue posible identiﬁcar que este clítico de negación tiende
+a preceder al predicado, y no al argumento de la construcción. De modo que la información directamente
+negada es la cualidad o atributo que (no) posee el argumento.
+En (9) el clítico de negación aparece antepuesto al nombre qolítolqa ‘pequeños’, el cual se ubica al inicio de
+la construcción (predicado inicial), predica una propiedad del argumento wachigéts ‘surubíes’, y corresponde
+al elemento informativo negado por el hablante en la construcción a través de ha .
+Algo similar sucede en (10), en donde el nombre náha ‘vacío’, en función predicativa, expresa una
+propiedad o estado del argumento de la construcción ñáchi ‘río’. Asimismo, antecede al argumento y se
+encuentra inmediatamente precedido por el morfema de negación ha .
+Florencia Belén Schaller. PREDICADOS ATRIBUTIVOS EN TOBA DEL OESTE DE FORMOSA (GUAYCURÚ,
+ARGENTINA...
+PDF generado a partir de XML-JATS4R
+En deﬁnitiva, en los ejemplos (7), (9) y (10) se observan predicados atributivos negativos en donde es
+posible observar, por un lado, que el clítico de negación modiﬁca al lexema que ocupa el rol de predicado de
+la construcción y, por otro, que la estructura sintáctica de la construcción es similar a la de los predicados
+atributivos aﬁrmativos, en tanto el predicado antecede al argumento (predicado inicial).
+En (11) se presentan dos construcciones de predicados no-verbales que expresan atribución en los cuales
+es posible observar una variación en la tendencia de ubicar al predicado atributivo en posición inicial.
+Los nombres ñikemáGaho ‘mi pantalón’ y ñihomaGakí ‘mi camisa’ cumplen el rol de argumentos de la
+construcción y, como tal, acarrean consigo morfología de posesión en tanto se observa la presencia del preﬁjo
+posesivo de primera persona singular inalienable ñ-. No obstante, estos argumentos anteceden al nombre
+nó en ‘lindo/a” que expresa el atributo o cualidad del argumento. De manera que el predicado no ocupa la
+posición inicial, sino que se encuentra precedido por el argumento.
+Se considera que el orden de los constituyentes presentado en (11) responde a criterios pragmáticos-
+discursivos. Siguiendo lo propuesto por Givón (2001, p. 262-264), podría decirse que se trata de un caso de
+tópico contrastivo (Y-movement). Esto se debe a que, por un lado, el argumento de la construcción es un
+referente accesible anafóricamente, es decir, que es mencionado en partes previas del discurso. Por otro, la
+información que brinda la construcción contrasta con la referida anteriormente. El hablante relata que en el
+pasado poseía ciertas prendas de vestir, sin embargo, dichas prendas no se encontraban en buen estado. Este
+contraste informativo se encuentra reforzado por la presencia del coordinante adversativo qaláGaha ‘pero’.
+A pesar de que se produce este reordenamiento de los constituyentes, es posible observar que el morfema
+de negación ha  ocurre junto al predicado de la construcción, de modo que la información considerada
+como falsa es la que revela la propiedad o cualidad del argumento. Carpio (2012, p. 175) señala que
+cuando el elemento negado es un nombre, inmediatamente a continuación se expresa la correspondiente
+proposición aﬁrmativa en la que se proporciona la información verdadera. Esto puede advertirse en (11)
+cuando, inmediatamente después de la predicación atributiva negativa, aparece el nombre tóGoyk ‘viejo’. Este
+nombre proporciona la información que el hablante considera como verdadera, en relación con la negada
+previamente. Puesto que tóGoyk es un nombre que expresa un atributo o cualidad, es considerado como un
+predicado atributivo cuyo argumento es omitido dado que fue mencionado anteriormente en el discurso. El
+hecho de que el argumento sea el participante omitido da cuenta del carácter referencial de los argumentos
+en las construcciones atributivas; en contraste con los predicados, los cuales tienden a ser no-referenciales.
+Cuadernos de Literatura, 2023, núm. 21, e2110, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+5.2. Predicados nominales
+En el apartado anterior se describió el comportamiento morfosintáctico de los predicados atributivos en
+qomlé’k. En este apartado se busca indagar, a la luz de los datos antes presentados, otras construcciones
+de predicación no-verbal que son codiﬁcadas mediante yuxtaposición nominal, pero expresan otros
+tipos de relaciones semánticas diferentes a la de asignación de propiedad. Dichas construcciones son
+aquí denominadas como “predicados nominales”. Se considera que, al comparar los comportamientos
+morfosintácticos de los nombres que asumen la predicación no-verbal en múltiples contextos semánticos, es
+posible advertir algunas diferencias.
+En el corpus fueron detectados un grupo de predicados no-verbales que, a nivel formal, parecen ser
+similares a los predicados atributivos en tanto también se encuentran compuestos por nombres yuxtapuestos.
+No obstante, a nivel semántico, no se podría decir que expresan una relación semántica de asignación de
+propiedad. En este sentido, fue posible observar que, cuando el predicado de la construcción designa una
+relación que no sea atributiva, el orden de palabras tiende a modiﬁcarse de modo tal que la estructura que se
+presenta es de argumento-predicado (predicado ﬁnal). Para ilustrar mejor esta idea, se recurre a la clasiﬁcación
+propuesta por Hengeveld (1992) sobre las diferentes relaciones semánticas que expresan los predicados no-
+verbales.
+En (12) se presenta una construcción predicativa codiﬁcada mediante la yuxtaposición de dos nombres:
+Yakinót, nombre propio, y aléwa ló o que signiﬁca ‘sembrador’. Es posible advertir que el nombre aléwa ló o
+expresa la ocupación y/o posición que posee Yakinót. En este sentido, podría decirse que el primero ocupa el
+rol de predicado, y el segundo el de argumento. Si se adopta la clasiﬁcación propuesta por Hengeveld (1992, p.
+76), consideramos que a este predicado le corresponde la relación semántica de asignación de estatus. Desde
+un punto de vista sintáctico, esta construcción presenta una estructura de tipo predicado ﬁnal (argumento-
+predicado).
+En (13) también se observan dos nombres yuxtapuestos en donde el nombre teyaGáyk ‘chulupí’, el
+predicado, expresa la pertenencia a un determinado grupo étnico del nombre qadawtéwa ‘nuestro enemigo’,
+el argumento. Consideramos que, siguiendo a Hengeveld (1992, p. 80-82), este predicado denota la
+pertenencia a un determinado grupo funcional, ideológico o comunitario del argumento. Por lo cual, posee
+cierta aﬁnidad con la relación semántica de asignación de estatus. A nivel morfosintáctico, es posible observar
+que el nombre que cumple función de argumento lleva preﬁjo de posesión primera persona inalienable qad-,
+y la estructura que presenta es de predicado ﬁnal.
+Por último, podría decirse que, en los ejemplos (14)-(17) la relación semántica expresada por el predicado
+es de identiﬁcación (Hengeveld, 1992, p. 81). Los predicados de (14)-(16) se encuentran conformados por
+nombres propios que expresan la identidad de una persona, mientras que en (17) se trata de un nombre que
+expresa la identidad de un lugar geográﬁco especíﬁco. En cuanto a sus rasgos morfosintácticos, es posible
+Florencia Belén Schaller. PREDICADOS ATRIBUTIVOS EN TOBA DEL OESTE DE FORMOSA (GUAYCURÚ,
+ARGENTINA...
+PDF generado a partir de XML-JATS4R
+apreciar que todos los nombres que ocupan el lugar de argumento acarrean preﬁjos de poseedor. Por otra
+parte, el orden de los constituyentes que presentan estas construcciones predicativas es de argumento-
+predicado o predicado ﬁnal.
+Cabe aclarar que, de acuerdo con el análisis tipológico de Hengeveld (1992), cada una de estas relaciones
+semánticas (de estatus, de pertenencia y de identiﬁcación) pertenece a una clase diferente de predicados no-
+verbales que no solo son diferenciables en términos semánticos sino que, en muchas lenguas del mundo, cada
+una posee rasgos morfosintácticos particulares. De acuerdo con las relaciones semánticas que expresan, los
+ejemplos de (11) y (12) podrían ser considerados predicados nominales, mientras que los de (13)-(17) se
+acercan a los predicados de término. No obstante, en la variedad de toba analizada no fue posible observar
+alguna diferencia formal que permita una clasiﬁcación exacta entre los predicados no-verbales presentados en
+los ejemplos (11)-(17), aunque esto debería ser analizado con mayor profundidad en investigaciones futuras.
+Es por esto que, debido a que en esta instancia no se observan diferencias signiﬁcativas entre los predicados
+nominales y los predicados de término, se cree conveniente reunir a todas las construcciones que, como
+en (11)-(17), exhiben nombres en función predicativa que expresan la pertenencia a una clase, el estatus o
+identidad del argumento bajo el mismo concepto de “predicados nominales”.6
+El contraste que se busca resaltar en este trabajo es entre aquellas construcciones que poseen nombres que
+expresan un atributo o cualidad, y las que denotan otra clase de relaciones semánticas no-atributivas. A raíz de
+esto, consideramos que es posible distinguir dos tipos de predicados no-verbales que, en qomlé’k, se codiﬁcan
+mediante la yuxtaposición de formas nominales: los predicados nominales, presentes en los ejemplos (11)-
+(17) de este apartado; y los predicados atributivos, presentados en los ejemplos (1)-(10).
+A nivel formal, puede aﬁrmarse que el comportamiento de los nombres que expresan predicación nominal
+se diferencia del que presentan los nombres que asumen la predicación atributiva. Dicha distinción se
+aprecia a través de la estructura sintáctica que exhiben ambos predicados: mientras los predicados atributivos
+tienden a exhibir una estructura de predicado inicial (predicado-argumento), los nominales presentan una
+organización sintáctica de predicado ﬁnal (argumento-predicado). Es posible que esta distinción encuentre
+su motivación en el sistema de clases de palabras que presenta la lengua. En este sentido, es necesario retomar
+la hipótesis general de Hengeveld et al. (2004): aquellas lenguas que poseen categorías léxicas deﬁnidas no
+requieren de estrategias morfológicas y/o sintácticas para marcar el espacio sintáctico que ocupan. Por el
+contrario, mientras más ﬂexibles sean las categorías léxicas de una lengua, mayor será la necesidad de marcar
+morfológica y/o sintácticamente el espacio que ocupa dicha categoría. En este sentido, la variación en el
+comportamiento sintáctico depende, en gran medida, de si los nombres asumen el rol predicativo dentro
+Cuadernos de Literatura, 2023, núm. 21, e2110, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+de un predicado atributivo o dentro de un predicado nominal. Dicha variación se maniﬁesta en el orden
+de palabras. Esto quiere decir que cuando el nombre ocupa el rol predicativo dentro de un predicado de
+tipo atributivo, entonces el orden es de predicado-argumento; mientras que cuando el nombre asume el rol
+predicativo dentro de un predicado nominal, entonces el orden que exhibe la construcción es de argumento-
+predicado.
+Por último, cabe señalar que en el corpus fue posible observar que, cuando se yuxtaponen dos ítems que
+pertenecen a dos clases de palabras bien diferenciadas, el orden que tienden a presentar los constituyentes es
+de argumento-predicado, independientemente de la relación semántica que expresen. Esto se observa en los
+ejemplos (18)-(22), en donde los nombres aparecen yuxtapuestos a pronombres libres. En (18)-(20) aparece
+el pronombre libre de primera persona singular hayím ‘yo’ que cumple función de argumento, y este antecede
+al nombre que cumple función de predicado. En (21)-(22) aparece el pronombre libre de primera persona
+plural qo mí ‘nosotros’, el cual cumple rol de argumento, antecede al predicado (codiﬁcado mediante un
+nombre) y concuerda en número con el mismo. Puede tratarse de una relación semántica de atribución (18)-
+(19) y (21), identiﬁcación (20), o bien de pertenencia (22). En todas ellas la estructura de estas construcciones
+predicativas no-verbales es de predicado ﬁnal.
+Esto último permite constatar que la posición inicial del predicado parece darse únicamente en contextos
+en los que se yuxtaponen dos categorías léxicas similares, como en el caso de los nombres, con el objetivo de
+distinguir aquellos nombres que expresan conceptos de propiedad. No obstante, se considera que este aspecto
+debería ser analizado en profundidad en otros contextos morfosintácticos.
+6. Reflexiones finales
+En este trabajo fue analizado el uso de los predicados atributivos en la variedad toba hablada en el oeste de
+Formosa. Los cuales expresan la atribución de un concepto (propiedad, atributo, cualidad) a un determinado
+argumento, y son codiﬁcados mediante la yuxtaposición nominal.
+En primer lugar, se describieron los rasgos morfológicos y sintácticos del argumento y el predicado. Se
+observó que, cuando estas construcciones se codiﬁcan mediante la yuxtaposición de nombres, el nombre
+que expresa el concepto de propiedad ocupa el lugar sintáctico del predicado. Este predicado atributivo
+tiende a ocupar una posición inicial en la construcción, concuerda en género y número con el argumento
+Florencia Belén Schaller. PREDICADOS ATRIBUTIVOS EN TOBA DEL OESTE DE FORMOSA (GUAYCURÚ,
+ARGENTINA...
+PDF generado a partir de XML-JATS4R
+al que acompaña y, en las frases negativas, se encuentra precedido por el clítico de negación ha . Por su
+parte, el argumento se caracteriza por llevar marca de número y posesión, así como también se encuentra
+precedido por un demostrativo y por el predicado. De esta manera, se observa que las construcciones que
+poseen predicados atributivos tienden a exhibir un orden de tipo predicado inicial (predicado-argumento).
+En (8)-(9) se reúnen construcciones en las que tanto el argumento como el predicado llevan marca
+de posesión. No obstante, esto parece no incidir en el orden de los constituyentes, puesto que el orden
+sigue siendo de predicado inicial para las construcciones de predicación atributiva. En (11) identiﬁcamos
+una instancia en la que la construcción de predicado atributivo exhibe un orden de predicado ﬁnal. Se
+consideró que este orden responde a criterios pragmático-discursivos, puesto que se da en un contexto en el
+que la construcción brinda información que se contrasta inmediatamente con la información mencionada
+previamente. Además, el argumento de la construcción es un referente accesible anafóricamente; por lo que
+podría tratarse de un caso de tópico contrastivo (Givón, 2001).
+Fueron identiﬁcadas un grupo de construcciones de predicado no-verbal que también se codiﬁcan
+mediante la yuxtaposición de formas nominales, pero expresan otro tipo de relaciones semánticas (identidad,
+pertenencia, estatus). En esta instancia llamamos a dichas construcciones como predicados nominales.
+Al observar el comportamiento de los nombres yuxtapuestos en los predicados atributivos y los nominales,
+notamos que cuando un nombre cumple función predicativa en un predicado atributivo, el orden que se
+presenta es de predicado inicial (predicado-argumento). En cambio, cuando un nombre cumple función
+predicativa en un predicado nominal, entonces el orden tiende a ser de predicado ﬁnal (argumento-
+predicado). Consideramos que este contraste encuentra su motivación en el sistema de clases de palabras
+de la lengua. De modo que podría decirse que la lengua emplea una estrategia sintáctica como el orden de
+palabras para diferenciar a los predicados atributivos de los nominales que se codiﬁcan de un modo similar,
+pero expresan relaciones semánticas de otro tipo. Se considera que esto concuerda con la hipótesis general
+formulada en Hengeveld et al. (2004): mientras más ﬂexible sea la categoría léxica, mayor es la necesidad de
+apelar a recursos morfológicos y/o sintácticos.
+Consideramos que este análisis descriptivo enfocado en los predicados atributivos permite tener una
+perspectiva más clara, sin dudas para seguir indagando, sobre la caracterización y el comportamiento del
+dominio de la predicación no-verbal en esta lengua. En ese sentido, sería interesante profundizar en el estudio
+del comportamiento de los predicados nominales. Así como también, indagar con mayor detenimiento
+aquellas construcciones de predicado no-verbal que impliquen la yuxtaposición de otras clases de palabras,
+como los pronombres libres.
+Referencias bibliográficas
+Buckwalter, Alberto. (1980). Vocabulario Toba - Seguido de algunos apuntes sobre la gramática del idioma toba. Roque
+Saénz Peña, Edición del autor.
+Carpio, María Belén. (2007). Sistemas de alineación en toba (familia guaycurú, Argentina) [Tesis de maestría].
+Universidad de Sonora.
+Carpio, María Belén. (2012). Fonología y Morfosintaxis en la lengua hablada por los grupos tobas del oeste de Formosa
+(Argentina). München, LINCOM Studies in Native American Linguistics.
+Carpio, María Belén. (en prensa). Existenciales negativos en toba del oeste de Formosa. En Estrada Fernández, Zarina
+y Alvarez Gonzalez, Albert (eds.), Dependencias Simétricas y Asimétricas: Dominios semánticos y motivaciones.
+Sonora, Editorial Universidad de Sonora.
+Censabella, Marisa. (2002). Descripción funcional de un corpus en lengua toba (familia Guaycurú, Argentina). Sistema
+fonológico, clases sintácticas y derivación. Aspectos de sincronía dinámica. [Tesis de doctorado]. Universidad
+Nacional de Córdoba.
+Cuadernos de Literatura, 2023, núm. 21, e2110, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Cúneo, Paola. (2013). Formación de palabras y clasiﬁcación nominal en el léxico etnobiológico en toba (guaycurú).
+München, LINCOM Europa.
+Cúneo, Paola; Dante, Patricia y Tacconi, Temis. (2009). Tipología léxica. Una aproximación a dos lenguas chaqueñas:
+toba (guaycurú) y maká (mataguaya). Cuadernos de Etnolingüística, 1(2), 1-15. https://bitly.ws/UrXA
+Givón, omás. (2001). Syntax. A functional-typological introduction. Vol. II. Amterdam/Philadelphia, John
+Benjamins Publishing Company.
+González, Raúl E. (2015). Estudio fonológico y morfosintáctico de la lengua toba hablada en el este de la provincia de
+Formosa (Argentina). München, LINCOM Europa.
+Haspelmath, Martin. (2022). Nonverbal clause construction. Max Planck Institute for Evolutionary Anthropoly. htt
+ps://bitly.ws/Us23
+Hengeveld, Kees. (1992). Non-verbal predication: theory, typology, diachrony. Berlin, Mouton de Gruyter.
+Hengeveld, Kees; Rijkhoﬀ, Jan y Siewierska, Anna. (2004). Parts-of-speech systems and word order. Reino Unido,
+Cambridge University Press.
+Los Hechos de los Apóstoles - Jodami Jesucristo lalemaGajetilontaca. (1942). Buenos Aires, Depósito Central de la
+Sociedad Bíblica Británica y Extranjera.
+Messineo, Cristina. (2003). Lengua toba (guaycurú). Aspectos gramaticales y discursivos. München, LINCOM Europa.
+Rabasedas, María Inés. (2022). El adjetivo en mocoví (Familia Guaycurú). Morfología y sintaxis. [Tesis de doctorado].
+Universidad Nacional del Litoral. https://bitly.ws/Us2T
+Roy, Isabelle. (2013). Nonverbal predication: Copular Sentences at the Syntax-Semantics Interface. Oxford, Oxford
+University Press.
+Stassen, Leon. (1997). Intransitive predication. Oxford, Clarendon Press.
+Notas
+1 Abreviaturas: 1, 2, 3=primera, segunda y tercera persona; ALIE=alienable; DAC=demostrativo ‘acercándose’;
+DACOS=demostrativo ‘acostado’; DNP=demostrativo ‘ausente’; DPA=demostrativo ‘parado’; DPROX=demostrativo
+‘próximo’; ENDOF=endofórico; EXOFVIS=exofórico visible; FEM=femenino; GENT=gentilicio; INAL=inalienable;
+INTENS=intensiﬁcador; MASC=masculino; NEG=negación; PAC=paucal; PL=plural; POS=poseedor.
+2 En los ejemplos de los textos extraídos de los textos libres se incluyen las iniciales de los hablantes, el número de relato
+y de cláusula dentro del mismo.
+3 Cúneo et al. (2009, p. 7) señalan que, en toba, las formas léxicas que expresan cualidad tienden a anteponerse a
+la frase nominal cuando cumplen una función predicativa. En maká, la posición del lexema es siempre prenominal,
+independientemente de la función sintáctica que cumpla (Cúneo et al., 2009, p. 8).
+4 La presencia de morfología nominal de género y número es un rasgo también identiﬁcado en Cúneo et al. (2009, p. 7)
+para la variedad toba del Chaco, así como también por Rabasedas (2022, p. 77-84) para los adjetivos en mocoví.
+5 Este aspecto es analizado con profundidad en Rabasedas (2022). La autora señala que la presencia y/o ausencia del preﬁjo
+de posesión es un criterio morfológico válido que permite distinguir a la mayoría de los nombres de los adjetivos en
+mocoví. Así, los nombres llevan preﬁjo de posesión, mientras que los adjetivos no.
+6 De modo similar, el término “predicación nominal” es empleado por Stassen (1997) para designar a todos aquellos
+predicados que denotan clasiﬁcación o identidad de dos participantes normalmente expresados por frases nominales.

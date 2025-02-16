@@ -1,0 +1,651 @@
+25
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+DOSSIER
+Gaspar, Martín. “Ficción y cientificismo: Opendoor y Paraísos de Iosi Havilio y La co-
+memadre de Roque Larraquy”. Anclajes, vol. XXV, n.° 1, enero-abril 2021, pp. 25-42.
+https://doi.org/10.19137/anclajes-2021-2513
+Ficción y cientificismo: 
+Opendoor y Paraísos 
+de Iosi Havilio y La 
+comemadre de Roque 
+Larraquy 
+Martín Gaspar
+Bryn Mawr College
+Estados Unidos
+mgaspar@brynmawr.edu
+ORCID: 0000-0002-8314-9964
+Fecha de recepción: 02/06/20 | Fecha de aceptación: 10/09/20
+Resumen: La presencia del cientificismo positivista de fines del siglo XIX es legible en 
+novelas de Roque Larraquy (en particular, La comemadre, 2010) y Iosi Havilio (Opendoor, 
+2006 y Paraísos, 2011) ambientadas en parte o en su totalidad en el siglo XXI. Argumento 
+que Larraquy encuentra en instituciones y archivos finiseculares un tono narrativo y un 
+tipo de personaje y Havilio una motivación para una protagonista en general exenta 
+de pasiones. Para ambos novelistas, el uso del archivo está más emparentado con el 
+aprovechamiento narrativo que –por ejemplo, en las novelas del boom– con la búsqueda 
+de saberes revelatorios y centros de significación. La presencia edilicia y textual del 
+poco visitado cientificisimo positivista, por lo tanto, se presenta más emparentada con 
+la casualidad que con la indagación. De este modo, tanto las instituciones creadas en 
+esa época (un psiquiátrico, un sanatorio, un zoológico) como sus restos textuales (una 
+enciclopedia de botánica, un discurso inaugural, un relato de viajeros, la revista Caras 
+y Caretas) se recuperan en estas novelas contemporáneas desde respuestas afectivas 
+leves, como la curiosidad y el interés, y espacios de la serendipia y el abandono, como 
+el desván.
+Palabras clave: novela contemporánea; cientificismo; archivo; Iosi Havilio; Roque Lar-
+raquy
+Fiction and Scientism: Iosi Havilio’s Opendoor and 
+Paraísos and Roque Larraquy’s La comemadre 
+Abstract: The presence of late 19th century scientific positivism is evident in novels by 
+Roque Larraquy (especially La comemadre, 2010) and Iosi Havilio (Opendoor, 2006 and 
+Paraísos, 2011), set in part or entirely in the 21st century. I argue that Larraquy finds a nar-
+rative tone and character type in turn-of-the-century institutions and archives, whereas 
+Havilio procures a motivation for a protagonist otherwise devoid of passions. For both 
+26
+Martín Gaspar | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+novelists, the archive functions more as a narrative device than as a search for knowl-
+edge or meaning (as it does in boom novels). In this way, both the institutions created in 
+the late 19th century (a psychiatric residence, a hospital, a zoo) and the textual remnants 
+of the time (a botanical encyclopedia, an inaugural speech in a fin-de-siècle ward, a travel 
+narrative, the magazine Caras y Caretas) are retrieved in these contemporary novels 
+through light affective responses, such as curiosity and interest, and spaces of serendipity 
+and abandonment, like the attic. 
+Keywords: contemporary novel; scientism; archive; Iosi Havilio; Roque Larraquy
+Ficção e cientificismo: Opendoor e Paraísos de Iosi Havilio 
+e La comemadre de Roque Larraquy
+Resumo: A presença do cientificismo positivista do fim do século XIX é legível nos 
+romances de Roque Larraquy (especialmente, em La comemadre, 2010) e de Iosi Ha-
+vilio (Opendoor, 2006 e Paraísos, 2011) ambientados parcial ou inteiramente no século 
+XXI. Eu argumento que Larraquy encontra em instituições e arquivos do fim do século 
+um certo tom narrativo e um tipo de personagem, enquanto Havilio descobre uma 
+motivação para a criação de uma personagem isenta de paixões. Para ambos roman-
+cistas, o uso do arquivo está mais aparentado com o aproveitamento narrativo do que 
+–por exemplo, nos romances do boom– com a busca de saberes reveladores e centros 
+de significação. A presença edilícia e textual do pouco visitado cientificismo positivista, 
+portanto, parece mais próxima à casualidade do que à indagação. Desse modo, tanto 
+as instituições criadas nessa época (um hospício, um sanatório, um zoológico) como 
+seus restos textuais (uma enciclopédia de botânica, um discurso inaugural, um relato de 
+viajantes, a revista Caras y Caretas) são recuperadas nesses romances contemporâneos a 
+partir de respostas afetivas leves, como a curiosidade e o interesse, e espaços do acaso 
+e do abandono, como o sótão.
+Palavras-chave: romance contemporâneo; cientificismo; arquivo; Iosi Havilio; Roque 
+Larraquy
+E
+n 1899 se funda la Colonia Nacional Psiquiátrica Dr. Domingo 
+Felipe Cabred, donde se trataría a los pacientes con el revolucio-
+nario método escocés open door (de puertas abiertas), que pro-
+curaba la cura de enfermedades mentales ofreciéndoles a los internos libertad, 
+trabajo agrícola y bienestar físico y moral1. En 1902 comienza a funcionar el 
+Sanatorio Temperley, donde según anuncios aparecidos en Caras y Caretas de 
+1906 y 1907 se suministraba un revolucionario suero de origen británico que 
+curaba el cáncer (ver figuras 1-3). Estas instituciones, nacidas al calor de una fe 
+1	
+En el discurso inaugural de la Colonia, Cabred hace una breve historia de los asilos y concluye 
+que en el modelo Open-Door: “se derriban los muros interiores y exteriores y se suprimen las 
+rejas, […] se suprime casi totalmente el encierro celular; se concede permiso a gran número de 
+enfermos, para salir del asilo, bajo la palabra dada por ellos mismos de volver a él” (4-5). La po-
+blación inicial de Opendoor fue en parte seleccionada por su capacidad para la construcción y el 
+trabajo rural, por lo que muchos de entre quienes fueron enviados a la Colonia eran inmigrantes 
+recién llegados (Ablard 47). 
+27
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ficción y cientificismo: Opendoor y Paraísos de Iosi Havilio...: 25-42
+ardorosa en las posibilidades del progreso, la ciencia y la medicina occidental 
+característica de los albores del siglo XX se han convertido en lugares amenos 
+para un trío de ficciones contemporáneas: casi todo Opendoor (2006) y parte de 
+su continuación Paraísos (2012), de Iosi Havilio (Buenos Aires, 1974), transcu-
+rren en la actualidad en las inmediaciones de la institución psiquiátrica de Ca-
+bred y se adentran en ella; la primera mitad de La comemadre (2010), de Roque 
+Larraquy (Buenos Aires, 1975), está ambientada en el Sanatorio Temperley a 
+principios del siglo XX y su desenlace, a principios del XXI, vuelve a él2. No se 
+trata de una mera cuestión de ambientación: las ficciones remiten a estructuras 
+físicas y mentales del “largo siglo XIX” que, derruidas o deformadas por el paso 
+del tiempo, siguen intensamente vigentes3. Examinar este movimiento de ida y 
+vuelta –acudir a la ciencia de fines del siglo XIX en narraciones que ocurren a 
+principios del XXI– e interpretar sus motivos y consecuencias es el objetivo del 
+presente ensayo. 
+La división de La comemadre en dos partes hace patente ese contrapunto, 
+ya que los primeros dos tercios de la novela transcurren durante un experimen-
+to científico en el susodicho Sanatorio Temperley en 1907 y el tercio restante 
+está fechado en Buenos Aires en 2009. Tematizar experimentos de las ciencias y 
+pseudociencias finiseculares acaso sea una marca de la novelística de Larraquy: 
+su segunda y hasta ahora última novela publicada, Informe sobre ectoplasma ani-
+mal (2013), rastrea sucesivos intentos por captar y manipular la huidiza energía 
+espiritual o “ectoplasma” (un término acuñado en 1894) que dejan los animales 
+al morir4. Lo que sí sabemos es que ambas novelas de este autor siguen una poé-
+tica del anacronismo, reviviendo el cientificismo positivista. Valeria De los Ríos 
+señala que las dos novelas de Larraquy “se sitúan desde el presente y proyectan la 
+lectura biopolítica sobre el pasado que ficcionalizan, dando cuenta de jerarquías 
+y de la disponibilidad de los cuerpos para la vida y/o la muerte. El cuerpo, lo 
+material, es lo que persiste e interrumpe el tiempo, siendo capaz de transfor-
+marlo, de allí su potencia fantasmal sobre la políticas del presente” (226). Las 
+novelas ciertamente invitan a la lectura biopolítica, pero es clave agregar que en 
+ellas la sobriedad de la prosa chirría con unas teorías desopilantes ancladas en un 
+2	
+Hay puntos en común curiosos entre el psiquiátrico y el sanatorio. Además de fundar el psiquiá-
+trico Opendoor siguiendo el modelo escocés, Cabred fue, según reza una fotografía de la revista 
+Atlántida del 27/4/1922, “presidente de la comisión edificadora del Instituto Nacional para el 
+estudio del tratamiento del cáncer” (p. 21). El suero dispensado por el Dr. Leach en el Sanatorio 
+Temperley fue creado, según el artículo de Caras y Caretas por un catedrático de la Universidad 
+de Edimburgo, Jhon (sic) Beard. En Temperley se fundó en 1908 un instituto de alienadas de un 
+colega y colaborador de Cabred. 
+3	
+Adopto la noción de que “largo siglo XIX” de Eric Hobsbawn, quien consideró que el siglo 
+histórico comprende desde el inicio de la “Era de la Revolución” en 1789 hasta el final de la “Era 
+del Imperio” en 1914.
+4	
+Que este término fuera acuñado por Charles Richet, Premio Nobel de Medicina en 1913 por sus 
+hallazgos sobre la anafilaxis, da cuenta de la delgada línea que separaba en esos años la ciencia 
+de lo que ahora consideraríamos, sin dudar, pseudociencia.
+28
+Martín Gaspar | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+momento particular de la ciencia decimonónica. Si bien es cierto que las novelas 
+rescatan la vigencia del fervor científico y la manipulación amoral de cuerpos 
+humanos y animales también, como veremos, lo es que construyen un extraño 
+tono, entre el vodevil y el osado marketing de las publicidades de curas “radicales 
+e inmediatas” aparecidas en revistas como Caras y Caretas y vinculadas con las 
+novedades del saber científico5. 
+Opendoor y Paraísos, por su parte, transcurren exclusivamente en la actuali-
+dad y nada en ellas hay de desopilante; por el contrario, ambas están narradas 
+con “el mismo tono indolente, austero, […] impersonal” (Yelin 19). Leer el 
+siglo XIX y sus secuelas en estas novelas pareciera ir en contra de lo que parecen 
+proponer. Ostensiblemente, se parecen a las novelas contemporáneas de “línea 
+etnográfica” descriptas por Sarlo en un artículo de 2006 (año de publicación de 
+Opendoor) por su aparente interés en “el presente no como enigma a resolver 
+sino como escenario a representar” (2). Alice Favaro lee Opendoor dentro de esta 
+categoría, como una novela en que “[e]l discurso de la ficción se convierte en 
+urgencia de representación de la realidad, superando el neofantástico, el relato 
+testimonial, la novela histórica” (341). Las presencias de lo animal (algo que ana-
+liza Julieta Yelin) y lo monstruoso (que identifica y sobre lo que elabora Favaro), 
+además, las hacen acuciantemente actuales: invitan a teorizar temas que cautivan 
+el presente interés en el posthumanismo y la relación humano-animal, la “vida 
+desnuda”, así como la noción de “margen” en la literatura contemporánea6. Sin 
+embargo, el archivo que recuperan estas novelas de Havilio y las diégesis en que 
+están parcialmente ambientadas remite directamente a la ciencia de fines del 
+siglo XIX, en particular, a la psiquiatría y a la biología, y a sus respectivas insti-
+tuciones. Y esto tiene consecuencias en las tramas. Volviendo, pues, a la cuestión 
+inicial, pero calibrándola un poco: ¿por qué estos novelistas visitan en sus fic-
+ciones ese particular momento en la historia de la ciencia, con sus instituciones, 
+geografías y archivos? ¿Qué produce la inserción de este pasado en particular en 
+sus novelas? 
+Sobre la chifladura científica: La comemadre
+Comencemos a buscar respuestas analizando La comemadre, una novela en 
+que el contrapunto entre lo contemporáneo y el fin de siècle hace a su forma. El 
+5	
+En el mismo número (9 de febrero de 1907) donde figura la cura del cáncer ofrecida por el Sa-
+natorio Temperley, aparece un anuncio de “Iperbiotina” (“¡El nervio de la vida! Este admirable 
+preparado rejuvenece los organismos gastados prematuramente”); “Blenol’” (cuyas cápsulas “[c]
+uran rápidamente las enfermedades de los riñones, vejigas y anexos”; “Pilol” (“regenador de 
+cabellos”); “Stomalix” (que cura “[e]l 98% de los enfermos del estómago y los intestinos”; “Anu-
+sol” (“cura radical e infalible” de las hemorroides), entre otros. En el número del 26 de enero de 
+1907 aparece un artículo de dos páginas sobre “La curación del cáncer en la República Argentina” 
+que se refiere a las instalaciones del Sanatorio Temperley y sus “cancerosos curados” (s/n).
+6	
+Ricardo Piglia instaló este último elemento del debate crítico en su ensayo “Tres propuestas para 
+el próximo milenio (y cinco dificultades)”, originariamente publicado en 2001. 
+29
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ficción y cientificismo: Opendoor y Paraísos de Iosi Havilio...: 25-42
+protagonista y narrador de la primera parte de la novela es un médico, el doctor 
+Quintana, y el de la segunda un artista de bioarte anónimo que narra su trayec-
+toria en retrospectiva, comentando el borrador de una tesis doctoral que se está 
+escribiendo sobre él y creando así un extracto de Künstlerroman autobiográfico. 
+El Dr. Quintana cuenta en su diario las peripecias de un experimento basado 
+en el dato de que después de ser guillotinadas, las personas tienen conciencia 
+durante nueve segundos antes de morir. (Este tipo de información, lejos de ser 
+inusitada, circulaba en la época; el Dr. Gabriel Beaurieux registró un fenómeno 
+similar durante una decapitación de un criminal ocurrida el 28 de junio de 
+1905, Standish 140-41). En la novela, el doctor Ledesma, un adlátere del dueño 
+del hospital, describe el experimento así:
+Esta es la propuesta: seleccionamos pacientes terminales. Les cortamos la cabeza 
+de modo de no lastimar el aparato fonador, técnica que ya he practicado exitosa-
+mente con palmípedos y que ya explicaré, y pedimos que la cabeza nos cuente en 
+voz alta qué percibe. Por el intento recibimos una excelente paga a expensas de Mr. 
+Allomby. (26)
+Las palabras de Ledesma son representativas de la conducta de los científicos 
+y sus experimentos: los humanos son tratados como palmípedos; los pacientes 
+(luego llamados “donantes”), como cabezas fónicas; el dinero, como incentivo 
+principal. Al cabo de varios intentos y de descubrir que las cabezas cercenadas, 
+cuando dicen algo en esos segundos liminales, son sólo palabras o frases sueltas, el 
+propio Quintana idea este diseño: “Varias máquinas en círculo. Los donantes mi-
+rándose entre sí. Las guillotinas activándose en serie cada nueve segundos. Cada 
+cabeza continúa la frase de la anterior hasta conformar una oración completa, un 
+párrafo. Una estrofa, dice [el Dr.] Gigena” (90). Todo esto es en parte ciencia y en 
+parte estética (¿párrafo o estrofa?) pero sobre todo es espectáculo, algo que verifi-
+camos en el deslizamiento de un comentario de Ledesma: “[Ledesma] dice envi-
+diar a los donantes porque ‘de ellos será la Verdad en nueve segundos’. Se corrige 
+y cambia Verdad por Plenitud, y luego Plenitud por Espectáculo, sin renunciar a 
+las mayúsculas” (69). Tenemos aquí un claro contacto entre este experimento y el 
+bioarte: ambos producen una escena observable para un grupo de espectadores, 
+usando el cuerpo como materia prima y la tecnología para impactarlo. Aunque el 
+espectáculo sea ostensible en la segunda parte de la novela porque lo crea un ar-
+tista, Claire Mercier y Bernardo Rocco señalan que ya está presente en la primera 
+parte también: “el capital de cabezas decapitadas se convierte, mediante la lógica 
+mercantista y salvaje de médicos asesinos, en un espectáculo estético que opera 
+radicalmente sobre el cuerpo de ‘donantes’” (86-87). 
+¿De dónde salen estos donantes? Larraquy tomó el aviso sobre la cura on-
+cológica aparecido en Caras y Caretas y lo imaginó como una trampa tendida a 
+enfermos de cáncer para atraerlos al sanatorio y luego engañarlos o convencerlos 
+(los médicos intentan ambos métodos) para que dieran su vida a la ciencia. En-
+30
+Martín Gaspar | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+contró allí un origen para su novela. Y lo combinó con una máquina –la guillo-
+tina que presenta Ledesma al cónclave de médicos–, adornada y de bello diseño, 
+como las que solían acompañar a los personajes de Julio Verne en sus explora-
+ciones7. Agregó entre otros el dato de “la comemadre”, un insecto patagónico 
+que come y desintegra cuerpos con gran eficiencia y que es útil para descartar los 
+restos humanos del experimento: un monstruo comparable a los que aparecían 
+también en el Caras y Caretas de la época, en secciones sobre hallazgos de la bo-
+tánica o ficciones como las de Horacio Quiroga, quien empezó a colaborar con 
+la revista en 1905 (Leites 84).
+Hay que aclarar que, como señaló De los Ríos, el parecido de la novela no 
+es con la tradición argentina de ficción científica (Ladislao Holmberg, Leopoldo 
+Lugones u Horacio Quiroga) porque la novela de Larraquy muestra, al contrario 
+de éstas, “un racionalismo descarnado” que demuestra “que la espiritualidad o la 
+trascendencia es sólo una excusa para la ciencia y que la experimentación puede 
+convertirse en una más de las formas de practicar un arte mercantilizado y pole-
+mizante” (216). Se parece, como señala Daniel Gigena, a las ficciones científicas 
+del siglo XIX “que reciclaban argumentos ‘imposibles’ y hacían accesible la cien-
+cia al vulgo” (s/p). Se trata de una parodia, pues, bizarra y teñida de ridiculez. 
+Abundan las frases cómicas, al estilo de “Hay que cambiarse de simio. Quintana 
+viril, Quintana arremete” (38); “Preferiría dejar las braguetas en paz” (47); “Le 
+voy a llenar la cara de pruebas” (15). Presenciamos la cómica persecución de un 
+pato: “Chasquea los dedos y lo llama como si fuera un perro. Naturalmente, el 
+animal lo ignora” (46). Y, sobre todo, nos asomamos a una comunidad de docto-
+res (higienistas, frenólogos, lombrosianos) que se mueven en un aire de slapstick: 
+“Papini, propulsado por el envión entusiasta de quien ve llegar a sus amigos, 
+choca contra la mesa volcando una copa” (54); “algún rezagado tropieza con los 
+pies de otro, cayendo contra la puerta del despacho. La puerta cede. Vemos a 
+Ledesma en cuatro patas debajo de su escritorio” (19); “El doctor Gurian se mete 
+los dedos en la boca, extrae su dentadura postiza y habla con ella. La dentadura 
+es locuaz y la charla corre principalmente por su cuenta” (26). 
+La comicidad vodevilesca al estilo de Los tres chiflados de la primera parte pre-
+para La comemadre para la devastadora crítica al bioarte que es la segunda, donde 
+el tono es más neutro y recatado, y por lo tanto más inquietante. Allí el artista 
+narrador corrige el estudio sobre su vida que lee en una tesis y en ese proceso na-
+rra su infancia como niño prodigio (con presentaciones en el programa de Silvio 
+Soldán incluidas), seguida de una serie de intervenciones que comienzan con 
+tatuajes en la frente, pasan por la utilización de manos de muertos animadas por 
+7	
+“La tapa superior [de la guillotina] tiene en el centro un amplio orificio circular, rodeado por la 
+palabra ergo tallada en caracteres latinos. Bajo la tapa hay una cuchilla que se dispara horizontal 
+y con la fuerza y velocidad de una ballesta. En los laterales, con los bustos de Luis XVI y María 
+Antonieta en relieve, se lee cogito y sum, respectivamente” (20). Roland Barthes señala, en 
+“Nautilus y el barco ebrio” que en las novelas de aventuras de Verne se destila un confort burgués 
+encapsulado en instrumentos ornamentados y elementos como las pantuflas. Algo similar parece 
+estar presente en esta guillotina. 
+31
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ficción y cientificismo: Opendoor y Paraísos de Iosi Havilio...: 25-42
+un dispositivo, la modificación de partes del cuerpo (inclusive su propio rostro) 
+y llegan, hacia el final, a la utilización de la comemadre: inoculada en la pierna 
+de una persona, se la va comiendo mientras pedalea en una bicicleta fija. En esta 
+secuencia el artista actúa siguiendo la “Ley de Rendimientos Decrecientes” que 
+describe César Aira en “Sobre el arte contemporáneo”: las obras del artista con-
+temporáneo van siendo cada vez más transgresoras y causando cada vez menos 
+asombro (52-53). 
+En esta segunda parte nos asomamos detrás de bambalinas para ver el cálculo 
+del espectáculo bioartístico mediante conversaciones del artista con Lucio Lavat 
+(admirador, doble y amante del narrador) sobre cómo crear éxitos en el mundo 
+hiperinstitucionalizado del arte contemporáneo actual. Como señalan Mercier 
+y Rocco, en cierto sentido la segunda parte de la novela retoma la idea de la es-
+pectacularización del experimento “desde una perspectiva desviada y ética” por 
+utilizar su propio cuerpo y no el de “donantes” (87). Por otro, también es im-
+portante subrayar que el artista utiliza el cuerpo de otro personaje, Sebastián, a 
+quien convence para dejarse comer por la comemadre. ¿Qué pervive, entonces, 
+de los experimentos de principios del XX en el arte contemporáneo? Una hubris 
+posibilitada por la situación periférica que conlleva impunidad8. “[V]amos a 
+hacerlo porque tenemos con qué, y porque se nos ocurrió primero”: esta frase la 
+dicen tanto el Dr. Ledesma (35) como el artista quien, cien páginas y más de un 
+siglo después, la repite verbatim (140). Y escuchamos otros ecos nítidos cuando 
+el Dr. Quintana convence a un “donante” usando “palabras de épica” mientras 
+que el artista, un siglo después, crea un “clima de gesta [que] favorece el sí fácil” 
+(142) de Sebastián. 
+Los discursos de los científicos y del artista se anudan geográfica y simbóli-
+camente en un lugar: el Sanatorio Temperley9. Lucio y el narrador van al campo 
+para recuperar “la idea de la continuidad, la ilusión de un programa y la mítica 
+de las pampas” (85); en otras palabras: la identidad nacional por la vía gauchesca. 
+Nada más decimonónico, aunque ahora pretenden hacerlo buscando “una vaca 
+8	
+Así como en la ficción de 1896 de H. G. Wells el fisiólogo Dr. Moreau no pudo realizar sus 
+sádicas vivisecciones en Londres y las trasladó a una isla en el Pacífico, Mr. Allomby ubica en 
+Argentina y en Temperley, la periferia de la periferia, el lugar para su forma guillotinesca de la 
+vivisección. En la segunda parte de la novela, dinero de origen europeo permite sobornar al en-
+cargado del Hospital de Clínicas para conseguir manos de muertos para una instalación (129).
+9	
+El Temperley geográfico se encuentra a 30 km al sur de Buenos Aires capital y en 1907 se podía 
+llegar allí cómodamente en los “Ferrocarriles del Sur”. Sin embargo, la primera parte de la novela 
+remite a un sur más distante, aquel donde el Dahlmann de Borges llega en tren a encontrar su 
+destino y perder la vida. El Dr. Quintana, quien está a cargo de la guardia nocturna, comenta: “Mis 
+pacientes son hombres que se trenzan a cuchillo en alguna fonda cercana y agradecen nuestra dis-
+creción ante la ley” (13). Es un lugar donde los instintos no se terminan de reprimir y las pasiones 
+se dirimen con violencia. Donde un mismo doctor atiende personas acuchilladas, sumerge en agua 
+helada a una supuesta enferma mental con delirios y compite por obtener la mayor cantidad de 
+sujetos para un experimento que acabará con sus vidas. Donde es difícil calibrar el límite entre 
+lo literal y lo metafórico. Sintomáticamente, Papini responde a Quintana varias veces: “Es una 
+metáfora, Quintana” (15); “Usted me interpreta muy literalmente, Quintana” (16), etc. 
+32
+Martín Gaspar | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+‘para plastificar en situación de pastoreo’”. El intento fracasa por la incapacidad 
+de comunicación (“el idioma incomprensible de los peones”) y por un territorio 
+hostil: Lucio tiene un accidente con un alambre de púas y se suspende el intento. 
+“[L]o más cercano a la ciencia que hay en el lugar” (86) es un veterinario, que 
+hace lo que puede y lo deriva al Sanatorio Temperley. Es allí donde encuentran 
+la comemadre, preservada en unos frascos, y cuyas larvas reviven con un goteo 
+de agua al cabo de unas semanas. 
+Ellas constituyen un siglo XIX disecado pero no muerto, a la espera de ser 
+visitado y revivido. Un siglo que está ubicado en un espacio fronterizo: la fron-
+tera entre el campo y la ciudad en el que la “civilización” se barbariza o que, si 
+la pensamos como Walter Benjamin, muestra su verdadera faceta bárbara. Tem-
+perley es el territorio donde experimentos como los planeados por Ledesma son 
+posibles. Del mismo modo, es en Temperley donde residen tanto la comemadre 
+como su víctima futura: Sebastián. Temperley, una sinécdoque de la Argentina 
+como cifra de la mítica de las pampas. 
+Del psiquiátrico al zoológico: 
+los archivos de Opendoor y Paraísos
+Opendoor comienza con un viaje de la ciudad a las afueras, esta vez no al 
+sur como en La comemadre, sino al oeste. “Por la ventanilla pasan la llanura, los 
+countries, y las vacas” (9): la ciudad se va desgarrando hacia sus límites. La prota-
+gonista es enviada al pueblo de Opendoor a curar a un caballo de nombre Jaime, 
+cuyo dueño –en un dato de ensoñación y simetría– se llama también Jaime. La 
+novela transcurre en viajes de ida y vuelta entre la ciudad y el campo y termina 
+en este último. En un ambiente que Beatriz Sarlo describió en la contratapa 
+como “una irresistible normalidad fantasmal”, Paraísos, su continuación, transita 
+la dirección opuesta, de Opendoor a la ciudad, y termina con la protagonista 
+envuelta en un robo y calcando el dibujo de una serpiente –el último capítulo de 
+la novela es ese dibujo– cuya “cabeza no tiene fin” (347). 
+Las novelas se mueven entre un caballo agonizante y una serpiente dibujada 
+que, como veremos, remiten al siglo XIX. En medio, encontramos peripecias 
+que no parecen revelar un telos ni una orientación definidas. La narradora tiene 
+sucesivos vínculos que jalonan su vida: una primera novia (Aída), cuya muerte 
+se presenta como enigma al principio de Opendoor; luego, Jaime (el dueño del 
+caballo tocayo, con quien tiene un hijo y quien muere al principio de Paraísos), 
+y, sobre todo, Eloísa (la joven lugareña que, a puro desenfreno, moviliza las 
+acciones de la trama en ambas novelas). Al comparar Opendoor con El niño 
+pez, Blanco y Petrus apuntaron que la narradora de la novela de Havilio actúa 
+“impulsada por un ars amatoria plagado de juegos auto/eróticos lesbianos, maso-
+quistas, altruísticos” (312-13), aunque esto se registra más en la novela de Lucía 
+Puenzo. No parecen desprenderse deseos personales estridentes en las novelas de 
+Havilio; como señala Yelin, la voz narradora “está tomada por su propia apatía; 
+33
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ficción y cientificismo: Opendoor y Paraísos de Iosi Havilio...: 25-42
+avanza sin voluntad, sin proyecto, sin ilusiones, atada a una mera necesidad y 
+a la demanda de los otros” (29). Son novelas del devenir, envueltas en un “caos 
+permanente” e intrigas irresueltas (Bertazza). Una frase ambigua que encuentra 
+la protagonista en un almanaque parece resumir esta irresolubilidad y la grisura 
+general de sus intenciones: “No sacar de la luz humo, sino humo de la luz” (95). 
+¿Qué significa ese “sacar”? ¿Eliminar o extraer, descartar o rescatar? ¿Qué moti-
+vación se desprende de esta ambigüedad?
+Esta carencia general de dirección cierta (y de respuestas) hace llamativos 
+ciertos centros de interés asociados particularmente con el XIX: aquel caballo 
+inicial y serpiente final del díptico Opendoor-Paraísos. La primera oración de 
+Opendoor combina una “demanda de los otros” con un interés personal: “Cuan-
+do la dueña de la veterinaria me dijo que tenía que ir a Open Door a revisar un 
+caballo, no protesté, la idea me divirtió. Open Door, sonaba raro” (9, mi énfasis). 
+La curiosidad inicial por este lugar se vuelve obsesión durante la novela, antes 
+de hacerse humo. Y en Paraísos también: allí el dibujo del reptil final tiene un 
+valor terapéutico. En esta novela, luego de un robo exitoso, agotadísima pero 
+temerosa de caer en un estadio gris de la conciencia, busca un lugar del que asirse 
+en la serpiente: “me aterra cerrar los ojos y quedar atrapada en los círculos del 
+insomnio. Para serenarme, me pongo a calcar lo que queda de la serpiente” (347, 
+mi énfasis). Divertirse y serenarse, dos tenues motivaciones. Entre ellas transitan 
+las novelas, entre el caballo que inicia Opendoor en un lugar fundado en 1899 
+por el Dr. Cabred y la serpiente que cierra Paraísos y que aparece en un libro de 
+Eduardo L. Holmberg, también de 1899. Entre el creador de un psiquiátrico y 
+el de un zoológico aún vigentes10. 
+La presencia del siglo XIX es aún más llamativa porque suscita un interés 
+letrado por parte de una protagonista cuya vida transita casi siempre en la co-
+tidianeidad del presente y la materialidad de lo orgánico: los animales, las pul-
+siones corporales, lo “dionisíaco” (Bertazza), el mundo sensorial, las drogas, la 
+muerte, el embarazo y la maternidad, la supervivencia. En Opendoor, este interés 
+letrado produce un archivo de textos decimonónicos que conduce a un delirante 
+catálogo obsesivo de “tipos de locos” por parte de la narradora. En Paraísos, la 
+protagonista transita una ciudad que parece empeñarse en mostrarle escombros 
+edilicios y textuales del XIX. Repasemos estas presencias decimonónicas en las 
+dos novelas y su función narrativa.
+En Opendoor, a poco de instalarse en la casa rural de Jaime, la protagonista 
+encuentra cajas sobre un ropero y en ellas un libro –que no es de él y que según 
+él dice “siempre” estuvo ahí– que resulta ser En Argentine, De Buenos Aires au 
+Grand Chaco, escrito por Jules Huret, publicado en París en 1911 y dedicado “Al 
+Dr. Domingo Cabred, gran criollo y visionario” (84, 91, 89). El hallazgo de a poco 
+la pone en marcha y la lleva a formar una colección: hace traducir las partes de 
+ese texto que se refieren a la colonia psiquiátrica; se topa con una publicación 
+10	 El zoológico dejó de funcionar en 2016, cuatro años después de la publicación de Paraísos.
+34
+Martín Gaspar | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+de la zona cuya nota central, sobre la historia de Opendoor, tiene “algunas fo-
+tografías, los primeros pobladores, la llegada del tren, una fiesta en el granero, 
+todas en blanco y negro”; encuentra una hoja amarillenta con el texto “La em-
+briaguez y la locura, por Domingo Faustino Sarmiento”; le dan una fotocopia 
+del discurso inaugural de Cabred (91, 122, 148). Llamativamente, la novela de 
+lo orgánico y de la “vida pura” se puebla de texto: varias de sus páginas son citas 
+de pasajes, transcripciones, pasajes de la traducción. Al cabo nos enteramos de 
+que la narradora ha ido construyendo su propio texto, que es superficialmente 
+estable (“Son como cincuenta páginas o más, las primeras escritas a mano y a 
+doble faz, las demás son hojas impresas de la computadora, tipografía normal, a 
+doble espacio. […] No es más que eso, un conjunto de oraciones concatenadas 
+con suficiente sentido común”, 187) pero que oculta una delirante obsesión: 
+[D]urante casi cinco meses tuve la cabeza colmada de locos: locos a caballo, locos 
+albañiles, locos uniformados, de azul, de naranja, y combinando, pantalón azul y 
+buzo naranja, locos sin ropa, desnudándose en el medio de algo, locos que amasan 
+pan a cuatro, seis y ocho manos, locos de antes, alienados, menos neuróticos y más 
+locos, locos que no aparecen, que se muerden los labios, apenas, como cualquier otro, 
+pero que sólo piensan en eso, en morderse los labios, locos medio filosóficos, de esos 
+que dicen cosas que nos dejan boqueando, como diciendo: Mirá lo que dijo el loco, 
+locos perdidos, locos que muelen a palos, a garrotazos limpios, y que un día, sin ex-
+plicación, empiezan a recibir menos golpes, o a escondidas, lejos de la mirada de los 
+otros locos, y más, muchos más, todos, locos muertos, como el que Jaime encontró 
+entre las malezas del vivero, con los ojos abiertos, casi albino, como ese que apareció 
+colgado de una rama sobre el horno de barro, con los pies manchados de hollín por 
+el humo que seguía saliendo, y los locos que nadie busca, que nadie reclama, que se 
+llaman de cualquier manera, el nombre que venga, locos cogiendo, que no acaban 
+más, todos los locos, en fila, listos para entrar en el catálogo, locos inventados, que son la 
+gran mayoría porque inventar locos es fácil, nadie se equivoca inventando locos, siempre 
+puede ser. (187, mi énfasis)
+“La locura es contagiosa” (63), señaló Arlt en una de sus aguafuertes. La 
+lectura del archivo del XIX sobre la locura insinúa, en Opendoor, esa misma po-
+sibilidad de contagio. Volver al psiquiátrico y asomarse a su archivo produce la 
+fiebre de la imposibilidad de su final: ese “siempre puede ser” que está en la raíz 
+de lo que Jacques Derrida llama “mal de archivo”. Asomada al delirio, la prota-
+gonista da un paso atrás: “Están ahí, aunque ya no me interesen, dictándome 
+un montón de frases, pero ya no es lo mismo. Me aburro” (187). Desinterés y 
+aburrimiento, emociones leves y pasajeras, exactas antónimas de la diversión y 
+la curiosidad iniciales. 
+En Paraísos el archivo es otro. Siguiendo la afirmación de Roberto González 
+Echeverría de que la institución de la morgue es un archivo (“de cadáveres y 
+documentos clasificados y certificados”, 9), podemos afirmar que el zoológico 
+donde trabaja la protagonista es un archivo de animales, y también lo es el tomo 
+35
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ficción y cientificismo: Opendoor y Paraísos de Iosi Havilio...: 25-42
+de la enciclopedia perteneciente a su creador, Eduardo Ladislao Holmberg, don-
+de se clasifican animales y figura la serpiente que cierra la novela en el capítulo 
+treinta y seis. Como en Opendoor, es el trabajo lo que lleva a la protagonista a 
+asomarse a la institución decimonónica (la contratan para controlar el reptilia-
+rio) y es la casualidad lo que la confronta al libro datado en 1899: lo encuentra 
+estropeado entre el desperdicio de “un volquete repleto de escombros y basura” 
+(62). Forrado en arpillera y con un sello que dice “Biblioteca de Eduardo La-
+dislao Holmberg”, se trata de un volumen de Albertus Seba, el célebre zoólogo 
+holandés cuyo trabajo sería la base de la taxonomía de Linneo. Lo hojea con 
+curiosidad: 
+Este tomo se trata mayormente de ilustraciones de reptiles, anfibios y plantas. Ser-
+pientes de todos los colores y tamaños, gordas, a rayas, por cazar y cazando. También 
+algunas ranas, lagartijas y un cisne inexplicable que no guarda ninguna proporción. 
+Paso las páginas y me doy cuenta de que los animales tienen formas muy humanas. 
+Hay lagartos con rasgos y actitud de hombre, serpientes con cara de mujer. A veces 
+medio androides. Entre la ciencia y lo grotesco. […] Repaso algunas figuras, descu-
+bro otras que se me escaparon en la primera hojeada. Por ejemplo, la de este hurón 
+sentado sobre sus patas mordisqueando una pera o la disección de un sapo con las 
+vísceras a la vista y sus partes numeradas. (85)
+La protagonista quiere saber más. En un puesto callejero se topa con Nic-Nac 
+en el planeta Marte, de Holmberg, y, sin comprarlo, lee de pasada su biografía en 
+la solapa (132). Y después, un día de año nuevo, vuelve sobre el libro que per-
+teneció al director más importante en la historia del zoológico de Buenos Aires: 
+“Repaso las páginas y una de las ilustraciones queda cubierta por una lámina 
+transparente que desata un impulso inmediato. Me pongo a calcar una serpiente 
+que ocupa una página entera, la Corallus hortulanus o Boa de jardín. Así empiezo 
+el año” (164-65). 
+Hay ecos de Opendoor en todo esto: la aparición de un libro perteneciente 
+a una figura decimonónica (una aparición descripta por la narradora con total 
+ambigüedad como “[s]eñal del destino, descuido del azar, ni la una ni la otra”); 
+la indagación de su origen; la lectura y reproducción de su contenido (62). Y 
+más: un catálogo de animales que son como personas (en Paraísos); un catálogo 
+de posibles locos (en Opendoor). Como en La comemadre, como en Opendoor, 
+el siglo XIX en Paraísos se rehidrata y eso tiene sus consecuencias: el psiquiátri-
+co que produjo inquietud en la novela del caballo produce sosiego en la de la 
+serpiente. 
+Larraquy y Havilio: el desván del siglo XIX 
+Las visitas de la novela contemporánea al largo siglo XIX pueden ser lite-
+rarias: pensemos en las intervenciones de Gabriela Cabezón Cámara y Oscar 
+Fariña, quienes van a la epopeya nacional para reconvertirla en clave feminista o 
+36
+Martín Gaspar | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+poética villera en Las aventuras de la China Iron (2017) y El guacho Martín Fierro 
+(2011), respectivamente. En otras ocasiones las visitas tematizan elementos del 
+XIX, como el cautiverio y la literatura de viajes y las exploraciones, como hace 
+César Aira en La liebre, Un episodio en la vida del pintor viajero (2000) y antes en 
+Ema, la cautiva (1981), Pedro Mairal en El año del desierto (2005) y Pola Oloixa-
+rac en Las constelaciones oscuras (2015). El caso de las novelas de Havilio y Larra-
+quy acuden a otro espacio: el desván donde residen las secuelas de aquello que, 
+según Oscar Terán, fue “la matriz mental dominante durante el periodo 1880 
+y 1910 en Argentina y América Latina” (11): el positivismo. Larraquy apunta a 
+los excesos del positivismo cientificista cuando se topa con el gran misterio de 
+la muerte: imagina un empirismo rampante que cercena cabezas para obtener 
+datos del más allá (La comemadre) y una institución abocada a captar energía 
+espiritual y manipularla (Informe sobre ectoplasma animal). Havilio por su parte 
+apunta a instituciones típicas del positivismo y su afán por el orden, el catálogo 
+y los límites, sean éstos impuestos a personas (el psiquiátrico de Opendoor, y 
+también en esa novela la morgue judicial, fundada en 1908) como a animales (el 
+zoológico y la enciclopedia de Paraísos). 
+Digo desván porque el positivismo de fin de siglo de estas novelas aparece en 
+materiales polvorientos, curiosidades que llaman la atención, pero que no ameri-
+tan que se las baje a la biblioteca, tan relevantes como una colección de estampillas 
+–un clásico de los desvanes– que se observa, indaga y cierra. Que nunca va a dar 
+respuestas. En una entrevista a Larraquy, Silvina Friera comenta que el origen de 
+La comemadre fue cuando el autor, “[r]evolviendo archivos, se topó con una ‘ju-
+gosa’ publicidad” en Caras y Caretas (s/p). Podemos imaginar ese archivo en un 
+desván y esa visita en el origen de la novela de Larraquy. De manera similar, en las 
+dos novelas de Havilio la protagonista que produce textos (un escrito, un dibujo) 
+es atraída primero por un libro oculto que “siempre estuvo ahí”, sobre un ropero, 
+en Opendoor y, en Paraísos, por otro libro que podría haber salido de un desván y 
+ahora está rodeado de basura, estropeado, envuelto en arpillera. 
+En otras épocas –en las novelas del boom, por ejemplo– el hallazgo y la recu-
+peración de textos perdidos solía producir un origen y una historia (o contrahis-
+toria) basada en el saber literario: pensemos en la apoteósico final de Cien años 
+de soledad, con la desesperada traducción de los pergaminos de Melquíades, y en 
+los otros ejemplos que menciona González Echeverría en Mito y archivo. Pero 
+eso ha quedado en el pasado. Las novelas de Larraquy y Havilio son indiferen-
+tes a eso que Nietzsche llamó “cultura histórica”: no desean hacer sentido de la 
+historia, reescribirla, encontrar orígenes y en ellos, causas (39)11. No buscan sino 
+que “revuelven”, más bien se pasean por los materiales del siglo XIX como quien 
+los visita para curiosear.
+11	 Nietzsche se refiere en general a los perjuicios de atar el presente al pasado o usar el pasado 
+como modelo. En el caso de las novelas del boom, el pasado se vuelve examinado y reescrito. Por 
+apego o por rechazo, el siglo XIX europeo que describe Nietzsche y las novelas de la segunda 
+mitad del siglo XX evidencian una “cultura histórica”.
+37
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ficción y cientificismo: Opendoor y Paraísos de Iosi Havilio...: 25-42
+Las emociones que despiertan los elementos archivados en el desván son 
+asordinadas y pasajeras. Más aún si se las compara con las que produce el archivo 
+en el boom. Según Jerónimo Arellano, Gabriel García Márquez recuperó la tra-
+dición del Wunderkammer (“cámara de maravillas”) de finales del siglo XVI para 
+crear un espacio destinado a maravillar y asombrar. Muy diferente es la respuesta 
+afectiva que encontramos en las novelas de Havilio y Larraquy. Si seguimos el 
+rastro de la protagonista en Opendoor, vemos que se interesa en el libro escrito 
+por Huret de a poco, luego se obsesiona brevemente y, por último, se aburre del 
+tema y pasa a otra cosa12. En Paraísos, se ve atraída por los dibujos del libro de 
+Seba y lo calca meramente para calmarse. Su interés por la vida de Holmberg 
+también es liviano: “Me pregunto quién habrá sido. Paso la yema del dedo pul-
+gar por las protuberancias del papel, es una sensación agradable, casi cosquillas” 
+(84-85). En estas dos novelas los textos del XIX producen emociones pasajeras: 
+curiosidad, entretenimiento, cosquillas. Ciertamente podemos decir lo mismo 
+del texto que encuentra Larraquy, una publicidad que resulta “jugosa” y dispara 
+la imaginación, pero que no parece contener una clave para un enigma sino que 
+constituye más bien un toque de color para imaginar un tono para la novela. 
+Es cierto que cada tanto se perciben ecos entre ese archivo y nuestra cultura 
+actual. Las curas radicales para el virus pandémico que aparecen en Youtube evo-
+can el anuncio de Caras y Caretas; el candente tema de la “desmanicomización” 
+recuerda instituciones como la de Cabred; la preservación de la fauna y flora 
+en células madre de animales y plantas remite a catálogos biológicos y espacios 
+decimonónicos como el zoológico y el jardín botánico. Pero también es cierto 
+que la fascinación, o mejor dicho la curiosidad, que producen los materiales del 
+XIX en estas novelas está vinculada con un orden y una temporalidad estables 
+que ya, para bien o para mal, quedaron abandonados en un desván. A la espera 
+de nuevas visitas.
+12 	 Lo encuentra en el capítulo 14 y no es sino hasta el 20 que lee, a la pasada, el principio de la 
+traducción. 
+38
+Martín Gaspar | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+Figura 1
+Caras y Caretas, n.° 409, 4 de agosto de 1906, pág. 73. 
+39
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ficción y cientificismo: Opendoor y Paraísos de Iosi Havilio...: 25-42
+Figura 2
+Caras y Caretas, n.° 436, 9 de febrero de 1907, p. 5.
+40
+Martín Gaspar | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+Figura 3
+Caras y Caretas, n.° 450, 18 de mayo de 1907, p. 27
+Referencias bibliográficas
+Ablard, Jonathan. Madness in Buenos Aires. Patients, Psychiatrists, and the Argen-
+tine State, 1880-1983. Calgary, University of Calgary Press, 2008.
+Arellano, Jerónimo. “From the Space of the Wunderkammer to Macondo’s Won-
+der Rooms: The Collection of Marvels in Cien años de soledad”. Hispanic 
+Review, vol. 78, n.° 3, Summer 2010, pp. 369-386. https://doi.org/10.1353/
+hir.0.0124
+Arlt, Roberto. “Un cuidador de locos se ahorcó en el Hospicio de las Mercedes”. 
+Aguafuerte Porteñas. Buenos Aires, Corregidor, 1995, pp. 63-65.
+Barthes, Roland. “Nautilus y el barco ebrio”, Mitologías, traducción de Héctor 
+Schmucler. México, Siglo XXI, 1980, pp. 48-49.
+Bertazza, Juan Pablo. “Pueblo chico”. Página/12, 11 de marzo de 2011. 
+41
+ XXV.1 (enero-abril 2021) ISSN 1851-4669 | Ficción y cientificismo: Opendoor y Paraísos de Iosi Havilio...: 25-42
+Blanco, Fernando y John Petrus. “Argentinian Queer Matter. Del Bildungsroman 
+urbano al Road Movie rural: infancia y juventud post-corralito en la obra de 
+Lucía Puenzo”. Revista de Crítica Literaria Latinoamericana, año 37, n.° 73, 
+2011, pp. 307-331.
+Cabred, Domingo. “Discurso inaugural de la Colonia Nacional de Alienados”. 
+Revista Argentina de Psiquiatría Vertex, vol. II, n.° 3, 1991, pp. 1-8.
+Caras y Caretas. Acceso por la Biblioteca Digital Hispánica. <http://www.bne.es/
+es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html>
+De los Ríos, Valeria. “Ciencia, animal y fantasma en La comemadre e Informe 
+sobre ectoplasma animal de Roque Larraquy”. Estudios filológicos, n.° 61, jun. 
+2018, pp. 215-217. https://doi.org/10.4067/S0071-17132018000100215
+Derrida, Jacques. Mal de archivo. Traducción de Paco Vidarte. Madrid, Trotta, 
+1981.
+Favaro, Alice. “Escribir desde los márgenes: La narrativa de Iosi Havilio”. Rasseg-
+na iberistica, vol. 40, n.° 108, diciembre 2017, pp. 341-352.
+Friera, Silvina. “Los discursos de la ciencia y el arte”. Página/12, 21 de junio de 
+2011.
+Gigena, Daniel. “Fantasías médicas”. La Nación, 11 de marzo, 2011. 
+González Echevarría. Roberto. Mito y Archivo. Una teoría de la narrativa lati-
+noamericana. 2000. Traducción de Virginia Aguirre Muñoz. México, D.F., 
+Fondo de Cultura, s011.
+Havilio, Iosi. Opendoor. Buenos Aires, Entropía, 2006. 
+_____. Paraísos. Buenos Aires, Mondadori, 2012.
+Hobsbawn, Eric. The Age of Empire: 1875-1914. London, Vintage, 1984. 
+Larraquy, Roque. La comemadre. Buenos Aires, Entropía, 2010.
+Larraquy, Roque y Diego Ontivero. Informe sobre ectoplasma animal. Buenos 
+Aires, Eterna Cadencia, 2013.
+Mercier, Claire y Bernardo Rocco. “Cuerpo capital: las prácticas bioartísticas en 
+Ornamento de Juan Cardenas y La comemadre de Roque Larraquy”. Romance 
+Quaterly, vol. 66, n.° 2, 2019, pp. 82-90. https://doi.org/10.1080/0883115
+7.2019.1598209
+Nietzsche, Friedrich. Sobre la utilidad y el perjuicio de la historia para la vida. 
+Traducción de Germán Cano. Madrid, Biblioteca Nueva, 1999.
+Piglia, Ricardo. “Tres propuestas para el próximo milenio (y cinco dificultades)”. 
+Pasajes. Revista de pensamiento contemporáneo, n.° 28, 2009, pp. 81-93.
+Sarlo, Beatriz. “Sujetos y tecnologías. La novela después de la historia”. Punto de 
+vista, año XXIX, n.° 86, diciembre de 2006, pp. 1-6. 
+42
+Martín Gaspar | 
+ XXV.1 (enero-abril 2021) ISSN 1851-4669
+Standish, Russel K. Theory of Nothing. BookSurge Australia, 2006. 
+Terán, Oscar. Positivismo y nación en Argentina. Buenos Aires, Puntosur, 1987. 
+Yelin, Julieta. “Una vida Nueva. Imágenes y pensamiento de la animali-
+dad en Opendoor y Paraísos de Iosi Havilio”. Revista Iberoamericana, vol. 
+LXXXIII, n.° 258, enero-marzo 2017, pp. 15-30. https://doi.org/10.5195/
+reviberoamer.2017.7446

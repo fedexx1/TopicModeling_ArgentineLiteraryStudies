@@ -1,0 +1,567 @@
+La Pharsalia de Lucano: un modelo de deconstrucción épica en 
+Contra Symmachum de Prudencio 
+Juan Manuel Danza
+juanmdanza@gmail.com
+Universidad Nacional del Sur – CONICET, Argentina
+Recepción: 05 Abril 2021
+Aprobación: 17 Mayo 2021
+Publicación: 01 Septiembre 2021
+Resumen:  En Contra Symmachum, Prudencio aborda la tarea
+de desterrar deﬁnitivamente el politeísmo e instalar a Cristo
+como único dios verdadero. La hipótesis de este artículo es
+que esa tarea se homologa –en varios aspectos– con el modus
+operandi implementado por Lucano, en Pharsalia. Para nuestra
+demostración, describiremos las distintas operaciones poéticas
+deconstructivas realizadas por Lucano, prestando particular
+atención al análisis de las estrategias desplegadas para cuestionar
+el aparato divino –componente esencial del género–, a efectos
+de confrontarlas con los procedimientos desarrollados por
+Prudencio en el primer libro de Contra Symmachum.
+Palabras clave: Lucano,  Pharsalia, Prudencio,  Contra
+Symmachum, Tardía Antigüedad.
+Abstract:  e hypothesis of this article is that Prudentius
+by deﬁnitively banishing polytheism and installing Christ as
+the only true god, embarks on a path that is comparable –
+in several aspects– with the modus operandi implemented in
+Pharsalia. For our demonstration, we will describe the diﬀerent
+deconstructive poetic operations carried out by Lucano, drawing
+particular attention to the analysis of the strategies deployed to
+question the divine apparatus –an essential component of the
+genre–, to confront them with the procedures developed in the
+ﬁrst book of Prudentius’ Contra Symmachum.
+Keywords: Lucanus,  Pharsalia, Prudentius,  Contra
+Symmachum, Late Antiquity.
+1. Introducción
+Contra Symmachum de Prudencio fue publicado alrededor de los años 402 y 403. Este poema está compuesto
+en hexámetros y divido en dos libros1, que, a su vez, se encuentran antecedidos, cada uno de ellos, por un
+prefacio alegórico2. El primer libro contiene una crítica al panteón de los dioses paganos, donde el narrador
+en propria persona ataca verbalmente el papel desempeñado por los dioses en la Antigüedad y explica cómo
+la ciudad de Roma ha adoptado deﬁnitivamente la religión cristiana. El segundo libro tiene el propósito
+de refutar los reclamos del último exponente de la aristocracia pagana, Quinto Aurelio Símaco3, que en su
+famosa Relatio III (384 d. C)4, dirigida al emperador Valentiniano II, había reclamado por la libertad de
+cultos, defendiendo las viejas costumbres romanas, exigiendo la restitución de los derechos antiguamente
+otorgados a las Vestales y, fundamentalmente, demandando la reposición del Altar de la Victoria en el Senado
+romano5.
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación 
+Centro de Estudios Latinos
+ARTÍCULOS/ARTICLES
+Cita sugerida: Danza, J. M. (2021). La Pharsalia de Lucano: un 
+modelo de deconstrucción épica en Contra Symmachum de 
+Prudencio . Auster, (26), e069. https://doi.org/10.24215/23468890e069 
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+Nuestro interés está ceñido al primer libro de Contra Symmachum, donde Prudencio parece continuar,
+literariamente, el proceso de ‘deconstrucción’ del género épico6 implementado por Lucano en la Pharsalia7 y
+basado en el cuestionamiento del aparato divino, uno de sus elementos constitutivos. Se trata de un proceso
+complejo, ya que si bien Prudencio pretende escindir ciertos elementos connaturales a la epopeya, como los
+dioses paganos8, no por ello rechaza la legitimidad que la asimilación que esos componentes les había otorgado
+a las obras de los autores canónicos (Lucrecio, Virgilio, Lucano); por lo tanto, introduce el recurso de la
+inversión –o bien de la tergiversación–, al recoger un conjunto de rasgos, que considera negativos, y utilizarlos
+para conﬁgurar una nueva poesía épica, acorde a la idiosincrasia cristiana.
+En este artículo nos proponemos demostrar que Prudencio, al abordar la tarea de desterrar deﬁnitivamente
+el politeísmo e instalar a Cristo como único dios verdadero, emprende un camino que se homologa –en
+varios aspectos– con el modus operandi aplicado en la Pharsalia. Para nuestra demostración, describiremos las
+distintas operaciones poéticas deconstructivas realizadas por Lucano, prestando particular atención al análisis
+de las estrategias desplegadas para cuestionar el aparato divino –componente esencial del género–, a efectos
+de confrontarlas con los procedimientos desarrollados por el autor de Contra Symmachum en el primer libro.
+2. Dioses, héroes y hombres: la transgresión genérica y temática de la épica de
+Lucano
+Al analizar la problemática genérica y temática de la épica romana desde una perspectiva diacrónica, resulta
+insoslayable el reconocimiento de Lucano como el gran promotor de cambios en el modelo canónico
+representado por Virgilio. Si bien la Pharsalia ha sido descrita como una obra revolucionaria, porque
+subvierte los códigos del género épico maniﬁestos en la Eneida9, presenta algunos problemas con respecto a
+la transgresión de las estructuras genéricas y temáticas de la épica, que han sido detectados y comentados por
+la crítica especializada desde la Antigüedad hasta nuestros días10.
+La crítica ha abierto un debate sobre si la Pharsalia de Lucano adscribe o no al género épico. En este
+marco, uno de los aspectos que enfatiza tal cuestionamiento ha sido la ausencia del ‘aparato divino’ como
+un elemento sustantivo en su trama. Este rasgo constituye una verdadera transgresión de las normas propias
+del género épico, y, en consecuencia, resulta una de las características más signiﬁcativas para la propuesta de
+lectura planteada en este trabajo, porque es en concreto esa operación la que nos interesa analizar, para pensar
+la ‘deconstrucción de la épica’ en el libro primero de Contra Symmachum, donde Prudencio desmantela el
+panteón de dioses paganos e instala la ﬁgura de un dios único.
+La Fico Guzzo11 plantea que la epopeya de Lucano evidencia una clara transformación de los elementos
+tradicionales y constitutivos del género, tales como la ausencia de dioses-personajes que interactúen con
+los hombres. A su vez, señala que estos cambios no responden a un posicionamiento racionalista o
+antropocentrista del poeta, ni a un intento por ampliar el protagonismo de la ﬁgura del hombre, sino a la
+cosmovisión mítica de la etapa ﬁnal de la Edad de Hierro, en la que el narrador de la Pharsalia se encuentra
+sumido. Es decir, si los dioses han abandonado el mundo, el poeta no tiene acceso al conocimiento divino,
+por lo tanto, su ignorancia acerca de la voluntad de la divinidad se ve reﬂejada en la ausencia de escenas en
+las que se retrate la interacción entre los dioses y los hombres; tanto el mundo representado, como la poética
+del mismo Lucano se hallan desacralizados:
+quam Lethon tacitus praelabitur amnis,
+infernis, ut fama, trahens oblivia venis,
+atque, insopiti quondam tutela draconis,
+Hesperidum pauper spoliatis ondibus hortus.
+invidus, annoso qui famam derogat aevo,
+qui vates ad vera vocat.
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+2
+(Lucan., IX, 355-360)12
+Se desliza el silencioso río Leto, que, como es sabido, arrastra el olvido desde las venas infernales; y está también, bajo la tutela
+del insomne dragón, el jardín de las Hespérides, empobrecido ahora al verse despojado de su follaje. Se ha vuelto odioso, pues
+priva de su leyenda a las viejas edades y llama a los vates a la verdad13.
+Lucano ha desmantelado sistemáticamente el ‘aparato divino’ al evitar representaciones tales en las que los
+dioses favorezcan o entorpezcan las hazañas de los héroes en el cumplimiento de un fatum14. Esta ausencia de
+personajes divinos y el constante cuestionamiento a su existencia y accionar no parecen ser producto de una
+“desmitologización”15, puesto que “la imagen mítica del universo”16, basada en el retorno al caos original, es
+precisamente la que le permite a Lucano evocar la realidad de su patria:
+Fert animus causas tantarum expromere rerum, 
+inmensumque aperitur opus, quid in arma furentem 
+inpulerit populum, quid pacem excusserit orbi. 
+invida fatorum series summisque negatum
+stare diu nimioque graves sub pondere lapsus
+nec se Roma ferens. Sic, cum conpage soluta 
+saecula tot mundi suprema coegerit hora 
+antiquum repetens iterum chaos, [omnia mixtis 
+sidera sideribus concurrent,] ignea pontum
+astra petent, tellus extendere litora nolet 
+excutietque etum, atri contraria Phoebe
+ibit et obliquum bigas agitare per orbem 
+indignata diem poscet sibi, totaque discors 
+machina divulsi turbabit foedera mundi.
+(Lucan., I, 66-80)
+Mi ánimo me lleva a revelar las causas de tan grandes acontecimientos, y se abre ante mí una obra inmensa: ¿qué impulsó a
+las armas a un pueblo enfurecido? ¿Qué sacudida expulsó la paz del orbe? El envidioso encadenamiento de los destinos, la
+imposibilidad, para lo muy elevado, de permanecer en pie mucho tiempo, los fuertes derrumbes bajo un peso excesivo y Roma
+incapaz de sostenerse a sí misma. Así, cuando, disuelta la trabazón del mundo, la última hora haya terminado con tantos
+siglos, retornando por segunda vez al antiguo caos, [todos los planetas mezclados se chocarán entre sí,] astros encendidos
+caerán al ponto, la tierra se negará a tender la línea de los litorales y se sacudirá al mar, Febe marchará en sentido contrario al
+de su hermano y, juzgando indigno de ella conducir su carro por una trayectoria oblicua, reclamará para sí el curso del día; y
+la discordancia total del mecanismo celeste trastornará las leyes del universo en descomposición.
+Esta asﬁxiante descripción se despliega mediante escenas míticas, con las que Lucano plasma una
+cosmovisión en decadencia, en consonancia con el derrumbe del orden cósmico17 y la inminente implosión
+de Roma. Por lo tanto, no parece desacertado asumir que las críticas y los cuestionamientos a las divinidades
+se producen a través de la utilización del mito.
+La ‘deconstrucción de la épica’ producida por Lucano en relación con el ‘aparato divino’ tiene diversas
+facetas. La Fico Guzzo18 ha relevado tres posiciones sobre el tema de los dioses en la Pharsalia. A
+continuación, citaremos dos de esas tres perspectivas:
+La primera posición se caracteriza por la conﬁanza en la existencia de un orden moral avalado por los dioses que, aunque
+permanece oculto y aparentemente no se respeta en el mundo humano, tarde o temprano, según la esperanza del poeta,
+se pondrá de maniﬁesto. Los dioses toman venganza de las violaciones a las leyes de ese orden y, aunque parezca que en el
+mundo triunfa la injusticia, todo lo que sucede responde a un plan divino que se manifestará a su momento y colocará cada
+cosa en su lugar. (…) La tercera posición, que subyace a las dos anteriores y otorga una mayor homogeneidad a la trama de la
+obra, el reconocimiento de la incapacidad humana para dilucidar las leyes que gobiernan los acontecimientos del mundo o la
+existencia o no de las mismas. El hombre experimenta su ignorancia y la falibilidad de sus intentos por comprender su realidad
+y la del universo. Ni su razón (conocimientos cientíﬁcos, doctrinas ﬁlosóﬁcas), ni sus múltiples intentos de acercamiento
+3
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+a lo divino (oráculos, plegarias, etc.) logran otorgarle certidumbre respecto de su destino y el del mundo que lo rodea. La
+dolorosa incertidumbre es la mayor certeza en la Pharsalia.
+En principio, ambas reﬂexiones nos interesan porque se conectan con el proceso de deconstrucción que
+involucra no solo al género de la épica latina, sino también al sistema religioso pagano. En segundo lugar,
+estas sistematizaciones nos permiten vislumbrar cierta voluntad de Lucano por la llegada de un nuevo orden,
+que, en el decurso de la historia, lo veremos materializarse solo en las composiciones épicas de los cristianos.
+Finalmente, resulta importante considerar estas perspectivas, porque la imposibilidad de conocer el destino
+–facultad que los dioses han negado a los hombres– es uno de los principales cuestionamientos de Lucano,
+que hallará a su vez superación en Contra Symmachum, donde Prudencio ataca el politeísmo y argumenta
+a favor del monoteísmo, aduciendo la existencia de una verdadera sabiduría celestial: aetheriae… sophiae (c.
+Symm., I, 34), a la que los hombres tienen acceso.
+En el pasaje de Pharsalia que hemos citado previamente (Lucan., I, 66-80), Lucano dice, con mayor
+sutileza, que los destinos le han sido negados: invida fatorum series (Lucan., I, 69: “el celoso eslabonamiento
+de los destinos”). Y más adelante, en el libro cuarto, pone en boca de César las siguientes palabras, que
+nuevamente le permiten ahondar en el tema de los ocultos designios divinos:
+proieci vitam, comites, totusque futurae 
+mortis agor stimulis: furor est. agnoscere solis 
+permissum, quos iam tangit vicinia fati, 
+victurosque dei celant, ut vivere durent, 
+felix esse mori.’
+(Lucan., IV, 516-520)
+He rechazado la vida, camaradas, y me encuentro movido íntegramente por los pinchazos de la muerte próxima: es una
+locura. Solo aquellos que ya han tocado la cercanía del destino tienen permitido conocer lo que los dioses ocultan a quienes
+han de vencer, para que puedan seguir viviendo: la felicidad se alcanza con la muerte.
+Si bien el cuestionamiento a los dioses no representaba una novedad para el sistema literario latino –
+primero Lucrecio y luego (aunque de un modo más solapado) Virgilio habían introducido ya múltiples
+críticas a las divinidades–, se maniﬁesta con notable fuerza poética en el caso de Lucano, quien le otorga
+una gran carga de pesimismo y tragicidad solo pasible de ser superada por la nueva cosmovisión cristiana,
+cuyo único dios verdadero, lejos de celar o esconder el destino de la humanidad, se concibe como su garante.
+Prudencio, mediante una clara inversión poética, convierte entonces la muerte en un triunfo, presentándola
+como el camino hacia la vida eterna y el reencuentro con el padre; así se advierte en las siguientes palabras
+del mártir Lorenzo:
+Contemne praesens utile, o prudens homo,
+quod terminandum, quod relinquendum est tibi,
+omitte corpus, rem sepulcri et funeris,
+tende ad futuram gloriam, perge ad deum,
+agnosce, qui sis, uince mundum et saeculum.
+(perist., V, 541-545)19
+Desprecia, oh hombre prudente, la utilidad presente, que debe llegar a su ﬁn y ser abandonada; olvídate del cuerpo, asunto
+del sepulcro y de la muerte, dirígete a la gloria futura, encamínate hacia Dios, conoce quién eres, vence al mundo y al siglo.
+4
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+3. Deconstrucción de la épica en Contra Symmachum: de los dioses paganos al
+Dios cristiano
+Si bien la crítica especializada ha demostrado que el primer libro de Contra Symmachum contiene tres grandes
+bloques, en los que se despliega el ataque a los dioses paganos, mediante el planteo de la teoría tripartita de la
+teología poética, política y natural de Varrón20; intentaremos relevar el procedimiento empleado por el poeta
+cristiano, que se basa en la exposición y la crítica de las cualidades negativas de los antiguos dioses paganos:
+principalmente, de la lujuria y del engaño. No constituye un detalle menor que la violencia se encuentre
+matizada por recursos típicos de la sátira y la ironía, puesto que este mecanismo será reutilizado luego por
+Prudencio, en el segundo libro de Contra Symmachum –si bien de una manera menos grosera e irreverente–
+cuando ataque la ﬁgura de Símaco21.
+Como es posible observar, el autor de Contra Symmachum se apropia del sustrato ideológico subyacente
+en la Pharsalia de Lucano, para reﬂexionar ﬁlosóﬁcamente sobre la inexistencia de los dioses. Desde la
+perspectiva cristiana, esos dioses paganos eran hombres divinizados, que habían adquirido su fama mediante
+el mito y la poesía:
+Et tot templa deum Romae quot in orbe sepulcra 
+Heroum numerare licet, quos fabula manes 
+Nobilitat, noster populus ueneratus adorat.
+(c. Symm., I, 191-193)
+Se puede enumerar en Roma tantos templos dioses como sepulcros de héroes; muertos que alcanzaron su gloria por leyendas
+que nuestro pueblo venera y adora.
+En relación con lo expuesto en el apartado anterior, debe repararse en que Prudencio explica la aceptación
+alcanzada por el politeísmo entre el pueblo romano como una de las causas de la ancestral rusticitas22. Dicho
+argumento gravita, precisamente, sobre el expresado por Lucano acerca de la imposibilidad humana de
+conocer las leyes que gobiernan el universo:
+Inde deos, quorum patria spectata sepulcra 
+Scimus, in aere hebetes informauere minores 
+(c. Symm., I, 54-55)
+Una posteridad tan estúpida dio forma a los dioses en bronce de hombres, cuyas tumbas sabemos que eran admirados en
+su en su país.
+Nam quid rusticitas non crederet indomitorum 
+Stulta uirum, pecudes inter ritusque ferinos 
+Dedere sueta animum diae rationis egenum?
+(c. Symm., I, 79-81)
+Porque ¿qué no había de creer esa gente pueblerina, estúpida e indómita, acostumbradas al ganados y a los modos de los
+animales, cuyas mentes estaban desprovistas del sentido divino?
+El mito de la Edad de Oro queda ﬁnalmente desarticulado cuando Prudencio sostiene que Saturno no es
+una auténtica divinidad, acusándolo de ﬁngir esa condición para satisfacer sus deseos sexuales:
+… Tuscis namque ille puellis
+Primus adhinniuit simulato numine moechus.
+(c. Symm., I, 56-57)
+porque él fue el primer fornicador que ﬁngió divinidad para andar relinchado tras las niñas etruscas.
+5
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+La polémica entre paganismo y cristianismo, en la que Prudencio se inserta, puede resumirse entonces, en
+los siguientes términos: no fueron los dioses quienes crearon la grandeza de Roma, sino Cristo.
+3.1. La Edad de Oro
+De acuerdo con nuestra propuesta de lectura, en el libro primero de Contra Symmachum, Prudencio
+continúa poéticamente con el proceso de deconstrucción de la épica iniciado por Lucano en la Pharsalia.
+No obstante, la perspectiva del poeta cristiano se muestra más extrema que la de su antecesor. Por su parte,
+Prudencio desmantela por completo el panteón de los dioses paganos con la clara ﬁnalidad de instaurar al
+dios cristiano. La diferencia sustancial entre ambos poetas radica en que, mientras Lucano, al cuestionar uno
+de los elementos constitutivos del género épico –ese ‘aparato divino’, sumido en lo que consideraba la Edad
+de Hierro–, no vislumbra ningún nuevo horizonte posible; Prudencio, en cambio, al expulsar a los dioses
+paganos de la épica, hace coincidir la conversión de Roma al cristianismo con la llegada de una nueva Edad
+de Oro23.
+De acuerdo con la cosmovisión cristiana, la épica tradicional se funda sobre la base del error antiguo,
+encarnado en los penates procedentes de Ilión, en el fuego de Vesta, y en la genealogía divina que se remonta a
+Saturno. No resulta casual, por lo tanto, que en ese prefacio Pablo sea caracterizado como un nuevo Saturno,
+capaz de imponer leyes a los pueblos bárbaros y domesticarlos:
+Paulus, praeco Dei, qui fera gentium
+Primus corda sacro perdomuit stilo,
+Christum per populos ritibus asperis
+Inmanes placido dogmate seminans,
+Inmansueta suas ut cerimonias 
+Gens pagana Deo sperneret agnito.
+(c. Symm. praef., I, 1-6)
+Pablo, heraldo de Dios, fue el primero que con su pluma sagrada sometió los ﬁeros corazones de los gentiles y propagó con
+enseñanza pacíﬁca el conocimiento de Cristo por pueblos salvajes de crueles rituales, para que la indómita nación pagana
+conociese a Dios y despreciase sus propias ceremonias.
+Este acto de violento proselitismo, que pone en evidencia la intolerancia del cristianismo con las prácticas
+sociales y ﬁlosóﬁcas diferentes, tiene su correlato en la refutación poética del paganismo desarrollada por en
+el libro primero de Contra Symmachum, que puede interpretarse como una anti-Teogonía, donde Prudencio
+retoma el mito hesiódico y lo desmantela, insertando un nuevo contenido que le permite rearticular la
+narración en el nuevo contexto cristiano y comenzar a desarmar los engranajes de la antigua religión desde
+sus orígenes mismos, a través de la ﬁgura inaugural de Saturno.
+Prudencio deconstruye el género épico tradicional mediante un violento ataque a los dioses de la antigua
+religión. Estas ﬁguras poseían suma importancia en la narración mítico-fundacional de Roma, porque eran
+los instrumentos que le habían permitido a Virgilio plasmar, en la Eneida, el advenimiento una nueva Edad
+de Oro, representada por la pax augusta, como un correlato de los procesos históricos y políticos de su tiempo.
+En el siguiente pasaje de la epopeya virgiliana, por ejemplo, el rey Evandro se sirve del mito de la Edad de Oro
+para mostrarle a Eneas los lugares que más tarde formarían parte de la ciudad de Roma:
+'haec nemora indigenae Fauni Nymphaeque tenebant
+gensque uirum truncis et duro robore nata,
+quis neque mos neque cultus erat, nec iungere tauros
+aut componere opes norant aut parcere parto,
+sed rami atque asper uictu uenatus alebat.
+primus ab aetherio uenit Saturnus Olympo
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+6
+arma Iouis fugiens et regnis exsul ademptis.
+is genus indocile ac dispersum montibus altis
+composuit legesque dedit, Latiumque uocari
+maluit, his quoniam latuisset tutus in oris.
+aurea quae perhibent illo sub rege fuere
+saecula: sic placida populos in pace regebat,
+deterior donec paulatim ac decolor aetas
+et belli rabies et amor successit habendi…'
+(Aen., VIII, 314-327)24
+«Los faunos y las ninfas nativas ocupaban estos bosques, junto con una raza de hombres nacidos de los troncos y de los rígidos
+robles, que no tenían hábitos ni costumbres, no sabían uncir los toros o acopiar hacienda ni tampoco guardar la acopiada,
+de modo que se alimentaban de las ramas de los árboles y de lo obtenido por la esforzada caza. Primero fue Saturno el que
+llegó desde el celeste Olimpo, huyendo de las armas de Júpiter, desterrado del reino que había perdido. Él fue quien reunió a
+aquella raza indómita, que se encontraba dispersa por las cimas de los montes, la sometió a leyes y quiso que se llamara Lacio,
+ya que vivió seguro, oculto de la vista en sus riberas. Floreció bajo su dominio la que sería llamada edad de oro. En paz y de
+un modo placentero gobernaba a sus pueblos, hasta que poco a poco, fue desluciéndose su brillo, surgió un tiempo peor y
+sobrevino el frenesí guerrero y el deseo de poseer…».
+Prudencio, en cambio, se burla de las leyes impartidas por Saturno25:
+Num melius Saturnus auos rexisse Latinos 
+Creditur, edictis qui talibus informauit
+Agrestes animos et barbara corda uirorum ?
+«Sum deus, aduenio fugiens, praebete latebras, 
+Occultate senem nati feritate tyranni
+Deiectum solio. Placet, hic fugitiuus et exul
+Vt lateam, genti atque loco Latium dabo nomen... ».
+(c. Symm., I, 42-48)
+¿Acaso se cree que Saturno gobernó mejor a nuestros antepasados latinos, al educar las groseras mentes y los incivilizados
+corazones de aquellos hombres con edictos como este?: «Soy un dios, llegué fugitivo, ofréceme un escondite, oculta a un
+viejo expulsado de su trono por la fuerza de su hijo, un tirano. Me agrada esconderme aquí fugitivo y desterrado, y por ello,
+al pueblo y este lugar llamaré Lacio…».
+En los citados pasajes de Virgilio (Aen., VIII, 314-327) y de Prudencio (c. Symm., I, 42-48), se evidencia un
+uso ideológico del mito de la Edades y de la mitología de los dioses26. El mito es connatural a la epopeya, su
+utilización forma parte de los recursos persuasivos con los que contaba el poeta para plasmar una determinada
+cosmovisión. La explicación de los procesos naturales mediante el empleo de los mitos tradicionales, su
+cuestionamiento, o bien su reemplazo siempre han estado sujeto a operaciones ideológicas que evidencian
+una determinada manera de ver el mundo. Lucrecio, por ejemplo, había desterrado a las ninfas de los bosques
+recurriendo a una explicación racional acerca del eco como fenómeno físico (imagine verbi, Lucr., IV, 571),
+cuya ﬁnalidad era, en realidad, argumentar a favor de la idea epicúrea acerca de la audición:
+Quae bene cum uideas, rationem reddere possis
+tute tibi atque aliis, quo pacto per loca sola
+saxa paris formas uerborum ex ordine reddant,
+575 palantis comites cum montis inter opacos
+quaerimus et magna dispersos uoce ciemus.
+sex etiam aut septem loca uidi reddere uoces,
+unam cum iaceres: ita colles collibus ipsi
+uerba repulsantes iterabant docta referri.
+580 haec loca capripedes Satyros Nymphasque tenere
+ﬁnitimi ﬁngunt, et Faunos esse locuntur..
+7
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+(Lucr., IV, 572-581)27
+Una vez que veas bien esto, podrías dar razón, ante ti mismo y ante otros, de cómo, en lugares solitarios, las piedras devuelven
+las mismas formas de las palabras en orden, cuando entre montes cerrados buscamos a nuestros acompañantes y en alta voz
+acá y allá los llamamos; he visto lugares que repetían seis o siete voces, cuando alguien había lanzado solo una: los cerros
+resonantes llevaban por sí mismos las palabras entre los cerros, sin parar de referir lo dicho. La gente que se encuentra cerca
+imagina que sátiros con pies de cabras y ninfas ocupan estos lugares, y dicen que hay faunos.
+Al ubicar los componentes míticos por fuera de la Edad Oro, Lucano no sólo sigue a Lucrecio, sino
+además entabla una polémica con el pasaje virgiliano (Aen., VIII, 314-327) que se encuentra subvertido en
+la descripción del bosque sagrado que César ordena derribar, tal como evidencia el empleo del sintagma
+Nymphaeque tenent (III, 403), de doble prodecencia, una lucreciana: Nymphasque tenere (IV, 580) y otra
+virgiliana: Nymphaeque tenebant (VIII, 314):
+lucus erat longo numquam uiolatus ab aeuo 
+obscurum cingens conexis aera ramis
+et gelidas alte summotis solibus umbras.
+hunc non ruricolae Panes nemorumque potentes 
+Siluani Nymphaeque tenent, sed barbara ritu 
+sacra deum; structae diris altaribus arae 
+omnisque humanis lustrata cruoribus arbor. 
+siqua ﬁdem meruit superos mirata uetustas, 
+et lustris recubare ferae.
+(Lucan., III, 399-408)
+Había un bosque sagrado que nunca había sido violado desde los tiempos más remotos, donde las ramas se entrelazaban,
+envolviendo un espacio oscuro y unas gélidas sombras, en cuyas profundidades no penetraba el sol. No lo ocupaban los
+campestres Panes, ni los silvanos y las ninfas, dueños de los bosques, sino los santuarios de unos dioses de bárbaros ritos; aras,
+que sostenían siniestros altares y árboles, todos puriﬁcados con sangre humana. Si algún crédito mereció la antigüedad, que
+sintió admiración por los dioses del cielo, también las aves temen posarse en aquellas ramas y las ﬁeras recostarse en aquellas
+guaridas.
+Si bien este sintagma no se replica en Contra Symmachum, en el siguiente pasaje, que forma parte del ataque
+al panteón de los dioses paganos, Prudencio critica la ﬁgura de Mercurio, explicando que su veneración y
+admiración es producto de la capacidad inventiva de los hombres. De este modo, el poeta desconﬁgurara el
+engranaje de la poesía épica como un instrumento que permite la propagación del politeísmo:
+Artiﬁcem scelerum simplex mirata uetustas 
+Supra hominem coluit, simulans per nubila ferri 
+Aligerisque leues pedibus transcurrere uentos.
+(c. Symm., I, 99-101)
+La crédula antigüedad sintióadmiración por el artíﬁce de crímenes y lo veneró por encima del hombre, al imaginar que venía
+través de las nubes y que con sus pies alados cruzaba veloz los vientos ligeros.
+En la Pharsalia se plasma, por un lado, un cuestionamiento a los dioses porque se mantienen indiferentes
+frente al sacrilegio y, por otro, se caracteriza a César como un héroe sacrílego, que mide sus fuerzas contra
+los dioses:
+inplicitas magno Caesar torpore cohortes
+ut vidit, primus raptam librare bipennem
+ausus et aeriam ferro proscindere quercum
+eﬀatur merso violata in robora ferro
+'iam nequis vestrum dubitet subvertere silvam
+credite me fecisse nefas'. tum parvit omnis
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+8
+imperiis non sublato secura pavore
+turba, sed expensa superorum et Caesaris ira.
+(Lucan., III, 432-439)
+Cuando vio César a sus legionarios envueltos en una gran inactividad, tras arrebatar un hacha, osó el primero, a blandirla y
+hendir con su ﬁlo una elevada encina; y, metido el hierro en el violado tronco, dice: «Para que ninguno de ustedes dude ya
+en derribar el bosque, piensen que he sido yo el que ha cometido el sacrilegio». Obedeció entonces sus órdenes la multitud,
+toda ella, no ya tranquila por haber eliminado el pánico, sino porque habían contrapesado la cólera de los dioses y la de César.
+Por otra parte, como ya hemos notado, Lucano lleva adelante una indagación de lo divino, mediante la
+que cuestiona el accionar de los dioses, y señala la incapacidad humana para comprender o explicar las leyes
+que gobiernan a la naturaleza:
+…cum funditur ingens
+Oceanus vel cum refugis se ﬂuctibus aufert. 
+ventus ab extremo pelagus sic axe volutet 
+destituatque ferens, an sidere mota secundo 
+Tethyos unda vagae lunaribus aestuet horis, 
+ﬂammiger an Titan, ut alentes hauriat undas, 
+erigat Oceanum ﬂuctusque ad sidera ducat, 
+quaerite, quos agitat mundi labor; at mihi semper 
+tu, quaecumque moves tam crebros causa meatus, 
+ut superi volvere, late.
+(Lucan., I, 410-419)
+Cuando el océano inmenso se adelanta o se retira con el reﬂujo de sus olas. ¿Es un viento, proveniente del último eje, el que
+hace girar el mar de esa forma y, tras haberlo empujado, lo abandona, o acaso, movida por un segundo astro, la onda de la
+inestable Tetis se agita con las horas lunares, o bien, el ﬂamígero Titán, para beber sus aguas nutritivas, eleva el océano y lleva
+sus olas hasta los astros? Averígüenlo, ustedes a quienes inquieta la fatiga del universo. En cambio, tú, permanece oculta para
+mí siempre, cualquiera que seas la causa que produces tan frecuentes movimientos, tal como han querido los dioses.
+Esta digresión cientíﬁca de Lucano, que se encuentra en consonancia con la vertiente pedagógica del género
+épico desarrollada por Lucrecio, también halla su réplica en Contra Symmachum, cuando Prudencio explica
+que la aceptación del politeísmo obedeció a la ignorancia de los primeros hombres, que divinizaban las fuerzas
+de la naturaleza:
+Quidquid humus, quidquid pelagus mirabile gignunt, 
+Id duxere deos : colles, eta, ﬂumina, ﬂammas. 
+Haec sibi per uarias formata elementa ﬁguras 
+Constituere patres, hominumque uocabula mutis 
+Scripserunt statuis, uel Neptunum uocitantes 
+Oceanum, uel cyaneas caua ﬂumina Nymphas,
+Vel siluas Dryadas, uel deuia rura Napaeas.
+Ipse ignis, nostrum factus qui seruit ad usum, 
+Vulcanus perhibetur, et in uirtute superna 
+Vulcanus perhibetur, et in uirtute superna 
+Fingitur, ac delubra deus et nomine et ore 
+Adsimulatus habet, nec non regnare caminis
+Fertur et Aeoliae summus faber esse uel Aethnae.
+(c. Symm., I, 297-308)
+Cada maravilla que engendró la tierra o el piélago fue considerada como un dios. Colinas, mares, ríos, fuegos, todos estos
+elementos, formados en distintas ﬁguras, se establecieron como padres, e inscribieron nombres humanos en estatuas mudas,
+llamando, por ejemplo, Neptuno al océano o ninfas ciáneas a las cavas de los ríos o dríades a los bosques o napeas a los campos
+alejados. El propio fuego, creado para servir a nuestras necesidades, es llamado Vulcano y se lo representa con los atributos
+9
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+de una fuerza celestial y como dios ﬁngido, en su nombre y aspecto, tiene templos y además se dice que reina en los hornos
+y que es el supremo herrero de Eolia o del Etna.
+En el caso de Prudencio, la ﬁnalidad es evidente: extirpar el mito pagano de la ciudad de Roma y
+reemplazarlo por el dogma cristiano. El componente mitológico está puesto al servicio de la ideología
+religiosa. Todos los elementos de los antiguos dioses deben ser desterrados y los que no se puedan desterrar
+serán convertidos al cristianismo.
+4. Consideración final
+La deconstrucción del género épico que realiza Prudencio se evidencia fundamentalmente en la eliminación
+del panteón de los dioses romanos a través de la refutación discursiva. Si bien, en términos formales,
+podríamos interpretar ese proceso como una anti-Teogonía, consideramos que la categoría ‘deconstrucción’
+describe con mayor precisión el proceso de desguace y ensamble desarrollado por Prudencio en el libro
+primero de Contra Symmachum, cuando critica el panteón a los dioses paganos para sustituirlo por la ﬁgura de
+Cristo. En suma, entendemos que el proceso de ‘deconstrucción’ implementado por Lucano en la Pharsalia
+repercute conceptualmente en los mecanismos implementados por Prudencio en el primer libro de Contra
+Symmachum.
+Notas
+*
+Este trabajo ha sido desarrollado en el Centro de Estudios de Filología Clásica Antigua y Medieval del Departamento
+de Humanidades de la Universidad Nacional del Sur y forma parte de mis actividades como becario posdoctoral de
+CONICET. Asimismo, ha sido posible gracias a dos proyectos de investigación ﬁnanciados por la ANPCyT (PICT
+2016 Nº 1012) y por la SGCyT de la UNS (PGI 24/I 271).
+1 En cuanto al proceso de composición de Contra Symamchum seguimos las conclusiones de Shanzer, D. “e Date and
+Composition of Prudentius’s contra orationem Symmachi libri”, RFIC 117, 1989, 458-462.
+2 Al respecto, vid. el reciente estudio de Gosserez, L., “Les Préfaces bibliques au Contre Symmaque de Prudence”,
+Philologia Antiqua 10, 2017, 109-166.
+3 Sobre la vida, la carrera política y los escritos de Quinto Aurelio Símaco, vid. el texto introductorio de Sogno, C., Q.
+Aurelius Syummachus. A political biography. Michigan, University of Michigan Press, 2006.
+4 Para un comentario anotado de la relatio 3, cf. Vera, D., Commento storico alle Relationes di Quinto Aurelio Simmaco.
+Pisa, Giardini, 1981, 12-23.
+5 Para este conocido debate, vid. Cameron, A., e Last Pagan of Rome. Oxford, Oxford University Press, 2011, 39-51
+y Lizzi Testa, R., “e Famous ‘Altar of Victory Controversy’ in Rome. e Impact of Christianity at the End of the
+Fourth Century”, en: Wienand, J. (ed.) Contested Monarchy. Integrating the Roman Empire in the Fourth Century AD.
+Oxford, Oxford University Press, 2015, 405-419.
+6 En cuanto a la adscripción de Contra Symmachum al género épico, Cf. Fontaine, J. “La dernière épopée de la Rome
+chrétienne: le Contre Symmaque de Prudence”, VL 81, 1981, 3-14.
+7 La aplicación de la perspectiva deconstruccionista al texto de Lucano cuenta con una amplia tradición dentro de la crítica
+literaria, como evidencian los trabajos de Johnson, W., Momentary Monsters. Lucan and his Heroes. Ithaca/London,
+Cornell University Press, 1987; Bartsch, Sh., Ideology in Cold Blood. A Reading of Lucan’s Civil War. Cambridge,
+Harvard University Press, 1997, 6-8; Bartsch, Sh., “Lucan” en Foley, J. (ed.), A Companion to Ancient Epic. Malden,
+Blackwell, 205, 396; Narducci, E., “Deconstructing Lucan. Ovvero le nozze (coi ﬁchi secchi) di Ermete Trimegisto e di
+Filologia”, en: Esposito, P. & Nicastri, L. (ed.), Interpretare Lucano. Miscellanea di Studi, Napoli, Arte Tipograﬁca, 1999,
+45 y ss.; y Narducci, E., Lucano. Un’epica contro l’impero. Bari, Laterza, 2002, 22-23. Con respecto a la idea de que Lucano
+deconstruye el género épico, seguimos los lineamientos planteados por La Fico Guzzo, M. L., “La Pharsalia de Lucano:
+Deconstrucción de la épica romana”, 2012, Conferencia, XXII Simposio Nacional de Estudios Clásico: “Signiﬁcación
+y Resigniﬁcación del Mundo Clásico Antiguo”, 18, 19, 20 y 21 de septiembre de 2012. San Miguel de Tucumán,
+Argentina.
+8 Sobre la recepción de Lucano en la tardía Antigüedad, especíﬁcamente en la obra de Prudencio, conviene considerar
+el juicio de von Albrecht, A., Historia de la Literatura Romana. Barcelona, Herder, vol. II.,1999 [1994], 854: “La
+Antigüedad cristiana tardía ve con agrado a Lucano, sin duda no solamente porque reduce el papel de los dioses paganos;
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+10
+sin embargo, así elimina una barrera para la recepción. Igualmente importante es la función de sus personajes como
+exempla. Prudencio, por ejemplo, que ha tomado mucho de él para la descripción de los martirios, inaugura la línea de
+los grandes líricos atraídos por el épico más moderno, más melancólico y más subjetivo de Roma”.
+9 Con respecto las nociones de código y normas épicas, seguimos a Conte, G. B., Virgilio. Il genere e i suoi conﬁni.
+Milano, Garzanti,1984, 143-144. Cf. Narducci, E., La provvidenza crudele. Lucano e la distruzione dei miti augustei. Pisa,
+Giardini, 1979, 37. Asimismo, la crítica ha planteado si la Pharsalia constituye una ‘anti-Eneida’ o una ‘ultra- Eneida’, cf.
+Ahl, F., Lucan. An introduction. Ithaca and London, Cornell University Press, 1979, 62-81 y von Albrecht, M., Roman
+Epic. An interpretative introduction. Leiden, Brill, 1999, 236-243.
+10 Vid. el juicio de Quintiliano (Inst., X, 1, 90: Lucanus ardens et concitatus et sententiis clarissimus et, ut dicam quod
+sentio, magis oratoribus quam poetis imitandus: “Lucano es vehemente, conciso y muy claro en la expresión de sus ideas,
+pero según mi opinión, tendría que ser un ejemplo a seguir más para los oradores que para los poetas”), Servio (A, I,
+382: Lucanus namque ideo in numero poetarum esse non meruit, quia uidetur historiam composuisse, non poema: “Pero
+considero que Lucano no merece ser incluido entre los poetas, porque es evidente que lo que compuso es historia y no
+un poema”) y Petronio (CXVIII, 6, 82-86: non enim res gestae uersibus comprehendendae sunt, quod longe melius historici
+faciunt, sed per ambages deorumque ministeria et fabulosum sententiarum tormentum praecipitandus est liber spiritus, ut
+potius furentis animi uaticinatio appareat quam religiosae orationis sub testibus ﬁdes: “No debe simplemente ocuparse
+en verso de los acontecimientos pasados, eso lo hacen mucho mejor los historiadores. El espíritu creativo debe avanzar
+libremente entre las peripecias, las intervenciones divinas y los fabulosos artilugios de la imaginación, para dar lugar a
+una obra que se parezca más al vaticinio de un espíritu profético que a la escrupulosa narración escrita al dictado de un
+testimonio ﬁdedigno”). Un análisis más amplio sobre los intentos de sistematización genérica de la épica y, en particular,
+de las diversas posturas con relación a la Pharsalia de Lucano puede hallarse en Marrón, G., El Rapto de Prosérpina. Un
+nuevo contexto para la trama épica. Bahía Blanca, Ediuns, 2011, 25-32. Por otra parte, para la utilización de las fuentes
+históricas y las operaciones poéticas que emplea Lucano en función de sus propósitos estéticos, vid. Vizzotti, M., “La
+representación poética de la historia en Pharsalia 7”, QUCC 111 (3), 2015, 105-124.
+11 Cf. La Fico Guzzo, “¿Quis latet hic superum? (Phars. 5, 86) ¿ausencia de los dioses en la Pharsalia de Lucano?”, Actas del
+XX Simposio Nacional de Estudios Clásicos. Publicado en CD. Universidad Nacional de Córdoba, Córdoba, 2009.
+12 Las citas de Lucano proceden de la edición de Shackleton Bailey, D. R., M. Annaei Lucani de Bello Ciuili. Berlin, De
+Gruyter 2009.
+13 Todas las traducciones del latín al español me pertenecen.
+14 Cf. La Fico Guzzo, “La Pharsalia de Lucano…”, 2012, 59-60.
+15 Según la óptica de von Albrecht, M., Roman Epic…, 2012, expuesta en las páginas 247, 249 y 250, respectivamente,
+Lucano renueva el género épico: “Lucan’s subject matter consists of real events, basically devoid of an explicitly
+mythological superestructure. As the teologia fabulosa is lacking, there remain the domains of nature and of history.”;
+“the anthropomorphic gods and the old mythical cosmology had been obliterated by natural science”; “Lucan’s factual
+and ‘scientiﬁc’ approach contradicts the mythological traditions of epic […] replaced mythological with philosophical
+cosmology. is historical and, for an epic poet, largely un-mythological approach”
+16 Cf. La Fico Guzzo, “La Pharsalia de Lucano…”, 2012, 60.
+17 Al respecto, La Fico Guzzo, “¿Quis latet hic superum?...”, 2009, consigna: “Esta imagen le permite plasmar el estado
+de caos, de abandono, de confusión, de ignorancia en el que se siente sumido. Los dioses han abandonado la tierra, la
+discordia y la injusticia reinan (Phars., V, 297-299). Pero, aunque en la cosmovisión mítica se espera, luego del ﬁn, el
+inicio de un nuevo ciclo cósmico, Lucano, sumergido en la vorágine de su situación, no logra percibir la posibilidad de
+un renacimiento y sólo tiene frente a sus ojos la imagen obsesiva de la disolución universal”.
+18 Cf. La Fico Guzzo, “¿Quis latet hic superum?...”, puntualmente el apartado titulado ‘La convivencia de tres posiciones
+en relación con el tema de los dioses’.
+19 Todas las citas de Prudencio proceden de la edición de Lavarenne, M. (ed.), Peristephanon Liber, Dittochaeon. Paris, Les
+Belles Lettres, 1951 y Lavarenne, M. (ed.) Psychomachia, Contra Symmachum. Paris, Les Belles Lettres, 2016.
+20 Charlet, J-L., “La poésie de Prudence dans l'esthétique de son temps”, BAGB 45, 1986, 381: “Prudence reprend dans
+un ordre légèrement modiﬁé le schéma triparti de la théologie varronienne : théologie poétique (attaque des dieux des
+poètes, v. 42-163); théologie politique (critique de la genèse des cultes dans la cité, v. 164-296); théologie naturelle
+(Prudence s'en prend à la divinisation des forces de la nature, v. 297-407)”. De acuerdo con Rivero García, L., La poesía
+de Prudencio. Huelva, Universidad de Huelva, 1996, p. 109, el primer bloque, planteado desde la teología poética (c.
+Symm., I, 42-163), comienza con una pregunta retórica acerca del gobierno –supuestamente superior– de Saturno sobre
+los antiguos latinos: Num melius Saturnus auos rexisse Latinos / creditur?, c. Symm., I., 42-43. Así, a través de recursos
+típicos de la sátira y la ironía, Prudencio emprende un ataque grosero e irreverente contra el politeísmo. El destierro de
+los antiguos dioses de la ciudad de Roma se explicita mediante la crítica y exposición de sus cualidades negativas. Tras
+la diatriba contra Saturno, sigue el ataque del poeta contra Júpiter (c. Symm., I, 59-83); Mercurio (c. Symm., I, 84-101);
+Príapo (c. Symm., I, 102-115); Hércules e Hilas (c. Symm., I, 116-121); y, ﬁnalmente, contra Baco (c. Symm., I, 122-144).
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+11
+Luego de realizar algunas consideraciones acerca del simplismo intelectual que conlleva la teoría del evemerismo (c.
+Symm., I, 145-163), Prudencio da paso al segundo bloque argumentativo, basado en la perspectiva de la teología política.
+En esta oportunidad, el poeta acomete contra los padres de Roma –Marte y Venus– y, a su vez, contra Juno y Cibeles
+(c. Symm., I, 164-196): por último, sus críticas se hacen extensivas a todos los cultos de la ciudad (c. Symm., I, 197-296).
+De este modo, apoyándose en la teología natural, Prudencio ataca la divinización de las fuerzas de la naturaleza: entre las
+deidades descaliﬁcadas aparecen Neptuno, Vulcano, y también otras menores, como las Ninfas y las Dríades (c. Symm.,
+I, 297-308). Asimismo, se reserva también una sección al ataque de la divinización del sol (c. Symm., I, 309-353); y,
+ﬁnalmente, el poeta cierra el bloque con un apartado dedicado a criticar los dioses del mundo infernal: Prosérpina y
+Plutón (c. Symm., I, 354-407).
+21 Cf. Danza, J. M., “Ironía y violencia en Contra Symmachum de Prudencio”, QUCC 114/3, 2006, 100.
+22 De acuerdo Evenepoel, W., “Prudentius: Ratio and Fides”, AC 50, 1981, 318-327, p. 319: “In his ﬁrst book contra
+Symmachum Prudentius explains how polytheism found acceptance among the Romans thanks to the ancestral rusticitas
+(esp. 11. 79-81), how it then spread and was able to hold its own once the Roman had become cultured, and how
+polytheism, unbecoming to cultivated Rome, ﬁnally disappeared thanks to the wisdom of eodosius (1. 449 ﬀ)”.
+23 Encuentra Ortega, A., “El mito de las razas y de la edad de oro en Contra Symmachum I de Prudencio”, 2005,
+[Consultado en: www.uma.es/anmal/numero6/Encuentra.htm] evidencia la recuperación por parte de Prudencio de
+“un tópico que había usado Virgilio con fortuna para vincular la gesta de Eneas con la ansiada paz de Augusto: el retorno
+de la edad de oro”.
+24 Cito a Virgilio por la edición de Conte, G. B., P. Vergilius Maro. Aeneis. Berlin/ New York, De Gruyter, 2009.
+25 Cf. Gnilka, C., Prudentius Contra Orationem Symmachi eine kritische revue. Münster, Aschendorﬀ, 2017, 36.
+26 Mayores ejemplos sobre los sincretismos entre mito y fe cristiana, pueden encontrarse en los trabajos de Malamud, M.,
+A Poetics of Transformation: Prudentius and Classical Mythology. Itaca/London, Cornell University Press, 1989; Castro
+Jiménez, M. D., “Sincretismos en el uso de la mitología en la obra de Prudencio”, CFC (ELat) 15, 1998, 297-311 y
+Encuentra Ortega, “El mito de las razas”, 2005.
+27 Cito a Lucrecio por la edición de Deufert, M. (2018), Kritischer Kommentar zu Lukrezens „De rerum natura“. Berlin/
+Boston, De Gruyter.
+Auster, no. 26, septiembre 2021, e069. ISSN 2346-8890
+12
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica 
+PDF generado a partir de XML-JATS4R

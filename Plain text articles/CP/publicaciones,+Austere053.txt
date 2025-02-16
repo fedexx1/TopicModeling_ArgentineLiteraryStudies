@@ -1,0 +1,475 @@
+La ‘llave del recuerdo’ y los anómalos relatos de metamorfosis en e legend of
+Good Women de Geoﬀrey Chaucer
+María Cristina Balestrini
+Facultad de Filosofía y Letras, Universidad de Buenos Aires, 
+Argentina
+cristinabalestrini@gmail.com
+Resumen:
+e Legend of Good Women Chaucer empuja las formas literarias recibidas hacia un terreno experimental pendiente a la vez
+de la tradición y de sus renovados efectos. En coincidencia con otros textos del autor, se ofrece una reelaboración de historias
+procedentes de Ovidio a partir de una apropiación deliberadamente fragmentada que se nota particularmente en un uso anómalo
+de la metamorfosis como tópico narrativo. La escritura funciona en este poema como clave para acceder a una memoria cultural
+compartida más que como despliegue de erudición o búsqueda de verdades subyacentes.
+Palabras clave: Chaucer, Legend of Good Women, Metamorfosis, Memoria.
+Abstract:
+e Legend of Good Women pushes received literary forms into an experimental ground focusing at the same time on tradition
+and on in its renewed eﬀects. In accordance with other texts by the author, this poem oﬀers a rewriting of Ovidian stories through
+a deliberately scattered appropriation particularly observable in its anomalous use of metamorphosis as a narrative topic. In this
+poem, writing serves as the key to a shared cultural memory, instead of making a display of learning or of disclosing underlying
+truths.
+Keywords: Chaucer, Legend of Good Women, Metamorphoses, Memory.
+A lo largo de su amplia producción, Geoﬀrey Chaucer construye una voz autoral dinámica, en perpetuo
+diálogo con la palabra autorizada de sus precedentes clásicos y medievales, y nos obliga por tanto a adentrarnos
+en una compleja trama en la que se dan cita sus modelos reverenciados con diversas tradiciones literarias y
+lingüísticas. Si a este panorama se añade la ingente producción crítica que siglos de erudición y comentario
+han cimentado alrededor de la obra del poeta inglés, el investigador contemporáneo encuentra que cada
+abordaje de los textos del poeta inglés constituye un verdadero desafío.
+De las numerosas voces críticas que han enriquecido el contacto con su obra me han surgido algunas
+reﬂexiones a propósito del último poema onírico-visionario compuesto por Chaucer, su Legend of Good
+Women, datada alrededor de 1386 (con una revisión posterior de principios de la década siguiente).1 En este
+texto, uno más entre los que el poeta deja inacabados, Chaucer reelabora una variedad de fuentes literarias
+clásicas así como medievales que comprenden a Ovidio (el “propiamente dicho” y el moralizado, y tanto las
+Metamorfosis como las Heroidas), Virgilio, Estacio, Valerio Flaco, Dares, Guido delle Colonne, el Roman
+de la Rose, Vicente de Beauvais, Dante, Giovanni Boccaccio, Jean Froissart y Guillaume de Machaut, para
+componer un libro que, según plantea la ﬁcción desarrollada en su prólogo, debe servir como penitencia para
+que el autor expíe su culpa por haber dejado mal parado al dios Amor en su traducción del Roman de la Rose
+y en Troilo y Criseida.
+Este es el trasfondo que ha orientado en mi lectura de la obra de Chaucer; a partir de esa base, en este trabajo
+planteo volver sobre e Legend of Good Women para reconsiderar algunos de los matices que caracterizan
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación 
+Centro de Estudios Latinos
+ARTÍCULOS/ARTICLES
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Cita sugerida: Balestrini, M. C. (2019). La ‘llave del recuerdo’ y los anómalos relatos de metamorfosis en The legend of Good Women de Geoffrey 
+Chaucer. Auster, (24), e053. https://doi.org/10.24215/23468890e053 
+Recepción: 19 de abril de 2018 | Aprobación: 10 de julio de 2018 | Publicación: 05 de septiembre de 2019
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890
+2
+su relación con Ovidio. No es mi intención llevar a cabo un estudio de las fuentes, sino que mi propósito
+es el de destacar la forma en que Chaucer internaliza el modelo ovidiano en su texto a través de la selección
+de algunos de sus componentes y los convierte en principios productivos, siempre guiado por un criterio de
+imitación selectiva, parcial, que lo aﬁlia a la vez que lo diferencia de la tradición.2
+En e Legend of Good Women, así como en sus otros textos visionarios, Chaucer convierte la relación
+que establece con sus modelos literarios en un núcleo temático a partir del cual ﬁccionaliza las condiciones
+en que se genera y es recibido el poema.3 En el marco de dicho procedimiento se inscribe, bajo la forma de
+un intercambio de acusaciones y de defensas entre los personajes del prólogo, una reﬂexión sobre el impacto
+cultural de la labor del poeta como mediador entre la herencia literaria y su recepción en el presente. El juego
+se inicia con el reproche que el dios Amor dirige al narrador, acusándolo de haber ampliado los alcances de
+la literatura amorosa a través de la traducción y de haber habilitado, a partir de allí, la posibilidad de ejercitar
+lecturas sin mediaciones; la consecuencia es la difuminación de los límites entre las distintas clases de lectores
+deﬁnidas por sus posibilidades de acceso a la poesía cortés como bien simbólico y cultural que había sido, en
+principio, patrimonio distintivo de las aristocracias:
+And thow my foo, and al my folk werreyest,
+And of myn olde servauntes thow mysseyest,
+And hynderest hem with thy traslacioun,
+And lettest folk om hire devocioun
+To serve me, and holdest it folye
+To serve Love. ou maist yt nat denye,
+For in pleyn text, withouten nede of glose,
+ou hast translated the Romaunce of the Rose,
+at is an heresye ayeins my lawe,
+And makest wise folk o me withdrawe.
+And of Creseyde thou hast seyd as the lyste,
+at maketh men to wommen lasse triste
+(F vv. 322-333)4
+… y tú mi enemigo que censura a todos mis devotos y calumnia y molesta a todos mis antiguos sirvientes; con tu traducción
+manipulas a la gente para que no me sirva y sostienes que es una locura servir al Amor. No puedes negarlo porque has
+traducido El libro de la rosa a un texto sencillo, sin necesidad de glosarlo, lo cual es una herejía contra mis leyes; has hecho
+que la gente culta me abandone. De Criseida […] has dicho lo que te ha dado la gana, lo que hace que los hombres confíen
+menos en las mujeres (137).5
+Dejando de lado la discusión sobre las formas en que Chaucer ejerce la ironía en sus ﬁcciones, la protesta
+del dios deja en evidencia las líneas rectoras que atraviesan su obra: el interés por la divulgación de materiales
+originalmente no escritos en inglés, la ampliación de horizontes literarios (que supone que la gente no
+necesariamente “culta” en los términos en que lo dice Amor tenga acceso a ellos), la renuencia a asignar
+signiﬁcaciones alegóricas a sus textos (que hace innecesaria la glosa). Lo tradicional se abre así a la posibilidad
+de adquirir nuevos efectos.
+En los inicios y en las conclusiones de los poemas oníricos de Chaucer siempre se encuentran los libros, y
+de manera recurrente entre esos libros se encuentra Ovidio, razón por la cual P. Boitani ha caracterizado el
+horizonte de estos poemas como persistentemente ovidiano y clásico:
+Chaucer’s dream poems begin with a book and end with a book, generally his own. His dreaming begins with Ovid’s
+Metamorphoses and ends with Chaucer’s own books. In this double pattern there is an extraordinary circularity and an
+equally staggering direct pointedness: when Chaucer dreams, a book inevitably produces another book. e ‘old’ book
+becomes ‘new’. Ovid becomes Chaucer (44).6
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890
+3
+Parafraseando esta última aﬁrmación de Boitani, e Legend of Good Women es también, en más de un
+sentido, un relato de metamorfosis, no solamente porque Ovidio es invocado como uno de los móviles del
+proceso creativo, sino porque este motivo literario constituye un elemento rector en la percepción de la
+función que asumen los relatos particulares sobre las buenas mujeres en la estructura de la obra, y de la función
+de la propia obra en su contexto cultural. Es un poema en el que se lleva a cabo una metamorfosis que transﬁere
+la autoridad clásica a la composición vernácula; a partir de dicha autorización, la narrativa en inglés medio
+puede reclamar una posición entre los artefactos que aseguran a futuro una memoria cultural compartida.
+El proceso, sin embargo, no es lineal, y en el caso de e Legend of GoodWomen supone una dislocación
+del motivo de la metamorfosis. Sin dudas, uno de los rasgos que llaman la atención al recorrer las historias
+es la elisión del motivo allí donde resultaría más esperable: la Leyenda de Tisbe (vv. 706-923), por ejemplo,
+sigue de cerca el texto de Ovidio (Met. IV.55-166) pero, a pesar de la tendencia a expandir el relato con
+detalles de invención propia, Chaucer concluye la historia sin hacer referencia alguna a la metamorfosis en
+sí (la transformación de las moras en frutos oscuros).7
+Asimismo, la Leyenda de Filomela (Met. VI.424-605) omite la venganza de las mujeres hacia Tereo y la
+metamorfosis de todos los personajes en aves, y simplemente concluye con una consideración del narrador:
+“e remenaunt is no charge for to telle, / For this is al and som” (vv. 2382-2383).8 En la Leyenda de Ariadna
+hay una rápida mención a la transformación de su diadema en constelación, pero no se incluyen detalles sobre
+las circunstancias que derivaron en ella:
+e goddes han hire holpen for pite,
+And in the signe of Taurus men may se
+e stones of hire corone shyne clere.
+I wol no more speke of this mateere.
+(vv. 2222-2225)
+Los dioses la ayudaron por compasión y en el signo de Tauro la gente puede ver las piedras de su corona brillar claramente.
+No diré nada más sobre el tema (p. 174).
+Nos encontramos, en principio, frente a una apropiación anómala de las Metamorfosis tanto en su vertiente
+clásica como medieval: no solamente se deja de lado la secuencia sobre la que descansa gran parte de la
+tensión que genera el relato, sino también se aparta de la profusa tradición de interpretación alegórico-
+moralizante a la que los textos de Ovidio dieron lugar durante toda la Edad Media al no arriesgar una
+conclusión normativa. Chaucer es, en términos de A. C. Spearing, un literalista: “Chaucer shows little
+interest in allegorical interpretation or hidden meanings. He is a literalist […]. For Chaucer ‘fable’ usually
+means simply ﬁction, as opposed to ‘storyal soth’” (159).9
+No obstante, en e Legend of Good Women hay una metamorfosis narrada en el prólogo, que es la
+transformación de la reina Alcestis en margarita. El motivo es introducido por la pregunta que el dios Amor
+dirige al poeta:
+“Hastow nat in a book, lyth in thy cheste,
+e grete goodnesse of the quene Alceste,
+at turned was into a dayesye;
+She that for hire housbonde chees to dye,
+And eke to goon to helle, rather tan he,
+And Ercules rescowed hire, parde,
+And brought hir out of helle agyn to blys?”
+And I answerd ageyn, and sayde, “Yis,
+Now knowe I hire. And is this good Alceste,
+e dayesie, and myn owene hertes reste?”
+(F vv. 510-519)
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890
+4
+–¿No tienes tú un libro que yace en tu cajón sobre la gran diosa, la reina Alcestis, que se convirtió en una margarita, ella, la
+que eligió morir por su esposo e ir al inﬁerno también en lugar de él y Hércules la rescató y la sacó del inﬁerno para alabarla
+de nuevo?
+–Sí, ahora la reconozco –le dije–, es la buena de Alcestis, la margarita, el descanso de mi propio corazón (141).
+Aunque se han propuesto algunas fuentes posibles,10 ninguna de ellas incluye la transformación del
+personaje en ﬂor, y la procedencia de la historia central sigue siendo incierta. En realidad, la “buena mujer”
+del Prólogo, la dama a la que el sujeto adora y dedica sus servicios, y que termina revelándose como la
+reina Alcestis, no responde a modelos clásicos sino a la imagen de la margarita tal como fue plasmada en la
+poesía vernácula medieval: el Roman de la Rose, en primer término, pero también la obra de poetas franceses
+cronológicamente más cercanos a Chaucer que elaboran el tema: Jean Froissart con su Dit de la marguerite,
+el Paradis d’Amour de Eustace Deschamps, los poemas de amor de Guillaume de Machaut. Estos escritores,
+que realizan una muy libre adaptación de la literatura ovidiana,11 coinciden en su propósito de hacer que la
+tradición en lengua vulgar quede inscripta en pie de igualdad con los “antiguos libros”. Chaucer no solo sigue
+estos modelos en su imitación de la producción vernácula que le resulta más cara, sino que deriva de ellos
+la autoridad para hacer propios los procedimientos y los motivos literarios (clásicos o no) que le permiten
+dar forma a su universo ﬁccional; es decir, asume frente a los auctores  las actitudes que otros escritores de
+avanzada habían adoptado poco antes en el ámbito francófono; por cierto, en la Inglaterra del último cuarto
+del siglo XIV este gesto implica una profunda innovación a través de la cual la literatura en inglés medio se
+nutre de la autoridad alcanzada por otros experimentos en lengua vulgar.
+El tratamiento de la ﬁgura de la margarita, luego superpuesta a la dama Alcestis, centro del goce del sujeto
+en el marco primaveral de su relato, se destaca como elemento novedoso dentro de la invocación del tópico
+de la primavera, recurrente en los poemas oníricos de Chaucer (y vale recordar también su inclusión en el
+inicio del Prólogo General de los Cuentos de Canterbury);12 el escenario primaveral suele ocupar un espacio
+liminal, pues está inserto en las situaciones de pasaje que el sujeto transita entre la experiencia del mundo
+real y el ámbito del sueño. En todos los casos queda asociado con la noción de productividad, no solo por el
+simbolismo propio de la estación primaveral, sino también porque el personaje (que es también un poeta)
+deja provisoriamente de lado su frenética actividad lectora para pasar al sueño; el sueño implica una vivencia
+transformadora, que hace que la masa amorfa de sus lecturas, una vez mediatizada por la experiencia onírica,
+derive en la escritura de un libro.
+Estas situaciones liminales, enmarcantes, ofrecen un entramado que Chaucer hace más complejo y
+comenta con los propios textos, que van añadiendo estratos al problema central de la relación entre la
+escritura propia y la tradición con la que dialoga. La voz del poeta no se limita a construir un sujeto pseudo-
+autobiográﬁco que comunica su experiencia sino que trasmite el punto de vista de un comentador que
+reﬂexiona sobre su papel como lector/escritor. En la versión F del Prólogo de e Legend of Good Women
+el narrador declara:
+And as for me, though that I konne but lyte,
+On bokes for to rede I me delyte,
+And to hem yive I feyth and ful credence,
+And in myn herte have hem in reverence
+So hertely, that ther is game noon
+at o my bokes maketh me to goon,
+But yt be seldom on the holyday,
+Save, certeynly, whan that the month of May
+Is comen, and that I here the foules synge,
+And that the ﬂoures gynnen for to sprynge,
+Farewel my bok and my devocioun!
+(F vv. 29-39)
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890
+5
+Y en cuanto a mí, aunque yo sé muy poco, disfruto leyendo libros y me fío y creo en ellos. Y en mi corazón los venero con tal
+vehemencia que no hay diversión que me haga apartarme de mis libros, excepto quizás en vacaciones, cuando llega el mes de
+mayo y oigo a los pájaros cantar y las ﬂores empiezan a ﬂorecer en primavera: ¡adiós a mis libros y a mi devoción! (131).
+El escenario primaveral se convierte, en principio, en el escenario de la amorosa visione que tiene como
+centro a la venerada margarita, fuente de inspiración poética (según el modelo del Dit de la marguerite de
+Machaut), a la vez objeto del sueño en que cae el sujeto:
+I fel on slepe within an houre or twoo.
+Me mette how I lay in the medewe thoo,
+To seen this ﬂour that I so love and drede
+(F vv. 209-211)
+Cuando estaba acostado y tenía mis ojos cerrados, me dormí durante una hora o dos. Entonces, me pareció que yacía en un
+prado para ver la ﬂor que tanto amo y reverencio (135).
+La aparición del dios Amor y su reproche al poeta por haber maltratado a las mujeres en su obra da lugar
+poco más adelante a la defensa que lleva adelante Alcestis, que incluye la enumeración de los textos escritos
+por de Chaucer:
+He made the book that hight the Hous of Fame,
+And eke the Deeth of Blaunche the Duchesse,
+And the Parlement of Foules, as I gesse,
+And al the love of Palamon and Arcite
+Of ebes, thogh the storye ys knowen lyte;
+And many an ympne for your halydayes,
+at highten balades, roundels, virelayes;
+And, for to speke of other holynesse,
+He hath in prose translated Boece,
+And maad the lyf also of Seynt Cecile.
+He made also, goon ys a gret while,
+Origenes upon the Maudeleyne.
+(F vv. 417-428)
+Él ha escrito un libro que se titula La Casa de la Fama y también la Muerte de la duquesa Blanca, e imagino que El Parlamento
+de las aves, y todo sobre el amor de Palemón y de Arquitas de Tebas, aunque la historia es poco conocida; y muchos himnos,
+que se llamaban baladas, para los días en los que se celebra tu ﬁesta, rondeles y virolais; y para hablar de otra festividad tradujo
+en prosa a Boecio, escribió la Vida de Santa Cecilia y también escribió los Orígenes de la Magdalena, que le llevó mucho
+tiempo (139).13
+En este marco, los libros de Chaucer comparten el carácter generativo propio del escenario primaveral,
+pues son la razón por la cual se encomienda al sujeto la composición de un nuevo texto:
+ou shalt, while that thou lyvest, yer by yere,
+e moste partye of thy tyme spende
+In makyng of a glorious legende
+Of goode wymmen, maydenes and wyves,
+at weren trewe in lovyng al hire lyves;
+And telle of false men that hem bytraien
+(F vv. 481-486)
+Mientras vivas, año tras año, pasarás la mayor parte del tiempo escribiendo una gloriosa Leyenda de las buenas mujeres, solteras
+y casadas, que fueron ﬁeles en el amor durante toda su vida; y tratarás de los hombres falsos que las traicionaron (140).
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890
+6
+Por el mandato de la reina la escritura no solo queda atada al ciclo vital del escritor, sino que queda
+identiﬁcada con una función memorial que deﬁne su orientación en e Legend of Good Women. No es casual
+que el prólogo incluya numerosos términos que remiten al campo semántico de la memoria y de la actividad
+intelectual, como ha señalado Florence Percival: understond (v. 470), holden (“considera”, v. 479),14 que junto
+con la referencia al libro sobre Alceste que atesora el poeta pone en relieve la función metaliteraria del pasaje:
+e reference to the book about Alceste which lies in the poet's “cheste” appears to be literal, but is probably also a
+metaphorical allusion to the poet's memory, commonly thought of as a storage box or treasure chest, and is a clear signal of
+the epistemological dimensions of the scene.15
+No se trata aquí de aleccionar al narrador para que cambie sus actitudes frente al amor (el sujeto
+chauceriano es, en este sentido, un caso perdido)16 sino para que ponga en marcha su condición de productor
+y dedique sus esfuerzos a una escritura que asegure la conversión del conocimiento en memoria, su pasaje de
+la esfera individual a la cultural: “And thogh the lesteth nat a lovere be, / Spek wel of love; this penaunce
+yeve I thee” (vv. 480-481).17 Es así que la escritura en tanto dispositivo que permite poner en marcha los
+mecanismos del conocimiento y de la memoria en nuevas situaciones (verdadera “llave del recuerdo”) suele
+estar tematizada en la obra de Chaucer a través de un repertorio de imágenes familiar para quien haya
+recorrido sus textos. Una de esas “llaves” en e Legend of Good Women es la metamorfosis en estrella o
+constelación. Dice el narrador:
+Now knowe I hire. And is this good Alceste,
+e dayesie, and myn owene hertes reste?
+Now fele I weel the goodnesse of this wyf,
+at both air hir deth and in hir lyf
+Hir grete bounte doubleth hire renoun.
+Wel hath she quyt me myn aﬀeccioun
+at I have to hire ﬂour, the dayesye.
+No wonder ys thogh Jove hire stellyfye,
+As telleth Agaton, for hire goodnesse!
+(F vv. 518-526)18
+-Sí, ahora la reconozco […], es la buena de Alcestis, la margarita, el descanso de mi propio corazón. Ahora siento bien la
+bondad de esta esposa que tanto después de su muerte como en su vida duplicó su bondad a su fama. Bien ha recompensado
+el afecto que yo le tengo a su ﬂor, la margarita. ¡No es maravilla entonces que Jove la haya convertido en estrella como lo cuenta
+Agatón, por su bondad! (p. 141; las itálicas me pertenecen).19
+En el universo de la ﬁcción chauceriana el catasterismo, una forma de escritura sobre los cielos, remite a idea
+de que el beneﬁciario de la metamorfosis adquiere desde su perspectiva privilegiada en las alturas una forma
+de conocimiento superior que le permite valorar y mensurar adecuadamente los fenómenos del mundo.20
+Frente a la ﬁjeza que supone este punto de vista autorizado, Chaucer-narrador se niega a adoptar la posición
+de objeto de contemplación y reivindica para sí el espacio de la agencia, de la intervención, del perpetuo
+“hacerse”. Para quienes como él optan por el mundo sublunar, al igual que las historias, las pinturas y otros
+objetos culturales (esculturas, vitrales, inscripciones monumentales) que pueblan sus poemas, la inscripción
+en los cielos constituye una oportunidad más de poner en marcha los mecanismos de la memoria, y por ende
+de la escritura.
+Con este marco de ideas, es posible pensar que los relatos de buenas mujeres integrados en el libro son
+absorbidos por el campo semántico de la memoria a partir del motivo de la metamorfosis (en ﬂor, en estrella)
+del prólogo, e incluso quedan subsumidos en este motivo los relatos que en principio no tienen que ver con
+metamorfosis alguna (tal como los de Cleopatra o Lucrecia, que corresponden al campo de lo histórico).
+Sin embargo, e Legend of Good Women sería un libro imposible si el poeta llevara hasta las últimas
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890
+7
+consecuencias el mandato de dedicar toda su vida a la escritura (vida y escritura tendrían, hipotéticamente, la
+misma duración). Es el propio dios Amor el que da la solución y hace explícito el principio que permite que
+la memoria no termine siendo una empresa inviable: el pasado no es aprehensible en su totalidad, se ofrece en
+fragmentos y su recuperación, en deﬁnitiva, supone siempre alguna clase de reinterpretación o de glosa. Esta
+situación está explícitamente tematizada en el marco de e Book of the Duchess y e House of Fame, en que
+aparecen escenas de las historia troyana y del Roman de la Rose como una serie de escenas no-continuas que,
+sin embargo, están disponibles como repositorio que permite activar una memoria más completa, aunque
+quizá nunca total.21 El dios Amor condensa el principio de que la escritura no puede abarcar exhaustivamente
+la memoria de una sociedad en su declaración “I wot wel that thou maist nat al yt ryme” (v. 570),22 que
+continúa:
+It were to long to reden and to here.
+Suﬃseth me thou make in this manere:
+at thou reherce of al hir lyf the grete,
+Aer thise olde auctours lysten for to trete.
+For whoso shal so many a storye telle,
+Sey shortly, or he shal to longe dwelle.
+(F vv. 572-577)
+[…] sería demasiado largo leerlo y oírlo. Me basta con que lo hagas de esta forma: que realces todo lo sustancial de su vida y
+de acuerdo a como los escritores antiguos quisieron que se tratara. Y que quien cuente tantas historias sea breve, o se demorará
+demasiado (142; las itálicas me pertenecen).23
+La brevedad en el discurso y la selección de lo esencial en el contenido se establecen como los principios
+compositivos explicitados con mayor frecuencia a lo largo del libro; a partir de ellos quedan patentes las
+diferencias que separan la escritura de Chaucer de la de sus modelos, siempre más propensos a demorarse
+en el relato:
+And shortly of this tale for to telle (v. 789)24
+And for my part, I shal anon it kythe” (v. 912)25
+I coude folwe, word for word, Virgile,
+But it wolde lasten al to longe while (vv. 1002-1003)26
+And shortly to the poynt ryght for to go (v. 1634)27
+Wel can Ovyde hire letter in vers endyte,
+Which were as now to long for me to wryte (vv. 1678-1679)28
+What shulde I more telle hire compleynyng?
+It is so long, it were an hevy thyng.
+In hire Epistel Naso telleth al;
+But shortly to the ende I telle shal (vv. 2218-2221)29
+Se ha sugerido cierto paralelo entre el proyecto narrativo de e Legend of Good Women y el Monk’s
+Tale, uno de los Cuentos de Canterbury.30 En dicho cuento, que es considerado el más dantesco dentro de
+la colección, Chaucer ensaya una forma de micro-relatos que, sobre la base de la recurrencia de situaciones
+desdichadas apunta a reforzar la percepción del patrón de elevación y caída propio del modo trágico tal
+como era concebido en su época, de acuerdo con una fuerte impronta boeciana que identiﬁca lo trágico
+con la noción de “tragedia de fortuna”.31 En realidad, el cuento ofrece una “poética del caso”, con una serie
+potencialmente inﬁnita de historias breves que se extienden desde la Antigüedad hasta llegar casi al presente,
+lo que justiﬁcaría que el cuento no tenga un cierre formal sino que termine abruptamente en el momento en
+que el Monje es interrumpido por el Caballero:
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890
+8
+“Hoo!” quod the Knyght, “good sire, namoore of this!
+at ye han seyd is right ynough, ywis,
+And muchel moore; for litel hevynesse
+Is right ynough to muche folk, I gesse.
+I seye for me, it is a greet disese,
+Whereas men han been in greet welthe and ese,
+To heeren of hire sodeyn fal, allas!
+(Canterbury Tales, VII, vv. 2767-2773)
+–¡Oh! –exclamó el Caballero– ¡Buen señor, no más de esto! Lo que usted ha dicho es mucho más que suﬁciente; pues
+entiendo que para mucha gente un poco de desgracia es ya bastante. Para mí es triste oír la repentina caída de la gente que
+vivió en riqueza y comodidad. ¡Vaya! (p. 481).
+Más allá de las diferencias en la perspectiva, más cercana al carácter elegíaco de las Heroidas que al modo
+trágico, apelar a la cercanía con e Monk’s Tale puede resultar revelador: ambos relatos responden a una
+forma deliberadamente condensada, incluso con sus diferencias de extensión y de tratamiento. En los dos
+casos, se trata de series de historias que reiteran un patrón (de engaño y lamento en un caso, de ascenso y caída
+en el otro) y que no tienen una conclusión, simplemente son terminadas. Podría pensarse, además, que ambos
+relatos se proponen como inscripciones, como un repositorio de “memoria narrativa y cultural” que evoca,
+desde lo fragmentario, una memoria completa que puede ser recuperada por el receptor,32 lo cual justiﬁca las
+numerosas recomendaciones de leer a los auctores si se desea conocer más, como la que se da en el cierre de
+la Leyenda de Ariadna, citada más arriba. Estas historias no se proponen ser exhaustivas, tampoco completar
+o reiterar, ni mucho menos reemplazar lo que los grandes autores del pasado han legado a la posteridad; se
+presentan, en cambio, como parte de un proceso no interrumpido de actualización de dicha herencia, que
+conforme transcurre el tiempo, requiere de nuevos instrumentos que aseguren su continuidad.
+En este sentido, los libros antiguos son claves en el mantenimiento de esta memoria: “And yf that olde
+bokes were aweye, / Yloren were of remembraunce the keye” (vv. 25-26).33 La propia obra de Chaucer no
+solo se concibe como un aporte especíﬁco dentro de esa empresa trascendente y supraindividual, sino que
+reﬂexiona sobre las condiciones en que este esfuerzo se lleva adelante a través del contacto de generaciones de
+lectores con los libros, viejos y nuevos. El curioso manejo de las metamorfosis en e Legend of Good Women
+puede ser considerado, en deﬁnitiva, como uno más de los elementos que permiten comprender cómo el
+propio texto se transforma en memoria, en una renovada “llave del recuerdo”.
+Notas
+1 M. C. E. Shaner destaca en la breve nota introductoria que acompaña su edición del poema que se trata de un producto
+de la madurez artística de Chaucer, escrito no mucho después de Troilo y Criseida y antes (o durante) la composición de
+los Cuentos de Canterbury; véase e Legend of Good Women, ed. de M. C. E. Shaner en L. D. Benson (ed. gral.), e
+Riverside Chaucer, Oxford, Houghton Miﬄin – Oxford University Press, 1987, 587-630. Es difícil proporcionar una
+datación precisa para las leyendas, aparentemente escritas antes que el Prólogo, que a su vez fue reelaborado y sobrevive
+en dos versiones (F y G, esta última solo en el manuscrito de la Cambridge University Library Gg 4.27). La crítica ha
+destacado en F la presencia una posible alusión a la reina Ana, por lo cual debió haber sido redactado en algún momento
+entre su llegada a Inglaterra desde Bohemia a principios de 1382 y su muerte en junio de 1394. Más datos sobre la
+datación de e Legend of Good Women pueden consultarse en R. Rossignol, Critical Companion to Chaucer. A Literary
+Reference to His Life and Work, New York, Facts on File, 2006, 156-158.
+2 La cuestión de la transferencia de autoridad del latín a la producción vernácula así como su importancia en los momentos
+fundacionales de las distintas tradiciones literarias durante la Edad Media ha sido objeto de numerosos estudios en los
+que se ha llamado la atención sobre la variedad de actitudes frente a los modelos, que pueden comprender desde la
+traducción directa y ﬁel hasta la reelaboración casi completa; véase D. Kelly, “Translatio Studii: Translation, Adaptation,
+and Allegory in Medieval French Literature”, Philological Quarterly 57, 1978, 287-310. P. Damian-Grint (“Translation
+as Enarratio and Hermeneutic eory in Twelh-Century Vernacular Learned Literature”, Neophilologus 83, 1999,
+349-367) destaca que la interpretación y adaptación de los materiales clásicos son parte inherente del proceso de
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890
+9
+transferencia del ámbito clásico al vernáculo, de modo que se justiﬁca pensar dicha transferencia como una apropiación:
+“[is appropriation] did more than simply provide a justiﬁcation for the translation of learned texts, however. It also
+provided a hermeneutic that presented vernacular texts as having an auctoritas similar to that of their Latin originals,
+thus opening the way for the concept of vernacular literature which was original but also authoritative” (349). Las
+observaciones de Grint, aunque centradas en el momento de aﬁrmación de la literatura francesa en el siglo XII, resultan
+válidas para reﬂexionar acerca de la consagración de otras literaturas vernáculas durante los siglos XIII y XIV.
+3 Se trata de un procedimiento recurrente que supone una fuerte conciencia metaliteraria compartida por el autor y sus
+lectores. Analizo este aspecto con detalle en mi estudio “Chaucer y el género de las visiones oníricas”, en A. Basarte y L.
+Cordo Russo (comps.), Géneros literarios medievales, Buenos Aires, EUDEBA, 2019, 213-230.
+4 Cito el texto en inglés medio según la edición de M. C. E. Shaner en L. D. Benson (ed. gral.), e Riverside Chaucer,
+Oxford, Houghton Miﬄin – Oxford University Press, 1987, 587-630.
+5 Para el texto en español, sigo la traducción de J. L. Serrano Reyes en El Parlamento de las aves y otras visiones del
+sueño, Madrid, Siruela, 2005, 129-184. Ocasionalmente, cuando considero que la traducción es dudosa, introduzco
+correcciones propias sobre las que advierto en nota al pie.
+6 P. Boitani, “Old Books Brought to Life in Dreams: the Book of the Duchess, the House of Fame, the Parliament of
+Fowls”, en P. Boitani y J. Mann (eds.), e Cambridge Chaucer Companion, Cambridge, Cambridge University Press,
+1986, 39-57.
+7 Para una consideración general de las transformaciones que Chaucer realiza de los textos de Ovidio remito a las
+pormenorizadas notas explicativas de M. C. E. Shaner y A. S G. Edwards a cada leyenda en e Riverside Chaucer, Oxford,
+Houghton Miﬄin – Oxford University Press, 1987.
+8 “El resto de la historia no viene a cuento relatarla pero este es el resumen” (177).
+9 A. C. Spearing, “e Canterbury Tales IV: Exemplum and Fable”, en P. Boitani y J. Mann (eds.), e Cambridge Chaucer
+Companion, Cambridge, Cambridge University Press, 1986, 159-177. “Storyal soth” equivale a “verdad histórica”.
+10 Entre ellas, se han propuesto las Fábulas de Higinio y la Genealogia deorum de Boccaccio. F. Percival se detiene en
+la consideración de las distintas fuentes del pasaje, tanto antiguas como medievales en Chaucer’s Legendary Women,
+Cambridge, Cambridge University Press, 1998, esp. 21-58.
+11 Percival, Chaucer’s Legendary Women, Cambridge, Cambridge University Press, 1998, 23. Sobre la imagen margarita,
+su signiﬁcación y sus usos poéticos en el siglo XIV, véase J. I. Wimsatt, e Marguerite Poetry of Guillaume de Machaut,
+Chapel Hill, University of North Carolina Press, 1970.
+12 “Whan that Aprill with his shoures soothe / e droghte of March hath perced to the roote…” (Canterbury Tales,
+General Prologue, vv. 1-2); ed. de L. Benson en e Riverside Chaucer, Oxford, Houghton Miﬄin – Oxford University
+Press, 1987, 3-328. (“Cuando las suaves lluvias del mes de abril penetran hasta las raíces de la sequedad de marzo…”;
+trad. de los Cuentos de Canterbury de J. L. Serrano Reyes y A. R. León Sendra, Madrid, Gredos, 2004, 65).
+13 Por razones de rigor, transcribo literalmente la traducción de Serrano Reyes, aunque discrepo de la interpretación que
+ofrece de los vv. 427-428, en la que se ha deslizado un evidente error: el texto inglés dice “También hizo [“tradujo”] hace
+ya mucho tiempo, a Orígenes sobre la Magdalena”. Se trata de una referencia a una traducción de Chaucer, perdida, de la
+homilía De Maria Magdalena del Pseudo-Orígenes; véase la nota de Shaner al v. 428 en e Riverside Chaucer, Oxford,
+Houghton Miﬄin – Oxford University Press, 1987, 1065.
+14 F. Percival, Chaucer’s Legendary Women, Cambridge, Cambridge University Press, 1998, 52.
+15 F. Percival, Chaucer’s Legendary Women, 52-53.
+16 Efectivamente, a lo largo de su producción poética (no solamente en los poemas oníricos), Chaucer construye un sujeto
+que invariablemente se caracteriza por su alienación respecto de las pasiones amorosas, por un conocimiento del amor
+siempre externo, mediatizado por sus profusas lecturas. Recuérdese el reproche que el águila le dirige al poeta en los vv.
+613-660 de e House of Fame (en L. D. Benson, ed. gral., e Riverside Chaucer, Oxford, Houghton Miﬄin – Oxford
+University Press, 1987, 347-373).
+17 “…y aunque tú, desgraciadamente, no eres amante, habla sobre el amor. Esta penitencia te impongo” (140).
+18 Se ha especulado sobre la identidad de Agatón: puede tratarse del dramaturgo griego mencionado en Dante, Purg.,
+XXII,107, o del personaje del Symposium de Platón. Sin embargo, el catasterismo de Alcestis no aparece allí, y su
+procedencia sigue siendo incierta. Véase la nota a los vv. 525-526 en e Riverside Chaucer, 1065.
+19 Incluyo (marcada en itálicas) mi propia traducción del v. 525 porque discrepo de la traducción propuesta por Serrano
+Reyes, en la que la metamorfosis de Alcestis resulta atribuida a una segunda persona (el dios Amor) y no a Jove, como
+claramente se ve en el texto inglés. La traducción de Serrano Reyes dice “No entiendo cómo tu poder la convirtió en
+una estrella” (p. 141).
+20 En este punto vale la pena recordar el tratamiento cómico de esta situación en el Libro II de e House of Fame, en que el
+narrador es transportado a las alturas por el águila dorada: “O God, thoughte I, that madeste kynde, / Shal I noon other
+weyes dye? / Wher Joves wol me stellyfye, / Or what thing may this sygnifye?” (vv. 584-587 (“¡Oh, Dios, que has creado
+la Naturaleza!, ¿no hay otra forma de morir? ¿Me convertirá Júpiter en estrella o qué puede signiﬁcar esto?”, p. 86).
+Auster, no. 24, septiembre 2019, e053. ISSN 2346-8890
+10
+21 He realizado una aproximación a algunas de las implicancias de la recuperación parcial del pasado clásico por parte
+del sujeto narrador a partir de referencias a la historia de Troya en “Troya historiada en e Book of the Duchess y e
+House of Fame”, en: V Jornadas de Estudios Clásicos y Medievales “Diálogos Culturales”. La Plata, 5-7 de octubre de 2011,
+disponible en http://jornadasecym.fahce.unlp.edu.ar/. Señalé allí la importancia de la conexión con los auctores como
+elemento constitutivo de una poética que más que se inclinarse por las interpretaciones alegórico-normativas, apunta a
+reforzar en el lector la conciencia sobre la relación genética que la herencia clásica, convertida en una verdadera memoria
+de la cultura, guarda respecto de la propia producción, y en realidad respecto de toda producción verbal.
+22 “Sé bien que no puedes poner todo en rimas”; traducción propia del pasaje.
+23 Incluyo mi propia traducción de los vv. 576-577 (marcada en itálicas) porque no estoy de acuerdo con la traducción
+que en este punto ofrece Serrano Reyes, que dice: “y quien cuenta tantas historias brevemente, le digo que las explique
+largamente” (142).
+24 “Para abreviar esta historia” (146).
+25 “Yo, por mi parte, no revelaré más” (traducción propia).
+26 “Virgilio, podría seguirte palabra por palabra, pero sería demasiado largo” (150).
+27 “Para ir rápidamente al grano…” (162).
+28 “Ovidio termina completamente en verso su carta, que ahora sería demasiado larga para mí” (163).
+29 “¿Para qué voy a contar más sobre su lamento? Sería muy largo, sería muy pesado. Naso lo cuenta todo en sus Heroidas.
+Pero para terminar, lo contaré brevemente” (174; se reﬁere al lamento de Ariadna).
+30 Véase al respecto la nota introductoria de L. Benson sobre este cuento en e Riverside Chaucer, 17.
+31 En el exordio de su cuento, el personaje declara: “I wol biwaille in manere of tregedie / e harm of hem that stoode in
+heigh degree, / And ﬁllen so that ther nas no remedie / To brynge hem out of hir adversitee. / For certein, whan that
+Fortune list to ﬂee, / er may no man the cours of hire withholde. / Lat no man truste on blynd prosperitee; / Be war
+by thise ensamples trewe and olde” (Canterbury Tales, VII, vv. 1991-1998). (“Quiero lamentarme, a modo de tragedia,
+del dolor de aquellos que estuvieron en una alta posición y cayeron de tal manera que no hubo remedio para sacarlos
+de su adversidad. Pues cuando a la Fortuna le place huir, no hay nadie que pueda parar su curso. Que nadie confíe en la
+ciega prosperidad; estad avisados por estos ejemplos antiguos y auténticos”, Cuentos de Canterbury, 460).
+32 La frase es de S. Powrie, “Alain de Lille’s Anticlaudianus as Intertext in Chaucer’s House of Fame”, e Chaucer Review,
+44, 2010, 248. A propósito de las estrategias de condensación y fragmentación en Chaucer, Powrie propone: “Each
+structure functions as a kind of storage house for narrative and so appears to be a guarantor of narrative preservation
+or literary dissemination; however, none of these structures can guarantee ﬁdelity to the author’s original design. e
+narrative will be transformed as it is recorded, remembered, and retold” (259).
+33 “Y si esos libros antiguos no existieran, estaría perdida la llave del recuerdo” (131).
+PDF generado a partir de XML-JATS4R por Redalyc
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto

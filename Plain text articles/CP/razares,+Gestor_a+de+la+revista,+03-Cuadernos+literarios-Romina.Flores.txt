@@ -1,0 +1,481 @@
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+Romina Andrea Flores
+ 15 
+CUADERNOS de literatura
+Revista de Estudios Lingüísticos y Literarios
+SED  VOLUIT  VINCI  VIRIBUS  ILLA TAMEN: PRIMERAS 
+APROXIMACIONES AL LEXEMA STUPRUM EN OVIDIO
+Sed voluit vinci viribus illa tamen: first approaches to the lexeme stuprum in Ovid
+Romina Andrea Flores*
+Universidad Nacional del Nordeste
+roandflores@gmail.com
+Resumen
+En los textos de la antigüedad clásica encontramos diversos lexemas y sintagmas para 
+aludir a la violencia sexual. En este trabajo, estudiaremos los alcances del lexema stuprum 
+en las obras del poeta romano Publio Ovidio Nasón; término que, aunque resulta 
+infrecuente entre los poetas augusteos, es usado cinco veces en la obra de Ovidio: dos 
+en ars 1.698 (stupro) y 704 (stupri auctorem tui), dos en epist. 9.20 (maculas stupri) y 
+5.143 (pretium stupri) y una en met. 2.529 (stupri mercede). Dicho lexema, que aludía, 
+originalmente, a una “desgracia”, evoluciona para hacer referencia a actos sexuales ilícitos 
+cometidos con mujeres no casadas. En el análisis tendremos en cuenta, en primer lugar, 
+el contexto narrativo en el que se inserta el lexema en cada caso; consideraremos, en 
+particular, las voces enunciativas correspondientes; identificaremos, a continuación, 
+aquellos aspectos semánticos convergentes en torno del lexema y precisaremos, a su vez, 
+las diferencias existentes con respecto a los alcances de otros términos vinculados con 
+stuprum; finalmente, señalaremos las posibles correspondencias del lexema con otros 
+pertenecientes al campo semántico de la violación presente en la retórica ovidiana. 
+Abstract
+In the texts of Classical Antiquity, we find various lexemes and syntagmas that refer to 
+sexual violence. In this paper, we will discuss the scope of the lexeme stuprum in the works 
+of the Roman poet Publius Ovid Nason; a term which, although uncommon among 
+the Augustan poets, is used five times in Ovid’s work: twice in ars 1.698 (stupro) and 
+704 (pretium stupri), twice in epist. 9.20 (maculas stupri) and 5.143 (pretium stupri), and 
+once in met. 2.529 (stupri mercede). This lexeme, which originally referred to a “disgrace”, 
+evolves to refer to sexual assaults committed against unmarried women. In the analysis, 
+we will first take into account the narrative context in which the lexeme is used in each 
+case; we will consider, in particular, the different declarative voices. We will then identify 
+those semantic aspects that converge around the lexeme and in turn, we will specify the 
+existing differences concerning the scope of other terms related to stuprum; finally, we 
+will point out the possible correspondences between the lexeme with others belonging to 
+the semantic field present in the Ovidian rhetoric about rape.
+Cómo citar: Flores, R. (2020). Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio. Cuadernos de 
+Literatura. Revista de Estudios Lingüísticos y Literarios, 14, 15-26. Resistencia, Argentina, UNNE. ISSN 2684-0499. 
+DOI:. http://dx.doi.org/10.30972/clt.0144471
+Keywords
+love elegy; 
+Ovid; stuprum; 
+adulterium; 
+myth
+Palabras clave
+elegía amorosa; 
+Ovidio; stuprum; 
+adulterium; 
+mito
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+16
+Romina Andrea Flores
+Introducción
+En la elegía amorosa, tanto latina como griega, son frecuentes las escenas vinculadas con la 
+violencia amorosa: los vestidos rotos, los rasguños y los hematomas están diseminados por los textos 
+(Fredrick, 2002, p. 457). Estas imágenes coinciden con la forma en que tales escritos representan a 
+las mujeres, esto es, como seres indefensos y potencialmente violables, pues su voluntad está siempre 
+coartada por el deseo masculino (Guerra López, 2006, p. 173-174). La imagen de la virgo como cuerpo 
+penetrable no escapa a la obra ovidiana. El análisis de tales episodios revela diversos temas vinculados 
+con la condición femenina, que siguen vigentes y motivan estudios como el presente, orientado a 
+definir la construcción semántica del lexema stuprum a partir del análisis de los distintos episodios 
+ovidianos donde se registra.
+Si bien se trata de un término de uso muy esporádico dentro del género, y que resulta difícil 
+definir tanto por su ambigüedad como por su matiz jurídico (Marturano, 2017, p. 4), aparece cinco 
+veces dentro del corpus ovidiano:1 dos en ars 1.698 (stupro), 704 (stupri auctorem tui), dos en epist. 9.20 
+(maculas stupri) y 5.143 (pretium stupri), y una en met. 2.529 (stupri mercede). Este hecho llama nuestra 
+atención y nos invita a llevar a cabo el presente estudio.
+Tanto en función de la ambigüedad del término, como de las diferentes perspectivas para 
+explicar sus alcances, resulta necesario aproximarnos filológicamente al lexema stuprum y a otros 
+vinculados con el mismo: adulterium y violatio, en este caso. Esta distinción nos permitirá reconocer 
+las convergencias y particularidades entre dichas nociones, para caracterizar, posteriormente, el uso del 
+stuprum en los casos mencionados.
+Conceptos centrales: stuprum, adulterium y violatio
+La palabra stuprum, definida por el OLD en primer lugar como “Dishonour, shame” y, en su 
+segunda acepción, como “Illicit sexual intercourse in any form (whether forced or not) or an instance 
+of it” (Glare, 2012, p. 2020), alude, en materia legal, a la violación de mujeres que no se encuentran 
+casadas; se distingue semánticamente, además, de adulterium (Knox, 1995, p. 167). En tal sentido, 
+si bien parece haber aludido en sus orígenes tan solo a una “desgracia” en términos generales, luego 
+evolucionó para hacer referencia específicamente a distintos actos sexuales ilícitos (Adams, 1982, p. 
+200), que abarcaban desde el “adulterio” hasta las “violaciones forzadas”.2 A fin de diferenciar estos 
+conceptos, seguimos la distinción básica sobre las nociones stuprum y adulterium, registradas en el 
+Diccionario de motivos amatorios en la literatura latina:3
+1.	 Cf. Knox (1995, p. 167) menciona solo cuatro casos. 
+2.	 Cf. Adams (1982, p. 201): “But it came to be specialised (sic) of a sexual disgrace, i.e. an illicit sexual act, whether an 
+adulterous liaison or a forcible violation”.
+3.	 En este trabajo seguimos diversas entradas incluidas en el Diccionario de motivos amatorios en la literatura latina, editado 
+por Moreno Soldevila (2011).
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+Romina Andrea Flores
+ 17 
+En Roma, cuando una esposa (adultera, moecha) mantenía relaciones sexuales con un hombre que 
+no era su marido (adulter, moechus, corruptor), cometía adulterium. (…) Por su parte, el adulterio 
+cometido por un hombre casado (vir, coniux, maritus) no se consideraba adulterium –a no ser que 
+su pareja fuese una mujer casada (uxor, coniux, mulier, nupta)–, sino que su relación con una mujer 
+soltera respetable –o un hombre– constituía stuprum. (Fernández Sanz, 2011, p. 16)
+A la hora de referir la violencia sexual, en cambio, los romanos poseían múltiples expresiones 
+que les permitían diferenciar sus distintas formas; y, en tiempos de Ovidio, los usados con mayor 
+frecuencia eran iniuria, vis y stuprum per vim (Marturano, 2017, p. 4). Domínguez Martín y Martos 
+Fernández definen del siguiente modo la violación (violatio, raptus):
+Acceso carnal con alguien en contra de su voluntad o cuando se halla privado de sentido o 
+discernimiento. El violador, en cualquier caso, actúa desde una posición de dominio sobre la 
+víctima, que puede consistir en la superioridad física de un hombre sobre una mujer, un dios sobre 
+una mortal o un poderoso (…) sobre personas de rango inferior. (Domínguez Martín y Martos 
+Fernández, 2011, p. 453)
+Al ampliar este concepto y explicar el contexto en el que se enmarcan las violaciones en la 
+literatura latina, la autora señala diversas circunstancias comunes, de las que destacamos aquellas 
+que se encuentran presentes en los textos que analizaremos: la virginidad de las mujeres, que ellas 
+defienden huyendo o luchando; y la fuerza o el engaño de los hombres, que les ofrecen regalos como 
+compensación por haberlas privado de su virginidad. No obstante, puesto que consideramos pertinente 
+añadir a esta suerte de esquema retórico el hecho de que las mujeres siempre son abandonadas después 
+de la relación sexual, privilegiaremos el estudio secuencial de algunos aspectos elaborados a partir del 
+análisis propuesto, para organizar el desarrollo de las relaciones existentes en torno al uso del stuprum 
+en los casos mencionados.
+En el análisis revisamos, primero, la inserción del lexema en cada caso y, a continuación, los 
+aspectos desarrollados por Domínguez Martín y Martos Fernández (2011, p. 453-458) en torno a 
+las circunstancias de la violación: la virginidad; la resistencia - el rechazo; la fuerza - el engaño; la 
+recompensa - el embarazo; a los que agregamos: el abandono y la descripción de la violación a partir 
+de la retórica masculina, de la voz enunciativa de la joven ultrajada y de los otros actores que se refieren 
+al hecho, por ejemplo la vox populi. 
+Contexto narrativo del lexema stuprum en los textos ovidianos
+Las dos referencias correspondientes al Arte de amar se integran en una breve narración sobre el 
+vínculo entre Deidamía y Aquiles, mientras convivían en Esciros, porque Tetis había instado al héroe 
+a disfrazarse de mujer y ocultarse allí para evitar su marcha a la guerra de Troya:
+forte erat in thalamo uirgo regalis eodem;
+haec illum stupro comperit esse uirum.
+uiribus illa quidem uicta est, ita credere oportet:
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+18
+Romina Andrea Flores
+sed uoluit uinci uiribus illa tamen.
+saepe “mane!” dixit, cum iam properaret Achilles;
+fortia nam posita sumpserat arma colo.
+uis ubi nunc illa est? quid blanda uoce moraris
+auctorem stupri, Deïdamia, tui?
+(Ov. ars 1.697-704)4
+Casualmente la virgen real estaba en el tálamo al mismo tiempo;
+y, por medio del estupro, ella descubrió que él era un varón.
+Ella fue vencida ciertamente por la fuerza, así es conveniente creerlo.
+Pero ella, sin embargo, quiso ser vencida por la fuerza.
+A menudo “¡quédate!” le dijo, cuando Aquiles apresuraba la partida
+pues se había puesto las fuertes armas y abandonado la rueca.
+¿Dónde está ahora aquella fuerza? ¿Por qué demoras con dulce voz
+al autor de tu estupro, Deidamía?
+En el caso de Heroidas, son las mismas heroínas quienes escriben cartas en las que relatan, en 
+primera persona, su perspectiva sobre los hechos, lo que les otorga un papel mucho más activo que el 
+que poseían en la tradición anterior (Camino Plaza, 2016, p. 135). En la Heroida 5, por ejemplo, nos 
+hallamos ante un texto en el cual Enone intenta persuadir a Paris para que regrese con ella, después 
+de haber descubierto que ya había llegado de Troya con Helena. En un fragmento de la carta, la 
+ninfa relata la relación sexual no consensuada a la que se ha visto sometida por el dios Apolo,5 lo que 
+podemos considerar una innovación ovidiana ya que, si bien la capacidad de curar forma parte del 
+mito de Enone, ninguna otra fuente refiere a Apolo o a la escena de violación como orígenes de este 
+don (Knox, 1995, p. 166). Una de las particularidades de este pasaje reside en el sintagma mediante el 
+que Ovidio caracteriza, a través de Enone, la relación entablada con Apolo: pretium stupri:
+Me fide conspicuus Troiae munitor amauit;
+ille meae spolium uirginitatis habet,
+id quoque luctando. rupi tamen ungue capillos,
+oraque sunt digitis aspera facta meis.
+nec pretium stupri gemmas aurumque poposci:
+turpiter ingenuum munera corpus emunt.
+ipse ratus dignam medicas mihi tradidit artes
+admisitque meas ad sua dona manus
+(Ov. epist. 5.139-146)6
+4.	 Las citas latinas de Ov. ars han sido tomadas de la edición crítica de Mozley & Goold (1979); la autoría de las 
+traducciones castellanas consignadas me pertenece.
+5.	 Pese a la controversia filológica existente en torno a los versos citados, coincidimos con los cuatro argumentos expuestos 
+por Bebergal (2013, p. 119) respecto de su autenticidad.
+6.	 Las citas latinas de Ov. epist. 5 han sido tomadas de la edición crítica de Knox (1995); salvo indicación contraria, la 
+autoría de las traducciones castellanas me pertenece.
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+Romina Andrea Flores
+ 19 
+El que levantó las murallas de Troya, conocido por su lira, me amó;
+él tiene el despojo de mi virginidad,
+esto incluso luchando. Con todo le arranqué los cabellos con las uñas
+y su rostro se volvió áspero al tacto por mis dedos.
+Pero no reclamé oro ni joyas como pago por el estupro:
+los regalos compran vergonzosamente un cuerpo libre.
+Él mismo, creyéndome digna, me entregó las artes medicinales
+y dejó en mis manos sus dones.
+En la carta 9, de Deyanira a Hércules,7 también aparece el término stuprum para referir los 
+amores del héroe con Yole, a quien había tomado por esclava y concubina. Deyanira, a diferencia de 
+otras heroínas, se muestra más preocupada por mantener su posición social de esposa de un héroe que 
+de amada abandonada (Blázquez Noya, 2015, p. 15):
+	
+       quid nisi notitia est misero quaesita pudori, 
+si maculas stupri facta priora nota?8
+(Ov. epist. 9.19-20)9
+¿Qué buscas sino ser conocido por esta miserable vergüenza
+si cedes tus primeras hazañas a las manchas del estupro?
+En Metamorfosis, en cambio, la presencia del vocablo surge para describir la situación en la que 
+Júpiter, aprovechando un momento de descuido y soledad de Calisto, comete lo que él mismo llama 
+furtum (Ov. met. 2.423). Como fruto de esa violación, nace Arcas; luego, presa de ira, Juno transforma 
+a Calisto en una osa; para evitar que en una eventual cacería el hijo mate a la madre por error, Júpiter 
+convierte a ambos en las estrellas de dos constelaciones; finalmente, Juno dice: 
+cur non et pulsa ducit Iunone meoque
+conlocat in thalamo socerumque Lycaona sumit?
+at uos si laesae tangit contemptus alumnae,
+gurgite caeruleo Septem prohibete triones
+sideraque in caelo, stupri mercede, recepta
+pellite, ne puro tingatur in aequore paelex.
+(Ov. met. 2.525-530)10
+7.	 Si bien consideramos importante la inclusión de este caso para la definición del campo semántico propuesto, la obra no 
+ofrece las suficientes descripciones sobre el hecho mismo del stuprum para poder realizar un análisis tan profundo como 
+con el resto de los textos citados. Para ampliar sobre la voz enunciadora de Deyanira, consultar Blázquez Noya (2015).
+8.	 Cf. Blázquez Noya (2015, p. 14), que propone cumulas stupri.
+9.	 Las citas latinas de Ov. epist. 9 han sido tomadas de la edición crítica de Moya del Baño (1986); la autoría de las 
+traducciones castellanas consignadas me pertenece.
+10. Las citas latinas de Ov. met. han sido tomadas de la edición crítica de Anderson (1998); la autoría de las traducciones 
+castellanas consignadas nos pertenece.
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+20
+Romina Andrea Flores
+¿Y por qué no, repudiada Juno, la hace su esposa y
+la lleva a mi lecho y también hace a Licaón su suegro?
+Pero si a vosotros conmueve el repudio a su discípula herida 
+alejad a los Siete Triones de su abismo cerúleo 
+y echad a las estrellas reunidas en el cielo, premio por el estupro,
+para que la concubina no se bañe en ese mar puro.
+Tópicos vinculados con el stuprum
+Como hemos mencionado, Domínguez Martín y Martos Fernández (2011, p. 453-458) 
+señalan diversos aspectos comunes al definir el contexto en que se desarrollan las violaciones en la 
+literatura latina. Para el presente análisis, en consecuencia, organizamos la exposición en los siguientes 
+tópicos: la condición virginal de las mujeres víctimas de la violación; la defensa de su integridad física 
+a partir del rechazo o la resistencia a la agresión; los métodos para someter a las mujeres; las estrategias 
+para minimizar los daños; consecuencias de las violaciones; y, finalmente, la actitud de los diferentes 
+actores frente al abuso sexual y el abandono.
+1. La condición virginal de las mujeres víctimas de la violación11
+Era esta una cualidad muy importante para las mujeres solteras y la sociedad en general, hasta 
+el punto de ser inherente a la condición de “mujer joven” (Martos Fernández, 2011, p. 458). Tanto 
+Enone, como Calisto y Deidamía eran vírgenes antes de padecer stuprum, dato que Ovidio no duda en 
+enfatizar. Referido a Calisto, en Metamorfosis, el término virgo aparece cuatro veces (2.409, 426, 427 
+y 431). Deidamía es presentada por la voz narrativa como una virgo regalis (ars 1.697) y Enone afirma 
+que Apolo quedó en posesión de su spolium virginitatis (epist. 5.140). En función de lo expuesto, tanto 
+la condición de virgo, como la virginitas femenina pueden ser consideradas –respecto de estos tres 
+casos– como condiciones previas al stuprum. 
+2. La defensa de la propia integridad física a partir del rechazo o la resistencia a la agresión
+Tanto la resistencia de la joven como el rechazo al agresor señalan las circunstancias no 
+consensuadas en las que tiene lugar el acto sexual. Observamos entonces que las mujeres defienden su 
+virginidad y también se defienden a ellas mismas. Las formas más comunes bajo las que se manifiesta 
+esa resistencia son la huida, el ocultamiento o la metamorfosis. No obstante, pese a que la confrontación 
+del agresor no suele ser frecuente, los textos analizados permiten observar las siguientes excepciones. 
+11. Para ampliar sobre la cuestión de la virginidad en la etapa augustea, consultar Watson (1983). Sobre sus alcances 
+jurídicos, consultar Caldwell (2015)“.
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+Romina Andrea Flores
+ 21 
+La correspondiente a Heroidas resulta, sin dudas, la más emblemática, ya que en Ov. epist. 
+5.140-141 Enone cuenta cómo se defiende de las intenciones de Apolo, arrancándole los cabellos y 
+arañando su rostro: id quoque lutando rupi tamen ungue capillos, / oraque sunt digitis aspera facta meis. 
+Calisto, que también se enfrenta a un dios –ni más ni menos que a Júpiter–, de todas formas lucha (illa 
+quidem pugnat, Ov. met. 2. 436) y ruega que Juno vea la situación, se compadezca de ella e intervenga, 
+anticipándose a las consecuencias del stuprum (adspiceres utinam, Saturnia, mitior esses, Ov. met. 2.435). 
+Por último, en Ov. ars 1.699 se afirma que Deidamía resulta vencida por la fuerza de Aquiles (uiribus 
+illa quidem uicta est) y, más adelante, el poeta señala que ella también se resistió al acto (uis ubi nunc illa 
+est?, Ov. ars 1.703).
+3. Los métodos para someter a las mujeres
+En el ejercicio de la violencia sexual, los personajes masculinos, divinos y humanos, recurren a 
+diversos métodos. Si bien la fuerza no constituye siempre una condición necesaria, es posible observar 
+ejemplos de dicho comportamiento en los textos seleccionados, como en el ya citado de Ov. ars 1.699, 
+y también en Ov. met. 2.434-436 (illa quidem contra, quantum modo femina posset / … sed quem superare 
+puella, / quisve Iovem poterat?), cuando se narra que la joven Calisto rechaza indudablemente la actitud 
+agresiva del dios pero, en contraste, el yo poético se pregunta cómo podría una doncella superar a 
+Júpiter. Otros lexemas a considerar, respecto del mismo pasaje, son el verbo impedo y el sustantivo 
+crimen (impedit amplexu nec se sine crimine prodit, Ov. met. 2.433) debido a que el delito cometido 
+resultará visible sobre el cuerpo desnudo de Calisto, al ser contemplado por sus compañeras de caza 
+(dubitanti vestis adempta est, / qua posita nudo patuit cum corpore crimen, Ov. met. 2.461-462); mientras 
+que Juno sostiene que tanto la iniuria12 como el dedecus cometidos por Calisto y Júpiter se dan a 
+conocer por el nacimiento de Arcas (ut fecunda fores fieretque iniuria partu / nota Iouisque mei testatum 
+dedecus esset, Ov. met. 2.472-473).
+A su vez, tanto Aquiles como Júpiter engañan a sus víctimas: disfrazados de mujer logran su 
+confianza y se acercan a ellas. El primero, para evitar la guerra, se refugia en la casa del rey Licomedes. 
+Para no ser reconocido, esconde su género (...Achilles/ veste virum longa dissimulatus erat, Ov. ars 
+1.689-690). Allí, comparte el tálamo con Deidamía y aprovecha la circunstancia para cometer stuprum. 
+Júpiter, por su parte, descubre a Calisto descansando tras una cacería. La ve sola y, para acercarse a ella, 
+toma la forma de Diana, diosa a la que la joven estaba consagrada (protinus induitur faciem cultumque 
+Dianae, Ov. met. 2.425).
+Finalmente, la violencia ejercida contra Enone se señala en los versos previamente citados 
+(Ov. epist. 5.140-141). Defenderse, literalmente, con uñas y dientes debería ser más que suficiente 
+señal para Apolo, pero obviamente esto no significa nada para el dios o, simplemente, tener o no el 
+consentimiento de la mujer no le importa.
+12. Entendemos por iniuria un daño injusto a una persona libre. A su vez, este puede causar deshonor (dedecus, como en el 
+caso citado) o ser resultado de acciones violentas (cf. Ov. fast. II, 431-433) (Tello Lázaro, 2011, p. 223).
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+22
+Romina Andrea Flores
+Podemos comprobar, en consecuencia, que en todos los casos el acto sexual se da por la fuerza, 
+aspecto relevante para distinguir el campo semántico del stuprum del correspondiente al adulterium. 
+Esto se evidencia ante todo en los lexemas vis, crimen, iniuria y dedecus vinculados con actos de violencia 
+sexual (Domínguez Martín y Martos Fernández, 2011, p. 457). 
+4. Las estrategias para minimizar los daños. Consecuencias de las violaciones
+Entre las estrategias para minimizar los daños del stuprum, es común en los relatos mitológicos 
+que los agresores ofrezcan retribuciones por el mal causado –como lo sería, obviamente, la violación– 
+(Moreno Soldevila, 2011a, p. 356). También se dan casos en los que la virginidad perdida de las 
+mujeres es compensada con alguna dádiva, aunque la “recompensa” más común es la transformación, 
+entendida como una forma de “liberarse” del agravio.
+Calisto pasa por dos metamorfosis, ambas como consecuencias del stuprum. La primera, 
+propiciada por Juno, quien, deseosa de venganza, la transforma en osa luego de dar a luz a Arcas, el 
+hijo que concibió con Júpiter. Sin embargo, este acto de sororofobia13 no es el que nos compete, sino 
+la transformación que subsigue: tras años de vagar como un animal por el bosque donde una vez 
+cazó junto a sus compañeras, Calisto se encuentra con su hijo, quien también era cazador. Cuando 
+se hallaba listo para atacarla, intercede Júpiter y los convierte en estrellas. Podemos entender este 
+accionar del dios como una recompensa ya que Juno califica su lugar en el cielo como stupri mercede 
+recepta (Ov. met. 2.529). 
+En cuanto a Enone, su pretium stupri también puede ser considerado una recompensa por 
+la virginidad arrebatada (Domínguez Martín y Martos Fernández, 2011, p. 453). Al parecer, Apolo 
+ofrece gemas y oro, que son rechazados por la ninfa pues la aceptación equivaldría al ejercicio de la 
+prostitución. Por este rechazo el dios la considera digna y le otorga el don de la medicina (nec pretium 
+stupri gemmas aurumque poposci; / turpiter ingenuum munera corpus emunt. / Ipse ratus dignam medicas 
+mihi tradidit artes / admisitque meas ad sua dona manus, Ov. epist. 5.143-146). Otra consecuencia del 
+stuprum es el embarazo. Como ya se expuso, Calisto da a luz a Arcas (causa morae nulla est, et iam puer 
+Arcas (id ipsum / indoluit Iuno) fuerat de paelice natus, Ov. met. 2.468-469).
+Observamos en estos casos sintagmas que nos permiten completar el campo semántico del 
+stuprum: stupri mercede recepta y pretium stupri, ambos relacionados con el premio o la recompensa que 
+reciben las mujeres ultrajadas.
+13. Sobre el término sororofobia, seguimos a Marturano, quien lo presenta de manera general como “female figures 
+participating in misogyny” (2017, p. 1).
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+Romina Andrea Flores
+ 23 
+5. La actitud masculina frente al abuso sexual. El abandono 
+La descripción del amor en términos aplicables al campo semántico de la guerra, común en la 
+poesía elegíaca (Kennedy, 2012, p. 189), se registra con mayor fuerza en los vocablos que presentan el 
+stuprum como una victoria para los hombres. Son numerosas las referencias que encontramos, entre las 
+que nunca falta la noción de vencedor-vencido. En esta posición se ubican Aquiles y Júpiter: el héroe, 
+como ya se expuso, venció por la fuerza a Deidamía; y del dios sabemos que retornó victorioso a los 
+cielos (superum petit aethera victor, Ov. met. 2.437). 
+En cuanto al abandono, observamos, en los tres casos analizados, que los hombres, una vez 
+realizado el acto sexual, se marchan: Júpiter regresa al Olimpo dejando a Calisto temerosa, incluso de 
+sus compañeras de caza (Ov. met. 2.439-444). Aquiles va a Troya tras ser descubierto (haec illum stupro 
+comperit esse virum, Ov. ars 1.698) y Apolo solo retrasa su partida para ofrecerle su pretium stupri a 
+Enone (Ov. epist. 5.143).
+Con este último aspecto podemos cerrar, entonces, el campo semántico del stuprum propuesto 
+por la poética ovidiana. 
+6. Presentación del stuprum a partir de las distintas voces implicadas 
+Nos resta añadir las otras perspectivas propuestas –que sumamos a las características descriptas 
+por Domínguez Martín y Martos Fernández (2011, p. 453-458)– con respecto al stuprum; esto es, 
+cómo se presenta el hecho para el hombre adúltero, la joven ultrajada y otros actores que se refieren al 
+mismo, por ejemplo, la vox populi. 
+En cuanto a la voz enunciativa del adúltero, en Metamorfosis Júpiter dice hoc certe furtum coniux 
+mea nesciet (Ov. met. 2.423), donde el lexema furtum se compara a un crimen o flagitium, cuando se 
+refiere al adulterio. Es decir, Júpiter, en una evidente situación de poder, es consciente de que sus actos 
+no son correctos y espera que Juno no se entere de lo sucedido y, si esto ocurre, manifiesta que tampoco 
+le importan las consecuencias (aut si rescierit, sunt, o sun iurgia tanti!, Ov. met. 2.424). En este sentido, 
+el adúltero actúa sin considerar lo correcto de sus actos o lo que estos puedan significar para otros, 
+como su esposa o la mujer con la que tendrá eventualmente el encuentro sexual. 
+El punto de vista de la joven violada aparece explícitamente en la quinta Heroida cuando 
+Enone justifica el accionar de Apolo, vinculándolo con un acto por amor. La voz enunciativa femenina 
+propuesta por Ovidio, en consecuencia, romantiza el stuprum: me fide conspicuus Troiae munitor amavit 
+(Ov. epist. 5.139). 
+La perspectiva de la esposa engañada se atestigua en las acciones y palabras de Juno y Deyanira, 
+respectivamente. La primera, como ya hemos expuesto, castiga a Calisto y la transforma en osa por 
+venganza. La segunda, por su lado, desacredita a Yole, pues dice que su aspecto no se corresponde con 
+el de una cautiva (Ov. epist. 9.125-128).
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+24
+Romina Andrea Flores
+Finalmente, el narrador de Ars amatoria encarna a todos aquellos que no participan del hecho 
+aunque se permiten hablar de él. Así la vox populi romana inmediatamente después de aseverar que 
+Deidamía estuvo en contra de la relación con Aquiles, se permite dudar sobre los actos de la joven 
+(viribus illa quidem victa est, illa credere oportet, Ov. ars 1.699) y si bien afirma que fue vencida por 
+la fuerza, señala que ella lo quiso así (sed voluit vinci viribus illa tamen, Ov. ars 1.700). El narrador 
+recurre a otro motivo para desacreditar a la mujer al señalar el hecho de que, después del stuprum, pide 
+a su victimario que no la abandone (Saepe ‘mane’ dixit, cum iam properaret Achilles; / fortia nam posita 
+sumpserat arma colo. / Vis ubi nunc illa ests? Quid blanda voce moraris/ auctorem stupri, Deidamia, tui?, 
+Ov. ars 1.701-704).
+Las posturas masculinas resultan distantes de la condición femenina en tanto los autores del 
+stuprum no están preocupados por la opinión de los demás ni por las consecuencias de sus actos 
+respecto a ellos mismos o a otras personas. Disfrazados o a través de ardides, engañan a las mujeres y 
+las someten por la fuerza. A su vez, el narrador de Arte de amar, que expresa la cosmovisión romana –y 
+la del autor–, en tanto duda de la veracidad del relato, parece no creer que la mujer haya sido realmente 
+violada y, de esta manera, justifica el accionar del victimario aduciendo que la joven quería ser poseída 
+por su agresor (aunque, previamente, admita que el stuprum fue el medio por el cual la joven descubre 
+el verdadero género del huésped: haec illum stupro comperit esse uirum, Ov. ars 1.698). 
+La perspectiva femenina propuesta por Ovidio resulta también una justificación del violador: 
+Enone minimiza de alguna manera la violencia del acto, excusando al victimario y vinculando la 
+actitud del dios con la pasión amorosa. 
+Conclusiones
+Tras lo expuesto, pudimos constatar que, al menos en lo que a la obra ovidiana refiere, el 
+stuprum equivale a un acto de violación. Las condiciones de las mujeres son similares: se trata de 
+vírgenes que buscan defenderse de la violencia masculina, reciben un “premio” tras el hecho (por 
+ejemplo, un don como compensación) o, como resultado de la unión forzada, tienen un hijo; finalmente, 
+son abandonadas. En síntesis, atacadas, cambian irremediablemente y son dejadas a su suerte. Y, por 
+si fuera poco, no reciben compasión de nadie: el hombre las juzga (en el caso del narrador de Ars 
+amatoria), las otras mujeres las ponen en evidencia (como las compañeras de Calisto) o las castigan 
+(como hace Juno, la esposa también ultrajada). Los hombres autores del stuprum, si bien parecen 
+considerar mínimamente las posibles consecuencias de sus actos (en este caso, Júpiter), no atienden a 
+nada más que a su propio deseo sexual; a un costado quedan sus responsabilidades con los huéspedes 
+(como Aquiles) o con la esposa (Júpiter). La fuerza y/o el engaño son los métodos elegidos para 
+alcanzar sus propósitos y, una vez logrados, abandonan a sus víctimas para continuar con sus vidas.
+Si bien los autores estudiados establecen que el término stuprum, en su evolución, corresponde 
+tanto a adulterios como a relaciones sexuales forzadas (es decir, equivaliendo tales actos ilícitos) 
+las circunstancias referidas en el análisis permiten confirmar que, en Ovidio, siempre se usa en el 
+contexto de una violación. En este sentido, que se haya podido demostrar que el acto sexual, en cada 
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+Romina Andrea Flores
+ 25 
+caso, se efectúa por la fuerza resulta relevante para diferenciar el stuprum del adulterium (esto es, la 
+relación sexual consensuada entre una mujer casada y un hombre que no es su marido). Aunque 
+pueden compartir ciertos aspectos, las circunstancias analizadas hacen evidente la distinción entre 
+ambos. En primer lugar, en ningún caso se trata de mujeres casadas, por el contrario, son todas jóvenes 
+vírgenes. En segundo, los actos sexuales son cometidos sin el consentimiento femenino y las víctimas 
+se defienden durante el abuso, como pueden. Finalmente, los hombres están siempre en una posición 
+de superioridad con respecto a las figuras femeninas, de la que se aprovechan para ultrajarlas. 
+Referencias bibliográficas
+Adams, J. (1990). The Sexual Latin Vocabulary. London, Duckworth. 
+Anderson, W. (1998). P
+. Ovidii Nasonis Metamorphoses. Leipzig, Teubner.
+Bebergal, C. (2013). A Student’s Commentary on Heroides 5, 16, and 17. Florida State University. https://
+bit.ly/2QyZ2LG
+Blázquez Noya, A. (2015).  Las voces de Deyanira en Heroidas IX de Ovidio y Traquinias de Sófocles. 
+Myrtia, 30, 11-33. https://bit.ly/34FVyj6
+Caldwell, L. (2015). Protecting virginity. En: Roman Girlhood and the Fashioning of Femininity (pp. 
+45-78). Cambridge, Cambridge University Press.
+Camino Plaza, L. (2016). Las voces femeninas en las Heroidas de Ovidio. Nuevas aproximaciones a la 
+elegía de mujeres. ArtyHum, 20, 2-12. https://bit.ly/31ypWtr
+Domínguez Martín, M. y Martos Fernández, J. (2011). Violación. En: Moreno Soldevilla, R. (ed.), 
+Diccionario de motivos amatorios en la literatura latina (siglos III a.C.-II d.C.) (pp. 453-458). España, 
+Universidad de Huelva.
+Fernández Sanz, D. (2011). Adulterio. En: Moreno Soldevilla, R. (ed.), Diccionario de motivos amatorios 
+en la literatura latina (siglos III a.C.-II d.C.) (pp. 16-22). España, Universidad de Huelva.
+Fredrick, D. (2002). Reading broken skin: violence in Roman elegy. En: Miller, P. (ed.), Latin Erotic 
+Elegy. An anthology and reader (pp. 457-479). London-New York, Routledge.
+Fulkerson, L. (2005). The Ovidian Heroine as Author. Cambridge, Cambridge University Press.
+Glare, P. (ed.) (2012). Oxford Latin Dictionary. Oxford, Oxford University Press.
+Guerra López, S. (2006). Mito y violencia sexuada en las Metamorfosis de Ovidio. En: Molas Font, 
+M. D.; Huntingford Antigas, E.; Guerra López, S. y Zaragoza Gras, J., La violencia de género en la 
+antigüedad (pp. 169-176). Madrid, Instituto de la Mujer. https://bit.ly/3aPe9ds 
+Jacobson, H. (1974). Ovid’s Heroides. New Jersey, Princeton University Press.
+Kennedy, D. (2012). Love’s Tropes and Figures. En: Gold, B. (ed.), A Companion to Roman love elegy 
+(pp. 189-203). Oxford, Wiley-Blackwell.
+Knox, P. (1995). Ovid’s Heroides: Select Epistles. Cambridge, Cambridge University Press.
+Sed voluit vinci viribus illa tamen: primeras aproximaciones al lexema stuprum en Ovidio
+Cuadernos de Literatura. Revista de Estudios Lingüísticos y Literarios 14 (2020). ISSN 2684-0499.
+DOI: http://dx.doi.org/10.30972/clt.0144471
+26
+Martos Fernández, J. (2011). Virginidad. En: Moreno Soldevilla, R. (ed.), Diccionario de motivos 
+amatorios en la literatura latina (siglos III a.C.-II d.C.) (pp. 458-460). España, Universidad de Huelva.
+Marturano, M. (2017). Vim Parat: Patterns of Sexualized Violence, Victim-Blaming, and Sororophobia 
+in Ovid. CUNY. https://academicworks.cuny.edu/gc_etds/2303
+Moreno Soldevilla, R. (ed.) (2011). Diccionario de motivos amatorios en la literatura latina (siglos III 
+a.C.-II d.C.). España, Universidad de Huelva.
+Moreno Soldevila, R. (2011a). Recompensa. En: Diccionario de motivos amatorios en la literatura latina 
+(siglos III a.C.-II d.C.) (pp. 356-357). España, Universidad de Huelva.
+Moya del Baño, F. (1986). Ovidio. Heroidas. Madrid, Consejo Superior de Investigaciones Científicas.
+Mozley, J. y Goold, G. (1979). Ovid in Six Volumes. Vol. 2: Ars Amatoria. Cambridge, Harvard University 
+Press.
+Tello Lázaro, J. (2011). Lenguaje técnico jurídico en el amor. En: Diccionario de motivos amatorios en la 
+literatura latina (siglos III a.C.-II d.C.) (pp. 221-225). España, Universidad de Huelva.
+Watson, P. (1983). Puella and Virgo. Glotta, 61, 119-143. https://bit.ly/3jml1lG 
+*Romina Andrea Flores es estudiante avanzada de la Licenciatura y del Profesorado en Letras 
+(Universidad Nacional del Nordeste) e integrante del PI 17H014: “Dimensiones monstruosas de la 
+épica y de sus héroes en Heroidas de Ovidio” (Secretaría General de Ciencia y Técnica, UNNE).
+Recepción: 12/06/2020
+Aceptación: 17/08/2020
+Romina Andrea Flores

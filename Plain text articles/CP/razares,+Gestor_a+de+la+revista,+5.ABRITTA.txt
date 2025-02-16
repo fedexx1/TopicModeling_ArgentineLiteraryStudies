@@ -1,0 +1,429 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+UN ANÁLISIS MÉTRICO-RÍTMICO DEL POEMA DE
+DÁNAE DE SIMÓNIDES DE CEOS
+A metrical-rhythmic analysis of Simonides of Ceos’ Danae
+Poem
+Abria, Alejandro
+ Alejandro Abritta *
+alejandroabritta@gmail.com
+Universidad de Buenos Aires - CONICET, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 20, e2005, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 14/12/22
+Aprobación: 02/02/23
+URL: http://portal.amelica.org/ameli/journal/785/7853965010/
+DOI: https://doi.org/10.30972/clt.0206624
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: El objetivo del presente artículo es estudiar las
+técnicas compositivas del Poema de Dánae de Simónides de Ceos
+desde una perspectiva métrico-rítmica que prioriza los efectos
+estéticos antes que los debates de carácter colométrico. Después
+de una introducción al tema, se presenta el corpus elegido y
+el marco metodológico del enfoque, para luego establecer una
+colometría del texto y pasar al análisis. Se demuestra que es
+posible, incluso en un poema de la diﬁcultad métrica del de
+Simónides, alcanzar conclusiones interesantes sobre su técnica
+compositiva, que además son plausibles de transferir a otros
+autores de la poesía antigua.
+Palabras clave: Simónides, Poema de Dánae, metro, ritmo,
+poesía lírica.
+Abstract: e aim of this article is to study the compositional
+techniques of Simonides of Ceos’ Danae Poem from a metrical-
+rhythmical perspective that prioritizes aesthetic eﬀects rather
+than debates about colometry. Aer introducing the subject and
+presenting the corpus and the methodology of the approach, I
+establish a colometry of the text and move on to the analysis. is
+paper shows that it is possible, even in a poem with the metrical
+diﬃculty of Simonides’, to reach interesting conclusions about
+his compositional technique, which are also plausible to be
+transfer to other authors of ancient poetry.
+Keywords: Simonides, Danae Poem, meter, rhythm, lyric poetry.
+1. Introducción
+Uno de los textos más bellos que nos han sido transmitidos de la poesía griega clásica llegó hasta nosotros
+por una razón muy peculiar. En su tratado sobre la composición literaria, Dionisio de Halicarnaso lo cita
+para ilustrar un ejemplo de un poema cuyo ritmo es indescifrable sin la ayuda del análisis de un editor.1 El
+Notas de autor
+*
+Alejandro Abritta es Doctor en Letras y Licenciado en Filosofía por la Universidad de Buenos Aires (UBA), donde se desempeña como docente de
+Lengua y Cultura Griega. Es Investigador Asistente del Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas (CONICET) y ha publicado
+numerosos artículos en revistas nacionales e internacionales, en particular sobre métrica y acentuación griegas, poesía helenística y homérica, e himnos
+griegos. Actualmente, se encuentra dirigiendo un proyecto de traducción comentada de la Ilíada, enmarcado en el contexto del Taller de Traducción
+del poema en el Instituto de Filología Clásica de la UBA.
+Cuadernos de Literatura, 2023, núm. 20, e2005, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+autor, como es de esperar en el contexto, no hace comentario alguno sobre la calidad de la obra, y ni siquiera
+podemos estar seguros de si cita un pasaje bien recortado, o si lo ha seleccionado de forma deliberada para
+ilustrar su punto.2 Sin embargo, aun este atisbo del poema nos permite ver mucho de la técnica compositiva
+de su autor y reconocer a uno de los grandes maestros de la literatura griega antigua.
+Me reﬁero, desde luego, al Poema de Dánae de Simónides de Ceos. El objetivo del presente trabajo es
+realizar una introducción a este texto desde una perspectiva métrica, explicando las estrategias rítmicas que
+el poeta ha utilizado y ofreciendo una colometría original para su lectura. La intención no es resolver el
+irresoluble problema que la métrica del poema ofrece, sino mostrar que, aun sin hacerlo, es posible proponer
+conclusiones interesantes sobre la manera en que está construido el ritmo del texto.
+Es importante aclarar que, aunque espero que las observaciones que siguen resulten útiles a los especialistas
+en lírica antigua, este artículo está dirigido a aquellos que no tienen más que un conocimiento básico de griego
+antiguo. Por esta razón, luego de introducir el texto, comenzaré con una introducción elemental a la métrica
+de la poesía griega lírica, que luego aplicaré al análisis del Poema de Dánae, para ﬁnalmente estudiar qué nos
+enseña este análisis de la técnica compositiva de Simónides.
+2. Simónides y el Poema de Dánae
+Simónides de Ceos fue un prolíﬁco poeta lírico y elegíaco que vivió entre la segunda mitad del s. VI a.C. y la
+primera mitad del V. Su obra nos ha llegado de manera muy fragmentaria, en particular su lírica, pero aun
+así ha sido suﬁciente para justiﬁcar dos ediciones recientes de sus textos.3 Simónides es probablemente uno
+de los autores más importantes en la historia de la lírica griega, y quien abre su edad de mayor esplendor, que
+incluye a Píndaro, Baquílides y los poetas trágicos.
+El Poema de Dánae es uno de los fragmentos líricos en mejor estado y más extensos que conservamos de
+él. No tenemos información alguna sobre su contexto ni sobre el tipo de obra que sería.4 La lírica griega
+cuenta con numerosas instancias de narrativa, incluyendo las extensas épicas de Estesícoro y la Oda 17 de
+Baquílides, lo que hace difícil siquiera avanzar una hipótesis sobre qué clase de poema podría incluir estos
+versos narrativos.
+A continuación, cito el texto del poema:5
+Alejandro Abritta. UN ANÁLISIS MÉTRICO-RÍTMICO DEL POEMA DE DÁNAE DE SIMÓNIDES DE CEOS
+PDF generado a partir de XML-JATS4R
+en la labrada arca
+el viento soplando
+y el agitado mar con terror
+la sacudían, y con mejillas no sin humedecer
+ceñía en torno a Perseo su querida mano
+y decía: “¡Oh, hijo, qué suimiento tengo!
+Y tú descansas, y con lactante
+corazón dormitas en esta barca inhóspita
+de broncíneos clavos, en la opaca noche,
+tendido en esta negra oscuridad;
+y la espuma profunda sobre tu pelo
+de la ola que pasa no te preocupa,
+ni el sonar del viento,
+recostado en tu purpúrea túnica,
+bello rostro.
+Pero si para ti fuera terrible lo terrible,
+a mis palabras sí
+aplicarías tu oreja delicada.
+Te lo pido: duerme, niño,
+y duerma el mar, y duerma
+la desgracia inmensurable;
+y que algún cambio se produzca,
+padre Zeus, de tu parte.
+¡Que una palabra audaz
+o por fuera de lo justo suplique, perdónamelo!”
+3. La métrica de la lírica griega
+A diferencia de la métrica española, pero en línea con la mayor parte de los sistemas métricos del mundo,
+la métrica griega antigua no estaba basada en la cantidad de sílabas y el acento de las palabras, sino en la
+Cuadernos de Literatura, 2023, núm. 20, e2005, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+cantidad silábica. Los metros griegos no se construyen contando sílabas, sino con elementos que rigen en
+cada ubicación qué tipos de sílabas pueden ir en ella. Así, mientras que un verso español se puede describir
+en función de la cantidad de sílabas que contiene (octosílabo, dodecasílabo, etc.), un metro griego debe
+ser descripto con un esquema que explicite esta secuencia de elementos, por ejemplo 
+ y
+. Los elementos 
+ señalan una ubicación que solo puede ser ocupada por una sílaba larga; los
+elementos 
+ una que solo puede ser ocupada por una sílaba breve; y los elementos 
+ una ubicación variable
+(anceps), donde puede haber una sílaba larga o una breve. En el primer ejemplo, sin embargo, las secuencias
+ deben ser consideradas un único elemento, el doble-breve, por razones técnicas de la descripción de los
+metros griegos.6
+En la constitución de los metros, dos reglas son fundamentales: primero, los elementos se dividen en
+marcados (solo el elemento 
+) y no marcados (
+); segundo, con una única excepción (el inicio de verso
+), no puede haber dos elementos no marcados seguidos, ni tres elementos marcados seguidos. De esto puede
+deducirse con relativa facilidad que el número de secuencias mínimas (tres elementos) constitutivas del verso
+griego es muy acotado: 
+. Si la primera de estas se deja de lado, dada la naturaleza peculiar del
+anceps, se concluye que todos los metros griegos están armados sobre la base de las unidades 
+ y 
+.
+Aunque esto es válido para el interior de cada verso, en los extremos se aplican, por mor de la variación,
+reglas especiales. Así, un verso puede comenzar, como se esperaría, por una larga de comienzo de unidad,
+como en el primer ejemplo de arriba (i.e. 
+), pero también por un anceps, como en el segundo
+(i.e. 
+), o por dos (e.g. 
+ ). Es posible también que la primera larga esté ausente (“acefalía”),
+y el verso comience por las sílabas breves (e.g. 
+). La situación es algo más sencilla en el cierre, donde
+hay dos opciones: un verso puede terminar junto con la última unidad (como en 
+), o bien puede
+terminar añadiendo una sílaba extramétrica luego de esta unidad (como en
+).
+Para describir rítmicamente los metros griegos es necesario tomar en consideración, por todo esto, cuatro
+rasgos:7
+Así, por ejemplo, el hexámetro dactílico, 
+ (el primero de los metros ilustrados
+arriba), puede describirse como un metro homogéneo-d (nótese la ausencia de unidades-s), constituido por
+prolongación (sin sucesiones de elementos marcados), descendente y sonoro. El segundo metro, el trímetro
+yámbico, 
+, es casi su opuesto: homogéneo-s, constituido por prolongación, ascendente
+y sordo.
+Por supuesto, los versos griegos no se presentan solos, sino que se agrupan de diferentes maneras. A los ﬁnes
+del presente trabajo, la que nos interesa es una de las más complejas, la llamada tríada. Las tríadas son grupos
+de tres estrofas de constitución libre, en donde la primera estrofa es igual a la segunda (antistrofa), y la tercera
+es distinta (epodo); todas las tríadas dentro de un poema son iguales entre sí. Este esquema compositivo es
+típico de la lírica griega arcaica y, aunque no podemos estar seguros, es presumiblemente el que se habría
+utilizado en el Poema de Dánae.
+Alejandro Abritta. UN ANÁLISIS MÉTRICO-RÍTMICO DEL POEMA DE DÁNAE DE SIMÓNIDES DE CEOS
+PDF generado a partir de XML-JATS4R
+La agrupación de versos nos lleva al problema ﬁnal a considerar en esta sección introductoria, a saber, la
+ubicación de sus límites. Aunque las estrofas líricas a menudo nos llegan organizadas en líneas ya ordenadas
+por editores antiguos, sabemos que hasta el periodo alejandrino la transmisión de la poesía lírica era indistinta
+de la de la prosa, y, por lo tanto, que el ordenamiento que tenemos no está basado en los propios poetas, sino
+en consideraciones editoriales que no diﬁeren de las que podemos hacer nosotros sobre la misma evidencia.8
+Esto no es sencillo de hacer, puesto que los rasgos que nos permiten distinguir el límite de un verso son muy
+acotados, reduciéndose, en sentido estricto, a dos: el hiato (i.e. el encuentro de vocales donde la primera
+retiene su cantidad larga) y el llamado brevis in longo, en donde una sílaba breve aparece en una ubicación
+donde esperamos una larga.
+Así, por ejemplo, las primeras palabras transmitidas en el Poema de Dánae son λάρνακι ἐν δαιδαλέαι ἄνεμός
+τε μιν πνέων, que conforman una sucesión 
+. Esto no es imposible,9 y podría interpretarse como
+una secuencia 
+, pero nótese el hiato en δαιδαλέαι ἄνεμός, que nos lleva a sospechar que allí hay un límite
+de verso, lo que daría un análisis 
+. La primera línea es interpretable como una secuencia d’d,
+con yuxtaposición, mientras que la segunda es una secuencia acéfala . Un verso muy similar a este último
+se halla en est. 3 (v. 11), lo que refuerza la impresión de que el análisis es correcto.
+La disciplina que realiza este tipo de estudios sobre la lírica griega suele denominarse “colometría”.10 Es
+importante observar que, aunque no es la tendencia mayoritaria entre los especialistas, la identiﬁcación de
+los límites de verso debe realizarse a partir del estudio de los poemas individuales, no de conjeturas mal
+fundamentadas sobre supuestos géneros que están formados más de excepciones que de reglas. Por lo demás,
+en el caso particular del Poema de Dánae, es extraño aplicar modelos de otros textos a uno que nos ha sido
+transmitido especíﬁcamente por su diﬁcultad para aplicar modelos de otros textos.
+4. La métrica del Poema de Dánae
+Como se observó arriba, el Poema de Dánae nos ha llegado como ejemplo de un estilo métrico complejo,
+donde es difícil identiﬁcar el límite de los versos, y esto, en efecto, ha sido evidente para todos los autores que
+han trabajado con él. No hay acuerdo hoy respecto a cómo debemos analizarlo, y al menos cuatro enfoques
+diferentes coexisten, los de Page (1951 y 1962), el de West (1981) y el de Poltera (2008). Excluyo el primero,
+porque el propio Page modiﬁca su opinión de un trabajo a otro.11 El modelo de West es imaginativo, pero
+un despliegue claro de los defectos contundentes del enfoque colométrico, por lo que he decidido dejarlo
+también fuera de consideración. Los otros dos pueden confrontarse en la siguiente tabla.12
+Cuadernos de Literatura, 2023, núm. 20, e2005, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Tabla 1. Esquema métrico del Poema de Dánae en trabajos anteriores.13
+Como puede verse, las diferencias son considerables, y hablan de la relativa arbitrariedad en la
+determinación de los límites de verso en el poema. Existen algunos puntos de coincidencia, que he subrayado,
+y que pueden considerarse como los únicos donde hay cierta certeza.14 A continuación, presento los
+principales problemas en el resto del texto, con la solución por la que he optado. El lector no especializado
+puede saltear lo que sigue y pasar directamente al resultado, al ﬁnal de la sección:
+•
+El primer verso varía dependiendo de si se incluye el ὅτε o ὅτι de la cita de Dionisio, pero concuerdo
+con Poltera en que es solo el introductor, y no parte del poema.
+•
+Ep. x+1 a +4 ﬂuctúan en función del lugar donde se coloquen los ﬁnales, y no hay aquí una forma
+segura de deﬁnir la cuestión.15 Sigo a Page (1962), para evitar el improbable ﬁnal οὐδ’ en el v. 4 de
+la edición de Poltera. Esto implica colocar los cierres de verso de la siguiente manera: ἄνεμός τε μιν
+Alejandro Abritta. UN ANÁLISIS MÉTRICO-RÍTMICO DEL POEMA DE DÁNAE DE SIMÓNIDES DE CEOS
+PDF generado a partir de XML-JATS4R
+πνέων || κινηθεῖσά τε λίμνα δείματι || ἤρειπεν, οὐδ’ ἀδιάντοισι παρειαῖς, lo que a su vez tiene la ventaja
+de que cierra ep. x+3 con un hiato.
+•
+Sigo, con una excepción (cf. abajo) a Poltera en est. 1 a 11 (Page 1 a 13). El análisis del autor simpliﬁca
+la secuencia y hace más coherente la métrica con la sintaxis.16 El esquema resultante, además, es más
+lógico y menos arbitrario que el propuesto por Page.
+•
+En est. 4 Poltera interpreta 3 
+. Para esto, es necesario tomar τεᾶν como una única sílaba larga
+con sinéresis, lo que es, desde luego, posible. Sin embargo, habida cuenta de la secuencia métrica,
+preﬁero no hacer esto e interpretar la línea sobre la base de ep. x+3 (anceps inicial) y su predecesor
+inmediato, que tiene una yuxtaposición antes de una serie prolongada-s. El esquema resultante es
+.
+•
+En est. 12-13 (Page 14-15) no hay manera de determinar el punto exacto del corte, y otros análisis
+además de los presentados son posibles, incluyendo tomar toda la secuencia como un único verso.
+Preﬁero, sin embargo, cortar como Page (y los antiguos) en κέλομ’· εὗδε βρέφος, dejando un verso 
+que remite a los anteriores 
+ (est. 8) y d’s (est. 10), continuando la secuencia y anticipando el verso
+de cierre ds; el otro verso resultante, sssss’s, se asemeja a est. 4, con el sorpresivo cierre yuxtapuesto-s.
+No es posible, de todas maneras, cuestionar análisis alternativos.
+•
+Est. 15 (17-18 Page) aparece en los manuscritos en dos líneas, de donde la división de Page. El
+contexto de la secuencia, sin embargo, recomienda seguir a Poltera en uniﬁcarlas, habida cuenta de
+la cantidad de versos constituidos por dos unidades y la relativa ausencia de versos constituidos por
+una sola. Como buena parte de las demás, se trata de una determinación algo arbitraria.
+El resultado de este análisis es el siguiente esquema, que introduzco con el texto griego en paralelo.17
+Cuadernos de Literatura, 2023, núm. 20, e2005, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Tabla 2. Esquema métrico del Poema de Dánae.18
+Alejandro Abritta. UN ANÁLISIS MÉTRICO-RÍTMICO DEL POEMA DE DÁNAE DE SIMÓNIDES DE CEOS
+PDF generado a partir de XML-JATS4R
+5. Análisis métrico del fragmento
+El primer paso para estudiar la técnica compositiva del Poema de Dánae es comprender la naturaleza rítmica
+de sus versos, para lo que presento la siguiente tabla, donde estos se listan. Las primeras dos columnas
+contienen la numeración de las estrofas y el esquema de cada verso; en las siguientes cuatro presento el detalle
+de cada una de las características rítmicas listadas en la sección 2. La columna ﬁnal es una referencia numérica
+para identiﬁcar los diferentes tipos de verso: el número en sí mismo no signiﬁca nada, pero sirve para observar
+la variación.19
+Tabla 3. Características rítmicas de los versos del Poema de Dánae.
+En los 21 versos conservados del poema, Simónides utiliza trece diferentes esquemas rítmicos. Para
+comparar, en una composición relativamente compleja como la Olímpica 1 de Píndaro, el autor utiliza siete
+esquemas en 19 versos. Pero la variación es todavía más marcada cuando se observa que, en la Olímpica 1, el
+tipo de verso más común (mixto, yuxtapuesto, ascendente, sordo 
+ e.g. 
+) aparece ocho veces (un 42%
+del esquema), mientras que en el Poema de Dánae el tipo de verso más común (mixto, prolongado, ascendente,
+sordo 
+ e.g. s×ds) lo hace solo cinco. A la inversa, mientras que en la Olímpica 1 solo cuatro tipos de verso se
+utilizan una única vez, en el Poema de Dánae este número asciende a nueve tipos (un 20% frente a algo más
+de un 40% de versos con esquema rítmico único).
+Cuadernos de Literatura, 2023, núm. 20, e2005, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Esta variación es solo uno de los elementos que destacan el esquema compositivo del poema. No podemos
+apreciar del todo el orden de la secuencia, porque no contamos con el comienzo del epodo y este podría
+tener varios versos más, pero sí observar que muestra una muy sutil progresión que comienza en est. 1, con
+el insistente colon dds.20 Esto es claro en el esquema abstracto, pero la elección de palabras lo disimula en la
+primera instancia del verso, que introduzco aquí con la segunda para comparar y los límites de cola señalados
+en la parte superior con la barra vertical:
+Como puede verse, en la primera instancia el primer corte está disimulado dentro de ἀωρεῖς y el segundo
+coincide con ἤτορι, mientras que en la segunda ambos límites coinciden con ﬁnal de palabra, y el segundo
+incluso con un límite sintáctico algo más marcado.21 Este aumento de claridad en la forma del ritmo resume
+lo que se observa a lo largo de toda la secuencia métrica del poema: de las cinco apariciones del esquema
+numerado 3 en la tabla de arriba, obsérvese que una está al ﬁnal de la estrofa, tres están en el epodo, y dos
+conforman el cierre del esquema completo. Esto, por supuesto, no hace justicia a la reiteración, habida cuenta
+de que no se trata de un tipo de verso lo que se repite en el epodo, sino de un verso: ddds, que a su vez puede
+interpretarse como una expansión del verso ﬁnal de la estrofa, ds.
+Cuando se reconoce esta progresión ﬁnal ds → ddds, mucho de lo anterior puede entenderse como una
+exploración de este tema -d…s.22 Disimulado por el inicio ascendente y la yuxtaposición, aparece en el primer
+verso, y luego no se reitera hasta est. 9, el primero de la secuencia con el esquema rítmico 3. En el medio
+hay una suerte de intención de alcanzarlo: nótese que en 2-4 y 5-8 tenemos, en efecto, progresiones d…s,
+pero no dentro de un verso ni prolongadas, sino a través de los límites de las líneas e interrumpidas por
+yuxtaposiciones. No es coincidencia que 2-4 conformen una secuencia homogéneo-d, mixto, homogéneo-s,
+y 5-8 recorra tres versos homogéneo-d para culminar en un homogéneo-s.
+En el texto conservado, esta exploración atraviesa la totalidad de la primera parte del discurso de Dánae,
+hasta el interjectivo πρόσωπον καλόν [bello rostro] de 16, la primera pausa sintáctica fuerte. Como si la
+interrupción sirviera para acomodar el ritmo, el extraordinario εἰ δέ τοι δεινὸν τό γε δεινὸν ἦν [Pero si para
+ti fuera terrible lo terrible] de 17 está ubicado en la primera reaparición del tema en la estrofa, que además
+coincide casi exactamente con δεινὸν τό γε δεινὸν ἦν. A partir de este punto, la presencia del tema es evidente
+en los versos siguientes, que se aproximan a él sin tocarlo: 
+, hasta el paroxismo ﬁnal sssss’s, con la
+yuxtaposición s’s que marcó el cierre de la primera sección (est. 8) anticipando el regreso al tema en dos partes,
+ en est. 14, y su aparición en forma pura por única vez en el texto conservado en el v. 24, Ζεῦ πάτερ, ἐκ
+σέο [padre Zeus, de tu parte].
+En los versos que tenemos del epodo la progresión es de nuevo evidente, con ep. x y x+1 replicando el efecto
+de est. 2-4 y 5-8, antes de una primera instancia del tema en su versión ﬁnal en ep. x+2, una inversión total en
+ep. x+3 y su reiteración en el cierre.23 Ep. x+3 es particularmente interesante en este sentido, porque ofrece
+un contraste perfecto para el desarrollo del tema precisamente en el momento en que este ha alcanzado mayor
+estabilidad, como si el metro tuviera que exorcizar todos sus errores por última vez: no solo es ascendente
+en vez de descendente, sonoro en vez de sordo y yuxtapuesto en lugar de prolongado, sino que, además,
+por primera y única vez en el texto conservado, presenta una secuencia s→d en lugar de d→s. Acaso no sea
+coincidencia, por eso, que en el fragmento que poseemos esté ocupado por ἤρειπεν, οὐδ’ ἀδιάντοισι παρειαῖς
+Alejandro Abritta. UN ANÁLISIS MÉTRICO-RÍTMICO DEL POEMA DE DÁNAE DE SIMÓNIDES DE CEOS
+PDF generado a partir de XML-JATS4R
+[la sacudían, y con mejillas no sin humedecer] (vv. 4-5), el paso de la descripción del ambiente hacia Dánae,
+sobre quien están enfocados los dos versos que siguen, donde comienza su discurso.
+6. Conclusiones
+Naturalmente, el análisis realizado en la sección anterior depende de múltiples supuestos introducidos en
+la sección 3, y es dable pensar que, si se cambiaran unos pocos límites de verso, el desarrollo de la secuencia
+no sería tan claro. Sin embargo, no puede olvidarse que, descontando variaciones textuales, las sílabas que
+conforman el ritmo del poema no cambian elijamos la colometría que elijamos, por lo que mucho de lo
+observado es independiente de ella. La variación rítmica, el avance hacia una serie más clara de esquemas d…s
+y la coincidencia de algunos puntos clave del fragmento transmitido con algunos puntos clave de la secuencia
+rítmica no se verían afectados por un ordenamiento distinto de los versos, y la única diferencia radica en
+lo sencillo que sería identiﬁcar estos componentes fundamentales de la composición si se optara por uno
+distinto al utilizado aquí.
+Así, el presente estudio ha revelado, más allá de su indiscutible habilidad como poeta, algunos aspectos
+interesantes de la técnica compositiva de Simónides. El uso de un tema, una estrategia que será habitual en
+toda la lírica posterior, la variación a través del cambio de características rítmicas y la interacción entre el
+contenido del texto y el metro son aspectos que, quizás sin ser sorprendentes en sí mismos, no dejan de resultar
+fundamentales en una aproximación a la poesía lírica de uno de los principales representantes del género.
+Es inevitable preguntarse, por esto, si no son aspectos que deberíamos estar buscando en sus sucesores, para
+alcanzar una comprensión más plena de las técnicas compositivas de la poesía griega de los periodos arcaico
+y clásico.
+Referencias bibliográficas
+Abritta, A. (en prensa). Niveles de un nuevo modelo teórico para el estudio de la métrica griega antigua. Anales de
+Filología Clásica.
+Abritta, A. (2018). Consideraciones preliminares para un nuevo modelo teórico de la métrica griega antigua: el caso
+del verso eólico. Synthesis, 25(1), e028. https://bit.ly/3Yqb2kg
+Bergk, . (1914). Poetae Lyrici Graeci, Pars III: Poetae Melici. Leipzig, Teubner.
+Dale, A. M. (1969). Collected Papers. Cambridge, Cambridge University Press.
+Page, D. L. (1951). Simonidea. JHS, 71, 133-142.
+Page, D. L. (1962). Poetae Melici Graeci. Oxford, Clarendon Press.
+Poltera, O. (2008). Simonides lyricus. Testimonia und Fragmente. Basel, Schwabe.
+Sicking, C. M. J. (1993). Griechische Verslehre. München, C. H. Beck.
+Sider, D. (2020). Simonides. Epigrams and Elegies. Oxford, Oxford University Press.
+West, M. L. (1981). Simonides’ Danae Fragment: A Metrical Analysis. BICS, 28, 30-38. https://bit.ly/3Xqz9xF
+Notas
+1 Dion. Hal., De Comp. 26.112-142.
+2 Quizás el hecho de que el poema cierre el tratado sea signiﬁcativo, pero es imposible estar seguros de eso, puesto que
+Dionisio no ofrece más detalles sobre su elección que los ya mencionados.
+3 Poltera (2008) ha editado la lírica, y Sider (2020) los epigramas y elegías.
+4 Sobre las conjeturas respecto a esto, cf. Poltera (2008, p. 498). El autor tiene razón en aﬁrmar que son nada más que
+especulaciones, dada la ausencia total de evidencia sobre el tema.
+Cuadernos de Literatura, 2023, núm. 20, e2005, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+5 Cito a partir de la edición de Poltera (2008), con modiﬁcaciones menores. La traducción es mía. Nótese que introduzco,
+tanto en el griego como en la traducción, los separadores estróﬁcos (las líneas al comienzo de verso).
+6 Para los detalles de esto y del resto de la teoría que presento sucintamente aquí, cf. Abritta (en prensa).
+7 Cf. Sicking (1993, p. 46-47).
+8 Entiéndase, desde luego, la misma evidencia cuando contamos con poemas completos. En el caso de textos fragmentarios,
+la colometría antigua sin duda tiene una ventaja sobre nosotros.
+9 Supone alguna divergencia en la sucesión de cinco breves, donde habría alguna ubicación longum resuelta.
+10 No debe confundirse la “colometría” de un poema, i.e. la determinación de sus límites de verso y unidades constituyentes,
+con lo que en otros lugares he llamado “enfoque colométrico”, una perspectiva sobre el metro griego que supone premisas
+que nunca han sido veriﬁcadas y ha llevado a enormes confusiones y discusiones estériles sobre la poesía antigua. Cf.
+sobre el tema Abritta (2018 y en prensa).
+11 O, al menos, no imprime en su edición el análisis de su artículo, lo que, junto con el comentario “divisio tam stropharum
+quam versuum incertissima” sugiere que el autor no estaba dispuesto a defender su hipótesis unos años después de
+publicarla. No puede dejar de señalarse, de todos modos, que la colometría de 1951 es presentada “merely to prove my
+contention that there is no diﬃculty in presenting the text oﬀered by the MS. tradition (only aer correction of the
+most superﬁcial and obvious oversights) in a metrical scheme which would have aﬀorded little cause for doubt and none
+for surprise if it had been oﬀered to us by antiquity” (p. 139).
+12 Naturalmente, ni Page ni Poltera presentan la información de la manera en que la organizo aquí, pero he uniﬁcado
+el análisis con la teoría de Dale-Sicking (cf. Dale, 1969, p. 41-97; Sicking, 1993; Abritta, en prensa) para facilitar la
+comparación. Nótese también que hay diferencias textuales entre los autores, que no detallo por mor de la brevedad.
+Es importante observar también que hay múltiples divergencias en la realización de los esquemas, que iré detallando en
+notas.
+13 Notas de la Tabla 1.
+i
+Aquí y en el resto del trabajo, enumero los versos del epodo con “x” marcando el primero, que no sabemos cuál sería en
+la secuencia, y “x+y” a partir de ese punto.
+ii El primer doble-breve está contraído, realizándose como una sílaba larga.
+iii El primer y el tercer doble-breve están contraídos.
+iv El tercer doble-breve (γαλαθηνῷ δ’ ἤτορι) y el último (ἀτερπεῖ δούρατι) están contraídos.
+v
+Con colosis, es decir, la breve central con realización larga.
+vi El segundo doble-breve está contraído.
+vii Hay aquí un evidente problema textual, dado que Poltera, West y ya Bergk (1914) imprimen κυανέῳ τε δνόφῳ ταθείς,
+mientras que Page (1962) imprime κυανέῳ δνόφῳ ταθείς, pero ninguno da cuenta de la razón de la variación. Estimo que
+es más probable que el τε haya sido removido por Page que agregado por todos los demás.
+viii El segundo doble-breve está contraído.
+ix El segundo doble-breve está contraído.
+x
+El primer doble-breve está contraído.
+14 “Cierta” subrayado, desde luego. Contribuye a esta impresión el hecho de que, con una única excepción en est. 9 (11
+Page), la coincidencia alcanza también la colometría transmitida.
+15 La distribución que preferiríamos en función de los cortes sintácticos, ἄνεμός τε μιν πνέων || κινηθεῖσά τε λίμνα δείματι
+ἤρειπεν, || οὐδ’ ἀδιάντοισι παρειαῖς, es métricamente mucho más compleja que las alternativas. Esto es una lección
+importante para recordar a la hora de analizar los versos, aunque debamos apelar a la sintaxis ante la ausencia de otra
+evidencia.
+16 Cf. n. 11.
+17 Para facilitar la lectura, indico en los esquemas los elementos contraídos con el signo 
+, aunque esto genera alguna
+confusión en ep. x+4, donde en la tabla anterior el signo solo señala la posibilidad de contracción, como sucede aquí
+mismo en est. 1, donde de hecho la realización varía entre las dos instancias (vv. 8-9 y 25-26).
+18 Notas de la Tabla 2.
+xi Los últimos dos versos del fragmento son los primeros dos de la antistrofa.
+xii Asumo con la mayoría θαρσελέον ϝέπος, de donde la sílaba ﬁnal larga de la primera palabra.
+19 La numeración fue creada a partir de un código muy sencillo que asigna un dígito a cada característica (mixto = 1,
+homogéneo-d = 2, homogéneo-s = 3; prolongado = 1, yuxtapuesto = 2; ascendente = 1, descendente = 2; sordo = 1,
+sonoro = 2) en un número de cuatro dígitos (por ejemplo, 1111 = mixto, yuxtapuesto, descendente, sordo). La lista
+Alejandro Abritta. UN ANÁLISIS MÉTRICO-RÍTMICO DEL POEMA DE DÁNAE DE SIMÓNIDES DE CEOS
+PDF generado a partir de XML-JATS4R
+resultante de 24 posibilidades se ordenó de menor a mayor y a cada código se le asigna su ordinal correspondiente (1111
+= 1, 1112 = 2, 1121 = 3, etc.).
+20 Llamo colon (pl. cola) en el enfoque que utilizo en este trabajo a una secuencia identiﬁcable por yuxtaposición, anceps o
+límite de verso (i.e. el colon métrico, no el rítmico, identiﬁcado por los límites de palabra regulares).
+21 De hecho, es dable interpretar que hay allí un límite de verso, pero la colometría antigua no favorece en absoluto esta
+disposición. Posiblemente se trate de una cesura, aunque es imposible saberlo, y una primera instancia del esquema sin
+límite de palabra en la ubicación resultaría muy funcional a la secuencia.
+22 Utilizo “tema” en el sentido musical. La métrica antigua apela a este recurso de manera constante, y un trabajo sobre él
+sería de inmenso valor para su análisis.
+23 Estimo, por esto, que no debe faltarnos demasiado del epodo. Si no comienza donde comienza nuestro texto, imagino
+no más de un verso, que retoma el tema (¿quizás un esquema dds, como en los cola de est. 1?).

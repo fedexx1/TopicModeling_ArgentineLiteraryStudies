@@ -1,0 +1,2133 @@
+ 
+1 
+Cuadernos del CILHA n 38 – 2023 | publicación continua  
+ISSN 1515-6125 | EISSN 1852-9615  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha    
+CC BY-NC 4.0 international     
+Recibido: 31/05/2022 Aprobado: 24/01/2023 | pp. 1-53 
+  
+https://doi.org/10.48162/rev.34.056  
+Contra civilización y barbarie: espacios 
+y cuerpos fronterizos en El año del 
+desierto de Pedro Mairal y Las 
+aventuras de la China Iron de Gabriela 
+Cabezón Cámara 
+Against civilization and barbarism: border spaces and bodies in 
+El año del desierto by Pedro Mairal and Las aventuras de la 
+China Iron by Gabriela Cabezón Cámara 
+David Montecino Vieira 
+ 0000-0003-4503-3474 
+Universidad Arturo Prat 
+ Pontificia Universidad Católica de Chile 
+ dav.montec@gmail.com 
+Chile 
+Resumen:  
+Este artículo tiene como objetivo interpretar y comparar rasgos fronterizos en dos 
+novelas argentinas posteriores a la crisis de 2001 que trabajan con representaciones del 
+discurso de civilización y barbarie. Para ello, se propone una metodología inspirada en las 
+ideas sobre espacialidad de Lefebvre (1974) combinadas con la semiótica del texto 
+artístico de Lotman (2011 [1970]), para analizar lo percibido, pensado y vivido de los 
+espacios y cuerpos en los relatos. A nivel diegético, esto se observa en la articulación de 
+un diseño espaciotemporal y las trayectorias de los agentes narrativos. Estas categorías 
+permitirán describir las formas de fronteridad (Amilhat y Giraud, 2011) en las obras, es 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+2  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+decir, la dialéctica espacial entre dispositivos de poder simbólico-territoriales y los 
+cuerpos que los dinamizan.  
+De esta forma se observará que las fuerzas modeladoras de los mundos narrativos 
+articulan una dualidad dominante alrededor de la oposición entre civilización y barbarie 
+que posteriormente verá una posible salida. En las novelas se representan espacios cuyo 
+antagonismo se develará contradictorio y falaz a la luz de la alteridad, instalando una 
+mirada deconstructiva sobre ellos. Complementariamente, los cuerpos de los sujetos 
+narrativos, en constante movimiento por los territorios, viven experiencias que los 
+llevarán al desprendimiento de las oposiciones impuestas, optando por otras lógicas de 
+convivencia. 
+En este sentido, estas obras presentan rasgos de una episteme decolonial que Mignolo 
+(2003, 2014) denomina pensamiento fronterizo, la cual erige interpelaciones a las 
+hegemonías locales y globales para desentrañar y discutir las intersecciones del 
+capitalismo patriarcal y colonial. 
+Palabras clave: Civilización/barbarie, Novela argentina, Espacio, Cuerpo, Frontera. 
+ 
+Abstract:  
+This article aims to interpret and compare border features of two Argentine novels after 
+the 2001 crisis that works with representations of the civilization and barbarism 
+discourse. To do this, a methodological matrix is proposed in order to conceptualize what 
+is perceived, thought and lived in the stories, inspired by Lefebvre's ideas on spatiality 
+(1974) combined with the semiotics of Lotman's artistic text (2011 [1970]). 
+At the diegetic level, this is observed in the articulation of a spatio-temporal design and 
+the trajectories of the narrative agents. These categories will allow us to describe the 
+forms of borderity (Amilhat and Giraud, 2011) in the artworks, that is, the narrative 
+representation of a spatial dialectic between devices of symbolic-territorial power and 
+the bodies that dynamize them. 
+In this way it will be observed that, on the one hand, the modeling forces of the narrative 
+worlds articulate a dominant duality around the opposition between civilization and 
+barbarism, which will then see a possible way out. In the narrations, the antagonism of 
+represented spaces will be revealed as contradictory and fallacious at the light of alterity, 
+installing a deconstructive gaze on them. Complementarily, the bodies of the narrative 
+subjects are in constant movement through the territories, living experiences that will 
+lead them to detachment from imposed binary constructions, opting for other logics of 
+coexistence. 
+In this sense, these works present features of a decolonial episteme that Mignolo (2003, 
+2014) calls border thinking, which raises challenges to local and global hegemonies to 
+unravel and discuss the intersections of patriarchal and colonial capitalism. 
+ David Montecino Vieira 
+ 
+3  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Keywords: Civilization/barbarism, Argentinian novel, Space, Body, Border. 
+ 
+Introducción 
+En Los prisioneros de la torre (2010), Elsa Drucaroff dirá – basándose en la idea de David 
+Viñas Piquer – que una de las ‘manchas temáticas’ de la nueva narrativa argentina es la 
+‘civilbarbarie’, en la cual se representaría la “pérdida de sentido” (p. 478) de la conocida 
+oposición entre civilización y barbarie. El presente artículo tiene mucho que ver con 
+esta idea, pero también con la sospecha de que existe un elemento fuera de esta 
+oposición, un elemento periférico, al cual no se le ha prestado la suficiente atención. 
+Como veremos durante la exposición, casi todos los críticos académicos dan cuenta de 
+que ambas novelas que aquí analizaré y compararé trabajan representacionalmente 
+con esta dicotomía. A este respecto, Argentina ha construido históricamente –así como 
+varios Estados de América– una relación fronteriza violenta y discriminatoria respecto 
+a lo que se considera salvaje, asociado a lo indígena y lo gaucho. El célebre (e infame) 
+binomio ha sido uno de los ideologemas del discurso nacional, fundamento intelectual 
+para la posterior Campaña del Desierto, con una vasta tradición literaria, explícita en 
+Facundo (1845), de Domingo Faustino Sarmiento, pero cuya lógica se puede encontrar 
+desde sus orígenes.  
+Expondré primero mi marco teórico-metodológico y luego me abocaré principalmente 
+al análisis de El año del desierto (2012)1, de Pedro Mairal, para posteriormente realizar 
+un engarce comparativo con una obra más reciente, de una escritora coetánea de este 
+autor: Las aventuras de la China Iron (2018), de Gabriela Cabezón Cámara. Finalmente, 
+concluiré con las discusiones y reflexiones que obtendré de la comparación de las 
+espacio-corporalidades representadas en ellas.  
+Entre otras cosas, ambas narraciones disputan ficcionalmente este imaginario de lo 
+fronterizo que tuvo (y tiene aún) mucho poder. Al vincularlas podré observar –
+someramente– las formas de (dis)continuidad sobre esta temática, así como discutir 
+                                                                
+ 
+1 Esta fecha corresponde a la versión anotada de Dabove y Hallstead, que es la que aquí utilizo. Sin embargo, 
+su primera publicación es del 2005. 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+4  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+otras ideas asociadas que se reiteran en la interpretación crítica de las obras y sus 
+relaciones con el contexto sociocultural. 
+Antes de entrar en detalle, se hace necesario acotar que, aunque lo nacional y 
+generacional es relevante en este trabajo, mi punto de vista parte de un estudio más 
+amplio, que guarda relación con la representación de las relaciones fronterizas en el 
+discurso literario del área americana, más en particular, en la novelística 
+hispanoamericana contemporánea. En este sentido, no hay que olvidar que esta idea 
+trasciende los límites geopolíticos argentinos y se puede vincular con los demás 
+espacios continentales y, por qué no, globales. En esta lógica, aunque los escritores 
+cuyas obras aquí profundizaré presentan rasgos en común de su realidad local, en una 
+escala mayor comparten también el hecho de vivir en el contexto del capitalismo de la 
+alta globalización, que tiene como una característica relevante la denominada 
+“proliferación de las fronteras” (Mezzadra y Nielson, 2016, pp. 21-22), vale decir, la 
+multiplicación y diversificación de lo que se entiende como límite, pudiendo este 
+observarse en variadas dimensiones, ya no solo las de Estado-nación, sino las simbólicas 
+e identitarias en general. 
+Mediante los procedimientos que aplicaré, pretendo demostrar que en estas obras se 
+construyen representaciones narrativas fronterizas, puesto que se articulan estructuras 
+binarias que serán transgredidas a través de agenciamientos que las deconstruyen y 
+abren caminos distintos, desprendiéndose de sus lógicas. La construcción espacio-
+corporal de las novelas tensionan las oposiciones polarizadas, principalmente las que 
+separan y asignan rígidamente características de civilización y barbarie, pero también 
+las sexo-genéricas. Al mismo tiempo, ambas presentan trayectorias corporales 
+revulsivas, que critican y resisten los poderes dominantes en sus mundos, 
+desembocando en la búsqueda y encuentro de modos más armónicos y sostenibles de 
+vivir y comprender la realidad.  
+Desde esta mirada, estas novelas tienen resonancia con lo que Walter Mignolo (2015) 
+llama ‘pensamiento fronterizo’, el cual presenta una crítica doble a las hegemonías 
+locales y globales, y surge desde perspectivas subalternas de territorios situados en la 
+‘exterioridad’ del sistema-mundo moderno/colonial, es decir, en el “el afuera 
+construido por el adentro” (p. 379) del occidentalismo que pretende abarcar el planeta. 
+ David Montecino Vieira 
+ 
+5  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Una aproximación espacio-corporal a lo fronterizo en la narrativa literaria 
+ 
+En primera instancia, la frontera puede ser entendida como un espacio, y por ello es 
+necesario delimitar con precisión qué entendemos por espacio, además de su ligazón 
+con el cuerpo. Por otro lado, es necesario explicar cómo se llevarán estas ideas al plano 
+del análisis narrativo y, en particular, de lo fronterizo en la representación ficcional.  
+Desde sus inicios conformada por pensadores heterodoxos, las ideas del denominado 
+‘giro espacial’ tuvieron algunas consecuencias relevantes en las ciencias sociales y 
+humanidades. A nivel epistemológico, una de las más destacables es la comprensión de 
+lo espacial en inextricable vinculación con lo temporal. De Certeau (2007) ya 
+consideraba –para diferenciarlo de lugar– que para hablar de espacio es necesario 
+considerar “los vectores de dirección, las cantidades de velocidad y la variable del 
+tiempo” (p. 129). Piensa, por tanto, que el espacio es un conjunto de movimientos y 
+operaciones que se despliegan en conflictos y proximidades. Doreen Massey (2005) 
+también explicita esta comprensión de espacio-tiempo, que sería “producto de las 
+intrincaciones y complejidades, los entrecruzamientos y las desconexiones” (p. 188) las 
+cuales construyen “configuraciones geográficas en las que, precisamente, una cantidad 
+de trayectorias distintas se entrelazan... en una zona de ‘disrupciones’” (p. 120).  
+De esta forma, lo que entendemos como espacialidad constituye una dimensión de 
+confluencias dinámicas y superpuestas, que se encuentran y separan de maneras nunca 
+totalmente predecibles. Los cuerpos (humanos y no humanos) y sus agencias no ocupan 
+el espacio: son el espacio. Los procesos y desarrollos que se dan en un territorio son a 
+la vez producidos y productores de este entramado de relaciones, las cuales pueden 
+apreciarse de manera multiescalar y yuxtapuesta. En su conjunto, estas definiciones de 
+espaciotemporalidad tienen como base ontológica fundamental la existencia de la 
+diversidad y multiplicidad, por lo que implican un posicionamiento político ligado al 
+antiesencialismo, la aceptación de la diferencia y la apertura hacia el devenir (Massey, 
+2005, pp. 106-108). 
+Si bien la corporalidad ya está implícita en estas concepciones, creo pertinente 
+complementar este nexo. En las ideas sobre subjetividad situada de Rosi Braidotti 
+(2000) son los cuerpos los que construyen y experimentan los espacios. Para esta 
+filósofa, los sujetos se forman en su ‘corporización’, la cual es consecuencia de la doble 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+6  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+articulación de “prácticas materiales (institucionales) y discursivas (simbólicas)” (p. 183) 
+que empoderan y a la vez regulan a los individuos. En esta visión, y en concordancia con 
+las ya presentadas, el sujeto corporizado es “un proceso de fuerzas (afectos) que se 
+intersectan, variables temporoespaciales que se caracterizan por su movilidad, su 
+carácter modificable y naturaleza transitoria” (p. 113). 
+Debido al objetivo de este artículo, se hace relevante especificar con mayor detalle 
+cómo estos conceptos nos ayudan a profundizar en lo fronterizo. Llevada a este plano, 
+la frontera ya no es solo un lugar, sino una forma específica y contextualizada de 
+relación entre múltiples trayectorias corporalizadas. En este sentido, me parece que 
+una descripción adecuada sobre su particularidad es la que levantan algunos geógrafos 
+culturales con el concepto de fronteridad (Amilhat Szary y Giraut, 2015), el cual refiere 
+al fenómeno provocado por el establecimiento hegemónico de límites y, al mismo 
+tiempo, por la experiencia subjetiva de quienes los recorren o traspasan. Por tanto, 
+comprende las fronteras desde dos aspectos en tensión: el emplazamiento de los 
+dispositivos de poder territorial (gubernamentalidad) y la agencia de los cuerpos que 
+habitan y participan de esos espacios (biopolítica). En otras palabras, sería tanto un 
+“análisis de las condiciones de dominación de los regímenes fronterizos a través de sus 
+tecnologías, así como una evaluación de la individualización de las fronteras y los 
+regímenes personales de cruce” (p. 13).  
+Si bien considera la parte corporal del fenómeno fronterizo, esta definición enfatiza la 
+parte gubernamental del establecimiento de límites espaciales, probablemente para 
+contrarrestar cierta noción constructivista que pensaba que, por ser convenciones 
+humanas, las fronteras no tenían influencia real sobre las comunidades (Grimson, 
+2003). No obstante, desde mi punto de vista, la generación de límites no solo se da de 
+parte de los macropoderes, sino también puede provenir de grupos subalternos que 
+establecen distintas formas de diferenciarse con los otros, tanto en el orden territorial, 
+como en el identitario y cultural (todas relaciones espaciales, por cierto). 
+A manera de ilustración, tomaré como ejemplo el análisis que realiza Ursula Biemann 
+en su ensayo Performing the Border: On Gender, Transnational Bodies, and Technology 
+(2001), derivado de su documental audiovisual de nombre homónimo. En este texto la 
+autora pone énfasis en la articulación territorial de los dispositivos dominantes (la 
+ David Montecino Vieira 
+ 
+7  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+instalación del complejo industrial transnacional posfordista en la frontera entre 
+Estados Unidos y México) y sus efectos negativos en los cuerpos de las mujeres que 
+trabajan en las maquiladoras (intersecando raza, género y tecnología). Sin embargo, 
+también se centra en las resistencias que ellas mismas ejercen, sus formas de luchar 
+contra el régimen del trabajo esclavizante o en su transgresión de los límites 
+geopolíticos al fungir como ‘coyotes’ de bajo costo para otras mujeres, sobre todo 
+embarazadas (pp. 10-11). En este tipo de investigación puede apreciarse lo fronterizo 
+en las prácticas de quienes detentan el poder, pero a la vez en cómo lo agencian quienes 
+tienen que enfrentarlo.  
+En este punto cabe preguntarse cómo llevar todo esto a la escala, aún más particular, 
+de la representación literaria. Para entender la adaptación que propondré de estos 
+términos para una metodología de análisis semiótica-espaciocorporal, es necesario 
+traer a la discusión otros conceptos que nos permitan detallar y articular estas teorías 
+ontológicas con lo que ocurre en los mundos narrativos. 
+En su libro La producción del espacio (2013 [1974]) Henri Lefebvre propone separar 
+analíticamente el espacio en sus aspectos percibidos, concebidos y vividos. Lo percibido 
+está asociado a las formas sensoriales de experimentar el espacio físico, pero también 
+a la permanencia y transformación material del mismo; lo concebido, por su parte, está 
+ligado a las representaciones del espacio, vale decir, a su diseño y ordenamiento, 
+conectados al poder epistémico; por último, lo vivido está vinculado a los espacios de 
+representación, donde se experimenta la enunciación de la espacialidad como un todo, 
+incluyendo a los anteriores y siendo incluido a la vez por estos (p. 92). Estas tres 
+categorías son útiles al momento de describir lo espacial, considerándolas 
+analíticamente de forma separada y también en su funcionamiento conjunto. 
+Siguiendo estas ideas, el geógrafo Edward Soja (1998) revisa las estrategias 
+conceptuales y retóricas de Lefebvre y plantea que este tercer elemento de espacio 
+vivido (que coincide con el espacio social) ejerce una doble semántica de diferencia y 
+aglutinación, por lo que se articula como vínculo entre la experiencia del mundo y su 
+representación. Esto no solo agrega un factor que altera la oposición binaria entre lo 
+material y lo cognitivo, sino que, al tener la facultad de abarcar a los otros, genera un 
+cambio epistemológico, pues se trata de una comprensión de la realidad que no se 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+8  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+opone a la externo, sino que contiene un mecanismo de traducción de la alteridad. Esta 
+terceridad conlleva dos cuestiones relevantes: primero, permite conectar lo real y lo 
+imaginado, conglomerar tanto la percepción sensorial como el ordenamiento lógico del 
+espacio (prácticas y representaciones), lo que rompería la ontología binaria; y en 
+segunda instancia, explicar a nivel micro la aparición de lo diverso mediante lo que él 
+denomina Tercer Espacio, esto es, “espacios de resistencia al orden dominante . . . [que 
+surgen] precisamente de su posicionamiento subordinado, periférico o marginado” (p. 
+68). De tal manera, la terceridad nos sirve para identificar e interpretar el momento 
+donde la pluralidad emerge2.  
+Para adaptar estas nociones al ámbito del análisis narrativo literario, usaré la semiótica 
+de Yuri Lotman (2011 [1970]), quien entiende la obra de arte como una “polifonía del 
+espacio” (p. 282) distinguible en tres elementos principales: “punto de vista” (p. 335), 
+“estructura del espacio” (p. 270) y “acontecimiento” (p. 291). Esta conceptualización 
+está enfocada a la relación entre los elementos, permitiendo el seguimiento de líneas 
+de sentido entre ellos. Por su contenido, es posible relacionar analógicamente esta 
+tríada con la de Lefebvre (percibido, concebido y vivido), produciendo así una 
+correlación con los que denominaré ‘espacios de la narración’: textual, diegético y 
+vectorial, respectivamente. En el primero, por su relación con el punto de vista y lo 
+perceptual, considero la subjetividad de la voz narrativa y su focalización, la 
+organización de los acontecimientos del relato y las posibilidades inter y meta textuales, 
+ya que todas implican la presentación de la perspectiva con que se articula la narración. 
+En el segundo, por sus vínculos con la concepción imaginaria del mundo de ficción3, 
+abordo el diseño espaciotemporal y su ontología, esto es, la separación de los territorios 
+y posiciones de poder estables, así como sus modos y características ficcionales. En 
+tercer lugar, en consonancia con lo argumental, tenemos principalmente a los actantes 
+                                                                
+ 
+2 Es relevante acotar que no se trata de una ‘trinidad’ cerrada, sino que esta idea representa apertura a lo 
+múltiple, al momento donde un vector disruptivo hace aparecer una realidad nueva en un determinado 
+contexto. ¿Es una realidad nueva o es una realidad velada? 
+3 Cuando utilizo este término remito a las ideas de Lubomír Doležel (1999), quien caracteriza los mundos de 
+ficción como conjuntos de estados posibles, incompletos y sin existencia real, moldeados por limitaciones 
+concretas dadas por el texto a través de un conjunto de instrucciones que el receptor transforma en imagen 
+mental y experiencia, configurándolo como un mundo narrativo (pp. 35-47).  
+ David Montecino Vieira 
+ 
+9  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+en su movilidad, aquellas fuerzas que dan dinamismo a la estructura y la reconfiguran, 
+vale decir, los diversos cuerpos y sus afectos.  
+Ahora bien, en términos categoriales, se trata en realidad de dos dimensiones, que he 
+dividido en tres espacios. El primero de estos espacios (textual) puede ser comprendido 
+como el estatuto material que conforma la representación, mientras que los otros dos 
+(diegético y vectorial) pertenecerían al ámbito de lo representado, lo imaginado por los 
+receptores4. Mi intención es utilizar estos conceptos para describir las espacialidades 
+de las obras y con ello dar cuenta de la fronteridad ficcional, vale decir, los vínculos 
+entre dispositivos y biopolítica en lo representado por los mundos narrativos de las 
+obras. Por esta razón, en este artículo me centraré en lo que ocurre en la dimensión 
+imaginaria, abordando de manera complementaria cuestiones de la textura5. Para 
+mayor agilidad de la lectura, expondré de manera entreverada los aspectos centrales 
+de estos dos constructos heurísticos. El objetivo, entonces, es caracterizar la 
+organización de los espacios y cuerpos, así como sus movilidades, para así identificar 
+los límites construidos por hegemonía y subalternidad en los mundos narrativos. 
+Desde esta mirada, la jerarquía del diseño espacial y sus transgresiones son parte del 
+mismo fenómeno. Me interesa, por tanto, observar las formas en que se representan 
+las distintas relaciones de fuerza entre fronteras culturales e identitarias (Grimson, 
+2018, p. 122) en la narración. Las conclusiones que obtengamos serán puestas en 
+diálogo con otra terceridad, a saber, la condición de interfase de las obras de ficción, 
+donde el ‘lugar literario’ se entiende como “un mundo virtual que interactúa de forma 
+modular con el mundo de referencia” (Westphal, 2007, p. 101). Los espacios 
+                                                                
+ 
+4 Ahora bien, la decisión de separar metodológicamente lo diegético y lo vectorial (aunque ambos formen 
+parte de lo representado) no es antojadiza, sino que se imbrica con las definiciones de Lefebvre de los 
+espacios concebido y vivido, los cuales están ligados al poder y a la posibilidad de su subversión, por lo que 
+coinciden con las ideas del concepto de fronteridad. No obstante, no hay que olvidar que el foco de esta 
+aproximación no está en la abstracción de los diseños espaciotemporales, sino en la conformación de estos 
+mediante las articulaciones del relato (voz narrativa y agentes). Por tanto, es importante considerar tanto la 
+selección y descripción de los espacios distinguibles como las subjetividades que en ellos se (co)expresan. 
+5Un análisis más detallado de los espacios textuales (que también pueden ser pensados en términos de 
+fronteridad) podrá encontrarse en mi tesis doctoral – aún en proceso y de la cual deriva este artículo – donde 
+analizo y comparo novelas contemporáneas que representan imaginarios fronterizos de algunas áreas del 
+Caribe insular, el corredor Centroamérica/México/USA y el Cono Sur. 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+10  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+representados son parte de cadenas interdiscursivas, desde las cuales podemos 
+proyectarnos hacia aspectos socioculturales6. 
+En las novelas los espacios van apareciendo a medida que los personajes los recorren y 
+las voces narrativas los describen. No obstante, una vez terminado el relato, podemos 
+mirarlos retrospectivamente y examinar sus “configuraciones descriptivas” (Pimentel, 
+2010, p. 81), lo que incluye la búsqueda de los sintagmas donde se describen los 
+espacios, que luego son puestos en relación para distinguir haces isotópicos que los 
+cargan ideológicamente. Asimismo, a través de estas caracterizaciones se pueden 
+establecer las divisiones concebibles en los espacios (el alcance de sus relaciones 
+estables) y su estatuto ontológico (sus modos de ficcionalización). Esto puede 
+apreciarse mediante el examen de las funciones intensionales de autentificación, dada 
+por la validez de los hechos enunciados por la voz narrativa (Doležel, 1999, pp. 209-240) 
+y de saturación, entendida como la densidad o distribución de lo explícito, lo implícito 
+y cero en la textura (pp. 241-261). Por otro lado, las trayectorias corporales pueden 
+abordarse desde la exploración de las constelaciones de agentes que se configuran a 
+través de las acciones del argumento y constituyen cargas afectivas e identitarias entre 
+personajes (pp. 147-169). 
+ 
+Sobreviviendo a la intemperie: el descentramiento del binomio civilización/barbarie 
+y la (im)posibilidad de una sociedad alternativa 
+ 
+El año del desierto es protagonizada por María Valdés Neylan, mujer joven, de clase 
+media baja (postergada dentro del crecimiento económico rampante de Argentina en 
+los noventa), de ascendencia irlandesa, secretaria y traductora de Suárez & Baitos, una 
+                                                                
+ 
+6En esta lógica, la discusión con análisis anteriores es fundamental, ya que las interpretaciones sobre lo 
+representado son también parte de la producción del espacio. Por lo general, en las ocasiones en que mi 
+postura se presenta a contracorriente, ocupo mayor extensión, pues creo necesario desarrollar el diálogo 
+sobre la comprensión literaria, entendiendo que la crítica conforma un archivo concreto sobre la 
+interpretación de los imaginarios espaciales. De todas maneras, que esté en desacuerdo con alguna autora o 
+autor no significa que deseche todo su trabajo, como podrá apreciarse en el transcurso de la exposición. En 
+efecto, muchas de las conclusiones que los investigadores han realizado sobre una u otra obra me han hecho 
+descubrir y reflexionar sobre elementos de ambas y de su interrelación, por lo que en parte debo mi 
+posicionamiento al estudio de la bibliografía sobre las obras, de la cual paso a formar parte. 
+ David Montecino Vieira 
+ 
+11  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+firma financiera. El relato cubre desde su cumpleaños, en un indefinido dos de enero 
+de principios del siglo XXI, hasta la desaparición total de la ciudad, con la paralela 
+expansión de la pampa y la selva, alrededor de un año después. La destrucción/creación 
+es generada por un fenómeno inexplicado denominado ‘la intemperie’, que en principio 
+pareciera venir del interior del territorio nacional, derruyendo edificaciones y 
+modificando procesos biológicos de la flora y fauna. Esto provoca una situación de 
+violencia perenne, que obliga a María a desplazarse para subsistir, primero dentro de 
+la ciudad, pero luego hacia el desierto, y finalmente al río. Cerca del desenlace, durante 
+una expedición a la urbe –y cuando ya había decidido que quería quedarse en la selva 
+con la tribu de los Ú– será capturada por los sobrevivientes del último edificio que 
+queda en pie: la Torre Garay, donde ella solía trabajar al comienzo de su periplo. 
+Después de esto, cruza el océano y termina trabajando en una biblioteca escolar, 
+probablemente de un país europeo. Desde este lugar cuenta su historia, después de 
+haber recuperado el habla, que había perdido por varios años. 
+En el mundo narrativo existen dos poderes principales que fungen como dispositivos 
+modelizadores de la espacialidad, a saber: la formación urbana capitalista y la 
+intemperie. Se podría creer que estas dos fuerzas coinciden con los espacios de la 
+metrópoli sudamericana y el desierto, pero no es así. La intemperie no es solo el 
+desierto, como tampoco es solo la barbarie.  
+La ideología neoliberal predominante se representa en la organización de la ciudad, 
+siendo la etapa base del relato; la intemperie, por otro lado, avanza transformando los 
+espacios diseñados por la civilización, ‘rebobinándolos’ históricamente, pero con una 
+inversión de sucesos que no es lineal ni simétrica. Partiendo desde la Torre Garay y la 
+casa de María, se nos muestra una distribución urbana que señala la desigualdad entre 
+centro y periferia. El edificio corporativo se erige hacia las alturas, donde puede 
+conectar con los otros centros del mundo: Tokyo, Nueva York (Mairal, 2012, p. 8). Todos 
+los días laborales ella tiene que tomar el transporte público para ir hasta su lugar de 
+trabajo, percibiendo estas diferencias. La casa familiar de María, en las afueras de la 
+ciudad, será prontamente afectada por la intemperie. Cuando su padre enferma, los 
+cambios en su barrio parecen inminentes, pero la destrucción todavía no llega. Sin 
+embargo, se muda con él a un departamento más céntrico (p. 15). 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+12  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Inversamente proporcional al avance de la intemperie va acabándose la primacía de 
+este modelo. La influencia del fenómeno sobre el mundo narrado es progresiva, al 
+menos hasta donde la subjetividad de María nos permite ver. La elisión de explicaciones 
+sobre su causa ha generado diversas interpretaciones. Campisi la relaciona con el 
+abandono institucional que el pueblo argentino padece por parte de su Estado durante 
+y después de la crisis (2019, párr. 4), pero también agrega que funciona como un 
+dispositivo que tensiona la vigencia del sistema mismo, pues pone de manifiesto su 
+obsolescencia (2019, párr. 8). Lemo la observa como una opresión, pero también como 
+una suerte de justicia divina que pone a toda la nación en el margen (Pérez Gras, M. L., 
+Baldrich, C. y M. Lemo, 2012, p. 20). Por otro lado, Zimmer desliza, como una pregunta 
+hacia el final de su artículo, la posibilidad de interpretarla como un ejemplo de la 
+impotencia ante cualquier disturbio climático (2013, p. 382). 
+Lo cierto es que, dentro del mundo de ficción, su efecto distorsiona la composición 
+ontológica de la espaciotemporalidad y por ende el tipo de verosimilitud desde donde 
+se lo construye y comprende. Existe en la crítica una amplia discusión respecto a sus 
+efectos temporales. Es claro que la intemperie genera, entre otras cosas, una regresión 
+histórica, un “camino hacia atrás que está en la lógica de la novela”, dice Drucaroff 
+(2006, párr. 35). En el relato se pueden encontrar, cada vez con menos certeza, las señas 
+del tiempo transcurrido (meses, estaciones). El lapso del año durante la intemperie (¿o 
+dentro de ella, quizás?) está construido cuidadosamente a través de una 
+ficcionalización que combina alegoría, ciencia-ficción y fantástico. En este sentido, la 
+narración lograría establecer sus propias leyes y abrir el tiempo para albergar toda la 
+hilera proliferante de sucesos que existen en el relato. Hablando de esta expansión del 
+periodo anual, Drucaroff expresa que tendría la forma de un “círculo total y pleno que 
+hace pensar más en la revolución solar, en el orden cósmico cerrando su ciclo... en un 
+movimiento mítico” (2006, párr. 48). Esta visión mítica y circular puede 
+complementarse con lo que Campisi denomina la representación de la crisis del tiempo 
+en la novela, que según él se haría patente en la temporalidad inactual de la narración, 
+centrada en un presentismo absoluto que hace que el futuro se pierda como horizonte 
+de cambio (2019, párr. 2). Para él, la regresión temporal que crea la intemperie 
+representa la crisis como algo infinito, un eterno retorno de las catástrofes. Muestra de 
+esto serían los cuerpos que María ve entrar una y otra vez al hospital donde funge como 
+enfermera amateur, como si todos fueran el mismo cuerpo (2019, párr. 5).  
+ David Montecino Vieira 
+ 
+13  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Aunque también piensa la narración como un ‘rewind’, la interpretación de Zimmer 
+complejiza esta problemática cuando pone su atención a la interconexión entre las 
+temporalidades. Para él, la narración se realiza, en este sentido, en dos ejes: uno 
+vertical, asociado al espacio de la ciudad y en específico a la Torre Garay (las alturas del 
+mercado transnacional), representada como una condensación de la crisis hasta el 
+absurdo; otro horizontal, histórico, que espacialmente se manifestaría en la planicie, 
+que es lo que quedará luego de la expansión y acumulación de acontecimientos. Desde 
+su perspectiva, la escena final del relato constituiría una imagen dialéctica: la torre y los 
+sobrevivientes partiendo en las embarcaciones establecen una vinculación entre el 
+origen y desenlace de la historia americana (2013, p. 381), vale decir, la colonización y 
+el capitalismo que lleva a las comunidades nacionales a la crisis, como la Argentina en 
+2001 y como –agrego– varias ocurridas antes y después en diferentes territorios del 
+continente.  
+Sin embargo, el mismo Zimmer da cuenta de que la escena final no es la única imagen 
+dialéctica que se puede encontrar en la novela, por lo que las conexiones entre los 
+eventos no corresponden a un retorno perfecto, circular. Por ejemplo, el espacio del 
+Hotel de Migrantes no solo dialoga con las oleadas migratorias del siglo XIX de Europa 
+a Argentina (y a los territorios americanos de la costa atlántica), sino también con las 
+enormes masas de argentinos que querían irse del país una vez que se desató la crisis 
+(2013, p. 378). Algo similar ocurre con los indios Ú, que no solo se trasuntan con 
+comunidades precolombinas. De eso hablaremos con más detalle adelante, pero el 
+punto es que este tipo de imágenes, donde el pasado titila en el presente y viceversa, 
+están presentes a lo largo de toda la novela y se dan en el recorrido individual de la 
+protagonista, pero también en la relación que existe entre los espacios y los múltiples 
+intertextos que refieren a momentos de la tradición historiográfica y artística de la 
+nación, que han sido analizados con profundidad por la crítica (Drucaroff, 2006; Semilla 
+Durán, 2010; Pérez Gras, 2018; Dabove y Hallstead, 2012).   
+En consecuencia, si existe circularidad, esta es caótica y múltiple7. En otras palabras, las 
+conexiones temporales, vistas de manera global, no son simétricas. Una imagen 
+                                                                
+ 
+7 A lo ya explicado habría que sumarle las características de la voz narrativa. Particularmente en el 
+ordenamiento de la narración, que es cruzada en múltiples ocasiones por recuerdos y presagios que vinculan 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+14  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+representativa de esto se da cuando María observa unas baldosas levantadas en el 
+hospital al que lleva a su padre. En ellas pueden verse las múltiples épocas que ha tenido 
+el edificio según el tipo de material y arreglo que se hizo en él (Mairal, 2012, p. 84). Esta 
+descripción podría representar metaficcionalmente a la intemperie, ya que muestra 
+visualmente cómo esta hace emerger los estratos temporales que constituyen la 
+historia de los espacios reales-e-imaginarios de la narración. 
+Considerando estas reflexiones, creo que una propuesta adecuada para describir lo que 
+ocurre temporalmente (y también espacialmente, hasta cierto punto) es la de Sánchez, 
+quien la observa como una des-composición, no en un sentido escatológico, pues sería 
+fácil confundirla con la ‘degradación’ que padecen el territorio y los personajes. Con 
+esto refiere más bien a la yuxtaposición y el desmantelamiento de su orden cronológico 
+e histórico, y de las posiciones de estos en las hegemonías culturales, en especial en la 
+tradición literaria y los medios de comunicación. Concluye entonces que se trataría de 
+una temporalidad “compleja, multiforme, atravesada por vaivenes y tensiones. . . [que 
+posee] varias dimensiones que se tocan y se pliegan” (2014, p. 1602). En este sentido, 
+los sucesos de la narración se conjuntan, creando nexos espaciotemporales de diversos 
+tipos en el flujo narrativo. Lo paradigmático y sintagmático están imbricados 
+rizomáticamente, provocando que existan numerosas conexiones entre los tiempos de 
+la narración y los de la historia nacional/continental. Aunque el relato se presenta de 
+manera lineal una vez comenzado el racconto de María, los sucesos se van refractando 
+unos a otros. Es importante recalcar este carácter prismático, puesto que no se trata de 
+espejos que simplemente igualan un acontecimiento con otro, sino que los ponen en 
+contacto de manera polisémica.   
+Por otra parte, cuando ponemos atención a las características espaciales, se enfatizan 
+otras facetas de la intemperie. En la crítica se la ha asociado comúnmente con la 
+destrucción de la civilización y el florecimiento de espacios barbáricos. Esto ocurre a 
+través de un proceso de desertificación que derruye las construcciones más sólidas. 
+Según Dabove y Hallstead (2012), se trata de un fenómeno “ávido de espacio” (p. XXIV), 
+                                                                
+ 
+constantemente los sucesos del pasado y el presente (que es el futuro narrativo, desde donde María nos 
+cuenta su historia). A esto Semilla Durán le llama: “profecía retrospectiva” (2010, pp. 337) y es un elemento 
+relevante de la espacialidad textual. 
+ David Montecino Vieira 
+ 
+15  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+que avanza concéntricamente desde la pampa hacia los alrededores. Sánchez afirma 
+que su movimiento sería de la “periferia al centro” (2014, p. 1601) y que nunca termina 
+de explicarse.  
+En la urbe el fenómeno se manifiesta como una onda expansiva que va cambiando el 
+paisaje y a los sujetos. Se trata de una espacialidad literaria en permanente 
+transformación, donde los lugares, como ya mencioné, toman características 
+identificables con hechos históricos. Sin embargo, es importante recalcar que no se 
+trata de los mismos hechos ni agentes: los braucos y huelches no son los tehuelches, ni 
+ninguna otra etnia de la realidad extratextual. No tienen la misma historia ni las mismas 
+circunstancias, ni siquiera el mismo idioma8. Esto ocurre de partida porque es un grupo, 
+como los Ú9, que adviene después de la catástrofe, no antes. Entenderlos como una 
+(in)versión histórica a modo de espejo es dejar de considerar lo que la ficcionalización 
+ofrece como realidad (y como performance) para pasar a un mero cotejo. El mundo en 
+el que viven los personajes de la novela no es el siglo XIX o el XV, sino el XXI. Por más 
+que la intemperie ‘retroceda’ el tiempo en los espacios, esto ocurre sobre un territorio 
+cuya materialidad es la contemporánea: en la narración el tiempo sí avanza, pero según 
+cualidades no del todo conocidas. 
+De la intemperie solo sabemos al principio por las informaciones indirectas y luego por 
+las consecuencias que María experimenta durante su trayectoria. Sabremos cómo 
+actúa sobre la realidad diegética solo desde sus observaciones. La totalidad del 
+fenómeno es inaccesible, pues tanto su origen como su futuro son inciertos. Las 
+informaciones de su avance en las ciudades del interior llegan a través de los medios 
+no afectados por la intemperie. En la novela nos encontramos con menciones 
+geográficas al respecto, siendo la más detallada la que realiza Ignacio, hermano de 
+Irene, ambos inquilinos del departamento de María y su padre. Basándose en las 
+                                                                
+ 
+8 En el caso de los braucos, su lengua apocopada y aglutinante, según Pérez Gras, resemantiza “el binomio 
+civilización y barbarie, a través del humor y la parodia” (2018, p.7). Si consideramos que estos grupos están 
+en la nueva frontera establecida por la intemperie, es posible decir que representan corporalmente la 
+igualación de la violencia que se encuentra presente ambos lados de la oposición dual. 
+9 Los Ú tienen la particularidad de estar ligados a la cultura guaraní, por el uso del idioma y otros rasgos, que 
+los posicionan como entidades inter-mundo (Doležel, 1999, p. 36), cuestión que vuelve más complejo su 
+análisis. 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+16  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+noticias radiales, va marcando un mapa del Gran Buenos Aires desde el cual puede 
+colegirse que la intemperie avanza progresivamente desde las afueras de la ciudad 
+(Mairal, 2012, p. 48).  
+Por otro lado, sus efectos físicos no son tan claros como podría parecer a primera vista. 
+En una búsqueda acuciosa de las descripciones de María, puede notarse que, aunque 
+la intemperie derruye los edificios de su época, hace surgir las estructuras antiguas o 
+propicia la reutilización de materiales actuales. Son ciertas cosas las que son destruidas, 
+mientras otras (re)aparecen. María escucha que “las construcciones más nuevas eran 
+las que más rápido se deterioraban, mientras que las viejas casas de los barrios se 
+mantenían en pie durante más tiempo” (Mairal, 2012, p. 55). Más tarde, cuando está 
+con los braucos y tiene que hacer mantención al campamento, observará que la 
+intemperie parece “ensañarse más con las construcciones sólidas” (p. 244), ya que no 
+destruye las tiendas de la banda. Por otro lado, aunque pudre los alimentos con más 
+velocidad (p.24), también los crea a la par, tanto así que las hortalizas y vegetales crecen 
+a velocidades nunca antes vistas, como puede notarse en los cultivos que tienen en la 
+hacienda La Peregrina (pp. 211-212). Asimismo, hace que las mujeres dejen de tener 
+hijos, pero esto no afecta a todas, sino a las de la ciudad y el desierto, pues las indias Ú 
+sí pueden procrear (p. 285). Tampoco afecta a los animales, ya que el ganado se 
+reproduce cuantioso y en poco tiempo, como puede observarse en las grandes 
+manadas de caballos salvajes que María ve cuando sale del campamento de los braucos 
+(p. 267) o las menciones furtivas al jaguar durante su convivencia con los Ú (p. 278), 
+felino que hoy solo es posible encontrar en la selva profunda. Tampoco sabemos si sus 
+efectos son acumulativos, vale decir, si es que continuarán después de la destrucción 
+de las urbes, por ejemplo, hasta llegar a una situación sin presencia humana. En la selva 
+al menos no pareciera ser el caso, debido a la natalidad en aumento. 
+No sabemos tampoco si el movimiento de la intemperie se detendrá con la destrucción 
+de Buenos Aires o seguirá avanzando por el resto del continente (la isla donde está 
+María parece no ser afectada). Si la intemperie viene de la llanura patagónica y se 
+extiende en todas direcciones, alcanzando las ciudades del interior hasta llegar a la 
+capital, podemos conjeturar que su avance también llegará tarde o temprano a otros 
+lugares fuera del territorio argentino, lo que también explica –ligada a su efecto 
+ David Montecino Vieira 
+ 
+17  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+temporal– las guerras contra otros países referidas en la narración (Mairal, 2012, p. 161 
+y 229).  
+En síntesis, lo que la intemperie destruye son elementos provenientes del discurso 
+(antropocéntrico) de civilización y barbarie. Quienes viven en el monte y la selva no se 
+ven muy afectados, lo que los pone fuera de esta ecuación. Es más, hay señas que dan 
+la impresión de que, por el contrario, son territorios en expansión. Si se acepta esta 
+idea, entonces la intemperie no tiene que ver solo con el descampado llano, sino 
+también con la cobertura de árboles, las riberas del río que atraen a multiplicidad de 
+criaturas, como también ocurre en los grandes lagos de la pampa patagónica. En 
+definitiva, no se trata solo de erosión y escasez, sino a la vez exceso, desborde de vida. 
+Aunque no se le pueda atribuir una intención, vista desde la correlación de los factores 
+señalados, podemos arriesgar que la intemperie afecta con mayor amplitud a quienes 
+no saben subsistir en un ambiente sin las comodidades y lógicas del progreso, o sea, a 
+quienes viven con la creencia de que a la naturaleza se la puede manipular en su 
+totalidad, con su idolatría hacia los adelantos tecnológicos y valores burgueses de orden 
+funcional de los espacios. En la novela, los que pueden adaptarse a tener una relación 
+analógica con el paisaje, un conocimiento aplicado de su entorno, podrán sobrevivir 
+(más allá de sus cualidades culturales y de la axiología que se les aplique). Los realmente 
+afectados por la catástrofe son aquellos que ya han sido consumidos por las múltiples 
+capas de simulacro de la civilización. Es por esto que los especuladores bursátiles –que 
+no producen riquezas concretas– se convertirán, en esta situación, en símbolos de su 
+propia decadencia. 
+Pasando a las trayectorias corporales, la intemperie fuerza a María a moverse para 
+sobrevivir, pero sus vínculos están en la urbe, por lo que en el relato recorreremos una 
+vasta variedad de lugares de la ciudad, antes de pasar a las geografías del campo y el 
+monte. Una configuración descriptiva importante respecto a los espacios que 
+corresponden al binomio civilización/barbarie es que son representados como lugares 
+donde imperan los criterios neoliberales y machistas. 
+Respecto a las cuestiones socioeconómicas, es palmario que María tenga conflictos 
+internos respecto a la proyección de su noviazgo, pues Alejandro es de una clase social 
+más baja y ella no sabe si podrá congeniar su vida con él (Campisi, 2019, párr. 4). Por 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+18  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+otro lado, María perderá pronto su trabajo –como muchos otros, de allí las protestas 
+contra la intemperie– y tendrá que arrendar la casa familiar para costear un lugar más 
+barato y alejarse del avance del fenómeno. Lo mismo hará más tarde con las 
+habitaciones en el departamento del centro. El levantamiento de defensas contra ‘la 
+Provi’ y las tolderías (Mairal, 2012, pp. 44-77) que invaden las calles reproduce la 
+fronteridad realizada por el Estado argentino con sus torres de vigilancia y empalizadas 
+para prevenir los ataques de los malones de las tribus pampeanas, así como la de la 
+ideología neoliberal, con la expansión de los barrios residenciales cerrados, cuya 
+demanda creció en los años posteriores a la crisis (nuevamente, una imagen dialéctica). 
+La situación es cada vez más insostenible, sobre todo por el hacinamiento y las 
+dificultades para conseguir alimento, el que además se degrada rápidamente. Cuando 
+la enfermedad de su padre empeora, María lo lleva a un hospital, para el cual trabajará 
+como enfermera (pp. 82-97). Es una labor ardua y voluntaria, aunque da señas de que 
+le agrada. De allí pasará al Hotel de Emigrantes, en el que es mucama con una jornada 
+laboral brutal y una paga paupérrima (pp. 115-120). Finalmente, llegará al Ocean Bar, 
+donde se ve obligada a prostituirse y es explotada junto a sus compañeras (pp. 144-
+187). 
+Al salir de la ciudad se instalan en la estancia La Peregrina, en la cual se puede observar 
+la predominancia del credo y moral católica conservadora. Allí trabajarán la tierra, pero 
+pronto tendrán que partir (Mairal, 2012, pp. 209-234). Mientras buscan un nuevo hogar 
+son atacadas por un malón de los braucos, siendo María tomada como cautiva y llevada 
+a su campamento. En esta banda, que está en guerra contra otro grupo conocido como 
+los huelches, prima la violencia de los caudillos/caciques, que tienen muchas esposas y 
+el control de las drogas en el desierto. María logra salir del cautiverio gracias a la 
+negociación de Víctor, amigo de su novio. El intercambio son tres yeguas preñadas (pp. 
+238-264). En otras palabras, la representación de la ciudad y la pampa están teñidas de 
+opresión respecto a los bienes y jerarquías que se tienen ante el desastre, cuestión que 
+se llevará al paroxismo en las escenas finales, cuando la protagonista regrese a lo que 
+queda de la urbe. 
+En cuanto al sexismo, este queda evidenciado en reiteradas situaciones, como las 
+miradas y actitudes que su jefe Suárez tiene con ella, razón por la cual pidió ser 
+trasladada a otra oficina (Mairal, 2012, p. 29), o la inseguridad que le provoca refugiarse 
+ David Montecino Vieira 
+ 
+19  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+con un grupo de hombres en un bar cuando queda sola en medio de las manifestaciones 
+(p. 11). En la organización del edificio amurallado nota que las labores domésticas son 
+realizadas por las mujeres, mientras los hombres se dedican a discusiones y apuestas 
+(p. 74). En su departamento (que ha sido modificado completamente, sin tener ya 
+ninguna privacidad) es espiada varias veces mientras duerme, hasta que en un 
+momento es acosada en las escaleras, logrando defenderse con un cuchillo Tramontina 
+que llevaba oculto para tales efectos (p. 76). Más tarde, al abandonar el edificio en 
+busca de su novio, es ayudada por un hombre que la fotografía desnuda sin su 
+consentimiento, imágenes que serán luego exhibidas en un quinetoscopio como 
+pornografía para los marinos del puerto (p. 174). Finalmente, termina trabajando en un 
+bar como prostituta, hasta que el mismo Suárez, su antiguo jefe, quiere pagar por sus 
+servicios. Su negativa despierta la furia del Obispo, su caficho, al que termina 
+asesinando junto a su amiga Catalina, para luego escapar de la capital (p. 183).  
+Las mujeres solo tienen papel de subalternas. Los empresarios mandan, así como los 
+revolucionarios, médicos, mayordomos, o proxenetas. Una vez sale de la ciudad, tanto 
+en la sociedad agricultora colonial como en la horda nómade de los braucos, las cosas 
+siguen similar, pues en el primer lugar la discriminan por haber sido prostituta (p. 234), 
+y en el segundo, la vuelven una esclava sexual (p. 245). Ya sea en la normalización y 
+encubrimiento del sistema capitalista, en la moral católica conservadora o en la 
+brutalidad explícita, el patriarcado domina. 
+De esta manera, a través del diseño del mundo ficticio, se traza una invectiva común 
+para ambos territorios, y con ello, para ambos lados de su frontera. Como dice María 
+mientras es llevada por los Ú: “No era tanto el miedo que tenía sino el hartazgo de estar 
+a merced de los hombres... Quería poder decidir qué hacer y qué no hacer. Todos estos 
+hombres me estaban llevando y arreando hacía meses” (Mairal, 2012, p. 274). En 
+consecuencia, en la espacialidad de la narración, hasta ese momento, hay pocos lugares 
+donde las relaciones de género no sean visiblemente desiguales, y cuando esto ocurre 
+es fuera de la ciudad y la pampa entendidas como oposición. Esta construcción 
+narrativa equipara cualitativamente estos lugares y los pone en cuestionamiento. Se 
+presenta como una crítica interna a su dicotomía, que no puede encontrar salida dentro 
+de esa lógica. Esta es la principal deconstrucción que se realiza dentro del esquema 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+20  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+binario de civilización y barbarie10. Sin embargo, hay otra crítica que viene de lo exterior 
+a esta configuración espacial, que se sitúa como terceridad y coloca en perspectiva 
+algunas interpretaciones de la novela. No es si no cuando conoce a los grupos cercanos 
+a la selva donde esta condición cambia. Será la puesta en relación con estas 
+corporalidades foráneas donde se encontrarán roles de género más fluidos y los 
+discursos heteronormados disminuidos, así como la posibilidad de articulaciones 
+sociales alternativas a nivel cultural y político.  
+Una vez es rescatada por los revolucionarios, María comenzará a recorrer territorios 
+adyacentes al río: allí se encontrará con los turíes, quienes ya han olvidado la lengua 
+española (si es que alguna vez la tuvieron) y se dedican a la crianza de ñandúes (Mairal, 
+2012, p. 268); también con los majois, quienes viven cerca de un lago, son obesos y se 
+arrojan con gran destreza las cosas que necesitan. Se deja sugerido que las mujeres 
+majois tienen algún tipo de relación erótica con los revolucionarios, la cual se da de 
+manera directa, sin mayores miramientos morales y no constituye un conflicto con los 
+hombres de la tribu (p. 270). Más adelante se hablará de los guatos, de los cuales hay 
+menos información: no sabemos la razón exacta, pero están peleando contra los Ú y da 
+la impresión de que tienen el afán de entrar en sus territorios.  
+                                                                
+ 
+10 Si en la novela – como afirma Dánisa Bónacic (2015) – el espacio “es concebido como un archivo de aspectos 
+culturales y personajes literarios que han formado la identidad argentina y que forman parte ahora de los 
+escombros y ruinas del presente” (p. 115), cabe preguntarse entonces por los espacios que quedan al margen 
+de este proceso. En clave arquitectónica del texto, se puede observar que la mayor cantidad de vínculos 
+intertextuales están acumulados en los espacios de la ciudad y la pampa, con referencias a los textos 
+canónicos de la literatura argentina y a algunos de la inglesa. Hallstead y Dabove (2012) y Pérez Gras (2012) 
+relacionan la parte de la selva con El entenado, de Juan José Saer, pero, si ese fuera el caso, Mairal estaría 
+disputando el imaginario de ese espacio, pues de partida se tensiona la imagen del antropófago. Aunque hay 
+señales de que los Ú consumen órganos de sus rivales (Mairal, 2012, p. 280), no es donde está puesto el foco 
+de su representación. Más aún, esta figura se verá subvertida, cuando argumentalmente se posiciona este 
+atributo en el pináculo de lo que se considera civilizado: los grandes accionistas de la bolsa de valores. Lo que 
+ocurre a María con los Ú no es representado a través de la densidad referencial, sino de una poética de la 
+tribu y conexiones con sustratos que se escinden del discurso nacional homogeneizante y de la tradición 
+letrada. En este sentido, pienso que, al instalar al final del recorrido narrativo este episodio en una novela 
+que está entramada en un diálogo dual de vigorosa tradición literaria (la cual es referida y luego destruida 
+junto con sus lugares), Mairal manifiesta que todavía quedan espacios sociales que no están completamente 
+dominados por la hegemonía, donde podría asomarse lo nuevo. 
+ David Montecino Vieira 
+ 
+21  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Aun siendo breve a nivel proporcional respecto a los sucesos de la ciudad y el desierto, 
+sobre los Ú tenemos, a mi juicio, una nutrida caracterización, la cual ha sido poco 
+ahondada por la crítica. Algo en que concuerdan los que han comentado sobre los Ú es 
+que con ellos se dan los vínculos más armoniosos y felices del periplo de María. Zimmer 
+dice que se trata de un pueblo precolombino, una suerte de sociedad transitoria y no 
+alienada a la cual relaciona con las ideas incipientes de Marx (2013, p. 380). Semilla 
+Durán plantea que este pueblo está en un espacio distante y atemporal, de “origen 
+inmóvil” (2010, p. 341). Dabove y Hallstead señalan que los Ú hablan un guaraní en 
+apariencia puro y que “ninguna de sus costumbres o modos de vida parece guardar 
+memoria de que, alguna vez, hubo algo como la Argentina” (2012, p. XVII). De manera 
+que, aunque ficticios, podrían estar ligados a un remanente de la comunidad original o 
+representar un grupo sincrético de las etnias amazónicas (Dabove y Hallstead, 2012, 
+como se citó en Mairal, 2012, p. 275). Igualmente, María Pérez Gras también identifica 
+ciertos vocablos del guaraní, lo que podría indicar una filiación con dicho pueblo (2018, 
+p. 9). Por su parte, Mercier los relaciona con el mito del buen salvaje y plantea que su 
+estado está “descrito en términos bastante superficiales” (2018, pp. 124), en una 
+lectura que, por sustentarse en y aceptar la ya consabida regresión temporal lineal, 
+tiene ciertos dejos evolucionistas. 
+Esta tribu está ubicada al borde del río Paraná, posterior al territorio que María 
+denomina ‘el monte’, que ya tiene marcadas características selváticas. La protagonista 
+pasa con ellos un buen tiempo y, pese a que al principio tiene resquemores y ganas de 
+volver a Buenos Aires, decide quedarse como parte de su comunidad. Tienen un sistema 
+de trabajos rotativos, donde todos realizan las labores de subsistencia, con el cual María 
+muestra acuerdo (Mairal, 2012, p. 290). Realizan rituales colectivos para integrar a la 
+joven y para los contactos amorosos. Se señala brevemente que practican la 
+antropofagia con ciertos órganos de sus enemigos (p. 280), cuestión también 
+relacionada con las etnias tupí-guaraní. Toman decisiones basadas en un oráculo, el cual 
+es un misterioso ser mitad hombre y mitad mujer. Tienen la creencia de que cada sexo 
+gestaba a sus hijos, pero los hombres perdieron esta capacidad por su irresponsabilidad 
+con su progenie, por lo que los dioses los castigaron dejándolos sin esta capacidad y 
+guardándola para las mujeres (p. 285). Esto lo recuerdan en la tradición oral, a través 
+de reprimendas que las mujeres hacen a los hombres. Además, han introducido el 
+caballo y son una cultura seminómade, pues establecen un campamento, pero lo 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+22  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+cambian dependiendo de la situación bélica o según las condiciones climáticas. 
+Bastante poco se ha hablado de la mayoría de estas características, lo que me dice que 
+este espacio ha sido tomado como algo accesorio y encasillado por medio de algunos 
+conceptos que juzgo como facilistas por la falta de atención a los pormenores.  
+Cuando María es llevada hacia el asentamiento indígena en las riberas del río, lo 
+primero que nota es que nadie la obliga a hacer nada. Por primera vez, deja de sentir la 
+opresión que la ha acompañado durante todo su camino. Después de un rito donde los 
+Ú ‘tocan música’ con los árboles, se entiende que la mujer pasa a formar parte de la 
+tribu. Sin embargo, la ceremonia incluye que todos los participantes deban pasar por 
+una instancia de dolor: se les coloca una vasija llena de hormigas rojas en alguna parte 
+del cuerpo (p. 277). María trata de escapar, pero la obligan a enfrentar el terrible 
+escozor. Más allá de que no sepamos con certeza la finalidad del ritual, este no tiene 
+nada de apacible, por lo que es un dato más que echa por tierra el carácter bondadoso 
+que se les atribuye a los Ú.  
+Por otro lado, la tribu está en guerra y no ayudan a los revolucionarios porque les nace 
+intrínsecamente, sino a razón de que ellos también los asisten, por tanto, se trata de 
+reciprocidad. Inclusive, ‘Pereira’ y los otros revolucionarios mueren en las escaramuzas 
+y María queda como la única occidental en la comunidad. Después de una batalla contra 
+los guatos, regresa un solo combatiente, un Ú llamado Mainumbí (aunque también es 
+conocido por otros nombres). Con sus saberes de enfermería, ella ayuda en su curación. 
+La situación de agresión entre pueblos implica que la condición de este espacio no es 
+inamovible ni perfecta: los Ú están sujetos a las mismas reglas que todos los habitantes 
+de este mundo ficticio; no están en una dimensión paralela. Este no es el único hecho 
+narrativo que lo comprueba. Más adelante, como María ya forma parte de la tribu y los 
+dictámenes los dan los ancianos, el cacique la va a buscar, la desnudan sin explicarle 
+nada y todos los integrantes de la comunidad la pintan con una marca roja en algún 
+lugar de su cuerpo. La arriesgan, de hecho, como una suerte de arma contra los guatos, 
+lanzándola a la batalla montada en un caballo. Los cabellos rojizos y su cuerpo lleno de 
+manchas coloradas hacen creer a los enemigos que María es una emisaria de la peste, 
+por lo que estos salen despavoridos (pp. 283-284). En otras palabras, su aceptación en 
+la tribu está más ajustada a un quid pro quo que a un dar sin condiciones de parte de 
+los ‘maravillosos e ingenuos’ indios. Al regresar, luego de la exitosa táctica, Mainumbí 
+ David Montecino Vieira 
+ 
+23  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+lava todo el cuerpo desnudo de María sin ninguna lascivia: “sin lastimarme ni 
+manosearme, como si lavara a un chico o a un animal” (p. 284), dice ella. 
+Esta última escena servirá como introducción a una de las principales diferencias que 
+se marca en este espacio respecto a los otros dos. Como dije, existe una isotopía clara 
+respecto a la violencia machista en el espacio de la ciudad (incluso cuando la intemperie 
+no ha llegado) y el desierto, sobre todo en el ámbito sexual. La forma de cortejo en los 
+Ú se da a través de ofrendas que, de ser aceptadas, se concretan en un ritual colectivo 
+de contacto entre los pretendientes, a través de experiencias de unión física y 
+simbólica. Cito en extenso:  
+Nos hicieron beber a Mainumbí y a mí un cuenco entero de chicha, me hicieron 
+pegarle a él con una vara lo más fuerte posible en el culo (le quedó varios días la 
+marca), nos hicieron levantar cada uno en peso al otro, nos unieron cadera con 
+cadera y nos pintaron con uruku [el colorante natural con que la pintan 
+anteriormente] una diagonal roja que empezaba en la cicatriz de su pecho y caía 
+atravesándome el ombligo, nos hicieron escupir dentro de una rana amarilla que 
+tenía cuatro ojos, y por último nos acostaron a dormir en una misma canoa que 
+flotaba sujeta a unas raíces de la orilla. 
+Sin embargo no fue hasta tres días después, durante el zumbido de la siesta, que 
+Mainumbí me hizo entrar con él en el monte. Hizo una cama de hojas grandes. 
+No me forzó. Me besaba y se detenía, invitándome, con una mezcla de timidez 
+y valentía. Tenía diecisiete años y yo le sacaba casi una cabeza de altura. Esas 
+siestas a la sombra se repitieron y se fueron alargando. En los descansos nos 
+quedábamos tendidos boca arriba mirando pasar los monos sobre las cúpulas 
+verdes, hablando poco, sin mirarnos, haciendo la «rana de cuatro ojos» que era 
+simplemente mirar pasar la vida de a dos. Esa felicidad quedó oculta tras la 
+espesura del monte.  
+Estoy casi segura de haber estado embarazada de Mainumbí, pero tuve al poco 
+tiempo un aborto espontáneo. Sólo Apo se dio cuenta al verme llorar y sangrar. 
+Me hubiese gustado tener una hija o un hijo de Mainumbí. Estuve varios días sin 
+moverme de la hamaca y nadie me molestó (Mairal, 2012, pp. 287-288). 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+24  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+La valoración positiva que María experimenta en relación a los Ú se hace patente en 
+este fragmento. Como se puede observar, las relaciones románticas involucran a toda 
+la comunidad, que celebra y le da un sentido particular al lazo entre la pareja, mediante 
+acciones coherentes con sus creencias (el castigo de las mujeres a los hombres por la 
+irresponsabilidad con su progenie se reproduce una vez más). Se genera apego físico de 
+diversas maneras, todas en las cuales María está a la par de Mainumbí o incluso sobre 
+él. Lo mismo sucede cuando intiman sexualmente, pues se da de manera horizontal y 
+consensuada. No a través de una transacción monetaria (como con su ex jefe), no 
+aprovechando una debilidad de ella (como con el fotógrafo), ni tampoco por la fuerza 
+(como con el atacante en la escalera o los jefes braucos). 
+Antes de pasar al siguiente espacio, que son las ruinas de Buenos Aires, cabe hacer 
+algunas acotaciones. Es cierto que el tiempo que María pasa en esta comunidad es una 
+pausa dentro de las miserias a las que la situación catastrófica la ha sometido, pero de 
+allí a proponerlo como un lugar idílico y extemporáneo hay bastante trecho. Los Ú no 
+son necesariamente pacíficos, pues pelean para defender su territorio. No obstante, 
+ritualizan su paso al combate atravesando sus arcos, acción que también hacen cuando 
+salen de caza y que, según la apreciación de María, “[p]areciera meterlos en otra 
+dimensión, una zona más violenta, donde eran capaces de matar de un zarpazo” 
+(p.284).  
+En este sentido, es sintomático que, cuando se habla de la trayectoria de María, algunos 
+críticos parezcan haber olvidado por completo la influencia de este espacio en la 
+constitución afectiva de la protagonista. Se habla en general de que su condición 
+siempre empeora, de que se degrada como persona y pierde su dignidad (Areco, 2016, 
+p. 47; Campisi, 2019, párr. 9). Por supuesto, hasta antes de entrar en el río, estas 
+afirmaciones podrían ser pertinentes, pero no cuando ya está conviviendo con los Ú, 
+pues, como he señalado, es tratada como una igual, dentro de lo que permite la 
+diferencia cultural. De hecho, María tiene que respetar, como todos los de la tribu, a 
+los ancianos y el oráculo. Ella quiere permanecer con ellos, y le dicen que podrá hacerlo 
+si es que acompaña, en función de traductora, a la expedición que envían hacia el sur, 
+por lo que parte junto a Mainumbí y otros indígenas (Mairal, 2012, p. 291).  
+ David Montecino Vieira 
+ 
+25  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Cuando se acercan a la ciudad son emboscados con armas de fuego por los 
+sobrevivientes que se alojan en la Torre Garay, el único edificio que queda en pie, y 
+donde se practica un canibalismo que no tiene nada de rito, que es pura depredación 
+ejercida por los más fuertes, vale decir, los que tienen los medios materiales (armas, 
+refugio) en esta situación. Escenas que hemos visto en varias obras literarias y 
+audiovisuales de tinte apocalíptico, solo que aquí, de manera claramente simbólica, se 
+ubica, como señala Campisi, en “el ethos neoliberal representado en Baitos (socio de la 
+firma) convertido en caníbal” (2019, párr. 3). En consecuencia, es en el final, en lo que 
+queda de civilización, donde está puesto el horror más grande de la narración, aunque 
+no sea el que afecte directamente a la protagonista. Los ‘barbudos’ se comen a 
+Mainumbí y amenazan con hacer lo mismo con ella, pero al final la suben a una 
+embarcación cuando el edificio comienza a derrumbarse. Finalmente, los ocupantes 
+escapan y se embarcan en naves a vela con rumbo desconocido, del cual solo podemos 
+inferir que, en el caso de María, podría ser Irlanda.  
+En definitiva, la trayectoria de la intemperie merma la civilización y la pone en el mismo 
+estatuto que la barbarie. No obstante, cabría preguntarse si más bien no devela que 
+estos dos discursos siempre estuvieron de la mano: el machismo y el capitalismo 
+estaban (y están) en la urbe, con o sin intemperie. Todos los traumas históricos que 
+aparecen en la tan mentada regresión temporal de la novela (que como dije ocurre, 
+pero no es lineal) son parte de la lógica binaria de este discurso, más allá del abandono 
+institucional del Estado: la desigualdad entre centro y periferia existían desde antes de 
+la crisis de 2001, y pensar lo contrario se acerca peligrosamente a la ingenuidad o a una 
+inconsciencia de lo que ocurre donde no ponemos atención. Desde esta perspectiva, 
+los territorios hegemónicos de la nación son descentrados, ‘periferizados’, si se me 
+permite la expresión. 
+Al mismo tiempo, y como consecuencia de la intemperie, está la trayectoria del cuerpo 
+de María. Sus desplazamientos, como afirman Dabove y Hallstead, son “forzados, 
+accidentales, erráticos... [y debido a esto] ella deviene una persona sin afiliación 
+geográfica, casi sin nombre, sin lugar a donde <<volver>>” (2012, pp. XXVIII). Su viaje 
+va disolviendo su subjetividad previa, lo que puede observarse en sus reflexiones, 
+cuando ya se ha acostumbrado a su transformación obligada y no quedan arraigos 
+distinguibles en su realidad, sintiéndose incluso extraña de decir su nombre, como si 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+26  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+desapareciera (Mairal, 2012, p.254). Habría que pensar en si algo similar sintieron y 
+sienten los integrantes de muchos pueblos –no solo en Argentina– que tuvieron y 
+tienen que desplazarse para sobrevivir gracias al avance del ‘progreso’.  
+En el relato de María se reflejan una “serie de linajes” (Bonacic, 2015, p. 118) del 
+imaginario nacional resguardados en la memoria. Sin embargo, María también aprende 
+algo de la lengua de los Ú, de las costumbres de los braucos, además de tener una 
+filiación con lo anglosajón. Por tanto, su identidad es “siempre compleja y mestiza” 
+(Pérez Gras, 2018, p. 10). Semilla Durán la identifica con una figura inversa de la 
+Malinche, por sus funciones de traductora en el final del relato (2010, p. 332), y en una 
+lógica similar, Campisi nos dice que en el desenlace es a la vez “una traductora de la 
+tradición literaria, una archivista que tiene que desempolvar relatos de origen, una 
+cartógrafa que traza nuevos mapas de filiación en un momento cultural caracterizado 
+por el augurio de diversos finales” (2019, párr. 16). Por otro lado, Areco sugiere que 
+María es una suerte de “neopícara” (2016, p. 47), debido a las dificultades que tiene 
+que sortear para sobrevivir a la catástrofe. Zimmer, por su parte, piensa que el relato 
+podría entenderse como un “bildungsroman rebobinado” (2013, p. 374). 
+Considerando estas ideas, mi impresión es que su trayectoria se configura como un 
+relato de formación decolonial. Si bien el final es pesimista frente al destino de la 
+sociedad americana, en la novela se deja entrever una salida, un desprendimiento 
+existencial corporalizado en el traumático recorrido que ella tiene que padecer para 
+encontrar un espacio donde tener un mejor (con)vivir. Una vez lo logra, su deseo de 
+permanencia es truncado por las decisiones de los líderes de la tribu, pero sobre todo 
+por los prepotentes capitalistas, quienes raptan a una María que ya había decidido a 
+qué lugar quería pertenecer. Así, en vez de terminar con los Ú –deseando desprenderse 
+de las lógicas de los espacios anteriores– María se transforma en una exiliada 
+sobreviviente sin habla, que luego se recupera y es capaz de contar su testimonio. Y, 
+aun así, con su destino malogrado, cinco años más tarde y en tierras con un océano de 
+por medio, María resiste en su lenguaje, en el misterio de qué rasgos de su travesía 
+guardó y cuáles no; en otras palabras, en la micropolítica de su irreductible opacidad 
+(Glissant, 2017, p. 220). 
+ David Montecino Vieira 
+ 
+27  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Los estragos del proyecto civilizatorio: recorridos liminares hacia la construcción de 
+una comunidad fronteriza 
+Las aventuras de la China Iron está narrada por Josephine Iron Star y Tararira, una 
+muchacha – en un principio, pues su expresión de género varía – que habita en las 
+pampas del siglo XIX y quien, como María, cuenta su historia (literal y literariamente) 
+desde un punto avanzado de su trayectoria, cuando ya es parte de una comunidad 
+llamada los Iñchiñ. En el comienzo de su relato ella es solo conocida como la ‘china’, un 
+nombre genérico que luego es adoptado junto a los demás como propio. Es la esposa 
+adolescente de Martín Fierro, el famoso gaucho cantor, quien es enrolado en el ejército 
+para la campaña de conquista del desierto. Desamparada, la china decide dejar a sus 
+hijos a cargo de una pareja de ancianos y luego, junto a un perro que conoce en el 
+camino, subir a la carreta de Elizabeth, una joven escocesa en busca de su marido, quien 
+venía hacer posesión de unas tierras que compró para hacer una hacienda en la pampa 
+cuando es llevado erróneamente por la leva. Las dos mujeres y el can se encontrarán 
+con un cuarto integrante (aparte de los bueyes que tiran del vehículo), un gaucho 
+llamado Rosario, con quien congenian. Juntos recorrerán el desierto hasta llegar al 
+fortín, donde un tal coronel Hernández –entidad inter-mundo (Doležel, 1999, pp. 36) 
+que refiere al autor del poema de Martín Fierro– dirige un proyecto de colonización del 
+territorio barrido por los militares. Después de algunas jornadas allí, deciden abandonar 
+el lugar para internarse aún más en la llanura, hasta llegar a Kutral-Có, donde conocen 
+a un grupo formado principalmente por indígenas, pero también por occidentales. Será 
+allí que, ante la inminente llegada de los soldados argentinos, la comunidad decida 
+migrar hacia el norte, en busca del río, al cual se adaptan y conviven con sus habitantes, 
+evitando a los invasores mediante el constante movimiento en que se mantienen 
+gracias a sus embarcaciones, ocultos en la densa niebla selvática. 
+En este caso, seguiré los mismos criterios metodológicos y de exposición que en el 
+anterior (una mixtura sobre los dispositivos modeladores y los agentes vectoriales de la 
+espaciotemporalidad literaria), pero me centraré principalmente en los puntos que me 
+permitan enlazar reflexiones con la novela anterior.  
+Se pueden distinguir varios espacios de relaciones estables en la novela, pero la mayoría 
+de ellos están subsumidos geográficamente en la pampa, que toma varias formas. No 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+28  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+obstante, la fuerza modeladora hegemónica es la del Estado, pues el contexto de la 
+guerra por los territorios ‘no civilizados’ puede notarse en las cada vez más constantes 
+referencias a las osamentas de los habitantes anteriores (Cabezón Cámara, 2018, pp. 
+35, 41, 83) de este espacio, los indígenas pampeanos (tehuelches, puelches y ranqueles, 
+entre otros). Este poder será el principal causante, como la intemperie, del 
+desplazamiento de los personajes de la narración, e incluso el fortín, único espacio fijo 
+en el relato, ha sido formado como punta de lanza de su ideal de dominación. 
+Al igual que en la novela de Mairal, en esta obra se trabaja con sucesos reconocibles en 
+el relato nacional argentino. En este caso, más que un enrarecimiento de la 
+temporalidad dentro del mundo narrativo, se utiliza el mecanismo de la digresión 
+histórica, vale decir, la ucronía. Pérez Gras (2021) afirma que la novela utiliza esta forma 
+de tiempo especulativo para trabajar sobre el trauma de la frontera interior entre 
+civilización y barbarie, tomando un desvío desde un punto significativo (o ‘punto 
+Jonbar’) para iniciar un tiempo alternativo y contrafáctico al de la historiografía. 
+Jaroszuk (2021), por su parte, propone que mediante una constelación de elementos 
+de su diseño la novela parece “salir de la historia entendida cronológicamente, 
+proponiéndonos una excursión hacia lo momentáneo del acontecimiento, hacia la 
+figuratividad rebelde frente a las exigencias de lo temporal” (p. 367), la cual estaría 
+representada por el imaginario de la comunidad del final, en el río. En otros términos, 
+Portela piensa que el desarme de las fronteras rígidas de la literatura decimonónica que 
+se realiza en la narración genera el desplazamiento de la percepción distópica del 
+mundo del indio, dando paso a una mirada que indaga sobre el pasado como “un 
+antagonista que permite reformular el presente” (p. 46). En resumen, el modo ucrónico 
+no solo ‘retorna’ al pasado para cambiar ficcionalmente el futuro, sino que genera una 
+imagen dialéctica respecto a los hechos que sabemos venideros. En esta lógica, por 
+ejemplo, la especialización de los trabajos, uno de los elementos con que el coronel 
+Hernández pretende ‘civilizar’ el desierto, podría perfectamente verse como una 
+anticipación de la tecnificación agropecuaria de las pampas argentinas (con todas sus 
+consecuencias tóxicas en torno a la optimización de la producción).  
+Siguiendo con el análisis espaciocorporal, en un principio se observa el emplazamiento 
+de las tolderías, donde la china, posible huérfana de algún patrón hacendado con una 
+extranjera (Cabezón Cámara, 2018, p. 64), es propiedad del Negro, quien la pierde 
+ David Montecino Vieira 
+ 
+29  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+contra Fierro en una partida de truco.  Criada por la Negra, pareja de su dueño, es 
+maltratada constantemente en su niñez por su cuidadora, quien la agrede por ser una 
+carga y por envidia de un posible origen europeo, además de los celos que le tiene 
+cuando ve los acercamientos sexuales que su esposo le hace en su reciente 
+adolescencia (p. 12-13). Su casamiento obligado –y a temprana edad– es algo 
+naturalizado por la hegemonía machista de la época. El único momento feliz que tiene 
+es justo antes de casarse, cuando la muchacha conoce el amor con otro huérfano, un 
+indio llamado Raúl, al cual Fierro da muerte por celos: ella cree, en un principio, que 
+son celos hacia él (p. 76), pero en realidad son hacia ella. Como sabremos más adelante, 
+el muchacho era amante de Fierro, y este lo asesina por miedo a que cuente sobre su 
+homosexualidad (p.159), lo que da clara cuenta de las consecuencias del dominio 
+patriarcal en el lugar. 
+Cuando queda libre de Fierro, Josephine se vincula con personajes diversos, destacando 
+en ellos su alteridad cultural y de especie. Estas relaciones por lo general son 
+beneficiosas, sobre todo en contraste con lo anterior. El perro es bautizado Estreya, y 
+con “su brillo” (Cabezón Cámara, 2018, p. 11) inspira a la china quien, siguiendo su 
+ejemplo, encuentra un hogar en la carreta de Elizabeth. En un principio esto podría 
+parecer anecdótico, pero el perrito ‘luminoso’ tendrá bastante protagonismo y con él 
+la china tendrá su primera relación de cariño y consideración mutua. Más adelante 
+veremos que este vínculo anuncia un ethos respecto al trato con los animales, cuyo 
+desarrollo es posible de rastrear en el relato. Por ejemplo, Liz también tiene una muy 
+buena relación con el perro, y el apego que este genera con Rosario (p. 48) es para ellas 
+una señal que termina afianzando la entrada del gaucho a la cofradía. 
+Liz tiene un trasfondo bastante distinto al de la china: hija de campesinos, casada con 
+un marino con quien tiene el plan de hacer negocios en América llevando vacas 
+escocesas a la pampa (Cabezón Cámara, 2018, p. 44). Aunque Jose deja entrever que a 
+Liz le disgusta que le digan ‘inglesa’, la europea sí está identificada, en un principio, con 
+el Imperio Británico. Con ella la china tendrá una relación de confianza y complicidad 
+en general. Al poco avanzar, se bajan en una ladera del río y ocurre el bautismo: toman 
+un baño y Liz le propone cambiar de nombre. En ese momento asumirá su identidad 
+como Josephine Iron Star, con aporte principal del inglés de Liz, con el cual se modifica 
+el apellido de Fierro y agrega el nombre de Estreya, a quien hace homenaje y con ello 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+30  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+muestra su relevancia afectiva. Además de adoptar socialmente el masculino Jose, en 
+el futuro del relato (pero en el presente de la escritura) ella es además Tararira, por lo 
+que su nombre resulta un “crisol cultural” (Cupertino Belleze, 2020, p. 6)11. 
+La mirada de Jose está llena de curiosidad y minuciosidad, así como de empatía por 
+todo lo que le rodea. Esta visión comprensiva de la joven se deja ver cuando decide 
+probar las distintas perspectivas que tiene a su alcance:  
+caminé en cuatro patas mirando lo que miraba Estreya, el pasto, las alimañas 
+que se arrastraban por la superficie de la tierra, las ubres de las vacas, las manos 
+de Liz, su cara, los platos con comida y toda cosa que se moviera. Apoyé mi 
+cabeza en las cabezas de los bueyes y me puse las manos al costado de los ojos 
+y vi lo que ellos, sólo lo que quedaba justo adelante, la rastrillada y el horizonte 
+incierto de su esfuerzo (Cabezón Cámara, 2018, pp. 31-32). 
+Toda esta atención detallada tanto a lo exterior como a lo interior (de los espacios 
+físicos y cognitivos) da una impresión de saturación que se ha asociado con el 
+neobarroso perlonghiano (Fandiño, 2019, p.49), cuestión que me parece pertinente y 
+que aquí está apoyada por una verosimilitud relacionada con la infancia. 
+Al principio Liz acoge a Josephine en la carreta (espacio móvil y semiabierto) y luego le 
+traspasa conocimientos que ella absorbe, pero que también cuestiona. En la carreta se 
+darán lazos más ecuánimes que en las tolderías pues, aunque Liz venga con todos los 
+artilugios y saberes británicos, su pedagogía con Jose no es la de la imposición, sino la 
+de una entrega cariñosa y recíproca (aunque Liz no reconozca explícitamente la 
+influencia de Jose o Rosa sobre ella, sus acciones muestran la variación de su ética). No 
+la obliga a aprender el idioma, sino que se presentan el español y el inglés mutuamente. 
+Aunque la mayoría de las interacciones entre ellas son armoniosas, sí existen ciertas 
+discusiones y conflictos. Es cierto que se presenta una asimetría desde el lado 
+                                                                
+ 
+11Aparte de este crítico, varios otros han dedicado algunos fragmentos a analizar el nombre que adopta la 
+china y su relevancia en el desarrollo identitario y narrativo, como Portela (2019) y Fleisner (2020), entre 
+otros. En general, las reflexiones están enfocadas en observar la multiplicidad de orígenes y referencias 
+extratextuales que se realizan mediante su composición, las cuales dan cuenta de la sumatoria de rasgos 
+culturales que se condecirán, más adelante, con la comunidad de los Iñchiñ. 
+ David Montecino Vieira 
+ 
+31  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+etnocéntrico europeo de la frontera, sin embargo, también existe crítica sobre el mismo 
+(Cabezón Cámara, 2018, pp. 26-27 y 52-53). Hay algunos sesgos de dominación en Liz, 
+pero no es su impronta principal. Por su parte, Jose tampoco es sumisa, sino que sabe 
+cuándo discutir y cuándo otorgar. 
+Esta horizontalidad del espacio de la carreta se acentuará con la llegada de Rosario. 
+Aunque la actitud de Jose y Liz es defensiva cuando el gaucho aparece entre una marea 
+de vacas salvajes que él mismo fue reuniendo por la pampa, su disposición, como se 
+podrá ver con los indios de Kutral-Có, podría ser descrita por la secuencia 
+contemplación-participación. No hay iniciativa violenta si es que no la hay del otro lado. 
+Rosario no es un gaucho cualquiera, sino uno cuyas actitudes, conforme avanza el 
+relato, se pueden asociar a su ascendencia mezclada con indios guaraní. Para hacer un 
+asado sacrifica a un ternero, pero le pide perdón a la madre (Cabezón Cámara, 2018, p. 
+45). Además, viene desde antes cuidando a otro ternero huérfano, al que llama Braulio. 
+Igualmente, Rosario tiene una conexión muy fuerte con los caballos, a los cuales es 
+capaz de montar y fidelizar mediante su comunicación, hablándoles y tratándolos con 
+compañerismo más que ‘domándolos’ (p. 70). Estas características son bien ponderadas 
+por Jose y Liz, quienes aceptan su compañía.  
+En el recorrido que realizan juntos se observan ríos, fauna y vegetación típica de la zona, 
+cuyas descripciones son omnipresentes en la expresividad desbordada de Jose. La 
+riqueza en cantidad y variedad que se plantea en el texto en cuanto a especies y 
+elementos del paisaje dista bastante de lo que en otras representaciones se entiende o 
+se enfatiza como primordial del desierto, sobre todo en el discurso sarmientino: la 
+ausencia de elementos o la reiteración de los mismos (Jaroszuk, 2021, p. 374). Además, 
+como dije anteriormente, la aparición de cadáveres de los indígenas es progresiva, 
+sobre todo al llegar al fortín, donde la forma de las relaciones cambiará, pues acceden 
+nuevamente a los elementos sedentarios de la civilización y deben respetar las 
+jerarquías impuestas por Hernández. 
+Todavía circunscrita a la pampa, la fortificación tiene un diseño amurallado con 
+separaciones internas funcionales. Sus límites exteriores son claros y se marcan con una 
+zanja que los mismos gauchos enlistados deben contribuir a cavar, como si se quisiera 
+grabar el modo de fronteridad que tendrán que experimentar desde ese momento 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+32  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+(Cabezón Cámara, 2018, p. 105). El diseño da a entender el posicionamiento ideológico 
+del coronel Hernández, su creador. Se trata de un espacio opresivo, de convenciones 
+rígidas y tradicionales, donde mujeres y hombres deben estar separados y no está 
+permitida ni la homosexualidad ni la promiscuidad, pues el foco está en el 
+disciplinamiento de los cuerpos. Se aplica un modelo de industria pastoril, el que 
+consiste en la especialización de las labores, basado en un sustrato teológico de corte 
+protestante, donde se infunde el temor a Dios y el trabajo obligatorio. Sin embargo, 
+todo esto encubre un sistema de esclavitud, ya que se tortura o mata a los gauchos si 
+violan alguna regla y se les priva de su paga, con la justificación de invertir más en el 
+proyecto civilizatorio de las pampas, en educación y viviendas para ellos mismos. Es el 
+único lugar donde veremos este tipo de estructura, pues se trata de un espacio que 
+pretende explícitamente ser bastión de avance sobre el territorio indígena, o como dice 
+fálicamente Hernández: “la punta de lanza de la nación, el progreso penetrando el 
+desierto” (p. 106).  
+En el fortín los movimientos del grupo se verán constreñidos, pues tienen que sostener 
+la mascarada de vivir acorde a normas más o menos similares a las de su anfitrión. 
+Estreya ha tenido que quedarse durmiendo afuera, siendo además dañado por otros 
+perros de la hacienda, lo que llena a Jose de remordimiento y le promete que nunca 
+más pasará (Cabezón Cámara, 2018, p. 124). Rosario expresa su desagrado por lo que 
+está viendo en este lugar, como la desarticulación de los trabajos tradicionales de los 
+gauchos, la prohibición de andar con más de una mujer, la obligación de la gimnasia o 
+la limpieza (p. 104). No obstante, el coronel Hernández está encantado con Liz, quien 
+ahora cambia los pantalones y botas de viaje por vestidos largos y modales refinados. 
+Aunque pareciera disfrutar al menos estéticamente –al igual que Jose– de estas 
+maneras, no mostrará luego interés en replicar o unirse al proyecto. Es más, mientras 
+por el día escucha con la mayor atención y aprobación las grandilocuentes explicaciones 
+sobre el lugar que les da el coronel, por las noches –una vez este yace ebrio e 
+inconsciente– se lleva furtivamente a Jose a su cuarto, donde profundizan la relación 
+erótica que ya había tenido sus primeros atisbos en la carreta (pp. 95-96).  
+Al final el grupo se mostrará subversivo, pues abandonan el lugar después de romper 
+radicalmente sus reglas, pero de una manera en que no salen afectados. La posibilidad 
+de que Liz apoye realmente a Hernández se desmiente en sus acciones, pues ella es 
+ David Montecino Vieira 
+ 
+33  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+artífice del plan para sembrar el caos en la hacienda. La idea es hacer una gran fiesta en 
+la que alcoholizarán a todos y darán oportunidad a que una veintena de gauchos 
+baqueanos seleccionados por Rosario puedan escapar, con el objetivo de formar una 
+comunidad más libre en las tierras que compró Oscar, el marido de Elizabeth. Cual 
+femme fatale, ella aprovecha lo que sus encantos femeninos pueden sacar de 
+Hernández12. Toda vez que él recibe lo que esperaba, ya que en la fiesta se da a 
+entender que intiman sexualmente (Cabezón Cámara, 2018, p. 127), el poeta militar le 
+da a Liz no solo insumos para su viaje y recomendaciones para tratar con los indios, sino 
+también un gran anillo de diamantes. Josephine, por su parte, aprovecha la orgía en 
+que se convierte la celebración para experimentar su sexualidad con otras chinas y 
+gauchos “putos” (p. 129).  
+Es en el desparpajo erótico que se da en esta escena se desvirtúa la rigidez discursiva 
+del proyecto civilizatorio, puesto que los cuerpos se funden transgrediendo el 
+puritanismo, tanto en lo que respecta a la obligación de la castidad como de la 
+heterosexualidad. Se interrumpen los códigos del matrimonio y de la mononorma. La 
+promiscuidad permite el deslizamiento del poder establecido, dando paso a un 
+momento carnavalesco, donde las fronteras sexuales se desdibujan. Esta temporalidad 
+del desborde es, a su vez, contraria a la cronología organizada de la productividad 
+capitalista, que asemeja el fortín a la composición de la ciudad latinoamericana, en el 
+sentido de su diseño centralizado y articulado para la producción colonial. 
+A nivel narrativo, la salida del fortín conlleva algunos hitos importantes. El primero es 
+bastante similar a lo que ocurre con el binomio ciudad/pampa en El año del desierto: 
+cuando se contrastan los espacios anteriores con los que vendrán después, estos 
+quedan igualados en ciertas configuraciones descriptivas. Aunque ambos estén 
+instalados en una geografía similar, representan –respectivamente– lo que es barbarie 
+y civilización en el mundo ficcional. En primer lugar, la heterotopía del proyecto de 
+Hernández funciona como una idealización instrumental de lo urbano en el desierto, 
+                                                                
+ 
+12 “Bien llevado...  era un hombre muy fácil Hernández” (Cabezón Cámara, 2018, p. 110), dice Liz a Josephine, 
+lo que da a entender que le sigue el juego y sabe cómo engañarlo para que crea lo que ella quiere. Incluso se 
+hace la ofendida cuando Hernández sugiere la posibilidad de las relaciones extramaritales, antes de que 
+sucedan efectivamente (p. 121). 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+34  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+mientras que las tolderías son una periferia creada por el avance del Estado argentino 
+y el poblamiento precarizado de los territorios. Ambas son caras de la misma moneda 
+y son signadas argumentalmente con aspectos del discurso colonial, patriarcal y 
+capitalista. Lo que vendrá será bastante distinto, igual que ocurre con los Ú en la novela 
+de Mairal. En segundo lugar, es aquí donde se consolida la expansión de la red de 
+agentes, ya que se suman los gauchos liberados con quienes se integrarán, a la vez, a la 
+comunidad que encontrarán a continuación. En consecuencia, es el momento en que 
+comienza a afianzarse un protagonismo colectivo en la narración, un ‘nosotros’ que va 
+explicitándose cada vez más en el relato de Josephine. Por último, al pasar más allá del 
+fortín, el grupo entra en el territorio aún no occidentalizado, saliendo, al menos por un 
+tiempo, de su poder modelador del espacio. 
+Una vez fuera del reducto, el grupo se interna aún más en la pampa, hasta llegar a la 
+región húmeda, donde se deshacen de la mayoría de las cosas que traían en la carreta 
+(necesitan disminuir peso para moverse en las tierras barrosas y llenas de surcos hechos 
+por los caranchos). Es importante este desprendimiento de los objetos que traen 
+consigo: el terreno dificulta el acceso, imponiendo una nueva espacialidad, donde lo 
+civilizado comienza a perder utilidad. No hay que olvidar que Liz se preocupaba de que 
+el polvo no entrara en la carreta y que le aterrorizaba ser devorada por el desierto 
+(Cabezón Cámara, 2018, p. 19). En cambio, aunque hay un argumento de orden 
+pragmático, esta decisión puede ser entendida como una metáfora de su propia 
+transformación, una que la lleva a cambiar su jerarquía de valoraciones respecto a los 
+objetos de su cultura primigenia, cuestión significativa para comprender su trayectoria 
+en el desenlace. 
+Luego de liberarse del sobre equipaje, el grupo llega a un lago, donde se encuentran 
+con muchos toldos y fogones, sin que puedan distinguir uno más importante que el 
+otro. Aquí están los ‘indios’, con quienes hacen contacto de manera bien particular. 
+Quienes salen a recibirlos se acercan cantando (lo mismo venía haciendo el grupo antes, 
+cuando solo intuían que alguien los observaba) hasta que se funden en un abrazo que 
+luego se transforma en erotismo. Los ‘locales’ están celebrando el verano, por lo que 
+los invitan a compartir comiendo, bailando y consumiendo hongos alucinógenos, con 
+los cuales se conectan con diferentes entidades del entorno, como el lago mismo, el 
+puma y la tararira, pez cuyo nombre Jose adoptará. La vinculación toma en primera 
+ David Montecino Vieira 
+ 
+35  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+instancia la forma de una inmersión: se bañan en el lago y practican sus rituales, 
+experimentando su cultura en diferentes aspectos (pp. 153-154). Lo que se aprecia es 
+el deseo de conocer y amar la alteridad que los recibe hospitalariamente.  
+Si bien existe un sustrato mayoritario indígena, esta comunidad está conformada por 
+identidades diversas. Un elemento transversal de sus integrantes es su condición 
+migrante: todos, desde los aborígenes, pasando por científicos europeos, cautivas, 
+desertores de la guerra, gauchos anarquistas y los elegidos que escapan del proyecto 
+de Hernández, están fuera de sus territorios ‘originarios’. Los indios dicen tener una 
+ascendencia selknam, pero han recorrido la Patagonia y se han mezclado con otras 
+etnias, como los tehuelches y los winkas, desde hace mucho tiempo (Cabezón Cámara, 
+2018, p. 152). Muchos saben leer y escribir, y aunque reivindican su pasado ancestral, 
+no hay en ellos una noción de pureza en el sentido esencialista. Su constitución no tiene 
+que ver con algo racial o étnico. Por tanto, no pueden ser comprendidos desde una 
+perspectiva autóctona de territorialismo fijo, sino de una conexión entre la llanura, el 
+monte y el río. Sus criterios de afectividad guardan mayor relación con ciertos modos 
+de vida o con la existencia de un enemigo común, aunque esto último no es suficiente, 
+pues dicen que nunca podrán confiar realmente en los argentinos exiliados de la 
+República (pp. 156-157). En definitiva, son los que están al margen del Estado y la 
+cultura civilizada, aquellos que practican o desean otras formas de convivencia.   
+A partir de esta pampa orillar habrá cambios significativos en el grupo. En primer lugar, 
+Josephine declara que esta es su “nación” (Cabezón Cámara, 2018, p. 156). Esta tribu 
+no tiene divisiones como las del fortín: mujeres y hombres pueden elegir libremente 
+sus inclinaciones sexoafectivas y hacer las tareas que más les gusten o para las que se 
+sientan más aptos, como ocurre en ambos casos con la india Kaukalitrán, quien tiene 
+un amorío con Jose y es guerrera de la tribu (pp. 165-166). Con el advenimiento del 
+otoño, también se hará cada vez más inminente la llegada de las tropas argentinas. El 
+anuncio velado de “[l]o que faltan son armas” (p. 171) implica la conciencia de la 
+desventaja respecto al poder militar del enemigo. Esta situación marca el comienzo de 
+varios parlamentos en los que la comunidad va formando la decisión de movilizarse 
+hacia el noreste, en busca del río. Ya con el nombre de Iñchiñ (‘nosotros’ en 
+mapudungun) avanzan hacia lo desconocido, porque ninguno es habitante nativo del 
+Paraná. 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+36  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Al llegar al río las relaciones se vuelven aún más horizontales, pues la identidad 
+mayoritaria –que es la de los indios– se mantiene, pero también se permea de los 
+atributos de los nuevos integrantes, en una dinámica de cocreación intercultural en la 
+que se da a entender que todos participan. En cuanto a lo lingüístico, se puede observar 
+en el discurso de Jose la adopción cada vez más acentuada de una cantidad significativa 
+de vocablos del mapudungun y el guaraní, que se suman al conjunto previo de español 
+e inglés. Por otro lado, los Iñchiñ aplican sus conocimientos a este contexto geográfico, 
+construyendo wampos para remontar las corrientes. Respecto a los objetos, los 
+wampos, dice Oscar, son balsas “pretty much better tan ours” (Cabezón Cámara, 2018, 
+p. 175). No obstante, utilizan tul comprado por Liz en la ciudad para hacer mosquiteros, 
+lo que muestra las cualidades de mezcla heterogénea con que los Iñchiñ se configuran, 
+aceptando lo que puede serles útil para sus objetivos de transformación. Por ejemplo, 
+en varios momentos se plantea que podrían hacer la ‘ñoñairo’ (guerra) si es que 
+tuvieran armas (p. 170), pero ante la ausencia de estas toman otro camino: la 
+internación en las profundidades recónditas del río. 
+Las características idiomáticas y materiales de los Iñchiñ dejan patente una 
+configuración cultural que podría interpretarse metafóricamente como la incipiente 
+aparición –en el contexto temporal del relato– de lo que Homi Bhabha (2013) entiende 
+como ‘cosmopolitismos vernáculos’, esto es, una subjetividad situada en la 
+“intersección de distintas tradiciones culturales, revelando formas híbridas de arte y 
+vida nunca antes vistas dentro de los mundos discretos de las culturas o lenguas únicas” 
+(p. 93). Se trata de un pensamiento que comprende lo global desde la perspectiva 
+minoritaria, basada en el derecho a la igualdad en la diferencia, donde la emergencia 
+de grupos “tiene menos que ver con la afirmación o el reclamo de autenticidad de 
+determinados orígenes e ‘identidades’ que con prácticas políticas y elecciones éticas” 
+(p. 98).  
+ En este nuevo espacio los Iñchiñ tienen una distribución del tiempo que difiere 
+fuertemente a la del capitalismo neoliberal: él énfasis está puesto en la consecución del 
+ocio, la creación y el desarrollo de habilidades atléticas. Para ello, tienen un sistema de 
+labores que permite que las necesidades básicas se cubran trabajando en una rotación 
+de un mes por tres de descanso (Cabezón Cámara, 2018, p. 178). No se eliminan las 
+jerarquías, pero su asignación es otorgada por el colectivo de manera alternada y por 
+ David Montecino Vieira 
+ 
+37  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+periodos acotados, de manera que todos alguna vez tengan que ser jefes: “en tiempos 
+de crisis mandan y hay que aguantarlos hasta que pase” (p. 181), dice Jose. Se trata, por 
+tanto, de una movilidad física y política hacia una organización participativa y 
+vinculante. La práctica del desplazamiento también es diferente a la anterior, 
+coincidiendo con el nuevo modo de vida del colectivo: si con la carreta penetraban junto 
+a los objetos civilizados en el desierto (nomadismo en flecha, similar al del fortín), al 
+llegar al río el movimiento es de habitación más que de apropiación, conformándose en 
+un nomadismo circular que “vira a medida que las partes del territorio se van agotando” 
+y cuya función es garantizar con sus trayectorias la “sobrevivencia de un grupo” 
+(Glissant, 2017, p .46). 
+Reubicados en el Amazonas, los wampos – cuyo origen es selknam y mapuche – servirán 
+para movilizar a toda la comunidad y volverla indetectable. A la vez, con ellos cambiarán 
+las condiciones de los animales, pues una vez instalados son llevados por la tracción 
+humana, usando remos y cuerdas, y ya no mediante su explotación. Cuando se 
+desplazan por el río, Jose cuenta que Rosa va “calmando a las vacas y los buenos 
+mansun que ya no cargan nada y gozan de la misma vida leve que todos, Iñchiñes 
+también ellos” (Cabezón Cámara, 2018, p. 182). De hecho, hacia el final no hay más 
+alusiones a su uso como alimento, que son referidas en varias ocasiones en los otros 
+espacios. En cambio, sí se habla de las formas de plantación en las balsas, e incluso de 
+la cruza de especies vegetales (p. 178). Esto concluye la configuración descriptiva sobre 
+el trato con los animales y el entorno en general, donde observo en un principio algunas 
+jerarquías naturalizadas, que luego derivarán en una relación más respetuosa e 
+igualitaria.  
+Continuando el enlace con lo ucrónico, los Iñchiñ articulan con mayor fuerza el efecto 
+hipotético de este modo ficcional, pues en la narración se representa una comunidad 
+posible – no hay certeza de que no haya existido alguna similar – que termina 
+ocultándose en los afluentes del Paraná. “Hay que vernos, pero no nos van a ver” 
+(Cabezón Cámara, 2018, p. 185), dice Josephine, casi al cerrar su relato, sugiriendo la 
+posibilidad de que aún estén allí, con otros nombres y tradiciones, en el interior del 
+Amazonas (recordemos que dicen que subirán al norte, mezclándose con los 
+guaraníes). En este sentido, este último espacio es el reivindicado por la subjetividad 
+narrativa y produce una especie de anacronismo, donde se yuxtaponen el contexto del 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+38  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+siglo XIX con valores de la actualidad, ya que se presenta a los Iñchiñ como un grupo 
+que construye su vida de modo contrahegemónico. Se los presenta como una pulsión 
+de escape al discurso dominante en un momento histórico fundamental, en el cual se 
+consolidaba la colonialidad de los estados nacionales en los territorios americanos, 
+cuando estos todavía no se habían expandido de la forma en que han hecho hasta 
+nuestra época.  
+Como se puede observar, la forma de pensar y vivir de los Iñchiñ no tiene un afán de 
+conquista, sino de integración en el territorio. La fiesta y los rituales con hongos, 
+además de la labor de Rosario como embajador –mediante su sapukái– construye una 
+relación de amistad con los guaraníes. Cabe destacar que el grupo se diferencia 
+explícitamente de los habitantes autóctonos del río. Se habla de ellos como una 
+alteridad con la que están haciendo tratativas, negociaciones que terminarán en 
+“nuevos parentescos, en un Nosotros engordado” (Cabezón Cámara, 2018, p. 176). Sin 
+embargo, se reconocen como una cultura particular, no asimilable ni confundible con 
+los habitantes que estaban antes en el río. Si bien no erigen una separación radical con 
+ellos, sí lo hacen, por el contrario, con los patriotas occidentales. Aquellos que han 
+decidido formar parte de los Iñchiñ tienen claro que han sido puestos al margen por el 
+proyecto civilizatorio, que son considerados indeseables, desechables. Por muy 
+británicos que sean Liz y Oscar, si pelearan con los militares, es muy probable que los 
+mataran también. En efecto, esta es la razón por la que se mueven por los afluentes del 
+gran río – los ‘ysyry’– evitando los lugares por donde suelen moverse los argentinos y 
+los uruguayos con sus máquinas de guerra (p. 177). En otras palabras, algo queda 
+bastante claro: no aceptarán a cualquiera como parte de su ‘nosotros’, no compartirán 
+con quienes quieran violentarlos. Por la misma razón es que se mueven ocultos por la 
+niebla, sigilosos y precavidos ante “sorpresas desagradables” (p. 182). 
+Me parece importante considerar esto, puesto que algunos críticos han tendido a 
+idealizar las características de los Iñchiñ diciendo, por ejemplo, que se trata de una 
+comunidad “que omite cualquier tipo de frontera” (Portela, 2019, p.46). Es cierto que 
+en la narración se transgreden varias fronteras (si es que las entendemos solo como 
+algo rígido), sobre todo las que imperan en el fortín, pero eso no significa que este grupo 
+humano, como cualquier otro, no las usen, pues los humanos necesitan categorías 
+espaciales –entre ellas las separaciones– para comprender el mundo (Grimson, 2018, 
+ David Montecino Vieira 
+ 
+39  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+p. 134). La comunidad reconfigura sus límites de una manera distinta a la sociedad 
+occidental, pero no por ello dejan de establecerlos. A mi juicio, aquí no se trata de una 
+comunidad sin fronteras, sino de la ubicación subversiva de una fronteridad propia 
+respecto a una dominante, lo que da como resultado otro modo de vivir. 
+En síntesis, como en el relato se presentan dos formas de sociedad, una de la cual los 
+personajes se desprenden y otra que construyen, me parece muy acertada la reflexión 
+de Fandiño cuando estipula que: 
+Es posible detectar un doble movimiento en el texto en torno 
+a la 
+constitución del espacio: la oposición y la fundación. La oposición se 
+advierte 
+en cuanto polemiza con el espacio del desierto instaurado por 
+la literatura del 
+XIX 
+que implica esferas cerradas, delimitadas por 
+posiciones exclusivas y excluyentes 
+de toda diferencia que no figure en 
+los términos de su propia legalidad (el gaucho, 
+el indio, la mujer, las 
+identidades otras); esferas sobre las que se consolidó el Estado-nación. 
+Por fundación, porque el texto diseña un espacio en formación mediante 
+modalidades de interrelación diversas en las que destaca la presencia de 
+los afectos 
+y deseos entendidos no como parte del discurso patriarcal 
+que los clasifica como 
+privativos de lo instintivo, de la naturaleza o lo 
+femenino, sino como vectores de fuerza de una  
+organización política 
+cuyo principal rasgo yace en la idea de “lo común” (2019, pp. 56-57). 
+En otras palabras, en la polifonía narrativa, algunos espacios y cuerpos son rechazados, 
+mientras que otros son aceptados, previa transformación. Así ocurre con el grotesco 
+Hernández, por un lado, y el perdonado y redimido Fierro, por otro; de igual modo 
+acontece con la pampa occidentalizada (las tolderías gauchas y el fortín) en 
+contraposición a la laguna y el río. Al terminar la narración, el espacio instituido por los 
+Iñchiñ queda con una carga positiva, creando un fuerte contraste con los anteriores, a 
+excepción de la carreta y el paisaje natural del desierto. Los espacios reivindicados en 
+la trayectoria afectiva de la constelación de agentes son aquellos donde existe 
+ductilidad y movilidad identitaria en pos de un modo de vida contrahegemónico. 
+Por último, la articulación de esta comunidad desde lo migrante como condición 
+compartida conlleva que la identidad grupal pueda ser vinculada con lo que Antonio 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+40  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Cornejo Polar (1996) buscó definir respecto a este tipo de subjetividades, sobre todo 
+en cuanto a su heterogeneidad no dialéctica, vale decir, a su discurso “que no intenta 
+sintetizar en un espacio de resolución armónica.. [debido a que es] doble o 
+múltiplemente situado” (p. 841). Aunque a nivel grupal se puede ver una relación de 
+convivencia armoniosa, a lo que refiere este crítico es a la construcción de la conciencia 
+no unitaria que tendrían los migrantes, debido a su experiencia de desplazamiento que 
+los desarraiga y los pone en contacto con situaciones culturales inéditas para ellos, 
+provocando que puedan manifestarse cognitivamente de todas esas formas, sin 
+necesidad de constituir una coherencia equilibrada, como ocurriría con el mestizaje o 
+la hibridación. El discurrir de la voz de Josephine va sumando códigos sin abandonar los 
+anteriores, introduciendo así palabras del mapudungun y el guaraní sin dejar de hablar 
+español e inglés. Los acuerdos que marcan características culturales en el grupo 
+también tienen naturalezas múltiples, aunque se rescate con mayor énfasis la episteme 
+indígena. De todos modos, la individualidad es respetada, y cada quien puede optar por 
+sus quehaceres en los tiempos de ocio, pero no sin responder a los compromisos 
+respecto a la vida en comunidad. En este sentido, el colectivo también puede ser 
+descrito en los términos expuestos, en tanto es una agrupación de individuos que 
+hablan desde dos o más lugares y que además ahora combinan sus posicionamientos 
+en igualdad de condiciones, componiendo una sumatoria sin una teleología 
+predeterminada. 
+Los cuerpos que habitan el río como fronteras del discurso binario: ¿utopía o 
+terceridad? 
+ 
+En este apartado realizaré una comparación de la espacialidad en ambas novelas, para 
+luego abordar en específico las interpretaciones sobre los espacios del río, 
+fundamentales para sustentar mis conclusiones 
+Como espero haber demostrado, las dos novelas comparten una construcción similar 
+que las emparenta y las hace resonar –entre ellas y con los demás signos del imaginario 
+social– respecto a la historia y geografía de Argentina y sus fronteras. En cuanto la 
+polifonía espacial, veremos que en las dos se establece una composición binaria a nivel 
+macro, para luego llegar a un tercer espacio donde los vínculos son significativamente 
+distintos a los dos anteriores. Las trayectorias de los cuerpos tienen como rasgo común 
+ David Montecino Vieira 
+ 
+41  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+que los agentes se desplazan debido a que se ejerce una violencia constante –más o 
+menos directa– sobre ellos. 
+En la novela de Mairal, la intemperie es el gatillo de la acción: su paso destruye la 
+civilización occidental en Argentina –probablemente en todo el continente– y hace 
+aparecer la barbarie, pero también otras formas de vida que habían sido omitidas o 
+violentadas, las cuales provocan un sisma en el dualismo de esta visión, al disentir 
+fuertemente de sus prácticas. Por su parte, en la novela de Cabezón Cámara, la 
+Campaña del Desierto deja abandonada a la china y la lleva a internarse en la pampa 
+con el perrito Estreya, Elizabeth y Rosario. Lo que ya era considerado barbárico –el 
+gaucho en la perspectiva sarmientina– es la situación primera, pero luego en el fortín 
+se presentará la civilización. Ese espacio contrastará con la libertad y concordia que el 
+grupo tenía atravesando la pampa en carreta, por lo que deciden retirarse para formar 
+otro proyecto, que no termina siendo la hacienda de Oscar y Liz, como habían planeado. 
+En cuanto al río, en el caso de Mairal, María se encuentra con los Ú, quienes son 
+autóctonos del lugar y conjuntan aspectos culturales de varias comunidades 
+amazónicas. María es solicitada para configurar una tecnología corporal contra el 
+enemigo, pero no aporta su propia individualidad al grupo, sino que observa y participa 
+de la cultura de llegada en una dinámica de asimilación, lo que pone el sentido del 
+colectivo por sobre el suyo. A ella se la inicia en los ritos y costumbres (como ocurre 
+también en Kutral-Có con el grupo de Iron), se la acepta como un miembro con todos 
+los derechos de la comunidad, pero se trata de una sociedad rígida, con jerarquías ya 
+preestablecidas que tienen que ver con la sabiduría de la ancianidad y las creencias 
+religiosas expresadas en el oráculo de dos cuerpos de sexos distintos. Todos deben 
+acatar lo que estas autoridades dicen, y es precisamente por esto que María debe partir 
+con la expedición. 
+En cambio, en Las aventuras… vemos que, al entrar al río, el grupo toma una 
+participación activa: crean la articulación espacial junto a los demás, por lo que todos 
+aportan a la configuración de los Iñchiñ. Esto puede notarse en el uso de otras lenguas, 
+que aparece en ambas, pero que en el caso de la novela de Cabezón Cámara no solo 
+implica una mayor cantidad de culturas entrecruzadas, sino que se plantea como una 
+poética de la expresión de la narradora, cosa que no se da en el relato de María, ya que 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+42  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+ella aprende solo rudimentariamente el idioma. Como expliqué anteriormente, las 
+jerarquías aquí son rotativas y se tiende a la horizontalidad en las decisiones, teniendo 
+relevancia tanto lo individual como lo colectivo. Las decisiones se toman en conjunto y 
+la composición cultural es significativamente más fluida, lo que implica una 
+transformación constante de su identidad. 
+Al abordar comparativamente el argumento de las novelas, existen dos diferencias 
+fundamentales. La primera refiere a la constelación de agentes, ya que María tiene 
+compañía de manera efímera, mientras que Josephine se va articulando en una red. La 
+segunda tiene que ver con el desenlace: en el caso de Mairal el espacio del río es 
+denegado, ya que María no puede regresar debido a la violencia con que se encuentra 
+en la torre Garay, lo que tiene como consecuencia la imposibilidad de la pertenencia a 
+la comunidad de los Ú; por otro lado, en la novela de Cabezón Cámara, el espacio del 
+río es donde concluye el relato, representándose la comunidad de los Iñchiñ como algo 
+factible, aunque en amenaza constante por la llegada de los ejércitos nacionales que 
+buscan invadir los territorios ‘incivilizados’. En definitiva, como en casi toda la 
+narración, a María se le quita la posibilidad de decidir, tanto por los propios indígenas 
+como por los civilizados de la capital, que la llevan fuera del continente sin su 
+consentimiento. Al contrario, en la novela de Cabezón Cámara el espacio selvático es 
+en el cual termina la historia, ratificando la decisión de los integrantes tienen para 
+formar parte de la comunidad, de alejarse y esconderse del poder estatal y su agresión 
+militar. Por tanto, en ambas representaciones del río se reitera la percepción de ser el 
+espacio donde los protagonistas logran encontrar una comunidad; sentirse, frente a la 
+hostilidad que los asedia, protegidos y queridos de maneras que ni siquiera imaginaron. 
+Es sintomático entonces lo que ocurre con las interpretaciones que ha hecho la crítica 
+especializada sobre estos colectivos y su sentido en las novelas: se ha hablado con 
+mayor desenvoltura de los Ú en términos explícitos de utopía, mientras que, para los 
+Iñchiñ, la mayoría de quienes han utilizado este concepto lo hacen estirando o 
+tensionando sus límites.  
+En cuanto a Las aventuras de la China Iron, Pérez Gras (2021) piensa que la utopía se 
+da mediante la representación de una “comuna autogestionada hasta el extremo de 
+estar desconectada del Estado, de su control y de su poder” (p. 45), pero que no es una 
+ David Montecino Vieira 
+ 
+43  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+realidad del todo tangible. No obstante, recordando las ideas de Agamben, vía 
+Drucaroff (sobre la búsqueda utópica inherente a las obras de arte), afirma que “el 
+movimiento 
+que 
+genera 
+su 
+pulsión... 
+debería 
+generar 
+desplazamientos 
+contrahegemónicos en el orden de lo político” (p. 47). Destéfanis (2021) se detiene en 
+la utopía como la “posibilidad de habitar un mundo que permita vivir en plenitud” (p. 
+1). Sin embargo, en el relato no se trata de un lugar fijo, sino que resulta del movimiento 
+constante y huidizo de la comunidad, que escapa a la mirada exógena que busca 
+controlar los cuerpos, en un peregrinaje “que diluye mitologías para construir redes 
+metonímicas de mutuo cuidado” (p. 7). En una línea similar, Croce (2020) propone que 
+se trata de una gauchesca transgénero “donde lo pampeano resigna sus privilegios al 
+ser sometido a la utopía y la utopía renuncia a su radicación para convertirse en flujo 
+de tránsitos, discontinuidades y, quién sabe, naufragios” (p. 22). Por su parte, De Leone 
+(2021) incluye la novela en una zona de la literatura argentina actual que elabora 
+nuevas formas de utopía que reestructuran universos pasados y abren la posibilidad a 
+pulsiones “que por imposibles se vuelven aún más insurrectas”, siendo en este caso una 
+“línea desheteronormativizada y desbinarizada que da por tierra con las imágenes 
+prometeicas de esa zona de promesas” (p. 67). Cupertino Belleze (2020), por último, 
+desde un marco descriptivo lineal de los sistemas económicos, dice que la comunidad 
+se disuelve una regresión hacia la caza y recolección, para luego pasar a la agricultura 
+en armonía con la naturaleza, donde la propiedad de los medios de producción 
+corresponde a un comunismo primitivo, pero ahora “con la heterogeneidad de las 
+culturas que se funden en un final que se mezcla entre la distopía y la utopía” (p. 9). En 
+conclusión, ninguno se atreve a ligar el espacio de los Iñchiñ con una utopía en el 
+sentido más clásico. 
+Por otro lado, tenemos la reflexión de Jaroszuk (2021), quien se plantea explícitamente 
+antagonista con el concepto, partiendo por su ligazón involuntaria con los horrores 
+totalitarios del siglo XX, y explica, desde las ideas de Ranciere, que las utopías se 
+postulan como cuerpos comunitarios ideales, estables y completos. Además, 
+conllevarían “la categoría del proyecto realizado de una temporalidad lineal” (p.369), 
+es decir, en una concepción teleológica del progreso que termina en la ubicación en 
+una esfera aparte, aislada y estática, donde lo comunitario prima sobre lo individual, en 
+una verticalidad de valores. Plantea que en la novela lo que vemos es una comunidad 
+de movimiento continuo y en la cual existe supremacía de lo individual, desregulación, 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+44  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+transformación y horizontalidad. Para ella la comunidad de los Iñchiñ representa lo 
+político ranceriano ya que permite el disenso, las negociaciones y no se resigna a la 
+estabilidad (lo policial). Por tanto, sería mejor pensar su composición en términos de 
+“un horizonte de lo posible” (p. 370). En lo nuclear, concuerdo con esta crítica y su 
+defensa de una perspectiva espacializante de la utopía me parece de alto valor 
+sugestivo para pensar esta problemática y ha terminado por consumar mi reflexión al 
+respecto. Por ello, utilizaré estos criterios (aislamiento, estabilidad, superioridad de lo 
+colectivo) para ir a contramano de la interpretación de lo utópico en la novela de Mairal. 
+Respecto al espacio de los Ú, Semilla Durán los describe como un grupo donde existe 
+una “armonía edénica en la medida en que toda necesidad ha sido evacuada y se 
+establece una correspondencia profunda entre lo que se es, lo que se quiere y lo que 
+se tiene” (333). Sin embargo, esta utopía no será creativa, ya que María no puede 
+quedarse definitivamente “en esa forma de atemporalidad que la distancia ofrece” 
+(332). Por su parte, Mercier, quien considera que la imagen de los Ú es la del buen 
+salvaje, los asocia con un modo de vida natural y un tiempo suspendido (que es una 
+percepción de María), contrarios por tanto a la temporalidad abierta que ella 
+fundamenta desde las teorías sobre la utopía de Ernst Bloch y Arturo Roig, vale decir, 
+la expectación y participación de los sujetos para construir un futuro deseable. Por 
+tanto, para ella el espacio de los Ú sería “falsamente utópico... [ya que] se asiste 
+solamente a su contemplación y aceptación pasiva de un proceso retrógrado de la 
+historia traumática nacional” (124). 
+El aislamiento y la pretendida pureza originaria de este espacio no son tales. Además 
+de las características revisadas en su apartado respectivo, puedo agregar que el espacio 
+de los Ú está solo a dos jornadas de viaje en caballo de lo que queda de la ciudad 
+(Mairal, 2012, p. 292). También se encuentran partes de la civilización en las presas que 
+comen, como restos de plástico en las aves (p. 275), lo que muestra que el espacio no 
+es atemporal ni está desafectado. Por el contrario, la intemperie expulsó a los 
+occidentales del territorio, pero sus vestigios siguen allí, afectando el entorno. Además, 
+como he marcado, siguen ocurriendo eventos que dan cuenta de que los Ú son 
+perturbados por el exterior. Por ejemplo, aparece un personaje llamado Ñuflo, quien 
+carga el esqueleto muerto de su amigo viajero para darle santa sepultura (p. 288). Es 
+verdad que María dice que siente que el tiempo se ha suspendido y que el pasado ya 
+ David Montecino Vieira 
+ 
+45  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+no le duele, pero se trata de una percepción subjetiva que no invalida sus otros 
+enunciados, donde da cuenta de todos los demás hechos sucedidos. Por tanto, la 
+supuesta suspensión del tiempo también es falsa, pues siguen ocurriendo 
+acontecimientos externos e internos al grupo, como la guerra con los guatos, la muerte 
+de los revolucionarios, la relación sexoafectiva con Mainumbí, la salida de la expedición, 
+entre otros. 
+Como ya se podrá haber apreciado, mi postura es que ninguno de los dos espacios 
+puede ser considerado utópico, por al menos dos razones: son espacios en 
+transformación y están afectados por lo foráneo. Sus relaciones pueden ser mayor o 
+menormente estables, pero no están ‘terminados’, no son fijos. Tampoco están aislados 
+(ni en tiempo ni en espacio) de lo que ocurre en sus mundos ficcionales. La diferencia 
+más clara es la cuestión de la sujeción a lo social, de cuan ‘obligados’ a seguir un sistema 
+de conducta están los sujetos que los componen. En El año… la influencia cultural de 
+María es mínima, no pasando de ayudar a curar a Mainumbí o de ser utilizada 
+inconscientemente como un arma de guerra. Además, desiste de la posibilidad de 
+enseñarles la escritura. En contraste, en Las aventuras… se muestra explícitamente la 
+posibilidad de agencia e injerencia individual de los sujetos: aunque hacen actividades 
+juntos, se representan en el relato de Josephine las diferentes perspectivas que tienen 
+de lo que sucede, la forma en que sus respectivos saberes van conformando la 
+comunidad. Como ejemplo, se pueden apreciar las distintas apreciaciones sobre lo 
+maravilloso que les resulta la luz que cae por las enramadas densas de la selva: “un 
+prodigio de santidad vegetal” (Cabezón Cámara, 2018, p. 178), dirá Josephine, mientras 
+que Liz las entenderá desde su ideario cristiano protestante, comparándolas con los 
+vitrales de las iglesias o las auras de los santos, similar a la “infinita catedral” (Mairal, 
+2012, p., 289) que Ñuflo dice ver en la selva del Paraná. 
+Con esto no quiero decir que las conclusiones de las críticas rebatidas estén del todo 
+erradas. Vista en esos términos, efectivamente la ‘utopía’ no se cumple, ni como 
+compensación creativa ni como movilización de los ideales para un futuro mejor (lo que 
+sí ocurre en Las aventuras…). Estoy de acuerdo con que María no se libera del trauma 
+(Mercier, 2019, 130) y que no es portadora de una promesa de comunidad (Semilla 
+Durán, 333). No obstante, la forma en que se concibe la utopía es conceptualmente 
+vaga y su retórica argumentativa muestra contradicciones en este aspecto, pues se 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+46  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+utilizan reflexiones no necesariamente espacializadas para describir un espacio – como 
+la fuerza imaginativa del principio esperanza de Bloch o la función utópica de Roig, la 
+concepción pulsional de Agamben o la intención de apertura al futuro de Jameson – sin 
+considerar en detalle la configuración específica que se da en la diégesis y conceptos 
+narratológicos que nombré en el apartado teórico. La reducción de muchos datos 
+autentificados en el relato es evidente cuando se habla de atemporalidad o aislamiento 
+de los Ú. No comparto tampoco que María sea un personaje pasivo y contemplativo 
+(como afirma Mercier). Ella enfrenta con resiliencia la catástrofe que afecta a todo su 
+mundo, pues cuando puede se defiende de la violencia y colabora con los colectivos 
+donde habita, por lo que resulta irrisorio solicitarle estar a la altura de un 
+acontecimiento frente al cual ningún otro personaje lo estuvo.  
+Por un lado, no solo María no supera el trauma y queda atrapada en el modelo 
+civilizatorio que quiso abandonar, sino que sufre uno aún peor – no olvidemos que 
+pierde el habla por cinco años – cuando es arrancada por los caníbales capitalistas del 
+único espacio en el que logra sentirse medianamente bien. Destaco este adverbio 
+porque tampoco es cierto que María esté en un idilio constante con los Ú: cuando llega 
+Ñuflo, siente nostalgia por la ciudad (él le ofrece que lo acompañe), y sus 
+conversaciones en castellano con él hacen que Mainumbí sienta celos y caiga en 
+borracheras constantes, lo que conlleva que ella se retraiga, que comience a dejar de 
+comunicarse (Mairal, 2012, p. 289). Para la protagonista, la vida con los Ú no era una 
+utopía, sino una alternativa concreta para vivir mejor de lo que había vivido durante la 
+catástrofe, y quizás hasta mejor de lo que vivirá después.  
+En otra faceta, la entelequia –a mi parecer simplista– de ver a los Ú como una metáfora 
+de los humanos primitivos deja de lado su contextualización ficcional como una 
+comunidad ligada a los guaraníes que, a propósito, tienen –documentado tanto en lo 
+académico como en lo popular (Villar y Combes, 2013)– su propio mito de una utopía 
+terrenal: la Tierra sin Mal (yvymarãey), que ha servido como explicación a sus 
+constantes migraciones por diferentes territorios selváticos, y que podría servir para 
+interpretar, en el mundo narrativo, su deseo por ver qué hay más al sur de Buenos Aires. 
+Todo esto bajo la idea de las entidades inter-mundo, que ya referí previamente, ahora 
+aplicadas a lo espacial. En esta lógica, la imposibilidad de pertenecer a este grupo que 
+el argumento de la novela impone a María puede ser vista como un gesto performativo 
+ David Montecino Vieira 
+ 
+47  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+de respeto representacional por parte del autor, pues se evita que el personaje tome la 
+voz (y cosmovisión) de los indígenas13. Para complementar esta discusión, creo 
+importante destacar que la interpretación lineal del progreso cultural implica sustraer 
+la contemporaneidad de este tipo de colectivos, replicando la transformación de los 
+límites espaciales en cronológicos, influencia del pensamiento ilustrado positivista 
+(Mignolo, 2003, p. 361). Lo cierto es que hoy en día existen pueblos de nulo o casi nulo 
+contacto en las zonas recónditas del Amazonas14. Que vivan de formas que algunos 
+consideran ‘atrasadas’ o ‘naturales’ no significa que dejen de ser contemporáneos. La 
+perspectiva espacial colabora a revelar, en este caso, la importancia de considerarlos 
+actuales: si ocurriera un apocalipsis similar –a menos de que fuera la destrucción física 
+del planeta entero– es verosímil pensar en la reaparición de este tipo de comunidades 
+en territorios donde la civilización ha avanzado. 
+Por estas razones, pienso que hay que tener cautela respecto a interpretaciones 
+tajantes, puesto que, aunque trabajemos con representaciones, los investigadores y 
+críticos no estamos exentos de sesgos epistemológicos, los cuales evidencian nuestra 
+forma de entender la realidad; a qué damos importancia y a qué no, nuestros modos 
+de abordaje sobre los temas que trabajamos15. En primera instancia nos debemos a los 
+textos literarios o culturales que analizamos y evaluamos, por lo que la rigurosidad en 
+su examen es primordial y no podemos supeditarlos a ideas preconcebidas. La 
+                                                                
+ 
+13 No ocurre lo mismo en el caso de Las aventuras… donde la comunidad se crea con la participación del grupo 
+de Josephine y nadie es autóctono del lugar al que llegan al final. 
+14 Los registros reunidos por la Fundación Nacional del Indio (FUNAI) en Brasil registran más de cien grupos 
+de indígenas aislados, como informan en su página web: https://www.gov.br/funai/pt-br/atuacao/povos-
+indigenas/povos-indigenas-isolados-e-de-recente-contato. Estos datos podrían conjuntarse con los 
+organismos encargados en otros países de la zona amazónica, donde estos grupos viven en territorios muchas 
+veces protegidos por ley, pero padecen constantemente invasiones con fines lucrativos, siendo violentados 
+directa o indirectamente por agentes occidentales (matanzas para obtener riquezas de sus tierras o contagios 
+de enfermedades para las cuales no tienen defensas inmunitarias, una de las principales preocupaciones 
+respecto a la pandemia de COVID-19). 
+15 En la bibliografía crítica de la novela de Mairal queda patente el interés sobremedido por el binomio 
+civilización y barbarie y su masa de referencias intertextuales que en algunos casos llega incluso a la omisión 
+total del capítulo de los Ú. Las palabras dedicadas hasta ahora a esta comunidad representada no deben 
+ocupar el 5% de la reflexión crítica (y además con reduccionismos), como si el nombre de la novela eliminara 
+que dentro de ella existe el espacio del río. Con estos gestos interpretativos, en una narración que desplaza 
+explícitamente el centro y la periferia, los críticos parecieran reestablecer la hegemonía que la obra busca 
+desestabilizar. 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+48  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+metaforización es necesaria para la comprensión del mundo, pero es peligroso que esté 
+al completo arbitrio, pues provoca muchas veces abducciones o aberraciones 
+hermenéuticas en pos de conseguir la comprobación de nuestras hipótesis.  
+Siguiendo esta crítica, propongo el ejercicio de tomar lo que no ha sido considerado en 
+las interpretaciones, dejando de lado lo demás. En esta tónica, se podría decir que 
+varias características de los Ú y de los Iñchiñ están presentes en comunidades 
+contemporáneas, por lo que de principio sus espacios no podrían ser considerados 
+como utopías, ya que tienen existencia extratextual (viéndolo etimológicamente, desde 
+el no-lugar). Las economías comunales y solidarias existen, las formas no capitalistas de 
+división del trabajo existen. Las ropas autóctonas existen y también las combinaciones 
+con la vestimenta occidental. Existen comunidades que sí han tenido contacto con la 
+civilización, en las cuales muy pocos de sus integrantes conocen algún idioma 
+occidental, como también existen comunidades donde quienes las componen hablan al 
+menos dos idiomas, sino más, y sus culturas están mixturadas de infinitas maneras. Esto 
+no las hace utópicas; de lo contrario, habría que considerar a cada espacio que tenga 
+alguna de estas características como tal, por lo que el concepto perdería sentido. De 
+igual forma, ni el espacio de los Ú ni el de los Iñchiñ posee solo características ‘ideales’, 
+así como tampoco tienen una fijeza esencialista (aunque los Ú tienen una construcción 
+más rígida) o están totalmente aislados y protegidos de la influencia externa, ya sea 
+benigna u hostil. Pienso que se ha generalizado bastante en este aspecto.  
+El texto siempre está primero que las teorías con que queremos abordarlo. La 
+variabilidad de posiciones sobre el concepto de utopía demuestra la necesidad que se 
+ha tenido de trascender ciertas categorías y, más allá, opino que la representación de 
+estos espacios fluviales en las novelas pone a prueba este concepto, instalando su 
+interpretación en las fronteras, donde no puede ser definido del todo, como una aporía. 
+En cierto modo, hay algo más, algo que escapa en estos espacios, una divergencia en 
+estas novelas –con sus respectivos matices– que prefiero asociar con la idea de 
+terceridad presentada en un principio, pues se trata de lugares reales-e-imaginarios, 
+visiones contrastivas que, ya sean observadas por separado o en la globalidad de cada 
+obra, tensionan y exceden la dualidad del discurso de civilización y barbarie, de utopía 
+y distopía, invitándonos a ir más allá. Quizás haya algunos conceptos que no puedan ser 
+ David Montecino Vieira 
+ 
+49  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+estirados más, y sea necesario explorar unos nuevos, mirar otros espacios, como 
+postulo que hacen estas narraciones en sus trayectorias. 
+Desde mi punto de vista, estas novelas hacen aparecer ante nuestras imaginaciones 
+espacios y cuerpos a los que se les ha quitado su contemporaneidad, que viven 
+moviendo sus fronteras comunitarias para sobrevivir, internándose cada vez más en lo 
+profundo e inaccesible de la selva, más allá del binomio civilización/barbarie. Si los 
+Iñchiñ tienen que ir a esconderse de la avanzada mortífera del proyecto nacional y 
+abandonar la escritura para sobrevivir (como ocurre en el final del relato), los Ú avanzan 
+–quizás desde que desaparecen los asentamientos modernos– sobre un territorio 
+reconfigurado por un fenómeno que hace retroceder la civilización, proponiendo un 
+espacio alternativo, proliferante de vida, que contrasta con la destrucción de los 
+espacios anteriores. Visto así, podemos relacionar este diseño narrativo de la 
+espaciotemporalidad con la idea de ‘pensamiento fronterizo’, desarrollada por Walter 
+Mignolo (2003) para designar un tipo de epistemología que “afirma el espacio donde el 
+pensamiento fue negado por el pensamiento de la modernidad” (p.51), vale decir, “una 
+lógica otra que superara la larga historia del mundo moderno/colonial, la colonialidad 
+del poder, la subalternización de conocimientos y la diferencia colonial” (p. 418). 
+Para terminar, me gustaría elaborar una reflexión a partir de un momento de la 
+discusión crítica que de alguna manera inspiró este artículo. En su conocido ensayo 
+sobre la novela de Mairal, Drucaroff (2006) realiza una comparación con los personajes 
+de la novela Plop (2002), de Rafael Pinedo. En esta última aparecen hordas nómades, 
+ágrafas y desmemoriadas, habitantes de un erial postapocalíptico lleno de escombros 
+de la antigua vida urbana, que la investigadora imagina como una continuidad de los 
+braucos y huelches, los cuales ya he mencionado. Los grupos de ambas novelas se 
+adaptan a la caída de la civilización, pero con modos de resistencia que para Drucaroff 
+no son programáticos y, por tanto, no revolucionarios. Estas apreciaciones despertaron 
+una polémica con Marina Kogan (2006), quien interpela a Drucaroff afirmando que sus 
+opiniones están basadas en juicios de valor anacrónicos, pues piensa la resistencia 
+política en términos que la crisis de 2001 mostró como caducos. En cambio, ella 
+propone mirar estas dos novelas desde la imaginación de un nuevo ordenamiento, en 
+el que este tipo de bandas representarían, por ejemplo, el espíritu asambleario que se 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+50  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+generó tras la crisis, vale decir, el levantamiento de poderes populares alternativos a 
+las políticas institucionales. 
+Haciendo un cruce imaginativo similar al que ocurrió entre estas dos críticas, pero ahora 
+entre las dos novelas que aquí nos competen, se podría especular que, luego de 
+internarse en el río, con el pasar de los años los Iñchiñ se mezclaron con diferentes 
+comunidades amazónicas, incluidos los Ú (o que estos mismos contactos dieron origen 
+a los Ú, los cuales reaparecerán posteriormente, cuando la intemperie destruya la 
+civilización). En este sentido, como una imagen dialéctica, ambas comunidades nos 
+proponen de alguna manera que la discusión sobre lo venidero está precisamente en 
+los espacios que han sido despreciados por la comprensión hegemónica del binomio 
+fundacional (que como dije, no es único de Argentina). Los Ú y los Iñchiñ nos interpelan 
+a mirar hacia el costado, a pensar más allá de lo conocido y de lo acostumbrado, a poner 
+atención a lo que ha sido omitido. 
+Referencias  
+Amilhat Szary, A.-L. y Giraut, F. (2015). Borderities: The Politics of Contemporary Mobile Borders. En A.-L. 
+Amilhat Szary y F. Giraut (Eds.), Borderities and the Politics of Contemporary Mobile Borders (pp. 1-22) 
+Palgrave MacMillan. 
+Areco, M. (2016). Imaginarios de espacio en la narrativa de dos mil: figuraciones del desierto en relatos de la 
+postdictadura. Revista de Humanidades, 33, 39-56. 
+Biemann, U. (2001). Performing the Border: On Gender, Transnational Bodies, and Technology. En C. 
+Sadowsky (Ed.). (2001), Globalization on the Line: Gender, Nation, and Capital at U.S. Borders (pp. 99-118).  
+https://doi.org/10.1007/978-1-137-09003-4_5 
+ 
+   
+Bhabha, H. (2013). Nuevas minorías, nuevos derechos. Notas sobre cosmopolitismo vernáculos. Siglo 
+Veintiuno Editores. 
+Bonacic, D. (2016). La barbarie y el retrato mítico de la catástrofe en "El año del desierto" de Pedro Mairal. 
+Confluencia, 31 (1), 110-119. https://doi.org/10.1353/cnf.2015.0034 
+Braidotti, R. (2000). Sujetos nómades. Corporización y diferencia sexual en la teoría feminista contemporánea. 
+Editorial Paidós. 
+Cabezón Cámara, G. (2018) Las aventuras de la China Iron. Literatura Random House. 
+Campisi, N. (2019). El retorno de lo contemporáneo: crisis e historicidad en El año del  desierto de Pedro 
+Mairal. Cuadernos Lírico. Revista de la red interuniversitaria de estudios sobre las literaturas rioplatenses 
+contemporáneas en Francia, 20. https://doi.org/10.4000/lirico.8361 
+ David Montecino Vieira 
+ 
+51  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Cornejo Polar, A. (1996). Una heterogeneidad no dialéctica: sujeto y discurso migrantes en el Perú moderno. 
+Revista Iberoamericana, 72 (176-177), 837-844.  
+Croce, M. (2020). Provocaciones al canon: género y crítica acicateados en Las aventuras de la China Iron. 
+Palimpsesto, 10(17), 15-23. https://doi.org/10.35588/pa.v10i17.4112 
+Cupertino Belleze, L. P. Reconfiguración del estado-nación en Las aventuras de la China Iron de Gabriela 
+Cabezón Cámara. V Jornadas de Investigadorxs en Formación. Instituto de Desarrollo Económico y Social 
+(IDES). https://publicaciones.ides.org.ar/acta/reconfiguracion-estado-nacion-aventuras-china-iron-gabriela-
+cabezon-camara 
+Dabove, J. P. y Hallstead, S. (2012). Introducción. En P. Mairal. (2012), El año del desierto (pp. VII-XXXIV) 
+Stockcero. 
+Destéfanis, L. (2021). Narrativas del compost: Las aventuras de la China Iron. Academia. 
+https://www.academia.edu/52725063/Narrativas_del_compost_Las_aventuras_de_la_China_Iron 
+De Certeau, M. (2007) La invención de lo cotidiano. “Volumen I”. Instituto Tecnológico y de Estudios 
+Superiores de Occidente. 
+De Leone, L. (2021). Vuelos erráticos sobre una pampa migrante. Las aventuras de la China Iron de Gabriela 
+Cabezón Cámara. CHUY. Revista de estudios literarios latinoamericanos, 8(10), 64-78.  
+Doležel, L. (1999). Heterocósmica. Ficción y Mundos Posibles. ARCO/LIBROS S.L. 
+Drucaroff, E. (2006). Narraciones de la intemperie. Sobre El año del desierto, de Pedro Mairal y otras obras 
+argentinas 
+recientes. 
+http://lunesporlamadrugada.blogspot.com/2010/06/narraciones-de-la-
+intemperie.html  
+Drucaroff, E. (2011). Los prisioneros de la torre. Política, relatos y jóvenes en la postdictadura. Emecé. 
+Fandiño, L. Canon, espacio y afectos en Las aventuras de China Iron, de Gabriela Cabezón Cámara. Hispanófila, 
+186, 49-66. http://dx.doi.org/10.1353/hsf.2019.0032 
+Fleisner, P. (2020). El desierto era parecido a un paraíso. Aventuras posthumanas en una novela de G. 
+Cabezón Cámara. Veritas. Revista de Filosofía da PUCRS, 65(2), 1-13. http://dx.doi.org/10.15448/1984-
+6746.2020.2.37839 
+Glissant, É. (2017). Poética de la relación. Universidad Nacional de Quilmes Editorial. 
+Grimson, A. (2003). Disputas sobre las fronteras. Introducción a la edición en español. En S. Michaelsen y D. 
+E. Johnson (Ed.), Teoría de la frontera. Los límites de la política cultural (pp. 13-24) Gedisa. 
+Grimson, A. (2012). Los límites de la cultura. Crítica de las teorías de la identidad. Siglo XXI Editores. 
+Jaroszuk, B. (2021). Negociando el mapa de lo posible: Las aventuras de la China Iron de Gabriela Cabezón 
+Cámara. Studia Neophilologica, 93(3), 257-378. https://doi.org/10.1080/00393274.2021.1904286 
+Kogan, M. Narraciones post 2001: avatares del realismo inverosímil. Archivos de la revista El Interpretador. 
+https://revistaelinterpretador.wordpress.com/2016/12/21/narraciones-post-2001-avatares-del-realismo-
+inverosimil/ 
+Lefebvre, H. (2013) La producción del espacio. Capitán Swing. 
+Contra civilización y barbarie: espacios y cuerpos fronterizos en El año del desierto de Pedro Mairal y Las aventuras de la China Iron… 
+ 
+52  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Lotman, Y. (2011) Estructura del texto artístico. AKAL.  
+Mairal, P. (2012). El año del desierto. Stockcero.  
+Massey, D. (2005). La filosofía y la política de la espacialidad: algunas consideraciones. En L. Arfuch (Coord.), 
+Pensar este tiempo: espacios, afectos, pertenencias (pp. 101-128) Paidós. 
+Mercier, C. (2019). Ficciones distópicas latinoamericanas: Elaboraciones esquizo-utópicas. Aisthesis, 65, 115-
+133. https://doi.org/10.7764/aisth.65.5 
+Mezzadra, S y Neilson, B. (2016). La frontera como método, o, la multiplicación del trabajo. Tinta Limón. 
+Mignolo, W. (2015). Habitar la frontera: Sentir y pensar la descolonialidad (Antología, 1999-2014). CIBOD y 
+UACJ. 
+Mignolo, W. (2003) Historias locales/diseños globales: Colonialidad, conocimientos subalternos y 
+pensamiento fronterizo. AKAL. 
+Pérez Gras, M. L., Baldrich, C. y M. Lemo. (2012). El <<Desierto>> y la Construcción del Marginal en la 
+Literatura Argentina. Revista Gramma, 4, 150-172. https://p3.usal.edu.ar/index.php/gramma/article/ 
+view/3510 
+Pérez Gras, M. L. (2018). Los textos fagocitados por El año del desierto, de Pedro Mairal. Revista Gramma, 6, 
+1-10. 
+Pérez Gras, M. L. (2021). Las paradojas del desencanto. Ucronía y utopía en Las aventuras de la China Iron. 
+Letras, 83, 38-51. https://doi.org/10.46553/LET.83.2021.p38-51 
+Pimentel, L. M. (2010). El espacio en la ficción. Siglo XXI Editores.  
+Portela, G. (2019). Almas dobles: Fronteras que se diluyen en Las aventuras de la China Iron de Gabriela 
+Cabezón Cámara. Anuario de la Facultad de Ciencias Humanas, 16, 40-47. https://doi.org/10.19137/an1603 
+Sánchez, S. (2014). La descomposición. Configuraciones de la crisis de 2001 en la narrativa argentina reciente 
+(El año del desierto de Pedro Mairal). [Ponencia] VI Congreso Internacional de Letras: Transformaciones 
+culturales. Debates de la teoría, la crítica y la lingüística. 
+Semilla Durán, M. A. (2010). El Apocalipsis como deconstrucción del imaginario histórico en El año del desierto 
+de Pedro Mairal. En G. Fabry I. Logie y P. Decock (Eds.) (2010), Imaginarios posapocalípticos en la literatura 
+hispanoamericana (pp. 327-344) Peter Lang.  
+Soja, E. (1998). Thirdspace: Journeys to Los Angeles and Other Real-and-Imagined Places [Tercer Espacio: 
+Viajes a Los Ángeles y Otros Lugares Reales-e-Imaginarios]. Blackwell Publishers.  
+Villar, D. y Combes, I. La Tierra Sin Mal. Leyenda de la creación y destrucción de un mito. Tellus, 24, 201-225.  
+Westphal, B. (2007). Geocriticism: Real and Fictional Spaces. Palgrave MacMillan. 
+Zimmer, Z. (2013). A Year in Rewind, and Five Centuries of Continuity: El año del desierto 's Dialectical Image. 
+MLN, 128 (2), 373-383. https://doi.org/10.1353/mln.2013.0019 

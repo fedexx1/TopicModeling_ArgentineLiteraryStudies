@@ -1,0 +1,649 @@
+Juan Tobías Napoli
+CLRELyL 18 (2022): 110-125. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0185995
+110 
+CUADERNOS de literatura
+Revista de Estudios Lingüísticos y Literarios
+Cómo citar: Napoli, J. T. (2022). Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides. Cuadernos de Literatura. 
+Revista de Estudios Lingüísticos y Literarios, 18, 110-125. Resistencia, Argentina, UNNE. ISSN 2684-0499.  
+DOI: http://dx.doi.org/10.30972/clt.0185995
+ESCRITOR, TEXTO ESCRITO Y LECTOR EN IFIGENIA EN ÁULIDE 
+DE EURÍPIDES
+Writer, written text and reader in Euripides’ Iphigenia at Aulis
+Juan Tobías Napoli* 
+Universidad Nacional de La Plata – CONICET
+juanapoli@hotmail.com
+Recibido: 31/03/2022 - Aceptado: 05/05/2022
+Resumen
+En la tragedia de Eurípides, habrá ocasiones sumamente significativas en 
+las que la escritura juegue un papel muy importante. Intentaremos estudiar 
+la relación entre el responsable de la escritura, el propio texto escrito, su 
+lector inmediato, los oyentes de la lectura y el receptor-interceptor en 
+Ifigenia en Áulide de Eurípides. Hemos analizado en otra ocasión esta 
+relación en Ifigenia en Táuride, donde, según creemos, se reflejan múltiples 
+aristas de estas relaciones complejas vinculadas con la escritura. Nuestra 
+propuesta consiste ahora en postular que estas relaciones se presentan de 
+manera aún más compleja en Ifigenia en Áulide: además de su naturaleza 
+triple (entre el escritor y el texto, entre el texto y su lector, entre el lector 
+y los oyentes), se presentan otras relaciones: la escritura y su reescritura, el 
+cambio de opinión del escritor y la lectura forzada, ajena a la voluntad del 
+escritor. Estas complejidades de relaciones constituirán una clave para la 
+correcta interpretación de la tragedia.
+Abstract
+In Euripides' tragedy, there will be significant occasions when writing plays 
+a very important role. We will try to study the relationship between the 
+person responsible for writing, the written text itself, its immediate reader, 
+the listeners of the reading and the receiver-interceptor in Iphigenia at Aulis 
+by Euripides. We have analyzed this relationship on another occasion in 
+Iphigenia at Tauris, where, as we believe, multiple edges of these complex 
+relationships linked to writing are reflected. Our proposal now consists in 
+postulating that these relations are presented in an even more complex way 
+in Iphigenia at Aulis: in addition to its triple nature (between the writer 
+and the text, between the text and its reader, between the reader and the 
+listeners), they present other relationships: writing and its rewriting, the 
+change of opinion of the writer and the forced reading, beyond the will of 
+the writer. These complexities of relationships will constitute a key to the 
+correct interpretation of the tragedy.
+Palabras clave
+escritor; 
+texto; 
+lector; 
+oyente
+Keywords
+writer; 
+text; 
+reader; 
+listener
+Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides
+DOI: http://dx.doi.org/10.30972/clt.0185995
+Juan Tobías Napoli
+ 111 
+Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides
+En una cultura como la griega, dominada por la incómoda scriptio continua –una escritura sin 
+espacios que separaran las palabras, ni las frases, ni los párrafos entre sí–,1 el lector se veía obligado 
+a pronunciar una a una cada sílaba para aprehender por el oído el significado del texto, de manera que 
+él mismo y las personas que estuvieran eventualmente con él se convirtieran en oyentes de un texto 
+oral: en otras palabras, el lector le presta su voz a lo escrito, cediendo su cuerpo y su libertad individual 
+para volverse un objeto pasivo, intermediario entre el escritor y el oyente: es un cuerpo poseído por las 
+grafías del escritor, poseído incluso sexualmente, como lo grafica la metáfora de un vaso siciliano del 
+siglo V a. C. Un síntoma de esta relación erótica del lector con el autor del texto puede verificarse en 
+el hecho de que el rechazo expresado por Sócrates en el Fedro platónico contra la escritura se convierta 
+luego en un análisis sobre la pasión amorosa.2 Ambas cuestiones están estrechamente vinculadas. Por 
+ello, cuando el filósofo reprende a Fedro por memorizar el discurso que Lisias ha escrito sobre el amor, 
+lo reprende motivado por un sentimiento de decepción erótica: Fedro, poniendo su voz y su autonomía 
+al servicio de ese texto, se ha dejado sodomizar por un pervertido sofista –es decir, por Lisias–, siendo 
+que nadie sino Sócrates debería poseer la verdad –es decir, a Fedro–, aunque más no fuera oralmente. 
+	Jesper Svenbro ha descrito el modo en que la lectura en voz alta constituye la forma original 
+de la lectura en Grecia, tanto en la época arcaica como en la clásica.3 El primer testimonio de ello lo 
+tenemos en Homero, Ilíada VI.168-9, cuando Glauco presenta su linaje ante Diomedes y cuenta que 
+Preto, engañado por su esposa Antea, había enviado al traidor Belerofonte hacia Licia, haciéndole 
+llevar "luctuosos signos, muchos de ellos mortíferos, que había grabado en una tablilla doble" (πέμπε 
+δέ μιν Λυκίην δέ, πόρεν δ' ὅ γε σήματα λυγρὰ/ γράψας ἐν πίνακι πτυκτῷ θυμοφθόρα 
+πολλά). El portador de esta tablilla doble lleva en ignorancia aquello que será la causa de su perdición. 
+Solo la lectura de la tablilla pondrá en marcha la venganza urdida por Preto. La escritura y la lectura 
+adquieren desde el principio un carácter luctuoso y funesto.
+Este hecho, bien conocido y aparentemente poco relevante, provoca sin embargo unas 
+consecuencias significativas, que podrían definirse a partir de los tres rasgos característicos que adquiere 
+esta lectura en alta voz en el marco de la tragedia: primero, el carácter instrumental del lector o la voz 
+lectora; segundo, el carácter incompleto de la escritura, ya que esa escritura presupone obligatoriamente 
+una necesidad de sonorización por parte de un lector para que adquiera su sentido pleno; el tercer rasgo 
+está vinculado con los otros dos: si la voz del lector es el instrumento gracias al cual la escritura se realiza 
+en su plenitud, eso quiere decir que los destinatarios de lo escrito no son lectores en el sentido estricto y 
+moderno del término, sino, principalmente, oyentes, como los mismos griegos los llamaban.4
+1 Cf. Cavallo y Chartier (2011) y Lyons (2012, p. 45-47).
+2 Cf. sobre esta cuestión, especialmente, Kühn (2000). También puede verse Kraut (1993) y Rodríguez Adrados (1962, p. 11-38).
+3 Cf. Svenbro (2011) y (1991).
+4 Charles (1977, p. 9) señala que “la lectura forma parte del texto, está inscrita en él”. Cf. también de De Kerckhove (1979).
+Juan Tobías Napoli
+CLRELyL 18 (2022): 110-125. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0185995
+112 
+En el ámbito de la tragedia, tenemos pocas (aunque significativas) referencias a la escritura, a los 
+textos escritos y a sus lectores u oyentes. En Napoli (2015) se recogen algunas referencias a la escritura 
+en Esquilo (Prometeo encadenado, vv. 788-89 y Euménides, vv. 273-275), a los que podemos agregar 
+Suplicantes, v. 179 y Coéforas, v. 450. En todos estos casos, la escritura grabada sobre una tablilla está 
+utilizada como una metáfora de la memoria;5 implica, además, que aquello que debe ser recordado por 
+el oyente de un discurso oral deberá grabarse en su mente como si fueran letras sobre una tablilla. La 
+recurrencia de estas metáforas en Esquilo, en todo caso, demuestra la naturalidad con la que la escritura 
+es utilizada entre los espectadores teatrales durante el siglo V.6 Nada se dice, en estos contextos, acerca 
+del autor del texto escrito o acerca de su eventual lector. Algo similar ocurre en Sófocles (cf. Traquinias, 
+v. 683 y Filoctetes, v. 1325).7 
+En Eurípides se mantiene este uso metafórico de la escritura: en Troyanas, por ejemplo, se 
+compara el corazón humano con un rollo de papiro que va a desenrollarse para su lectura (v. 662). A 
+eso se refiere el verbo ἀναπτύσσω, con el que el ánimo de Andrómaca supone que deberá dirigirse 
+hacia su nuevo esposo. El corazón humano es comparado con un texto escrito en el que el lector deberá 
+leer signos inequívocos. Sin embargo, la metáfora es ocasional y no interviene en el desarrollo de la trama.
+Sin embargo, las referencias a la escritura adquirirán una relevancia mucho mayor,8 alcanzando 
+incluso un carácter argumental, si recordamos por ejemplo la importancia de la tablilla escrita en 
+la que Fedra acusa a Hipólito o las otras tablillas que un cautivo escribió para Ifigenia y que ahora 
+leerá ante Orestes como pedido de auxilio en Ifigenia en Táuride; en esta tragedia, la escena termina 
+con el reconocimiento de los hermanos, que se favorece por la lectura en alta voz de la tablilla.9 En 
+estos casos, las tablillas escritas cambian el curso de la acción dramática, provocando la muerte de 
+Hipólito o el reconocimiento de los hermanos. La reflexión sobre la escritura ha alcanzado entonces 
+una importancia crucial.
+De esta manera, en Ifigenia en Táuride el poeta analiza, en vinculación con el lenguaje, una 
+relación condenada al fracaso: la que existe entre el autor de un texto escrito (ausente y lejano), el 
+propio texto, el lector del mismo (que es quien se beneficia con lo escrito) y sus oyentes.10
+El nudo de la Ifigenia táurica consiste justamente en un texto escrito: la carta que un cautivo 
+escribió en el pasado con la intención de salvar a Ifigenia. Esta carta (δέλτος) o tablilla escrita será,
+5 Cf. Curtius (1975, p. 425-432).
+6 Ello puede verse en el llamado Espectáculo del alfabeto del poeta ateniense Callias. Allí, un coro de veinticuatro mujeres 
+representa el alfabeto jónico y enseña a leer a los espectadores. Cf. Pöhlmann (1971) y Wise (1998).
+7 Cf. Monaco (1965, p. 334-51) y Jenkins (2006, p. 87-96).
+8 Se ha trabajado últimamente mucho sobre el tema del lenguaje en Eurípides. Napoli (2007) recoge el debate entre el 
+objeto representado y su nombre. Una excelente tesis doctoral sobre la cuestión fue presentada por Christiaan Leopold 
+Caspers en 2011 y, aunque su trabajo tiene mucho que ver con nuestros intereses, hemos seguido una línea muy diferente, 
+ya que Caspers se preocupará sobre todo de las ideas de Eurípides acerca del lenguaje en vinculación con los pensadores 
+sofistas como Protágoras, Antifón y Gorgias. Otros trabajos en la misma línea serán los de Downing (1990), Kraus (1987) 
+y Willi (2003).
+9 Cf. Hirata (2003), quien analiza también las cartas que aparecen en las perdidas Estenobea y Belerofontes) y Napoli (2015, 
+p. 285-303).
+10 Cf. Napoli (2009) y (2010). En general, una buena introducción a la cuestión del lenguaje es planteada por Classen (1976).
+Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides
+DOI: http://dx.doi.org/10.30972/clt.0185995
+Juan Tobías Napoli
+ 113 
+al mismo tiempo, el instrumento del reconocimiento de los hermanos y el punto de partida de la 
+mechánema que desencadena el final de la tragedia. Es decir, tiene una función clave como vínculo 
+entre la trama de reconocimiento y la trama de escape. 
+En todos estos casos se trata de utilizaciones reales de la escritura (no de metáforas, como 
+se verifica en Esquilo y Sófocles) y queda claro que tan importante como el texto escrito resulta la 
+intención de su autor y el modo en que lo lee el intérprete y sus oyentes, muchas veces de manera 
+contrapuesta a las intenciones del autor. Una primera conclusión de importancia debe obtenerse 
+de este rápido repaso: entre la intención del autor de un texto y la interpretación de su lector hay 
+siempre una discrepancia.11
+Sin embargo, habrá otras ocasiones sumamente significativas en las que la relación entre el 
+responsable de la escritura, el texto escrito y su lector u oyentes se hará claramente presente en la tragedia 
+de Eurípides. Intentaremos analizar estas relaciones en Ifigenia en Áulide, donde, según creemos, se 
+reflejan mejor las múltiples aristas de estos vínculos complejos relacionados con la escritura.12 Nuestra 
+propuesta consiste justamente en postular que estas relaciones son de naturaleza triple: entre el escritor 
+y el texto, entre el texto y su lector, entre el lector y los oyentes; además, se suma el concepto del 
+receptor-interceptor, que complica aún más estas relaciones. Por otra parte, estas triples relaciones 
+están establecidas en términos de conflicto trágico y motivo de desencuentro: toda la primera parte de 
+la tragedia (al menos hasta el verso 414, cuando ingresa a escena un mensajero que anuncia la llegada 
+de Ifigenia y Clitemnestra) está gobernada por la disputa acerca de la carta que escribe y reescribe 
+Agamenón. Sin embargo, la disputa parece terminar en nada: la llegada del mensajero torna abstracto 
+el debate de los hermanos y ya ninguna de las dos cartas tiene importancia. ¿Por qué entonces una 
+cuarta parte de la tragedia está destinada a ellas? Creemos que esta cuestión constituirá una clave para 
+la correcta interpretación de la tragedia. 
+	Para comprender este sentido, debemos analizar la estructura de Ifigenia en Áulide, que es 
+bien conocida: 
+Primera parte: La presentación del conflicto trágico. El público ateniense conocería muy bien 
+(a partir de Homero y Esquilo, entre otros) los datos provistos por el mito acerca de Ifigenia, sacrificada 
+por Agamenón para el éxito de la expedición aquea en contra de Troya. Ello provocaría un beneficio 
+y un perjuicio para el poeta dramático: para potenciar los beneficios y mitigar los perjuicios, el autor 
+ha decidido modificar algunos datos centrales de las versiones míticas más difundidas. La jugada le 
+garantizaría una atención inmediata de parte de su público, que le permitiría al mismo tiempo plantear 
+desde un principio el conflicto trágico del que depende la resolución de la tragedia. Este planteamiento 
+del conflicto trágico se encuentra entre prólogo y párodo (entre los versos 1 al 303) y desde allí hasta el 
+verso 414, en el primer episodio. El juego con las dos cartas de Agamenón y sus indecisiones permite 
+plantear el conflicto trágico desde una novedad argumental.
+11 Cf. Lanza (1997, p. 189 y ss., 244 y ss.).
+12 Cf. García Gual (1991, p. 22-31) y Davidson (1990).
+Juan Tobías Napoli
+CLRELyL 18 (2022): 110-125. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0185995
+114 
+Segunda parte: Distintas respuestas de los personajes. Con el ingreso del mensajero que anuncia 
+la llegada de Ifigenia y Clitemnestra, comienza a desarrollarse una primera acción de la trama: todos los 
+personajes buscan posicionarse en el nuevo contexto de la acción y cambian sus posiciones anteriores. 
+Agamenón es el primero en responder, seguido de Menelao. El éxito de la guerra de Troya reclama la 
+entrega generosa de su propia hija y ya no tiene escapatoria. La gloria que le espera al rey tiene su precio. 
+Él está dispuesto a luchar por conseguirla, pero no a cargar con los costos. En la medida en que el jefe de 
+los aqueos se vaya quedando sin respuestas, el conflicto externo con los troyanos amenaza con trasladarse 
+hacia el interior del campamento aqueo. Esta situación se desarrolla entre los versos 414 hasta el 1097. A 
+los cambios de postura de Agamenón y Menelao, le siguen las respuestas de Clitemnestra y de Aquiles: 
+ellos se ven sorpresivamente envueltos en un conflicto que les es ajeno. Sin embargo, se ve el modo en que 
+buscan ofrecer su respuesta. La única que mantiene incólume su postura a lo largo de toda la tragedia es 
+Clitemnestra, aunque en ella habrá también un cambio: la reina alegre por la boda de su hija se convierte 
+en la madre desesperada que no está dispuesta a renunciar a defenderla. La actitud a partir de la cual 
+cada personaje intenta otorgar esa respuesta ante la nueva situación planteada será muy diferente. De 
+todas maneras, cada uno piensa primero en sí mismo, piensa en sus atribuciones y en el modo en que han 
+jugado con sus nombres. Finalmente, la propia Ifigenia también busca salvar su vida e intenta conmover 
+las fibras íntimas de su padre. Las actitudes de todos ellos parecen estar más cerca del ámbito de la 
+comedia que del de la tragedia. El segundo y el tercer episodio han sido con mucha frecuencia analizados 
+desde la perspectiva de la comedia. Sin embargo, ello significa desatender el deliberado contraste que 
+se establece a partir de la respuesta de cada uno de los personajes ante el mismo conflicto: Agamenón 
+y Menelao primero, Clitemnestra y Aquiles luego, e Ifigenia, finalmente, en oposición a unos y a otros, 
+buscan su propia ventaja. Este contraste es el que sostiene la estructura de la tragedia y el que confiere 
+significado al frecuente cambio de tensión dramática.
+Tercera parte: La respuesta definitiva de Ifigenia. Con el verso 1098, el plan de Agamenón para 
+engañar a su hija ha quedado definitivamente en evidencia. Ahora, cuando la situación parece converger 
+hacia un conflicto interno en el seno del campamento aqueo, Ifigenia debe dar una respuesta. Primero 
+había pedido por su vida, luego decide ofrecerse voluntariamente por la patria. Estas dos actitudes 
+diferentes, que tanto extrañaron a Aristóteles, pueden justificarse como un intento del poeta de poner 
+en obra todos los mecanismos que ha ido desarrollando en la tragedia: para reflexionar acerca de la 
+condición humana en circunstancias de guerra, la respuesta de Ifigenia debe analizarse en contraste 
+con las demás respuestas. Cada personaje ha tentado su solución al conflicto y ello no ha hecho más 
+que profundizar las diferencias. Solo entonces será posible que alguien se eleve por encima de los 
+intereses individuales y destrabe lo que parecía no tener salida.
+	Por ello, el planteo de la primera parte de la tragedia resultará crucial, ya que a partir de allí 
+se desarrollan alternativamente las dos respuestas que ofrecen los personajes. Esta primera parte está 
+constituida por prólogo, párodo y comienzo del primer episodio. Allí aparece de manera recurrente 
+el tema de las dos cartas. De manera que la cuestión de las dos cartas formará parte importante de la 
+connotación teatral de la trama.
+El prólogo de la tragedia tiene complicaciones diversas. Baste aquí consignar que está compuesto 
+por un discurso yámbico de Agamenón y por un diálogo anapéstico entre Agamenón y su criado.
+Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides
+DOI: http://dx.doi.org/10.30972/clt.0185995
+Juan Tobías Napoli
+ 115 
+Se discute si ambas partes (que repiten información y tienen contradicciones internas) 
+podrían constituir esquemas alternativos. También se ha pretendido reordenar los versos que traen los 
+manuscritos, de manera que las intervenciones de cada personaje quedaran bien amalgamadas.13 Hay 
+cierto consenso en dejar primero la forma más tradicional del prólogo (con el discurso yámbico de 
+Agamenón) y ubicar a continuación el más novedoso diálogo anapéstico. Ello obliga a alterar el orden 
+de los números de verso que traen los manuscritos. En este discurso yámbico, Agamenón describe en 
+voz alta, sin interlocutor, lo que ha hecho en el presente contexto, cuando se entera de la necesidad de 
+sacrificar a su hija (vv. 94-100):
+κλυὼν δ' ἐγὼ ταῦτ', ὀρθίωι κηρύγματι 
+Ταλθύβιον εἶπον πάντ' ἀφιέναι στρατόν, 
+ὡς οὔποτ' ἂν τλὰς θυγατέρα κτανεῖν ἐμήν. 
+οὗ δή μ' ἀδελφὸς πάντα προσφέρων λόγον 
+ἔπεισε τλῆναι δεινά. κἀν δέλτου πτυχαῖς 
+γράψας ἔπεμψα πρὸς δάμαρτα τὴν ἐμὴν 
+πέμπειν Ἀχιλλεῖ θυγατέρ' ὡς γαμουμένην14
+Después de oír este oráculo, con una proclama en alta voz ordené que Taltibio licenciara a todo 
+el ejército, porque no hubiera sido yo capaz de matar a mi hija. Sin embargo, ocurrió que mi 
+hermano, trastocando todo razonamiento, me convenció de animarme a realizar cosas terribles. 
+Escribiendo entonces en los pliegues de una carta, se la mandé a mi esposa, para que ella enviara 
+a su vez a mi hija, con la excusa de casarla con Aquiles.
+El lenguaje de Agamenón durante este pasaje del texto resulta bastante descuidado (con la 
+reiteración de verbos: τλάω, “atreverse”, en los versos 96 y 98 y πέμπω, “enviar”, en los versos 99 y 
+100, y la acumulación de proposiciones finales, entre otros defectos). Ello ha llevado a algunos editores 
+a pensar en una interpolación o en un texto corrompido. Sin embargo, creemos que resulta verosímil 
+pensar que el rey, cuando cuenta las vicisitudes de la estratagema pergeñada para sacrificar a su hija 
+(estratagema de la que ahora él mismo se muestra arrepentido), se exprese de manera insegura y 
+vacilante. La angustia interior afecta la construcción del discurso. Por otra parte, cuando comienza 
+la tragedia muchas acciones ya han ocurrido y los cambios de posiciones y las acusaciones a los otros 
+personajes son previos al inicio de la acción dramática. Agamenón quiere argumentar que su decisión 
+de abandonar la empresa y salvar a su hija fue su primera determinación y para ello mandó a disolver 
+el ejército; sin embargo, su cambio de postura, argumenta ahora, es culpa de su hermano. Este primer 
+cambio de postura, por otra parte, se concreta a través de un plan muy bien pergeñado: escribe una 
+carta a su esposa para que envíe a Ifigenia hacia Áulide para desposarla con Aquiles. Engaña a su 
+esposa, traiciona del peor modo a su hija y utiliza sin permiso el nombre de Aquiles. Demasiada 
+planificación para que sea solamente culpa de Menelao.
+13 Cf. Napoli (2015) y, fundamentalmente, Collard y Morwood (2017, p. 238-240), quien discute la integridad de la 
+escena del prólogo y resume el espectro de las distintas posiciones de los investigadores.
+14 Las citas están siempre tomadas de la edición de Collard y Morwood (2017), aunque se consultaron también las ediciones 
+de Diggle (1984), Labiano (2000), Ferrari (1988), Jouan (1983) y Murray (1978). Las traducciones son siempre nuestras.
+Juan Tobías Napoli
+CLRELyL 18 (2022): 110-125. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0185995
+116 
+Este triple engaño se concreta (se objetiva) a través de una carta. Como en el caso que Homero 
+refiere de Preto, quien, engañado por su esposa Antea, había enviado a Belerofontes con una carta 
+con “luctuosos signos, muchos de ellos mortíferos”, aquí la tablilla también lleva impreso un signo 
+de muerte, aunque con una diferencia: en Homero, la muerte le esperaba al portador de la carta; en 
+Eurípides, al receptor.
+	Un criado ha sido testigo de las dudas de Agamenón, quien ahora quiere cambiar de idea 
+nuevamente y enviar una segunda carta. Comienza entonces una acción frustrada de la trama: 
+el envío de la segunda carta para evitar el viaje de Ifigenia. Sin embargo, más importante que 
+el resultado concreto de la acción dramática es la descripción del estado anímico del rey de la 
+expedición contra Troya. El criado lo presenta con precisión, ya que lee en sus acciones como en las 
+letras de un texto (versos 34-44):
+σὺ δὲ λαμπτῆρος 
+φάος ἀμπετάσας δέλτον τε γράφεις 
+τήνδ' ἣν πρὸ χερῶν ἔτι βαστάζεις, 
+καὶ ταὐτὰ πάλιν γράμματα συγχεῖς 
+καὶ σφραγίζεις λύεις τ' ὀπίσω 
+ῥίπτεις τε πέδωι πεύκην, θαλερὸν 
+κατὰ δάκρυ χέων, κἀκ τῶν ἀπόρων 
+οὐδενὸς ἐνδεῖς μὴ οὐ μαίνεσθαι. 
+τί πονεῖς; τί νέον παρὰ σοί, βασιλεῦ; 
+φέρε κοίνωσον μῦθον ἐς ἡμᾶς.
+Sin embargo tú, después de encender la luz de la lámpara, escribes esta carta que aún llevas en 
+tus manos; de nuevo borras las mismas letras y la sellas y desatas otra vez; finalmente, tiras la 
+tablilla al piso, derramando abundante llanto; cada una de estas necedades te alcanzaría para 
+enloquecer. ¿Por qué sufres? ¿Qué hay de nuevo, rey? ¡Vamos! ¡Comunícanos la situación!
+La situación de Agamenón es descripta por el criado. La escritura vacilante es un testimonio de 
+la conflictuada situación interna del rey. Todavía es de noche cuando comienza la tragedia. El rey ha 
+escrito a la luz de una lámpara. Luego borra las letras y vuelve a escribir. La carta es escrita y reescrita. 
+Igualmente, no está conforme: tira la tablilla al piso y se pone a llorar. El criado ha leído estas acciones 
+(no el texto escrito) y concluye que podrían enloquecer al rey, quien se encuentra en una ἀπορία (v. 
+40). El propio desempeño de Agamenón como escritor es un texto a los ojos del criado, quien lee en 
+él con solvencia de experto. Agamenón lo corrobora (vv. 107-110):
+ἃ δ' οὐ καλῶς 
+ἔγνων τότ', αὖθις μεταγράφω καλῶς πάλιν 
+ἐς τήνδε δέλτον, ἣν κατ' εὐφρόνης < … > 
+λύοντα καὶ συνδοῦντά μ' εἰσεῖδες, γέρον.
+Todo lo que no había comprendido antes claramente, lo escribo ahora sobre esta carta, 
+retractándome; por eso ves que la abro y cierro varias veces bajo la sombra de la noche, anciano.
+Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides
+DOI: http://dx.doi.org/10.30972/clt.0185995
+Juan Tobías Napoli
+ 117 
+La clave del pasaje es el verbo μεταγράφω. El compuesto no aparece en ninguna de las 
+tragedias que conservamos. Recién aparecerá en Tucídides, I.132.5.11 a 133.1.1., aunque con otro 
+sentido.15 Allí se cuenta el modo en que los espartanos tratan de encontrar pruebas para condenar al 
+general Pausanias y encuentran un delator que modifica el sello y abre las cartas: 
+ἵνα, ἢν ψευσθῇ τῆς δόξης ἢ καὶ ἐκεῖνός τι 
+μεταγράψαι αἰτήσῃ, μὴ ἐπιγνῷ, λύει τὰς ἐπιστολάς, ἐν αἷς 
+ὑπονοήσας τι τοιοῦτον προσεπεστάλθαι καὶ αὑτὸν ηὗρεν
+ἐγγεγραμμένον κτείνειν.
+Para que, si se equivocaba en la suposición o aquel solicitaba modificar el texto, no lo notase, 
+abrió las cartas en las que sospechaba que se había añadido una orden de tal tenor y encontró 
+que estaba escrito que se le matase.
+El μεταγράψαι αἰτήσῃ es simplemente un presunto pedido de modificar el texto de una 
+carta, en cualquier sentido. No implica una retractación. Posteriormente, el verbo adquirirá el sentido 
+técnico de la traducción: modificar la lengua de un escrito, por ejemplo, del latín al griego.16 Agamenón, 
+en cambio, le concede un sentido técnico-jurídico y, al mismo tiempo, psicológico. Se trata de una 
+carta que ordena lo contrario de la anterior. Es una carta de retractación. Esta retractación implica una 
+γνῶσις: un reconocimiento del error. Sin embargo, este reconocimiento no es completo: el propio 
+rey señala que abre y cierra varias veces la carta, en la incertidumbre de la decisión que va a tomar 
+finalmente. La noche es un buen marco para definir su situación anímica. Debemos suponer que la 
+prisa de Agamenón para que el criado lleve la carta tiene que ver también con bloquear la posibilidad 
+de volver a cambiar el contenido de la carta (vv. 111-114):
+ἀλλ' εἷα χώρει τάσδ' ἐπιστολὰς λαβὼν 
+πρὸς Ἄργος. ἃ δὲ κέκευθε δέλτος ἐν πτυχαῖς, 
+λόγωι φράσω σοι πάντα τἀγγεγραμμένα· 
+πιστὸς γὰρ ἀλόχωι τοῖς τ' ἐμοῖς δόμοισιν εἶ.
+Entonces, ¡vamos! ¡Corre, llevando estas epístolas hacia Argos! Lo que la carta oculta en sus 
+pliegues, con claras palabras te lo explicaré ahora. Pues has sido fiel con mi esposa y en mi casa.
+La expresión ἀλλ' εἷα marca la transición desde la reflexión a la acción.17 Agamenón no 
+quiere seguir dilatando la decisión que ha tomado finalmente. La acción que se pone en marcha será 
+protagonizada primero por el criado e inmediatamente por la carta que, como sujeto de la oración 
+siguiente, está personificada. La transición entre la acción del criado y la de la propia carta está 
+marcada también por un vocabulario muy preciso: el criado deberá llevar τάσδ' ἐπιστολὰς, mientras 
+que el sujeto de la siguiente oración es δέλτος. Hay una diferencia en los conceptos: Barrett, en su 
+15 Cf. Chantraine (1950, p. 115-126) y (1968).
+16 Cf. Luciano de Samosata, Quomodo historia conscribenda sit, 21.5: μεταποιῆσαι τὰ Ῥωμαίων καὶ μεταγράψαι ἐς 
+τὸ Ἑλληνικόν.
+17 Cf. Mastronarde (1979), comentario a Fenicias 990.
+Juan Tobías Napoli
+CLRELyL 18 (2022): 110-125. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0185995
+118 
+comentario a Hipólito 858,18 señala que ἐπιστολαί es cualquier mensaje, ya sea escrito u oral, 
+especialmente cuando sirve para transmitir instrucciones. En cambio, δέλτος es el soporte físico del 
+mensaje, sea una tablilla de arcilla o madera o un papiro. Por lo tanto, lo importante será, en principio, 
+que el criado traslade el mensaje; a continuación, se describe la materialidad de la tablilla.
+La propia carta (en tanto objeto) oculta en sus pliegues un contenido escondido. Agamenón 
+señala que va a revelar a viva voz todo lo que lleva escrito. La escritura, por tanto, es un modo de 
+ocultamiento, que necesita de una interpretación para adquirir sentido; no es imagen de la memoria ni 
+reaseguro de la precisión del mensaje. Por el contrario, el mensaje debe ser transmitido oralmente para 
+garantizar su correcta lectura e interpretación. Obsérvese que la trama se ha complicado y alargado de 
+manera deliberada e innecesaria para introducir el tema de la carta. 
+La tragedia griega está poblada de mensajeros que llevan, a viva voz, el mensaje enviado por 
+sus señores y nadie pone nunca en tela de juicio la precisión o veracidad del mensaje transmitido.19 
+El criado podría llevar directamente el mensaje que ha recibido oralmente de boca de Agamenón. 
+En ese caso, la interrupción de Menelao no podría ocurrir y tal vez Ifigenia se podría haber salvado. 
+Por tanto, la carta tiene un importante papel argumental, ya que permite la manifestación de la 
+voluntad de Agamenón, por un lado, y el intento de interrupción de sus planes por parte de Menelao, 
+por otro.
+Se han introducido, en último término, dos intermediaciones entre emisor y receptor del 
+mensaje: primero, el mensaje que debe transmitirse ha sido trasladado a una tablilla, que, además, ha 
+sido escrita después de múltiples cavilaciones y escrituras y reescrituras; por otra parte, esta tablilla ha 
+sido escrita por el interesado con sus propias palabras, pero luego el mensaje se refuerza con la lectura 
+a viva voz ante el portador de la carta. Este portador (el criado) es a un tiempo mensajero y, como tal, 
+pondrá en riesgo su vida para salvar la de Ifigenia. La escena constituye un espejo del sacrificio que la 
+propia Ifigenia aceptará en la tragedia para salvar los conflictos internos del campamento griego. Toda 
+la escena vale más por la revelación de algunos aspectos de la personalidad de los hermanos que por la 
+información argumental que aporta.
+	Finalmente, Agamenón revela a viva voz el contenido de la carta. Téngase en cuenta que hay 
+en la cita una alteración del orden de los versos que traen los manuscritos. Los versos 115-116 son 
+ubicados inmediatamente antes del verso 120, integrando de esta manera todo el contenido de la carta 
+en una sola tirada, sin la interrupción del mensajero (vv. 115-16, 120-23):20
+πέμπω σοι πρὸς ταῖς πρόσθεν 
+δέλτους, ὦ Λήδας ἔρνος, 
+μὴ στέλλειν τὰν σὰν ἶνιν πρὸς 
+τὰν κολπώδη πτέρυγ' Εὐβοίας 
+Αὖλιν ἀκλύσταν. 
+18 Cf. Barrett (1964).
+19 Cf. Battezzato (1995).
+20 Cf. Jenkins (2006).
+Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides
+DOI: http://dx.doi.org/10.30972/clt.0185995
+Juan Tobías Napoli
+ 119 
+εἰς ἄλλας ὥρας γὰρ δὴ 
+παιδὸς δαίσομεν ὑμεναίους. 
+Te envío cartas en adición de las de antes, retoño de Leda: no envíes a tu hija hacia el ala 
+de muchos golfos de Eubea, Áulide protegida de las olas; pues en otra hora festejaremos los 
+himeneos de la niña.
+	Resulta llamativa la contradicción entre la retórica habitual de los relatos de mensajero y la 
+parquedad austera del contenido de la carta. No hay preámbulos ni saludos de despedida: simplemente, 
+el contenido puro del mensaje. Seguramente, esta discrepancia apoya la necesidad de que el mensajero 
+memorice la carta (ya que él mismo no sabe leerla) para luego exponerla oralmente. En esta exposición 
+oral, el mensajero podría convertir el mensaje desnudo en un discurso habitual, revestido con las pautas 
+conocidas de la retórica. El texto de la carta y el sello con el que se cierra solo servirían para garantizar 
+la exactitud del mensaje y evitar la sospecha de los receptores-oyentes acerca de su verdadero autor. 
+Así lo indica Agamenón en el verso 155-56: “cuida el sello que llevas sobre la carta" (σφραγῖδα 
+φύλασσ' ἣν ἐπὶ δέλτωι τῆιδε κομίζεις). De este modo, la escritura y su soporte material, así como 
+el mecanismo que garantiza su inviolabilidad, constituirían simplemente un reaseguro del discurso 
+oral, que mantiene su primacía.
+	Sin embargo, debemos analizar el contenido de la carta. Hay allí algunas claves de la situación 
+de Agamenón y sus intenciones. Lo primero que resalta es el anuncio de que estas cartas nuevas son 
+una adición o añadido a las anteriores: δέλτους πρὸς ταῖς πρόσθεν. Agamenón pretende que estas 
+nuevas cartas continúen el sentido de las anteriores. Su intención es evitar que esta nueva carta suene 
+como una retractación. El μὴ στέλλειν que continúa el texto resulta gramaticalmente dudoso. Hay 
+un ligero anacoluto entre el objeto del envío y las órdenes que lleva la carta. El apresuramiento por 
+transmitir su orden provoca la aparición de este prohibitivo inesperado. Allí está su verdadera intención: 
+que Clitemnestra no envíe a su hija. Sin embargo, el sujeto del στέλλειν queda indeterminado. 
+Agamenón quiere pasar rápidamente el mal trago de tener que dar malas noticias, como la suspensión 
+de una boda. Por ello, el único pasaje de la carta en donde hay un desarrollo retórico es inmediatamente 
+a continuación, cuando se describe Áulide, llena de atributos y aposiciones: no menciona simplemente 
+a Áulide, sino al “ala de muchos golfos de Eubea”. Esta isla sobre el Mar Egeo, ubicada al este de la 
+Hélade, separada del continente por el golfo de Eubea, dividido a su vez en el golfo del norte y el 
+del sur por el estrecho de Euripo, sirve de abrigo a la Hélade continental y allí enfrente se encuentra 
+Áulide, donde estaba apostada la flota griega a la espera de la partida hacia Troya. Es pertinente el 
+epíteto de Áulide como ἀκλύσταν, “protegida de las olas”. En Áulide había desde tiempos remotos 
+un célebre santuario dedicado a Ártemis, cuyos restos pueden ser visitados todavía hoy. La isla de 
+Eubea, región muy montañosa, tiene la parte sur tachonada de golfos y bahías. Por ello se justifica el 
+epíteto κολπώδη, “de muchos golfos”, con el que se la conocía. Es muy significativo el contraste entre 
+la parquedad de la única orden importante y el derroche de detalles sobre la cuestión ornamental.
+Por otra parte, lo cierto es que Agamenón ni añade información sobre la carta anterior ni declara 
+la verdad sobre la situación presente. El engaño del casamiento sigue adelante. Cambia solamente la 
+fecha del viaje. El casamiento queda para otra oportunidad: εἰς ἄλλας ὥρας. Se trata simplemente
+Juan Tobías Napoli
+CLRELyL 18 (2022): 110-125. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0185995
+120 
+de una dilación del problema. Por tanto, no debemos ver la carta como un intento de retractación. No 
+hay ningún reconocimiento del conflicto que lo atraviesa, entre su responsabilidad como líder de la 
+cruzada panhelénica destinada a castigar el ultraje de los bárbaros y su condición de padre que ama a 
+su hija. En este conflicto, Agamenón queda sin respuestas. Son las circunstancias las que deciden por él.
+	Así puede verse con claridad en el primer episodio. Menelao intercepta al criado y toma la carta 
+que lleva en sus manos. Hay un paso de comedia entre ambos hombres que se disputan la tenencia de 
+la carta (cf. versos 306-316). Ante el pedido del criado, interviene Agamenón para zanjar la disputa. El 
+verso 317, constituido íntegramente por la interjección ἔα, marca el momento en que el rey comprende 
+que su estrategia ha fracasado definitivamente. En numerosas ocasiones Eurípides marca con estos 
+versos compuestos solamente con una interjección el momento clave de una tragedia: en Bacantes, 
+obra del mismo año que nuestra tragedia, la misma interjección en el verso 810 muestra el momento 
+en que Dionisos abandona el plan de persuadir a Penteo y comienza con su segunda estrategia, la 
+de destruirlo. En Eurípides, esta interjección expresa, sin excepción, la sorpresa del hablante, nunca 
+bienvenida.21 Aquí, también Agamenón cambia su estrategia: de la pretensión de impedir la llegada 
+y sacrificio de su hija, pasa a quedar a merced de las circunstancias: no reemplaza un plan por otro; 
+abandona el único plan que tenía.
+A partir de ese momento, el débil plan de Agamenón (que requería sigilo), ha quedado 
+clausurado. Sin embargo, los hermanos siguen recriminándose por sus conductas. La carta es ahora el 
+objeto de disputa entre los hijos de Atreo: una disputa vana, personal, sin incidencia en el desarrollo 
+argumental. Resulta interesante observar de qué manera Menelao califica la carta: 
+(v. 322) {Με.} τήνδ' ὁρᾶις δέλτον, κακίστων γραμμάτων ὑπηρέτιν;
+Men. ¿Ves esta carta, servidora de las peores palabras?
+(v. 324) {Με.} οὔ, πρὶν ἂν δείξω γε Δαναοῖς πᾶσι τἀγγεγραμμένα.	
+Men. No la soltaré, antes de que yo mismo les muestre a todos los Dánaos lo que allí está escrito.
+	
+(v. 326) {Με.} ὥστε σ' ἀλγῦναί γ', ἀνοίξας ἃ σὺ κάκ' ἠργάσω λάθραι.
+Men. Quiero provocarte dolor, por cierto, abriendo lo que tú, con mal proceder, obraste en secreto. 
+	La carta y lo que en ella está escrito recibe las peores calificaciones y constituye una prueba de 
+la mala conducta de Agamenón. Fuera de ello, nada importante ocurre. Los hermanos terminan en un 
+reproche mutuo que desacredita ambas conductas (vv. 332-333):
+{Με.} πλάγια γὰρ φρονεῖς, τὰ μὲν νῦν, τὰ δὲ πάλαι, τὰ δ' αὐτίκα. 
+{Αγ.} εὖ κεκόμψευσαι πονηρά· γλῶσσ' ἐπίφθονον σοφή.
+Men. Piensas siempre algo equívoco: lo de ahora, lo de antes y lo de después.
+Ag. Finamente has planeado cosas lamentables. Odiosa es la lengua hábil.
+21 Cf. Fraenkel (1950, p. 580).
+Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides
+DOI: http://dx.doi.org/10.30972/clt.0185995
+Juan Tobías Napoli
+ 121 
+Menelao acusa a Agamenón de pensar πλάγια, cosas laterales. El tiro es preciso, así como el 
+reconocimiento de la continuidad de esta conducta. Agamenón, a través del oxímoron εὖ πονηρά, 
+marca la contradicción que encuentra en Menelao, a quien acusa de comportarse como un sofista. La 
+γλῶσσα σοφή que le atribuye (“la lengua sabia”, en realidad) constituye una diatriba frecuente en 
+contra de los oradores, que parece estar dirigida más bien a los demagogos contemporáneos del poeta 
+que a los héroes de los tiempos épicos. Los sofistas, maestros de retórica que, a partir del siglo V a. C. 
+enseñaban a convertir en ganador al argumento aparentemente más débil, constituían el modelo en el 
+que se forja la conducta de Menelao.
+Sócrates decía, en el Fedro, que los hombres, confiados en este auxilio extraño que es la 
+escritura, abandonarán a caracteres materiales el cuidado de conservar los recuerdos, cuyo rastro habrá 
+perdido su espíritu (Platón, Fedro, 274c-277a). Sin embargo, en nuestra tragedia se manifiestan tres 
+restricciones vinculadas con la tablilla y aquello que está escrito sobre ella, que parecen una respuesta a 
+la postura socrática: en primer lugar, la escritura no es un modo de conservar el recuerdo sino un modo 
+de ocultamiento, que necesita de una actividad espiritual (la interpretación) para adquirir sentido; 
+en segundo lugar, la tablilla, en tanto objeto, corre el mismo riesgo de corrupción que cualquier bien 
+material y, por ello, se guardará mejor si es memorizado por el alma del que hará de mensajero; además, 
+el discurso escrito con los caracteres grabados sobre una tablilla se convierte en un trofeo que no tiene 
+valor por sí mismo como mensaje sino como prueba para una acusación. Así concluye Menelao con el 
+tema de la carta (vv. 360-369):22  
+                                                           καὶ πέμπεις ἑκών, 
+οὐ βίαι – μὴ τοῦτο λέξηις – σῆι δάμαρτι παῖδα σὴν 
+δεῦρ' ἀποστέλλειν, Ἀχιλλεῖ πρόφασιν ὡς γαμουμένην. 
+κἆιθ' ὑποστρέψας λέληψαι μεταβαλὼν ἄλλας γραφάς, 
+ὡς φονεὺς οὐκέτι θυγατρὸς σῆς ἔσηι; μάλιστά γε. 
+οὗτος αὑτός ἐστιν αἰθὴρ ὃς τάδ' ἤκουσεν σέθεν. 
+μυρίοι δέ τοι πεπόνθασ' αὐτό· πρὸς τὰ πράγματα   
+ἐκπονοῦσ' ἔχοντες, εἶτα δ' ἐξεχώρησαν κακῶς, 
+τὰ μὲν ὑπὸ γνώμης πολιτῶν ἀσυνέτου, τὰ δ' ἐνδίκως 
+ἀδύνατοι γεγῶτες αὐτοὶ διαφυλάξασθαι πόλιν.
+Y a tu esposa le pediste voluntariamente, no por la fuerza (¡nunca digas eso!), que mandara hacia 
+aquí a tu hija, con el pretexto de que ibas a casarla con Aquiles.Y enseguida, volviendo-te atrás, 
+cambiando otra vez de parecer, has enviado otros escritos, con el argumento de que nunca serás el 
+asesino de tu hija. ¡Ciertamente, así es mejor! ¡Este mismo es el aire que te escuchó decir ambas 
+cosas! Muchos hombres se comportan de ese modo: se esfuerzan por alcanzar el éxito, pero al punto 
+abandonan la empresa de mala manera, ya sea por la opinión desfavorable de sus conciudadanos, ya 
+sea porque ellos mismos resultan incapaces de defender la ciudad.
+Menelao resume lo que ha ocurrido antes del comienzo de la tragedia y en las primeras escenas 
+de la misma. Agamenón ha escrito dos cartas: una primera, escrita voluntariamente y no por la fuerza, 
+22 Cf. Allan (1999-2000, p. 145-56) y Conacher (1998).
+Juan Tobías Napoli
+CLRELyL 18 (2022): 110-125. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0185995
+122 
+destinada a que Ifigenia llegara hasta Áulide con el pretexto del matrimonio; una segunda, que 
+también fue voluntaria (aunque Menelao, que tanto ahínco puso en este aspecto de la primera carta, 
+no lo reconoce ahora), en donde vuelve atrás en sus intenciones y envía nuevos escritos destinados 
+a no convertirse en el asesino de su hija. El verso 363 es crucial, con los dos participios de aoristo 
+(ὑποστρέψας y μεταβαλὼν) y el perfecto λέληψαι con su complemento ἄλλας γραφάς. Los 
+participios, tal vez en orden inverso (recordando el recurso épico del hýsteron próteron), muestran 
+el cambio de parecer de Agamenón y su vuelta atrás metafórica. Menelao se detiene en destacar 
+este cambio de su hermano, testimoniado en el envío de otros escritos. Inmediatamente, resume el 
+contenido de esos escritos. ¿Pudo leerlos acaso? No se ve en la tragedia. Él simplemente sospecha. Y la 
+sospecha, evidentemente, se justifica. Sin embargo, justamente por la carencia de lectura, su sospecha 
+se dirige directamente hacia las consecuencias del escrito: nunca será el asesino de su hija. La carta 
+no decía eso, sino que se limitaba a posponer la boda, aunque resulta claro que esas las motivaciones 
+de Agamenón eran las de salvar de la muerte a su hija. Es decir, Menelao interpreta las acciones y 
+motivaciones de su hermano y no el contenido literal de la carta. Menelao, como receptor-interceptor, 
+muestra uno de los modos de la interpretación del texto escrito: no importa tanto la literalidad del 
+contenido, sino el contexto general de la situación y las consecuencias que ese escrito tiene según 
+los intereses del emisor. Como puede notarse, la relación entre emisor, texto escrito y receptor es 
+más compleja de lo previsto y la escritura, en lugar de ser simplemente un medio para conservar los 
+recuerdos, como presupone Sócrates en el Fedro, es un fenómeno bastante más complejo, que se suma 
+a las habituales dificultades de la comunicación humana.
+Eurípides ha complicado la trama con todo el debate acerca de las dos cartas destinadas a 
+Clitemnestra, tanto como se va a complicar la resolución de la tragedia: en el éxodo, Ifigenia va a ser 
+sacrificada; Agamenón no quiere mirar; Aquiles, que había prometido defenderla, preside la ceremonia 
+del sacrificio; el campamento griego está a punto de estallar en un conflicto interno. De repente, un 
+mensajero ingresa a escena para contar el modo en que Ártemis intervino y salvó a último momento 
+a la niña. Todos quedan incrédulos, aunque Clitemnestra no abandona su deseo de venganza. La 
+aparición ex machina de la diosa Ártemis, que no es vista ni por los espectadores ni por los personajes, 
+pone el punto final a la trama y permite el inicio de la expedición en contra de Troya. Creemos que 
+estas dos complicaciones de la trama están en estrecha vinculación y no pueden explicarse una sin la otra.
+La primera frase del discurso yámbico de la tragedia, pronunciada por Agamenón, es ἐγένοντο 
+Λήδαι Θεστιάδι τρεῖς παρθένοι, “nacieron de Leda, hija de Testio, tres vírgenes”. La típica 
+genealogía con la que Eurípides inicia muchas de sus tragedias evoca en este caso el curso continuado 
+del engaño de los dioses, de las hijas que generan problemas y de la traición y venganza por parte de 
+cada generación sucesiva. 
+	La salvación final que entonces ofrece Ártemis no indica ni una triunfante reivindicación de 
+la acción que han seguido los personajes principales, ni la recuperación de un orden cósmico similar 
+al esquileo, sino que, mejor, implica que la acción humana, en último análisis, está condenada a la 
+frustración y resulta singularmente malograda sin la ayuda divina. En última instancia, sigue siendo 
+una comprobación profundamente trágica.
+Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides
+DOI: http://dx.doi.org/10.30972/clt.0185995
+Juan Tobías Napoli
+ 123 
+Referencias bibliográficas
+Allan, W. (1999-2000). Euripides and the Sophists: society and the theatre of war. ICS, 24/25, 145-56. 
+https://bit.ly/3ckLAJJ
+Barrett, W. S. (1964). Euripides: Hippolytos. Oxford, Oxford University Press.
+Battezzato, L. (1995). Il Monologo nel Teatro di Euripide. Pisa, Scuola Normale Superiore.
+Caspers, C. L. (2011). Healing Speech, wandering Names, Contests of Words. Ideas about Language in 
+Euripides. Vleuten/Alkmaar, Proefschrift Universiteit Leiden. 
+Cavallo, G. y Chartier, R. (eds.). (2011). Historia de la lectura en el mundo occidental. Buenos Aires, Taurus.
+Chantraine, P. (1950). Les verbes grecs signifiant ‘lire’. En Mélanges Henri Grégoire II (pp. 115-126). 
+Bruselas.
+Chantraine, P. (1968). Dictionnaire étymologique de la langue grecque. Histoire des mots. París, Klincksieck.
+Charles, M. (1977). Rhétorique de la lectura. París, Éditions du Seuil.
+Classen, C. J. (1976). The Study of Language. En Classen C. J. (ed.), Sophistik (pp. 214-47). Darmstadt, 
+Wissenschaftliche Buchgesellschaft.
+Collard, C. y Morwood, J. (2017). Euripides. Iphigenia at Aulis, 2 vols. Liverpool, Aris & Phillips 
+Classical Texts.
+Conacher, D. (1998). Euripides and the Sophists: some dramatic treatments of philosophical ideas. Londres, 
+Duckworth.
+Curtius, E. R. (1975). Literatura europea y edad media latina. México, Fondo de Cultura Económica.
+Davidson, J. F. (1990). The daughters of Agamemnon. RhPh, 133, 407-409. https://bit.ly/3OdDdgn
+De Kerckhove, D. (1979). Sur la fonction du théâtre comme agent d’intériorisation des effets de 
+l’alphabet phonétique à Athènes au Ve siècle. Les Imaginaires, II, 10-18, 345-368.
+Diggle, J. (1984). Euripides Fabulae (Vol. III). Oxford, Oxford University Press
+Downing, E. (1990) Apate, Agon, and Literary Self‐Reflexivity in Euripides' Helen. En Griffith, M. 
+and D. Mastronarde (eds.), Cabinet of the Muses: Essays on Classical and Comparative Literature in 
+Honor of Thomas G. Rosenmeyer (pp. 1-16). New York, Scholars Press.
+Ferrari, F. (1988). Euripide. Ifigenia in Tauride. Ifigenia in Aulide. Turín, Bur.
+Fraenkel, E. (1950). Aeschylus Agamemnon, 3 vols. Oxford, Oxford University Press.
+García Gual, C. (1991). Figuras helénicas y géneros literarios. Madrid, Mondadori.
+Hirata, F. G. (2003). As cartas na tragédia grega. Clássica, 13-14, 315-322. https://bit.ly/3PddHsS
+Jenkins, T. E. (2006). Interrupted Letters. Epistolarity and Narrative in Greek and Roman Drama. 
+Lanham, Lexington Books.
+Juan Tobías Napoli
+CLRELyL 18 (2022): 110-125. ISSN 2684-0499
+DOI: http://dx.doi.org/10.30972/clt.0185995
+124 
+Jouan, F. (ed., trad.). (1983). Euripide, Iphigénie à Aulis. París, Les Belles Lettres. 
+Kraus, M. (1987). Name und Sache: ein Problem im fruhgriechischen Denken. Amsterdam, Verlag B. 
+R. Grüner.
+Kraut, R. (ed.). (1993). The Cambridge Companion to Plato. Cambridge, Cambridge University 
+Press.
+Kühn, W. (2000). La fin du Phedre de Platon. Critique de la Rhetorique et de l’ Ecriture. Florencia, Leo 
+S. Olschki.
+Labiano, J. M. (2000). Eurípides: Tragedias III. Madrid, Cátedra.
+Lanza, D. (1997). La disciplina dell' emozione. Un' introduzione alla tragedia greca. Milano, Editrice 
+Petite Plaisance.
+Lyons, M. (2012). Historia de la lectura y de la escritura en el mundo occidental. Buenos Aires, Editoras 
+del Calderón.
+Macleod, M. D. (1987). Luciani Opera. Oxford, Oxford University Press. 
+Mastronarde, D. J. (1979). Contact and Discontinuity. Some Conventions of Speech and Action on the 
+Greek Stage (Vol. 21). California, University of California Publications. Classical Studies.
+Monaco, G. (1965). L' epistola nel teatro antico. Dioniso, 39, 334-51.
+Murray, G. (1978). Euripides Fabulae (Vol. III). Oxford, Oxford University Press.
+Napoli, J. T. (2007). Ónoma, érgon y lógos en Helena de Eurípides. En González de Tobia, A. M. (ed.), 
+Lenguaje, Discurso y Civilización. De Grecia a la Modernidad (pp. 339-352). La Plata, Edulp.
+Napoli, J. T. (2009). Vanos ruidos de la lengua: la construcción del lenguaje poético en Eurípides. 
+Synthesis, 16, 123-143.
+Napoli, J. T. (2010). El mito de Orfeo y el problema del lenguaje en Eurípides. En González de Tobia, 
+A. M. (ed.), Mito y Performance. De Grecia a la Modernidad (pp. 131-150). La Plata, Edulp.
+Napoli, J. T. (2015). Escritor, texto escrito y lector: un agón particular en la tragedia de Eurípides. En 
+Fernández, C.; Napoli, J. y Zecchin, G. (eds.), Αgón: Competencia y cooperación. De la antigua Grecia 
+a la Actualidad. Homenaje a Ana María González de Tobia (pp. 25-303). La Plata, Edulp.
+Pöhlmann, E. (1971). Die ABC-Komödie des Kallias. Rheinisches Museum, 114, 230-240. 
+https://bit.ly/3RPjJBx
+Rodríguez Adrados, F. (1962). El héroe trágico y el filósofo platónico. Cuadernos de la Fundación Pastor 
+6 (pp. 11-38). Madrid, Taurus,
+Svenbro, J. (1991). La lectura à haute voix. Le témoignage des verbes grecs significant ‘lire’. En Baurain, 
+C.; Bonnet, C. y Crings, V. (eds.), Phoinikeia grammata. Lire et écrire en Méditerranée (pp. 539-548). 
+Lieja-Namur.
+Escritor, texto escrito y lector en Ifigenia en Áulide de Eurípides
+DOI: http://dx.doi.org/10.30972/clt.0185995
+Juan Tobías Napoli
+ 125 
+Svenbro, J. (2011). La Grecia arcaica y clásica. La invención de la lectura silenciosa. En Cavallo, G. 
+y Chartier, R. (eds.), Historia de la lectura en el mundo occidental (pp. 67-97). Buenos Aires, Taurus.
+Willi, A. (2003). The Languages of Aristophanes. Aspects of Linguistic Variation in Classical Attic Greek. 
+Oxford, Oxford University Press.  
+Wise, J. (1998). Dionysus Writes. The Invention of Theatre in Ancient Greece. Ítaca-Londres, Cornell 
+University Press.
+*Juan Tobías Napoli es Profesor, Licenciado y Doctor en Letras por la Universidad Nacional de La 
+Plata (UNLP). Se ha especializado en tragedia griega, particularmente en la de Eurípides. Actualmente 
+se desempeña como Profesor Titular del Área Griego en la Facultad de Humanidades y Ciencias de 
+la Educación de la UNLP.

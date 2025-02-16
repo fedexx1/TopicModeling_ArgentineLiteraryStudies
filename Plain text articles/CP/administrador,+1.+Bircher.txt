@@ -1,0 +1,903 @@
+ 
+ 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes para… 
+ 
+                                  
+                             N° 16. Segundo Semestre de 2022 
+ 
+ 
+EL LAMENTO DE HEGEL Y LA VOLUNTAD DE 
+SAUSSURE: APORTES PARA UNA INTERPRETACIÓN 
+HEGELIANA DEL SIGNO SAUSSUREANO  
+ 
+Matías Bircher 
+Universidad Autónoma de Entre Ríos 
+matiasbircher1@gmail.com 
+ 
+ 
+ 
+Resumen: En la Enciclopedia de las ciencias 
+filosóficas 
+publicada 
+en 
+1817 
+Hegel 
+declaraba “Die Rede und ihr System, 
+die Sprache [El habla y su sistema, la 
+lengua]” (2005, p. 503), estableciendo 
+por primera vez la separación entre 
+lengua y habla. Además, el filósofo 
+alemán teorizaba sobre las nociones de 
+signo y símbolo. 
+El Curso de lingüística general 
+(1916) de Saussure manifiesta una serie 
+de coincidencias en relación a la teoría 
+hegeliana del signo que buscamos 
+evidenciar y exponer. Nuestro trabajo, 
+entonces, se dividirá en los siguientes 
+ejes: 1) la naturaleza psíquica del signo; 
+2) la definición, arbitrariedad y valor del 
+signo; 3) el concepto de símbolo y 4) la 
+lengua como sistema. 
+Finalmente 
+proponemos 
+una 
+interpretación 
+hegeliana 
+del 
+signo 
+saussureano, haciendo hincapié en la 
+noción de valor. 
+ 
+Palabras 
+clave: 
+Hegel, 
+Saussure, 
+Lengua, Sistema, Signo. 
+Abstract: 
+In The Encyclopedia of the 
+Philosophical Sciences published in 1817 Hegel 
+stated “Die Rede und ihr System, die 
+Sprache 
+[Speech 
+and 
+its 
+system, 
+language]”, stablishing for the first time a 
+distinction 
+between 
+language 
+and 
+speech. Furthermore, the German 
+philosopher theorized about the notion 
+of sign and symbol. Saussure’s Course in 
+General Linguistics (1916) presents a series of 
+coincidences with the Hegelian theory 
+about the sign we seek to expose and 
+reveal. Subsequently, our article will be 
+divided according to these next axis: 1) 
+the sign’s psychic nature; 2) the sign’s 
+definition, arbitrariness and value; 3) 
+the concept of symbol; and 4) language 
+as a system. 
+Lastly, we shall suggest a Hegelian 
+interpretation 
+of 
+Saussure’s 
+sign, 
+putting special emphasis on the notion 
+of value. 
+ 
+Keywords: Hegel, Saussure, Language, 
+System, Sign. 
+ 
+                                           
+2 
+ 
+En el presente trabajo pretendemos establecer puntos de 
+contacto entre la concepción o naturaleza del signo según 
+Georg W.F. Hegel (1770-1831) y la de Ferdinand de Saussure 
+(1857-1913). Dada la cantidad de coincidencias, que serán 
+expuestas oportunamente, buscamos evidenciar una relación 
+directa, esto es, una vinculación estrecha, entre las 
+concepciones hegeliana y saussureana del signo, debida, en 
+principio, a la presencia –ni casual ni azarosa–, según 
+sostenemos- de similitudes en los escritos del filósofo alemán y el 
+lingüista suizo. 
+El singular título de este trabajo deriva de una cita de 
+Jacques Derrida (1994) en su texto “El pozo y la pirámide”: 
+En la Enciclopedia, Hegel lamenta que se introduzcan en general ‘los 
+signos y el lenguaje como apéndice en la psicología o incluso 
+en la lógica, sin reflexionar sobre su necesidad y su 
+conexión con el sistema de la actividad intelectual’ (1994, 
+p. 105 [la cursiva es nuestra]). 
+Explicado el lamento hegeliano, ahora debemos realizar una 
+somera aclaración respecto a la segunda parte de la conjunción 
+inicial: Saussure es considerado el padre de la Lingüística 
+moderna, constituyéndose como uno de los teóricos más 
+importantes del siglo XX debido, entre otras cosas, a su 
+notable influencia en el movimiento estructuralista. Saussure 
+logra, en efecto, brindarle el carácter –tan ansiado– de 
+cientificidad a la Lingüística, estableciendo como objeto de 
+estudio a la lengua (oponiéndola al lenguaje). Destacamos, en 
+tales términos, su voluntad. Se nos reprochará, no sin razón, que 
+Derrida refiere con su cita de Hegel a la formulación de una 
+ 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes… 
+ 
+                                  
+                             N° 16. Segundo Semestre de 2022 
+ 
+Semiología y que, por su parte, Saussure se dedica y ocupa de 
+la 
+Lingüística. 
+Sin 
+embargo, 
+provisoriamente, 
+podemos 
+sostener la idea de que la voluntad por construir un sistema 
+para la lengua es, en gran medida, un gesto ciertamente 
+hegeliano (ya que Hegel es, por antonomasia, el filósofo de los 
+sistemas o sistemático).1 
+ 
+Consideraciones previas y aclaraciones 
+ 
+A pesar del pensamiento dualista, dicotómico y antinómico 
+tan detestado y aborrecido por Hegel ̶ 2     propio de Ferdinand 
+de  Saussure,3    encontramos  una  serie  de  coincidencias  con  el 
+filósofo alemán que no deben pasar desapercibidas y menos 
+aún deben ser dejadas de lado. Antonio Vilarnovo (2008) 
+afirma, en efecto, que las metodologías de exposición de Hegel y 
+ 
+1 Ver eje 6: ‘Lengua y sistema’. 
+2 Al respecto, citamos los siguientes fragmentos de Rodolfo Mondolfo en el “Prólogo” a la 
+Ciencia de la Lógica (2013): “La nueva lógica con que Hegel quiere sustituir la tradicional se 
+plantea […] el problema procedente de la gnseología kantiana, cuyo dualismo, de 
+pensamiento y ser, cerraba el tránsito de nuestra conciencia al ser en sí. Hegel rechaza ese 
+dualismo” (Mondolfo, 2013, p. 14 [la cursiva es nuestra]). Más adelante sostiene que, para Hegel, 
+la filosofía: 
+no puede aceptar las separaciones establecidas por el intelecto; ella descubre que todos los seres son opuestos; y 
+en esa oposición, que es distinción y vinculación al mismo tiempo, se funda la dialéctica que 
+reconoce con Heráclito en la lucha generadora de todas las cosas. He aquí la nueva lógica, 
+dinámica, heredera de la identidad de los opuestos teorizada por el Cusano, Bruno y Bohme, 
+y de la dialéctica triádica de tesis-antítesis-síntesis, sistematizada por Fichte. La nueva lógica 
+descubre en la oposición la unidad de todas las determinaciones lógicas y reales, cuya multiplicidad se organiza así y se dispone en 
+un sistema (Mondolfo, 2013, p. 16 [la cursiva es nuestra]). 
+3 Algunos ejemplos de los pares dicotómicos presentes en el Curso son: lengua/lenguaje; 
+lengua/habla;    sincronía/diacronía;    relaciones    sintagmáticas/relaciones   asociativas; 
+significado/significante.
+ 
+4 
+ 
+ 
+ 
+Saussure son similares y retoma las “coincidencias temáticas” 
+propias entre la Enciclopedia de las Ciencias Filosóficas (1817)4   y el Curso de 
+lingüística general (1916) 5. 
+Es un hecho indudable y, casi ineludible diríamos, la deuda 
+que las ciencias humanas del siglo XX tienen con Hegel. Áreas tan 
+diversas como Filosofía, Artes, Arquitectura, Derecho, entre 
+varias otras, son deudoras del filósofo alemán, y la Lingüística, 
+en este sentido, no es la excepción. Cabe destacar que el autor 
+alemán no escribió una obra específicamente centrada en el 
+estudio del lenguaje o algo semejante a lo que sería un tratado 
+del lenguaje; sin embargo, en la Enciclopedia el 
+autor abordó los más 
+diversos temas, en un intento por realizar una sistematización de 
+todo el saber de la época: en dicha obra encontramos 
+disquisiciones acerca del signo, que Derrida denomina como 
+“teoría del signo” (1994, p. 111). 
+Eugenio Coseriu (1977) afirma que es evidente el hecho de que 
+Saussure conocía a Hegel (muy probablemente gracias a la lectura 
+de Johan N. Madvig, quien solía citar en sus escritos al filósofo 
+alemán) y de este modo el lingüista dio con sus obras y las 
+consultó: “una etapa extraordinariamente importante –y, a mi 
+entender, decisiva para la teoría posterior de Saussure– la 
+representa, finalmente, en Alemania, Hegel, con sus breves 
+pero profundas disquisiciones acerca del signo, en la Enzyklopadie 
+der philosophischen Wissenschaften (1817)” (Coseriu,  1977, p. 40). Por dicho 
+ 
+ 
+ 
+4 En adelante se citará: Enciclopedia. La edición utilizada es de 2005. 
+ 
+5 En adelante se citará: Curso. La edición utilizada es de 1989. 
+ 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes… 
+ 
+                                  
+                             N° 16. Segundo Semestre de 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+motivo, Hegel forma parte del grupo de autores que influyó al 
+lingüista suizo. 
+Es entonces, en estos términos, que planteamos una 
+influencia   de   Hegel   en   el   Curso6      de   Saussure.   Por   esto, 
+pensamos realizar una lectura, o mejor, una interpretación 
+hegeliana del signo saussureano, haciendo hincapié en la 
+noción de valor. 
+Expuestos debidamente los fines del presente trabajo, 
+conviene advertir con precisión el lugar, o en lenguaje 
+hegeliano, ‘el momento’ en el cual se ubica la “teoría del signo” 
+en 
+la Enciclopedia. Esta teoría se encuentra en la “Filosofía del 
+espíritu”, esto es, la tercera parte de la obra, precedida por la 
+“Ciencia de la lógica” y la “Filosofía de la naturaleza”. 
+Específicamente, nos ocuparemos de los § 458 a 463. La 
+particular ubicación en una obra que se constituye 
+arquitectónicamente como el summum de la lógica, permite 
+sustentar la tesis derrideana -a la que adherimos- de que “el 
+lugar de la semiología [en tanto disciplina que estudia signos] 
+habría estado, pues, en el centro, no en el margen o apéndice 
+de 
+la Lógica de Hegel” (Derrida, 1994, p. 105). 
+ 
+Ejes de trabajo 
+ 
+ 
+6 Es ampliamente conocido que Saussure no publicó el Curso. Este es resultado de una compilación, 
+realizada por Charles Bally y Albert Sechehaye, de apuntes de los estudiantes que asistieron a 
+los tres seminarios sobre “Lingüística General” que el lingüista dictó en la Facultad de Letras y 
+Ciencias Sociales de Ginebra, entre 1906 y 1911. Colaboró en esta empresa Albert Riedlinger, 
+para que finalmente Bally y Sechehaye logren publicar el Curso de lingüística general en París en el año 
+1916 (Leona, 2012). 
+ 
+6 
+ 
+ 
+ 
+ 
+Para nuestra exposición iremos retomando fragmentos de 
+los dos autores y poniéndolos en contraste para, finalmente, 
+extraer conclusiones de los mismos. Nuestro trabajo, entonces, se 
+dividirá en los siguientes ejes: 
+1. La naturaleza psíquica del signo y su relación con la 
+psicología. 
+2. La definición de signo. 
+3. La arbitrariedad del signo. 
+4. El concepto de símbolo. 
+5. El valor del signo. Naturaleza negativa y positiva. 
+6. Lengua y sistema. 
+ 
+ 
+1. La naturaleza psíquica del signo y su relación con la 
+psicología 
+ 
+ 
+Los conceptos de “intuición” en Hegel y de “imagen 
+acústica” en 
+Saussure “guardan entre sí una relación muy estrecha” (Vilarnovo, 
+2008, p. 122); en efecto, son elementos abstractos que están en 
+relación con, o mejor dicho en, una unidad concreta.7 
+Para Saussure: “la imagen acústica no es el sonido material, cosa 
+puramente física, sino su huella psíquica, […] y si llegamos a llamarla ‘material’ 
+ 
+ 
+7 Esta cuestión será abordada en el siguiente eje, a saber: ‘La definición de signo’. 
+ 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes… 
+ 
+                                  
+                             N° 16. Segundo Semestre de 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+es […] por oposición al concepto” 
+(Saussure, 1989, p. 88 [la 
+cursiva es nuestra]). 
+Hegel, por su parte, establece que: 
+(…) la materia de la última [a saber, la intuición] es 
+primeramente algo percibido, desde luego, algo inmediato o 
+dado (por ejemplo, el color de la escarapela o cosas 
+parecidas). Pero en esta identidad, la intuición no vale como 
+positiva y representándose a sí misma, sino representando algo otro. (Hegel, 2005, 
+p. 499 [la cursiva es nuestra]). 
+ 
+En estos fragmentos se ilustra la concepción de que, tanto la 
+imagen acústica como la intuición, corresponden estrictamente al 
+orden de lo psíquico, es decir, su carácter es esencialmente no 
+material: “esta doctrina, común en ambos autores, choca 
+abiertamente con la de aquellos que entienden el significante 
+simplemente como ‘expresión material’” (Vilarnovo, 2008, p. 
+123). 
+Una cuestión que se deriva de lo anterior es la particularidad de 
+que, según ambos autores, el signo es de naturaleza psíquica; por 
+ende, sitúan la teoría de los signos “bajo la jurisdicción de la 
+psicología” (Derrida, 1994, p. 110). Observemos más de cerca 
+esto. 
+Por un lado, Hegel, a pesar del lamento ya enunciado, coloca su 
+teorización del signo en los § 458 a 463, enmarcados en el 
+capítulo “La imaginación” (Die Einbildungkraft) en la sección 
+correspondiente a la Psicología. Estamos ante, como ya 
+dijimos, la tercera parte de la obra, a saber, en la sección 
+Espíritu Subjetivo.8 
+ 
+8 Según Jacques Derrida, el Espíritu Subjetivo en sí mismo es: 
+ 
+8 
+ 
+ 
+ 
+Por el otro, Saussure, como bien señala Derrida (1994), 
+reproduce este gesto, afirmando: “En el fondo todo es psicológico en 
+la lengua, 
+incluso sus manifestaciones materiales y mecánicas, […] y puesto 
+que la lingüística proporciona a la psicología social datos tan 
+preciosos, ¿no formará parte de ella?” (Saussure, 1989, p. 21 [la 
+cursiva es nuestra]). 
+Asimismo, prosigue en otro fragmento: 
+Se puede, pues, concebir una ciencia que estudie la vida de los 
+signos en el seno de la vida social. Tal ciencia sería parte 
+de la 
+psicología social, y, por consiguiente, de la psicología general. 
+Nosotros la llamaremos semiología (…) Ella nos enseñará 
+en qué consisten los signos y cuáles son las leyes que los 
+gobiernan. Puesto que todavía no existe, no se puede decir 
+qué es lo que ella será; pero tiene derecho a la 
+existencia y su 
+lugar está determinado de antemano. La lingüística no es más que 
+una parte de esta ciencia general. Las leyes que la semiología descubra 
+serán aplicables a la lingüística (…). 
+Al psicólogo toca determinar el puesto exacto de la 
+semiología (…) (Saussure, 1989, p. 32 [la cursiva es 
+nuestra]). 
+ 
+Aquí podemos observar la particular filiación entre los 
+signos  y  la  psicología: a esta le  corresponde  cierta primacía o 
+ 
+ 
+1) 
+En sí o inmediato: es el alma o espíritu natural, objeto de la antropología que 
+estudia al hombre en la naturaleza. 
+2) 
+Para sí o mediatizado, como reflexión idéntica en sí y en el otro, el espíritu en 
+relación o en particularización, la conciencia, objeto de la fenomenología del 
+espíritu. 
+3) 
+El espíritu que se determina a sí mismo como sujeto para sí, objeto de la 
+psicología. 
+Ahora bien, la semiología es un capítulo de la psicología. (Derrida, 1994, p. 
+109). 
+ 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes… 
+ 
+                                  
+                             N° 16. Segundo Semestre de 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+cierto privilegio por sobre la semiología y la lingüística. De 
+nuevo, asistimos a otra coincidencia teórica por parte de los 
+autores, que lejos está de ser azarosa o casual. 
+ 
+2. La definición de signo 
+ 
+ 
+Tanto en Hegel como en Saussure, el signo es una unidad 
+compuesta por dos elementos psíquicos: 
+Hegel: “En esta unidad procedente de la inteligencia, unidad de 
+representación autosuficiente y de una intuición […]” (Hegel, 
+2005, p. 499). Y en § 460 “el nombre, como enlace de la intuición 
+producida por la inteligencia y su significado […]” (2005, p. 
+505 [la cursiva es nuestra]). 
+Saussure: “El signo lingüístico es, pues, una entidad psíquica 
+de 
+dos caras” (Saussure, 1989, p. 89). 
+El signo entonces, para los dos autores, es una unidad, la 
+unión o identidad de dos elementos: ‘significado’ y ‘significante’  
+en  Saussure  y ‘concepto’ e ‘intuición’ en Hegel.9 Vilarnovo 
+(2008) explica que el concepto o significado tiene primacía o 
+más jerarquía sobre el aspecto material del signo. Retomemos, 
+ahora, la definición de signo que brinda Hegel: 
+El signo es una cierta intuición inmediata que representa un 
+contenido enteramente otro que el que tiene  de  suyo; es co- 
+ 
+ 
+ 
+9 Explica Coseriu (1977): “con Fortunatov coincide Saussure, entre otras cosas, sobre 
+todo en considerar las dos caras del signo como entidades psíquicas (lo que Fortunatov 
+tomó, probablemente, de Hegel)” (1977, p. 58). 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+Mo la pirámide en la cual se ha colocado un alma 
+extraña y la cobija” (Hegel, 2005, p. 499). 
+ 
+ 
+ 
+3. La arbitrariedad del signo 
+ 
+ 
+De la anterior definición podemos extraer varias ideas 
+interesantes, especialmente si observamos la ilustrativa 
+comparación de lo que es un signo: una pirámide donde han 
+colocado un “alma extraña”. En efecto, según Hegel, entre el 
+signo y su contenido no hay una conexión o relación 
+intrínseca; su relación está mediada (dado que es externa) por 
+la 
+inteligencia, que se constituye como “dueña y señora de la 
+significación” (Valls Plana, 2005, p. 499). La relación entre la 
+pirámide y el alma no es natural o directa, sino que es, más 
+bien, externa, exógena, social. 
+El contenido del signo, entonces, se inscribe como algo 
+ajeno, propiamente en una relación de exterioridad pura, de 
+total inmotivación y arbitrio: “en el signo en cuanto a tal nada 
+tienen que ver el contenido propio de la intuición y el 
+contenido del que ella es signo […]” (Hegel, 2005, p. 500). Y 
+Hegel prosigue del siguiente modo: “como significadora [es 
+decir, productora o fabricadora de signos], por tanto, la 
+inteligencia demuestra un arbitrio y dominio más libre que 
+como  simbolizadora  […]” (Hegel,  2005,  p. 500). Adviértase el  
+ 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes… 
+ 
+                                  
+                             N° 16. Segundo Semestre de 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+uso de la palabra “arbitrio”, que muestra la relación no natural 
+entre los contenidos y las intuiciones.10 
+El fragmento hegeliano hace fácilmente eco en la tesis 
+saussureana acerca de la arbitrariedad del signo: esto es, la 
+inmotivación o como decíamos, el lazo no natural que se 
+establece entre el significado y el significante. 
+Para Saussure: 
+La idea de sur no está ligada por relación alguna con la 
+secuencia de sonidos s-u-r que le sirve de significante; 
+podría estar representada tan perfectamente por cualquier 
+otra secuencia de sonidos. 
+[…] 
+La palabra arbitrario necesita también una observación. No 
+debe dar idea de que el significante depende de la libre 
+elección del hablante […]; queremos decir que es 
+inmotivado, es decir, arbitrario con relación al significado, con 
+el cual no guarda en realidad ningún lazo natural (Saussure, 
+1989, pp. 90-91). 
+ 
+4. El concepto de símbolo 
+ 
+En este eje, que se deriva del anterior, retomamos la 
+distinción que realiza Hegel en el § 458 de la Enciclopedia. El signo 
+es una pirámide portadora de un alma ajena y extraña, plantea, 
+pero el símbolo “es distinto; [este es] una intuición cuya 
+determinidad propia según su esencia y concepto es más o 
+menos  aquel  contenido que la intuición expresa  como sím- 
+ 
+10 Al respecto declara Coseriu (1977) lo siguiente: “en lo que concierne a la lingüística, el 
+primer lingüista que, en el siglo XIX, sostiene expresamente la teoría de la inmotivación [o 
+arbitrio] del signo lingüístico, a saber, Madvig, depende, al parecer, sobre todo de Hegel” 
+(Coseriu, 1977, p. 41). Y Saussure era, recordemos, un gran lector de Madvig. 
+ 
+12 
+ 
+ 
+ 
+bolo” (Hegel, 2005, p. 500). Y prosigue: “la inteligencia 
+demuestra un arbitrio más libre en el uso de la intuición que 
+como simbolizadora” (Hegel, 2005, p. 500). Es decir que la 
+inteligencia como simbolizadora demuestra menos libertad y 
+arbitrio que como productora de signos. 
+Por su parte, Saussure retoma esta idea: 
+Se ha utilizado la palabra símbolo para designar el signo 
+lingüístico, o, más exactamente, lo que nosotros llamamos 
+el 
+significante. Pero hay inconvenientes para admitirlo (…) El 
+símbolo tiene por carácter no ser nunca completamente arbitrario; no está vacío: hay un 
+rudimento de vínculo natural entre el significante 
+y el significado. El símbolo de la 
+justicia, la balanza, no podría reemplazarse por otro objeto 
+cualquiera, un carro, por ejemplo (Saussure, 1989, p. 91 [la 
+cursiva es nuestra]). 
+ 
+En síntesis, los fragmentos citados ilustran la inmotivación y 
+arbitrariedad del signo frente al lazo “más natural”, según 
+Saussure, propio del símbolo; símbolo que es o expresa, según 
+Hegel, “más o menos” el contenido propio que se une con la 
+intuición. Las semejanzas son evidentes. Coseriu (1977) 
+advierte que esta distinción de Saussure entre signo y símbolo 
+no 
+aparece previamente en otro autor, lo que implica que rescató 
+de Hegel su conceptualización del símbolo.11 
+ 
+5. El valor del signo. Naturaleza negativa y positiva 
+ 
+ 
+ 
+ 
+11 “La conexión con Hegel nos parece evidente sobre todo por la coincidencia en la 
+distinción entre «signo» y «símbolo»: es sabido, por lo demás, que signo y símbolo se han 
+empleado -y, en parte, se siguen todavía empleando- como sinónimos” (Coseriu, 1977, 
+p. 
+57). 
+ 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes… 
+ 
+                                  
+                             N° 16. Segundo Semestre de 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+Todo signo se enmarca en un sistema que lo contiene y que, 
+a 
+su vez, le da u otorga valor. Ante la pregunta: ¿cuál es el valor de los 
+signos? Saussure responde con un ejemplo: un tablero de ajedrez. 
+Esto, a priori, significa que su valor es negativo, relativo y por 
+oposición; de este modo, los signos se afirman, positivamente. 
+Analicemos más de cerca esta cuestión: 
+En primer lugar, un estado del juego corresponde 
+enteramente a un estado de la lengua. El valor respectivo 
+de las piezas depende de su posición en el tablero, del 
+mismo modo que en la lengua cada término tiene un valor por su 
+oposición con todos los otros términos. 
+En segundo lugar, el sistema nunca es más que 
+momentáneo: varía de posición a posición. Verdad que los 
+valores dependen también y, sobre todo, de una convención 
+inmutable, la regla de juego, que existe antes de iniciarse la 
+partida y persiste tras cada jugada. Esta regla admitida una 
+vez para siempre existe también en la lengua: son los 
+principios constantes de la semiología. (Saussure, 1989, p. 
+114 [la cursiva es nuestra]). 
+ 
+Y en otro fragmento Saussure refuerza lo antedicho: “así 
+como el juego de ajedrez está todo entero en la combinación 
+de diferentes piezas así también la lengua tiene el carácter de 
+un 
+sistema basado completamente en la oposición de sus unidades 
+concretas” (Saussure, 1989, p. 135). 
+Esta metáfora del tablero de ajedrez le resulta muy útil e 
+ilustrativa al lingüista para explicitar cabalmente su concepción de 
+la lengua. En principio, las piezas no tienen un valor intrínseco 
+en sí mismas. Su valor es más bien exterior, negativo, y surge, 
+como ya explicamos, de la oposición con respecto a otros 
+elementos del tablero. Un caballo es un caballo porque no es 
+una torre  o  un  peón,  un  alfil  es  tal  por  no  ser  un rey o 
+14 
+ 
+ 
+ 
+una reina, etc. Esta tesis saussureana acerca del valor de los 
+elementos dentro de un sistema, presenta, a primera vista, un 
+germen o reminiscencias de la negatividad hegeliana. Ya 
+volveremos sobre esto. 
+En su explicación del valor, Saussure prosigue con la 
+metáfora en cuestión, no ya para referirse a un sistema sino 
+para centrarse en un elemento particular que integra dicho 
+sistema: 
+ 
+Tomemos un caballo: ¿es por sí mismo un elemento del 
+juego? Seguramente no, porque con su materialidad pura, 
+fuera de la casilla y de las demás condiciones de juego, no 
+representa nada para el jugador y no resulta un elemento 
+real y concreto más que una vez que esté revestido de su 
+valor y haciendo cuerpo con él. (Saussure, 1989, pp. 138-
+139). 
+ 
+Las piezas no tienen valor en sí mismas, sino valor para-
+otro; si y solo si están enmarcadas en un sistema donde un 
+signo es, sencillamente, lo que otro no es. Detectamos, 
+entonces, en Saussure, que la cualidad del signo lingüístico es 
+su 
+negatividad. Su esencia es la pura negatividad: esto provoca la 
+relación de identidad -diferencia y atracción- repulsión con 
+los  
+demás  elementos  que  conforman  el  sistema.12    Los signos 
+“actúan, pues, no por su valor intrínseco sino por su posición 
+relativa” (Saussure, 1989, p. 148) dentro del sistema. 
+ 
+ 
+ 
+ 
+12 Saussure no habla de “esencias” o de “cualidad”, sino que refiere, lisa y llanamente, a 
+“valor”. Aquí nos permitimos utilizar dicha terminología en un sentido hegeliano, en 
+primer lugar, debido a la filiación que se establece entre los autores y, en segunda 
+instancia, para realizar la mencionada interpretación hegeliana del signo de Saussure. 
+Matías Bircher. El lamento de Hegel y la voluntad de Sasurre: Aportes para… 
+N° 16. Segundo Semestre de 2022 
+ 
+ 
+ 
+ 
+ 
+Por su parte, para Hegel, la negatividad tiene un peso 
+fundamental en la filosofía. A grosso modo, para el filósofo alemán 
+el progreso de la filosofía se produce en tres momentos: 1) “en 
+sí”, 2) “para sí” y 3) “en sí y para sí”. O, dicho de otra manera, 
+1) a un primer momento se le opone un 
+2) segundo, que se constituye como una negación, para luego 
+devenir en un 3) tercer momento positivo, que es resultado de 
+la 
+aufhebung, la superación de los dos momentos anteriores.13 
+El sistema se presenta en principio, como explicábamos, 
+como un conjunto de signos negativos y contrapuestos; sin 
+embargo, de lo negativo, y esto es propio de Hegel, se origina o 
+resulta algo positivo, correspondiente al tercer momento, la 
+famosa y conocida “negación de la negación”. En el capítulo 
+ 
+ 
+13 Para ampliar esta cuestión, retomamos el siguiente fragmento de la ponencia titulada 
+“Notas para una aproximación al sistema lógico especulativo de Hegel” de Cristian 
+Benavides (2015): 
+Lo lógico tiene […] tres lados bien conocidos. En primer lugar, aquel propio del 
+entendimiento, que permanece en las determinaciones fijas y subsistentes de lo 
+uno frente a lo otro. Más allá de este lado abstracto, se coloca el momento 
+dialéctico, en el cual se superan tales determinaciones, enteramente finitas, 
+pasándose a sus opuestas. 
+Ahora bien, la dialéctica […] no es otra cosa que la verdadera naturaleza de las 
+determinaciones de las cosas, del entendimiento, y de todo lo finito en 
+general. Ella expresa el rebasamiento inmanente de las determinidades 
+aisladas en las que se manifiesta la limitación del entendimiento y su propia 
+negación. Todo finito, en efecto, es ese superarse a sí mismo en la negatividad de sí. 
+Por último, se halla el momento propiamente especulativo, donde se 
+aprehende la unidad de las determinaciones, no en su simple identidad, sino en 
+la oposición (…) Es decir, se advierte la identidad de la identidad y de la 
+distinción. El resultado de la dialéctica, por consiguiente, no es negativo sino positivo, no culmina en la 
+nulidad de lo abstracto y vacío de contenido, sino en lo concreto. 
+(Benavides, 201, pp. 35-36 [la cursiva es nuestra]). 
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IV del Curso, bajo el subtítulo “El signo considerado en su 
+totalidad” Saussure establece lo siguiente: 
+Pero decir que en la lengua todo es negativo sólo es verdad en cuanto al significante y al 
+significado tomados aparte: en cuanto consideramos el signo en su totalidad, nos hallamos 
+ante una cosa positiva en su orden. Un sistema lingüístico es una 
+serie de diferencias de sonidos combinados con una serie de 
+diferencias de ideas; pero este enfrentamiento de cierto 
+número de signos acústicos con otros tantos cortes hechos 
+en la masa del pensamiento engendra un sistema de valores; y 
+este sistema es lo que constituye el lazo efectivo entre los 
+elementos fónicos y psíquicos en el interior de cada signo. 
+Aunque el significante y el significado, tomado cada uno aparte, sean puramente 
+negativos y diferenciales, su combinación es un hecho positivo; hasta es la única 
+especie de hechos que comporta la lengua, puesto que lo 
+propio de la institución lingüística es justamente el 
+mantener el paralelismo entre esos dos órdenes de 
+diferencias. (Saussure, 1989, p. 151[la cursiva es 
+nuestra]). 
+ 
+Entonces el signo es negativo en sus partes tomadas 
+separadamente, en la unión efectiva o, mejor dicho, la unión 
+efectiva de las mismas es un “hecho positivo”. El resultado 
+final o el producto de las negaciones constituye algo positivo. 
+El 
+signo llega a ser positivo por las negaciones que establece con 
+otros elementos del sistema, principalmente, por dos razones: 
+1) no tiene un valor en sí, esto es, una cualidad interna que lo 
+determine o diferencie a priori y 2) afirma su positividad negando 
+a los demás. Tomemos el caso de la letra A que es A 
+porque se 
+opone a B, C, no siendo ni B ni C. 
+De esta manera, cuando al principio todo es relativo, 
+negativo, por  oposición, llegando  al final de  capítulo IV, 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes… 
+N° 16. Segundo Semestre de 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Saussure expone la mencionada positividad del signo. De 
+oposiciones abstractas y meras negaciones surge, o deviene, el 
+proceso de valoración-identificación de los signos, que es un 
+hecho positivo. A se afirma, negando a las demás letras. Y este 
+rasgo o particular característica que Saussure le atribuye al 
+signo no hace sino emparentar su teoría con la filosofía de 
+Hegel. 
+En el juego o lucha de oposiciones dentro del sistema el 
+signo logra o alcanza, vamos a decir, su máximo nivel de 
+negatividad. A es A, porque no es B, C, D, etc. Pero, 
+paradójicamente, este grado de negatividad, llevado a su límite, 
+produce la positividad del mismo. Entonces A es igual a A, 
+afirmativamente, efectivamente, resultado de la unión e 
+identidad del significado y significante y constituyéndose como 
+afirmación superadora de las negaciones previas. 
+Hay que destacar el hecho de que Saussure solo dedica un 
+párrafo –ya citado– a esta cuestión, lo que habilita múltiples 
+interpretaciones.14    La  lengua  es  un  sistema  de  diferencias,  en 
+principio, pero no por esa razón los signos son absolutamente 
+negativos. Lo son, por supuesto, pero separadamente 
+(significado y significante), es decir, aislados y considerados 
+unilateralmente, no tomados como una unidad. En su unión 
+final, el resultado es positivo. 
+Podría parecer ambiguo, o una contradicción, sin embargo, 
+la 
+lógica hegeliana nos permite y brinda la posibilidad de superar 
+esta suerte de dicotomía entre la oposición 
+ 
+14 Su intención es llegar a establecer la tesis de que la lengua produce forma y no sustancia. 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+negativo/positiva    del    signo.    La    cuestión    no    ha    sido 
+prácticamente abordada y resulta, desde luego, sumamente 
+interesante. 
+No podríamos afirmar tajantemente que la naturaleza del 
+signo o es negativa o es positiva. Sino que, en principio, tiene 
+una carga especialmente negativa, cuando se aíslan sus partes 
+constitutivas o cuando se hace hincapié en las posiciones 
+relativas dentro de un sistema; pero, a su vez, el signo en su 
+totalidad, su verdadera identidad, y consiguientemente su valor, es 
+positivo, como decíamos por la afirmación que deviene de la 
+negatividad. En efecto, y para finalizar este eje, planteamos que el 
+signo saussureano es dual al nivel de significado y significante 
+(en su unidad), y en el sentido de que es, a la vez, –¿no es muy 
+atrevido decir dialécticamente? – negativo y positivo (como 
+formante de un sistema). 
+ 
+6. Lengua y sistema 
+ 
+Resta aclarar, ahora, llegados a este punto, la cuestión de 
+lengua y sistema. Esta es abordada por Hegel en una breve 
+afirmación, que adquiere, sin embargo, importancia capital en 
+lo 
+que supone la constitución de la venidera lingüística 
+saussureana: “die Rede und ihr System, die Sprache” [el habla y su sistema, 
+la lengua] (Hegel, 2005, p. 503). Coseriu (1977) explica que dicha 
+frase es citada por Madvig: 
+Saussure llegó a Hegel, probablemente, a través de Madvig. 
+Este […] hace referencia a Hegel, Enzyklopedie, § 459, y valora 
+elogiosamente lo que ahí se dice sobre el lenguaje. 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes… 
+N° 16. Segundo Semestre de 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Señalemos, además, que, precisamente en el parágrafo 
+hegeliano aducido por Madvig, aparece también la 
+distinción entre lengua y habla (que yo sepa, por primera vez de 
+forma expresa, en la historia de la teoría lingüística): «die Rede und ihr 
+System, die Sprache» («el habla y su sistema, la lengua»). 
+(Coseriu, 1977, p. 57 [la cursiva es nuestra]). 
+Se valora a Saussure especialmente por el otorgamiento de la 
+cientificidad al campo de la Lingüística, entre otras cosas, 
+debido a la proposición de un objeto de estudio y por 
+establecer un sistema de forma acabada. Sin embargo, como ya 
+vimos, la cuestión de la sistematicidad no aparece por primera 
+vez en sus escritos. Dado que en el Curso las referencias al 
+sistema    de    la    lengua   abundan,15       nos   permitimos   citar 
+sencillamente la definición de lengua: 
+Mientras que el lenguaje es heterogéneo, la lengua así 
+delimitada es de naturaleza homogénea: es un sistema de signos 
+en el 
+que sólo es esencial la unión del sentido y de la imagen 
+acústica, y donde las dos partes del signo son igualmente 
+psíquicas (Saussure, 1989, p. 31 [la cursiva es nuestra]). 
+En la nota 1 del presente trabajo hacíamos referencia a que 
+Hegel es, por antonomasia, el filósofo de los sistemas. 
+Entonces, ahora, en paralelo a la proposición de sistematicidad de 
+la lengua saussureana, resulta adecuado traer a colación el § 14 de 
+la Enciclopedia: 
+La ciencia de este [lo absoluto] es esencialmente sistema, 
+porque lo verdadero solo es desarrollándose dentro de sí 
+como concreto y    tomándose  y reteniéndose  [todo]  junto en 
+ 
+15 Ver eje 5: ‘El valor del signo. Naturaleza negativa y positiva’. 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+ 
+ 
+unidad, es decir, solo es como totalidad (Hegel, 2005, p. 117 
+[la 
+cursiva es nuestra]). 
+ 
+Y en la nota a dicho parágrafo, Hegel afirma: “un filosofar 
+sin sistema no puede ser nada científico (…) Un contenido 
+sólo se justifica como momento del todo; fuera de éste es una 
+suposición infundada o certeza subjetiva” (Hegel, 2005, p. 
+117).16 
+Para finalizar, resta decir que los aportes de Hegel, breves 
+pero profundos, constituyen una influencia directa en la teoría 
+saussureana del signo. Las coincidencias son evidentes e 
+innegables. El hecho de poder explicitarlas nos permite, en 
+principio, observar aquellas continuidades que las teorías 
+presentan. En especial si tenemos en cuenta, como bien 
+sostiene Coseriu (1977), que ha ocurrido un fenómeno 
+particular en el estudio de Saussure: se lo ha considerado de 
+forma ahistórica, en el sentido de que hasta la actualidad se ha 
+estudiado “solo en sus relaciones con la lingüística ulterior y 
+como punto de partida para una nueva lingüística”; cuando su 
+teoría, además, es en gran medida el “punto final de una 
+tradición” (1977, p. 244). 
+ 
+ 
+ 
+16 En el “Prólogo” al Curso, Amado Alonso, refiriéndose a la concepción sistemática de 
+Saussure, afirma: 
+Todo lo que no es el sistema mismo es externo a la lengua: en la sincronía, la actividad espiritual y 
+físico-fisiológica de los hablantes; en la diacronía, todas las relaciones que 
+puedan existir entre la historia de una lengua (como mero sistema de signos) 
+y la historia cultural del pueblo. Esas relaciones podrán 
+ser muy importantes, 
+pero sólo se admiten en calidad de conocimientos ilustrativos y sobreañadidos 
+(Alonso, 1989, p. xiv [la cursiva es nuestra]). 
+Matías Bircher. El lamento de Hegel y la voluntad de Saussure: Aportes… 
+N° 16. Segundo Semestre de 2022 
+ 
+ 
+ 
+ 
+Por esta razón, establecer lazos con teorías anteriores 
+permite habilitar nuevos discursos dialógicos, re-pensar ciertos 
+términos (pongamos por ejemplo el caso de “arbitrariedad” o 
+el 
+de “inmotivación”) y, específicamente, en este trabajo, como ya se 
+ha aclarado oportunamente, plantear lineamientos para una 
+interpretación hegeliana del signo saussureano. 
+ 
+ 
+Referencias bibliográficas 
+Benavides, C. (2015). “Notas para una aproximación al sistema lógico 
+especulativo de Hegel”. Manuel Berrón, Griselda 
+Parera y Sol Yuan 
+(Comps.) Actas del XVII Congreso  
+Nacional de Filosofía. 
+Santa 
+Fe. 
+http://www.afra.org.ar/wp-content/uploads/2016/06/public 
+acio%cc%81n-2017.pdf 
+Coseriu, E. (1977). Tradición y novedad en la ciencia del lenguaje. 
+Estudios de historia de la lingüística. Madrid: Gredos. 
+Derrida, J. (1994). “El pozo y la pirámide” en Márgenes de la filosofía. 
+Madrid: Cátedra. 
+Hegel, G.W.F. (2005). Enciclopedia de las ciencias filosóficas. 
+Edición, introducción y notas de Ramón Valls Plana. Madrid: 
+Alianza Editorial. 
+Hegel, G.W.F. (2013). Ciencia de la Lógica. Traducción de Augusta 
+Algranati y Rodolfo Mondolfo y “Prólogo” de Rodolfo Mondolfo. 
+Ciudad Autónoma de Buenos Aires: Las cuarenta. 
+Leona, P. (2012). “Saussure. La lingüística estructural”. Problemas del 
+lenguaje y la comunicación. Ciudad Autónoma de Buenos Aires: 
+Nueva Librería. 
+Saussure, F. (1989). Curso de lingüística general. Traducción, prólogo 
+y notas de Amado Alonso. Madrid: Alianza Editorial. 
+Vilarnovo, A. (2008 [1989]). “Sobre la influencia de Hegel en 
+Saussure: la naturaleza del signo lingüístico”. Revista Rilce, 5 (1), 
+119- 129. 
+ 
+Fecha de recepción: 11/05/2022 
+Fecha de aprobación: 18/11/2022 

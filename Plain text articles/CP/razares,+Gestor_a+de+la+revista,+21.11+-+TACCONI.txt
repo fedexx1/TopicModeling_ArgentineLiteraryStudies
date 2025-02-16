@@ -1,0 +1,450 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+LOS ÚLTIMOS DE LA FILA: UNA REVISIÓN DE
+SUFIJOS VERBALES EN MAKÁ (MATAGUAYA)
+e lasts in line: a revision of verbal suﬃxes in Maká
+(Mataguayan)
+Tacconi, Temis Lucía
+ Temis Lucía Tacconi *
+temis.tacconi@gmail.com
+Universidad de Buenos Aires, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 21, e2111, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 07/07/23
+Aprobación: 26/07/23
+URL: http://portal.amelica.org/ameli/journal/785/7854257014/
+DOI: https://doi.org/10.30972/clt.0216904
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: En este artículo realizamos una revisión de un
+conjunto de morfemas del maká (familia mataguaya) que fueron
+clasiﬁcados como clíticos en descripciones anteriores de la lengua
+(Gerzenstein, 1994, p. 117). Los datos recogidos de primera
+mano en la última década echan luz sobre diversos aspectos de
+este conjunto de morfemas que nos permiten postular que son
+en realidad aﬁjos con distintos valores semánticos. Como se
+verá a lo largo del artículo, estos morfemas presentan algunas
+de las características prototípicas de los clíticos (Spencer y
+Luís, 2012; Haspelmath y Sims, 2010), pero también presentan
+características propias de los aﬁjos. Asimismo, si bien todos estos
+morfemas tienen una distribución similar, poseen funciones
+semánticas muy diversas: dirección, locación, aspecto, entre
+otros. En este artículo proponemos una clasiﬁcación exhaustiva
+de estos morfemas que toma en consideración tanto su forma
+como su función y signiﬁcado. Para ello, recolectamos datos
+mediante la técnica de elicitación de oraciones y de grabación
+de relatos. Asimismo, contrastamos los datos obtenidos con los
+datos de segunda mano presentes en gramáticas, diccionarios y
+cuentos en la lengua vernácula. Esto nos permitió establecer que
+los morfemas bajo estudio están más cerca de los aﬁjos que de
+los clíticos prototípicos. A su vez, clasiﬁcamos el conjunto de
+morfemas según su valor semántico en locativos, direccionales y
+aspectuales.
+Palabras clave: aﬁjos, clíticos, direccionales, aspecto, maká, Gran
+Chaco.
+Abstract: is article presents a revision of a set of morphemes
+from Maká (Mataguayan family) that were classiﬁed as clitics
+in previous descriptions of the language (Gerzenstein, 1994, p.
+117). e ﬁrst-hand data, collected in the last decade, shed light
+on various aspects of this set of morphemes that allow us to
+postulate that they are actually aﬃxes (not clitics) with diﬀerent
+semantic values. As will be seen throughout the article, these
+morphemes present some of the prototypical characteristics of
+clitics (Spencer and Luís, 2012; Haspelmath and Sims, 2010),
+but they also present characteristics of aﬃxes. Likewise, although
+all these morphemes have a similar distribution, they have very
+diverse semantic functions: directional, locative, aspect, among
+others. In this article we propose an exhaustive classiﬁcation of
+these morphemes that takes into account both their form, their
+function and their meaning. To do this, we collected data using
+Cuadernos de Literatura, 2023, núm. 21, e2111, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+the technique of sentence elicitation and storytelling. We also
+contrast the data obtained with the second-hand data present in
+grammars, dictionaries and stories in the language. is allowed
+us to conclude that the morphemes under study are closer to
+aﬃxes than to prototypical clitics. In addition, we classify the
+set of morphemes according to their semantic value as locative,
+directional, reciprocal and aspectual.
+Keywords: aﬃxes, clitics; directionals; aspect; Maká; Gran
+Chaco region.
+Na pa’ateec dehuataxaatac. Da nmitaguec na pa’ateec neraxanaxacolec na na’aqtac ndaxacnahua maká la’aqtaqa
+(Mataguaya) (título en qom)
+Toj ihi lapes: titetsan ihiojfwas totsonhay toj ihi lapes tokhotejlo ihioj, tolhomtes ihi maká (Mataguaya) (título en wichí)
+Ana>maxare pa>aatec quena ỹo>viiquetañii: na>ajnaxanaxac quema> no>qotaxanaxatquena na>qaatqa ana>maq maká
+(mataguaya) (título en moqoit)
+1. Introducción
+La etiqueta “clítico” tiene dos acepciones o posibles interpretaciones. Por un lado, remite a aquellos elementos
+de las lenguas que no tienen acento propio y, por tanto, necesitan apoyarse en un elemento anﬁtrión. Se
+diferencian de los aﬁjos por tener una mayor libertad de movimiento dentro de la oración. Por otro lado,
+los clíticos pueden ser deﬁnidos de una manera mucho más especíﬁca que contempla más aspectos, como
+su nivel de integración fonológica, la o las clases de palabras en las que puede apoyarse, etc. (Spencer y Luís,
+2012; Haspelmath y Sims, 2010).
+El objetivo de este artículo es discutir el estatus de un conjunto de ocho morfemas del maká que fueron
+clasiﬁcados como clíticos en descripciones anteriores (Gerzenstein, 1994).1 Para ello, proponemos una
+revisión exhaustiva de las características formales y semánticas de estos ocho morfemas y formulamos una
+clasiﬁcación de estos que contempla aspectos funcionales. Asimismo, esto nos permitirá compararlos con
+elementos similares de otras lenguas de la misma familia.
+1.1. Objetivos
+El objetivo central de este artículo es, como señalamos, revisar el conjunto de ocho morfemas llamados
+“clíticos” en la tradición descriptiva de la lengua maká (Gerzenstein, 1994) y analizar si cumplen con las
+características canónicas que deben presentar los clíticos de acuerdo con la bibliografía teórica (Spencer and
+Luís, 2012; Haspelmath y Sims, 2010). Así también, buscamos determinar su función, forma y distribución
+Notas de autor
+*
+Temis Lucía Tacconi es Doctora en Letras con orientación en Lingüística por la Universidad de Buenos Aires (UBA). Desarrolla su investigación
+sobre diversos aspectos de la morfosintaxis de la lengua maká (mataguaya) en el marco de diversos proyectos ﬁnanciados por la UBA y la Agencia
+Nacional de Promoción Cientíﬁca y Tecnológica. Obtuvo las becas doctoral y posdoctoral del Consejo Nacional de Investigaciones Cientíﬁcas y
+Técnicas (CONICET). Ha publicado en diversos libros y revistas de la especialidad. Se ha desempeñado como Secretaria Académica del Instituto
+de Lingüística de la Facultad de Filosofía y Letras (UBA) y actualmente es docente de lingüística y de lengua española en las carreras de Ciencias
+Antropológicas (UBA) y Traductorado en inglés (UBA y ENSLV Spangenberg) respectivamente.
+Temis Lucía Tacconi. LOS ÚLTIMOS DE LA FILA: UNA REVISIÓN DE SUFIJOS VERBALES EN MAKÁ
+(MATAGUAY...
+PDF generado a partir de XML-JATS4R
+especíﬁcas. De esta manera, se intentará establecer si una clasiﬁcación funcional resulta más útil en la
+descripción de esta lengua tanto con ﬁnes comparativos como descriptivos en sí mismos.
+Así pretendemos dar respuesta al interrogante de si estos elementos se acercan de alguna manera a sus
+cognados en otras lenguas de la familia y qué rasgos son relevantes a la hora de hacer un trabajo comparativo
+con lenguas de la familia o el área.
+También intentaremos establecer si la etiqueta “clítico” es de utilidad en la descripción de este conjunto
+de morfemas.
+1.2. Presentación de la lengua: características sociolingüísticas y gramaticales
+La lengua maká pertenece a la familia lingüística mataguaya, al igual que el chorote, el wichí y el nivaclé.
+Esta familia de lenguas es originaria de la zona del Gran Chaco que abarca partes de Argentina, Paraguay,
+Bolivia y Brasil. Actualmente, residen en tres comunidades principales en Paraguay: Corumba Kué (Mariano
+Roque Alonso); Qemkuket (Falcón) e Ita Paso. Las tres comunidades responden a un mismo líder. Según
+los últimos censos y de acuerdo a las declaraciones del líder, en la actualidad son aproximadamente 2000
+hablantes. En cuanto a las características sociolingüísticas del grupo, la mayoría de las mujeres y niños en edad
+preescolar son en su mayoría monolingües. A partir de la escuela primaria los niños y niñas adquieren también
+el español y el guaraní como segundas lenguas, por lo que la situación para los adultos también cambia con
+el tiempo. En cuanto a los hombres, estos presentan distintos grados de bilingüismo (español, guaraní) en
+adultos. La lengua vernácula es vehículo de comunicación dentro de las comunidades y goza de gran vitalidad.
+La comunidad posee una fuerte conciencia lingüística que se maniﬁesta en acciones concretas por defender
+su lengua y su cultura.
+Desde el punto de vista tipológico, el maká es una lengua aglutinante. Como la mayoría de las lenguas
+chaqueñas, es un tipo de lengua con marcación en el núcleo que carece de adposiciones.
+Con respecto a las características fonológicas de la lengua, posee 27 fonemas segmentales, veintidós
+consonantes y cinco vocales. Cualquiera de ellos puede ocupar la posición inicial, excepto /x/. En posición
+ﬁnal no ocurren ni /h/ ni consonantes glotalizadas. Los tipos del maká son V, C, VC, CV, CVC, CCV y
+CCVC. El acento de intensidad no es distintivo dado que aparece siempre en la última sílaba de la palabra
+(Gerzenstein, 1994 p. 39-40).
+Los nombres presentan la distinción entre inalienables y alienables por medio de preﬁjos que señalan 1°,
+2° , 3° y 4° (1° plural inclusivo) y persona indeterminada (‘de alguien’). El número y el género se indican en el
+nombre mediante suﬁjos. El género marcado es el femenino, aunque este se indica solo en algunos nombres
+que reﬁeren a seres vivos o atributos de estos. En la mayoría de los nombres, el género es inherente y se explicita
+mediante la concordancia con los determinantes demostrativos.
+El verbo no presenta marca gramatical de tiempo. Por otra parte, la distinción aspectual neutral versus
+progresivo se marca opcionalmente por medio de un morfema preverbal de aspecto progresivo (mee) que
+es incompatible con verbos estativos (Gerzenstein, 1994, pp. 197-200). Cuando la lectura del evento es
+progresiva, aparece dicho morfema libre. La única categoría gramatical codiﬁcada en el verbo es el modo. Esta
+se indica obligatoriamente en el verbo mediante dos conjuntos de preﬁjos que codiﬁcan la oposición entre
+REALIS e IRREALIS (Gerzenstein, 1994). El verbo exhibe una compleja morfología en el que se preﬁjan
+las marcas de persona y persona-número (en el caso de la primera persona plural exclusiva) cuyas diferentes
+conﬁguraciones fonológicas determinan 6 clases o conjugaciones: las clases 1, 2, 4 y 5 codiﬁcan sujetos de
+verbos intransitivos (S.), la 3 corresponde a verbos inactivos (S.) y las clases 6 y 6’ a participantes A. A su
+vez, todos los verbos de la clase 6 y algunos de la clase 6’ presentan conjunto de preﬁjos birreferenciales
+directo/inverso que codiﬁca simultáneamente al A y al P o T/R según una jerarquía de persona (1/4 >2>3)
+en la que solo uno de los participantes puede aparecer en la superﬁcie. Por otra parte, algunos de los verbos
+de la conjugación 6’ indexan al P de una construcción transitiva o al Tema/Recipiente de una ditransitiva
+Cuadernos de Literatura, 2023, núm. 21, e2111, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+mediante suﬁjos (Messineo, 2015). Estos índices ocurren sólo cuando un aplicativo habilita la incorporación
+de un argumento que funciona sintácticamente como un objeto y semánticamente como instrumental,
+locativo, benefactivo o direccional (Tacconi y Messineo, 2019). La mayoría de los verbos en maká tienen la
+posibilidad de introducir un nuevo participante a partir de su valencia mínima codiﬁcada en el preﬁjo de
+persona.
+En construcciones ditransitivas, el maká exhibe un patrón de escisión de P por medio del cual en los verbos
+transitivos típicos (conjugación 6 y algunos de la clase 6’) presentan un alineamiendo secundativo (P=R ≠
+T), mientras que en otros el alineamiento es indirectivo (P=T ≠ R).2
+El orden de los constituyentes en la cláusula simple declarativa con dos sintagmas nominales es SVO para
+las oraciones transitivas y VS para las intransitivas. Cuando el objeto es un pronombre independiente enfático
+de primera o segunda persona precede siempre al verbo (OV).3
+Con respecto a las clases de palabras, el maká no posee una clase deﬁnida de adjetivos y expresa estos
+valores semánticos a través de verbos atributivos que llevan preﬁjos pronominales muy similares a los preﬁjos
+posesivos de los sustantivos. Además, la lengua cuenta con verbos y sustantivos.
+En esta lengua, la construcción verbal es compleja y puede estar acompañada de diversos elementos. Por
+un lado, puede ser precedida por las marcas de personas y algunos preﬁjos derivativos. Por otro lado, puede
+ser seguida por suﬁjos derivativos, marcas de plural pronominal, marcas de objeto aplicado, aplicativo y
+ﬁnalmente los morfemas que analizamos en este trabajo (glosado como locativo, en el ejemplo 1), en ese
+orden. En (1) pueden observarse varios de estos formantes:
+(1)4
+Con respecto a la construcción verbal, el verbo maká presenta la siguiente estructura:
+PERS/MOD-(PERS/OBJ)-(REFL/DES)-RAÍZ-(CAUS)-(DES/PROSP)-(REFL)-PL.PR-APL-DIR/LOC/DUR/RCPR
+En este trabajo analizamos ocho morfemas verbales (-ﬁk’i, -ju’/-*jo’, -pham, -ji’, -jem/ -em, -tejem, -wetju ,
+-kii) que cierran la construcción verbal, ya que siempre se ubican en el último lugar. Los estudios previos
+consideraron que este grupo de morfemas eran clíticos (Gerzenstein, 1994, p. 117). En efecto, estos morfemas
+presentan algunas de las características prototípicas de los clíticos (Spencer y Luís, 2012) dado que no tienen
+acento propio, por lo que siempre aparecen ligados a un verbo, y siempre ocupan la última posición en la
+construcción verbal. Sin embargo, en otros aspectos se alejan de la deﬁnición prototípica, ya que conforman
+muchas veces una unidad de signiﬁcado no descomponible con la raíz verbal, probablemente debido a
+procesos diacrónicos. Además, a diferencia de la mayoría de los clíticos, no aparecen ligados a otras clases
+de palabras, es decir no se adjuntan “promiscuamente” a cualquier categoría léxica, en términos de Spencer
+y Luís (2012, p. 123); ni tienen una contraparte como palabra independiente. Asimismo, si bien todos
+estos morfemas tienen una distribución similar, poseen funciones muy diversas: algunos funcionan como
+direccionales o locativos, que especiﬁcan la dirección o locación del evento, e incluso la ubicación de los
+participantes del evento; mientras que otros expresan valores aspectuales. Como indicamos más arriba, el
+objetivo central de este artículo es proponer una clasiﬁcación más detallada de estos morfemas centrada en
+su función.
+Los datos utilizados en el análisis son de primera mano, obtenidos en sucesivos viajes de campo desde el
+año 2009. Estos fueron procesados en diferentes bases de datos y contrastados con los datos disponibles de
+Gerzenstein (1994) y con datos provenientes de cuadernillos publicados por el Ministerio de Educación de
+Paraguay (SIL, 2005).
+La lista de los morfemas analizados es la que se detalla, junto con su signiﬁcado básico, en la siguiente tabla:
+Temis Lucía Tacconi. LOS ÚLTIMOS DE LA FILA: UNA REVISIÓN DE SUFIJOS VERBALES EN MAKÁ
+(MATAGUAY...
+PDF generado a partir de XML-JATS4R
+Tabla 1. Lista de morfemas verbales. Fuente: Gerzenstein, 1994, p. 117-121.
+En términos de Gerzenstein, este “conjunto de clíticos (…) conforman con la raíz léxica una unidad
+semántica compacta y no admiten nominal que dependa directamente de ellos” (Gerzenstein, 1994, p. 117),
+es decir que no modiﬁcan la valencia del verbo como puede observarse en (2) con el morfema -pham suﬁjado
+al verbo -. ‘ir’.
+Estos morfemas pueden adjuntarse a verbos intransitivos, como los vistos en el ejemplo precedente, y a
+verbos transitivos (3) o transitivizados mediante aplicativos (4). En ambos ejemplos el elemento agregado
+(-pham en el primer caso y ﬁki’ en el segundo) señala dirección de la acción:
+2. Aspectos formales
+En este apartado caracterizaremos a los morfemas bajo análisis desde un punto de vista formal. Si bien
+tradicionalmente la etiqueta clíticos se ha utilizado para englobar a todos aquellos morfemas que no eran
+independientes pero tampoco cumplían con las características propias de los aﬁjos (Haspelmath y Sims,
+Cuadernos de Literatura, 2023, núm. 21, e2111, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+2010); existen criterios que nos permiten caracterizar de manera más ajustada estos elementos que carecen
+de acento propio. Según Haspelmath y Sims (2010) estos criterios son: libertad de selección de anﬁtrión;
+libertad de movimiento; menor integración prosódica: los aﬁjos siempre están dentro del dominio del acento
+de la palabra, pero los clíticos pueden o no estar dentro de ese dominio; inclusión en el dominio de una
+regla fonológica: reglas morfofonológicas que operan dentro del domino de la forma de palabra pero no
+dentro del grupo clítico; inexistencia de alternancias morfofonológicas o supleciones; y la combinación de
+clítico-anﬁtrión no tiene signiﬁcados idiosincráticos. A continuación veremos que los morfemas analizados
+no cumplen completamente con estos criterios.
+Libertad de selección de anﬁtrión: los clíticos en maká no parecen seleccionar libremente a su anﬁtrión.
+Siempre van aﬁjados a verbos. La única excepción, registrada por Gerzenstein (1994), se produce cuando se
+aﬁjan a adverbios. Sin embargo, la clase de adverbios a los que aparecen suﬁjados es una clase particular ya
+que preﬁja marcas pronominales de persona, al igual que los verbos. Es decir, son, en términos de Gerzenstein
+adverbios verbalizados, “verbos que denotan movimiento real o metafórico y que añaden (combinan) a
+este signiﬁcado rasgos adverbiales de modo”, y no adverbios propiamente dichos (1994, p. 190-192). A
+continuación vemos algunos ejemplos:
+Fuera de estos adverbios verbalizados, no encontramos estos morfemas ligados a otra clase de palabras en
+nuestros datos; por lo tanto en cuanto a este parámetro podemos decir que no lo cumplen.
+Libertad de movimiento: en maká, estos morfemas no pueden moverse libremente en la oración como
+sucede, por ejemplo, con los clíticos pronominales del español. Ocupan obligatoriamente el último lugar en
+la estructura morfológica verbal, aun cuando el verbo lleve otros suﬁjos o preﬁjos, estos morfemas ocupan
+siempre el último lugar en la estructura verbal y van siempre aﬁjados al verbo. En el ejemplo (7) observamos
+que, además de haber un aplicativo benefactivo con su correspondiente marca de objeto, hay un morfema
+locativo que indica que el agua está en un recipiente o contenida dentro de un lugar:
+En cuanto a este segundo criterio, estos morfemas del maká bajo análisis tampoco lo cumplen ya que su
+posición es obligatoria.
+Menor integración prosódica: este criterio establece que los aﬁjos siempre están dentro del dominio del
+acento de la palabra, mientras que los clíticos pueden o no estar dentro de ese dominio. Los morfemas
+analizados del maká están completamente integrados prosódicamente, dado que, al ocupar la posición ﬁnal
+en la palabra, reciben el acento ﬁnal de esta (recordemos que las palabras en maká llevan el acento principal
+en la última sílaba, cuando hay uno de estos morfemas en el verbo, el acento recae sobre este):
+Temis Lucía Tacconi. LOS ÚLTIMOS DE LA FILA: UNA REVISIÓN DE SUFIJOS VERBALES EN MAKÁ
+(MATAGUAY...
+PDF generado a partir de XML-JATS4R
+Según Haspelmath y Sims (2010), los clíticos pueden estar fuera del dominio de una regla fonológica: reglas
+morfofonológicas que operan dentro del domino de la forma de palabra pero no dentro del grupo clítico.
+Este criterio tampoco parece cumplirse para los morfemas analizados del maká. En esta lengua, por ejemplo,
+la oclusión laríngea se elide cuando se añaden suﬁjos; pero no ocurre cuando, en cambio, hay un límite entre
+palabras. Véase en el ejemplo (9) en el que, al añadir el suﬁjo de plural, cae la oclusión:
+Esto fenómeno también se produce con la presencia de los morfemas que tratamos en este artículo, como
+vemos en (10):
+Según los criterios enumerados arriba, los clíticos no disparan ni sufren alternancias morfofonológicas o
+supleciones. En maká, por el contrario, estos formantes pueden disparar alternancias morfofonológicas en la
+base a la que se adjuntan, como observamos en (11), donde se simpliﬁca la vocal /e/:
+Otro criterio indica que la combinación de clítico-anﬁtrión no tiene signiﬁcados idiosincráticos. En maká,
+la combinación entre la base y estos morfemas sí da lugar a signiﬁcados idiosincráticos. Como se puede
+observar en los ejemplos (12) y (13) donde la misma base con un morfema direccional o una aspectual forman
+nuevos lexemas con signiﬁcados idiosincráticos:
+Cuadernos de Literatura, 2023, núm. 21, e2111, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Sin embargo, a pesar de constituir una unidad semántica, en muchos casos todavía es posible dividir base
+y aﬁjo para insertar suﬁjos derivativos, suﬁjos ﬂexivos de plural, etc. Existen incontables combinaciones de
+verbos combinados con los suﬁjos que aquí tratamos con signiﬁcado idiosincrático, así como de verbos donde
+es posible reconocer el suﬁjo, pero en los que la base ya no es transparente.
+En resumen, a pesar de que los elementos analizados cumplen con el requisito de no tener acento propio
+y, por lo tanto, aparecer siempre en el discurso apoyados en una palabra anﬁtrión, no parecen cumplir
+completamente con los criterios propuestos por Haspelmath y Sims (2010) para determinar que un elemento
+es un clítico:
+Tabla 2. Criterios para determinar clíticos en maká
+El único indicio que nos lleva a pensar en estos formantes como clíticos es que pueden agregarse, en muchos
+casos, después de la ﬂexión de número. En ese sentido, pueden parecer más externos a la palabra de lo que
+sería un aﬁjo.
+3. Aspectos semánticos
+3.1. Los “clíticos” maká uno por uno
+Si analizamos estos morfemas desde un punto de vista semántico, también observamos que su signiﬁcado es
+muy disímil entre ellos y que, por esto mismo, cumplen funciones muy diferentes. Pueden ser clasiﬁcados
+en tres grandes grupos: direccionales/locativos, recíproco y marca de aspecto durativo, como se muestra en
+la siguiente tabla 3.
+Temis Lucía Tacconi. LOS ÚLTIMOS DE LA FILA: UNA REVISIÓN DE SUFIJOS VERBALES EN MAKÁ
+(MATAGUAY...
+PDF generado a partir de XML-JATS4R
+Tabla 3. Clasiﬁcación semántica de los clíticos
+A continuación detallamos la función y la semántica de cada uno de estos elementos.
+3.1 Direccionales/Locativos
+El primer grupo de suﬁjos se adjunta a verbos básicos de posición como -n- ‘estar en posición vertical’;
+-w- ‘estar en posición no vertical’ que para aparecer en el discurso requieren un aplicativo o un locativo o
+direccional obligatoriamente, o verbos de movimiento como -k- ‘ir’ o 
+ ‘subir’. Con los primeros tienen
+una lectura estativa, mientras que en combinación con los segundos señalan dirección de la trayectoria o
+movimiento. En todos los casos, y tanto para verbos transitivos como intransitivos, los direccionales indican
+la posición o la dirección del argumento sujeto. En este sentido presentan una diferencia con los aplicativos
+que, justamente por incorporar un O, señalan muchas veces la posición o la afectación de ese objeto.
+En los siguientes ejemplos se pueden contrastar ambos usos:
+•
+-ﬁk’i ‘afuera’
+•
+-ju’ ‘abajo’
+Cuadernos de Literatura, 2023, núm. 21, e2111, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+•
+-pham ‘arriba’
+•
+-ji’ ‘dentro’ ‘en’
+Este suﬁjo tiene una muy baja frecuencia en nuestros datos. Gerzenstein proporciona solo un ejemplo, muy
+similar, del agua contenida en un recipiente. Este morfema es muy cercano al aplicativo -ji casi homófono,
+pero sin oclusión, de muy alta frecuencia y que forma parte también de muchos lexemas nominales con la
+forma -jii. Por lo que cabría preguntarse si no son variantes de un mismo morfema o si no están tendiendo
+a asimilarse:
+•
+-tejem ‘a través’/ ‘en’
+En cuanto a -jem y -tejem parecen tener signiﬁcados emparentados. Mientras que -jem señala dirección ‘a
+través’ y es utilizado con verbos como ‘romper’ para señalar ‘división en dos partes’ del objeto; -tejem es un
+locativo con el signiﬁcado de ‘a través’ o ‘en’ pero con la connotación de atravesar un lugar en el que se está.
+Temis Lucía Tacconi. LOS ÚLTIMOS DE LA FILA: UNA REVISIÓN DE SUFIJOS VERBALES EN MAKÁ
+(MATAGUAY...
+PDF generado a partir de XML-JATS4R
+3.2 Recíproco
+La manera de expresar la reciprocidad varía de lengua a lengua. Algunas lenguas se valen de construcciones
+sintácticas mientras que otras pueden expresar este modo de acción morfológicamente. Además, el recíproco
+y el reﬂexivo expresan signiﬁcados conceptualmente similares en los que el agente y el paciente son
+correferenciales y ambos argumentos (sujeto y objeto) reciben ambos papeles temáticos (paciente y agente),
+es por este motivo que en muchas lenguas reﬂexivo y recíproco se expresan a través del mismo morfema o
+construcción sintáctica (Evans, 2006). En el caso del maká, el recíproco se expresa a través del suﬁjo 
+ que
+funciona como un marcador de reciprocidad que disminuye la valencia y presenta siempre un sujeto plural,
+como podemos observar en los ejemplos (29) y (30) en el contraste entre los verbos -ekumi’ ‘agarrar’ y -efey
+‘atropellar’ en sus variantes sin y con el suﬁjo 
+.
+Cuadernos de Literatura, 2023, núm. 21, e2111, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Este morfema recíproco parece estar relacionado con el aplicativo 
+, que señala posición ‘frente a’. Es
+destacable el uso del recíproco en algunos contextos con sujeto singular y objeto plural:
+Un uso similar registra Nercesian (2014, p. 246-247) con una forma de recíproco que no disminuye la
+valencia “cuando la actividad involucra partes del cuerpo”:
+Pero en estos casos no hay un marcador explícito de reciprocidad sino que el marcador plural habilita la
+lectura recíproca.
+En algunas lenguas, la cercanía con categorías similares como el reﬂexivo hace que esas categorías se
+codiﬁquen mediante el mismo morfema. En maká el recíproco parece alternar en su forma suﬁjal con un
+circunﬁjo que posee ambos valores: reﬂexivo y recíproco: wet/wen- 
+ y que exige marcas de persona de
+conjugación intransitiva:
+Reﬂexivo
+Recíproco
+3.3 Aspectual
+Finalmente, -kii y -ju’ requieren, a nuestro criterio, una consideración aparte. Según la descripción de
+Gerzenstein, “los clíticos ju’ y -kii se usan para marcar la pluralidad del sujeto en verbos intransitivos y la del
+objeto en verbos de transitividad reducida”, además -kii “indica incompatibilidad con un nominal objeto o
+acción reiterada y sostenida” (1994, p. 121). Sin embargo, según nuestros datos y en la comparación con datos
+de otras lenguas, estos morfemas parecerían indicar aspecto. Consideramos que es en realidad un marcador
+aspectual iterativo, distributivo o durativo (signiﬁcados que es frecuente encontrar uniﬁcados en un mismo
+morfema en otras lenguas también, véase Heine y Kuteva, 2002) dado que señalan en realidad número verbal
+Temis Lucía Tacconi. LOS ÚLTIMOS DE LA FILA: UNA REVISIÓN DE SUFIJOS VERBALES EN MAKÁ
+(MATAGUAY...
+PDF generado a partir de XML-JATS4R
+entendido como la expresión de la pluralidad del evento o de la extensión de este. Así, por ejemplo, podemos
+ver el contraste en el verbo -ejten ‘robar’ utilizado para un evento puntual y, con el morfema -kii, utilizado
+con valor imperfectivo o habitual. Lo mismo ocurre en el ejemplo (35) con el verbo wanat’in ‘esconderse’
+que tiene una lectura durativa con el morfema -kii.
+Además, encontramos ocurrencias del suﬁjo -ju’ con objetos singulares (recordemos que en descripciones
+previas se consideraba que marcaba plural del objeto), como en (37), donde señala que la acción (golpear en
+este caso) se realiza repetidas veces sobre un mismo objeto (cfr. con la misma oración con el objeto plural):
+Marca -ju’ con O sing
+Es muy frecuente también la aparición de objetos plurales sin este morfema acompañando al verbo:
+Sin marca -kii/-ju’ con O plural:
+Finalmente, en algunos casos si bien esta marcas aparecen con objeto plural, parecieran indicar una acción
+reiterada y no la pluralidad del objeto en sí:
+El morfema -kii tiene además una lectura distributiva:
+Cuadernos de Literatura, 2023, núm. 21, e2111, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+En algunos casos puede ser difícil establecer si la lectura es iterativa o distributiva:
+El suﬁjo aspectual -kii también presenta una similitud con el aplicativo -k’i que indica extensión en el
+espacio o en el tiempo. En chorote, lengua de la misma familia, el aplicativo -k’i tiene una multiplicidad
+de funciones: número verbal, distributivo y aplicativo que señala trayecto o movimiento extendido. Carol
+precisa que:
+frecuentemente no puede distinguirse cuándo -k‘i indica pluralidad de participantes y cuándo distribución del evento
+(o de los participantes) en distintos lugares. Una especulación sobre la relación entre la codiﬁcación de un trayecto y la
+distributividad es la siguiente: -k‘i codiﬁca la localización (del participante o del evento) en una serie de puntos, lo cual
+puede conceptualizarse como una distribución espacial a lo largo de un trayecto o bien como una distribución en varios
+participantes. (2011, p. 289)
+Asimismo, el autor argumenta que dos formas históricamente diferentes habrían conﬂuido en una. Esto
+nos permite pensar que esas dos formas diacrónicamente diferenciadas se mantienen como tal en maká pero
+su signiﬁcado es muy cercano o está tendiendo a confundirse, dado que en algunas ocasiones los hablantes
+vacilan con respecto a cuál es la forma correcta.
+En el caso del chorote, Carol (2011, p. 288) considera que la forma -k'i es un clítico ya que puede adjuntarse
+a diferentes clases de palabras (verbos y sustantivos). Como señalamos, esto no sucede en maká.
+Como hemos podido observar en los datos presentados, en términos funcionales, estos morfemas son muy
+diferentes, por lo que consideramos que una clasiﬁcación más exhaustiva que dé cuenta de estas diferencias
+puede enriquecer la descripción de la lengua.
+4. Conclusiones
+De acuerdo a las características vistas en los apartados anteriores, consideramos que estas partículas del maká
+pueden ser caracterizadas más fácilmente como aﬁjos direccionales, locativos, recíprocos y aspectuales, que
+como clíticos. Si bien es cierto que estas partículas no tienen acento propio, esta no es condición suﬁciente
+para considerarlas clíticos. Por otro lado, desde un punto de vista descriptivo, pareciera ser más adecuado
+Temis Lucía Tacconi. LOS ÚLTIMOS DE LA FILA: UNA REVISIÓN DE SUFIJOS VERBALES EN MAKÁ
+(MATAGUAY...
+PDF generado a partir de XML-JATS4R
+describirlas en términos de su función y no únicamente por sus características fonológicas. Es importante
+destacar, de todas formas, que en la comparación con otras lenguas de la familia podemos hipotetizar que hay
+un camino de gramaticalización y que cada lengua atraviesa un estadio diferente. Heine y Kuteva (2007, p.
+42) señalan que el proceso palabra > clítico > aﬁjo es frecuente en las lenguas del mundo. No sería extraño,
+entonces, que lenguas de la misma familia presenten distintos grados de gramaticalización de los morfemas
+descriptos en este trabajo.
+Proponemos, además, que una clasiﬁcación que tenga en cuenta o que priorice aspectos funcionales por
+sobre los meramente fonológicos o formales permitiría, al menos dentro de las lenguas mataguayas, hacer una
+comparación más provechosa entre las lenguas y dar claridad descriptiva.
+Referencias bibliográficas
+Carol, Javier. (2011). Lengua chorote (mataguayo). Estudio fonológico y morfosintáctico. Munich, LINCOM Europa.
+Evans, Nicholas. (2006). Who Said Polysynthetic Languages Avoid Subordination? Multiple Subordination Strategies
+in Dalabon. Australian Journal of Linguistics, 26(1), 31-58. https://doi.org/10.1080/07268600500531628
+Gerzenstein, Ana. (1994). El maká. Estudio descriptivo. Buenos Aires, Facultad de Filosofía y Letras de la Universidad
+de Buenos Aires.
+Haspelmath, Martin y Sims, Andrea. (2010). Understanding morphology. London, Hachette.
+Heine, Bernard y Kuteva, Tania. (2002). World Lexicon of Grammaticalization. Cambridge, Cambridge
+UniversityPress.
+Heine, Bernard y Kuteva, Tania. (2007). e genesis of grammar. A reconstruction. Oxford, Oxford University Press.
+Messineo, Cristina. (2015). Indexación y sistemas de alineamiento en maká (mataco-mataguayo). UniverSOS, 12,
+125-146. https://bitly.ws/UaCw
+Nercesian, Verónica. (2014). Wichi lhomtes. Estudio de la gramática y la interacción fonología-morfología-sintaxis-
+semántica. München, LINCOM.
+SIL. (2005). Pe' inqametets, witfaakanek 1-5. Los animales, libritos 1 a 5. Asunción, Ministerio de Educación y Cultura.
+Spencer, Andrew y Luís, Ana. (2012). e canonical clitic. En Dunstan Brown, Chumakina, Marina y Corbett,
+Greville (eds.), Canonical morphology and syntax (pp. 123-150). Oxford, Oxford University Press.
+Tacconi, Temis. (2013). Algunas observaciones sobre el orden de constituyentes en maká (mataco-mataguayo) con
+especial referencia a la FN y a la FV. En Fernández Garay, Ana; Censabella, Marisa y Malvestitti, Marisa (eds.),
+Lingüística amerindia. Contribuciones y perspectivas (pp. 139-150). Buenos Aires, Facultad de Filosofía y Letras
+de la Universidad de Buenos Aires.
+Tacconi, Temis y Messineo, Cristina. (2019). Construcciones aplicativas en maká: morfosintaxis y semántica. En
+Guerrero, Lilian (ed.), Adposiciones y elementos de su tipo (pp. 51-86). México, UNAM.
+Notas
+1 Gerzenstein (1994) establece una distinción entre dos conjuntos de morfemas que se adjuntan al verbo: posposiciones
+y clíticos. Ambos conjuntos están constituidos por morfemas que se suﬁjan al verbo: los del primer conjunto requieren
+un SN que depende de ellos, mientras que los del segundo no requieren SN. En una revisión de esta clasiﬁcación
+nosotros denominamos Aplicativos a los morfemas del primer grupo (véase Tacconi y Messineo, 2019). En este artículo
+discutimos la categoría del segundo conjunto.
+2 Véase Messineo (2015) para más detalles sobre patrones de alineamiento del maká.
+3 Véase Gerzenstein (1994) y Tacconi (2013).
+4 Abreviaturas utilizadas en las glosas: 1, 2, 3: primera, segunda y tercera persona; APL:DIR: aplicativo direccional;
+APL:LOC: aplicativo locativo; BEN: benefactivo; CAU: causativo; COORD: nexo coordinante; DEM: demostrativo;
+DIR: direccional; DUR: durativo; F: femenino; LOC: locativo; M: masculino; OBJ: índice pronominal de objeto;
+Cuadernos de Literatura, 2023, núm. 21, e2111, Junio-Septiembre, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+PL: plural; POS: poseedor; PRON: pronombre personal; REC: recipiente; RECP: recíproco; REFL: reﬂexivo; SUB:
+subordinante; SUJ: sujeto.

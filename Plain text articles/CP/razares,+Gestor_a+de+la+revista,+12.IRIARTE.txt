@@ -1,0 +1,634 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+LA POESÍA EMPIEZA DONDE HAY TENDENCIA.
+CUERPO Y POESÍA ENTRE 1937 Y 1997
+Poetry begins where tendency is found. Body and poetry
+between 1937 and 1997
+Iriarte, Ignacio
+ Ignacio Iriarte *
+iriartelignacio@gmail.com
+Universidad Nacional de Mar del Plata, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 20, e2012, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 15/03/23
+Aprobación: 10/04/23
+URL: http://portal.amelica.org/ameli/journal/785/7853965029/
+DOI: https://doi.org/10.30972/clt.0206632
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: En este texto analizo las relaciones entre poesía y
+cuerpo. En el primer apartado presento el tema a través de
+un ensayo de Vladimir Maiakovski. En el segundo me ocupo
+del sacriﬁcio en la poesía de José Lezama Lima. En el tercero
+conecto estas ideas con una tapa del diario Juventud Rebelde
+de diciembre de 1989, referida a la repatriación de los muertos
+cubanos en la guerra de Angola, y describo la formación de una
+teología política que articula cuerpo, poder soberano y guerra.
+En el cuarto apartado describo escritores cubanos de los años
+80 que rompieron con esa perspectiva abordando el cuerpo a
+través de una “inquietud de sí”. En las conclusiones retomo el
+recorrido, destaco la importancia de la poesía como marcadora
+de las tendencias de una época determinada y me pregunto por
+las posibilidades de extender el análisis a otras zonas de América
+Latina.
+Palabras clave: cuerpo, poesía, tendencia, soberanía, inquietud
+de sí.
+Abstract: In this text I analyze the relationships between poetry
+and body. In the ﬁrst section. I introduce the subject through
+an essay by Vladimir Maiakovski. In the second, I enquire into
+the topic of sacriﬁce in the poetry of José Lezama Lima. In the
+third, I connect these ideas with a cover of the Juventud Rebelde
+newspaper from December 1989, referring to the repatriation
+of the Cuban soldiers killed in the Angola war, and I describe
+the formation of a political theology that articulates the body,
+sovereign power and war. In the fourth section, I describe
+Cuban writers from the 1980s who switched that perspective by
+thinking about the body from a Foucauldian “care of the self”
+perspective. In the conclusions I highlight the importance of
+poetry as a marker of the tendencies of a certain period of time
+and reﬂect on the possibilities of extending this analysis to other
+areas of Latin America.
+Keywords: body, poetry, tendency, sovereign power, care of the
+self.
+Notas de autor
+*
+Ignacio Iriarte es Licenciado en Letras por la Universidad Nacional de Mar del Plata (UNMdP) y Doctor en Letras por la Universidad de Buenos
+Aires (UBA). Es Investigador Adjunto del Consejo Nacional de Investigaciones Cientíﬁcas y Técnicas (CONICET) y Profesor Adjunto en la
+Cuadernos de Literatura, 2023, núm. 20, e2012, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+1
+En este trabajo voy a explorar la relación de la poesía con el cuerpo. ¿Qué hace la poesía con el cuerpo, qué dice
+de él, pero también, en sentido inverso, qué hace el cuerpo con aquel discurso? ¿De qué modo se inﬂuyen?
+Desde mi punto de vista, solo se podría contestar estas preguntas pensándolas en términos históricos porque
+todo indica que la poesía y el uso de los cuerpos no son los mismos antes y después de la Revolución de
+Octubre, antes y después del muro de Berlín, antes y después de la invención del fonógrafo, antes y después
+de la difusión de la prensa escrita.
+Para pensar este tema, quisiera detenerme en algunas ideas de Vladimir Maiakovski, porque de ellas se
+puede extraer una cierta teoría sobre las relaciones entre poesía y cuerpo. En el ensayo Cómo se hacen los versos,
+Maiakovski hace observaciones agudas sobre el ritmo, el corte del verso, las palabras que se deben emplear,
+pero lo que me interesa es que conjuga todo esto con una forma particular de disponer el cuerpo. En un
+momento, menciona cinco elementos necesarios para escribir poemas, entre los que se encuentra el que cito
+a continuación:
+Tener montada la empresa y los elementos de producción. Una pluma, un lápiz, una máquina de escribir, un teléfono, un traje
+para poder ir a dormir a un hotel. Una bicicleta para ir a la redacción, una mesa, un paraguas para escribir bajo la lluvia, unos
+cuantos metros seguros de vivienda que permitan dar varios pasos para poder trabajar; relaciones con una oﬁcia de recortes
+para recibir materiales de acuerdo a los problemas que le interesan, una pipa o cigarrillos, etc. (Maiakovski, 1957, p. 203)
+En Un paraguas para Maiakovski. Futurismo, formalismo y revolución, Eugenio López Arriazu sostiene
+que la mención del paraguas es una parodia a la seriedad de este tipo de recomendaciones: “Todo muy serio
+y absurdamente esquemático, como lo revela, entre los instrumentos de producción y como al pasar, ‘un
+paraguas para escribir bajo la lluvia’. Maiakovski se ríe de sí mismo, del lenguaje económico/burocrático
+que pone en peligro su poesía” (2018, párr. 82). Para complementar esta lectura podríamos pensar que en
+ese paraguas está la resonancia de Lautréamont, que tanto jugo le sacaron los surrealistas, del encuentro
+fortuito de un paraguas con una máquina de coser. Pero aun si la intención del paraguas fuera la parodia,
+deberíamos decir que hay en ese texto un marcado interés por el cuerpo. Paródico o no, lo que dice Maiakovski
+es que el poeta debe ser un cuerpo que marcha: duerme en hoteles, anda en bicicleta y hasta en ciertas
+oportunidades necesita escribir bajo la lluvia. Más adelante, el escritor es explícito sobre esta cuestión: “Para
+escribir sobre un amor tranquilo, es recomendable viajar en el ómnibus número siete […]. Ese traqueteo
+repugnante matizará mejor que nada los encantos de la otra vida. El traqueteo es necesario como elemento
+comparativo” (Maiakovski, 1957, p. 215). Luego pone como ejemplo la composición de su poema contra
+Eugeni Esénin:
+He aquí la razón por la cual el verso sobre Esénin se fue deﬁniendo para mí en el corto trayecto entre el pasaje de Lubiánsky
+a la calle Miasnísky, cuando fui a devolver un dinero prestado. La calle Miasnísky fue el contraste brusco y necesario después
+de la soledad de mi cuarto. La calle inundada de gente contrastaba después de aquel silencio, con la exaltación y el ánimo de
+la multitud, el movimiento de los ómnibus, automóviles y tranvías en el marco desaﬁante de los avisos eléctricos, cortados
+por las ramas caprichosas de los árboles. (Maiakovski, 1957, p. 215)
+Para Maiakovski, la poesía se articula con un cuerpo que debe recorrer las calles de la ciudad. ¿No es
+eso, precisamente, lo que caracteriza buena parte de la poesía de la época? En cualquier caso, andar por la
+calle viendo el avance tecnológico y la aceleración de los movimientos es una de las claves del futurismo,
+de la misma manera que, para el escritor proletario, es necesario marchar con los obreros con el propósito
+de ponerse al servicio de la clase obrera. Maiakovski denomina a esto el “encargo social”. No se trata de
+UNMdP en la asignatura Literatura y cultura latinoamericanas I. Sus investigaciones se centran en la literatura latinoamericana y cubana de los siglos
+XX y XXI, enfocándose especialmente en Cuba. Entre sus publicaciones recientes, se encuentran Del Concilio de Trento al sida. Una historia del
+Barroco (2021) y, como editor, Puntuaciones sensibles. Figuras en la poesía latinoamericana (2022). Ha publicado, además, numerosos artículos en
+revistas especializadas. Es co-editor del sitio Caja de resonancia (https://cajaderesonancia.com/) y secretario de redacción de la revista El jardín de
+los poetas. Revista de teoría y crítica de poesía latinoamericana.
+Ignacio Iriarte. LA POESÍA EMPIEZA DONDE HAY TENDENCIA. CUERPO Y POESÍA ENTRE 1937 Y 1997
+PDF generado a partir de XML-JATS4R
+un pedido del gobierno ni tampoco de la clase, sino de aquello que el escritor puede descubrir al colocarse
+a la vanguardia: “Para comprender con justeza el encargo social, el poeta debe estar en el centro de los
+acontecimientos”; “Para el cumplimiento mejor del encargo social, debemos estar a la vanguardia de nuestra
+clase más progresista” (Maiakovski, 1957, p. 229). El encargo social es aquello que el poeta descubre y nombra
+por medio de esa lengua especíﬁca que es la de la poesía.
+Maiakovski articula esto con la palabra “tendencia”. Para López Arriazu, el concepto está tomado de la
+“orientación” de Yuri Tinianov: “Incluso Maiakovski utiliza una vez la palabra ‘orientación’ (установка /
+ustanovka/) como sinónimo de ‘tendencia’” (2018, párr. 70). El crítico añade que el concepto de orientación
+aparece en “La oda como género literario”, donde la deﬁne “no sólo [como] la dominante de una obra (o
+género), que colorea funcionalmente los factores subordinados, sino también [como] la función de la obra
+(o el género) en relación a la serie discursiva extraliteraria más cercana” (López Arriazu, 2018, párr. 70).
+¿No podríamos ver esto a partir de la relación de la poesía con el cuerpo y del modo en que el cuerpo
+impacta en la poesía? Como destaca López Arriazu, Maiakovski propone un ejemplo interesantísimo:
+La poesía empieza donde hay tendencia.
+A mi juicio, los versos que dicen ‘Salgo solo al camino’, son tendenciosos; se trata de la propaganda que hace el poeta para
+que las chicas lo acompañen. Sólo se aburre. ¡Oh! Saber darle la misma fuerza al verso que trate de problemas sociales como
+la fuerza que se pone en los versos íntimos, para llamar a unirse en una cooperativa… (Maiakovski, 1957, p. 202)
+El párrafo que aclara la potente sentencia anterior revela una idea de la tendencia que va más allá del encargo
+social. El texto que cita Maiakovski pertenece al poeta romántico Mijail Lermontov, completamente ajeno a
+los dilemas que se plantea el escritor después de la Revolución de Octubre. La tendencia se vincula con una
+forma de articular el cuerpo: para lograr la atención de las mujeres o para formar cooperativas en las fábricas,
+uniéndose los integrantes en un cuerpo colectivo.
+Si tomamos como modelo este microanálisis, podemos establecer diferencias en la poesía que están
+vinculadas con acomodos distintos del cuerpo. Así, el modernismo hispanoamericano se caracterizaría por
+una disposición determinada del cuerpo, o bien, para no ser tan abstractos, diríamos que el Rubén Darío de
+Prosas profanas piensa un erotismo que lo lleva a recorrer el mundo, como en “Divagación”. Esa tendencia
+comienza a declinar con Cantos de vida y esperanza, libro en el que empieza a pensar la poesía entramándola
+con la política a través de ese cuerpo para él clave que es el cisne. En esta línea, la vanguardia sería un cambio de
+foco: el poeta en la calle, con la lengua de la calle y la fragmentación acelerada de las ciudades, eso que podemos
+visualizar en Veinte poemas para ser leídos en el tranvía, pero también, en otra línea, en los nostálgicos paseos
+que Jorge Luis Borges realiza en Fervor de Buenos Aires. En poesía, la tendencia se podría pensar, entonces,
+como una articulación determinada del cuerpo con el lenguaje.
+2
+No voy a hacer una demostración tan prolija como la que pueden sugerir estas palabras; en lo que sigue me
+propongo presentar, más bien, algunos poemas latinoamericanos, la mayoría de ellos cubanos, en los que el
+cuerpo tiene una especial importancia. Primero me voy a detener en José Lezama Lima.
+En Lezama, el cuerpo tiene al menos dos dimensiones: por una parte, es un cuerpo erótico, como podemos
+ver en Paradiso, mientras que por la otra es un cuerpo atravesado por la idea religiosa del sacriﬁcio, como se
+desprende de poemas centrales como “Muerte de Narciso”, “Rapsodia para el mulo” y “Juan de Patmos ante
+la puerta latina”. En su literatura, estos dos componentes, el erotismo y la religiosidad, forman una dualidad
+que en apariencia es inseparable.
+Detengámonos en la primera estrofa de “Muerte de Narciso”:
+Dánae teje el tiempo dorado por el Nilo
+Cuadernos de Literatura, 2023, núm. 20, e2012, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Envolviendo los labios que pasaban-
+Entre labios y vuelos desligados.
+La mano o el labio o el pájaro nevaban.
+Era el círculo en nueve que se abría.
+Mano era sin sangre la seda que borraba
+La perfección que muere de rodillas
+Y en su celo se esconde y se divierte.
+(Lezama Lima, 1985, p. 13)
+Narciso todavía no descubrió el reﬂejo en el agua, pues, como dice unos versos después, “Vertical desde
+el mármol no miraba/ la frente que se abría en loto húmedo” (1985, p. 13). A pesar de esto, esta primera
+estrofa compone la escena que va a desarrollar en el poema. Narciso es “la perfección que muere de rodillas”,
+su reﬂejo es un “círculo en nieve que se abría”, la muerte es una “mano sin sangre la seda que borraba”. Se trata
+de una presentación dramática porque el destino del personaje está mencionado de entrada. Podemos quedar
+confusos con la oscuridad del texto, pero Lezama declara el ﬁnal desde el principio del poema. Y sin embargo,
+esta muerte segura, acentuada con el frío del reﬂejo y la seda sin sangre de la mano, está enmarcada con una
+serie de rasgos primaverales: Dánae, que fue o será fecundada por Zeus, el tiempo que teje y la mención del
+Nilo, que tiene un tiempo cíclico de inundación y retirada. Se trata de imágenes de la gestación, el crecimiento
+y la vida, la fertilidad y, también, claro está, cierto erotismo sublimado.
+La vida y la muerte, el cuerpo que vive y el cuerpo que muere, coexisten de entrada en el texto, como si
+Lezama propusiera un poema que se mueve de la misma forma que el Nilo, que pasa de la infertilidad del
+desierto a la inundación, que convierte la tierra en negra. Si nos despegamos del argumento, podemos decir
+que la muerte de Narciso, de rodillas frente a la imagen, permite la creación luminosa y centelleante del poema.
+Lezama lleva al personaje a la muerte para que nazca la poesía, siguiendo una ﬁgura sacriﬁcial.
+Los integrantes del grupo literario de Lezama, los origenistas, le atribuyeron este sentido para pensar el rol
+que cumplió en la poesía cubana. Escribe Cintio Vitier en Lo cubano en la poesía, que fue llamada “la Biblia”
+del origenismo:
+Así, no nos sorprendía, aunque es el verso más sorprendente con que haya empezado jamás un cubano un poema, el inicio
+lejanísimo y sin embargo familiar de su primer cuaderno, Muerte de Narciso (1937): ‘Dánae teje el tiempo dorado por el Nilo’.
+No nos sorprendía, era ya una familiaridad ganada sin esfuerzo por él y para todos, con el tiempo original de la fábula y, a
+través del cuerpo del poema, con la incorporación barroca de ese tiempo. Un tiempo original, es decir, un verdadero principio.
+Nuestra poesía, como si nada hubiera ocurrido, tomaba contacto, soñadoramente, con el anhelo mítico inmemorial que
+estaba en la imagen renacentista de la isla y, poniéndose al amparo de la virgen que es fecundada por el rayo de luz y de los
+pacientes oros de los transcursos naturales, comenzaba de nuevo matinalmente su discurso. (Vitier, 1998, p. 310)
+Como podemos notar, Vitier relega bastante la cuestión del erotismo, volcándola a la mención sublimada
+de una virgen fecundada por los rayos de Zeus. Nada dice, tampoco, de una sexualidad que otros intérpretes,
+como Severo Sarduy y Lorenzo García Vega, van a acentuar.1 En algunos trabajos críticos existe la pregunta
+de si el Narciso de Lezama se reconoce o no en el espejo. La cuestión es punzante porque, si no se reconoce,
+subrayaría que el joven se enamora de otro joven hermoso. Y es que la imagen de ese cuerpo arrodillado, que
+al principio se asemeja a una columna de mármol (“vertical desde el mármol no miraba”), ese cuerpo blanco,
+casi desnudo, es una ﬁguración gay. Es difícil no reconocerlo, pero lo cierto es que Vitier lo evita: la fábula de
+Narciso toma su fuerza de ese amor que “no osa decir su nombre”, lo que subraya su muerte, una muerte en
+silencio, sin que se escuchen palabras, en plena soledad, producida por el éxtasis de la imagen.
+No por esto la lectura de Vitier deja de ser central. Preﬁere silenciar la potencia erótica del mito, correrla
+a la ﬁgura sublimada de Dánae, para quedarse con el efecto inaugural que tiene “Muerte de Narciso” para la
+poesía cubana. Se trata de un texto que produce lo que podemos llamar una nueva causalidad. Pero notemos
+que la puesta en marcha de lo nuevo se realiza por medio de la muerte de alguien: por eso podemos decir que
+Lezama propone una poesía del cuerpo en tanto se trata de un cuerpo destinado al sacriﬁcio.
+Ignacio Iriarte. LA POESÍA EMPIEZA DONDE HAY TENDENCIA. CUERPO Y POESÍA ENTRE 1937 Y 1997
+PDF generado a partir de XML-JATS4R
+En sus ensayos posteriores, Lezama comprendió esto a partir del concepto de imagen. Guadalupe Silva
+propuso una lectura muy clara del término poniendo en relación las ideas del escritor cubano con los estudios
+de Georges Didi-Huberman y Hans Belting.2 El primero recuerda que la palabra imagen viene de “la antigua
+práctica romana de moldear bustos (imagines) a partir del rostro de los muertos” (Silva, 2019, p. 117). La
+imago “se realizaba colocando un molde de yeso sobre el rostro del cadáver y haciendo con él una máscara de
+cera, que luego era expuesta en el atrio de la casa. Esta imagen cumplía así una función jurídica, civil y ritual” y
+estaba allí “para rendir homenaje a los mayores, establecer el linaje de la familia y sostener su memoria. Era la
+máscara de la muerte, pero también el signo de una supervivencia y un bien para la posteridad” (Silva, 2019,
+p. 117). Por su parte, Belting sostiene que el arte funerario, “en el cual se incluyen tanto las máscaras como
+las tumbas, realiza una ‘transformación ontológica’ (la expresión es de Louis Marin) por la cual se le cede a la
+imagen ‘el poder de presentarse en el nombre y en el lugar del difunto’” (Silva, 2019, p. 117).
+Sería errado ver la imagen en el agua como la imagen que deja Narciso; más bien habría que hablar del
+conjunto de ese cuerpo inclinado ante la fuente: eso es lo que produce el aluvión poético y cultural del
+origenismo. La clave se encuentra en que se trata de un cuerpo que muere porque se entrega por completo
+al amor, sin que lo altere la más mínima agitación en el paisaje que lo rodea. Si leyéramos el texto en
+clave lacaniana, podríamos decir que Narciso se entrega a lo imaginario para que se ponga en marcha la
+producción simbólica de la cultura. Lo imaginario tiene que intervenir, como fuerza inaugural, para crear
+nuevas causalidades. En este sentido, el origenismo es la consecuencia de esta imagen de Narciso muriendo
+ensimismado.
+En el transcurso de los años, Lezama abrió el alcance de su poética para pensar tramas culturales más
+extensas. En “Juan de Patmos ante la puerta latina” aborda el tema del sacriﬁcio de manera directa. Entre
+los años 91 y 100 d.c., Juan de Patmos es sometido a una prueba por parte de los romanos por predicar el
+cristianismo y no obedecer los oﬁcios y el culto a Domiciano. Cerca de la Porta Latina, en los muros aurelianos
+de Roma, las autoridades ordenan hundirlo en un caldero con aceite hirviendo. La leyenda cuenta que San
+Juan no solo no murió, sino que, milagrosamente, salió del caldero sin sufrir quemaduras, como podemos
+ver en lo que dice Tertuliano, en Prescripciones contra todas las herejías: “el apóstol Juan, después que, echado
+en aceite rugiente, no sufrió ningún daño, es relegado a una isla” (Tertuliano, 2001, p. 273). En el poema,
+Lezama se detiene en este acontecimiento. Cito un fragmento representativo:
+Ante la Puerta Latina quieren bañar a San Juan de Patmos,
+Su baño no es el del espejo y el pie que se adelanta,
+Para recoger como en una concha la temperatura del agua.
+No es su baño el del cuerpo remilgado que vacila
+Entre la tibieza miserable del agua y la ﬁdelidad miserable del espejo.
+¡Gloria! El agua se ha convertido en un rumor bianaventurado,
+No es que San Juan haya vencido al aceite hirviendo:
+Ese pensamiento no lo asedia, no lo deshonra.
+Se ha amigado con el agua, se ha trasfundido en la amistad omnicomprensiva.
+No hay en su rostro el orgullo levísimo, pero sí dice:
+Allí donde me amisté con el aceite hirviendo, id y construid una pequeña iglesia católica.
+Esa Iglesia es aún hoy, porque se alza sobre el martirio de San Juan.
+(Lezama Lima, 1985, p. 80-81)
+En “Muerte de Narciso”, la imagen está plagada de un erotismo creador marcado por la belleza del cuerpo;
+en “San Juan de Patmos ante la Puerta Latina” la imagen resultante es la Iglesia. No se trata de un paso unívoco
+el que Lezama da entre estos dos poemas, porque en todos los momentos de su obra encontramos tanto el
+erotismo del cuerpo como la posibilidad de pensar lo colectivo a través del sacriﬁcio de los personajes a los
+que se reﬁere. Para Lezama la cultura es esa mezcla, como lo revela el concepto de eros cognoscente, inspirado
+Cuadernos de Literatura, 2023, núm. 20, e2012, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+en los diálogos de Platón, en donde el erotismo siempre está vinculado con la búsqueda de la verdad, cuestión
+que se encuentra, por cierto, en la etimología de la palabra “ﬁlosofía”.
+Esta inclinación hacia lo colectivo lo llevó a formular la teoría de las eras imaginarias. Para Lezama, una
+imagen como la de Narciso ante la fuente o la de San Juan de Patmos en el caldero es tan potente que está
+en condiciones de crear una constelación cultural. Cuando se produjo el triunfo de la Revolución de 1959,
+el escritor pensó la nueva situación que se abría como el comienzo de una nueva era imaginaria posibilitada
+por el retorno de la ﬁgura de José Martí al centro de la cultura nacional. En “A partir de la poesía”, Lezama
+sostiene que la imagen que preside esa era es la que representa el “espíritu de la pobreza irradiante, del pobre
+sobreabundante por los dones del espíritu” (Lezama Lima, 1988, p. 398). Luego agrega: “Ser más pobre es
+estar rodeado es estar más rodeado por el milagro, es precisar el animismo de cada forma” (p. 398).
+En Lezama, la poesía se convierte en un mecanismo para conocer la realidad. Por eso es interesante citar
+el fragmento inicial de “El 26 de Julio: imagen y posibilidad”:
+La imagen es la causa secreta de la historia. El hombre es siempre un prodigio, de ahí que la imagen lo penetre y lo impulse. La
+hipótesis de la imagen es la posibilidad. Llevamos un tesoro en un vaso de barro, dicen los Evangelios, y ese tesoro es captado
+por la imagen, si fuerza operante es la posibilidad. Pero la imagen tiene que estar al lado de la muerte, sufriendo la abertura del
+arco en su mayor enigma y fascinación es decir, en la plenitud de la encarnación, para que la posibilidad adquiera un sentido
+y se precipite en lo temporal histórico. Ese tesoro que lleva escondido un ser prodigioso como el hombre, puede ser tan solo
+penetrado y esclarecido por la imagen, La imagen apegada a la muerte, al renunciamiento, al sufrimiento, para que descienda
+y tripule la posibilidad. (Lezama Lima, 1981, p. 19)
+Los que van a morir en el asalto del cuartel Moncada llevan la imagen de Martí. Al caer, la imagen se
+transforma en los que se sacriﬁcan en esa batalla inconclusa, que ﬁnalmente viene a cerrarse en 1959. Curiosa
+historia la de estos textos: el erotismo se reduce cuando la comunidad se vuelve central. Ciertamente, Lezama
+va a seguir el camino inverso en Paradiso, novela incómoda por su homosexualismo, como si mostrara las dos
+caras de su obra. Pero esas dos líneas no van a poder coexistir de una manera amistosa. Por una parte, va a estar
+la comunidad, y, por la otra, la búsqueda (erótica o no) del cuerpo propio. La primera nos da una retórica
+de la muerte que es central para la nación; la segunda, una exploración del cuerpo que se aleja del dispositivo
+estatal. Esas dos vertientes son los temas que me propongo explorar a continuación.
+3
+El sacriﬁcio ocupa un importante lugar en la cultura cubana de la Revolución. Pocos aspectos han sido tan
+transitados: Heberto Padilla se resistió al sacriﬁcio en Fuera de juego, pero sucumbió ante él; Luis Rogelio
+Nogueras, que pertenecía a la primera generación de El Caimán Barbudo, publicó novelas de espionaje
+(Y si muero mañana y Nosotros, los sobrevivientes) en las que un revolucionario sacriﬁca su vida y muere
+en circunstancias espantosas; Silvio Rodríguez escribió “Pequeña serenata diurna”, en donde reconoce que
+es un hombre feliz, porque vive en un país libre y ama a una mujer clara, razón por la cual pide perdón.
+Aunque rechazó el barroquismo de los origenistas y ciertamente la homosexualidad de Lezama, la cultura
+revolucionaria se movió en la narrativa del sacriﬁcio que éste contribuyó a forjar.
+Para ver su continuidad, me voy a referir a una producción poética surgida de la guerra de Angola. Cuba
+hizo su ingreso a Angola en abril de 1975 para apoyar el frente de liberación que estaba luchando contra
+el dominio colonialista de Portugal. La “Operación Carlota” contó con el apoyo logístico de la URSS y
+desplegó 35.000 militares cubanos por aire y tierra que tuvieron como propósito contener los ataques de
+Sudáfrica, apoyados por Estados Unidos (LeoGrande y Kornbluh, 2015, p. 178-182). Poco tiempo después
+Angola se proclamó independiente, pero los conﬂictos continuaron en torno a Namibia, país invadido por
+Sudáfrica. El 22 de diciembre de 1988 se ﬁrmó un acuerdo de paz entre Angola, Cuba y Sudáfrica, bajo la
+coordinación de los Estados Unidos, que reconoció la independencia de Namibia y el retiro de las tropas
+cubanas, siguiendo un programa que concluyó a mediados de 1991. En este marco, en noviembre de 1989, el
+Ignacio Iriarte. LA POESÍA EMPIEZA DONDE HAY TENDENCIA. CUERPO Y POESÍA ENTRE 1937 Y 1997
+PDF generado a partir de XML-JATS4R
+presidente de la República Popular de Angola, José Eduardo Dos Santos, anunció que embarcaría los cuerpos
+de los cubanos caídos en combate en señal de agradecimiento y fraternidad hacia la nación del Caribe. Los
+cuerpos empezaron a llegar el 27 de ese mes y el Granma del 5 de diciembre anunció que las honras fúnebres se
+realizarían dos días después. A lo largo de esos días, el gobierno dispuso una serie de homenajes, entre los que
+se destacan la visita de Dos Santos el 5 y la realización de una ceremonia con la presencia de dieciséis cuerpos
+en representación de cada una de las provincias de Cuba, presidida por Castro y con el presidente de Angola
+como invitado de honor. Varias de las principales ﬁguras del gobierno ofrecieron discursos, cuyas principales
+frases marcaron la agenda de esos días. Entre estos homenajes, se encuentra la producción poética que quisiera
+comentar, una tapa de Juventud Rebelde del 6 de diciembre de 1989, que reproduzco a continuación:
+Figura 1. Tapa de la edición del 6 de diciembre de 1989 de Juventud Rebelde.
+La tapa contiene tres elementos principales: la fotografía de la multitud marchando por el malecón, el
+epígrafe de José Martí arriba a la izquierda y el poema de César Vallejo, tomado de España, aparta de mí este
+cáliz. Repongo este último para mayor claridad:
+Al ﬁn de la batalla
+Y muerto el combatiente, vino hacia él un hombre
+Y le dijo: ‘No mueras, te amo tanto!´
+Pero el cadáver ¡ay! siguió muriendo.
+Cuadernos de Literatura, 2023, núm. 20, e2012, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Se le acercaron dos y repitiéronle:
+‘No nos dejes! ¡Valor! ¡Vuelve a la vida!’
+Pero el cadáver ¡ay! siguió muriendo.
+Acudieron veinte, cien, mil, quinientos mil,
+Clamando: ´Tanto amor, y no poder nada contra la muerte!´
+Pero el cadáver ¡ay! siguió muriendo
+Entonces, todos los hombres de la tierra
+Le rodearon; les vio el cadáver triste,
+Emocionado; incorporóse lentamente,
+Abrazó al primer hombre; echóse a andar…
+Estos elementos componen un artefacto que continúa y al mismo tiempo se separa de las
+conceptualizaciones de Lezama Lima. Por una parte, el poema de Vallejo repone un sentido religioso. En
+este sentido, la tapa continúa el tipo de indagaciones que Lezama había realizado en textos como “26 de
+Julio: imagen y posibilidad”. Sin embargo, la tapa es mucho más pulcra en la medida en que separa con
+mayor claridad el terreno religioso del terreno político. Como vimos en Lezama, las tropas que avanzan
+contra el Moncada están mixturadas en el mismo párrafo con los Evangelios, de modo que no sabemos bien
+si son fuerzas humanas o sobrenaturales; en la tapa de Juventud Rebelde, la religión le da fuerza emocional al
+conjunto, estableciendo, sin embargo, dos órdenes separados.
+Para comprender el uso del poema en la tapa, podemos retomar una idea que propone Enrique Foﬀani
+en Vallejo y el dinero (2018). El crítico argentino sostiene que España, aparta de mí este cáliz establece
+una teología política en la medida en que retoma una inspiración católica que articula con el marxismo.
+El concepto fue presentado por Carl Schmitt en un famosísimo tratado de 1922, titulado, precisamente,
+Teología política. Allí sostiene la tesis de que todos los conceptos de la teoría política son conceptos teológicos
+secularizados y propone el siguiente ejemplo: “El estado de excepción tiene en la jurisprudencia análoga
+signiﬁcación que el milagro en la teología. Sólo teniendo conciencia de esa analogía se llega a conocer la
+evolución de las ideas ﬁlosóﬁco-políticas en los últimos siglos” (Schmitt, 2009, p. 37). La palabra clave en
+esta descripción es “analogía”, pues Schmitt intenta remarcar una simetría entre los dos campos. Hay teología
+política cuando se puede establecer una analogía entre el sistema de la teología y el sistema de la política.
+Si tomamos en conjunto el ensayo de Lezama sobre el Moncada y la tapa de Juventud Rebelde, podemos ver
+que los dos plantean una teología política, pero en esta última producción los ámbitos que conecta la analogía
+están separados de una manera más nítida. En el poema de Vallejo, el muerto resucita de manera análoga al
+modo en que el recuerdo de los caídos en combate se graba en la memoria colectiva de la nación. Por este
+motivo decimos que el sacriﬁcio sigue siendo tan fuerte como en Lezama, pues los combatientes en Angola
+dieron su vida por la causa internacionalista y la patria cubana, pero ahora está articulado en un entorno
+discursivo más pulcro y apunta a un territorio secularizado. También podemos pensar el paso de Lezama
+a la tapa de Juventud Rebelde a través de la imagen. Como vimos antes, en el autor de Paradiso la imagen
+tiene una fuerza erótico-religiosa: produce un signiﬁcado trascendental al conectar la vida con la muerte, que
+Lezama piensa como sobrevida; la imagen que expresa la teología política de Juventud Rebelde es, en cambio,
+la que se encuentra en los lugares de memoria, como monumentos, cementerios, las tapas de los diarios, los
+aniversarios, toda esa forma de religión secularizada que le da forma y sentido a la comunidad imaginada.
+En este marco, el poema de Vallejo cuenta una historia de vida y muerte en la batalla. Por eso apela a
+dos tipos de cuerpos: el cuerpo del muerto y el cuerpo de los que vienen a buscarlo. La tapa de Juventud
+Rebelde hace algo similar, porque se dirige tanto a los caídos en Angola como a las personas que marchan
+por el malecón. De este modo, el artefacto periodístico carga la historia de los muertos sobre las espaldas de
+los vivos, porque son ellos los que tienen que recordar, sosteniendo una memoria nacional. Así, el poema
+Ignacio Iriarte. LA POESÍA EMPIEZA DONDE HAY TENDENCIA. CUERPO Y POESÍA ENTRE 1937 Y 1997
+PDF generado a partir de XML-JATS4R
+dice de manera alegórica lo que los sucesos de Cuba ponen de maniﬁesto de manera concreta: de los vivos se
+habla en relación con la muerte. E incluso, dado que se trata de una guerra, deberíamos hacer intervenir al
+poder soberano. Si la tapa de Juventud Rebelde propone una teología política, es porque muestra una analogía
+entre Dios, que puede intervenir en la historia por medio de milagros, y el poder soberano, que interviene
+declarando el estado de excepción, como dice Schmitt, o disponiendo el traslado de tropas para iniciar la
+guerra. En Lezama, esta última dimensión quedaba en las penumbras de las metáforas religiosas; en el número
+de Angola esto se revela con toda claridad, poniendo de maniﬁesto lo que signiﬁca el cuerpo en tanto cuerpo
+que está a disposición del sacriﬁcio en nombre de lo colectivo.
+Para ahondar en esto, voy a conectar la tapa de Juventud Rebelde con los discursos que dieron Fidel y
+Raúl Castro como homenajes a los caídos en Angola. O más precisamente, a las consignas que los medios
+extrajeron para convertirlos en titulares. En la edición de Juventud Rebelde que encabeza el poema de Vallejo
+encontramos, por ejemplo, la siguiente producción gráﬁca:
+Figura 2. Extracto de la edición del 6 de diciembre de
+1989 del Suplemento especial de Juventud Rebelde, s/p.
+En la frase elegida, Raúl Castro utiliza una serie de palabras clave que forman una red cohesionada:
+“Angola”, “nación”, “pueblo”, “restos de nuestros queridos hermanos” y “cumplimiento del deber”; pero esta
+red se puede reducir a tres términos: nación, cuerpo y deber, lo que implica que el cuerpo está determinado
+por la nación y tiene un deber que cumplir, que consiste en arriesgar la vida y, si es necesario, morir. Podemos
+Cuadernos de Literatura, 2023, núm. 20, e2012, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+verlo de una manera todavía más clara en un suplemento de Granma del 9 de diciembre que consigna los
+2315 nombres de cubanos muertos o desaparecidos en misiones internacionalistas, la más importante de las
+cuales es Angola. Los editores del diario utilizaron una frase muy signiﬁcativa que Fidel Castro pronunció
+durante la ceremonia fúnebre del 7 de diciembre:
+Figura 3. Tapa de la edición del 9 de diciembre de 1989 del Suplemento especial de Granma.
+Figura 4. Extracto de la edición del 9 de diciembre de 1989 del Suplemento especial de Granma, p. 2-3.
+En la frase que titula el suplemento, los cuerpos están insertados en una sintaxis que los conecta con la
+soberanía. Y cuando digo sintaxis quiero decir exactamente eso: en la frase hay unos sujetos, “ellos”, que
+mueren en el pasado, “murieron”, y esas muertes adquieren sentido por medio de un circunstancial de
+Ignacio Iriarte. LA POESÍA EMPIEZA DONDE HAY TENDENCIA. CUERPO Y POESÍA ENTRE 1937 Y 1997
+PDF generado a partir de XML-JATS4R
+ﬁnalidad que está referido a la actualidad de la patria y la revolución, “por la patria revolucionaria y digna que
+es hoy Cuba”. Esta frase sintetiza buena parte de la narrativa histórica de la izquierda: la historia está ordenada
+hacia una ﬁnalidad, pero además está sustentada en el sacriﬁcio y en los caídos en el pasado. Pero notemos que
+esa sintaxis organiza una serie de piezas léxicas que son “sujetos”, “cuerpos”, “muerte”, “patria” y “revolución”,
+como si la teleología estuviera marcada por la articulación de la población con el poder soberano, que se deﬁne
+por decidir la guerra a otros países o a otros bandos dentro de esos países, como es el caso de la guerra en
+Angola.
+En el conocido Homo sacer, Giorgio Agamben ha retomado esta articulación entre los cuerpos y el poder
+soberano. “Homo sacer”, el hombre sagrado, es menos la valoración de la vida que la exposición de esa vida
+a la posibilidad de la muerte. Escribe Agamben:
+Sagrada, es decir que se puede matar y es indescifrable, originariamente, es la vida en el bando soberano y la producción
+de la vida desnuda, en este sentido, es la prestación originaria de la soberanía. La sacralidad de la vida que hoy se pretende
+hacer valer contra el poder soberano como un derecho humano absolutamente fundamental, en origen expresa en cambio la
+sujeción de la vida a un poder de muerte, su exposición irreparable en una relación de abandono. (Agamben, 2018, p. 132)
+Aunque Agamben se reﬁere a los campos de concentración, podemos pensar también en la guerra, porque
+se trata de una organización de la sociedad que gravitó fuertemente en las sociedades latinoamericanas.
+Por otra parte, la guerra que se libra en Angola no es la misma que se libra entre países, porque
+independientemente de los apoyos extranjeros, se trata de una guerra civil, en la que los nativos se convierten
+en enemigos. En este sentido, la lógica del campo de concentración puede transferirse a la guerra, en la que el
+poder soberano decide sobre la vida desnuda de la población. Agamben retoma los textos romanos y extrae
+una serie de deﬁniciones precisas para pensar la actualidad: “El elemento político originario no es la simple
+vida natural, sino la vida expuesta a la muerte (la vida desnuda o vida sagrada)” (Agamben, 2018, p. 138).
+En la tapa de Juventud Rebelde, esa vida desnuda es tanto la vida de los que cayeron en Angola como la de
+los que marchan por el malecón, a quienes el poema de Vallejo perfora inscribiendo la historia de la guerra,
+pero también es la masa en la que recluta militares para la lucha internacional. Porque no hay que olvidar que
+Angola es uno de los enfrentamientos clave de la Guerra Fría.
+4
+Y sin embargo, la retirada de Angola coincide en el tiempo con el acelerado desmontaje del socialismo en
+Europa y la consecuente crisis de la narrativa ﬁnalista y sus formas de pensar la muerte y la vida. En junio
+de 1989 (poco más de cuatro meses antes de las noticias que estuve comentando), Solidaridad triunfa en las
+elecciones de Polonia y en agosto forma el primer gobierno no socialista de Europa del Este. En octubre,
+el Partido Socialista Obrero Húngaro abandona los principios del marxismo-leninismo (el centralismo
+democrático y el carácter rector del partido sobre la sociedad) e impulsa un sistema multipartidista. El 9 de
+noviembre, el gobierno de la República Democrática Alemana autoriza a los ciudadanos a cruzar a Berlín
+Occidental. Después, la historia se acelera: a mediados de diciembre estallan protestas en Timosara y el 25
+de diciembre son fusilados Nicolai Ceaucescu y su esposa, terminando con el socialismo en Rumanía. El
+resto de Europa cae y dos años después se disuelve la Unión Soviética. Resulta notable que todo este proceso
+está marcado por el movimiento de los cuerpos, que cruzan de un lado a otro de Berlín, que huyen por
+las fronteras, que generan tumultos y protestas, incluso forman grupos armados, toda una maquinaria de
+desterritorialización, para decirlo con Gielles Deleuze y Félix Guattari (1997).
+En este clima convulsionado, la tapa de Juventud Rebelde pareciera orientada a defender el sistema, que por
+todos lados se estaba derrumbando, por medio de una apelación a los sentimientos patrióticos de los cubanos.
+En este sentido, la producción periodística territorializa la multitud marchando por el malecón. Pero si bien
+no hubo una estampida, a partir de esos años se produjeron desterritorializaciones y fugas constantes, como
+Cuadernos de Literatura, 2023, núm. 20, e2012, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+la migración legal e ilegal constante y fenómenos como la crisis de los balseros en 1995. Los cuerpos cambian.
+No es para nada menor que desde los años 90 muchos cubanos preﬁrieran la palabra “diáspora” a “exilio”.
+No solo remite a la diáspora judía, sino también habla de una separación del dispositivo estatal como forma
+de pensar la subjetividad, porque el sujeto diaspórico, a diferencia del exiliado, no se piensa en función de la
+expulsión, sino a través de la fuga en proceso. Diáspora es salida de una determinada situación de poder en la
+que está el Estado. Por eso, en sentido estricto, es una forma de desterritorialización.
+En la literatura, una de las expresiones más claras de esto lo dio la revista Diáspora(s), que tiene tiene
+un soporte teórico fuertemente deleuzeano y se plantea como una máquina bélica contra las totalizaciones
+molares. La publicación, que salía en fotocopias por fuera de los organismos oﬁciales, emprendió una tenaz
+campaña tanto contra el Estado como contra las formas de articulación del origenismo con la Revolución. En
+“Olvidar Orígenes”, publicado en el primer número de Diáspora(s), de 1997, Rolando Sánchez Mejías aborda
+estas cuestiones en un párrafo de grandes resonancias:
+Para alguien cuya existencia vital completa haya coincidido con la actual experiencia política de modernidad perversa que
+es este país, parta alguien cuya experiencia vital haya sido decidida a favor del animal político a que han sido reducidos los
+hombres de este país, sabrá lo problemático de aceptar que su tiempo es la encarnación suprema de una imagen. Aquello que
+para Lezama y para Vitier fue un corte o fulminación o consecución de la Historia, fue para otros hombres el dolor de la
+historia en sus propios cuerpos. Lo que para ellos fue la cifra alquímica de la Historia, fue para otros la marca secreta y a la
+vez impúdica de la violencia de la historia en sus cuerpos. (Sánchez Mejías, 1997, p. 192)3
+Sánchez Mejías expresa su rechazo a la articulación del cuerpo con el poder soberano y, si bien se expresa
+de manera general, se dirige también a lo que produce la tapa de Juventud Rebelde: esa forma por la que el
+poema de Vallejo instala en los cuerpos de la multitud una imagen que es la historicidad de la izquierda tanto
+como la maquinaria bélica que organiza lo nacional. Este párrafo puede tomarse como la protesta de parte de
+una generación que, nacida alrededor de 1960, comenzó a escribir por los mismos años en los que se inició
+el proceso de negociaciones para retirar las tropas de Angola. Y lo notable es que varios de sus integrantes
+abandonan el dispositivo del soberano y piensan el cuerpo desagregándolo de lo colectivo.
+Para demostrarlo, me voy a detener en una página de Naranja Dulce, de 1988. Se trata del primero de
+los cuatro números que aparecieron como ediciones especiales de El Caimán Barbudo. Allí, la revista da a
+conocer el resultado del concurso Poeta Joven, que otorgó la Asociación Hermanos Saíz, en coordinación con
+la Casa del Joven Creador y la Empresa española CREACTUAL. El jurado estuvo conformado por Reina
+María Rodríguez, Osvaldo Sánchez y Lina de Feria y el primer premio lo recibieron Dámaris Calderón y
+Antonio José Ponte.4
+Me interesan los textos de este último por el peso que tendrá más tarde en las letras cubanas. Naranja dulce
+publica dos de los textos con los que resultó ganador, que muestran un completo desplazamiento de la forma
+discursiva que vimos ejempliﬁcada en la tapa de Juventud Rebelde. El primero de ellos es “Antes de releer la
+Ilíada”:
+Está lloviendo en Troya hasta lavar la tierra
+Hasta los dientes amarillos de desgarrar
+Contra los que la lluvia nada puede,
+Hasta los huesos que dejaron de doler hace ya tiempo.
+Lloviendo sobre cuerpos ovillados
+Sobre el fuego y el ponto
+Sobre el círculo de perros que persiguen sus colas.
+Dientes, huesos, cenizas, sal antigua:
+Yo busco un signo que aclare aquella historia.
+(Ponte, 1988, p. 3)
+El poema se volvió famoso entre los familiarizados en la literatura cubana. Daniel Balderston realizó una
+lectura por demás interesante: Ponte “imagina Troya después de la guerra: los huesos roídos por los perros,
+Ignacio Iriarte. LA POESÍA EMPIEZA DONDE HAY TENDENCIA. CUERPO Y POESÍA ENTRE 1937 Y 1997
+PDF generado a partir de XML-JATS4R
+los muros derrumbados, las ruinas. Lo que se expresa en este poema es un escepticismo con respecto a los
+mitos heroicos: la guerra, el sacriﬁcio, la comunidad sufrida” (2009, p. 36). Balderston continúa diciendo que
+“La ironía que caracteriza su proyecto literario en todas sus manifestaciones sirve para alejarse de una retórica
+que domina su medio, una retórica que exalta el heroísmo, el sacriﬁcio, la ‘comunidad imaginada’ a través del
+sufrimiento aceptado como deber colectivo” (2009, p. 37).
+Me gustaría agregar que en el poema la historia se derrumba en su estructura. Con la articulación
+revolucionaria de cuerpo, soberano y muerte, la historia estaba ensamblada en una sintaxis pulcra que
+ordenaba pasado, presente y futuro. Pero cuando la épica y el sacriﬁcio desaparecen, como en el poema de
+Ponte, la historia carece de organización. La imagen de los perros persiguiendo sus colas pareciera mostrar
+un constante ciclo de construcción y destrucción sin un signiﬁcado ulterior. Además, el sujeto no encuentra
+ni siquiera una clave: “busco un signo que aclare aquella historia”. Si lo busca es porque no está. La historia
+perdió sentido.
+El otro poema que publica Naranja Dulce es “En diciembre, viendo volar”. Me interesa porque muestra
+que el individuo ya no tiene que ver con el tiempo colectivo. Escribe Ponte:
+En Diciembre, viendo volar los fuegos de artiﬁcio
+Pienso en el tiempo.
+Un año no comienza esta noche
+Hecha para que algunos se abracen y rían,
+Sino en la calma mañana de mi cumpleaños.
+(Ponte, 1988, p. 3)
+Acá Ponte se reﬁere a una diferencia entre la vivencia colectiva y la individual. Niega la existencia de
+la primera, reivindica la segunda. ¿No plantea, en este sentido, una nueva articulación del lenguaje con el
+cuerpo? Esa forma de decir yo supone desagregarse de la multitud del malecón y también de un modo de
+decir que estaba representado en la tapa de Juventud Rebelde, como si la tendencia, para volver al concepto
+de Maiakovski, ya no fuera el socialismo, sino huir de las normativas generales.
+En La inquietud de sí, Michel Foucault se detiene en los cambios que se producen con el crecimiento del
+Imperio Romano, lo que dio como resultado una cierta autonomía del individuo:
+encontramos la actitud que consiste por el contrario en ﬁjar lo que se es en una pura relación con uno mismo: se trata entonces
+de constituirse y de reconocerse como sujeto de las propias acciones, no a través de un sistema de signos que marque el poder
+sobre los demás, sino a través de una relación tan independiente como sea posible del estatuto y de sus formas exteriores,
+pues se cumple en la soberanía que ejerce uno sobre sí mismo. (1998, p. 83)
+El mandato externo frente a la búsqueda de una individualidad que nunca se determina, la función-épica
+frente a las ruinas sin sentido de la Ilíada: ese cambio se vislumbra a partir de la poesía. Porque la poesía
+muchas veces está a la vanguardia, no de una clase, sino de lo que puede pensarse en un momento determinado.
+5
+Al principio de este trabajo tomé el concepto de tendencia de Maiakovski para sostener que se podría
+comprender a partir de la forma en que la poesía piensa el cuerpo. A partir de lo que acabamos de ver, habría
+que agregar que la frase “La poesía empieza donde hay tendencia” (1957, p. 202) signiﬁca también que al
+menos cierta poesía designa algunas de las tendencias generales de las épocas en las que se inscriben en tanto
+se trata de un discurso que dice algo del cuerpo y ese algo resulta esclarecedor para un conjunto mucho más
+vasto de cuestiones políticas, culturales y sociales. En Cómo se hacen los versos, Maiakovski aﬁrma que “Para
+el cumplimiento mejor del encargo social, debemos estar a la vanguardia de nuestra clase más progresista,
+debemos luchar junto con ella en todos los frentes de combate” (1957, p. 229), frase que podríamos emancipar
+Cuadernos de Literatura, 2023, núm. 20, e2012, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+del comunismo clásico para conectarla con la bohemia, los marginales, las mujeres, los gays, las drogas y
+cualquier otro cuerpo que produzca una tensión en el sistema social.
+Las producciones poéticas que estuve examinando cubren un arco de tiempo comprendido entre 1937 y
+1997. En esos sesenta años el cuerpo ocupa un lugar tan central que permite trazar un corte nítido en los
+años 80. En primer lugar, y aunque hay muchos aspectos que lo diferencian, podemos ver una continuidad
+entre Lezama Lima y la Revolución. La misma no está dada por que coincidan políticamente, pues no todos
+los origenistas abrazaron la Revolución, y los que sí lo hicieron no abandonaron ciertas convicciones ajenas
+al marxismo; más bien se trata de una coincidencia estructural alrededor del cuerpo, pues en ambos casos
+se plantea la posibilidad de que el cuerpo se convierta en objeto de sacriﬁcio para fortalecer o contribuir
+a la comunidad. Esa comunidad puede ser la poesía, los origenistas o la nación. Para fundarla, sostenerla y
+preservarla pareciera necesario un sacriﬁcio de alguien en particular o de una parte de la población en general.
+En cambio, la poesía que comienza en los años 80 propone otra sintaxis en la que el cuerpo ya no tiene
+que ver con la comunidad. O mejor dicho, aparece una tendencia distinta marcada por la exploración de
+lo individual en tanto se desagrega de lo colectivo. En los poemas de Ponte se puede ver la construcción de
+una subjetividad que ya no pasa por el poder soberano. En este sentido, Cuba puede pensarse como un lugar
+especialmente interesante para ver estos procesos: en 1989 comienza el ﬁn de la guerra de Angola, que para
+ese momento llevaba casi quince años, lo que desarma un dispositivo bélico articulado con el comunismo
+internacional; se trata, además, del año que ve el inicio de la crisis terminal del socialismo como alternativa
+al capitalismo. En ese marco, ¿qué expresan poemas como los de Ponte, incluso antes de que el derrumbe
+del socialismo se precipitara en Europa? ¿Se trata de un corte deﬁnitivo del cuerpo con el poder? ¿O, por el
+contrario, se trata de otra modalidad del poder? Con los pocos datos utilizados en este trabajo es difícil dar
+una respuesta, pero podemos avanzar diciendo que la poesía muestra una serie de preocupaciones que serán
+dominantes en los años venideros: qué hacer con el cuerpo, cómo pensarlo y modularlo fuera de las opciones
+binarias, de qué modo desplegar el deseo que lo articula, cómo pensarse en una inestabilidad que siempre
+desbarata las determinaciones.
+Si comparamos la tapa de Juventud Rebelde con este tipo de producciones poéticas, podemos ver que se
+plantea una correlación interesante entre las relaciones del individuo con el poder y la historia. En el diario,
+el poema de Vallejo propone una alegoría de la historia que es ﬁnalista: postula que el muerto se va a levantar
+cuando toda la humanidad se una en un solo bando. En paralelo, los artefactos imaginarios y discursivos sobre
+Angola le hablan a la multitud de una manera fuerte y aﬁrmativa, como sucede en la frase “¡Ellos murieron
+por la patria revolucionaria y digna que es hoy Cuba!”. El soberano se dirige a la masa diciendo qué signiﬁcan
+los muertos, cómo hay que pensarlos, y con esas consignas ordena a los individuos. La poesía de Ponte no
+está marcada por la aﬁrmación, sino por la pregunta y la inquietud. En esos textos, el escritor da respuestas
+tentativas e inestables a preguntas que no dejan de dirigirse a sí mismo. Y esto cambia la forma de comprender
+la historia. En Juventud Rebelde, el tiempo está dirigido a un futuro certero; en Ponte, en cambio, se trata
+de una incógnita: “Yo busco un signo que aclare aquella historia” (Ponte, 1988, p. 3). Así, el dispositivo de
+subjetividad se vuelve más capilar, porque el individuo puede indagar su cuerpo dejando de lado lo colectivo,
+y el mundo se vuelve demasiado vasto y complejo como para ser entendido como totalidad. Escribe Sánchez
+Mejías en “Olvidar Orígenes”:
+Recuerdo los años en que los paseos y contemplaciones por las ciudades y paisajes de la isla tenían la consistencia del
+eterno retorno. Era un tiempo de los orígenes donde todos nos sabíamos de vuelta por el poder de las palabras: las imágenes
+encarnaban donde quiera: en las ruinas civiles, en los espacios muertos y sin nombre, en los soles que declinaban con el
+espanto de la identidad perpetua. Un buen día uno comprende que las palabras no son tan poderosas como para emprender
+el camino de vuelta: entonces uno se imagina en un claro del bosque descifrando no se sabe qué pasado donde uno intenta
+comprender por qué las palabras no son tan poderosas como para emprender el camino de vuelta: entonces uno comienza a
+borrar sus propias huellas. Y cuando termina, hace mutis por el foro. (Sánchez Mejías, 1997, p. 192)
+Ignacio Iriarte. LA POESÍA EMPIEZA DONDE HAY TENDENCIA. CUERPO Y POESÍA ENTRE 1937 Y 1997
+PDF generado a partir de XML-JATS4R
+La alegoría de Sánchez Mejías está dedicada a Cuba. Tanto Orígenes como la Revolución componían
+artefactos de subjetivación potentes que permitían una segura orientación en el tiempo. Cuando esos
+artefactos perdieron efectividad, el individuo quedó liberado, pero a la vez sin historia global con la cual
+articular y orientarse.
+¿Se trata sólo de Cuba? Me atrevo a decir que no. Tal vez este cambio permitiría explicar la emergencia
+de algo como el giro autobiográﬁco. Al mismo tiempo, podría ser útil para comprender el modo en que se
+realizan las indagaciones históricas que acentúan lo queer, como las que propuso Silvia Molloy (2012) y Oscar
+Montero (2019) sobre el modernismo o las que acentúan lo gay en Lezama Lima, pues, desde este lado de la
+frontera, buscan dinamitar las bases que le dieron forma a la teología política de la modernidad. En ambos
+casos, los discursos son posibles a partir de un cambio de tendencia sobre el cuerpo del que hablan y desde
+el que hablan escritores, poetas e historiadores.
+Referencias bibliográficas
+Agamben, G. (2018). Homo sacer: el poder soberano y la vida desnuda. Buenos Aires, Adriana Hidalgo.
+Balderston, D. (2009). Cuba y amargura. En Basile, T. (ed.), La vigilia cubana. Sobre Antonio José Ponte (pp. 35-42).
+Rosario, Beatriz Viterbo.
+Deleuze, G. y Guattari, F. (1997). Mil mesetas. Valencia, Pre-Textos.
+Foﬀani, E. (2018). Vallejo y el dinero. Lima, Editorial Cátedra Vallejo.
+Foucault, M. (1998). La inquietud de sí. Buenos Aires, Siglo XXI.
+Granma (Suplemento especial) [Periódico]. (9 de diciembre de 1989).
+Juventud Rebelde [Periódico]. (6 de diciembre de 1989).
+LeoGrande, W. y Kornbluh, P. (2015). Diplomacia encubierta con Cuba. Historia de las negociaciones secretas entre
+Washington y La Habana. México, FCE.
+Lezama Lima, J. (1981). El 26 de Julio: imagen y posibilidad. En Imagen y posibilidad (pp. 9-21). La Habana, Letras
+Cubanas.
+Lezama Lima, J. (1985). Poesía Completa. La Habana, Letras Cubanas.
+Lezama Lima, J. (1988). Conﬂuencias. La Habana, Letras Cubanas.
+López Arriazu, E. (2018). Un paraguas para Maiakovski. Futurismo, formalismo y revolución. Eslavia, 2. https://bi
+t.ly/3n3BH9b
+Maiakovski, V. (1957). Cómo se hacen los versos. Obras Escogidas, Tomo I (pp. 197-231). Buenos Aires, Editorial
+Platina.
+Molloy, S. (2012). Poses de ﬁn de siglo. Buenos Aires, Eterna Cadencia.
+Montero, O. (2019). Erotismo y representación en Julián del Casal. Ámsterdam, Almenara.
+Ponte, A. J. (1988). Antes de releer la Ilíada - En diciembre, viendo volar. Naranja dulce, 1, 3.
+Sánchez Mejías, R. (1997). Olvidar Orígenes. Diáspora(s), 1, 17-19. https://bit.ly/41Je03V
+Schmitt, C. (2009). Teología política. Madrid, Trotta.
+Silva, G. (2019). El dragón en la biblioteca: Lezama Lima y la literatura cubana (1948-2002). Buenos Aires, Katatay.
+Tertuliano. (2001). Prescripciones contra todas las herejías. Madrid, Ciudad Nueva.
+Vitier, C. (1998). Lo cubano en la poesía. La Habana, Letras Cubanas.
+Notas
+1 Sarduy lo hace en “Falsas notas/Homenaje a Lezama”, recopilado en Escrito sobre un cuerpo; García Vega trabaja la
+sexualidad de Lezama en Los años de Orígenes.
+Cuadernos de Literatura, 2023, núm. 20, e2012, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+2 Silva cita Ante el tiempo, de Didi-Huberman, y Antropología de la imagen, de Belting.
+3 Se trata de un texto que Rolando Sánchez Mejía leyó en el Coloquio sobre Orígenes, de octubre de 1944.
+4 Los poemas fueron recogidos enAsiento en las ruinas (2002).

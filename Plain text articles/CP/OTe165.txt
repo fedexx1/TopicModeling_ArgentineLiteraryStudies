@@ -1,0 +1,530 @@
+Intervenciones desde la ligereza. Notas sobre escritura y política en 
+Osdany Morales y Jorge Enrique Lage
+Lightness interventions: notes on writing and politics in Osdany Morales y Jorge 
+Enrique Lage
+Laura Maccioni
+maccionilau@gmail.com
+Centro de investigaciones y estudios sobre cultura
+y sociedad. CONICET y Universidad Nacional de
+Córdoba, Argentina
+Recepción: 27 Abril 2020 
+Aprobación: 25 Agosto 2020
+Publicación: 06 Noviembre 2020
+Resumen: Se analizan un conjunto de textos de Osdany Morales
+y Jorge Enrique Lage recuperando el gesto político de una
+escritura que se ha liberado de la carga de representar cualquier
+fundamento previo. Lejos de referir a alguna verdad profunda,
+se propone que este gesto ocurre a nivel de la superﬁcie de la
+escritura misma: como indagación acerca del acto de escribir y
+como aﬁrmación de lo que puede la escritura, más allá de las
+especíﬁcas condiciones de producción en Cuba.
+Palabras clave: Literatura cubana, Política, Osdany Morales,
+Jorge Enrique Lage.
+Abstract: A corpus of texts by Osdany Morales and Jorge
+Enrique Lage is analyzed, recovering the political gesture of a
+writing that has been freed from the burden of representing any
+previous foundation. Far from referring to any profound truth,
+it is proposed that this political gesture occurs at the surface
+level of writing itself: as an inquiry on the act of writing, and as
+an aﬃrmation of what writing can do, beyond the unfavorable
+production conditions in Cuba.
+Keywords: Cuban literature, Politics, Osdany Morales, Jorge
+Enrique Lage.
+Introducción
+   Dice Carlos A. Aguilera en su prólogo a T
+eoría de la transﬁcción. Narrativa(s) cubana(s) del siglo XXI que 
+“nada se escucha tanto en el espacio literario como el término ligereza”: ya sea que se lo invoque como elogio
+o como defecto, hay un consenso general en que la ligereza “es una de las marcas de la narrativa o arte del
+siglo XXI” (Aguilera, 2020). En el caso especíﬁco de la literatura cubana, el autor de El imperio Oblomov
+detecta esta marca no sólo en la obra de los escritores que publican en los años previos al cambio de siglo, sino
+también en la de los llamados Generación cero, rótulo que, no sin polémicas y cuestionamientos (Puñales
+Alpízar, 2018; Dorta, 2017; Mora y Pérez, 2017; Grillo y Luis, 2008), agrupa a un conjunto de jóvenes que
+publican por primera vez después del año 2000 o año cero. La “ligereza” de los textos de estos últimos no sólo
+ha sido advertida por Aguilera: otros críticos también han recurrido a nociones similares para describir su
+producción, señalando en ella su “ingravidez” (Cisneros Casamayor, 2013) o su carácter “ﬂotante” (Rojas,
+2018). En cualquier caso, la observación de Aguilera se completa con una aclaración: si la noción de ligereza
+parece sugerir que cuando hablamos de estos escritores estamos en presencia de una literatura en la que
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios de Teoría y Crítica Literaria
+ARTÍCULO / ARTICLE
+Cita sugerida: Maccioni, L. (2020). Intervenciones 
+desde la ligereza. Notas sobre escritura y política en 
+Osdany Morales y Jorge Enrique Lage. Orbis Tertius, 
+25(30), e165. https://doi.org/10.24215/18517811e165
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+2
+predomina la “no profundidad, no reﬂexión, poco desarrollo”, en verdad lo que ocurre aquí “es exactamente
+lo opuesto”. La ligereza —advierte— “[P]udiera deﬁnirse como lo que ya no necesita mostrarse desde la
+psicología u ontología —una relación familiar por ejemplo— para despiezarse y ser asimilada de manera
+“abyecta”, es decir, sin ningún tipo de justiﬁcación, de código” (Aguilera, 2020)
+En este ensayo me interesa ofrecer algunos argumentos que surgen de la lectura de un corpus de textos de
+dos autores cuyos nombres suelen incluirse entre los integrantes de la Generación cero —Osdany Morales
+(1981) y Jorge Enrique Lage (1979)— con el objetivo de profundizar en la reﬂexión de Aguilera recién citada,
+puesto que, entiendo, en esa reﬂexión queda tendida una invitación a pensar las relaciones entre lo ligero y
+lo político. O más bien, si seguimos su línea de razonamiento, a pensar la condición política de la ligereza
+en tanto operación de des-conocimiento de códigos y ruptura de ordenamientos que pudieran servir como
+fundamento o justiﬁcación de un supuesto vínculo natural entre literatura y representación de verdades o
+identidades últimas.
+En este sentido, propongo que la ligereza de los textos que voy a examinar quedaría en evidencia en el hecho
+de que se han descargado del peso de representar la historia o de la misión de recuperar la pureza del origen.
+Asimismo, digo que su proclamada falta de profundidad no tiene tanto que ver con su falta de referencia o
+de penetración en alguna verdad entrañable, sino con que todo lo que necesitan decir ocurre a nivel de la
+superﬁcie de la escritura misma: en estos textos, escribir es, a un mismo tiempo, escribir acerca de la escritura
+y acerca de la eﬁcacia de ésta en el mundo, más allá de lo hostil que puedan ser sus condiciones de producción,
+especialmente en la isla. Dicho de otro modo, escribir tiene que ver con una indagación acerca de qué cosa se
+hace cuando se escribe, pero, además, con dar cuenta del problema de escribir en/desde Cuba. La huella de
+Lorenzo García Vega, por mencionar algunos nombres, es reconocible en la primera cuestión; la fe irrevocable
+que los textos de Reinaldo Arenas profesan en lo que la escritura puede resuena en la segunda.
+Leeré, entonces, un conjunto de textos de Osdany Morales y de Jorge Enrique Lage a la luz de estas claves
+que considero permitirían entender el tipo de intervención política que se juega en sus escrituras; esto es,
+poniendo en evidencia lo que ellas tienen de polémicas aún cuando “inadviertan” (Padilla Cárdenas, 2014,
+p.119) o escapen de los lugares hacia los cuales reconduce insistentemente la institución literaria de la isla en
+su afán de salvaguardar los tópicos que amarran la cultura nacional a un proyecto estatal. Y sin embargo, digo,
+la resistencia a la fuerza de atracción ideológica de esos bloques de sentido no se da por la oposición de una
+fuerza de valor contrario; estos textos no se inscriben en la lógica del antagonismo, sino que recurren a ciertas
+estrategias de escape de esos escenarios y de aﬁrmación del poder inmanente de la literatura que analizaré a
+continuación.
+Osdany Morales: la escritura como desanclaje
+  La novela Papyrus (2012), de Osdany Morales, reúne textos producidos en distintos contextos y 
+publicados en distintos soportes: —un texto leído en Casa de las Américas, otros publicados en revistas 
+virtuales, otros en revistas publicadas en papel— apenas hilvanados a partir de una historia mínima: un 
+escritor emprende un viaje por las Siete Bibliotecas del mundo, pero la condición para entrar en cada una de 
+ellas es que debe dejar un libro escrito. Lo que leemos es la historia de ese viaje y de los libros que a lo largo 
+del recorrido el narrador va escribiendo. Relatos dentro de relatos, Papyrus lleva la acción de narrar a un 
+grado de inﬂación tal que casi no queda nada por comunicar más que el hecho de narrar mismo. Podríamos 
+entonces leer la novela Papyrus como una apuesta por la proliferación de signos, como producción excesiva 
+de palabras que borra la memoria de cualquier discurso fundador. De allí que en las peripecias que relatan 
+los siete libros se repita siempre, como un mantra, las mismas dos frases: Todo se va, pero también queda, es 
+una de ellas. La otra: El centro es inmóvil, pero minúsculo. La primera parecería acometer contra la Historia, 
+contra la idea del tiempo como sucesión lineal y continua, sugiriendo en cambio la imposibilidad de los 
+ﬁnales y los comienzos. La segunda parecería tener un sentido semejante, pero aplicado al territorio del 
+Lenguaje, o tal vez del Archivo: si admite la existencia de un núcleo que permanece inmóvil ante la 
+contingencia, reconoce al mismo tiempo la debilidad de su fuerza gravitacional; concede la existencia de un
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+3
+(micro)centro, pero lo rebaja en su capacidad de, por así decirlo, irradiación, determinación u organización 
+de lo que está a su alrededor.
+Una multiplicidad de lugares, de tiempos y de materiales de archivos de la cultura global se superponen y
+acoplan a lo largo de Papyrus, desdibujando cartografías y cronologías. El resultado es la compilación de un
+ﬂujo incesante de hablas y relatos que se dilata y se expande al punto tal de que queda liquidada la posibilidad
+de identiﬁcar algún nudo o sustrato narrativo, un mensaje del cual un narrador estable sea el portador,
+una memoria cultural que restituya el pasado. Papyrus nos entrega una sucesión de historias que brotan de
+otras historias, microrrelatos encapsulados que se vinculan entre sí por acumulación. Frente a ciertas lecturas
+que han creído ver en este texto de Osdany Morales un homenaje a las bibliotecas (Villasana, 2013; Navia,
+2013) y al valor totémico del archivo que ellas guardan —de hecho la traducción al inglés del título fue
+e last librarian— o bien un acto reverencial hacia el narrador como aquél que domina el arte de hacer
+relatos con otros relatos contribuyendo así al engrosamiento del patrimonio escriturístico de alguna entidad
+trascendente, yo leo en Papyrus un esfuerzo por vincular el relato con la idea de pérdida, de desposesión de
+certezas que es inherente al acto de representar. Narrar, añadir un relato o un libro más a la masa de discursos
+existentes es llevar a cabo un acto político que consiste en alimentar la incertidumbre, habilitar la posibilidad
+del olvido, impedir que los discursos anclen en algún punto ﬁjo y deﬁnitivo. No resulta casual que en la
+visita a la primera biblioteca la conversación con el bibliotecario recuerde el cuento “El libro de arena”, y en
+particular al ancla dibujada como por una mano infantil, que el narrador del cuento de Jorge Luis Borges
+ve la primera vez que abre el libro, pero que no podrá reencontrar nunca más. Sin embargo, a diferencia del
+bibliotecario borgiano que compra ese diabólico objeto y luego lo esconde en la Biblioteca Nacional para
+escapar del horror que le provoca un libro que se escribe a medida que se lo lee, en Papyrus hay una aceptación
+casi gozosa de esa inestabilidad signiﬁcante, de esa imposibilidad de establecer jerarquías y líneas de sentido,
+de esa fragmentariedad que no se resuelve en ninguna ﬁgura totalizadora.
+Narrar, en síntesis, como modo de impedir la coagulación del Sentido, como aplicación del método de lo
+que uno de los personajes llama “ﬁcción automática”: narrar maquínicamente, hacer una literatura que sea el
+equivalente a las máquinas de Picabia en la pintura (Morales, 2012, p. 22), desfondar el yo como soporte de
+alguna seguridad. Hacer de la sede autoral el lugar del robo y el invento, pero reconociendo, al mismo tiempo,
+que no se podría hacer nada diferente a eso: no podría reponerse ninguna verdad aun cuando el autor quisiera
+hacerlo. De esto mismo habla Morales en su cuento, “Las playas albinas”, singular homenaje a Lorenzo García
+Vega en clave de policial. Publicado por primera vez en 2011 en la revista Quimera, el relato se inicia con
+un motivo que aparece reiteradamente en la literatura cubana del siglo XXI: el tráﬁco de libros a través de
+archivos digitales, el acceso fragmentario y de segunda mano a la literatura contemporánea. En el comienzo
+del texto el narrador nos informa que ha recibido en un pdf las primeras 48 páginas del libro de memorias de
+Lorenzo García Vega que lleva por título El oﬁcio de perder. “Desde hacía un tiempo tenía gran interés por
+leer estas páginas. Porque hasta entonces no había leído a Lorenzo García Vega. O al menos no había estado
+tan cerca de uno de sus libros, y las fotocopias —no fueron hechas por mí, yo solo las recibí en un pdf y las
+imprimí— son lo más cercano que he estado de su obra” (Morales, 2014, p.13), nos dice. Pero, como ocurre
+en los policiales, esas páginas escritas presentan un enigma para el lector, que no sólo aspira a conocer a García
+Vega a través de un fragmento de sus memorias, sino que además aspira a completar la información que falta
+en ese fragmento para reconstruir su sentido:
+En mi primera aproximación descubrí que en sus memorias invocaba a personajes, tal vez célebres, que al mismo tiempo me
+resultaban desconocidos. Personajes que no se presentan en el texto y que son traídos familiarmente por el autor, como si el
+lector tuviera la obligación de conocerlos de antemano. Decidí avanzar por los nombres que de un modo u otro la vida de
+lector que yo había vivido hasta entonces me había escamoteado. Conté un total de siete, para mí, desconocidos, mencionados
+con nombre y apellido [...]: Hortensia Gronlier, Enrique Fierro, Ida Vitale, Elisa Lerner, Agustín Acosta, Juan Liscano y
+Dardo Cúneo. Estos son los archivos de mi acomodada investigación, para la cual conté con una laptop conectada a Internet,
+un cuaderno de apuntes, un teléfono, los papeles impresos por ambos lados. (2014, p.13)
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+4
+Con este tono detectivesco, el narrador nos hace cómplices de una pesquisa obsesiva a través de la web,
+de llamados por teléfono a otros países, de búsquedas en bibliotecas con el objetivo de completar un relato
+en el que faltan piezas. Su investigación arroja resultados incompletos, parciales, descontextualizados: a veces
+consigue datos biográﬁcos de alguno de estos personajes, otras su foto, su ﬁrma, su obituario, incluso los datos
+del homónimo de uno de los mencionados en el libro a quien termina invitando como amigo en facebook.
+Pero aquí también aparece la incertidumbre como un elemento fundamental del archivo. En sus memorias,
+García Vega habla de una ﬁesta de ﬁn de año, en una casa cerca de Caracas, a la que acude con el escritor
+venezolano Juan Liscano y el intelectual argentino Dardo Cúneo. Corre el alcohol, hay mucha gente, las
+imágenes están desdibujadas. De esa ﬁesta García Vega recuerda el momento en que Cúneo le comenta que
+sus memorias se habrían de llamar El oﬁcio de perder, y que un rato más tarde, mientras está orinando en
+el baño de la mansión de Caracas, decide robarle el título para ponérselo a las suyas. Pero ocurre algo más:
+tratando de recordar otro detalle de esa misma noche, García Vega escribe: “A lo mejor, si se lo preguntamos a
+Liscano, este tampoco lo sabe. Y en cuanto a Dardo, ¡ay!, ya no se le puede preguntar. Dardo se murió” (2014,
+p.34). Y es aquí donde el narrador de “Las playas albinas” hace un descubrimiento: “en nuestros apuntes
+tenemos lo siguiente: en ese entonces —el entonces del año de la publicación [de El oﬁcio de perder], 2004
+— Juan Liscano ¡ay!, había muerto, y Dardo aún vivía. ¿Habría estado Lorenzo haciendo bromas sobre la
+muerte de sus amigos?” (2014, p.34) duda el narrador. Y continúa razonando: “La opción más posible, pero
+insólita, es que los haya intercambiado en su memoria, y por momentos de la ﬁesta ﬁnal donde dice Juan
+debe leerse Dardo.” De ser así, concluye, Liscano no solo habría sido desterrado de su propiedad intelectual,
+sino de la posibilidad de, al menos, “una justicia poética”: sea debido a la confusión de una noche regada por
+el alcohol, sea por su vejez, García Vega muestra una sola jugada cuando en verdad habría realizado dos. El
+hallazgo desconcierta al narrador-detective: “¿qué hago yo ahora con este descubrimiento?” se pregunta. Y
+sigue: “Con todos mis personajes desconocidos me he equivocado, o se han equivocado ellos. Han estado a
+tiempo para algo, pero son muy viejos para enmendar nada. Rozan la impunidad. Lo que entendemos por el
+tiempo es ese error” (2014, p.36). Si fue una pulsión documental la que llevó al narrador a investigar en el
+archivo Lorenzo García Vega, esa pulsión quedará insatisfecha, pues lo que encuentra sólo aporta incerteza,
+ambigüedad. Convencido de que el buen lector es el que se impone el deber de saber lo mismo que el autor
+como garantía de sentido último (“como si el lector tuviera la obligación de conocerlos [a las personas que
+nombra García Vega] de antemano” (p.13), había dicho al principio), el narrador emprende una investigación
+de la que espera obtener los datos que le faltan; pero su investigación termina mostrando que, al igual que
+él, el autor tampoco sabe y que, peor aún, la autoridad de su testimonio se ha diluido en la impunidad de
+robos voluntarios y olvidos involuntarios. También aquí queda impedido o deﬂacionado cualquier intento
+de constatación identitaria: mientras el narrador escribe los resultados de su pesquisa casi como notas al
+pie del texto de Lorenzo García Vega, saturando de glosas lo que cuentan esas 48 páginas de sus memorias,
+éstas, lejos de volverse más precisas, se van revelando en su carácter indecidible, ﬁccional, irrecuperable para
+cualquier gesto que aspire a hacer de ellas un documento de algo o que busque en ella una autobiografía.
+En síntesis, aquí tampoco el archivo aporta evidencia testimonial de ninguna verdad, ni tampoco puede ser
+invocado desde ningún paradigma representacional. El centro es inmóvil, pero minúsculo: apenas un nombre
+—Lorenzo García Vega— que sirve para abarrotar una masa de enunciados autistas, cuando no ajenos, que
+se van acumulando sin orden alguno como quien carga mercaderías en el carrito del supermercado.
+Este desanclaje, digo, esta salida de cauce de la escritura por la vía del exceso es la estrategia de Osdany
+Morales para escapar de cualquier texto tutor: sea porque abre el grifo de la narración para que ﬂuyan relatos
+en un torrente que arrasa con cualquier sentido; sea porque, en la estela de la escritura del propio Lorenzo
+García Vega, los enunciados terminan acumulándose abigarradamente en un no-relato. Esto es, se propone
+escribir algo sobre algo, pero no logra su cometido porque el objeto que el discurso quiere capturar es vago,
+equívoco y por tanto nada concreto puede decir de él, dando por resultado un relato que narra el fracaso de
+relatar. En cualquier caso, los textos de Morales resisten a una lectura que apunte al consabido anclaje de éstos
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+5
+en el archivo de las ﬁcciones sobre la nación: una búsqueda tal pronto constataría que esta huida de los límites
+de lo decible, este trabajo de in-utilización del lenguaje al que nos referíamos —sea a través del desborde de la
+narración, sea a través de la declaración de su ineﬁcacia como vía de acceso a alguna verdad— más bien estaría
+dando cuenta de una desistencia o renuncia a reconocer —aﬁrmándolas u oponiéndose a ellas— las reglas
+de un campo literario nacional cuya lógica político-institucional ha apuntado desde hace décadas a encauzar
+y territorializar los proyectos literarios de los escritores cubanos, a gestionar sus usos de la lengua, a premiar
+ciertos géneros y estilos, a conﬁgurar identidades cívicas, en ﬁn, a asegurar su funcionalización política.
+Escribir en /desde Cuba: lo que puede la literatura
+  La posición de Morales frente a esta última cuestión aparece esbozada en “Querido sobrino 
+Gobo” (2011), una especie de ensayo-ﬁcción que reﬂexiona acerca de las condiciones que ﬁjan a su 
+escritura las políticas culturales estatales, pero también las políticas de las casas editoriales internacionales, 
+en un contexto en el que, desde comienzos del siglo XXI, el modelo económico cubano experimenta 
+gradualmente un proceso de apertura al mundo. En este relato desopilante, un escritor de nombre Os 
+(Osdany) entrevista al cantante Juan Luis Guerra, apasionado coleccionista de la nueva narrativa cubana. 
+El título alude a la serie para niños Fraggle Rock, cuyos protagonistas, los fraggles, son unos muñecos que 
+viven en algo así como cuevas aisladas. Uno de ellos, Matt el viajero, es el único fraggle que ha salido al 
+mundo exterior, y desde allí le envía cartas que narran sus increíbles aventuras por fuera de la cueva a su 
+sobrino Gobo, cartas que comienzan siempre con el encabezado que Morales usa como título. Como el 
+sobrino Gobo que conoce el mundo a través del tío Matt, Os termina de entender lo que sucede en el 
+campo de la literatura cubana contemporánea cuando se lo explica el dominicano compositor de bachatas, 
+esto es, alguien que lo mira desde afuera y desde lo que vendrá. Y, al igual que en Papyrus y en “Las playas 
+albinas”, tampoco en este caso será posible anclarse en algún territorio ﬁrme, pues, por el contrario, a lo 
+largo de la entrevista el autor de O
+jalá que llueva café deja en claro su rechazo tanto por la literatura que se 
+escribe para satisfacer las exigencias de las políticas culturales oﬁciales, pero también por la literatura que 
+consagran los grandes grupos editoriales internacionales. En otras palabras, lo que ocurre es que son las 
+políticas editoriales las que terminan decidiendo qué libros escribe el escritor. Con respecto al 
+funcionamiento del campo literario cubano y su escasa autonomía con respecto al Estado, dice:
+[...] la principal postura a la hora de sentarme cómodamente a leer a un nuevo autor cubano es el hecho de interpretar que
+su libro pudo haber sido otro, muy distinto, y que lo que tenemos a mano a veces no es más que unas pocas indicaciones para
+llegar al original. Me gusta [...] recrear los encuentros, reales o imaginarios, con alguna manifestación de censura. Actualizar
+el libro que hubiera sido o aquel que el autor hubiera escrito en otras condiciones. Y me pregunto constantemente si la
+apropiación de determinados géneros, la elección de ciertos patrones en la literatura cubana contemporánea no son el
+resultado de esa fuga premeditada del pabellón de lo inédito hacia las anchas y ventiladas praderas de la publicación nacional.
+[...] lo más interesante al hablar de literatura cubana de los últimos años es que la isla supone un aislamiento que no alcanza
+sólo a los nuevos autores desorientados, sino también a esas hordas de legitimación ya crecidas dentro del aislante; verbigracia
+críticos, editores, jurados… Muchas de las propuestas de estos escritores consiguen cierta visibilidad, incluso la publicación,
+por el hecho de ganar un premio literario, ya sea con un relato o con un volumen terminado [...] Esto hace que lo que más se
+muestre de la nueva literatura sea el producto de la lectura de un jurado, que no siempre está actualizado o comprometido
+[...] en Cuba se escribe literatura como si en la bolita del mundo se hubiera dejado de escribir. Es sorprendente [...] encontrar
+una página que haya sido redactada bajo el inﬂujo más genuino de la creación. (Morales, 2011, p.50-51)
+Pero si el medio aislante ha fructiﬁcado en “hordas de legitimación” que determinan “la elección de ciertos
+patrones en la literatura cubana contemporánea” —aquéllos que ofrecen mayores posibilidades de escapar
+“del pabellón de lo inédito” hacia las “praderas de la publicación nacional”— la apertura al ﬂujo editorial
+transnacional tampoco parece generar en el dominicano la esperanza de que hayan más páginas “redactadas
+bajo el inﬂujo más genuino de la creación”. Ante la pregunta “¿Cómo visualizas el futuro de la literatura
+cubana?” Juan Luis Guerra contesta:
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+6
+No quisiera sonar pedante, pero lo que uno tiene en mente al pensar en el futuro de la literatura cubana es lo más parecido a
+este presente subterráneo. Ahora es posible escribir, escriban. Ahora no tienen que agradar a nadie en un sentido comercial.
+A Cuba van a llegar los grandes grupos editoriales. Va a existir otro tipo de correctores, surgirá una crítica motivada por la
+rabia y otra por el pago de sus columnas, aparecerán suplementos culturales, revistas literarias con publicidad no literaria.
+Se formará un tipo de autor no intelectual. El compromiso político será una opción personal. Terminará por deﬁnirse lo
+que hoy es solo un esbozo: el autor celebridad [...] Abrirán sus puertas nuevas librerías y ofrecerán suplementos y páginas
+web detestables donde se promocionará el libro del mes y siempre será una basura. Habrá listas de los mejores libros del
+año cuando llegue diciembre, y estarán relacionadas a las editoriales y a sus estrategias de mercado. Pero también aparecerán
+las listas de los que no tienen nada que perder y expondrán títulos ambiciosos y difíciles de encontrar, porque también
+aﬂorarán editoriales independientes que no tardarán en posicionarse entre las de Hispanoamérica, al lado de Beatriz Viterbo,
+Estruendomudo y Almadía o Alpha Decay, Candaya y Periférica. Y de la confrontación entre los nuevos autores excluidos
+y los recién llegados grupos editoriales surgirán pequeños cercos de resistencia, a los cuales les costará mucho ver más allá de
+sus ilusiones colectivas, recicladas y presumiblemente arriesgadas [...]
+Habrá booktrailers. Se adaptarán al cine. Y entonces la literatura cubana se parecerá mucho a la literatura internacional y 
+será en deﬁnitiva un basurero contemporáneo. (Morales, 2011, p.52)
+En deﬁnitiva, el cuento describe un presente problemático para los autores cubanos: si es cierto que éstos
+escriben bajo las regulaciones y condiciones de publicación propias de una territorialidad aislada —lo cual sin
+dudas afecta la calidad literaria de sus textos— la extraterritorialidad, el mundo exterior a la isla que reporta
+el tío Matt, no parece que fuera a liberarlos de constricciones puesto que allí regirían otras. En este sentido,
+creo que la cuestión que plantea el cuento no es tanto la de constatar de qué manera la territorialidad en tanto
+condición de producción —que en el caso de Cuba implica presiones ideológicas, acceso a libros, posibilidades
+de publicación, gestión estatal de la edición, etc.— deja su huella inevitable y reconocible en una literatura
+cualquiera, sino más bien qué clase de literatura logra efectivamente escribirse aún en esas —o en cualesquiera
+otra— condiciones. Un planteo político, creo, en tanto pone el énfasis en lo que puede la literatura: “Ahora
+pueden escribir, escriban”, advierte Juan Luis Guerra. Dicho de otro modo, toda escritura lleva las marcas
+de sus condiciones, el asunto es qué puede hacer el escritor a partir de ellas. Algunos, convencidos de que la
+literatura es un discurso social que, como cualquier otro discurso social, “está anclado” o remite más o menos
+directamente a la realidad y sus condiciones —incluidas las condiciones para publicar en un país como Cuba
+— entenderán que la escritura no puede dejar de ser un trabajo sociográﬁco, un registro más o menos directo
+de un modo comunitario de pensar, de ser, de estar. O de padecer, cuando los habituales lugares comunes
+del imaginario (tropical, erótico, heroico) acerca de Cuba son abandonados por el tópico de la escasez, la
+pobreza, la marginalidad, etc.
+Otros, y creo que este es el caso de Morales, entienden que la literatura no tiene con la realidad una
+relación de registro o testimonio sino, por el contrario, de suspensión o disolución de un orden del mundo
+que es también un orden del discurso, con sus reglas de visibilidad y enunciabilidad; y, como ocurría en
+Papyrus, la corrosión de ese orden es propia de una experiencia que se efectúa en el lenguaje mismo. Ese
+poder de erosión es el poder de la literatura y del escritor, más allá de las condiciones que su territorialidad
+le imponga. El rechazo a la evaluación de la calidad literaria de un texto en función de su representatividad
+nacional y, por el contrario, la defensa de la literatura como experiencia de extrañamiento del lenguaje queda
+planteada de modo contundente en una entrevista realizada a Osdany Morales cuando la periodista, que
+se muestra sorprendida por que haya “un escritor cubano que ﬁccionaliza desde una urbe tan cosmopolita
+como Nueva York”, que “rara vez” contemple a La Habana en sus textos, “sin preocuparse de que lo tilden de
+escapista al alejarse de su contexto” pregunta: “¿Busca OM la extraterritorialidad? ¿Puede un escritor cubano
+ser extraterritorial?” Morales le contesta: “La extraterritorialidad es una ﬁcción jurídica. Un escritor no es
+una embajada, ni una base militar. Y menos un deportista olímpico que representa un país. Yo alteraría la
+pregunta: ¿puede un escritor, de cualquier parte, ser cubano?” (Sánchez, 2016)
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+7
+Jorge Enrique Lage: escribir (en) la superficie
+    También los textos de José Enrique Lage son una superﬁcie en la que la escritura habla de la escritura y sus 
+poderes, de unos poderes que se activan cuando se hacen experimentos con el lenguaje. De su formación como 
+bioquímico Lage retiene una regla de oro: “no existen sustancias inocuas, sólo maneras inocuas de utilizar las 
+sustancias” (Grillo, 2012). El carácter letal de una sustancia como el lenguaje depende, por tanto, del montaje 
+de sus elementos, la combinación en dosis calculadas, el sometimiento de los materiales a operaciones diversas: 
+agitación, enfriamiento, saturación. Escribir es un experimento cuyo resultado es una mutación no sólo de 
+la lengua sino del escritor mismo. Escribir convierte a los escritores que pululan en los cuentos y novelas de 
+Lage en otra cosa: pierden su forma humana, transforman radicalmente su aparato perceptivo, modiﬁcan su 
+régimen de alimentación. Hay algo de gótico en las ﬁcciones de Lage: el buitre, el vampiro suelen ser las ﬁguras 
+en las que encarna el escritor —es el argumento del cuento “Pensar todo el tiempo en Lorenzo García Vega” 
+—; también el inventor loco, ese que hace injertos y ensambles delirantes —para ejemplo basta el personaje 
+de La autopista que ha reconstruido a Simón Bolívar con partes de distintos cadáveres (Lage, 2016, p.142)—. 
+En Vultureﬀect(2015), un libro de microcuentos, podrían leerse las características de la poética predatoria 
+que practica Lage: no es el aura de la obra de arte la que habita en la literatura sino otra aura: el buitre, el 
+vulture, cuyo alimento son los desperdicios, los restos, los despojos. El producto de la digestión de esa materia 
+en descomposición es lo que los escritores de los textos de Lage llaman literatura. Y el gran vertedero universal 
+de residuos es, obviamente, la televisión y la web, medios nutricios que abastecen lo que el autor llama la world 
+waste writing de la cual su propia escritura es un exponente.
+Aura, también gallinazo: cathartes aura. [...] Se alimentan de carroña, basuras, frutas, reptiles pequeños y televisión. Buscan
+su alimento con el olfato y no con la vista, como hacen los buitres del resto del mundo, puesto que sus epitelios y sus bulbos
+olfativos están muy especializados. (Lage, 2015, p.48)
+El escritor-buitre encuentra su alimento con el olfato; sus bulbos olfativos lo guían, pero el olor es una
+percepción que no puede organizarse analíticamente por medio de la lengua, cuyos sistemas de codiﬁcación
+están dirigidos fundamentalmente a las sensaciones visuales y auditivas. El olor es una experiencia inefable: allí
+naufraga la palabra y su supuesto poder de descripción. Desprovistas de signo, las sensaciones que registra esta
+escritura vulturizada se suceden sin conexiones lógicas, sin sintaxis alguna, son como unidades fragmentarias
+que se encajan sin manual de instrucciones previo. De ahí que el punto de partida de muchos de los textos de
+Lage sea la destrucción de cualquier sistema anteriormente existente que hubiera podido albergar y colocar
+lo que leemos en un lugar previamente asignado: las historias que cuenta ocurren, por ejemplo, después de la
+explosión de un planeta o de la destrucción de La Habana por la construcción de una autopista que conecta
+Key West con la capital de Cuba. En ese paisaje detonado, Lage parece elaborar sus textos a partir de la
+recolección de materiales desechables, materiales que una cultura echa fuera de sí, montados de un modo
+cualquiera, sin otro método más que el ensamblaje: “ De un tiempo para acá he venido pensando los cuentos
+como si fueran instalaciones: agregas un elemento, luego otro, amarras por aquí, copias y pegas por allá, vas
+probando e intercalando materiales [...] y esperas que se cierre algún circuito, que aparezca alguna corriente
+de sentido. Yo le llamaría “proceso de montaje”, dice Lage en una entrevista. (Grillo, 2012).
+¿Qué clase de archivo se actualiza en una escritura como ésta? Ninguno que permita reconocer los
+lugares comunes del archivo literario nacional. Dicho de otro modo: si un archivo es también un lugar —
+no repetiremos aquí las relaciones entre sentido y domicilio/residencia/localización señaladas por Jacques
+Derrida— los escritores de Lage serían outsiders, seres que han escapado de allí o se han perdido y ni siquiera
+recuerdan de dónde provienen. Escribir es escribir ese olvido, poner bajo sospecha los recuerdos, huir del
+sentido al que ellos nos atan. En Carbono 14(2012), por ejemplo, está Frank, un escritor-buitre que, como
+Evelyn, la protagonista de la misma novela, viene de otro planeta. Evelyn no recuerda nada, sólo una explosión
+que la lanza al espacio, desnuda y con una Tabla Periódica de Elementos en la mano, que es como “un oráculo
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+8
+desfasado o algo por el estilo” (2012, p.145), “muy defectuoso” (p.41). La Tabla responde a las preguntas de
+Evelyn a través de frases y combinaciones de signos. Evelyn pregunta a la Tabla de dónde viene, y el narrador
+nos dice que ella “enlazó por su cuenta dos símbolos-sílabas al azar para crear un nombre inverosímil de
+planeta” (p.42): Cuba, un planeta que ya no existe. Frank, por su parte, está escribiendo un libro que lleva el
+título de otro libro de Lage: Vultureﬀect. El objetivo de Frank es que lo que escribe sea irrecuperable para el
+archivo de su planeta V: “Tengo que lograr que cuando quieran traducirme a la lengua oﬁcial de V no sepan
+cómo hacerlo” (p.132).
+Se trata entonces de escribir huyendo de las líneas directrices que el archivo traza para controlar los posibles
+recorridos por sus materiales: dicho de otro modo, un escritor es el que entiende que con los elementos del
+archivo jamás podrá armarse un país, de una vez y para siempre. En un cuento previo a Carbono 14, en el
+que ya aparecen algunos de sus motivos —una niña llamada Evelyn, una Tabla periódica— y que lleva por
+título “La azotea y la Reina” (2006), el protagonista intenta ayudar a su vecino Douglas C (por Douglas
+Coupland, pero, nos dice, también por Cuba) en su proyecto delirante: crear una isla con ese nombre. Para eso
+recurre a una tabla periódica con la que pretende poner orden en el archivo de documentos que ha acumulado
+el anciano: “Volúmenes de encuadernación casera, periódicos y revistas de nombre desconocido, recortes,
+folletos, fotografías, cintas de video, mapas. Cuba por acá y Cuba por allá. Cuba por todas partes. El Caos”
+(2006, p. 228).
+La tabla intenta disponer todos esos materiales para que el resultado sea de alguna manera inteligible:
+Imaginar, sólo eso. Imaginar un país, una isla (como en las viejas utopías, tiene que ser una isla), con tanta fuerza que los
+libros y los periódicos y las revistas y los videos y las fotos y los mapas vayan surgiendo poco a poco, caídos por su propio peso,
+acomodándose como limaduras alrededor de un imán (2006, p. 233).
+Finalmente el protagonista, devenido en secretario de Douglas C, construye la tabla con la que intenta
+organizar los elementos que componen Cuba:
+Inertes: héroes (He), neurosis (Ne), artesanía (Ar), crisis (Kr), xenoﬁlia (Xe) y resistencia (Rn). Elemento es, de alguna
+manera, lo esencial, no necesariamente lo común. Alcalinos: libertad (Li), nación (Na), cultura (K), rabia (Rb), consigna
+(Cs) y fervor (Fr). Aunque sea lo esencial-mínimo, lo esencial-extraño, lo esencial-terrible” (2006, p. 231).
+Sin embargo, al ﬁnalizar el proyecto entiende que ese orden (o cualquier otro) es un absurdo: “Con
+un elemento tras otro no se puede (yo no pude) recrear algo que no existe, al ﬁnal solo es posible la
+caricatura, el caos disfrazado de orden [...] darte cuenta cuando ya no tiene remedio (¿por qué estos elementos
+y no otros?)” (2006, p.232). No hay elementos esenciales sobre las que pueda erigirse una condición
+ontológica comunitaria. Tampoco hay ningún núcleo identitario bajo la superﬁcie que pueda restituirse, en
+el improbable caso de que la superﬁcie fuera lo que está arriba de alguna profundidad. Ese es el increíble
+descubrimiento que realiza JE (Jorge Enrique), el protagonista de Carbono 14, al usar el kit radiométrico
+comprado en una feria de tecnología para datar con el método del carbono 14 la antigüedad de distintos
+objetos. Para su sorpresa, descubre que la ropa interior femenina tiene millones de años: es más antigua que
+cualquier otra cosa que el kit haya testeado. Le revela el secreto a su amigo Frank, el buitre-escritor, quien
+llega a una conclusión:
+-De modo que la ropa interior femenina existe desde antes de que existieran las mujeres —razonó Frank— ¿Crees que las
+mujeres existen para justiﬁcar la existencia de la ropa interior femenina? [...] La ropa interior femenina es una superﬁcie. La
+última superﬁcie antes del cuerpo (2012, p.83)
+Sólo que el cuerpo también sería un elemento accesorio, un soporte circunstancial y secundario de aquello
+que, como la ropa interior, se recambia permanentemente, y en esa permanencia del recambio delata su
+antigüedad.
+Algo similar ocurre en La autopista (2016): en el último capítulo aparece un personaje ciego, con gafas
+oscuras, de nombre Ray Ban, a cuyo taller mecánico van a parar los autos averiados en la autopista. Pero
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+9
+además de mecánico de coches, Ray Ban es el propulsor y único redactor de e Critic, una publicación que
+busca rescatar las raíces de la cultura cubana sepultadas bajo la autopista:
+Ray Ban tenía claro cuál era su papel, cuál era su misión: contra la velocidad y la intemperie, la memoria y el conocimiento.
+Porque nada estaba perdido aún, aunque todo pareciera irremediablemente perdido. Porque lo que había que reconstruir y
+salvar era, ni más ni menos, el sustento profundo de la cultura cubana. (2016, p.179)
+En los párrafos ﬁnales del libro, el guardián de la cultura cubana se ha dormido, y uno de los protagonistas
+—el Autista— intenta quitarle las gafas. Pero, debajo de esas gafas hay otras, y debajo de esas otras más y así
+sucesivamente. “Gafas de sol unas sobre otras, tapándose unas a otras. El Autista nunca llegó a verle los ojos
+a Ray Ban.” (2016, p.184).
+La autopista termina con este descubrimiento: ningún “sustento profundo”, ninguna raíz: tan sólo
+superﬁcies sobre más superﬁcies.
+Escribir en/desde Cuba: crear la salida
+    Escribir como actividad que no remite a ninguna profundidad sino que ocurre a nivel de las superﬁcies; 
+énfasis en el procedimiento antes que en el resultado; atención en el movimiento hacia alguna parte antes 
+que en la llegada o conclusión; relatos que consisten en un escritor que cuenta el libro que escribe o quiere 
+escribir, pero que el lector no llegará a conocer nunca: esta forma de entender la escritura le permite a Lage 
+desentenderse de las demandas de representación identitaria. Como ocurría en Morales, también aquí el 
+“desanclaje” implica un posicionamiento frente a las condiciones de escritura y las políticas que afectan la 
+circulación pública de los textos. Puesto que una de las condiciones para que una escritura rizomática exista 
+—esto es, para que no quede capturada por las instituciones del Estado pero tampoco de la industria 
+editorial— es la de asegurar otra forma de circulación de los signos. Ese posicionamiento queda enunciado 
+de manera contundente en “Miami” (Lage, 2012) un texto que publica tras la muerte de Lorenzo García 
+Vega. Allí Lage rinde homenaje a este autor que cortó las amarras que atan la palabra a la función 
+comunicacional del lenguaje y así, a la deriva, fue a parar a “Playa Albina, la playa del naufragio de la 
+escritura” (2012, p.34), donde los textos se van armando con las “mierditas” y “chucherías” que traen las 
+olas. Desde ese espacio mítico, Lage se pregunta qué puede la escritura:
+¿Es posible fundar algo desde ahí, a partir de ahí? Habrá que ver. El crítico Gerardo Muñoz apuntó que ningún escritor
+cubano de la actualidad estaría dispuesto a cambiar Anagrama por Lorenzo García Vega. Todos quieren ir al supermercado,
+diría yo, pero nadie quiere ser el bag boy. (2012, p.34)
+Escribir en la lengua del bag boy —sostiene Lage— es asumir el riesgo de lo que puede la literatura cuando el
+escritor decida apartarse de los caminos que conducen más fácilmente a la publicación segura, la consagración
+editorial, las regalías. Eso que todavía puede, consiste, creo, en la invención del espacio mismo en el que
+una enunciación autista pueda ser (des)articulada. En esta clave, propongo, adquieren otro signiﬁcado los
+proyectos de agenciamiento colectivo de los que el propio Lage fue miembro en la primera década de los 2000,
+como el colectivo Espacio Polaroid, la revista 33 y 1/3 (2005-2010) o la revista e revolution evening post
+(2006-2008). En estas experiencias, el dictum “lo que puede la literatura pese a las condiciones existentes”
+se transforma en “lo que puede la literatura cuando logra crear otras condiciones para existir”. Sospecho que
+algo de eso es lo que Lage quiere decirnos en “15000 latas de atún y no tenemos cómo abrirlas” (2007), otro
+relato (más) sobre escritores. En ese cuento, un joven escritor cubano busca infructuosamente una editorial
+para publicar su primera novela. Todas las editoriales de Cuba le dan la misma respuesta: ya no estamos
+publicando libros, no tenemos nada que ver con eso. De hecho, ni siquiera traen a Cuba “esos libros de los
+que todos hablan y que hace cinco, diez, veinte años, pasaron por las manos del resto del mundo”. En esa
+búsqueda, entra en contacto con una extraña editorial que contrabandea cajas llenas de “piezas para armar
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+10
+cualquier cosa”: algo así como células madre para engendrar ﬁcciones. El escritor se suma a la operación de
+contrabando que traman los singulares empleados de la editorial, pero la policía los descubre y comienza a
+perseguirlos. Pero tras varios intentos fallidos (“me salieron [...] un párrafo de Thomas Pynchon, dos rocas
+marcianas Spirit y una rata de laboratorio”), el escritor logra con esas piezas armar cortinas de humo y un fusil
+con el que se deﬁende de sus perseguidores. Finalmente, la policía cerca el vehículo y conmina al escritor y a
+sus cómplices a entregarse. Éstos le piden que “arme algo”, y el escape ocurre a través de un recurso inesperado:
+-Arma algo.
+[...] les pregunté si tenían alguna sugerencia.
+-Tú eres el que lleva dos horas usando las piezas. Mira a ver si puedes resolver esto. Si no, estamos jodidos.
+Abrí una caja. No se me ocurría nada. Cerré los ojos y respiré.
+Rápidamente, mi cerebro ejecutó un movimiento de comprensión.
+[...]
+Era posible armar algo (cualquier cosa) que nos sacara del callejón sin salida,
+UNO
+pero también era posible armar, directamente, la salida del callejón: extender las piezas hacia un movimiento de lenguaje. 
+DOS
+De modo que fabriqué la salida y escapamos.
+O no: el hecho de fabricar la salida supuso el escape (Lage, 2007)
+En vez de hallar el medio para salvarse en esa encerrona pero dejando intacto el callejón sin salida, el escritor
+del cuento crea directamente la salida. Como si hubiera entendido que nunca estarán dadas las condiciones
+para publicar una literatura hecha de “mierditas” y “chucherías” ensambladas, sino que esas condiciones
+deben ser creadas. Por eso es que en el texto que abre el primer número de la revista 33 y 1/3, y de la que Lage
+fue uno de sus editores, se nos dice que ésta es una revista menos:
+33 y 1/tercio no quiere ser una revista más
+33 y 1/tercio no quiere ser una revista
+(¿pasar revista? ¿revisionista?)
+simplemente trata de escapar de líneas
+(no por grande el concepto se amplían los horizontes) 
+33 y 1/tercio quiere ser una revista menos (AA.VV, 2005)
+Este espacio de enunciación-otro no pertenece al lugar en el que están todas las otras revistas conocidas,
+allí donde estas pueden entrar en diálogo o en debate haciendo un sistema más o menos orgánico, sino que
+se va construyendo mientras sucede la fuga del lugar común de la literatura nacional: es, dijimos, la playa
+del naufragio. Este locus de enunciación que crea la revista no opone una resistencia antagónica, sino que
+inventa una forma de escapar a los modos institucionalizados de representación de la función literaria. Es un
+experimento en el que se reconocen las huellas de Gilles Deleuze (Deleuze y Parnet, 1980, p.45): busca ser al
+mismo tiempo escape y arma, salida y medio de salida a la vez.
+Así, en los textos de Osdany Morales y de Jorge Enrique Lage que he analizado no es la profundidad de los
+valores ideológicos que se deﬁenden ni la declamación de supuestas verdades lo que habilita su lectura política.
+Tampoco el testimonio de la ruina ni la denuncia. Su carácter polémico reside no en lo que dicen, sino en
+cómo funcionan: obstruyen la lengua del orden sin otro recurso más que el de conservarse a ﬂote tras haberse
+aligerado de cualquier ﬁn o misión que se le hubiera asignado. Siempre a nivel de la superﬁcie de una escritura
+que no apunta a ningún referente exterior, que no ancla en nada más que en ella misma, ejerciendo desde
+ese lugar el poder que es propio de la literatura: el de interrumpir las conﬁguraciones simbólicas dominantes,
+de suspender cualquier certeza sobre lo que el texto aﬁrma, de creación de un (no) lugar en donde esa
+incertidumbre pueda ser dicha.
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+11
+Referencias
+AA.VV. (2005). Play, Revista 33 y 1/3. Recuperado de http://revista33y1tercio.blogspot.com/p/numeros.html
+Aguilera, C. A. (2020). Teoría de la transﬁcción. Hypermedia. Recuperado de https://www.hypermediamagazine.co
+m/literatura/novedades/teoria-de-la-transficcion/
+Casamayor Cisneros, O. (2013). Utopía, distopía e ingravidez: reconﬁguraciones cosmológicas en la narrativa postsoviética
+cubana. Madrid: Iberoamericana; Frankfurt am Main: Vervuert Verlag.
+Deleuze, G. y Parnet, C. (1980). Diálogos. Valencia: Editorial Pre-Textos.
+Dorta, W. (2017). Narrativas de la Generación Cero: escenas de traduccio#n, cosmopolitismo y extran#amiento.
+Revista de estudios hispánicos, 51, 349-367.
+Grillo, R. (2012). La toxicidad de la ﬁcción, una idea que me persigue… Entrevista a Jorge Enrique Lage. Recuperado
+de https://www.isliada.org/la-toxicidad-de-la-ficcion-una-idea-que-me-persigue/
+Grillo, R. y Luis, L. (2008). Año 0. Los benditos se reúnen. Recuperado de http://www.kaosenlared.net/noticia/ano
+-o-los-benditos-se-reunen
+Lage, J. E. (2012). Carbono 14: (una novela de culto). La Habana: Editorial Letras Cubanas.
+Lage, J. E. (2016). La autopista: e movie. Nueva York: Sudaquia.
+Lage, J. E. (2012). Miami, Revista Voces, 17, 33-35.
+Lage, J. E. (2015). Vultureﬀect. Leiden: Bokeh.
+Lage, J. E. (2006). “La azotea y la Reina”. Conﬂuencia, 22 (1), 227-233.
+Lage, J. E. (2011 [2007]). 15.000 latas de atún y no tenemos cómo abrirlas. Recuperado de https://www.isliada.org/
+15-000-latas-de-atun-y-no-tenemos-como-abrirlas/
+Lage, J. E. (2018 [2007]). Pensar todo el tiempo en Lorenzo García Vega. Recuperado de https://www.isliada.org/p
+ensar-todo-el-tiempo-en-lorenzo-garcia-vega/
+Mora, J. y Pérez, A. (2017). Long Playing Poetry. Cuba: Generación Años Cero. Richmond, USA: Casa Vacía.
+Morales, O. (2012). Papyrus. Nueva York: Sudaquia.
+Morales, O. (2011) Querido sobrino Gobo. Revista Quimera, 331, 49-53.
+Morales, O. (2014). Las playas albinas. México: Librosampleados.
+Navia, MJ. (2013). El delirio de contar historias. Recuperado de https://ticketdecambio.wordpress.com/2013/01/29
+/el-delirio-de-contar-historias/
+Padilla Cárdenas, G. (2014). El factor Cuba. Apuntes para una semiología clínica, Temas, 80, 114-120.
+Puñales Alpízar, D. (2018). La cómoda disidencia: estrategias de escritura y publicación en la Cuba actual. En E.
+Gallardo-Saborido, J. Gómez-de-Tejada, D. Puñales-Alpízar (eds.) Asedios al caimán letrado: literatura y poder
+en la Revolución Cubana (pp.113-128). Praga: Universidad Carolina.
+Rojas, R. (2018). La generación ﬂotante: apuntes sobre la nueva literatura cubana. Recuperado
+de https://www.revistadelauniversidad.mx/articles/e51b17ed-9e3d-430f-981c-90bc3974d061/la-generacion-f
+lotante-apuntes-sobre-la-nueva-literatura-cubana.
+Sánchez, L. (2016). Osdany Morales. A propósito de la extraterritorialidad como ﬁcción jurídica. Recuperado
+de http://www.centronelio.cult.cu/noticia/osdany-morales-prop%C3%B3sito-de-la-extraterritorialidad-como
+-ficci%C3%B3n-jur%C3%ADdica
+Villasana, O. (2013). Reseña a Papyrus de Osdany Morales. Revista Nagari, 3. Recuperado de https://issuu.com/nag
+arimagazine/docs/nagari_3_cecin_estpasmexique
+Orbis Tertius, vol. XXV, nº 32, e165, noviembre 2020-abril 2021. ISSN 1851-7811
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica 
+PDF generado a partir de XML-JATS4R

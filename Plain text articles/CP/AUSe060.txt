@@ -1,0 +1,514 @@
+Sueños religiosos en Lucrecio (DRN., V, 1161-1240) 
+Antonio Ruiz Castellanos
+antonio.ruizcastellanos@uca.es
+Universidad de Cádiz, España
+Recepción: 27 Febrero 2020 
+Aprobación: 01 Abril 2020 
+Publicación: 02 Noviembre 2020
+Resumen:  Analizamos un texto controvertido del De rerum
+natura (DRN) de Lucrecio (V, 1161-1240). En él se pregunta
+cómo surgió la idea de dios entre los primitivos ofreciéndose
+dos etiologías: Una legítima (vv. 1169-1182), que aﬁrma que
+fue a través de las apariciones religiosas en sueños. Y otra no
+legítima, la religiosidad astral (1183-1240); la descaliﬁcación de
+ésta la han generalizado muchos editores a todo el texto. No
+argumentaremos de forma esotérica, ni freudiana, ni ﬁlosóﬁca,
+sólo registramos la autonomía de la primera etiología mediante
+la sintaxis del texto y la utilización de las fuentes epicúreas,
+incluidos los papiros de Herculano.
+Palabras clave:  Lucrecio,  DRN., V, 1161-1240, Apariciones en
+sueños origen legítimo de la religión.
+Abstract:  We analyze a controversial text of De rerum natura
+(DRN) by Lucretius (V, 1161-1240). In it he wonders how
+the idea of God arose among the primitives by oﬀering two
+etiologies: A legitimate one (vv. 1169-1182), which states
+that it was through religious apparitions in dreams. And
+another not legitimate, the astral religiosity (1183-1240). The
+disqualiﬁcation of this has been generalized by many editors
+throughout the text. We will not argue esoterically, or Freudian,
+or philosophically, we only record the autonomy of the ﬁrst
+etiology through syntax of the text and the use of epicurean
+sources including the Herculaneum papyri.
+Keywords: Lucretius De rerum natura V, 1161-1240,
+Appearances in dreams as legitimate origin of religion.
+A. Introducción
+    La mayor parte de las maravillas que llenan nuestras vidas de gracia, se nos dan gratuitamente. Eso es lo 
+que nos dice Sócrates en el Fedro (244 A): “nuestras mayores bendiciones nos vienen por medio de la 
+locura, si son por concesión de los dioses”. Las cuatro maravillas a que se reﬁere el creador del racionalismo 
+de Occidente, Sócrates, son: 1) El enamoramiento. 2) La inspiración poética. 3) Los sueños y su capacidad 
+de predicción y 4) la iniciación en los misterios. Puede que los sueños nos den la imagen más sincera de 
+nuestras auténticas preocupaciones e intereses. Habría que prestarles más atención a los sueños.
+Los antiguos, como reconoce Freud, estaban muy preocupados por los sueños. Hoy, a pesar de haber
+disminuido el prestigio clínico del Psicoanálisis, no se ha perdido el interés por los sueños, ahora estudiados
+de forma ﬁsiológica. Así se ha destacado la intensidad afectiva del sueño REM antes del despertar, similar la
+descripción de las pesadillas1 hecha por Lucrecio.
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890 
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación 
+Centro de Estudios Latinos
+ARTÍCULOS/ARTICLES
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+Cita sugerida: Ruiz Castellanos, A. (2020). Sueños 
+religiosos en Lucrecio (DRN., V, 1161-1240). Auster, (25), 
+e060. https://doi.org/10.24215/23468890e060  
+2
+En la Antigüedad hay una literatura extensa, escrita por autores muy importantes, sobre sueños religiosos2.
+Incluso los médicos del Corpus Hipocraticum en el tratado de principios del s. IV, De victu, hablan de los
+sueños por su valor en el diagnóstico; pero también admiten los sueños divinos. Galeno, en su comentario al
+hipocrático Peri chymôn, admite, además de su capacidad de pronóstico respecto a las carencias ﬁsiológicas y
+como indicio de las (pre)ocupaciones psicológicas, el valor religioso de los sueños. Sócrates (Fedón 60C-61C),
+decía tener un sueño que lo animaba a “hacer música”. También oía una voz interior (Apología 33C). Platón
+(Epinomis 985 C) los considera el origen de muchos cultos religiosos: ὅπῃ τινὲς ἐνέτυχον ἡµῶν, ἢ καθ᾽ ὕπνον
+ἐν ὀνειροπολίᾳ προστυχόντες, (ἢ κατὰ φήµας τε καὶ µαντείας…) ὅθεν ἱερὰ πολλὰ πολλῶν γέγονεν, τὰ δὲ γενήσεται:
+«que muchos cultos de muchos dioses han sido fundados y seguirán siéndolo por causa de encuentros en
+sueños con seres sobrenaturales, agüeros, oráculos y visiones de moribundos». Aristóteles en su Sobre la
+ﬁlosofía, fr. 12ª Ross, escrito juvenil y platónico, dice que la mente recupera su verdadera naturaleza durante
+el sueño. Pero en obras posteriores contenidas en sus Parva Naturalia: De somno et vigilia, In somnia y
+en su divinatio per somnia, niega que haya sueños enviados por la divinidad (theopempta): ¿por qué no nos
+los envían de día?, dice en 463A 464A ss. Sin embargo admite que si los sueños no son divinos, tienen al
+menos algo de demoniaco. Plutarco, Quaestiones convivales 2.3.1 635 E ss. Y en su Conv. Sept. Sap. 15, aﬁrma
+que los sueños constituyen “la revelación más antigua”. Artemidoro de Efeso o Daldis (s. II) escribió una
+Oneiricritica: “Interpretación de los sueños”, en que se describen 3000 sueños.
+Había además oráculos médicos, el más conocido era el del templo de Esculapio en Epidauro donde los
+pacientes dormían esperando una aparición de Esculapio, que los liberara de la dolencia. Aristides (s. II),
+Orationes: Discursos XLVIII, 9 (Keil II, 396, 24) demuestra haber tenido muchas apariciones en Epidauro.
+En Gades (hoy Cádiz) existían varios oráculos: el de Melkart que visitaron Aníbal y J. César, un misterio de
+Astarté = Venus y un Asklepeion similar al de Kos; en todos se hacía enkoimesis.
+Y los epicúreos3 ¿qué opinan sobre los sueños religiosos? Quizás resulte sorprendente la preocupación de
+los epicúreos por los sueños y mucho más todavía su interés por las apariciones de los dioses en sueños4.
+Para el texto lucreciano que nos proponemos analizar (V, 1161-1240) vamos a dar por supuesta5 la
+inﬂuencia de la Rhetorica ad Herennium (III, 9, 16) respecto a la forma de composición de Lucrecio. Quizás
+fuera ésta retórica la que estudió siendo un muchacho al igual que se sabe que le ocurrió a Cicerón6. Esta
+Retórica distingue dos tipos de dispositio discursiva: además de la macro-compositiva de exordio, narración,
+demostración, refutación y conclusión, otra micro-compositiva que ordena los parágrafos argumentativos de
+la siguiente forma:
+Non modo totas causas per orationem, sed singulas quoque argumentationes disponemus... in expositionem, rationem,
+conﬁrmationem rationis, exornationem, conclusionem.
+“No sólo habremos de ordenar nuestra causa a lo largo del discurso, sino que hemos de disponer también uno por uno los
+argumentos… en los siguientes pasos: proposiciones, fundamentaciones, conﬁrmaciones de éstas, variaciones y conclusiones.
+Esa dispositio del parágrafo argumentativo, denominado “epiquerema” por la Rhet. Her. es la que pone en
+cabeza aquello que queremos demostrar, explicar o refutar, la propositio o expositio; a la que sigue una o varias
+rationes que la demuestran, explican su causa, o hacen de fundamentación suya; y cuando la ratio precisa
+a su vez de demostración, le sigue una rationis ratio o conﬁrmatio rationis de forma sucesiva y recursiva; le
+sigue de forma optativa una exornatio; y ﬁnalmente una conclusio o complexio en la que se recoge de nuevo y
+brevemente la proposición y su fundamentación7.
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+3
+La propositio, dictum (en Lucrecio), sententia, quaesitum, principium, praeceptum, parangelma, catholicon,
+lex, es el acto de habla fundamental del parágrafo argumentativo. Al ser el objeto de la demostración,
+constituye el contenido léxico-semántico del parágrafo, que maniﬁesta su coherencia mediante réplicas
+léxicas de la propositio, a base de sinónimos y antónimos, hiperónimos e hipónimos, o mediante anáforas.
+Además de las réplicas léxicas, se dan las marcas sintácticas de los conectivos discursivos (conectividad), y la
+perspectiva temática a la que miran directa o indirectamente todos los párrafos que constituyen el parágrafo,
+y respecto a cuya perspectiva se hace la transición entre parágrafo y parágrafo.
+Hemos repartido el texto (V, 1161-1240) en dos partes correspondientes a dos etiologías: Una primera
+(1161-1182) que explica la proliferación de los cultos religiosos ya desde épocas primitivas por las apariciones
+religiosas en sueños; y una segunda etiología (1183-1240) basada en la astrología, que crítica nuestro autor.
+Les asignaremos a los párrafos las funciones antedichas que la Rhetorica ad Herennium reconoce para los
+textos argumentativos, y además hemos señalado mediante subrayado las réplicas léxicas y mediante cursiva
+los conectivos discursivos8. Se trata, como dice expresamente el autor, de un argumento etiológico:
+B. Proliferación del culto religioso. Causas
+     Propositio :
+Nunc quae causa deum per magnas numina gentis
+pervulgarit et ararum compleverit urbis
+suscipiendaque curarit sollemnia sacra,
+quae nunc in magnis ﬂorent sacra rebus locisque,
+unde etiam nunc est mortalibus insitus horror,
+qui delubra deum nova toto suscitat orbi
+terrarum et festis cogit celebrare diebus,
+non ita diﬃcilest rationem reddere verbis. 1161-68
+“Vamos a ver ahora qué causa fue la que produjo la difusión de los ritos sagrados de las distintas divinidades entre naciones
+importantes, que hizo que se llenaran las ciudades de aras y que se asumiera la obligación de ofrecerles solemnes celebraciones
+de forma periódica; ritos que en la actualidad siguen estando ﬂorecientes y en sitios sumamente suntuosos; ritos que
+despiertan incluso hoy día un íntimo respeto reverencial entre los hombres; que difunden por todo el globo nuevas imágenes
+y hacen que la gente sienta la compulsión de celebrarlos en ciertas festividades. La causa no parece tan difícil de explicar”.
+Una etiología, que investiga la causa a partir del efecto, como quaestio que es, focaliza su objeto: ¿Cómo es
+que nació la religión que tan prodigiosamente se ha propagado? Se da por hecho la proliferación del culto y
+se destaca la búsqueda de su etiología. Esta quaestio es un reto para un epicúreo y en general para cualquier
+ﬁlósofo, ya que la religiosidad natural (physikon, qua philosophi utuntur) suele criticar la religiosidad cívica
+(per magnas... gentis /...et... urbis, vv. 1161-62). Pero ante esa diﬁcultad no se arredra nuestro autor: non ita
+diﬃcilest rationem reddere verbis (1168)9.
+Se presentará una primera etiología o ratio (1169-1182) que cuenta con una gran tradición ﬁlosóﬁca e
+incluso epicúrea, que describe los sueños de apariciones religiosas que ya los primitivos tendrían y de donde
+extraerían la idea de los dioses. Y una segunda etiología en los vv. 1183-1240, de tipo astrológico, que pone
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+4
+en manos de los dioses la regularidad de los cielos10; esta etiología es rechazada de forma contundente (como
+sacrílega) por Lucrecio. Quizás pueda parecernos en nuestra tradición cristiana más convincente la segunda
+que primera, pero no es el caso en la doctrina epicúrea11.
+Para el análisis textual dividiremos la primera etiología (V, 1169-82), de acuerdo con la Rhet. Her., en dos
+partes: la etiología o ratio (1169-71) y la rationis ratio = conﬁrmatio (1172-1182), que a su vez dividimos en
+tres partes: a: 1172-74; b: 1175-1178; c: 1179-82, coordinadas mediante la copulativa enclítica –que.
+Primera etiología
+     Etiología = Ratio 1ª
+Quippe etenim iam tum divom mortalia saecla
+egregias animo facies vigilante videbant
+et magis in somnis mirando corporis auctu. 1169-71
+Se identiﬁca inmediatamente la causa, lo que se resalta mediante quippe etenim (v. 1169)12, dos explicativos,
+demostrativos y enfáticos, reforzándose mutuamente, lo que denota que se presenta a la comprensión mental
+como una luz fulgurante. Esta primera etiología o ratio parece tener ya la clave de la explicación. Pero ha
+resultado confusa a juzgar por la disparidad de interpretaciones a que da lugar. Iam tum, que son dos adverbios
+temporales13 que modiﬁcan a videbant, V. Fiol y Acuña los traducen como si afectaran a animo vigilante,
+y los consideran exceptivos: “hasta en la vigilia veían dioses...”, siguiendo, creo, a Ernout “en eﬀect... même
+pendant la veille”. Bailey en cambio en su comentario dice: “`even then´ in primitive times.” Por otro lado,
+videbant lo entienden los primeros como verbo de percepción y no como verbo de intuición, intuición que
+puede ser tanto de los sentidos como del pensamiento.
+Pero sabemos que para los epicúreos la prolepsis es la vía intelectual aunque intuitiva, que proporciona
+el conocimiento a priori y cierto de la divinidad14. Cicerón deﬁne la prolepsis como una idea general previa
+de la mente15, una prenoción. Pero Fiol y Ernout en beneﬁcio de videbant como verbo de percepción no
+tienen empacho en describir la experiencia de los ensueños religiosos como apariciones16 con plena conciencia
+(animo vigilante). A mi juicio, animo vigilante es incompatible con una alucinación y sólo puede signiﬁcar
+conocimiento intelectual y consciente17. Tampoco puede percibir una mente atenta la esencia de la divinidad
+durante el sueño. Tiene que hacerlo tras el sueño, mediante la reﬂexión. La conciencia es insomne, como
+“un topo que mina las sombras en calma” (dice John Keats en su soneto Al sueño). La experiencia religiosa
+epicúrea consiste en una interacción complementaria entre emoción y cognición: a la emoción impresionante
+durante el sueño le sigue su reﬂexión diurna y así se llega al conocimiento intuitivo de lo divino, videbant.
+Como dice Diógenes de Enoanda NF 1 II, 10-14: “Que si no es el caso de que sean vacíos (i.e. los sueños, como
+suponen los estoicos), tampoco es que posean sensaciones ni poder de dialogar con nosotros ni de razonar,
+como cree Demócrito”18. Lo sobrecogedor en los sueños de las palabras, la belleza y fuerza extraordinarias
+de las apariciones pueden ser meras impresiones y de ahí su característica subjetiva: magis in somnis mirando
+corporis auctu.
+Rationis ratio
+a. His igitur sensum tribuebant propterea quod
+membra movere videbantur vocesque superbas
+mittere pro facie praeclara et viribus amplis.
+b. Aeternamque dabant vitam, quia semper eorum
+subpeditabatur facies et forma manebat,
+et tamen omnino quod tantis viribus auctos
+non temere ulla vi convinci posse putabant.
+c. Fortunisque ideo longe praestare putabant,
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+5
+quod mortis timor haud quemquam vexaret eorum,
+et simul in somnis quia multa et mira videbant
+eﬃcere et nullum capere ipsos inde laborem. 1172-82
+Y es que en efecto, ya en aquel entonces (los primitivos) intuían en su espíritu durante la vigilia su maravillosa belleza, y
+durante los sueños se les aparecían aún más admirables por su vitalidad corporal.
+a. Así que les atribuían sensatez; sobre todo porque los veían moverse y emitir palabras sobrecogedoras, a tono con su
+belleza y fuerza extraordinarias.
+b. Y los consideraban eternos, porque siempre ofrecían el mismo aspecto y su imagen permanecía constante; y porque,
+pasara lo que pasara, estando tan plenos de vigor, los consideraban totalmente invulnerables ante cualquier peligro que
+intentara temerariamente alcanzarlos.
+c. Y los tenían por seres extraordinariamente felices, precisamente por eso, por no afectarles a ninguno de ellos el temor
+de la muerte, viéndolos al mismo tiempo en sus sueños hacer prodigios sin cuento, sin que por ello sufrieran el más mínimo
+menoscabo.
+El producto de esta visión religiosa es una emoción sentida ante la presencia de unos “seres de una
+belleza sobrehumana” (egregias facies) y “de un tamaño y vitalidad extraordinarios”19). Eran imágenes que
+se hacían presentes y comunicaban su complacencia o su desaprobación superior al vidente (voces superbas)
+y hacían despliegue físico en su presentación (membra movere, viribus amplis, multa et mira videbant /
+eﬃcere)20. En eso consistiría la impresión emotiva, suﬁcientemente fuerte como para poder recordarla tras el
+sueño y seguidamente, interpretarla, incluso de forma inferencial21. En esta etiología los términos tribuebant
+(1172), dabant (1175) y putabant (1178 y 1179) expresan la elaboración de los sueños, transformándolos
+en características esenciales de la divinidad22. La reﬂexión es la que transforma la impresión onírica en las
+tres características (a.b.c.) que según Epicuro constituyen la esencia de la divinidad: seres con conocimiento
+(sensum), invulnerables a la muerte (aeternam vitam) y felices (fortunisque)23.
+Nuestra interpretación se ve reforzada por las réplicas léxicas que tanto la belleza como la vitalidad hallan
+en los apartados a, b y c de la rationis ratio. Esta 1ª etiología tiene la coherencia textual que se delata porque el
+léxico de la ratio (1169-71) se replica en la rationis ratio (1172-1182). Pero también se observa que a partir
+de la rationis ratio el autor se reﬁere a los dioses ya sólo mediante demostrativos, anafóricos y enfáticos: his:
+1172; eorum: 1175 y 1180; ipsos: 1182; illorum: 1187.
+Esos dioses de los sueños que describe Lucrecio, no son los dioses de un panteón, sino válidos para cualquier
+cultura (toto suscitat / orbi terrarum: 1166-67). La esencia y existencia de los dioses, según los epicúreos,
+es conocida por intuición intelectual; así lo conﬁrman Diógenes L. X 123 = Epistola III 123: θεοὶ µὲν γὰρ
+εἰσίν· ἐναργὴς γὰρ αὐτῶν ἐστιν ἡ γνῶσις: "Ciertamente, existen los dioses, ya que el conocimiento que de ellos
+tenemos es una clara visión”. Los epicúreos no son precisamente unos escépticos religiosos, se puede decir
+incluso que, por su recurso a la intuición, son gnósticos.
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+6
+También tienen valor de verdad para los epicúreos las apariciones religiosas en sueños. Sexto Empírico
+(Adversus dogmaticos III (mathem. IX) 25-26) lo aﬁrma expresamente: “Epicuro piensa que de las fantasías
+de los sueños los hombres extraen la noción de los dioses y piensan que apareciéndose ﬁguras de gran
+tamaño y con aspecto humano son en la realidad (en taîs alêtheîais) esos dioses tal como las imaginamos,
+antropomórﬁcos"24 Y Filodemo (De pietate, Obbink, 1996, 225-231) aﬁrma que “Epicuro en el libro 12 de
+su Sobre la naturaleza dice que los primeros hombres ya llegaron a la noción de los dioses por las imágenes
+emitidas por estos seres inmortales subsistentes fuera de nosotros (tôn éxo baínein)” Y también que “las
+“imágenes eran verdaderas… por eso dieron por supuesta de forma simple, necesaria e incuestionable que
+informaban de la existencia de seres felices y eternos:... .] τὰς φαντασ[ίας ἀλήθεις εἶναι...[ὑ]πελάµβαν[ον τοίνυν]
+ἁπλῶς καὶ ἀν[αγκασ]τῶς ζῶια µ[ακάρια] καὶ διαιώνια [κατα] λείπειν’ (De pietate, Obbink 1996, 153). Diógenes
+Laercio X 32 dice que: “Las visiones de los locos y las se nos aparecen en los sueños son verdad, porque
+estimulan la mente; lo que no existe es incapaz de estimularla”: τά τε τῶν µαινοµένων φαντάσµατα καὶ <τὰ>
+κατ' ὄναρ ἀληθῆ, κινεῖ γάρ· τὸ δὲ µὴ ὂν οὐ κινεῖ. Su interpretación en cambio, opinatus animi, puede ser vana:
+simulacra solere in somnis fallere mentem (Lucr. V, 62). Pero si se junta la experiencia de las apariciones en
+sueños con una interpretación proléptica correcta de los dioses, las apariciones en sueños serán ciertas.
+Lucrecio habla incluso de experiencias de contemplación religiosa no sólo en sueños sino incluso diurnas.
+Así en las ceremonias religiosas de culto (DRN., VI, 75-78): “no podrás acercarte (sc., sin una idea pura de la
+divinidad) a los templos con el corazón tranquilo y no podrás contemplar en la paz de tu mente las imágenes
+que emiten desde su santo cuerpo, manifestación de la belleza de la divinidad, y que se introducen en la mente
+de los hombres”25.
+Cicerón, DND., I, 18 y 19, dice que Epicuro: «enseña que el sentido y naturaleza de los dioses se conocen,
+no directamente por los sentidos, sino por el pensamiento, y no en su solidez ni en su individualidad numérica
+(tal como los objetos que denomina steremnia = sólidos), sino gracias a las imágenes de las que se inﬁere por su
+semejanza, una forma especial; y dice que cuando una corriente incesante de formas similares, surgiendo desde
+innumerables seres, conﬂuye en las diferentes divinidades, entonces nuestra mente, al ﬁjar nuestra inteligencia
+su atención en esas imágenes, concibe con un placer inmenso la naturaleza feliz y eterna de la divinidad”26.
+De esta forma es como hay que entender el himno a Venus (I, 1-49), que no es una mera decoración
+de entrada, ni una convención literaria (Quintiliano IV proem. 4), sino la traducción vívida y la imagen
+de la teología epicúrea. De él aﬁrma Bailey (1947, 589): «it is imposible to read the opening twenty lines
+without the conviction that they are more than a conventional address». Y Valentí Fiol (1961, xxix) dice:
+«La invocación a Venus es quizás el himno religioso más profundo y bello que nos ha dejado la Antigüedad
+pagana». Está compuesto a base de dos tópicos: el moral, las tres cualidades que caracterizan a la divinidad:
+la felicidad, la eternidad y la inteligencia, y por otro lado el tópico físico: tierras, mares y cielos. El autor
+describe de forma viva (enargeia, evidentia o illustratio) un paisaje que evoca en nuestra fantasía la presencia
+(visio, species) de algo no visible, una presencia adivinada. El espectáculo feliz y prodigioso que resurge en la
+naturaleza, le ha inspirado a Lucrecio en el Himno a Venus la intuición diurna de la divinidad, la presencia
+de su numen. La imagen gozosa de la primavera le permite al autor reconocer a la divinidad en sus cualidades
+de saber hacer, eternidad y felicidad (las tres características de la divinidad epicúrea).
+Atestiguada como está por Sexto Empírico, Diógenes Laercio, Filodemo y Lucrecio, la existencia para
+los epicúreos de los dioses, extraída de la emoción en sueños más su reﬂexión, no tiene por qué ser negada
+por la postura de los críticos, denominada “idealista”, una nueva polémica surgida en el siglo pasado27, que
+ve inconsistencia entre la existencia de los dioses como seres eternos y los principios del atomismo, ya que
+todo ser compuesto está sujeto a una eventual disolución28 y también fundándose en que los sueños para los
+epicúreos son supuestamente falsos29, por lo cual no les reconoce a los dioses epicúreos otra existencia que
+la mental. La mayoría de nosotros seríamos “idealistas” en cuanto que los dioses nos parecen una proyección
+de las deﬁciencias y deseos más íntimos de la humanidad (inteligencia, felicidad y eternidad), que es la tesis
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+7
+de Feurbach y de los epicúreos, pero éstos últimos no los consideran una mera proyección. Pueden no ser
+convincentes las razones que aportan los epicúreos en favor de la existencia de los dioses, pero no se puede
+negar que la aﬁrman. La crítica ﬁlosóﬁca tiende a considerar los sueños desde un punto de vista semántico
+como falsos, cuando desde un punto de vista pragmático los sueños constituyen simulaciones de acciones por
+más que se nos presenten en forma de pesadillas o al contrario, acciones placenteras30.
+Segunda etiología
+ La segunda etiología o ratio, que mantiene el tópico del origen de la idea de los dioses de la propositio (lo 
+que se constata por las réplicas divis: 1186 y deum: 1188), y también la pesquisa de la causa (lo que se denota 
+mediante el praeterea, que conecta a distancia la 2ª etiología o ratio con la primera (vv. 1169-71), más que 
+aportar una causa comporta una renuncia a la investigación de la causa en favor de la mitiﬁcación: “ya que no
+podían saber a qué eran debidos los cálculos exactos del cielo, y la reiteración año tras año de las estaciones, al
+no saber por qué causas se producían, tenían la escapatoria de entregar en manos de los dioses todos aquellos
+fenómenos”31. Aparece ergo como un conector ilativo entre expresiones metalingüísticas.
+Etiología = Ratio 2ª
+Praeterea caeli rationes ordine certo
+et varia annorum cernebant tempora verti
+nec poterant quibus id ﬁeret cognoscere causis.
+Ergo perfugium sibi habebant omnia divis
+tradere et illorum nutu facere omnia ﬂecti.
+In caeloquedeum sedes et templa locarunt
+per caelum volvi quia sol et luna videtur,
+luna dies et nox et noctis signa severa
+noctivagaeque faces caeli ﬂammaeque volantes;
+nubila ros imbres nix venti fulmina grando
+et rapidi fremitus et murmura magna minarum. 1183-93
+“Además los cálculos astronómicos y las distintas estaciones del año las veían reproducirse en un orden inmutable sin alcanzar
+a conocer las razones que pudieran explicarlos; de suerte que no tenían más recurso que dejarlo en manos de los dioses y
+hacer que se guiaran bajo su mandato. Y colocaron en el cielo las sedes de los dioses y sus templos, porque en el cielo se les ve
+dibujar sus órbitas al sol y la luna: la luna, el día y la noche, los severos astros de la noche y las antorchas fugaces del cielo y
+los meteoritos volantes, las nubes, el rocío, las lluvias, la nieve, y ﬁnalmente, los vientos, los rayos, el granizo, los relámpagos
+fulgurantes y los tremendos truenos barruntando amenazas”.
+Se describe en esta 2ª etiología o ratio el nacimiento de la religión astral, una forma de religiosidad
+helenística, mantenida por platónicos, aristotélicos, estoicos y neo-pitagóricos, rechazada por los epicúreos
+y que nuestro autor sitúa ya en los orígenes de la humanidad, teoría que sostenía que los astros, por su
+regularidad a pesar de la complejidad de sus ciclos, demuestran inteligencia y voluntad, que están hechos de
+otra materia diferente, el éter, y que son eternos. Si no era primitiva, al menos era popular esta religión astral,
+utilizándose para la teúrgia, la magia y la adivinación astral, la fatalis necessitas quam heimarmênên dicitis
+(Cic., DND., 55).
+Es importante distinguir esta segunda etiología o ratio de la primera para evitar las generalizaciones que se
+siguen sosteniendo hoy día respecto a la descaliﬁcación general de la religión por parte de los epicúreos. No
+toda religión es descaliﬁcada por ellos. Los títulos de las ediciones resumen el argumento lucreciano como:
+“La croyance aux dieux; le maux qui en résultèrent” (Ernout), o “Los males de la religión” (Valentí Fiol),
+generalizando los males tanto para la etiología 1ª como para la 2ª, cuando Lucrecio tan sólo descaliﬁca el
+origen de la religión que se describe en la segunda etiología, la religión astral. Y no sólo los títulos también la
+puntuación deforma el auténtico pensamiento de nuestro autor: así la edición Teubner de Martin se ahorra
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+8
+la sangría en el v. 1183: praeterea caeli rationes... O Bailey, en la misma línea sin punto y aparte: “Moreover,
+they beheld the workings of the sky in due order...”32. En cambio, Martin Ferguson Smith en la edición Loeb
+sí marca claramente mediante espacio interpuesto y punto y aparte el inicio de la 2ª etiología. Igualmente E.
+Paratore y U. Pizzani, T. Lucreti DRN, Roma, Ateneo, 1960. Igualmente las traducciones de Acuña y Lima
+Leitâo.
+C. Descalificación de la religión astral
+Propositio:
+O genus infelix humanum, talia divis
+cum tribuit facta atque iras adiunxit acerbas !
+quantos tum gemitus ipsi sibi, quantaque nobis
+volnera, quas lacrimas peperere minoribus nostris !
+Necp ietas ullast velatum saepe videri
+vertier ad lapidem atque omnis accedere ad aras
+nec procumbere humi prostratum et pandere palmas
+ante deum delubra nec aras sanguine multo
+spargere quadrupedum nec votis nectere vota,
+sed mage pacata posse omnia mente tueri. 1194-1203
+“¡Qué género tan impío el humano, al atribuir a los dioses esas funciones, añadiéndoles además sentimientos de cólera
+incoercibles ! ¡Cuántos lamentos se inﬂigieron a sí mismos, cuántos dolores a nosotros, y cuántas lágrimas a nuestros
+decendientes!
+Y es que la piedad no consiste lo más mínimo en dejarse ver frente al muro con la cabeza cubierta, ni en acercarse a cualquier
+ara, ni en prosternarse humillado en tierra, ni en saludar con las palmas abiertas al pasar ante los templos de los dioses, ni en
+rociar las aras con abundante sangre de animales cuadrúpedos, ni en ligar voto con voto; sino que la piedad más bien consiste
+en ser capaz de mantener una actitud tranquila ante cualquier circunstancia”.
+A partir del verso 1194 (O genus infelix humanum...) se produce un cambio de tipo de texto: del propio
+de una quaestio que hemos visto que se resolvía mediante dos etiologías, pasamos a otro de tipo refutativo o
+descaliﬁcador, que va seguido pero referido al que lo precede (1183-1193), tratando ambos de la entrega en
+manos de los dioses (tradere en 1187 y tribuit en 1194) de la regularidad astral (caeli rationes ordine certo:
+1183); pero añadiéndole un comento muy fuerte: el de que la religión astral es impía (infelix).
+Es fundamental saber cuál es la referencia de talia divis /cum tribuit facta e iras acerbas. Mantengo que se
+reﬁere solamente a la etiología astral, la segunda, a la que sigue inmediatamente. ¿A qué facta atque iras acerbas
+va a referirse que no sean los fenómenos que se describen en los párrafos siguientes y que van a especiﬁcar las
+regiones astrales: 1204-1217; 1218-1225; 1226-1235 y 1236-1240? Y temptat enim dubiam mentem rationis
+egestas (1211), ¿no es una reiteración talia divis /cum tribuit facta (1194)? Eso nos permite comprobar que
+siguen reﬁriéndose a la religión astral. Las cuatro rationes (en correspondencia con los cuatro elementos y
+regiones astrales) lo conﬁrman. Los neoplatónicos como Varrón33 a esas regiones les hacían corresponder
+cuatro divinidades: 1ª:1204-1217: el éter como morada de los dioses; 2ª: 1218-1225: el fuego y el rayo de
+Júpiter34; 3ª: 1226-1235: el aire como morada de las almas y el mar, Hera y Neptuno; y 4ª:1236-1240: la
+tierra y lo subterráneo: Plutón35.
+Otro problema se da al pasar del párrafo 1194-1197 (o genus infelix humanum) al 1198-1203 (nec pietas
+ulla est...), en que se duda de la coherencia entre los dos párrafos. ¿Qué tienen que ver uno con otro? ¿No es
+el segundo un apunte aparte que se ha incluido por los pelos en ese sitio? Giussani consideró corrupto el 2º
+párrafo (1198-1203). Sauppe como Bockemüller dudaron de la secuencia de 1203 a 1204 e incluso del 1204
+al 1240. Bockemüller traspuso (contra la lectura de los códices) 1194-1203 después de 1204-1240. ¿Cómo se
+entiende la conjunción copulativa nec con la que empieza? A mi juicio las partículas nec (1198) y sed (1203)
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+9
+deniegan la religiosidad astral para sustituirla por una auténtica piedad. La religiosidad astral llena de ira a
+los dioses (el rayo, el terremoto...) y arrastra un exceso de cura superstitiosa, una hiperactividad cultual (videri
+vertier... accedere, procumbere, postrare et pandere, spargere, nectere) que se dibuja mediante los paralelismos
+que reiteran los inﬁnitivos con sus aliteraciones y políptoton; mientras que la auténtica piedad36 nos permite
+contemplar toda eventualidad con una actitud tranquila: sed mage pacata omnia posse mente tueri (1203).
+De esa forma, todo el párrafo se enmarca dentro de una distinctio entre lo que es superstición y la auténtica
+piedad dando coherencia y unidad al parrafo 1194-1203.
+Notas
+1 DRN., IV, 1014-1029. En este sentido el ﬁsiólogo Hamann, S.B., et al., “Amygdala activity related to enhanced memory
+for pleasant and aversive stimuli”, Nature Neuroscience, 2, 1999, 289-293. Y los estudios fundacionales de la Fisiología
+de los sueños: Aserinsky, E. y Kleitman, N., “Regularly ocurring periods of eye motility and concomitant phenomena
+during sleep”, Science, 1953, 118-273-274. Y Dement, W.C. y Kleitman, N., “Cyclic variations in EEG during sleep and
+their relation to eye movements, bodily motility and dreaming”, Electorencephalography and Clinical Neurophysiology,
+9, 1957, 673-690.
+2 Las citas generales sobre la antigüedad y los sueños, apud Schrijvers, P. H., “La pensée d’Épicure et de Lucrèce sur le
+sommeil (DRN., IV, 907-961 et scholie ad Épicure, Ep. ad Her., LXVI): un chapitre des Parva Naturalia épicuriens”,
+en: J. Bollack, A. Laks, Études sur l’épicurisme antique, Lille, Publications de l’Universite#de Lille III, 1976, 229‒259. Y
+también Schrijvers, P. H. 1999. “Die Traumtheorie des Lukrez”, in Lucrèce et les sciences de la vie, Suppl. Mnemosyne,
+ed. por P. H. Schrijvers, Leiden, Brill, 146‒166.
+3 La bibliografía sobre los atomistas y los sueños religiosos: Diogenes Laertius, Lives of Eminent Philosophers, edited with
+introduction by T. Dorandi, New York, Cambridge, Cambridge University Press, 2013. Diogenes of Oinoanda, e
+Epicurean Inscription, edited with introduction translation and notes by M. F. Smith, Napoli, Bibliopolis, 1993. A.S.
+Pease, M. Tulli Ciceronis De natura deorum, Cambridge, MA, 1955. De Lucrecio citamos las dos ediciones siguientes:
+Ernout A., Lucrèce: De la Nature. París, Ed. Belles Lettres, 1964. Y Valentí Fiol, De la naturaleza, Barcelona, 1961.
+4 De ahí la extrañeza que vemos entre los traductores y editores en español y portugués: Santiago Sáez, Marchena, Restrepo,
+Rodríguez Navas, Valenti Fiol, García Calvo y Agostinho da Silva; lo que se puede generalizar a otros idomas. Ha sido
+a partir de Festugière, E. Paratore, Diskin Clay o Konstan más la divulgación de los papiros de Herculano cuando se ha
+matizado más la actitud epicúrea ante la religión y en concreto ante los sueños religiosos. D. Obbink, Philodemus On
+Piety part 1. Critical Text and Commentary, Oxford, 1996. D. Obbink, “All Gods are True”, en: Dorothea Frede & A.
+Laks (eds.), Traditions in eology. Studies in Hellenistic eology, its Background and Aermath, Leiden/Boston/Köln,
+2002, 183-221. Leone, G., “Epicuro, Della Natura: libro XXXIV, PHerc. 1431”, Cronache Ercolanesi 32, 2002, 7‒135.
+Leone, G., Epicuro, Sulla Natura: libro II, Napoli, Bibliopolis, 2012.
+5 Esta inﬂuencia se ha probado en A. Ruiz Castellanos, La argumentación lógico-retórica del `De rerum natura´ de Lucrecio.
+Servicio de Publicaciones de la universidad de Sevilla, 1992. Y del mismo, “La didáctica latina párrafo a párrafo”, en: A.
+Ruiz Castellanos, Retórica, Texto y Comunicación, Servicio Publicaciones Univ. De Cádiz, 1993, 172-185.
+6 A juzgar por su De inventione, que es un calco de la Rhetorica ad Herennium.
+7 Vide E. Asmis, Epicurus´scientiﬁc method, Cornell U.P., 1984.
+8 Kroon, C., “Causal connectors in Latin: The discourse function of nam, enim, igitur and ergo”, Cahiers de l'Institute
+de Linguistque de Louvain (CLL) 15, 1-4, 1989, 231-243. Y su libro Discourse Particles in Latin. Study of nam, enim,
+autem, vero and at. Amsterdam, Gieben 1995.
+9 Como se verá, los términos de esta propositio aitiologica se reiteran posteriormente: los dioses (deum, numina:1161;
+divom: 1169; divis: 1186; deum: 1188); la propagación de la religión (per magnas... gentis: 1161; pervulgarit et ararum
+compleverit urbis: 1162; ﬂorent: 1164; delubra deum nova toto suscitat orbi: 1166) se ven replicados reiteradamente.
+10 Estas mismas dos etiologías epicúreas sobre el origen de la religión se ven en Sexto Empírico, Adversus Physicos 1.45,
+donde dice que los epicúreos aﬁrman que la idea de la existencia de los dioses procede de dos fuentes: “Estos (los
+epicúreos) hablando de eso (la existencia de los dioses) aﬁrman que el inicio del pensamiento de la existencia de la
+divinidad se produjo a partir de las apariciones en sueños o bien de acuerdo con los fenómenos cósmicos”
+11 Las apariciones en sueños tienen una larga tradición previa a los epicúreos. Demócrito es el antecedente: 68 A 77 DK
+= Plutarco, Quaest. conv. V, 7, VIII, 10; y Demócrito 68B 166 DK = Sext. Emp., M XI, 19: "These images are great,
+of more than human size, and they are diﬃcult to destroy, but not indestructible. When they are observed and when
+they speak, they predict the future for men”. Y en A 77. 78-79 y B 166 = Sext. Emp., Adversus Mathematicos IX,
+19, aﬁrma, que los sueños religiosos son ciertos y proféticos. Cf. Gigandet, A., “L’âme défaite: la théorie du sommeil
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+10
+dans l’Épicurisme”, en: V. Leroux, N. Palmieri and C. Pigne (eds.), Le sommeil. Approches philosophiques et médicales
+de l’Antiquité à la Renaissance, Paris, Honoré Champion, 2015, 85‒96. Y el mismo, “Diogène, Lucrèce et la théorie
+épicurienne de l’imaginaire. Fragment 9 - De rerum natura IV, 971-993”, en: J. Hammerstaedt, P.-M. Morel, and
+R. Güremen, Diogenes of Oinoanda: Epicureanism and Philosophical Debates / Diogène d’Oenoanda. Épicurisme et
+Controverses, ed. by Leuven, Leuven University Press, 2017, 207‒220. Y también Güremen, R., “Diogenes of Oinoanda
+and the Epicurean Epistemology of Dreams”, ibidem, 187‒206.
+12 Quip-pe tiene el mismo énfasis que vemos que se da en ipse <* pe+se. Los conectores explicativos tienen una etimología
+demostrativa: * H(e)ne/o > -ne, enim, et-enim, nam como nunc y como el gr.*ekeenos > ekeinos. Se utiliza además la
+conjunción quia reforzada por el correlato enfático propterea (1172). También en 1179-80, la causal quod llevará un
+enfático o identiﬁcador, ideo. Así nos encontramos con conjunciones causales, reforzadas por correlatos de tipo fórico,
+que le dan a la conjunción causal una mayor capacidad de identiﬁcación de la variable activa
+13 A juzgar por el iam tum se presupone un etiam nunc, lo que denota que las apariciones religiosas en sueños era una
+experiencia común en la Antigüedad, si no experimentada, al menos conocida por Lucrecio.
+14 La intuición de los dioses se produce por prolepsis: Diógenes Laercio X 33: πρῶτον µὲν τὸν θεὸν ζῶ#ον ἄφθαρτον καὶ
+µακάριον νοµίζων, ὡς ἡ κοινὴ τοῦ θεοῦ νόησις ὑπεγράφη.
+15 anteceptam animo rei quandam informationem (Cic., DND., 43)
+16 Bailey, Titi Lucreti Cari De Rerum Natura Libri Sex, Oxford, 1986, ad locum, traduce: “For indeed already the races of
+mortals used to perceive the glorious shapes of the gods great with waking mind, and all the more in sleep with wondrous
+bulk of body. To these then they would assign sense because they were seen to move their limbs, and utter haughty
+sounds beﬁtting their noble mien ample strength” y al margen dice: “Men were visited by great and beautiful images;
+they believed them to have sense, to be inmortal...”
+17 animus es lo mismo que mens, la parte más elevada de nuestra alma: primum animum dico, mentem, quam saepe vocamus, /
+in quo consilium vitae regimenque locatum est (DRN., III, 94-95) la facultad de la conciencia reﬂexiva.
+18 οὐ# #/ µὴν πάλ# ι# ν, εἰ µή ἐστιν/ κενά,# αἴ# σθ# η# σ# [ιν] ἔ#χει/καὶ λογισµὸν καὶ τῷ ὄντι προσλαλεῖ ἡµε[# ῖν],/ ὡς# #
+ὑπολαµβάνει ∆ηµ[ό]-κριτος.
+19 mirando corporis auctu; corporis auctu no puede entenderse sólo como "tamaño corporal", sino también como "vitalidad",
+ya que se trata del término técnico del vocabulario religioso romano, que está emparentado con “augurio” y “augusto”.
+20 Arístides en Orat., XLVIII, 31 ss., cuenta la aparición de Esculapio que sintió: “Era como si al parecer se le tocara...,
+una especie de impresión de que allí estaba en persona; uno estaba entre el sueño y la vigilia, quería abrir los ojos, pero
+temía que el dios se retirara demasiado pronto; escuchaba y oía cosas, unas veces como en sueños otras como en vigilia;
+se le ponían a uno los pelos de punta, uno lloraba y se sentía feliz; el corazón se le hinchaba, pero no de vanagloria.
+¿Qué ser humano podría expresar con palabras esta experiencia? Pero cualquiera que haya pasado por ella compartirá mi
+conocimiento y reconocerá este estado de espíritu”. Es lo que decía Jung de algunos de sus pacientes (según Dodds, Los
+griegos y lo irracional, Madrid, Alianza Ed., 2010, 124), que referían “sueños en los que oían una voz oracular, incorpórea
+o que procedía de una ﬁgura autoritaria" que les advertía de los peligros o de los errores. Jung lo consideraba el "fenómeno
+religioso básico"; por los arquetipos junguianos justiﬁca el “Sueño de Coleridge” Borges.
+21 Sin embargo Ernout y Valentí Fiol se empeñan en traducir his... sensum tribuebant (1172) por “à ces ﬁgures ils
+atribuaient...” como si las ensoñaciones y no lo que representan fueran las que tuvieran sensibilidad.
+22 A la intuición de las experiencias religiosas se añade la intuición proléptica de la divinidad, el conocimiento depurado
+mediante deducción, que ﬁja la esencia de la divinidad como inteligente, inmortal y feliz.
+23 Diógenes Laercio X, 33: πρῶτον µὲν τὸν θεὸν ζῶ#ον ἄφθαρτον καὶ µακάριον νοµίζων, ὡς ἡ κοινὴ τοῦ θεοῦ νόησις ὑπεγράφη.
+24 Sexto, Adv. Math., IX, 25 ss.
+25 ec delubra deum placido cum pectore adibis, / nec de corpore quae sancto simulacra feruntur / in mentis hominum divinae
+nuntia formae / suscipere haec animi tranquilla pace valebis
+26 docet eam esse vim et naturam deorum ut primum non sensu sed mente cernatur nec soliditate quadam nec ad numerum,
+ut ea quae ille propter ﬁrmitatem steremnia appellat, sed imaginibus similitudine et transitione perceptis: cum inﬁnita
+simillumarum imaginum species ex innumerabilibus indiuiduis existat et ad deos adﬂuat, cum maximis uoluptatibus in
+eas imagines mentem intentam inﬁxamque nostram intellegentiam capere quae sit et beata natura et aeterna. Lo mismo se
+reitera en Cic. DND., 105 se dice: sic enim dicebas speciem dei percipi cogitatione, non sensu, nec esse in ea ullam soliditatem,
+neque eandem ad numerum permanere, eamque esse eius uisionem ut similitudine et transitione cernatur neque deﬁciat
+umquam ex inﬁnitis corporibus similium accessio, ex eoque ﬁeri ut in haec intenta mens nostra beatam illam naturam et
+sempiternam putet. De forma similar, Diógenes Laercio X, 139 nos transmite de Epicuro la siguiente información: φησι
+τοὺς θεοὺς λόγῳ θεωρητούς, οὓς µὲν κατ᾽ ἀριθµὸν ὑφεστῶτας, οὓς δὲ καθ᾽ ὁµοείδειαν ἐκ τῆς συνεχοῦς ἐπιρρύσεως τῶν ὁµοίων
+εἰδώλων ἐπὶ τὸ αὐτὸ ἀποτετελεσµένωι ἀνθρωποειδῶς. Y la KD 1.
+27 Así Jean Bollack, La pensée du plaisir. Épicure: textes moraux, commentaires, Paris, 1975, 225-38. Long, A. A., Sedley,
+D. N., e Hellenistic Philosophers, 2 vols., Cambridge, Cambridge University Press, 1987,144-149. Sedley, D. N.,
+“Epicurus’ Theological Innatism”, en: J. Fish and K. R. Sanders (eds.), Epicurus and the Epicurean Tradition, Cambridge/
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+11
+New York, Cambridge University Press, 2011, 29‒52. La existencia real de los dioses para los epicúreos ha sido defendida
+por Clay, D., “An Epicurean Interpretation of Dreams”, e American Journal of Philology 101, 342‒365. Reprinted
+in D. Clay, Paradosis and Survival. ree Chapters in the History of Epicurean Philosophy, Ann Arbor, University of
+Michigan Press, 1988, 211‒231. También por Essler, H. Glückselig und unsterblich. Epikureische Theologie bei Cicero
+und Philodem, Basilea, Schwabe Verlag, 2011. K. Kleve, “Die Unvergänglichkeit der Götter im Epikureismus”, SO 36,
+1960, 116-26; y del mismo, Gnosis eon. Die Lehre von der natürlichen Gotteserkenntnis in der epikureischen eologie,
+Oslo, 1963. Konstan, D., “Epicurus on the Gods”, en: J. Fish and K.R. Sanders (eds.), Epicurus and the Epicurean
+Tradition, Cambridge/New York, Cambridge University Press, 2011, 53‒71. Mª Carolina Santoro, Demetrio Lacone.
+La forma del dio (PHerc. 1055), Nápoles, 2000.
+28 No obstante, Long y Sedley advierten (L & S I.145): “The reader must be warned that the interpretation oﬀered below
+is controversial.”
+29 M. Andrew Holowchak,“Lucretius on the Gates of Horn and Ivory: A Psychophysical Challenge to Prophecy and
+Dreams”, Journal of the History of Philosophy 42, 2004, 355‒368. Y recientemente Voula Tsouna, “Epicurean Dreams”,
+Elenchos 39(2), 2018, 231–256, niegan no sólo la capacidad profética, sino también el valor de los sueños religiosos
+(dreams ... are neither godsent nor divinatory) parafraseando la Sententia Vaticana 24: Ἐνύπνια οὐκ ἔλαχε φύσιν θείαν
+οὐδὲ µαντικὴν δύναµιν, que más bien hay que entender como que los sueños “no tienen naturaleza divina ni capacidad
+mántica”; el que no tengan naturaleza divina no impide su capacidad sugestiva.
+30 Antti Revonsuo, “The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming”, Behavoral
+and Brain Sciences, 2000, 23, 793–1121, dice que la función de los sueños es adaptativa, que estimulan con contenidos
+amenazadores, que sirven de ensayo para evitar experiencias de peligro. Eso mismo es lo que Lucrecio señala en IV,
+962-1036: los sueños como alertas profesionales, por más inexactas que sean: in somnis animos hominum utrata tenere,
+IV, 972.
+31 nec poterant quibus id ﬁeret cognoscere causis. /ergo perfugium sibi habebant omnia divis / tradere: 1185-87.
+32 Voula Tsouna, 2018, fundándose en la SV 24: Ἐνύπνια οὐκ ἔλαχε φύσιν θείαν οὐδὲ µαντικὴν δύναµιν, concluye que el frag.
+V, 1161-1182 “in my view, this passage explains... the acquisition by primitive men of a false conception of the gods” (p.
+250), sin distinguir el valor de las dos etiologías.
+33 Varro, Ant. Div. ., 16, 3 Agahd = Aug. C.D., VII, 6. Para la teología varroniana, P. Boyancé, Études sur la religion
+romaine, (Collection de l'Ecole française de Rome, 11), Roma, 1972, 253 ss.
+34 En la tumba de B. Franklin, el inventor del pararrayos está escrito: eripuit ex caelo fulmen sceptrumque tyrannis; Franklin
+fue uno de los descolonizadores de USA dotándola de una constitución republicana.
+35 La religión cívica (populi gentesque, regesque, induperatorem, urbes), a la vez se la ve fracasar, infelix, junto con la pérdida
+de la pax deorum en la superstitio.
+36 Fugier, H. Recherches sur l´expression du sacré dans la langue latine, París 1983, 371 ss. Las prácticas religiosas están bien
+vistas por Epicuro (nº 386-87 Us.), cuando pie sancteque colimus naturam excellentem atque praestantem, Cic., D.N.D., I,
+20, 56. Filodemo, Peri eusebeias 110 = Us. fr. 13. Y en su Sobre los géneros de vida, donde dice que es de sabios la oración,
+no porque los dioses vayan a enojarse si no lo hacemos, sino por la idea que tenemos de sus naturalezas superiores en poder
+y majestad”. Dice el P. Oxy. 215 col. 2.2-6 que los seguidores de la religiosidad ﬁlosóﬁca considerarán la participación en
+el culto como una posibilidad de actualizar su contacto contemplativo (theôría) con los dioses gracias a las impresiones
+favorables de los ritos.
+Auster, no. 25, septiembre 2020, e060. ISSN 2346-8890
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y abierta de la comunicación científica 
+PDF generado a partir de XML-JATS4R

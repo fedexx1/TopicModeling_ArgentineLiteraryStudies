@@ -1,0 +1,615 @@
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+La curiosa intertextualidad de Arrow Chest (2011): sus impugnaciones neovictorianas 
+ 
+María Marcela González de Gatti 
+ 
+marcela.gonzalez.162@unc.edu.ar 
+ 
+ 
+Facultad de Lenguas 
+ 
+ 
+Resumen 
+El presente artículo se propone indagar en un singular uso de la intertextualidad, derivado de 
+la fusión de dos tríadas de doppelgängers cuyas historias, que persisten como fragmentos en 
+el imaginario cultural popular, además, se engarzan en el relato mítico de la historia de Apolo 
+y Dafne. Este entrelazamiento de personajes provenientes de distintos hipotextos se produce 
+en el seno de la trama de la novela neogótica romántica Arrow Chest (2011) del escritor 
+británico Robert Stephen Parry. El artículo analiza las múltiples interpelaciones que, a partir 
+de su construcción como texto neovictoriano, la novela monta respecto de algunos aspectos 
+de la cultura contemporánea. Tales interrogaciones se vinculan con el concepto de 
+hiperrealidad de las sociedades contemporáneas organizadas en torno al principio de 
+simulación y las nuevas epistemologías populares para el consumo de la historia en sus 
+versiones de historiocopia e historioglosia. 
+Palabras claves: neovictoriano- neogótico- hiperrealidad- historiocopia- historioglosia.   
+.  
+ 
+The curious intertextuality of Arrow Chest (2010): its neo-Victorian interrogations 
+ 
+Abstract 
+The present article purports to delve into a singular deployment of intertextuality stemming 
+from the fusion of two triads of doppelgängers, whose stories, which linger as fragments in 
+the popular cultural imaginary, become additionally intertwined with the mythical tale of 
+Apollo and Daphne. This interlacing of characters harnessed from various hypotexts takes 
+place at the narrative core of the romantic neo-Gothic novel Arrow Chest (2011) authored by 
+British writer Robert Stephen Parry. The article analyzes the multiple interrogations which, 
+as a neo-Victorian text, it poses in relation to a variety of features concerning contemporary 
+culture. Such impeachment pertains to the concept of the hyperreality that characterizes 
+contemporary societies organized on the principle of simulation as well as the new popular 
+epistemologies used for the consumption of history in the form of historiocopia and 
+historioglosia. 
+Keywords: neo-Victorian, neo-Gothic, hyperreality, historiocopia, historioglosia.  
+ 
+ 
+ 
+ 
+ 
+Esta obra está bajo una Licencia Creative Commons Atribución 
+– No Comercial – Sin Obra Derivada 4.0 Internacional. 
+M. González de Gatti “La curiosa intertextualidad de Arrow Chest (2011)…”  
+Introducción 
+La novela The Arrow Chest (de ahora en más, AC), obra de ficción histórica escrita 
+por el británico Robert Stephen Parry, es una novela romántica neogótica ambientada en la 
+era victoriana, que involucra personajes que aluden a personalidades históricas de dos épocas 
+diferentes. Tanto los personajes como las maneras en que sus vidas se entrelazan se aplican 
+a ambos contextos históricos. La curiosa consecuencia es la fusión de dos tríadas de 
+doppelgängers en una única historia que además se engrosa con una hebra más en la trama 
+aportada por el mito clásico de Apolo y Dafne. La condición posmoderna de la novela 
+neovictoriana ―en cuyas filas ciertamente se enlista AC― es motivo de debate toda vez que, 
+al volcarse hacia las estrategias narrativas de la novela decimonónica, algunas novelas que 
+componen su canon no ocultan preferencias por experiencias inmersivas para el lector, sin 
+las irrupciones de la ya estandarizada pirotecnia metaficcional posmoderna. Si, por un lado, 
+muchas novelas neovictorianas se alejan de la narrativa autorreferencial conspicua, no 
+demuestran equiparables ejercicios de frugalidad en sus despliegues intertextuales. En el caso 
+que nos ocupa, la novela AC representa un singular empleo de lazos intertextuales que se 
+establecen entre la narración diegética de la ficción y los textos narrativizados, de alto 
+consumo popular, de los hechos salientes de las historias de personajes históricos 
+prominentes. 
+La novela se anuncia como una historia “compilada” por el pintor victoriano Amos 
+Roselli, una especie de avatar de algún artista prerrafaelista1, como, por ejemplo, Dante 
+Gabriel Rossetti ―aunque no de modo excluyente―2 en respuesta a una inscripción grabada 
+en los márgenes de un libro de poesías perteneciente a su musa y amada Lady Daphne 
+Bowlend, quien ha desposado al Barón Oliver Ramsey. Los sinsabores matrimoniales de 
+Daphne, así como la imposibilidad de concebir un heredero para su aristocrático esposo, su 
+relación romántica con un artista y su anunciada y trágica muerte por decapitación aluden a 
+la historia de Anne Boleyn (Ana Bolena, 1501-1536) y el rey Enrique VIII (1491-1547). La 
+historia, en la que Ana estuvo involucrada sentimentalmente con el poeta Thomas Wyatt 
+(1503-1542), se desplaza de la era Tudor para injertarse en la era victoriana, que es el marco 
+temporal en el que se sitúan los acontecimientos de AC. La vasija en la cual se vierte este 
+contenido, luego del desplazamiento cronológico, es el triángulo amoroso conformado en la 
+ 
+1 La Hermandad Prerrafaelista fue fundada en 1848 por influyentes artistas vanguardistas relacionados con el 
+crítico John Ruskin (1819-1900). Los principales líderes fundadores fueron William Holman Hunt (1827-1910), 
+Dante Gabriel Rossetti, John Everett Millais (1829-1896) y William Michael Rossetti (1829-1919), a los cuales 
+pronto se unieron otros artistas para formar el núcleo principal de siete miembros de la hermandad, que buscaba 
+revitalizar las artes. El nombre de la hermandad y el movimiento prerrafaelista se relacionaban con los deseos 
+de revivir ciertos ideales de la pintura anterior al siglo quince, especialmente el uso de color brillante 
+característico del estilo italiano del Quattrocento (Landow párr. 2). 
+2 Rossetti es la opción de preferencia, no solo por la mímica irónica de su nombre, sino también por su 
+participación en un resonante caso de un triángulo amoroso. Sin embargo, AC deliberadamente confunde una 
+incontestable referencia unidireccional a Rossetti con ciertos detalles tales como el comentario, por parte de 
+Amos Roselli de que en el pasado ejecutó una pintura de Circe. La pintura aludida es Circe Invidiosa (1892), 
+obra del pintor prerrafaelista John William Waterhouse (1849-1917). El propio autor de AC confiesa que Amos 
+es un collage de varios pintores y poetas y de Thomas Wyatt también: “[Amos] es un poeta Tudor y un trovador 
+medieval trasladado en el tiempo con el fast forward y ubicado en un escenario victoriano donde blande un 
+pincel y una paleta en vez de una pluma y un laúd” (“Author Interview” párr. 5). 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+era victoriana por Dante Gabriel Rossetti, Jane Burden Morris y William Morris3. La historia 
+de Daphne, Oliver y Amos, que es desprendida de su tallo natural para germinar como un 
+gajo en su nuevo anfitrión histórico, también se funde parcialmente con el mito clásico de 
+Apolo y Dafne4, puesto que en el nivel diegético de AC Daphne se encuentra cautiva en un 
+matrimonio no deseado y vive un romance con Amos Roselli, quien ha sido contratado por 
+su propio esposo para retratarla en la imagen de la mítica Dafne y así rubricar un destino 
+trágico para la dama. Esta, sin embargo, mediante un mágico passe de main, logra escapar 
+con la complicidad de Amos hacia un futuro donde vivirá una existencia de incógnito. Así, 
+lo que Amos no puede alcanzar como pintor, sí puede conseguir como escritor al 
+desenmarañar a Daphne de la densa trama intertextual ―de historiografía oficial, historia 
+popular, y relato mítico― que amenaza con encapsularla y atraparla a menos que un nuevo 
+relato la pueda absolver y liberar. 
+Si bien los personajes son históricos, la narrativización hiperbólica de sus vidas tiene 
+el efecto de actuar como una especie de hipotexto ficcional, construido a partir de los 
+fragmentos de la historia popular que ha perpetuado la supuesta liaison ilícita de Ana y el 
+poeta Thomas Wyatt, ha menguado la talla moral del rey Tudor y ha potenciado el valor de 
+la heroína como una víctima inmolada en manos de un despiadado monarca. Este hipotexto 
+formado en el imaginario cultural popular es reimplantado en otra era histórica en la que sus 
+componentes esenciales pueden reciclarse y recombinarse con elementos de otro texto 
+producto de la novelización salaz en torno a las vidas privadas de los integrantes del círculo 
+victoriano de artistas prerrafaelistas. El hipertexto resultante reescribe nuevamente las 
+textualizaciones populares de los personajes correspondientes a dos eras históricas diferentes 
+y se envuelve de reverberaciones míticas al apelar al relato de Apolo y Dafne con el efecto 
+de parodiar de manera escandalosa la propia práctica de la intertextualidad.  
+ 
+3 Jane (1839-1914) era la esposa del poeta y diseñador William C. Morris (1834-1896) y en la obra visual de 
+Dante Gabriel Rossetti representa la segunda figura femenina más importante como musa inspiradora, después 
+de su esposa Elizabeth Sidall (1829-1862). Rossetti estuvo profundamente enamorado de Jane, pero ella 
+contrajo matrimonio con Morris, quien le ofrecía una vida con seguridades económicas. Jane y Rossetti 
+desarrollaron entonces un romance prohibido. En célebres pinturas de Rossetti, el artista captura la infelicidad 
+de Jane por su agobiante reclusión en un matrimonio insatisfactorio y su aflicción por no poder vivir su relación 
+amorosa con Rossetti con plenitud. Para transmitir ambos sentimientos, la retrata en roles mitológicos tales 
+como el de Proserpina. El encapsulamiento de la mujer amada en un personaje mitológico que dramatiza su 
+condición existencial, practicado asiduamente por los pintores prerrafaelistas, no es disímil del empleo de una 
+estructura de wrapping (envolvente) que despliega el autor de AC en torno a la figura de Ana Bolena, 
+doblemente envuelta en vidas ajenas, primero la de Jane Morris o alguna mujer equivalente dentro del círculo 
+de prerrafaelistas, y luego, en la figura mitológica de Dafne.  
+4 Según la mitología clásica, Apolo ofendió a Eros después de una importante victoria mediante su impertinente 
+exhortación a dejar el uso del arco y flechas para quien tuviera verdadera destreza para usarlos. Eros decidió 
+vengarse por la insultante intromisión y procedió a demostrar su habilidad mortal con el arco y las flechas. Le 
+disparó una flecha con punta de oro a Apolo, que incitaba el deseo, y luego disparó una flecha con punta de 
+plomo a Dafne, una ninfa de los bosques, que provocaba el efecto contrario de repeler el deseo. Cuando Apolo, 
+infundido del apetito de poseer a Dafne, la persiguió, Dafne le rogó a su padre, el dios de los ríos Peneo, que la 
+salvara, hecho que ocurrió mediante la metamorfosis de Dafne en una planta de laurel, en una acción 
+ambivalente que causó su salvación, pero también su destrucción (Roman y Roman 130-131). El aplanamiento 
+del tiempo que ocurre en la sincronización de las dos historias ―una en la era Tudor y la otra en la era 
+victoriana― y su engarzado con una narrativa mitológica en AC tiene el efecto de deslizar las líneas divisorias 
+entre historia, literatura y mito.  
+M. González de Gatti “La curiosa intertextualidad de Arrow Chest (2011)…”  
+La novela logra este propósito no sin antes interpelar, vía el doble marco temporal 
+que siempre supone una novela neovictoriana5, aspectos de la cultura contemporánea, a partir 
+de la continuidad histórica que la novela establece entre la era Tudor, la era victoriana y el 
+presente. En efecto, tal como lo ha planteado Marie-Luise Kohlke,  
+ 
+Aunque leamos textos victorianos como altamente iluminadores de los productos culturales 
+de su era, un día los textos neovictorianos serán leídos por su comprensión de la historia 
+cultural y las preocupaciones sociopolíticas de los siglos veinte y veintiuno. (13) 
+ 
+En los apartados que siguen, se tratarán algunas de dichas preocupaciones sobre las 
+que indaga la novela y desde las cuales articula sus interpelaciones a la cultura 
+contemporánea. 
+ 
+Desgotización y regotización en AC como contrapunto de la hiperrealidad 
+Despierta intriga la elección en el paratexto inicial que funciona como introducción 
+editorial anónima de la novela del término compilar para describir la tarea que realizó Amos 
+respecto de su “extravagante e improbable relato” (AC)6, lo cual merece una indagación. El 
+vocablo alude a la acción de “allegar o reunir en un solo cuerpo de obra, partes, extractos o 
+materias de otros varios libros o documentos7. Que Amos haya compilado una historia da 
+lugar a la hipótesis de que esta se componga de retazos fragmentarios de imágenes y signos 
+que proliferan en la cultura y el imaginario popular. En la novela sobreabundan imágenes 
+icónicas de la era que, por operación de la reiteración en otras novelas ambientadas en la 
+época y de características góticas, subrayan su propia hiperrealidad. La presencia de 
+centinelas que luchan con sus bayonetas en contra de fantasmas; la repetida imagen del rostro 
+incorpóreo de Ana con su cofia festoneada con perlas; las teatralizadas sesiones de 
+espiritismo y tarotismo; y la aparición entrecortada de una figura humana en la bruma en 
+zonas de acantilados borrascosos, son algunas de las imágenes que pueblan el universo de 
+AC. Tanto individualmente como en conjunto, exhiben su naturaleza construida, 
+especialmente cuando el texto sabotea su materialidad. A modo de ilustración, en una noche 
+tempestuosa, Amos ve a Daphne en la lluvia como un espeluznante espectro que lo mira 
+fijamente a través del vidrio empañado con ojos inyectados, de cuyas cuencas comienza a 
+fluir sangre. Después de recorrer el jardín en la borrasca sin poder constatar ninguna 
+presencia humana, Amos experimenta angustia y es auxiliado por Beth, quien encuentra una 
+explicación sensata para los terrores de Amos: una alucinación causada por la accidentada 
+fusión entre el reflejo en el vidrio de un retrato semiejecutado de Daphne y unas begonias de 
+color rojo escarlata en el exterior de la ventana. 
+La superficialidad de estas imágenes tiene una importante significación desde el 
+punto de vista de la inversión subversiva del texto. En primer lugar, su excesiva teatralidad, 
+ 
+5 Tomamos como definición estándar de novela neovictoriana la que proponen Ann Heilmann y Mark 
+Llewellyn, quienes aducen que para pertenecer a la dinastía de textos neovictorianos, estos deben 
+comprometerse de manera autorreflexiva “con el acto de (re)interpretación, (re)descubrimiento y (re)visión 
+respecto de los victorianos” (4). 
+6 Esta, al igual que todas las traducciones al español de obras citadas escritas originalmente en inglés o francés, 
+es traducción propia de la autora de este artículo. 
+7 Diccionario de la Lengua Española. Real Academia Española. Web. 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+y la presencia hueca y flotante de imágenes sin profundidad, contribuyen a invertir las 
+funciones de los elementos clásicos en el género gótico que AC, vía sus relaciones 
+architextuales8, parece invocar. En efecto, en el género gótico, las imágenes de duplicidad 
+vibran con el terror del reconocimiento de lo prohibido y la naturaleza esencialmente dividida 
+de la subjetividad. En AC, el tratamiento casi lúdico de los elementos tomados del stock 
+clásico del gótico lleva a la novela a transformarse en un texto neogótico o una novela 
+neovictoriana gótica9, donde lo gótico se rehabilita solo a los fines de subvertir algunos rasgos 
+de la cultura contemporánea, más precisamente la volatilización de su profundidad bajo el 
+imperio de una nueva preeminencia de la superficie y la imagen, es decir, lo que Fredric 
+Jameson denominó depthlessness ―banalidad o superfluidad―, que caracteriza a los 
+posmodernismos como la lógica cultural del capitalismo tardío10.  
+Esta idea se vincula con los conceptos de simulacro e hiperrealidad desarrollados por 
+Jean Baudrillard, el provocateur francés que, mediante la combinación de sus estudios 
+semiológicos con una política económica marxista y estudios sociológicos de la sociedad de 
+consumo, desarrolló su tesis sobre la simulación como base de la organización de las 
+sociedades posmodernas. Para Baudrillard, las sociedades modernas están organizadas en 
+torno a la producción y el consumo de productos, en tanto que las sociedades posmodernas 
+están organizadas en torno al principio de simulación. La sociedad posmoderna, en la que los 
+individuos construyen sus identidades a partir de la apropiación de los códigos, imágenes y 
+modelos que determinan cómo se perciben a sí mismos, es, además, un universo de 
+hiperrealidad, en el que las tecnologías del entretenimiento, la información y la comunicación 
+ 
+8 A lo largo de este trabajo, hemos empleado la nomenclatura transtextual que proviene de Gérard Genette, al 
+igual que su taxonomía de cinco tipos diferentes de transtextualidad, que denomina architextualidad, 
+paratextualidad, intertextualidad (en sentido restringido), hipertextualidad y metatextualidad. Genette define 
+la architextualidad como “el conjunto de categorías generales o trascendentes ―tipos de discurso, modos de 
+enunciación, géneros literarios, etc.― del que depende cada texto singular” (Palimpsestos 9). Es el tipo “más 
+abstracto” y “más implícito” de relación transtextual. La importancia de la relación architextual es que, como 
+asegura Genette, “[l]a percepción genérica (…) orienta y determina en gran medida ‘el horizonte de 
+expectativas’ del lector, y, por lo tanto, la recepción de la obra” (Palimpsestos 13-14), aunque el lector o crítico 
+pueda disputar el estatuto genérico reivindicado desde su cubierta o su subtítulo.  
+9 Kohlke y Gutleben contrastan el gótico victoriano con el neovictoriano, y en la porción más osada de su tesis, 
+conjeturan sobre la inversión de la novela neovictoriana, por la que el gótico no funciona transfiriendo ideas de 
+alteridad del pasado al presente, sino del presente al pasado. En este sentido, señalan que sobreabundan temas 
+de desviaciones y aberraciones en donde es lo victoriano lo que se patologiza, ya que se transforman en los 
+“condenados” a quienes relegamos aun inframundo de un siglo diecinueve reimaginado desde una supuesta 
+superioridad ética contemporánea (11). Es necesario también coincidir con Spooner en la idea de que el gótico 
+neovictoriano se asemeja a una fase más temprana de la ficción gótica, en la cual se usó “una edad medieval 
+fantastizada para articular preocupaciones correspondientes al siglo dieciocho” (“Horrible Histories” 182). 
+10 Jameson desarrolla esta noción en el contexto de su análisis contrastivo de dos obras de arte visual: A Pair 
+of Boots, de Vincent Van Gogh, y Diamond Dust Shoes, de Andy Warhol. Jameson argumenta que, en el caso 
+de la primera pintura, se observa la transformación de un objeto común y apagado como el calzado de un 
+campesino en una gloriosa materialización de colores puros, que puede leerse como un gesto utópico de buscar 
+y crear una compensación por las consecuencias de la división del trabajo en el mundo capitalista. Por el 
+contrario, en la obra de Warhol (en blanco y negro, como un negativo de una fotografía), es como si la superficie 
+colorida externa de los objetos ―“degradada y contaminada de antemano por su asimilación a las imágenes 
+lustrosas de los diseños publicitarios”― hubiese sido desnudada para revelar su mortífero substrato en blanco 
+y negro. Para Jameson, el paso de un tipo de obra a la otra representa la mutación al estado de la cultura 
+posmoderna en la que el mundo se ha convertido en “una colección de simulacros” (6-10). 
+M. González de Gatti “La curiosa intertextualidad de Arrow Chest (2011)…”  
+brindan experiencias más intensas e inmersivas que las escenas banales de la vida cotidiana. 
+El mundo de la hiperrealidad, es decir, simulaciones mediáticas de la realidad, parques de 
+diversiones al estilo de Disney World, centros de compras, fantasylands del consumidor, y 
+otras incursiones en mundos utópicos, es más real que lo real, y en él los modelos, las 
+imágenes y los códigos de lo hiperreal controlan el pensamiento y la conducta11. 
+El individuo, en esta visión apocalíptica del momento posmoderno, es una mera 
+superficie de absorción. Al estar atrapada en un juego de imágenes, espectáculos y 
+simulacros, la conciencia es saturada mediáticamente, y cual un sujeto narcotizado e 
+hipnotizado, cae en un estado de fascinación con la imagen y el espectáculo que disuelve 
+tanto el referente como el significado. 
+Precisamente, la transmogrificación del gótico en AC se produce en dirección de una 
+de las posibles transformaciones señaladas por Spooner en su completo análisis del uso de 
+convenciones genéricas góticas en la contemporaneidad, la cual es compatible con los 
+conceptos de hiperrealidad y simulación: 
+ 
+Hay un sentido por el cual se puede confiar que el gótico satisfaga cualquier necesidad 
+crítica o cultural que surja en un determinado momento. En los días tempranos de la crítica 
+académica, el gótico a menudo estaba definido por un listado de elementos clásicos, tales 
+como castillos desmoronados, visitas sobrenaturales y heroínas perseguidas. Muchos 
+críticos recientes (…) han intentado suministrar una explicación más cohesiva y sucinta del 
+gótico que no tenga que recurrir a este modelo esquemático de ‘lista de compras’ de sus 
+componentes. Tal vez el gótico represente (…) el retorno de lo reprimido, o las presiones 
+combinadas de la historia que regresa y la geografía constrictiva, o el privilegiar la 
+superficie por sobre la profundidad, o sobrevidas anacrónicas del pasado en el presente. O 
+tal vez el gótico sea tan maleable y compatible con estas teorías, y con interpretaciones 
+contemporáneas en general, porque sus componentes pueden ser reordenados en infinitas 
+combinaciones ya que proveen un lexicón que puede ser saqueado por cientos de 
+motivaciones diferentes, una cripta de miembros corporales que se pueden suturar en una 
+miríada de permutaciones diferentes. (155-156, énfasis propio) 
+ 
+El programa de sutura y recombinación de partes propuesto por AC apunta a 
+reprender la búsqueda contemporánea lujuriosa de espectáculo y sensación y se orienta a 
+subvertir el énfasis en la superficie como negación de profundidad. Esta saturación de 
+superficies ―que es una omnipresencia contemporánea― se traslada a la novela a través del 
+realce de superficies transparentes y simulaciones de distinto orden.  
+Oliver Ramsey exige determinadas poses, objetos de utilería y fondos para su retrato, 
+y numerosas sesiones de estudio señalan la calidad de construcción de su retrato. Sin 
+establecer un contraste entre su arte pictórico y el nuevo arte de la fotografía, que podría 
+ 
+11 Baudrillard desarrolla su concepto de una ruptura entre las sociedades modernas y las posmodernas 
+principalmente en Symbolic Exchange and Death y Simulation and Simulacra. En este último texto, argumenta 
+que, a diferencia del acto de fingir, que deja “el principio de la realidad intacto”, la simulación pone en jaque la 
+diferencia entre “falso y verdadero y real e imaginario” (citado en Kellner). Afirma Baudrillard que “la 
+simulación ya no es la de un territorio, es decir un ser o sustancia referencial. Es la generación, por medio de 
+modelos, de algo real sin origen ni realidad: lo hiperreal. El territorio ya no antecede al mapa ni lo sobrevive. 
+De ahora en más, es el mapa el que precede al territorio ―la precedencia de los simulacros― y es el mapa el 
+que engendra el territorio” (166).  
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+asociarse con la fidelidad al objeto fotografiado, Amos lamenta que de la isla de Wight se 
+haya retirado la célebre fotógrafa victoriana Cameron12, y en vez de focalizarse en la magia 
+del nuevo invento, lo que más lamenta es la pérdida de la práctica de la simulación, el uso de 
+poses, y el empleo de disfraces y parafernalia para engañar al espectador.  
+Los personajes de AC son descriptos muy frecuentemente, en primer término, a través 
+de las vestimentas que portan, con detalles sobre las formas y materiales de los ropajes, y en 
+Amos se observa una dedicación exagerada a la construcción de la figura de Daphne a través 
+de sus ropas, sus joyas y su cabello. Las vestimentas y los hábitos de las personas que 
+descansan en la isla donde Amos ejecuta el retrato de Daphne demuestran que están 
+pendientes de la moda. No ignora Beth, pese a no ser habitué de las galerías de arte por su 
+condición social, que Amos tiende a “idolatrar las modas actuales a través de su pintura” (AC 
+17). Por eso, ante el llamado de Amos a apreciar sus pinturas, su respuesta en tono de halago 
+es que son muy modernas y que les recuerdan las pinturas de Burne-Jones, Leighton y 
+Holman Hunt, “que están tan de moda en la actualidad” (AC 18). 
+Se reitera también la referencia a superficies brillantes o transparentes. Muchos de los 
+personajes son mostrados haciendo uso de diversos tipos de anteojos ―sus vistas filtradas y 
+mediadas, como ocurre con la proliferación de signos en la sociedad contemporánea y la 
+manera en que estos construyen identidades―. Oliver escudriña el lienzo del retrato que 
+Amos está ejecutando al tiempo que avanza con movimientos que exageran la colocación de 
+su monóculo (AC 96). Otro personaje dramatiza su hastío en una velada musical mediante el 
+uso casi obsesivo de su “lorgnette” (AC 60). El profesional médico presente en la ceremonia 
+de la Torre parece concentrarse, más que en su conversación, en los movimientos 
+sistemáticos de presión que ejerce para sostener su “pince-nez” (AC 316). En otros casos, las 
+descripciones destacan el brillo reflejado por las superficies pulidas, por ejemplo, de “arañas 
+colgantes destellantes”, “espejos dorados” y “suntuosos cortinados de terciopelo y seda”, que 
+resultan “sencillamente intoxicantes” (AC 60-61).  
+Las mansiones que habita Oliver son monumentos a la simulación, pretenciosos en 
+su teatralidad y sus exacerbados gestos de revival de estilos del pasado. Su palacio de 
+Bowlend Court “finge sugerir” una era pasada de caballeros y damas galantes, cuando en 
+realidad ha sido construido recientemente en una desmesurada imitación del estilo gótico 
+revival que hace que el edificio luzca “improbable”, “caprichoso” y “bizarro” (AC 29-30). 
+La residencia de verano, Villa Parnassus, también está construida en un estilo revival, como 
+una imponente fachada instalada en un gran escenario en la isla de Wight, que, una y otra 
+vez, es mencionada como “la isla mágica” (AC 90).  
+Según Baudrillard, a medida que proliferan las simulaciones, estas pasan a referirse 
+solo a sí mismas, en una especie de “carnaval de espejos que reflejan imágenes proyectadas 
+por otros espejos en múltiples pantallas, y la pantalla de la conciencia, la cual, a su vez, deriva 
+la imagen a su repositorio previo de imágenes también producidas por espejos simuladores” 
+(citado en Kellner). Si se salvan las distancias que separan el discurso apocalíptico y la 
+ 
+12 Julia Margaret Cameron (1815-1879) fue una célebre fotógrafa que se destacó en una forma artística en la 
+que era prácticamente imposible que una mujer lograra reconocimiento en su época. Julian Cox y Colin Ford 
+destacan el singular récord de Cameron, quien es una de las fotógrafas sobre las que más se ha escrito en la 
+historia de la fotografía y una de las más codiciadas por coleccionistas privados e instituciones públicas como 
+fundaciones y corporaciones (3). 
+M. González de Gatti “La curiosa intertextualidad de Arrow Chest (2011)…”  
+imaginería insuflada de Baudrillard, es posible ver un sutil traslado ―en un incipiente 
+crecimiento del “carnaval de espejos”― al universo de AC. Para algunos críticos que 
+consideran que distintas áreas de la cultura ofrecen zonas de reflexión para teorizar la 
+emergencia de lo posmoderno en el universo del siglo diecinueve, una lectura de AC que se 
+focalice en la hiperrealidad no es aventurada, por cuanto la economía es una de esas áreas. 
+En la tesis de Giovanni Arrighi, existen tanto diferencias entre los arreglos económicos de la 
+Gran Bretaña victoriana y los del capitalismo tardío como similitudes, que nos permiten ver 
+al siglo diecinueve como el sitio originario de la actual situación económica. Según Arrighi: 
+ 
+En Gran Bretaña en el siglo diecinueve, las actividades de extracción mecánica y 
+manufactura se transformaron en el mecanismo por el cual se expandió el capitalismo; sin 
+embargo, cuando la actividad comercial (…) ya no podía crear nuevos mercados y por lo 
+tanto expandir el capital y la producción, emergió una mayor especialización en la 
+especulación financiera como nuevo modelo de dominación económica nacional británica. 
+(…). La corporación global y transnacional permitió modelos más flexibles de acumulación 
+de capital y desarticuló o eclipsó la expansión colonial e imperialista como modelos de 
+dominación económica nacional. En el imaginario postmoderno, entonces, la “ruptura” 
+entre la producción económica y la reproducción económica, entre las tecnologías de 
+manufactura y las tecnologías de la producción y el control del valor mismo, es clave para 
+comprender las relaciones entre nacionalismo, industrialización y desarrollo tecnológico. 
+(Citado en Sadoff y Kucich xvii) 
+ 
+A causa de las propias ondas expansivas de la espectralidad ―que es especular en los 
+retornos del pasado―, y a través de los procesos de desgotización y regotización de algunas 
+de las convenciones del género gótico que representan dicha espectralidad y especularidad 
+entre presente y pasado, la novela plantea una relación de continuidad más que de ruptura 
+entre lo victoriano y lo posmoderno, con una evolución hacia una economía en la que el valor 
+del signo pasará a constituir el nuevo paradigma.  
+ 
+Las interpelaciones a la historiocopia  
+Este juego de imágenes hiperreales es particularmente activo cuando se combina con 
+representaciones de la historia, que en sí misma queda reducida a una aplanada sincronicidad 
+con el efecto de aplastamiento producido por el pliegue telescópico de períodos históricos y 
+míticos. Es evidente el gesto de subversión que AC opera respecto tanto de la historiografía 
+tradicional como del acceso popular contemporáneo al conocimiento histórico que Jerome 
+de Groot ha denominado la “nueva epistemología popular”, que ha circunvalado al 
+historiador profesional como consecuencia de la “crisis de la legitimidad histórica” (3) y el 
+reconocimiento del estatuto de “significante vacío” (1) del propio término historia. Al trenzar 
+en un solo brocado intertextual la historia, la mitología y la literatura, AC ciertamente se 
+propone transgredir los límites que separan estos territorios. Implícito en el final de AC ―por 
+el cual Daphne se escabulle de Inglaterra y es posteriormente dada oficialmente por muerta 
+cuando un cadáver es recuperado de las aguas del Canal de La Mancha― está el 
+cuestionamiento a la historia oficial y, por ende, sus métodos historiográficos. Estos últimos 
+están plagados, sugiere la novela, de tergiversaciones, omisiones, juicios apresurados en base 
+a evidencia equívoca, hechos providenciales que son explotados por su versatilidad para 
+conectarse de manera lógica con otros hechos desligados, y su ratificación por parte del poder 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+que impone una versión oficial y registrada, muchas veces a contrapelo de una historia 
+alternativa subalterna. Pese a la maniobra casi ingenua que refiere cómo Daphne fue 
+contrabandeada de una muerte en vida al territorio de la vida, donde tendrá una sobrevida 
+con una nueva identidad, la artimaña no deja de aludir a las diferentes modalidades en las 
+que falsificaciones, imposturas y adulteraciones son contrabandeadas al territorio de la 
+historia oficial como verdades.  
+Sin embargo, además de dirigir sus energías subversivas hacia la historiografía 
+tradicional y la deshistorización de la era contemporánea, la novela remeda lo que Jerome de 
+Groot denomina historiocopia, es decir, la “desbordante prodigalidad y abundancia de 
+significado histórico” (13) que el teórico celebra como un logro de un nuevo acercamiento 
+del público a la historia. La novela, sin embargo, realiza fuertes inversiones en interrogar este 
+modelo al fustigar la actividad del turismo del pasado que trata versiones diluidas y 
+adulteradas de la cultura como fuente de recursos económicos y que desvergonzadamente 
+alimenta el gusto popular por el voyerismo y la espectacularidad de lo morboso13. Amos trata 
+de distraerse de su obsesión con Daphne realizando bocetos en carbonilla y pastel en frente 
+de la White Tower. Su atención se dirige hacia el fuerte contraste entre lo que significa el 
+sitio de ejecuciones en la torre y la transformación que se ha producido en el lugar que lo ha 
+convertido “para el beneficio de los turistas en un prominente centro de atracción” con 
+elementos decorativos (AC 157). 
+La naturaleza escenificada del lugar ayuda a Amos a sujetar sus pensamientos sobre 
+Daphne porque puede evadirse en una representación hiperreal de la historia que ocupa su 
+mente como cualquier otra fantasía y queda absorto en su trabajo, “sumergido en el perenne 
+teatro viviente de la historia escenificado delante de sus ojos” (AC 163). Su hoja de bosquejos 
+se constituye en un símbolo de la sincronicidad cuando, al tiempo que captura los detalles 
+arquitectónicos de cada estilo y cada época, observa los turistas vestidos en las ropas de la 
+belle époque e “incorpora algunos de ellos a su boceto, porque son parte del escenario” (AC 
+163).  
+La escena que sigue describe la avidez del público por consumir historia en maneras 
+que recuerdan no solamente las posibles costumbres de los victorianos, sino también las 
+nuevas maneras en que el público consume historia en la era contemporánea. Desde la década 
+de los ochenta y los noventa en el siglo pasado, la historia ha crecido de manera exponencial 
+como artefacto cultural, como discurso, y como producto manufacturado. Este proceso ha 
+sido acelerado por lo que se ha denominado un giro virtual, alimentado por tecnologías que 
+han operado un cambio radical en el acceso al conocimiento histórico, tales como los juegos 
+ 
+13 Tomamos este concepto de la cultura como recurso de George Yúdice, para quien en los últimos tiempos las 
+nociones convencionales de cultura han sido vaciadas. La globalización ha determinado que, en vez de 
+centrarnos en el contenido de la cultura, es decir, el modelo de enaltecimiento, según Schiller o Arnold, o el de 
+distinción o jerarquización de clases, según Bourdieu, o su antropologización como estilo de vida integral, 
+según Williams, debamos concentrarnos en la cultura como un recurso. Por esta razón, Yúdice reclama que “la 
+cultura se ha convertido en un pretexto para el progreso sociopolítico y el crecimiento económico” (23). Yúdice 
+se refiere a una especie de giro utilitario en la legitimación de la cultura, pues el arte se ha replegado en una 
+noción ampliada de la cultura como herramienta capaz de resolver problemas, incluso el del desempleo. Aduce 
+el autor: “Su propósito es contribuir a la reducción de gastos y a la vez mantener un nivel de intervención estatal 
+que asegure la estabilidad del capitalismo”, y, por cuanto los actores culturales adhieren a este proyecto, “la 
+cultura ya no se experimenta, ni se valora ni se comprende como trascendente” (26). 
+M. González de Gatti “La curiosa intertextualidad de Arrow Chest (2011)…”  
+de video y la Internet, y la construcción de memoria cultural por parte de los medios no 
+profesionales de la televisión, el teatro, la cinematografía y la red mundial, que contribuyen 
+a presentar el pasado como una producción cultural de gran impacto en la imaginación 
+popular. Jerome de Groot es uno de los teóricos destacados por su indagación de los modos 
+en que la historia se empaqueta y vende al público consumidor, pues entiende que estos 
+procesos son reveladores de verdades que la historiografía ortodoxa no entiende ni se ocupa 
+de dilucidar. Es interesante para el autor identificar los procesos semióticos involucrados en 
+construir, perpetuar y consumir significado e identificar “qué estrategias están en juego para 
+verter sentido en tal aporía representacional” (2). Es decir, su exploración de la nueva 
+epistemología popular se orienta a comprender la interfaz entre la Historia y la cultura 
+popular a través de lo que denomina “experiencias del usuario de historia” (2) para demostrar 
+que el pasado funciona en la sociedad y la cultura en maneras que están fuera del alcance de 
+los historiadores.  
+Mientras que de Groot celebra la historiocopia, es decir “la abundancia desbordante 
+de significado” (13), AC embiste la prodigalidad epistemológica de la historiocopia al 
+insinuar que las industrias de manufactura que tratan la historia como una commodity 
+alimentan el gusto por lo macabro y bastardean una comprensión más compleja o 
+multivalente del hecho histórico. Respecto de los “turistas del pasado”, Amos destaca la 
+existencia en ellos de “una curiosidad macabra” y una especie de “anhelo por las 
+excentricidades barbáricas del pasado”, ambos alimentados por una “dieta de novelitas 
+baratas y puestas en escena populares” (AC 163-164). En particular, a Amos lo irrita el 
+comentario de un turista sobre “la pobrecita Jane Grey” y el trato de los personajes asociados 
+con la torre como conocidos personales, “como si la propia Jane Grey, quien vivió y murió 
+hace más de trescientos años, tuviera una relación privada con él y fuera a asomarse por la 
+ventana para saludarlo” (AC 165). En última instancia, es la propia novela la que, desde su 
+atípica construcción transtextual, ridiculiza las nuevas epistemologías que funden todas las 
+distancias entre historia, ficción y mitología, y producen la ilusión de la familiaridad absoluta 
+con el conocimiento histórico. 
+ 
+La interrogación de la historioglosia 
+Si la historiocopia es interrogada, lo que de Groot llama historioglosia, o “una 
+multiplicidad de discursos híbridos que se acumulan en torno a un solo caso” (13), parece ser 
+el principal blanco hacia el cual la novela dirige su energía transgresora a través de una Ana 
+Bolena victoriana, que, por ende, sugiere que ni la novela neovictoriana ―con su gusto por 
+revivir y practicar ventriloquía con personajes históricos― está exenta de canibalizaciones 
+comerciales de sujetos explotables. Susan Bordo explica que, mientras Ana se preparaba para 
+su muerte, Enrique VIII pasaba gran parte de su tiempo visitando a su próxima esposa, Jane 
+Seymour, y haciendo planes para la boda. Pero antes de contraer matrimonio, debía 
+“erradicar” a Ana de los palacios. Un ejército de carpinteros, picapedreros y modistas 
+trabajaban denodadamente en Hampton Court y otras residencias reales para borrar todo 
+rastro del reinado de Ana: sus iniciales, sus emblemas, sus lemas, y una multitud de letras 
+“A” y “H” entrelazadas en señal de unión sentimental talladas o esculpidas en muros y 
+cielorrasos. Bordo explica que, al investigar la vida de Ana y visitar las residencias reales, su 
+investigación ha sido comparable al hallazgo de pequeños fragmentos ocultos u olvidados, 
+“minimizados pero aún discernibles dentro de los monumentos de mitos, leyendas e 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+imágenes” (xi). Y contrasta los intentos de Enrique de borrarla con los signos de Ana en el 
+imaginario cultural: 
+ 
+Aunque Enrique haya querido borrarla, Ana Bolena no disminuye su presencia en nuestro 
+imaginario cultural. Todas las personas tienen alguna exquisitez para desplegar sobre la 
+mitología sobre Ana: “[Ana] se acostó con cientos de hombres, verdad?” (Escuché esto de 
+un erudito de los estudios clásicos). “Tenía seis dedos ―o eran tres pezones?” (de un 
+experto en literatura francesa). “Tenía relaciones sexuales con su hermano” (de alguien que 
+había aprendido historia con Philippa Gregory). Ana ha sido el foco de numerosas 
+biografías, varios largometrajes, y una saturación hasta el hartazgo de ficción histórica 
+―Murder Most Royal, The Secret Diary of Anne Boleyn, The Lady of the Tower, The Other 
+Boleyn Girl, Mademoiselle Boleyn, A Lady Raised High, The Concubine, Brief Gaudy 
+Hour― las cuales, gracias a The Tudors, transmitido por Showtime, se han multiplicado en 
+los últimos años. (Según estadísticas de Amazon de 2012, se habían publicado más de 50 
+biografías, novelizaciones, o estudios solo en los cinco años anteriores; y esto sin considerar 
+ediciones electrónicas, reimpresiones de las cartas de amor de Enrique, o libros sobre los 
+Tudor en los que Ana es un foco importante cuando no el principal). Ana también se ha 
+convertido en un negocio próspero (disfraces para Halloween, remeras, tazas de café, 
+imanes y calcomanías). Hay sitios en Internet dedicados a ella y arte feminista que 
+deconstruye su legado. (xii) 
+ 
+También Bordo desmenuza las frondosas apropiaciones de la figura de Ana en el arte 
+cinematográfico, que van desde su representación como una ninfómana por parte de 
+prosélitos católicos extremistas hasta su recuperación para un empoderamiento feminista 
+(XIII-XIV). 
+La historioglosia, interpretada como un aluvión de narrativas rivales, contradictorias, 
+superpuestas, en torno a la figura de Ana, trasladada a la era victoriana, de donde se extraen 
+tantos personajes históricos para su constante reescritura en la novela neovictoriana, se 
+convierte en un blanco de impugnación por parte de AC. Si bien la cultura ha producido 
+numerosas versiones de este enigmático personaje, todas aprovechan los componentes 
+fascinantes de una vida digna de un guion cinematográfico. Como propone Irene Goodman, 
+la vida de Ana, más que un hecho histórico, tiene los ingredientes de tabloides salaces: “Sexo, 
+adulterio, embarazo, escándalo, divorcio, realeza, glitterati, conflictos religiosos, y 
+personalidades grandiosas” (citada en Bordo XIII). En este sentido, al subvertir el conocido 
+final histórico de Ana y romantizar su figura, la novela rehúsa otorgar su complicidad al 
+tratamiento de su historia como un recurso económico, y al literalmente “desmaterializar” a 
+Ana primero mediante su transformación en un espectro y, subsiguientemente, mediante una 
+nueva identidad secreta, la novela boicotea el consumo de su historia y le quita 
+“corporalidad” para su apropiación. En vez de explotar su decapitación, AC la resucita y le 
+da una sobrevida doble: una muchacha con una nueva identidad que continuará su vida de 
+incógnito en Francia, o una figura espectral que ha pasado a ser tan románticamente 
+evanescente como un “recuerdo pasajero” (AC 332). En lugar de recordarla para seguir 
+ejecutándola y usufructuar su infortunio y desdicha, o atraparla en las redes de condenación 
+de la mítica Dafne, AC la revitaliza, aunque más no sea como un acto de ensoñación de un 
+artista proclive a los delirios y al consumo de alcohol y láudano, que se siente compelido a 
+dibujar porque es “el único modo que conoce para estabilizar su mente” (AC 163). 
+M. González de Gatti “La curiosa intertextualidad de Arrow Chest (2011)…”  
+ 
+Reflexiones finales  
+A nivel temático, AC interpela tanto el pasado como el presente. Sus impugnaciones, 
+de las cuales se han considerado en este artículo solamente algunas, tienen por blanco el 
+macro relato del progreso material y sus modalidades específicas del pragmatismo y el 
+expansionismo británico, este último cimentado en una fuerte industria armamentista, 
+mediante las asociaciones implícitas y explícitas que se establecen entre el personaje de 
+Oliver, el rey Enrique VIII y el mismo Apolo. Los objetivos de crecimiento y prosperidad 
+nacional son indirectamente denunciados como un legado cultural que se espectraliza en 
+ondulaciones que se propagan históricamente. El singular tejido intertextual facilita el 
+empleo de la novela como espacio de desplazamiento para una crítica del orden hiperreal de 
+la simulación de la sociedad postmoderna, que no deja de encontrar una raíz germinal en la 
+cultura de la belle époque. No escapan a la interpelación de AC las condiciones 
+contemporáneas ―tal vez también, posiblemente, con orígenes en la era victoriana― de 
+acceso a la historia y la producción, promoción y venta de conocimiento histórico como si se 
+tratara de empaquetar atractivamente un producto manufacturado para el consumo apetecible 
+por parte de un público ávido de espectacularización de la morbosidad.  
+En este sentido, como representante del género neovictoriano, la novela certifica que 
+contiene anticuerpos que le garantizan inmunidad ante posibles acusaciones de un exceso en 
+la laxitud con que se tratan temas históricos y la insuflada glotonería con la que se canibalizan 
+personajes históricos hasta el hartazgo. En este aspecto, se vuelve subversiva respecto de su 
+propio potencial para convertir la historia del pasado literalmente en un “nómade 
+conceptual”, al menos a través del giro afectivo en el tratamiento del personaje abusado, 
+manipulado, glorificado y vilipendiado de Ana. Si la novela no resuelve internamente su 
+ambigüedad intrínseca de explotar el personaje ya desacreditado y flagelado de Enrique VIII, 
+al menos su travestimiento burlesco es puesto al servicio de un variado abanico de 
+impugnaciones ideológicas, tales como el destructivo desenfreno antropocéntrico de la era 
+contemporánea. 
+Mediante un empleo singular de una trama intertextual y el desmantelamiento de las 
+convenciones genéricas del gótico para una transformación de la novela en neogótica 
+romántica, el texto analizado profundiza en la apelación desmedida a ciertos personajes 
+históricos y a la historia misma como una colección más de signos intercambiables en un 
+mercado de libre circulación en el cual la imagen ha adquirido preeminencia por encima de 
+su referente.  
+ 
+Bibliografía 
+Baudrillard, Jean. “Simulacra and Simulations”. En Jean Baudrillard, Selected writings. Ed. 
+Mark Poster. Stanford: Stanford University Press, 1988. 166-184.  
+Bordo, Susan. The creation of Anne Boleyn. A new look at England’s most notorious queen. 
+Nueva York y Boston: Houghton, Mifflin, Harcourt, 2013. 
+Cox, Julian, y Ford, Colin. Julia Margaret Cameron. The complete photographs. Los 
+Angeles, California: Getty Publications, 2003.  
+de Groot, Jerome. Consuming history. Historians and heritage in contemporary popular 
+culture. Londres y Nueva York: Routledge, 2009.  
+Diccionario de la Lengua Española. Real Academia Española. Web. 
+Revista de Culturas y Literaturas Comparadas, volumen 13 - diciembre 2022  
+ISSN: 2591-3883 
+Genette, Gérard. Palimpsestos. La literatura en segundo grado. 1962. Trad. Celia Fernández 
+Prieto. Madrid: Taurus, 1989.  
+Heilmann, Ann y Llewellyn, Mark. Neo-Victorianism. The Victorians in the Twenty-First 
+Century, 1999-2009. Londres y Nueva York: Palgrave Macmillan, 2010. 
+Jameson, Fredric. Postmodernism, or the cultural logic of late capitalism. Durham: Duke 
+University Press, 1992.  
+Kellner, Douglas. “Jean Baudrillard”. The Stanford Encyclopedia of Philosophy. Edición 
+2015. Ed. Edward N. Zalta. Web. 20 de marzo de 2022. 
+Kohlke, Marie-Luise. “Introduction: Speculations in and on the neo-Victorian Encounter”. 
+Neo-Victorian Studies 1.1 (2008): 1-18. Web. 4 de marzo de 2022. 
+Kohlke, Marie-Luise y Gutleben, Christian. “The (Mis)Shapes of Neo-Victorian Gothic: 
+Continuations, Adaptations, Transformations”. Neo-Victorian gothic. Horror, 
+violence and degeneration in the re-imagined nineteenth century. Ed. Marie-Luise 
+Kohlke y Christian Gutleben. 1-50.  
+Landow, George P. “Pre-Raphaelites: An Introduction.” The Victorian Web. George P. 
+Landow. 1987. Web. 10 de marzo de 2022. 
+Parry, Robert S. “Author Interview: Robert Stephen Parry on The Arrow Chest”. Historical 
+Fiction. 31 de mayo 2015. Web. 1 de abril de 2022. 
+---. The Arrow Chest. Londres: Rober Parry, 2011.  
+Roman, Luke y Monica Roman. The Encyclopedia of Greek and Roman Mythology. Nueva 
+York: Facts On File, 2010.  
+Sadoff, Dianne F. y Kucich, John. “Introduction: Histories of the Present”. Victorian 
+afterlife: Postmodern culture rewrites the nineteenth Century. Ed. John Kucich y 
+Dianne F. Sadoff. Minnesota y London: University of Minnesota Press, 2000. ix-xxx.  
+Spooner, Catherine. Contemporary gothic. Londres: Reaktion Books, 2006.  
+---. “Horrible Histories: Review of Marie-Louise Kohlke and Christian Gutleben’s Neo-
+Victorian Gothic. Horror, Violence and Degeneration in the Re-Imagined Nineteenth 
+Century”. Journal of Neo-Victorian Studies 6. 2 (2013): 181-90. Web. 3 de abril de 
+2022. 
+Yúdice, George. El recurso de la cultura. Usos de la cultura en la era global. Trad. Gabriela 
+Ventureira, excepto Cap. 7: Desiderio Navarro. Barcelona, España: Editorial Gedisa, 
+2002. 
+ 
+ 
+ 
+Recibido: 06/04/2022 
+Aceptado: 01/07/2022 
+ 
+ 

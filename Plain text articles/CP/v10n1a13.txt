@@ -1,0 +1,428 @@
+Pedro Páramo de Juan Rulfo y la nueva física 
+ 
+Gustavo Fares 
+Lawrence University 
+faresg@lawrence.edu 
+Estados Unidos 
+ 
+Resumen: El presente trabajo analiza las maneras cómo nociones propias de la física clásica y de la física actual se  
+presentan en la literatura modernista en general, y en la novela de Juan Rulfo, Pedro Páramo, en particular. Teniendo en 
+cuenta las representaciones de la realidad propuestas por la física a partir del siglo veinte, basadas en los conceptos de 
+“campo”, subjetividad, y desorden, se ensayan posibles lecturas de la novela y se analiza el papel del lector frente a la misma.  
+ 
+Title and subtitle: Juan Rulfo’s Pedro Páramo and the new physics 
+ 
+Abstract: This article analyzes the ways in which notions from classical and modern physics are present in modern literature 
+in general, and in Juan Rulfo’s novel, Pedro Páramo, in particular.  The article analyzes the role of the reader in the creation of 
+the work, and proposes readings of the novel taking into account representations of reality based on concepts such as field, 
+subjectivity, and disorder, advanced by twentieth-century physics,.  
+ 
+Palabras clave: campo, caos, física, fragmentación, cuántica.  
+ 
+Key Words: field, chaos, physics, fragmentation, quantum.  
+ 
+Durante el siglo pasado se desarrollaron una serie de acontecimientos en el mundo del saber que es posible calificar de 
+“revoluciones”. Las mismas se han dado en casi todas las esferas culturales, en diversos ámbitos y en distintos 
+contextos, desde las ciencias exactas, a la filosofía, y a la crítica literaria. Estas revoluciones no ocurren porque sí ni se 
+producen de manera aislada. Cuando temas y cuestiones culturales en un contexto dado se multiplican y popularizan lo 
+suficiente, ese contexto adquiere lo que podría llamarse una “carga” que permite establecer un diálogo entre ellos. Aún 
+cuando los cultores de diferentes disciplinas ignoren lo que específicamente está sucediendo en otros campos del saber, 
+todos los partícipes de una cultura comparten un substrato, un medio, una noósfera1 determinada, que supone la 
+comunicación o influencias entre diversas disciplinas. Al hablar de influencia no me refiero a un contacto determinante 
+de manera que una forme a la otra en una relación de causalidad; por el contrario, los vínculos son más bien vagos e 
+indirectos, pese a lo cual no se puede negar que existen. Las relaciones entre literatura, historia y ciencia, por ejemplo, 
+no se explican por una acción directa de una sobre otra, sino que derivan del hecho que quienes las practican 
+comparten un mismo “campo cultural”2 que las emparenta y al que reflejan. 
+ 
+En general se considera que la literatura, el arte y las humanidades son cualitativamente diferentes de las ciencias 
+exactas, como la física. Y realmente es así desde la perspectiva de una ciencia que se presenta a sí misma como un 
+saber exacto, objetivo, que describe la realidad “tal como es”, o tal como “debe ser” percibida. Sin embargo, en el 
+terreno de las ciencias, sociales y exactas por igual, es riesgoso confiar en lo que las disciplinas afirman de sí mismas y 
+en la presentación que hace de sus maneras de conocer. Riesgoso por parcial, ya que cada disciplina se presenta de 
+maneras determinadas por ella misma.  Es útil no aceptar las fachadas que las disciplinas mismas imponen y cuestionar 
+sus maneras de pensar, métodos, resultados, y relaciones con otras materias para así lograr un enriquecimiento de los 
+términos de una comparación y abrir nuevos cauces de investigación. Eso sucede cuando se relaciona la física con la 
+literatura. La comparación se hace posible si se considera que los conceptos científicos de espacio, tiempo, materia, 
+número son, en última instancia, metáforas del lenguaje que expresan la necesidad del ser humano de crear 
+constantemente sentidos y valores para entender el mundo externo. Además de compartir las metáforas del lenguaje, 
+hay algo más, común a ambas, que hace posible su comparación: su complejidad. La misma es una característica de los 
+sistemas, sean biológicos, atmosféricos, o literarios, que no puede estudiarse a nivel de materia o energía, aislada del 
+resto, y que crece a medida que aumenta la información del sistema. Información que, además de poder medirse, 
+permite entender la organización de los sistemas y las maneras cómo estos se organizan para generar sentidos 
+(Paulson, 1996: 40).  
+ 
+Utilizando las características comunes a ciencia y literatura, me interesa destacar sus relaciones con la literatura 
+modernista en general, y con la novela Pedro Páramo del escritor mexicano Juan Rulfo en particular. No es este el 
+primer estudio en examinar las correspondencias entre la física actual y la literatura moderna y posmoderna. La obra de 
+Katherine Hayles es pionera al respecto (Chaos Bound, 1990 y Chaos and Order, 1996), y consideraciones de tipo 
+científico, y específicamente físico-matemático, se han usado para estudiar la obra de otro latinoamericano, Jorge Luis 
+Borges (Merrell, 1991 y Rojo, 2008). Sí creo que estas correspondencias no han sido aplicadas a una obra tan conocida 
+como la de Rulfo. Para hacerlo me propongo utilizar conceptos presentes en la física actual, relacionados con la noción 
+de “campo”, con la subjetividad, y con el caos, en sus manifestaciones de fragmentación y desorden, y estudiar las 
+maneras cómo estas ideas propias de disciplinas científicas pueden relacionarse con Pedro Páramo. Como a Juan 
+                                                 
+1 La noósfera de Theilard de Chardin (1959) es vista por algunos autores como una utopía de cuño cristiano destinada a contrarrestar 
+un pesimismo universal darwiniano (Manuel and Manuel, 1979: 20). 
+2 John Brushwood, por ejemplo, propone que la política y la literatura de una sociedad dada no se relacionan de maneras dependientes 
+ni causales, en tanto no es posible afirmar con certeza que una cause cambios en la otra, sino que ambas probablemente son 
+respuestas comunes a fenómenos más generales y amplios (1966: ix). Véase también del mismo autor Narrative Innovation and 
+Political Change in Mexico, 1989: x-xi. 
+Recibido: 27-XI-2007  Aceptado: 20-V-2008     Cuadernos del CILHA - a.10 n.11 - 2009 (10-22) 
+Preciado en su descenso a Comala, me guía la ilusión, en mi caso la ilusión de enriquecer la novela de Rulfo al 
+estudiarla en un contexto que incluya el saber científico de su tiempo. 
+ 
+En general, el estudio de las relaciones entre literatura y ciencia tiene las siguientes características. Se toma en cuenta 
+una teoría científica, que se explica en mayor o menor detalle, para luego trazar paralelos entre ella y el texto literario. 
+Esta fórmula, si bien atractiva, deja ciertas cuestiones pendientes: ¿qué significan estos paralelos? ¿Por qué existen? 
+¿Por qué esas teorías científicas, y no otras? No es sencillo responder a estas preguntas, pero deben tenerse en cuenta 
+al llevar a cabo un estudio como el que propongo. Una manera de entender las conexiones entre literatura y ciencia es 
+ver a ambas como depósitos de figuras retóricas que pueden usarse para iluminarse mutuamente; la relatividad y la 
+mecánica cuántica han sido usadas así, y seguramente lo propio puede hacerse con otras teorías. Es también posible, y 
+quizás más interesante, ir más allá de la mera correspondencia de figuras retóricas y explorar relaciones entre estas 
+disciplinas de maneras algo más profundas. Por ejemplo, se puede considerar que el texto literario, cuando no se 
+entiende del todo en una primera lectura, genera “ruido”, en el sentido usado por la teoría informática y por las teorías 
+del caos, ruido que puede ser decodificado para generar sentidos nuevos del texto. Esta decodificación implica una 
+acción activa del lector que debe participar para entender, interpretar, crear, en cierto sentido, la obra, y puede decirse 
+que esta participación activa, que Cortázar llamaba del “lector macho”, funciona de manera similar al papel del 
+observador en la física cuántica, el cual deja de ser un mero observador desde fuera del sistema para pasar a ser parte 
+del mismo y determinante del fenómeno que, finalmente, se observa.     
+ 
+La física, quién puede dudarlo, es una ciencia compleja, con una larga historia en el saber humano y que hay que 
+aplicar en medidas dosis en el tipo de análisis que propongo. Cuando en estas páginas me refiero a la “nueva física” lo 
+hago consciente de que el término conlleva una cierta ambigüedad, por lo que quiero antes de utilizarlo, dar una 
+somerísima idea de lo que designa. A pesar de que Copérnico fue el primero en formular teorías plausibles respecto al 
+cosmos y al sitio de la tierra en él, en su De Revolutionibus Orbium Coelestium, es Galileo Galilei quien cambiaría el 
+curso de la física, así como de la astronomía, con la invención del telescopio, su uso del método científico, y las 
+conclusiones que plasmó en su Sidereus Nuncius. En 1687, Sir Isaac Newton en su Philosophiae Naturalis Principia 
+Mathematica unifica las ideas del movimiento celeste y las de los movimientos en la tierra, observados por Galileo, y 
+formula la ley de la gravitación que permitió ver todos los fenómenos, tanto grandes como pequeños, de una manera 
+universal y mecánica. La ciencia practicada y sistematizada por Newton se caracterizaba por estudiar fenómenos 
+aislados en un tiempo y espacios absolutos, y el trabajo hecho por el físico inglés perdura hasta la actualidad, siendo 
+usado exitosamente para analizar fenómenos macroscópicos. A este estadio de la física aludo con el apelativo de 
+“clásica”3. Durante el Siglo XX la física rompió con las características newtonianas cuando Einstein formuló su teoría 
+especial de la relatividad. Si por un lado la teoría de la relatividad, tanto en su versión especial como general, coincide 
+con las leyes de Newton cuando los fenómenos se desarrollan a velocidades menores a la de la velocidad de la luz, por 
+otro revoluciona a la física clásica al proponer que espacio y tiempo no son entidades aisladas dentro de las cuales los 
+objetos se encuentran y los acontecimientos se suceden, sino que forman una continuidad, un campo espacio-temporal,  
+y que deben verse como una unidad y no como dos irreconciliables absolutos (Hayles, 1984: 47). No obstante estos 
+avances, la física propuesta por Einstein continuaba siendo, como la de Newton, determinista, es decir, basada en el 
+principio de causalidad, concebido a la vez como universal y unidireccional. Tal principio se vio cuestionado con el 
+desarrollo de la mecánica cuántica formulada por Heisenberg, Schrödinger y Dirac en los 1920s. Basada en el principio 
+de incertidumbre, la mecánica cuántica sostiene que la realidad física no es determinista, sino probabilista y, como tal, 
+su conocimiento depende no sólo del marco de referencia que se usa para observarla, como sucedía en la relatividad de 
+Einstein, sino del observador mismo y del lenguaje que este usa para describirla4. Cuando utilizo el término de “nueva 
+física” me refiero a la ciencia a partir de las teorías de Einstein y de la física cuántica, tomando en cuenta los fenómenos 
+de campo y de probabilidad. A estos dos, es preciso agregar un tercer punto de inflexión, que se da en la segunda 
+mitad del siglo XX: el caos. Si bien la física cuántica permitía explicar fenómenos a nivel subatómico, los que se dan a 
+nivel de la realidad diaria en sistemas complejos, como el clima o la bolsa de valores, no se consideraban susceptibles 
+de ser estudiados mediante fórmulas científicas. Esto cambió con las teorías de la información y con la cibernética, 
+donde el paradigma de orden a partir del desorden, que la ciencia del caos aporta, ha probado ser tan importante en la 
+segunda mitad del siglo XX como el de campo lo fue en la primera5. Veamos con más detenimiento las nociones de 
+“campo”, el papel del observador y la subjetividad, propios de la física cuántica, y el caos, en sus manifestaciones de 
+fragmentación y desorden, para analizar las maneras cómo estas ideas pueden relacionarse con Pedro Páramo. 
+ 
+El campo 
+ 
+El concepto de “campo” desarrollado en la física a partir de las teorías de Einstein es particularmente interesante 
+cuando se aplica a una obra literaria. Mediante este concepto, la física propone un universo interrelacionado, donde no 
+                                                 
+3 Según afirma Kuhn (1996), desde finales del S XVIII se prestaba poca atención a fenómenos que no coincidieran con, y probaran, las 
+leyes establecidas por Newton, las cuales explicaban el mundo estelar tanto como el de los fenómenos más pequeños conocidos en su 
+época (36). 
+4 Las dos teorías más aceptadas, la mecánica cuántica y la relatividad general, capaces de describir con gran exactitud el macro y el 
+micromundo, parecen incompatibles cuando se las quiere ver desde un mismo punto de vista. Es por eso que nuevas teorías han visto 
+la luz, como la supergravedad o la teoría de cuerdas, que es donde se centran las investigaciones a inicios del presente siglo (Davies 
+and Gribbin, 1992). 
+5 Pease a que en 1955, cuando Rulfo publicó su novela, el caos, como ciencia aún no estaba formulado, se puede ver la obra literaria 
+como un fenómeno que surge de manera simultánea a nuevas teorías físicas, que sólo encontraron su formulación científica años 
+después. 
+hay un lugar separado desde donde se pueda observar el mundo. Podemos encontrar antecedentes de tal versión de la 
+realidad en el Romanticismo, que consideraba al mundo como dotado de un fluido vital que relacionaba a los entes 
+vivos entre sí.  Einstein no postuló una instancia viva que relacionara al mundo, sino la quiebra de un sitio único desde 
+donde conocerlo, sea quien fuera quién fuera el observador, fuera este animado o no, e independientemente del idioma 
+que usara para describirlo. La realidad pues, pasó de estar dominada por fenómenos absolutos y separados, tiempo y 
+espacio, a verse como un campo caracterizado por la interdependencia de los elementos que lo conforman y por la 
+autorreferencialidad del lenguaje que lo describe.  Tiempo y espacio dejan de ser absolutos y se relacionan de modo 
+que lo que sucede en un lugar puede transformar el todo. Al desaparecer un marco privilegiado de referencia, 
+desaparece asimismo la posibilidad de una descripción del mundo con validez universal. El lenguaje, que media entre la 
+dicotomía sujeto-objeto, al ser parte del campo, participa del mismo y al describirlo está, en parte al menos, 
+describiéndose a sí mismo (Hayles, 1984: 10).  
+ 
+La inclusión del lenguaje dentro del marco que describe y su problematización se observa de manera paralela en las 
+humanidades y en especial en la literatura moderna, la cual surge del cuestionamiento de la relación entre quien cuenta 
+y lo contado, haciendo indispensable la intervención del lector para entender el campo que se ofrece, al resaltar los 
+elementos autorreferenciales del texto, al problematizar el lenguaje en que se narra, y al poner en tela de juicio el 
+marco de referencia desde el que se lo hace. En el caso de Pedro Páramo tal problematización se manifiesta en la 
+estructura fragmentada de la novela, en la cacofonía de voces que narra, en la ambigüedad del espacio desde el que se 
+narra (¿es la tumba? ¿El mundo de los vivos? ¿El de los muertos? ¿El de los fantasmas? ¿Otro?), y en los juegos 
+temporales que propone el texto. Al eliminar las divisiones entre el pasado y el presente, entre la vida y la muerte, y al 
+dislocar los ejes cronológicos y causales de la lectura, la novela de Rulfo crea un universo que no mimetiza de manera 
+análoga al mundo “real”, sino que crea su propio campo con su sistema de relaciones y leyes de interpretación propias, 
+abierta a diversas lecturas. Una lectura de Pedro Páramo como campo, que no se base en relaciones de causalidad y de 
+temporalidad cronológica debe tomar el texto tal cual se presenta y tratar de descubrir las relaciones que éste propone, 
+así como el/los código/s que se  necesita/n para ser entendido, en lugar de llamar al lector a asumir una tarea de 
+ordenamiento. Este "nuevo texto" o "campo" es un ámbito original, que se señala a sí mismo a partir de las voces de los 
+personajes y del narrador, sin tomar en cuenta un referente temporal ni espacial externo, sino proponiendo diversos 
+sentidos mediante la valorización de la relatividad, la subjetividad y la fragmentación y el desorden como claves de 
+lectura.   
+ 
+La subjetividad 
+ 
+El concepto de “campo” en la física, con su interdependencia y autorreferencialidad, hace necesaria la incorporación de 
+marcos de referencia relativos, trayendo aparejada la quiebra del principio de objetividad universal. La ciencia debe 
+desembarazarse de la distinción fundamental entre sujeto observador y objeto observable para asumir dentro de sus 
+filas la subjetividad a la que hace tiempo está acostumbrada la literatura. La relatividad de marcos de referencia 
+deviene incertidumbre cuando la física cuántica incorpora al observador como un elemento dentro del sistema, y  no 
+fuera del mismo, y reemplaza el determinismo, aún presente en Einstein, con la indeterminación. De acuerdo a las leyes 
+de la mecánica clásica, enunciadas por Newton, es posible predecir el estado de un cuerpo en todo instante posterior, 
+dado el estado inicial del mismo. En la mecánica cuántica esta descripción no funciona ya que en las partículas 
+microscópicas no es posible saber con exactitud cuál es ese estado inicial, dado que es imposible indicar a la vez su 
+posición y su velocidad en un momento dado6. Mientras Heisenberg dispensa con la posibilidad de medir exactamente la 
+posición y la velocidad de una partícula en un momento dado, Erwin Schrödinger va más allá al proponer medir otra 
+entidad completamente diferente de las partículas subatómicas: la función de onda o la probabilidad de que la partícula 
+esté en un cierto lugar con una cierta velocidad. Las partículas, en cierto modo, no existen en sí, sino que sus posibles 
+estados se representan mediante ondas de probabilidades, y es el observador quien, al medir, observar, intervenir, 
+actualiza una de estas posibilidades y, en cierto modo, la hace real, esto es, forja con su intervención lo que es.  
+ 
+La actividad del observador en la física cuántica es extremadamente similar a la del lector en literatura. El mismo 
+interviene de dos maneras: en primer término, al leer, al observar el texto, lo hace real, lo actualiza.  En segundo lugar, 
+el texto que se actualiza en la lectura debe ser interpretado mediante la actividad del lector, con lo cual no sólo se 
+actualiza, sino que sale del campo de probabilidades para adquirir un sentido para ese lector específico, en ese instante 
+de la lectura, que sería equivalente al de la medición de un fenómeno, en términos científicos. La primera actividad del 
+lector, la de leer el texto, se realiza en toda obra literaria; la segunda, que lo insta a interpretar, es aún más necesaria 
+en las obras modernas, donde se requiere su intervención activa para que el texto cobre sentido. No es casual que 
+ambas nociones de intervención, en la ciencia y en las letras, hayan surgido de manera simultánea en la primera mitad 
+del S XX.  La subjetividad, tanto en ciencia como en literatura, pasa a ser el principio organizador de la realidad, en el 
+mundo y en el texto. Esta cualidad se hace presente en la obra de Rulfo, tanto en los acontecimientos que presenta el 
+texto, como en la actividad del lector frente al mismo, el cual debe interpretarlo para entenderlo, dada la estructura 
+fragmentada del texto y el “desorden” en que se encuentran los fragmentos. Vemos en lo que sigue este rol del 
+desorden en la ciencia par mejor entenderlo en la novela7. 
+ 
+El desorden 
+                                                 
+6 Werner Heisenberg dedujo que es fundamentalmente imposible efectuar mediciones simultáneas de la posición y velocidad de una 
+partícula con precisión infinita, idea que se conoce como el “principio de indeterminación de Heisenberg.” 
+7 A este respecto, D'Lugo afirma que uno de los logros de Rulfo es el de liberar al lector al desbaratar sus expectativas de seguir 
+convenciones narrativas y que esta liberación se lleva a cabo desde el texto mismo (D'Lugo, 1987: 468). 
+ 
+A los cambios apuntados en la física, la incorporación del concepto de “campo”, la interdependencia y 
+autorreferencialidad de sus elementos, la consideración de marcos de referencia relativos, y el papel de la subjetividad, 
+se agrega la importancia de la fragmentación, el desorden, y el caos, que señalan una serie de ideas y de maneras de 
+ver la realidad que son no sólo científicas, sino también compartidas por la literatura.  
+ 
+La física trata del desorden en la ciencia del caos, ciencia que no es nueva en el sentido de no tener antecedentes, sino 
+nueva en el sentido de haber surgido en la segunda mitad del S XX para dar una nueva imagen del mundo y de su 
+organización, tanto a nivel microscópico como macroscópico8. El caos trata no del azar, sino del desorden que 
+caracteriza a sistemas complejos, como los movimientos de los fluidos, el clima, o la bolsa de acciones, por ejemplo, y 
+es por eso que también se la llama la ciencia de lo complejo, o de la dinámica no-lineal. Esta rama de la física aplica a 
+nivel macroscópico elementos matemáticos antes utilizados para el análisis de sistemas sub-atómicos y, en este sentido, 
+aplica el método científico a entidades antes disociadas del mismo. Una de estas entidades complejas y ajenas al 
+método científico es el lenguaje, que en el S XX deja de ser considerado un instrumento objetivo que permite describir 
+el mundo “tal cual es” o tal cual lo ve la ciencia, en tanto forma parte del sistema, y pasa a perder suposición de 
+privilegio, para estar activamente involucrado en lo que nombra.  Esta visión del lenguaje es, precisamente, la que se 
+desarrolló en las humanidades a partir del posmodernismo. El contexto de la posmodernidad como sustrato cultural de 
+la sociedad en el capitalismo tardío (Jameson, 1991) catalizó la formación de la nueva ciencia del caos al proveer el 
+marco tecnológico y cultural donde diversos elementos del análisis no-linear de fluidos, como el desorden, y el ruido, 
+dejaron de ser considerados fenómenos aislados, para ser vistos con roles nuevos y como generadores de sentidos. Un 
+importante punto de inflexión en esta formación lo constituyó el considerar a los sistemas complejos como ricos en 
+información, y no solamente como carentes de orden.  Si el paradigma newtoniano se basaba en la previsibilidad del 
+mundo, al que veía mediante marcos de referencia inerciales que se extendían indefinidamente en el tiempo y en el 
+espacio, aplicables tanto a lo muy pequeño como a lo muy grande, el caos celebra la ausencia de previsibilidad, se 
+centra en formas irregulares y complejas,  conceptualizándolas mediante dimensiones fraccionales que niegan la 
+previsibilidad y las simetrías exactas, y resaltando la importancia que las diversas escalas tienen en sistemas complejos. 
+El mundo del caos es así caracterizado por relaciones no lineares entre causa y efecto, y fracturado en múltiples escalas 
+que hacen precaria toda tentativa de conocimiento o comprensión global.  
+ 
+A partir de la valoración del ruido y del desorden como posibilidades de información a ser decodificadas, el caos pasó a 
+ser visto de dos maneras: en primer lugar, como precursor y generador de un orden a partir del desorden, más que 
+como su antítesis; en segundo lugar, conteniendo un orden oculto que existe en los sistemas aun cuando esto no sea 
+evidente para el observador. La segunda instancia apuntada, que ve un posible orden en el desorden, surge gracias a la 
+disociación entre información y sentido, según la cual el desorden no resulta de una ausencia de sentido, sino de una 
+hipertrofia de información, la cual sería posible decodificar si se contara con el código adecuado. La información se ve 
+como una medida de la cantidad de posibilidades a partir de las cuales se selecciona un mensaje; es, en otras palabras, 
+una medida de la incertidumbre que el receptor del mensaje resolverá al recibirlo, recepción que de alguna manera 
+“crea” el sentido, de manera similar al papel del observador en el experimento de Schrödinger, que “crea” el resultado 
+del mismo con su intervención. Además de medir la incertidumbre, la teoría de la información trata de entender la 
+organización de organismos complejos, como los biológicos, que se auto-organizan a partir del desorden, o del “ruido” 
+imperante en el sistema, posibilitando la generación de sentidos a partir del ruido y de la interacción con el desorden. 
+Este proceso es muy similar al que toma lugar en literatura en la relación entre lector y obra; es más, el “ruido” de 
+fuera y de dentro del texto puede llevar a la creación de nuevos niveles de sentido que no son predecibles a nivel 
+lingüístico, ni de convenciones de género narrativo, ni sujetos a la intención del autor.  Algo similar afirma D’Lugo  
+cuando, en su estudio acerca del uso de la fragmentación en la novela mexicana, dice: “It is impossible for readers to 
+respond to a novel exactly as the author intended it”. Y más adelante agrega: “As a technical strategy, fragmentation 
+will be shown to evoke frequently a more participatory role for readers, denying a passive reading” (1997: xiii)9. En el 
+caso de la novela de Rulfo, tal participación se logra mediante la aceptación de su estructura fragmentada tal como se 
+presenta, haciendo difícil, sino imposible, sostener la prioridad de relaciones unidireccionales de causalidad. La 
+estructura de la novela, además de ser compleja en sí misma, se hace aún más complicada por el hecho de que no 
+existe un texto único de Pedro Páramo, generándose un debate acerca de las desavenencias entre las ediciones de la 
+obra10.    
+ 
+Teniendo en cuenta las nociones apuntadas relativas a la física y a la literatura, quiero a continuación ensayar posibles 
+lecturas de la novela rulfiana. Lo haré teniendo en cuenta las versiones de la realidad propuestas por la física clásica y 
+por la nueva física, y el papel del lector en cada una de estas instancias.  
+                                                 
+8 En 1975, James Yorke presentó un trabajo sobre desorden determinístico titulado “Period Three Implies Chaos”, trabajo que reunió 
+las ideas fundamentales de lo que se conocería como ciencia del caos, y que tendría un enrome impacto en la cultura en general. 
+9 Este uso de la fragmentación no es nuevo en las letras mexicanas, ni patrimonio exclusivo de Rulfo, como bien analiza D'Lugo (1997). 
+El mismo aparece como un cuestionamiento a una noción unívoca de la realidad en general, y específicamente, la fragmentación 
+cuestiona a la imagen de México como un estado unido y uniforme. Según afirma D'Lugo (1997) el uso de la fragmentación es una 
+constante en la novela mexicana del siglo XX, desde Los de abajo (1915) de Mariano Azuela, a Amora (1989) de Rosamaría Roffiel. La 
+fragmentación, en manos de los escritores mexicanos, deviene un instrumento estetizante, así como una estrategia para evocar las 
+realidades políticas y sociales del país, y para comprometer al lector a participar activamente en la construcción de la narración. 
+10 Peavler estudia las diferentes ediciones de Pedro Páramo, sus coincidencias y diferencias, y los efectos que ellas producen en la 
+significación del texto y afirma que al leer las desavenencias entre las ediciones de la obra, pareciera que se está frente a un borrador 
+permanente, del cual no existe un original o que el mismo, si alguna vez existió, es uno más entre las múltiples versiones, todas 
+verdaderas, que de él hay. 
+ 
+Diversos autores han afirmado que la novela de Rulfo se presta a, por lo menos, dos actitudes diferentes del lector 
+frente al texto, que pueden relacionarse con dos concepciones diferentes del mundo desde el punto de vista de la física: 
+una es ordenar el texto de acuerdo con leyes de causalidad y de orden cronológico, la otra acepta la novela tal cual se 
+presenta y, en lugar de forzar al lector a asumir un papel de organizador del material, deja que él/ ella lea el texto sin 
+enfatizar una interpretación “correcta” del mismo11. Propongo que la manera de leer que reclama un orden cronológico 
+y temático se relaciona con la física clásica, mientras que el segundo modo de leer la obra tiene elementos comunes 
+con la física tal como se desarrolla en el siglo XX. Si una obra literaria quiere mostrar una versión fidedigna de una 
+realidad descripta por la disciplina newtoniana, debe atenerse a sus principios, es decir, debe presentarse linealmente 
+en el tiempo y describiendo elementos yuxtapuestos en el espacio al que se refiere. Si no lo hace, el lector debe 
+entonces efectuar un trabajo para temporalizar la obra y ordenar sus espacios. Una visión como la que presenta Pedro 
+Páramo debe, pues, ordenarse de acuerdo con esos parámetros para poder ser entendida como una historia que 
+acontece durante una sucesión de instantes y en un lugar del espacio. Solo de esta manera es posible una lectura lineal 
+que siga las alternativas del hilo narrativo, ordenado cronológicamente por el lector de acuerdo con leyes de causalidad 
+y de temporalidad. El argumento de la obra así entendido cuenta la vida del cacique Páramo, su desposorio con Susana 
+San Juan, la muerte de ésta y el asesinato posterior de Páramo a manos de su hijo Abundio; la búsqueda de Páramo 
+por parte de otro de sus hijos, Juan; la llegada de este al pueblo de Comala, siete días después de la muerte de su 
+madre y su propia muerte dos días más tarde. Si bien los elementos de una lectura “realista” se encuentran presentes 
+en la novela de Rulfo, ella propone, creo, algo más: una versión del mundo que da lugar a interpretaciones nuevas y 
+que atiende a fenómenos que desafían el sentido común, presentando un universo en donde la existencia de un 
+“campo” con “cargas” culturales, donde predomina la subjetividad, y donde la fragmentación y el desorden son vistos 
+como oportunidades que generan sentidos, y no como aberraciones. No obstante la posible representación lógica de la 
+realidad (Dixon, 1985) presente en la novela, la historia se complica en varias partes y presenta complicaciones de la 
+trama y de la vida de los personajes que niegan una única la posibilidad de entenderla en un tiempo y un espacio 
+referenciales, absolutos y homogéneos. Las “fallas” que tal lectura delata instan, al menos, a dudar acerca de la certeza 
+de conocer hechos y personajes de manera objetiva, lo cual abre la obra a una segunda posibilidad de entenderla, 
+lectura que se relaciona con la interpretación del texto en sí mismo, como un sistema complejo o “campo”, que se 
+presenta sin necesidad de ser ordenado, y que se relaciona con la versión de la realidad de la física contemporánea.  
+Una novela como la de Rulfo permite lecturas alternativas debido a que el sistema de referencias internas, su “forma 
+literaria” (Frank, 1945), permite ensayar diversos modelos de interpretación que requieren la intervención del lector, 
+quien debe reservar sus juicios hasta tener el todo ante sus ojos, es decir, hasta haber acabado la lectura.  La obra de 
+Rulfo es, así, parecida a la de James Joyce, la cual, a juicio de Frank (1945), no hay que leer sino releer (235). Pedro 
+Páramo necesita, requiere, esta lectura abierta, a la manera de Eco (1979), ya que su texto presenta no sólo “fallas” en 
+la historia referencial contada linealmente, sino que además el material mismo que la conforma se muestra de manera 
+subjetiva, fragmentada y desordenada, emparentadas con la versión de la realidad propuesta por la física actual12. 
+ 
+En esta lectura abierta es posible encontrar dos partes en la obra, lo cual no implica que las dos partes sean siempre las 
+mismas, y que nos autorizan a postular que existen, al menos, dos versiones de la división de la novela en dos partes, 
+cada una con un énfasis diferente, que abren la lectura a una amplia gama de sentidos que niegan una interpretación 
+única. Por un lado las divisiones de Pedro Páramo pueden construirse de acuerdo a las descripciones de Comala, una 
+utópica y la otra infernal, ligadas por los acontecimientos de la vida de Páramo. Una segunda posibilidad de dividir la 
+obra en dos toma en cuenta el desarrollo de la historia y, de acuerdo a ella, la primera parte abarca desde el momento 
+en que Juan Preciado llega al pueblo hasta que muere, mientras que la segunda trata de la vida de Páramo, 
+constituyendo la muerte de Juan, o mejor, el momento en que él toma conciencia de su muerte, el puente entre ambas 
+divisiones. Siguiendo la primera interpretación que divide la obra en dos tiempos ligados por la vida del cacique, las 
+mitades de la novela cambian de punto de vista: la primera se cuenta desde la vida, la segunda desde la muerte, y 
+ambas van construyendo a Comala. La primera descripción del lugar la pinta como un espacio utópico. Encontrada con 
+ella está la Comala a donde llegó Juan Preciado, seca, desértica, muerta. Los acontecimientos que suceden en vida de 
+Páramo constituyen un puente entre ambas. 
+ 
+De acuerdo a una segunda manera de dividir la obra, sus partes están unidas por la muerte de Juan Preciado. La 
+primera parte narra la llegada de Juan al pueblo, la búsqueda que emprende de Páramo, y su muerte. Se presentan, 
+entretejidas en la narración, descripciones de un autor omnisciente que narra escenas de la vida del cacique, retazos de 
+su infancia y de sus sueños con Susana San Juan, la vida en la casa de la abuela, la muerte de su abuelo, la de su 
+padre, su casamiento con Dolores Preciado, etc. En esta primera mitad el lector se identifica con Juan, que aún está 
+vivo, y ve por los ojos de él. Su muerte provoca un cambio en la perspectiva de la narración: se sabe entonces su 
+nombre, hasta entonces ignorado; nos enteramos de que se halla en una tumba, muerto, y de que su interlocutor es 
+Dorotea, y no el lector. La segunda mitad de la obra enfatiza la vida de Páramo, y de los demás personajes de Comala, 
+enfocando en esta parte, los días de la Comala viva del pasado. Se amplía en ella el papel de la voz del narrador 
+anónimo, omnisciente, que interviene en forma neutra una y otra vez para describir personajes y situaciones y para 
+                                                 
+11 Tales posibilidades de lectura han sido ya indicadas por la crítica. Lida Aronne-Amestoy en el análisis que hace de la novela rulfiana, 
+se refiere a la alternancia de una imagen, basada en la historia referencial, y de una imago, basada en elementos creados a partir de la 
+lógica del texto. Paul Dixon (1985) encuentra en Pedro Páramo una historia que debe ser ordenada, y en el primer título de la novela, 
+Los Murmullos, un texto que pide ser leído tal cual se presenta, fragmentado y con una lógica propia.   
+12 Tal ruptura no es específica de la física del siglo XX, sino más bien, la manera en que la ciencia opera, a través de “revoluciones 
+científicas” (Kuhn, 1996) que reemplazan un paradigma ampliamente aceptado por la comunidad científica, por otro más útil para 
+describir la misma realidad. 
+guiar el relato. Es posible afirmar que la estructura resultante de esta división se hace especular, y que en ella una 
+parte es la imagen invertida de la otra13. El gozne que divide las hojas de esta relación especular está dado por el 
+momento en que Juan Preciado toma conciencia de su muerte y a partir de entonces, es posible distinguir las partes de 
+la obra, que se repiten y reflejan en los distintos fragmentos del espejo roto. La especularidad de la obra se manifiesta, 
+además, en la presentación de Pedro Páramo y de otros personajes. No hay, casi, descripciones de su aspecto físico, 
+sólo se sabe que es grande, y esto por la mirada de otros, es decir, mediante descripciones subjetivas, como si sus 
+subjetividades fueran un espejo en donde el cacique se refleja para que el lector lo vea: “Allí estaba él, enorme, 
+mirando la maniobra de meter un bulto envuelto en costales viejos, amarrados con sicuas de coyunda como si lo 
+hubieran amortajado” (Rulfo, 136). A partir de la muerte de su padre, Páramo se hace inaccesible, incluso al lector, que 
+lo conoce gracias a las reacciones subjetivas de los demás personajes frente a sus acciones, como si su vida se fuese 
+formando de retazos reflejados por quienes lo rodean, nunca mostrándose como un ser humano con pensamientos y 
+vida propia. Por ejemplo, cuando Fulgor Sedano lo ve, se describe a Páramo en términos de reflejo de su interlocutor: 
+"Era la segunda ocasión que se veían. La primera nada más él [Fulgor] lo vio; porque el Pedrito estaba recién nacido. Y 
+ésta. Casi se podría decir que era la primera vez. Y le resultó que le hablaba como a un igual" (Rulfo, 101). La relación 
+que Pedro mantiene con su hijo también es de identidad especular; por ejemplo, Fulgor Sedano piensa: “¡Ese 
+muchacho! Igualito a su padre; pero comenzó demasiado pronto” (Rulfo, 133).  La cualidad especular del personaje 
+encarna la estructura especular de la obra y refuerza la ambigüedad entre objeto referencial y reflejado, entre 
+verosimilitud e ilusión, además de poner en juego diversas escalas que tienen injerencia mutua. Siguiendo el símil del 
+espejo, una parte de la novela puede ser reflejo de la otra y, como tal, es posible que cada una constituya un espacio 
+heterotópico diferente: la primera parte de la obra puede ser tomada como el universo referencial, a partir del cual la 
+segunda será una heterotopía que refleja, a la vez que deconstruye, su sistema de representación. O, a la inversa, la 
+segunda parte, con el tema del caciquismo, la Revolución, la vida de Pedro Páramo y de Susana San Juan, puede ser la 
+que se ve reflejada en el mundo de los fantasmas y de los murmullos de la primera parte. 
+ 
+Además de reflejos, el texto tiene una serie de oposiciones que se complementan y quitan validez a una visión global 
+del mundo presentado. Por ejemplo, el tema de la ilusión se presenta relacionado con su opuesto, la desilusión, y es 
+importante para la significación del texto, ya que la ilusión es el motivo, además de la voluntad de la madre, por el cual 
+Juan llega a Comala: "Vine a buscar a Pedro Páramo, que según parece fue mi padre. Me trajo la ilusión. —¿La ilusión? 
+Eso cuesta caro" (Rulfo, 1977: 128). Si la ilusión anima las acciones de Juan, la desilusión motiva las de Páramo, y 
+determina la ruina del pueblo: “Le perdió interés a todo. Desalojó sus tierras y mandó quemar los enseres. Unos dicen 
+que porque ya estaba cansado, otros que porque le agarró la desilusión; lo cierto es que echó fuera a la gente y se 
+sentó en su equipal, cara al camino” (Rulfo, 1977: 149). Por otro lado, si en la primera parte un ser humano vivo, Juan 
+Preciado, llegaba a un pueblo para buscar a un muerto, su padre, en la segunda parte dos seres muertos, Juan y 
+Dorotea, un narrador omnisciente y los otros que se les suman, hablan de un pueblo que estaba vivo y de la gente que 
+lo habitaba.  Como imagen especular de esta situación, sobre el final de la novela Abundio se dirige a Páramo después 
+de la muerte de su mujer, para cobrarse el olvido en que Pedro lo tuvo: “Vengo por una ayudita para enterrar a mi 
+muerta” (Rulfo, 1977: 192)14. La característica especular de la novela, su estructura fragmentada, la subjetividad de las 
+descripciones, las oposiciones y las dudas que eventos y personajes generan, hace imposible hablar de una parte 
+privilegiada, ya que las mismas cambian dependiendo del marco de referencia con que se lea el “campo”. De acuerdo 
+con los marcos elegidos, es posible destacar la mayor o menor importancia de una versión sobre otra, sabiendo desde 
+ya que este gesto dará lugar a conclusiones provisionales. Estas posibilidades presentan versiones de la novela 
+igualmente verosímiles, coexistiendo al mismo tiempo, hasta que el lector, a la manera del observador de Schrödinger, 
+se decida por una. Cualquiera de estas posiciones, así como su coexistencia, reafirman el hecho que la obra de Rulfo 
+propone diversas versiones de la realidad, análogas a las presentadas por la física del siglo XX, que exigen al lector una 
+sostenida apertura a una constante diseminación de sentidos y a los posibles mundos construidos a partir de ellos.  
+ 
+Bibliografía Citada 
+ 
+Aronne-Amestoy, Lida. Utopía, paraíso e historia. Inscripciones del mito en García Márquez, Rulfo y Cortázar. Amsterdam: John 
+Benjamins, 1986. 
+Brushwood, John S. Mexico in its Novel. A Nation's Search for Identity. Austin: University of Texas Press, 1966. 
+Brushwood, John S. Narrative Innovation and Political Change in Mexico. New York: Peter Lang, 1989.  
+Davies, Paul and John Gribbin. The Matter Myth. New York: Touchstone, 1992.  
+D'Lugo, Carol Clark. “Pedro Páramo: The Reader's Journey Through the Text” Hispania, 70, 1987: 468-474. 
+D'Lugo, Carol Clark. The Fragmented Novel in Mexico: The Politics of Form. Austin: U. of Texas Press, 1997.  
+Dixon, Paul B. Reversible Readings. Ambiguity in Four Latin American Novels. Alabama: The University of Alabama Press, 1985. 
+Eco, Humberto. Obra abierta. Barcelona: Ariel, 1979. 
+Frank, Joseph. “Spatial Form in Modern Literature”. Sewanee, 53, 1945: 221-240.  
+Galilei, Galileo. Sidereus Nuncius or The Sideral Messenger. Translated by Albert Van Helden. Chicago: The University of Chicago Press, 
+1989. 
+Hayles, Katherine, ed. Chaos and Order. Complex Dynamics in Literature and Science. Chicago: The University of Chicago Press, 1996. 
+Hayles, Katherine. Chaos Bound. Orderly Disorder in Contemporary Literature and Science. Ithaca: Cornell UP, 1990.  
+Hayles, Katherine. The Cosmic Web. Scientifc Field Models and Literary Strategies in the Twentieth Century. Ithaca: Cornell UP, 1984. 
+                                                 
+13 Dice a propósito Paul Dixon (1985): “Pedro Páramo seems to be structured upon a system of dual motifs that causes the first half of 
+the novel to mirror the second half, in reverse” (82). 
+14 También se repiten los motivos, como el del agua, así como imágenes visuales. Por ejemplo, en la primera parte de la obra Pedro 
+Páramo, niño, piensa: “El día que te fuiste entendí que no te volvería a ver. Ibas teñida de rojo por el sol de la tarde, por el crepúsculo 
+ensangrentado del cielo” (Rulfo, 1977: 27). En la segunda parte, después de haber perdido a Susana, esta vez para siempre, Páramo, 
+ya viejo, reflexiona: “Hace tiempo que te fuiste, Susana. La luz era igual entonces que ahora, no tan bermeja” (Rulfo, 1977: 144). 
+Jameson, Fredric. Postmodernism, or, the cultural logic of late capitalism. Durham: Duke University Press, 1991.  
+Kuhn, Thomas. The Structure of Scientific Revolutions. Chicago: The University of Chicago Press, 1996. 
+Manuel, Frank E and Fritzie P. Manuel. Utopian Thought in the Western World. Cambridge: Harvard UP, 1979.  
+Merrell, Floyd. Unthinking Thinking. Jorge Luis Borges, Mathematics, and the New Physics. Indiana: Purdue UP, 1991.  
+Newton, Isaac. Philosophiae naturalis principia mathematica. Cambridge: Harvard UP, 1972. 
+Paulson, William. “Literature, Complexity, Interdisciplinarity”. In: Hayles, Katherine, ed. Chaos and Order. Complex Dynamics in 
+Literature and Science. Chicago: The University of Chicago Press, 1996. 37-53.  
+Peavler, Terry J. El texto en llamas. El arte narrativo de Juan Rulfo. New York: Peter Lang, 1988.  
+Rojo, Alberto. “El jardín de los mundos que se ramifican: Borges y la mecánica cuántica”. Ciberletras. Revista de crítica literaria y de 
+cultura, 1.1, 2006. En línea http://www.lehman.cuny.edu/ciberletras/v1n1/crit_06.htm#2#2 26 de Abril, 2008).  
+Rulfo, Juan. Obra completa. El llano en llamas. Pedro Páramo. Otros textos. Prólogo y cronología de Jorge Ruffinelli. Venezuela: 
+Biblioteca Ayacucho, 1977. 
+Teilhard de Chardin, Pierre. The Phenomenon of Man. New York, Harper 1959. 
+Wilden, Anthony. The Rules Are No Game. London: Routledge, 1987.  
+ 

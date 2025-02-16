@@ -1,0 +1,640 @@
+Modelo de publicación sin fines de lucro para conservar la naturaleza académica y
+abierta de la comunicación científica
+PDF generado a partir de XML-JATS4R
+ARTÍCULOS
+ARIADNA SE DUERME: SUEÑO E INCAPACIDAD
+ERÓTICA EN LA HEROIDA 10 DE OVIDIO
+Ariadne falls asleep: dream and erotic incapacity in Ovid’s
+Heroid 10
+Hardy, Jorge Augusto
+ Jorge Augusto Hardy *
+jorge.a.hardy@gmail.com
+Universidad Nacional del Nordeste, Argentina
+Cuadernos de Literatura. Revista de Estudios
+Lingüísticos y Literarios
+Universidad Nacional del Nordeste, Argentina
+ISSN: 0326-5102
+ISSN-e: 2684-0499
+Periodicidad: Semestral
+núm. 20, e2011, 2023
+cuadernosdeliteraturaunne@gmail.com
+Recepción: 17/03/23
+Aprobación: 05/05/23
+URL: http://portal.amelica.org/ameli/journal/785/7853965028/
+DOI: https://doi.org/10.30972/clt.0206631
+Esta obra está bajo una Licencia Creative Commons Atribución-
+NoComercial 4.0 Internacional.
+Resumen: El tema del artículo es la pasividad general de Ariadna
+en la Heroida 10 de Ovidio. Se parte del mayor número de
+menciones al sueño (somnus) en la epístola con relación a su
+fuente más probable, el carmen LXIV de Catulo, para pasar luego
+a un plano erótico a partir de los lexemas iners y languida. Dichos
+términos generan ambigüedad ya que usualmente son utilizados
+con respecto a la disfunción eréctil masculina, pero, en esta carta,
+hacen referencia a la heroína. Bajo la hipótesis de que la princesa
+cretense se conﬁgura como una personiﬁcación femenina de la
+impotencia sexual masculina, se lleva adelante el trabajo por
+medio de una metodología ﬁlológica e intertextual.
+Palabras clave: Ariadna, pasividad, somnus, iners, languida.
+Abstract: e subject of this article is the general passivity of
+Ariadne in Ovid’s Heroid 10. We start from the overstatement
+of dream (somnus) in the epistle in relation to its most probable
+source, Catullus’ Carmen LXIV. en, we move to an erotic
+level and we study the lexemes iners and languida. ese terms
+create ambiguity as they are usually used in connection with
+male erectile dysfunction but, in this letter, they refer to the
+heroin. e hypothesis is that the Cretan princess is conﬁgured
+as a female personiﬁcation of male sexual impotence. e
+methodology we use is both philological and intertextual.
+Keywords: Ariadne, passivity, somnus, iners, languida.
+En la Heroida 10 de Ovidio aparecen siete menciones al sueño (somnus, v. 5; somnis, v. 6; somno, v. 9; somnum,
+v. 13; somno, v. 16; somni, v. 111; somnus, v. 117), en lo que sería un aumento considerable con respecto a
+las dos menciones (relacionadas a Ariadna) presentes en el carmen LXIV de Catulo, posible fuente principal
+de la carta.1
+El interés por el signiﬁcado de esta nueva relevancia ganada por el sueño en principio se fundamenta en una
+cuestión de mayor número de menciones, pero luego aumenta al constatarse la mutua y esencial interrelación
+Notas de autor
+*
+Jorge Hardy es Profesor en Lengua y Literatura por la Universidad Nacional del Nordeste (UNNE) y forma parte del PI “La investigación literaria:
+modos y problemas”, llevado adelante en la misma institución. Asimismo, es becario doctoral de la Secretaría General de Ciencia y Técnica de la
+UNNE (SGCyT) con el Proyecto “Góngora y la desterritorialización de la égloga española en el Siglo de Oro. Avances y retrocesos”.
+Cuadernos de Literatura, 2023, núm. 20, e2011, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+del binomio sueño/Ariadna. A su vez, también el término iners resulta productivo ya que agrega posibles
+connotaciones eróticas a la pasividad de la heroína, como se fundamentará en el desarrollo del trabajo.
+Partiendo de dichas connotaciones, se constata la utilización de un vocabulario que da cuenta de un erotismo
+frustrado la noche en que los protagonistas comparten el lecho y que se relaciona con la pasividad del sueño.
+Sin embargo, y a modo de problema, puede observarse una ambigüedad en la utilización del lenguaje erótico
+en la Heroida 10. Esta ambigüedad (o juego) está cimentada en que las palabras utilizadas para caracterizar la
+inactividad antes descripta están usualmente aplicadas a la disfunción eréctil masculina2 (como se verá más
+adelante); pero, aquí hacen referencia a Ariadna. Una de ellas es, como se adelantó, iners, la otra, languida.
+Esto se suma a una caracterización ovidiana de la heroína como poco apta para el amor (Cf. Ov. Ars. 3.35-36
+y Ov. Ars. 3.41-42).3
+Por estas cuestiones se hipotetiza que, no solo el sueño se conforma como elemento fundamental en la
+construcción de la Ariadna ovidiana, sino también, dado el carácter muchas veces lúdico de la escritura de
+Ovidio,4 la inactividad y torpeza de la heroína no son exclusivamente una pereza o descuido relacionado a
+un estado de ensoñación, sino que se desplazan mayormente al territorio de lo erótico y alimentan dudas
+sobre si el acto sexual entre la princesa cretense y Teseo haya sido consumado.5Más aún, la pasividad atribuida
+a Ariadna es tal, que la heroína se conﬁgura como una personiﬁcación femenina de la disfunción eréctil
+masculina.
+La metodología a utilizar en el trabajo es mixta: ﬁlológica, intertextual e intratextual6 ya que, al estudio
+de las diferentes acepciones de los lexemas tratados en los contextos especíﬁcos de la Heroida y de la obra
+ovidiana, se le suma el de sus apariciones en otras obras pertenecientes al mismo sistema textual y que
+se consideran de relevancia signiﬁcativa para este trabajo. Para una mayor especiﬁcación del concepto de
+intertextualidad, partimos de la explicación que de ella da Edmunds (2001):
+e study of intertextuality is the study of a certain kind of relation between texts: One text quotes another or others.
+Quotation is chosen here, in preference to the more common reference, allusion, echo, reminiscence, or transformation, as
+a general, inclusive way of describing the phenomenon. To quote means to repeat part of another text in such a way (which
+would sometimes entail suﬃcient quantity) that its status as a quotation and its source may be discernible. Quotation, of
+whatever length, may be either exact or inexact. (p. 134)
+Especíﬁcamente donde considera que la intertextualidad se apoya en el lector: “Lacking any semiotic basis,
+intertextuality is a matter of construction, thus of reading, and the appeal to the intention of the author has to
+be abandoned. e foundation of intertextual phenomena is not the author but the reader” (2001, p. 166).7
+En este sentido, consideramos que existe un lazo entre la función del lector y lo planteado por Fowler (1997):
+“if someone wants to convince the interpretative community of a particular intertextual relation, they must
+say how the correspondence between the source and target-texts is special, and they must do something
+interesting with it, make it mean” (p. 20). Si es el lector quien debe “hacerlo signiﬁcar”, la relación intertextual
+(sea semiótica o no), recae en este último.
+El trabajo está dividido en dos partes, una primera dedicada al sueño y su íntima relación con la ﬁgura de
+Ariadna y, una segunda, que explora las implicaciones eróticas, sumando los lexemas iners y languida, que
+aparecen cercanamente relacionados al estado de ensoñación.
+1. El sueño y su interrelación con Ariadna
+La primera aparición del lexema somnus se da ya desde el principio de la carta, cuando Ariadna descubre su
+abandono en la peligrosa playa y reprocha a Teseo haberla traicionado mientras dormía. Consideramos que
+la aparición de la palabra somnus adquiere mayor trascendencia al repetirse inmediatamente, adelantando la
+importancia que irá adquiriendo a lo largo del poema:
+Jorge Augusto Hardy. ARIADNA SE DUERME: SUEÑO E INCAPACIDAD ERÓTICA EN LA HEROIDA 10 DE
+OVIDIO
+PDF generado a partir de XML-JATS4R
+in quo me somnusque meus male prodidit et tu
+per facinus somnis insidiate meis.8 (Ov. Her. 10. 5-6)
+en la cual mi sueño me traicionó injustamente y tú, criminalmente, emboscaste a mi
+sueño.
+Sobre estos versos en particular, Battistella (2010, p. 46) destaca el grado de culpabilidad de los artíﬁces de
+la traición: “il sonno e Teseo che ha insidiato il sonno di Arianna sono stati gli arteﬁci del tradimento, ma il
+principale imputato resta comunque Teseo”. El sueño ha traicionado a Ariadna y Teseo se ha aprovechado
+de su sueño. Sin embargo, más adelante, al trabajar en el dístico Ov. Her. 10. 117-118, se verá cómo el mayor
+imputado es el sueño, el cual llega incluso a personiﬁcarse.
+A su vez, Knox (1995, p. 233) menciona sobre el abandono de Ariadna por parte de Teseo que: “was one
+of the most celebrated episodes of seduction and betrayal in ancient poetry” y oportunamente señala, sin
+desarrollar, una relación con uno de los episodios de traición más emblemáticos de la historia romana: la
+conspiración de Catilina (Knox, 1995, p. 236). La relación en cuestión se da entre el verso “Per facinus somnis
+insidiate meis” (Ov. Her. 10. 6) con una línea presente en Catilinarias de Cicerón:9
+vigilare non solum insidiantem somno maritorum, verum etiam bonis otiosorum (Cic.
+Cat. 1.26).
+Vigilar no solo para traicionar el sueño de los maridos, sino también, verdaderamente,
+los bienes de los ociosos.
+Esta conexión es un puente, no solo entre dos grandes representantes de las letras romanas (y prácticamente
+contemporáneos), sino también entre dos géneros diferentes: la elegía en las Heroidas y el ensayo en los
+discursos de Cicerón. Dicha cuestión incide en la interpretación de la ﬁgura de Teseo ya que, consideramos,
+establece un incipiente paralelo entre este personaje y Catilina. A su vez, al resigniﬁcarse la ﬁgura de Teseo a
+raíz de su cercanía intertextual con Catilina, también la ﬁgura de Ariadna adquiere nuevas interpretaciones.
+El pasaje en cuestión aparece en el discurso primero de Catilinarias y exhorta a acabar con la pasividad
+frente a las actividades delictivas de Catilina, sus crímenes, sospechas y actitudes que Cicerón enumera y
+engloba dentro de los cuatro discursos que denuncian la conjuración de Catilina. A partir de lo antes dicho,
+puede interpretarse bonis otiosorum (“bienes de los ociosos”), como los bienes descuidados, que no se vigilan.
+Ariadna, al igual que los mariti y los otiosi, no fue lo suﬁcientemente activa para retener a Teseo y esto es algo
+que se repite a lo largo de la carta (Cf. Ov. Her. 10. 111). También, como ya se mencionó superﬁcialmente,
+se establece una relación entre Catilina y Teseo. Es este último quien saca provecho del descuido de Ariadna,
+así como Catilina, según Cicerón, se aprovechaba premeditadamente de los romanos tendiendo celadas. A
+su vez, al reconocer este paralelo, como intérpretes nos vemos tentados a trasladar el racimo de caliﬁcaciones
+negativas que Cicerón utiliza para Catilina hacia Teseo, en total contraposición a su ethos heroico, es decir,
+aquel de defensor de Atenas y no de criminal.10 Este pasa a ser un malhechor que se regodea en los malos actos
+que conscientemente realiza, un ruﬁán naturalmente dotado para la insidia. Ariadna, por lo tanto, puede ser
+entendida como una víctima no solo de Teseo, sino de su propio descuido y exceso de conﬁanza, similar al
+vulgo de Roma, dormido ante la amenaza de Catilina (perteneciente a la facción de los populares, al igual que
+Julio Cesar, de quien sería heredero Augusto, contemporáneo de Ovidio).
+La idea de sacar provecho del otro por medio de la pasividad que el sueño induce, presente tanto en
+los pasajes citados de Ovidio como de Cicerón, posee un interesante parecido con un fragmento incluido
+en el libro primero de Amores, en el cual se traza un paralelismo entre ser soldado y estar enamorado
+(en consonancia con el tópico de militia amoris). En ambas actividades se requiere agilidad y presteza,
+desaconsejándose la ociosidad:
+Cuadernos de Literatura, 2023, núm. 20, e2011, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+saepe soporatos inuadere profuit hostes
+caedere et armata uulgus inerme manu,
+sic fera reïcii ceciderunt agmina Rhesi,
+et dominum capti deseruistis equi.
+nempe maritorum somnis utuntur amantes
+et sua sopitis hostibus arma mouent.
+custodum transire manus uigilumque cateruas
+militis et miseri semper amantis opus.11 (Ov. Am. I. 9. 21-28)
+A menudo fue de provecho lanzarse contra los adormilados enemigos y abatir con
+mano armada a los soldados inermes. Así fueron exterminadas las feroces columnas del
+tracio Reso y abandonaron, caballos, al dueño capturado. Naturalmente, el sueño de
+los maridos es utilizado por los amantes que blanden sus armas contra los dormidos
+adversarios. Transitar entre las manos de los custodios y de la caterva de vigilantes es el
+trabajo del soldado y del siempre mísero amante.
+Lo dicho hasta aquí nos conduce a interpretar a una Ariadna perezosa que descuida la vigilia de los peligros
+circundantes e inocentemente ignora las intenciones últimas de Teseo. Una Ariadna crédula e indefensa
+por falta de alerta y actividad, víctima de las promesas de quien la ha usado y va a desecharla. Este hilo
+interpretativo tiende un lazo con incertum vigilans que aparece en el verso 9 de la Her. 10:
+incertum vigilans ac somno languida movi
+esea prensuras semisupina manus. (Ov. Her. 10. 9-10)
+Casi despierta y lánguida por el sueño, de costado, moví la mano para agarrar a Teseo.
+Al despertarse, por un lado, se encuentra incertum vigilans (“medio despierta”), recobrando su
+entendimiento; pero, por otro, se despierta ya no tanto del sueño como descanso sino del sueño como ilusión,
+la ilusión causada por el amor, ilusión ahora traicionada por Teseo.
+Knox (1995, p. 236) marca la relación de estos versos con un pasaje de las Sátiras de Horacio en la cual la
+expresión inversa, certum vigilans, es utilizada para indicar la necesidad de no dejarse engañar por la ilusión:
+cum te servitio longo curaque levarit,
+et certum vigilans, “quartae sit partis Ulixes”
+audieris, “heres” [...]. (Hor. S. 2.5.99-101)12
+cuando del largo servicio y cuidados te alivie y estando seguro de tu vigilia escuches “de
+la cuarta parte sea Ulises heredero”.
+El sueño aparece, así, como un deseo que nubla el entendimiento, la comprensión. El Ulises de Horacio
+desea tanto el dinero que podría soñar despierto con su obtención. Ahora, si trasladamos esto, por relación
+intertextual, hacía Ariadna, podemos decir que se nos presenta en un estado de ensoñación no solo físico,
+sino también mental con respecto a Teseo.
+La siguiente aparición del lexema somnus es:
+Excussere metus somnum; conterrita surgo,
+membraque sunt uiduo praecipitata toro. (Ov. Her. 10. 13-14)
+El miedo expulsa al sueño; me levanto aterrada, mis miembros son arrojados fuera del
+lecho viudo.
+Jorge Augusto Hardy. ARIADNA SE DUERME: SUEÑO E INCAPACIDAD ERÓTICA EN LA HEROIDA 10 DE
+OVIDIO
+PDF generado a partir de XML-JATS4R
+El miedo (metus) la arroja (excussere) fuera del sueño y completamente aterrorizada busca a Teseo en
+el lecho vacío. Un lecho uiduo: “not simply ‘empty’; by calling the bed ‘widowed’ she foretells her own
+condition” (Knox, 1995, p. 237). Ariadna se ha despertado del sueño a una realidad que la aterra sobremanera.
+Su lecho, en el cual dormía y soñaba acompañada, ahora se encuentra viudo. Los sueños que en él anidaban
+han muerto por culpa del sueño mismo (o, al menos, es a quien Ariadna culpa). Vemos, entonces, el sueño
+como un engaño agradable del que es expulsada por y hacia una realidad infortunada, un engaño o ilusión
+del que participaba aun estando despierta.
+Knox (1995, p. 237) menciona que el compuesto enfático conterrita (“completamente aterrorizada”) solo
+es usado por Ovidio en Met. 6.287. Dicho segmento de Metamorfosis está dedicado a Niobe, quien perdió a
+sus hijos a manos de una diosa como castigo por la osadía de compararse con ella. A raíz del dolor causado
+por este suceso, se convierte en piedra, lo cual no evita que de sus ojos ﬂuyan lágrimas. El pasaje en cuestión
+retrata el momento en que Artemis dispara contra ellos su arco:
+[…] sonuit contento nervus ab arcu;
+qui praeter Nioben unam conterruit omnes:
+illa malo est audax.13 (Ov. Met. 6.286-288)
+[…] Sonó el tenso nervio del arco que, excepto en Niobe, aterró a todos: ella es audaz en
+la desgracia.
+Entendemos por esto que Ariadna, al aterrorizarse, a diferencia de Niobe, no se mostró audaz (atrevida,
+temeraria, osada) en la desgracia. La desgracia de despertar a una realidad donde se descubre abandonada por
+quien la ilusionó, o tal vez, la falta de osadía la tuvo antes de dormirse al no saber retener a Teseo por medios
+eróticos (punto que se desarrollará a partir de la sección 2.1).
+La siguiente aparición del lexema somnus en la Heroida 10 se da en los versos 15-16:
+Protinus adductis sonuerunt pectora palmis,
+utque erat e somno turbida, rupta coma est. (Ov. Her. 10. 15-16)
+Inmediatamente sonó mi pecho a causa de mis palmas, y confundida como estaba después
+del sueño, tiro de mis cabellos.
+En cuanto a la construcción e somno, que Knox (1995, p. 237) traduce como “aer sleep” y considera
+como un uso común de ex en prosa, nos ayuda a interpretar el estado en el cual el sueño deja a su huésped, y
+resulta signiﬁcativo porque Ariadna no se despierta, por ejemplo, con la mente clara o físicamente descansada,
+objetivo ideal del sueño, sino lo contrario (probablemente debido a su interrupción precipitada). E somno
+turbida pareciera ser una reaﬁrmación de incertum vigilans ac somno languida… Durante toda la carta se
+enfatiza la culpabilidad del sueño en la desgracia de Ariadna, excusando así el abandono por parte de Teseo.
+En el siguiente dístico observamos la aparición de los lexemas:
+Crudeles somni, quid me tenuistis inertem?
+Ah! semel aeterna nocte premenda fui.14 (Ov. Her. 10. 111-112)
+Sueños crueles ¿Por qué me tuvieron inerte? Mejor para siempre hubiera sido oprimida
+por la noche eterna.
+Knox (p. 253) traduce la última línea como “if I had to sleep, at least I could have slept for ever” (“si tuviera
+que dormir, al menos podría haber dormido para siempre”). Esto equivale a igualar sueño y muerte o, más
+Cuadernos de Literatura, 2023, núm. 20, e2011, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+especíﬁcamente, ver la muerte como un sueño prolongado cuyo rasgo es ser oscuro como la noche. También
+sugiere Knox confrontar con Virg. Aen. 6.827:15
+illae autem, paribus quas fulgere cernis in armis,
+concordes animae nunc et dum nocte premuntur,
+heu quantum inter se bellum, si lumina uitae
+attigerint, quantas acies stragemque ciebunt.16 (Virg. Aen. 6.826-829)
+Pero aquella pareja que ves brillar en armas, almas en concordia ahora y mientras son
+oprimidas por la noche ¡qué guerra se harán entre ellas si la luz de la vida las toca
+ligeramente, qué batallas y estragos provocarán.
+Observamos en este pasaje de la Eneida a la muerte como noche opresora y, por ello, se establece una
+equivalencia sueño/noche/muerte. Por otra parte, en los versos en cuestión de la Heroida 10 hay una paradoja
+entre acusar de crueldad a los sueños por mantenerla dormida y el hecho de que, a causa de ello, ahora preﬁera
+dormir eternamente. Ovidio cruza en estos dísticos una línea entre la literalidad del sueño como acto de
+dormir y la metáfora de sueño como muerte. Como dos caras de una moneda en versos contiguos. A su vez,
+crueldad (crudeles) y compasión o cese del sufrimiento (semel = de una vez por todas).
+En la última aparición del lexema somnus se observa una personiﬁcación del sueño (al igual que en el
+fragmento anterior donde es interpelado):
+In me iurarunt somnus uentusque ﬁdesque;
+prodita sum causis una puella tribus. (Ov. Her. 10. 117-118)
+En mi contra conspiraron el sueño, el viento y la conﬁanza; una muchacha traicionada
+por tres causas.
+Este sueño es un culpable consciente, junto al viento y las promesas, de la desgracia de Ariadna. Es
+interesante notar la cualidad inmaterial y efímera de los tres conjurados (en contraste o irónica relación con
+la repentina ausencia del autor material). A la Ariadna Ovidiana pareciera importarle más el haberse quedado
+dormida que el haber dormido con quien la tenía engañada, como si el engaño o la traición dependieran de
+su materialización o descubrimiento y no de la intención del perpetrador, como menciona Keramida (2010)
+“then she [Ariadna] focuses once more on the present situation and starts accusing inanimate elements of
+being responsible for her desertion, instead of eseus” (p. 49). A último momento Ovidio nos presenta a
+una Ariadna que falla en identiﬁcar al verdadero culpable, todavía bajo el poder hipnótico del sueño/ilusión.
+Jacobson (1974) concuerda en que el sueño es personiﬁcado “More interesting is the quasi-personiﬁcation
+of the nonhuman or inanimate […] there is virtually conscious conspiracy” y agrega: “roughout, sleep is
+conceived as an external phenomenon, part of the outside world which betrays and persecutes Ariadne” (p.
+220). Es este sueño, concebido como un agente externo y no como algo propio, al que en última instancia la
+heroína culpa por su abandono, no a quien, sin embargo, se aprovechó de su estado.
+2. Incapacidad erótica
+2.1 Ariadna no sabe amar
+La imagen que de Ariadna transmite Ovidio puede apreciarse en el libro III de Ars Amatoria. Allí atribuye
+el abandono de la heroína a su carencia de arte en el amor.17 Recordemos que los dos primeros libros fueron
+dedicados a instruir a los hombres en dicho arte y el tercero busca, a su vez, instruir a las mujeres:
+Jorge Augusto Hardy. ARIADNA SE DUERME: SUEÑO E INCAPACIDAD ERÓTICA EN LA HEROIDA 10 DE
+OVIDIO
+PDF generado a partir de XML-JATS4R
+quantum in te, eseu, uolucres Ariadna marinas
+pauit in ignoto sola relicta loco.
+quaere, Nouem cur una Viae dicatur, et audi
+depositis siluas Phyllida ﬂesse comis.
+et famam pietatis habet, tamen hospes et ensem
+praebuit et causam mortis, Elissa, tuae.
+quid uos perdiderit, dicam: nescistis amare;
+defuit ars uobis: arte perennat amor.18 (Ov. Ars. 3.35-42)
+Cuánto por ti, Teseo, de las aves marinas, se atemorizó Ariadna abandonada sola en un
+lugar desconocido. Pregunta por qué un camino se llama Los nueve caminos y escucha
+cómo los bosques lloraron por Filis arrancándose los cabellos. Tu huésped, Elisa, posee
+fama de piadoso, sin embargo, te dio una espada y una causa de muerte. Les diré qué las
+perdió: no saber amar; les faltó arte: el arte hace duradero al amor.
+Las perdió el no saber amar (nescistis amare), les faltó arte (defuit ars uobis). Este arte es el que se enseña en
+el Ars Amatoria y que, en palabras de Ovidio, desemboca en la lascivia amorosa:
+nil nisi lasciui per me discuntur amores:
+femina praecipiam quo sit amanda modo. (Ov. Ars. 3.27-28)
+nada más que amores lascivos por mí se aprenden: a la mujer instruiré en el modo de
+hacerse amar.
+Se enseñan nada más que amores lascivos, es decir, licenciosos y con un componente sexual mayoritario.
+Por lo tanto, es allí donde reside, en un principio, la razón del abandono de Ariadna en la visión ovidiana.
+No se entregó a la lascivia o no supo utilizarla a su favor. A su vez, y a modo de contraste, lascivia es un
+término también empleado en las Heroidas con relación a los amores de Safo y Faón. Su utilización allí puede
+ejempliﬁcar su uso general en la obra ovidiana:
+Cantabam, memini –meminerunt omnia amantes–
+Oscula cantanti tu mihi rapta dabas.
+Haec quoque laudabas, omnique a parte placebam,
+Sed tunc praecipue, cum ﬁt amoris opus.
+Tunc te plus solito lascivia nostra iuvabat,
+Crebraque mobilitas, aptaque verba ioco,19
+Et quod, ubi amborum fuerat confusa voluptas,
+Plurimus in lasso corpore languor erat. (Ov. Her. 15. 43-50)
+Yo cantaba, recuerdo –los amantes recuerdan todo– mientras tú me dabas besos furtivos.
+Eso también alababas, todo te placía, pero principalmente, cuando la obra del amor
+acababa. Entonces nuestra lascivia apoyabas solícito, mis jugueteos con palabras y
+contoneos adecuados. Y cuando nuestra satisfacción se confundía éramos un solo cuerpo
+exhausto.
+El término lascivia aparece ligado a los besos furtivos (Oscula … rapta), también a la mobilitas, al uso
+adecuado de las palabras (verba apta) y al ioco (“jugueteos”). Sobre este pasaje, menciona Jacobson (1974, p.
+293):
+is is the most explicit and graphic description of sex in the Heroides, set out with such relish that one senses a vicarious
+re-creation of the moment in Sappho’s imagination. Again we notice that lascivia and mobilitas are not found elsewhere in
+the Heroides, nor is voluptas in a sexual sense.
+Cuadernos de Literatura, 2023, núm. 20, e2011, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Si bien es cierto que la narración, en la Heroida 10, parte del momento posterior al abandono y no desde
+la noche previa, no deja de ser relevante que ni siquiera en retrospectiva la lascivia, la mobilitas, el ioco estén
+presentes.
+2.2 Ariadna no puede amar: languida e iners
+Ahora bien, retomando un dístico ya analizado, pero ahora desde otra perspectiva, resulta interesante
+el término mobilitas cuando se encuentra sexualmente connotado y se lo confronta con iners (“inercia,
+inactividad, pereza”). Este último término es utilizado para describir el estado en que Ariadna pasa su noche
+con Teseo antes de ser abandonada. La heroína acusará al sueño de esta inercia y, por consiguiente, de su
+abandono:
+Crudeles somni, quid me tenuistis inertem?
+Aut semel aeterna nocte premenda fui. (Ov. Her. 10. 111-112)
+Sueños crueles ¿Por qué me tuvieron inerte? Mejor para siempre hubiera sido oprimida
+por la noche eterna.
+Battistella (2010, p. 93) considera al lexema iners como hiperconnotado en la elegía, incluso obscenamente,
+para indicar la inactividad erótica y sugiere confrontar con Ov. Am. 3.7.15, un episodio de impotencia
+masculina:
+truncus iners iacui, species et inutile pondus,
+et non exactum, corpus an umbra forem. (Ov. Am. 3.7. 15-16)
+Yací como tronco inerte, de apariencia y peso inútil.
+Y no se sabía si era un cuerpo o una sombra.
+Sobre los mismos versos la autora maniﬁesta “Il riconoscimento del sovrasenso erotico produce un eﬀetto
+ironico (peraltro l’inertia è generalmente applicata agli uomini)” (p. 93) nutriendo con esto nuestra hipótesis
+sobre la ambigüedad de la terminología erótica en la Heroida 10. Entonces, por un lado tenemos al lexema
+mobilitas como parte de un juego erótico y lascivo (Safo) y, por otro, la inercia que, en el contexto de Amores,
+está también en un plano erótico, aunque frustrado. Ambos pasajes comparten, incluso, cierta obscenidad.
+A su vez, en un contexto erótico, pero ya no obsceno, Ovidio utiliza iners en la Heroida 18 de Leandro a
+Hero, en el sentido de aprovechar las horas invirtiéndolas en un intercambio amoroso:
+Non magis illius numerari gaudia noctis
+Hellespontiaci quam maris alga potest;
+Quo brevius spatium nobis ad furta dabatur,
+Hoc magis est cautum ne foret illud iners. (Ov. Her. 18. 107-110)
+No eran más numerosas las algas del Helesponto que las alegrías de la noche. Cuánto
+más breve el tiempo furtivo que nos era dado, más nos cuidábamos de que no
+transcurriera inuctuoso.
+Este pasaje (que se extiende en su temática un poco más de lo aquí recogido) es un contrario perfecto de
+la noche entre Ariadna y Teseo. Aquí los enamorados se apresuran a aprovechar las horas con sus besos y,
+al momento de partir, Leandro lo hace entre lágrimas porque no desea regresar a su patria dejando atrás a
+Hero. Intentan que sus horas juntos den frutos y ese fruto está inmerso en erotismo. Sobre este fragmento
+Jorge Augusto Hardy. ARIADNA SE DUERME: SUEÑO E INCAPACIDAD ERÓTICA EN LA HEROIDA 10 DE
+OVIDIO
+PDF generado a partir de XML-JATS4R
+mencionan Kenney y Clausen (1989, p. 471): “De modo semejante se sugiere, más que se describe, que la
+pareja hace el amor”. Para la pareja en cuestión, en eso consiste evitar con cautela una noche iners. Por lo
+tanto, puede inferirse que Ariadna, al reclamar al sueño el haberla mantenido inerte, hace referencia a una
+inactividad sexual. Al igual que este, en otro fragmento Ovidio connota iners como falta de aprovechamiento
+del tiempo:
+uenturae memores iam nunc estote senectae:
+sic nullum uobis tempus abibit iners. (Ov. Ars. 3.59-60)
+Desde ya sé consciente de la vejez por llegar: Así ningún tiempo tuyo será inerte.
+El contexto en el que aparece es el comienzo del libro III del Ars Amatoria, dedicado, como se mencionó,
+a enseñar a las mujeres. Aquí, especíﬁcamente, se las alienta a aprovechar el tiempo en cuestión de amantes,
+a no rechazarlos:
+tempus erit, quo tu, quae nunc excludis amantes,
+igida deserta nocte iacebis anus (Ov. Ars. 3. 69-70)
+Tiempo vendrá en que tú, que ahora rechazas amantes, yacerás ía en la desierta noche.
+¿Rechazó Ariadna a su amante y por eso quedó abandonada en la noche fría? A su vez, en la Heroida 14,
+tenemos, al igual que en la carta de Ariadna, una nueva reunión entre el sueño, la inercia y la ausencia de
+erotismo:
+Territus exsurgis; fugit omnis inertia somni;
+Adspicis in timida fortia tela manu. (Ov. Her. 14. 75-76)
+El terror te despierta; huye toda la inercia del sueño; observas en mi tímida mano la
+poderosa espada.
+Linceo duerme con vino como somníferos y no es una noche erótica ya que además Hipermestra se llama
+a sí misma virgen, doncella (“femina sum et virgo”).
+Otra coincidencia entre el erotismo, el sueño y la inercia se encuentra en Amores 19:
+at mihi saeuus Amor somnos abrumpat inertes
+simque mei lecti non ego solus onus;
+me mea disperdat nullo prohibente puella,
+si satis una potest, si minus una, duae!
+suﬃciam: graciles, non sunt sine uiribus artus;
+pondere, non neruis, corpora nostra carent,
+et lateri dabit in uires alimenta uoluptas:
+decepta est opera nulla puella mea;
+saepe ego lasciue consumpsi tempora noctis,
+utilis et forti corpore mane fui. (Ov. Am. 2.10. 19-28)
+En cambio, a mí el amor enfurecido me interrumpa el inerte sueño. Ya no sea yo de mi
+lecho el único peso y me pierda sin restricciones mi muchacha. Si satisfacer una puedes,
+si por lo menos una, ¡dos! Seré suﬁciente. Soy esbelto, pero tengo articulaciones fuertes; el
+cuerpo carece de peso, no de vigor, y el placer alimentará la fuerza de mis costados. Con
+mi obrar ninguna joven se decepciona; muchas veces con lascivia he consumido las horas
+nocturnas y el cuerpo por la mañana todavía está útil y fuerte.
+Cuadernos de Literatura, 2023, núm. 20, e2011, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+Este pasaje arroja luz sobre la inercia del sueño, de la cual Ariadna fue víctima, y da cuenta de que dicha
+inercia es un obstáculo para el amor y no su consecuencia.
+Por último, en cuanto a iners, en la Heroida 16, de Paris a Helena, el priámida deﬁne la no entrega física
+de su amante como una frustración de su Venus, es decir, de su impulso amoroso:
+Si reddenda fores, aliquid tamen ante tulissem,
+Nec Venus ex toto nostra fuisset iners:
+Vel mihi virginitas esset libata vel illud
+Quod poterat salua virginitate rapi. (Ov. Her. 16. 159-163)
+Si fueras a ser devuelta, me habría llevado algo antes y tampoco nuestra Venus habría
+estado completamente inactiva. Habría probado tu virginidad o aquello que pueda ser
+libado resguardándola.
+La no frustración de su impulso amoroso signiﬁca tomar la virginidad de Helena o avanzar lo más posible
+en esa dirección. La inercia es la frustración de todo lo erótico, sexual. Podemos inferir, por esto y por todos
+los casos vistos, que la noche entre Teseo y Ariadna fue infructuosa en el plano amoroso.
+2.3. Écfrasis de la impotencia: languida y semisupina
+El siguiente fragmento está emparentado con la écfrasis de Ariadna dormida, la descripción verbal de una
+escultura que podría haber sido popular en la época:20
+Incertum uigilans, a somno languida, moui
+esea prensuras semisupina manus. (Ov. Her. 10. 9-10)
+Casi despierta y lánguida por el sueño, de costado, moví la mano para agarrar a Teseo.
+La heroína, al despertar, se encuentra adormecida y de costado, mientras con su mano busca apresar a
+Teseo; podría aquí plantearse una incompatibilidad entre languida y prensuras al igual que entre el acto sexual
+y la impotencia. A su vez, languida es un modiﬁcador común de mentula21 como se atestigua en los siguientes
+ejemplos (Adams, 1982, p. 26):
+In the appropriate context the object may be interpreted as sexually signiﬁcant, without the word for the object being
+formally equated with the word for ‘penis’. Augustus' coinage betizo = langueo (Suet. Aug. 87.2) suggests that the plant beta
+was felt to resemble a mentula languida, and indeed the comparison is explicitly made by Catullus 67.21 (‘languidior tenera
+cui pendens sicula beta’).
+De esta manera, así como la planta beta podía tomar el lugar de mentula, atribuyéndole la característica de
+lánguida, así también languida puede valerse en ese aspecto por sí sola, en el contexto apropiado. En este caso,
+dado el fondo de seducción, frustración erótica y abandono, la languidez proyecta en Ariadna una ausencia de
+la energía sexual, concebida como la rigidez del órgano reproductor masculino (ya hemos visto, además, la idea
+que de ella tenía Ovidio). La heroína yace en su lecho abandonada, reblandecida y torcida. Con una inercia
+que no es producto del agotamiento sino de la impotencia. En este sentido puede entenderse lo mencionado
+por Adams (1982, p. 46):
+Sometimes the whole person is mentioned instead of the appropriate sexual part. At Priap. 47.4 (‘illius uxor aut arnica
+riualem / lasciuiendo languidum, precor, reddat’) the author could have spoken of the mentula as languida, but he generalised
+the state of impotence to the whole body.
+Jorge Augusto Hardy. ARIADNA SE DUERME: SUEÑO E INCAPACIDAD ERÓTICA EN LA HEROIDA 10 DE
+OVIDIO
+PDF generado a partir de XML-JATS4R
+Siguiendo esta línea interpretativa, el cuerpo completo de la heroína representa un estado de incapacidad
+sexual. Es necesario traer a colación la otra perspectiva de la pose de Ariadna que ofrece Battistella (2010):
+(per la connotazione iper-erotica di languida e semisupina in Her. 10 –‘self-conscious echo of an appealing feminine pose’–
+cf. [Armstrong, 2006] comm. ad loc.). La posa languida dell’Arianna epistolare esibisce una qualità, per così dire, ecphrastica
+del suo testo-modello e al contempo ammicca a modelli elegiaci, anche se l’‘apporto’ elegiaco si fa talvolta problematico. (p.
+23)
+Una cualidad ecfrástica tomada del modelo catuliano; y es allí donde esta heroína se amiga con el hipotexto
+elegíaco, pero incluso la autora aclara que ese aporte es problemático. Y lo es por la ambigüedad marcada
+desde la hipótesis de este trabajo: el contexto es erótico por el aporte elegíaco, pero determinadas palabras
+connotan impotencia y el tratamiento general del tema es paródico, como nota Armstrong (2006):
+e description of Ariadne waking from sleep to ﬁnd eseus gone is here given a dose of realism which might even be
+deemed to render the situation rather humorous. Ovid’s portrayal of Ariadne hovers precariously between the melodramatic,
+even farcical, and the genuinely pathetic. (p. 227)
+Desde el despertar de la heroína la situación se plantea como una farsa humorística y patética debido a las
+connotaciones de las palabras que hemos repasado (languida e iners), como así también por la desesperación
+que la lleva a arrancarse los cabellos y gritar hacia la lejanía a quien no puede escucharla. Estas imágenes se
+contraponen a la belleza idílica de la mujer elegíaca, lo cual resulta problemático:
+Il mancato decoro “estetico” di Arianna non solo sﬁgura il corpo della donna elegiaca (“woman enters the elegiac text with
+a body constructed for her by the poet”): è lo stesso prepon elegiaco del suo testo a essere continuamente insidiato da
+una perturbativa intertestualità nonelegiaca o troppo elegiaca che ricarica spesso parodicamente l’idioletto plurigenerico di
+Arianna. (Battistella, 2010, p. 27-28)
+La autora llama “perturbadora intertextualidad no elegíaca”22 al rompimiento de este decoro elegíaco.
+3. Conclusión
+En una primera etapa de este artículo se discurrió entre los diferentes sentidos que adquiere el sueño en las
+siete menciones presentes en la Heroida 10 y su íntima conexión con la conﬁguración de la Ariadna ovidiana.
+Así, encontramos que el sueño aparece delineado como aquello que vuelve a su huésped descuidado, pasivo
+u ocioso, un blanco fácil para la traición. Emparentada a esta representación se encuentra el sueño como
+ilusión, en el caso de Ariadna, ilusión causada por el amor, pero también podría ser, como en el caso del Ulises
+de las Sátiras, una ilusión causada por la ambición. Este sueño nubla el entendimiento como una niebla que
+impide la visión. Una inercia más cercana a un atontamiento causado por la ilusión que a la quietud ﬁsiológica
+del descanso. Aparece, también, como un estado de ignorancia que, una vez disipado al despertar, lleva a su
+huésped a una realidad dolorosa que, por contraste con su inicial estado de ilusión (ensueño), es capaz de
+causar terror. Es decir, este sueño es un engaño agradable del que Ariadna es expulsada por y hacia una realidad
+infortunada. Una realidad que ha conspirado, irónicamente, con la fantasía, con el sueño. Salir de este engaño
+agradable del que participaba aun estando despierta y que se transforma al descubrirse abandonada, tampoco
+asegura claridad ya que Ariadna no se despierta, por ejemplo, con la mente lúcida o físicamente descansada,
+objetivo ideal del reposo, sino todo lo contrario, se despierta confundida. En este sentido, el sueño tiene las
+características de un narcótico cuyo efecto se prolonga por un tiempo al despertar. Ya casi al ﬁnal de la carta se
+iguala el sueño con la muerte o, más especíﬁcamente, se ve a la muerte como un sueño prolongado cuyo rasgo
+es ser oscura como la noche. Por último, se observa un sueño personiﬁcado, el cual es culpable consciente de la
+desgracia de Ariadna hasta el punto de absorber en él toda la culpa de Teseo. Entendemos que, a través de las
+diferentes connotaciones adquiridas por el sueño en la Heroida 10, Ovidio nos presenta una Ariadna pasiva
+e ingenua, torpe para el amor y que al descubrirse abandonada por el objeto de su ilusión, del cual se muestra
+Cuadernos de Literatura, 2023, núm. 20, e2011, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+dependiente, es capaz de preferir la muerte. En este sentido, es una Ariadna que falla en encontrar al culpable
+material de su abandono, culpando al inanimado sueño (al cual personiﬁca) de su desgracia y no a Teseo.
+A su vez, a partir de necistis amare (Ov. Ars. 3.41) se expuso la concepción explícita que de la heroína poseía
+Ovidio, esto es, una mujer que fue abandonada no por una traición de su amante sino como desenlace de su
+propia impericia a la hora de la seducción y la lascivia: le faltó el arte que se enseña en el Ars amatoria. Arte
+epitomizado en la Heroida 15 por Safo, por medio de movimientos sensuales (mobilitas) y juegos amatorios
+que incluyen besos y palabras adecuadas al ambiente. Esta mobilitas se opone a la iners de la cual Ariadna acusa
+al sueño y que es la posibilitadora de su abandono. Iners que aparece en los episodios citados sobre amantes
+aprovechando las horas en una entrega amatoria (evitando que el momento sea inerte), y que está presente en
+los pasajes mencionados sobre impotencia sexual masculina. Luego se vio, con languida y semisupina, cómo
+podía interpretarse la pose supuestamente sensual de Ariadna, proveniente de su hipotexto elegíaco, para
+otorgarle un tinte un poco más burlón, tan afín a la escritura de Ovidio. Como se desarrolló, languida es un
+común modiﬁcador de mentula en su estado impotente y, dado el contexto de frustración amorosa, puede
+ser fácilmente asociada a la impotencia y al letargo más que a la sensualidad de la bacante dormida.
+Por lo tanto, en la Heroida 10, a raíz de la ambigüedad entre la elección de palabras, su intertextualidad y el
+contexto de uso, se planteó como hipótesis que la pereza de Ariadna, enfatizada por Ovidio con la abundancia
+de menciones al sueño, se movía en un plano especíﬁcamente erótico. Estas palabras (iners y languida), junto
+con la concepción que de la heroína plantea el poeta, marcaron la pauta de interpretación de este trabajo:
+la impericia de Ariadna en el amor lascivo que se enseña en el Arte de amar es tal, que se ve retratada como
+una discapacidad física. A esto se suma la escena burlona y patética del despertar de la abandonada cretense,
+que busca tristemente asir a su amante con un miembro reblandecido y que, en una relación intertextual
+conveniente, puede ser proyectada hasta personiﬁcar, en una mujer, la disfunción sexual masculina que, tanto
+en Catulo como en Ovidio, aparece mencionada con interesantes similitudes.
+Referencias bibliográficas
+Adams, J. N. (1982). e Latin Sexual Vocabulary. London, Duckworth.
+Armstrong, R. (2006). Cretan women. Pasiphae, Ariadne, and Phaedra in Latin Poetry. Oxford, Oxford University
+Press.
+Battistella, C. (2010). P. Ovidii Nasonis Heroidum Epistula 10: Ariadne eseo. Introduzione, testo e commento. Berlin/
+New York, De Gruyter.
+Edmunds, L. (2001). Intertextuality and the reading of Roman poetry. Maryland, e Johns Hopkins University Press.
+Fontán Barreiro, R. (1990). Virgilio. Eneida. Madrid, Alianza Editorial.
+Fowler, D. (1997). On the Shoulders of Giants: Intertextuality and Classicals Studies. Materiali e discussioni per
+l’analisi del testi classici, 39, 13-14. https://bit.ly/3LINx0v
+Google Arts & Culture. (s. f.). Sleeping Ariadne. https://bit.ly/3GfpOmX
+Mis Museos. (s. f.). Ariadna dormida. Red Didactalia. https://bit.ly/3GfpIM7
+Jacobson, H. (1974). Ovid’s Heroides. New Jersey, Princeton University Press.
+Kennedy, D. (2006). ‘Vixisset Phyllis, si me foret usa magistro’. Erotodidaxis and Intertextuality. En Gibson, R.; Green,
+S. y Sharrock, A. (eds.), e art of Love. Bimillennial essays on Ovid’s Ars amatoria and Remedia amoris (pp.
+54-74). Oxford, Oxford University Press.
+Kenney, E.J. y Clausen, W. (1989). Historia de la Literatura Clásica (Cambridge University). II. Literatura Latina.
+Madrid, Gredos.
+Keramida, D. (2010). Heroides 10 and Ars Amatoria 1.527-64. Ariadne crossing the boundaries between texts. Rosetta,
+8 (5), 47-63. https://bit.ly/42y3EVt
+Knox, P. E. (1995). Ovid. Heroides. Select Epistles. Cambridge, Cambridge University Press.
+Jorge Augusto Hardy. ARIADNA SE DUERME: SUEÑO E INCAPACIDAD ERÓTICA EN LA HEROIDA 10 DE
+OVIDIO
+PDF generado a partir de XML-JATS4R
+Landolﬁ, L. (1997). Le molte Arianne di Ovidio. Intertestualità e intratestualità in ‘Her.’ 10; ‘Ars’ 1, 525-564.
+Quaderni Urbinati di Cultura Classica, 57 (3), 139-172. https://bit.ly/3MkQxSl
+Page, E. et al. (1942). Horace. Satires, Epistles and Ars poetica. London, Loeb Classical Library/Harvard University
+Press.
+Ramírez de Verger, A. (2004). P. Ovidius Naso. Carmina Amatoria. Monachii/Lipsiae, K. G. Saur.
+Rollié, E. (2009). Catilinarias: discursos contra Catilina.Marco Tulio Cicerón. Buenos Aires, Colihue.
+Rosati, G. (2007). Publio Ovidio Nasone. Lettere di eroine. Milán, Biblioteca Universale Rizzoli.
+Sala, M. E. (2015). Metamorfosis Discursivas: Tenerorum lusor amorum publio Ovidio Nasón. Frankfurt am Main, Peter
+Lang GmbH.
+Scivoletto, N. (2013). Publio Ovidio Nasone. Metamorfosi. Novara, UTET.
+Ugartemendía, C. (2022). Ille ego Romanus vates: a autoridade poética do relegatus nos Tristia e Epistulae ex Ponto, de
+Ovídio [Tesis de doctorado]. São Paulo, Universidade de São Paulo.
+Notas
+1 Jacobson (1974) caliﬁca de rutinaria la asunción del carmen LXIV de Catulo como fuente de Ovidio. Posición que
+mayoritariamente él sigue. Sin embargo, acepta la existencia de poemas helenísticos que tocaban el mito y admite la
+posibilidad de que Ovidio los conociera al igual que Catulo (p. 213-214). Knox (1995) aﬁrma que el poema de Catulo
+es la utilización más conocida del abandono de Ariadna y que este forma el principal fondo literario para la carta de
+Ovidio (p. 233).
+2 Cf. Ov. Am. 3.7, 15-16; Cat 67.21
+3 Ov. Ars. 3.35-36: “quantum in te, eseu, uolucres Ariadna marinas/ pauit in ignoto sola relicta loco”; Ov. Ars. 3.41-42:
+“quid uos perdiderit, dicam: nescistis amare;/ defuit ars uobis: arte perennat amor”. El texto latino es de Ramírez de
+Verger (2004). El pasaje se retoma y analiza en la sección 2.1 de este trabajo.
+4 Sobre el carácter lúdico de la escritura ovidiana, ver Cardoso (citado en Ugartemendía, 2022, p. 30): “o substantivo
+ludus e lexemas relacionados aparecem frequentemente nos próprios versos elegiacos (Pichon 1902), por exemplo, como
+um atributo da musa elegiaca (quod tenerae cantent, lusit tua Musa, puellae, am. 3, 1, 27) ou no epílogo do último livro
+da Ars amatoria: ‘o jogo acabou’ (lusus habet ﬁnem, ars 3, 809). Além disso, ludus é usado para se referir à elegía do
+amor em outros tipos de poesia. No Fasti, por exemplo, o verbo ludere (literalmente ‘brincar’) também pode signiﬁcar
+‘escrever elegias amatórias’: ‘Quando eu era jovem, compus poemas de amor inofensivos. Agora minha junta recorre um
+curso muito maior’ (quae decuit, primis sine crimine lusimus annis; nunc teritur nostris area maior equis, fast. 4, 8-9; ver
+também fast. 2, 5-6). Na poesia do exílio Ovídia se chama a si mesmo tenerorum lusor amorum (‘poeta do tenro amor’,
+trist. 4, 10, 1; ver também trist. 3.3.73) e frequentemente lamenta a alegada liberdade ou inconsistência de seus ‘jogos’
+juvenis, como por exemplo, na trist. 1, 9, 61-62: ‘... tu sabes (...) que este velho poema não é mais que uma brincadeira
+da minha juventude, que tudo isto, embora não seja para ser elogiado, certamente signiﬁcava apenas brincadeira’ (scis
+vetus hoc iuveni lusum mihi carmen, et istos/ut non laudandos, sic tamen esse iocos)”. También Sala (2015), en un trabajo
+detallado sobre la naturaleza lúdica de la poesía ovidiana de amor, agrega: “Algunos especialistas, entre otros Fränkel
+(1945), Wilkinson (1955), De Saint Denis (1958), Kenney (1958), D’Elia (1958), Mariotti (1957), Cameron (1968),
+Luck (1969), Scivoletto (1976), Lyne (1980), Verducci (1985), Barchiesi (1987), Ramírez De Verger- Socas (1991),
+Della Corte (1992), anotan rasgos artísticos de la esfera de los juegos y lo lúdico. Se detienen en la risueña presentación
+del universo de amor y acuerdan que Ovidio es un poeta que juega con distintas situaciones amorosas. Aprecian los
+comportamientos y las actitudes del poeta hacia sus temas de amor bien como resultado de operaciones artísticas como
+la ironía y la parodia, bien porque estiman de índole burlesca la caracterización de los personajes y sus historias. Señalan
+el imperturbable tratamiento ovidiano de temas concernientes a la compleja psicología de un amante” (p. 32). Sobre el
+ámbito especíﬁco de las Heroidas la misma autora menciona: “A propósito de las cartas de las heroínas, Verducci (1985)
+anota la burlesca ironía ovidiana en el tratamiento de personajes en una situación trágica” (p. 32).
+5 Entendemos que la no consumación sexual entre Ariadna y Teseo puede estar en contradicción con el topos del
+lecho como albergue y testigo de los amantes. Incluso, la misma heroína reclama ingenuamente la vuelta de Teseo
+al lecho vacío en el que durmieron juntos, pero despertaron por separado (Cf. Ov. Her. 10. 51-58). Landolﬁ (1997)
+menciona al respecto: “Nel particolare contesto della decima Eroide, il talamo, più che vieto μάρτυς ερωτος d'ascendenza
+ellenistica, rappresenta il primo, paradossale sfondo del tradimento: primo, perché dalle coltri Arianna si slancerà verso
+la spiaggia atterrita all'idea di essere stata abbandonata; paradossale perché, di norma, esso ospita gli amplessi delle coppie.
+Nell'immaginario comune, però, il letto costituisce un luogo troppo intrinsecamente connesso all'eros ed ai suoi piaceri
+Cuadernos de Literatura, 2023, núm. 20, e2011, Enero-Mayo, ISSN: 0326-5102 2684-0499
+PDF generado a partir de XML-JATS4R
+perché Ovidio possa permettersi di presentarlo quale luogo di 'fuga', anziché di 'ricezione'; pertanto, a compensare
+l'arditezza del gesto, concorrerà ai vv. 51-54 una nuova menzione del torus ﬁnalizzata ad una morbosa ricerca delle
+impronte di Teseo già lontano” (p. 145). Es decir, en este contexto especíﬁco, el lecho, más que un testigo de amor, es
+el testigo y paradójico trasfondo de la traición. Ovidio reaﬁrma así un tratamiento satírico de la cuestión amorosa entre
+Ariadna y Teseo.
+6 Como modelo de estudio intratextual tomamos a Landolﬁ (1997).
+7 Para Edmunds (2001) la relación entre lo que está presente en el texto y lo que está ausente no puede ser lingüística. Por
+lo tanto: “if the reference is not linguistic, it is not semiotic either” (p. 155). Por eso solo tiene lugar en la mente del lector.
+8 El texto latino de la Heroidas 10 fue extraído de Battistella (2010). Para todas las demás citas a las Heroidas se utiliza
+Rosati (2007). En todos los casos las traducciones son nuestras.
+9 Texto en latín extraído de Rollié (2009). Las traducciones son propias.
+10 Con respecto a la imágen del héroe puede consultarse a Sala (2015): “En la historia de Ariadna encontramos los
+constituyentes de la poética del desamparo, que Ovidio evoca para escribir el probable abandono en la Heroida 3 (carta
+de Briseida). El lector de la carta recibe la imagen del héroe (des)valorizada a través de la mirada subjetiva de la escritora.
+En la dinámica de esta carta de amor, Teseo está empequeñecido aunque no más que en el c.64 de Catulo (vv. 143-144).
+Los versos catulianos diseñan una imagen del varón heroico deshumanizada, egocéntrica e individualista con escasas o
+nulas cualidades para vivir el amor, según mostramos en otras oportunidades” (p. 217-218).
+11 El texto latino de Amores está extraído de Ramírez de Verger (2004). Las traducciones son nuestras.
+12 Texto latino extraído de Page et al. (1942). La traducción es nuestra.
+13 Texto latino de Metamorfosis extraído de Scivoletto (2013). La traducción es nuestra.
+14 Desde otra perspectiva, estos versos se retoman en la sección 2.2 del presente artículo.
+15 El libro 6 de la Eneida tiene como tema el descenso a los inﬁernos, también la “Umbrarum hic locus est, somni noctisque
+soporae” 6.390: “este es un lugar de sombras, de sueño y soporífera noche” y, al principio del mismo, se menciona un
+mural o escultura en cuya descripción se nombra brevemente a Ariadna y su amor por Teseo. Esto recuerda la colcha de
+Catulo en el carmen LXIV, fuente de la Heroida 10.
+16 Texto latino de la Eneida extraído de Fontán Barreiro (1990).
+17 O, incluso, el propio Ars, como menciona Kennedy (2006): “What destroyed these women, we are told, is that they
+didn’t know how to love; they lacked ars–or maybe even the Ars” (p. 63-64).
+18 El texto latino del Ars amatoria está tomado de Ramirez de Verger (2004). Las traducciones son nuestras.
+19 En cuanto a la connotación erótica de ioco, cf. Adams (1982, p. 161): “Both iocari and iocus are sometimes found in
+amatory contexts in which it would be going too far to inﬂict on them a speciﬁcally physical sense (e.g. Hor. Epist.
+1.6.65f, Petron. 26.2, Justin 7.3.4), but there are also places where the writer seems to have had sexual acts in mind:
+Ovid Ars 2.724 ‘accedent questus, accedet amabile murmur/ et dulces gemitus aptaque uerba ioco’ (ioco could surely not
+refer to a verbal jest here)”.
+20 Con respecto a la “Ariadna dormida” situada en el Museo del Prado sabemos lo siguiente: “Copia romana de un original
+griego del siglo II a.C. La imagen de Ariadna, hija del rey Minos de Creta, abandonada por Teseo en Naxos y esperando
+dormida la llegada de Dioniso, fue tratada muchas veces en el arte griego, siendo el prototipo más famoso el que aquí se
+reproduce, sin duda obra de un taller rodio o asiático para el adorno de un jardín o una fuente” (Mis Museos, s. f.). Sobre
+una similar situada en el museo del Vaticano: “e Sleeping Ariadne, housed in the Vatican Museums in Vatican City,
+is a Roman Hadrianic copy of a Hellenistic sculpture of the Pergamene school of the 2nd century BC, and is one of the
+most renowned sculptures of Antiquity” (Google Arts & Culture, s. f.).
+21 Cf. Adams (1982, p. 9): “e basic obscenity for the male organ”.
+22 La “intertextualidad no elegíaca” especíﬁca a la que se reﬁere Battistella (2010) en ese pasaje es Virg. Aen. 4.300-303:
+“saeuit inops animi totamque incensa per urbem/ bacchatur, qualis commotis excita sacris/ yias, ubi audito stimulant
+trieterica Baccho/ orgia nocturnusque uocat clamore Cithaeron”. La cual debe confrontarse con Ov. Her. 10. 47-50: “Aut
+ego diﬀusis erravi sola capillis,/ qualis ab Ogygio concita Baccha deo;/ aut mare prospiciens in saxo igida sedi,/ quamque
+lapis sedes, tam lapis ipsa fui”. La imagen de la bacante referida no es sensual y decorosa, sino desesperada y hasta patética.

@@ -1,0 +1,590 @@
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+Universidad Nacional de La Plata. 
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios Latinos
+EST SPECUS IN MEDIO, NATURA FACTUS AN ARTE (OVIDIO, 
+METAMORFOSIS XI, 235): NATURALEZA, LITERATURA Y PASIÓN 
+AMOROSA EN OVIDIO
+El objetivo de este trabajo es proponer algunas reflexiones, algunas ideas, sobre el 
+modo como el discurso acerca de la naturaleza se articula con el discurso acerca de la pasión 
+amorosa en la poesía ovidiana y sobre el modo como esa articulación termina siendo un 
+discurso acerca de la literatura. Para ello, nos centraremos sobre todo en los dos poemas 
+didácticos de asunto erótico, Ars amatoria y Remedia amoris, que resultan apropiados para el 
+análisis porque, a la vez que constituyen una unidad de sentido guardan entre sí una presunta 
+relación de inversión, tal y como nos lo dice el mismo poeta al comienzo de Remedia en un 
+dístico sobre el que volveremos luego: Naso legendus erat tum, cum didicistis amare: /  idem 
+nunc vobis Naso legendus erit. (Rem.71-72) [Tenías que leer a Nasón entonces, cuando 
+aprendisteis a amar: igualmente ahora tendréis que leer a Nasón]. 
+No obstante, como lo sugiere el verso que integra nuestro título, nuestro punto de 
+partida no serán dichos poemas didácticos sino un pasaje de Metamorphoses, porque es la 
+obra en la que Ovidio expone y explota de manera más evidente todos y cada uno de los 
+rasgos de su escritura y porque integra un pasaje que resulta fértil para especificar a la vez el 
+tema y el objetivo de estas reflexiones. El verso pertenece al episodio de Tetis y Peleo (Met., 
+XI, 221-265), en cuyos inicios leemos:
+Est sinus Haemoniae curvos falcatus in arcus,
+bracchia procurrunt, ubi, si foret altior unda,               
+portus erat; summis inductum est aequor harenis;
+litus habet solidum, quod nec vestigia servet
+nec remoretur iter nec opertum pendeat alga;
+myrtea silva subest bicoloribus obsita bacis.
+Est specus in medio, natura factus an arte,               
+ambiguum, magis arte tamen, quo saepe venire
+frenato delphine sedens, Theti nuda, solebas.         (Met., XI, 229-237)
+Cita sugerida: Schniebs, A. (2015). Et specus in medio, natura factus an arte (Ovidio, metamorfosis xi, 235): naturaleza, 
+literatura y pasión amorosa en Ovidio. Auster, (20), e022. Recuperado de: 
+http://www.auster.fahce.unlp.edu.ar/article/view/Aus020
+    Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional 
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+Hay en Hemonia una ensenada curvada en forma de hoz, sus brazos se extienden hacia 
+adelante; si el agua fuese allí más profundo, sería un puerto, pero el mar se desliza sobre la 
+superficie de la arena. Tiene una playa compacta, que ni conserva las huellas ni retarda el paso 
+ni pende cubierta de algas; junto hay un bosque de mirtos cargado de bayas bicolores. Hay una 
+cueva en el medio, hecha por la naturaleza o el arte, es dudoso, pero más bien parece por el 
+arte, adonde solías acudir a menudo, Tetis, desnuda y montada en delfín embridado.  
+Se trata, desde luego, de la típica descripción digresiva (descriptio per parécbasin en la 
+terminología serviana, Aen. X, 651) propia de la épica y que Ovidio formula aquí según el 
+modelo de la  écphrasis, lo cual está particularmente resaltado por la triple reiteración del 
+módulo  est locus  propio de este recurso en  est sinus  (229),  portus erat (231),  est specus 
+(235)1. A su vez, por su carácter apartado y solitario, por su condición de gruta, por la 
+vegetación y por estar destinado al reposo, el espacio descripto reúne las características de un 
+tipo particular de discurso sobre la naturaleza: el tópico del  locus amoenus.  Sin embargo, lo 
+que allí sucederá dista mucho del estatuto placentero de un tipo de paisaje, que la tradición 
+literaria identifica con la Edad de Oro y los Campos Elíseos, y que opera como escenario de 
+amores  consensuados,  como  los  de  Zeus  y  Hera  en  Ilíada (XI,  341-353),  de  gratas 
+conversaciones, como en el Fedro platónico (258e-259b), o, sobre todo, del canto pastoril. En 
+efecto, lo que aquí sucederá es el intento de violación de Tetis por parte de Peleo, cuyas 
+acciones Ovidio describe en términos  que no dejan duda alguna:  vim parat  innectens 
+ambobus colla lacertis  (Met. XI, 240). Por supuesto, para el lector de Metamorphoses esto no 
+es una novedad pues el empleo del  locus amoenus como un escenario de displacer, de 
+violencia y a veces de muerte es algo que se verifica en la primera metamorfosis femenina de 
+la obra, la de  Dafne (I, 452-567), y se reitera sobre todo en los primeros cinco libros en los 
+episodios de Calisto (II, 401-531), Acteón (III, 131-252), Narciso (III, 341-510), Prosérpina 
+(V. 337-571), etc., a tal extremo que, como bien observa Hinds2, desde el punto de vista 
+narratológico esta topotesia funciona casi como una clave que anuncia  un hecho luctuoso3. 
+Pero esto no quita que Ovidio esté manipulando y, por ende, reformulando el funcionamiento 
+1 Cf. Leach, E., The Rhetoric of Space: literary and artistic representations of landscape in Republican and  
+Augustan Rome, Princeton, Princeton University Press, 1988, 3-24.
+2 Hinds, S., "Landscape with Figures: Aesthetics of Place in the Metamorphoses and its Tradition", en: Hardie, P. 
+(ed.) The Cambridge Companion to Ovid, Cambridge, Cambridge University Press, 2006, 122-149. 
+3 Para la construcción y funcionamiento del paisaje en Metamorphoses en general,  la obra de referencia sigue 
+siendo el estudio de Segal: Segal, Ch., Landscape in Ovid’s Metamorphoses: A Study in the Transformations of 
+a Literary Symbol, Wiesbaden, F. Steiner, 1969. Para distintos aspectos e interpretaciones de la vinculación el 
+locus amoenus y la violencia en particular, cf. Parry, H. "Ovid's  Metamorphoses: Violence in a Pastoral 
+Landscape", TAPhA  95, 1964, 268-282; Barchiesi, A. "Music for Monsters: Ovid's Metamorphoses, Bucolic 
+Evolution and Bucolic Cricicism" en: Fantuzzi, M. & Papanghelis, Th. (eds.) Brill's Compabion to Greek and 
+Latin Pastoral, Leyden, Brill, 2006, 403-425; Bernstein, N. W. “Locus Amoenus and Locus Horridus in Ovid’s 
+Metamorphoses”, Wenshan Review of Literature and Culture 5.1, 2011, 67-98
+ 
+2
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+habitual del tópico del locus amoenus propio de la tradición literaria, y que él mismo se ocupe 
+de remarcarlo. En efecto, en el devenir del relato, la violación de Calisto por parte de Júpiter 
+está inmediatamente precedida por la conflagración universal ocasionada por Faetón (II, 1-
+400), que destruye todos los espacios naturales, incluidos esos  loci amoeni, que el texto 
+mismo ha construido como escenario de la violencia. ¿Qué hace entonces Ovidio? Hace lo 
+que leemos aquí:
+[…] [sc.Iuppiter] fontesque et nondum audentia labi
+flumina restituit, dat terrae gramina, frondes
+arboribus, laesasque iubet revirescere silvas.
+Dum redit itque frequens, in virgine Nonacrina
+haesit, et accepti caluere sub ossibus ignes.            (Met. II, 406-410)
+[sc. Júpiter] restablece las fuentes y los ríos que aún no se atrevían a correr, da pasto a la tierra, 
+frondas a los árboles y ordena reverdecer a los bosques destruidos. Mientras viene y va  
+reiteradamente, quedó prendido de una doncella de Nonacris y el fuego penetró bajo sus  
+huesos y ardió.
+ 
+Es decir, reconstruye el  locus amoenus,  y no uno cualquiera, sino el  locus amoenus por 
+antonomasia, esto es, la Arcadia, con lo cual reinstaura en el mundo y en el texto el escenario 
+requerido para que se concrete la violación. Este estatuto de artificio, tanto del uso consagrado 
+por esa tradición como de este impuesto por Ovidio, es lo que a nuestro modo de ver implica 
+el comentario autoral respecto de la factura de la cueva en el pasaje de Tetis y Peleo: Est 
+specus in medio, natura factus an arte, / ambiguum, magis arte tamen.  Esto se verifica 
+tanto en el contexto inmediato como en el más extendido de la obra toda. En el inmediato, 
+porque la capacidad metamórfica de Tetis es referida con términos que, como  ars,  figura, 
+forma, decipere y  mentiri, resaltan el carácter ficcional y de artificio de esas criaturas 
+naturales en las que va mutando la joven: quod nisi venisses variatis saepe figuris /ad solitas 
+artes, auso foret ille potitus (Met. XI, 241-242) [y si no hubieras recurrido, cambiando sin 
+cesar tu aspecto, a tus habituales artes, hubiera él logrado su osadía],  tertia  forma fuit 
+maculosae tigris (ib.245) [la tercera forma fue de tigresa moteada], Nec te decipiat centum 
+mentita figuras (ib.253) [y que no te engañe ella fingiendo cien aspectos].  En el contexto 
+extendido de la obra toda, por el diálogo con otro comentario autoral semejante aunque de 
+sello en apariencia inverso, deslizado, no casualmente, a propósito de otra caverna, también 
+ella parte de un locus amoenus, donde ocurrirá la funesta metamorfosis de Acteón4:
+ 
+4 Para el funcionamiento del espacio en este episodio, cf. Schlam, C. C. "Diana and Actaeon: Metamorphosis of 
+a Myth", ClAnt 3.1, 1984, 82-110; Heath, J., "Diana's Understanding of Ovid's Metamorphoses", CJ 86.3, 1991, 
+233-243.
+3
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+[…] est antrum nemorale recessu
+arte laboratum nulla: simulaverat artem
+ingenio natura suo …                                (Met. 3. 157-159)
+[...] en un lugar apartado hay una gruta boscosa no elaborada por arte alguna: con su propia 
+habilidad había la naturaleza imitado al arte
+Más allá de lo que esto implique en términos del modo como Ovidio concibe la naturaleza en 
+sí, asunto que está muy lejos de nuestro propósito en este artículo, lo que  hacen estos pasajes 
+es llamar la atención del lector sobre el carácter artificioso, más específicamente, sobre el 
+carácter literario, del o de los discursos altamente tipificados acerca de la naturaleza y sobre el 
+modo como estos se inscriben y funcionan en los textos.5  Dicho de otro modo, estos pasajes 
+implican que, en Ovidio, los discursos altamente tipificados acerca de la naturaleza propios de 
+la tradición literaria constituyen un significante que, en manos de un artifex, es susceptible de 
+ser resignificado y refuncionalizado. Con estos elementos podemos ahora adentrarnos en los 
+dos poemas que nos interesan,  Ars amatoria y  Remedia amoris, para ver qué articulación 
+establece nuestro poeta entre los significados y funciones de los discursos tipificados sobre la 
+naturaleza y los discursos, también tipificados, sobre la pasión amorosa.
+Como recordaremos, ambos textos se presentan a sí mismos como sendos poemas 
+didácticos cuya materia de enseñanza es la pasión amorosa, solo que, al menos en apariencia, 
+el objetivo es inverso. El primero, o sea  Ars amatoria, enseña cómo establecer y sostener 
+exitosamente un vínculo varón-mujer de índole erótica; el segundo, o sea Remedia amoris, 
+cómo disolverlo cuando este se vuelve motivo de desdicha. Ambas obras tienen un marcado y 
+evidente carácter intertextual, pues ambas suponen la reescritura de toda la literatura anterior, 
+tanto en lo que hace al tema como en lo que hace al encuadre didáctico. Pero en el caso 
+específico de Remedia, esta intertextualidad generalizada tiene como componente específico 
+el propio Ars.  Esta relación entre ambos textos, que han estudiado con diversos enfoques y 
+propósitos  Conte,  Fulkerson,  Rosati  y  Hardie6,  está,  según  señalamos  al  principio, 
+expresamente indicada por el poeta, quien en los Remedia dice: Naso legendus erat tum, cum 
+didicistis amare: / idem nunc vobis Naso legendus erit.  (Rem. 71-72). La importancia de este 
+5 Para el carácter artificioso y metaliterario de la ecphrasis, cf. Barchiesi, A., "Virgilian narrative: ecphrasis" en: 
+Martindale, C. (ed.) The Cambridge Companion to Virgil, Cambridge, Cambridge University Press, 1997, 271-
+281. 
+6 Conte, G.B., "Love without Elegy: Remedia amoris and the Logic of a Genre", Poetics Today 10.3, 1989,  441-
+469; Fulkerson,  "Omnia vincit amor: Why the Remedia fail", CQ 54, 2004, 211-223. Fulkerson,  "Omnia vincit 
+amor: Why the Remedia fail", CQ 54, 2004, 211-223; Rosati, G., "The Art of Remedia amoris: Unlearning to 
+Love?"  en: Gibson, R., Green, S., Sharrock, A. (eds.) The Art of Love, Oxford: Oxford University Press, 2006, 
+143-165; Hardie, Ph., "Lethaeus Amor: The Art of Forgetting"  en: Gibson, R.; Green, S.; Sharrock, A. (edis) 
+The Art ..., 166-190.  
+4
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+dístico es doble. Por un lado, indica que el lector previsto es alguien que conoce el  Ars 
+amatoria.  Pero por el otro, implica una superposición de los roles de destinatario-discípulo y 
+de lector-espectador, que Konstan señala como propios de la poesía didáctica7, y que replica 
+lo que leemos en el dístico de apertura del Ars, organizado sobre los mismos dos campos 
+semánticos de la lectura y el conocimiento: Siquis in hoc artem populo non novit amandi, / 
+hoc legat et lecto carmine doctus amet.  (Ov. Ars I, 1-2) [Si alguien en este pueblo no conoce 
+el arte de amar, lea esto y, una vez instruido por la lectura del poema, ame]. 
+Esto no es un detalle menor,  sobre todo si tomamos en cuenta el modo oposicional 
+como el maestro enuncia en Remedia la relación entre sus dos enseñanzas: Discite sanari, per 
+quem  didicistis amare:/ una manus vobis vulnus opemque feret (Rem. 43-44) [Aprended a 
+sanaros por medio de quien aprendisteis a amar: una única mano os traerá la herida y el 
+remedio]. Es decir, si en Remedia el destinatario-discípulo se enfrenta a una enseñanza que no 
+solo invierte la recibida en Ars sino que requiere desaprenderla o desandarla, otro tanto le 
+sucede al lector-espectador identificado con él por el propio poeta, que tiene que 'desleer' el 
+poema anterior. En este sentido, la inversión no afecta solo al qué sino también al cómo del 
+discurso, lo cual se verifica  ya desde el principio, pues mientras en  Ars el enunciador se 
+posiciona a sí mismo como sujeto de autoridad suficiente tanto de la materia cantada como de 
+su práctica poética, en Remedia requiere para los dos aspectos la asistencia de Apolo:  
+Usus opus movet hoc: vati parete perito   (Ars  I, 29)
+La práctica dicta esta obra: hacedle caso al experto poeta.    
+Te precor incipiens, adsit tua laurea nobis,               
+     
+   carminis et medicae, Phoebe, repertor opis.  (Rem. 75-76)
+Asístanos tu laurel al empezar, Febo, tú que descubriste la poesía y el remedio.
+Esta variación en el cómo afecta muy particularmente, como veremos, la relación que ambos 
+poemas establecen entre el discurso acerca de la naturaleza y el discurso acerca de la pasión 
+amorosa. 
+En el caso de Ars, puesto que este poema enseña cómo devenir un amante elegíaco, o, 
+mejor dicho, cómo desempeñar con éxito el papel de un amante elegíaco, su ámbito exclusivo 
+y excluyente es el espacio urbano. El discurso sobre la naturaleza no funciona por ende como 
+escenario, al modo de lo que vimos en Metamorphoses, sino que opera casi exclusivamente a 
+nivel de la argumentación en sí como parte de los razonamientos analógicos que sustentan las 
+7 Konstan, D., "Foreword to the Reader", MD 31, 1993, 11-22.
+5
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+prescripciones del ars enseñado por el magister amoris. Este funcionamiento aparece ya en el 
+proemio, donde leemos:
+Aeacidae Chiron, ego sum praeceptor Amoris:  
+    saevus uterque puer, natus uterque dea.  
+Sed tamen et tauri cervix oneratur aratro,  
+    frenaque magnanimi dente teruntur equi;                                         
+et mihi cedet Amor, quamvis mea vulneret arcu  
+    pectora, iactatas excutiatque faces.                  (Ars I, 17-22)
+Quirón fue preceptor del Eácida, yo lo soy de Amor: salvajes uno y otro niño, uno y otro hijos 
+de diosa. Pero, sin embargo, carga incluso la cerviz del toro el peso del arado y los soberbios 
+caballos desgastan los frenos con su diente: también Amor cederá ante mí, aunque hiera mi 
+pecho con su arco y agite sus antorchas sacudiéndolas. 
+Desde luego ni la identificación de la pasión amorosa con diversos elementos naturales ni la 
+recurrencia al yugo de los bueyes o al freno de los caballos como argumento analógico de la 
+eficacia de cualquier forma de control, son una originalidad de Ovidio8.  Pero, tal y como 
+vimos en el caso del locus amoenus en Metamorphoses, su peculiaridad no reside en el qué 
+sino el cómo y en el para qué.  Para entenderla, tenemos que traer a la memoria los dos 
+primeros poemas de Amores I, que integran la escena inaugural y programática de la obra y 
+cuyo conocimiento es parte de la enciclopedia del lector previsto del Ars9. Como es sabido, en 
+el primer poema, cuando el ego se dispone a escribir épica en hexámetros, el dios Amor roba 
+un pie del segundo verso, formando así un dístico elegíaco. Ante la airada queja del poeta por 
+la intromisión del dios en un área que no le incumbe y por la falta de materia para su escritura, 
+el dios arroja una de sus flechas y le instila la pasión amorosa, esto es, lo convierte en un 
+poeta amator, o sea, en la persona poética propia de la poesía elegíaca.  Presa de la pasión, en 
+el segundo poema del díptico inaugural leemos:
+Cedimus, an subitum luctando accendimus ignem?
+    cedamus! leve fit, quod bene fertur, onus.                
+Vidi ego iactatas mota face crescere flammas
+    et rursus nullo concutiente mori.
+Verbera plura ferunt, quam quos iuvat usus aratri,
+8 Para este pasaje en particular, cf. Hollis, A.S. (ed.) Ovid. Ars Amatoria Book I, Oxford, Clarendon Press, 1977, 
+ad loc.; Pianezzola, E. (ed.) Ovidio. L'arte di amare,  Milano, Arnoldo Mondadori, 2000, ad loc. 
+9 La escena inaugural y programática de Amores I abarca los tres primeros poemas, como lo han demostrado con 
+argumentos y perspectivas diversas los estudios de Boyd (Boyd, B.,  Ovid's Literary Loves,  Influence and 
+Innovation in the Amores, Ann Arbor, University of Michigan Press, 1997, 147-153) y Dimundo (Dimundo, R., 
+L'elegia allo specchio. Studi sull primo libro degli Amores di Ovidio, Bari, Edipuglia, 2000, 35-43). No obstante, 
+consideramos que, dentro de ella, los dos primeros poemas constituyen una unidad de sentido en la línea de lo 
+propuesto por Moles (Moles, J., "The Dramatic Coherence of Ovid Amores 1.1 and 1.2", CQ 41,  1991, 541-544) 
+y Athanassaki (Athanassaki, L., "The Triumph of Love and Elegy in Ovid's Amores 1.2", MD 28, 1992, 125-
+141)
+6
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+    detractant prensi dum iuga prima boves.
+Asper equus duris contunditur ora lupatis,               
+    frena minus sentit, quisquis ad arma facit.
+Acrius invitos multoque ferocius urget
+    quam qui servitium ferre fatentur Amor.  (Am. I, 2, 9-18) 
+¿Cedemos o, resistiendo, avivamos este fuego inesperado? Cedamos: leve se torna la carga 
+que bien se lleva. Yo he visto que las llamas agitadas crecen al mover la antorcha y también 
+que se extinguen si nadie las sacude. Los bueyes que oprimidos se resisten al primer yugo 
+soportan más azotes que aquellos a los que agrada el hábito del arado. El duro bocado hiere al 
+caballo rebelde, siente menos los frenos el que se amolda a las armas. Más dura y mucho más 
+ferozmente hostiga Amor a los reacios que a quienes se declaran a su servicio. 
+Si comparamos este texto con el del proemio de Ars, veremos que el discurso de la naturaleza, 
+constituido por los mismos elementos, incluso a nivel lexical, cumple también la misma 
+función de sustento de la argumentación analógica, pero su aplicación es exactamente la 
+inversa,  lo  cual  está  determinado  por  otra  reiteración  lexical,  muy  particularmente 
+significativa: la del cedere.  En efecto, el cambio de sujeto y objeto del cedere en uno y otro 
+texto, indica que el mismo discurso sobre la naturaleza que en Amores sirvió para justificar la 
+aceptación del control, en el  Ars sirve para justificar su ejercicio. Pero este control, cabe 
+señalar, abarca las dos facetas reunidas en el ego elegíaco: la de poeta y la de amator.  Y es 
+aquí donde el  cedere cobra una importancia particular, pues ninguna duda cabe de que la 
+dupla  cedimus /  cedamus de Amores remite al verso que cierra el discurso de Galo en la 
+bucólica X, cuyo primer hemistiquio replica el de un  pentámetro: Omnia uincit Amor: et nos 
+cedamus Amori. (Virg. Ecl. X, 69).  Este verso integra un poema donde, como recordaremos, 
+el discurso sobre la naturaleza dialoga con el discurso sobre la pasión amorosa en términos 
+que hacen a una opción poética entre ser un poeta bucólico o ser un poeta amator elegíaco. 
+Entonces, así como en Amores Ovidio reescribe la égloga para señalar el sometimiento del 
+ego a un dios que lo constituye como amator y, con ello, como poeta elegíaco, desechando 
+otra opción escrita en hexámetros (la bucólica en el caso de Galo, la épica en el de Ovidio), 
+así también en el Ars, Ovidio reescribe sus propios poemas, para señalar el sometimiento de 
+ese dios al ego, que se constituye como un poeta y un praeceptor que logra invertir su vínculo 
+con la pasión amorosa, en términos de experiencia y de asunto cantado, por el mero hecho de 
+escribir en dísticos elegíacos un poema didáctico que enseña a gozar de sus beneficios 
+evitando todo perjuicio. Esa inversión está espejada, y con esto reforzada, por la manipulación 
+del discurso sobre la naturaleza, que no es otro, sino el mismo, solo que en el  Ars está 
+empleado para indicar el ejercicio de la dominación y no su padecimiento, como sucede en 
+Amores. 
+7
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+  Este empleo del discurso de la naturaleza como  argumentación  analógica  que 
+fundamenta el control, anunciado en el proemio, se reitera a todo lo largo del poema a través 
+de las tres 'artes' que el hombre antiguo conoce y aplica para dominarla y ponerla al servicio 
+de su propio provecho: la agricultura, la caza y, en menor medida, la navegación10, que no 
+casualmente son las tres referidas por Virgilio en Georgica (I, 136-146), como parte del labor 
+improbus surgido tras la desaparición de la aurea aetas, tiempo en el que, al menos según 
+Tibulo (II, 3, 67-74),  el amor era solo motivo de placer. Este mecanismo recorre todo el 
+texto, de modo que nos limitaremos a dar solo unos pocos ejemplos que sean particularmente 
+ilustrativos. En algunos casos, estos discursos sobre el control de la naturaleza se aplican 
+separadamente como sucede con el referido a la caza11, usado para persuadir al destinatario de 
+las ventajas de conocer los lugares frecuentados por las mujeres:
+ 
+Scit bene venator, cervis ubi retia tendat,                                               
+    scit bene, qua frendens valle moretur aper;  
+aucupibus noti frutices; qui sustinet hamos,  
+    novit quae multo pisce natentur aquae:  
+tu quoque, materiam longo qui quaeris amori,  
+   ante frequens quo sit disce puella loco.      (Ars  I, 45-50)   
+Sabe bien el cazador dónde tender sus redes a los ciervos, sabe bien en qué valle mora el 
+rabioso jabalí; a los pajareros les son conocidos los arbustos; quien sostiene los anzuelos sabe 
+en qué aguas nada la pesca abundante: también tú, que buscas materia para un largo amor, 
+aprende antes en qué lugar abundan las muchachas.
+o el referido a la agricultura, que demuestra los beneficios de desaparecer cada tanto de la 
+escena amorosa para estimular el interés de la muchacha
+Cum tibi maior erit fiducia, posse requiri,  
+    cum procul absenti cura futurus eris,                                       
+da requiem: requietus ager bene credita reddit,  
+    terraque caelestes arida sorbet aquas.      (Ars  II, 349-352)
+Cuando tengas mayor confianza en que ella pueda extrañarte, cuando vaya a preocuparle que 
+tú estés lejos, dale un descanso: un campo que descansa bien devuelve lo prestado y la tierra 
+árida absorbe las aguas del cielo.
+10 Para la imaginería del campo y sus tareas en general en el Ars, cf. Leach, E., "Georgic Imagery in the Ars 
+Amatoria",  TAPhA 95, 1964, 142-154; para la de la caza, cf. Green, C.M.C., "Terms of Venery in the  Ars 
+Amatoria I", TAPhA 126, 1996, 221-263.
+11 Si bien son actividades distintas, incluimos dentro de la caza la pesca y la captura de pájaros en razón de que 
+las tres suponen el empleo de ciertas herramientas y técnicas específicas para aprehender un individuo del reino 
+animal.
+8
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+o el de la navegación, que explica por qué las infidelidades deben ser algunas veces ocultadas 
+y otras reveladas: 
+Qui modo celabas monitu tua crimina nostro,  
+    flecte iter, et monitu detege furta meo.  
+Nec levitas culpanda mea est: non semper eodem  
+    impositos vento panda carina vehit.                                         
+Nam modo Threïcio Borea, modo currimus Euro,  
+    saepe tument Zephyro lintea, saepe Noto.          (Ars II, 427-432)
+Tú, que hace poco ocultabas tus faltas por consejo nuestro, tuerce tu ruta y por consejo mío 
+devela tus actos furtivos. Y no se me ha de acusar de ligereza: no siempre con el mismo viento 
+lleva la curvada nave a los viajeros. Pues avanzamos ya por el tracio Bóreas ya por el Euro; 
+muchas veces por el Céfiro se hinchan las velas, muchas veces por el Noto.
+En otros casos, en cambio, aparecen de manera conjunta, como sucede con el de la agricultura 
+y el de la caza, empleados para justificar la necesidad de adecuar la técnica de conquista a las 
+distintas personalidades, y expresamente enlazados entre sí por la recurrencia con políptoto 
+del término pectus.
+Finiturus eram, sed sunt diversa puellis                                      
+    pectora: mille animos excipe mille modis.  
+Nec tellus eadem parit omnia; vitibus illa  
+    convenit, haec oleis; hac bene farra virent.  
+Pectoribus mores tot sunt, quot in ore figurae;  
+    qui sapit, innumeris moribus aptus erit,                                 
+ […/…]                      
+Hi iaculo pisces, illi capiuntur ab hamis:  
+    hos cava contento retia fune trahunt.  
+Nec tibi conveniet cunctos modus unus ad annos:                      
+    longius insidias cerva videbit anus.                   (Ars I, 755-766)
+Estaba  yo  por  terminar,  pero  corazones  diversos  tienen  las  muchachas:  ensaya  mil 
+sentimientos de mil modos. Una misma tierra no lo produce todo: aquella es apropiada para las 
+vides, esta para los olivos, en otra crecen vigorosos los trigos. Tantos modos de ser hay en los 
+corazones como aspectos en el rostro: quien es sabio se adaptará a los innumerables modos, 
+[.../...] Estos peces se capturan echando red, aquellos con anzuelos, a esos otros los arrastran 
+las redes combadas con tensa maroma. Tampoco te convendrá un único modo para todas las 
+edades: una cierva vieja verá las trampas desde más lejos  
+o con el de la agricultura y la navegación, con los que el magister justifica la importancia de 
+no acercarse a las muchachas en fechas peligrosas, enlazados entre sí por la anáfora de nec 
+semper:  
+Tempora qui solis operosa colentibus arva,  
+    fallitur, et nautis aspicienda putat;                                     
+nec semper credenda Ceres fallacibus arvis,  
+9
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+    nec semper viridi concava puppis aquae,  
+nec teneras semper tutum captare puellas:   (Ars I, 399-403)
+Se engaña el que piensa que el tiempo debe ser considerado solo por quienes cultivan los 
+campos laboriosos y por los marineros. Ni siempre hay que confiar a Ceres a los campos 
+falaces, ni siempre la cóncava nave al agua verde, ni siempre es seguro capturar a las tiernas 
+muchachas. 
+Ahora bien, como puede verse, estos discursos sobre la naturaleza empleados por el magister 
+como argumento analógico para respaldar sus enseñanzas tienen dos rasgos en común, uno 
+que hace al tipo de discurso en sí y otro que hace a su aplicación. En cuanto al tipo de 
+discurso, se trata de un discurso altamente reiterativo y formalizado, y deudor de la tradición 
+literaria, en particular de la poesía didáctica, como lo han demostrado sobradamente los 
+comentaristas que señalan las coincidencias entre estos pasajes y textos como Georgica de 
+Virgilio o  Cynegetica de Gracio. Se trata pues de una naturaleza 'literaria', cuya eficacia 
+persuasiva reside precisamente en que esos saberes integran la cultura, también 'literaria', del 
+destinatario-discípulo y del lector-espectador, identificado con él. Inscripta en el ámbito de la 
+urbs y formulada como una opción de vida que deja fuera cualquier otra actividad, la 
+experiencia elegíaca es por completo ajena a la naturaleza y a los modos implementados por 
+la cultura para controlarla y servirse de ella, incluso en Tibulo, cuya presunta concreción de 
+un vínculo perfecto con Delia en el ámbito rural (I, 5, 19-36), no pasa de ser una ficción 
+(fingebam, I, 5, 20 y 35), por lo demás negada luego en el caso de Némesis (II, 3 y 4).  Este 
+carácter  literario  y  artificioso  de  esta  naturaleza  insertada  como  mero  argumento,  se 
+comprueba en el Ars en el único caso en que esta oficia, o parece oficiar, por sí misma como 
+recurso al servicio de la conquista. En efecto, al hablar de los regalos que el amator puede 
+hacerle a la muchacha, dice Ovidio:
+Nec dominam iubeo pretioso munere dones:  
+    parva, sed e parvis callidus apta dato.  
+Dum bene dives ager, cum rami pondere nutant,  
+    adferat in calatho rustica dona puer.  
+Rure suburbano poteris tibi dicere missa,                                  
+    illa vel in Sacra sint licet empta via.  
+Adferat aut uvas, aut quas Amaryllis amabat  
+    at nunc castaneas non amat illa nuces.   (Ars II, 261-268)
+No te aconsejo que obsequies a tu dueña con un regalo caro: dale pequeñeces pero, dentro de 
+las pequeñeces, dale con habilidad algo apropiado. Cuando el campo está bien rico, cuando 
+ceden las ramas por el peso, que un esclavo le lleve rústicos dones en un cestito. Podrás decir 
+que te las mandaron de tu finca cercana, aunque hayan sido compradas en la Vía Sacra. Que le 
+lleve o uvas o esas castañas que Amarilis amaba, pero que ahora no ama. 
+10
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+Naturaleza comprada, naturaleza de la urbs, naturaleza fingida, naturaleza meramente literaria 
+y, como si esto fuera poco, irónica, pues, intertextualidad mediante, la Amarilis que dejó de 
+amar las castañas que antes amaba no es la amorosa compañera del Títiro de la primera 
+bucólica sino la desdeñosa y colérica ex amante del Coridón de la segunda:  castaneasque 
+nuces, mea quas Amaryllis amabat (Virg. Ecl. II, 52) [y las castañas que amaba mi Amarilis]; 
+Nonne fuit satius tristis Amaryllidis iras / atque superba pati fastidia (ib. 14-15) [¿Acaso no 
+fue más que suficiente soportar la amarga ira de Amarilis  y su soberbio desdén?]. En 
+definitiva, el amator construido por el Ars no tiene vinculación alguna con la naturaleza. Los 
+discursos acerca de ella y de sus formas de control son meramente subsidiarios porque, tal y 
+como el poeta lo dice expresamente, no es un agricultor ni es un marino sino un amator:
+Candidus in nauta turpis color, aequoris unda  
+    debet et a radiis sideris esse niger:  
+turpis et agricolae, qui vomere semper adunco                         
+    et gravibus rastris sub Iove versat humum.  
+[… / …]  
+Palleat omnis amans: hic est color aptus amanti;  (Ars  I, 723-729)
+Vergonzoso es el color blanco en un marino, por el agua de mar y por los rayos del sol debe 
+ser negro; vergonzoso es también para el campesino, que a cielo abierto siempre remueve la 
+tierra con curva reja y pesados azadones [.../...]. Pálido esté todo amante: este es el color 
+apropiado para un amante.
+En cuanto a su aplicación, el otro rasgo que comparten estos discursos acerca de la naturaleza 
+es que el elemento manipulado y controlado no es en sí la pasión amorosa del ego enunciador 
+sino la de la mujer.  Esto, por un lado, no sorprende porque bien sabemos que la identificación 
+de la mujer con la naturaleza y del hombre con la cultura es constitutiva del modo de pensar 
+las relaciones de género en Roma, lo cual trae consigo una distribución de roles que asigna al 
+varón el papel de controlador. Dicho de otro modo, controlar la tierra, controlar el mar, 
+controlar a los animales, controlar a la mujer son variantes de un mismo principio: el de la 
+dominación del varón sobre una naturaleza que es lo distinto de él y que debe ser manipulada 
+y puesta a su servicio. Pero, por el otro, a primera vista parecería haber una cierta discrepancia 
+entre la función que estos discursos sobre la naturaleza cumplen en el proemio programático y 
+la que cumplen en el resto del poema, pues en aquel  demostraban, como recordaremos, la 
+posibilidad de dominar la pasión amorosa del ego en tanto experiencia y en tanto materia de la 
+escritura. No hay tal discrepancia, sin embargo, porque en el relato construido por la poesía 
+elegíaca, en particular en el construido por el propio Ovidio, el motivo de desdicha del varón 
+11
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+no es en sí mismo su pasión sino la imposibilidad de satisfacerla por el desdén de una puella, 
+que lo controla y lo manipula. Es decir, la relación elegíaca y la poesía que la canta están 
+marcadas por el displacer del ego. Así pues, dado que el propósito del  Ars es enseñar a 
+establecer y sostener con éxito una relación amorosa con una mujer, el requisito es que el 
+amator sujete sus propios impulsos a una serie de reglas para poder controlarla a ella y 
+obtener el bien perseguido. Llegar a puerto, lograr una buena cosecha, capturar la presa 
+buscada, llevarse a la mujer a la cama son una y la misma cosa.
+Pero, ¿qué sucede - cabe preguntarse - si el éxito anunciado en el Ars no se verifica, 
+esto es, si no es posible controlar a la mujer, si esta rechaza al varón y lo sume otra vez en los 
+padecimientos de la pena de amor o, lo que es lo mismo, lo convierte otra vez en el típico 
+amator elegíaco. Bien, lo que sucede en el universo literario ovidiano, son los  Remedia 
+Amoris, que, como dijimos al comienzo indican tanto al destinatario-discípulo como al lector-
+espectador que su enseñanza y su lectura implican desaprender y 'desleer' el Ars. Como es 
+bien sabido, muchos son los modos como Remedia invierte lo dicho en el Ars, pero uno de los 
+más notables es precisamente el que hace al funcionamiento y formulación de los discursos 
+acerca de la naturaleza, en particular a los referidos a la caza y la agricultura, que dejan de ser 
+parte de un argumento analógico subsidiario de instrucciones de otro tenor, para convertirse 
+ellos mismos en una instrucción. 
+Si de lo que se trata es de dejar de ser el típico amante elegíaco, uno de los requisitos 
+para lograrlo es abandonar el otium, que constituye uno de sus rasgos característicos, toda vez 
+que lo propio de él es hacer del amor una actividad excluyente: 
+Ergo ubi visus eris nostra medicabilis arte,               
+     fac monitis fugias otia prima meis. (Rem. 135-136)
+Por tanto, cuando parezcas dispuesto a ser medicado por nuestro arte, huye primero del ocio 
+acorde a mis consejos
+Desidiam puer ille sequi solet, odit agentes:
+     da vacuae menti, quo teneatur, opus.        (Rem. 149-150)
+Suele aquel niño seguir a la desidia, odia a los activos: dale a tu mente vacía una labor en que 
+sostenerse.
+Para ello, el magister recomienda dedicarse a las actividades propias del foro y la guerra (151-
+168), o, y aquí está nuestro punto de interés, a la agricultura (169-198), la caza (199-206) y la 
+captura de aves (207-210), vinculadas estas entre sí por la recurrencia del término studium al 
+12
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+inicio de cada una: studium colendi (199), venandi studium (207), lenius est studium (207)12. 
+De estas cuatro actividades, la que desarrolla con más extensión y detalle es no casualmente la 
+de la agricultura, a la que destina treinta versos en cuyo contenido y factura conviene 
+detenernos:
+Rura quoque oblectant animos studiumque colendi:
+     quaelibet huic curae cedere cura potest.                170
+Colla iube domitos oneri supponere tauros,
+     sauciet ut duram vomer aduncus humum:
+obrue versata Cerialia semina terra,
+     quae tibi cum multo faenore reddat ager.
+Aspice curvatos pomorum pondere ramos,                  175
+     ut sua, quod peperit, vix ferat arbor onus;
+aspice labentes iucundo murmure rivos;
+     aspice tondentes fertile gramen oves.
+Ecce, petunt rupes praeruptaque saxa capellae:
+     iam referent haedis ubera plena suis;                      180
+pastor inaequali modulatur harundine carmen,
+     nec desunt comites, sedula turba, canes;
+parte sonant alia silvae mugitibus altae,
+     et queritur vitulum mater abesse suum.
+Quid, cum suppositos fugiunt examina fumos,               185
+     ut relevent dempti vimina curva favi?
+Poma dat autumnus: formosa est messibus aestas:
+     ver praebet flores: igne levatur hiems.
+Temporibus certis maturam rusticus uvam
+     deligit, et nudo sub pede musta fluunt;                     190
+temporibus certis desectas alligat herbas,
+     et tonsam raro pectine verrit humum.
+Ipse potes riguis plantam deponere in hortis,
+     ipse potes rivos ducere lenis aquae.
+Venerit insitio; fac ramum ramus adoptet,                    195
+     stetque peregrinis arbor operta comis.
+Cum semel haec animum coepit mulcere voluptas,
+     debilibus pinnis inritus exit Amor.                         (Rem. 169-198)
+También los campos y la afición a la agricultura deleitan el espíritu: cualquier preocupación 
+cede ante esta preocupación. Obliga a los toros domésticos a someter su cuello a la carga para 
+que el curvo arado hiera el duro terreno; hunde en la tierra volteada las semillas de Ceres, para 
+que el campo te las devuelva con crecido interés. Observa las ramas curvadas por el peso de 
+los frutos, a punto tal que el árbol apenas soporta la carga que engendró; observa los ríos que 
+corren con alegre murmullo; observa las ovejas que siegan la hierba fértil. Mira, rocas y peñas 
+escarpadas buscan las cabritas, pronto traerán ubres llenas a sus crías; el pastor modula una 
+canción  con  una  siringa  despareja  y  no  le  faltan,  séquito  vigilante,  los  perros  que  lo 
+acompañan; en otra parte los bosques profundos resuenan de mugidos y lamenta la madre que 
+se aleje su becerro. ¿Y qué decir de cuando los enjambres huyen del humo que se les echa para 
+recoger los mimbres curvados por el panal que se extrae?  Da frutos el otoño, bello es el 
+12 Para un estudio de este pasaje en términos de su estructura y comportamiento argumentativos,  cf. Jones, D., 
+Enjoinder and Argument in Ovid's Remedia Amoris, Stuttgart, Franz Steiner, 1997, 26, 37, 40-41,63-65, 68, 73, 
+86.
+13
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+verano por sus cosechas, ofrece flores la primavera, con fuego se aligera el invierno. En una 
+época determinada, el campesino coge la uva madura y fluyen los mostos bajo su pie desnudo; 
+en una época determinada ata las hierbas segadas y barre con el rastrillo la tierra tonsurada. Tú 
+mismo puedes plantar en tu huerto regado, tú mismo puedes llevar hacia allí corrientes de agua 
+apacible. Llega el momento del injerto: procura que una rama adopte otra rama y que el árbol 
+se yerga cubierto de un follaje extraño. En cuanto este placer empieza a atraer tu espíritu, huye 
+Amor, ya inútil con sus plumas debilitadas. 
+ 
+Como puede observarse esto es una suerte de patchwork muy bien ensamblado y muy bien 
+adecuado al ritmo del dístico elegíaco, de  loci communes, de pequeñas escenas rurales 
+presentes  en los  textos  latinos  donde  el  discurso  sobre  la  naturaleza  cumple  un papel 
+importante: Bucolica y Georgica de Virgilio,  el Beatus Ille de Horacio y, aunque en menor 
+medida,  De rerum natura de Lucrecio, todo lo cual ha sido ya señalado en el magnífico 
+comentario de Pinotti.13 Ovidio vuelve a hacer aquí entonces lo mismo que le vimos hacer en 
+Metamorphoses y en el Ars. Se apropia de un discurso sobre la naturaleza altamente tipificado 
+e inscripto ya en la tradición literaria, lo resignifica y reformula una vez más su función, no 
+solo en lo que hace a los textos de esos otros autores sino también y muy especialmente en lo 
+que hace al texto cuya lectura es condición de este: el propio Ars amatoria.  Esto último está 
+específicamente indicado en el pasaje por la presencia del verbo  cedere en el dístico de 
+apertura, resaltado a su vez por la aliteración en /k/ y por el políptoto del sustantivo cura, 
+combinado  con  la  distinctio, que  da  cabida  a  dos  de  sus  significados:  el  genérico  de 
+precupación u ocupación y el específico de  cura amoris:  Rura quoque oblectant animos 
+studiumque colendi:/ quaelibet  huic curae cedere cura potest.  (Rem.  169-170). Es decir, 
+mientras en el proemio del Ars el discurso tipificado y consagrado por la literatura sobre el 
+control de la naturaleza era un simple argumento analógico empleado para corroborar que era 
+posible hacer de la pasión amorosa el objeto del  cedere al transformarla en motivo de 
+satisfacción, en  Remedia,  Ovidio cambia no solo el cómo sino el para qué de ese mismo 
+discurso, pues lo tematiza como objeto de enseñanza y lo emplea como una técnica para que 
+la pasión siga siendo objeto del  cedere, sí, pero no ya por su satisfacción sino por su 
+eliminación. 
+Pero Ovidio es un lusor, que siempre nos sorprende con algo más y ese algo más es 
+aquí el aprosdóketon con el que cierra toda su enseñanza acerca de los maravillosos efectos de 
+consagrarse a la agricultura y a la caza como remedio contra la pasión. Dice el praeceptor: 
+Aut his aut aliis, donec dediscis amare, / ipse tibi furtim decipiendus eris.  (Rem. 211-212) 
+[Con estas o con otras cosas,  tú mismo deberás engañarte furtivamente hasta que desaprendas 
+13 Cf. Pinotti, P., P.Ovidio Nasone, Remedia amoris, Bologna, Patron, 1993, 145-155.
+14
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+a amar]. Con esto niega o al menos pone en duda el valor de su propia enseñanza, o, lo que es 
+lo mismo, vuelve al punto de partida, al primer motor del cedere, es decir al del Galo de la 
+bucólica X, a quien ni la solidaria naturaleza bucólica ni la naturaleza controlada por la caza 
+logran apartarlo de una pasión amorosa ante la cual cede y se declara vencido.   Pero además, 
+como lusor que es nuestro poeta, falta considerar algo: el lector-espectador. ¿Qué le dice a él 
+este  dístico?  Le  dice:  "Con  estas  o  con  otras  cosas,  tú  mismo  deberás  engañarte 
+disimuladamente, hasta que 'desleas' el amar, esto es el Ars". Dicho de otro modo, al igual que 
+las criaturas naturales cuyo aspecto adopta Tetis, esta naturaleza de Remedia amoris es, como 
+la de Ars y como la de Amores, mero artificio, mero discurso consagrado por la literatura. 
+Mero artificio, mero discurso es también la pasión amorosa en esas tres obras: padecida en 
+Amores, exitosa en Ars, nuevamente padecida y deceptivamente anulada en Remedia. Esta 
+reescritura, esta resignificación y refuncionalización que hace Ovidio del discurso de la 
+naturaleza y de la pasión amorosa vinculados entre sí, es a su vez un discurso acerca de la 
+literatura y de sus posibilidades infinitas de hacer lo que, según nuestro poeta, hace Odiseo 
+ante Calipso: ille referre aliter saepe solebat idem (Ars II, 128). Esto mismo hace Ovidio y, 
+con esta mutación no del qué (idem) sino del cómo (aliter) pone de relieve el artificio, ese 
+artificio sugerido en los versos de  Metamorphoses que dispararon esta reflexión nuestra: 
+natura factus an arte, / ambiguum, magis arte tamen.
+Alicia Schniebs
+Universidad de Buenos Aires
+ali.latines@gmail.com
+Resumen:
+Ars amatoria y Remedia amoris son textos marcadamente intertextuales que apelan a la enciclopedia 
+literaria  del  lector.  En  ellos,  el  modo  como  aparece  la  naturaleza  es  el  resultado  de  una  reescritura, 
+resignificación y refuncionalización de los discursos tipificados acerca de la naturaleza propios de la tradición 
+literaria. Este procedimiento dialoga con uno semejante acerca de la pasión amorosa y lo hace de modo tal que el 
+cruce de uno y otro constituyen una mostración del estatuto de artificio de la literatura. 
+Palabras-clave: Ovidio;  Ars amatoria ; Remedia amoris; Naturaleza; Pasión; Literatura
+Abstract:
+Ars amatoria and Remedia amoris are highly hypertextual works that appeal to the reader’s literary 
+encyclopedia.  In  them,  the  way  nature  appears  is  the  result  of  several  rewriting,  resignification  and 
+15
+Auster, nº 20, e020, 2015. ISSN 2346-8890
+refunctionalization processes of typified discourses about nature that belong to literary tradition. This procedure 
+dialogues with a similar one about amorous passion and does it in a way that together they show the status of 
+artifice that literature has.
+Keywords: Ovid; Ars amatoria; Remedia amoris; Nature; Passion; Literature
+RECIBIDO: 2-11-2015 – ACEPTADO: 20-12-2015
+16

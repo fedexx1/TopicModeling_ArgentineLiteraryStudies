@@ -1,0 +1,803 @@
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+Universidad Nacional de La Plata. 
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios Latinos
+LA PROBLEMATIZACIÓN DEL EPICUREÍSMO EN LA 
+TRAGEDIA DE SÉNECA
+El eclecticismo de Séneca y sus tragedias
+El eclecticismo de Séneca ha sido bien reconocido, ya desde la Antigüedad, 
+tanto en lo que respecta a su filosofía como a su poesía, mostrando en ambas el carácter 
+ecléctico propio de los latinos.1 Por otro lado, y a partir de los pocos testimonios que 
+nos quedan, podemos ver que siempre fue un rasgo distintivo del estoicismo el diálogo 
+y la incorporación de elementos, ideas y conceptos de otras escuelas, sin detrimento de 
+su  personal  y  original  postura.  Séneca,  particularmente,  es  quien,  dentro  de  esta 
+tradición, más se acerca a Epicuro:2
+“Seneca identifies himself as a Stoic. He declares his allegiance by repeatedly referring 
+to ‘our people’ (nostri) – the Stoics- in his writings. Yet he exercises considerable 
+independence in relation to other Stoics. While he is committed to upholding basic Stoic 
+doctrines, he recasts them on the basis of his own experiences as a Roman and a wide 
+reading of other philosophers. In this aspect he follows a tradition of stoic philosophical 
+innovation exemplified most clearly by Panaetius and Posidonius, who introduced some 
+Platonic and Aristotelian elements while adapting Stoicisms to Roman circumstances. 
+Seneca differs from previous Stoic writers by welcoming some aspects of Epicurean 
+philosophy along with other influences.”3
+1 Long, A. “Roman Philosophy” en Sedley, D. (ed.). Greek and Roman Philosophy, Cambridge, 2003, 
+184 ss. & 203-204; Erler, M. “Epicureanism in the Roman Empire” en Warren, J. (Ed.), The Cambridge 
+Companion to Epicurus, Cambridge, 2009, 49; Ker, J. “Seneca, Man of Many Genres” en Volk, K. & 
+Williams, G. (ed.),  Seeing Seneca Whole.  Perspectives on Philosophy, Poetry and Politics, Leiden-
+Boston, 2006, 19-21 & 30 ss.; Tarrant, R. “Seeing Seneca Whole”, en Volk, K. & Williams, G. (ed.), 
+Seeing Seneca Whole.  Perspectives on Philosophy, Poetry and Politics, Leiden-Boston, 2006, 1-2; 
+Colakis, M. “Life After Death in Seneca’s Troades”, CW 78, 3, 1985, 149.
+2Asmis, E.; Bartsch, Sh. & Nussbaum, M. “Seneca and his World” en Fantham E.; Hine, H.  et al., 
+Seneca. Hardship and Happiness, Chicago & London, 2014, xvii ss. 
+3Asmis, E.; Bartsch, Sh. & Nussbaum, M. “Seneca and his World”, xvii.
+Cita sugerida: Vizzotti, M. (2015). La problematización del Epicureísmo en la tragedia de Séneca. Auster, (20), 
+e022. Recuperado de: http://www.auster.fahce.unlp.edu.ar/article/view/Aus022
+    Esta obra está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 
+Internacional http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_AR
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+En su segunda epístola a Lucilio, y citando precisamente a Epicuro, Séneca nos da la 
+siguiente imagen de su periplo filosófico:
+Hodiernum hoc est quod apud Epicurum nanctus sum - soleo enim et in aliena castra 
+transire, non tamquam transfuga, sed tamquam explorator.4
+En el día de hoy esto es lo que he encontrado en Epicuro – suelo, en verdad, acercarme 
+también al campamento ajeno, no como desertor sino como explorador. 
+El estoicismo ha dominado las matrices de análisis y de aproximación a las 
+tragedias desde fines del siglo XIII y principios del XIV, cuando se inicia la exégesis de 
+la obra poética de Séneca.5 Esta exégesis, a diferencia de lo que ocurre con otros autores 
+de  la  Antigüedad,  como  por  ejemplo  Virgilio  u  Horacio,  comienza,  de  hecho,  a 
+principios del siglo XIV y toma su mayor impulso a partir de los siglos XVI y XVII con 
+la  obra  de Justius  Lipsius, Martinus  Delrio  y  Daniel  Hensius.6 Sin embargo,  las 
+tragedias de Séneca son, antes que nada, obras poéticas donde aparecen representados y 
+discutidos específicos aspectos y controversias de la doctrina estoica, hecho que no 
+agota ni excluye numerosas cuestiones de índole filosófica y literaria.7 Esto no significa 
+que resulte una literatura panfletaria o propagandística, como algunos estudiosos del 
+siglo XIX y de la primera mitad del siglo XX han querido verla, ni implica tampoco que 
+la misma se ciña fanáticamente a los preceptos y dogmas de la escuela.8 Al contrario, 
+4 SEN. Ep. 2. 5.
+Cita sugerida:Schmidt, E. (2014). Arcadia: Occidente y la Antigüedad. Auster, (19), e010. Recuperado de: 
+http://www.auster.fahce.unlp.edu.ar/article /view/Aus010
+5 Para un excelente panorama de la recepción de la obra trágica de Séneca y las controversias sobre la 
+autoría de las mismas a partir del siglo XIV, cf. Mayer, R. “Personata Stoa: Neostoicism and Senecan 
+Tragedy”. Journal of the Warburg and Courtauld Institutes 57, 1994. passim.
+6 Mayer, R. “Personata Stoa”, 157-167 & 173: “We do not know how they were interpreted in antiquity 
+(there are no commentaries), though it does not seem that they were much read, at least in comparison to 
+the prose  works of Seneca.  Unlike say Vergil,  or Horace,  they came  down to the Middle  Ages 
+unencumbered with the learning or interpretation of Antiquity itself. Without an inherited doctrine to 
+colour their response, readers were therefore left to fend for themselves in their attempts to understand 
+then plays.”
+7 Ker, J. “Seneca, Man of Many Genres”, 27-28.
+8 Marti, B. "Senecas' Tragedies. A New Interpretation",  TAPhA  76, 1945,  216-223 &  Marti, B. "The 
+Prototypes of Seneca's Tragedies", CPh 42, 1, 1947, 1-3; Pratt Jr. N. “The Stoic Base of Senecan Drama”, 
+TAPhA 79, 1948, 1 ss. Whitmore, Ch. The Supernatural in Tragedy, London, 1915, 12 & 97 ss. Contra 
+2
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+esta problematización del estoicismo es la responsable de la profunda riqueza literaria 
+del  corpus trágico senequiano y ha dado lugar a diversas y muchas veces opuestas 
+aproximaciones hermenéuticas, muchas de las cuales consideran la obra de Séneca 
+como anti-estoica o incluso a-estoica.9 En palabras de R. Mayer:
+“In this century Paul Schäffer, followed by Theodor Birt, Otto Regenbogen and most 
+recently Norman Pratt have all attempted to demonstrate that a shared moral sensibility 
+animates both the tragedies and the prose writings of Seneca. But within the Broad 
+Church there are some with scruples; they do not doubt the dogma itself but are 
+unhappy with its foundation. T. G. Rosenmeyer, for instance, has shown why the 
+various  arguments  offered  to  support  the  Stoic  interpretations  of  the  plays  may 
+justifiably fail to convince the uncommitted, and so he tries a new tack founded less 
+upon the ethics than cosmology. On the other hand there is Dissent, which itself takes 
+different forms. There is the radical Dissent of J. Dingel, who hears in the plays a cry 
+from the heart of one who has lost his faith in the philosophical bulwark he elsewhere 
+tried to construct against the world’s moral chaos. On this reading, the plays  are 
+nihilistic, even anti-Stoic. It says something about the elusive qualities of the plays that 
+Dingel’s position cannot be dismissed as a distortion; it has something to recommend it. 
+Then there is agnostic Dissent, which fails to see any significant moral or philosophical 
+content in the drama.”10
+Durante  la segunda mitad  del  siglo  XX  se produjeron una serie  de  trabajos  que 
+resultaron centrales para la recuperación y la revalorización de dicha obra poética de 
+cf. Tarrant, R. (2006), “Seeing Seneca Whole”, passim; Asmis, E.; Bartsch, Sh. & Nussbaum, M. “Seneca 
+and his World”, xxi ss.; Galán, L. “El estoicismo de Hipólito en el drama de Séneca”, Auster 6/7, 2002, 
+69-70 & Rosenmeyer,  Th.  Senecan  Drama and Stoic Cosmology, Berkeley,  1989, 79: “The Stoic 
+paradoxes win out over the Stoic sermonizing”.
+9 Mayer, R. “Personata Stoa”, 173:” None the less, it can now be doubted whether Stoicism is a necessary 
+element in any reading of the plays. [...] A defensive note is frequently sounded in the moralising 
+interpretation of the plays down the ages. Three of Seneca’s commentators, Trevet, Mussato and Delrio, 
+felt a need to defend the whole study of poetry against its detractors. Moreover, as Christians they were 
+bound to justify the reading of any pagan text. Delrio wanted to put the plays into the hands of the pupils 
+at  Jesuit  colleges  and  universities;  he  had  to warn  and  protect.  Others,  notably Daniel  Heinsius, 
+confronted contemporary society’s condemnation of the immorality of the stage (we catch an echo of this 
+in Farnaby’s preface too.) All are defending rather than disinterestedly describing the nature of Senecan 
+tragedy and they accept the terms of their opponents in insisting that is not immoral but designed to 
+improve its audience. In due course, Stoicism presented itself as the best clue to the interpretation of the 
+plays; and this reading is owed to one man, Martin Delrio. [...] His  Syntagma should henceforth be 
+regarded as the fountainhead of the Stoic reading of the plays, an interpretation that, paradoxically in the 
+light of subsequent readings, was not intended to be favourable. Rather, it served to put the young reader 
+on his guard against doctrine incompatible with his Christian faith.”
+10 Mayer, R. “Personata Stoa”, 151. Cf. también Pratt jr. N. “The Stoic Base of Senecan Drama”, 1-2; 5-6 
+& 9-10 para una discusión de los aspectos estoicos de la tragedia de Séneca y 7-8 para los aspectos anti-
+estoicos de la misma.
+3
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+Séneca:11 autores como Rosenmeyer, Tarrant, Mayer y Volk & Williams,  inter alia, 
+inauguraron posiciones de lectura que liberan a Séneca de la injusta y apriorística 
+comparación  con  sus  predecesores  griegos  y  enfocan  la  cuestión  en los  aspectos 
+específicamente romanos de las condiciones de producción e interpretación de estas 
+tragedias.12
+El propio Séneca describe, siguiendo a Horacio,13 su labor filosófica y literaria 
+comparándose con una laboriosa abeja que asimila el néctar de numerosas flores para 
+lograr un producto nuevo y diferente:14
+“Apes, ut aiunt, debemus imitari, quae vagantur et flores ad mel faciendum idoneos 
+carpunt, deinde quidquid attulere disponunt ac per favos digerunt et, ut Vergilius noster 
+ait, 
+         liquentia mella, 
+stipant et dulci distendunt nectare cellas. 
+De illis non satis constat utrum sucum ex floribus ducant qui protinus mel sit, an quae 
+collegerunt  in  hunc  saporem  mixtura  quadam  et  proprietate  spiritus  sui  mutent. 
+Quibusdam enim placet non faciendi mellis scientiam esse illis sed colligendi. Aiunt 
+inveniri apud Indos mel in arundinum foliis, quod aut ros illius caeli aut ipsius arundinis 
+umor  dulcis  et  pinguior  gignat;  in  nostris  quoque  herbis  vim eandem sed  minus 
+manifestam et notabilem poni, quam persequatur et contrahat animal huic rei genitum. 
+Quidam existimant conditura et dispositione in hanc qualitatem verti quae ex tenerrimis 
+virentium florentiumque decerpserint, non sine quodam, ut ita dicam, fermento, quo in 
+11 Principalmente Rosenmeyer, Th. Senecan; Mayer, R. “Personata Stoa”; Tarrant, R. Seneca’s Thyestes, 
+Atlanta, 1985 & Fantham, E. Seneca’s Troades, 1982.
+12 Rosenmeyer, Th. Senecan, 3: “Some sixty years ago Otto Regenbogen, in a remarkable essay published 
+by the Warburg Institute, declared that Seneca was the first to write what is today understood by the term 
+‘tragedy’. The Greek of the first century B.C. wrote  tragoîdiai  that continue to serve as models of 
+significance and power. But their plays do not invariably exhibit the peculiar combination of elements 
+that since the earliest Renaissance, and in the wake of Seneca, has embodied the tragic vision: an unhappy 
+and mournfully moving end supervening upon an abrupt fall; the centrality of the hero and his failure; the 
+prominence of nefas, iniquity; grandiloquence, ghosts, and magic; an appeal to learning; a measure of 
+didactism; and all the qualities summed up under the triad atrocitas, maiestas and gravitas: vehemence, 
+grandeur and high seriousness.”.  Cf. también  Eliot, T. “Seneca in Elizabethan Translation (1927)” en 
+Eliot, T. Elizabethan Dramatists, London, 1963, 14, 19 & 24 ss.; Rees, B. “English Seneca: a Preamble”, 
+G&R 16, 2, 1969, 131-132.
+13 HOR. Carm. 4. 2. 25-32: “Multa Dircaeum levat aura cycnum, / tendit, Antoni, quotiens in altos /  
+nubium tractus; ego apis Matinae / more modoque / grata carpentis thyma per laborem / plurimum circa 
+nemus uvidique / Tiburis ripas operosa parvus / carmina fingo.”
+14 Asmis, E.; Bartsch, Sh. & Nussbaum, M. “Seneca and his World”, xviii; Rosenmeyer, Th. Senecan 
+Drama, 5: “He is, to be sure, an eclectic philosopher. Like bees, he says (Ep. 84.5), we must gather our 
+readings from various sources and use our intelligence to make them into one authentic essence.”
+4
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+unum diversa coalescunt. Sed ne ad aliud quam de quo agitur abducar, nos quoque has 
+apes debemus imitari et quaecumque ex diversa lectione congessimus separare (melius 
+enim distincta servantur), deinde adhibita ingenii nostri cura et facultate in unum 
+saporem varia illa libamenta confundere, ut etiam si apparuerit unde sumptum sit, aliud 
+tamen esse quam unde sumptum est appareat.”15
+Debemos – como dicen- imitar a las abejas, que vagan y cosechan las flores idóneas 
+para producir la miel, luego todo lo que consiguieron lo ordenan y lo distribuyen por los 
+panales y, como dice nuestro Virgilio:
+‘almacenan líquida miel, 
+y llenan con el dulce néctar las celdas’ 
+De éstas no se sabe con seguridad si sacan el jugo de las flores que luego se convierte en 
+miel, o si lo que recogieron lo transforman en este sabor al mezclarse con cierta 
+propiedad de su espíritu. Sin embargo a algunos agrada pensar que no poseen la ciencia 
+de producir la miel sino de recogerla. Dicen que entre los indos la miel se encuentra en 
+las hojas de las cañas, que la genera el rocío de aquellos cielos o un humor dulce y muy 
+espeso  de  las  mismas cañas;  que  en  nuestras  hierbas  también  se  encuentra  esta 
+capacidad pero menos manifiesta y notable, a la cual busca y extrae el insecto nacido 
+para este trabajo. Otros estiman que a través de la elaboración y la disposición se 
+transforma en esta sustancia lo que han extraído de lo más tierno de las hojas y las 
+flores, pero no sin cierta, por así decirlo, fermentación a causa de la que diferentes 
+elementos se funden en uno. Pero para no desviarme a algo distinto de lo que tratamos, 
+debemos nosotros también imitar a estas abejas y separar todo lo que acumulamos de 
+diversas cosechas pues sirven mejor diferenciadas, y luego, aplicada la preocupación de 
+nuestro intelecto y con dedicación, fundir en un solo sabor aquellos variados jugos, para 
+que, si resulta evidente de donde fue recogido, sin embargo parezca algo distinto de lo 
+que es allí donde fue recogida.16
+Este  pasaje  revela  una  postura  programática  clara  respecto  del  uso  y  del 
+aprovechamiento de los materiales filosóficos y literarios. Por otra parte, en su dialogo, 
+De brevitate vitae, Séneca nos exhorta a debatir y aprender algo de cada escuela 
+filosófica, tal como podemos apreciar en el exquisito uso de los verbos elegidos para 
+determinar la relación con cada maestro:17
+15 SEN.  Ep. 84. 3-5.
+16 Todas las traducciones son nuestras.
+17 Williams, G. “On the Shortness of Life” en Fantham E.; Hine, H.  et al.  Seneca. Hardship and 
+Happiness, Chicago & London, The University of Chicago Press, 2014, 137-138 (n. 36).
+5
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+Disputare cum Socrate licet, dubitare cum Carneade, cum Epicuro quiescere, hominis 
+naturam cum Stoicis uincere, cum Cynicis excedere.18
+Podemos  debatir con Sócrates, dudar con Carnéades, tranquilizarnos con Epicuro, 
+vencer la naturaleza de los hombres con los estoicos e ir más allá [de ella] con los 
+cínicos.
+Séneca es,  por lo tanto,  un filósofo que supo apreciar y dialogar con otras 
+escuelas filosóficas con gran altura, inteligencia y profundidad y de ningún modo fue un 
+defensor fanático o ciego de su propia doctrina.19 Sus tragedias son, además, una 
+valiente exploración de los rincones más oscuros e inestables del pensamiento estoico,20 
+donde la representación paradójica de las problemáticas estoicas eclipsa por completo la 
+exposición doctrinaria que le suelen achacar ciertos autores.
+Algunos aspectos epicúreos relevantes
+mortalia nulli sunt curata deo21
+No pretendemos en el marco de este trabajo intentar un análisis minucioso o 
+abarcativo de la compleja, aunque fragmentaria, obra de Epicuro. Nos enfocaremos, 
+más bien, en ciertos aspectos puntuales y específicos de su doctrina que consideramos 
+relevantes para nuestra lectura de la tragedia de Séneca y que están presentes en ella, ya 
+sea en el contenido, ya sea en la dicción en el entramado textual. Nos concentraremos 
+18 SEN. Brev. 14.2
+19 Sharples, R. Stoics, Epicureans and Skeptics. An Introduction to Hellenistic Philosophy, New York, 
+Routledge, 1996,  1-4;  Frank, M.  Seneca's Phoenissae. Introduction and Commentary, Leiden & New 
+York, Brill, 1995, 27: “John Herington has suggested that Seneca’s mode of composition in his prose 
+works and his tragedies ‘was ... that of free modelling in his own manner around some relatively simple 
+armature provided by tradition; that he worked currente calamo with no other man’s book open before 
+him continually, but with a thousand literary memories swarming in his brain.”
+20 Rosenmeyer, Th.  Senecan Drama,  43: “In his role as a moral guide and imperial voice, Seneca 
+naturally preferred to express himself in the flexible, but unequivocal cadences of philosophical tract. But 
+no great leap of imagination is required to see him turning to verse and fully dramatized arguments where 
+he wished, not to teach, but to submit the more controversial, less settled movements of his thinking to the 
+test of confrontation with the realities of a familiar world. In the process, one imagines, he was also 
+intrigued by the possibilities of creating something new, an art that might show him to have written finis 
+to a moribund tradition, and to have put in its place a worthy and enriching successor.”; Frank, M. 
+Seneca's Phoenissae, 29-32; Asmis, E.; Bartsch, Sh. & Nussbaum, M. “Seneca and his World”, xxi ss.
+21 LUC. 7. 454-455.
+6
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+en tres  aspectos  puntuales:  la postura  frente  a los  placeres  y la vida  retirada,  la 
+naturaleza no intervencionista de los dioses y la actitud ante la muerte.22
+El aspecto más distorsionado y el flanco que recibió el grueso de las críticas y de 
+las interpretaciones malintencionadas de la doctrina epicúrea fue su doctrina de los 
+placeres. La filosofía moral de Epicuro, claramente hedonista, malinterpretada ya desde 
+la Antigüedad y reducida a una simple y chata exaltación de los placeres sensuales,23 
+generó una imagen del fundador que poco y nada tenía que ver con su modesto y 
+retirado modo de vida y con las características casi ascéticas de su ética práctica, que 
+tanto  atrajo  a  los  romanos.24 Epicuro  polemiza  con  los  cirenaicos,25 quienes  sólo 
+aceptaban los placeres cinéticos, y se distanciaba de ellos diferenciando, claramente, 
+estos placeres cinéticos de los placeres catastemáticos.26 Según Epicuro, estos dos tipos 
+de placer, si bien diferentes, no se oponen sino que se complementan y se implican 
+recíprocamente.  La  ataraxía y  la  aponía conforman  el  núcleo  de  los  placeres 
+catastemáticos o estables, mientras que el goce (chará) y el regocijo (euphrosýne) 
+forman parte de los placeres cinéticos o dinámicos. La satisfacción de los deseos 
+naturales y necesarios son elementos necesarios para alcanzar el placer catastemático de 
+la aponía y sólo a partir de allí se accede a la imperturbabilidad.27 Epicuro, entonces, no 
+22 Warren, J. “Removing Fear” en Warren, J. (Ed.), The Cambridge Companion to Epicurus, Cambridge, 
+Cambridge University Press, 2009, 234; Brunschwig, J. & Sedley, D. “Hellenistic Philosophy” en Sedley, 
+D. (ed.). Greek and Roman Philosophy, Cambridge, 2003, 156-162.
+23 Vara, J. Epicuro. Obras completas, Madrid, 1996, 36-37, especialmente 36: “Resulta así una teoría del 
+gozo no pedestre ni tosca sino de gran dignidad. No en vano, y éste es un dato fundamental, la elección 
+del gozo no queda a merced del instinto, sino de la reflexión prudente, encargada de la misión de juzgar la 
+trascendencia y alcance del gozo en cuestión. En consonancia con ello Epicuro aconseja la frugalidad y 
+vida sencilla.”Brunschwig, J. & Sedley, D. “Hellenistic Philosophy”, 161: “The life-style both preached 
+and practised by the Epicureans was therefore one of simple frugality, punctuated with just occasional 
+feasts and other indulgences. The modern use of ‘epicure’ for  bon vivant could scarcely be more 
+misleading.”
+24 Erler, M. “Epicureanism in the Roman Empire”, 47: “Epicurus’ practical ethics, his range of techniques 
+for life accompanied by the principles of reason, were appreciated even by those who sharply rejected his 
+materialistic physics and theology.”; Vara, J. Epicuro, 36-37; SEN. Vita beata, 13.1.
+25 Boeri, M.  Epicuro. Sobre la felicidad y el placer, Santiago de Chile, 1997, 36; Brunschwig, J. & 
+Sedley, D. “Hellenistic Philosophy”, 161 ss.
+26 Boeri, M. Epicuro, 15-16 & 37.
+27 Boeri, M. Epicuro, 36-37 & especialmente 38: “Para Epicuro, entonces, no existe la virtud como algo 
+que se busca por sí mismo sino que hay virtud en la medida que ella causa placer [...] Epicuro no rechaza 
+7
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+rechaza los placeres de los disolutos porque sean malos en sí mismos sino porque estos 
+no conducen ni a la aponía ni a la ataraxía, al contrario, los excesos son, en realidad, 
+causa de dolor corporal y anímico.28
+A pesar de las injustas acusaciones de herejía e hipocresía lanzadas en su contra, 
+no caben dudas de que Epicuro afirmó la existencia de dios, o de los dioses.29 “Los 
+dioses, en efecto, existen” dice el filósofo en su epístola a Meneceo,30 sin embargo, lo 
+que  destaca  y  distingue  la  concepción  epicúrea  de  la  divinidad  es  la  naturaleza 
+intrínseca  de  la  misma:  los  dioses  epicúreos  son  ataráxicos,31 su  propio  estado 
+imperturbable y dichoso los excluye necesariamente de participar o intervenir en los 
+asuntos sublunares y humanos.32 Dice en su epístola a Meneceo:
+“En  primer  lugar  considera a dios  como  un  viviente incorruptible  (áphthartos) y 
+bienaventurado (makários), tal como lo describe la noción (noésis) común y no le 
+atribuyas nada que sea ajeno a la incorruptibilidad ni impropio de la bienaventuranza 
+(makariótes). Cree de él todo lo que sea capaz de preservar su beatitud junto con su 
+inmortalidad. Pues los dioses existen, ya que el conocimiento que tenemos de ellos es 
+evidente. No son, empero, como lo cree la mayoría de la gente, pues sus creencias no 
+preservan el concepto que se tiene de ellos. Y no es impío (asebés) el que niega a los 
+dioses de la mayoría sino el que le atribuye a los dioses las opiniones que la mayoría 
+tiene de ellos.”33
+Los dioses no se ocupan de los asuntos humanos ya que se encuentran en un estado 
+permanente de ataraxía y no se ven afectados por nada de lo que habitualmente afecta a 
+los placeres de los disolutos porque tales placeres sean malos en sí mismos sino porque no conducen a la 
+ausencia de dolor en el cuerpo ni a la ausencia de perturbación en el alma. Son, por el contrario, causa de 
+más dolor corpóreo y anímico.”; Vara, J. Epicuro. Obras completas, 114.
+28 Brunschwig, J. & Sedley, D. “Hellenistic Philosophy”, 162.
+29 Arrighetto, G. “Epicuro y su escuela” en Ramnoux C.; Belaval, I. et al. Historia de la filosofía. La 
+filosofía griega, Madrid, 1997, 306; Warren, J. “Removing Fear”, 238-239.
+30 Boeri, M. Epicuro, 33-34; Vara, J. Epicuro, 29-30. Cf. también CIC. ND. I, 16, 43: “Solus enim vidit 
+[Epicurus] primum esse deos, quod in omnium animis forum notionem impressiset ipsa natura.”
+31 Festugière, A. Epicuro y sus dioses, Buenos Aires, 1960, 36-37; Warren, J. “Removing Fear”, 239-240.
+32 García Gual, C. (1983), 139; Festugière, A. Epicuro y sus dioses, 35-39; Warren, J. “Introduction” en 
+Warren, J. (ed.), The Cambridge Companion to Epicurus, Cambridge, 2009, 2; Arrighetto, G. “Epicuro y 
+su escuela”, 307.
+33 Boeri, M. Epicuro, 54-55.
+8
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+los seres corruptibles y, por lo tanto, no son afectados por nada que tenga alguna de 
+estas propiedades.34 
+En lo que respecta a la muerte y a la posibilidad de una existencia post mortem, 
+Epicuro es tajante, y así lo afirma en su segunda máxima capital: “La muerte es nada 
+para nosotros, pues lo que se ha disuelto carece de sensación y lo que carece de 
+sensación es nada para nosotros.”35 Este argumento revela su ontología respecto al 
+carácter corpóreo del alma, cuyos átomos se dispersaban y disolvían del mismo modo 
+que los de los cuerpos.36
+Aetate fruere y Lathe Biosas
+De todos los aspectos epicúreos que hemos destacado como relevantes dentro de 
+la tragedia senequiana, estos son los que presentan, sin embargo, el menor grado de 
+adecuación  dentro  de  las  estrategias  de  representación  poéticas.  En  su  agón  con 
+Hipólito, la nodriza exhorta al rústico cazador a abandonar sus ascéticas prácticas y a 
+disfrutar los placeres propios de la juventud:
+sed tu beatis mitior rebus ueni: 
+namque anxiam me cura sollicitat tui, 
+quod te ipse poenis grauibus infestus domas.
+(Hipp. 437-439)
+[...]
+potius annorum memor
+mentem relaxa: noctibus festis facem
+attolle, curas Bacchus exoneret graues;                     
+aetate fruere: mobili cursu fugit. 
+nunc facile pectus, grata nunc iuueni Venus: 
+exultet animus. cur toro uiduo iaces? 
+tristem iuuentam solue; nunc cursus rape, 
+effunde habenas, optimos uitae dies                   
+effluere prohibe.
+(Hipp. 443-451)
+Pero tú, vuélvete más accesible ante estas cosas dichosas;
+34 Vara, J. Epicuro, 31-32; Boeri, M. Epicuro. Sobre la felicidad y el placer, 53.
+35 Boeri, M. Epicuro, 53-54. Epicuro, Máximas Capitales 2.
+36 Vara, J. Epicuro, 30; Boeri, M. Epicuro, 12. Cf. también Epicuro, Carta a Heródoto 63 & LUCR. RN. 
+III, 136-176; Long, A. “Roman Philosophy”, 195.
+9
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+esta preocupación por ti me pone intranquila,
+te dominas, hostil, con pesados castigos.
+[…]
+Mejor, memorioso de tus años,
+relaja tu espíritu, toma la antorcha de las noches festivas, 
+que Baco alivie tus pesadas preocupaciones,
+goza tu edad: se escapa en rápida carrera.
+Ahora tu pecho es accesible, Venus te es grata ahora que eres joven)
+que tu ánimo se regocije. ¿Por qué yaces en un lecho solitario?
+Abandona tu dura juventud, emprende ya el camino,
+suelta las riendas, impide que se escapen los mejores días
+de tu vida.
+Esta invitación al aetate fruere y a entregarse a los placeres de Venus sólo abarcaría, en 
+términos epicúreos, los placeres cinéticos, sin intención alguna de trascenderlos hacia 
+los placeres catastemáticos por lo que resulta difícil, o más bien imposible, confundir las 
+exhortaciones de la nodriza con la postura epicúrea propiamente dicha. A esto se suma, 
+además, la relación estructural que esta exhortación tiene dentro del funcionamiento 
+general de la tragedia, pues lejos está Hipólito de ser un modelo de estoicismo o siquiera 
+un proficiens. El personaje, como la mayoría de los protagonistas senequianos, presenta 
+matices y particularidades en su estructura dramática que socaban y corroen su armazón 
+aparentemente estoica.37 Hipólito es, más bien, caracterizado como un joven cazador 
+cuya condición principal es la  feritas, y cuyo celibato está basado en una misoginia 
+irracional más que en una decisión supuestamente virtuosa:  Detestor omnis, horreo 
+fugio execror. / sit ratio, sit natura, sit dirus furor: / odisse placuit dice en Hipp. 566-
+568. Un poco más adelante dice también, respecto de su madre muerta: Solamen unum 
+matris amissae fero, / odisse quodiam feminas omnis licet (Hipp. 578-579). El prólogo 
+de la tragedia construye, a través de las palabras de Fedra e Hipólito, dos espacios 
+claramente diferenciados, las heladas y feroces silvae del joven, y los espacios cerrados 
+y opresivos de la ciudad y el palacio, marco de los vitia y los excesos.38 Esta oposición 
+37 Galán, L. “El estoicismo de Hipólito”, 71 ss.
+38 Segal, Ch. Language and Desire in Seneca’s Phaedra, New Jersey, Princeton University Press, 1986, 
+15; Galán, L. “El estoicismo de Hipólito”, 70.
+10
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+axiológica entre el campo y la ciudad ya había sido desarrollada por varios poetas 
+romanos, principalmente por Horacio en su  Sat. 2. 6 y también, aunque en menor 
+medida y con distintos matices, en las Odas 2.18 y 3. 29.
+La exhortación al aetate fruere en el marco de la ciudad y el palacio real no 
+condice, ni siquiera si se la toma aislada dentro de la acción dramática, con una 
+exhortación al goce de tono epicúreo y por lo tanto no existe una problematización de 
+concepto epicúreo alguno en este pasaje. Ocurre lo mismo con el elogio a la vida 
+retirada. Epicuro aconsejaba apartarse de la vida política y llevar una vida retirada y sin 
+estridencias. Séneca, por su parte, también aconseja apartarse de la vida política, pero 
+sólo si están dadas ciertas condiciones, tal como puede verse a partir de la petición del 
+propio Séneca a Nerón para retirarse de la vida pública luego de la muerte de Burro en 
+el año 62.39
+Veamos ahora algunos pasajes donde sería posible encontrar ciertas referencias 
+al dictum epicúreo que aconseja llevar una vida desapercibida, lathebiosas,40 como por 
+ejemplo la párodos de Hercules furens y el primer estásimo de Thyestes. Hay quienes 
+han detectado un “fuerte componente epicúreo en la párodos de esta obra [i.e. Hercules 
+furens]”,41 sin embargo, creemos que el elogio de la vida humilde y retirada (HF. 125 y 
+ss.), concepto no exclusivo del epicureísmo, responde a fines estéticos y literarios y que, 
+en realidad, no existe problematización de aspecto filosófico alguna:
+Haec, innocuae quibus est vitae
+tranquilla quies
+et laeta suo parvoque domus;
+spes immanis
+urbibus errant trepidique metus.
+(H.F. 160-164.)
+[...]
+Novit paucos secura quies,
+qui velocis memores aevi
+tempora numquam reditura tenent,
+dum fata sinunt, vivite laeti:
+(H.F. 175-178.)
+39 Asmis, E.; Bartsch, Sh. & Nussbaum, M. “Seneca and his World”, x-xi & xv.
+40 Vara, J. Epicuro, 120.
+41 Luque Moreno, J. Séneca. Tragedias II, Madrid, 1987, 115.
+11
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+Esto espera a quienes
+tienen una tranquila quietud en sus vidas inofensivas
+y una casa dichosa en su pobreza;
+Enormes ambiciones y miedos temblorosos
+erran por las ciudades.
+[...]
+La calma segura conoció a muy pocos,
+quienes recordando lo fugaz de la vida,
+saben que el tiempo jamás ha de volver, .
+Mientras los hados lo permiten, vivid dichosos.
+Como ya dijimos, el elogio de la vida retirada y la vida frugal no es exclusivo 
+del epicureísmo,  sino más  bien un punto de consenso en casi todos los sistemas 
+filosóficos helenísticos.42 En lo que respecta a la poesía latina, el mayor exponente de 
+este tópico probablemente es el Épodo II de Horacio, con su “Beatus ille qui procul 
+negotiis / ut prisca gens mortalium / paterna rura bubus exercet suis / solutus omne 
+faenore”.43 El uso literario de este tópico se revela en el cierre del épodo, cuando 
+Horacio nos revela la identidad de este hombre dichoso, que resulta ser Alfio, el 
+prestamista, que se dirige a la ciudad a recoger el fruto de sus usuras (haec ubi locutus 
+faenerator Alfius, /  iam iam futurus rusticus, / omnem redegit idibus pecuniam, /  
+quaerit kalendis ponere).44 El propio Tiestes, considerado por parte de la crítica como 
+un sapiens estoico,45 vierte conceptos semejantes con igual seguridad:
+O quantum bonum est
+obstare nulli, capere securas dapes                               
+humi iacentem! scelera non intrant casas,
+tutusque mensa capitur angusta cibus;
+uenenum in auro bibitur - expertus loquor:
+malam bonae praeferre fortunam licet.
+(Thy. 449-454)
+[...]
+sed non timemur, tuta sine telo est domus
+rebusque paruis magna praestatur quies. 
+immane regnum est posse sine regno pati.                       
+(Thy. 468-470)
+42 Williams, G. “On the Shortness of Life”, 118 & 131; Fantham, E. (2014) “On Tranquillity of Mind” en 
+Fantham E.; Hine, H. et al. (2014) Seneca. Hardship and Happiness, 188-189. SEN. Brev. 8.4 & 19.1-2 
+& Tranq. 3.1-3.
+43 HOR. Ep. 2.1-4.
+44 HOR. Ep. 2.67-70.
+45 Luque Moreno, J. Séneca. Tragedias II, 203.
+12
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+¡Oh qué bien tan grande es
+no oponerse a nadie, tener almuerzos tranquilos
+recostado en la tierra! No entra el crimen en las chozas,
+y comidas seguras se comen en mesas angostas;
+el veneno se bebe en oro - hablo como experto:
+El lícito preferir la mala fortuna a la buena.
+[...]
+Pero no se nos teme; segura, sin armas, está mi casa
+y una gran tranquilidad me es dada por mis humildes cosas.
+Enorme poder es poder estar sin poder.
+Por su parte, el coro vierte conceptos similares un poco más adelante:
+Stet quicumque uolet potens
+aulae culmine lubrico:
+me dulcis saturet quies;
+obscuro positus loco
+leni perfruar otio,
+nullis nota Quiritibus
+aetas per tacitum fluat.
+Sic cum transierint mei
+nullo cum strepitu dies,
+plebeius moriar senex.                              
+illi mors grauis incubat
+qui, notus nimis omnibus,
+ignotus moritur sibi.
+(Thy. 391-404)
+Que se alce aquel que quiera ser poderoso
+en la resbalosa cima del palacio;
+que a mí llene la dulce tranquilidad;
+que, colocado en un lugar ignoto,
+disfrute de un suave ocio,
+que mi vida, sin ser percibida por quirite alguno,
+fluya en silencio.
+Así, cuando hayan pasado 
+sin estrépito alguno mis días,
+muera como un anciano plebeyo.
+Pesada acecha la muerte a aquel
+que demasiado conocido por todos,
+muere desconocido para sí mismo.
+En definitiva, podemos afirmar que no existe, según creemos, en estos elogios a la vida 
+retirada problematización de doctrina filosófica alguna, sea ya la epicúrea o la estoica: 
+13
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+estos pasajes operan, dentro de la economía dramática de las obras, más bien como 
+contrapeso efectivo de la acción trágica.
+Los dioses no intervencionistas
+Por otro lado, otro de los aspectos epicúreos que se encontrarían en la tragedia 
+senequiana es la ausencia de los dioses dentro de la acción dramática. Sin embargo, 
+Séneca hace un uso muy particular y personal del aparato divino en sus tragedias, donde 
+los dioses prácticamente brillan por su ausencia o, si tienen alguna aparición –como en 
+el  Hercules  furens-,  parecen  estar  más  cerca  de  ser  potencias  demoníacas  que 
+divinidades celestiales.46 Los dioses, en general, parecen no preocuparse por los asuntos 
+humanos y, si bien los crímenes de los protagonistas pueden llegar a conmover el 
+universo entero e incluso horrorizarlo (Thy. 885 ss.; Med. 1026-1027), los dioses, salvo 
+excepciones dictadas por los argumentos tradicionales (Hipp. 945 ss.; Med. 1020-1024), 
+harán oídos sordos a las plegarias desesperadas de los personajes. 
+Luego de que Fedra revele a Hipólito sus intenciones para con él, el joven lanza 
+la siguiente proclama a los cielos:
+Magne regnator deum, 
+tam lentus audis scelera? tam lentus uides? 
+et quando saeua fulmen emittes manu, 
+si nunc serenum est?
+(Hipp. 671-674)
+[...]
+cur dextra, diuum rector atque hominum, uacat                    
+tua, nec trisulca mundus ardescit face? 
+in me tona, me fige, me uelox cremet 
+transactus ignis: sum nocens, merui mori: 
+placui nouercae. dignus en stupris ego? 
+scelerique tanto uisus ego solus tibi                    
+materia facilis? hoc meus meruit rigor? 
+(Hipp. 680-686)
+46 Rosenmeyer, Th. Senecan Drama,83-84; Asmis, E.; Bartsch, Sh. & Nussbaum, M. “Seneca and his 
+World”, xxiv: “The treatment of the gods is similarly unorthodox. Although Jason calls on Medea to 
+witness that there are no gods in the heavens the very chariot in which she flies away is evidence of the 
+assistance given her by her divine father. The gods are there, the problem is that they are unrecognizable.”
+14
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+Gran soberano de los dioses,
+¿tan permisivo escuchas estos crímenes? ¿Tan lento los contemplas?
+y ¿cuándo lanzarás tu rayo con mano furiosa,
+si ahora el cielo está despejado?
+[…]
+¿Por qué tu diestra, señor de los dioses y de los hombres, está vacía
+y no arde el mundo con tu antorcha triple?
+Truena contra mí, atraviésame, que tu fuego veloz traspasándome
+me prenda fuego: soy culpable, merezco morir:
+agradé a mi madrastra. ¿yo fui digno de estupro?
+¿Yo solo te parecí materia fácil para crimen
+tan grande? ¿Esto me deparó mi rigor?
+Tiestes, por su parte, luego de descubrir que su hermano le había servido en banquete 
+los miembros descuartizados de sus propios hijos exclama a los cielos vacíos:
+tu, summe caeli rector, aetheriae potens
+dominator aulae, nubibus totum horridis
+conuolue mundum, bella uentorum undique
+committe et omni parte uiolentum intona,                          
+(Thy. 1077- 1080)
+[…]
+Causa, ne dubites diu,
+utriusque mala sit; si minus, mala sit mea:
+me pete, trisulco flammeam telo facem
+per pectus hoc transmitte.
+(Thy. 1087-1090)
+Tú, alto señor del cielo, poderoso dueño del palacio
+etéreo, envuelve el mundo entero
+en hórridas nubes, desata la guerra de los vientos
+por doquier y truena violento en todas partes
+[…]
+Que ambas causas, para que no dudes más,
+sean malas, si no, sea al menos mala la mía:
+Atácame, atraviesa este pecho con tu flamígera 
+antorcha de triple punta.
+También el propio Hércules, luego de enloquecer y matar a su esposa e hijos, reclama 
+su castigo a los cielos y a los infiernos por igual:
+Nunc parte ab omni, genitor, iratus tona,
+oblite nostri vindica sera manu
+15
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+saltem nepotes. stelliger mundus sonet
+flammasque et hic et ille iaculetur polus: 
+rupes ligatum Caspiae corpus trahant
+atque ales avida— cur Promethei vacant
+scopuli?
+(H.F. 1202-1208)
+[...]
+Dira Furiarum loca
+et inferorum carcer et sonti plaga
+decreta turbae — si quod exilium latet
+ulterius Erebo, Cerbero ignotum et mihi:
+hoc me abde, tellus; Tartari ad finem ultimum
+mansurus ibo.
+(H.F. 1221-1226)
+Truena ahora enfurecido desde todas partes, Padre,
+olvidado de nosotros, venga con mano tardía 
+al menos a tus nietos, que resuene la cúpula estrellada
+y que uno y otro polo lancen sus llamas:
+que laceren mi cuerpo encadenado las cimas caspias
+y el ave hambrienta – Por qué están vacías las piedras
+de Prometeo?
+[...]
+Terribles lugares de las Furias
+y cárcel de los infiernos y la llanura decretada 
+a la turba criminal-- si algún exilio se oculta más allá
+en el Erebo, desconocido para Cerbero y para mí,
+llévame allí, tierra!; Hasta el confín último del Tártaro
+iré para quedarme.
+Los personajes claman en vano a los dioses por una intervención o una respuesta que 
+corrija o castigue crímenes y afrentas tan grandes. No extraña la no intervención de las 
+divinidades en cada universo trágico particular de las tragedias citadas y no creemos 
+descabellado afirmar que, dentro de la construcción dramática, la representación poética 
+de las divinidades sigue carriles más literarios que filosóficos, ya sean estos últimos 
+relativos a la problematización de la doctrina estoica o epicúrea. Sin embargo, es la 
+angustia y el terror de los personajes ante el silencio de los dioses lo que no condice con 
+la actitud de un proficiens epicúreo quien, ante una eventual teofanía, vería, además, 
+refutado todo su sistema de creencias.
+16
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+Post mortem nihil est. (Tro. 397)
+Probablemente la postura más cercana a cualquier tesis epicúrea que pueda ser 
+encontrada en la tragedia de Séneca está en el segundo coro de Troyanas (Tro. 371-
+408). Aquí, el coro de cautivas niega, claramente, cualquier posibilidad de existencia 
+post mortem:
+an toti morimur nullaque pars manet
+nostri, cum profugo spiritus halitu
+immixtus nebulis cessit in aera
+et nudum tetigit subdita fax latus?
+(Tro. 378-381)
+[...]
+ut calidis fumus ab ignibus
+vanescit, spatium per breve sordidus,
+ut nubes, gravidas quas modo vidimus,
+arctoi Boreae dissicit impetus:
+sic hic, quo regimur, spiritus effluet.
+Post mortem nihil est ipsaque mors nihil,
+Velocis spatii meta novissima.
+(Tro. 392-398)
+[...]
+Mors individua est, noxia corpori
+Nec parcens animae.
+(Tro. 401-402)
+¿O morimos por completo y no queda ninguna 
+parte de nosotros, cuando el espíritu, con su aliento fugitivo,
+mezclado con la bruma se repliega hacia el aire,
+y la antorcha tocó desde abajo el costado desnudo?
+[…]
+Como el humo del ardiente fuego
+se desvanece, denso por un breve intervalo,
+como a las nubes, que hasta hace poco vimos cargadas (de lluvia),
+las disuelve el soplo nórdico del Bóreas,
+así, este espíritu que nos gobierna se disolverá.
+Nada hay post mortem y la propia muerte es nada,
+última meta de un rápido tiempo.
+[…]
+La muerte es indivisible, terrible para el cuerpo
+y no perdona jamás al alma.
+17
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+Estos pasajes, de clara dicción lucreciana,47 y por lo tanto, epicúrea, ofrecen ciertos 
+problemas de interpretación dentro de la estructura general de la obra que, sin embargo, 
+exceden el alcance de este trabajo.48 Nos interesa, dentro de este panorama general, los 
+paralelismos y coincidencias con la concepción epicúrea.
+La postura objetiva de Séneca respecto a la muerte, según lo expone en sus 
+tratados en prosa –sobre todo en sus escritos de madurez-, resulta más cercana a la de 
+Epicuro que a la del cielo reservado a los sabios propuesta por el estoicismo: mors quid 
+est –dice en la epístola 65 que envía a Lucilio-49aut finis aut transitus; también afirma, 
+en su grado máximo de acercamiento a Epicuro, mors est non esse.50  Cabe destacar, sin 
+embargo, que Séneca sí desarrolla, en su Consolación a Marcia – considerada su obra 
+más temprana-51, una visión eminentemente ciceroniana respecto del lugar reservado en 
+el Cosmos a las almas virtuosas:
+Nec umquam magis ingeniis cara in corpore mora est; exire atque erumpere gestiunt, 
+aegre has angustias ferunt, uagi per omne, sublimes et ex alto adsueti humana despicere. 
+Inde est quod Platon clamat: sapientis animum totum in mortem prominere, hoc uelle, 
+hoc meditari, hac semper cupidine ferri in exteriora tendentem.
+[...]
+Integer ille nihilque in terris relinquens sui fugit et totus excessit; paulumque supra nos 
+commoratus, dum expurgatur et inhaerentia uitia situmque omnem mortalis aeui excutit, 
+deinde ad excelsa sublatus inter felices currit animas.  Excepit illum coetus sacer, 
+Scipiones Catonesque, interque contemptores uitae et ueneficio liberos parens tuus, 
+Marcia. Ille nepotem suum — quamquam illic omnibus omne cognatum est — applicat 
+sibi noua luce gaudentem et uicinorum siderum meatus docet, nec ex coniectura sed 
+omnium  ex  uero  peritus  in  arcana  naturae  libens  ducit;  utque  ignotarum  urbium 
+47 Fantham, E.  Seneca’s  Troades, 264-268, LUCR.  RN, 3, 436-437; Bishop, J. “Seneca’s  Troades: 
+Dissolution of a way of Life”, RhM 115, 1972, 333: “This Epicurean ode produces two figures: smoke 
+and clouds,  fummus  and  nubes 392ff., Those magnificent Lucretian means for explaining his atomic 
+theory (3.434ff., 455ff., 582; 5.253ff., 6.513ff.), dissipated of course by normal convection currents and 
+the blasts of the cold wind; so it is with the spirit which rules us all: sic hic, quo regimur, spiritus effluat 
+396. [...] The smoke and cloud metaphors are summarized in a simple declaration: post mortem nihil est 
+ipsaque mors nihil 397. [...] Life then is just part of the flux of nature. The doctrinal portion of the ode 
+ends here; but the ode applies the doctrine to the case at hand.”
+48 Para un completo panorama de las diferentes problemáticas, cf. Fantham, E. Seneca’s Troades, 85 ss.
+49 SEN. Ep. 65. 24.
+50 SEN. Ep. 54. 4.
+51 Hine, H. “Introduction. Consolation to Marcia” en Fantham E.; Hine, H. et al., Seneca. Hardship and 
+Happiness, 3.
+18
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+monstrator hospiti gratus est, ita sciscitanti caelestium causas domesticus interpres. Et in 
+profunda terrarum permittere aciem iubet; iuuat enim ex alto relicta respicere.52
+Y nunca les es más querida a las inteligencias la permanencia en un cuerpo; buscan salir 
+y liberarse, sobrellevan mal  esta estrechez, acostumbran vagar por todos lados y, 
+elevándose, contemplar los asuntos humanos desde lo alto. De aquí surge lo que señala 
+Platón: el alma del sabio se enfoca completa hacia la muerte, esto quiere, esto pondera, 
+por este deseo es empujada mientras busca salir.
+[...]
+Ha huido [tu hijo] íntegro dejando nada de sí mismo en la tierra y ha partido por 
+completo; demorándose sobre nosotros un corto rato, mientras era purificado y se 
+sacudía los vicios que se le habían pegado y toda la herrumbre de su tiempo mortal, 
+luego, llevado  hacia lo alto, corrió al encuentro de las almas afortunadas. Fue recibido 
+por esa sacra asamblea, los Escipiones, Catones, y entre esos despreciadores de la vida, 
+libres gracias a la muerte, [está] tu padre, Marcia. Él recibe a su nieto – aunque allí 
+todos son hermanos- regocijado bajo esta nueva luz y le enseña el curso de los astros 
+cercanos, y no a partir de conjeturas, sino del verdadero conocimiento de todas las 
+cosas, lo guía de buen grado por los arcanos de la Naturaleza; y así como alguien que le 
+muestre las ciudades desconocidas es grato al visitante -igual está bien del mismo modo 
+lo es este intérprete familiar para quien indaga las causas los fenómenos celestes. Y 
+también  le  ordena  que  dirija  su  mirada  a  las  profundidades  de  la  tierra;  agrada 
+contemplar desde lo alto lo que se ha dejado atrás.
+Resulta, de todas maneras, extremadamente difícil, si no imposible, afirmar si Séneca, 
+en este momento particular de su vida y de carrera intelectual, comulgaba sinceramente 
+con esta visión del Cosmos y de la naturaleza trascendental del alma o si, por el 
+contrario, tal descripción tiene un objetivo terapéutico en el marco de un cierre efectivo 
+a esta Consolatio. No está en nosotros juzgar la sinceridad o no de un autor sino analizar 
+los procesos y estrategias presentes en su escritura, por lo tanto, más allá de si tales 
+afirmaciones a una madre apesadumbrada son sinceras creencias, meras estrategias 
+discursivas o una amalgama de ambas situaciones (probablemente esta última sea la más 
+plausible de las situaciones), lo importante es, creemos, enfocarnos en la operatividad 
+efectiva de los pasajes. Poco antes de desplegar estas imágenes y nociones de clara 
+impronta ciceroniana, Séneca recorre otros loci  tradicionales, rechazando las fantasías 
+irracionales de los poetas (ad Marc. 19. 4) o describiendo a la muerte como un estado 
+52 SEN. ad Marc. 23.2 & 25.1-2.
+19
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+similar al de la  ataraxía o  apatheía que libera al individuo de los dolores y las 
+vicisitudes mundanas (ad Marc. 19. 1 -20. 2).
+Más allá de cierta falta de definición ontológica respecto de la muerte en sí 
+misma, es cierto que la inquisición senequiana es más un comentario sobre la calidad de 
+vida del individuo, en la cual la muerte resulta ser la salvaguarda de la dignidad y de la 
+libertas inherentes a la condición humana.53 Es en estos términos en los que creemos 
+que  la  oda  debe  ser  entendida  dentro  del  marco  general  de  la  tragedia.  La 
+problematización del carácter absoluto de la muerte apunta más a la disposición anímica 
+y la actitud deseable ante la inminencia de ésta que sobre su condición ontológica o su 
+naturaleza,  tal  como  puede  verse  representada  en  escena  con  los  sacrificios  de 
+Astianacte y Polixena.54
+Conclusiones
+No  por  tener  un  resultado  negativo  una  inquisición  resulta  necesariamente 
+estéril. En este caso, nuestra indagación sobre si Séneca, en sus tragedias, expone y/o 
+problematiza ciertos aspectos de la doctrina de Epicuro, ha arrojado, como resultado, 
+que poco y nada de la doctrina epicúrea aparece en el entramado textual y que, además, 
+cuando algún pasaje parece poseer cierta sonoridad o cierto contenido epicúreo, el 
+material presenta un tratamiento más literario que filosófico.
+Hemos recorrido, dentro de los límites de este trabajo, ciertos loci senequianos 
+donde  la  enunciación,  la  dicción  y/o  el  contenido  pueden  asociarse  con  distintos 
+aspectos de la doctrina epicúrea. Sin embargo, tal como hemos podido comprobar, sólo 
+el segundo coro de  Troyanas ofrece, además de una clara dicción lucreciana, cierta 
+problematización de su contenido epicúreo al negar toda posibilidad de existencia post 
+mortem en el marco de una acción dramática que contradice tan afirmación. Sólo en esta 
+tragedia un aspecto del epicureísmo, en tanto paradigma filosófico específico, se ve 
+53 Fantham, E. Seneca’s Troades, 80-82. SEN. Prov. 2. 2 -11 & ad Marc. 20. 3.
+54 Fantham, E. Seneca’s Troades, 89-91.
+20
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+levemente desestabilizado por las propias operaciones poéticas y el desarrollo trágico. 
+De este modo, la aparición del fantasma de Aquiles que tiene entidad trágica válida y es 
+el motor de la acción trágica, confuta toda posibilidad de cosmos epicúreo.55 Además, 
+incluso a pesar de las palabras proferidas en la segunda oda coral, las cautivas troyanas 
+nunca dudan del carácter real de esta aparición.56 Otros pasajes, como las plegarias 
+inauditas de Hipólito y Tiestes o las exhortaciones de la Nodriza, también a Hipólito, de 
+entregarse a los placeres cinéticos o los elogios de la vida retirada, no presentan una 
+formulación completa de nociones epicúreas. Estos pasajes, poseen, más bien, cierto 
+bouquet epicúreo por su dicción y contenido, pero no cumplen con los requisitos 
+específicos para poder ser considerados pasajes donde se expongan, y mucho menos 
+problematicen, aspectos filosóficos de esta escuela en particular. 
+Una perspectiva que permite analizar los resultados de esta pesquisa de manera 
+positiva es la de considerar la ausencia de conceptos epicúreos relevantes dentro de la 
+obra  de  Séneca  como  otro  indicador  del  interés  que  el  propio  Séneca  tiene  en 
+problematizar aspectos específicos de su doctrina, enfocándose en los aspectos más 
+oscuros  y  paradójicos  de  su  pensamiento,  dejando  de  lado,  al  menos  en  estas 
+manifestaciones poéticas, el fructífero diálogo que mantiene es sus Epístolas morales a 
+Lucilio con Epicuro y con otros pensadores de la antigüedad.
+Martín Vizzotti
+Universidad Nacional de La Plata
+vizzottim@gmail.com
+Resumen:
+Es bien sabido que Séneca, en sus tragedias, no busca ofrecer una exposición doctrinaria de los 
+conceptos propios del estoicismo, tal como cierta crítica decimonónica y de la primera mitad del siglo XX 
+lo ha querido ver (cf. especialmente Marti, B. 1945 & 1947), sino que en realidad busca exponer y 
+representar poéticamente ciertos aspectos particularmente paradójicos de su pensamiento (Rosenmeyer, 
+Th. (1989), Tarrant (1976 & 1985), Fantham, E. (1982), inter al. En este trabajo intentamos comprobar si, 
+55 Colakis, M.  “Life After Death in Seneca’s Troades”, 149 ss.
+56 Fantham, E. Seneca’s Troades, 85 ss.
+21
+Auster, nº 20, e022, 2015. ISSN 2346-8890
+además de la problematización de la doctrina estoica, se lleva a cabo una discusión de algunos aspectos 
+específicos de una doctrina con la que el propio Séneca, en sus Epístolas morales, reconoce tener un muy 
+fructífero diálogo, es decir, la epicúrea. Para esto analizaremos, dentro del entramado textual, ciertos 
+pasajes de Troades, Thyestes, Hercules furens e Hippolytus donde, ya sea por su contenido, ya sea por su 
+dicción, se desarrollen aspectos o conceptos asimilables a las enseñanzas de Epicuro. 
+Palabras clave: Séneca; Epicuro; Tragedia; Epicureísmo; Estoicismo
+Abstract:
+It is well known that Seneca, in his tragedies, aims not at an indoctrinating exposition of Stoic 
+concepts, as some XIXth and early XXth centuries scholars have claimed (vid. specially Marti, B. 1945 & 
+1947), but they rather are poetical representations and explorations of certain paradoxical aspects of his 
+thought. In this work, we aim to find out if, along with Seneca’s inquiries on the Stoic doctrine, there are 
+certain aspects of another doctrine with which Seneca himself, in his Moral Letters, acknowledges a rich 
+dialogue, this is to say, the Epicurean doctrine. To achieve we will look upon certain passages of 
+Troades, Thyestes, Hercules furens  and  Hippolytus where the diction or the content points us to an 
+exposition of Epicurean concepts.
+Keywords: Seneca; Epicurus; Tragedy; Epicureism; Stoicism
+RECIBIDO: 2-11-2015 – ACEPTADO: 20-1-2016
+22

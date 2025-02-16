@@ -1,0 +1,923 @@
+Lecturas de historias de la lectura 
+José Luis de Diego 
+Orbis Tertius, 2013, XVII (19),  42-58. ISSN 1851-7811 
+http://www.orbistertius.unlp.edu.ar 
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educación. 
+                               Centro de Estudios de Teoría y Crítica Literaria 
+ 
+Esta obra está bajo licencia Creative Commons Atribución-NoComercial-SinDerivadas 2.5 Argentina 
+ARTICULO/ARTICLE 
+ 
+Lecturas de historias de la lectura 
+ 
+por José Luis de Diego 
+(Universidad Nacional de La Plata) 
+ 
+ 
+RESUMEN 
+Hacia fines de los años ochenta, dos reconocidos historiadores del libro y de la cultura impresa, Roger Chartier 
+y Robert Darnton, postularon la necesidad de que los estudios sobre el libro y la edición derivaran hacia una 
+historia de la lectura. Desde mediados de los noventa, la historia de la lectura fue encontrando sus fuentes, 
+consolidando sus métodos y delineando su objeto. El presente trabajo despliega una serie de reseñas críticas 
+sobre los principales aportes a la disciplina, un estado de la cuestión que va de las historias generales a los 
+estudios de casos, como el español y el argentino. 
+ 
+Palabras clave: historia de la lectura - libro - edición - imprenta - prácticas culturales 
+ 
+Abstract  
+Towards the end of the 80s, two renowned historians of book and publishing culture, Roger Chartier and Robert 
+Darnton, postulated that book and publishing studies should drift into a history of reading. Since the mid-90s, 
+the history of reading has found its sources, consolidated its methods and specified its object. This article offers 
+a series of critical reviews about the main contributions to the discipline, a state of the art extending from 
+general histories to case studies, such as the Spanish and the Argentine cases. 
+ 
+Key  words: history of reading –book –publishing –printing- cultural practices 
+ 
+ 
+1. Prolegómenos: Roger Chartier, Robert Darnton 
+ 
+            Las disciplinas carecen de partida de nacimiento, y la historia de la lectura no es la 
+excepción. Ante esa falta, suelen postularse fechas simbólicas de inicio. Se me ocurre una 
+para la disciplina que nos ocupa. Roger Chartier dictó, en 1987, una conferencia en la 
+American Antiquarian Society y la tituló: “Frenchness in the History of de Book: from the 
+History of Publishing to the History of Reading”.1 La fecha importa porque en 1986, sólo un 
+año antes, se había publicado el cuarto y último tomo de la Histoire de l’édition française, que 
+Chartier codirigió con Henri-Jean Martin.2 Resulta evidente que el reconocido investigador 
+francés nos está hablando de un logro y, a la vez, de limitaciones y de un proyecto. El logro es 
+la monumental obra sobre la edición en Francia, que se reconoce continuadora del trabajo 
+fundacional de Lucien Febvre y del propio Martin, L’apparition du livre, de 1958.3 Pero la 
+conferencia también nos habla de limitaciones, con un sesgo autocrítico, observables en la 
+tradición de estudios sobre el libro en Francia. Por un lado, en las pretensiones abusivas de la 
+historia cuantitativa aplicada a objetos culturales, tal como se dio en las tendencias 
+dominantes de cierta historia social. Por otro, en la supuesta especificidad francesa en la 
+                                                 
+1 La conferencia fue publicada en Archives et Bibliothèques de Belgique, Tomo LX, pp. 161-189. En español se 
+conoció con el título “De la historia del libro a la historia de la lectura”, y se incluyó como capítulo I de Libros, 
+lecturas y lectores en la Edad Moderna, Madrid, Alianza, 1993. 
+2 Los cuatro tomos se titularon: I- Le livre conquérant. Du Moyen Age au milieu du XVII siècle (1982); II- Le 
+livre triomphant, 1660-1830 (1984); III- Le temps des éditeurs. Du romantisme à la Belle Époque (1985); IV- Le 
+livre concurrencé, 1900-1950 (1986). 
+3 Traducida al español por Agustín Millares Carlo y editada en México por U.T.E.H.A en 1962. 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+43
+historia del libro; y no sólo en los estudios franceses sobre el libro, sino también en los 
+estudios que toman a Francia como objeto exclusivo de análisis. En tercer lugar, en el 
+desinterés mostrado por el objeto impreso; incluso las historias seriales y cuantitativas seguían 
+tratando a los textos como una abstracción. Las conclusiones del giro autocrítico derivan en lo 
+que llamamos el proyecto:  
+ 
+… unas dudas, aguijoneadas por las investigaciones llevadas a cabo fuera de 
+Francia (…) que astillaban las certidumbres metodológicas demasiado bien 
+ancladas, subrayaban las lagunas del saber constituido, llamaban a mirar los 
+libros, y no sólo a contarlos o a clasificarlos, y, finalmente, planteaban la 
+exigencia de una historia de la, o, mejor, de las lecturas como prolongación 
+obligada de la historia del libro (1994: 20).  
+ 
+En suma: las limitaciones que se advierten en los estudios focalizados en el libro o en 
+la edición sólo pueden subsanarse mediante la postulación de una nueva disciplina. Los 
+fundamentos para la creación de esa disciplina derivan de hipótesis de trabajo que Chartier ha 
+sostenido en diferentes y variados textos y que podrían sintetizarse en la fuerte tendencia a 
+subrayar las continuidades y a mitigar las rupturas. Así, por ejemplo, la distancia polémica 
+que sostiene con Elizabeth Eisenstein y su clásico libro The Printing Press as an Agent of 
+Change;4 Chartier insiste en refutar el carácter “revolucionario” de la invención de la 
+imprenta de tipos móviles ya que su efecto más evidente es de orden cuantitativo y de 
+difusión, pero no altera sustancialmente ni el formato consolidado del códice ni las 
+consecuentes prácticas de lectura. O en las puntuales referencias a casos de lectura silenciosa 
+durante la Antigüedad, mediante las cuales atenúa el carácter de ruptura entre una práctica 
+oral en voz alta, dominante en comunidades analfabetas o semialfabetizadas, y una práctica de 
+lectura “mental”, como solía llamársela, propia de la modernidad:  
+ 
+La revolución del leer precede por tanto a las revoluciones del libro; a aquella 
+que, al final de la Edad Media, hizo que el libro copiado a mano fuera sucedido 
+por el libro compuesto en caracteres móviles e impreso en la prensa; y también a 
+aquella que, en los inicios de nuestra era, sustituye el rollo por el codex (si se 
+admite que la generalización del codex es muy posterior a la generalización de la 
+lectura silenciosa aparecida en Grecia entre los siglos VI y V antes de Cristo) 
+(1994: 25).  
+ 
+Estas certidumbres, entre otras, van orientando el programa de trabajo: las historias de 
+la edición, que proliferan en distintos países, implican una superación de las historias del 
+libro, limitadas, por lo general, al objeto material, y abren la puerta a una historia de la 
+lectura. Lectura que no debe entenderse en tanto experiencia (de acuerdo con una larga 
+tradición que va de la fenomenología a la estética de la recepción) sino como práctica 
+cultural, y que no podrá limitarse, como en las historias de la edición, a las fronteras de un 
+solo país, sino integrar tradiciones continentales. El proyecto tomará cuerpo, como es sabido, 
+                                                 
+4 Cambridge University Press, 1979. La primera edición fue de dos volúmenes, y fue reeditada en un solo 
+volumen en 1981. En 1983 se publicó una versión abreviada con el título The Printing Revolution in Early 
+Modern Europe. Se conoció en español como La revolución de la imprenta en la Edad Moderna europea (Akal, 
+1994). En 1986, Eisenstein insiste en su posición en el artículo “Sobre la revolución y la palabra impresa”, en el 
+volumen colectivo Revolution in History, editado por Roy Portery y Mikulas Teich (en español: La revolución 
+en la historia. Barcelona, Crítica, 1990). 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+44
+en la Storia de la lettura nel mondo occidentale, dirigida por el propio Chartier y Guglielmo 
+Cavallo y editado por Laterza en 1995.5 Nos detendremos en esta obra más adelante. 
+En las reflexiones teóricas de Robert Darnton se advierte un itinerario semejante. Su 
+conocido ensayo “¿Qué es la historia del libro?” fue publicado originalmente en la revista 
+Daedalus, del verano de 1982.6 Allí Darnton describe la historia del libro como una 
+“disciplina nueva”, cuyo campo de acción comprende “los libros desde la época de 
+Gutenberg” (2010: 178), que cuenta con sus trabajos pioneros y que ya reconoce revistas 
+específicas y centros de investigación destacados; propone, incluso, rebautizarla como 
+“historia cultural y social de la comunicación impresa”. Añade que se asiste, por entonces, a 
+una suerte de rebasamiento del objeto debido a la invasión de variadas “disciplinas 
+suplementarias”, de manera que “ya es imposible apreciar su contorno original” (2010: 180). 
+Luego de un largo rodeo por el siglo XVIII —podríamos decir por su siglo XVIII—, a manera 
+de un ejemplo de las dificultades metodológicas que acarrea un objeto de tal complejidad, 
+Darnton concluye: “En el circuito que siguen los libros, la lectura sigue siendo la etapa más 
+difícil de investigar” (2010: 192). La descripción de las figuras más significativas en la 
+circulación del libro se detiene en los autores, los editores, los impresores, los transportistas, 
+los libreros; finalmente, arriba a los lectores, e insiste: “A pesar de la ingente literatura sobre 
+psicología, fenomenología, sociología y los propios textos, la lectura sigue siendo un 
+misterio” (2010: 200). Pero esa dificultad, ese misterio, implica, a la vez, un desafío; como 
+ocurre en Chartier, Darnton deriva en la postulación de una hipotética historia de la lectura, 
+sus posibilidades y los obstáculos metodológicos que deberá sortear. En este sentido, una de 
+las innovaciones necesarias y decisivas implicará desplazarse desde el interés en los efectos 
+que los textos provocan en los lectores hacia las libertades que esos lectores se toman con los 
+textos; es decir, dejar de pensar a los lectores como sujetos pasivos, meros receptáculos de la 
+fecundidad de los textos, para comenzar a estudiarlos en tanto activos operadores de 
+significados; considerada así, la lectura no se limita a descifrar signos, sino a extraer sentido 
+de los textos leídos. Dentro de ese programa, por el momento apenas esbozado, Darnton 
+argumenta en igual dirección en que lo hará, según vimos, Roger Chartier: “Por su propia 
+naturaleza, la historia de los libros debe ser internacional e interdisciplinaria” (2010: 204). 
+Cuatro años después, en 1986, Darnton retoma el proyecto en el artículo titulado 
+“Primeros pasos hacia una historia de la lectura”,7 a partir de una certidumbre: “La lectura 
+tiene su historia”, y de una pregunta “¿cómo podemos recuperarla?” (2003: 190). Esa 
+pregunta se fragmenta en otras, que conllevan metodologías diferenciadas para su abordaje:  
+ 
+Pero los historiadores del libro han sacado ya a la luz una gran cantidad de 
+información sobre la historia externa de la lectura. Tras haberla estudiado como 
+un fenómeno social, son capaces de dar respuesta a muchas de las cuestiones 
+                                                 
+5 La Storia… se publicó traducida al francés en 1997 (Editions du Seuil) y un año después en español 
+(Santillana-Taurus). 
+6 En español se lo encuentra en El beso de Lamourette. Reflexiones sobre historia cultural (Buenos Aires, Fondo 
+de Cultura Económica, 2010, pp. 117-146) y en Las razones del libro. Futuro, presente, pasado (Madrid, Trama 
+editorial, 2010, pp. 177-204), con el título levemente modificado: “¿Cuál es la historia de los libros?”; cito por 
+esta última edición. 
+7 En Australian Journal of French Studies Nº 23, 1986. Traducido al español en El beso de Lamourette. 
+Reflexiones sobre historia cultural (Cit., pp. 165-199). Existe una traducción anterior con el título “Historia de la 
+lectura”, incluido en el libro Formas de hacer Historia, editado por Peter Burke; la primera edición en inglés es 
+de 1992, un año después aparece la versión española en Alianza editorial (el artículo de Darnton, en pp. 189-
+220); cito por esta última edición. 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+45
+sobre el “quién”, el “qué”, el “dónde” y el “cuándo” que pueden ser de gran ayuda 
+para atacar los más difíciles “por qués” y “cómos” (2003: 192).  
+ 
+Darnton divide los aportes más destacados en dos grandes grupos: por un lado, los 
+“macroanálisis”, que han suministrado datos sobre los hábitos de lectura, pero a menudo caen 
+en generalizaciones poco satisfactorias; por otro, los “microanálisis”, que procuran focalizar 
+en el estudio de casos que puedan resultar significativos para la comprensión del conjunto, 
+pero que no siempre lo son. Una de las limitaciones más evidentes para este tipo de trabajos 
+deriva de la complejidad de las fuentes: inventarios post-mortem, catálogos de subastas, 
+registros notariales, nóminas de suscripciones, registros de existencias y préstamos en 
+bibliotecas, etc.; a medida que se profundiza en cada una de estas fuentes, cualquier logro o 
+descubrimiento suele estar rodeado de suspicacias y reticencias, de modo que resulta 
+aventurado deducir, a partir de ellas, hipótesis generales. Y las dificultades crecen toda vez 
+que se enfrentan las cuestiones más difíciles: el “por qué” y el “cómo”. En este sentido, 
+Darnton propone cinco sugerencias para abordar el problema: 1) estudiar cómo representan la 
+lectura “las obras de ficción, autobiografías, escritos polémicos, cartas, pinturas y obras 
+impresas” (2003: 204); 2) analizar las formas en que se aprendía a leer, dentro y fuera del 
+sistema escolarizado (por ejemplo, la relación entre lectura y escritura en el proceso de 
+aprendizaje); 3) trabajar sobre los relatos autobiográficos mejor conocidos (menciona a san 
+Agustín, santa Teresa de Ávila, Montaigne, Rousseau y Stendhal) y avanzar hacia fuentes 
+menos conocidas; 4) revisitar la teoría literaria, teniendo en cuenta que en muchas de las 
+teorías dominantes “la lectura ha reaparecido como el hecho central de la literatura” (2003: 
+211); 5) estudiar los libros como objetos físicos, tarea que desarrolla la bibliografía analítica 
+(y aquí Darnton destaca los trabajos de Donald McKenzie y de Roger Chartier). 
+En el año 2001, con el título New Perspectives on Historical Writing, se edita la 
+segunda edición del libro que estamos comentando y, luego del trabajo de Darnton que 
+acabamos de reseñar, se añade una adenda, escrita por Peter Burke, titulada “Nota sobre 
+recientes historias de la lectura”. Allí, Burke se detiene en los aportes más relevantes en los 
+diez años que van desde la primera edición de 1992 a la segunda de 2001. De esos aportes, me 
+detendré en dos, por el interés que han despertado en el campo disciplinario y por la amplia 
+difusión que han tenido en nuestra lengua. Por un lado, Burke afirma que “es notable un 
+estudio general del escritor argentino Alberto Manguel”. Y un párrafo después, añade:  
+ 
+Para una panorámica del estado actual de esta especialidad, junto con la 
+sugerencias pertinentes sobre futuras evoluciones, probablemente nada mejor que 
+un proyecto internacional reciente, un informe de trece historiadores de este 
+campo sobre la lectura en Occidente desde Grecia hasta la actualidad, en el que se 
+testifica nada menos que tres “revoluciones” de la lectura entre 1450 y 2000 
+(Darnton 2003: 218).  
+ 
+Burke se está refiriendo, claro está, a la ya referida Historia de la lectura en el mundo 
+occidental (ver nota 5); en esos diez años, la disciplina se había terminado de consolidar. 
+ 
+2. Historias de la lectura 
+ 
+La Historia… dirigida por Chartier y Cavallo se conoció en español en 1998 y desde 
+entonces se ha convertido en el más valioso y sistemático aporte a la disciplina que nos ocupa. 
+Por esta razón, porque ha sido largamente reseñada, no abundaré en sus detalles; quiero, no 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+46
+obstante, detenerme, vistos a quince años de distancia, en algunos de sus postulados más 
+significativos. En primer lugar, allí se insiste en la ya corriente diferenciación entre texto y 
+libro, entre texto y soporte material; diferentes pero no independientes, ya que el soporte 
+incide, de un modo decisivo, en la divulgación, recepción y consumo de los textos. Los 
+autores citan una frase de Roger Stoddard (que tanto le gusta citar a Chartier): “Hagan lo que 
+hagan, los autores no escriben libros. Los libros no se escriben en absoluto. Los manufacturan 
+los escribas y demás artesanos, los mecánicos y demás ingenieros, y por las prensas de 
+imprimir y demás máquinas” (citado por Cavallo y Chartier 2011: 29). Y agregan: “Contra la 
+representación elaborada por la propia literatura y recogida por la más cuantitativa de las 
+historias del libro, según la cual el texto existe en sí, separado de toda materialidad, cabe 
+recordar que no hay texto alguno fuera del soporte que permite leerlo (o escucharlo)” (Ibid.: 
+29). De esta manera, la historia de la lectura sólo puede pensarse como derivación, o como 
+tributaria, de la historia del libro y la edición, ya que el soporte determina, o al menos 
+condiciona, su recepción. 
+La Historia… se articula cronológicamente en sucesivos capítulos escritos por 
+especialistas, esto es sabido; sin embargo, existen apuestas epistemológicamente fuertes que 
+parecen vertebrar el conjunto.  
+Por un lado, las tres “revoluciones”: 1) El paso de la lectura “necesariamente 
+oralizada” a la lectura “posiblemente silenciosa” (nótese la prudencia de los adverbios), al 
+que, si bien caracterizan como un “corte capital”, se trata, más bien, de un proceso paulatino, 
+de una larga revolución. En cualquier caso, estamos ante una transformación anterior a la 
+imprenta de tipos móviles que, si bien arraiga “en la mutación que en los siglos XII y XIII 
+transformó la función misma de lo escrito” (Ibid.: 51), sus raíces pueden rastrearse mucho 
+antes, incluso en la antigüedad clásica; así, el primer capítulo de la Historia…, escrito por 
+Jesper Svenbro, se titula “La Grecia arcaica y clásica. La invención de la lectura silenciosa”, 
+como si desde la nominación misma de ese primer capítulo los directores tomaran posición 
+firme en una cuestión contenciosa: la lectura en silencio no es, como se supo afirmar, una 
+consecuencia de la imprenta; numerosos testimonios nos hablan de una práctica habitual a lo 
+largo de los siglos. 2) La segunda revolución refiere, “según una tesis clásica”,8 el paso, en la 
+segunda mitad del siglo XVIII, de una lectura “intensiva” (lectura en profundidad y repetida 
+de pocos textos) a una “extensiva” (lectura salteada, y a menudo voraz, de muchos textos). Si 
+bien en el texto pertinente, ya citado en nota al pie, Wittmann concluye en que es posible 
+hablar de una verdadera revolución de la lectura hacia 1770 —con los casos ya emblemáticos 
+de las novelas de Richardson, Rousseau o el joven Goethe—; dicha transformación no 
+implica, sin embargo, confirmar la tesis de Engelsing, sino cuestionarla, dado que la lectura 
+“sentimental” o “empática” no abandonó, sino que a menudo exacerbó, las modalidades de 
+lectura “intensiva”. 3) La tercera revolución alude a la transmisión electrónica de los textos y 
+a las mutaciones que sufre la lectura en el soporte pantalla; “lo que se halla totalmente 
+transformado es todo el sistema de identificación y de manejo de los textos” (Ibid.: 54), y se 
+asiste a “una reorganización completa de la ‘economía de la escritura’” (Ibid.: 55). Aunque el 
+muy documentado trabajo de Armando Petrucci (“Leer por leer: un porvenir para la lectura”) 
+sólo al final menciona los cambios en la actividad lectora, los directores del volumen insisten 
+en su hipótesis: que esta última es en verdad una revolución sólo comparable con el paso del 
+rollo al códice y que, por ende, el paso del códice al libro, por efecto de la imprenta, tuvo un 
+                                                 
+8 La tesis pertenece a Rolf Engelsing (Analphabetentum und Lektüre, Stuttgart, 1973) y se encuentra 
+desarrollada, y parcialmente refutada, en el capítulo escrito por Reinhard Wittmann, “¿Hubo una revolución en 
+la lectura a finales del siglo XVIII?”, pp. 354 y ss. 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+47
+impacto mucho menor sobre las prácticas de lectura que el que otros autores —en especial 
+Elizabeth Eisenstein (ver nota 4)— han sostenido. 
+Por otro lado, los tres “modelos” de lector: 1) El lector “humanista”, descripto y 
+caracterizado en el trabajo de Anthony Grafton, recupera la tradición clásica y comienza a 
+refutar a las auctoritates del mundo académico medieval, a partir de novedosas prácticas de 
+lectura (la rueda de libros, el cuaderno de tópicos), en libros más pequeños que destierran la 
+letra gótica y que resultan austeros y prácticos. Así, los nombres de Maquiavelo, Erasmo y 
+Montaigne jalonan y ejemplifican un nuevo tipo de lectura, más crítica e independiente, de la 
+herencia clásica y medieval y, en consecuencia, una diferente relación con el libro. 2) Según 
+lo demuestra el trabajo de Jean-François Gilmont, la Reforma traerá consigo un nuevo modelo 
+de lector y de lectura. Se ha considerado a la Reforma como una consecuencia de la imprenta; 
+no porque la imprenta haya sido, en rigor, su causa, sino porque generó las condiciones de 
+posibilidad para la amplia difusión de las ideas reformistas. Así, las traducciones de la Biblia 
+a lenguas vernáculas durante las décadas de 1520 y 1530 —emblemáticamente, la traducción 
+de Lutero al alemán— producen un doble efecto. Por un lado, “popularizan” cada vez más la 
+palabra sagrada a través de la lengua escrita, en una sociedad que era mayoritariamente 
+analfabeta, por lo que se requería de mediadores, predicadores en voz alta. Por otro, esa 
+difusión incontrolada, no sólo de libros sino también de panfletos, sueltos y libelos, generaba 
+el riesgo de nuevas y más radicales herejías, ante lo cual tanto católicos como protestantes 
+establecieron rígidos sistemas de control sobre la edición y circulación de los impresos. 3) El 
+tercer modelo de lector resulta de la generalización de la cultura básica, los procesos 
+crecientes de alfabetización, la aparición de nuevas clases de lectores y la diversificación cada 
+vez mayor de los impresos. En su trabajo sobre el siglo XIX (“Los nuevos lectores del siglo 
+XIX: mujeres, niños, obreros”), Martyn Lyons considera que esta serie de transformaciones 
+implicó una gran dispersión de los modelos de lectura, una fragmentación y complejización 
+de las prácticas: “en la década de 1890 se había alcanzado casi uniformemente un índice del 
+90% [de población alfabetizada], y la antigua discrepancia entre hombres y mujeres había 
+desaparecido. Ésta fue la ‘edad de oro’ del libro en Occidente” (Ibid.: 387). Se amplía la 
+educación primaria, se reduce la jornada laboral, se comienza a reconocer el estatus social e 
+intelectual de la mujer: niños, obreros y mujeres integran, por tanto, esa nueva masa de 
+público lector, ese “público desconocido” que será el aficionado —y a menudo el 
+protagonista— de la llamada “literatura industrial”. 
+No sabemos, por último, qué lector estará modelando la “tercera revolución”, en la que 
+la diversificación de las prácticas parece aun mayor… Algunas de las tesis de la Historia… de 
+Cavallo y Chartier han sido corregidas o perfeccionadas a partir de trabajos particulares; no 
+obstante, como empresa de conjunto se ha transformado en la bibliografía más visitada, y 
+reconocida, sobre el tema que nos ocupa. 
+ 
+Ya dijimos que Martyn Lyons escribió, en la Historia… que hemos reseñado, el 
+capítulo sobre el siglo XIX. En 2010, Lyons, profesor de la universidad de New South Wales 
+(Sidney), dio a conocer el libro A History of Reading and Writing in the Western World (New 
+York, Palgrave Macmillan), el que, con traducción de Julia Benseñor y Ana Moreno, se 
+publicó en Buenos Aires en 2012.9 En una primera mirada al índice de la obra, advertimos el 
+ordenamiento cronológico que corresponde a una historia; sin embargo, si tenemos en cuenta 
+el célebre antecedente de la Historia… de Cavallo y Chartier, ahora estamos en presencia de 
+                                                 
+9 Hubiera sido más adecuado, en mi opinión, traducir el título de la obra de Lyons como Una historia de la 
+lectura… El indeterminado inicial del título original connota cierta modestia que la traducción ha soslayado. No 
+es lo mismo escribir ‘la’ Historia de la lectura… que ‘Una’ historia de la lectura… Alberto Manguel, según 
+veremos, también opta por el indeterminado. 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+48
+una historia moderna. En efecto, la cronología se inicia en el capítulo 2, que se ocupa del 
+mundo antiguo y medieval, y allí se despacha, en 25 páginas, el período que en Cavallo y 
+Chartier se desarrolla a lo largo de los seis extensos capítulos de Svenbro, Cavallo, Parkes, 
+Hamesse, Saenger y Bonfil. Si bien Lyons también relativiza el carácter “revolucionario” de 
+la invención de Gutenberg, se podría afirmar que lo nuclear de su libro comienza con la 
+imprenta. El título del capítulo I da el tono de la empresa: “¿De qué trata la historia de la 
+lectura y la escritura?”; la lectura del capítulo nos pone ante una manifestación de objetivos y 
+algunas cuestiones de método, pero aun en los momentos más arduos se advierte la intención 
+del autor por escribir una suerte de manual que vaya más allá del interés de los especialistas: 
+lenguaje llano, comprensible, y poco aparato erudito. Allí se nos dice que la pretensión del 
+título es engañosa porque estamos ante una historia de la lectura, y sólo subsidiaria o 
+tangencialmente (de hecho, se limita a los dos capítulos finales) se detendrá en la escritura. 
+“La historia de la lectura se ocupa de todos los factores determinantes de la recepción de 
+textos. Se pregunta qué se leía en una sociedad dada, quién leía y cómo” (2012: 19). En esa 
+dirección, toma distancia de la llamada Teoría de la Recepción de origen alemán (“me 
+interesan menos los lectores implícitos o supuestos que los lectores reales” [Ibid.: 21]), y 
+rescata el instrumental propio de la sociología de la cultura de Pierre Bourdieu: “¿cuáles son 
+las condiciones sociales que determinan el consumo y la apropiación de la cultura?” (Ibid.: 
+23).10 Sin embargo, no estamos ante un trabajo bourdiano, ya que la perspectiva disciplinaria 
+es mucho más histórica que sociológica, y resulta en mayor medida tributaria de los estudios 
+de historia del libro, la edición y la lectura que se inician en 1958, con Febvre y Martin, y que 
+Lyons reseña, como antecedentes, para llegar a los trabajos de Robert Darnton, con quien 
+procura dialogar productivamente. A partir de allí, el autor postula sus “Metas y objetivos”: 1) 
+“encontrar al lector destinatario o al público deseado y reclamado por autor y editor” (Ibid.: 
+32); 2) la búsqueda del lector real y sus respuestas; 3) poner en contexto histórico el encuentro 
+entre el lector y el texto; 4) demostrar la democratización de las prácticas de escritura en todas 
+sus ramificaciones. La cronología general establecida por Lyons desde la invención de la 
+imprenta no difiere demasiado de la que reseñamos en Cavallo y Chartier, y parece tomar 
+como base ya firme la teoría de las “tres revoluciones” que se postula en el célebre 
+antecedente. No obstante, y quizás como un modo de enfatizar el período que más y mejor 
+conoce, Lyons postula una “cuarta revolución”: el siglo XIX, la industrialización del libro y el 
+advenimiento de la cultura literaria de circulación masiva (tema que desarrolla en los 
+capítulos 10, “La época de la lectura de masas”, y 11, “Nuevos lectores y nuevas culturas 
+lectoras”). En su reseña sobre el libro, Ana Mosqueda ha observado con justeza que si bien el 
+autor alude desde su título al Western World, “se ocupa en mayor medida de la cultura escrita 
+en Europa  —en especial Francia, Gran Bretaña, Alemania y España— y América del Norte”, 
+“refleja el estado actual de las investigaciones y evidencia, por omisión, el menor desarrollo 
+que estos estudios han tenido en América Latina”.11 No obstante, no deja de ser significativo 
+que un libro de gran relevancia disciplinaria como el que estamos comentando se haya 
+traducido en Argentina, y haya sido publicado por una editorial emergente poco después de 
+conocerse en lengua original.  
+                                                 
+10 Lyons cita el libro de Bourdieu de 1979 La distinction. Critique sociale du jugement. Bourdieu se refirió 
+específicamente al tema de la lectura en dos textos breves posteriores: en una conferencia de 1981, “Lecturas, 
+lectores, letrados, literatura” (en: Cosas dichas, Barcelona, Gedisa, 1996, pp. 115-124); y en una conversación 
+con Roger Chartier, “La lectura: una práctica cultural”, publicada en francés en 1985 (en: El sentido social del 
+gusto, Buenos Aires, Siglo XXI, 2010, pp. 253-269).  
+11 Mosqueda, Ana (2011). “Reseña de: Martyn Lyons. A History of Reading and Writing in the Western World”. 
+Páginas de Guarda. Revista de lenguaje, edición y cultura escrita Nº 12, Buenos Aires, primavera, pp. 129-132. 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+49
+Más arriba, mencioné una adenda que Peter Burke escribió hacia 2001 en la que 
+afirma que “es notable un estudio general del escritor argentino Alberto Manguel”. Se refiere, 
+claro está, a Una historia de la lectura. El libro se publicó originalmente en inglés en 199612 
+(Harper Collins/Penguin), se tradujo en 1998 (Alianza/Fundación Sánchez Ruipérez) y 
+conoció varias ediciones en español.13 La obra de Manguel está organizada en dos partes, 
+“Lecturas” y “Los poderes del lector”; antes de la primera, a manera de introducción, “La 
+última página”; después de la segunda, a manera de epílogo, “El último pliego”. No se trata, 
+en rigor, de una historia; es decir, el libro no responde a los requerimientos habituales de la 
+disciplina (ordenamiento cronológico, aparato erudito, sistemas de demostración y prueba, 
+etc.). Se trata, como afirma el autor, de una historia, la historia de él como lector, de cómo su 
+propia experiencia de lector es histórica; así, se proyecta hacia atrás en las lecturas de otros, 
+en un pasado que desde un par de tablillas de arcilla (“Toda nuestra historia comienza con 
+esas dos modestas tablillas” [2011: 53]) hasta nuestros días encuentra en la lectura una 
+experiencia decisiva en su constitución como sujeto y, por supuesto, como escritor. Se puede 
+afirmar que la definición de su historia de la lectura es más bien negativa:  
+ 
+Su cronología no puede ser la de la historia política. (…) Tampoco puede ceñirse 
+una historia de la lectura a la sucesión coherente que encontramos en la historia de 
+la crítica literaria: (…) La historia de la lectura tampoco corresponde a las 
+cronologías de las historias de la literatura… (Ibid.: 48-49).  
+ 
+Por tanto, el libro responde mejor a los requerimientos habituales del género ensayo, opinante 
+y erudito, de escritura libre y a la vez sólidamente documentada. Cada capítulo se ocupa de 
+algún aspecto de la lectura; por lo general, se parte de variados testimonios y se articulan con 
+breves recorridos biográficos y algunas secuencias narrativas, semblanzas de autores 
+emblemáticos (Petrarca, Franz Kafka, Walt Whitman, Edith Wharton,…) e hipótesis 
+imaginativas y aun ficcionales. A manera de ejemplo, pueden citarse, “La primera página 
+ausente”, un estupendo ensayo sobre la lectura alegórica, que viaja desde los eruditos 
+medievales hasta la obra de Kafka; “El libro de la memoria”, capítulo sobre la escritura, la 
+memoria y los memoriosos guardianes de la tradición escrita, en una galería que incluye a 
+Tomás de Aquino, Petrarca y a aquel profesor asesinado en un campo de concentración que se 
+había ofrecido como biblioteca viviente para conservar los clásicos; “Las formas del libro”, 
+un minucioso itinerario por papiros y pergaminos, rollos y códices, libros, atriles y 
+sofisticadas máquinas de leer; la evocación de Rilke en París, en “El traductor como lector”, 
+traduciendo obsesivamente un poema del siglo XVI; “Lectura prohibida”, el ominoso 
+recuento de las lecturas interdictas: el tribunal del Santo Oficio, las lectura vedada a los 
+esclavos negros en los Estados Unidos, el discurso de Joseph Goebbels, el 10 de mayo de 
+1933 en Berlín, mientras se incineraban veinte mil libros, la patética prohibición del Quijote 
+en 1981, en el Chile del general Pinochet. No resulta un dato menor la criteriosa selección de 
+imágenes que ilustran el libro, ya que enriquecen significativamente el recorrido por el texto, 
+como aquella bellísima foto tomada en una biblioteca destruida por un bombardeo en 
+Londres, el 22 de octubre de 1940, y que el libro reproduce a doble página (Ibid.: 482-483). 
+En suma, una “historia” que no es historia, pero que ha encontrado un lugar entre las 
+“historias” por sus memorables hallazgos, su originalidad y la calidad de su escritura. 
+                                                 
+12 Es interesante anotar, como dato contextual, que la Storia… de Cavallo y Chartier se publicó, como ya lo 
+dijimos en la nota 5, en italiano en 1995 y en francés en 1997, de donde el libro de Manguel resulta coetáneo del 
+naciente interés sobre el tema. 
+13 Entre otras, Bogotá, Norma, 1999; Barcelona, Lumen, 2005; Oaxaca, Almadía, 2011. 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+50
+ 
+3. Historias de la lectura en España 
+ 
+En 2001, la editorial Marcial Pons de Madrid publicó Historia de la edición en España 
+(1836-1936), un volumen colectivo bajo la dirección de Jesús Martínez Martín, profesor de 
+Historia Contemporánea de la Universidad Complutense. La introducción, escrita por el 
+director del volumen, postula un objeto de estudio complejo con una serie de implicancias que 
+parecen ir en un camino inverso al que se observa, por ejemplo, en los textos de Chartier. Si 
+en los ensayos del historiador francés las historias del libro y de la edición han desembocado 
+en la historia de la lectura (del proyecto que compartió con Henri-Jean Martin entre 1982 y 
+1986 al que dirigió con Guglielmo Cavallo en 1995), como si esta última resultara la más 
+abarcadora e inclusiva; Martínez Martín sostiene un argumento opuesto: “De esta forma, la 
+historia de la edición, por encima de sus dimensiones técnicas y económicas, es también la 
+historia de la lectura en sus dimensiones sociales y de práctica cultural” (2001: 12); de hecho, 
+aunque la Cuarta Parte del volumen se ocupe de las prácticas de lectura, el término se ha 
+omitido en el título del libro, enfocado en el concepto de “edición”. La obra se divide en 
+cuatro partes; las dos primeras responden a una secuencia cronológica: “El siglo XIX: el 
+tiempo de los editores” y “El siglo XX (1900-1936): el capitalismo de edición”; las dos 
+segundas siguen un deslinde temático y los capítulos que las integran se aproximan a un 
+formato monográfico: “Los géneros editoriales. La especialización editorial” y “La 
+circulación de libros y las prácticas de lectura. Escuelas, bibliotecas y espacios públicos y 
+privados”. Por su parte, el repertorio de autores que participan del volumen incluye a algunos 
+especialistas que ya se habían destacado en sus campos disciplinarios, como el propio 
+Martínez Martín, Jean-François Botrel o Antonio Viñao, y otros que obtendrían 
+reconocimiento y visibilidad en textos posteriores, como la historiadora Ana Martínez Rus. 
+De hecho, algunos de esos especialistas, como Botrel, no sólo ocupan un lugar central en el 
+estado de la cuestión que traza el director, sino que también fueron convocados a escribir en la 
+obra.14 Dicho estado de la cuestión resulta de interés dentro del panorama que estamos 
+trazando. Martínez Martín rescata “los ricos debates y las aportaciones que sobre la historia 
+del libro y de la lectura se vienen produciendo en la historiografía francesa, italiana y 
+anglosajona” (Ibid.: 15). Y esos aportes se despliegan en el reconocimiento a las trayectorias 
+de Chartier y Martin, de D. F. McKenzie, Carlo Guinzburg y Darnton, de Armando Petrucci y 
+Jean-Yves Mollier; y concluye en que “La historia del libro y la lectura está dando sus 
+primeros pasos en España” (Ibid.: 18). De entre esos “primeros pasos”, destaca la labor 
+pionera de Botrel y Chartier; de Antonio Viñao en la historia de la lectura desde la educación 
+formal, como parte de la historia de la pedagogía; de la historia descriptiva del libro y de las 
+bibliotecas, en los trabajos de Hipólito Escolar y los aportes de las numerosas historias de la 
+literatura. De modo que el libro procura articular esfuerzos previos, aislados y heterogéneos, y 
+dotarlos de sistematicidad. Se trata, pues, de una historia de la edición y de la lectura “que 
+vertebra distintas perspectivas de análisis en una visión multidisciplinar, que en su conjunto 
+                                                 
+14 Botrel, profesor de la Université de Rennes 2 Haute-Bretagne, acredita una obra profusa sobre el libro, la 
+prensa y la lectura en España, con especial referencia al siglo XIX; desde mediados de los setenta, viene 
+investigando sistemáticamente sobre el período. Su libro más difundido en español es Libros, prensa y lectura en 
+la España del siglo XIX (Madrid, Fundación Sánchez Ruipérez/Pirámide, 1993), además de sus ensayos sobre el 
+realismo literario, en especial sobre Clarín y Galdós. En 2010 se conoció su último libro, Los novelistas del 
+Gran Realismo y sus libros (Alicante, Biblioteca Virtual Miguel de Cervantes). En 2005, una universidad 
+francesa publicó un libro en su homenaje: Jean-Michel Desvois (coord.) Prensa, impresos, lectura en el mundo 
+hispánico contemporáneo: homenaje a Jean-François Botrel (Unversité Michel de Montaigne Boredeaux 3), en 
+el que participaron destacados especialistas españoles, como José Carlos Mainer y Pura Fernández, entre otros. 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+51
+perfilan una visión integradora de la nueva historia cultural. La edición sería el elemento 
+vertebrador…” (Ibid.: 20). 
+Como dijimos, la Cuarta Parte es la que se ha dedicado a la lectura. Antonio Viñao se 
+refiere a la “querella de los métodos”, a los intentos de modernización de las estrategias de 
+enseñanza de la lectura que superaran el deletreo y el silabeo, y a los debates acerca de la 
+prioridad de la enseñanza de la lectura sobre la escritura, o viceversa; a las modalidades de 
+lectura en voz alta en la escuela; a las nuevas concepciones derivadas de la consideración de 
+la lectura desde un punto de vista fisiológico, higienista y psicopedagógico. Sostiene que “El 
+primer tercio del siglo XX es un período de innovaciones y cambios, en especial en los años 
+30”, pero “Una cosa eran las propuestas y otra la realidad” (Ibid.: 427). Ana Martínez Rus se 
+ocupa de las estrechas relaciones entre las políticas de consolidación y difusión de las 
+bibliotecas populares y públicas y la democratización creciente de las prácticas de lectura. Se 
+detiene en las políticas de la II República a través del Patronato de Misiones Pedagógicas y de 
+la Junta de Intercambio y Adquisiciones de Libros (JIAL),15 y en las progresivas reformas de 
+la legislación que procuraron llevar libros de calidad a las regiones más apartadas; demuestra, 
+en este sentido, que las políticas referidas tuvieron un efecto de expansión, por contigüidad y 
+contagio, de los hábitos de lectura. La circulación de los libros y los espacios y prácticas de 
+lectura son el tema de los capítulos a cargo de Martínez Martín. La primera parte, tributaria de 
+las investigaciones de Botrel, se detiene en los espacios de oferta de libros, que van desde las 
+librerías urbanas que atienden las demandas de una clase ilustrada de intelectuales y 
+profesionales, hasta las librerías ambulantes de zonas rurales y los buhoneros que ofrecen 
+pliegos de cordel a 5 céntimos. En la segunda, se ocupa de los espacios de sociabilidad que 
+incluyen la lectura, como las tertulias, los gabinetes de lectura y las sociedades de hablar; 
+además, por cierto, de las librerías, como la de Fernando Fe en Madrid, que fue uno de los 
+lugares de reunión e intercambio de políticos, escritores y artistas. Por último, se centra en los 
+trabajos de Chartier para preguntarse si con relación a las lecturas oral/silenciosa, y a las 
+lecturas intensiva/extensiva, es lícito hablar de una “revolución de la lectura” en España, 
+durante el siglo que el libro recorta. 
+ 
+El segundo aporte de gran envergadura se publicó en 2003 y se trata de otra empresa 
+colectiva: la Historia de la edición y de la lectura en España (1472-1914), con la dirección de 
+Víctor Infantes, François López y Jean-François Botrel y editado por la Fundación Sánchez 
+Ruipérez. Un libro en edición de lujo, con tapa dura y papel ilustración, con 71 
+colaboraciones, escritas por 45 colaboradores a lo largo de 680 páginas, que incluye 
+reproducción de documentos escritos, archivos fotográficos y una completa y minuciosa 
+bibliografía final. Como se advierte en el título, el recorte cronológico es mucho más amplio y 
+ambicioso que el del libro que dirigió Martínez Martín en 2001, ya que en este caso se 
+remonta hasta el siglo XV y abarca hasta los inicios del XX. Los contenidos están ordenados 
+en tres partes: la primera va de 1472 a 1680 (dirigida por Víctor Infantes); la segunda, de 
+1680 a 1808 (dirigida por François López), y la tercera, de 1808 a 1914 (dirigida por Jean-
+François Botrel). En una “Preliminar”, los directores de la obra trazan, en primer lugar, una 
+genealogía análoga a la esbozada por Chartier:  
+ 
+Gracias a estos progresos, efectuados en sectores muy diversificados donde han 
+sabido recogerlos y utilizarlos los especialistas de la historia del libro, ha logrado 
+                                                 
+15 Los aportes originales de la autora sobre este tema fueron el objeto de su tesis doctoral, publicada dos años 
+después: Martínez Rus, Ana (2003). La política del libro durante la segunda república. Socialización de la 
+lectura, Gijón, Trea.  
+ 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+52
+dicha ciencia ampliar su objeto que, en un principio, había tenido un carácter 
+predominantemente bibliográfico y descriptivo, hasta hacerla desempeñar un 
+papel fundamental en los estudios sobre la economía, la cultura, la sociedad. 
+Reconociendo la importancia de esos amplios dominios, el económico sobre todo, 
+pero también el social, ha logrado convertirse la historia del libro en la historia de 
+la edición, sin perder de vista su más antiguo cometido (2003: 14).  
+ 
+Del libro a la edición, entonces, y de allí a la lectura: “Hace algo más de veinte años 
+que se habla de la necesidad de dar como prolongación a las clásicas historias del libro una 
+historia de la lectura que no atienda solamente a las obras leídas o propuestas al lector sino al 
+acto intelectivo de leer”;16 a esta iniciativa se consagra la obra y se solicita se reconozca “la 
+utilidad y el carácter algo innovador de la doble perspectiva que [los autores] han adoptado” 
+(Ibid.: 15). En segundo lugar, procuran justificar los cortes temporales propuestos: 1) la 
+primera parte comienza con los últimos años del siglo XV, “en los albores de la imprenta 
+hispana”, y se inicia en 1472 en consonancia con la edición del Sinodal de Aguilafuente; 2) 
+respecto de la segunda parte, la elección de la primera fecha, 1680, “pretende llamar la 
+atención sobre el período en que empezaron a introducirse la filosofía y la ciencia moderna en 
+España, necesario preámbulo a la todavía lejana Ilustración” (Ibid.: 19); 3) la tercera parte 
+coincide con el desarrollo de la prensa y la denominada segunda revolución del libro: 
+mecanización de la fabricación del papel, crecimiento de la producción impresa, progresos en 
+la alfabetización, aparición de nuevos lectores y de nuevos hábitos de lectura. Por último, los 
+directores trazan los requisitos metodológicos que guiaron la empresa, “de un historia de la 
+edición y la historia de la lectura bifronte, sin olvidar nunca la historia del libro y, en alguna 
+medida, la de la prensa” (Ibid.: 20): una atención prioritaria a la base documental, la necesaria 
+adopción de una perspectiva interdisciplinaria, la incorporación de innovadoras metodologías 
+de análisis. La extensión de la obra y su complejidad exceden a las pretensiones de esta 
+reseña; sin embargo, es posible advertir, en las tres partes, un itinerario argumentativo similar, 
+que va desde las formas materiales de edición (más ligadas a la economía), de allí a los textos, 
+sus géneros y su público, y de allí a los sujetos lectores y a las prácticas de lectura. En la 
+primera parte, por ejemplo, dos lúcidos trabajos de Roger Chartier y de Margit Frenk sirven 
+de apertura para monográficos sobre la lectura de formación, la lectura literaria, la lectura 
+científica, la lectura espiritual y la lectura gráfica. En la segunda, la apertura está a cargo de 
+un estudio heurístico de François López, al que se integran capítulos sobre oficios, 
+profesiones y estados de los lectores, sobre el público de la prensa, sobre “los clásicos del 
+pueblo”, sobre las nuevas propuestas para un público femenino, sobre la lectura y la juventud, 
+todos ellos focalizados en el marco de “la cultura de la Ilustración”. En la tercera parte, el 
+apartado sobre la lectura se abre con un par de trabajos de Antonio Viñao, y es seguido por 
+dos capítulos integradores: “Los usos de la lectura” (lecturas instructivas y útiles, lectura de 
+poesía, lectura de prosa y novela, el teatro y la música) y “Antiguos y nuevos lectores” (el 
+público del libro y la prensa, niños, mujeres, trabajadores). El conjunto pone de manifiesto un 
+notable esfuerzo de articulación teórica, heurística y metodológica que confluye en un 
+resultado coherente, el que, con el tiempo, se ha transformado en el más sistemático aporte a 
+los estudios del libro, la edición y la lectura en España. 
+Si bien hemos reseñado con algún detalle las dos obras de mayor aliento, consolidadas 
+en estos años como referencias bibliográficas insoslayables; es menester agregar que la 
+publicación de esas Historias… se dio en un contexto de creciente interés por la actividad 
+                                                 
+16 Digo “análoga a la esbozada por Chartier” porque va del libro a la edición y de ahí a la lectura; no obstante, 
+seguramente Chartier no enfatizaría sobre “el acto intelectivo de leer”, sino sobre las prácticas de lectura. 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+53
+editorial en España, probablemente impulsado por la bonanza que vivía la industria. A manera 
+de ejemplo, se pueden citar algunos libros que, sin ser historias en sentido estricto y sin 
+ocuparse centralmente de la lectura, fueron encontrando un espacio de visibilidad y 
+consolidando progresivamente los estudios sobre el libro y la edición, como Tiempo de 
+editores. Historia de la edición en España, 1939-1975 (Destino, 2002), de Xavier Moret; 
+Pasando página. Autores y editores en la España democrática (Destino, 2003), de Sergio 
+Vila-Sanjuán; Conversaciones con editores en primera persona (Fundación Sánchez 
+Ruipérez, 2006); Un viaje de ida y vuelta. La edición española e iberoamericana 
+(FCE/Siruela, 2007), edición a cargo de Antonio Lago Carballo y Nicanor Gómez Villegas. 
+Además, se asistió por aquellos años a una notable proliferación de libros de editores, 
+testimoniales, memorialísticos, polémicos o meramente anecdóticos, como Lo peor no son los 
+autores (1999) y Banco de pruebas (2000), de Mario Muchnik; las Memorias (publicadas 
+completas en 2001), de Carlos Barral; Opiniones mohicanas (2001) y El observatorio 
+editorial (2004), de Jorge Herralde; La guerra de los planetas. Memorias de un editor (2005), 
+de Rafael Borràs Betriu; Confesiones de una editora poco mentirosa (2005), de Esther 
+Tusquets, entre muchos otros. Vistos en conjunto, doce años después, difícilmente alguien 
+podría seguir sosteniendo aquella afirmación de Martínez Martín, de 2001, de que España 
+“está dando sus primeros pasos” en los estudios sobre el libro, la edición y la lectura. 
+ 
+4. Avances en Argentina 
+ 
+ 
+En oportunidad de publicar nuestro Editores y políticas editoriales en Argentina 
+(1880-2000) (Fondo de Cultura Económica, 2006) afirmamos que en aquel intento 
+buscábamos sistematizar un conjunto de trabajos aislados, muchos de ellos excelentes, sobre 
+el libro, la edición y la lectura en nuestro país (2006: XII-XIII). No voy a cometer la 
+imprudencia de reseñar nuestro aporte, ni mucho menos adjetivarlo; sólo un par de 
+comentarios: 1) aunque se trata de siete capítulos monográficos ordenados cronológicamente, 
+deliberadamente no lo llamamos “historia”; preferimos la idea de sucesivos cortes 
+sincrónicos, estados del campo, diríamos, que pusieran de manifiesto las políticas de edición y 
+privilegiar dichos “estados” por encima de las líneas diacrónicas; 2) el libro no es ni pretendió 
+ser una historia de la lectura (aunque se encuentren menciones marginales o datos 
+documentales que hacen referencia a tendencias de lectura); se pensó y se escribió tomando 
+como referencia, según dijimos, aportes nacionales y las historias de la edición que se habían 
+publicado en otros países. Con respecto a la historia de la lectura, hubo que esperar algunos 
+años más, hacia 2012, en que fueron apareciendo trabajos verdaderamente significativos. 
+ 
+En 2006 comenzó a editarse Páginas de Guarda. Revista de lenguaje, edición y 
+cultura escrita, dirigida por María Marta García Negroni y motorizada por Ana Mosqueda y 
+Andrea Estrada, docentes de la cátedra Corrección de Estilo (Carrera de Edición, Universidad 
+de Buenos Aires). La revista combina temáticas heterogéneas: lenguaje y estilo, cuestiones 
+técnicas e históricas de la edición, cultura escrita y novedades del mundo digital, con un buen 
+nivel en las colaboraciones, con una interesante política de importación de artículos y con un 
+impecable cuidado formal y de diseño. Lamentablemente, sólo se publicaron 12 números, 
+hasta la primavera de 2011.17 En 2012, Mosqueda y Estrada acometen otra empresa de 
+enorme valor: fundan Editoras del Calderón; sus dos primeros títulos pertenecen a la 
+colección Scripta manent, dirigida por Antonio Castillo Gómez, profesor de la Universidad de 
+Alcalá: la Historia de la lectura y de la escritura en el mundo occidental, de Martyn Lyons, 
+                                                 
+17 Los contenidos de la revista pueden consultarse en línea: www.paginasdeguarda.com.ar 
+ 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+54
+que ya hemos reseñado, y la Historia de la lectura en la Argentina. Del catecismo colonial a 
+las netbooks estatales, volumen dirigido por Héctor Rubén Cucuzza y codirigido por Roberta 
+Paula Spregelburd. Este proyecto surge de la voluntad de reeditar un libro que, diez años 
+antes, había dirigido el propio Cucuzza junto a Pablo Pineau para la editorial Miño y Dávila: 
+Para una historia de la enseñanza de la lectura y la escritura en Argentina. Del catecismo 
+colonial a La razón de mi vida. Según lo que explica el propio director del volumen, los ocho 
+capítulos que siguen a la “Introducción” formaban parte de aquella edición de 2002; los ocho 
+capítulos siguientes son nuevos. Los primeros ocho, entonces, ratifican, desde los títulos 
+mismos, su relación estrecha con la “escuela”, lo “escolar” y sus variantes. Los nuevos se 
+abren a otras perspectivas: historias indígenas, procesos de alfabetización, políticas 
+editoriales, sociedad de la información y nuevos soportes. Quizá haya sido ésta la razón que 
+justifica el cambio en el título: de “historia de la enseñanza de la lectura” a “historia de la 
+lectura”, fundamentado ese cambio en la ampliación del objeto fuera de las fronteras del 
+sistema educativo. Sin embargo, continúa siendo fuerte la relación de los objetos de estudio 
+transitados en el libro con un paradigma interpretativo proveniente de las disciplinas 
+pedagógicas y educativas. Afirma Cucuzza en la “Introducción”:  
+ 
+La nueva presentación nos permite reafirmar que, aunque el encuadre teórico 
+metodológico tiene resonancias que remiten a la historia social en general y, en 
+especial, a los aportes de la reciente historia cultural en la historia del libro y la 
+lectura, se encuentra decididamente instalado en una historia social de la 
+educación que revisa su objeto de estudio (2012: 10).  
+ 
+Esta perspectiva se advierte no sólo en los contenidos manifiestos, sino también en las 
+trayectorias académicas de los colaboradores: Carolina Tosi proviene de las Letras y la 
+Lingüística; Cintia Mannocchi, de la Historia y las Ciencias Sociales; los once colaboradores 
+restantes acreditan formación de grado o de posgrado en Educación (de hecho, cinco de ellos 
+participan del programa HISTELEA, que dirige Cucuzza en la Universidad Nacional de 
+Luján). Ahora bien, parece innecesario aclarar que lo dicho no implica demérito alguno hacia 
+la obra reseñada; muchos de sus capítulos son de indudable interés para una historia de la 
+lectura en Argentina. Lo que queremos decir es que la mayoría de los trabajos anclan en una 
+tradición disciplinaria que no resulta dominante en las historias de la lectura hasta aquí 
+comentadas y reafirman, en la solidez de sus argumentaciones, el carácter interdisciplinario 
+constitutivo y característico de las historias de la lectura.  
+ 
+Otro de los notables aportes del año 2012 también proviene de una disciplina que suele 
+tener un peso institucional menor y a menudo, lamentablemente, marginal. Me refiero al libro 
+de Alejandro Parada El dédalo y su ovillo. Ensayos sobre la palpitante cultura impresa en la 
+Argentina, publicado por el Instituto de Investigaciones Bibliotecológicas de la UBA. Se trata 
+de una recopilación de textos de diversa procedencia escritos por uno de los máximos 
+referentes en la historia del libro y las bibliotecas  —y del campo disciplinario de la 
+bibliotecología y las ciencias de la información— en nuestro país. En el prólogo al libro, 
+Susana Romanos advierte con lucidez que el libro que está presentando tiene un carácter que 
+podríamos llamar militante; y la prologuista se suma decididamente a esa pelea:  
+ 
+… no debería llamarnos la atención, en un libro que dedica sus ensayos a la 
+Historia de la Lectura, del Libro y de las Bibliotecas, que su autor interpele a los 
+bibliotecólogos sobre la necesidad de historiar y de esbozar planes para paliar 
+tanta ignorancia respecto de esos temas en Argentina;  
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+55
+ 
+y se lamenta que “esos temas” hayan estado ausentes  
+ 
+en el área de la Bibliotecología en los años postreros del siglo pasado, cuando la 
+faceta técnica, pragmática e ingenua, de la mano de la implantación acrítica de 
+ciertos procesos de informatización en las bibliotecas, barrió con la reflexión 
+teórica, con la investigación histórica y con la profundización de los aspectos más 
+humanos involucrados en la relación de las personas con el mundo de la 
+información, de la cultura, de la construcción subjetiva del conocimiento y del 
+placer de apropiarse de los universos creativos de “los inventores de fábulas” 
+(2012: 11).  
+ 
+Buena parte de los ensayos reunidos en el libro tiene ese objetivo explícito de 
+restauración: devolverle a la bibliotecología una dimensión teórica e histórica que ha perdido, 
+al menos en nuestro país, pero, digamos, en otro punto de la espiral, aggiornada gracias al 
+impulso de la nueva historia cultural en sus múltiples variantes y en sus numerosas 
+posibilidades. Así lo plantea Parada: si todos los saberes “han sido atravesados por los 
+estudios culturales, sin sufrir por ello menoscabo alguno; por el contrario, se han visto 
+beneficiados con un renovador enriquecimiento. La pregunta es obvia: ¿por qué la 
+Bibliotecología moderna no puede usufructuar de estos beneficios? (Ibid.: 25). El libro está 
+ordenado en cuatro partes; la primera está integrada por los artículos más teóricos: allí el autor 
+rescata la posición de Chartier en el sentido de derivar desde la historia del libro y las 
+bibliotecas hacia una historia de la lectura, la que, desde el punto de vista teórico y 
+metodológico, resultaría más inclusiva;18 la segunda y la tercera son las más identificables con 
+la historia de las bibliotecas, en este caso, las bibliotecas públicas en Argentina. A los fines de 
+nuestro tema, el libro alcanza su mayor interés en los dos trabajos que forman la cuarta parte. 
+Por un lado, el lúcido análisis de un Diario, escrito por un joven Bartolomé Mitre en 
+Montevideo entre septiembre de 1843 y febrero de 1846. Se trata de un texto que Mitre nunca 
+pensó en publicar y que consiste en un registro comentado de sus lecturas. La interpretación 
+de ese singular documento representa para Parada un desafío teórico, en la medida en que es 
+menester leerlo desde la actualización disciplinaria del presente: “Al revisar el Diario 
+podemos responder varias de las preguntas que sobre los hábitos lectores se hacen hoy día los 
+principales historiadores de la lectura” (Ibid.: 239). Por otro, en “Cuando ellas dicen 
+presente”, se exhibe una recopilación de imágenes de mujeres en situación de lectura o 
+escritura, tomadas de la revista Fray Mocho (1912-1918); las imágenes le permiten a Parada 
+trazar una serie de “tipologías lectoras” o figuras de lectura (lectura ociosa, lectura sensual, 
+lectura asistencial, etc.); esto es, reconstruir un universo de sentido para la lectura femenina 
+en las primeras décadas del siglo XX. Así, esta cuarta parte del libro se manifiesta como la 
+más claramente integrada a las perspectivas propias de la historia de la lectura. 
+ 
+Durante los días 31 de octubre, 1 y 2 de noviembre de 2012, se realizó en La Plata el 
+Primer Coloquio Argentino de Estudios sobre el Libro y la Edición, un evento particularmente 
+significativo para nuestro tema, del que me tocó ser anfitrión.19 Si bien el Coloquio no estaba 
+orientado hacia la historia de la lectura, dos mesas se ocuparon, aunque lateralmente, del 
+                                                 
+18 Me refiero a “Una relectura del encuentro entre la Historia del Libro y la Historia de la Lectura”, un artículo 
+que había sido publicado con anterioridad en el último número de Páginas de Guarda, en 2011. 
+19 El Coloquio tuvo una dirección colectiva: José Luis de Diego (UNLP), Leandro de Sagastizábal (UBA), 
+Alejandro Dujovne (IDES), Margarita Pierini (UNQuilmes), Gustavo Sorá (Programa CeMiCi-UNCórdoba), 
+Horacio Tarcus (CeDInCI) y Ana Wortman (IIGG-UBA). 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+56
+problema.20 En una de ellas (“Teoría e historia”), Alejandro Parada dio cuenta de los 
+principales aportes teóricos y líneas de investigación en el campo de la historia de la lectura; 
+Juan Pablo Laporte indagó acerca de las relaciones entre la materialidad del impreso y las 
+formas de leer, por un lado, y la política, liberada de la secular relación con la función 
+representativa; Beatriz Valinoti revisó una serie de tradiciones teóricas e historiográficas y las 
+polémicas en torno al objeto de estudio para centrarse en la llamada historia de la cultura 
+escrita, como un modo de empezar a dar forma a una historia de la lectura en tanto prácticas y 
+representaciones que se manifiestan a través de la cultura escrita. En la segunda de las mesas 
+(“Lectura, libros y consumo: una perspectiva sociológica”), Ana Wortman trabajó sobre el 
+lector, la lectura y los libros, a partir de encuestas sobre hábitos de lectura y sobre consumo 
+cultural, y focalizó en la resignificación, en el presente, de los hábitos propios del consumo 
+cultural de las clases medias, como el cine y los libros; Alejandra Ravetino se ocupó de la 
+relación que los jóvenes adultos tienen con los libros durante el tiempo libre, según los 
+hábitos de lectura y el gusto literario, en particular con la lectura no funcional, aquella que no 
+persigue un fin utilitario o instrumental. Seguramente la continuidad de eventos como el que 
+estamos comentando fortalecerá la presencia institucional en el país de las temáticas 
+relacionadas con el libro, la edición y la lectura. 
+ 
+5. Notas sobre otras lecturas 
+ 
+ 
+Por razones de espacio, debo cerrar aquí el panorama disciplinario. Sin embargo, no 
+quiero dejar de mencionar algunos aportes muy significativos, aunque sea a manera de notas 
+al paso:  
+1) Al comienzo de este trabajo hablábamos de la complejidad y la diversidad de las 
+fuentes con que suelen trabajar los historiadores de la lectura; entre ellas, la literatura misma, 
+es decir, la lectura y los lectores en la literatura. En esta dirección, hay que mencionar el 
+estupendo libro de Nora Catelli, Testimonios tangibles. Pasión y extinción de la lectura en la 
+narrativa moderna (Barcelona, Alfaguara, 2001; XXIX Premio Anagrama de Ensayo); La 
+dorada garra de la lectura. Lectoras y lectores de novela en América Latina, de Susana 
+Zanetti (Rosario, Beatriz Viterbo, 2002)21 y, en un registro menos académico, El último 
+lector, de Ricardo Piglia (Barcelona, Anagrama, 2005).  
+2) La perspectiva de historia de la lectura y de los lectores que han adoptado algunos 
+trabajos sobre el siglo XIX argentino, en la línea abierta por Adolfo Prieto; sólo un par de 
+notables ejemplos: La mujer romántica. Lectoras, autoras y escritores en la Argentina: 1830-
+1870, de Graciela Batticuore (Buenos Aires, Edhasa, 2005)22 y La emergencia de la novela en 
+Argentina. La prensa, los lectores y la ciudad (1880-1890), de Fabio Esposito (La Plata, Al 
+Margen, 2009).  
+3) Aunque no he incluido en este panorama al ámbito latinoamericano, no puedo dejar 
+de mencionar el dossier que Susana Zanetti dirigió para el N° 18 de la revista Orbis Tertius, 
+titulado “El libro, la lectura y los lectores en América Latina. Algunos aportes”, que incluye 
+                                                 
+20 Las Actas del Coloquio en: http://coloquiolibroyedicion.fahce.unlp.edu.ar/actas 
+21 Afirma Zanetti: “Si bien el análisis de testamentos, listas de suscriptores y los catálogos o los avisos de las 
+librerías, el inventario de bibliotecas, sumados a los datos sobre alfabetización y escolarización tanto como a los 
+provenientes de la industria del impreso, organizan un panorama de la historia de la lectura, las 
+ficcionalizaciones de esta última son también una posibilidad de acceso y están en la base de mi trabajo” (2002: 
+11). 
+22 Batticuore escribió, además, el capítulo respectivo del tomo 3, dirigido por Alejandra Laera, de la Historia 
+crítica de la literatura argentina, dirigida por Noé Jitrik (Buenos Aires, Emecé, 2010). El capítulo de Batticuore 
+se titula “Libros, bibliotecas y lectores en las encrucijadas del progreso”. 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+57
+trabajos de Carmen Elisa Acosta Peñaloza (Universidad Nacional de Colombia), Márcia 
+Abreu (Universidade Estadual de Campinas), Mirla Alcibíades (Centro de Estudios 
+Latinoamericanos Rómulo Gallegos), Pablo Rocca (Universidad de la República) y Grínor 
+Rojo (Universidad de Chile).23  
+4) Sobre la actualidad de los debates políticos e institucionales sobre la lectura, resulta 
+de mucho interés el libro de Anne-Marie Chartier y Jean Hérbrard La lectura de un siglo a 
+otro. Discursos sobre la lectura (1980-2000) (Barcelona, Gedisa, 2002);24 y, en el campo de 
+la teoría de la lectura, hay que mencionar el libro, original y provocativo, de Karin Littau 
+Teorías de la lectura. Libros, cuerpos y bibliomanía (Buenos Aires, Manantial, 2008). 
+ 
+6. Una conclusión provisoria 
+ 
+Como es sabido, el llamado boom de la narrativa latinoamericana representó un 
+excepcional e inédito momento de internacionalización de la literatura de nuestro continente, 
+y como todo hecho excepcional, pronto estuvo sujeto a no pocas controversias. Por un lado, 
+hubo quienes sostuvieron que el boom fue una concurrencia de notables escritores que 
+encontraron un público fiel; ese hecho arrastró el interés de editores y, en consecuencia, logró 
+sorprendentes niveles de venta. Por otro, quienes no pusieron en duda la calidad de los 
+escritores, pero sospecharon tempranamente que el boom había sido el resultado de una astuta 
+maniobra editorial con sede, principalmente, en Barcelona. En este sentido, es conocida la 
+frase de Julio Cortázar:  
+ 
+…todos los que por resentimiento literario (que son muchos) o por una visión con 
+anteojeras de la política de izquierda, califican al boom de maniobra editorial, 
+olvidan que el boom (ya me estoy empezando a cansar de repetirlo) no lo hicieron 
+los editores, sino los lectores (en Rama 1984: 61).  
+ 
+Estoy planteando un “caso” muy conocido con la intención de reflexionar sobre 
+algunas cuestiones de método. Parece evidente que las políticas editoriales no determinan las 
+decisiones de los lectores; ni tampoco, inversamente, son los lectores los que determinan las 
+decisiones que toman los editores. Sabemos que hay editores que publican libros para un 
+público que existe, sin pretender correr ningún riesgo; y hay otros que sí arriesgan capital 
+económico (y a menudo simbólico) en busca de un lector que aún no existe. Si esto es así, es 
+probable que la controversia respecto del boom no tenga una solución unidireccional, y que 
+ambos, la astucia de los editores y la emergencia de un nuevo público interesado en esa 
+literatura, hayan coexistido. En consecuencia, ¿quién dará una respuesta más adecuada a ese 
+fenómeno: una historia de la edición o una historia de la lectura? Seguramente, ambas 
+recortarán objetos diversos y adoptarán perspectivas diferentes, y no hay, en este sentido, 
+razones teóricas que den prioridad a una sobre la otra. En suma: que la derivación desde una 
+historia de la edición hacia una historia de la lectura  —en Chartier, en Darnton y en otros— 
+pudo estar motivada, según vimos, por razones de contexto, interés u oportunidad, pero no es 
+posible afirmar que existan, entre una y otra, relaciones de inclusión o de implicancia. Así, la 
+                                                 
+23 El dossier completo en: www.orbistertius.unlp.edu.ar/numeros/numero-18/dossier/dossier-completo 
+He podido consultar un temprano aporte publicado por El Colegio de México en 1997 (y citado por Zanetti): V. 
+A. (1997). Historia de la lectura en México. Seminario de Historia de la Educación en México. Sobre este libro 
+podemos decir algo similar a lo afirmado respecto del de Cucuzza/Spregelburd. 
+24 El libro fue publicado en francés en 2000 y es una continuación de Discursos sobre la lectura (1880-1980) 
+(Barcelona, Gedisa, 1994). 
+Orbis Tertius, 2013, XVII (19) ISSN 1851-7811 
+ 
+ 
+ 
+58
+controversia teórica no se resolverá  —no podrá resolverse— en ese campo, sino en el estudio 
+específico de casos. Tal vez el “estado de la cuestión” aquí planteado colabore en los debates 
+futuros sobre estos problemas. 
+ 
+ 
+BIBLIOGRAFÍA 
+ 
+CAVALLO, Guglielmo y Roger Chartier (dir.) (2011). Historia de la lectura en el mundo 
+occidental, Madrid, Taurus. 
+ 
+CHARTIER, Roger (1994). Libros, lecturas y lectores en la Edad Moderna, Madrid, Alianza.  
+ 
+CUCUZZA, Héctor R. (dir.) y Roberta P. Spregelburd (codir.) (2012). Historia de la lectura en 
+la Argentina. Del catecismo colonial a las netbooks estatales, Buenos Aires, Editoras del 
+Calderón. 
+ 
+DARNTON, Robert (2003). “Historia de la lectura”. Burke, Peter (ed.), Formas de hacer 
+Historia, Madrid, Alianza, pp. 189-220.  
+ 
+DARNTON, Robert (2010). “¿Cuál es la historia de los libros?”. Las razones del libro. Futuro, 
+presente, pasado, Madrid, Trama editorial, pp. 177-204.  
+ 
+DE DIEGO, José Luis (dir.) (2006). Editores y políticas editoriales en Argentina (1880-2000), 
+Buenos Aires, Fondo de Cultura Económica. 
+ 
+INFANTES, Víctor; François López y Jean-François Botrel (dir.) (2003). Historia de la edición 
+y de la lectura en España (1472-1914), Madrid, Fundación Sánchez Ruipérez. 
+ 
+LYONS, Martyn (2012). Historia de la lectura y de la escritura en el mundo occidental, 
+Buenos Aires, Editoras del Calderón. 
+ 
+MANGUEL, Alberto (2011). Una historia de la lectura, Oaxaca, Almadía. 
+ 
+MARTÍNEZ Martín, Jesús A. (dir.) (2001). Historia de la edición en España (1836-1936), 
+Madrid, Marcial Pons. 
+ 
+PARADA, Alejandro E. (2012). El dédalo y su ovillo. Ensayos sobre la palpitante cultura 
+impresa en la Argentina, Buenos Aires, Instituto de Investigaciones Bibliotecológicas, UBA. 
+ 
+RAMA, Ángel (1984). “El ‘boom’ en perspectiva”. Rama Ángel (ed.), Más allá del boom: 
+literatura y mercado, Buenos Aires, Folios, pp. 51-110. 
+ 

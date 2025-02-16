@@ -1,0 +1,943 @@
+85
+Esta obra está bajo una Licencia Creative Commons 4.0 Internacional 
+(Atribución - No Comercial - Compartir Igual) a menos que se indique lo contrario.
+Miklos, Alicia Z. “Polarización pública en los foros online: La violencia de género 
+ante la sociedad nicaragüense”. Anclajes, vol. XXIV, n.° 3, septiembre-diciembre 
+2020, pp. 85-105.
+https://doi.org/10.19137/anclajes-2020-2436
+Polarización pública 
+en los foros online: La 
+violencia de género 
+ante la sociedad 
+nicaragüense
+Alicia Z. Miklos
+T
+exas T
+ech University
+Estados Unidos
+alicia.miklos@ttu.edu
+ORCID: 0000-0002-2952-8453 
+Fecha de recepción: 05/11/2019 / Fecha de aceptación: 10/01/2020
+Resumen: Este artículo examina la sección de comentarios online de informes sobre la 
+violencia de género de los periódicos nicaragüenses que se centran en la Ley 779: La Ley 
+Integral contra la Violencia hacia las Mujeres (2012). El estudio traza la opinión pública 
+con respecto a las relaciones de género, el crimen y la ley. Los comentarios revelan que 
+muchos comentaristas no perciben la violencia de género como un problema del Estado, 
+sino algo que debe manejarse dentro de la familia. Las políticas estatales respaldaron 
+esta creencia, promoviendo la restauración de la paz y la armonía familiares por medio 
+del diálogo. El artículo subraya otra queja principal contra la ley en los comentarios: que 
+inaugura una guerra contra los hombres. Concluyo que esta perspectiva constituye una 
+negativa de ceder el poder y el privilegio. Estas batallas demuestran unas ansiedades 
+incesantes con respecto a los efectos ruinosos de la Ley 779 sobre la familia. Al final, 
+los alegatos sobre la naturaleza divisoria de la ley señalan un deseo por un regreso a 
+las narrativas familiares tradicionales. La Ley 779 encarna décadas de las demandas de 
+las mujeres por el respeto, la autonomía y la libertad de la violencia. La opinión pública 
+refleja la incertidumbre e inestabilidad con respecto a las expectativas cambiantes para 
+el comportamiento de género.
+Palabras clave: violencia de género; Nicaragua; femicidio; internet; opinión pública.
+Public Polarization in Online Forums: 
+Gender Violence in Nicaraguan Society
+Abstract: 
+This article examines the online comments section of Nicaraguan newspaper 
+reports on gender violence, focusing specifically on articles about Law 779: The Integral 
+Law Against Violence T
+owards Women (2012). The study traces contemporary public 
+86
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+opinion regarding gender relations, crime, and the law. The comments sections reveal 
+that many commentators do not view gender violence as a State problem, but rather 
+they assert that it should be handled in the family unit. This belief is bolstered by State 
+policies that advocate for restoring family peace and harmony through dialogue. The 
+article highlights another main complaint against Law 779 in the comments: that it inau-
+gurates a war against men. I conclude that this perspective constitutes a refusal to cede 
+power and privilege. These representational battles reveal ceaseless anxiety over Law 
+779’s ruinous effects on the family. In the end, allegations about the divisiveness of the 
+law point to a desire for the return of traditional family narratives. Law 779 embodies 
+several decades of women’s demands for respect, autonomy, and freedom from violence. 
+After a rapid pendulum swing in society about Law 779, public opinion reflects extreme 
+uncertainty and instability regarding changing expectations, both legal and social, for 
+gendered behavior.
+Keywords: gender violence; Nicaragua; femicide; online; public opinion.
+Polarização pública nos foruns online: 
+A violência de gênero ante a sociedad nicaraguense
+Resumo: Este artigo analisa a seção de comentários online de notícias sobre violência 
+de gênero dos jornais nicaraguenses que se concentram na Lei 779: Lei Integral contra 
+a Violência Feita às Mulheres (2012). O estudo traça a opinião pública a respeito das 
+relações de gênero, o crime e a lei. Os comentários revelam que muitos comentaristas 
+não percebem a violência de gênero como um problema do Estado, mas sim como algo 
+que deve ser tratado dentro da família. As políticas estatais respaldaram esta crença, 
+promovendo a restauração da paz e da harmonia familiares através do diálogo. O artigo 
+enfatiza outra queixa principal contra a lei nos comentários: que inaugura uma guerra 
+contra os homens. Concluo que esta perspectiva constitui uma negativa de ceder o 
+poder e o privilégio. Estas batalhas demonstram uma ansiedade incessante a respeito 
+dos efeitos ruinosos da Lei 779 sobre a família. Ao final, as alegações sobre a natureza 
+divisória da lei sinalizam um desejo por um retorno às narrativas familiares tradicionais. 
+A Lei 779 incorpora décadas de demandas das mulheres por respeito, autonomia e por 
+se libertarem da violência. A opinião pública reflete a incerteza e instabilidade a respeito 
+das expectativas variáveis para o comportamento de gênero.  
+Palabras-chave: violência de gênero; Nicarágua; feminicídio; internet; opinião pública
+L
+a actualidad en Nicaragua está marcada por intensos debates so-
+bre la definición y estructura de la familia nuclear. Convertida 
+en un forcejeo legal y una feroz controversia sociopolítica, la Ley 
+Integral contra la Violencia hacia la Mujer, la Ley 779, ha pasado por impor-
+tantes reformas y reglamentos desde su entrada a escena en 2012. La Ley 779 
+materializa muchas décadas de exigencias de las mujeres por respeto, autonomía 
+y una vida libre de la violencia. Luego de un veloz ir y venir en la sociedad acerca 
+de la ley, la opinión pública, tal como se refleja en los comentarios online de los 
+lectores, demuestra una extrema incertidumbre e inestabilidad con respecto a un 
+cambio de expectativas, tanto legales como sociales, para las relaciones de géne-
+ro. La familia como construcción simbólica y unidad práctica de organización 
+social está en juego en estos debates de la Nicaragua contemporánea. Entre una 
+87
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+incesante conmoción y ansiedad sobre los posibles efectos catastróficos de la Ley 
+779 sobre la familia, temores reales y sentimientos antifeministas salen a la su-
+perficie en relación con la liberación de las mujeres. Al final, los temores sobre el 
+efecto divisorio de la Ley 779 apuntan a un anhelo por el retorno a las narrativas 
+tradicionales familiares, fundamentadas en los principios patriarcales y bíblicos. 
+La Ley Integral contra la Violencia hacia la Mujer (de aquí en adelante, la 
+Ley 779), se aprobó en febrero de 2012 y entró en vigor en junio de 2012. La 
+ley modificó el Código Penal, tipificando al femicidio, así como las violaciones a 
+la integridad física, sexual, psicológica y patrimonial de la mujer, como delitos 
+penales, señalando las sanciones correspondientes1. La definición del femicidio 
+en esta ley toma en cuenta las condiciones estructurales de subordinación de las 
+mujeres que pueden terminar en la muerte, al definirlo así: “el asesinato de una 
+mujer dentro del contexto de relaciones asimétricas de poder entre hombres y 
+mujeres, en la esfera pública o privada” (La Gaceta 1366). Además, la ley añadió 
+la violencia representacional en los medios, la violencia laboral y la violencia 
+patrimonial como crímenes sancionables. La Ley 779 también creó Juzgados de 
+Distrito Especializados en Violencia y la Comisión Nacional Interinstitucional 
+de Lucha contra la Violencia hacia la Mujer para iniciar una cooperación a nivel 
+de la sociedad contra este problema.
+De forma más progresiva, en su Artículo 46, la Ley 779 prohibió la “media-
+ción”: una práctica institucional arraigada en que los policías o agentes judiciales 
+facilitan un diálogo entre el agresor y la denunciante para eludir las sanciones 
+legales. La prohibición en la Ley 779 intenta detener esta práctica, ya que los 
+funcionarios judiciales solían privilegiar la preservación de la unidad familiar 
+por encima de la seguridad física e integridad de las víctimas individuales de 
+violencia (Lourdes Bolaños et al. 13). Estos elementos afirman que la Ley 779 
+constituía un proyecto legislativo innovador que atacaba las relaciones asimé-
+tricas de poder entre hombres y mujeres a través de prohibiciones específicas y 
+colaboración institucional creativa.
+En 2013, sin embargo, la Asamblea Nacional derogó el Artículo 46, una 
+jugada que reinició la práctica de mediación en los locales policiales y judiciales. 
+Poco después, en julio de 2014, Daniel Ortega emitió el Decreto Presidencial 
+42, un Reglamento que revertía unilateralmente el espíritu de la Ley 779, limi-
+tando la definición de femicidio a las relaciones interpersonales y reestableciendo 
+la mediación. Según el Reglamento, el objetivo de la Ley 779 ahora sería: “ga-
+1	
+En la Ley 779 y en los comunicados feministas en Nicaragua se aplica el término femicidio, en 
+vez de feminicidio, el concepto propuesto por Cynthia Bejarano, Rosa Linda Fregoso y Marcela 
+Lagarde y de los Ríos. Según estas teóricas, el feminicidio abarca el asesinato de las mujeres y 
+niñas en el contexto de la violencia estructural y la impunidad histórica de los países latinoame-
+ricanos, así achacándole la responsabilidad debida a los Estados por su negligencia o complici-
+dad para con los crímenes contra las mujeres y niñas. Sin embargo, la definición de femicidio 
+propuesta por las feministas nicaragüenses, en la práctica es igual a la de Bejarano, Fregoso y 
+Lagarde de los Ríos (Terrorizing Women 5), en que cuestiona la complicidad del Estado nicara-
+güense con las masculinidades violentas. 
+88
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+rantizar el fortalecimiento de las familias nicaragüenses mediante acciones de 
+prevención que promuevan el derecho a la vida, dignidad, igualdad y no discri-
+minación en las relaciones entre mujeres y hombres, en la familia y la sociedad” 
+(La Gaceta 6263).
+Mientras que el texto original de la ley prohibía la mediación, el Reglamento 
+de la Ley 779 de Ortega manda que las mujeres que quieren denunciar violencia 
+de género estén obligadas a pasar por un proceso de mediación con los Consejos 
+de Familia. Esto significa que antes de que una mujer pueda denunciar su caso 
+ante las Comisarías de la Mujer y la Niñez, ella debe consultar con los Consejos 
+de Familia, organizaciones comunitarias a cargo del Ministerio de la Familia, la 
+Adolescencia y la Infancia, compuesto por voluntarios, facilitadores judiciales, 
+pastores familiares y líderes religiosos (Reglamento 6265). El Reglamento esta-
+blece la supervivencia de la unidad familiar como el “bien social más apreciado, 
+cuidado y valorado, por encima de todo lo demás,” más aún que las mujeres 
+como personas individuales (Barragán, “Etnografía” 12) y, efectivamente, anula 
+el reconocimiento del derecho sustantivo de la mujer a vivir una vida sin violen-
+cia que representaba la Ley 779 en su versión original.
+En el presente estudio, examino las secciones de comentarios online de diver-
+sos periódicos nicaragüenses –La Prensa, El Nuevo Diario, El Confidencial y uno 
+de El Cronista Digital– para esbozar una imagen general de los debates públicos 
+online con respecto a la Ley 779.2 Los comentarios corresponden a artículos 
+de opinión, informes de noticias sobre las reformas a la Ley 779 y artículos de 
+investigación sobre víctimas de feminicidio. Los artículos datan de septiembre 
+de 2013, cuando la Asamblea Nacional aprobó la reforma de la Ley 779, hasta 
+los meses antes y después del Reglamento a la Ley 779 en agosto de 2014. Elegí 
+este período de tiempo porque la reforma y el Reglamento produjeron un punto 
+álgido en la opinión pública, con muchos artículos publicados durante estos me-
+ses. Al llevar a cabo este estudio, destaco los supuestos, así como los personajes, 
+líneas de la trama y motivos que le dan vida a esta batalla ideológica. Desde los 
+distintos posicionamientos políticos, los comentaristas tejen historias inteligibles 
+extraídas de la incertidumbre y, a la vez, forjadas por la polarización de género 
+extrema. Los artículos reflejan el frenesí de la polémica pública que se suscitó 
+con la aprobación y las reformas de la Ley 779.
+2	
+Cabría señalar que La Prensa generalmente ha manifestado una línea editorial opositora al San-
+dinismo – en ambas de sus manifestaciones históricas en los 1980 y en los 2000-2010s. El 
+Confidencial, establecido en 1996, también se ha opuesto generalmente a las políticas de Ortega 
+en su línea editorial. El Nuevo Diario se ha alineado con la política del Sandinismo de Ortega, 
+hasta el 2018 cuando empezó a demostrarse más crítico con respecto a la represión de las ma-
+nifestaciones estudiantiles. Ortega arreció su represión de los medios de comunicación en 2019 
+cuando, a través de la Dirección General de Aduanas, bloqueó el suministro de papel, tinta y 
+otros materiales a El Nuevo Diario y La Prensa. El Confidencial y La Prensa siguen publicándo-
+se, mientras que El Nuevo Diario suspendió su publicación en septiembre de 2019, por falta de 
+esos materiales. 
+89
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+Enumerar las corrientes de pensamiento que aparecen en los comentarios 
+online es profundizar en un catálogo de temores convencionales sobre los cam-
+bios en las normas de comportamiento de género – específicamente en torno a 
+la autonomía y liberación de la mujer. Probando la afirmación de que histórica-
+mente los reclamos feministas han generado este tipo de narrativas ansiosas, una 
+gran cantidad de los comentarios online de los usuarios describen a la Ley 779 
+no como un ambicioso impulso legal hacia la igualdad de género, sino más bien 
+como una peligrosa amenaza para la familia nuclear y la sociedad. A pesar de 
+más de 30 años de campañas de los movimientos femeninos nicaragüenses, son 
+generalizados los temores en los comentarios de que al aumentar la autonomía 
+de la mujer se produciría un colapso social total.
+A modo de introducción, hace falta aclarar la definición del género con la 
+que trabajo en este análisis. Para ello, apelo a la teórica Marta Lamas, quien alega 
+que el género es “…el conjunto de creencias, prescripciones y atribuciones que 
+se construyen socialmente tomando a la diferencia sexual como base” (1). Lamas 
+afirma, además, que “cada cultura realiza su propia simbolización de la dife-
+rencia entre los sexos y engendra múltiples versiones de la dicotomía hombre/
+mujer” (2). Cabría señalar que en las sociedades centroamericanas esta simbo-
+lización de la diferencia sexual se ha aferrado a una visión dicotómica y binaria 
+de la expresión de género – masculino y femenino. Sin embargo, en los últimos 
+años el discurso contestatario de los grupos de la diversidad sexual ha entrado 
+en el debate público para cuestionar y derribar este concepto binario de género 
+(Salvatierra). Por lo tanto, el debate público sobre la Ley 779 demuestra que 
+las representaciones simbólicas tradicionales de la masculinidad y la feminidad 
+se han mutado, causando ambigüedad y confusión en la sociedad. En torno al 
+dilema de familias rotas y lazos íntimos conflictivos, se traen a la luz inquietudes 
+sobre la sexualidad de las mujeres, la viabilidad económica masculina, los valores 
+morales y la educación de los niños. En realidad, la ley se ha transformado en un 
+blanco sobre el que se puede desplazar graves preocupaciones sobre estos temas 
+en medio de un paisaje social/moral que cambia velozmente.
+La sección de comentarios online sin duda solo registra un pequeño seg-
+mento de la opinión pública nicaragüense. La habilidad de comentar online 
+se ha visto mitigada por factores como la edad, el acceso a una computadora, 
+el alfabetismo y el tiempo de ocio disponible para leer y comentar sobre estos 
+artículos. Aunque es más probable que los nicaragüenses de clase media a alta 
+dominen las secciones de comentarios, otras tendencias tecnológicas han llevado 
+a una mayor accesibilidad en años recientes: la más amplia difusión del acceso a 
+un smartphone, la divulgación de artículos en Facebook y los enlaces directos de 
+ciertas secciones de comentarios de los periódicos con Facebook, como en el caso 
+de El Confidencial. Tal vez estos cambios tecnológicos permiten que un público 
+más amplio contribuya con sus opiniones. Sería razonable concluir, sin embar-
+go, que los comentaristas en su mayoría podrían ser partidarios del movimiento 
+feminista o personas que se oponen a la Ley 779. Por tanto, y para ofrecer una 
+90
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+contraposición a estas corrientes de opinión, también examino encuestas de opi-
+nión y estudios etnográficos recientes presentados por investigadores que traba-
+jan en asuntos de género y sexualidad en la Nicaragua contemporánea. 
+En estos comentarios, se destaca una ambigüedad marcada sobre las inter-
+venciones estatales o activistas contra la violencia de género. En primer lugar, 
+muchos comentaristas no ven la violencia de género como un problema del Esta-
+do, sino que más bien afirman que debería manejarse dentro de la unidad fami-
+liar. Esta creencia convencional ha sido reforzada recientemente por los discursos 
+y políticas del Presidente Daniel Ortega y la Vicepresidenta Rosario Murillo, 
+pues promueven una visión del mundo centrada en la familia. Esta postura se 
+materializa a través de los “Consejos de Familia”, el ente partidista que salió a la 
+luz mediante el Reglamento a la Ley 779. El propósito de la Consejería Familiar 
+es el de restaurar la paz y la armonía a través del diálogo, un proceso: “a través 
+del cual se escucha, acompaña, orienta o aconseja a una persona, pareja o grupo 
+familiar para que reconozcan los problemas que les puede estar produciendo 
+una alteración en las relaciones interpersonales dentro de la dinámica familiar” 
+(Reglamento 6263).
+En el fondo, este idioma neutralizante racionaliza el abuso y control mascu-
+linos, e implica la negativa de considerar esta violencia como un crimen. Pero 
+el gesto político subyacente apunta a solidificar y legitimar las estructuras fami-
+liares convencionales a nivel comunitario, aquéllas dominadas por una fuente 
+confiable de autoridad masculina. En segundo lugar, muchos comentaristas no 
+creen que el Estado sea capaz de manejar el asunto, aunque atribuyen esa creen-
+cia a la ineptitud del Estado o la posibilidad de manipulaciones partidistas. 
+Al retar la simbolización normativa del género, la Ley 779 inspiró unas con-
+versaciones online donde las figuras familiares de los imaginarios literarios y 
+sociales nicaragüenses se hacen presentes y se debaten. Una distinción espacial 
+con enfoque de género que Rosario Montoya encontró en su trabajo etnográfico 
+(la mujer (mala) de la calle y la mujer (buena) del hogar) valora o desvalora a la 
+mujer en estos comentarios (124). La división entre los espacios públicos y pri-
+vados que, hasta hace poco, demarcó el hogar como un terreno de la inacción del 
+Estado en Nicaragua se amplifica en estos personajes, demostrando que la creen-
+cia todavía existe que el hogar debe estar fuera del control del Estado, junto con 
+las mujeres en él (Sagot “Los Límites” 37). Estudiar la lógica y el razonamiento 
+que emergen en las secciones de comentarios de periódicos online puede ayudar 
+a desentrañar estas tensiones y creencias irresueltas sobre el rol de la mujer en la 
+familia y en la sociedad civil, tensiones que influyeron en la recepción pública 
+de la ley.
+Es significativo que muchos comentaristas intenten atribuir la “guerra de los 
+sexos” a la ley 779 misma. Una fuerte corriente de pensamiento en la sociedad 
+les echa la culpa a los agentes de cambio –a la Ley 779 y los movimientos de 
+mujeres– por la inestabilidad e incertidumbre con respecto a la organización 
+familiar. Esta reacción a la Ley 779 –la de echarle la culpa por los problemas exis-
+91
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+tentes en las relaciones íntimas– se proliferó a través de los discursos de líderes 
+religiosos, conservadores y abogados (Neumann “Gender-based” 78). En vez de 
+abordar la desigualdad subyacente que ha favorecido la impunidad masculina, o 
+reflexionar sobre la persistencia preocupante de la violencia en las relaciones ínti-
+mas, se ataca a la Ley 779 misma por ser divisoria. En esta línea de pensamiento, 
+las aflicciones provocadas por la violencia e impunidad masculinas se hacen una 
+vez más invisibles. 
+Las reformas a la Ley 779 demuestran la tenacidad de las creencias culturales 
+sobre la pesada carga que tienen las mujeres de hacerse responsables del mante-
+nimiento de la familia. Demuestran una complicidad societaria persistente con 
+la impunidad masculina y esbozan justificaciones en términos de sistemas de 
+creencias morales y religiosas convencionales. Algunos comentaristas ven la Ley 
+779 como una violación de normas culturales consagradas, incluyendo las cos-
+tumbres religiosas –consideran que la familia es un don de Dios y que debe ser 
+patriarcal. Estas creencias en Nicaragua y, en gran medida, en el resto del mun-
+do, fomentan y condenan la norma de dominación masculina y la sumisión fe-
+menina en las relaciones interpersonales e institucionales– una ecuación desigual 
+que conlleva al abuso, el control y la violencia. Esta es la tarea de la teorización y 
+el activismo feminista: deshacerse de prácticas, conceptos y creencias que se dan 
+por hecho y que implícita o explícitamente justifican la violencia de género.
+Dado que los comentarios online suelen revelar las opiniones más polariza-
+das con respecto a estos temas, ofrecen una oportunidad única para rastrear los 
+puntos extremos del debate y para estudiar cómo estas opiniones han ganado 
+terreno. Por ende, observando las vacilaciones políticas recientes del Presidente 
+Ortega, la Corte Suprema Nacional y la Asamblea Nacional, el presente capítulo 
+aborda las siguientes preguntas: ¿Qué argumentos contra la Ley 779 se masifi-
+caron de tal forma que permitieran algún nivel de aceptación de la reforma y 
+regulación de la ley? ¿Dónde están los puntos principales de contención y ansie-
+dad sobre la Ley 779?
+Por ende, destaco las formas más comunes de lógica utilizada como argumen-
+tos contra la ley en los comentarios online de los usuarios en las subsecciones que 
+siguen a continuación: 1) El motivo más citado es que la Ley 779 se inmiscuye 
+por donde no pertenece: divide a la familia y perturba la armonía familiar. Estos 
+comentarios tienden a favorecer una visión religiosa y patriarcal de la familia; 
+2) los comentaristas vislumbran las relaciones de género dentro de un marco 
+vertical y jerárquico que concibe el capital social como un recurso limitado y 
+envidiado, al que las masculinidades tienen derechos exclusivos.3 
+Varios comentaristas sí apoyaron la Ley 779 y alegaron que la violencia de 
+género constituye un crimen que pone en peligro la vida y ciudadanía de la 
+mujer. Muchos hablaron en contra del Reglamento a la Ley 779, señalando la 
+3	
+Entiendo el capital social, siguiendo a Pierre Bordieu, como un intercambio relacional, donde 
+la pertenencia a una red de relaciones provee un beneficio mutuo de recursos, reconocimiento y 
+apoyo para la colectividad (248-249).
+92
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+naturaleza reaccionaria de los Consejos de Familia. Advirtieron sobre el peligro 
+que la mediación implica para las víctimas de violencia. En general, un fuerte 
+coro de voces cuestionó las corrientes de pensamiento que abarcarían la violencia 
+dentro del ámbito íntimo y que excluirían la posibilidad de intervención social 
+colectiva en la transformación de las normas de género. Esta gama colorida de 
+sentimientos a favor de los derechos de las mujeres, demuestran lo que Rosa-
+Linda Fregoso llama “el potencial de la ley de cambiar normas” (Fregoso). Aun-
+que el cambio cultural toma tiempo y una sola ley no va a cambiar las relaciones 
+de género de un día para otro, los nuevos conceptos e ideas introducidos por 
+la ley conllevan un peso simbólico y, ciertamente, abren nuevos diálogos. De 
+esta forma, a través de años de campañas feministas, y mediante la Ley 779, las 
+propuestas de los feminismos nicaragüenses se han arraigado en la sociedad, ya 
+que muchas personas reconocen la misoginia y la necesidad de transformación 
+en las relaciones de género.
+T
+emas familiares: Intervención o no intervención del Estado
+Para los movimientos de mujeres y feministas de Nicaragua, un elemento 
+central en la campaña para terminar con la violencia contra las mujeres implica 
+deshacerse de la noción de que la violencia que ocurre en el hogar o entre parejas 
+románticas constituye una violencia privada. Los grupos de mujeres y feminis-
+tas como La Corriente y el Movimiento de Mujeres Autónomas han llevado a 
+cabo extensas campañas para elevar estos crímenes al ámbito público y hacer 
+que el Estado se responsabilice de la impunidad reinante. Este gesto constituye 
+un punto central en la formulación teórica del término “feminicidio” por parte 
+de académicas feministas latinoamericanas, como Rosa-Linda Fregoso, Cynthia 
+Bejarano y Marcela Lagarde y de los Ríos, quienes ponen la responsabilidad en 
+el Estado por su negligencia, complicidad con y, a veces, participación descarada 
+en la violencia contra las mujeres. Estas teóricas afirman que en Latinoamérica, 
+la violencia contra las mujeres como grupo constituye un crimen de Estado, 
+no un asunto privado o íntimo, cuando los estados incumplen con su deber 
+de garantizar la seguridad y las vidas de las mujeres (Terrorizing Women 5). Las 
+demandas hacia el Estado han sido: terminar con los sesgos de procedimientos 
+hacia las masculinidades y terminar con la impunidad, en la práctica, y no ex-
+clusivamente en el discurso.
+A juzgar por los comentarios online, sin embargo, muchos nicaragüenses 
+todavía relegan la violencia de género al terreno privado e individual de la fami-
+lia. En lo que constituye un rechazo y una reversión totales de la codificación 
+feminista de la violencia de género como un asunto público, incluso de Estado, 
+algunos comentaristas online afirman que el error principal de la Ley 779 es su 
+delegación de problemas “de la familia” o “afectivos” a las instituciones estatales. 
+Algunos van más allá y afirman que la interferencia de la ley causa más violen-
+cia. 
+93
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+Álvaro Moreno: “…por bandidencias femeninas han aumentado la cantidad de de-
+tenciones ilegales de muchos hombres que no los dejan resolver sus problemas en el 
+seno de la familia y sin mediar son llevados a la cárcel, por puro capricho femenino, 
+a eso se debe que muchos hombres toman la fatal decisión en contra de la mujer. 
+(“Ortega ordena”)
+Francisco Mirada: “La ley 779 es una aberración legal que ha destruido muchas fa-
+milias. Primer error: traer al campo penal las discusiones de familia, que las feminis-
+tas llaman abuso psicológico es absurdo; pero más absurdo todavía es decir que solo 
+las mujeres pueden acusar de este abuso a los hombres, mientras que los hombres no 
+pueden acusar a las mujeres” (“Decretazo”).
+Karla: “Soy mujer, esposa, madre y abuela y veo con preocupación esta Ley. Viene a 
+dividir la familia nicaragüense, los hogares y sembrar la discordia entre la pareja natu-
+ral hombre y mujer, esta Ley debería ser derogada totalmente” (“Llaman a no”).
+Revisar maniqueísmo de ley chamuca: “En toda pareja, ‘hasta las mejores familias’, 
+se suscitan discusiones y diferencias; pero al satanizar al hombre y victimizar a la mu-
+jer, las querellas pasionales se desbordan en vez de buscar un punto de coincidencia y 
+convivencia o un divorcio en paz por lo menos. Muchas mujeres han usado esta ley 
+para tomar ventaja” (“Lo que no se dice”).
+Francisco Mirada: “Es una ley absurda, que toma el ambiente familiar, donde debe-
+ría de haber asesoría de pareja, y lo traslada al ambiente penal, donde solo al hombre 
+se le responsabiliza de todo lo erróneo que existe en la familia” (“Decretazo”).
+Estos comentarios se resisten en gran medida a “judicializar” lo que se han lla-
+mado históricamente “desacuerdos familiares” en la esfera doméstica. En verdad, 
+la esencia de estos conflictos recae en la anticuada división de espacios que sigue 
+gozando de apoyo, pero que ha delimitado un ámbito de violencia masculina 
+legitimada por siglos en Nicaragua (Palma 63; Montoya 124). La persistencia de 
+esta codificación simbólica del espacio del hogar conlleva una feroz resistencia a 
+las intervenciones en el ámbito personal y privado de las relaciones íntimas.
+El discurso familia-céntrico del Sandinismo de Ortega reafirma las nociones 
+reaccionarias sobre la violencia de género que abogan por resolver estos proble-
+mas “en la familia”, aislando efectivamente a los sobrevivientes de la violencia a 
+un ámbito sin ninguna protección. El Reglamento de 2014, de hecho, ha revi-
+talizado los enfoques convencionales de la violencia de género, centrados en la 
+familia.  El Reglamento a la Ley 779 hace que el Ministerio de la Familia y los 
+Consejos de Familia sean las instituciones mediadoras centrales, impidiendo el 
+acceso de las víctimas a las instituciones apropiadas de justicia penal, como por 
+ejemplos las Comisarías de la Mujer y la Niñez.4 Este resulta un prospecto proble-
+mático, porque como Wendy Flores, abogada del Centro de Derechos Humanos 
+4	
+De hecho, después de que salió el Reglamento a la ley en 2014, la socióloga Pamela Neumann 
+asistió a la inauguración de una de las Consejerías familiares del Ministerio de la Familia, ubi-
+cada en los de anteaño Comisarías de la Mujer y la Niñez (que llevaban funcionando desde el 
+año 1997). Neumann describe como un agente de policía les dio la bienvenida a la “Comisaría 
+de la Familia y la Comunidad.” Neumann señala el cambio discursivo drástico que realizan 
+estos agentes al abandonar el nombre institucional oficial de “Comisaría de la Mujer y la Niñez” 
+(“Gender-based” 82).
+94
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+Nicaragüenses (Cendih), señala, el mandato del Ministerio de la Familia no se 
+extiende a problemas de justicia penal: “A las Consejerías de familias irías para 
+arreglar los problemas de familias, no las situaciones delictivas… No se está vien-
+do el tema de violencia como una situación de salud pública, como una situación 
+que no se debe de resolver en el ámbito de parejas” (López “Golpe Orteguista 
+contra las mujeres”). En otras palabras, el enfoque del gobierno, más que reinsti-
+tuir términos neutralizantes para describir la violencia de género, la despenaliza 
+activamente bloqueando el camino hacia las instituciones judiciales legítimas y 
+permitiendo que voluntarios extrajudiciales “medien” en casos penales.
+Para manifestarse en contra de la delegación de casos penales a entes no ca-
+lificados por el Presidente Ortega, un grupo de abogados, psicólogos, sociólogos 
+y otras figuras públicas presentaron una demanda de inconstitucionalidad contra 
+el Reglamento (Montenegro et. al). En su demanda, especificaron que, según la 
+Constitución nicaragüense, una ley aprobada por la Asamblea nacional no puede 
+ser reglamentada sin el debate legislativo correspondiente. La demanda no dio re-
+sultados, sin embargo. De hecho, desde 2018, la mano dura de Ortega sobre las 
+protestas y los movimientos sociopolíticos de todo tipo, pareció comprobar su vo-
+luntad de sacrificar las libertades civiles básicas de los ciudadanos para mantenerse 
+en el poder, aun si significa ignorar la Constitución nicaragüense. Bien como señala 
+Pamela Neumann, sus políticas represivas y arbitrarias proveen “a state-sanctioned 
+platform for anti-feminist religious ideologies” e indican “the emergence of a patrimoni-
+al-authoritarian state in Nicaragua” (“Gender-based” 70). Justamente con su regla-
+mentación arbitraria de la Ley 779 en 2014, manifestaba su voluntad de dominar 
+el poder legislativo y su irrespeto para con las normas constitucionales. 
+Para que la violencia de género (violencia emocional, patrimonial, sexual, 
+psicológica) sea tratada como un problema de salud pública grave, primero tiene 
+que tratarse como si fuera un crimen. Estas formas de violencia, especialmente 
+la violencia sexual, amenazan el ejercicio de la libertad y ciudadanía plenas de 
+la mujer. El movimiento de mujeres ha peleado tenazmente contra la neutra-
+lización del lenguaje, como “argumentos y diferencias”, y “armonía familiar” 
+que sustituyen eufemismos y ocultan ejercicios criminales de control y abuso 
+dentro de la familia (Kampwirth 63). Por eso, el Reglamento representa un paso 
+regresivo de la intervención del Estado en la esfera íntima. Ciertamente presenta 
+una peligrosa contradicción, dado el hecho de que, al aislar la definición de 
+feminicidio a este contexto, identifican al hogar (es decir, a la pareja) como el 
+lugar más peligroso para las mujeres. Sin embargo, la operación de los Consejos 
+de Familia abarca simultáneamente a mujeres en procedimientos de mediación 
+específicamente dentro de este mismo ambiente, dado que muchas de ellas están 
+operando como “Unidades Móviles”, yendo de puerta en puerta para mediar 
+conflictos (Prado Reyes). 
+Sin duda alguna, esta polémica sobre la definición del lugar para combatir 
+la violencia se centra en el significado y la relevancia de la construcción presente 
+de la familia nuclear. Un intercambio entre dos comentaristas claramente ilustra 
+95
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+esta batalla. Alex Barrera Carrión arguyó: “[El Reglamento] está de acuerdo con 
+nuestra norma institucional que protege fundamentalmente a la familia como 
+el núcleo central de la sociedad”. Mientras tanto, Angélica Umaña Espinoza 
+respondió: “Para mí, tu comentario está fuera de lugar, porque nosotras, las 
+mujeres, somos parte de la familia. Este Reglamento deja la puerta abierta para 
+la violencia en la familia y la invisibiliza como un problema de salud a nivel de 
+sociedad” (“Golpe Orteguista contra las mujeres”). El peso simbólico que el 
+Reglamento le otorga a la familia como el bien protegido por la sociedad y la 
+manera en que el discurso político del partido Sandinista la trata, la violencia 
+contra la mujer ya no se codifica como un crimen, sino más bien como un pro-
+blema afectivo que puede mediarse con amor y comprensión. Enfrentado con el 
+problema grave de salud pública que imponen las masculinidades violentas, esta 
+retórica les pediría a las mujeres nicaragüenses que den la otra mejilla, porque 
+a través del Reglamento, el Estado les ha denegado efectivamente la protección 
+bajo la ley.
+Pactos de género: La polarización en las relaciones de poder
+Los comentarios online reflejan la noción de que la Ley 779 es una ley “anti-
+hombre”. Esta idea estaba presente antes de que la ley entrara en vigor, difundida 
+por toda la sociedad nicaragüense por grupos de interés poderosos y mantuvo 
+su relevancia mientras que la ley fue reformada y revertida. Un sentimiento ge-
+neralizado de temor de que el campo de juego se nivelara y que las mujeres 
+pudieran contar ahora con herramientas de protección jurídicas sobresalía en los 
+comentarios. Se percibe un grado palpable de resistencia a esta transformación. 
+Esta acusación común, de que la ley es anti-masculina, depende de una estra-
+tegia discursiva polarizante, que cita creencias muy atesoradas de la sociedad 
+nicaragüense. Cuando los comentaristas afirman que la ley ataca a los hombres, 
+hacen un llamado a siglos de tradiciones de la familia patriarcal y judeocristiana. 
+Como extensión, defienden la norma del privilegio jurídico masculino bajo la 
+república liberal nicaragüense. 
+Zapato del otro: “por qué esta ley protege a las mujeres y no incluyen la protección 
+de los hombres… eliminar esa ley o hacer una similar para proteger el derecho de los 
+hombres que Dios le dio, en la Biblia solo aparece el hombre ante Dios nunca sale la 
+Mujer desde ahí la ley 779 le falta el respeto al hombre” (“Recurso”).
+Jousban Álvarez Ruiz: “[la ley necesita algo que rija] de manera que no se pueda 
+utilizar como arma o chantaje; hoy por hoy basta que cualquier mujer quiera dañar 
+la integridad o personalidad de un hombre, solo es que la palabra salga de su boca 
+acusando de algo y sin haber investigación, las consecuencias surgen” (“Recurso”).
+Valentín Barahona: La ley 779, nació con vicios congénitos, violenta una serie de 
+preceptos constitucionales como la igualdad ante la ley, es esencialmente discrimina-
+toria, divide a la sociedad en una guerra de sexos, destruye la unidad familiar (“Golpe 
+Orteguista”).
+96
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+El primer comentario hace un llamado a las raíces bíblicas cristianas de la 
+regla patriarcal sobre la familia, así como sobre el Estado. Siguiendo la misma 
+lógica, Dios únicamente concede derechos a los hombres, quienes luego asumen 
+el patrocinio paterno y la protección sobre las mujeres, faltándoles los derechos 
+“dados por Dios” que los hombres disfruten. En otras palabras, el autor del co-
+mentario quiere trasponer los principios cristianos de la autoridad masculina en 
+los sistemas legales contemporáneos. Al afirmar que la mujer nunca “comparece 
+ante Dios”, el comentarista usa una justificación bíblica para despojarle de su 
+personalidad jurídica. Dado que las mujeres en Latinoamérica solo obtuvieron 
+el derecho a voto y la personalidad jurídica legítima en el siglo XX (Dore y 
+Molyneux), no es de sorprender que esta actitud persistiera hasta la actualidad. 
+Debido al predominio de la práctica religiosa católica y evangélica en Nicaragua, 
+esta lógica no representa una opinión de minorías, sino que más bien disfruta 
+del apoyo de muchos nicaragüenses. Una encuesta de enero de 2015 realizada 
+por el sistema de monitoreo de la opinión pública de M&R Consultores, in-
+formó que el 45.9% de nicaragüenses se identifican como católicos, mientras 
+que un 30.8% de rápido crecimiento se identifican como alguna denominación 
+de “evangélicos” (Luna). Dentro del marco de estos sistemas de creencias, Dios 
+concede la autoridad a los hombres, quienes a su vez son la cabeza de una familia 
+patriarcal. Este modelo de familia, sugeridos por las doctrinas y las instituciones 
+religiosas, orienta a muchos nicaragüenses actualmente. Dado que la Ley 779 
+intentó presentar un modelo de familia alternativo y más equitativo, infringe el 
+ideal religioso de la familia patriarcal. 
+El segundo comentario ilustra cuántos hombres nicaragüenses dan por su-
+puestos sus derechos legales. Como ven a sus propios derechos como naturales, 
+jurídicos y sancionados por el Estado, no pueden ver, o más bien dicho, se re-
+húsan a reconocer, que las mujeres han sido históricamente “no personas” en el 
+sistema legal. Una gran parte de la pedagogía y enseñanza feminista de los siglos 
+XX y XXI ha girado en torno a desenmascarar los trabajos de los sistemas legales 
+androcéntricos, como lo demuestra el trabajo de Iris Marion Young, Catherine 
+MacKinnon Young y Marcela Lagarde y de los Ríos. Pero, tal como muestra el 
+comentario de Jousban Álvarez Ruiz, al conceder protecciones especiales a las 
+mujeres, la Ley 779 hizo que muchos hombres nicaragüenses fueran conscientes 
+de cómo es experimentar la discriminación en el sistema legal. El comentario 
+indirectamente reconoce esta posible pérdida de privilegio. Aunque lo hace a 
+través de un llamado a una supuesta neutralidad de la ley que nunca ha existido 
+realmente en Nicaragua. 
+Desde la Independencia, el privilegio masculino ha estado cimentado en los 
+Códigos Penales Latinoamericanos a través de figuras jurídicas como la patria 
+potestad, que otorgaba a los padres, esposos y hermanos el control legal sobre las 
+propiedades y activos de sus parientes femeninos y además estaba garantizado 
+por un aparato jurídico compuesto únicamente por hombres (Barragán, “Igual-
+dad Ausente” 31). En Nicaragua, el código penal de 1904 designaba a los hom-
+97
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+bres como la cabeza del hogar, con autoridad absoluta sobre su cónyuge e hijos; 
+esta ley no fue revisada sino hasta 1981 bajo el gobierno revolucionario Sandi-
+nista (Lancaster 17). De hecho, la práctica de la patria potestad determinaba el 
+estatus legal de las mujeres en Nicaragua hasta la era de Somoza; básicamente, 
+no gozaban de la categoría de persona en el sistema jurídico (Kampwirth 22). El 
+comentario de Álvarez Ruiz se centra en la capacidad de las mujeres de usar la ley 
+para hacer daño a la “integridad o personalidad de un hombre”. No obstante, en 
+las nuevas naciones independientes de Latinoamérica, en el vacío de los derechos 
+sustantivos, los reclamos legales de las mujeres podían ser validados o repudiados 
+en base a categorías como el honor, la infamia y la clase social (Barragán “El 
+Espíritu” 68-69). En resumen, la palabra de un hombre podía destruir la reputa-
+ción y el carácter legal de una mujer con base a su reputación y, sin ninguna in-
+vestigación de por medio, ella podía perder su propiedad, libertad o la vida (Ba-
+rragán “El Espíritu” 79). Además, décadas de reglas militares de los siglos XIX 
+y XX han reforzado los usos cerrados, excluyentes y arbitrarios de la ley, debido 
+a la manera en que los hombres militares fuertes han manipulado y doblegado 
+sus principios. Esta historia del estatus legal de la mujer en Nicaragua apoya la 
+noción de Catherine MacKinnon de los “deeply gendered legal arrangements” (Are 
+Women 7) que constituyen los cuerpos jurídicos nacionales. Sin embargo, y tal 
+como lo demuestran los comentarios, muchos hombres optan por hacer la vista 
+gorda a esta desigualdad para conservar privilegios de forma descarada o como 
+un simple rechazo de reconocer las experiencias de las mujeres. 
+Con base a estos comentarios, su oposición a la Ley 779 parte de la con-
+vicción religiosa de la bondad de la familia patriarcal o de la creencia de que 
+los aparatos androcéntricos legales del estado son, de hecho, neutros, válidos y 
+legítimos. Como lo ha señalado MacKinnon, la neutralidad de género en la ley 
+es el estándar masculino y la regla de protección especial es el estándar femenino 
+(Women’s Lives). La Ley 779 buscaba establecer figuras jurídicas en el Código 
+Penal que instituirían justamente este tipo de estatus especial protegido para las 
+mujeres en Nicaragua. Los comentarios sobre la naturaleza “anti-masculina” de 
+la Ley 779 muestran que los comentaristas se rehúsan a “brindarles herramientas 
+a las mujeres” para que las usen para reequilibrar estas relaciones de poder. De 
+hecho, frente al ejercicio desigual de la fuerza física de las masculinidades que 
+ocurre en casos de violencia de género, estos comentaristas se ponen a denegarles 
+a las mujeres un estatus de protección especial bajo la ley. En vez de reconocer 
+la vulnerabilidad de las mujeres, aquellos comentaristas se aferran a la norma de 
+dominio y autoridad masculinos, ignorando o rechazando descaradamente el 
+hecho de que la presunta “neutralidad” de los marcos legales liberales normati-
+vos, en la práctica, ponen a las mujeres en desventaja. 
+Desde los debates legislativos, muchos representantes de la Asamblea Nacio-
+nal expresaron sus temores de que la Ley 779 se usaría “contra los hombres”. De 
+hecho, durante los debates, las opiniones de estos representantes hombres sobre 
+la legislación, revelaron un deseo de terminar con la subordinación de la mu-
+98
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+jer, pero era uno que simultáneamente se combinaba con temores sobre cómo 
+este reequilibrio de poderes transformaría su posición en la sociedad. Según el 
+representante Salvador Talavera Alaniz: “Sé que algunos colegas hombres tienen 
+temor […] de que con esta ley de ahora en adelante, las mujeres probablemente 
+tendrán armas potentes en sus manos y de pronto, podrían incluso usarlas [...] 
+probablemente alguien incluso podría tratar de creer que podrían usarse injusta-
+mente contra algunos hombres” (“DP”).
+El comentario de Talavera, así como el de otros muchos comentaristas on-
+line, hace alusiones léxicas a la guerra. En la frase, “las mujeres probablemente 
+tendrán armas potentes en sus manos” se asume que las mujeres 1) han sido sub-
+yugadas y que 2) tienen un buen motivo para querer contraatacar. Esta posible 
+reversión de privilegios podría incluso verse como una amenaza a la masculinidad 
+misma. Cuando leo muchos de los comentarios de los lectores “contracorriente”, 
+deduzco que sienten que la Ley 779 feminiza su masculinidad, forzándolos a 
+experimentar desventajas en el hogar y en el sistema legal. 
+Sus temores son señal de una concientización muy aguda de la naturaleza 
+asimétrica de las relaciones de poder con enfoque de género, pero también hacen 
+hincapié en un marcado titubeo hacia soltar su postura ventajosa en estas rela-
+ciones. Al igual que Talavera, los comentaristas usan la táctica retórica de hacer 
+un llamado al juego sucio. Esta táctica revela el deseo de denegar a un grupo do-
+minado su derecho a contraatacar o resistir. Como vemos aquí, muchos comen-
+taristas acusan a las mujeres de usar la Ley 779 para beneficiarse personalmente 
+o para vengarse de sus parejas. 
+Revisar maniqueísmo de ley chamuca: “El aumento alarmante de feminicidios está 
+relacionado con el enfoque maniqueísta de esta ley dizque a favor de la mujer… Mu-
+chas mujeres han usado esta ley para tomar ventaja” (“Lo que no se dice”).
+Armengol García: “lo que pasa [es] que la mayor parte de las mujeres se han atenido 
+a esta ley, uno por que han mal interpretado esta ley y quieren que todo lo que ellas 
+digan sea valoradas y dejan a los hombres sin ninguna defensa, es más la mayor parte 
+de las mujeres exigen una pensión alimenticia para sus hijos y estas pensiones son 
+utilizadas para su conveniencia […] y si no les das hasta te acusan de acoso sexual o 
+te acusan de maltrato” (“Reglamento sepultó”).
+Estos comentarios expresan el temor de estar indefensos ante la ley y ante las 
+mujeres. Las inquietudes económicas ingresan al debate, revelando una visión 
+estereotipada de las mujeres como oportunistas que succionan las ganancias de 
+los hombres. Por el contrario, como Lancaster ha observado en su estudio etno-
+gráfico de la dinámica de género en un barrio de clase trabajadora de Managua, 
+es muy común que los hogares estén a cargo de una mujer, frecuentemente 
+porque su cónyuge o pareja la ha abandonado (26). Según Florence Babb, casi 
+la mitad de los hogares en las ciudades de Nicaragua están a cargo de una mujer, 
+mientras que las mujeres nicaragüenses conforman el 44% de la población eco-
+nómicamente activa (148-149). No sólo contribuyen las mujeres al hogar con 
+99
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+trabajos remunerados y no remunerados, sino que también, bajo las políticas de 
+ajuste estructural neoliberales que comenzaron en la década de 1990, también 
+cada vez llevan a cabo más actividades económicas informales para llegar a fin 
+de mes (Babb 108). Como hacen tanto para mantener a sus familias económica-
+mente, tal vez estos comentarios reflejan un temor subyacente de que las mujeres 
+puedan quedarse con su salario para ellas mismas. Si las mujeres salieran adelante 
+económicamente o se guardaran sus ingresos para si mismas, ¿qué les pasaría a 
+los hombres que se niegan a trabajar o a los niños que se rehúsan a mantener? La 
+autonomía económica de las mujeres podría realmente presentar una imagen te-
+merosa para los hombres cuyo dominio, con frecuencia, depende de proveer un 
+beneficio económico, o alternativamente, para aquellos hombres que dependen 
+de las ganancias de las mujeres para su supervivencia.
+Los comentarios indican una incapacidad de concebir relaciones sociales fuera 
+del modelo vertical y autoritario del beneficio personal. Según como estos co-
+mentaristas perciban las relaciones sociales, si las mujeres obtienen cualquier tipo 
+de poder, los hombres deben necesariamente perderlo. Claramente, esta actitud 
+marca la diferencia entre un modo democrático de relacionarse dentro de la fami-
+lia y uno autoritario, donde la autoridad masculina es arbitraria. Como Lourdes 
+Bolaños et al., han señalado, el modelo autoritario de la familia predomina en 
+Nicaragua (13). No hay espacio posible en este esquema para el compromiso, la 
+flexibilidad o la renegociación del estatus quo de las relaciones sociales. 
+Al final, los alegatos anti-masculinos contra la Ley 779 constituyen una estra-
+tegia retórica eficaz que apela al peso de la masculinidad como un valor cultural 
+preciado. Esta estrategia homogeniza el término “masculinidad” y bloquea el 
+diálogo sobre ese sector del “macho” ocupado por las masculinidades violen-
+tas. Esta táctica corresponde a un deseo de defender el capital social valioso, en 
+palabras de Pierre Bourdieu (248-249), de una autoridad asociada con figuras 
+masculinas en Nicaragua. Pareciera que los comentaristas que alegan que la Ley 
+779 es anti-masculina entienden el poder simbólico de esta nueva ley que podría 
+comenzar a erosionar paulatinamente su posición privilegiada. La vehemencia 
+con la que atacan reafirma que muchos ven la masculinidad como una red de 
+complicidad. Aunque en la realidad es una red atenuada por distinciones de 
+raza y clase, en el ámbito discursivo la homogenización de lo “macho” funciona 
+mejor para defender los privilegios.  El capital social en Nicaragua se traduce al 
+dominio de la autoridad familiar, religiosa y político-institucional que se invierte 
+en las masculinidades. 
+Su producto es una idea de privilegio auto-adquirido que lleva a ciertas 
+masculinidades a tratar a los cuerpos femeninos y feminizados como propiedad 
+intercambiable y desechable.  En los comentarios online, vemos cómo los co-
+mentaristas que están en contra de la Ley 779 buscan mantener ese capital social 
+rehusándose a reconocer los excesos de ciertas masculinidades en esta situación 
+de dominio. Como producto derivado, ayudan a defender la impunidad que ha 
+existido históricamente para los abusadores violentos. 
+100
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+Conclusiones
+La naturaleza antagonista de los comentarios online de los lectores muestra 
+que los intentos por reorganizar las esferas reproductivas e íntimas se chocan con 
+una feroz resistencia. María Teresa Blandón Gadea, Cymene Howe, Roger Lan-
+caster y Karen Kampwirth han documentado la fuerza de las creencias en los va-
+lores tradicionales, conservadores y familiares en Nicaragua, especialmente desde 
+que, a comienzos de 1990, los grupos conservadores y religiosos contrarrestaron 
+los ideales progresistas relacionados con el género que trajo consigo la revolución 
+Sandinista. Bajo la presidenta Violeta Barrios de Chamorro (electa en el 1990) 
+específicamente se fomentaron políticas y actitudes que Kampwirth etiqueta de 
+“anti-feministas” (48). La resistencia de los comentaristas señala la solidez de las 
+nociones hegemónicas de familia y maternidad en la cultura nicaragüense. Un 
+ideal femenino sumiso y de auto-sacrificio persistía incluso a lo largo de los años 
+de la revolución Sandinista. En la revolución, la mujer ideal era una mujer, según 
+Ileana Rodríguez, “quien da todo a los demás, que sufre cuando otros sufren y 
+quien se ríe cuando otros lo hacen” (Mujeres 87). A partir de esta pequeña muestra 
+de opinión pública, estos marcadores claves de sentimiento público afloran a la su-
+perficie y demuestran que la conversación sobre el género y las relaciones de poder 
+resulta controvertida, móvil y cargada. Los comentarios aquí analizados revelan 
+cómo los argumentos más antiguos que justificaban la autoridad masculina mutan 
+y se adaptan a circunstancias cambiantes. También podemos observar cómo las crí-
+ticas de esta autoridad se hacen más aceptables y difundidas, en gran parte debido 
+a la intervención legal, lingüística y cultural de la Ley 779.
+Como el tema de la violencia de género es polémico, la controversia que 
+produce revela un enojo creciente sobre la falta de libertades y opciones políti-
+cas bajo el régimen de Daniel Ortega. Como hemos visto aquí, la postura de la 
+administración de Ortega con respecto a la violencia de género y su reversión 
+de la Ley 779, ofreció un punto álgido para debates online sobre una plétora de 
+temas relacionados: castigo, oportunismo financiero, fragilidad de la familiar 
+nuclear como una estructura social viable y la misoginia como un mal social per-
+manente. Esta nueva fase de “Sandinismo”, con sus posturas políticas populistas 
+y políticas económicas neoliberales, exacerba los remanentes de la polarización 
+sociopolítica existente durante la lucha de las guerrillas y la guerra de la Con-
+tra, especialmente al reactivar las nociones hegemónicas de unidad familiar que 
+ocultan una sólida reafirmación de la masculinidad como fuente de estabilidad 
+y autoridad. Que estas tácticas se traducen a una reacomodación de la “lógica 
+amigo-enemigo”, que predominó durante los años de la Guerra Fría (Martí i 
+Puig y Ancochea 108), nunca se ha hecho más evidente que en las respuestas 
+públicas a la Ley 779, analizada en este capítulo.
+Para concluir con optimismo, muchos de comentarios online afirman lo que 
+alega Sofía Montenegro: que las mujeres nicaragüenses han pasado por una reso-
+cialización total desde la revolución y hasta bien entrados los años de 1990. De-
+101
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+bido a estos puntos de inflexión política y el “trabajo político amplio y sistemáti-
+co desarrollado por el movimiento de las mujeres y la gran visibilidad femenina 
+en diferentes roles a lo largo de los medios de comunicación”, las mujeres han 
+experimentado “un advenimiento a la conciencia y una ruptura con los ideales 
+y valores tradicionales” (370). Ciertamente, aunque esta conversación que surge 
+a partir de la Ley 779 en la comunidad online revela que muchos comentaristas 
+atacaron la ley, muchos de ellos también presentan una crítica beligerante de 
+intentos por revertir sus logros legales. Muchos usuarios adoptan el análisis fe-
+minista de la violencia de género e intentan demoler la autoridad incuestionable 
+de las masculinidades y su recurso a la violencia.
+Referencias bibliográficas
+Amorós, Celia. “Violencia contra las mujeres y pactos patriarcales”, Violencia 
+y sociedad patriarcal, compilado por Virginia Maquiera y Cristina Sánchez. 
+Fundación Pablo Iglesias, 1990, pp. 39-53.
+Babb, Florence. After Revolution: Mapping Gender and Cultural Politics in Neoli-
+beral Nicaragua. U of Texas P
+, 2001. 
+Blandón Gadea, María Teresa. Los cuerpos del feminismo nicaragüense. Programa 
+Feminista La Corriente, 2011. 
+Bourdieu, Pierre. “The forms of capital”, Handbook of theory and research for the 
+sociology of education, editado por J.G. Richardson. Greenwood Press, 1986, 
+pp. 241-258.
+Carcedo Cabañas Ana and Giselle Molina Subirós. Mujeres contra la violencia: 
+una rebelión radical. Embajada Real de los Países Bajos-CEFEMINA, 2003.
+Darling, Juanita. Latin America, media, and revolution: communication in mo-
+dern Mesoamerica. Palgrave Macmillan, 2008.
+Domínguez Ruvalcaba, Héctor. De la sensualidad a la violencia de género. La 
+modernidad y la nación en las representaciones de la masculinidad en el México 
+contemporáneo. CIESAS, 2013. 
+Dore, Elizabeth and Maxine Molyneux. Hidden Histories of Gender and the State 
+in Latin America. Duke UP
+, 2000.
+Drysdale Walsh, Shannon and Cecilia Menjívar. “Impunity and Multisided Vio-
+lence in the Lives of Latin American Women: El Salvador in Comparative 
+Perspective”. Current Sociology Monograph, vol. 64, n.° 4, 2016, pp. 586-602. 
+https://doi.org/10.1177/0011392116640474.
+Fregoso, Rosa Linda. “Violencia de género ante los derechos humanos”. Di-
+plomado sobre Violencia Sexual y de Género: Análisis Interdiscliplinarios, 
+Prevención e Intervención, 27 June 2014, Oaxaca, México.
+102
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+Fregoso, Rosa Linda and Cynthia Bejarano, editoras. Terrorizing Women: Femi-
+cide in the Americas. Duke U P
+, 2010. 
+Howe, Cymene. Intimate Activism: The Struggle for Sexual Rights in Postrevolu-
+tionary Nicaragua. Duke U P
+, 2013.
+Jubb, Nadine. “Love, Family Values, and Reconciliation for All, but What about 
+Rights, Justice, and Citizenship for Women? The FSLN, the Women’s Move-
+ment, and Violence against Women in Nicaragua”. Bulletin of Latin American Re-
+search, vol. 33, n.° 3, 2014, pp. 289-304. https://doi.org/10.1111/blar.12205.
+Kampwirth, Karen. Feminism and the Legacy of Revolution: Nicaragua, El Sal-
+vador, Chiapas. Ohio University Research in International Studies, Latin 
+America Series no. 43. Ohio U P
+, 2004.
+Kristeva, Julia. “Women’s Time.” Signs, vol. 7, n.° 1, 1981, pp. 13-35.
+Lagarde y de los Ríos, Marcela. “Preface: Feminist Keys for Understanding Fem-
+inicide: Theoretical, Political, and Legal Construction”. Terrorizing Women: 
+Feminicide in the Americas, edited by Rosa Linda Fregoso and Cynthia Beha-
+rano. Duke U P
+, 2010, pp. xi-xxvi. 
+Lamas, Marta. “El género es cultura”. Campus Euroamericano de Cooperação Cul-
+tural, 2007, pp. 1-12.
+Lancaster, Roger N. Life is Hard: Machismo, Danger, and the Intimacy of Power 
+in Nicaragua. U of California P
+, 1992. 
+Lourdes Bolaños, María, et al. Diagnóstico de la violencia intrafamiliar y sexual 
+en Nicaragua. Policía Nacional, Dirección Comisaría de la Mujer y la Niñez 
+(Programa de Naciones Unidas para el Desarrollo). Managua, 2008.
+MacKinnon, Catherine A. Are Women Human? Belknap Press of Harvard U P
+, 
+2006. 
+Marti i Puig, Salvador and Sánchez-Ancochea, Diego. “Centroaméri-
+ca hoy”. Foreign Affairs Latinoamérica, vol. 14, n.° 2, 2014. https://doi.
+org/10.13140/2.1.4274.7526.  
+Montenegro, Sofía. “Nicaragua”. Movimiento de mujeres en Centroamérica. Programa 
+Regional “La Corriente”, Centro Editorial de la Mujer, 1997, pp. 107-113.
+Montenegro, Sofía, Juana Antonia Jiménez Martínez, Yamilet de la Concep-
+ción Mejía Palma, Marlen Auxiliadora Chow Cruz, and Ana Otilia Quirós 
+Vísquez. “Recurso de Amparo contra Reglamento a la Ley 779”. https://
+confidencial.com.ni/archivos/articulo/19477/mujeres-recurren-de-amparo-
+contra-reglamento-de-ley-779
+Montoya, Rosario. Gendered Scenarios of Revolution: Making New Men and New 
+Women in Nicaragua 1975-2000. U of Arizona P
+, 2012.
+Neumann, Pamela. “En búsqueda de justicia: La violencia contra la mujer y el 
+sistema legal en Nicaragua.” Cuaderno jurídico y político, vol. 2, n.° 5, 2016, 
+pp. 3-14.
+103
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+_____. “Gender-based Violence and the Patrimonial State: The Rise and Fall of 
+Ley 779”. Cahiers des Amériques latines, vol. 87, 2018, pp. 69-90. https://doi.
+org/10.4000/cal.8515.
+Reglamento a la Ley 779, “Ley Integral Contra la Violencia Hacia las Mujeres 
+de Reformas a la Ley No. 641. Código Penal”. La Gaceta: Diario Oficial, 31 
+julio 2014. 
+Reguillo, Rossana. “The social construction of fear: Urban narratives and practic-
+es”. Citizens of Fear: Urban Violence in Latin America, editado por Susana Rot-
+ker and Katherine Goldman. Rutgers University Press, 2002, pp. 187-206.
+Rodríguez, Ileana. Gender Violence in Failed and Democratic States: Besieging Per-
+verse Masculinities. Palgrave Macmillan, 2016.
+_____. “El poder del acto: odio en su forma erótica”. Cuadernos de Literatura, 
+vol. 32, 2012, pp. 83-96. 
+_____. “Human Rights/Sexual Desires: Incest/Rape/Pedophilia.” Hispanic Issues 
+Online, vol. 5, n.° 1, 2009, pp. 37-51.
+_____. Women, Guerrillas, and Love. U of Minnesota P
+, 1996.
+Saccomano, Celeste. “El feminicidio en América Latina: ¿vacío legal o déficit del 
+Estado de derecho? Revista CIDOB d’Afers Internacionals, n.° 117, 2017, pp. 
+51-78. https://doi.org/10.24241/rcai.2017.117.3.51.
+Sagot, Monserrat. “Los límites de las reformas: Violencia contra las mujeres y 
+políticas públicas en América Latina.” Revista de Ciencias Sociales, vol. 120, 
+2008, pp. 35-48. 
+_____. “¿Un paso adelante y dos atrás? La tortuosa marcha del movimiento feminis-
+ta en la era del neointegrismo y del ‘fascismo social’ en Centroamérica”. Feminis-
+mo y cambio social en América latina y el caribe. CLACSO, 2012, pp. 75-100.
+Salvatierra, Elvis G. “A propósito de las identidades y las preferencias” Managua-
+furiosa.com, 12 mayo 2015, http://www.managuafuriosa.com/a-proposito-
+de-las-identidades-y-las-preferencias/
+Torres-Rivas, Edelberto. Revoluciones sin cambios revolucionarios. F & G Edi-
+tores, 2011. 
+Walsh, Shannon Drysdale, and Cecilia Menjívar. “What Guarantees Do We 
+Have? Legal Tolls and Persistent Impunity for Femicide in Guatemala.” Lat-
+in American Politics and Society, vol. 58, n.° 4, 2016, pp. 31-55. https://doi.
+org/10.1111/laps.12001.
+Artículos periodísticos
+Agurcia Rivas, Velia. “Mayor Reconocimiento de la Violencia de Género en 
+Managua”. El Nuevo Diario, 24 noviembre 2016, http://www.elnuevodiario.
+104
+Alicia Z. Miklos | 
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669
+com.ni/nacionales/411159-mayor-reconocimiento-violencia-genero-mana-
+gua/ 
+Álvarez, Leonor. “Minimiza recursos contra Ley 779”. La Prensa, 28 septiembre 
+2014, https://www.laprensa.com.ni/2014/09/28/nacionales/1241870-mini-
+miza-recursos-contra-ley-779
+Belli Pereira, Humberto. “Lo que no se dice sobre los femicidios”. La Prensa, 30 
+junio 2014.
+Chamorro B., Pedro J. “DOS reforma la Ley 779”. La Prensa, 13 agosto 2014, 
+https://www.laprensa.com.ni/2014/08/13/opinion/207348-dos-reforma-la-
+ley-779 
+del Cid, Amalia. “La historia de Elba Calixta”. La Prensa, 27 julio 2014, https://
+www.laprensa.com.ni/2014/07/27/seccion-domingo/205003-la-historia-
+de-elba-calixta
+_____. “Las fotos en el ataúd”. La Prensa, 10 agosto 2014, https://www.lapren-
+sa.com.ni/2014/08/10/seccion-domingo/206982-las-fotos-en-el-ataud
+García, Lizabeth. “Recurso contra reglamento de ley 779”. El Nuevo Diario, 
+3 septiembre 2014, https://www.elnuevodiario.com.ni/nacionales/328958-
+recurso-reglamento-ley-779/
+Jiménez, Magdalena. “Poder judicial participará en marcha anunciada por Com-
+pañera Rosario Murillo”. Poder Judicial: Dirección General de Comunicación, 
+27 junio 2014, https://www.poderjudicial.gob.ni/prensa/notas_prensa_de-
+talle.asp?id_noticia=4786 
+López, Ismael. “Golpe Orteguista contra las mujeres”. El Confidencial, 6 agosto 
+2014, https://confidencial.com.ni/archivos/articulo/18787/golpe-orteguista-
+contra-las-mujeres?fb_comment_id=805145719538054_805274782858481 
+Membreño, Cinthia. “Policía minimiza femicidios”. El Confidencial, 5 julio 
+2015, https://confidencial.com.ni/archivos/articulo/18310/policia-minimi-
+za-femicidios
+Miranda Aburto, Wilfredo. “Decretazo contra la ley 779”. El Confidencial, 9 
+agosto 2014, https://confidencial.com.ni/archivos/articulo/18826/decreta-
+zo-contra-la-ley-779
+_____. “Reglamento sepultó ley 779”. El Confidencial, 16 agosto 2014, https://
+confidencial.com.ni/archivos/articulo/18940/reglamento-sepulto-ley-779
+“Murillo: feministas tienen conductas impropias.” El Cronista Digital, 4 julio 
+2014.
+Olivas, Róger. “Parricida confiesa crimen”. El Nuevo Diario, 27 agosto 2014.
+Picón Duarte, Gloria. “Llaman a no aprobar reforma de Ley 779”. La Pren-
+sa, 
+24 
+septiembre 
+2013, 
+https://www.laprensa.com.ni/2013/09/24/
+politica/163615-llaman-a-no-aprobar-reforma-de-ley-779
+105
+ XXIV.3 (septiembre-diciembre 2020) ISSN 1851-4669 | Polarización pública en los foros online: La violencia de género...: 85-105
+“¿Por qué Daniel Ortega goza?” teleSur.net, 27 octubre 2016, http://www.tele-
+surtv.net/telesuragenda/Por-que-Daniel-Ortega-goza-de-tanta-popularidad-
+en-Nicaragua-20161027-0005.html 
+Prado Reyes, Yader. “Comisarías de la Mujer y Consejerías Móviles Comuni-
+tarias, modelo efectivo para la prevención de la violencia.” El 19 Digital, 
+14 mayo 2015, https://www.el19digital.com/articulos/ver/titulo:29157-co-
+misarias-de-la-mujer-y-consejerias-moviles-comunitarias-modelo-efectivo-
+para-la-prevencion-de-la-violencia
+Romero, Elízabeth. “Critican convocatoria a marcha.” La Prensa, 30 junio 2014, 
+https://www.laprensa.com.ni/2014/06/30/nacionales/201060-critican-con-
+vocatoria-a-marcha
+_____. “Ley 779, Sin plata ni gloria.” La Prensa, 23 junio 2012, https://www.
+laprensa.com.ni/2012/06/23/nacionales/106026-ley-779-sin-plata-ni-gloria
+_____. “Mujeres rechazan la marcha del oficialismo” La Prensa, 1 julio 2014, 
+https://www.laprensa.com.ni/2014/07/01/politica/201191-mujeres-recha-
+zan-la-marcha-del-oficialismo
+_____. “Ortega hace cambios a la ley 779 en reglamentación.” La Prensa, 5 
+agosto 2014, https://www.laprensa.com.ni/2014/08/05/nacionales/206326-
+ortega-hace-cambios-a-ley-779-en-reglamentacion
+_____. “Ortega ordena cambios a Ley 779.” La Prensa, 6 agosto 2014, https://
+www.laprensa.com.ni/2014/08/06/nacionales/206453-ortega-ordena-cam-
+bios-a-ley-779 
+_____. “Reformas a la ley indignan.” La Prensa, 27 septiembre 2014, https://
+www.laprensa.com.ni/2013/09/27/nacionales/163943-reformas-a-ley-779-
+indignan
+Romero, Elízabeth and Martha Vásquez. “Prevención contra la violencia sin 
+fuerza.” La Prensa, 17 mayo 2014. 
+Romero, Elízabeth and Lucía Vargas. “Marcha de la CSJ es un show.” La Prensa, 
+2 julio 2014, https://www.laprensa.com.ni/2014/07/02/nacionales/201363-
+marcha-de-la-csj-es-un-show
+Vásquez, Martha, José Garth and Eddy López. “Ola femicida es imparable.” 
+La Prensa, 30 junio 2014, https://www.laprensa.com.ni/2014/06/30/
+portada/201019-ola-femicida-es-imparable

@@ -1,0 +1,892 @@
+1 
+Teoría política posfundacional en La guerra del fin del mundo 
+de Mario Vargas Llosa. ¿Canudos postestructuralista? 
+ 
+por Martín Retamozo 
+(Universidad Nacional de La Plata) 
+ 
+ 
+RESUMEN 
+La relación entre teoría política y literatura quizás no pueda contarse entre las más fecundas si se la 
+compara con el vínculo que han establecido disciplinas como la filosofía, la historia y la psicología. Si 
+bien la política ha ocupado un lugar central en la literatura es difícil sostener que la teoría política haya 
+obtenido un sitio destacado. Una notable excepción encontramos en la novela La guerra del fin del 
+mundo de Mario Vargas Llosa, no porque el autor se dedique a la teoría política, sino por la 
+complicidad de la trama de la novela con ciertas perspectivas teóricas contemporáneas. En este 
+horizonte, el artículo tiene como objetivo realizar una lectura de La guerra del fin del mundo y sugerir su 
+relación con categorías centrales de la teoría política de inspiración posfundacional como 
+Heterogeneidad, Antagonismo, exterior constitutivo, significante vacío, discurso y hegemonía. El trabajo 
+que presentamos, de este modo, pretende aportar a la discusión de ciertas categorías teórico políticas 
+que muchas veces por su grado de abstracción han suscitado dificultades pero también ofrecer claves de 
+lectura de esta novela desde la teoría política actual.  
+ 
+Palabras clave: Teoría política - La guerra del fin del mundo - Vargas Llosa - Ernesto Laclau 
+ 
+ABSTRACT 
+It can be said that the relation between literature and political theory is not as prolific as that established 
+by other disciplines such as philosophy, history and psychology. Although politics has held a central role 
+in literature it is difficult to assert the prominence of political theory. A remarkable exception to this can 
+be found in the novel La guerra del fin del mundo by Mario Vargas Llosa, not because the author 
+dedicates himself to political theory but because of the complicity the plot shares with some 
+contemporary theoretical perspectives. Within this horizon, the article proposes a reading of La guerra 
+del fin del mundo in the light of its relation with key categories from  post foundational political thought 
+such as Heterogeneity, Antagonism, constitutive outside, empty signifier, discourse and hegemony. The 
+article thus aims to contribute to the discussion of theoretical categories whose abstraction has often 
+turned them difficult to assimilate. It also offers some reading clues to approach Vargas Llosa’s novel in 
+the light of present political theory.    
+ 
+Key words: Political theory - La guerra del fin del mundo - Vargas Llosa - Ernesto Laclau 
+ 
+ 
+ 
+Canudos não se rendeu 
+Euclides da Cunha, Os Sertões 
+ 
+ 
+1. Introducción 
+La relación entre literatura —especialmente la novela— y teoría política no ha sido tan 
+prolífera como el vínculo de otras disciplinas sociales con el campo literario. La historia, la 
+psicología (particularmente el psicoanálisis) y la filosofía, por ejemplo, han encontrado mejores 
+modos de relacionarse con la literatura, al punto de producir géneros o sub-géneros como la 
+novela histórica, la poesía épica, la novela psicológica o erigir parte de sus teorizaciones 
+tomando figuras de la literatura (la obvia alusión a Edipo en Freud es ineludible). Las novelas o 
+cuentos políticos, en cambio, si bien relevantes se centran en ficcionar, según las reglas de cada 
+género, acontecimientos políticos y sociales, con cargas de denuncia testimonial o énfasis 
+normativo pero difícilmente puedan considerarse piezas elaboradas de teoría política más allá 
+Teor´
+ıa pol´
+ıtica posfundacional en La guerra del ﬁn del mundo de Mario Vargas Llosa : ¿Canudos postestructuralista?
+RETAMOZO Mart´
+ın
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+http://www.orbistertius.unlp.edu.ar
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+Esta obra est´
+a bajo licencia Creative Commons Atribuci´
+on-NoComercial-SinDerivadas 2.5 Argentina
+2 
+que en ocasiones ayuden a comprender los procesos histórico-políticos que narran o dinámicas 
+más universales.1  
+En algunos registros de la literatura, la filosofía (sin) política2 ha diluido la política en la 
+moral y encontrado un lugar desde el cual —a veces con escaso logro literario— poner en boca 
+de los personajes ciertas disquisiciones filosóficas que incluyen dimensiones políticas. Las 
+excepciones posiblemente sean —cuando no— los diálogos platónicos y los utopistas del 
+Renacimiento (Moro, Campanella, Bacon). Más cercanos en el tiempo podemos citar algunos 
+intentos de imitar el estilo aristotélico (en el caso de Fernando de Savater, por ejemplo) o el 
+proyecto de Filosofía para niños (especialmente Mark de Matthew Lipman), cuyos textos cruzan 
+lo literario (novelas) con un evidente fin de reflexión y paideia filosófica.  
+Las mitologías, fundamentalmente griega pero también la romana, proveyeron de 
+figuras persistentes como la de Antígona (desde la interpretación de Hegel en la Fenomenología 
+del Espíritu hasta el trabajo de Judith Butler en El grito de Antígona) pero también las de Sísifo, 
+Saturno, Casandra, Dionisio, Jano y Ulises, entre tantos, para el abuso de los estudios políticos. 
+La influencia de las fábulas puede verse por ejemplo en los trabajos de Jon Elster sobre 
+adaptación de las preferencias a partir de la Zorra y las Uvas. Hamlet sin dudas se lleva los 
+laureles entre las frecuentes evocaciones shakesperianas (Rinesi 2003). La literatura no dejó de 
+ser fuente de inspiración para los estudios políticos, aunque ante su creciente profesionalización 
+—no exenta de burocratización— fue acotando su influencia al suministro de títulos atractivos 
+para el mercado editorial o académico.3 A pesar de ello, es posible sostener que la literatura es 
+un campo fértil no sólo para la extracción de metáforas sugerentes sino como un terreno en que 
+se pueden clarificar conceptos de la teoría política y ensayar un modo de pensamiento político, 
+en especial para aquellas perspectivas que intentan salir del encorsetamiento positivista que 
+confunde precisión con pobreza del lenguaje y sofisticación estadística.4  
+Una notable excepcionalidad encontramos en la novela La guerra del fin del mundo de 
+Mario Vargas Llosa, no porque el autor se dedique a la teoría política, sino por la complicidad 
+de la trama de la novela con ciertas perspectivas teóricas contemporáneas. En este horizonte, el 
+artículo tiene como objetivo realizar una lectura de La guerra del fin del mundo y sugerir su 
+relación con categorías centrales de la teoría política de inspiración posfundacional como 
+heterogeneidad, antagonismo, exterior constitutivo, significante vacío, discurso y hegemonía. El 
+trabajo que presentamos, de este modo, pretende aportar a la discusión de ciertas categorías 
+teórico políticas que muchas veces por su grado de abstracción han suscitado dificultades pero 
+también ofrecer claves de lectura de esta novela desde la teoría política actual.  
+                                                           
+1 Aristóteles lo argumentó en su momento: “La distinción entre el historiador y el poeta no consiste en 
+que uno escriba en prosa y el otro en verso (…). La diferencia reside en que uno relata lo que ha sucedido, 
+y el otro lo que podría haber acontecido. De aquí que la poesía sea más filosófica y de mayor dignidad 
+que la historia, puesto que sus afirmaciones son más bien del tipo de las universales, mientras que las de 
+la historia son particulares” (Poética 1451b 1-10). 
+2 Nos referimos a las posiciones que a juicio de autores de Chantal Mouffe (2007) y Jacques Rancière 
+(1996) diluyen el elemento propiamente político de la filosofía política al aniquilar el conflicto en aras de 
+del diálogo, la ética, el sistema institucional o el mercado.  
+3 La obra de Eduardo Rinesi, Política y Tragedia (2003) es una honrosa excepción que ubica a 
+Shakespeare entre Maquiavelo y Hobbes, a partir de un análisis de la lógica de Hamlet.  
+4 Uno de los primeros filósofos políticos que incorporó elementos de la novela en sus escritos fue Thomas 
+Hobbes. No sólo el título de su obra más conocida recupera una figura bíblica como elemento 
+condensador del Estado absoluto, sino que ofrece en un breve pasaje, analizado lúcidamente por Leiser 
+Madanes (2004), una mención de Don Quijote de la Mancha en la que realiza una lectura desde su propia 
+teoría política. Para Hobbes, el verdadero protagonista de la novela de Cervantes no es el Quijote sino 
+Alonso Quijano, pusilánime lector de novelas de caballería que representa la figura de quien no está apto 
+para el pacto puesto que ha perdido la doble condición humana: el miedo a la muerte y la racionalidad 
+utilitarista.  
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+3 
+El artículo que presentamos propone una lectura desde la teoría política de La guerra 
+del fin del mundo.5 No es por lo tanto un estudio sobre la obra de Vargas Llosa o sobre los 
+trabajos de Laclau, sino la exploración de un terreno común en el que la literatura y la teoría 
+política potencian sus alcances para decir sobre aspectos sociopolíticos. Advertirá el lector la 
+paradojal situación resultante de poner en complicidad las posiciones de Ernesto Laclau —y de 
+las teorías posfundacionales—6 y la narración de Mario Vargas Llosa. El primero se cuenta 
+entre los defensores de las potencialidades del populismo latinoamericano para consolidar una 
+democracia radical, el segundo se ubica entre los más acérrimos críticos del populismo y 
+defensores del liberalismo.7 Incluso algunos autores, como Horst Nitschack (2011), sostienen 
+que La guerra del fin del mundo marca un punto crucial en el devenir ideológico de un joven 
+Vargas Llosa simpatizante de la Revolución Cubana hacia sus posiciones liberales actuales. La 
+orientación de la novela estaría dada por su contenido. En una línea marcada por el ensayo de 
+Ángel Rama (1982), Seymour Mentón (1992) por ejemplo inscribe a la novela que trabajamos 
+aquí como un alegato en contra del fanatismo (teniendo como reverso la experiencia de Sendero 
+Luminoso en Perú).8 Nitschack (2011) argumenta que no sólo el contenido de la novela sino 
+también la poética es dominada por el giro neoliberal hacia lo individual y lo subjetivo en 
+detrimento de lo social e histórico. Sin embargo, tal vez no sea posible encontrar mejor imagen 
+de la teoría política posfundacional (incluida la del populismo como especie) que La guerra del 
+fin del mundo. De allí la posibilidad de una lectura de la novela de Vargas Llosa a partir de un 
+conjunto de categorías posfundacionales que aportan tanto a una interpretación de la novela 
+como a la indagación sobre las potencialidades del texto literario para comprender algunos 
+aspectos de la teoría política contemporánea.  
+No podemos pasar por alto que el propio Laclau hace referencia a la revuelta de 
+Canudos en varios pasajes de su obra, aunque sin mencionar la fuente de su evocación:  
+ 
+                                                           
+5 La rebelión de Canudos ha sido un objeto recurrente en la literatura. Por supuesto que la obra canónica 
+al respecto es Os Sertões de Euclides da Cunha (1902), fuente de inspiración directa de Vargas Llosa (cf. 
+Mac Adam 1984, Castro-Klarén 1986, Schraibman y Little 1988, Wasserman 1993). Además el 
+acontecimiento ha sido inspiración para cine de ficción y documental, así como la fotografía. La 
+historiografía, especialmente la brasileña, ha dedicado estudios a las controversias sobre el carácter de la 
+experiencia de Canudos y su vinculación con los sectores de la restauración monárquica. No es nuestro 
+objeto aquí inmiscuirnos en estas interesantes y extensas querellas ya que los fines de este trabajo son 
+mucho más acotados y precisos. 
+6 Sobre el pensamiento político posfundacional, véase Marchart 2009. 
+7 La definición de “neoliberalismo” no es unívoca. En América Latina el neoliberalismo conjugó 
+liberalismo económico con políticas conservadoras en el plano cultural. La posición ideológica de Vargas 
+Llosa en este sentido se acerca más a un “liberalismo a secas” o a un tipo de “libertarianismo” que al 
+neoliberalismo, aunque sus vínculos políticos se inscriban en este campo.  
+8 La guerra del fin del mundo como un alegato contra el fanatismo (Del Consejero, de Galileo Gall y del 
+coronel Moreira César) es sugerido por Ángel Rama (1982) y se ha consolidado como una clave de 
+interpretación de la novela (Oviedo 1991; Burneo 2010). Fernánde-Meari (2010) pone en suspenso esta 
+afirmación y arguye la construcción de una voz imparcial (algo similar sobre el narrador sostienen 
+Schlickers 1998 y Rama 1982). Cornejo Polar (1982) identifica al relativismo presente en la novela como 
+un contrapunto contra los fanatismos. La descripción imparcial —incluso de las prácticas violentas— no 
+se inscribe en un esquema de interpretación ético o político, lo que libera al lector a su propia 
+identificación. Allí existe otra vinculación entre la novela y la teoría política (en especial la de Ernesto 
+Laclau), la exposición de una lógica de construcción de los acontecimientos políticos se encuentra 
+escindida de la dimensión normativa (ver Chrtichley 2008) 
+Vargas Llosa expresó en una entrevista: “Para mí, quizá eso es lo que tiene Canudos de ejemplar para un 
+latinoamericano, porque eso, esa ceguera recíproca, a partir de la visión fanática de la realidad, de la que 
+participan tanto republicanos como jaguncos, es la misma ceguera para admitir la crítica que la realidad 
+hace a la visión teórica. Esa es la historia de América Latina. […]. Quizá es una de las razones por las que 
+Canudos me impresionó tanto, porque en Canudos eso se puede ver en pequeño, casi como en laboratorio. 
+Pero el fenómeno es general: es el fenómeno del fanatismo, básicamente, de la intolerancia que pesa 
+sobre nuestra historia” (Setti 1989). 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+4 
+para dar un ejemplo: un predicador milenarista, Antonio Conselheiro, estuvo 
+durante décadas errando por el sertão brasileño a fines el siglo XIX sin reclutar 
+demasiados adeptos. Todo cambió con la transición del Imperio a la república y los 
+numerosos cambios administrativos y económicos que esto trajo, los que, de 
+diversas maneras, trastocaron la vida tradicional de las áreas rurales. Un día, 
+Conselheiro llegó a una villa donde la gente se estaba rebelando en contra de los 
+recaudadores de impuestos y pronunció las palabras que luego se iban a convertir 
+en la equivalencia clave de su discurso profético: “La república es el Anticristo”. A 
+partir de ese punto, su discurso fue una superficie de inscripción para todas las 
+formas de descontento rural y se transformó en el punto de partida de una rebelión 
+de masas que le llevó al gobierno varios años derrotar (Laclau 2003: 89-90).9  
+ 
+Laclau utiliza esta situación decimonónica como un ejemplo del funcionamiento de la lógica de 
+la política y resulta a primera vista evidente la coherencia de este acontecimiento con el 
+andamiaje teórico posfundacional (y volveremos sobre ella). Pero además existen otros pasajes, 
+personajes y figuras que resultan esclarecedores para la teoría política como vehículos para 
+discutir y comprender conceptos como Heterogeneidad, Antagonismo, exterior constitutivo, 
+significante vacío, discurso y hegemonía, sobre estas cuestiones trataremos a continuación. 
+ 
+2. Hacia Canudos: experiencia y discurso 
+El peregrinar de Antonio Vicente Mendes Maciel (nombre real del Consejero) por el 
+Nordeste de Brasil es retratado por Vargas Llosa en una minuciosa reconstrucción de la 
+historicidad de la experiencia revoltosa.10 Al punto que vemos a Mendes Maciel realizando 
+visitas iteradas a los pueblos polvorientos y calurosos, construyendo un tiempo cíclico (crono-
+lógico). La presencia y las palabras del predicador se van incorporando al acervo cultural de los 
+habitantes de esos desolados parajes que año tras año son testigos de la visita del peregrino. 
+Inicialmente la actividad del Consejero se concentró en promover aspectos religiosos. Llegaba a 
+los poblados, rezaba (a veces credos conocidos y autorizados por la Iglesia como el 
+padrenuestro o el avemaría, otras veces oraciones de las que no se tienen registros), emitía sus 
+consejos, sermoneaba, reprendía los actos impíos, pedía misericordia por los enfermos y 
+desvalidos, y continuaba su camino con un reducido séquito de peregrinos que se le sumaban y 
+se le restaban casi con la misma facilidad. Año tras año, se nos narra, Antonio Vicente Mendes 
+Maciel frecuentaba los parajes que, admirados por la condición humana y —tal vez— divina del 
+caminante, poco a poco seguían sus predicas sobre cómo conducirse, honrar al Señor y alejar al 
+Demonio. Ahora bien, tres elementos podemos rescatar en términos analíticos de esta primera 
+etapa: la irrupción del Consejero, el discurso y las condiciones de recepción.  
+La figura del peregrino era conocida entre los habitantes de los pueblos pobres del 
+Nordeste de Brasil. Su ascetismo, su laboriosidad proverbial y sus consejos piadosos 
+configuraron lentamente un lugar de enunciación particular y legitimaron los sentidos comunes 
+movilizados sentando las bases para un liderazgo carismático. Los elementos del discurso son 
+también comunes para los pobladores, versaban sobre el cuidado terrenal de los altares, iglesias 
+                                                           
+9 Slavoj Žižek también refiere la experiencia de Canudos en varias ocasiones como un ejemplo de 
+comunidad radical que se sustrae a los dominios del orden hegemónico y establece nuevas regulaciones 
+para la vida. En “From Politics to Biopolitics... and Back” (2004) el autor esloveno cita explícitamente la 
+novela de Vargas Llosa y argumenta: “The echoes of Canudos are clearly discernible in today’s favelas 
+in Latin American megalopolises: are they, in some sense, not the first “liberated territories”, the cells of 
+futural self-organized societies? Are institutions like community kitchens not a model of “socialized” 
+communal local life? The Canudos liberated territory in Bahia will remain forever the model of a 
+liberated space, of an alternative community which thoroughly negates the existing state space” (2004a: 
+10). No deja de ser curioso, si damos crédito a Walnice Nogueira Galvão (1980) que el origen de la 
+palabra “favela” provenga de los asentamientos formados por los soldados republicanos que a su regreso 
+de combatir a Conselheiro ocuparon la laderas del Morro de la Favela. 
+10 La precisión historiográfica del relato de Vargas Llosa no es objeto aquí de discusión en tanto nuestro 
+propósito se configura en otra dimensión analítica. 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+5 
+y cementerios, y fundamentalmente el cuidado del alma, pero también abordaban asuntos 
+existenciales (la muerte, el dolor, el fin del mundo, el sufrimiento). Las intervenciones 
+producidas por la aparición del itinerante (tanto en sus consejos como en sus prácticas ascéticas) 
+son receptadas y decodificadas —convertidas en sentido— desde imaginarios tradicionales y 
+religiosos, de allí se comprende en parte su efectividad. Las acciones que generaban, mediadas 
+por los significados atribuidos a su presencia, se situaban en las labores comunitarias ligadas al 
+mantenimiento y refacción de centros ceremoniales y una ética cuasi estoica. Es decir, el 
+discurso se tramitaba desde significados religiosos y producía acciones en un campo individual 
+y comunitario pero claramente no-político.  
+Sin embargo, las condiciones materiales de recepción del discurso cambiaron con “la 
+sequía de 1877, cuando los meses de hambruna y epidemias que mataron a la mitad de hombres 
+y animales de la región” (p. 35). Este aspecto natural-climatológico fue convergente con otro 
+proceso, esta vez político, el tránsito del Imperio a la República. En 1888, la Monarquía abolió 
+la esclavitud y produjo así un cambio en el marco jurídico con implicancias directas en la 
+reestructuración de las relaciones sociales. Al año siguiente fue declarado el fin del Imperio y el 
+comienzo de la República, y con ella la separación de la Iglesia del Estado y la instauración del 
+matrimonio civil. Esta medida, al ser conocida por el Consejero, motivó su primera intervención 
+eminentemente política. La disposición impía fue promovida —dijo— por protestantes y 
+masones. Las palabras del predicante establecieron la identificación de un enemigo radical 
+como encarnación del Otro-demoníaco. A la par introdujeron una contradicción entre la ley 
+divina y la ley humana (al modo de Antígona). Para Vargas Llosa fueron especialmente dos 
+políticas las que sublevaron a la comunidad: la imposición del sistema métrico decimal y el 
+censo.  
+El reemplazo del palmo y la vara por el centímetro y el metro supuso el intento de 
+introducir nueva manera de mensurar la realidad material, de organizar la relación de los sujetos 
+con el mundo que los rodea. La instrumentación del Censo, implicó por su parte la aparición de 
+la estadística, aquella “ciencia del Estado”, según Foucault, concordante con el avance de un 
+modo nuevo de poder pastoral (Foucault 2007: 203). Esta política poblacional por parte del 
+incipiente Estado brasileño produjo una disputa de pastores por el cuidado de las almas y los 
+cuerpos (“Aquí me quedo yo con el rebaño” dice el Consejero). El significado otorgado al 
+Censo por parte del predicante ubicó a esta política estatal como un instrumento de la República 
+para restaurar la esclavitud e imponer un régimen impositivo expoliatorio. De este modo activó 
+dos “temores”, ordenó el malestar y lo puso en clave de disputa por el orden social, por los 
+principios estructurantes de la totalidad social. La operación retórica nos muestra la 
+performatividad del discurso y recupera el problema de la gestión de demandas sociales. Sin 
+embargo cabe mencionar que el Consejero intervino en una situación donde las “demandas” de 
+la plebs no habían sido formuladas como tales. La productividad del discurso es en la novela 
+mucho más precisa y radical de lo que la teoría del populismo parece suponer. El discurso 
+produce la demanda al proveer un espacio de representación y no sólo articula demandas pre-
+establecidas, y lo hace a partir de ofrecer un cierre ideológico y aportar sentidos para construir 
+la significación.11 
+El contexto de la acción histórica del Consejero (en el que se inscribe la experiencia que 
+desembocará en Canudos) lo podemos leer en términos de un momento de dislocación.12 Las 
+condiciones materiales de (re)producción de la vida se trastocaron tanto por el fin de la 
+esclavitud como por las sequías. La liberación de esclavos produjo un nuevo heterogéneo al 
+orden republicano incipiente. Lo que había sido incorporado al sistema desde el lugar de la 
+subalternidad y allí constituido como parte del orden colonial-esclavista adquirió un nuevo no-
+lugar, resistente a la incorporación. Las relaciones sociales perdieron sus principios 
+estructurantes y no se suministró una nueva hegemonía para suturar eficazmente el espacio 
+                                                           
+11 La teoría del proceso político interesada en la formación de movimientos sociales utiliza la idea de 
+“enmarcado” para referirse a estos sentidos que permiten que una situación pueda interpretarse de una 
+manera determinada (McAdam 1994). 
+12 La categoría de dislocación es deudora de la idea de “crisis orgánica” de Antonio Gramsci. 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+6 
+dislocado. Las nuevas instituciones republicanas que se impusieron a una trama de relaciones 
+sociales heterogéneas (en tanto ordenadas bajo otros parámetros) jaquearon imaginarios 
+colectivos y tensionaron la necesidad de ciertos modos de organización social (las unidades de 
+medida funcionan allí como metáfora de esta ruptura). La política de la República no consiguió 
+dominar los sentidos subalternos, no logró constituir una hegemonía que articule los elementos 
+del orden previo bajo una nueva configuración. La constitución hegemónica de la República 
+falló al no poder dominar las consecuencias del cambio en la estructuración del orden social, 
+escenificada por la transformación histórica que dislocó las posiciones sociales establecidas 
+(liberando a los esclavos).13 Ante la ausencia de sentidos que atendieran a la situación de 
+sectores subalternos fue el Consejero quien proveyó claves de inteligibilidad para el nuevo 
+tiempo político cuando dijo que “el Anticristo estaba en el mundo y se llamaba República” (p. 
+42), remitiendo a sentidos comunes extendidos en la población. La emergencia del desacuerdo 
+se plasmó en la desobediencia, en la quema de los edictos republicanos. Esta acción del 
+consejero fue un milagro, si atendemos a la definición propuesta por Hannah Arendt: “todos los 
+milagros, aquellos protagonizados ya sea por hombres o por agentes divinos, deben ser siempre 
+interrupciones de alguna serie natural de eventos, o de algún proceso automático, en cuyo 
+contexto se constituyen como lo totalmente inesperado” (Arendt 1991: 1). El Consejero produjo 
+una disrupción performativa tanto de su propia envestidura como de un acontecimiento, una 
+nueva serie que desembocará en Canudos. 
+El efecto de la intervención del Consejero no puede comprenderse sin la referencia a 
+dos dimensiones claves en la movilización política y la conformación de sujetos colectivos. La 
+primera es la dimensión discursiva de la política. La teoría de Laclau ha sido también conocida 
+como Teoría (Política) del Discurso por la centralidad que éste adquiere en la perspectiva 
+analítica. Ahora bien, por discurso —como Laclau ha repetido incesantemente para evitar 
+equívocos— no debe entenderse actos de habla o escritura sino toda práctica que produce 
+sentido (Laclau y Mouffe 2004; Laclau 2002b). De este modo todo objeto humano se produce 
+internamente al discurso. Más allá de las dificultades de la definición es innegable que una 
+dimensión de la política se ubica en el terreno discursivo y gran parte de los desarrollos de la 
+teoría política contemporánea se nutrieron de esta discusión. En esta perspectiva adquirieron 
+centralidad las nociones de significantes vacíos y significantes flotantes. Y tal vez podemos 
+reivindicar la intervención de Galileo Gall —anarquista y frenólogo— como antecedente del 
+trabajo de Laclau “¿Por qué los significantes vacíos son importantes para la política?” (1996). 
+Vargas Llosa le hace decir al anarco-frenólogo escocés: 
+ 
+En última instancia, los nombres no importaban, eran envolturas, y si servían para 
+que las gentes sin instrucción identificaran más fácilmente los contenidos, era 
+indiferente que en vez de decir justicia e injusticia, libertad y opresión, sociedad 
+emancipada y sociedad clasista, se hablara de Dios y del Diablo. 
+ 
+La segunda dimensión se concatena a la anterior. Según Laclau, esta decisión de equiparar a la 
+República con el Mal fue aceptada por la gente “porque era el único discurso que se ocupaba de 
+sus penurias” (Laclau 2003: 89) a la vez que no entraba en contradicción con sus creencias. Dos 
+momentos de la novela intuyen esta operación. El primero es puesto en voz del mismo Galileo 
+cuando se pregunta: “¿Son los símbolos religiosos, míticos, dinásticos, los únicos capaces de 
+sacudir la inercia de masas sometidas hace siglos a la tiranía supersticiosa de la Iglesia y por eso 
+los utiliza el Consejero?”. El segundo es referencia del propio narrador —de posición 
+imparcial— que afirma que el Consejero “les decía cosas que podían entender, verdades en las 
+que podían creer” (p. 36). Gramsci, en referencia al folklore, habló de estratos fosilizados para 
+identificar sentidos y prácticas persistentes en tramos de la cultura popular que —aún siendo 
+conservadores— en ocasiones pueden oficiar de plataformas para la acción de los sectores 
+                                                           
+13 Para un estudio de los usos de la categoría de hegemonía en la teoría política de Ernesto Laclau: 
+Retamozo 2011.  
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+7 
+subalternos.14 Así se establece un vínculo entre la articulación de un discurso y el campo de 
+efectos producido por el mismo. Sin embargo, 
+ 
+[…] no significa desde luego que todo discurso que se presente como encarnación 
+de la plenitud habrá de ser aceptado. Su aceptación depende de la credibilidad y 
+esta credibilidad no le será acordada si sus propuestas chocan con los principios 
+básicos que informal la organización de un grupo (Laclau 2000: 82). 
+ 
+La centralidad de las condiciones de recepción en el proceso de interpelación, herencia 
+del planteo althusseriano, es uno de los asuntos no resueltos completamente por la teoría que 
+prestó mucha más atención al discurso que a sus condiciones de producción y de 
+reconocimiento. Emilio de Ipola apoyado en los aportes de Eliseo Verón reparó tempranamente 
+en que la teoría de Laclau no atendía con la suficiente precisión a las condiciones de recepción 
+del discurso (de Ipola 1982). La inclusión de las condiciones de recepción compuestas por 
+elementos complejos que conjugan situaciones materiales con la inescindible significación de 
+las mismas es un aspecto crucial en la perspectiva contemporánea de la teoría para comprender 
+los campos de efectos de los discursos políticos. Es aquí donde podemos advertir que el 
+resultado interpelante del discurso del Consejero se comprende, al menos en parte, por la 
+historicidad de la conformación de las subjetividades colectivas y los sentidos y prácticas que 
+constituyen la cultura popular. No hay otra forma de acceder a estos sentidos disponibles si no 
+es a través de un exhaustivo estudio socio-histórico que admita la complejidad y discontinuidad 
+del campo de la cultura, a la vez que estudie los modos en que los sentidos se producen, se 
+reproducen y articulan en las subjetividades colectivas (Thompson 1989). 
+ 
+3. Antagonismo y política 
+Predicaba contra la República. Es cierto.  
+El antagonismo era inevitable.  
+Euclides da Cunha, 154 
+ 
+La operación discursiva implica una decisión que es a la vez articulación y creación. 
+Decisión que no surge de la nada, pero tampoco está dominada por las condiciones estructurales 
+(la estructura es por definición descentrada e indecidible) ni está sometida a sus condiciones de 
+recepción en tanto también disputa los modos de su propia receptividad. Decisión, acción y 
+discurso son conceptos claves tanto para la novela como para la teoría política, en particular si 
+pensamos la configuración de un sujeto político. La teoría política y la novela tienen entre sus 
+preocupaciones centrales la conformación de los sujetos colectivos. Aquí podemos hablar del 
+sujeto según la máxima del posestructuralismo “El sujeto no es otra cosa que la distancia entre 
+la estructura indecidible y la decisión” (Laclau 2000: 52). La intervención del Consejero instaló 
+condiciones para la emergencia de ese sujeto fundador de Canudos y nos ayuda a pensar la 
+paradoja de la decisión donde el colectivo se ve obligado a actuar sin que su subjetividad esté 
+constituida (Laclau 1998: 115).  
+El acto fundacional radicó en la elaboración de una relación eminentemente política al 
+instituir un enemigo, un hostis como figura del enemigo radical (Schmitt 1998).15 Más allá de 
+Schmitt, la relación se volvió política (no todo es político pero todo es politizable, Arditi 1995) 
+en tanto en/desde el campo religioso se instauró un enemigo (“La república es el Anticristo”). El 
+locus de emergencia de lo político se ubicó en la politización de una disposición administrativa 
+(del orden de “la política”). Esto produjo la aparición de un antagonismo fuerte en tanto se 
+                                                           
+14 En sus primeros trabajos Laclau (1978) debatía sobre la importancia de articular las “tradiciones 
+populares” en los discursos políticos de la izquierda so pena de perder capacidad de interpelación entre 
+los sectores subalternos.  
+15 Enrique Serrano (1996) uno de los mayores estudiosos de la obra de Schmitt en América Latina en un 
+excelente trabajo sobre la dimensión del enemigo absoluto cita a la novela de Vargas Llosa como una 
+muestra del funcionamiento de la lógica del enemigo radical.  
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+8 
+impugnó la ley de los hombres en nombre de la ley de Dios. La situación evocada por Vargas 
+Llosa pone en agenda la cuestión del antagonismo como categoría para pensar la configuración 
+del conflicto social.  
+ 
+En el caso del antagonismo nos encontramos […] la presencia del “Otro” me 
+impide ser totalmente yo mismo. La relación no surge de identidades plenas, sino 
+de la imposibilidad de constitución de las mismas. La presencia del Otro no es una 
+imposibilidad lógica, ya que existe —es decir, no es una contradicción; pero 
+tampoco es subsumible como momento diferencial positivo en una cadena causal, 
+ya que en ese caso la relación estaría dada por lo que cada fuerza es, y no habría 
+negación de ese ser (Laclau y Mouffe 2004: 168). 
+ 
+La identidad del otro, el ser-República (constituida por la escisión de la Iglesia, 
+impuestos, estadísticas), impide el ser de la comunidad construida en torno a valores religiosos 
+al amenazarlos. La presencia y la acción del otro-República amenazaron la identidad y 
+generaron condiciones para el conflicto.16 Pero el conflicto no emerge sin la intervención 
+política que inscribe el acontecimiento o relación social en un discurso y produce un 
+significado. Mientras que los discursos del Consejero previos a la irrupción de la hambruna y la 
+República originaron acciones religioso-comunitarias, el nuevo contexto generó condiciones 
+para una acción política plasmada, inicialmente en la desobediencia, en un estado de rebelión 
+incipiente.17 Si en la primera etapa las tareas mandatadas fueron dedicarse a cultivar el alma y 
+los edificios sacros para ganar el Cielo, en la segunda etapa la tarea fue la defensa del Consejero 
+(y a través de él tanto de Dios como de la comunidad) de las autoridades políticas y militares, 
+algo que a su vez es el vehículo para ganar el Cielo. “Ellos saben por qué pelean —dice el 
+Coronel Moreira César— y eso lo hace bravos, a veces heroicos” (p. 227). Aquí entra a jugar 
+otra dimensión diferente al problema del sujeto que abordamos con anterioridad y es la cuestión 
+de la comunidad. La República ataca al modo de ser de la comunidad, pero este modo de ser se 
+sustancia en el mismo acto de amenaza, no hace falta mucha imaginación para evocar la idea de 
+un exterior radical constitutivo como modo de interpretar la función de la República para 
+Canudos (condición de posibilidad e imposibilidad del cierre simbólico).18 
+La amenaza produce una reconfiguración de los modos de vida y funciona como 
+catalizador para una activación de la potencia negada por la totalidad vigente (tanto imperial 
+como republicana). Canudos, como promesa de plenitud, es el reverso de la situación de dolor y 
+negación, del sufrimiento de aquellos que no son contados en el ordenamiento. Una promesa 
+que requiere de la conducta plasmada en la defensa del Consejero y se ubica en el terreno 
+celestial, de allí su lugar de nueva ética sacrificial. Dice José Miguel Oviedo: “la delirante 
+prédica del Consejero tiene raíces profundas en la cultura de la región y […] ofrece el único 
+consuelo al alcance de sus pobres gentes: los males de este mundo serán castigados y los 
+desdichados alcanzarán la gloria eterna (1991: XVII). 
+La radicalidad del otro mantiene la fuerza del antagonismo. La experiencia de Canudos 
+como comunidad religiosa no encuentra espacio dialógico con la otra parte del conflicto. 
+                                                           
+16 Raúl Burneo (2010) trabaja la dimensión del Otro en la novela de Vargas Llosa desde la mirada que 
+ofrece Todorov. 
+17 El enfoque del proceso político en el estudio de los movimientos sociales ha hecho especial hincapié en 
+el cambio en la Estructura de Oportunidades Políticas para explicar la emergencia de la acción colectiva. 
+Es indudable que el tránsito del Imperio a la República trastoca las condiciones políticas, incluso la 
+división entre las elites —un rasgo de una EOP expansiva— puede reconocerse en el caso de Canudos 
+con la intervención clandestina del Partido Republicano Progresista suministrando armas a los yagunzos 
+para diezmar el poder de los Autonomistas en el estado de Bahía. La posibilidad de acceder a recursos es 
+relevante en la comprensión de las acciones colectivas, no obstante no necesariamente tienen fuerza 
+explicativa.  
+18 Patricia Montenegro (1984) hace una referencia al juego entre exterioridad e interioridad de Canudos y 
+la República a partir de la exclusión de la locura evocada por Foucault en alusión a “La nave de los 
+Locos”. 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+9 
+Canudos, como dice el periodista miope “Más que de locos es una historia de malentendidos”. 
+Pero ese “malentendido” no puede resolverse en una mesa de negociaciones, a través de una 
+deliberación o acción comunicativa de inspiración habermasiana. Estamos en presencia, antes 
+bien, de lo que en el campo de la teoría política se presenta como un desacuerdo (Rancière 
+1996: 8).  
+ 
+El desacuerdo no es el conflicto entre quien dice blanco y quien dice negro. Es el 
+existente entre quien dice blanco y quien dice blanco pero no entiende lo mismo o 
+no entiende que el otro dice lo mismo con el nombre de la blancura.  
+ 
+Lo que está en juego es el fundamento de la comunidad y la legitimidad de la ley. Ante 
+el intento de producir un fundamento “republicano”, sintetizado en el lema comtiano de “orden 
+y progreso” inscripto en la bandera (1889), una parte se sustrae de ese fundamento, lo impugna, 
+y propone restituir el principio ordenador de la comunidad en lo trascendente: “Dios y el Buen 
+Jesús” han dictado normas que los hombres deben respetarse, por lo tanto se niega la pluralidad 
+de concepciones de bien, la pluralidad. La comunidad se legitima en un principio trascendente, 
+religioso, que se coloca por fuera del espacio de lo contingente y se postula como inmutable. 
+Autores como Lefort (1991), han identificado esto como un rasgo de los sistemas totalitarios, en 
+los que no se puede cuestionar la ley. Por otro lado, la relación “arquipolítica” o (archipolítica) 
+impide mantener la diferencia entre lo político y la política promoviendo para Rancière la 
+realización integral de la physis en el nomos.19 En este sentido no se acepta la relación 
+contingente con el propio fundamento de Canudos (no se puede poner en cuestión la voz del 
+Consejero como encarnación de Dios), ni se puede tramitar la relación antagónica en un terreno 
+propio de “la política” y así sublimarlo en una instancia agonal (Mouffe 2007). La liberación —
+que introduce un radical principio igualitarista— no produce un lugar de libertad, para usar la 
+distinción arandina. Esto se opone a un principio democrático en el que se admiten múltiples 
+identidades y proyectos de plenitud que disputan en la arena política. En efecto, lo que produce 
+Canudos es una aniquilación de la política y con ello de la diferencia entre lo político y la 
+política, fundamental en un ordenamiento democrático. No hay lugar allí para la hegemonía 
+como categoría que ayuda a comprender el funcionamiento de la política, pero hay una lógica 
+hegemónica operando al nivel de la conformación de las identidades sociales y de la comunidad. 
+La experiencia de Canudos tensiona al concepto de hegemonía y muestra las especificidades 
+como concepto. 
+El antagonismo decíamos no se produce entre Autonomistas y los del Partido 
+Republicano, allí hay algo más ligado a lo adversarial y por lo tanto de la política.20 
+Antagonismo existe entre Canudos y la República porque no tienen un espacio de 
+representación común, algo similar ocurre con los republicanos y los monárquicos (no por 
+casualidad se acusó a Canudos de un intento de restauración del imperio).21 La sola presencia 
+del Otro-República jaqueaba y a la vez constituía la propia identidad de los rebeldes, disputa 
+que se materializó en la lucha por el ejercicio de la soberanía territorial para la comunidad 
+política. La imposibilidad de inclusión se plasmó en una guerra por la soberanía, por la 
+autonomía (en el sentido de dictado de la propia norma, aunque el fundamento de Canudos sea 
+heterónomo). La configuración de la comunidad tensiona la autonomía y la heteronomía de un 
+modo que vas más allá de la teoría. En efecto, más que oscilar entre los extremos de lo 
+autónomo y lo heterónomo se produce una subversión de los principios. Por un lado Canudos se 
+                                                           
+19 Para autores como Ranciere y Žižek existen diferentes modos de negar la diferencia entre lo político y 
+la política: arquipolítica, parapolítica, metapolítica, ultrapolítica y pospolítica (o posdemocracia). Para 
+una discusión sobre este punto puede consultarse Marchart 2009.  
+20 Rama (1982), Cornejo Polar (1982), Oviedo (1991), Schlickers (1998: 196) reparan en la dimensión del 
+antagonismo y lo inscriben en el clivaje civilización/barbarie (también, Nitschack 2011). 
+21 Ahora bien, si dirigimos la mirada “desde” el nuevo orden republicano, Canudos es la emergencia de lo 
+Real, aquello que impide el cierre plano del nuevo ordenamiento, el antagonismo como aquello que 
+imposibilita la plenitud.  
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+10 
+convierte en una experiencia que se sustrae al dominio del Estado brasileño, lo que atrae a 
+autores como Žižek. Por otro lado, el principio ordenador es heterónomo-trascendente, Dios 
+interpretado por el discurso del Conselheiro, que dicta la inapelable norma.  
+ 
+4. Exclusiones, sujetos y subjetividades 
+ 
+Era otra gente, otro pueblo, hasta otra raza. Los diarios de la época, en su 
+irresponsabilidad, 
+se 
+encargaban 
+de 
+divulgar 
+toda 
+especie 
+de 
+representación en que los sertanejos aparecían con epítetos de animales, 
+monstruos, seres imaginarios, cualquier cosa que los despojase de su 
+obstinada humanidad. […]Debe de haberse producido un alivio general 
+cuando se pudo nombrar al enemigo. Tenga en consideración el lector que 
+él no era un ex político del Imperio ni su hijo o primo, que no era un militar 
+en rebelión, que no era un esclavo negro, que no era indio, que no era un 
+ciudadano. 
+ Walnice Nogueira Galvão, prólogo a Los Sertones 
+ 
+Las condiciones materiales (signadas por las consecuencias de las sequías y las 
+epidemias) y la interpelación del discurso (palabras y acciones) del Consejero atrajeron a una 
+pluralidad de personas. Poco a poco desde los confines del Brasil profundo fueron llegando 
+migrantes atraídos por la promesa de Canudos y se incorporaron a la lógica de una comunidad 
+organizada por ciertos principios básicos y gestionada por el entorno del Consejero. Así, se 
+constituyó una comunidad que, además de la reproducción de la vida, organizó la resistencia y 
+repelió los esfuerzos de la policía por aprender a ese revoltoso que desacataba las órdenes de la 
+República, que ejercía la desobediencia civil y radical. En términos teóricos es importante 
+atender a la conformación de ese colectivo compuesto, según el relato de Vargas Llosa, por los 
+“marcados” (Derrida):22 los pobres, María —violada cuatro veces—, un esclavo asesino de su 
+ama —Joao Grande—. Estos tres términos marcados (el proletario, la mujer y el negro) son 
+centrales en la conformación de la comunidad político-religiosa. Esta comunidad de víctimas de 
+la totalidad vigente —para usar la expresión de Enrique Dussel (1998)— evoca la idea de 
+exclusión que propuso Emmanuel Levinas y nos conduce por otro sendero a lo religioso y la 
+tradición en la novela más allá de la evidente presencia de la función del Consejero. Autores 
+como Leopoldo Bernucci (2009) y Marie-Madeleine Gladieu (2010) han trabajado 
+profusamente las figuras bíblicas y la intertextualidad en la obra de Vargas Llosa, no obstante 
+hay una dimensión que quisiéramos rescatar ligada a lo político-religioso en la 
+conceptualización del Otro-negado. Enrique Dussel recuerda que la tradición bíblica obliga a 
+pensar en la justicia del huérfano, la viuda y el pobre, figuras de los excluidos.23 Para ellos 
+Canudos es la tierra prometida o al menos el último y único reducto de esperanza para los sin-
+lugar, para la heterogeneidad excesiva al orden republicano (y en parte al imperial). 
+ La comunidad religiosa tiene una función redentora a partir de la potencia de la 
+negatividad enraizada en la multitud. Esta situación de negatividad y radicalidad —la 
+subversión del incipiente orden burgués y periférico— es la que atrae al anarco-frenólogo 
+Galileo Gall, que identifica en esta especie de lumpen-proletariado criollo la reserva de las 
+                                                           
+22 Pajeú, el caboclo sin nariz, es la condensación de ese ser “marcado”. 
+23 Alejandra Mailhe (2010) analiza los diferentes registros-construcción de la otredad condensada en 
+Canudos a partir de las narraciones y las imágenes fotográficas, especialmente de la obra de Flavio de 
+Barros “400 jagunços prisioneiros”. Según su interpretación, allí “El fotógrafo elige deliberadamente dar 
+protagonismo a la condición femenina y maternal de los canudenses, desplazando a los pocos hombres 
+sobrevivientes al fondo de la imagen, probablemente para evitar el duro retrato en primer plano de los 
+condenados al degüello, así como también para generalizar, por medio de la puesta en foco de la 
+condición femenina y materna, la victimización de los vencidos. Además de feminizar a los 
+sobrevivientes, ese gesto puede leerse como complicidad para con la eliminación de las víctimas 
+masculinas. Recuérdese además que, estratégicamente, ésta es la única imagen elegida por Euclides para 
+representar a los “otros” en la primera edición de Os sertões (2010: 52). 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+11 
+energías revolucionarias.24 Ahora bien, más que una articulación de demandas que responden a 
+la lógica de la equivalencia, encontramos algo que es interesante rescatar para la teoría, la 
+posibilidad de construir una identidad radical que a partir del discurso ordena simbólicamente el 
+campo y produce una comunidad de lo heterogéneo. Lo que se articulan no son demandas 
+preestablecidas sino posiciones que se encontraban en situación de subalternidad (o 
+exterioridad), y allí se produce una intersubjetividad que a la vez que se constituye como 
+colectivo (a partir de la superficie especular que ofrece el Consejero como cierre ideológico) 
+libra una lucha por el reconocimiento. El reconocimiento de la negatividad produce una 
+intersubjetividad doliente, los diferentes personajes unidos por el sufrimiento constituye a la 
+comunidad de víctimas. El periodista miope —una alusión indirecta al propio Euclides da 
+Cunha— reflexiona que “Él también era monstruo, tullido, inválido, anormal. No era accidente 
+que estuviese donde habían venido a congregarse los tullidos, los desgraciados, los anormales, 
+los sufridos del mundo. Era inevitable pues era uno de ellos” (p. 273). 
+No sólo lo subalterno se convirtió en oprimido en el marco simbólico que ofreció 
+Canudos, sino también lo heterogéneo tuvo su lugar, un modo de inclusión y por lo tanto de 
+subversión de esa heterogeneidad. Las metáforas de esta situación vienen de la mano del León 
+de Natuba deforme y de gran cabeza, los habitantes del Circo: el Enano, la Barbuda y el Idiota y 
+los criminales como Joao Abade (ex Joao Satán), redimidos desde su participación en la 
+comunidad.25 Los cirqueros —específicamente el Enano— sin embargo no se incorporaran 
+plenamente a Canudos y mantienen su resabio de heterogeneidad radical, un exceso no 
+asimilable que Žižek refirió con la fórmula lacaniana del caput mortem. Si el Alonso Quijano 
+(“el Quijote”), para Hobbes no estaba preparado para el pacto porque había perdido el miedo a 
+la muerte, el Enano no puede incorporarse a la comunidad precisamente por mantener ese 
+temor.26 Los yagunzos de Canudos, no sólo han perdido es miedo a la muerte violenta, sino 
+encuentran en ese acto la posibilidad de la salvación, la redención y la felicidad (la moral de 
+inmolación). El estudio del discurso religioso y de los fundamentalismos ha reservado un 
+capítulo al análisis de los comandos suicidas que son movidos no tanto por un deber moral sino 
+por la búsqueda de trascendentalidad.  
+ 
+5. El Conselhero: discurso y significantes 
+El Consejero es la figura que siendo un particular se eleva al rango de la universalidad. 
+Su humanidad y su fragilidad ocupan el lugar de imperfecta representación de la divinidad. Esta 
+operación narrada por Vargas Llosa mantiene la estructura teórica que Laclau utiliza para pensar 
+el funcionamiento de la lógica hegemónica primero y del populismo después. La relación de lo 
+particular (la figura del Consejero) con el imposible universal (Dios), mantiene también la 
+lógica del “objeto a” lacaniano. Asimismo evoca la cuestión de la retórica y el misticismo para 
+pensar la política (aspectos reconocibles en el Consejero), asuntos han sido objeto de Laclau en 
+un libro que precisamente contiene esas tres palabras “Misticismo, retórica y política” (2002) y 
+desarrolla su vínculo:  
+ 
+La segunda posibilidad de pensar la relación entre universalidad y particularidad 
+está relacionada con el cristianismo. El punto de vista de la totalidad existe, pero 
+                                                           
+24 Esta confianza en la heterogeneidad como potencia de cambio puede leerse también en Franz Fanon y 
+actualmente en la obra de Slavoj Žižek (2004).  
+25 La cuestión de la redención es crucial: Joao Abade se casa con una de sus víctimas y María Cuadrado 
+que había cometido filicidio culmina salvando el cadáver a un bebé de las fauces de las ratas. 
+26 “—Es un hombre que tiene un gran terror a la muerte —murmuró el periodista miope, calzándose de 
+nuevo los lentes—. No es amor a la vida, entiéndame. Su vida ha sido siempre abyecta. Fue vendido de 
+niño a un gitano para que fuera curiosidad de circo, monstruo público. Pero su miedo a la muerte es tan 
+grande, tan fabuloso, que lo ha hecho sobrevivir” (p. 457). Al igual que Alonso Quijano, el Enano se 
+vincula con las historias de caballería. No obstante el personaje de Vargas Llosa no se identifica con la 
+historia sino que se escuda en ser solo el narrador: “—No sé, no sé —tembló el Enano—. No está en el 
+cuento. No es mi culpa, no me hagas nada, sólo soy el que cuenta la historia”. 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+12 
+pertenece a Dios, no a nosotros, por ello no es asequible a la razón humana. Credo 
+quia absurdum. Así, lo universal es puro acontecer en una sucesión escatológica, 
+asequible a nosotros sólo a través de la revelación. (…) Dado que los designios de 
+Dios son inescrutables, la capa profunda no puede ser un mundo eterno de formas 
+racionales, sino una sucesión temporal de eventos esenciales opacos para la razón 
+humana; y dado que cada uno de esos momentos universales tiene que realizarse a 
+sí mismo en una realidad finita sin medida común con ellos, la relación entre los 
+dos órdenes tiene que ser también opaca e incomprensible. Este tipo de relación fue 
+llamado encarnación, y su rasgo distintivo consistía en que entre lo universal y el 
+cuerpo encarnante no existía ningún tipo de conexión racional. Dios es el único y 
+absoluto mediador. De esta forma se originó una sutil lógica destinada a influir 
+profundamente en nuestra tradición intelectual: la del agente privilegiado de la 
+historia, el agente cuyo cuerpo particular era la expresión de una universalidad que 
+lo trascendía (Laclau 1995: 41-42). 
+ 
+La encarnación divina, la divinidad del Consejero, no puede analizarse como un mero 
+acto de significación. Allí entra en juego una noción quizás poco desarrollada: la investidura 
+afectiva. La elaboración discursiva y la investidura afectiva son aspectos claves en la 
+construcción de colectivos de identificación (Laclau 2005). En efecto, el Consejero provee de 
+un discurso coherente capaz de subsumir cualquier contingencia en una narración necesaria, 
+profética. El uso de las alegorías, las metáforas y demás tropos de la retórica proveen de 
+significantes lo suficientemente vacíos (o mejor “imprecisos”) para interpretar el proceso 
+histórico por el que atraviesa Canudos. Pero esto no es suficiente para comprender la formación 
+del colectivo que requiere de la identificación como un acto político que no puede prescindir de 
+lo emotivo. Vargas Llosa dedica notables pasajes a recrear la atmósfera emocional de los 
+personajes que “sienten” al Conselheiro. Es allí donde el componente afectivo-emotivo ayuda a 
+comprender la intensidad de un vínculo que repulsa cualquier intento formal de análisis. Algo 
+que aparece como un síntoma de la irracionalidad o “fanatismo” ilumina un aspecto constitutivo 
+de las identidades colectivas. Los yagunzos lloran, tiemblan y se emocionan en torno a la figura 
+del Consejero que es investida al punto de ser elevado a la dignidad de la Cosa, allí producen 
+una entidad colectiva.  
+El discurso profético conlleva una promesa de plenitud que es presentada como el 
+reverso de la situación dada, como una reversión positiva de la falta (la pobreza, la miseria, el 
+dolor, la fealdad, el sufrimiento). La posibilidad de acceder a un estado negado en la Tierra 
+funciona como horizonte de sentido para los alzados. No obstante, lejos de provocar una 
+“cristiana resignación” las mismas profecías imponen asumir una misión terrenal con destino 
+trágico. La construcción del templo y la defensa de Canudos de los ataques del Can-República 
+es la metáfora del intento imposible, la imagen de una tragedia que no puede escapar a su fin. 
+Aún así, el proyecto Canudos como plenitud imposible basado en los consejos del Conselheiro y 
+en una ética cristiana de hermandad igualitaria generan la posibilidad de un nuevo orden 
+simbólico (lo heterogéneo se homogeneíza al entrar a la comunidad: es el Beatito el encargado 
+de tomar el juramento, hacer un derramamiento de sangre a modo de ofrenda, como un acto 
+bautismal de ingreso a la comunidad, al Reino de Dios). La identidad colectiva entonces es por 
+un lado cerrada por un principio de demarcación fuerte (Ellos son siervos de Satanás) pero por 
+otro lado se puede procesar la diferencia mediante un acto de decisión (en ese sentido no es una 
+identidad esencialista porque permite la conversión). La hegemonía producida por el discurso 
+del Conselheiro hace coincidir dos instancias: la identidad colectiva político-religiosa y la 
+identidad de la sociedad-comunidad. Los límites son los mismos, por lo tanto al interior de la 
+comunidad no hay posibilidad de pluralidades (religioso-político-ética). En ambos el mito es 
+central para su constitución. 
+El mito que los moviliza articula la voluntad colectiva —Sorel ya había reparado en 
+esto— e instala condiciones para la acción beligerante. Mito y promesa funcionan como 
+catalizadores para un colectivo cuyo único futuro posible, hasta la irrupción del consejero, 
+estaba ligado a las penurias y a la muerte desdichada.  
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+13 
+ 
+Entendemos por mito un espacio de representación […] El trabajo del mito consiste 
+en suturar el espacio dislocado a través de la constitución de un nuevo espacio de 
+representación. La eficacia del mito es así evidentemente hegemónica: consiste en 
+constituir una nueva objetividad a través de la rearticulación de los elementos 
+dislocados (Laclau 2000: 77) 
+ 
+Ahora bien, el mito de Canudos, como mecanismo aglutinante, como promesa y como 
+discurso que transforma las posiciones subjetivas que ingresaron en el proceso de articulación se 
+convierte en un imaginario.  
+ 
+El momento de representación de la forma misma de la plenitud domina a un punto 
+tal, que se constituye en un horizonte ilimitado de inscripción de toda 
+reivindicación y de toda dislocación posible. Cuando esto último ocurre el mito se 
+transforma en imaginario. El imaginario es un horizonte: no es un objeto entre 
+otros objetos sino un límite absoluta que estructura el campo de inteligibilidad 
+(Laclau 2000: 79-80) 
+ 
+Desde estas categorías podemos analizar las últimas líneas de la novela, por cierto muy citada 
+entre los especialistas: 
+ 
+Cuando está saliendo [el Coronel] de entre los esqueletos andrajosos para enrumbar 
+a su campamento, dos garfios flacos se prenden de su bota. Es una viejecita sin 
+pelos, menuda como una niña, que lo mira a través de sus lagañas:  
+—¿Quieres saber de João Abade? —balbucea su boca sin dientes.  
+—Quiero —asiente el Coronel Macedo—. ¿Lo viste morir?  
+La viejecita niega y hace chasquear la lengua, como si chupara algo.  
+—¿Se escapó entonces?  
+La viejecita vuelve a negar, cercada por los ojos de las prisioneras.  
+—Lo subieron al cielo unos arcángeles —dice, chasqueando la lengua— Yo los vi. 
+ 
+La profecía del Consejero muestra una vez más sus efectos sobre la configuración de la 
+subjetividad colectiva. Así, luego de la aniquilación de Canudos su discurso sigue ofreciendo las 
+claves de inteligibilidad que permiten a los derrotados interpretar el mundo. La victoria militar 
+del ejército brasileño produjo la destrucción, la demolición y la quema de las 5 mil casas de 
+Canudos, pero no pudo borrar tan fácilmente la dimensión imaginaria del acontecimiento, como 
+el mismo Vargas Llosa rememora en las referencias sobre su investigación para la novela. 
+La guerra del fin del mundo, hemos argumentado, ofrece un espejo para la comprensión 
+de conceptos de la teoría política así como estos elementos teóricos nos brindan claves de 
+lectura del texto. La reconstrucción de la producción de un exceso, la heterogeneidad y la 
+negatividad marcada en los cuerpos trashumantes de los excluidos y oprimidos encuentra en la 
+escritura de Vargas Llosa y en la teoría de Laclau uno de los desarrollos más interesantes para 
+pensar los modos de configuración de experiencias subalternas. Quizás la lectura de esta novela 
+sea la mejor refutación que la teoría de Laclau puede ofrecer a quienes acusan a la teoría de 
+diluir la realidad en el lenguaje, o hacer las luchas sociales un juego de palabras. La experiencia 
+de Canudos narrada por Vargas Llosa permite graficar, tal vez mejor que otros casos 
+ejemplificadores, la relación entre retórica, condiciones materiales y producción de sujetos 
+colectivos, aspectos medulares en la teoría de Ernesto Laclau. La teoría política le debe mucho a 
+la literatura.  
+ 
+6. Una (breve) nota final: ontología, política y literatura 
+Mario Vargas Llosa y Ernesto Laclau son figuras beligerantes de la intelectualidad 
+latinoamericana de nuestro tiempo, ubicadas en rincones opuestos de las concepciones de la 
+política e insoslayables en los debates por el peso de sus palabras. Ahora bien, si hay algo que 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+14 
+comparten la teoría política de Laclau y La guerra del fin el mundo tal vez debamos ubicarlo en 
+la concepción “ontológica” de la realidad social-histórica con la que trabajan. En esa 
+complejidad y heterogeneidad radica la imposibilidad de dar cuenta de la infinitud de relaciones 
+sociales en un ejercicio racional completo. Conviene recordar que para Sabine Schlickers es 
+precisamente en La guerra del fin el mundo el lugar de la frustración del optimismo de Vargas 
+Llosa de “poder reconstruir la realidad extraliteraria “fáctica” por medio de una novela 
+totalizadora […] se muestra incapaz de aprehender racionalmente la realidad extraliteraria” 
+(1998: 186).  
+Este reconocimiento implícito se sitúa en consonancia con las ideas posestructuralistas 
+en el campo de la teoría política, tanto en la hipótesis clásica de la relación entre un campo 
+infinito con una realidad finita (“Lo social es una dimensión indefinida […]. Es lo que no puede 
+presentarse más que en y por la institución pero que siempre es infinitamente más que esa 
+institución” [2007 (1975): 178]), como en la idea de la falta de un centro ordenador que detenga 
+el juego perpetuo de las diferencias (Marchart 2009). Así, La guerra del fin el mundo muestra la 
+empresa necesaria e imposible de dar cuenta de la totalidad: “la representación de esta totalidad 
+no lleva ni al lector implícito ni al autor implícito a su comprensión, sino al contrario: la 
+representatividad misma está en tela de juicio, tanto a nivel intra como extraficcional” 
+(Schlickers 1998: 193; también Cornejo Polar 1982). El proyecto de una “novela total” es 
+utópico y persistente, como el intento de producir la sociedad (Laclau 2000) y el intento de 
+pensar la totalidad completa. De allí que la teoría política tenga que buscar otras formas de 
+pensar y de decir que den cuenta de esta situación. Las exploraciones de Laclau en la retórica y 
+en el psicoanálisis van en este sentido.  
+La complicidad entre narrativa y analítica se ubica así en el plano ontológico. La 
+literatura en La guerra del fin del mundo y lo político tienen que lidiar con este campo que los 
+desborda, los atraviesa, se sustrae y los jaquea. Y esta situación hace que la literatura y lo 
+político sean a la vez imposibles y, cada vez, más necesarios. 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+15 
+BIBLIOGRAFÍA 
+ 
+ARDITI, Benjamín (1995). “Rastreando lo político”. Revista de Estudios Políticos 87, Madrid, enero-
+marzo, pp. 333-351. 
+ARENDT, Hannah (1991). “¿Qué es la libertad?”. Zona Erógena 8. 
+BERNUCCI, Leopoldo (1987). “Vargas Llosa y la tradición bíblica. La guerra del fin del mundo Vol. LIII, 
+nº 141, octubre-diciembre, pp. 165-177. 
+BURNEO, Raúl (2010). “Monstruosidad y matanza en La guerra del fin del mundo”. Ponencia en el 
+XXXVIII Congreso Internacional del Instituto de Literatura Iberoamericana (IILI), Georgetown. 
+CASTRO-KLARÉN, Sara (1986). “Santos and Cangaceiros: Inscription without Discourse in Os Sertões and 
+La guerra del fin del mundo”. MLN, vol. 101, nº 2, Hispanic Issue, marzo, pp. 366-388. 
+CRITCHLEY, Simón (2008). “¿Hay un déficit normativo en la teoría de la hegemonía?”. Critchley, S. & 
+Marchart, O. (comp.), Laclau. Aproximaciones críticas a su obra. Buenos Aires, FCE, pp. 145-156. 
+CORNEJO POLAR, Antonio (1982). “La guerra del fin del mundo: Sentido (Y sinsentido) de la historia 
+Hispamérica”. Año 11, nº 31, April, pp. 3-14. 
+DE IPOLA, Emilio (1982). Ideología y discurso populista, México, Folios. 
+DUSSEL, Enrique (1998). Ética de la Liberación. En la edad de la globalización y de la exclusión, Trotta, 
+Madrid. 
+FERNÁNDEZ-MEARI, Hernán (2010). La razón de los tontos: protagonismo de los grupos subalternos en 
+formación de una conciencia de unidad en Latinoamérica. Tesis Doctoral, Université de Montréal. 
+FOUCAULT, Michel (2007). “La gubernamentalidad”. Giorgi y Rodriguez (comps.), Ensayos sobre 
+biopolítica. Excesos de vida. Buenos Aires, Paidós, pp. 187-215. 
+GLADIEU, Marie-Madeleine (2010). “Intertextualidad y figuras bíblicas en La Guerra del Fin del Mundo, 
+de Mario Vargas Llosa”. Fabry, Logie y Decock (eds.), Los Imaginarios apocalípticos en la literatura 
+hispanoamericana contemporánea. Bern, Peter Lang. 
+LACLAU, Ernesto (1978 [1977]). Política e ideología en la teoría marxista. Capitalismo, fascismo, 
+populismo, Madrid, Siglo Veintiuno. 
+LACLAU, Ernesto (1995). “Universalismo, Particularismo y el tema de la Identidad”. Revista 
+internacional de filosofía política 5, pp. 38-52. 
+LACLAU, Ernesto (1996b [1994]). “¿Por qué los significantes vacíos son importantes para la política?”. 
+Emancipación y Diferencia, Buenos Aires, Ariel. 
+LACLAU, 
+Ernesto 
+(1998). 
+“Deconstrucción, 
+Pragmatismo 
+y 
+Hegemonía”. 
+Mouffe 
+(comp.),  
+Deconstrucción y Pragmatismo, Buenos Aires, Paidós.  
+LACLAU, Ernesto (2000 [1990]). Nuevas Reflexiones sobre la revolución de nuestro tiempo, Buenos 
+Aires, Nueva Visión. 
+LACLAU, Ernesto (2002a). Misticismo, retórica y política, Buenos Aires, FCE.  
+LACLAU, Ernesto (2002b). “El análisis político del discurso: entre la teoría de la hegemonía y la retórica” 
+(entrevista). Revista de Signis /2. Barcelona, Gedisa. 
+LACLAU, Ernesto (2003). “Identidad y hegemonía: el rol de la universalidad en la construcción de lógicas 
+políticas”. Laclau, Žižek y Butler, Contingencia, hegemonía y universalidad. Buenos Aires, FCE, pp. 49-
+94. 
+LACLAU, Ernesto y Mouffe, Chantal (2004 [1985]). Hegemonía y estrategia socialista. Hacia una 
+radicalización de la democracia, Buenos Aires, FCE.  
+LEFORT, Claude (1991). Ensayos sobre lo político, Guadalajara, Ediciones Universidad de Guadalajara. 
+MAC ADAM, Alfred (1984). “Euclides da Cunha y Mario Vargas Llosa: Meditaciones intertextuales” 
+Revista iberoamericana, pp. 157-164. 
+MADANES, Leiser (2004) “Hobbes y el Quijote”. Deus Mortalis. Cuaderno de filosofía política 3, pp. 
+233-256. 
+MAILHE, Alejandra (2010). “Imágenes del otro social en el Brasil de fines del siglo XIX: Canudos como 
+espejo en ruinas”. Prismas, vol. 14, nº 1, pp. 37-56.  
+MARCHART, Oliver (2009). El pensamiento político posfundacional. La diferencia política en Nancy, 
+Badiou, Lefort y Laclau, Buenos Aires, FCE. 
+MC ADAM, Doug (1994). “Cultura y movimientos sociales”. Laraña, Enrique y Joseph Gusfield (eds.), 
+Los nuevos movimientos sociales. De la ideología a la identidad, Madrid, CIS,  pp. 43-68. 
+MENTON, Seymour (1992) “La guerra contra el fanatismo de Mario Vargas Llosa” Actas del X Congreso 
+de la Asociación Internacional de Hispanistas, vol. 4, 1992, pp. 811-818.  
+MONTENEGRO, Patricia (1984). “La relatividad de perspectivas en La guerra del fin del mundo”. Revista 
+de Crítica Literaria Latinoamericana, a. 10, nº 20, pp. 311-321 
+MOUFFE, Chantal (2007). En torno a lo político, Buenos Aires, FCE. 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.
+16 
+ 
+NITTSCHACK, Horsto (2011). “Mario Vargas Llosa: La Ficcionalización de la historia en La Guerra del 
+Fin del Mundo”. Revista Chilena de Literatura 80, pp. 117-133.  
+NOGUEIRA GALVÃO, Walnice (1980). “Prólogo” a Los Serones de Euclides da Cunha. Venezuela, 
+Fundación Biblioteca Ayacucho. 
+OVIEDO, José Miguel (1991 [1982]). “Vargas Llosa en Canudos: Versión clásica de un clásico”. Estudio 
+introductorio a La guerra del fin del mundo, Ayacucho, Venezuela (originalmente publicado en Eco: 
+Revista de la Cultura de Occidente 40.6 (1982), pp. 641-64. 
+RAMA, Ángel (1982). “La guerra del fin del mundo: Una obra maestra del fanatismo artístico”. Eco: 
+Revista de la Cultura de Occidente, (40:6 [246]), 1982 April, pp. 600-640. 
+RANCIÈRE, Jacques (1996). El desacuerdo. Filosofía y Política. Nueva Visión. Buenos Aires. 
+RETAMOZO, Martín (2012). “Tras las huellas de Hegemón. Usos de hegemonía en la teoría política de 
+Ernesto Laclau”. Utopia y praxis latinoamericana, a. 16. nº 55, pp. 39-57. 
+RINESI, Eduardo (2003). Política y tragedia. Hamlet, entre Hobbes y Maquiavelo, Buenos Aires, Colihue. 
+SCHLICKERS, Sabine (1998). “Conversación en la Catedral y La guerra del fin del mundo de Mario 
+Vargas Llosa: Novela totalizadora y novela total”. Revista de Crítica Literaria Latinoamericana, a. 24, nº 
+48, pp. 185-211. 
+SCHMITT, Carl (1998). El concepto de lo político, Madrid, Alianza.  
+SCHRAIBMAN, José y Little, William H. (1988). “La guerra del fin del mundo y Os Sertões : una nota de 
+lectura”, Texto Crítico, julio-diciembre 1988, nº 39, pp. 51-58 
+SERRANO, Enrique (1996). “Las figuras del ‘otro’ en la dimensión política: La dimensión moral del 
+conflicto político”. Revista Internacional de Filosofía Política 8, Madrid, pp. 41-58. 
+SETTI, Ricardo A. (1989). Diálogo con Vargas Llosa, Buenos Aires, InterMundo. 
+THOMPSON, Edward. P. (1989). La formación de la clase obrera en Inglaterra, Barcelona, Crítica. 
+VARGAS LLOSA, Mario (1981). La guerra del fin del mundo. Varias ediciones.  
+WASSERMAN, Renata y R. MAUTNER (1993). “Mario Vargas Llosa, Euclides da Cunha, and the Strategy 
+of Intertextuality”. PMLA, vol. 108, nº 3, May, pp. 460-473. Published by: Modern Language Association 
+http://www.jstor.org/stable/462615 
+ŽIŽEK, Slavoj (2004b). “The Ongoing ‘Soft Revolution’”. Critical Inquiry, vol. 30, nº 2, Winter 2004, pp. 
+292-323. 
+ŽIŽEK, 
+Slavoj 
+(2004a). 
+“From 
+Politics 
+to 
+Biopolitics... 
+and 
+Back”. 
+South 
+Atlantic 
+Quarterly Spring/Summer 2004 103(2-3), pp. 501-521. 
+Orbis Tertius - 2012, vol. 17 no. 18. ISSN 1851-7811.

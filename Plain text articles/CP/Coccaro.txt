@@ -1,0 +1,863 @@
+ 
+1 
+Cuadernos del CILHA n 39 – 2023 | publicación continua  
+ISSN 1515-6125 | EISSN 1852-9615  
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha    
+CC BY-NC 4.0 international    
+Recibido: 19/01/2023 Aprobado: 03/06/2023 | pp. 1-21 
+ https://doi.org/10.48162/rev.34.063 
+Experimento y experiencia política: Las 
+piezas didácticas o Lehrstücke de 
+Bertolt Brecht y Kurt Weill 
+Experiment and political experience: the didactic pieces or 
+Lehrstücke of Bertolt Brecht and Kurt Weill 
+Victoria Coccaro 
+ 0000-0002-8387-025X 
+Universidad Nacional de Buenos Aires 
+ Universidad Nacional de las Artes 
+Consejo Nacional de Investigaciones Científicas y Técnicas 
+ 
+victoriacoc@gmail.com 
+Argentina 
+Resumen: El teatro épico creado por Bertolt Brecht y, dentro de este, la ópera épica y las 
+piezas didácticas o Lehrstücke, son un antecedente sustancial para pensar el proceso de 
+desmontaje de la ópera que comenzó a partir de las primeras décadas del siglo XX en el 
+contexto de las vanguardias históricas. A partir de las piezas didácticas Der Lindberghflug, 
+de Bertolt Brecht y los compositores Kurt Weill y Paul Hindemith, y Der Jasager, de la 
+dupla Brecht-Weill, nos interesa refelxionar en torno al cruce entre experimentación 
+estética y experiencia política, atendiendo, en particular, al vínculo entre arte y tecnología 
+que Brecht indaga en las puestas escénicas de estas obras y sobre el que también teoriza 
+en sus escritos. 
+Palabras clave: épico, Lehrstücke, ópera experimental, arte y política, vanguardias. 
+ 
+Abstract: The epic theater created by Bertolt Brecht and, within it, the epic opera and the 
+didactic pieces or Lehrstücke, are a substantial precedent to think about the process of 
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+2  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+disassembling the opera. This experimentation on the operatic genre began in the 
+context of the avant-gardes, during the first decades of the 20th century. Based on the 
+didactic pieces Der Lindberghflug, by Bertolt Brecht and the composers Kurt Weill and 
+Paul Hindemith, and Der Jasager, by the Brecht-Weill duo, we are interested in reflecting 
+on the intersection between aesthetic experimentation and political experience. Further, 
+we will focus on the link between art and technology that Brecht investigates in the 
+staging of these pieces. 
+Keywords: epic theater, Lehrstücke, experimental opera, arts & politics, avant-gardes. 
+ 
+ 
+“La pieza didáctica enseña a ser actuada,  
+no a ser contemplada”. 
+Bertolt Brecht 
+ 
+El teatro épico creado por Bertolt Brecht y, dentro de este, la ópera épica y las piezas 
+didácticas o Lehrstücke, son un antecedente sustancial para pensar el proceso de 
+desmontaje de la ópera que comenzó a partir de las primeras décadas del siglo XX en el 
+contexto de las vanguardias históricas: el futurismo italiano (1909-1916), el futurismo 
+ruso (1912-1930), el dadaísmo (1916-1923), el constructivismo ruso (1914-1930), el 
+surrealismo (1917/1924-1939), por mencionar solo algunas. La experimentación que 
+atravesó y caracteriza –a pesar de sus diferencias– a todos estos movimientos puede 
+entenderse, en efecto, como una puesta en variación de los elementos que componen 
+a cada práctica artística; en el caso de la ópera, el espacio escénico, la música, el canto, 
+la dramaturgia, la sala de teatro, etc. De todos modos, si pensamos a las vanguardias 
+más allá de la puesta en crisis de los lenguajes específicos de cada arte que estas 
+elaboran, si consideramos a las vanguardias como movimientos, actitudes, gestos, 
+poses, maneras de ocupar el tiempo y el espacio o, para usar un término 
+contemporáneo, formas de vida, tendríamos que considerarlas, entonces, como 
+experimentos más profundos que el mero abandono del arte como reflejo realista de 
+la realidad. Si pensamos, por ejemplo, en las veladas futuristas, dadaístas o surrealistas, 
+hay allí toda una manera de crear una experiencia de la nocturnidad, una cultura de la 
+fiesta y la alegría, pero también de llevar el escenario al café y de solapar la partición 
+entre artistas y público. En este sentido, podríamos considerar a partir de allí, un 
+encuentro entre lo experimental y la experiencia que, en el caso del teatro de Brecht y, 
+Victoria Coccaro  
+ 
+3  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+en particular, de los trabajos didáctico-operísticos que realizó con Kurt Weill, Paul 
+Hindemith y Hans Eisler, se trata de una experiencia política.  
+Además de las célebres óperas de Brecht y Weill, Ascenso y caída de la ciudad de 
+Mahagonny (Aufstieg und Fall der Stadt Mahagonny), estrenada en 1930, así como su 
+antecedente, conocido como “La pequeña Mahagonny” o Mahagonny Songspiel, 
+estrenada en el Festival de Baden-Baden en 1927, y La ópera de los tres centavos (Die 
+Dreigroschenoper), de 1928, hay una serie de pequeñas obras de teatro musical 
+producidas en estos mismos años que quisiéramos estudiar. Se trata de las 
+denominadas “piezas didácticas” o Lehrstücke creadas entre 1928 y 1930: Der 
+Lindberghflug (El vuelo de Lindbergh, luego Ozeanflug, Vuelo transoceánico) de Brecht, 
+Weill y Hindemith; Lehrstück, también de Brecht, Weill y Hindemit; Der Jasager (El que 
+dice que sí) de la dupla Brecht-Weill (también denominada “ópera escolar”) y Die 
+Massnahme (La decisión) de Brecht con música de Hans Eisler.  
+Esta serie de piezas aparecen en el contexto de la primera posguerra en Alemania y, 
+más específicamente, durante los últimos años de la República de Weimar (1919-1930). 
+Por ello, si bien el de las vanguardias es el horizonte estético en el que surge la 
+formulación del teatro épico brechtiano y de estas piezas en particular, es necesario, 
+en primer lugar, precisar el marco histórico de tal desarrollo, focalizándonos en la 
+producción musical de este periodo. En segundo lugar, ahondaremos en las 
+características del teatro épico creado por Bertolt Brecht. Finalmente, nos referiremos 
+al género de las piezas didácticas o Lehrstücke y analizaremos dos casos, Der 
+Lindberghflug y Der Jasager.  
+La República de Weimar: del individuo a lo colectivo 
+La República de Weimar (1920-1933) fue el resultado de la revolución de 1918-1919 
+que derrocó el régimen monárquico del Kaiserreich. David Drew, en su ensayo “Musical 
+Theater in the Weimar Republic” (1962), señala que en esos años se produce un 
+desplazamiento del interés en el hombre individual al hombre en sociedad, en masa, lo 
+cual influye en el teatro musical de la época. Para el autor, el comunitarismo y los 
+ideales revolucionarios tuvieron un efecto directo en las formas dramáticas y en el 
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+4  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+lenguaje1. Por un lado, se apartan del drama psicológico del personaje ya que el énfasis 
+pasa a ubicarse en el conflicto de las clases sociales más que en los individuos. Por otro 
+lado, en relación al trabajo con el lenguaje, señala que se intervienen las estructuras 
+sintácticas mediante quiebres y fragmentaciones como, por ejemplo, en el “estilo 
+telegráfico” del escritor Georg Kaiser, libretista de la primera ópera de Weill, Der 
+Protagonist (1920). Drew interpreta este procedimiento como un alejamiento o 
+cuestionamiento del estilo, el tono y la imaginación de la tradición prusiana heredada 
+y recientemente derrocada.  
+Así, mientras que en Viena la preocupación era por transformar radicalmente el 
+lenguaje musical, cuyo caso paradigmático es el de Arnold Schoenberg –quien había 
+empezado a desarrollar el atonalismo desde 1908 y, luego, hacia 1920, el serialismo 
+dodecafónico2– en Alemania, el rumbo de la composición musical estuvo orientado al 
+teatro.  El objetivo, sostiene David Drew (1962), era el de volver a instituir al teatro 
+musical como un espacio de difusión y consolidación del discurso moral 3.  
+Esta época se caracteriza por una efervescencia cultural y una alta actividad en relación 
+a la ópera. Tal es así que todas las ciudades contaban con teatros de ópera subsidiados 
+por el Estado en los que acontecían alrededor de setenta estrenos por temporada. 
+Hindemith, Weill y Krenek, si bien jóvenes, eran los compositores líderes de su 
+                                                                 
+1 Vale diferenciar aquí comunitarismo de comunismo. Uno refiere a un modo de autorganización social basado en valores  
+inclaudicables como la solidaridad, la fraternidad y la cooperación, a partir de los cuales busca y defiende el bien común 
+sobre los intereses individuales, en otras palabras, reducir la autonomía individual para beneficiar el interés colectivo pues, 
+en última instancia, la identidad de cada cual se forja colectivamente,  en el diálogo, el intercambio. Otro refiere al momento 
+de síntesis de la lucha de clases vinculado, por ejemplo, a la eliminación de la propiedad privada y la colectivización de lo s 
+medios de producción. Es un modo de gobiernos y de organización social, ecónomica y política en el que, muchas veces, es 
+el Estado el que decide la distribución de bienes y servicios. 
+2 Por ejemplo, entre 1909 y 1910, Arnold Schoenberg compone Die Gluckehand y Erwartung, dos óperas atonales. A este 
+conjunto se puede sumar Pierrot Lunaire, estrenada en 1912. En 1911, Shoenberg (1963) publica su Tratado de armonía en 
+el que propone una “emancipación de la disonancia”, un “derecho a la libre circulación armónica”, esto es, una armonía 
+liberada de las funciones de los grados de la escala (pág. 144). En el texto “La composición con doce sonidos”, una 
+transcripción de una conferencia dada por el compositor en la Universidad de California el 26 de marzo de 1941, Shoenberg 
+(1963) hace una revisión de su recorrido por la teoría musical, señalando las etapas y transformaciones de su método 
+compositivo, destacando la publicación, en 1921, de su Método de composición con doce sonidos, el cual, en palabras del 
+autor, “consiste, principalmente, en el empleo exclusivo y constante de una serie de doce sonidos diferentes. Esto significa, 
+por supuesto, que ningún sonido ha de repetirse dentro de la serie, en la que estarán comprendidos todos los 
+correspondientes a la escala cromática, aunque en distinta disposición” (pág. 148). 
+3 Esta interpretación confronta con cómo se ha leído mayormente la producción artística de la República de Weimar. Según 
+David Drew, la idea de que las obras creadas durante este periodo, caracterizado como corrupto y cínico, promovían la 
+transgresión de las reglas morales, es una leyenda forjada por los detractores de este proyecto político. 
+Victoria Coccaro  
+ 
+5  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+generación. Esta intensa producción operística tuvo su ocaso con la crisis económica de 
+1929 que ocasionó la disminución abrupta del presupuesto estatal destinado a estas 
+producciones: la programación pasó a estar ocupada mayormente por operetas. Es 
+durante estos últimos años de la República de Weimar, entre la crisis económica y el 
+ascenso del nazismo, que se producen las piezas didácticas o Lehrstücke. 
+La novedad del teatro épico 
+Drama no aristotélico 
+Cualquier definición que se quiera dar del teatro épico de Bertolt Brecht debería 
+construirse a contraluz de lo que propone la Poética de Aristóteles. En efecto, es 
+definido por el propio autor como un drama no aristotélico. La crítica de Brecht a la 
+dramaturgia aristotélica es especialmente a la idea de “catarsis” como fin del teatro en 
+tanto purificación de las pasiones. El presupuesto de la catarsis, para Brecht, es la 
+identificación. Para interrumpirla es que desarrolla su efecto de “extrañamiento” o 
+“distanciamiento”. 
+Extrañamiento 
+El extrañamiento viene a interrumpir la identificación4 para desnaturalizar al objeto. Esa 
+desfamiliarización nos permite recuperar el asombro ante las cosas y poder verlas: 
+comprender su historicidad, criticarlas y, en última instancia, transformarlas. 
+Si bien no hay un vínculo directo ni hubo una influencia entre ellos, el efecto de 
+extrañamiento podría pensarse en relación con la idea de “ostranenie” del formalismo 
+ruso. En su célebre texto de 1917 “El arte como artificio”, Victor Shklovsky distingue 
+entre lengua cotidiana y lengua poética: si la lengua cotidiana tiene un fin estrictamente 
+comunicativo y ayuda a comprender, la lengua poética tiene como fin el extrañamiento 
+de la percepción, esto es, dificultarla, prolongarla, renovarla. Así, para Shklovsky, el arte 
+funcionaría como antídoto contra la automatización, la costumbre, la repetición, el  
+                                                                 
+4 Esta “identificación” es también referida por Brecht como “embriaguez”, en particular cuando habla de ópera: “ Nada menos  
+adecuado que la vieja ópera, que persigue la creación de estados de embriaguez, pues encuentra al hombre aislado junto al 
+receptor y, de todos los excesos alcohólicos, ninguno es tan peligroso como el copeo silencioso” (Brecht, 1973). 
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+6  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+adormecimiento. Sin embargo, vale señalar que el texto, a pesar de haberse publicado 
+el mismo año de la Revolución Rusa, en ningún momento precisa que la 
+“desautomatización”, esa percepción renovada, diferente y extraña del mundo tenga 
+un fin político, de transformación de la realidad, como sí está enfatizado en la 
+perspectiva de Brecht. En el teatro épico, el efecto de extrañamiento se articula a una 
+práctica política, tiene una función social.  
+El espectador como productor 
+El teatro de Brecht se propone así como un tipo de representación antirrealista y que, 
+al romper el hechizo dramático, busca afectar al público. Este quiebre del ilusionismo 
+puede producirse de múltiples maneras. Por ejemplo, por el uso de carteles que 
+adelantan el desenlace de la acción y rompen el suspenso, en la figura de un narrador 
+extradiegético5 que presenta los hechos interrumpiendo la lógica de la representación 
+(lo que en el cine puede pensarse como una voz en off), por la interpelación directa de 
+los actores o actrices hacia el público o en un énfasis puesto en el artificio de la 
+actuación (dicción impostada, gestos, etc., el objetivo es romper el trance hipnótico de 
+la mímesis, que el espectador sepa que es un actor actuando de rey y no un rey6), por 
+una escenografía que también se muestre artificiosa o mediante la técnica de montaje, 
+sustancial a la práctica de Brecht, a la que volveré más adelante. En definitiva, la obra 
+debe poner de manifiesto que se trata de una representación. Allí, todo lo que produce 
+sentido está expuesto, es parte de la escena, no hay fuera de campo o “entre piernas”. 
+El espectador, de este modo, no se ve envuelto emocionalmente en los hechos 
+representados en el escenario, sino que deviene un observador distanciado que no 
+consume el hecho teatral sino que activa una crítica, en tanto debe tomar una decisión 
+respecto a su posición sobre el drama representado. El público deviene, entonces, 
+                                                                 
+5 Vale aquí comparar los conceptos de narrador extradiegético y narrador heterodiegético de la teoría narratológica. Este 
+último, se ubica exterior a la historia narrada pero posee pleno conocimiento de los pensamientos y emociones de los 
+personajes (es heterodiegético y omnisciente). Narra historias en las que no participa pero no rasga la ficción. Lo 
+extradiegetico apunta a un afuera de la lógica ficcional, y a quebrarla. Refiere a una ruptura de la lógica ficcional, por ejemplo, 
+cuando ocurre una intromisión en la acción ficticia de su relato y, en consecuencia, se evidencia el dispositivo de la 
+representación. El narrador extradiegético es externo a los acontecimientos.  
+6 En su texto “Qué es el teatro épico”, Walter Benjamin (1999) precisa: “el principio más rigurosos de este teatro es que 
+‘quien muestra’ –el actor, como tal– debe ser mostrado” (pág. 88). 
+ 
+Victoria Coccaro  
+ 
+7  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+productor y el teatro, una práctica social más. En La política en el teatro, Brecht (1972) 
+argumenta: “no es ya más la persona privada que ‘asiste’ a la representación[…] es decir 
+que ya no es más un consumidor, sino que entonces debe producir” (pág. 33) y, más 
+adelante, precisa: “incitados a adoptar no una actitud pasiva y de absoluta entrega 
+(basada en la magia o la hipnosis), sino una actitud de claro enjuiciamiento, al punto 
+adoptaron los espectadores una actitud definidamente política” (pág. 34). 
+En otras palabras, mientras que en el drama aristotélico se produce una identificación 
+emotiva del espectador con los personajes, la dramaturgia brechtiana elimina la 
+catarsis en función de una práctica crítica, asegurando una aproximación racional más 
+que empática –puede ser sugerente pensar este énfasis en lo racional que propone el 
+teatro épico en el contexto de la sobrecarga en lo emocional instrumentada por el 
+fascismo en ascenso–. Se trata de generar lo que el propio Brecht llamó un “efecto de 
+distanciamiento” cuyo fin es romper el ilusionismo que el espectador despliega frente 
+a la representación. Por el contrario, el espectáculo activa en una toma de conciencia. 
+Se trata, entonces, de convertir el teatro en un aula. Ese “aprendizaje”, sin embargo, 
+no consiste en una lección que se “enseña” durante la obra y que el espectador 
+incorpora y repite. Muchas veces, la moraleja es incómoda y, como ya señalamos, el 
+público debe tomar una posición frente a lo representado, tal es el caso de la pieza 
+didáctica Der Jasager.  
+El distanciamiento, sostiene Brecht (2004), “no persigue otro objeto que mostrar al 
+mundo como algo capaz de ser estudiado y analizado” (pág. 175). Pero no solo se trata 
+de exhibir al mundo como algo posible de estudiarse sino como algo que está hecho, 
+construido, es decir, cuyas leyes de funcionamiento no son naturales, ni dadas, ni 
+universales, sino históricas. Y que así como son de esta manera pueden ser de cualquier 
+otra. En definitiva, que puede construirse de otro modo, al menos, uno más justo e 
+igualitario, en palabras de Brecht (2017): “The concern of the epic theatre is thus 
+eminently practical. Human behavior is shown as alterable, people as dependent on 
+certain political and economic factors and at the same time as capable of altering them” 
+(pág.  82). En consecuencia, el teatro épico no representa, a diferencia del teatro 
+aristotélico, el cumplimiento de un destino inexorable y ya tallado para cada individuo, 
+sino que deja ver la trama socio histórica en la que cada individuo se teje y, por lo tanto, 
+la posibilidad de intervención, como continúa Brecht (2017): “it is precisely this ‘fate’ 
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+8  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+that it would study closely and reveal as human machinations” (pág 83). De este modo, 
+si bien una de las afrentas del teatro épico es contra la mímesis como forma de 
+representación “realista” de la realidad (uno de los bastiones del teatro aristotélico), 
+esto no significa que Brecht se aleje del realismo. En verdad, él reinventa el concepto 
+de realismo (y de allí todo su debate con Georg Lukács) que, lejos de imitar la realidad 
+(lo que abona a la naturalización de esta, esto es, afirmar que las cosas son así como 
+son), la muestra como algo artificial, construido.  
+En síntesis, el teatro épico pone el foco en qué le pasa al espectador durante la función. 
+En lugar de un espectador pasivo, que acepta la fatalidad del destino, en el teatro épico 
+se construye un espectador activo que comprende a los hechos y persona s como 
+elementos históricos, que pueden cambiar.  
+Montaje 
+Decíamos que exhibir el artificio, el trabajo de la hechura de y en la obra teatral 
+desmonta el hechizo de la naturalidad. Si esto no sucede se corre el peligro de caer en 
+el efecto ideológico de naturalización de lo representado, lo cual reproduce una 
+tendencia conservadora de confirmación de la realidad tal como es.  
+La utilización del método del montaje abona a la puesta en evidencia del dispositivo 
+teatral. Por medio del montaje, en un movimiento inverso al del desarrollo lineal del 
+teatro aristotélico, el teatro épico avanza por cortes y saltos, su estrategia es la de 
+“cortar” el relato en partes como si se lo cortara con tijeras. Así, al contrario de una 
+estructura dramática que lleva al espectador de una escena a la otra y de una emoción 
+a la otra, se trabaja la discontinuidad, la fragmentación, la interrupción que produce un 
+efecto de shock en los espectadores. En el teatro brechtiano y, más específicamente, 
+las óperas épicas, no se desarrollan acciones sino que se presentan situaciones cuyo 
+señalamiento se realiza por medio de la interrupción del proceso de la acción. Veremos 
+que en el caso de las piezas didácticas esto se produce mayormente por la intervención 
+del coro, del narrador o por el formato canción. 
+Pero, además de articular la estructura narrativa, el montaje está presente en cómo los 
+elementos que componen la escena (el libreto, la música, la escenografía, las 
+proyecciones, etc.) aparecen de modo independiente unos de otros. Esta separación 
+Victoria Coccaro  
+ 
+9  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+radical de los elementos abona al objetivo de exhibir a la obra y, por ende, a la realidad 
+y al mundo como un constructo, como algo hecho y que, en consecuencia, podría ser 
+de otro modo. En otras palabras, el montaje produce el efecto de distanciamiento y eso 
+lleva a desnaturalizar o bien desfetichizar la realidad social. Además, el montaje se 
+relaciona con el modo de recepción activa y crítica que apuntamos anteriormente, pues 
+la fragmentación con la que aparece el material obliga a que el espectador tenga que 
+hacer su propia organización del mismo. 
+A partir del trabajo con el montaje y la fragmentación pueden pensarse, además, otras 
+dos reelaboraciones. En primer lugar, en relación al quiebre de la unidad de espacio, 
+tiempo y acción del teatro clásico. Y, a su vez, en un vínculo conflictivo con la tradición 
+wagneriana heredada del siglo XIX, en tanto uno de los valores más importantes de la 
+Gesamtkunstwerk era la unidad. Podríamos pensar también en cómo funcionan en 
+las óperas de Wagner los Leitmotiv. Allí cumplen una función unificadora, de 
+ligazón, con el fin de crear un discurso musical continuo, sin cesuras, costuras, ni 
+marcas, una “melodía infinita”. Al contrario de la fragmentación y el montaje, el 
+Leitmotiv estructura un esquema de causas y efectos, provoca una emoción, 
+asegura una reacción principalmente afectiva, la cual prepara el terreno –desde lo 
+prerracional– para la comprensión de la trama. Al contrario de las óperas épicas de 
+Brecht y Weill, en las de Wagner se tiende a la integridad, la organicidad y a la fusión 
+entre el espectador y el escenario. 
+Además, vale señalar que la técnica brechtiana del distanciamiento se vincula con 
+procedimientos utilizados por el dadaísmo y el surrealismo, tanto en las artes visuales 
+(los collages de Kurt Schwitters, los fotomontajes en las obras de John Heartfielde), 
+como en literatura (en el ámbito de la poesía puede pensarse en relación al quiebre de 
+la palabra en mínimas partículas sonoras como ocurre en la Ursonate también de 
+Schwitters, en la técnica de la escritura colectiva practicada por los surrealistas o en la 
+escritura automática de André Breton).   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+10  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 1. John Heartfielde. Fotomontaje.  
+  
+ 
+ 
+ 
+  
+Adolf the Übermensch: Swallows gold and spouts Junk, AIZ 11, no. 29, july 17 1932. J. Paul Getty 
+Museum, Los Angeles, CA, US. Wikiart 
+https://www.wikiart.org/en/john-heartfield/adolf-the-ubermensch-swallows-gold-and-spouts-
+junk-aiz-11-no-29-july-17-1932 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 2. Schwitters, Kurt. 
+Die Eintrittskarte, 1922. Museo Nacional Thyssen-Bornemisza, Madrid Inv. no. 744 (1976.29).  
+https://www.museothyssen.org/en/collection/artists/schwitters-kurt/entrance-ticket-mz-456 
+ 
+Finalmente, con la técnica del montaje se relaciona otro elemento central del teatro 
+brechtiano que es el uso de materiales documentales en la obra. Tal como en el collage 
+de Schwitters se incorpora, por ejemplo, la entrada de un teatro, un “resto” de realidad, 
+Victoria Coccaro  
+ 
+11  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+en las obras de teatro u ópera épica se incorporan fuentes documentales. Por ejemplo, 
+por medio de proyecciones sobre el espacio escénico (material fílmico, fotografías, 
+etc.), como ocurre en la presentación de Mahagonny Songspiel, en Baden-Baden, el 13 
+de octubre de 19277. Este solapamiento entre ficción y documento Brecht lo toma y 
+expande del Teatro político de Erwin Piscator que se desarrolla durante los primeros 
+años de la República de Weimar. Piscator fue, en efecto, el director del Volksbühne 
+(Teatro del pueblo) de Berlín. 
+La pieza didáctica o Lehrstück  
+Entre 1928 y 1930 Brecht trabajó en una serie de obras de teatro con música en 
+colaboración con los compositores Kurt Weill, Paul Hindemith y Hans Eisler: Der 
+Lindberghflug, Lehrstück, Der Jasager y Die Massnahme. 
+En líneas generales, la pieza didáctica se caracteriza por estar destinada a los 
+intérpretes más que al público. Hasta podríamos afirmar que prescinden de público en 
+tanto este pasa a formar parte de la obra. Estas piezas, entonces, se definen como lo 
+opuesto a la ópera, donde la posición contemplativa está agudizada por la presencia 
+continua de la música, como sostiene Joy Calico (2008). A su vez, la premisa de que para 
+que exista una representación escénica debe haber por un lado público y por otro 
+actores queda suspendida.  
+En relación a la música, Calico sostiene que el Lehrstück es esencialmente un género 
+musical debido a la importancia tanto del compositor desde el comienzo de la creación 
+como de la música en el armado de la pieza. En efecto, en estas piezas casi no hay partes 
+sin música. Esta se hace presente en la instrumentación, la distribución de las partes 
+cantadas (solistas, coros) o el uso del melodrama (discurso hablado sobre un fondo 
+                                                                 
+7 En la introducción a la primera parte de la compilación de ensayos Brecht on Thater, Steve Giles (2017) precisa: “Instead of 
+the ‘full’ curtain of the proscenium arch stage, there was to be a white half-curtain no more than 2.5 meters high, in front of 
+which the actors would occasionally perform and on to which would be projected scene titles in red, together with occ asional 
+visual images, such as the wanted poster of Begbick et al and photographs of her and her accomplices. Further projections  
+were to appear on the backdrop and on a projection screen, possibly in the manner of the screens used in the premiere of 
+The Threepenny Opera in 1928. The projected material was to include photographs, a map of Mahagonny, crime figures, film 
+footage of typhoons and erotic pictures” (pág. 22) 
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+12  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+musical)8. Sin embargo, el rol central de la música radica en que es lo que permite la 
+participación y la experiencia colectiva de los participantes. En este sentido, no tiene 
+un fin persuasivo ni de entretenimiento sino de instruir y organizar a los intérpretes. De 
+armonizar, componer o cohesionar la grupalidad. Además, la intervención del coro en 
+todas estas piezas adquiere una dimensión conceptual y performática en tanto 
+presenta y acciona una idea: reunir individualidades en una única voz colectiva, como 
+sostiene Calico, “Choral music literally organizes a crowd into a collective” (pág. 33). 
+Podríamos pensar que en el contexto de la República de Weimar la canción coral 
+condensa la colectivización y el comunitarismo que perseguía esta organización social.  
+Por otra parte, es posible vincular a la técnica del montaje y la fragmentación con cómo 
+funciona la música tanto en Der Lindberghflug (Brecht/Weill/Hindemith) y Der 
+Jasager (Brecht/Weill) como en la ópera Aufstieg und Fall der Stadt Mahagonny 
+(Brecht/Weill). En todas ellas la composición musical consiste en números separados, 
+canciones, que se contraponen a la música continua de la ópera. La canción funciona 
+como vehículo de extrañamiento porque permite separar el relato en distintos 
+episodios narrativos, diferenciar una situación de otra, destacarlas, señalarlas. A esto 
+se suma que en algunas piezas hay una preparación visual del actor al ponerse a cantar 
+que, por ejemplo, se sube a una silla, lo que enfatiza a la canción como procedimiento 
+de distanciamiento9. 
+Bertolt Brecht (2017), en su ensayo “Notes on the Opera Rise and Fall of the City of 
+Mahagonny”, publicado en 1930, cuyo primer apartado se titula precisamente: “Ópera, 
+sí, pero con innovaciones”, ya señalaba la necesidad de transformar el lugar que ocupa 
+la ópera en la sociedad y conectarla con las instituciones escolares o los medios masivos 
+                                                                 
+8 El melodrama no refiere aquí al género dramático que se destaca por expresar las emociones de los personajes sino a un 
+género del siglo XVIII en el que los personajes hablan sobre la música o se alternan partes habladas e instrumentales que 
+pueden “comentar” el parlamento (como ocurre, por ejemplo, en Leonore [1859] de Franz Liszt o The Raven Op. 20 [1910] 
+de Arthur Bergh y Edgar A. Poe). A principios del siglo XX se produce una innovación muy importante del melodrama en 
+óperas experimentales que retoman y expanden el género en lo que se conoce como  sprechgesang. En este caso, la palabra 
+hablada está escrita en una partitura que indica la altura y la rítmica de la voz, sin embargo, es importante que no llegue al 
+canto sino que se mantenga en un umbral, como melodía hablada o habla cantada (por ejemplo, Pierrot Lunaire [1911] de 
+Arnold Shoenberg). En La ópera de los tres centavos (1928), de Brecht/Weill, se hace uso del sprechgesang en dos momentos: 
+la canción “La luna sobre el Soho” (“Siehst Du den Mond über Soho” y la balada pirata de Jenny (“Seeräuber Jenny”). 
+9 Esto se puede observar en una puesta del 2007 de Die Massnahme (Brecht/Eisler), en este caso, en relación al discurso 
+hablado. En varios momentos en que el actor interviene con un parlamento se sube a un pequeño puente que hay en el 
+escenario a modo de podio. Ver, por ejemplo, la escena que comienza en 13’ 50’’.  
+Victoria Coccaro  
+ 
+13  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+de comunicación. Estas dos características atraviesan dos de estas piezas  tempranas de 
+Brecht con música de Weill: Der Jasager y Der Lindberghflug. La primera, con apoyo del 
+Kulturministerium, se representó en casi todas las escuelas de Alemania. Ambas fueron 
+estrenadas por radio, aunque, en el caso de Der Lindberghflug, este medio no es solo 
+un soporte de reproducción sino que, veremos, adquiere una función estructural en la 
+obra. 
+Brecht (2017) consideraba que estos cambios en la ópera producirían un cambio en los 
+espectadores (pág. 49). Tal vez una de las críticas que se le puede hacer a su propuesta 
+es la plena confianza en que el arte incide en el mundo, que puede tener efectos 
+directos sobre la realidad social, que aloja, entonces, una promesa revolucionaria.  
+Como se sabe, esta fue una posición que lo alejó de Theodor Adorno y lo acercó a 
+Walter Benjamin. Para Adorno, el arte no tiene una incidencia directa sobre lo social, ni 
+tampoco una funcionalidad, es decir, servir para algo (aún sea la revolución, la 
+transformación de la sociedad) porque así es como son las cosas bajo la lógica de la 
+razón instrumental. Por el contrario, el filósofo acentúa la mediación negativa entre el 
+arte y lo social, una relación que nunca es directa sino que está mediatizada por las 
+formas. Es allí, en las formas, donde para Adorno radica la críti ca a lo social y el 
+fundamento de la verdad del arte, su no ser como es lo social.  
+La hipótesis que queremos probar en este último apartado es que en las piezas 
+didácticas de Brecht-Weill el vínculo entre arte y política no está al nivel del contenido 
+como se han interpretado mayormente estas piezas, en tanto un adoctrinamiento del 
+público a través de la enseñanza de una lección moral, es decir, de un contenido 
+independiente al hecho teatral y a la forma que este toma. Pero tampoco está, a pesar 
+de la novedad del teatro épico y de la renovación que planteaba, puramente en las 
+formas y los procedimientos. La politicidad de estas piezas experimentales está en las 
+experiencias políticas que activan. Lo didáctico o el  aprendizaje es un proceso que 
+sucede durante la realización de la obra, no como efecto de su contenido. Más que una 
+doctrina, una práctica. Kurt Weill se refiere a las óperas escolares como un 
+entrenamiento moral e intelectual. De este enunciado queremos enfatizar la idea de 
+entrenamiento, de ejercicio, en definitiva, de la pieza didáctica como experimento 
+colectivo. Hasta podríamos pensar en cierta ritualística que rodea a estas obras, lo que 
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+14  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+tiene que ver con la influencia de Enrique Busoni sobre Weill, quien fue su maestro 
+durante los primeros años de la década del veinte. Para Busoni, el teatro musical debía 
+huir tanto del realismo como del patetismo romántico (Wagner), y acercarse más bien 
+al ritualismo de, por ejemplo, La flauta mágica (1791) de Mozart.  
+Der Lindberghflug (1929) es una cantata para radio con libreto de Brecht y música de Kurt 
+Weill y Paul Hindemith sobre el vuelo de Charles Lindbergh, el primer piloto que cruzó en avión 
+el Océano Atlántico, desde Nueva York a París, en 1927. La pieza está compuesta de un 
+prólogo y diecisiete canciones que llevan los siguientes títulos: 1. Exhortación, 2. El 
+avión sale de Nueva York para su vuelo a Europa, 3. Los diarios norteamericanos alaban la 
+irreflexión del aviador, 4. Presentación del aviador, 5. La ciudad de Nueva York pregunta 
+a los barcos, 5. El aviador tuvo que lidiar con niebla durante la mayor parte de su vuelo, 
+6. Durante la noche vino una tormenta de nieve, 7. Sueño, 8. Ideología, 9. Agua, 10. 
+Durante todo el vuelo todos los diarios americanos hablaron incesantemente de la 
+suerte del aviador, 11. Pensamientos de los afortunados, 12. Los periódicos franceses 
+escriben: Así vuela, el mar a su alrededor, la sombra de Nungesser debajo de él, 13. La 
+conversación del aviador con su motor, 14. Finalmente, no lejos de Escocia, el avión es 
+visto por unos pescadores, 15. En la noche del 21 de mayo de 1927 a las 10 de la noche 
+en el aeródromo de Le Bourget cerca de París, una gran multitud espera el avión 
+estadounidense, 16. Llegada del avión al aeropuerto de Le Bourget cerca de París, 17. 
+Informe sobre lo aún no alcanzado. Todos los títulos son enunciados al comienzo de 
+cada parte por un narrador/presentador que de un modo extradiegético adelanta los 
+acontecimientos que serán cantados. Allí se puede apreciar una de las técnicas de 
+distanciamiento que consolidarán en la forma del teatro épico brechtiano.  
+Nos interesa destacar tres aspectos de este Lehrstück. En primer lugar, que se trató 
+de una pieza interactiva en tanto el personaje de Lindbergh podía ser interpretado por 
+los oyentes desde sus casas, quienes seguían una partitura mientras escuchaban las 
+otras partes por la radio, según lo precisa Joy Calico (2008) “Lindbergh Flight differs 
+from the others in that only one participant is an amateur: The character of Lindbergh 
+is sung by the listener at home, who follows a score as he listens to the other parts 
+broadcast over the radio” (pág. 24). El receptor se convertía, en palabras de Brecht 
+(1973), en un “ejercitante [que] es oyente de una parte del texto y locutor de la otra” 
+(s/n), es decir, público e intérprete o pasivo y activo al mismo tiempo. A partir de aquí 
+Victoria Coccaro  
+ 
+15  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+puede pensarse a la experimentación como experiencia política y social en una ópera 
+participativa que pueda ser interpretada por cualquier persona sin formación musical 
+previa10, en la que los oyentes participan desde sus casas, siguen el libreto, cantan. Allí, 
+la música se desenvuelve como un vehículo privilegiado para esa toma de conciencia 
+en la práctica de lo colectivo. Asimismo, la participación del “público” quiebra cualquier 
+posible catarsis. Al respecto, Brecht (1973) señala que en Der Lindberghflug “el 
+individuo participa en la música siguiendo también el principio: actuar es mejor que 
+sentir, leyendo la música en el libro y entrando en los pasajes y voces dejados en blanco, 
+cantándolos para sí junto con otros (clase)” (s/n). Tanto la radio como la música son 
+sustanciales para que se produzca la participación ya que es en y por ellas que se reúnen 
+las voces de los oyentes, los que conforman así una suerte de “yo-canto-colectivo”. En 
+cuanto a la interpretación vocal, no importa tanto la expresión como la precisión, lo que 
+privilegia el ejercicio de la lectura y dificulta que surja una identificación emocional con 
+el personaje y el contenido sentimental del texto.  
+Es en el cruce entre vanguardia estética y vanguardia política que emerge el 
+experimento-experiencia de los Lehrstücke. Se trata, insistimos, de que el vínculo entre 
+arte y política no radica en lo representacional o los contenidos –la construcción de la 
+figura de un héroe que sigue adelante a pesar de las adversidades y puede dar cuenta 
+de su hazaña, el personaje de Lindbergh–, sino en la experiencia política y colectiva que 
+la obra activa en su versión radiofónica y participativa. Es en este sentido que la ópera 
+deviene aula, es decir, en tanto práctica más que como transmisión de un mensaje, de 
+una “lección”.  
+En segundo lugar, es de interés el trabajo del libreto con material documental, por 
+ejemplo, el testimonio del propio Charles Lindbergh, sonidos de agua o de motores y 
+fragmentos extraídos de noticias de diarios (véase el título la canción número 11: “Los 
+periódicos franceses escriben: Así vuela, el mar a su alrededor, la sombra de Nungesser 
+debajo de él”). En relación a la composición musical de Weill y Hindemith hay que 
+destacar la incorporación de formas de la música popular provenientes de los cabarets 
+(Songs) y las operetas (Songspiel), además de las formas breves y la elección de 
+repetirlas con el fin de que sean reconocibles y aprehensibles para oyentes  amateurs. 
+                                                                 
+10 En la primera representación de Die Massnahme (1930) el coro estuvo conformado por obreros sin formación musical.  
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+16  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Recordemos que una de las características de las piezas didácticas era que pudieran ser 
+interpretadas por estudiantes o aficionados. 
+En tercer lugar, Der Lindberghflug es, además, un caso paradigmático del uso 
+revolucionario que proponía Brecht de las nuevas tecnologías (la radio, el cine) y los 
+medios de comunicación; revolucionario en un sentido estético y político: no para 
+confirmar y reproducir la sociedad existente, sino para intervenirla. La ópera, entonces, 
+como un espacio donde puede desarrollarse un uso emancipador de la técnica. Y, a la 
+inversa, la posibilidad de crear nuevas formas en la ópera a partir de las nuevas 
+tecnologías. Es decir, Brecht no identifica a los nuevos recursos tecnológicos (la radio, 
+el cine, los medios de comunicación de masas en general) con la producción del sistema 
+capitalista (lo que sí se articulará por ejemplo en el pensamiento de Adorno, quien 
+condenará a la tecnología por sí misma, como si fuera fascista en sí). Desde la 
+perspectiva de Brecht, no se los debe condenar porque sean usadas para la explotación, 
+sino que, más bien, se debe discutir su uso, refuncionalizarlos. Los aparatos pueden ser 
+utilizados para favorecer la comunidad: “la mejor utilización de los aparatos en interés 
+de la comunidad, tenemos que estremecer la base social de estos aparatos, discutir su 
+empleo en interés de los menos” (s/n), afirma Brecht (1973) en una serie de textos 
+sobre teorías de la radio que escribe entre 1927 y 1932, en paralelo a la realización y 
+los estrenos radiofónicos de Der Lindberghflug y Der Jasager. Podría pensarse que uno 
+de los objetivos de estos textos –y de estas piezas– era disputarle al nazismo en ascenso 
+este medio tecnológico. Y esa disputa, esa refuncionalización de los aparatos se 
+produce, para Brecht, ejemplarmente en el campo del arte, del teatro, de la ópera. 
+Como señalamos, en Der Lindberghflug la radio es mediadora entre la doble presencia 
+del receptor: oyente y locutor. Aun más, convierte al público en ejecutante, en 
+productor. El aparato es fundamental para que se efectúe la participación colectiva y la 
+pieza se complete. La radio, así, no sólo es utilizada como soporte de la obra sino que 
+es transformada, refuncionalizada, en tanto pasa de distribuir información a comunicar 
+a distintos sectores de la sociedad, haciendo posible un intercambio, como sostiene 
+Brecht (1973) en sus escritos: “la radio tiene una cara donde debería tener dos. Es un 
+simple aparato distribuidor, simplemente reparte… para cambiar el funcionamiento de 
+la radio hay que transformar la radio, convertirla de aparato de distribución en aparato 
+de comunicación” (s/n). Alcanza así un horizonte diferente a la de ser, al decir de Brecht, 
+Victoria Coccaro  
+ 
+17  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+un “bazar acústico [que] ameniza la vida pública” y, promueve, por el contrario, una 
+“rebelión del oyente” frente a los medios de comunicación. 
+No deja de ser sugerente pensar, a partir del uso y la valorización de la técnica en estas 
+piezas de Brecht-Weill, el presente de hipertecnificación en el que vivimos. En 
+particular, las transformaciones que se sucedieron en la práctica operística en los 
+últimos años por el uso de las redes informáticas y los medios de comunicación. 
+Géneros como la video-ópera u óperas que se desarrollan únicamente en contextos 
+virtuales han emergido con más intensidad en estos dos últimos años de pandemia 
+global. A la luz del experimento de Der Lindberghflug y de las teorías sobre la radio de 
+Brecht puede pensarse en la necesidad de tomar posición frente al  uso de estas 
+tecnologías, cómo hacer, en definitiva, para que no sea solo un soporte diferente al del 
+teatro presencial sino que implique una transformación de la ópera. En esta línea, vale 
+mencionar una versión de Der Lindberghflug de 1992 en la que la pieza se reescribe en 
+el contexto mediático y tecnológico de fines del siglo XX, cuando no la radio sino la 
+televisión era el aparato que atravesaba de un modo omnipresente la cotidianeidad de 
+las personas. Sin embargo, habrá que preguntarse si esta producción televisiva dirigida 
+por Jean-François Jung encarna las ideas, desafíos y objetivos que llevaron adelante 
+Brecht y Weill en sus piezas didácticas. Queda abierto la interrogante para futuros 
+trabajos. 
+Finalmente, el caso de Der Jasager, El que dice que sí, es otra pieza didáctica u ópera 
+escolar (Schuloper) con libreto de Brecht en colaboración con Elisabeth Hauptmann y 
+música de Kurt Weill. Al igual que Der Lindberghflug, tiene un estreno radial el 23 de 
+junio de 1930 en el programa Die-Funk-Stunde pero, en este caso, es una transmisión 
+en vivo de la obra que estaba siendo representada en el Zentralinstitut für Erziehung 
+und Unterricht por estudiantes de la Akademie für Kirchen und Schulmusik. Esta pieza 
+fue realizada principlamente en colegios y diferentes instituciones educativas durante 
+los últimos años de la República de Weimar, en 1932 ya se había montado en Alemania 
+más de cien veces y en todas habían participado estudiantes. Esto destaca una nueva 
+característica del género Lehrstück o Schuloper, la de montarse afuera de las salas de 
+teatro, en escuelas, fábricas, espacios públicos. En efecto, como precisa David Drew, 
+esta pieza fue compuesta por Weill especialmente para alumnos de colegios primarios. 
+Sobre su trabajo en Der Jasager, Weill manifiesta el desafío que fue componer una pieza 
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+18  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+especialmente para niños, debía ser simple pero no sencilla, lo que se aprecia en la 
+liviana pero sofisticada melodía de las voces. Ese mismo año (1930), Weill reescribe Der 
+Lindberghflug adaptándola para orquesta y coro, en el que incluye especialmente voces 
+infantiles.  
+Esta pieza demanda una posición reflexiva del espectador en tanto tiene que tomar una 
+decisión sobre cual es su posición sobre el desenlace de la trama. Los personajes 
+principales son tres: un niño, su madre y su maestro. La obra comienza cuando el 
+maestro va a la casa de la madre a preguntar por qué el niño se está ausentando de la 
+escuela y cuenta que está por partir en una expedición a un pueblo al otro lado de las 
+montañas donde vive un famoso sabio. El niño le contesta que el motivo de su ausencia 
+es que su madre está muy enferma. La madre, que está escuchando la conversación 
+desde su cama, le pide al maestro que se lleve al niño porque en aquel pueblo vive un 
+médico que puede curar su enfermedad. En el segundo acto participan el maestro, el 
+niño y otros tres estudiantes. Promediando la expedición, el niño comienza a sentirse 
+mal y manifiesta que no puede continuar. Los tres estudiantes le recuerdan al maestro 
+la costumbre que indica que si alguno de ellos no puede continuar debe ser arrojado al 
+vacío. El maestro dice que antes de eso se le debe preguntar a esa persona qué elige: si 
+hacer regresar a la expedición o que sea arrojado. El niño elije ser arrojado pero antes 
+pide que traigan la cura para su madre. La figura del sacrificio que el libreto exhibe fue 
+ampliamante cuestionada, lo que llevó a Brecht a una reformulación del mismo: ¿cuáles 
+circunstancias en las que se encontrara el muchacho podrían todavía justificar su 
+consentimiento? En la segunda versión de Der Jasager, la madre es aquejada por una 
+epidemia que sufre a la vez toda la ciudad. Es absolutamente necesario buscar 
+medicinas que sólo se encuentran al otro lado de las montañas. En una tercera versión, 
+cuyo título se transformó a Der Neinsager (El que dice que no), el niño se niega a ser 
+arrojado y hace regresar a la expedición apelando a otra costumbre: “la costumbre de 
+que uno debe pensar de nuevo en cada nueva situación”. Sin embargo, esta pieza nunca 
+tuvo su parte musical. 
+En Der Jasager la música se desarrolla en líneas melódicas breves y que se repiten entre 
+los diferentes personajes a lo largo de la pieza, principalmente entre el maestro, el hijo 
+y la madre. Tiene una estructura simétrica en el sentido de que el final repite las líneas 
+melódicas de la música y del coro del comienzo de la pieza. A su vez, el primer y el 
+Victoria Coccaro  
+ 
+19  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+segundo acto empiezan de la misma manera, con una apertura del coro que resume los 
+acontecimientos y da un marco narrativo. En efecto, en Der Jasager es el coro el que 
+explica o describe las situaciones pero siempre desde afuera de ellas, del mismo modo 
+que en Der Lindberghflug funcionaba la figura del narrador. Otra característica es que 
+en algunos momentos se produce una tensión entre las líneas melódicas de las voces y 
+la ritmicidad de la música11. Es sugerente pensar en esta tensión que activa la música 
+como una interrogación sobre el libreto, como una posi ble crítica al que asiente 
+fácilmente (encarnado en el personaje del niño). Sin embargo, esa tensión no está 
+resuelta, sino que solo se presenta el problema y queda en el público llegar a una 
+conclusión. 
+Además de porque se trató de una pieza compuesta especialmente para escuelas, el 
+didactismo se evidencia en que tiene una trama simple y cualquier espectador puede 
+actuar. Esto se vincula con una clase de música que se desarrolla en la República de 
+Weimar, la Gebrauchmusik, que fue desarrollada especialmente por Hindemith con el 
+principio de componer una música que se pueda interpretar en la casa, en cualquier 
+lado y por cualquier persona, una música para aficionados, no “virtuosos”, en una 
+tendencia contraria a las composiciones de Arnold Shoenberg. 
+Para terminar, quisierámos trazar un vector entre estas piezas didácticas de Brecht-
+Weill y una de las vertientes preponderantes del arte contemporáneo. La idea de que 
+el arte sea una forma de producción de una experiencia social encuentra un profundo 
+vínculo con el “arte relacional” teorizado por Nicolás Bourriaud sobre un arte que no 
+“inventa” una obra sino que crea espacios para el lazo social. En palabras de Bourriaud 
+(2009), las prácticas artísticas se concentran “en efectuar modestas ramificaciones, 
+abrir algún paso, poner en relación niveles de la realidad distanciados unos de otros” 
+(pág. 7). ¿No es esto mismo lo que planteaban Brecht y Weill en sus Lehrstücke 
+alrededor de 1930? Habrá, seguramente, diferencias y matices entre ambas 
+propuestas. En la teoría de Bourriaud, como en otras reflexiones contemporáneas 
+                                                                 
+11 La tensión o, para usar palabras caras al teatro o la ópera épica, la dialéctica –teniendo en cuenta, además, que el teatro 
+épico evoluciona en Brecht al teatro dialéctico–, puede darse también en que la música burla al personaje o tensiona la 
+trama. Por ejemplo, en la última escena de la primera ópera de Weill (2001), Der protagonist (1920), después de que ocurre 
+un asesinato, la música evita aludir al pathos romántico, solo permanece, como suspendida, sin sentimientos. Hacia el final 
+(véase 9’20’’), el asesino (el protagonista) manifiesta su locura, pero la música tampoco subraya el drama ni expresa la locura 
+del personaje, sino que señala lo absurdo del personaje.  
+Experimento y  experiencia política: Las piezas didácticas o Lehrstücke de Bertolt Brecht y  Kurt Weill 
+ 
+20  
+Cuadernos del CILHA n 39 – 2023  
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+sobre el vínculo entre arte y política o arte y sociedad, ya no se aspira a transformar el 
+mundo, la revolución ha dejado de ser un horizonte, no solo para las prácticas artísticas 
+sino para la sociedad en general. Las formas de emancipación no se piensan ya bajo la 
+figura de un cambio radical y absoluto, la revolución, sino más bien como micropolíticas 
+transversales, efímeras tal vez, pero en constante movimiento, aquello que Rancière 
+(2011) llama una “redistribución de lo sensible”. Muchas de las prácticas artísticas 
+contemporáneas plantean exploraciones sobre maneras de estar en el mundo, de 
+intercambios, de relacionarse con otros, como ocurría en las piezas didácticas u óperas 
+escolares de Brecht y Weill. Este vínculo, además, da cuenta del retorno, o más bien, 
+de la vigencia de las vanguardias de las primeras décadas del siglo XX en el comienzo 
+del siglo XXI. Si bien lo experimental parece definirse como aquello que inventa cada 
+vez sus propias condiciones de posibilidad, fundando su radical novedad, no estaría mal 
+esbozar una posible tradición –inestable, discontinua, ambivalente, indefinible, hecha 
+de cortes y saltos, desvíos y avances a tientas– de la experimentación artística, no solo 
+entendida como la creación de nuevos procedimientos, sino, también, de experiencias 
+sociales y políticas. 
+Referencias  
+Benjamin, W. (1999). Qué es el teatro épico (primera versión). Un estudio sobre Brecht. En Tentativas sobre 
+Brecht. Iluminaciones III. Taurus.  
+Brecht, B. (1972). La política en el teatro. Alfa. 
+Brecht, B. (2004). Escritos sobre teatro. Alba. 
+Brecht, B. (1973). Teorías de la radio (1927-1932). En El compromiso social en literatura y arte. Traducido por 
+J. 
+Fontecuberta. 
+Península. 
+https://archive.org/details/teoriasdelaradio19271932berttoldbrecht/Teor%C3%ADas%20de%20la%20radio
+%20%281927-1932%29-Bertold%20Brecht/ 
+Brecht, 
+Bertolt. 
+(1928/9). 
+Der 
+Ozeanflug 
+[libreto]. 
+https://www.bibliele.com/?Deutsche_Lyrik_u._a._%2F_L%C3%ADrica_alemana_y_m%C3%A1s:Literatur_de
+r_Zwanziger_Jahre_%2F_Literatura_de_los_a%C3%B1os_veinte_%281918-
+1933%29_%E2%80%94_%5BNeue_Sachlichkeit_%2F_Nueva_objetividad%5D_Prosa:Bertolt_Brecht&search
+=der%2Cozeanflug 
+Brecht, Bertolt (2017). Notes on the Opera Rise and Fall of the City of Mahagonny (original publicado en 
+1930). En S. Giles, M. Silberman, M. and T. Kuhn (eds.). Brecht on Theatre (págs. 46-51). Bloomsbury 
+Publishing. 
+Brecht, B., Eisler, H (2007). Die Massnahme - Eisler/Brecht - Norsk urpremiere 2007 [video]. YouTube. 
+https://www.youtube.com/watch?v=1faRq5oBTn0 
+Victoria Coccaro  
+ 
+21  
+Cuadernos del CILHA n 38 – 2023 
+ISSN 1515-6125 | EISSN 1852-9615 
+CC BY-NC 4.0 international    
+ 
+https://revistas.uncu.edu.ar/ojs3/index.php/cilha   
+ 
+Bourriaud, N. (2009). Estética relacional. Adriana Hidalgo. 
+Calico, J. H. (2008). Lehrstück, Opera, and the New Audience Contract of the Epic Theater. En Brecht at the 
+Opera. University of California Press.  
+Drew, D. (1962). Musical Theatre in the Weimar Republic [ponencia]. Royal Musical Association 88th Session 
+16 de mayo 1962. https://www.kwf.org/research-center/drew-writings/drew-writings-on-weill-list-by-
+subject/ 
+Giles, S. (2017). A New Theater. En S. Giles, M. Silberman and T. Kuhn, T. (eds.). Brecht on Theatre (págs. 18-
+23). Bloomsbury Publishing. 
+Jung, J.-F. (1992). Kurt Weill, Bertolt Brecht: Der Lindberghflug - Ozeanflug (1929, Fernsehinszenierung 1992) 
+[video]. YouTube. https://www.youtube.com/watch?v=39JV1zeMuAE 
+Martin, C., Bial, H. (Eds.) (2000). Brecht Sourcebook. Routledge. 
+Rancière, J. (2011). Política de la literatura. Libros del Zorzal. 
+Saenz, Miguel. (2016). El 
+universo musical de Bertolt Brecht. Fundación Juan March. 
+https://www.march.es/es/madrid/universo-musical-bertolt-brecht 
+Shklovsky, V. El arte como artificio. En T. Todorov (comp.), Teoría de la literatura de los formalistas rusos 
+(págs. 77-98). Siglo XXI.  
+Shoenberg, A. (1963). El estilo y la idea. Taurus. 
+Weill, K., Kaiser, G. (2001). Kurt Weill - Georg Kaiser - Der Protagonist (Part 5-5).wmv [video]. Youtube. 
+https://www.youtube.com/watch?v=D_VGTOsK81Y 
+  

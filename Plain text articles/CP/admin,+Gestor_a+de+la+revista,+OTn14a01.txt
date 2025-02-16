@@ -1,0 +1,399 @@
+ 
+Paisaje: imagen, entorno, ensamble 
+ 
+por Jens Andermann 
+(Birkbeck College - University of London) 
+ 
+ 
+RESUMEN  
+Aun reconociendo su situación mediadora entre cultura y naturaleza, tanto las disciplinas estéticas como 
+las ciencias sociales suelen reducir el paisaje, o bien a una mera construcción de la mirada que lo 
+abarca o bien al resultado material que la intervención humana deja al “culturizar” su entorno natural. 
+Este ensayo argumenta que, en cambio, tenemos que volver a pensar al paisaje como el proceso que va 
+de la imagen al entorno y viceversa, ensamblando lo humano con lo no-humano. De esta manera, se 
+propone esbozar un marco teórico para historizar el paisaje en la modernidad latinoamericana. 
+ 
+Palabras clave: paisaje - modernidad - espacio - lugar - ergon / parergon 
+ 
+ABSTRACT 
+Despite explicitly recognizing its mediating function between culture and nature, both aesthetics and 
+social science tend to reduce landscape, either to a mere construct of the gaze that beholds it or to the 
+material result of human intervention into its thereby “culturized” natural environment. This essay 
+argues that we should return to conceive of landscape as the process that runs from the image to the 
+environment and vice versa, as an assemblage of the human and the non-human. In this way, it aims to 
+sketch out a theoretical frame in which to historicize the landscapes of Latin American modernity. 
+ 
+Keywords: landscape - modernity - space - place - ergon / parergon 
+ 
+ 
+Mögen immer die Worte von der Natur abprallen, ihre Sprache 
+verraten an die, von welcher jene qualitativ sich scheidet – 
+keine Kritik der Naturteleologie kann fortschaffen, daß 
+südliche Länder wolkenlose Tage kennen, die sind, als ob sie 
+darauf warteten, wahrgenommen zu werden. 
+Adorno, Ästhetische Theorie, XXX 1 
+ 
+ 
+Como sugiere la concesión sorprendente que Adorno, en un giro absolutamente 
+inesperado, reserva para una “naturaleza sureña” cuyos encantos prevalecen más allá de la 
+crítica implacable a las nociones traicioneras de “belleza natural”, en la relación entre la 
+modernidad capitalista y sus periferias no-industrializadas, el paisaje de éstas últimas —el Gran 
+Sur— contiene (o preserva) un poder de afirmación que excede hasta al más estricto 
+pensamiento negativo. Ese goce sin inversión, sin trabajo, en una figura de resonancias 
+religiosas a la vez que históricas y políticas, es a un mismo tiempo tentación, invitación a un 
+peligroso desvío de la disciplina crítica al pantanoso terreno de la inmediatez (Eigentlichkeit), y 
+promesa radical de liberación de las cadenas de subjetividad burguesa y occidental. Podríamos 
+pensar, sugiero, a esta figura de suspensión radical (en el sentido hegeliano de Aufhebung, 
+contención) de la historicidad “norteña” por y en los cielos desnublados del Gran Sur, como una 
+de las maneras de incrustación de un pensamiento “pos-colonial” en la propia tradición crítica 
+de Occidente. Es, a un mismo tiempo, la figura espacial del destierro de una tradición estético-
+filosófica disidente interna a Occidente, hilvanada por la declinación de conceptos como 
+                                                 
+1 “Por más que las palabras estallaran contra la naturaleza, al delatar su lengua a aquella que difiere de 
+ella en modo cualitativo – ninguna crítica de la teleología natural puede borrar el hecho de que los países 
+sureños conocen días sin nubes, días que son como si esperaran nuestra percepción”. (Todas las 
+traducciones al castellano son de mi responsabilidad exclusiva). 
+ANDERMANN Jens: Paisaje : Imagen, entorno, ensamble
+Orbis Tertius, 2008 13(14). ISSN 1851-7811.
+http://www.orbistertius.unlp.edu.ar/
+Esta obra est´
+a bajo licencia Creative Commons Atribuci´
+on-NoComercial-SinDerivadas 2.5 Argentina
+1
+ 
+revelación, desborde y derroche; y de inscripción, en el mismo relato histórico occidental, de 
+aquello que éste sólo conoce como silencio, ausencia de la densidad del devenir temporal, en 
+suma: como espacio. En el Gran Sur, escribe Michael Taussig (2002: 338), 
+ 
+lo prehistórico, como “segunda naturaleza”, atado a la historia del mundo en tanto 
+historia económica de tres océanos, es sometido por las condiciones de la 
+modernidad a una estética específica de la revelación, de expansión del valor [...] 
+esta revelación no es la de un secreto sino de un secreto público, de saber qué es lo 
+que no hay que saber, como la base misma del ser social, y la manipulación de esta 
+labor de negación, impulsada por su revelación, implica una mezcla particular de 
+represión y expresión, aquello que Georges Bataille llamaba ‘derroche’ no-
+profitable. 
+ 
+Mi interés en particular es aquí por los modos en que, atravesando la modernidad 
+latinoamericana, ese lenguaje crítico-afirmativo de la naturaleza ha sido movilizado por 
+proyectos políticos y estéticos de transformar la inscripción de la región en el emergente sistema 
+mundial capitalista. El paisaje, sugiero, es uno de los nodos principales a través de los cuales 
+podemos pensar la intersección entre prácticas políticas y estéticas de la modernidad, prácticas 
+del Estado así como de su contestación por parte de disidencias de cuño “revolucionario” o 
+“conservador”. Si en el siglo XIX el paisaje pintoresco del naturalismo romántico fue sentando 
+las bases iconográficas de los emergentes estados oligárquico-liberales, exportadores de 
+materias primas, las transformaciones que fue sufriendo la forma paisaje a lo largo del siglo XX 
+son a un mismo tiempo el índice de la crisis de este sistema político, económico y cultural y del 
+fracaso persistente de trascender sus contradicciones fundamentales. Aún hay una historia por 
+escribir del paisaje moderno, particularmente ahí donde la tierra ha sido y en muchos casos 
+sigue siendo el principal objeto de contienda. ¿Cómo historiar —me pregunto—, en la América 
+latina del siglo XX, los paisajes para el desarrollo, para la revolución, o para el ajuste? ¿Cuáles 
+fueron, o aún siguen siendo, las prácticas políticas y estéticas del espacio, de poder y de 
+resistencia, que conlleva cada uno de ellos? Aquí me limitaré a algunas consideraciones 
+preliminares sobre el marco teórico y metodológico que permitiría formular mejor estas 
+preguntas. Tras una breve reseña de dos “casos” ejemplares —extraídos, no casualmente, del 
+corpus brasileño— intentaré mostrar algunas limitaciones de los modos en que las humanidades 
+y las ciencias sociales han intentado conceptualizar el paisaje —como imagen o como 
+entorno—, para concluir proponiendo la categoría de ensamble como un modo de franquear 
+estos límites. 
+Como imagen cultural de la naturaleza, el paisaje se inscribe en una tensión constitutiva 
+entre su apropiación como signo que otorga control representacional sobre un objeto 
+determinado, y la experiencia que este mismo signo promete y anuncia: experiencia de su 
+propio desborde en tanto imagen, y que lo devolverá al espectador a un modo tangible de 
+experiencias más allá de las mediaciones. Pero es así, precisamente, como la inmediatez una y 
+otra vez anunciada y postergada en un mismo instante por el paisaje —“lo natural” dándose 
+epifánicamente, en estado puro— contribuye y sanciona la petrificación de las relaciones 
+sociales que se interponen a la realización de la promesa. En el paisaje, la “segunda naturaleza” 
+(para valernos del concepto lukácsiano) aparece imbricada inexorablemente con la primera que 
+no existe sino como efecto negativo de ésta. En rigor, pues, como sugiere Jacques Derrida, “no 
+hay naturaleza, sólo sus efectos”. El paisaje representa estos efectos, en el doble sentido propio 
+del concepto de representación. Por un lado, remite a la imagen hecha, al paisaje-visión (y así a 
+la noción de lugar, como orden estable de elementos figurado en el conjunto de líneas y 
+volúmenes que organizan y convierten el marco visual en un todo estéticamente placentero, 
+correspondiente a una sensación de habitabilidad). En cambio, en su sentido performativo, 
+representación remite a la puesta en relación entre cuerpo y entorno, y así a una noción de 
+espacio entendido o bien en términos de rito o ceremonia (como la puesta en acción de un guión 
+preestablecido —como el repertorio que actualiza y recompone el archivo, en los términos 
+Orbis Tertius, 2008 13(14). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+2
+ 
+propuestos por Diana Taylor (2003)— y, por lo tanto, nuevamente como producción de lugares) 
+o bien como ensamble móvil y dinámico de interacciones imprevisibles entre agentes humanos 
+y no-humanos, esto es, como “creación de dimensiones en una multiplicidad que cambia 
+necesariamente de naturaleza en la medida en que hace aumentar sus conexiones”. (Deleuze y 
+Guattari 1980: 15) Para complicar aún más las cosas, cabe agregar que, por supuesto, estas 
+expresiones múltiples de la forma-paisaje aparecen constantemente yuxtapuestas o imbricadas 
+una en la otra: en el modo en que la imagen invoca la tridimensionalidad del performance, por 
+ejemplo, en función de imbuir la mirada con una corporalidad fantasmal al transitar por su 
+espacio visual, o en el modo en que la danza se desenvuelve en (y a la vez excede a) un orden 
+prefijado de lugares, una coreografía (término que tiene sus raíces en la cosmografía 
+ptolemaica) donde circunscribe la variedad de técnicas narrativas, legales y visuales de 
+emplazamiento. 
+No es sino esta oscilación constante entre diferentes órdenes de representación, y su 
+común anclaje, real y construida al mismo tiempo, en el espacio material y tangible que nos 
+rodea, la que produce el poder singular de la forma-paisaje. El paisaje, como dice el historiador 
+de arte W. J. T. Mitchell, “no es sólo una escena natural ni la representación de una escena 
+natural, sino una representación natural de una escena natural, una traza o un ícono de la 
+naturaleza en la naturaleza misma, como si la naturaleza estuviera imprimiendo y codificando 
+sus estructuras esenciales en nuestro aparato perceptivo” (Mitchell 1994: 14-5). Notemos al 
+paso que, a no ser que estemos dispuestos a admitir una noción del paisaje como lenguaje divino 
+(admisión contra la cual, como vimos, ninguna poética genuina del paisaje puede quedar 
+completamente inmune), el vínculo entre naturaleza y representación inmediatamente complica 
+la afirmación aparentemente telúrica de Mitchell. Porque, como algo que representa —algo que 
+se entrega como imagen que es percibida como bella o como sublime— la naturaleza invoca a la 
+historia como su propio fuera-de-campo, como la ausencia que no obstante carga de 
+significación al conjunto visual aparentemente autónomo y autosuficiente.  
+Paso a mis dos ejemplos, antes de concluir con algunas reflexiones metodológicas. El 
+primero proviene del último tercio del siglo XIX, también conocido como la era de las grandes 
+exposiciones. En la Exposición Universal de Filadelfia, celebrada en 1876, donde por primera 
+vez se estrenaban pabellones nacionales, el Imperio del Brasil exhibía un bosque artificial de 
+1.400 metros cuadrados, rodeado por murallas de yeso de aspecto morisco, y formado por 
+plantas en cuyo foliaje alternaban los colores verde y amarillo de la bandera nacional. Adentro 
+de esta “floresta tropical” los visitantes se topaban con animales embalsamados, arreglos 
+decorativos de plumas y, en el centro, con un “templo” rectangular construido con bloques de 
+algodón. El culto que ahí se rendía era, por supuesto, a la mercancía: en el medio de la sala, una 
+pirámide de vasos de cristal exponía más de cien variedades de granos de café, en diversos 
+estados de tostación, a cuyo alrededor había muestras de madera, tabaco, licores, y piedras 
+preciosas de la colección personal del Emperador D. Pedro II (Guimaraens 1998: 211-12). Esa 
+puesta en escena del Estado Imperial y su economía agro-exportadora de plantación ya 
+anticipaba, de manera curiosa y de caricatura mutua, el paisaje que casi cien años después 
+construiría Hélio Oiticica en su instalación Tropicália, expuesta por primera vez en 1967 en el 
+Museu de Arte Moderna de Río de Janeiro y luego, con modificaciones, en la mítica muestra 
+londinense de 1969, titulada por el artista como The Whitechapel Experiment. Obra inaugural de 
+todo un movimiento contra-cultural, Tropicália es un espacio de aproximadamente 6 por 3 
+metros, compuesto de dos construcciones de madera —o penetrables—, varios loros vivos, 
+plantas tropicales, poemas, piso de arena y cascarones, una televisión, sachets con perfume de 
+patchouli y sándalo y, en la versión de Whitechapel, una selección de capas —parangolés— que 
+los visitantes fueron invitados a probarse. El primer penetrable, titulado A pureza é um mito, es 
+un cobertizo sin techo formado por varios paneles pintados en distintos colores, en cuyo interior 
+cuelga una bolsa de plástico con arena sobre un piso de cascarones y, en el borde superior del 
+panel opuesto a la entrada, la inscripción del letrero titular. El segundo, titulado Imagética, es 
+una construcción laberíntica de paneles de madera en blanco y negro y paños de plástico y 
+algodón en colores chillones o impresos con motivos florales, que llevan al visitante por una 
+Orbis Tertius, 2008 13(14). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+3
+ 
+especie de tubo que se estrecha y oscurece paulatinamente, hacia una televisión emitiendo la 
+programación del día (enfrente, en un espacio de aspecto uterino, hay un banquito invitando al 
+visitante a sentarse y mirar). Entre ambos penetrables, pequeños senderos corren alrededor de 
+las plantas y los loros (con o sin caja), y, esparcidos por doquier, los poemas de Roberta 
+Salgado, escritos a mano sobre pedazos de cartón, metal y ladrillo.  
+Tropicália marca el final de la fase neoconcretista de Oiticica, llevándolo hacia un 
+involucramiento cada vez mayor con los habitantes de la favela Mangueira y un interés por 
+fusionar su experimentación anterior con el color y el volumen, con las prácticas concretas y 
+locales de la cultura popular (expresada, por ejemplo, en la serie de parangolés, vestimentas a 
+veces abstractas, a veces de aspecto cúltico o inscritas con mensajes políticos, destinadas a 
+dialogar con el cuerpo danzante del sambista). En palabras de Paulo Venancio Filho, Tropicália 
+“es Río de Janeiro rearticulada por Oiticica [...] Tropicália alterna entre la ciudad real y la 
+mítica [...] es el punto final de la experiencia del espacio urbano moderno que Río había 
+conocido por primera vez al construirse el Ministério de Educação e Saúde” (2007: 30), edificio 
+modernista cuyo techo contiene, como se sabe, el famoso jardín tropical diseñado por Roberto 
+Burle Marx. Pero Tropicália representa también una contestación disidente al Pop Art 
+norteamericano, en su uso de materiales cotidianos y pobres yuxtapuestos a clichés kitsch de 
+brasilidad exportable, reivindicando la cultura local al mismo tiempo que negándose a cualquier 
+pretensión de esencialismo, al ceder el interior profundo (la “sala final” de Imagética) a la pura 
+superficialidad de la imagen televisiva. 
+¿Cómo leer, entonces, los “efectos de naturaleza” suscitados por estos dos paisajes? 
+Podríamos decir que, en el caso de la Exposición de Filadelfia, se trata de una naturalización de 
+la historia, más específicamente de las relaciones de explotación propias de un capitalismo 
+periférico de grandes plantaciones, movilizando al ya convencionalizado lenguaje visual de lo 
+pintoresco para representar el monocultivo en términos de abundancia y de un mundo 
+premoderno en estado edénico, ofreciéndose voluptuosamente a la mirada (o sea, al poder 
+adquisitivo) de los centros industriales del Norte. Pero es precisamente la promesa incumplida 
+de esta imagen propia de la tradición romántico-indianista (la implicación, en la representación 
+falsa de la realidad histórica, de otra, más justa y verdadera, relación entre los hombres y su 
+ambiente), la que será retomada por un modernismo crítico que, desde la antropofagia 
+oswaldiana hasta Tropicália, intentará movilizar ese potencial utópico a través de la 
+deconstrucción de la imagen. De este modo, la segunda naturaleza es devuelta a la primera: o, 
+más bien, el efecto naturalizador del paisaje convencional es tomado de forma literal, de manera 
+que —tanto en la urbe paulistana de Macunaíma como en la carioca “rearticulada” por 
+Tropicália— los materiales y las formas del entorno moderno se convierten en una especie de 
+selva de segundo orden por la que debe negociar su paso el visitante, conjeturando huellas y 
+experimentando itinerarios potenciales. Al quitársele de esta manera al paisaje su exterioridad 
+objetivizante de imagen, lo que emerge es un entorno que se transforma en ensamble gracias a 
+la auto-inmersión por parte de un público que, al negársele la opción de distancia contemplativa, 
+debe recuperar (o inventarse) una habilidad multisensorial, entrando en relaciones prácticas de 
+uso e interacción con el ambiente.2  
+Al contraponer el environment art de Oiticica y el espectáculo paisajista del estado 
+decimonónico, intento sugerir la necesidad de re-aproximar una crítica estético-formal y un 
+modo de estudio socio-histórico, para poder abarcar al paisaje en su funcionamiento simultáneo 
+como imagen, entorno y ensamble. Como es bien sabido, en las ciencias sociales el término 
+                                                 
+2 Demás está decir que, así como el entorno de un modernismo radical hacía explotar las imágenes 
+heredadas del paisaje, en la era del espectáculo es tal vez el entorno mismo el que proporciona el modelo 
+de apropiación y objetivación de prácticas locales. Sin ir más lejos, unos 35 años después de Tropicália 
+otra instalación con materiales efímeros de la cultura popular carioca visitaba Londres, esta vez en la 
+muestra Brazil 40° de la casa Selfridges en Oxford Street, incluyendo algunos barracos de favela para 
+degustación de caipirinha y probador de mallas y bikinis. Para una selección de imágenes de la muestra 
+de Selfridges, ver http://www.footvolley.co.uk/news-selfridges.htm 
+Orbis Tertius, 2008 13(14). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+4
+ 
+paisaje ya fue introducido, desde los trabajos pioneros de Carl Sauer en los años veinte, como 
+un registro material y simbólico de las relaciones entre el medio físico y sus habitantes humanos 
+(Crumley 1994; Hirsch 1995: 1-30). El paisaje, afirma por ejemplo el eco-historiador Andrew 
+Sluyter, es un índice de producción espacial. El espacio, por tanto, “al mismo tiempo que objeto 
+de control, es también el medio a través del cual la lucha por el control tiene lugar: las 
+estrategias espaciales de dominación y resistencia, [por ejemplo] en el paisaje de las reservas 
+indígenas en Estados Unidos” (Sluyter 2002: 10). El paisaje es el archivo físico donde están 
+trazadas las relaciones sociales de la naturaleza. O, más bien, se convierte en tal archivo a través 
+del abordaje crítico, como en el estudio fascinante que hace Sluyter de las praderas costeras del 
+Golfo Mexicano, una suerte de base de datos ecológicos que el investigador sabe vincular y 
+referenciar con los usos legales, morales y estéticos del paisaje documentados en el archivo 
+colonial, mostrando sus múltiples interrelaciones. El problema, sin embargo, para Sluyter y para 
+la gran mayoría de geógrafos e historiadores sociales, es que una tal interrelación sigue 
+aferrándose —explícita o implícitamente— a una concepción dicotómica entre paisaje empírico 
+y paisaje perceptivo, identificando el segundo como deformación coyuntural o ideológica de lo 
+real que, en cambio, la terminología desinteresada de la ciencia sabe transcribir de forma 
+transparente y sin resto. Así las cosas, el paisaje se torna un mero “resultado de luchas” que 
+tienen lugar en otro plano, el del “espacio”, vinculadas a una noción vagamente etiológica de 
+“control”. Ahora bien, al reducir el paisaje tan tajantemente al estatus de un “documento” 
+material, lo que se pierde es precisamente la compleja función mediadora que el mismo Sluyter 
+había invocado al comienzo de su argumento: el modo en que el paisaje, por ser un medio 
+cultural de percepción y representación del espacio (como —o a través de— lugares), es 
+también el mediador entre las relaciones sociales y políticas humanas y el ambiente no-humano. 
+Pero si en las ciencias sociales es frecuentemente desestimada esa dimensión de 
+artificio, sin la cual se vuelve imposible analizar el modo en que el paisaje es investido de 
+poder, los teóricos de la cultura visual suelen caer en la trampa opuesta. Así, según el crítico de 
+cine André Gardiès (1999: 142), el paisaje “no tiene sentido —a diferencia del lugar— sino en 
+relación con la mirada que lo reclama, en relación a la cual éste se constituye”. En términos 
+similares se pronuncia el historiador de arte W. J. T. Mitchell (2002): “Si un lugar es una 
+localidad específica, el espacio es un ‘lugar practicado’, un sitio activado por movimientos, 
+acciones, narrativas y signos, y un paisaje es este sitio encontrado como imagen o ‘vista’”. Si 
+definiciones tan estrechas como éstas relegan hasta los paisajes verbal y sonoro de la literatura y 
+la música a meros derivados de la soberanía absoluta de la imagen visual (replicando así en su 
+propia práctica crítica el ocularcentrismo que pretenden deconstruir), su intento por introducir 
+paisaje como un tercer término que trasciende el binarismo espacio/lugar naufraga además 
+porque sólo pueden concebirlo como un modo particular (visual) de situación. El paisaje, para 
+Mitchell, es únicamente un modo de contener la multisensorialidad dinámica del espacio y 
+devolverla a la estaticidad del lugar. Ahora bien, el requerimiento mínimo para una relación 
+triádica como la que postula Mitchell sería la existencia de una relación de afectación mutua (y 
+no meramente unidireccional) entre los tres términos de la ecuación (lugar / paisaje / espacio). 
+El paisaje, lejos de ser apenas el medio de contención del dinamismo movilizador del espacio, 
+debería entonces pensarse también como expresión de la potencialidad latente del lugar, 
+potencialidad que remitiría precisamente a un orden espacial alternativo.3 
+Al construir el paisaje como puro artificio visual, estas estéticas espaciales permanecen 
+aún aferradas a un legado idealista cuyos parámetros principales fueron establecidos por Kant 
+en su discusión, en la tercera crítica, de la relación entre ergon y parergon (o sea, de la esencia o 
+contenido sustancial de la obra versus su envoltura formal).4 Si en tanto parergon el paisaje 
+                                                 
+3 Esa calidad del lugar como estado de latencia de potencialidades históricas está presente en muchos 
+escritos de Walter Benjamin, más que nada en su inconcluso Passagenwerk pero también en la Infancia 
+berlinesa y la serie de retratos urbanos sobre Nápoles, Moscú y Marsellas reunidos en Denkbilder 
+(Benjamin 1991). 
+4 Para una discusión del concepto kantiano, ver Menninghaus (2000: 27-46). 
+Orbis Tertius, 2008 13(14). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+5
+ 
+funcionaba como mero accesorio, o bien proporcionándole el fondo espacial a la escena pintada 
+que constituía el sujet de la obra o bien como elemento decorativo en un conjunto mayor (un 
+manuscrito, un fresco, o el revés de un tríptico), en calidad de ergon el paisaje emerge de su 
+papel servil para convertirse en el sujeto principal e independiente de la obra (Lefebvre 2006: 
+22-24; Cauquelin 1989). Como es sabido, esta autonomización del paisaje como género artístico 
+ocurrió de un modo más o menos paralelo con el paulatino reemplazo de las relaciones feudales 
+por la propiedad privada y la emergencia del sujeto cívico burgués, y también con la expansión 
+colonial europea y la formación de las grandes plantaciones esclavistas (Bryson 1983; Cosgrove 
+1998). Sin embargo, más que de identificar el paisaje como mera expresión ideológica del 
+capitalismo imperial, se trata de marcar la raíz compartida entre esta emergencia del paisaje 
+como fuente de placer y la transformación de la tierra en capital inmueble, ambos 
+presuponiendo la separación entre el sujeto y el local donde éste halla un plus de valor estético o 
+monetario. Como propietario y como espectador, el sujeto debe renunciar primero al lugar en 
+aquello que recién gracias a esta renuncia puede abordar como un paisaje (comprendidos los 
+habitantes nativos quienes, ahora, aparecen como componentes del ámbito natural, invirtiéndose 
+la relación suplementaria anterior). Al constituirse sobre esta renuncia, sin embargo, la 
+autonomización del paisaje y del sujeto a través del acto contemplativo que los produce a 
+ambos, implica también una pérdida, una falta de origen. Como sostiene Jacques Derrida,  
+ 
+[a]quello que constituye a los parerga no es simplemente su exceso de 
+exterioridad, sino que es el enlace estructural interno que los une a la falta al 
+interior del ergon. Y esta falta sería constitutiva de la unidad del ergon. Sin esta 
+falta, al ergon no le haría falta el parergon. La falta del ergon es la falta del 
+parergon (Derrida 1978: 69). 
+ 
+Es la falta, entonces, la que sostiene, paradójicamente, el único vínculo entre ergon y 
+parergon; falta que es, al mismo tiempo, la marca de una ausencia y una desvinculación radical. 
+Lo que se echa en falta al surgir un paisaje y un sujeto autónomos es precisamente aquello que, 
+hasta entonces, había impedido esta mutua autonomización al vincularlos de manera 
+indesentrañable. El impacto cataclísmico de esta mutación fundamental en la relación entre 
+sociedad y ambiente todavía resuena entre nosotros, como bien se sabe, tanto en las aporías con 
+que se enfrenta hoy la racionalidad técnica de Occidente como en sus críticas ecologistas de 
+cuño “conservacionista”, ya que ambas presuponen a su modo la separación ergonómica en su 
+construcción del mundo natural como exterior a la relación social. Desde luego, no hay “retorno 
+a la naturaleza” en estos términos; por el contrario, lo que habría que recuperar es una noción 
+del paisaje que supiera dar cuenta de su posición intersticial y oscilante entre imagen y entorno, 
+como aquello que ensambla la construcción perceptiva con los efectos que ésta produce en la 
+materialidad de lo que abarca, siendo ella misma efecto de la luminiscencia móvil del mundo 
+material. Paisaje-ensamble, o imagen-movimiento: es hacia esa cinemática natural pos-kantiana, 
+creo, que habría que avanzar a fin de construir la historicidad del paisaje y, así, dotarlo 
+nuevamente de futuridad. 
+Orbis Tertius, 2008 13(14). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+6
+ 
+BIBLIOGRAFÍA 
+ 
+ 
+BENJAMIN, Walter (1991). Gesammelte Schriften, ed. R. Tiedemann & H. Schweppenhäuser, Frankfurt a. 
+M, Suhrkamp. 
+BRYSON, Norman (1983). Vision and Painting. The Logic of the Gaze, Basingstoke, Palgrave. 
+CAUQUELIN, Anne (1989). L’ invention du paysage, Paris, Plon. 
+COSGROVE, Denis (1989). Social Formation and Symbolic Landscape, Madison, University of Wisconsin 
+Press. 
+CRUMLEY, Carole (1994). “Cultural Ecology: a Multidimensional Orientation”. Historical Ecology. 
+Cultural Knowledge and Changing Landscape, ed. C. Crumley, Santa Fe, SAR Press. 
+DELEUZE, Gilles y Guattari, Félix (1980). Mille Plateaux: Capitalisme & Schizophrénie II, Paris, Minuit. 
+DERRIDA, Jacques (1978). La vérité en peinture, Paris, Flammarion. 
+GARDIES, André (1999). “Le paysage comme moment narratif ”. Les paysages du cinéma, ed. J. Mottet, 
+Seyssel, Champ Vallon.  
+GUIMARAENS, Dinah (1998). A reinvenção da tradição. A Exposição de Filadélfia e a Primeira Missa no 
+Brasil, Río de Janeiro, Museu Nacional / UFRJ. 
+HIRSCH, Eric (1995). “Landscape: Between Space and Place”. The Anthropology of Landscape, ed. E. 
+Hirsch & M. O’Hanlon, Oxford, Clarendon. 
+LEFEBVRE, Martin (2006). “Between Setting and Landscape in the Cinema”. Landscape and Film, 
+London, Routledge.  
+MENNINGHAUS, Wilfried (2000). “Hummingbirds, Shells, Picture-Frames: Kant’s ‘Free Beauties’ and the 
+Romantic Arabesque”. Rereading Romanticism, ed. Martha B. Helfer, Amsterdam, Rodopi. 
+MITCHELL, W. J. T. (1994). “Imperial Landscape”. Landscape and Power, First Edition, Chicago, 
+University of Chicago Press. 
+MITCHELL, W. J. T. (2002). “Preface to the Second Edition”. Landscape and Power, Second Edition, 
+Chicago, University of Chicago Press. 
+SLUYTER, Andrew (2002). Colonialism and Landscape. Postcolonial Theory and Applications, Lanham, 
+ML: Rowman & Littlefield. 
+TAUSSIG, Michael (2002). “The Beach (a Fantasy)”. Landscape and Power, ed. W. J. T. Mitchell, 
+Chicago, The University of Chicago Press. 
+TAYLOR, Diana (2003). The Archive and the Repertoire. Performing Cultural Memory in the Americas, 
+Durham, Duke University Press. 
+VENANCIO FILHO, Paulo (2007). “Tropicália, its Time and Place”. Oiticica in London, ed. Guy Brett & 
+Luciano Figueiredo, London, Tate Publishing. 
+ 
+Orbis Tertius, 2008 13(14). ISSN 1851-7811.
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educaci´
+on
+Centro de Estudios de Teor´
+ıa y Cr´
+ıtica Literaria
+7

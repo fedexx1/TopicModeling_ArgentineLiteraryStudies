@@ -1,0 +1,1129 @@
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+ 
+ARTÍCULOS 
+ 
+ARTICLES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Pescadores en las playas de Cartagena” (fragmento). Jinete Hurtado, Sergio Luis. 
+instagram.com/sergluis.jh/. La fotografía fue tomada en las playas de Cartagena de Indias, Colombia, frente 
+al centro histórico de la ciudad. Muchos pescadores aprovechan la tranquilidad de la mañana y el hecho de 
+que no hay bañistas en esa zona para realizar su actividad. 
+Contacto del autor: geromejinete@gmail.com. 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+ 
+ 
+ 
+ 
+ 
+Recibido: 31/12/2019 Aceptado: 25/3/2019 Cuadernos del CILHA - a. 20 n. 32 – 2020 (48 - 77) 
+La forma revista en su versión digital. 
+Propuesta metodológica para el análisis de 
+publicaciones culturales y literarias desde el 
+contexto argentino 
+ 
+The magazine form in its digital version. Methodological proposal for 
+the analysis of cultural and literary publications from the Argentine 
+context 
+ 
+Diego Vigna 
+Consejo Nacional de Investigaciones Científicas y Técnicas 
+diegovigna@gmail.com 
+Argentina 
+ 
+Resumen: El trabajo se enmarca en un plan de investigación que tiene por objetivo 
+reconocer y analizar las características propias de las revistas digitales de cultura y 
+literatura en el campo intelectual argentino. Este recorrido comenzó con el estudio de 
+blogs de escritores argentinos (sus espacios personales), y luego se extendió, por el 
+desarrollo de los formatos y plataformas de publicación en la web, a proyectos colectivos 
+que ofrecen alternativas de producción respecto de las plataformas sociales online. Como 
+un nuevo eslabón de una serie de artículos sobre la naturaleza de las revistas nacidas 
+digitales en Argentina, aquí ofrecemos una primera respuesta metodológica al 
+interrogante que diversas autoras y autores han planteado para el estudio de 
+publicaciones en papel: cómo leer una revista, en este caso digital. La hipótesis que guía 
+esta propuesta metodológica es que las revistas digitales se ofrecen como vehículos para 
+comprender el estado de producción cultural, literaria e intelectual del campo argentino, 
+tanto en lo que respecta a temas y estéticas, como a la generación y discusión de ideas, 
+todo en medio de la injerencia que la convivencia de formatos ha comenzado a tener en 
+la agenda de debates. Aquí se abordan proyectos de publicaciones que permiten dar 
+cuenta de políticas específicas de publicación, de autoidentificación y posicionamiento, y 
+de distintas modalidades de intervención en el campo intelectual y literario, con distintos 
+objetivos. 
+Palabras clave: Revistas digitales; Campo intelectual argentino; Sintaxis interna y externa; 
+Formatos de publicación. 
+50 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+Abstract: The work is part of a research that aims to recognize and analyze the 
+characteristics of digital culture and literature magazines in the Argentine intellectual 
+field. This itinerary began with the study of Argentine writers’ blogs (personal spaces), 
+and then extended – through the development of web formats and social platforms – to 
+collective projects that offer production alternatives regarding online social platforms. As 
+a new item in a series of articles based on the nature of digital-born magazines in 
+Argentina, we offer a first methodological answer to the question that authors have 
+raised for the study of paper publications: how to read a digital magazine. The hypothesis 
+that guides this methodological proposal is that digital magazines are offered as vehicles 
+to understand the state of cultural, literary and intellectual production in Argentina, both 
+in terms of aesthetic and themes, as well as in the discussion of ideas – in the middle of 
+the influence that analog and digital formats has in the discussion agenda. Publications 
+projects are addressed to analyse specific policies of publication, self-identification, 
+positioning and different types of intervention in the intellectual and literary field. 
+Keywords: Digital magazines; Argentine intellectual field; Internal and external syntax 
+media; Publishing formats. 
+ 
+ 
+ 
+Introducción 
+ 
+Este trabajo se enmarca en un plan de investigación que tiene por objetivo 
+reconocer y analizar las características propias de las revistas digitales de 
+cultura y literatura en el campo intelectual argentino, ampliando un recorrido 
+que comenzó con el estudio de blogs de escritores (espacios personales) 
+(referencia oculta autor/a) y que luego se extendió, por el desarrollo de las 
+webs 2.0 y 3.0, a proyectos colectivos que ofrecen alternativas de producción 
+respecto de las plataformas sociales online1. Como un nuevo eslabón de una 
+serie de artículos sobre la naturaleza de las revistas nacidas digitales en 
+Argentina (referencia oculta autor/a), aquí ofrecemos una primera respuesta 
+metodológica al interrogante que diversas autoras y autores (Weimberg, 2011; 
+Sarlo, 1992; Patiño, 1997; Artundo, 2010; Moraña, 2003; Gilman, 1999; 
+ 
+ 
+ 
+1 Hablamos de “plataforma” en lugar de “red social” porque, siguiendo a Van Dijck (2016), permite 
+atribuciones figurativas, socioculturales y políticas. Estos sitios permiten, además de escribir o hacer correr 
+un código, comunicarse, interactuar y vender (18). 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+51 
+ 
+Diego Vigna 
+ 
+Badenes, 2016; Delgado, 2014), han planteado para el estudio de publicaciones 
+en papel: cómo leer una revista. 
+La hipótesis que guía este recorrido es que las revistas digitales se ofrecen como 
+vehículos para comprender el estado de producción cultural, literaria e 
+intelectual del campo argentino, tanto en lo que respecta a temas y estéticas, 
+como a la generación y discusión de ideas, todo en medio de la injerencia que 
+la convivencia de formatos ha comenzado a tener en la agenda de debates. Son 
+evidentes los cambios en las condiciones de producción cultural y artística en 
+Argentina durante los últimos 40 o 50 años pero, más allá de que todo abordaje 
+sobre revistas culturales no puede ignorar los antecedentes de la herencia 
+impresa, reconocemos aspectos recurrentes, y consolidados, en las revistas que 
+nacieron digitales. Proyectos que permiten dar cuenta de políticas específicas 
+de publicación, de autoidentificación y posicionamiento, y de distintas 
+modalidades de intervención (Sarlo, 1992; Weinberg, 2011; Weinberg, 2007), 
+con distintos objetivos. 
+En el ámbito académico argentino se han multiplicado los trabajos sobre diarios 
+y revistas de cultura con el cambio de siglo2; se han expandido los estudios 
+sobre publicaciones impresas gracias a la irrupción de las tecnologías digitales 
+de registro, publicación y archivo. Como afirma Verónica Delgado (2014), estos 
+abordajes no son privativos de las últimas dos décadas, pero sí se han 
+consolidado como un ámbito de convergencia de intereses multidisciplinares y 
+de líneas de investigación (11): se leen (y archivan) revistas desde la historia y 
+la literatura, desde el arte, la filosofía y la comunicación; pero sobre todo desde 
+la línea de la sociología de la cultura que ha sido introducida y luego canonizada 
+desde la década de 1980 a esta parte, en lo que significó la asimilación de 
+herramientas metodológicas tanto de los estudios culturales como del 
+estructuralismo para analizar, a partir de la efervescencia de estos “productos”, 
+ 
+ 
+ 
+ 
+2 Destaco los siguientes: Delgado, V., Rogers, G. (eds). (2017). Tiempos de papel. Publicaciones periódicas 
+argentinas (siglos XIX-XX). FaHCE, Universidad Nacional de La Plata. Delgado, V., Mailhe, A., Rogers, G. 
+(Coords.) (2014). Tramas impresas. Publicaciones periódicas argentinas (siglos XIX-XX). FaHCE, Universidad 
+Nacional de La Plata. Badenes, D. (comp.). (2017). Editar sin patrón. Club Hem. 
+52 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+las problemáticas estéticas, políticas e ideológicas del campo intelectual 
+argentino (Delgado, 2014; Altamirano y Sarlo, 1983; Patiño, 1997). 
+Todos los autores citados destacaron a las revistas como espacios simbólicos 
+singulares dentro del espacio público, estructurantes de los campos de 
+producción cultural. Y todo lo construido sobre la tradición de publicaciones en 
+papel en Argentina, así como parte de la discusión sobre las intervenciones en 
+el espacio público, hace más de una década se encuentra interpelado por la 
+omnipresencia de lo virtual, transmutado al terreno inasible de Internet y sus 
+formatos y rutinas de publicación web. Lo que antes eran productos impresos, 
+vehiculizados por grupos y formaciones culturales (Williams), hoy se ofrecen 
+como espacios que oscilan en su articulación con las dinámicas propias del 
+campo editorial y que dan cuenta de manifestaciones muy distintas a las 
+estudiadas el siglo pasado, al menos en el contexto argentino. 
+Es por eso que, aunque se hayan reformulado los modos de producción y de 
+recepción de este tipo de artefactos, hoy hipermediales (Echevarría, 2009; 
+Pron, 2009; Mazzoni y Celsi, 2006; Botto, 2012), la pregunta sobre cómo leer 
+una revista sigue vigente sobre todo porque no remite estrictamente a su 
+literalidad. Como indicó Weimberg (2011), el “cómo leer” no busca solo 
+dilucidar la lectura de los artículos que integran una revista (qué se publica), 
+sino también cómo leer su sintaxis interna (Sarlo, 1992; Weimberg, 2011) y el 
+modo en que se articula con la sintaxis externa o “ideológica”, a la que a su vez 
+tematiza y problematiza (Weimberg, 2011). Profundizaremos en la definición 
+de las sintaxis, pero ese vínculo entre rasgos propios y contextos de 
+intervención de las publicaciones es clave para comprender el funcionamiento 
+del campo intelectual y literario. 
+¿Cómo afrontar, en el estado actual del campo argentino, y sumergidos en la 
+convivencia de soportes, los complejos modos de articulación entre cuestiones 
+estéticas, éticas e ideológicas que las revistas representaron y vehiculizaron 
+durante la segunda mitad del siglo XX? Creemos que para actualizar un terreno 
+de análisis tan rico es importante deslindar nuevos horizontes metodológicos 
+que permitan abordar las revistas digitales en sus rasgos, desafíos y 
+limitaciones. Desafíos porque la atomización de tantos proyectos colectivos que 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+53 
+ 
+Diego Vigna 
+ 
+dieron origen a revistas digitales3 exige un intento de sistematización que 
+colabore con semejante heterogeneidad. Limitaciones porque esa misma 
+atomización, según Montaldo (2017) hoy más vinculada a la lógica del consumo 
+cultural (50), dificulta la proposición de conclusiones sobre la incidencia de los 
+proyectos en un campo de producción en constante movimiento. 
+ 
+Definiciones y abordajes de las revistas culturales y literarias impresas de 
+Argentina 
+ 
+Como dijimos, es notable el bagaje teórico que ha definido y sistematizado 
+funciones de las revistas impresas, desde la literatura hasta la cultura y la 
+política. Delgado (2014, 11-19) ha reunido distintas voces en sus trabajos 
+metodológicos, siempre dentro del contexto argentino y en virtud de las luchas 
+históricas del campo de producción intelectual (Bourdieu): desde Jorge Rivera, 
+uno de los pioneros en abordar las revistas, que las consideró “vehículos de 
+expresión y difusión de ideas renovadoras” (19); Noé Jitrik (1993), que las 
+definió a partir de una voluntad de participación y comunicación; Jorge Warley 
+(1993), que agregó a las revistas culturales como entidades definidas por su 
+“posicionamiento global frente al tan amplio como difuso mercado” (195); Saúl 
+Sosnowski (1999), que las nombró como tribunas del pensamiento donde se 
+desplegaron los principales núcleos de debate cultural; hasta Beatriz Sarlo 
+(1992), quien ha escrito una de las definiciones más citadas: pensar a las 
+revistas como laboratorios estéticos e ideológicos; bancos de prueba y 
+producción (Sarlo, 1992, 11). 
+Entre tantos antecedentes, recuperamos el trabajo de autoras fundamentales 
+para establecer este legado en torno a las funciones de las revistas, no sólo 
+circunscripto a Argentina sino también a nivel continental. Sarlo fue impulsora, 
+desde la dirección de la revista Punto de vista, de una perspectiva sociológica 
+ 
+ 
+3 Desde el comienzo de la investigación hemos relevado numerosas revistas: Bazar americano, No retornable, 
+El interpretador, Los asesinos tímidos, Revista Tónica, Eterna Cadencia Blog, Los trabajos prácticos, Revista 
+Anfibia, Revista Planta, Big Sur, Espacio Murena, Revista Paco, Mar Dulce Magazine, Revista Luthor, 
+Contratiempo, Carapachay, Kundra, Sudestada, Atletas, Almagro, La Tinta, Linterna, Islandia, Chocha, 
+Panamá, Leedor, Revista 27, Sonámbula, Crisis, Coso, Orsai, Pampa Revista,, Socompa, El Flasherito, Boca de 
+sapo, Jennifer, Colofón. El análisis de los casos del corpus continúa por la dimensión del trabajo. 
+54 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+que “canonizó” hacia fines del siglo XX una forma de pensar el campo de acción 
+de estas publicaciones. Quizás uno de sus principales aportes haya sido el de 
+ayudar a concebir la literatura no como territorio textual aislado sino en su 
+dimensión institucional, en pos de ser pensada como espacio articulador de 
+discursos, prácticas e instituciones (Delgado, 2014, p. 13). Altamirano (1983) y 
+Sarlo (1992) propusieron la consideración de las revistas como “redes de la 
+crítica” (96), y como espacios (proyectos) donde germinan y conviven grupos o 
+formaciones (Williams, 1981) generadores de posiciones estéticas e ideológicas 
+que han dado como resultado instancias de complejización y democratización 
+del campo cultural, al decir de Patiño (2008). Las revistas impresas, desde esta 
+mirada, no pudieron desligarse de cualquier estudio que intentara comprender 
+proyectos y vínculos literarios e intelectuales, así como también fueron 
+necesarias para establecer distintas modalidades de la crítica (Patiño, 2008). 
+A su vez, Weimberg, 2011 (como Patiño, 1997 y Sarlo, 1992) ha resaltado otro 
+elemento constitutivo de las revistas que nace de lo anterior: la capacidad de 
+intervenir en el presente. Una función inherente que Patiño (2008) también 
+describió como la capacidad de ser “antenas de lo nuevo” (Patiño, 2008, p. 158). 
+Para Weimberg (2007), las publicaciones periódicas permiten “traer al 
+presente” las discusiones; poner en relieve, dar nervio y sentido de urgencia a 
+lo que pretende intervenir el espacio público desde las ideas y las propuestas 
+estéticas (Weimberg, 2007, p. 201). O dicho de otro modo, traer al presente 
+para crear sentido sobre el sentido de las obras. Este espíritu de intervención y 
+debate en los distintos campos, que fusiona coyuntura con intenciones 
+programáticas (porque la idea de laboratorio, siempre, apunta al futuro) es lo 
+que Regina Crespo (2010) ha tomado para caracterizar a las revistas del siglo XX 
+como instrumentos privilegiados de cuestionamiento y difusión de cánones 
+literarios, culturales e ideológicos, y de construcción (por ende) de nuevas 
+tradiciones (Crespo, 2010, p. 9). De modo que toda la carga recibida desde el 
+siglo pasado, con sus intensas etapas de producción, hace de la forma y la 
+función revista una entidad que ha explicado la dinámica de la producción 
+cultural e intelectual, al menos dentro de la lógica en la que el mercado 
+editorial, la literatura y la crítica tenían por objetivo incidir en las luchas por 
+ideas, estéticas e incluso acciones políticas. 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+55 
+ 
+Diego Vigna 
+ 
+No hace falta aclarar que ese estado de cosas ha mutado desde las últimas 
+décadas del siglo XX a esta parte. La concentración y atomización del mercado 
+editorial (Botto, 2012), y cierta desatención de la potencia ideológica (Hernaiz, 
+2012; Patiño, 1997) en su “función comunicativa”, podríamos decir, para la 
+praxis política y la organización social que se agudizó en la década de 1990, 
+coincidió, en medio del apogeo caótico del orden social, con la popularización 
+del soporte digital y la aparición de novedosas alternativas de publicación en 
+red (Echevarría, 2009). ¿Cómo traer al presente, entonces, las caracterizaciones 
+anteriores, que parecen formar parte de otra “vida cultural”? ¿Qué forma ha 
+tomado esa noción de presente con la convivencia de soportes, y con la 
+temporalidad que se ha construido desde la apropiación y el consumo de 
+medios digitales? ¿Cómo se puede digerir hoy ese “sentido de urgencia” que 
+supieron sostener las publicaciones periódicas en Argentina, cuando la lógica 
+de la primicia y el consumo de la novedad han invadido toda la producción de 
+sentido? Estas preguntas esconden, quizás en un torpe ejercicio retórico, los 
+cambios que ha sufrido el modelo de consumo vehiculizado por tecnologías 
+digitales, formatos de publicación virtuales y medios en red. Como afirmó 
+Montaldo (2017), si antes el objetivo de los proyectos y productos culturales 
+era ante todo criticar para comprender, y para imponer nuevos sentidos a la 
+producción cultural, literaria y artística, hoy ese crear sentido sobre el sentido 
+ha dejado su lugar a las indagaciones sobre la circulación de ideas y literatura 
+(Montaldo, 2017, p. 53), entendida como superficie y razón del consumo. Con 
+el cambio de siglo, el consumo consolidó su poder para explicar la dinámica de 
+la producción cultural. 
+Montaldo (2017) profundiza en la noción de temporalidad para comprender el 
+funcionamiento editorial y la circulación de literatura, algo que creemos 
+homologable al abordaje de las revistas. ¿Cómo circula hoy, por ejemplo, la 
+literatura? ¿Se restringe a la producción editorial? ¿Cómo opera hoy la 
+“digestión” de los hechos sociales y culturales, la recepción crítica de la 
+producción artística? ¿Qué papel ha empezado a cumplir la web en ese sentido? 
+La misma producción crítica (ese lugar de expansión de la figura del intelectual 
+que tanto ha cambiado, y que se expresa en los trabajos de Sarlo (1992), Patiño 
+(2008) y Saítta, 2004, entre otros), desde la última década del siglo pasado a 
+esta parte, trabaja desde un lugar alternativo que busca imponer nuevas formas 
+56 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+que escapen tanto a las corporaciones que definen la agenda mediática, como 
+a las directrices de los grandes grupos editoriales. 
+Es en este sentido que, para Montaldo (2017), las revistas digitales y, en otro 
+orden, plataformas como Facebook o Twitter, han aparecido para agregar 
+nuevos canales de circulación y de interlocución a la lógica antes dominada por 
+el mercado editorial y ciertas instituciones como la academia (Montaldo, 2017, 
+p. 54). En términos de producción crítica, entre las revistas y las plataformas 
+hay una notable distancia en las estrategias de abordaje, las búsquedas 
+interpretativas y por ende las velocidades involucradas, sobre todo si se tiene 
+en cuenta que lo “alternativo” depende de la heterogeneidad de 
+posicionamientos (las revistas o, pensando en formatos, el blog), y no de la 
+centralización del flujo de datos (algo que imponen las plataformas: todos los 
+usuarios deben ingresar para leer o informarse). Sin embargo, entre ambas 
+partes existe una relación desigual, al menos desde la perspectiva social y 
+cultural, como se ve en las estrategias de las revistas para visibilizar sus debates 
+e intervenciones estéticas, políticas e ideológicas a caballo de la visibilidad (la 
+potencia) de las plataformas. En este terreno nos movemos para ofrecer 
+premisas metodológicas adecuadas a la forma revista en su versión digital, con 
+sus variantes y a su vez con sus especificidades a cuestas. 
+ 
+Premisas englobantes para una propuesta metodológica: forma, estructura y 
+sintaxis de las revistas 
+ 
+¿Cómo leer una revista digital a partir de la herencia de revistas impresas? 
+¿Sirven las propuestas metodológicas que Sarlo (1983), Gramuglio (1983), 
+Patiño (2006), Artundo (2010), Delgado (2014) o Badenes (2016) han 
+desarrollado para revistas en papel? En principio, sirve recopilar y repensar ese 
+bagaje de especialistas con salvedades que es necesario abordar para la 
+especificidad de la condición digital. 
+Las premisas iniciales que recuperamos fueron adecuadas por Delgado (2014) 
+a partir de un análisis de la revista Sur desarrollado por Gramuglio en 1983 a 
+partir de categorías de Williams: revisar, reordenar y reinterpretar. Gramuglio 
+(1983), y luego Delgado (2014, p. 15), recuperan estas acciones como tareas 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+57 
+ 
+Diego Vigna 
+ 
+inherentes a toda organización de las relaciones entre presente y pasado en 
+una publicación cultural e intelectual. Recuperamos esta triada, por tanto, 
+incluso para pensar el complejo ambiente digital: revisar, reordenar y 
+reinterpretar implica ejercer nuevas modalidades de hacer archivo (propio) 
+sobre el objeto analizado; esto es, concebir la intervención del/la investigador/a 
+como una instancia creativa y expansiva sobre el objeto (la mirada externa a la 
+publicación no solo reordena, sino sobre todo modifica la mirada sobre el 
+producto o, como supo afirmar Derrida (1997), “la archivación produce, tanto 
+como registra, el acontecimiento” (Derrida, 1997, p. 24])4. Dichas actividades 
+necesariamente deben organizar la dimensión temporal de una publicación, 
+incluso en medio de la inestabilidad y las urgencias que impone la información 
+en el seno de los medios conectivos (Van Dijck, 2016), donde toda posición 
+“alternativa” a los medios gráficos parece restringirse a lo que queda por fuera 
+de la monetización de los datos (Van Dijck, 2016) (es decir, lo que queda por 
+fuera de plataformas como Facebook, Instagram o Twitter). 
+En segundo término, creemos que la propuesta de reorganización de la 
+dimensión temporal de una publicación periódica culmina la pulsión archivística 
+del/la investigador/a con la tercera tarea: la potencialidad interpretativa que 
+exige la tensión contexto-forma-contenidos. Diversas posiciones giran en torno 
+a esta problemática englobante. Para Delgado (2014), por ejemplo, apelar a la 
+forma revista, más allá del soporte y el formato, implica “estudiar las 
+publicaciones como formas privilegiadas de organización o intervención 
+colectiva5, que no son equivalentes de las textualidades o escritos que 
+incorporan” (2014, p. 20). Textualidades (formas y contenidos) que, a su vez, 
+ 
+ 
+4 Que el archivista tenga el poder de registrar y producir el acontecimiento a través de los materiales de 
+archivo es una consigna que surge de una noción de archivo que excede a la archivística y sus tres grandes 
+consideraciones de lo que es un archivo. Por lo tanto, esto no remite a una perspectiva estática de la cultura 
+documental, en tanto “política de archivación” que sólo concibe a estos documentos acumulados como 
+mirando al pasado (Delgado, 2014: 18). Esto se corre de una idea documentalista y exhumatoria, o 
+antologicista: la evolución o el devenir de las revistas, más allá del soporte, van discutiendo esta forma de 
+mirar desde la misma naturaleza cambiante de los proyectos, desde la ligazón que tienen con temas y 
+problemáticas actuales, y con su función como medios de experimentación y visibilización de estéticas e 
+ideas. Las revistas comparten, para nosotros, una cualidad intrínseca de los archivos: no están quietos, y por 
+lo tanto pueden considerarse siempre en proceso (referencia oculta autor/a). 
+5 El énfasis nos corresponde. 
+58 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+exigen ser estudiadas en sus aspectos temáticos, retóricos, gráficos, estéticos e 
+ideológicos según cada perspectiva. Delgado destaca esta necesidad de 
+distinguir las acciones de las revistas de los proyectos y trayectorias individuales 
+de sus miembros, aunque estos últimos “puedan ayudar en sus definiciones” 
+(20); posición que recupera de Gramuglio (1983) cuando ésta propone, dentro 
+de la línea crítica de Williams, no establecer “relaciones reflejas” entre lo social 
+y la producción cultural sino por medio del grupo en tanto mediación 
+(Gramuglio, 1983, p. 9). Esto fue abordado por Sarlo (1992), desde una mirada 
+similar, cuando propuso estudiar la “ideología cultural” de una revista a partir 
+de una serie determinada de artículos con el objetivo de desarticular la 
+identificación del programa o proyecto con la clase que parece representar; 
+esto es, no detenerse solo en el análisis del grupo, y contrastarlo con sus 
+publicaciones (“La perspectiva americana”). La intención de Sarlo (1992) 
+también busca evitar lo que Gramuglio (1983) llamó “fracción de clase”, pero la 
+primera posición sostiene la necesidad de poner en primer plano el estudio del 
+grupo que constituye la formación (la revista). Es así que Delgado (2014) recoge 
+de Gramuglio (1983) la importancia de colocar el foco en la relación de “las 
+características de la constitución interna del grupo” (la trayectoria) con su 
+“significación general dentro de un proceso cultural dado” (Delgado, 2014, p. 
+15). Desde esta priorización, la sintaxis interna de una revista se construiría 
+desde la tensión entre el origen de su grupo o formación y lo que propone en 
+tanto publicación, algo que complementa luego la sintaxis externa: las 
+condiciones sociales y culturales en que se inserta y produce. Una tensión 
+inescindible que involucra a cada época, cada contexto y cada soporte. 
+Podemos definir, así, adecuando las definiciones Sarlo (1992) y Weimberg 
+(2007), la sintaxis de la forma revista que nos incumbe. Tomamos la sintaxis 
+interna como el orden propuesto: la organización, articulación y puesta en 
+diálogo de sus componentes internos, la ponderación que surge de la lectura, 
+cómo se ofrecen sus componentes, desde el contenido textual hasta el visual. 
+Por su parte, tomamos la sintaxis externa como lo que Weimberg (2007) llamó 
+“sintaxis ideológica que tematiza y problematiza la revista” (Weinberg, 2011, p. 
+202), algo que se compone de la articulación de la sintaxis interna con la 
+dinámica del campo en el que interviene. Esto también se relaciona con lo que 
+Sarlo (1992) nombró como doble geografía cultural: el espacio intelectual 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+59 
+ 
+Diego Vigna 
+ 
+donde circula y el espacio imaginario donde se ubica idealmente (Sarlo, 1992, 
+12). La sintaxis externa permite articular los componentes internos con la 
+dinámica del campo a través del reconocimiento de redes autorales, 
+instituciones o formaciones que las enmarcan, y cómo el grupo de cada revista 
+ejecuta acciones en sentido de vinculación o tensión (Weimberg, 2007). Aquí 
+nos centraremos en los aspectos internos de la sintaxis, aunque sean 
+inescindibles del diálogo con los externos. Esta es la base desde la cual 
+proponemos, también, pensar los proyectos de revistas digitales en términos 
+de organización y articulación de sus componentes. 
+La importancia de reconocer una sintaxis se sostiene, para Weimberg (2007), 
+en el hecho de que el estudio de formatos y estructuras no claudica como gran 
+tema en las perspectivas sociológicas, al igual que la incidencia en los debates 
+sobre políticas de publicación, o el estudio de los consejos de redacción que 
+representan institucionalmente tomas de posición en el campo. Esto lleva a 
+seguir indagando modalidades de intervención cultural que hablan del “énfasis 
+en lo público pensado como espacio de alineamiento y conflicto” (Weimberg, 
+2007, p. 201). Desde la relación entre sintaxis interna y externa, la revista es a 
+la vez “respuesta a la coyuntura” e “hipótesis de ordenamiento futuro” 
+(Weimberg, 2007, p. 205). Para Sarlo (1992), el valor de analizar una sintaxis 
+permite reconocer fundamentos de acción, y coloca a toda revista en relación 
+con otros discursos: “la literatura frente a la política, la crítica literaria frente a 
+las ideologías, la cultura letrada frente a la popular” (Sarlo, 1992, p. 12). Desde 
+esta base se puede indagar qué discurso subordina a otro, qué valor organiza el 
+resto de los valores. 
+ 
+La sintaxis interna, entre antecedentes impresos y derivas digitales 
+ 
+Patiño (2006) delimitó tres momentos históricos para el reconocimiento de las 
+revistas culturales en Argentina a lo largo del siglo XX. El primero es hasta 1960, 
+periodo en el que encuentra a las revistas relegadas respecto de la literatura, 
+esto es, frente al canon compuesto por obras literarias en forma monográfica 
+(Patiño, 2006, p. 154). El segundo momento, entre 1960 y 1980, remite a lo que 
+considera una politización de los estudios literarios, nuevo ambiente de 
+producción que implicó cuestionar cánones y reconocer el potencial de las 
+60 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+revistas para producir contenidos culturales y políticos. El tercer momento, a 
+partir de los 80, es para Patiño (2006) el periodo en el que la filología quedó 
+subsumida a los estudios culturales, lo que marcamos al comienzo: la aparición 
+de los aportes de Williams (1981) y Bourdieu (2002) sobre teoría social y cultural 
+(Patiño. 2006, p. 155). Para Hanno Ehrlicher (2014), habría que agregar a esta 
+enumeración una cuarta etapa, marcada por “la inflexión de las nuevas 
+tecnologías informáticas, lo que se manifiesta en el avance trepidante de la 
+digitalización de revistas literarias y culturales” (Ehrlicher, 2014, p. 29). 
+Esta propuesta metodológica exigiría, a partir de lo anterior, una quinta 
+posición: lo que incumbe a los desafíos y complejidades que aparecen frente a 
+revistas nacidas digitales, y que desde el cambio de siglo a esta parte ya ofrecen, 
+incluso, una posibilidad de hacer archivo inaudita: existen proyectos 
+“abandonados” en la web y hasta desaparecidos (revistas que hace 10 años era 
+material de consulta permanente han perdido sus dominios digitales; es decir, 
+son inaccesibles). Es cierto, como afirma Ehrlicher (2014), que el desarrollo del 
+estudio sobre la vinculación entre la noción de archivo y las revistas es un 
+subcampo de análisis hoy en su apogeo: son cada vez más los espacios, portales 
+y plataformas dedicados a la digitalización y puesta en línea de corpus de 
+revistas ya desaparecidas (30). Aquí, sin embargo, destacamos dimensiones 
+vertebrales para el análisis de la sintaxis interna de estas revistas que han sido 
+pensadas desde cero en otro soporte. Para abordar estos casos es importante 
+apelar, entonces, a los antecedentes mencionados adecuando una revisión, 
+reordenamiento y reinterpretación de los elementos. Proponemos cinco 
+dimensiones para enfocar un análisis. 
+ 
+ 
+1. La autoidentificación, o qué dice la revista de sí. Para Badenes (2016), frente 
+a la pregunta “qué es una revista literaria o cultural”, se puede apelar al recurso 
+de la autoidentificación que propone el material analizado (Badenes, 2016, 
+346). Si revisamos la producción intelectual en revistas impresas, la “razón de 
+ser y de hacer” se vislumbra en la presencia de manifiestos, posicionamientos 
+explícitos o editoriales que han servido a los investigadores para analizar 
+objetivos, intereses, líneas estéticas, políticas e ideológicas de los responsables 
+de las publicaciones, así como también virajes en los procedimientos 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+61 
+ 
+Diego Vigna 
+ 
+editoriales, cambios de staff, de objetivos. En el contexto de las revistas 
+digitales también se impone una revisión de dichas manifestaciones públicas, 
+muchas veces inaugurales. 
+En un contexto de producción distinto al de las etapas señaladas por Patiño 
+(2008, p. 154) para las revistas del siglo pasado, partimos de formas nuevas para 
+la autodefinición del medio: lejos de la politización de la producción cultural y 
+frente a otras rutinas de la crítica, las revistas digitales recogen poco del “poder 
+de fuego” que supieron tener proyectos como Contorno, Los libros, Pasado y 
+Presente, Literal o Punto de vista en Argentina. Es por esto que, desde otros 
+objetivos de cara a la crítica, la formación de opinión o la definición de una 
+agenda coyuntural, las editoriales o “manifiestos” de las revistas digitales 
+comienzan con la forma en que se nombran a sí mismas6 y con algunos espacios 
+dispuestos en sus plantillas de inicio. Desde el diseño de la misma cabecera del 
+sitio, y luego en secciones que suelen nominarse “Acerca de” o “Quiénes 
+somos”, es posible rastrear posicionamientos, declaraciones de principios o 
+áreas de interés. Revistas ya desaparecidas como El interpretador o No 
+retornable7 inauguraron estas formas; otras como Polvo, Carapachay o Colofón 
+ofrecen ejemplos al respecto8. 
+ 
+ 
+ 
+6 Anfibia se define como “revista digital de crónica, ensayo y relato de no ficción que trabajar con el rigor de 
+la investigación periodística y las herramientas de la literatura” (ver http://revistaanfibia.com/que-es- 
+anfibia/). 
+Panamá 
+ofrece 
+en 
+su 
+site 
+un 
+subtítulo: 
+“No 
+todo 
+es 
+política” 
+(ver 
+http://www.panamarevista.com/). Paco, también en su plantilla de inicio, ofrece otra frase: “La revista que 
+humedece/ tu sequedad crónica” (ver https://revistapaco.com/). 
+7 www.elinterpretador.com.ar / www.no-retornable.com.ar 
+8 Polvo, en su sección “Staff”, ofrece premisas concretas: escapar del academicismo y el elitismo narrativo; 
+incorporar una mirada periférica que escape de la producción urbana; “empuñar” la crítica sin slogans 
+políticos partidarios. Carapachay, en su editorial N° 1, afirma “En lo que tiene que ver con la substancia (…), 
+la pregunta por la Nación, sus imágenes, sus sentencias, por la literatura, por el cine, por la política, por la 
+historia y por tantas otras cosas. Temas dispares y diferentes que sin embargo, no dejamos de pensar de 
+manera conjunta, como si fueran parte de un entramado que constituye un todo particular”. Colofón, en su 
+sección “Acerca de”, afirma: “Colofón Revista Literaria une a curiosos, escritores y lectores de Hispanoamérica 
+y España en una causa común: la literatura en castellano. Aprovecha las ventajas de la era digital para borrar 
+las fronteras que obstaculizan el libre tránsito editorial por la comarca de la Ñ. Luego de un par de años del 
+singular peregrinaje entre tabletas, celulares, móviles, computadores y ordenadores (…) Colofón renueva su 
+compromiso con los lectores al proponer formas más creativas de intercambio cultural: convertir a la web en 
+la superautopista del género más antiguo del conocimiento periodístico, la reseña”. 
+62 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+ 
+ 
+Imágenes 1 y 2: autopresentación de las revistas. Plantilla de inicio de Panamá (consulta: 22-07-19) y Las 
+Críticas (consulta: 23-07-19) 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+63 
+ 
+Diego Vigna 
+ 
+ 
+De modo que, si partimos de la atomización de publicaciones dedicadas a la 
+cultura, la literatura y el arte que ofrece el medio digital en Argentina (y en otros 
+contextos de producción), proponemos relevar y analizar las secciones “Acerca 
+de”, “Quiénes somos” y semejantes (“Staff”, por caso) como espacios clave para 
+iniciar una sistematización en la búsqueda de una línea editorial explícita, 
+declaración de principios o posicionamiento del grupo que sostiene el proyecto. 
+Una tarea posterior implicará contrastar lo “declarado” (que Gramuglio, 1983, 
+también llamó autoimagen) con lo publicado por la revista, para fundamentar 
+el análisis de los contenidos. 
+ 
+ 
+2. De los aspectos formales y materiales a los aspectos visuales y conectivos: 
+formatos, temporalidades, diseños. Frente a la distinción sobre aspectos 
+ideológicos, estéticos y materiales de las revistas en papel, su adecuación a la 
+naturaleza digital exige describir y analizar aspectos visuales y de circulación del 
+medio, que implican una conjugación de la estructura con el diseño de las 
+plantillas y sus componentes hipermediales. Materiales o visuales, estos 
+aspectos también hablan del posicionamiento de un medio. Para Delgado 
+(2014), lo material de una revista impresa completa la comprensión e 
+interpretación adecuada de la significación del medio (Delgado, 2014, p. 22); en 
+un corpus de revistas digitales, estos aspectos se trasladan a elementos que se 
+sostienen en el carácter multimedial. 
+Delgado supo dar cuenta de los aspectos materiales y formales para el abordaje 
+de revistas impresas: tipo de papel, cantidad de páginas, periodicidad, lugares 
+de impresión y tiradas, organización de las secciones (organización temática, 
+genérica, diagramación, selección de los textos), presencia de avisos 
+publicitarios (relación con el mercado), modos de circulación, distribución y 
+venta, formas de financiación (Delgado, 2014, p. 23). Aquí proponemos, en 
+primer término, reconocer plantillas, estructuras modulares (cómo se 
+distribuyen los contenidos) y dinámicas de navegación (qué recorrido propone 
+el diseño) para dar cuenta de perfiles de lectura, objetivos y narrativas de cada 
+proyecto. En ese sentido, reconocemos tres categorías de (in)materialidad de 
+las revistas digitales: revistas-blog, que replican el formato y establecen sus 
+64 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+publicaciones sin apelar a un número, volumen o dossier, y en las que el diseño 
+responde a la idea de “mancha” o “zona” donde encontrar los contenidos, con 
+secciones organizadas semánticamente. Revistas por número, volumen o 
+dossier, que replican la tradición de revistas impresas aun apelando al soporte 
+digital, con una periodicidad definida, números organizados por temas, 
+secciones fijas. Y revistas mixtas, que anuncian cada actualización de 
+contenidos como si se tratara de un nuevo número, y ofrecen una secuencia 
+organizada, pero cuya estructura responde a la del formato blog. Entre las 
+primeras podemos citar a Anfibia, Polvo, Paco, Eterna Cadencia blog; entre las 
+segundas, a las desaparecidas No retornable y El interpretador, Luthor o Maten 
+al mensajero; entre las mixtas, a Bazar Americano, Carapachay, Ni a palos. 
+A estos elementos también se suma la importancia transversal de las secciones 
+(comprender de qué modo cada proyecto asigna funciones a determinados 
+géneros discursivos en la construcción identitaria y, luego, en una línea de 
+pensamiento). ¿De qué manera se presentan las secciones en una revista, es 
+decir, de qué modo se organizan los contenidos? Pensar la política de secciones 
+en una revista digital hace también al modo de intervenir en el campo: puede 
+revisarse la heterogeneidad de objetivos, en este sentido, en revistas como 
+Linterna, Paco, Islandia, Anfibia o Chocha. 
+Finalmente, no puede desligarse del análisis lo que sucede con las formas de 
+visibilización y publicidad (cómo se articulan las interfaces de las plantillas con 
+otros formatos de publicación: ¿tienen enlaces a otros sitios, plataformas, 
+instituciones, editoriales?); la pertenencia institucional (¿son revistas privadas, 
+sostenidas por cooperativas, fundaciones, universidades públicas?), y la 
+vinculación con otros productos (edición de libros, podcasts, prensa gráfica, 
+talleres). Todo esto hace a la propuesta de lectura e interpretación. 
+ 
+ 
+3. El “modo de ser” resultante. Lo anterior, articulado con dimensiones de la 
+sintaxis externa de las revistas, confluye necesariamente en lo que Delgado 
+(2014) llamó un modo de ser (Delgado, 2014, p. 23), que Gramuglio, 1983, 
+encerró bajo la noción de ethos tomada de Raymond Williams (1981, 9-10). 
+Para Delgado, dicho modo de ser surge de una articulación de elementos 
+observables: el relevamiento de las afiliaciones de cada revista; las temáticas 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+65 
+ 
+Diego Vigna 
+ 
+que problematiza en primer plano (atendiendo sobre todo a los comienzos, 
+desde se organizan los grupos responsables); y la “forma en que se polemiza” 
+(23). Para Gramuglio (1983), el ethos de una revista debe ser entendido como 
+la organización particular de valores y prácticas compartidas, sean explicitados 
+o no (Gramuglio, 1983, p. 9). Esto vuelve a tener relación con lo abordado antes: 
+esa organización es la que completaría una observación sobre los efectos de 
+intervención de un proyecto en el campo cultural, algo que es más que el 
+análisis de las escrituras que componen a la revista. 
+Estas referencias pueden traducirse, para su especificidad digital, en una fusión 
+de lo que nombramos como posicionamiento del medio y política o línea 
+editorial, que Sarlo (1992) llamó ideología cultural de un proyecto. La suma de 
+los géneros recurrentes, las formas de presentarlos en el diseño de plantilla, la 
+genealogía de citas que se pueden rastrear al interior de los textos o en las 
+mismas autodefiniciones (lo visto en nota 7), y las problemáticas puestas en 
+primer plano de una revista digital también pueden ser nombrados como un 
+modo de ser que apela a una distinción en el sentido bourdieuano. Pongamos 
+el ejemplo de Paco: ¿cómo se propone una mirada polémica sin interesarse por 
+mostrar la cohesión de un grupo editor o responsable? Desde un diseño que no 
+contempla secciones sino categorías, ancladas temáticamente a cada artículo 
+una suerte de volanta, y que explicita afirmaciones como la siguiente a la hora 
+de publicitar un sistema de suscripciones (“Con solo $25 por mes sostenemos 
+#Paco Nuestro acuerdo es con vos: buenas notas libres de obsecuencia”)9, la 
+revista ofrece títulos efectistas, utiliza GIFs10 para ilustrar algunas notas, 
+establece una línea crítica de abordaje que “persigue” a la agenda mediática y 
+a los personajes de mayor exposición, y contrapone ideas y argumentos en sus 
+artículos: pueden publicar un perfil público y a continuación una nota que 
+cuestiona específicamente dicho perfil. Lo llamativo, sin embargo, es que 
+aunque todas las notas están firmadas, al finalizar cada artículo siempre 
+ 
+ 
+ 
+9 Ver plantilla de inicio en Imagen 3. 
+10 GIF es la sigla de Graphic Interchange Format, un formato gráfico cada vez más popularizado en plataformas 
+web y aplicaciones que permite mostrar animaciones o “imágenes en movimiento” sin la necesidad de cargar 
+un archivo de video. 
+66 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+aparece una insignia grupal: “///PACO”. Como si apelaran una organicidad 
+enunciada desde la ironía. 
+Si consideramos al modo de ser del medio como una organización particular de 
+miradas y prácticas compartidas, el ejemplo anterior no implica una coherencia 
+interna ni homogénea. En el abordaje de revistas digitales, sobre todo en las 
+que apelan a una relación estrecha con lo “actual”, esto se complejiza por la 
+forma en que la crítica cultural exige un trabajo mucho más urgente, 
+contradiciendo los tiempos de la escritura y el análisis. La heterogeneidad reina, 
+sobre todo en revistas donde, justamente, otros elementos dan cuenta de 
+organizaciones que no transparentan una intención proyectiva: Paco ofrece en 
+su sección Staff (la única sección informativa que presenta, además de “Dame 
+la guita”, que solicita suscripciones a los lectores) sólo una lista de firmas que 
+(se aclara en un texto) son responsables de los artículos que publican. No hay 
+jerarquías, no hay responsables, no hay editores, y cada autor acompaña su 
+firma con su identificación de usuario en Twitter, evidenciando un elemento 
+más de esa propuesta editorial: la novedad, el flujo de información y la 
+fragmentariedad como valores en la ética de producción de la revista11. 
+ 
+ 
+4. Vínculos entre las revistas y otros soportes y formatos de publicación. Esta 
+dimensión atañe a los nexos entre aspectos internos y externos porque se 
+involucra con el estudio de las relaciones entre autores y lectores (visibilidad), 
+entre revistas y mercado editorial (convivencia de soportes), entre pares 
+(relaciones dentro del campo de producción cultural e intelectual). La 
+especificidad es innegable porque el ecosistema de medios conectivos (Van 
+Dijck, 2016) exige profundizar los vínculos que establecen las revistas digitales 
+con, por ejemplo, productos de la industria editorial, o la administración de 
+cuentas en plataformas como Facebook, Twitter o Instagram. Hay un abanico 
+ 
+ 
+ 
+11 Para Delgado (2014), el estudio de la constitución de un grupo, con la intención de dilucidar modos de ser, 
+permitiría conocer sus “grados de apertura”, su relación con las instituciones, sus políticas específicas de 
+crítica, edición o divulgación (Delgado, 2014, p. 23). Revista Paco es un ejemplo del valor que puede tener 
+este tipo de abordajes para comprender intervenciones de grupos editores históricamente situados pero 
+asimismo deslocalizados y fragmentados. 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+67 
+ 
+Diego Vigna 
+ 
+de vínculos estratégicos entre soportes y formatos que ofician de mediadores 
+para alcanzar objetivos editoriales más amplios. 
+ 
+ 
+Imágenes 3 y 4: plantilla de inicio de Paco y sección de Staff de la revista (consulta 22-07-19). 
+68 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+Los cambios en las formas y hábitos de lectura y escritura, en medio de un 
+proceso de incesante fragmentariedad y aceleración del flujo de información, 
+exigen poner el acento no solo en la unidad de publicación (posteo) sino 
+también en la extensión de éstas (sobre todo pensando en el contenido 
+textual). Pueden encontrarse cuentos, crónicas, ensayos, entrevistas, relatos no 
+ficcionales o artículos de gran extensión, como también una dinámica de 
+microposteos que las mismas revistas publican a través de sus cuentas en 
+plataformas sociales, con los que buscan captar lectores adelantando recortes 
+o fragmentos de los contenidos. Esto habla, evidentemente, de la configuración 
+de un nuevo mercado simbólico adecuado a las exigencias de las rutinas 
+digitales, no necesariamente atado a la lógica editorial del libro o la revista 
+impresa: ¿cómo difunden las revistas sus novedades? ¿A través de qué medios 
+lo hacen? ¿A qué gramáticas de publicación se someten? ¿A qué tipo de 
+lectores apuntan, a qué hábitos de lectura o consulta? ¿Qué dispositivos 
+técnicos se contemplan para captar lectores: computadoras, tablets, 
+smartphones? ¿Cuánto neutraliza, o ayuda, la mediación digital cotidiana a las 
+políticas editoriales de cada revista? ¿Qué formas textuales o de intervención 
+propician la lectura de los contenidos publicados en cada sitio web? 
+El componente interactivo (popularizado con el blog y la web 2.0), y su 
+superación conectiva que implicó la controversial denominación de web 3.0 
+(basada en las bases de datos, la web semántica y la aparición de las 
+plataformas sociales) concentran los cambios más significativos para abordar la 
+especificidad de las revistas digitales. Esto incluye dos grandes acciones que las 
+revistas reproducen: por un lado, las posibilidades de intervención por parte de 
+lectores-usuarios (comentarios), que pueden estar configurados por las mismas 
+revistas, a través de los servicios de blogging, o adaptar las herramientas 
+algorítmicas de Facebook para vincular los sites de las revistas con sus cuentas 
+en la plataformas y unificar el feedback con los lectores. Por otro, quizás la más 
+recurrente, antes mencionada: el uso, por parte de los editores, de las 
+plataformas para hacer visible cada contenido publicado. Esto se lleva a cabo 
+con la administración de las redes para que cada nuevo posteo en la revista se 
+replique automáticamente en las plataformas. Es insoslayable el análisis de las 
+condiciones técnicas y sociales en que se produce hoy la relación lectura- 
+escritura en la transmedialidad (Scolari, 2013). Desde los conceptos mismos, 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+69 
+ 
+Diego Vigna 
+ 
+esto involucra a autores, lectores y otras mediaciones desde una instancia 
+actualizada y en cierto modo fusionada, que García Canclini definió como 
+lectores-usuarios-internautas (García Canclini, 2009: 14). 
+ 
+70 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+ 
+Imágenes 5 y 6: adelantos de Humo Digital en Twitter y venta de Anfibia Papel en su blog web (consultas: 
+22-07-19). 
+ 
+ 
+En medio de esta complejización, podemos citar ejemplos de revistas que 
+alimentan tanto la producción impresa como la condición digital y transmedial. 
+Orsai, Humo y Coso mantienen sus blogs12 donde publican artículos, ensayos y 
+relatos que forman parte de sus ediciones en papel. Los tres proyectos se editan 
+en formato revista-libro, y usan los blogs para comercializar las ediciones 
+impresas pero también para publicar artículos e imágenes y videos que el papel 
+restringe. A su vez, los tres proyectos mantienen cuentas en Facebook y Twitter. 
+Humo, a diferencia de las otras, que usan posteos individuales en plataformas 
+para difundir sus contenidos, ofrece adelantos de sus ensayos y crónicas en 
+forma de hilos de tuits (Twitter threads): esto es, desplegando fragmentos de 
+textos extensos en cadenas de microposteos, debido a la restricción de 
+caracteres. Anfibia, que nació como revista digital, publicita en su sitio web, 
+como en Facebook y Twitter, no solo contenidos sino también talleres de 
+capacitación, de redacción, podcasts, series documentales que produce y la 
+ 
+ 
+12  Se puede consultar Humo Digital en https://www.revistahumo.com.ar/category/humo-digital/. Orsai: 
+https://revistaorsai.com/. Coso: https://coso.com.ar/ 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+71 
+ 
+Diego Vigna 
+ 
+comercialización de Anfibia papel, su proyecto de revistas-libros que ya tiene 
+una edición titulada Poliamor. Anfibia papel se vende en librerías de Argentina 
+y es publicitada bajo el siguiente slogan: “Anfibia se hace materia. Después de 
+7 años de vida digital desea un romance nuevo. Y porque hay cosas que solo se 
+pueden decir en papel”13. 
+ 
+La temporalidad como problema central 
+ 
+Recapitulamos las premisas metodológicas más importantes, expuestas por los 
+referentes teóricos, para abordar las dimensiones descritas en torno a las 
+revistas digitales: estudiar a las revistas como formas de organización e 
+intervención en el seno del campo de producción cultural e intelectual, 
+atendiendo siempre a la herencia impresa y su funcionamiento actual en la 
+convivencia de soportes; estudiar los contenidos textuales e hipermediales de 
+las revistas desde sus géneros, argumentos, retóricas, estrategias de 
+enunciación y políticas de diseño; articular las acciones de las revistas con las 
+trayectorias y proyectos de sus miembros, lo que exige estudiar los orígenes, 
+recorridos y hasta reconocer el carácter inorgánico de ciertos grupos 
+responsables. 
+Desde la especificidad de las revistas argentinas, es necesario destacar cuánto 
+han cambiado las condiciones de producción intelectual y artística a partir, 
+primero, de la creciente concentración y polarización editorial que comenzó en 
+la década de 1990, en un marco de ausencia estatal y redefinición de valores 
+políticos e ideológicos (Botto, 2002; Drucaroff, 2007); luego, por un cambio de 
+siglo que implicó atravesar una crisis estructural en el país conjugada (casi 
+paradojalmente) con la consolidación del avance de Internet y la popularización 
+de los medios digitales en todas las esferas de la vida social (referencia oculta 
+autor/a), y por tanto en las formas de circulación de la palabra y el 
+conocimiento. El siglo XXI comenzó en Argentina con una economía devastada, 
+un mercado editorial en déficit y una dificultad cada vez mayor para publicar en 
+papel, sobre todo para proyectos de pequeña envergadura (Echevarría, 2009). 
+ 
+ 
+13 Consultar en https://revistaanfibia.com/tienda/ 
+72 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+Durante las décadas de mayor auge e injerencia de las revistas culturales en el 
+campo intelectual y literario (podríamos decir, desde 1950 hasta fines de los 80, 
+con el nefasto proceso dictadorial en el medio), la tensión aquí abordada en las 
+voces de Sarlo (1992), Gramuglio (1983) o Delgado (2014) entre la estructura 
+social, el mercado y la producción cultural asumía horizontes claramente 
+distintos a los actuales. Situados en plena expansión de la cultura digital, con la 
+constricción de las comunidades ideológicas y la legitimación del discurso 
+intelectual en baja, la estructura mediática omnipresente y la exaltación de los 
+públicos segmentados, la noción de fracción de clase como elemento 
+metodológico de análisis no parece central para dar cuenta del estado de 
+producción literaria e intelectual, en un escenario cada vez más polarizado 
+respecto del consumo. De igual modo, creemos necesario actualizar nociones 
+como ideología cultural que, aunque sigue representando un aspecto decisivo 
+para el análisis sociocultural, por ese mismo desarrollo tecnológico- 
+informacional, y para comprender la brecha entre la estructura social y la 
+económica, hoy no tiene la injerencia que supo tener en la evolución y el 
+protagonismo de las revistas, insertas en un campo de producción restringido. 
+Las ideologías culturales están más problematizadas que nunca, y han 
+alcanzado una complejidad ineludible con la creciente estructura de medios, 
+pero esto sucede en una época donde, justamente, las condiciones de 
+enunciación reconocidas para el discurso intelectual han sido desbordadas por 
+otros discursos de la “máquina” de consumo, como la agenda periodística y la 
+palabra de técnicos y especialistas autorizados (hoy traducido en una forma de 
+espectacularización de la crítica cultural) (Sarlo, 1992, p. 7). Si tuviéramos que 
+reconocer un terreno donde el debate ideológico ha comenzado a 
+desenvolverse con entusiasmo, es justamente el de la circulación y su origen: 
+revistas que pueden reflexionar sobre sus propias condiciones de producción. 
+En este sentido, al sistematizar premisas metodológicas para abordar la sintaxis 
+interna de las revistas, y su necesaria articulación con las vicisitudes externas, 
+las fricciones entre el abordaje social y el análisis de manifestaciones culturales 
+y artísticas se expresan en términos de posicionamientos frente a las agendas 
+de los medios más poderosos, los tiempos y las formas de circulación de la 
+información, y las velocidades involucradas en los procesos interpretativos. 
+Aquí los englobaremos dentro del problema de la temporalidad, como noción 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+73 
+ 
+Diego Vigna 
+ 
+que media entre las relaciones objetivas del campo cultural, la dimensión 
+técnica de los soportes y las condiciones subjetivas de los productores. 
+La indagación sobre la temporalidad fundamenta, en muchos casos, la razón de 
+ser de las formas de intervención que sostienen las revistas, es decir, la base de 
+las fricciones entre contexto-forma-contenidos. Montaldo (2017) asocia el 
+problema de la temporalidad al de la obsolescencia, que en origen remite al 
+reemplazo programado de los dispositivos tecnológicos pero que luego piensa 
+en términos de modos de consumo: una “forma cultural” de relacionarnos tanto 
+con objetos como con la inmaterialidad (Montaldo, 2017, p. 51). El presente de 
+la cultura, para Montaldo (2017), se somete al mismo régimen de novedad y 
+recambio que los productos del mercado. Un cortoplacismo donde se 
+desintegran sentidos a costa de sumergirnos en un presente expandido por los 
+medios digitales. 
+La salvedad frente a esto es una concepción de lo contemporáneo (ese vivir 
+inmersos en el presente) que no se opone “al espesor de la historia” (Montaldo, 
+2017, p. 51). A esto le llama habitar las singularidades, no sometiendo lo 
+contemporáneo a un régimen interpretativo de la Historia (emulando, quizás, 
+viejos procesos) sino enfocándose en el presente y su tránsito con una 
+“conciencia del cambio como problema de la experiencia cotidiana” (52). 
+Montaldo (2017) llama a esto una politización del tiempo que, cree, es la 
+perspectiva que permite pensar nuevas alternativas frente a la uniformidad de 
+determinados campos, por ejemplo el literario. Las revistas digitales, en este 
+sentido, han cosechado prestigio como vehículos de nuevas publicaciones y de 
+apertura de diálogos y experimentos estéticos, presentando nombres o textos 
+que no responden a las demandas precisas del mercado (Montaldo, 2017, p. 
+52). 
+Otros episodios reflexivos también comparten esta línea. En agosto de 2016, la 
+revista Carapachay ofreció un editorial, a propósito de la coyuntura política en 
+Argentina, en el que se posicionaba frente al problema de la actualidad. 
+Para una revista que sale cada cuatro meses, (…) el riesgo latente de ser inactual 
+siempre acecha. Pero la actualidad por más apresurada y variable que se nos 
+74 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y literarias... 
+ 
+presente, no impide que la revista se inscriba en un tiempo propio y en un 
+conjunto de tradiciones, lecturas y escrituras con las que nos interesa dialogar14 
+Esto se acerca a la definición de revista que propuso Stedile Luna (2017), más 
+allá del soporte: un corte, un ejercicio de anacronismo. Una revista siempre 
+corre contra el tiempo porque el tiempo es allí “donde se traman las urgencias” 
+(Stedie Luna, 2017, p. 258). En el mundo conectivo, ese tiempo parece 
+detentado por las plataformas sociales, y las revistas aportan heterogeneidad a 
+un paisaje de por sí tan inconcluso como abrumador. Como Carapachay, que 
+eligió “correr desde atrás”, desde su primera intervención pública, como 
+política de diálogo con sus lectores-navegantes-interlocutores. 
+Entre la enorme diversidad de revistas que hay en Argentina, Stedile Luna 
+(2017) distingue dos grupos para pensar la relación con la actualidad. Por un 
+lado, las periodísticas, “que trabajan sobre lo que las luces de la agenda no 
+dejan ver”, o proponen formas alternativas de pensar la escritura periodística 
+(Stedile Luna, 2017, p. 263): allí podríamos colocar, entre las digitales, a Paco, 
+Anfibia, Crisis o Panamá. Por otro lado, las revistas que producen “en los 
+reversos de la urgencia mediática” (Stedile Luna, 2017, p. 263). Allí podríamos 
+colocar a Carapachay, Atletas, Humo, Colofón, entre otras. Si tomamos la 
+fundamentación de Stedile Luna (2017), entre las primeras es posible rastrear 
+acciones de comunicación que se oponen a las hegemónicas-informativas, o 
+que proponen debates que cuestionan la estructura académico-científica de las 
+publicaciones especializadas. La crítica, en estos casos, apunta contra la 
+información como producto de consumo, en la línea de Montaldo (2017). 
+Proyectos que intervienen para contrapesar al dato-mercancía y a las 
+narraciones homogeneizantes (Stedile Luna, 2017). Entre las segundas, quizás 
+se encuentra la mayor aspiración anacrónica, desde la coyuntura actual: 
+reflexionar, cuestionar, hipotetizar sobre nuestro estado de cultura. Proyectos 
+que ensayan ficciones, imaginarios, revisiones entre la historia y el presente. 
+Una política del desfase que pugna, justamente, por tratar de distinguir 
+actualidad de contemporaneidad desde gramáticas específicas (Stedile Luna, 
+2017). 
+ 
+ 
+14 Consultar en https://revistacarapachay.com/2016/08/12/editorial-n4/ 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+75 
+ 
+Diego Vigna 
+ 
+¿Es posible, en medio de estos posicionamientos, reconocer voluntades 
+programáticas? ¿Se justifica el intento de adecuar premisas y dimensiones 
+metodológicas de la cultura impresa para abordar un universo tan atomizado, 
+vertiginoso e inasible? Creemos que sí. Entre tales fricciones por las formas de 
+conocer y comprender contextos-formas-contenidos de las revistas, inmersas 
+en la dinámica de la crítica, la recepción y la restauración interpretativa que 
+hace equilibrio entre la historia y el tránsito inconcluso que las caracteriza, estas 
+premisas pueden ayudar a reconocer líneas de acción y proyectivas aunque no 
+haya manifiestos o posicionamientos explícitos. Voluntades de intervención 
+que, aunque no ostenten la estabilidad que supieron tener otros proyectos en 
+contextos sociales, políticos y estéticos distintos, hoy se constituyen como 
+propuestas alternativas, efervescentes y, en algunos casos, autónomas a la hora 
+de construir el estado de la producción intelectual. 
+ 
+Bibliografía 
+ 
+Altamirano, C, Sarlo, B. (1983). Literatura/Sociedad. Edicial. 
+Artundo, P. (2010) “Reflexiones en torno a un nuevo objeto de estudio: las revistas”. IX Congreso 
+Argentino de Hispanistas. Recuperado el 16 de abril del 2019 de: 
+http://www.memoria.fahce.unlp.edu.ar/trab_eventos/ev.1028/ev.1028.pdf 
+Badenes, D. (2016). Dimensiones y preguntas para el análisis de las revistas culturales. En V. Delgado y 
+G. Rogers (Eds.), Tiempos de papel. Publicaciones periódicas argentinas (siglos XIX-XX) (págs. 344-349). 
+Facultad de Humanidades y Ciencias de la Educación de la Universidad Nacional de La Plata. 
+Botto, M. (2002). La concentración y la polarización de la industria editorial. En J. L. De Diego (Ed.), 
+Editores y políticas editoriales en Argentina, 1880-2000 (209-249). Fondo de Cultura Económica. 
+Botto, M. (2012). Esos raros proyectos nuevos. Reflexiones para la conceptualización de las nuevas 
+prácticas editoriales. En: VIII Congreso de Teoría y Crítica literaria Orbis Tertius, La Plata. 7-9 de mayo. 2012 
+(págs. 1-8). Recuperado el 13 de abril de 2020: 
+http://www.memoria.fahce.unlp.edu.ar/trab_eventos/ev.1584/ev.1584.pdf 
+Bourdieu, P. (2002). Las reglas del arte. Génesis y estructura del campo literario. Anagrama. 
+Crespo, R (Coord.). (2010). Revistas en América Latina: proyectos literarios, políticos y culturales. 
+Universidad Autónoma de México. 
+Delgado, V. (2014). Algunas cuestiones críticas y metodológicas en relación con el estudio de revistas. En 
+V. Delgado, A. Mailhe y G. Rogers (Coords.), Tramas impresas. Publicaciones periódicas argentinas (siglos 
+XIX-XX) (págs. 11-25). Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La 
+Plata. 
+Derrida, J. (1997). Mal de archivo. Una impresión freudiana. Trotta. 
+76 
+CC BY-NC-SA 2.5 AR 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+ 
+La forma revista en su versión digital. Propuesta metodológica para el análisis de publicaciones culturales y 
+literarias... 
+ 
+Drucaroff, E. (2007). Mercado y literatura. Una relación que molesta. En XXI Jornadas de Investigación del 
+Instituto de Literatura Hispanoamericana. Facultad de Filosofía y Letras, Universidad de Buenos Aires. 
+Echevarría, S. (2009). El futuro llegó, hace rato (Presentación). Revista No Retornable, 8. Recuperado el 13 
+de abril de 2019: http://www.no-retornable.com.ar/v4/dossier/introduccion.html. 
+Ehricher, H. (2014). El estudio de revistas culturales en la era de las humanidades digitales. Reflexiones 
+metodológicas para un debate. En V. Delgado, A. Mailhe, G. Rogers (Coords.), Tramas impresas. 
+Publicaciones periódicas argentinas (siglos XIX-XX) (págs. 26-46). Facultad de Humanidades y Ciencias de la 
+Educación, Universidad Nacional de La Plata. 
+García Canclini, N. (2009). Lectores, espectadores e internautas. Barcelona, España, Gedisa. 
+Hernaiz, S. (2012). Revistas literarias y lugar social de la literatura en los años noventa. En Sebastián Hernaiz, 
+Rodolfo Walsh no escribió Operación masacre y otros ensayos (págs. 99-127) 17grises editora- colección 
+Deslindes/Ensayos críticos. 
+Gilman, C. (1999). Las revistas y los límites de lo decible: cartografía de una época. En S. Sosnowski (Ed.), 
+La cultura de un siglo: América Latina en sus revistas (págs. 461-469). Alianza Editorial. 
+Gramuglio, M. T. (1983). Sur: constitución del grupo y proyecto cultural. Punto de vista, VI, (17), 7- 9. 
+Jitrik, N, Rosa, N., Sarlo, B. (1993). “El rol de las revistas culturales. Espacios, 12, i-xv. 
+Mazzoni, A. y Celsi, D. (2006). Poesía actual y cualquierización. Revista El Interpretador, 26. 
+Recuperado el 13 de abril de 2019: 
+https://revistaelinterpretador.wordpress.com/2017/02/03/poesia-actual- cualquierizacion/ 
+Montaldo, G. (2017). Ecología crítica contemporánea. Cuadernos de Literatura, 21 (41), 50-61. 
+https://doi.org/10.11144/Javeriana.cl21-41.ecco 
+Moraña, M. (2003). Revistas culturales y mediación letrada en América Latina. Outra Travessia, 40, 67- 
+74. Recuperado el 13 de abril de 2019: 
+https://periodicos.ufsc.br/index.php/Outra/article/view/13093/12172 
+Patiño, R. (1997). Intelectuales en Transición. Las revistas culturales argentinas (1981-1987). 
+Cuadernos de Recienvenido, Posgraduación en Literatura Española e Hispano-América, n 4, 5-34. 
+Recuperado el 13 de abril de 2019: 
+http://dlm.fflch.usp.br/sites/dlm.fflch.usp.br/files/recienvenido04.pdf 
+Patiño, R. (2006). Revistas literarias y culturales argentinas de los 80. Ínsula: revistas de letras y ciencias 
+humanas, 715-716, Recuperado el 13 de abril de 2019: 
+https://www.insula.es/sites/default/files/articulos_muestra/INSULA%20715-716.htm 
+Patiño, R. (2008). Revistas literarias y culturales. En J. Amícola, J. y J. L. de Diego (Eds.), La teoría 
+literaria hoy. Conceptos, enfoques, debates (págs. 154-170). Editorial Al Margen. 
+Pron, P. (2009). La reinvención de lo nuevo. La literatura argentina después de 2001. Revista 
+Quimera, 304, 18-21. 
+Rivera, Jorge B. (1969). Las revistas literarias (sobre Las revistas literarias argentina de Lafleur, Provenzano y 
+Alonso y Nosotros de Noemí Ulla. Los Libros, 3, 19. Recuperado el 13 de abril de 2019: 
+https://www.ahira.com.ar/ejemplares/3-20/ 
+Cuadernos del CILHA, n. 32, 2020 - ISSN 1515-6125, EISSN 1852-9615 
+CC BY-NC-SA 2.5 AR 
+77 
+ 
+Diego Vigna 
+ 
+Saítta, S. (2004). Modos de pensar lo social. Ensayo y sociedad en la Argentina (1930-1965). En F. Neiburg 
+y M. Plotkin (Ed.), Intelectuales y expertos. La constitución del conocimiento social en la Argentina (págs. 
+107-146). Paidós. 
+Sarlo, B. “La perspectiva americana en los primeros años de Sur”. (abril-julio 1983). Punto de vista, a. VI, n° 
+17, 10-13. 
+Sarlo, B. (1992). Intelectuales y revistas: razones de una práctica. Cahiers du CRICCAL), 9-10, 9-16. 
+Recuperado el 13 de abril de 2019: https://www.persee.fr/doc/ameri_0982-9237_1992_num_9_1_1047 
+Sarlo, B. (1994). ¿La voz universal toma partido? Crítica y autonomía. Punto de vista, XVII (50), 5-9. 
+Scolari, C. (2013). Narrativas transmedia: cuando todos los medios cuentan. Deusto. 
+Sosnowski, S (Ed.). (1999). La cultura de un siglo. América Latina en sus revistas. Alianza editorial. 
+Stedile Luna, V. (2017). Las revistas y la comunidad: formas de la crítica para nombrar una época. En 
+D. Badenes (Comp.), Editar sin patrón. La experiencia política profesional de las revistas culturales 
+independientes (págs. 257-289). Club Hem Editores. 
+Van Dijck, J. (2016). La cultura de la conectividad. Una historia crítica de las redes sociales. Siglo XXI. 
+Warley, J. (1993) Revistas culturales de dos décadas. Cuadernos Hispanoamericanos, 517-519. 
+Recuperado el 13 de abril de 2019: http://www.ahira.com.ar/wp- 
+content/uploads/2018/10/Warley-Cuadernos-hispanoamericanos-1970-1990.pdf 
+Weimberg, L. (2007). El ensayo latinoamericano entre la forma de la moral y la moral de la forma. 
+Cuadernos del CILHA, 8 (9), 110-130. 
+Weinberg, L. (2011). Presentación. Cuadernos Americanos, 137, Dossier Sobre Revistas en América 
+Latina: proyectos literarios, políticos y culturales, 199-205. 
+Williams, R. (1981). Cultura. Sociología de la Comunicación y del Arte. Paidós. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

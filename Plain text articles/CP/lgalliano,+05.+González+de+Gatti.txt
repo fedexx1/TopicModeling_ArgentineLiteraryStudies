@@ -1,0 +1,742 @@
+Revista de Culturas y Literaturas Comparadas, volumen 10, diciembre 2020. ISSN: 2591-3883 
+Navegando la ruina globalizada a ciegas: la visión ustópica de Bird Box (2014) de 
+Josh Malerman 
+ 
+ 
+María Marcela González de Gatti  
+ 
+marcelagdegatti2013@gmail.com 
+ 
+Facultad de Lenguas 
+Universidad Nacional de Córdoba, Argentina 
+ 
+ 
+ 
+RESUMEN 
+El presente trabajo propone una lectura de la novela Bird Box (2014) de Josh Malerman 
+como una respuesta a lo que el filósofo Jean Baudrillard denominó “éxtasis de la 
+comunicación” o el estado metafórico de esquizofrenia de la sociedad posmoderna, en 
+la que los mensajes cacofónicos de los medios y la proliferación de imágenes dislocadas 
+de sus referentes atraviesan el sujeto como si este fuera transparente. El marco teórico 
+en el que se apoya la lectura se completa con la distinción entre distopía y relato 
+posapocalíptico establecida por Heather Hicks, para quien el corazón de la distopía 
+consiste en la “opresividad de la uniformidad” de una única metanarrativa (Hicks 8). En 
+contraposición, lo que caracteriza a lo posapocalíptico es el diametralmente opuesto 
+paisaje social “remachado con pequeñas comunidades que adhieren a diversas 
+micronarrativas”, en el que no se vislumbra posibilidad alguna de consenso para el 
+intercambio social (Hicks 8). La categoría de ustopía, acuñada por Margaret Atwood, 
+complementa e ilumina la concepción de distopía en directa relación con su par opuesto, 
+la utopía, en una fusión conceptual que se vincula con lo que James Berger denomina la 
+paradoja posapocalíptica, es decir, una “retórica radicalmente antihumanista [que] 
+enmascara un radical humanismo frustrado” (9). Esta interpretación de la novela la 
+deslinda parcialmente del género popular de ficción de terror y problematiza sus 
+significados a partir de la ambigüedad de su visión ustópica. 
+Palabras clave: posapocalíptico- distópico- ustópico- esquizofrenia- hiperrealidad 
+ 
+ 
+ABSTRACT 
+This paper purports to read Josh Malerman’s novel Bird Box (2014) as a response to 
+French philosopher Jean Baudrillard’s “ecstasy of communication,” or the metaphoric 
+state of schizophrenia characteristic of postmodern societies, in which the cacophony of 
+media messages and the proliferation of images permeate through human subjects as if 
+they were transparent. The theoretical framework for this analysis is completed by the 
+distinction between dystopia and post-apocalyptic tale established by Heather Hicks, for 
+whom at the heart of dystopia lies “the oppressiveness of uniformity” linked to the 
+presence of a single metanarrative (Hicks 8). By contrast, what characterizes the post-
+apocalyptic is the diametrically opposed socioscape “punctuated by small communities 
+adhering to various micronarratives” (Hicks 8), in which there is no glimpse of a 
+consensus for social exchange. The category of ustopia, a term coined by Margaret 
+Atwood, complements and sheds light upon the concept of dystopia in a strict 
+Ma. Marcela González de Gatti “Navegando la ruina globalizada a ciegas…” 
+relationship with its counterpart utopia, in a conceptual amalgamation which is 
+compatible with James Berger’s post-apocalyptic paradox: “a radically antihumanistic 
+rhetoric [which] masks a radical and frustrated humanism” (9). This interpretation of the 
+novel dissociates it from the popular genre of horror fiction and problematizes its 
+meanings on the basis of the ambiguity of its ustopic vision. 
+Keywords: post-apocalyptic- dystopian- ustopian- schizophrenia- hyperreality 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Esta obra está bajo una Licencia Creative Commons Atribución 
+– No Comercial – Sin Obra Derivada 4.0 Internacional. 
+ 
+ 
+Revista de Culturas y Literaturas Comparadas, volumen 10, diciembre 2020.  
+Introducción 
+Con una gráfica analogía, Heather J. Hicks (2016) delinea los rasgos esenciales 
+de una tradición de ficción posapocalíptica que se inicia en la era del Iluminismo. Tal 
+como ocurre con los trazos en tiza blanca que demarcan el contorno de la víctima de un 
+crimen, la ficción de orden posapocalíptico subraya, según la autora, el final de las 
+estructuras físicas, las construcciones sociales y los valores de la vida moderna. De 
+manera comparable a la función de la silueta vacía, para Hicks, la ausencia misma de 
+dichos fenómenos ocupa el centro de la preocupación de la narrativa y un punto de 
+partida primordial para sopesar sus significados (4). Desde este punto de vista que, por 
+cierto, compartimos con la autora, la ficción posapocalíptica presenta una oportunidad 
+singular para desplegar posibles escenarios tanto para morigerar o controlar la faceta 
+más oscura de una modernidad bifronte como para sostener e intensificar sus aspectos 
+más iluminadores. La novela Bird Box (2014) de Josh Malerman es un ejemplo 
+contemporáneo que captura la premisa central del concepto de novela posapocalíptica 
+que propone Hicks, es decir, la noción de “ruina globalizada” que consta de elementos 
+de “pérdida” y “transformación” y que permite la doble función, como doble es el rostro 
+de la modernidad, de descubrir qué es lo importante de aquello que ha llegado a su fin o 
+sobrevive in extremis y explorar cómo es posible una reconstrucción, puesto que, en 
+textos posapocalípticos, “perduran fragmentos del mundo” y sus personajes 
+salvaguardan y rescatan “elementos tanto físicos como epistemológicos del mundo que 
+se ha ido” (Hicks 15)1. En nuestra lectura, propendemos a vincular las condiciones 
+sociales de la existencia humana representadas en la novela con la visión apocalíptica de 
+la muerte de lo real propuesta por el pensador francés Jean Baudrillard para una etapa 
+posmoderna en la historia de la humanidad. 
+ 
+Encuadre teórico. Principios conceptuales básicos del género posapocalíptico   
+En su recorrido diacrónico del término posapocalíptico, Hicks advierte sobre la 
+proliferación de términos tales como “neoapocalíptico”, “criptoapocalíptico”, 
+“contraapocalíptico”, “anaapocalíptico”, apocalipsis irónico, lento, posmoderno y otros, 
+y circunscribe el género a la noción de “subcategoría de literatura apocalíptica”, ya que 
+“representa, al menos al pasar y a menudo en detalle, los acontecimientos que conducen 
+a una catástrofe de proporciones nacionales o internacionales, al igual que la catástrofe 
+en sí misma” (6). La autora añade que el género dedica bastante atención también a las 
+secuelas del desastre […] ya que los textos posapocalípticos suelen “dedicar la mayor 
+parte de su espacio narrativo a las vicisitudes que acaecen con posterioridad al colapso 
+de la modernidad” (6). Entre los rasgos sobresalientes y convencionales que determinan 
+la afiliación manifiesta de un texto al género aludido, Hicks menciona: 
+ 
+bandas andrajosas de sobrevivientes; paisajes de demolición urbana rodeada de una 
+campiña destruida; tecnologías caducas; búsquedas desesperadas de alimentos entre los 
+residuos; un anhelo punzante por una civilización perdida, a menudo emblematizado a 
+través de la palabra escrita; y situaciones de violencia extrema, con inclusión de escenas 
+de canibalismo, perpetrado por bandas errantes de delincuentes (6) 
+ 
+Hicks asocia su concepto de “ruina globalizada” a la idea de que la catástrofe, 
+aun cuando tenga alcance nacional, por obra de la globalización de la economía política, 
+ 
+1 Todas las traducciones al español de citas tomadas de textos escritos originalmente en inglés o 
+traducidos al inglés de su original en francés son versiones propias de la autora de este artículo. 
+Ma. Marcela González de Gatti “Navegando la ruina globalizada a ciegas…” 
+asume efectos dramáticos en otros lugares, y a la noción de que el temor apocalíptico 
+contemporáneo por antonomasia es la “pérdida de una perspectiva global” (7), miedo de 
+que desaparezca el lujo de la inteligencia global del acceso permanente e irrestricto a la 
+información internacional, que se traduce en este tipo de ficción en la negación 
+conspicua de este elemento de la modernidad a los personajes, quienes no alcanzan a 
+intuir si su sufrimiento es compartido por otras personas en otras partes del mundo.  
+El término distópico suele utilizarse como sinónimo de posapocalíptico y 
+distintos autores los relacionan de manera diversa. Por ejemplo, Ursula Heise engloba 
+los textos posapocalípticos dentro de un macrogénero distópico (Hicks 8). Sin embargo, 
+Hicks establece una distinción importante: 
+ 
+La tradición distópica presenta un mundo en el cual se ha impuesto a la sociedad una 
+única metanarrativa. Es la opresividad de la uniformidad – en efecto, de una expresión 
+particularmente regimentada de la modernidad – que constituye el corazón del género. 
+Lo posapocalíptico típicamente representa su extremo opuesto: un paisaje social 
+remachado con pequeñas comunidades que adhieren a diversas micronarrativas. En 
+estas visiones, el resultado suele no ser la liberación imaginada por Jean François 
+Lyotard sino una profunda incertidumbre respecto de la ausencia de todo sitio de 
+consenso sobre el cual pueda afirmarse el intercambio social (8).  
+ 
+ 
+Con base en esta distinción, podríamos afirmar que, a través de sus dos marcos 
+temporales principales, la novela de Malerman presenta las condiciones distópicas de 
+una metanarrativa relacionada con el rol de la imagen en la contemporaneidad, por un 
+lado, y las situaciones catastróficas del caos social que aísla a los seres humanos en 
+diversas micronarrativas, por el otro. 
+En cuanto a las funciones de la literatura englobada por las categorías hasta 
+ahora mencionadas, las representaciones tanto apocalípticas como posapocalípticas han 
+sido, en virtud de su enorme potencial crítico, instrumentos poderosos para la denuncia 
+de las injusticias sociales y económicas de determinadas sociedades. Es el propio James 
+Berger, reconocido teórico en la materia, quien así desglosa este propósito: 
+ 
+De manera preponderante, [tales representaciones] presentan una crítica totalizadora de 
+un determinado orden social en existencia. Desde la condena de babilonia en el Libro 
+del Apocalipsis, pasando por los movimientos milenarios de la era medieval, y hasta 
+pensamiento apocalíptico más reciente – tanto religioso como laico – las visiones del fin 
+y sus consecuencias enfatizan que no hay reforma social posible que pueda curar las 
+patologías del mundo. Cada una de las estructuras del viejo mundo está infectada, y 
+solamente un cataclismo absoluto y purificador puede posibilitar la emergencia de un 
+mundo perfeccionado y completamente nuevo (7).  
+ 
+ 
+Desde esta perspectiva, las visiones apocalípticas pasarían a ser el opuesto de sí 
+mismas, es decir, anhelos profundos de determinados objetivos ideales y utópicos que 
+han sido opacados y corrompidos por una realidad que merece ser obliterada. De hecho, 
+Berger observa lo que denomina paradoja posapocalíptica en el pensamiento de 
+algunos posestructuralistas fundamentalistas, cuya “retórica radicalmente antihumanista 
+enmascara un radical humanismo frustrado” (9). También la detecta en el texto 
+apocalíptico por antonomasia que es el libro bíblico del Apocalipsis que, a pesar de “su 
+abrumador odio hacia el mundo, revela en su ‘lamento’ de doble filo un momento de 
+nostalgia por lo que se perderá” (9-10). Esto conduce a Berger a concluir que, en la 
+mayoría de los apocalipsis de la ciencia ficción, “lo que sobrevive es una versión de la 
+Revista de Culturas y Literaturas Comparadas, volumen 10, diciembre 2020.  
+humanidad en medio de lo inhumano” (10) y que “el estudio del posapocalipsis es el 
+estudio de lo que desaparece y lo que permanece y de cómo ha sido transformado el 
+remanente” (7). 
+No nos parece acertado cerrar esta breve sección de reflexión teórica y 
+terminológica sin traer a colación el concepto de ustopía, término acuñado por la 
+escritora canadiense de ficción especulativa Margaret Atwood. En un conocido 
+altercado con Ursula Le Guin, esta última endilga a la escritora canadiense una singular 
+aversión a la especie literaria de ciencia ficción. Le Guin interpreta que Atwood desea 
+proteger su obra de rótulos que podrían relegarla a una suerte de ghetto literario. En 
+respuesta a tal imputación, Atwood afina la distinción entre ciencia ficción, a la cual 
+define como ficción de cosas imposibles, y ficción especulativa, a la que concibe como 
+ficción sobre acontecimientos que podrían ocurrir, pero que no son posibles al momento 
+de escribir un texto literario. Sin embargo, en un artículo destinado tanto a retrucar los 
+dichos de Le Guin como a conciliar posibles concepciones de diversas vertientes de un 
+mismo género, Atwood dictamina que no solo la ciencia ficción, sino también la ficción 
+especulativa, la fantasía y otros subgéneros emparentados se inspiran y nutren desde las 
+profundidades de una misma fuente:  
+ 
+aquellos mundos imaginados que están localizados en un espacio separado de nuestro 
+mundo cotidiano: en otra época, en otra dimensión, a través de un portal que conduce al 
+mundo espiritual, o del otro lado de un umbral que divide lo conocido de lo 
+desconocido (Atwood, s/d).  
+ 
+ 
+De aun mayor trascendencia que estas disquisiciones sobre las diferencias entre 
+ciencia ficción y ficción especulativa resulta el alcance que Atwood otorga al término 
+ustopía, una categoría que, como confiesa la propia autora, proviene de una fusión entre 
+utopía y distopía. La justificación para amalgamar dos conceptos antitéticos y 
+conjugarlos en una sola entidad puede hallarse en la declaración de Atwood de que la 
+imaginaria sociedad perfecta y su contracara se enlazan en una relación simbiotizada 
+por cuanto cada una de ellas “contiene una versión latente de la otra” (Atwood, s/d). 
+Para complementar la definición, la autora afirma que la ustopía es un estado mental, 
+puesto que “en literatura cualquier paisaje es un estado mental y cualquier estado mental 
+puede ser representado por un paisaje” (Atwood, s/d).  
+Este vínculo de contención recíproca entre utopía y distopía encapsulado en el 
+término ustopía contribuye a apoyar y expandir las teorizaciones de Berger, con las 
+cuales converge de manera compatible, al menos en lo que respecta a la ambivalencia 
+holográfica del género respecto de la modernidad y sus atributos. Por otro lado, es 
+válido hacer notar que todos los términos desplegados quedan engarzados en una misma 
+pieza cuando se aplican a la novela de Malerman, en la cual las condiciones distópicas 
+de una civilización en ruinas, leídas en términos del fenómeno de la pérdida de lo real y 
+la esquizofrenia del individuo posmoderno, llevan a explorar las consecuencias en un 
+periodo posapocalíptico que se encamina hacia el surgimiento de una nueva 
+civilización. La visión del texto, en este sentido, es doblemente ustópica, pues su 
+contenido distópico desnuda anhelos utópicos profundos y la civilización utópica que 
+puede vislumbrase en el epílogo, en cierto modo, contiene un germen distópico 
+inextirpable.  
+ 
+ 
+ 
+Ma. Marcela González de Gatti “Navegando la ruina globalizada a ciegas…” 
+Jean Baudrillard: el éxtasis de la comunicación y la pérdida de lo real 
+En su singular combinación de teoría y crítica marxista, estudios sociológicos, 
+antropológicos y semiológicos, Baudrillard reflexionó de manera original sobre la vida 
+de los signos y el impacto de la tecnología en la vida social. Juzgamos que es apropiado 
+repasar algunos de los fundamentos sobre los cuales Baudrillard montó una crítica 
+sistemática a ciertos aspectos del pensamiento moderno según sus propias miradas 
+filosóficas. Tales fundamentos son relevantes a la hora de interpretar algunos de los 
+escenarios sociales por los que discurre la trama narrativa de Bird Box. 
+En sus escritos tempranos, Baudrillard sostenía que los modos de significación 
+de la moda, el deporte, los medios de comunicación, entre otros, producían sistemas de 
+significación que operaban por medio de su propia lógica y se articulaban mediante 
+códigos y principios específicos. En esta etapa en la evolución de su pensamiento, 
+observaba que la transición desde un capitalismo de mercado hacia un capitalismo de 
+monopolios –en un periodo histórico que Baudrillard ubica entre las décadas de los años 
+veinte a los sesenta– requería una mayor atención puesta en el manejo de las 
+manifestaciones de demandas con el propósito de aumentar y manipular el consumo 
+para mayores dividendos económicos. 
+Según Baudrillard, la principal herramienta para el incremento y manejo del 
+consumo fue el régimen del valor sígnico. Como consecuencia de las estrategias de 
+publicidad, empaquetamiento, exhibición de productos, la moda y, en general, la cultura 
+popular y los medios masivos, la proliferación de productos multiplicó la cantidad de 
+signos y espectáculos y ocasionó “una proliferación de valor sígnico”, que representa un 
+valor agregado al valor de uso y valor de intercambio. Este nuevo régimen funciona 
+como el sistema diferencial del lenguaje. Es decir, “así como las palabras adquieren su 
+significado según su posición en el sistema, los valores sígnicos cobran su significado a 
+partir de su posición en el sistema diferencial de prestigio y estatus social” (Stanford, 
+Early Writings, s/d). 
+El corolario de este proceso es la reificación de los individuos como 
+consecuencia de que la comodificación pasa a dominar las conductas y pensamientos 
+humanos. Los objetos, los productos y las tecnologías pasan a dominar a los sujetos y 
+los despojan de sus atributos y capacidades humanas y de sus libertades. 
+Para Baudrillard, hubo una fuerte ruptura entre las sociedades premodernas y las 
+modernas. Pero igualmente radical es la ruptura que diagnostica entre las sociedades 
+modernas y las posmodernas. Mientras las sociedades modernas estaban organizadas en 
+base al principio de la producción, las sociedades modernas pasaron a organizarse en 
+torno a la simulación. Esto significa, en el contexto de las teorías de Baudrillard, que los 
+modos culturales de representación que ‘simulan’ la realidad, tales como la televisión, el 
+ciberespacio digital y la realidad virtual. 
+En la sociedad posmoderna que Baudrillard diagnostica como esquizofrénica, 
+los mensajes cacofónicos de los medios atraviesan el sujeto humano como si este fuera 
+transparente. El universo posmoderno, según el pensador, es hiperreal en la medida que 
+las industrias del entretenimiento y de la información y las tecnologías de la 
+comunicación proporcionan experiencias más intensas que las imágenes banales de la 
+vida real, así como códigos y modelos que han pasado a estructurar y organizar de 
+manera hegemónica la vida contemporánea. Es cuando Baudrillard advierte sobre 
+subjetividades perdidas y fragmentadas que propone la esquizofrenia como metáfora 
+paradigmática de nuestro tiempo. El esquizofrénico experimenta con terror la 
+Revista de Culturas y Literaturas Comparadas, volumen 10, diciembre 2020.  
+exacerbada proximidad de todo lo que lo rodea y vive en un estado de promiscuidad de 
+todo lo que lo toca sin que pueda ofrecer ningún tipo de oposición: 
+ 
+Lo que lo caracteriza [al esquizofrénico] no es tanto la pérdida de lo real, los años luz 
+que lo separan de la realidad, el phatos de la distancia y de la separación radical, como 
+suele decirse sino, por el contrario, la proximidad absoluta, la total instantaneidad de las 
+cosas, la sensación de no contar con la posibilidad de una defensa o un lugar de retiro. 
+Es el fin de la interioridad y la intimidad, la sobreexposición y transparencia de un 
+mundo que lo atraviesa sin obstáculo alguno. […] Es ahora una pantalla pura, un centro 
+conmutador para todas las redes de influencias (Ecstasy, 133). 
+ 
+ 
+Así, el poder ver no garantiza el encuentro de una realidad o una verdad pues, al 
+decir del filósofo, el mundo contemporáneo es un mundo hiperreal en el que las 
+imágenes ejercen dominio sobre y preceden a sus referentes. En el mundo de la 
+hiperrealidad, rige el orden del simulacro, que no esconde ni disfraza la realidad, sino 
+que revela su desaparición. En su síntesis de la evolución de los modos idiosincráticos 
+del pensamiento baudrillardeano, Douglas Kellner explica: 
+ 
+La conciencia saturada por los medios, hipnotizada y narcotizada (algunas de las 
+metáforas de Baudrillard) se encuentra en un estado tan marcado de fascinación con las 
+imágenes y el espectáculo que el concepto de significado en sí mismo (que depende de 
+fronteras estables, estructuras fijas, un consenso compartido) se disuelve. En esta 
+situación posmoderna nueva y alarmante, el referente, el detrás y el afuera, junto con la 
+profundidad, la esencia y la realidad, desaparecen, y con su desaparición, se desvanece 
+también toda posibilidad de una potencial oposición. Al proliferar la simulación, el 
+simulacro alude solo a sí mismo: un carnaval de espejos que reflejan imágenes 
+proyectadas desde otros espejos sobre la omnipresente pantalla de la televisión y la 
+computadora, y la pantalla de la conciencia, que a su vez remite la imagen a su depósito 
+de imágenes previas también producidas por espejos simuladores (Stanford, Symbolic 
+Exchange and the Postmodern Break, s/d).  
+ 
+En el estado de “inversión inmanente” que el pensador francés también propone 
+como paradigmático de los últimos tiempos, cada ideal de la modernidad se ha 
+transformado en su directo opuesto. Una sociedad de producción ha pasado a ser una 
+sociedad de la seducción y la simulación; los ideales de libertad han cedido ante el 
+avance de formas de esclavitud voluntaria, en tanto que la emancipación y la revolución 
+han dado paso a la dominación de la hiperrealidad y la virtualidad. Según Baudrillard, 
+en algún punto de la era posindustrial, 
+ 
+la sociedad de producción mutaba hacia la simulación y la seducción; el poder 
+panóptico y represivo teorizado por Foucault se estaba transformando en el poder cínico 
+y seductor de la sociedad de los medios y la comunicación: la liberación por la cual se 
+abogada en los sesenta se había convertido en una forma voluntaria de servidumbre; la 
+soberanía había pasado del sujeto al objeto; la revolución y la emancipación se habían 
+convertido en sus opuestos, no sin antes atrapar a los individuos en el orden de la 
+simulación y la virtualidad. El concepto de reversión inmanente de Baudrillard, por lo 
+tanto, constituye una inversión perversa de la dialéctica del Iluminismo de Adorno y 
+Horkheimer, en la cual todo se transforma en su contrapartida. Para Adorno y 
+Horkheimer, dentro de las transformaciones del capitalismo organizado y de tecnología 
+de avanzada, los modos del Iluminismo se convierten en dominación, la cultura pasa a 
+ser industria de la cultura, la democracia se transfigura en una forma de manipulación 
+Ma. Marcela González de Gatti “Navegando la ruina globalizada a ciegas…” 
+de masas, y la ciencia y la tecnología comienzan a constituirse en una parte crucial de 
+un aparato de dominación social (Stanford, Into the 1990s, s/d). 
+ 
+ 
+En la conclusión de la síntesis a cargo de Kellner que hemos citado, el autor 
+arriesga la posibilidad de que los textos teóricos de Baudrillard, especialmente los 
+escritos posteriores a la década de los setenta, sean leídos como ciencia ficción que 
+anticipa el futuro mediante la exageración de tendencias actuales y que, de este modo, 
+sea posible ver en ellos advertencias anticipadas de lo que podría suceder si se acentúan 
+algunas tendencias contemporáneas (Stanford, Concluding Assessment, s/d). Tomadas 
+ya sea como reflexiones sobre teoría social o como productos de ciencia ficción, las 
+advertencias apocalípticas se deslizan hacia el interior del universo de la novela objeto 
+de análisis, cuya trama responde a ellas de manera oblicua en pos de gestar una visión 
+ustópica. 
+ 
+Bird Box (2014): la novela 
+Bird Box (de ahora en más, BB) es una novela que sigue las vicisitudes en la vida 
+de una mujer llamada Malorie y dos niños que la acompañan. Las acciones de la trama 
+se desarrollan en tres marcos temporales. En el presente, Malorie se enfrenta a la 
+necesidad de huir de una casa que ha habitado durante algunos años para transportarse a 
+sí misma y a los niños hacia un sitio aparentemente seguro a través de un viaje en bote 
+por un río. Los tres deben utilizar antifaces para realizar la travesía totalmente a ciegas. 
+Mediante los recursos narrativos de la analepsis y la prolepsis, el texto intercala 
+capítulos situados en el presente con capítulos donde las acciones se desenvuelven en 
+los dos tipos de pasado. Un pasado está anclado en el tiempo previo al nacimiento de los 
+niños hasta que estos tienen la edad actual. En un pasado anterior, aproximadamente 
+cinco años, el mundo ha sido azotado por una plaga mundial, descripta como “el 
+problema”, un término exageradamente evanescente, pero hermético que soslaya una 
+discusión de su realidad más profunda. 
+El problema aludido comienza en el hemisferio norte y, desde Rusia, se traslada 
+hacia Canadá y los Estados Unidos. Inexplicablemente, individuos que parecen “ver” 
+algo extraño o haber conocido “ciertas criaturas” atacan brutalmente a las personas de 
+sus entornos antes de cometer sangrientos suicidios. Malorie se mantiene bastante 
+escéptica ante las noticias que escucha en los medios hasta que su propia hermana 
+Shannon muere de esta manera y, al haber quedado casualmente embarazada, se ve 
+obligada a buscar refugio en una casa compartida con sobrevivientes desconocidos. A 
+los cuatro moradores que cohabitan, además de Malorie, se suma Olympia –otra mujer 
+embarazada– y un extraño llamado Gary. 
+Los habitantes de la casa moran en condiciones de confinamiento y disponen de 
+medios primitivos para llevar a cabo las prácticas cotidianas de la vida. No solo 
+permanecen encerrados, sino que sellan las ventanas a fin de evitar cualquier 
+contaminación. Cuando se ven forzados a salir de la vivienda en busca de víveres u 
+otras necesidades, lo hacen a ciegas. Entre los sistemas de supervivencia que desarrollan 
+figura la utilización de pájaros que los alertan cuando acechan peligros cercanos. Ambas 
+mujeres dan a luz a sus niños; pero, en el momento en que Olympia da a luz, Gary, un 
+personaje que ya había sido expulsado de la casa por su conducta sospechosa, destapa 
+las ventanas de modo tal que Olympia y cada uno de los personajes, excepto Malorie y 
+los niños, quedan expuestos al “problema” o las “criaturas” extrañas y sufren muertes 
+tan desgarradoras como sangrientos son sus ataques recíprocos. 
+Revista de Culturas y Literaturas Comparadas, volumen 10, diciembre 2020.  
+Después de algún tiempo y tras entrenar a los niños para manejarse en el mundo 
+a través de sus sentidos no visuales, especialmente el del oído, Malorie establece una 
+milagrosa conversación telefónica con un sobreviviente llamado Rick, quien le habla de 
+un refugio de más de cien sobrevivientes de la catástrofe que afectó a la humanidad y la 
+entusiasma para que deje la casa y se dirija hacia el refugio. Malorie logra navegar por 
+el río con la guía de los dos niños y, finalmente, los tres acceden al refugio, que cuenta 
+con dependencias para la vida y un invernadero colmado de pájaros. Sin embargo, la 
+mayoría de las personas están ciegas y algunas tienen profundas cicatrices en sus 
+párpados, lo cual sugiere una práctica deliberada que, aunque brutal, ha sido necesaria 
+para la supervivencia y la reconstrucción de la comunidad. 
+El “problema” nunca se describe de manera explícita ni se dan indicios sobre las 
+causas auténticas que lo desencadenan, pero los sobrevivientes deben enfrentar el 
+desafío de la completa ruptura de las convenciones de la vida diaria, así como también 
+las consecuencias de un mundo que se desintegra vertiginosamente. Privados de la 
+posibilidad de ver, los personajes lentamente quedan atrapados en condiciones de 
+sospecha recíproca que va horadando los más básicos principios de civilidad. Un estado 
+de paranoia in crescendo constituye un asalto violento sobre su cordura. Tal como lo 
+señala Martin Newland, en su recensión de la novela, Malerman “invita al lector a 
+considerar la abulia sofocante y la dislocación y desorientación de una vida vivida sin 
+las distracciones superficiales” habituales. En estas condiciones, Newland continúa la 
+alienación, incluida la separación de los propios sentidos, reformula la realidad.   
+ 
+Reflexiones sobre las pérdidas sociales en Bird Box 
+Es significativo que sean los propios medios televisivos en BB los que alertan a 
+la sociedad sobre el “problema” que ha invadido al mundo. Es precisamente la cadena 
+de noticias CNN la que insiste en que el común denominador de todos los 
+acontecimientos trágicos es que “las víctimas vieron algo antes de atacar a otras 
+personas y quitarse la vida” (BB 13, resaltado del autor). Y es significativo que los 
+personajes que sobreviven el cataclismo son precisamente los que son ciegos o viven a 
+ciegas. Despojada voluntariamente de la visión, Malorie imagina, elude y combate las 
+“criaturas”, que permanecen no descriptas en el texto escrito y ponen en tela de juicio la 
+sanidad mental de las personas. Los medios de noticias especulan sobre los posibles 
+orígenes de tales incidentes: se trataría de un tipo de enfermedad mental ocasionada por 
+ondas radiales provenientes de tecnología inalámbrica o un salto evolutivo anómalo en 
+la humanidad o un contacto de la humanidad con un planeta que está a punto de fenecer 
+(BB 20). Si bien las hipótesis se multiplican, el gobierno no confirma oficialmente 
+ninguna y el misterio persiste con la única certeza de que no ver es el antídoto eficaz. El 
+principal método de supervivencia en esta sociedad distópica consiste en sellar las 
+ventanas de las viviendas, agudizar el sentido del oído y solamente aventurarse hacia el 
+mundo exterior protegidos por un antifaz para resistir la tentación de mirar. 
+La voz narradora de la novela se detiene a analizar la gran paradoja que significa 
+el empleo de un alambre para sostener cortinas en el interior de la casa donde se aloja 
+Malorie. Cuando una vez dicho tipo de alambre solía emplearse en el patio exterior de 
+su vivienda para delimitar un pequeño jardín, ahora cumple el rol de una especie de 
+armadura “no para proteger a los niños de aquello que pueda verlos o mirarlos a ellos, 
+sino de aquello que ellos podrían ver” (BB 7, resaltado propio). Los sobrevivientes 
+desarrollan su ingenio para detectar peligros mediante un sistema de alarmas que 
+depende del empleo de una caja de pájaros en el exterior de la vivienda con 
+Ma. Marcela González de Gatti “Navegando la ruina globalizada a ciegas…” 
+amplificadores hacia el interior. Antes de concretar su escape a ciegas con los dos niños, 
+Malorie pasa mucho tiempo entrenándolos como “máquinas de escuchar” (BB 80) y 
+concibe al mundo exterior como un gran “anfiteatro” en donde su peor pesadilla es que 
+alguna criatura sigilosa desate deliberada y perversamente los antifaces de sus niños, 
+que son su única protección garantizada (BB 14).  
+El gesto de taparse los ojos, en el orden simbólico, responde a la necesidad de 
+encontrar protección ante el avance de las imágenes, dislocadas de sus referentes. En el 
+mundo hiperreal de la simulación, el individuo, según Baudrillard, es afligido por un 
+estado que describe a través de sus metáforas de paranoia y esquizofrenia. Mientras que 
+en el pasado la paranoia solía ser “la patología de la organización, de la estructuración 
+de un mundo rígido y celoso”, en el mundo contemporáneo hay un nuevo estado de 
+esquizofrenia que consiste en la “extroversión obligada de toda interioridad, una 
+inyección forzada de toda exterioridad implícita en el verdadero y literal significado del 
+categórico imperativo de la comunicación” (Ecstasy, 132). En el universo simbólico del 
+texto literario, las prácticas de aislamiento y claustrofobia son la respuesta de los 
+personajes al terror que Baudrillard atribuye a la esquizofrenia como metáfora de las 
+consecuencias de la “promiscuidad” de las redes de comunicación e información sobre 
+el sujeto humano. El terror es un pavor que los personajes experimentan ante la extrema 
+tangibilidad e invasividad del mundo exterior. Un gesto omnipresente en la novela es el 
+de alejarse de todos los portales y colocarse de espaldas a otros personajes o contra los 
+muros interiores de las habitaciones. Por momentos, a Malorie la aqueja una 
+abrumadora sensación de culpabilidad por impedir durante años que sus niños vean la 
+infinita “vastedad del cielo” (BB 7). Pero, paradójicamente, según lo reconoce, “el único 
+lugar que [ellos] experimentarán como su verdadero hogar es detrás del paño negro de 
+sus vendas oculares” (BB 7).  
+George es el personaje de la novela que abre las puertas de su casa para alojar a 
+los sobrevivientes. Retrospectivamente, otro personaje valora el pensamiento progresivo 
+de George, quien había propuesto que, a fin de poder mirar hacia el exterior de las 
+ventanas y no recibir el daño potencial de las “criaturas”, tal vez deberían utilizar un 
+medio para observar a través de él, como “lentes, vidrios refractarios, telescopios o 
+binoculares”, ya que, según George, si el problema era una cuestión de vista, lo que 
+había que hacer era “alterar la línea de visión” o “cambiar los modos físicos en los 
+cuales se ve” (BB 43). Lo que George intentaba hacer, sin embargo, ya no es posible en 
+un universo donde la reflexión ha cedido terreno ante la refracción. 
+En efecto, para Baudrillard, ya no existen la escena y el espejo, pues estos han 
+sido reemplazados por la pantalla y la red comunicativa. El pensador francés se ha 
+referido numerosas veces a la desaparición de los límites entre espacio público y 
+espacio privado. Para él, ya no existen los espacios públicos auténticos, sino “espacios 
+gigantescos de circulación, ventilación y conexiones efímeras”, pero, así como 
+desaparece el espacio público, también se desvanece el privado: “el primero ya no es un 
+espectáculo y el segundo no existe como secreto” (Ecstasy, 130). Baudrillard lamenta la 
+desaparición de lo privado porque, si bien el universo privado resultaba ser alienante por 
+cuanto separaba a un individuo de otro, también cosechaba los beneficios simbólicos de 
+tal separación, lo cual es el reconocimiento de que la otredad también existe. La 
+obscenidad ha reemplazado a la espectacularidad porque, afirma el autor, “la 
+obscenidad comienza precisamente cuando no hay más espectáculo ni escena, cuando 
+todo se convierte en una transparencia y una inmanente visibilidad” (Ecstasy, 130). Lo 
+que George intenta recuperar es la distinción entre sujeto y objeto, lo cual no es posible 
+Revista de Culturas y Literaturas Comparadas, volumen 10, diciembre 2020.  
+cuando impera el éxtasis de la comunicación, pues “lo obsceno es lo que elimina cada 
+espejo, cada mirada, cada escena” (Ecstasy, 130). Para corroborar su hipótesis de que la 
+manera de salir indemne de la percepción visual de las “criaturas” del exterior es 
+visualizarlas a través de un medio físico, monta su ambicioso experimento de dejar que 
+una cámara filme el exterior para luego observar las imágenes, pero una vez que han 
+sido mediadas por la cámara. Para evitar cualquier implicancia trágica que resultare de 
+la falla del experimento, George se aísla en una habitación y se ata con resistentes 
+sogas. Sin embargo, la propia fuerza de su cuerpo intentando desatarse hace que este se 
+desintegre bajo las cuerdas que laceran sus músculos y hacen que se desgarren hasta sus 
+huesos en un pasaje descripto mediante una macabra analogía que compara su cuerpo 
+despellejado al “glaseado de una torta”, en una escena en donde su sangre y su piel 
+descienden por encima de las sogas en su torso (BB 44). Como lo cuenta Tom, falló el 
+experimento de la visión protegida y se desmoronó su hipótesis porque “no importa el 
+prisma con el cual se mire a las criaturas, estas llegan hasta ti para lastimarte” (BB 44). 
+La llegada de lo obsceno proclama, para Baudrillard, el fin de toda representación:  
+ 
+Hoy se vive en una “¡pornografía de la información y la comunicación, es decir, de 
+circuitos y redes, una pornografía de todas las funciones y los objetos en su legibilidad, 
+su fluidez, su disponibilidad, su regulación, en su significación forzada, en su 
+performatividad, en su bifurcación, en su polivalencia, en su libre expresión… (Ecstasy, 
+130-131). 
+ 
+ 
+Es para confrontar la pornografía y la obscenidad de la hiperrealidad que los 
+personajes encuentran consuelo en el encierro sofocante, cuya metáfora más elocuente 
+quizá sea la propia caja de pájaros titular, pues la paranoia, al menos, instala una 
+frontera distintiva entre el sujeto y el mundo exterior y contrarresta, no sin una cuota de 
+angustia o espanto, el horror de la esquizofrenia. No es aleatorio el hecho de que, como 
+comenta la voz narradora al pasar, de todos los apelativos ofrecidos para designar “el 
+problema”, el único que nunca obtuvo aceptación fue el de “borradura” o “cancelación 
+personal” (BB 19). Tampoco es azaroso el relato de las sensaciones que experimenta 
+Malorie en el río, donde siente que “ansía los muros de la casa” pues “no hay muros en 
+este río. No hay sótano debajo. No hay ático arriba” (BB 57). Donde la esquizofrenia ha 
+desatado el terror, la paranoia despierta un anhelo nostálgico. 
+La sociedad posmoderna es, además, un universo de hiperrealidad, en el que las 
+tecnologías del entretenimiento, la información y la comunicación brindan experiencias 
+más intensas e inmersivas que las escenas banales de la vida cotidiana. El mundo de la 
+hiperrealidad, esto es, simulaciones mediáticas de la realidad, parques de diversiones al 
+estilo de Disneyland, centros de compras, fantasylands del consumidor y otras 
+incursiones en mundos utópicos, es más real que lo real, y en él los modelos, las 
+imágenes y los códigos de lo hiperreal controlan el pensamiento y la conducta. Malorie 
+atisba dubitativamente la posibilidad de que “el mundo exterior y las cosas de las que se 
+ocultan los estén cercando” (BB 101), ante lo cual otro personaje responde que lo que 
+está sucediendo es más bien lo que ocurre en una película en tres dimensiones: “Al 
+principio la audiencia cree que los objetos se les están acercando. Elevan sus manos en 
+señal de autoprotección. Pero los inteligentes, los que están bien conscientes, saben que 
+todo el tiempo han gozado de completa seguridad (BB 102, resaltado propio). 
+Destacamos la expresión en esta cita por cuanto la idea nos sugiere la capacidad de un 
+número limitado de individuos para no perder el rumbo en el juego desconcertante de la 
+hiperrealidad.  
+Ma. Marcela González de Gatti “Navegando la ruina globalizada a ciegas…” 
+Cuando Baudrillard desarrolla su concepto de una ruptura entre las sociedades 
+modernas y las posmodernas, principalmente en Symbolic Exchange and Death y 
+Simulation and Simulacra, argumenta que, a diferencia del acto de fingir, que deja “el 
+principio de la realidad intacto”, la simulación pone en jaque la diferencia entre “falso y 
+verdadero y real e imaginario” (citado en Kellner). Asevera Baudrillard, “la simulación 
+ya no es la de un territorio, es decir un ser o sustancia referencial. Es la generación, por 
+medio de modelos, de algo real sin origen ni realidad: lo hiperreal. El territorio ya no 
+antecede al mapa ni lo sobrevive. De ahora en más, es el mapa el que precede al 
+territorio – la precedencia de los simulacros – y es el mapa el que engendra el territorio” 
+(Poster 166). Al desentrañar las principales ideas de Baudrillard en torno a la 
+simulación, Poster explica que ella se opone a la representación en la medida que la 
+representación se apoya en el principio de que el signo y lo real son equivalentes. Por el 
+contrario, la simulación parte de este principio de equivalencia como utopía y de la 
+radical negación del signo como valor, o “del signo como reversión y como sentencia de 
+muerte de cada referencia” (Poster, The divine irreference of images). En las cuatro 
+sucesivas fases de la transformación de la imagen en el sistema de Baudrillard, la 
+imagen es primeramente la reflexión de una realidad básica; luego la imagen enmascara 
+y pervierte una realidad básica; de manera subsiguiente, la imagen encubre la ausencia 
+de una realidad básica y, por último, se desliga de cualquier relación con toda realidad: 
+la imagen es su propio y puro simulacro (Poster, The divine irreference of images). Esto 
+lleva a Baudrillard a concluir que “mientras la representación trata de absorber a la 
+simulación interpretándola como falsa representación, la simulación actúa como una 
+envolvente del edificio entero de la representación y la concibe como un simulacro en sí 
+misma” (Poster, The divine irreference of images). 
+En la novela bajo escrutinio, dos de los sobrevivientes que comparten el refugio 
+ofrecido por George – Tom y Jules – deciden que es necesario algún cambio en la 
+meseta de oscura claustrofobia autoimpuesta y que deben avanzar de alguna manera ya 
+que, de lo contrario, sus vidas se reducen a “esperar noticias en un mundo donde ya no 
+hay más noticias” (BB 61). A pesar de la advertencia de que el mundo exterior ya no es 
+un distrito residencial, sino el “caos mismo” (BB 61), Tom y Jules deciden aventurarse a 
+ciegas por el barrio en busca de víveres o algún otro elemento que les permita agudizar 
+su ingenio. Los personajes se desplazan como hombres ciegos, muñidos de escobas que 
+funcionan como bastones para identificar obstáculos e irregularidades en el terreno, 
+cuentan sus pasos y los minutos transcurridos, y clavan estacas en el césped para marcar 
+su itinerario y regresar a salvo. Más allá de la estrategia pragmática empleada para 
+navegar por el barrio sin caer en una marcha a la deriva, el modo en el que parecen 
+conocer su barrio por primera vez a través de su inusual recorrido con vendas en los 
+ojos representa el intento de rescatar la referencialidad, la primera realidad representable 
+por la imagen antes de la propia muerte de la realidad. Dicho de otro modo, los 
+personajes dramatizan y recorren el camino inverso del proceso por el cual el mapa 
+toma precedencia por sobre el territorio. Demuestran el esfuerzo de reconocer el 
+territorio físico y real como antecesor de toda cartografía representativa de cualquier 
+itinerario en el camino.  
+Al decir de Baudrillard, la simulación comienza con la “licuefacción de todos los 
+referentes” (Poster, Simulacra and Simulations). Cuando Malorie debe salir 
+ocasionalmente de la casa y recorrer la distancia hasta la caja de pájaros, siente que es 
+como “flotar en el espacio exterior. Sin ancla […] imposiblemente lejos del suelo” (BB 
+100). Y aunque Tom, al pisar por primera vez el césped a ciegas, siente que la casa se 
+Revista de Culturas y Literaturas Comparadas, volumen 10, diciembre 2020.  
+ha esfumado y él se autopercibe tan vulnerable como si fuera engullido por la 
+inmensidad del mar (BB 74), pronto encuentra puntos de referencia, como esquinas y 
+cordones y aprende a estaquear sus pasos. Retraza, así, la realidad del terrero. La 
+imagen de Tom nos remite a la posibilidad de recuperación de la referencialidad una vez 
+que se instaló en sus vidas la desorientación caótica. 
+En el estado de esquizofrenia, es decir, la etapa de sobreexposición y 
+transparencia en el que el mundo atraviesa sin obstáculos al sujeto humano, según 
+Baudrillard, el individuo no puede ni actuar en un escenario, ni representarse a sí mismo 
+ni erigirse como espejo. Es ahora “solo una mera pantalla, un conmutador para todas las 
+redes de influencias” (Ecstasy, 133). En esta percepción de una nueva “superficie 
+incapaz de reflejar, una superficie inmanente donde simplemente se desenvuelven las 
+operaciones” de la comunicación (127), adquieren una singular ubicuidad las formas 
+rectangulares de las pantallas. En este sentido, proliferan en el texto literario las 
+referencias a las alter-pantallas, que son las ventanas de las viviendas, tapadas por 
+“cartones y maderas” (BB 6), y “cubiertas con suficientes frazadas de modo tal que aun 
+en su cenit, el sol no logra hacer penetrar su luz” (BB 7). Cuando el gobierno declara el 
+toque de queda, la principal medida precautoria para los ciudadanos es “trabar las 
+puertas y sellar las ventanas” (BB 19) y, cuando Malorie huye de su hogar pues su 
+hermana ha sido víctima de un incidente y muere por su propia mano en una sangrienta 
+escena de autoinmolación, Malorie reconoce entre las primeras señales de un paisaje 
+posapocalíptico las ventanas cubiertas con mantas o selladas con tablones de madera 
+(BB 170). En momentos de zozobra por la presencia de ruidos exteriores, los 
+sobrevivientes de la casa no solo cubren las ventanas, sino que utilizan los sillones y las 
+sillas del living para construir barricadas detrás de ellas (BB 50). Poco después de su 
+parto, Malorie sale en busca de víveres en un auto recubierto por materiales blandos 
+para evitar el daño ante una posible colisión durante su derrotero. No resulta 
+sorprendente que, antes de salir a conducir a ciegas, Malorie pinta el parabrisas de negro 
+con una densa pintura que encuentra en el sótano (BB 109). Cuando finalmente la 
+protagonista toma conocimiento sobre la existencia de la colonia de sobrevivientes, su 
+líder Rick explica que se trata de un lugar “autosuficiente”, con agua corriente, pero “sin 
+ventanas” (BB 153). 
+Así, es válido especular con que las condiciones distópicas en el universo de la 
+novela haya sido el tiempo de total dominación de la única metanarrativa imperante de 
+la hiperrealidad y la reificación de los seres humanos. Una vez que se produce la 
+detonación del cataclismo, las condiciones posapocalípticas señalan la principal pérdida, 
+que es la capacidad para navegar la realidad con libertad por parte de individuos que 
+pueden reconocerse a sí mismos como individuos con sus propios límites y separables 
+de la otredad. Los seres humanos se disgregan en micronarrativas aisladas. El texto 
+lamenta esta pérdida y propone la posibilidad de iniciar su recuperación en una supuesta 
+comunidad utópica germinal, pero lo hace, sin embargo, con ambivalente confianza. 
+ 
+Conclusiones 
+BB responde principalmente al género de terror, por su uso de convenciones 
+narrativas y sus persistentes guiños a Stephen King – hecho que, incidentalmente, en 
+parte le aseguró una pronta adaptación cinematográfica lanzada bajo el título de A 
+Ciegas (2018) y protagonizada por Sandra Bullock. Por otro lado, y sin interponer 
+reparos a una interpretación genérica de la novela, el nicho vacío abierto por las 
+crípticas referencias al “problema” otorga una licencia generosa para especular sobre las 
+Ma. Marcela González de Gatti “Navegando la ruina globalizada a ciegas…” 
+condiciones de la vida contemporánea que amenazan la permanencia de ciertos atributos 
+y valores. Entre los principales se encuentran la posibilidad y la capacidad para 
+comprender la realidad, para avistarla y descifrarla a través de la nebulosidad de las 
+operaciones sígnicas hiperreales, especialmente cuando estas caen bajo monopolios 
+tecnológicos corporativos que responden a poderosos intereses económicos y políticos. 
+Sin embargo, es justo aclarar que el texto literario no les achaca perversiones 
+desmedidas a grupos externos de poder, sino que fustiga la propia falta de diligencia de 
+cada individuo ante la implacabilidad de la simulación. Tal como advierte Dan, otro 
+sobreviviente que comparte la casa:  
+ 
+Eventualmente [las criaturas] llegarán a nosotros. […] Son los tiempos del fin, 
+compañeros. Y si se trata de una criatura que nuestros cerebros son incapaces de 
+comprender, entonces nos merecemos esto. Siempre asumí que el final vendría por 
+nuestra propia estupidez” (BB 67, resaltado propio).  
+ 
+ 
+Aquello que somos incapaces de comprender – o valorar al punto de dejar que se 
+pierda – es simplemente la verdad, la realidad, más allá de toda construcción retórica o 
+verbal, más allá de todo simulacro publicitario, más allá de toda desfiguración 
+lingüística. El mundo real es colorido; el mundo en el que los sobrevivientes buscan 
+refugiarse es oscuro y monocromático –la macronarrativa uniformante de la 
+construcción distópica. Es precisamente por esto que Malorie comienza a dudar sobre el 
+final respecto del verdadero objeto de su temor. Al aproximarse el momento en que 
+tendrá que abrir sus ojos, se interroga a sí misma:  
+ 
+¿De qué está más asustada? ¿De la posibilidad de que una criatura se encuentre justo en 
+su línea de visión? ¿O de la insondable paleta de colores que explotará ante ella cuando 
+abra sus ojos? 
+¿Cómo se ve el mundo? ¿Lo reconocerás? 
+¿Es gris? ¿Se han vuelto locos los árboles? ¿Las flores, los juncos, el cielo? ¿Es que el 
+mundo entero se ha vuelto desquiciado? ¿Combate contra sí mismo? ¿La Tierra refuta 
+sus propios océanos? Se levanta el viento. ¿Habrá visto algo? ¿También se ha vuelto 
+loco?  
+(…) Aun en este mundo más nuevo, aquí en el río, a medida que el viento empieza a 
+aullar, el agua fría salpica sobre sus jeans, animales salvajes merodean en las orillas, 
+donde su cuerpo está quebrantado, su mente permanece cautiva de los grises. (BB 86, 
+resaltado del autor)  
+ 
+A pesar de la rápida reducción de este texto posapocalíptico operada por la 
+transducción fílmica, que convierte su final en un cierre almibarado de resurrección 
+plena, el texto literario no ofrece un panorama inequívocamente alentador. Es verdad 
+que Malorie encuentra una comunidad en ciernes, que puede garantizar necesidades 
+básicas como la vivienda, la alimentación, las vestimentas y el cuidado de la salud. No 
+obstante, el monótono zumbido de máquinas precarias y las señales de una vida 
+comunitaria altamente regimentada donde figuran, a la vista de todos, las tareas 
+prescriptas para cada miembro de la comunidad en materia de tareas de labranza, 
+purificación del agua y controles médicos, hacen pensar en una sociedad sin aparente 
+violencia, pero carente de libertades. La seguridad ante la violencia que azotaba el 
+mundo distópico está dada por metodologías no menos violentas como la extirpación de 
+los órganos visuales. Si bien los “deslices” en la seguridad han cesado a partir de la 
+Revista de Culturas y Literaturas Comparadas, volumen 10, diciembre 2020.  
+ceguera punitiva en algunos miembros de la comunidad, subsiste la curiosidad sobre su 
+futura permanencia. Así, el texto redondea una visión ustópica ambigua que coquetea 
+con la posibilidad de una humanidad capaz de resurgir de sus cenizas mientras 
+simultáneamente proyecta sombras de acechanzas indecibles. Que Malorie se sienta 
+menos sola, más segura, no tan perdida, o que comience a ver la casa y el río como “dos 
+espacios míticos” (BB 162) no es garantía de certezas existenciales. Su fe positiva, 
+empero, es genuina y alentadora. 
+La especulación continúa por parte del lector, pues, desde un préstamo de 
+palabras de Atwood y su extrapolación, podríamos concluir que “cuando las ustopías 
+mueren, no van al cielo, sino que se convierten en temas de tesis” y que, para fortuna de 
+la especie humana, tenemos “demasiadas esperanzas” y, entonces, el pensamiento 
+utópico nunca desaparece por completo: “Puede que, para la humanidad, Bueno siempre 
+tenga un gemelo Malo, pero también tiene otro gemelo que es Mejor” (Atwood s/d). 
+ 
+Bibliografía 
+Atwood, Margaret. Margaret Atwood: the Road to Ustopia. The Guardian online. Web. 
+12 marzo 2020.  
+Baudrillard, Jean. Simulacra and Simulations. Jean Baudrillard, Selected Writings. Ed. 
+Mark Poster. Stanford: Stanford University Press, 1988. 166-184.  
+---. The Ecstasy of Communication. Ed. Hal Foster. The anti-aesthetic. Essays on 
+Postmodern Culture. Seattle: Bay Press, 1983. 126-134. 
+ Berger, James. Representations of Post-Apocalypse. Minneapolis: University of 
+Minnesota Press, 1999. 
+Hicks, Heather J. The Post-Apocalyptic Novel in the Twenty-First Century. Modernity 
+Beyond Salvage. New York: Palgrave Macmillan, 2016. 
+Kellner, Douglas. Jean Baudrillard. Ed. Edward N. Zalta. The Stanford Encyclopedia of 
+Philosophy Online. Web. 12 marzo 2020. 
+Malerman, Josh. Bird Box. United Kingdom: Harper Voyager, 2014. 
+Newland, Martin. Josh Malerman’s Bird Box presents a new take on unseen terror. The 
+National. “Arts and Culture”. Web. 14 marzo 2020.  
+Poster, Mark, ed. Jean Baudrillard. Selected Writings. Stanford: Stanford University 
+Press, 1988. 
+ 
+ 
+ 
+Fecha de recepción: 20/03/2020 
+Fecha de aceptación: 30/09/2020  
+ 
